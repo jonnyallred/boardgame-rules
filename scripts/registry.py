@@ -1,0 +1,51 @@
+"""Game registry management -- reads/writes games.yaml."""
+
+from __future__ import annotations
+
+import yaml
+
+DEFAULT_REGISTRY = "games.yaml"
+
+
+def load_registry(path: str = DEFAULT_REGISTRY) -> list[dict]:
+    """Load games list from registry YAML file."""
+    with open(path) as f:
+        data = yaml.safe_load(f)
+    return data.get("games", []) or []
+
+
+def save_registry(path: str, games: list[dict]) -> None:
+    """Write games list back to registry YAML file."""
+    with open(path, "w") as f:
+        yaml.dump({"games": games}, f, default_flow_style=False, sort_keys=False)
+
+
+def find_game(path: str, name: str) -> dict | None:
+    """Find a game by name (case-insensitive)."""
+    games = load_registry(path)
+    for game in games:
+        if game["name"].lower() == name.lower():
+            return game
+    return None
+
+
+def add_game(path: str, *, name: str, bgg_id: int, **extra) -> dict:
+    """Add a game to the registry. Skips if already exists (by bgg_id)."""
+    games = load_registry(path)
+    for game in games:
+        if game["bgg_id"] == bgg_id:
+            return game
+    entry = {"name": name, "bgg_id": bgg_id, "status": "pending", **extra}
+    games.append(entry)
+    save_registry(path, games)
+    return entry
+
+
+def update_status(path: str, name: str, status: str) -> None:
+    """Update a game's pipeline status."""
+    games = load_registry(path)
+    for game in games:
+        if game["name"].lower() == name.lower():
+            game["status"] = status
+            break
+    save_registry(path, games)
