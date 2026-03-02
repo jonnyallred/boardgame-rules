@@ -3,7 +3,8 @@
 
 Usage:
     python -m scripts.find_rulebook "Catan"
-    python -m scripts.find_rulebook "Catan" --registry games.yaml
+    python -m scripts.find_rulebook "Catan" --select 4
+    python -m scripts.find_rulebook "Catan" --bgg-id 13
 """
 
 import argparse
@@ -45,6 +46,8 @@ def download_pdf(url: str, dest: str) -> bool:
 def main():
     parser = argparse.ArgumentParser(description="Find and download boardgame rulebook PDFs from BGG")
     parser.add_argument("game_name", help="Name of the boardgame to search for")
+    parser.add_argument("--select", type=int, default=None, help="Auto-select search result by index")
+    parser.add_argument("--bgg-id", type=int, default=None, help="Skip search, use this BGG ID directly")
     parser.add_argument("--registry", default="games.yaml", help="Path to games.yaml registry")
     parser.add_argument("--pdf-dir", default=PDF_DIR, help="Directory to save PDFs")
     args = parser.parse_args()
@@ -61,31 +64,38 @@ def main():
         print(f"'{args.game_name}' already in registry with status: {existing['status']}")
         return
 
-    # Search BGG
-    print(f"Searching BGG for '{args.game_name}'...")
-    results = search_game(args.game_name, token=token)
-
-    if not results:
-        print("No results found.")
-        sys.exit(1)
-
-    # Show results and let user pick
-    print(f"\nFound {len(results)} results:")
-    for i, r in enumerate(results[:10]):
-        year = f" ({r['year']})" if r.get("year") else ""
-        print(f"  [{i}] {r['name']}{year} (BGG ID: {r['id']})")
-
-    if len(results) == 1:
-        choice = 0
+    # Get BGG ID — either directly, from search, or interactively
+    if args.bgg_id:
+        bgg_id = args.bgg_id
+        print(f"Using BGG ID {bgg_id} directly...")
     else:
-        try:
-            choice = int(input("\nSelect game number [0]: ") or "0")
-        except (ValueError, EOFError):
-            choice = 0
+        print(f"Searching BGG for '{args.game_name}'...")
+        results = search_game(args.game_name, token=token)
 
-    selected = results[choice]
-    print(f"\nFetching details for '{selected['name']}'...")
-    details = get_game_details(selected["id"], token=token)
+        if not results:
+            print("No results found.")
+            sys.exit(1)
+
+        print(f"\nFound {len(results)} results:")
+        for i, r in enumerate(results[:10]):
+            year = f" ({r['year']})" if r.get("year") else ""
+            print(f"  [{i}] {r['name']}{year} (BGG ID: {r['id']})")
+
+        if args.select is not None:
+            choice = args.select
+        elif len(results) == 1:
+            choice = 0
+        else:
+            try:
+                choice = int(input("\nSelect game number [0]: ") or "0")
+            except (ValueError, EOFError):
+                choice = 0
+
+        bgg_id = results[choice]["id"]
+        print(f"\nSelected: {results[choice]['name']} (BGG ID: {bgg_id})")
+
+    print(f"Fetching details...")
+    details = get_game_details(bgg_id, token=token)
 
     # Add to registry
     add_game(

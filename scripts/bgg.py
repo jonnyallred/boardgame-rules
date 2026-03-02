@@ -54,6 +54,9 @@ def parse_game_details(xml_text: str) -> dict:
     root = ET.fromstring(xml_text)
     item = root.find("item")
 
+    if item is None:
+        raise ValueError(f"No item found in BGG response. Raw XML: {xml_text[:200]}")
+
     name = ""
     for name_el in item.findall("name"):
         if name_el.get("type") == "primary":
