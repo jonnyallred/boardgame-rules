@@ -1,6 +1,7 @@
 ---
 allowed-tools: Read, Grep, Glob, Edit, Write, WebSearch, Bash
 description: Look up boardgame rules and answer questions. Usage: /rules <game>: <question>
+model: haiku
 ---
 
 # Rules Lookup
