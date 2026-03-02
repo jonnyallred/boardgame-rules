@@ -1,3 +1,7 @@
-# Boardgame Rules Registry
-# Status: pending | downloaded | extracted | summarized
-games: []
+games:
+- name: Catan
+  bgg_id: 13
+  status: summarized
+  player_count: 3-4
+  play_time: 60-120 min
+  designer: Klaus Teuber
