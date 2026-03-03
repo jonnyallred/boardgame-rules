@@ -5,3 +5,39 @@ games:
   player_count: 3-4
   play_time: 60-120 min
   designer: Klaus Teuber
+- name: Nemesis
+  bgg_id: 167355
+  status: extracted
+  player_count: 1-5
+  play_time: 90-180 min
+  designer: "Adam Kwapi\u0144ski"
+- name: Hansa Teutonica
+  bgg_id: 43015
+  status: extracted
+  player_count: 2-5
+  play_time: 45-90 min
+  designer: Andreas Steding
+- name: QE
+  bgg_id: 266830
+  status: extracted
+  player_count: 3-5
+  play_time: 45-45 min
+  designer: Gavin Birnbaum
+- name: Arcs
+  bgg_id: 359871
+  status: summarized
+  player_count: 2-4
+  play_time: 60-120 min
+  designer: Cole Wehrle
+- name: Cryptid
+  bgg_id: 246784
+  status: extracted
+  player_count: 3-5
+  play_time: 30-50 min
+  designer: Hal Duncan, Ruth Veevers
+- name: Concordia
+  bgg_id: 124361
+  status: summarized
+  player_count: 2-5
+  play_time: 100 min
+  designer: Mac Gerdts
