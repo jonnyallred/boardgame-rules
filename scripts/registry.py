@@ -49,3 +49,22 @@ def update_status(path: str, name: str, status: str) -> None:
             game["status"] = status
             break
     save_registry(path, games)
+
+
+def update_game(path: str, name: str, **fields) -> None:
+    """Update arbitrary fields on a game entry (case-insensitive name match)."""
+    games = load_registry(path)
+    for game in games:
+        if game["name"].lower() == name.lower():
+            game.update(fields)
+            break
+    save_registry(path, games)
+
+
+def get_games_by_status(path: str, status: str, limit: int = 0) -> list[dict]:
+    """Return all games with a given status. Optional limit (0 = no limit)."""
+    games = load_registry(path)
+    matched = [g for g in games if g.get("status") == status]
+    if limit > 0:
+        return matched[:limit]
+    return matched

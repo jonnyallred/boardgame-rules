@@ -1,6 +1,6 @@
 import pytest
 import yaml
-from scripts.registry import load_registry, save_registry, find_game, add_game, update_status
+from scripts.registry import load_registry, save_registry, find_game, add_game, update_status, update_game, get_games_by_status
 
 @pytest.fixture
 def registry_path(tmp_path):
@@ -62,3 +62,38 @@ def test_save_registry(registry_path):
     save_registry(registry_path, games)
     loaded = load_registry(registry_path)
     assert loaded == games
+
+
+def test_update_game_field(registry_path):
+    add_game(registry_path, name="Catan", bgg_id=13)
+    update_game(registry_path, "Catan", pdf_url="https://example.com/catan.pdf")
+    game = find_game(registry_path, "Catan")
+    assert game["pdf_url"] == "https://example.com/catan.pdf"
+
+
+def test_update_game_field_preserves_existing(registry_path):
+    add_game(registry_path, name="Catan", bgg_id=13, player_count="3-4")
+    update_game(registry_path, "Catan", notes="Found on 1j1ju")
+    game = find_game(registry_path, "Catan")
+    assert game["player_count"] == "3-4"
+    assert game["notes"] == "Found on 1j1ju"
+
+
+def test_get_games_by_status(registry_path):
+    add_game(registry_path, name="Catan", bgg_id=13)
+    add_game(registry_path, name="Agricola", bgg_id=31260)
+    update_status(registry_path, "Catan", "queued")
+    update_status(registry_path, "Agricola", "queued")
+    add_game(registry_path, name="Wingspan", bgg_id=266192)
+    update_status(registry_path, "Wingspan", "found")
+    result = get_games_by_status(registry_path, "queued")
+    assert len(result) == 2
+    assert all(g["status"] == "queued" for g in result)
+
+
+def test_get_games_by_status_with_limit(registry_path):
+    for i in range(10):
+        add_game(registry_path, name=f"Game{i}", bgg_id=i)
+        update_status(registry_path, f"Game{i}", "queued")
+    result = get_games_by_status(registry_path, "queued", limit=5)
+    assert len(result) == 5
