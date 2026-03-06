@@ -1,0 +1,115 @@
+import pytest
+import yaml
+from pathlib import Path
+from scripts.import_games import import_from_database, build_bgg_lookup
+from scripts.registry import load_registry
+
+
+@pytest.fixture
+def registry_path(tmp_path):
+    path = tmp_path / "games.yaml"
+    path.write_text("games: []\n")
+    return str(path)
+
+
+@pytest.fixture
+def mock_db(tmp_path):
+    """Create a mock boardgame-database games/ directory."""
+    games_dir = tmp_path / "games"
+    games_dir.mkdir()
+
+    game1 = {
+        "id": "agricola",
+        "name": "Agricola",
+        "year": 2007,
+        "designer": ["Uwe Rosenberg"],
+        "publisher": ["Lookout Games"],
+        "possible_counts": [1, 2, 3, 4, 5],
+        "playtime_minutes": 120,
+        "min_playtime": 30,
+        "max_playtime": 150,
+    }
+    (games_dir / "agricola.yaml").write_text(yaml.dump(game1))
+
+    game2 = {
+        "id": "catan",
+        "name": "Catan",
+        "year": 1995,
+        "designer": ["Klaus Teuber"],
+        "publisher": ["KOSMOS"],
+        "possible_counts": [3, 4],
+        "playtime_minutes": 90,
+        "min_playtime": 60,
+        "max_playtime": 120,
+    }
+    (games_dir / "catan.yaml").write_text(yaml.dump(game2))
+
+    return str(games_dir)
+
+
+@pytest.fixture
+def mock_master_csv(tmp_path):
+    """Create a mock master_list.csv with bgg_ids."""
+    csv_path = tmp_path / "master_list.csv"
+    csv_path.write_text(
+        "bgg_id,name,year,type,status,notes,yaml_id\n"
+        "31260,Agricola,2007,boardgame,,,\n"
+        "13,Catan,1995,boardgame,,,\n"
+        ",Unknown Game,,boardgame,,,\n"
+    )
+    return str(csv_path)
+
+
+def test_build_bgg_lookup(mock_master_csv):
+    lookup = build_bgg_lookup(mock_master_csv)
+    assert lookup["agricola"] == 31260
+    assert lookup["catan"] == 13
+
+
+def test_import_from_database(registry_path, mock_db, mock_master_csv):
+    stats = import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    assert len(reg) == 2
+    assert stats["imported"] == 2
+
+
+def test_import_sets_queued_status(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    assert all(g["status"] == "queued" for g in reg)
+
+
+def test_import_includes_bgg_id(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    agricola = next(g for g in reg if g["name"] == "Agricola")
+    assert agricola["bgg_id"] == 31260
+
+
+def test_import_formats_player_count(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    agricola = next(g for g in reg if g["name"] == "Agricola")
+    assert agricola["player_count"] == "1-5"
+
+
+def test_import_formats_play_time(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    agricola = next(g for g in reg if g["name"] == "Agricola")
+    assert agricola["play_time"] == "30-150 min"
+
+
+def test_import_skips_existing(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    stats = import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    assert len(reg) == 2
+    assert stats["skipped"] >= 2
+
+
+def test_import_with_limit(registry_path, mock_db, mock_master_csv):
+    stats = import_from_database(mock_db, registry_path, mock_master_csv, limit=1)
+    reg = load_registry(registry_path)
+    assert len(reg) == 1
+    assert stats["imported"] == 1
