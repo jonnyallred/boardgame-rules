@@ -113,3 +113,48 @@ def test_import_with_limit(registry_path, mock_db, mock_master_csv):
     reg = load_registry(registry_path)
     assert len(reg) == 1
     assert stats["imported"] == 1
+
+
+def test_build_bgg_lookup_uses_yaml_id(tmp_path):
+    """When yaml_id is present in a CSV row, it should be used as the lookup key
+    instead of the slugified name."""
+    csv_path = tmp_path / "master_list.csv"
+    csv_path.write_text(
+        "bgg_id,name,year,type,status,notes,yaml_id\n"
+        "174430,Gloomhaven,2017,boardgame,,,gloomhaven-2nd-ed\n"
+    )
+    lookup = build_bgg_lookup(str(csv_path))
+    # The yaml_id key should be used, not the slugified name
+    assert "gloomhaven-2nd-ed" in lookup
+    assert lookup["gloomhaven-2nd-ed"] == 174430
+    # The slugified name should NOT be present as a key
+    assert "gloomhaven" not in lookup
+
+
+def test_import_formats_designer(registry_path, mock_db, mock_master_csv):
+    import_from_database(mock_db, registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    agricola = next(g for g in reg if g["name"] == "Agricola")
+    assert agricola["designer"] == "Uwe Rosenberg"
+
+
+def test_import_formats_designer_multiple(tmp_path, registry_path, mock_master_csv):
+    """Designer list with multiple entries should be comma-joined."""
+    games_dir = tmp_path / "games"
+    games_dir.mkdir()
+    game = {
+        "id": "agricola",
+        "name": "Agricola",
+        "year": 2007,
+        "designer": ["Uwe Rosenberg", "Someone Else"],
+        "publisher": ["Lookout Games"],
+        "possible_counts": [1, 2, 3, 4, 5],
+        "playtime_minutes": 120,
+        "min_playtime": 30,
+        "max_playtime": 150,
+    }
+    (games_dir / "agricola.yaml").write_text(yaml.dump(game))
+    import_from_database(str(games_dir), registry_path, mock_master_csv)
+    reg = load_registry(registry_path)
+    agricola = next(g for g in reg if g["name"] == "Agricola")
+    assert agricola["designer"] == "Uwe Rosenberg, Someone Else"
