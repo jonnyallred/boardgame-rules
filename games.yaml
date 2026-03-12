@@ -41,3 +41,63 @@ games:
   player_count: 2-5
   play_time: 100 min
   designer: Mac Gerdts
+- name: Ready Set Bet
+  bgg_id: 351040
+  status: extracted
+  player_count: 2-9
+  play_time: 45-60 min
+  designer: John D. Clair
+- name: Blood on the Clocktower
+  bgg_id: 240980
+  status: extracted
+  player_count: 5-20
+  play_time: 30-120 min
+  designer: Steven Medway
+- name: Splendor
+  bgg_id: 148228
+  status: extracted
+  player_count: 2-4
+  play_time: 30 min
+  designer: Marc Andre
+- name: Rhino Hero
+  bgg_id: 91514
+  status: extracted
+  player_count: 2-5
+  play_time: 5-15 min
+  designer: Scott Frisco, Steven Strumpf
+- name: 'Star Wars: The Deckbuilding Game'
+  bgg_id: 374173
+  status: extracted
+  player_count: 2
+  play_time: 30 min
+  designer: Caleb Grace
+- name: 7 Wonders
+  bgg_id: 68448
+  status: extracted
+  player_count: 3-7
+  play_time: 30 min
+  designer: Antoine Bauza
+- name: Ark Nova
+  bgg_id: 342942
+  status: extracted
+  player_count: 1-4
+  play_time: 90-150 min
+  designer: Mathias Wigge
+- name: 'Pax Pamir: Second Edition'
+  bgg_id: 256960
+  status: extracted
+  player_count: 1-5
+  play_time: 45-120 min
+  designer: Cole Wehrle
+- name: Chinatown
+  bgg_id: 6719
+  status: extracted
+  player_count: 2-5
+  play_time: 60-90 min
+  designer: Karsten Hartwig
+- name: Architects of the West Kingdom
+  bgg_id: 236457
+  status: extracted
+  player_count: 1-5
+  play_time: 60-80 min
+  designer: S J Macdonald, Shem Phillips
