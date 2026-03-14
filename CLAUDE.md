@@ -6,6 +6,8 @@
 - `extracted/` — raw extracted text from PDFs
 - `rules/` — final structured markdown files with YAML frontmatter
 - `scripts/` — Python pipeline tools
+- `index.md` — GitHub Pages landing page (game list + usage instructions)
+- `_config.yml` — Jekyll config for GitHub Pages
 
 ## Pipeline
 
@@ -17,7 +19,8 @@
 - [ ] If extracted text has gaps or garbled tables, render the PDF pages to images for visual inspection: `python -c "import fitz; doc=fitz.open('source_pdfs/<slug>-rules.pdf'); [doc[i].get_pixmap(matrix=fitz.Matrix(2,2)).save(f'/tmp/<slug>-p{i+1}.png') for i in range(len(doc))]"` then use the Read tool on the resulting PNGs to read tables and diagrams directly.
 - [ ] Summarize interactively with Claude Code: read the extracted text, produce `rules/<slug>.md` following the template format. Precision over brevity — keep all edge cases and exact numbers.
 - [ ] Run `python -m scripts.validate` to check the rules file has all required frontmatter and sections.
-- [ ] Commit the extracted text, rules file, and updated `games.yaml`.
+- [ ] Add the new game to the table in `index.md` (alphabetical order) so it appears on the GitHub Pages site.
+- [ ] Commit the extracted text, rules file, updated `games.yaml`, and `index.md`.
 
 ### Batch Processing (Scalable Pipeline)
 
@@ -87,6 +90,9 @@ YAML frontmatter (title, bgg_id, player_count, play_time, designer, source_pdf, 
 source .venv/bin/activate
 python -m pytest tests/ -v
 ```
+
+## GitHub Pages Site
+The rules are published at `https://jonnyallred.github.io/boardgame-rules/`. GitHub Pages builds automatically from the `main` branch using Jekyll. The `_config.yml` excludes non-site directories (scripts, source_pdfs, extracted, tests, etc.). When adding a new game, update `index.md` with the new entry in alphabetical order.
 
 ## Requirements
 - Python 3.10+
