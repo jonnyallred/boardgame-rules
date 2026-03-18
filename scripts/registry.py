@@ -68,3 +68,20 @@ def get_games_by_status(path: str, status: str, limit: int = 0) -> list[dict]:
     if limit > 0:
         return matched[:limit]
     return matched
+
+
+def find_expansions(path: str, base_bgg_id: int) -> list[dict]:
+    """Return all expansions for a given base game BGG ID."""
+    games = load_registry(path)
+    return [g for g in games if g.get("base_game_bgg_id") == base_bgg_id]
+
+
+def find_base_game(path: str, bgg_id: int) -> dict | None:
+    """Given an expansion's bgg_id, find its base game entry."""
+    games = load_registry(path)
+    # First find the expansion to get its base_game_bgg_id
+    expansion = next((g for g in games if g["bgg_id"] == bgg_id), None)
+    if not expansion or "base_game_bgg_id" not in expansion:
+        return None
+    base_bgg_id = expansion["base_game_bgg_id"]
+    return next((g for g in games if g["bgg_id"] == base_bgg_id), None)

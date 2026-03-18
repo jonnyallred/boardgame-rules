@@ -29,6 +29,15 @@ EXPECTED_SECTIONS = [
     "Player Reference",
 ]
 
+EXPANSION_SECTIONS = [
+    "Overview",
+    "New Components",
+    "Setup Changes",
+    "Rule Changes",
+    "Special Rules & Edge Cases",
+    "Player Reference",
+]
+
 
 def validate_rules_file(path: str) -> list[str]:
     """Validate a rules markdown file. Returns list of error messages."""
@@ -53,9 +62,13 @@ def validate_rules_file(path: str) -> list[str]:
         if field not in frontmatter:
             errors.append(f"{filename}: Missing required frontmatter field: {field}")
 
+    # Choose section list based on whether this is an expansion
+    is_expansion = "base_game_bgg_id" in frontmatter
+    sections = EXPANSION_SECTIONS if is_expansion else EXPECTED_SECTIONS
+
     # Check sections
     body = content[fm_match.end():]
-    for section in EXPECTED_SECTIONS:
+    for section in sections:
         pattern = rf"^## {re.escape(section)}"
         if not re.search(pattern, body, re.MULTILINE):
             errors.append(f"{filename}: Missing section: {section}")
