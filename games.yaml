@@ -1,7 +1,7 @@
 games:
 - name: Catan
   bgg_id: 13
-  status: summarized
+  status: extracted
   player_count: 3-4
   play_time: 60-120 min
   designer: Klaus Teuber
@@ -101,3 +101,255 @@ games:
   player_count: 1-5
   play_time: 60-80 min
   designer: S J Macdonald, Shem Phillips
+- name: Hey, That's My Fish!
+  bgg_id: 8203
+  status: validated
+  player_count: 2-4
+  play_time: 20 min
+  designer: "G\xFCnter Cornett, Alvydas Jakeliunas"
+  pdf_url: https://cdn.svc.asmodee.net/production-nextmove/uploads/2024/05/EN-HTMF-Rulebook-lowres.pdf
+- name: The Quacks of Quedlinburg
+  bgg_id: 244521
+  status: validated
+  player_count: 2-4
+  play_time: 45 min
+  designer: Wolfgang Warsch
+  pdf_url: https://cdn.1j1ju.com/medias/ba/73/db-the-quacks-of-quedlinburg-rulebook.pdf
+- name: 'The Quacks of Quedlinburg: The Herb Witches'
+  bgg_id: 264521
+  base_game_bgg_id: 244521
+  status: validated
+  player_count: 2-5
+  play_time: 45 min
+  designer: Wolfgang Warsch
+- name: 'The Quacks of Quedlinburg: The Alchemists'
+  bgg_id: 297966
+  base_game_bgg_id: 244521
+  status: validated
+  player_count: 2-4
+  play_time: 45 min
+  designer: Wolfgang Warsch
+- name: Ticket to Ride
+  bgg_id: 9209
+  status: summarized
+- name: Azul
+  bgg_id: 230802
+  status: summarized
+- name: Pandemic
+  bgg_id: 30549
+  status: summarized
+- name: Watergate
+  bgg_id: 274364
+  status: summarized
+  notes: English rulebook PDF downloaded from cdn.1j1ju.com
+- name: '007'
+  bgg_id: 12751
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: 10 Days in Europe
+  bgg_id: 5867
+  status: summarized
+- name: 12 Realms
+  bgg_id: 68606
+  status: not_found
+  notes: No accessible English rulebook PDF found
+- name: 12 Thieves
+  bgg_id: 22278
+  status: summarized
+  notes: Rules sourced from web
+- name: '13 Days: The Cuban Missile Crisis'
+  bgg_id: 177590
+  status: summarized
+- name: 13 Dead End Drive
+  bgg_id: 1899
+  status: summarized
+  notes: Rules sourced from web
+- name: "1754: Conquest \u2013 The French and Indian War"
+  bgg_id: 206150
+  status: summarized
+- name: '1775: Rebellion'
+  bgg_id: 128996
+  status: summarized
+- name: '1776: The Game of the American Revolutionary War'
+  bgg_id: 3312
+  status: not_found
+  notes: No free direct PDF found
+- name: '1812: The Invasion of Canada'
+  bgg_id: 94246
+  status: summarized
+- name: '1829'
+  bgg_id: 1823
+  status: not_found
+  notes: No digital version available
+- name: '1830: The Game of Railroads and Robber Barons'
+  bgg_id: 421
+  status: summarized
+- name: '1835'
+  bgg_id: 422
+  status: not_found
+  notes: Only German rules exist
+- name: '1853'
+  bgg_id: 1493
+  status: not_found
+  notes: PDF blocked 403
+- name: '1856: Railroading in Upper Canada from 1856'
+  bgg_id: 423
+  status: not_found
+  notes: No free direct PDF found
+- name: 18CZ
+  bgg_id: 163841
+  status: not_found
+  notes: PDF blocked 403
+- name: '1914'
+  bgg_id: 4962
+  status: flagged
+  notes: Image-based scan, no text extractable
+- name: '1918: Brother Against Brother'
+  bgg_id: 234673
+  status: not_found
+  notes: No English rulebook PDF found
+- name: 1936 Guerra Civil
+  bgg_id: 27680
+  status: not_found
+  notes: Rules in zip format only
+- name: '1960: The Making of the President'
+  bgg_id: 27708
+  status: summarized
+- name: '1989: Dawn of Freedom'
+  bgg_id: 26997
+  status: summarized
+- name: 2 de Mayo
+  bgg_id: 36522
+  status: not_found
+  notes: PDF blocked 403
+- name: 20 Questions
+  bgg_id: 3377
+  status: summarized
+- name: '221B Baker Street: The Master Detective Game'
+  bgg_id: 1275
+  status: summarized
+  notes: Rules sourced from web
+- name: 3-6-9
+  bgg_id: 32597
+  status: summarized
+  notes: Rules sourced from web
+- name: 3 Chapters
+  bgg_id: 423517
+  status: not_found
+  notes: New game, no rulebook PDF found
+- name: 3-stones
+  bgg_id: 7834
+  status: not_found
+  notes: Out of print, no PDF found
+- name: 30 Seconds
+  bgg_id: 25213
+  status: summarized
+  notes: Rules sourced from web
+- name: 4000 A.D.
+  bgg_id: 1435
+  status: not_found
+  notes: PDF blocked 403
+- name: 4th Dimension
+  bgg_id: 675
+  status: not_found
+  notes: Out of print, no PDF found
+- name: 5 Seconds Rule
+  bgg_id: 86073
+  status: summarized
+- name: '51st State: Master Set'
+  bgg_id: 192458
+  status: summarized
+- name: '51st State: Ultimate Edition'
+  bgg_id: 357726
+  status: summarized
+- name: '5th Fleet: Modern Naval Combat in the Indian Ocean'
+  bgg_id: 4920
+  status: not_found
+  notes: Only paywalled copies found
+- name: 6 nimmt! Junior
+  bgg_id: 40958
+  status: summarized
+- name: 6-Tage Rennen
+  bgg_id: 515
+  status: not_found
+  notes: Obscure German promotional game
+- name: 7 Ages
+  bgg_id: 3870
+  status: summarized
+- name: '7 Wonders: Architects'
+  bgg_id: 346703
+  status: summarized
+- name: 8th Army
+  bgg_id: 7243
+  status: not_found
+  notes: No rulebook PDF available online
+- name: A Castle for All Seasons
+  bgg_id: 38386
+  status: summarized
+- name: A Column of Fire
+  bgg_id: 217949
+  status: summarized
+- name: A Distant Plain
+  bgg_id: 127518
+  status: summarized
+- name: A Feast for Odin
+  bgg_id: 177736
+  status: summarized
+- name: A Few Acres of Snow
+  bgg_id: 79828
+  status: summarized
+- name: "A Game of Thrones: Catan \u2013 Brotherhood of the Watch"
+  bgg_id: 229218
+  status: summarized
+- name: 'A Game of Thrones: The Board Game'
+  bgg_id: 6472
+  status: summarized
+- name: 'A Game of Thrones: The Card Game'
+  bgg_id: 39953
+  status: summarized
+- name: 'A Gleam of Bayonets: The Battle of Antietam'
+  bgg_id: 5476
+  status: not_found
+  notes: Only system intro PDF found
+- name: 'A House Divided: War Between the States 1861-65'
+  bgg_id: 701
+  status: summarized
+- name: A la Carte
+  bgg_id: 217
+  status: summarized
+- name: A Line in the Sand
+  bgg_id: 2061
+  status: not_found
+  notes: No rulebook PDF found
+- name: A Mighty Fortress
+  bgg_id: 2666
+  status: not_found
+  notes: No freely downloadable PDF found
+- name: A Study in Emerald
+  bgg_id: 141517
+  status: summarized
+- name: A to Z
+  bgg_id: 416
+  status: not_found
+  notes: No rulebook PDF found
+- name: A Trip To Mars
+  bgg_id: 99277
+  status: not_found
+  notes: No rulebook PDF found
+- name: A Victory Lost
+  bgg_id: 19622
+  status: not_found
+  notes: Publisher does not host rules publicly
+- name: A World at War
+  bgg_id: 7614
+  status: not_found
+  notes: Rules as HTML only, not PDF
+- name: Abalone
+  bgg_id: 526
+  status: summarized
+- name: Abande
+  bgg_id: 21324
+  status: summarized
+- name: ABBA Monopoly
+  bgg_id: 179687
+  status: summarized

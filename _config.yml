@@ -1,0 +1,40 @@
+title: Board Game Rules
+description: AI-friendly board game rules summaries — use with Claude, ChatGPT, or any AI assistant
+url: "https://jonnyallred.github.io"
+baseurl: "/boardgame-rules"
+
+theme: minima
+
+# Only process these directories
+include:
+  - rules
+
+# Exclude everything the site doesn't need
+exclude:
+  - scripts
+  - source_pdfs
+  - extracted
+  - tests
+  - docs
+  - requirements.txt
+  - .venv
+  - .env
+  - CLAUDE.md
+  - "*.py"
+  - __pycache__
+
+# Clean URLs: /rules/catan instead of /rules/catan.html
+permalink: pretty
+
+# Set default layout for rules files
+defaults:
+  - scope:
+      path: "rules"
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

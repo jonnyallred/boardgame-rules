@@ -1,0 +1,4222 @@
+Getting Started — If everyone is familiar with the rules, a game of 1830 
+should require 3 to 5 hours to play. If several players are playing for the 
+first time, the game runs somewhat longer. 
+ If you are unfamiliar with the 18XX game system and aren’t prepared to 
+jump into the deep end, you should play the starter game. This will allow 
+you to become familiar with the concepts of laying track and running 
+trains without the added complexity of a stock market. A starter game 
+requires about 60-90 minutes.
+RULES
+Designed by 
+Francis Tresham 
+Developed by 
+Bruce Shelley et al.
+18XX — 1830 is part of the “18XX” series 
+of railroad games, which use a common 
+set of rules and concepts. However, each 
+game has its own special features and 
+exceptions to the general rules. 
+Copyright © 2011 Mayfair Games, Inc. & Francis 
+Tresham. “1830” and the “18XX Plate” mark are 
+trademark properties of Francis Tresham. All 
+rights reserved.
+Welcome to 1830, the game of railroads and robber barons. 1830 is a 
+railroad game set in the northeastern United States and southeastern 
+Canada. You and your fellow players take on the roles of railroad 
+investors and corporate presidents, with the objective of making 
+money. You can do that by protecting assets under your control or by 
+plundering them, depending on your personal inclinations.
+In 1830, you accumulate wealth by buying, owning, and selling 
+shares of stock in a number of railroad corporations. Your stock 
+shares provide ready cash via dividend payments and longer-term 
+gains through possible increases in stock prices. If you are the single 
+largest stockholder in a corporation, you become its president and 
+control the operations of that railroad—ideally, but not necessarily, 
+for the benefit of all stockholders. 
+At the end of the day, you win only if you accumulate the most 
+wealth in cash and stock. So, sharpen your daggers as well as your 
+wits! If you don’t stab your opponents in the back and grind them 
+under your boot heels, they may be more than happy to do it to you. 
+Using These Rules
+1830 includes rules for a number of different versions of the game:
+a 1830 Starter Game (separate booklet) — In this shorter game 
+you do not buy and sell stock. You just operate the railroads: 
+laying track, building stations, and generating revenue. 
+a 1830 Base Game (or “1830◈,” pp. 7-24) — This is the full 
+game, but it does not use some of the more complex special 
+rules. Use this if you are a new player or for a shorter game.
+a 1830 Classic ( or “1830★,” pp. 25-27) — 1830 Classic uses 
+the 1830 Base Game rules with only a few special rules and 
+variants. These are noted in the sidebars for the Base Game. 
+These are the original 1830 game rules.
+a 1830 Variants (pages 28-33) — These rules detail various 
+elements of the game. They can be used in any combination 
+agreed on by the players before a game begins. 
+a 1830+ Scenarios (pages 34-43) — Each scenario details a set 
+of variant rules that can be used with the 
+ to play a 
+specific version of 1830+. 
+Overview.................................... 2
+Components............................. 4
+Base Game.................................... 7
+1.0 Preparing For Play................. 7
+2.0 Sequence of Play Summary.. 9
+3.0 The Phases.............................10
+4.0 Private Companies...............11
+5.0 The Stock Market................. 12
+6.0 Stock Rounds........................14
+7.0 Operating Rounds................16
+8.0 The End of the Game...........24
+1830 Classic...........................25
+C-1.0 Clarifications....................25
+C-2.0 Rules Changes & 
+Additions .............................25
+Variants....................................28
+1830+ Scenarios.....................34
+S-1.0 “A Level Playing Field”..................34
+S-2.0 “No One Expects the 
+Canadian Pacific”..........................37
+S-3.0 “The Empire Builders 
+Strike Back”....................................38
+S-4.0 “Opening up West, 
+By-God, Virginia”..........................39
+S-5.0 “Uncertain Times”.........................40
+S-6.0 “Dave? What are you doing...”.......42
+Appendix.............................. 44-48
+T-01 Track Tiles to Remove.....................45
+T-02 Board Tiles........................................45
+T-03 Trains.................................................45
+T-04 Script Manifest.................................45
+T-05 The Private Companies...................46
+T-06 Variable Due to # of Players...........46
+T-07 The Private Company......................46
+T-08 The Railroads....................................47
+T-09 Track Tile Manifest & Upgrades....48
+
+A – large city B – open, terrain cost $80
+C – small city, revenue of 10
+D – 2 large cities, private company
+E – large city, private company, 
+ track to SW & E, revenue of 30, 
+ B&O starting city
+The B&O railroad builds track A and 
+connects Baltimore B and Atlantic City C. 
+A 2-train can now run a route between the 
+two cities for revenue of $40 (30 + 10).
+Large 
+City
+Track Tiles
+ 
+ Old Tile #
+Value
+1830 
+Icon
+Small City
+1830 is a railroad investment and building game. You and the 
+other players are the stockholders of railroad corporations. Each 
+corporation is controlled by its leading stock holder—its president. 
+You expand your railroads and generate revenue by building track 
+on the map, buying trains, and operating those trains. 
+Investing and Controlling Railroads
+1830 uses a stock market. You and the other players buy and sell 
+shares in the railroad corporations. If you own the most shares in 
+a corporation, you are its president and control its operations. You 
+earn dividends if you own shares in flourishing corporations. If you 
+sell shares in a corporation, the value of the remaining shares in that 
+corporation drops. Like the real stock market, you try to buy shares 
+in corporations that are rising in value, earn dividends while you 
+can, and sell first when your money could be better used elsewhere. 
+Building and Operating Railroads
+A railroad corporation (or just railroad) builds by placing tiles 
+on the hexagonal grid that is superimposed on the map. Each tile 
+depicts segments of track and the cities that lie along that track. 
+Cities are represented by large or small circles or by black crossbars 
+on the tiles. The value of each city is printed in a small circle next to 
+the city. 
+A railroad also buys trains. Each train can run on the tracks to 
+service the cities that the track connect. A series of tracks and 
+cities that a train uses is called its route. A train can run a route if 
+the route connects at least 2 cities—at least one of the cites must 
+contain one of the railroad’s stations. A corporation earns money 
+based on the value of the cities on its trains’ routes. 
+Each non-diesel train has a number (2, 3, 4, etc)—the train’s type. 
+A train’s route can only run to or through a number of cities less 
+than or equal to the train’s type, e.g., the starting 2-trains can only 
+run between two cities. All trains of one type must be purchased 
+before the trains of the next type are available.
+Each time the first train of a new type is purchased, the game 
+enters a new phase. Each new phase changes one or more aspects of 
+the game, including the tiles that can be played and the number of 
+trains that can be owned by each corporation. Early trains become 
+obsolete and are removed in later phases.
+Play Sequence
+You play 1830 in a series of stock rounds and operating rounds. 
+In a stock round, you may buy and sell shares in the railroad 
+corporations. In an operating round, you “run” each of the railroads 
+you control (0, 1, or multiple). That is you lay track, run trains from 
+station to station, buy trains, etc. 
+Stock rounds alternate with one or more operating rounds. The 
+number of operating rounds between stock rounds increases as the 
+game proceeds. The game ends when the bank runs out of money, 
+and you win if you are the wealthiest player. Your wealth is the 
+combined total of your cash and the value of your stock portfolio. 
+Note — In these rules, “railroad 
+corporations” are also referred to as just 
+“corporations” and as just “railroads,” 
+depending upon the context. All three 
+terms are equivalent.
+
+Cost
+Revenue
+Private Company Certificates
+Type➘
+Cost➘
+Train Card
+ 
+# of shares
+ 
+% of shares
+Railroad Name
+Railroad Corporation 
+Certificates
+Railroad Corporation Logos
+The private companies in 1830 represent early railroads that 
+existed before the larger railroad corporations started up. Each 
+private company provides its owner a fixed revenue each operating 
+round. Its owner may be a player or a corporation. The location 
+of each of these companies is marked on the board with its name. 
+Unlike corporations, private companies do not build track on the 
+board or purchase trains. 
+Railroad Corporations
+There are 12 railroad corporations represented in the game. The 
+corporations are usually identified by their initial letters.
+All the corporations specified for a game or scenario are used 
+irrespective of the number of people in the game. This is achieved 
+by allowing players to buy shares in any of the corporations.
+Usually a player will have the chance to control (i.e., run) at least 
+one corporation. There are advantages to be gained from running 
+several corporations, but this should not be an objective in itself. 
+A minority interest in several well-run corporations can be more 
+profitable than a controlling block of shares in a relatively poorly-
+performing corporation. 
+Controlling a Railroad Corporation
+There are ten shares in each corporation that may be bought 
+and sold during the game. Therefore the proportions held by the 
+various players are likely to change as the game proceeds.
+Each corporation is controlled by a president who is the largest 
+(or tied for largest) shareholder in the corporation. The sale and 
+purchase of shares may lead to a change of president, but it is 
+necessary for the current president’s holding to be exceeded by a 
+rival player before this will happen. A president who holds at least 
+50% of the share in a corporation is safe from being unseated. For 
+each corporation, one of the share certificates is the president’s 
+certificate and is worth 2 shares. This certificate is always held by 
+the corporation’s current president—so the president must hold at 
+least 20% of the shares in the corporation.
+GAME ETIQUETTE
+Considerate players speed the play of the game and make the 
+experience more fun for everyone. In a game of this length, players 
+should plan their share purchases and company moves in advance 
+of their turns—whenever possible.
+The shares a player owns should be laid out in an orderly manner 
+so that everyone can easily see them. All players are allowed to 
+know how much money others have and what certificates they 
+own. The trains, tokens, and private companies a corporation has 
+should be displayed on the corporation charter for all to see. The 
+corporation treasury should be stacked on the charter in clear sight, 
+but the amount in the treasury need not be made public. Players 
+wanting clarification of any of this information should try to time 
+their requests so as to not interrupt another player’s turn.
+You have purchased a game of 
+the highest quality. However, 
+if you find any components 
+missing, please contact us for 
+replacement pieces at:
+custserv@mayfairgames.com
+
+This section describes the components used in 1830:
+ 	
+1	double-sided game board
+	 144	cards used as certificates and trains: 
+ (17 cards serve two purposes depending upon the side used)
+	
+10	private company certificates (on some train backs)
+	
+108	railroad corporation certificates (in 12 railroads)
+	
+37	train cards (in 7 types: 2s, 3s, 4s, 5s, 6s, 7s, and diesels)
+	
+5	variant train cards (2+2, 3+3, 4+4, 5+5, and 6+6)
+	
+1	priority deal card
+	 12	corporation charters
+	 180	bills (money: 1s, 5s, 10s, 20s, 50s, 100s, and 500s)
+	 155	tiles (hex-shaped): 139 track tiles 16 board tiles 
+	 35	tokens (circle-shaped): 
+ 34 station tokens and 1 misc. tokens
+ 40 	markers (square-shaped): 24 share markers, 2 round markers, 
+ 3 license markers, 5 uncertainty markers, 6 number markers
+The Game Board 
+The game board has the 1830 Classic map on one side and the 
+1830+ map on the other. Both sides show the northeastern United 
+States and southeastern Canada. The map is overlaid with a 
+hexagonal grid—you build your railroad tracks by placing hex tiles 
+on this grid. The map also depicts important geographical features: 
+cities, lakes, rivers, mountains, and the Atlantic Ocean. The starting 
+hex for each railroad is marked with that railroad’s logo.
+1830+ Board Tiles (hex-shaped)
+There are 16 board tiles that are used to modify the map for 
+various scenarios (see Table T-02, pp. 45).
+Private Company and Share Certificates 
+There are 10 private company certificates—one for each company. 
+There are ten shares in each of the 12 railroad corporations. 
+However, the president certificates and several other special 
+certificates each represents two shares. So there are only 8 or 9 
+actual certificates for each corporation. 
+Corporation Charters 
+Each railroad corporation has a Charter of Incorporation. It is 
+used to hold a corporation’s money, tokens, and trains. It also shows 
+information about that corporation. 
+Money
+The bank holds $12,000 total in 7 denominations. The amount of 
+money in the bank can be changed for shorter or longer games. 
+Railroad Corporation Tokens (circle-shaped)
+Each railroad corporation has 2-4 station tokens. 
+Markers (square-shaped)
+ There are a number of markers used in the game: an operating 
+ round marker, 12 par value markers, 12 share value markers, etc.
+Base Game — The 1830 Base 
+Game and 1830 Classic use the same 
+components.
+★ 1830 Classic — The JK, CC, PP, 
+and PL private companies are not 
+used. The PMQ, N&W, NKP, and 
+RDR railroads are not used.
+★ 1830 Classic — There are 25 
+station tokens and 16 share markers. 
+The PMQ, N&W, NKP, and RDR 
+tokens and markers are not used. 
+The token that used to mark a 
+railroad’s share value is replaced by a 
+marker in this version of 1830. 
+Note — The private company 
+certificates are on the backs of the 
+diesel trains and some of the 6-trains 
+and 7-trains. The purchase of a 5-train 
+retires the privates—then those trains 
+can be used. 
+Railroad 	
+1830 Abbr.
+Corporation	
+(AAR Abbr.)
+Pennsylvania . . . . . . . . . . . . PRR (PRR)
+New York Central . . . . . . . NYC (NYC)
+Canadian Pacific . . . . . . . . . . CPR (CP)
+Baltimore & Ohio . . . . . . . B&O (B&O)
+Chesapeake & Ohio . . . . C&O (C&O)
+Erie . . . . . . . . . . . . . . . . . . . . Erie (ERIE)
+New York, New Haven, 
+ & Hartford . . . . . . . . . . NNH (NH)
+Boston & Maine . . . . . . . . . B&M (BM)
+Norfolk & Western . . . . . . N&W (NW)
+Pere Marquette . . . . . . . . . . PMQ (PM)
+Nickel Plate . . . . . . . . . . . . NKP (NKP)
+Reading . . . . . . . . . . . . . . . RDR (RDG)
+Private 	
+1830 Abbr.
+Company	
+(AAR Abbr.)
+Schuylkill Valley . . . . . . . . . . . . . . . . SV
+Pittsburgh & Louisville . . . . . . PL (P&L)
+Champlain & St.Lawrence CS (C&StL)
+C&O Canal . . . . . . . . . . . . . . . . . . . . CC
+Potomac & Piedmont . . . . . . PP (P&P)
+Delaware & Hudson . . . . . DH (D&H)
+Mohawk & Hudson . . . . . MH (M&H)
+James River & Kanawha . . . . . . . . . . JK
+Camden & Amboy . . . . . . . CA (C&A)
+Baltimore & Ohio . . . . . . . . BO (B&O) 
+
+The 1830 Classic Side of the Game Board
+Each corporation places one 
+of its tokens on this grid to 
+track its share price.
+The Bank Pool
+Place certificates sold and 
+trains discarded here.
+The Operating Round Track
+Keep track of which operating 
+round it is here.
+The Par Value Track
+Keep track of the par value of 
+each corporation here.
+Money
+Board Tiles
+The Share Certificates
+Place the share certificates 
+here—one stack for each railroad, 
+with the president’s share on top.
+The top card on the train stack 
+at the right corresponds to the 
+next phase of the game.
+The Train Stack
+Stack the available 
+train cards; 2-trains on 
+top, 3-trains next, etc.
+Share Certificates
+Corporation Charters
+Tokens
+Priority Deal Card
+Markers
+
+Large 
+City
+Track Tile
+ 
+Value
+1830 
+Icon
+Price
+Type
+Track Tiles (hex-shaped)
+The game contains 139 track tiles in 4 colors: yellow, green, 
+brown, and gray. 
+The 1830 Classic tile set consists of 85 of those tiles. Both sides of 
+each of the 1830 Classic track tiles are the same in terms of game 
+effect. These are easily identified by the * on the front side of the 
+tile, and by the classic graphic style of track on the back. 
+The other 54 track tiles are expanded track tile set used for the 
+variants, special rules, and some of the 1830+ scenarios. The front 
+side of these tiles has the terrain, track, tile number, and stations; 
+while the back side has information detailing scenarios that use the 
+tile, upgrade information, the tile number, etc..
+Note — Each track tile is labeled with 
+1 or 2 letters and a number. If a tile has 
+only one upper case letter, the letter 
+corresponds to the base color of the tile: 
+A = yellow, B =green, C = brown, D = 
+gray. If a tile has two lower case letters, 
+it can only be placed on a specific hex or 
+set of hexes on the board (e.g., a “ny#” 
+tile may only be placed on the New 
+York City hex, a “oo” tile may only be 
+place on a hex labeled “OO.”
+★ 1830 Classic — There are 85 
+tiles. Use either side of the tiles, and 
+ignore the tiles without tracks/cities 
+on both sides.
+★ 1830 Classic — Only 26 trains 
+are used: 6x 2-trains, 5x 3-trains, 
+4x 4-trains, 3x 5-trains, 2x 6-trains, 
+and 6x diesels. 
+Front (#)	
+Back (#)
+diesels (7) . . . private companies (7)
+7-trains (2) . . private companies (2)
+6-trains (1) . . private companies (1)
+6-trains (3) . . . . . . . . . . . . 2-trains (3)
+5-trains (4) . . . . . . . . . . . . 2-trains (4)
+4-trains (7) . . . . . . . . . standard back
+3-trains (6) . . . . . . . . . standard back
+Variant Trains (see V-7.10, p. 33):
+2+2-train (1) . . . . . . . . standard back
+3+3-train (1) . . . . . . . . standard back
+4+4-train (1) . . . . . . . . standard back
+5+5-train (1) . . . . . . . . standard back
+6+6-train (1) . . . . . . . . standard back
+The Trains 
+The game contains 42 trains on 35 cards. These include 7 different 
+standard types (see Table T-03, p. 45) and 5 variant trains. Each 
+train card specifies that train’s price and its type, which represents 
+the number of different cities it may service.
+All of the 5-trains and three of the 6-trains have the 2-trains on 
+their backs.When the first 4-train is bought, all of the 2-trains 
+are removed from play. These 2-trains are flipped over to serve as 
+available 5- and 6-trains.
+Similarly, the private companies are backed by diesels (D), 
+7-trains, and a 6-train. So when the privates are retired with the 
+purchase of the first 5-train, those trains can be used later in the 
+proper phase.
+
+The rules in this section describe the 1830 Base Game. We 
+recommend that new players use these rules to ease into play.
+Preparing For Play	
+ (1.0)
+First lay out the components. The 1830 Base Game components 
+are the same as those used in 1830 Classic—they are marked 
+with “★”s. 
+a Place the board in the center of the table with the “1830 Classic” 
+side face up (see diagram below). 
+a Place the 6 private company certificates that are marked with a 
+“★” face up in an open area by the board. 
+a Place the share certificates that are marked with a “★” in the 
+spaces provided on the board, with the president’s certificate on 
+the top of each stack. These certificates are the “initial offering.” 
+It is essential that unsold share in the initial offering and shares 
+in the bank pool always be clearly distinguished. (Note there are 
+no shares in the bank pool when the game begins.)
+ awrxrx ◈ Base Game ◈	 awrxrx
+Base Game — The JK, CC, PP, 
+and PL private companies are not 
+used. The PMQ, N&W, NKP, and 
+RDR railroads are not used.
+Base Game — 26 trains are used: 
+6x 2-trains, 5x 3-trains, 4x 4-trains, 
+3x 5-trains, 2x 6-trains, 6x diesels. 
+★ 1830 Classic — Randomly 
+assign seating positions. A railroad’s 
+money need not be revealed (see 
+V-0.1 and V-1.0. p. 28).
+a Place the four 4-trains marked 
+with “★”s face up in a stack. Place 
+the five 3-trains marked with “★”s 
+face up on top of the 4-trains. 
+Place the six 2-train cards marked 
+with “★”s face up on top of the 
+3-trains. 
+a Use only the track tiles that are 
+marked with “★”s—each of these 
+tiles has track, and cities on both 
+sides. Place these tiles in stacks 
+so that the number of each can 
+be determined when necessary. 
+Only the yellow tiles are needed at 
+first, but the others are relevant to 
+planning for the later stages of the 
+game. 
+a Place the 8 corporation charters 
+that are marked with “★”s next to 
+the board. 
+Select a Banker (1.1)
+Choose a player to be banker. If you 
+cannot agree, the oldest player is the 
+banker. As banker, you need space for 
+bank funds to be laid out in addition 
+to your own money and possessions. 
+You may also need space for a pencil 
+and paper. A calculator is very useful. 
+Base Game — All information 
+on the holdings of players and 
+railroads is available to everyone. 
+
+Starting Money	
+(1.2)
+Distribute $2400 equally among the players. The chart in the side 
+bar details the amounts. Place the remaining money in the Bank.
+Buying the Private Companies ◈	
+(1.3)
+Divide the 6 private company certificates into groups as specified 
+in the chart below—one group for each player. The players then 
+bid to determine the order in which they select and purchase 
+the groups. Each player must purchase one of these groups for the 
+amount(s) specified in the chart. 
+Starting with the banker and proceeding clockwise, each player 
+must make a bid or pass. The minimum starting bid is $5 and each 
+subsequent bid must be at least $5 more than the preceding bid. If 
+you pass, you may no longer bid. When the last bidder passes, the 
+high bidder chooses a group of private companies to purchase. The 
+next highest bidder chooses next and so on until all of the groups 
+have been purchased. If two or more players passed without bidding, 
+they choose starting with the banker and proceeding clockwise. 
+In addition to first choice of private companies, the highest bidder 
+also gets the priority deal card and thus takes the first turn in the 
+first stock round.
+Example: Bob, Carol, Ted, and Alice are starting a game of 1830. 
+Bob is the banker and starts the bidding for the private companies 
+with a bid of $5. Carol who is sitting to his left passes, stating that 
+she doesn’t care what she gets. Ted bids $10 and Alice bumps the bid 
+to $20. Bob passes and Ted bids $25—Carol could not bid because 
+she has already passed. 
+Alice bids $30 and tells Ted that the B&O is a great railroad. 
+Ted says he wants the CA; and if Alice wants the BO private 
+company, he could have passed on his last bid and saved some 
+money. So, thinking Alice wants the BO private, he passes and Alice 
+wins the bid. Alice smiles, takes the CA and pays the bank $190—
+her bid of $30 plus $160 for the CA. Stunned and shaking his head, 
+Ted thinks for a moment, then takes the CS and the DH, paying 
+$135. Bob happily pays his $5 bid, grabs the BO and shells out a 
+further $220. Carol pays $130 for the SV and the MH. Bob must 
+set a par value for the B&O, but he only has $375 left. He sets a par 
+value of $100 and plans to collect his $30 in revenue from the BO 
+and wait a round to operate if no other player invests in the B&O.
+★ 1830 Classic — The process for 
+buying the private companies is 
+fairly involved and is described full 
+detail in C-2.2 on p. 26.
+	
+Starting Money 
+for Each Player
+2 players . . . . . . . . . . . . . . . . . . $1200
+3 players . . . . . . . . . . . . . . . . . . . $800
+4 players . . . . . . . . . . . . . . . . . . . $600
+5 players . . . . . . . . . . . . . . . . . . . $480
+6 players . . . . . . . . . . . . . . . . . . . $400
+7 players . . . . . . . . . . . . . . . . . . $350*
+* – Split $2450 for 7 players. 
+Private Company Groups
+ 	
+	 Number of Players 
+	
+6 / 7
+Group 1 (Cost)	
+SV+DH+CA ($250)	
+SV+BO ($260)	
+SV+MH ($130)	
+SV+CS ($60)	
+SV ($20)
+Group 2 (Cost)	
+CS+MH+BO ($370)	
+CS+CA ($200)	
+CS+DH ($110)	
+DH ($70)	
+CS ($60)
+Group 3 (Cost)	
+DH+MH ($180)	
+MH ($110)	
+DH ($70)
+Group 4 (Cost)	
+MH ($110)
+Group 5 (Cost)	
+Group 6 (Cost)	
+Group 7 (Cost)	
+Note — All private companies must be 
+bought from the bank before shares in 
+the railroads is put on sale.
+Note — For full descriptions of the 
+private companies, see pp. 46-47.
+
+Sequence of Play Summary	
+ (2.0)
+After preparing to play, you should have money and one or two 
+private companies. You are now ready to start the first stock round. 
+Play proceeds as described below.
+ First Stock Round:
+The player with the priority deal card takes the first turn. 
+Then proceeding clockwise, each player takes a turn or passes. 
+The round ends when all players have passed consecutively. 
+The player to the left of the last player to buy or sell gets the 
+priority deal card.
+On each of your turns, you may do any or all of the following 
+(see 6.1 & 6.2, pp. 14-15, for sell & buy restrictions):
+ Sell any of your stock certificates. 
+ Buy 1 stock certificate in a corporation: either a president’s 
+certificate (if available), or 1 other stock certificate.
+ Sell any of your stock certificates. 
+  First Operating Round:
+♳ 1st Operating Round: There is at least 1 operating round.
+● The private companies pay revenue.
+● The railroad corporations operate. 
+The railroad with the highest share value operates first, 
+then the railroad with the next highest share value, 
+and so on until all of the railroads have operated. For 
+railroads with the same share value, see 7.0, p. 16. 
+When a railroad operates, it:
+➊ May construct or upgrade track.
+➋ May place a token on a tile to create a new station.
+➌ Must run its trains on available routes.
+➍ Must collect revenue and adjust its share value.
+➎ May buy new trains. 
+ Next Stock Round: 
+Same as 1st stock round.
+  Next Operating Round(s): 
+♳ 1st Operating Round: Same as described above
+♴ 2nd Operating Round: Only if 3-trains were in play 
+or retired at the end of the last stock round. 
+Proceed as in 1st round.
+♵ 3rd Operating Round: Only if 5-trains were in play at the 
+end of the last stock round. Proceed as in 1st round.
+• • • and so on until the game ends.
+D The game ends when the bank runs out of money. Play until 
+the next time a set of operation rounds ends. Keep track of any 
+further money paid out on paper.
+ Total your money and the value of your shares. 
+ The wealthiest player wins. 
+Note — There are a number of 
+restrictions on buying and selling shares 
+(see 5.0 for details). For example, you 
+may not sell certificates in the 1st stock 
+round, the president’s share must be the 
+first bought for each railroad, etc.
+★ 1830 Classic — The original 
+1830 rules were ambiguous as to the 
+sequencing of buy and selling within 
+a turn. Sell-Buy-Sell is specified 
+here, but Buy-Sell and Sell-Buy are 
+both 1830 Classic special rules (see 
+V-6.1, p. 31).
+★ 1830 Classic — The game can 
+also end if a player goes bankrupt 
+(see C-2.4, p. 28).
+Note — When you operate a railroad, 
+the only thing you must do is run its 
+trains to generate revenue. You may 
+also lay track, place a station, and buy 
+trains. You may be forced to buy a train 
+if you have none.
+Note — This sequence of play summay 
+is a general overview of play. Details will 
+be presented later in the rules.
+
+	
+Front	
+	
+ Back
+ (3.0)
+The game progresses through seven phases. The start of each 
+new phase is triggered by the purchase of a new train type: 2-train, 
+3-train, 4-train, 5-train, 6-train, diesel. Each phase has limitations 
+and addtions as follows:
+PHASE ONE	
+(3.1)
+Phase one starts at the beginning of the game and continues until 
+all private companies have been purchased (see 1.3, p8). 
+PHASE Two	
+(3.2)
+Phase two starts after the purchase of the private companies and 
+continues until the purchase of the first 3-train.
+a You may only play yellow track tiles.
+a Each corporation may own up to four trains.
+a Railroads may not purchase private companies.
+a There is 1 operating round between stock rounds.
+PHASE Three	
+(3.3)
+Phase three starts with the purchase of the first 3-train and 
+continues until the purchase of the first 4-train. 
+a You may play yellow and green track tiles.
+a Each corporation may own up to four trains.
+a Railroads may now purchase private corporations.
+a There are 2 operating rounds between stock rounds­—starting 
+after the stock round following the purchase of a 3-train.
+PHASE Four	
+(3.4)
+Phase four starts with the purchase of the first 4-train and 
+continues until the purchase of the first 5-train. 
+a You may play yellow and green track tiles.
+a Each corporation may own up to three trains.
+a Railroads may purchase private companies.
+a There are 2 operating rounds between stock rounds
+a All 2-trains become obsolete and are removed from play.
+PHASE FivE	
+(3.5)
+Phase five starts with the purchase of the first 5-train and 
+continues until the purchase of the first 6-train. 
+a You may play yellow, green, and brown track tiles.
+a All private companies are closed and are removed from play.
+a There are 3 operating rounds between stock rounds—starting 
+after the stock round following the purchase of a 5-train.
+a Use the greater value when running to off-board locations.
+Note — The 7 phases represent the 
+technological changes in railroading 
+that occurred over time.
+The Private Companies
+	
+ 	
+	
+	
+$220 / $30
+Example: During phase 4, Big Bruce 
+starts his turn in a 2nd operation round 
+with a 3-train and $800. There is only 
+one 4-train left to buy from the bank. 
+Bruce buys the 4-train for $300. Because 
+it is still phase 4, the train limit is 3. So, 
+Bruce can and does buy the first 5-train 
+for $450. At that point, phase 5 begins 
+and the train limit drops to 2, and Bruce 
+must get rid of a train. He places the 
+3-train in the bank pool. 
+All of the private companies are retired 
+and removed from the game. This frees 
+up the six diesels used in the base game. 
+Note — A phase change occurs 
+immediately following the purchase of 
+the first train of a new type. So, any new 
+limit on how many trains a railroad can 
+own goes into effect after that train is 
+purchased. This may result in the forced 
+discard of a train by the railroad that 
+just purchased a train.
+Note ­— The 2-trains are on the backs of 
+the 5-trains and three 6-trains. When 
+the first 4-train is bought, all 2-trains 
+are removed from play. They are flipped 
+over and serve as 5- and 6-trains.
+Example: Gerald buys the first available 
+4-train. All of the 2-trains are removed 
+from play. Gerald flips five of the 2-trains 
+and they become the three 5-trains and 
+the two 6-trains used in the base game.
+↷
+↷
+
+PHASE Six	
+(3.6)
+Phase six starts with the purchase of the first 6-train and 
+continues until the purchase of the first diesel train. 
+a You may play yellow, green, brown, and gray track tiles.
+a All 3-trains become obsolete and are removed from play.
+a You may purchase diesel trains.
+a There are 3 operating rounds between stock rounds.
+a Use the greater value when running to off-board locations.
+PHASE Seven	
+(3.7)
+Phase seven starts with the purchase of the first diesel train and 
+continues until the end of the game. 
+a You may play yellow, green, brown, and gray track tiles.
+a All 4-trains become obsolete and are removed from play.
+a There are 3 operating rounds between stock rounds.
+a Use the greater value for running to red off-board locations.
+(4.0)
+During phases 3 and 4, a railroad may buy a private company 
+at any time during its turn in an operating round. In addition, 
+ownership of private companies may make possible activities 
+otherwise not allowed. (See pp. 46-47).
+Sale	
+(4.1))
+Private companies may be sold between players for any mutually 
+agreed price at any time during the buyer’s or the seller’s turn of a 
+stock round (other than the first).
+Private companies may be bought by railroad corporations but 
+not sold by them. This may not be done until the first 3-train has 
+been bought. The price paid may not be less than half or more than 
+twice the face value of the company and must be publicly declared. 
+This action may be performed at any time during the buying 
+corporation’s turn in an operating round.
+Closure	
+(4.2)
+The BO private company is closed down immediately when the 
+B&O railroad purchases its first train. The Mohawk & Hudson is 
+closed if traded for a 10% share of the New York Central railroad 
+as described on the left. All private companies are closed when 
+the first 5-train is bought. A private 
+company may not be closed voluntarily, 
+nor may they be sold into the bank pool. 
+Once closed, a private company ceases 
+to exist and takes no further part in the 
+game.
+Private Company Effects
+Schuylkill Valley — No effect. 
+Champlain & St. Lawrence — A 
+railroad owning the CS may lay a tile 
+on the CS’s hex (B-20). This hex need 
+not be connected to one of the railroad’s 
+stations, and it need not be connected to 
+any track at all. This tile placement may 
+be performed in addition to the raillroad’s 
+normal tile placement—on that turn only 
+it may play two tiles. 
+Delaware & Hudson — A railroad 
+owning the DH may lay a track tile and 
+a station token on the DH’shex (F-16). 
+The mountain costs $120 as usual, but 
+laying the token is free. This hex need 
+not be connected to one of the railroad’s 
+stations, and it need not be connect to any 
+track at all. The tile layed does count as 
+the owning railroad’s one tile placement 
+for his turn. If the DH does not lay a 
+station token on the turn it lays the tile on 
+its starting hex, it must follow the normal 
+rules when placing a station (i.e., it must 
+have a legal train route to the hex). Other 
+railroads may lay a tile on the DH starting 
+hex subject to the ordinary rules, after 
+which the DH special effects are no longer 
+available.
+Mohawk & Hudson — A player owning 
+the MH may exchange it for a 10% share 
+of NYC, provided he does not already 
+hold 60% of the NYC shares and there 
+is NYC shares available in the bank or 
+the pool. The exchange may be made 
+during the player’s turn of a stock round 
+or between the turns of other players 
+or railroads in either stock or operating 
+rounds. This action closes the MH.
+Camden & Amboy — The initial 
+purchaser of the CA immediately receives 
+a 10% share of PRR without further 
+payment. This action does not close 
+the CA. The PRR railroad will not be 
+running at this point, but the share may 
+be retained or sold subject to the ordinary 
+rules of the game.
+Baltimore & Ohio — The owner of 
+the BO private company immediately 
+receives the president’s certificate of the 
+B&O railroad without further payment 
+and immediately sets a par share value. 
+The BO private company may not be 
+sold to any corporation, and does not 
+change hands if the owning player loses 
+the presidency of the B&O. When the 
+B&O railroad purchases its first train this 
+private company is closed down.
+
+ (5.0)
+The stock market records and governs the value of the railroad 
+corporations’ shares. This stock market is represented by a large grid 
+of colored sections and a share value token for each corporation. 
+Each corporation’s share value is equal to the number in the grid 
+box occupied by that corporation’s share value token. 
+SHARE OWNERSHIP	
+(5.1)
+A corporation’s initial offering consists of its share certificates that 
+have never been owned by a player (i.e., purchased or received due 
+to a private company’s special effects). Initial offering certificates 
+are stacked on the appropriate spaces along the edge of the board. 
+The value of a corporation’s initial offering share is always the 
+corresponding recorded value on the par value chart. 
+Shares sold back to the bank are placed in the bank pool. The 
+value of a share in the bank pool is determined by the position of 
+the corresponding share value token on the stock market.
+Players may buy shares from the bank pool or the initial offering. 
+Initial Share Value	
+(5.2)
+When a player acquires a president’s certificate from the initial 
+offerinng, that player must choose an initial share value: $67, $71, 
+$76, $82, $90, or $100. 
+a Place the corporation’s share value token in a light green grid 
+box on the stock market corresponding to the share value. If the 
+token is placed into a grid box already containing one or more 
+tokens, the newly arriving token is placed at the bottom of the 
+stack of share value tokens that are already there. 
+a Place the corporation’s par value marker on the corresponding 
+space on the par value chart. It does not matter if other par 
+value markers are already in that space. This par value is the 
+cost of any further share purchases of shares that are in the 
+initial offering (not in the bank pool). 
+SHARE AND CERTIFICATE LIMITS	
+(5.3)
+As with any stock exchange, certificates are used in 1830 to 
+represent each player’s ownership in the private companies and 
+public railroad corporations. For a private company, a single 
+certificate represents 100% ownership in the company. For a 
+corporation, a single certificate represents 10% or 20% ownership. 
+The president’s certificate in a corporation is two shares (20%), but 
+counts as a single certificate. 
+There are a number of limitations on certificate ownership:
+a Individual Corporation ­Limit— Each player is normally 
+limited to 5 certificates (50-60% of the shares) in a corporation. 
+However, the position of the corporation’s share value token on 
+the stock market may allow a player to exceed this limit (see 
+5.4, p. 13). 
+a Overall Limit — Each player is limited to a specific total 
+number of certificates, including private company certificates. 
+The certificate limit is determined by the number of players in 
+the game (see chart in sidebar). 
+2 . . . . . . . . . . . . . . . . . . . . . . . . . . . .28
+3 . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+5 . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+6-7 . . . . . . . . . . . . . . . . . . . . . . . . . .11
+Example: During the first stock round, 3 
+railroads were floated. The B&O started 
+with a par value of $100. The PRR 
+started with a par value of 67, while the 
+C&O started at a par value of 82. 
+Note — A number of boxes on the stock 
+market contain arrows. These arrows 
+indicate the share value token’s direction 
+of movement if the token is required to 
+move left or right and is unable to do so 
+because of the edge of the market.
+
+already at the top of a column, the token does not 
+move. Tokens are moved in share value order, with the 
+highest priced corporation’s token being moved first. 
+a A corporation’s share value token moves right 1 grid 
+box when that corporation declares a dividend. If it 
+is already at the right end of a row the token moves 
+up one grid box if possible. A share value token does 
+not move up if it is already at 350. 
+a A corporation’s share value token moves left 1 grid 
+box when it fails to declare a dividend during a given 
+operation round. If it is already at the left end of a 
+row the token moves down one grid box if possible. 
+Otherwise, it does not move.
+If a share value token is moved into a box where there 
+are one or more tokens, the newly arriving token is 
+placed at the bottom of the stack of share value tokens 
+that are already there. 
+a Bank Pool Limit ­— There may never be more than 5 
+certificates of any single corporation in the bank pool. A player 
+may not sell shares if the number of certificates to be sold plus 
+the number of certificates in the bank pool for that corporation 
+exceeds 5. 
+Conforming to Limits — A change of corporation presidency and 
+movement of share value tokens between the different sections of 
+the stock market may cause a player to be in violation of certificate 
+limits. When this occurs, the player must sell sufficient shares and/
+or certificates to conform to the limits during the player’s next turn 
+in a stock round (which may be after a series of operatiiong rounds). 
+Special Stock Market Effects	
+(5.4)
+If a share value token is in a yellow, orange, or brown grid box, 
+there are some special effects.
+a Certificates of any corporation whose share value token is in a 
+yellow, orange, or brown grid box do not count against a player’s 
+overall certificate limit. 
+a The shares of any corporation whose share value token is in an 
+orange or brown grid box may be held in excess of the individual 
+corporation certificate limit (60%).
+a During your turn in a stock round, you may purchase any 
+number of certificates from the bank pool of one corporation 
+whose share value token is in a brown grid box. This purchase 
+counts as your one certificate purchase for the turn.
+SHARE value token Movement	
+(5.5)
+Share value tokens move from grid box to grid box in a number 
+of different ways.
+a A corporation’s share value token moves down when a player 
+sells one or more of that corporation’s shares. It moves down 1 
+grid box for each share sold. If it is already at the bottom of a 
+column, the token does not move.
+a A corporation’s share value token moves up 1 grid box if all of 
+its shares are owned by players the end of a stock round. If it is 
+Example: In a 6 player game, Pete ends his 
+turn in a stock round with:
+3 B&O certificates 
+(the president’s certificate and 2 others)
+4 PRR certificates 
+(value token in a yellow grid box)
+8 C&O certificates 
+(value token in a orange grid box)
+5 Erie certificates 
+(the president’s certificate and 4 others)
+Pete has 20 certificates A and the overall 
+limit in a 6 player game is only 11. However, 
+the PRR and C&O certificates do not count 
+for the overall limit since their tokens are in 
+yellow and orange grid boxes. And, Pete can 
+exceed the individual corp limit of 5 for the 
+C&O because its token is in the orange. 
+At the end of round, the players collectively 
+own all of the shares of each of the 4 
+railroads. So, each of the 4 share value tokens 
+goes up one. Then there are 2 operating 
+rounds in which each of the 4 railroads issues 
+dividends—each token moves two to the 
+right. When the next stock round begins, the 
+PRR is in a gray grid box and C&O is in a 
+yellow B. Pete is over both the overall and 
+the individual limit for the C&O. Pete must 
+sell stock on his turn to satisfy the limits. 
+Kurt has the priority deal card, so he buys 
+& sells before Pete. Kurt has to sell 2 shares of 
+the PRR C, which drops the share value back 
+into yellow. 
+On his turn, Pete sells 2 C&O certificates 
+D and the share value token moves back into 
+the orange. Pete is back under the limits.
+Note — If a corporation has 5 or more 
+certificates still in the initial offering 
+(i.e., it has not floated), it can’t generate 
+revenue during an operating round. 
+So, its share value token will not move 
+during operating rounds for any reason.
+
+Stock Rounds	
+ (6.0)
+A stock round is a series of turns in which all players have the 
+opportunity to buy and sell share certificates. On your turn, you 
+may sell any number of certificates, but you may only buy one 
+certificate. 
+A stock round only ends when all players have consecutively 
+passed and thus declined the opportunity to buy or sell. So, a stock 
+round keeps going as long as players continually participate. Any 
+number of certificates may eventually be bought—one at a time. 
+You are not precluded from further buying and selling just 
+because you have passed. As long as a player bought or sold after 
+you passed, you are free to buy and sell on your subsequent turn. 
+When a stock round ends, the player to the left of the last player 
+that bought or sold shares is given the priority deal card. That 
+player takes the first turn in the next stock round. If no one buys or 
+sells in a stock round, the priority deal card does not change hands.
+ Stock Round:
+The player with the priority deal card takes the first turn—this 
+is usually the player to the left of the player that last bought or 
+sold in the previous stock round. 
+ Then proceeding clockwise, each player takes a turn or passes. 
+The stock round ends when all players have passed 
+consecutively.
+On each of your turns, you may do any or all of the following:
+ Sell any of your certificates. 
+ Buy 1 certificate in a corporation of your choice: either a 
+president’s certificate (if available), or 1 other certificate if 
+the president’s certificate is unavailable.
+ Sell any of your certificates. 
+Stock Sales	
+(6.1)
+Any certificates you sell are placed in the bank pool and may be 
+bought by other players in their respective turns. 
+ Certificates may not be sold in the first stock round.
+ When you sell more than one certificate of the same type stock, 
+the share value does not drop until after you have sold all of the 
+certificates. Thus, you receive the same amount of money for 
+each certificate.
+ When you sell certificates of more than one corporation in the 
+same turn, you choose the order in which they are sold.
+ If you sell certificates in a corporation, you may not later buy 
+certificates in that corporation in the same stock round.
+ You may not sell shares if the number of certificates to be 
+sold, plus the number of certificates in the bank pool for that 
+corporation, exceeds five.
+ You may not sell the president’s certificate in a corporation. 
+However, while selling your own shares, if your share holdings 
+in your president’s corporation are exceeded by another player’s 
+holdings, you must exchange your president’s certificate for 
+2 other certificates from the appropriate player.
+★ 1830 Classic — The original 
+1830 rules were ambiguous as to the 
+sequencing of buy and selling within 
+a turn. Sell-Buy-Sell is specified 
+here, but Buy-Sell and Sell-Buy are 
+both 1830 Classic special rules 
+(see C-1.2, p. 25).
+Note — There is no change of control 
+just because another player’s holding 
+is equal to the president’s. You can lose 
+your majority of shares due to another 
+player purchasing shares or due to you 
+selling stock.
+Note — Remember, “railroad 
+corporations” are also referred to as just 
+“corporations” and as just “railroads” 
+depending upon the context.
+Example: Gerald is holding two 10% 
+certificates of the B&O valued each at 
+$100 and sells them both. He collects 
+$200 from the bank and places the 
+certificates in the bank pool. The B&O 
+share value token on the stock market is 
+moved downward two spaces to indicate 
+the new value of $82 per share for B&O 
+
+ If your share holdings exceed the limits on certificate ownership, 
+you must sell sufficient certificates to conform to the limits 
+during your next turn in a stock round. See 5.3, pp. 12-13.
+ Note that the owner of the CA private company receives a free 
+share (10%) of the PRR. This share cannot be sold until the 
+president’s certificate has been purchased, thereby setting the 
+value of the PRR share. 
+Stock Purchases	
+(6.2)
+During your turn in a stock round, you may buy an available 
+certificate from either the initial offering or the bank pool. 
+ Shares in a corporation cannot be bought by a player if that 
+player has sold share(s) of the corporation earlier in the same 
+stock round.
+ The first purchased share certificate in a corporation must be the 
+president’s certificate. This certificate signifies that the owner 
+is responsible for all decisions concerned with the railroad’s 
+operations such as construction of track, planning of routes, 
+payment of dividends, etc.
+ When you buy a president’s certificate (20%) from the bank, you 
+must choose an initial share value: $67, $71, $76, $82, $90, or 
+$100. You must pay twice this value for the certificate. This is 
+the corporation’s par value. It is recorded on the stock market 
+and the par value chart. See section 5.1 (p12) for more details.
+When the owner of the BO private company takes possession of 
+the B&O president’s certificate, he must follow the same process 
+outlined for buying a president’s certificate, except that it does not 
+need to be paid for.
+Floating a Corporation	
+(6.3)
+Once 60% of the shares in a corporation have been bought from 
+the initial offering, the corporation is “floated.” It begins operating 
+in the next operating round. Shares sold back to the bank pool still 
+Note — For each corporation, the 
+number of tokens available and the 
+number and type of trains owned must 
+be visible on the company charter. Its 
+money may be kept in a stack and the 
+amount held need not be divulged!
+Example: During the second stock round, 
+Al has the priority deal card and buys the 
+president’s certificate (2 shares) of the PRR. 
+He immediately sets a par value of $82. 
+Kurt has the PRR share he received for 
+the CA (private company), and was hoping 
+to take control of the PRR. He buys a share 
+of the PRR giving each players 2 shares. 
+He complains that the new president has 
+devalued his shares since the par value could 
+have been $100. He asks that Al stop buying 
+PRR stock and let him take his place as PRR 
+president­. Kurt threatens to dump his stock.
+Al ignores him and buys a 3rd share of the 
+PRR. Scowling, Kurt sells both of his share 
+for a total of $164. The stock goes into the 
+bank pool and the stock value drops to $71. 
+(Note that the par value for the PRR does not 
+change, AND the PRR’s token goes under the 
+C&O token already there.) 
+On his next turn, Al buys a PRR share for 
+$82 from the bank and floats the PRR—his 
+4 shares (40%) and the 2 shares in the bank 
+pool (20%) mean that 60% of the stock has 
+been bought from the bank. Note that Al 
+could have bought a PRR share from the 
+bank pool for only $71, but that would not 
+have floated the railroad.
+At the end of the stock round, the PRR 
+receives $820 for its treasury based upon its 
+par value of $82, not its share value of $71.
+Note ­— The initial capital is always 
+equal to the fully subscribed share value 
+of the corporation (even though the 
+shares may not yet be fully taken up).
+count towards the 60%. Shares obtained via ownership 
+of private companies (BO, CA, and MH) count 
+towards the 60%.
+A corporation’s president is the player owning that 
+corporation’s president’s certificate. At the end of the 
+stock round in which a corporation floats, its president 
+receives:
+a The corporation’s charter,
+a The corporation’s tokens as specified on its charter.
+a The corporation’s starting money (initial capital), 
+which is ten times its par value as recorded on the 
+par value chart. 
+Place the tokens and money in the corporation’s 
+“treasury” in the appropriate positions on its charter. 
+It is very important that a corporation’s funds be kept 
+strictly separate from the player’s own reserve of cash. 
+Consequently, a corporation’s funds must always be 
+kept on its charter. 
+
+Change of President	
+(6.4)
+As a corporation’s president, you only remain president as long 
+as your share total in that corporation is not exceeded by another 
+player. When a player exceeds your share total in a corporation in 
+which you are the president, take these steps immediately:
+a You give him the corporation’s president’s certificate, charter, 
+trains, tokens, and money.
+a He gives you two of his certificates for that corporation.
+a If this exchange results in you holding more certificates than 
+allowed (see 5.3, p. 12), you must sell an appropriate number of 
+shares—immediately if it is your turn, or on your next turn if not.
+If multiple players exceed your share total, and they each have the 
+same number of shares, the new president is the player closest to 
+you going in a clockwise direction. 
+A president’s certificate can never end up in the bank pool. 
+The shares represented by the certificate can be sold to the bank 
+pool, but an exchange of the presidency must be made before the 
+“common” shares appear in the pool. 
+Note — By selling shares, you can 
+relinquish your position as president 
+in any situation where the necessary 
+amount of shares can be sold (i.e., no 
+more than 50% of the total shares will 
+appear in the bank pool), and provided 
+there is another stockholder holding at 
+least 20%. In effect he announces the 
+sale of his stock, exchanges certificates 
+with the new president, and then places 
+the ordinary certificates in the bank 
+pool. Note that a presidency cannot 
+be transferred when there is no other 
+stockholder holding more than 20%. 
+Example: In a 5-player game, Pete starts 
+the stock round holding 13 certificates 
+(the max). He is the president of the 
+B&O, with 3 certificates (4 shares: the 
+president’s certificate and 2 others for a 
+total of 4 shares). Ron also has 4 shares/
+certificates in the B&O. Hoping to shake 
+things up, Morgan sells a share of the 
+B&O on his first turn. Next in turn 
+order, Ron buys that share. Ron now 
+has more shares than Pete and becomes 
+the new president of the B&O. They 
+exchange the president’s certificate for 2 
+other certificates, and Ron gets control 
+of the B&O charter, tokens, trains, and 
+cash. 
+Example: At the start of an operating 
+round, 4 railroads have the same share 
+value of $82. The Erie will operate first 
+because it is furthest to the right. Then, 
+the C&O because it is next furthest to the 
+right and is on top of the PRR. Then, the 
+PRR operates and finally the B&O. This 
+order might change if one of the railroad’s 
+share value changes due to share sales 
+resulting from a forced purchase of a 
+train (see 7.6.2, p. 23).
+Operating Rounds	
+(7.0)
+At the beginning of an operating round, each private company 
+(not yet retired) operates. This consists of paying its owner the 
+revenue indicated on its certificate and in Table T-05.
+ Next, each railroad corporation (or just railroad in this section) 
+that has floated takes a turn. The railroad with the highest share 
+value takes the first turn and then the next highest valued railroad 
+takes its turn, and so on until each floated railroad has had a turn.
+♳ Sometimes the share value tokens of 2 or more floated railroads 
+are in the same grid block of the stock market. In this case, 
+the railroad whose token is on top takes a turn first, then the 
+railroad with the next token down, and so on.
+♳ If 2 or more floated railroads have the same share value but their 
+share value tokens are in different columns, the railroad whose 
+token is furthest to the right takes a turn first.
+♳ If 2 or more floated railroads have the same share value and 
+their share value tokens are in the same column, the railroad 
+whose token is furthest up takes a turn first.
+Each railroad is operated by the player that owns its president’s 
+certificate. Each railroad may lay track, earn revenue, and purchase 
+trains. In addition, each railroad must decide each operation 
+round whether to distribute its earnings as dividends among the 
+stockholders (raising the railroad’s share value) or to retain its 
+earnings to finance further corporate activities (thus lowering its 
+share value).
+During the later stages of the game, the scope of railroad 
+operations expands steadily due to several factors. The available 
+trains can travel a greater distance and thus can earn more revenue 
+per turn. The available track tiles are more complex, resulting in 
+more elaborate routes and which also raise city revenue values.
+
+Note — Each railroad has a number of 
+round “tokens” with its corporate logo 
+on it (see pp. 4-5).
+Pays
+Schuylkill Valley (SV) . . . . . . . . . .$5 
+Champlain & St.Lawrence (CS) $10
+Delaware & Hudson (DH) . . . . .$15
+Mohawk & Hudson (MH) . . . . .$20
+Camden & Amboy (CA) . . . . . . $25
+Baltimore & Ohio (BO) . . . . . . . $30
+Note — For the purposes of turn order, 
+if a railroad’s share value changes for a 
+railroad that has not yet operated, the 
+new share value is used. 
+Note — Purchases must be made with 
+available money. Credit is not allowed. 
+For example, the money required to 
+place a token or lay a tile in a mountain 
+hexagon must be available in the 
+treasury. Revenues are not available until 
+step #4 of the turn, and thus cannot be 
+spent on track construction or tokens 
+until next turn.
+Note — Constructing track is optional. 
+You are never required to place or 
+upgrade track. This applies even to 
+the Erie and NYC railroads where no 
+tile has yet been laid in the hexagon 
+containing their home station.
+1830+ — Some of the 1830+ 
+scenarios require that the 1830+ 
+board be modified by placing 
+“board tiles” on certain hexes at the 
+start of the game. Treat these tiles as 
+if they are part of the board.
+Railroad Operation Sequence	
+(7.1)
+Each railroad’s operating turn consists of the following activities 
+performed in the order given: 
+Special – At the start of a railroad’s first turn of operation, it places one of 
+its tokens in its starting city to create its home station (see 7.3.1, p. 20).
+1 Construct Track – You may place a new tile on the board or 
+upgrade a tile already on the board. (7.2, pp. 17-19)
+2 Place a Station – You may buy a new token and place it on the 
+board as a new station if desired. (7.3, p. 20)
+3 Run Trains – You run your trains on available routes. (7.4, p. 21)
+4 Collect Revenue — You collect and distribute revenue earned by 
+running your trains. You pay the revenue as dividends or reinvest 
+it in the railroad (place the money in the treasury on the charter).
+5 Purchase Trains — You may buy a new train or trains, or you 
+may be forced to by a new train. (7.6, p. 23)
+Once phase 3 starts, a railroad may buy a private company at any 
+time during its operating round turn. Ownership of certain private 
+companies may make possible special activities (see pp. 46-47).
+The number of operation rounds changes in the later stages of 
+the game, when first two and then three operating rounds are 
+performed between each stock round. All these changes are directly 
+linked to the types of trains in use (see 3.0, pp. 10-11).
+Construct Track	
+(7.2)
+The game board features a hexagonal grid on a map of the 
+northeastern United States and southeastern Canada. You may 
+lay hexagonal track tiles on this grid to construct railroad routes 
+joining the various cities portrayed on the map.
+Hexes on the Board — Each hex on the board has a color that 
+indicates what type of track tile (if any) may be placed on that hex:
+ Gray hexes contain track and cities at the beginning of the game. 
+You may not place tiles on gray hexes. A
+ Red hexes contain track representing connections to cities 
+outside of the board. You may not place tiles on red hexes. B
+ Yellow hexes each contain 1 or 2 cities, and some also contain 
+track. You may only place green tiles on yellow hexes. C
+ Tan hexes can contain cities and/or track. You may only place 
+yellow tiles on tan hexes. D
+Yellow and tan hexes can also contain rivers, inlets, and 
+mountains. Each of these features adds a cost to placing a tile (i.e., 
+an additional $80 or $120 as printed on the board).
+Track Tiles — The color of each track tile indicates in which phase 
+(see 3.0, p. 10-11) it can be used and where it may be placed.
+ Yellow tiles are available from phase 2 on—can only be placed 
+on tan hexes. 
+ Green tiles are available from phase 3 on—can only be placed on 
+yellow hexes and can only upgrade yellow tiles. 
+ Brown tiles are available from phase 5 on—upgrade green tiles.
+ Gray tiles are available from phase 6 on—upgrade brown tiles.
+Each tile has other restrictions on placement (see 7.2.1 & 7.2.2).
+access 
+license
+access 
+license
+Tokens
+
+	
+1 large	
+1 large city	
+2 large 	
+	
+city	
+w/ 2 station circles	
+cities
+	
+2 small	
+1 small	
+Off-board 
+	
+cities	
+city	
+area
+Construct Track Example
+A – yellow tile placed on a hex without a tile 
+B – yellow tile placed on a hex without a tile 
+ A and B each has a terrain cost of $80 3
+C – green tile placed on a yellow hex 
+ without a tile—both labeled “B” 7
+D – yellow tile upgraded to a green tile
+E – yellow tile placed on a hex without a tile 
+★ 1830 Classic — 1 The original 
+1830 rules were ambiguous as to 
+exactly how “an extension of a 
+route” was defined. More restrictive 
+interpretations are detailed in 
+V-7.7, p. 33.
+1830+ — Gray tiles are used 
+in some of the 1830+ scenarios 
+and other 18xx games. Gray tiles 
+upgrade brown tiles.
+1830+ — Some 18xx games and 
+1830+ scenarios use sets of tiles 
+that expand the 1830 Classic tile set. 
+The additional tiles needed for the 
+scenarios are detailed on p. 48. 
+Note — 1 The railroad need not use 
+the new track segment or the tile when 
+it operates.
+Cities 
+There are two types of cities on the game board and certain tiles—
+large cities and small cities. A large city is represented by one or 
+more large white circles connected to each other, while a small city 
+is represented by a small black dot on the board and a crossbar on 
+the tiles. Some hexes and tiles have 2 separate cities: for example, the 
+“oo” & “ny” (New York City) hexes and tiles.
+The red hexes represent off-board cities and areas. 
+Stations 
+When a railroad places one of its tokens on a large city circle, that 
+token becomes a station for that railroad (see 7.3). 
+Laying Track Tiles 
+When it operates, a railroad may do one and only one of the 
+following:
+ Place one tile into a hex not already containing a tile. 
+ Upgrade (i.e., replace) a tile already on the board, and return that 
+tile to the stacks of available tiles.
+Placing Track Tiles 	
+(7.2.1)
+These restrictions apply to tile placement:
+1 A railroad placing a tile must be able to trace a legal train route 
+(see 7.4.2, p. 21) of any length from one of its stations to one of the 
+track segments on the tile placed. 
+Exceptions: Regardless of other connections—
+ A railroad owning the CS may place a tile on the CS hex (B-20). 
+ A railroad owning the DH may place a tile on the DH hex (F-16). 
+ The NYC may place an #A7 (57) yellow tile on the hex containing its 
+home station D (E-19). 
+ The Erie may place a #oo2 (59) green tile on the hex containing its 
+home station (assuming green tiles are available) (E-11).
+Using the normal rules, any railroad can place a tile on a hex 
+listed as an exception. 
+2 A railroad may not place a tile such that a track segment on the 
+tile runs off the hex grid, terminates against the blank side of a 
+grey hexagon, or terminates against a solid red hex side (i.e., a 
+lake, inlet, or river). 
+
+Construct Track 
+Example Continued
+F – yellow tile upgraded to a green tile 
+G – green tile upgraded to a brown tile—
+both labeled “B” 4 5 6
+H – yellow tile upgraded to a green tile, 
+ at no cost 5
+I – yellow tile placed on a hex without a tile 
+ at a terrain cost of $120
+J – may not be upgraded, the only upgrade 
+ has track running off of each edge and 
+ track may not run out to the east 1 
+I
+J
+3 For most hexes, there is no cost to place a tile. But if a hex 
+contains mountains and the notation “$120,” a railroad placing a 
+tile on that hex must pay $120 to the bank. If a hex contains water 
+and the notation “$80,” a railroad placing a tile on that hex must 
+pay $80 to the bank. The home station hex for the Erie contains 
+no cost notation, so it costs nothing to place a tile in that hex.
+4 A railroad may not place a tile on a hex containing a private 
+company owned by a player. A railroad may place a tile on a 
+hex containing a private company that is closed or owned by a 
+railroad (see pp. 46-47).
+5 A railroad may only place a tile on a hex if the tile and hex have 
+the same number and size of cities (e.g., in the example below, J 
+is a single city even though it has two circles; you can tell by the 
+outline that connects them). 
+6 Only yellow tiles may be placed on tan hexes. 
+7 Only green tiles may be placed on yellow hexes. If the hex has a 
+label (OO, B, or NY), the tile must have a matching label. 
+Upgrading Track Tiles	
+(7.2.2)
+These restrictions apply to tile upgrades:
+1 A railroad upgrading a tile must be able to trace a legal train 
+route (see 7.4.2, p. 21) of any length from one of its stations to 
+one of the track segments on the tile upgraded. 
+2 A railroad may not upgrade a tile such that a track segment on 
+the new tile runs off the hex grid, terminates against the blank 
+side of a grey hexagon, or terminates against a solid red hex side 
+(i.e., a lake, inlet, or river). 
+3 All track segments on the replaced tile must be maintained in 
+the same orientations on the new tile.
+4 When a tile is replaced, all stations on the replaced tile must be 
+placed on the new tile with the same connections as before. 
+5 A railroad may only use certain tiles to upgrade each specific 
+tile. In addition, only green tiles may upgrade yellow tiles, only 
+brown tiles may upgrade green tiles, and only gray tiles may 
+upgrade brown tiles. 
+6 If a tile to be upgraded has a label (OO, B, or NY), the label on 
+the new tile must match the label on the tile to be upgraded.
+7There is no cost to upgrade a tile, regardless of the terrain. 
+Tan Hex	
+Yellow Tile #s
+0 cities . . . . . . . . . . . . . . . . A1, A2, A3
+1 small city . . . . . . . . . . . . A4, A5, A6
+2 small cities . . . . . . . . . . . . A10-A14
+1 large city . . . . . . . . . . . . . . . . . . . A7
+Yellow Hex	
+Green Tile #s
+2 small cities (oo) . . . . . . . . . . . . oo2
+Baltimore . . . . . . . . . . . . . . . . . . . bb1
+Boston . . . . . . . . . . . . . . . . . . . . . . bb1
+New York . . . . . . . . . . . . . . . . . . . ny1
+Yellow 	
+Green 
+Tile (#)	
+A1 (7) . . . . . . . . . . . . . B1-B3,B8-B11
+A2 (8) . . . . B2, B5, B8, B9, B12-B14
+A3 (4) . . . . . B3, B10, B11, B13, B14
+A4 (2) . . . . . . . . . . . . . . . . . . . . . none 
+A5 (2) . . . . . . . . . . . . . . . . . . . . . none
+A6 (2) . . . . . . . . . . . . . . . . . . . . . none 
+A7 (4) . . . . . . . . . . . . . . . . . . B35, B37 
+A10 (1) . . . . . . . . . . . . . . . . . . . . none 
+A11 (1) . . . . . . . . . . . . . . . . . . . . none 
+A12 (1) . . . . . . . . . . . . . . . . . . . . none 
+A13 (1) . . . . . . . . . . . . . . . . . . . . none 
+A14 (1) . . . . . . . . . . . . . . . . . . . . none 
+Green Tile(#)	Brown Tile Upgrade
+B1 (1) . . . . . . . . . . . . . . . . . . . C5, C6
+B2 (1) . . . . . . . . . . . . . . . . . . . C7, C8
+B3 (1) . . . . . . . . . . . . . . . . . . . . . . C9
+B5 (1) . . . . . . . . . . . . . . . . . . C9, C10
+B8 (3) . . . . . . . . . . . . C1, C5, C7, C9
+B9 (3) . . . . . . . . . . . . C2, C5, C8, C9
+B10 (1) . . . . . . . . . . . . . . C2, C6, C7
+B11 (1) . . . . . . . . . . . . . . C1, C6, C8
+B12 (1) . . . . . . . . . . . . . . C3, C7, C8
+B13 (1) . . . . . . . . . . C4, C8, C9, C10
+B14 (1) . . . . . . . . . . C4, C7, C9, C10
+B35 (3) . . . . . . . . . . . . . . . . . . . . C15
+B37 (2) . . . . . . . . . . . . . . . . . . . . C15
+oo2 (2) . . . . oo10-oo12, oo15,oo16
+bb1 (2) . . . . . . . . . . . . . . . . . . . . . bb5
+ny1 (1) . . . . . . . . . . . . . . . . . . . . . . ny5
+
+Place a Station	
+(7.3)
+When a railroad places one of its tokens on a large city circle, that 
+token becomes a station for that railroad. A station has two effects:
+ Stations allow a city to be a base for its railroad’s routes (see 7.4.2)
+ Stations can block other railroads’ routes (see 7.3.3).
+Placing a Home station	
+(7.3.1)
+At the beginning of a railroad’s first turn of operation, it must 
+place a token in its starting city circle to create its home station. 
+There is no cost to perform this action.
+Placing Additional Stations	
+(7.3.2)
+During its turn in an operating round, a railroad may place one 
+token in a city circle to create a station. This may be in addition to 
+the placement of a home station. The following restrictions apply:
+ The railroad must be able to trace a legal train route (see 7.4.2, 
+p. 21) of any length from one of its other stations to the city in 
+which the token is being placed. 
+ A railroad using the 
+effects of the DH private company (see pp. 46-47). 
+ The first additional station costs $40; later ones cost $100 each.
+ The railroad may only place a token in an empty city circle.
+ The railroad may not create a station on a hex already containing 
+one of its stations.
+ A railroad’s station placement is limited by the number of tokens 
+it has. 
+ A railroad may not place a token in a city if it would block 
+the creation of the home station of a railroad that has not yet 
+operated.
+ The Erie home station may be placed on either city in the yellow 
+Note — Starting cities are noted on the 
+board by the presence of the railroad 
+logos in the city’s hex.
+Note — A railroad’s route may not pass 
+through a city that has other railroads’ 
+stations in all of its circles.
+Note — The Erie does not have to place 
+a tile in its starting hex. Similarly, the 
+NYC does not have to place a tile in its 
+starting hex.
+Note — Wealth is the objective of the 
+game, and railroad revenue is one of the 
+principal methods of gaining wealth. It 
+follows that the planning of stations & 
+routes and the provision of trains to run 
+them is of paramount significance to 
+the strategy of this game.
+hex marked with the Erie logo. After 
+a tile has been placed there, no other 
+railroad may place a station there 
+until the Erie has placed its home 
+station. 
+Blocking Routes (7.3.3) 
+As long as a city has an empty circle, any 
+railroad may run a route (see 7.4.2, p. 21) 
+through that city.
+Once all of the circles in a city have 
+stations, only a railroad with one of those 
+stations run a route through that city. 
+However any railroad may use the city 
+as a starting or ending city for a route as 
+long as other normal route requirements 
+are met (see 7.4.2, p. 21).
+Example: The B&O can place a station 
+at A. It cannot place at B because it 
+does not connect to that city with track. 
+It cannot place at C because the PRR 
+station at F blocks the route. And, it 
+may not place at E because “a route may 
+not reverse at a junction.” Both Gs have 
+junctions that block the route to E. 
+The PRR can place a station at E or 
+C. It cannot place a station at A or at 
+B—the B&O station at H blocks it. In 
+addition, the PRR cannot place a station 
+at D. A railroad may not have more 
+than one station on the same hex and the 
+PRR already has one at F. 
+
+Example: The B&O’s best run connects 
+7 cities: 1 2 3 4 5 6 7. It cannot 
+connect 2 without backtracking and 
+the Deep South adds more revenue than 
+Richmond. The total revenue would be 
+270 = 60+50+10+30+50+30+40. But 
+you would need a diesel to run it.
+Example: The PRR’a best run connects 5 cities: 2 3 4 
+5 6. It cannot connect 1 because it would have to back 
+track or drop 2 from the route. It cannot connect 6 7 
+because the B&O blocks them. The total revenue would 
+be 200 = 50+30+10+50+60.
+Note — Red (hex-like) areas represent 
+off board cities and may be included as 
+the starting city and/or ending city of a 
+route. However, these red areas may not 
+form part of the middle of a route (i.e., 
+they cannot be run through). 
+Note — Trains are purchased at the 
+end of a turn, so a train may not run 
+on the turn it is purchased. Therefore, a 
+railroad can never run a train on its first 
+operating turn.
+Note — Initially, the required station 
+on a route is very likely to be the 
+railroad’s home station. But as the game 
+progresses, railroads may operate from 
+other stations which provide for more 
+lucrative routes.
+Note —Separate cities in the same hex 
+are considered as different “cities” for 
+route purposes. For example, a route 
+may enter the top of the New York hex 
+from the northeast, exit to the north-
+west, and then enter the bottom New 
+York from the west to score both cities.
+Note — Trains may not be combined 
+or “double headed” to obtain a longer 
+route.
+Run Trains	
+(7.4)
+Each train owned by a railroad may run once during its operating 
+turn. A train runs on a route (see 7.4.2 below). That route must 
+include of a series of two or more cities that are connected by track. 
+The train generates revenue based upon the values of the cities on 
+that route. 
+When declaring the routes for a railroad’s trains, the combination 
+of routes with the highest revenue must be chosen. 
+For the purposes of running trains and choosing routes, “city” 
+refers to a large city, a small city, or an off-board red hex. 
+Running a Train	
+(7.4.1)
+On each train there is a “D” or a large number ranging from 2 
+to 6. The number represents the maximum number of cities that 
+the train may have on its route when it runs. A train with a “D” is a 
+diesel and it has no limit on the maximum number of cities on its 
+route when it runs.
+A train may run a shorter route than the maximum allowed if the 
+“highest total revenue” requirement is met or when a maximum 
+route does not exist. However, when a train runs it must have at 
+least two cities on its route.
+Routes	
+(7.4.2)
+A route for a railroad is a continuous segment of track that 
+connects to at least one city containing one of the railroad’s 
+stations. The following factors apply:
+a A route must be continuous. A route may not reverse at a 
+junction. A route may not change track at a crossover. A route 
+may not use the same section of track more than once.
+a A route may begin or end at any city. However, a route may 
+not pass through a red off board area or a large city if all of 
+its circles contain stations belonging to other 
+railroads.
+a The number of cities on a route includes all of 
+the cities that the route runs through or to. A 
+route may not skip a city that it connects.
+a A route that enters a city on one track may exit 
+the city on any other track. 
+a A route may include different sections of track 
+on the same tile.
+a A route may not include the same city more 
+than once, but it may include different cities in 
+the same hex.
+When a railroad has two or more trains each 
+runing a route, none of those routes may use the 
+same track. However, the routes may meet or cross 
+at cities, and/or use two separate tracks in the same 
+hex.
+
+I 
+J
+Note — If after declaring a route for a 
+train, another player can demonstrate 
+another route that earns a higher 
+revenue, the highest revenue route must 
+be taken. However, players are never 
+required to point out a higher possible 
+revenue than claimed. 
+Example: Consider a railroad where the 
+president owns 50% of the shares, 30% 
+remains unsold in the bank, and 20% is 
+in the bank pool. If the railroad’s revenue 
+is $50 and a dividend is declared, the 
+player holding 50% receives $25, $10 goes 
+into the railroad’s treasury, and the other 
+$15 remains in the bank. 
+Note — Revenue from a private 
+company owned by a railroad is not 
+available for dividends but is paid into 
+the railroad’s treasury. 
+Example: In this example, the tracks tiles have been laid as shown below. 
+In addition, the B&O home station is in hex F. A route is indicated by 
+the letters of the hexes it passes through. Thus, FED starts in F and passes 
+through E to end in D. In all cases a route is the same in either direction—
+FED is identical to DEF. (The revenue shown in parentheses.) [Illegal 
+routes are shown in brackets.] Unless otherwise indicated, each train 
+scores its maximum number of cities. Before reading #5 below, see if you 
+can find 7 different legal 3 city routes for a 3-train. 
+Note that the EDA route is illegal because red areas cannot be in 
+the middle of a route. If B was a straight track connecting A and C, 
+DABCFED would be illegal—the same red area cannot be both the 
+beginning and end of a route.
+1) Legal routes if operating one 2-train: FE (80), 
+FCBE (80), and FIJ (60). 
+2) Illegal routes if operating one 2-train: 
+FCG [reversing direction at a junction], 
+FCBAD [changing track at a crossover], and 
+DE, EH, or EBCG [no station on route]. 
+3) Legal routes if operating two 2-trains: 
+any two of the routes in #1. 
+4) Legal routes if operating three 2-trains: 
+all three of the routes in #1. 
+5) Legal routes if operating one 3-train: EFIJ (90), 
+EBCFIJ (90), GCBEF (100), FED (110), 
+FEH (100), FCBED (110), or FCBEH (100). 
+6) Illegal routes if operating a 3-train, 
+in addition to those demonstrated in #2: 
+FEBCF [scoring same city twice on same route], 
+and EFE [using same track section twice plus 
+scoring same city twice]. 
+7) Legal routes if operating two 3-trains: EFIJ (90) 
+and either of FCBED (110) or FCBEH (100); 
+GCBEF (100) and FIJ (60)­—the second 
+3-train can only operate as a 2-train; 
+EBCFIJ (90) and either of DEF (110) or 
+HEF (100); FCBED (110) and FEH (100); or 
+FCBEH (100) and FED (110). 
+8) Illegal routes if operating two 3-trains in addition 
+to those already demonstrated: FED and FEH 
+[separately legal, but illegal in combination 
+because they both use the same track—EF]. 
+For each train combination, the chart below lists one 
+set of routes that yields the best revenue possible:
+Trains: Revenue	
+Best Revenue Routes
+One 2-train: $80........................................................FE
+Two 2-trains: $160........................................FE, FCBE 
+Three 2-trains: $220...............................FE, FCBE, FIJ 
+Two 2-trains, one 3-train: $250........ FCBE, FIJ, FED 
+One 2-train, two 3-trains: $270.....FIJ, FEH. FCBED 
+Two 3-trains: $210................................. FCBED, FEH 
+One 3-train, one 4-train: $220.......... FEH, DEBCFIJ 
+Collect Revenue	
+(7.5)
+Each city has a revenue value. When a train runs, it generates 
+revenue equal to the sum of the revenue values of all of the cities 
+(a minimum of 2) on its route. Each of the red off-board areas has 
+two values. Initially, use the lower values. After the first 5-train is 
+purchased, use the larger values.
+Once a railroad has run all of its trains, add the totals of all of the 
+runs together to arrive at the revenue for this railroad for the turn. 
+The president of that railroad then decides how this total revenue 
+will be paid out. It can either be paid out to the stock holders 
+(as dividends) or to the railroad itself (added to the corporate 
+treasury).
+Dividends
+If a railroad pays dividends, its total revenue is paid out to the 
+stockholders (10% for each 10% share held). Shares in the bank pool 
+pay dividends to the corporate treasury. No payments are made for 
+unsold initial offering shares.
+Payments to the Railroad
+If no dividend is paid, add the revenue to the railroad’s treasury. 
+Share Value Adjustments
+A railroad’s share value increases when it pays dividends and 
+decreases when it does not pay dividends (see 5.5, p. 13).
+
+Purchase Trains ◈	
+(7.6)
+At the end of its operating turn, a railroad has the option to 
+purchase trains from the bank.
+a Trains must be purchased one at a time.
+a If the railroad already meets or exceeds the current phase’s limit 
+on the number of trains owned, it may not purchase a train.
+a A train may be purchased from the bank, the open market, or 
+another railroad.
+a Trains must be purchased from the bank at face value (on the 
+train card) in order of increasing size. The smallest, the 2-trains, 
+are bought first. When all these have been sold the 3-trains 
+become available, then the 4-trains, etc. (Exception: see diesels 
+below.)
+a The open market consists of trains discarded by railroads (see 
+7.6.1 below). These trains may be purchased for face value (on 
+the train card). The payment goes to the bank. 
+a A train may be purchased from another railroad for any 
+price that is mutually agreed to by the president(s) of the two 
+railroads involved. The entire transaction must be completed 
+during the purchasing railroad’s turn. A railroad is not required 
+to buy a train from another railroad. A railroad may buy 
+another railroad’s last train. The minimum price for a train 
+purchased from another railroad is $1.
+a Diesels — Once the first 6-train is bought, the diesel (“D”) 
+trains may be purchased in addition to any 6 trains still in the 
+bank. A diesel train costs $1100. But, the price is only $800 if 
+the railroad “trades-in” a 4-, 5-, or 6- train. The exchanged train 
+(if not obsoleted by the exchange) is placed in the open market.
+Excess Trains	
+(7.6.1)
+Until a 4-train is purchased, a railroad may own a maximum of 
+four trains. When the first 4-train is purchased, that maximum 
+number of trains is reduced to three. When the first 5-train is 
+purchased, that maximum number of trains is reduced to two. 
+If a railroad finds itself with an excess train, the president must 
+choose a train to discard. A discarded train goes to the open market 
+and its railroad receives no payment for it. If multiple railroads 
+must discard at the same time, they discard in order of their share 
+values—with the highest valued railroad deciding first.
+Forced Train Purchases	
+(7.6.2)
+If a railroad with a legal train route connecting at least 2 cities 
+has no train at the end of its operating turn, it must immediately 
+purchase a train.
+a If the railroad has enough money, it must buy a train using 
+the normal rules—including buying a train from a another 
+railroad.
+a If a railroad cannot buy a train with the monies in its treasury, 
+and the combined monies of it and its president are enough to 
+purchase the least expensive train between the bank and the 
+open market, it must do so. 
+	
+	
+Maximum 
+Trigger	 # of Trains
+	
+2-train	
+	
+3-train	
+	
+4-train	
+	
+5-train	
+	
+5+	
+—	
+Note — Trains must be purchased one 
+at a time because the purchase of a train 
+may trigger a phase change. Thus, if a 
+railroad wishes to purchase more than 
+one train, it would purchase one, resolve 
+any phase change, purchase another 
+one, and so on. If the purchase of a 
+train triggers a phase change and that 
+change reduces the number of trains a 
+corporation may own, the railroad may 
+find itself in a position where it is not 
+able to purchase another train.
+Example: A railroad owning a 3- and 
+4-train may buy the first 5-train offered 
+because prior to this sale the corporation 
+was allowed to hold three trains. 
+Immediately after the purchase, however, 
+the railroad must return one of its trains 
+to the bank as it is now over the new 
+train limit of two.
+Note — The purchase of the first diesel 
+removes the remaining 4-trains from 
+play. 
+Note — If a railroad does not have a 
+legal train route to run, it need not own 
+or buy a train. 
+Note — A railroad may not discard or 
+scrap a train to make space for a new 
+train.
+Note —See the next page a full example 
+of a forced train purchase.
+★ 1830 Classic — If a railroad 
+is forced to buy a train and its 
+money plus the president’s money 
+together are not enough to make the 
+purchase, the president is forced to 
+sell shares to make up the difference. 
+If there is still not enough money 
+after the president sells all of his 
+shares, he goes bankrupt and the 
+game ends.
+
+Example: If the bank runs out of money 
+during the first operating round of three, 
+complete this operating round and the 
+two remaining. 
+Note — Requiring a full sequence 
+of railroad operations after each 
+opportunity to play the stock market 
+prevents a financial swindle that is too 
+devastating even for 1830. As the rules 
+now disarm this ploy, you need not 
+worry about it. But if you haven’t yet 
+worked out what it is, you ought to, 
+perhaps, be asking yourself whether you 
+are a big enough crook to make the big 
+time as a stock racketeer.
+Example: During the last operating 
+round of a cycle, Gerald buys the first 
+6-train and the 3-trains are retired. Alex 
+buys the other 6-train. Bob is the B&M 
+president and only had 3-trains, and he 
+is not the president of another railroad. 
+He tries to buy a train from another 
+player’s railroad, but he gets no offers 
+(just a come-on from the wolves ...). So 
+he needs at least $1100 to buy a diesel.
+The B&M has $310 in its treasury and 
+Bob has $673 of his own money. He has 
+$983 and is still short of the $1100 he 
+needs. He goes into receivership and takes 
+a loan of $117 from the bank. He buys 
+a diesel for the B&M and his turn ends. 
+The operating round ends, and a stock 
+round follows.
+ Bob holds 3 B&M certificates (40%), 
+Gerald holds 3 certificates (30%), and 3 
+certificates are in the bank pool. Gerald 
+buys 2 shares of the B&M. Normally 
+Gerald would become the B&M’s 
+president, but, since it is in receivership, 
+Bob remains the B&M manager. Bob 
+would like to sell a share of B&M to pay 
+off the loan, but cannot since the B&M is 
+in receivership. 
+When the B&M runs during the next 
+operating round, it keeps the revenue 
+and uses part of it to pay off the loan and 
+end the receivership. Gerald has 50% 
+of the B&M shares and Bob only has 
+40%, so Gerald immediately becomes its 
+president. Bob is not happy.
+a If together the railroad and its president do not have enough 
+money to buy a train, both the railroad and its president spend 
+all of their money and the bank pays the rest. The railroad goes 
+into receivership until this “loan” is repaid (see next section).
+Receivership ◈	
+(7.7)
+When a railroad is forced to take out a loan to buy a train, that 
+railroad goes into receivership until the loan is repaid. 
+a The president becomes the railroad’s manager and operates the 
+railroad. Rotate the president’s certificate so that it faces away from 
+its owner. In receivership, a railroad’s manager does not change.
+a Place money under the presidents’ certificate equal to the 
+amount of the loan. 
+a The railroad may not issue dividends and it must use the 
+revenue generated to pay down the loan. Excess revenue on the 
+turn the loan is fully repaid goes into the railroad’s treasury.
+a The railroad’s manager must use any money he acquires to pay 
+down (pay to reduce) the loan until it is fully repaid. 
+a Each time the loan is paid down, remove an equal amount from 
+the money under the president’s certificate. When that money 
+reachs zero, the loan is fully repaid. 
+a The manager’s player may not sell any trains nor shares in the 
+railroad while in receivership, but other players may do so. 
+a When the loan is paid off, the manager becomes the president 
+and the railroad operates normally. If, during the receivership, 
+another player has acquired the most shares in the railroad, that 
+player immediately becomes the new president.
+The End Of The Game	
+(8.0)
+When the bank runs out of money, the game ends the next time 
+that a stock round would normally start. 
+$ If the money runs out during an operating round, the current set 
+of operating rounds is completed and then the game ends.
+$ If the money runs out during a stock round, the stock round 
+is completed normally, a set of operating rounds is completed 
+normally, and then the game ends.
+During play, after the bank’s money runs out, the bank continues 
+to payout and receive money normally. You can record the payouts 
+on paper. Alternatively, each player can return an equal sum of 
+money to the bank to allow normal payouts to continue.
+The winner is the wealthiest player at the end of the game. That is, 
+the player with highest combined total of:
+$ Personal money.
+$ The total value of shares. For each corporation, multiply the 
+number of shares by the share price.
+$ The face value of any owned private companies still in existence. 
+(This is possible but unlikely—the game would have to end before 
+a 5-train had been bought.) Private companies that are owned by 
+corporations or have been closed have no value.
+Note — If a player has more than 
+one railroad in receivership, he may 
+choose the order in which he pays off 
+the loans. 
+
+ awrxrx ★ 1830 Classic ★	 awrxrx
+1830 Classic uses the 1830 Base Game rules with only a few rules 
+changes and additions. However, due to ambiguities in the original 
+rules, a number of clarifications are required. 
+Clarifications	
+(C-1.0)
+For each ambiguous rule in the original 1830 game, these 1830 
+Classic rules use one of the alternatives. The major clarifications are 
+detailed here. The minor clarifications and other alternatives are 
+detailed in the Variants section (pages 28-33). 
+Access to Information	
+(C-1.1)
+All of information on the holdings of the players and railroads is 
+available to all players, except that the amount of money held by a 
+railroad need not be divulged. See V-0.1, p. 28 for variants.
+Selling and Buying in the Same Turn	 (c-1.2)
+During one of your turns during the Stock Round, you may sell 
+shares, then buy your share for that turn, and then sell shares again 
+(i.e., Sell-Buy-Sell). See V-6.1, p. 31 for variants (i.e., Buy-Sell and 
+Sell-Buy).
+Buying Brown-Valued Shares 	
+(C-1.3)
+During your turn in a stock round, you may purchase any 
+number of shares from the bank pool of one corporation whose 
+share value token is in a brown grid box. See V-6.3, p. 31 for 
+variants.
+Laying Tiles	
+(C-1.4)
+A railroad placing a tile must be able to trace a legal route (see 
+7.4.2, p. 21) of any length from one of its stations to one of the 
+track segments on the tile place. This is the “open” variant—more 
+restrictive variants are detailed in V-7.7, p. 33.
+Rules Changes and Additions	 (C-2.0)
+This section details the rules differences between the base game 
+and 1830 Classic.
+Player Seating ★	
+(C-2.1)
+After choosing a banker (see 1.1), seating around the board is 
+determined as follows. The banker chooses a seat and selects the 
+numbered markers from 1 to the number of players. After shuffling 
+the markers, the banker deals one to each player, including 
+himself. Based on those numbers, the players then take their seats 
+in clockwise order relative to the banker. The player with the “1” 
+marker is the starting player, and takes the priority deal card.
+Note — These are the complete rules for 
+Francis Tresham’s original 1830 game.
+
+Initial Purchase of Private Companies ★	 (C-2.2)
+This procedure for purchasing private companies replaces the 
+base game procedure detailed in section 1.3. 
+Beginning with the player with the priority deal card and 
+proceeding clockwise, each player takes a buy-bid-turn. While any 
+private companies remain unpurchased, you and each of the other 
+players must do one of the following during your buy-bid-turn:
+1 Pass (i.e., you neither buy nor bid). 
+2 Pay face value to buy the unbought private company that: 
+ A has no bid, and B has the lowest face value. The player to 
+your left gets the priority deal card.
+3 Bid for another as yet unsold private company.
+When all private companies are bought, a stock round begins.
+Making a Bid	
+(C-2.2.1)
+A bid for a private company must exceed the face value of the 
+company (or of any other bid already made for it) by at least $5. The 
+player must place the bid money in front of him on the table and 
+not use it for any other purpose until ownership of the company is 
+resolved. Any number of players may bid for the same company. 
+Buying a Company with a Bid	
+(C-2.2.2)
+If the private company with the lowest face value has at least one 
+bid on it, the buy-bid-turn sequence is paused. If only one player 
+has a bid on the private company, that player buys it for the amount 
+of the bid. If multiple players have bid on the private company, an 
+auction is held for it:
+$ Only players that already have a bid on the private company may 
+participate in the auction. 
+$ The starting price for the auction is the highest bid already made 
+for that private company. The minimum raise is $5. 
+$ The player with the lowest bid starts the bidding, then bidding 
+proceeds clockwise. 
+$ A player may pass and still bid later if the auction does not end. 
+$ If all of the bidders pass consecutively, the auction ends and 
+the high bidder buys the private company using the money he 
+originally bid and additional money if necessary.
+Unsuccessful bidders are now free to use the money they set aside 
+for their bids. The buy-bid-turn sequence then resumes with the 
+player with the priority deal card.
+Failure to Sell Private Companies	
+(C-2.2.3)
+If all of the players pass consecutively during the buy-bid-turn 
+sequence and the SV is unsold, the price to buy the SV is reduced 
+by $5 and the buy-bid-turn sequence resumes. If the SV’s price 
+reaches $0, the next player to take his buy-bid-turn must buy the 
+SV buys it for $0 (i.e., it is free but is treated as a purchase).
+If all of the players pass during the buy-bid-turn sequence and the 
+SV has been bought, each of the private companies already bought 
+pays revenue to its owner. Then the buy-bid-turn sequence resumes 
+with the player with the priority deal card. 
+Note — A player gains no benefit from 
+bidding twice for the same company.
+Clarification — The auction in the 
+original 1830 rules was not specifically 
+defined. There are other variant types 
+of auctions that can be used (see V-1.8, 
+p. 29).
+Note — If all of the players refuse 
+to buy a private company, revenue 
+payments to private companies already 
+bought may continue for several 
+Rounds—to the great delight of those 
+who are making money out of it!
+Example: Gerald has the priority at 
+the start of a 4 player game with Dave, 
+Bruce, and Keywood to his left in that 
+order. He places a bid of $165 on the CA. 
+Dave bids $225 for the BO, Bruce bids 
+$75 for the DH, and Keywood bids $170 
+for the CA. 
+Coming back to Gerald, he bids $80 for 
+the DH. Dave then buys the SV for $20 
+and the priority deal card goes to Bruce. 
+Bruce passes. Keywood buys buys the CS 
+for $40 and the priority deal card goes to 
+back to Gerald.
+ The bid-buying pauses so that Bruce 
+and Gerald’s bids on the DH can be 
+resolved. Bruce’s original bid of $75 is 
+the lowest, so he bids first. He bids $85. 
+Gerald bids $90. Bruce bids $95. Gerald 
+decides that is too rich for him and 
+passes. Bruce pays his $95 to the bank 
+and takes the DH certificate. 
+Since Keywood was the last player to 
+bid-buy, Gerald is the next to bid-buy. He 
+buys the MH for $110 and the priority 
+deal card goes to Dave. 
+The bid-buying pauses so that Gerald 
+and Keywood’s bids on the CA can be 
+resolved. Gerald bids $175, and Keywood 
+jumps to $200 to speed things up. Gerald 
+is in no hurry and goes to $205. Keywood 
+bids $210. Gerald counts his money and 
+passes. Keywood pays his $210 and takes 
+the CA and the free PRR certifiate that 
+goes with it—a bargain.
+There is only one bid on the BO, so 
+Dave pays his $225 and takes the BO. 
+The end results are:
+Gerald: $490, MH
+Dave: $355, BO, SV, Priority Deal card
+Bruce: $505, DH, 
+Keywood: $350, CA, CS
+
+Note — A forced sale of shares 
+may cause changes of presidency in 
+companies other than the company 
+without a train.
+Note — It is not possible for a railroad 
+without a train (A) to both buy a train 
+from another controlled railroad (B) 
+and also sell stock in that railroad (B) so 
+that a change of presidency occurs. 
+Case 1 – If railroad A purchases a 
+train from railroad B, then railroad A 
+has a train. So, its controlling player 
+may no longer sell stock and keeps the 
+presidency of railroad B. 
+Case 2 – If the stock in railroad B is 
+sold first, the Presidency of railroad B 
+transfers immediately. So, the player 
+controlling railroad A may no longer 
+choose who buys railroad B’s trains.
+Note — If the president cannot raise 
+enough money to buy a train, that 
+player is bankrupt and the game ends 
+immediately.
+Forced Train Purchases ★	
+(C-2.3)
+This procedure for forced train purchases private companies 
+replaces the base game procedure detailed in section 7.6.2. 
+Forced Train Purchases	
+(C-2.3.1)
+If a railroad with a legal train route has no train at the end of its 
+operating turn, it must immediately purchase a train.
+a The railroad may purchase a train from the open market, the 
+bank, or another railroad using the normal rules (see 7.6, p. 23). 
+a Otherwise, if the railroad has enough money, the railroad must 
+purchase the cheapest train available (see note in sidebar). 
+a Otherwise, if together the railroad and its president have 
+enough money, they must purchase the cheapest train available 
+(see note in sidebar). All of the railroad’s money must be spent, 
+and the president must then make up the difference using his 
+own money. However, in this case, the price paid for a train 
+from another railroad may not exceed the train’s face value.
+Forced Sales	
+(C-2.3.2)
+If together the railroad and its president do not have enough 
+money to buy a train, both the railroad and its president spend 
+all of their money. Then the president must sell his shares and/or 
+private companies until he raises enough additional money to be 
+able to purchase a train. These rules apply to forced share sales.
+a The share sales may not cause a change in the presidency of the 
+railroad that is without a train.
+a Any changes of president caused by share sales take place 
+immediately. 
+a The president decides what to sell, in what order to sell it, and 
+how to sell the shares and/or private companies.
+a The president may only sell enough shares to be able to make 
+the forced purchase of a train.
+a The president may sell private companies he owns (if he can 
+find a buyer), but he is not required to do so.
+a If the president controls more than one railroad, his railroad 
+without a train may purchase a train from one of his other 
+railroads. The president is not required to do this.
+Bankruptcy ★	
+(C-2.4)
+If a railroad is forced to buy a train and its money and the 
+president’s money together are not enough to make the purchase, 
+the president must sell shares to make up the difference (see C-2.3 
+above). If there is not enough money after the president sells all 
+of his shares that he is allowed to, he goes bankrupt and the game 
+ends. 
+End of the Game Due to Bankruptcy	 (C-2.5)
+The game ends when the banks funds are exhausted (see 8.0, p. 
+24). An 1830 Classic game also ends when a player goes bankrupt. 
+No further actions may be taken by any player or railroad.
+The Private Companies
+	
+ 	
+	
+	
+$220 / $30
+Note — Available trains include trains 
+in the bank, trains in the open market, 
+and trains you are willing to sell from 
+other railroads you control.
+Note —The bankrupt president’s final 
+score (i.e., wealth) is the value of all of 
+the shares that he could not sell. It is 
+possible, but unlikely, that a bankrupt 
+player can win.
+
+ awrxrxr Variants	
+awrxrxr
+There are a number of different methods for resolving elements 
+of play in 1830. These variant rules arose due to ambiguities in the 
+older rules, differences in the various 18XX games, and personal 
+preference. This section presents a number of these variant rules 
+and suggestions for handling these rules. The variants used in 1830 
+Classic are marked with a “★“ The variants used in the 1830 Base 
+Game and not in 1830 Classic are marked with a “◈“
+These rules can be used in any combination agreed to by the 
+players before a game begins.
+Access to Information (V-0.1)	
+There are a number of ways to handle available information.
+Open Knowledge (◈)— All information on the holdings of players 
+and railroads is available to all players.
+Partial Knowledge — All information except the amount of a 
+railroad’s money need not be revealed.
+Closed Knowledge — A player’s money and a railroad’s money 
+need not be revealed.
+Preparing For Play	
+ (V-1.0)
+There are a number of variants based upon the set up and 
+components used in the game. In general, you can used any of these 
+components in any combination to create your own scenarios.
+Seating Order (V-1.1)
+Sit as You Will — Choose a banker. No designated seating order.
+Random Seat Positions (★) — Chose a banker. Determine seating 
+order as detailed in C-2.1.
+Board & Board Tiles (V-1.2)
+1830 Classic (★) — Use the 1830 Classic board as is.
+1830+ Scenarios — Use the 1830+ board with the special “board 
+tiles” specified for each scenario.
+Available Money Variants (V-1.3)
+The Full 12K (★) — Use all $12,000.
+1830+ Scenarios — Use the money specified for each scenario.
+Short Game — This variant removes $7,500 from the bank. 
+Extended Game — This variant adds $8,000 to the bank. You can 
+use pennies or the like to represent 16 additional $500 bills. 
+Track Tiles Variants (V-1.4)
+1830+ Scenarios — Use the track tiles specified for each scenario.
+Expanded Track Mix A — Use the 1830 Classic tiles and the other 
+tiles that are not city specific. See sidebar chart in the sidebar 
+(this chart also includes the city specific tiles: bb#, to#, ny#).
+Expanded Track Mix B — Use the 1830 Classic tiles and the A8, 
+A9, & B36 tiles. 
+Expanded Track Mix
+Use 1830 Classic Tiles plus:
+Yellow 	
+Green 
+Tile (#)	
+A1 (+5)........................ B1-B3,B8-B11
+A2 (+5). B2, B4, B5, B8, B9, B12-B14
+A3 (+3)........ B3, B10, B11, B13, B14
+A7 (+2)................................. B35-B37
+A8 (2).......................................B35-37
+A9 (2)....................................B35-B37
+A15 (+1)....................................... B29
+A16 (+1)....................................... B29
+A17 (+1)....................................... B30
+A18 (+1)....................................... B28
+	
+Brown 
+Green Tile(#)	
+B4 (1).............................................. C5
+B24 (1)................................. C11-C13
+B25 (1)................................. C11-C13
+B26 (1)................................. C12, C13
+B27 (1).......................................... C12
+B28 (1).......................................... C11
+B29 (1).......................................... C12
+B30 (1).......................................... C13
+B35 (+1)....................................... C15
+B36 (1)......................................... C15
+B37 (+2)....................................... C15
+oo1 (1)............................... oo10-oo17
+oo2 (+1)............................ oo10-oo17
+bb2 (2)....................................bb5-bb7
+to1 (1)..............................................to5
+Gray or	
+Gray 
+Brown Tile(#)	
+C11 (1).................................................
+C12 (1).................................................
+C13 (1).................................................
+C15 (+1)..........................................D4
+oo13 (1)........................................oo20
+oo14 (1)........................................oo20
+oo17 (1)........................................oo20
+bb6 (1)..................................................
+bb7 (1)..................................................
+to5 (1)...................................................
+ny6 (1)..................................................
+oo20 (1)................................................
+D4 (1)..................................................
+
+Private Companies (V-1.5)
+1830 Classic (★) — Use the 6 original private companies.
+1830+ Scenarios — Use the 6 original private companies plus the 
+1830+ private companies specified for each scenario.
+Railroad Corporations (V-1.6)
+1830 Classic (★) — Use the 8 original railroad corporations.
+1830+ Scenarios — Use the 1830+ board with the railroads 
+specified for each scenario.
+Extra Railroads — You may use any combination of the additional 
+railroads with the classic board based on their positions on the 
+1830+ board.
+Train Mix Variants (V-1.7)
+1830 Classic (★) — Use the original train mix: 6x 2-trains, 
+5x 3-trains, 4x 4-trains, 3x 5-trains, 2x 6-trains, 6x diesels.
+1830 Classic (★) — An extra 6-train was available as an option in 
+the original 1830.
+1830+ Scenarios — Use the train mix specified for each scenario.
+“Plus” Trains — This variant uses five “plus” trains (see V-3.0, p. 
+30; and V-7.10, p. 33). 
+No Diesels — This variant removes diesels from the game. So the 
+4-trains are never retired.
+Unlimited Diesels — There are an unlimited number of diesels 
+available. Use token or markers to keep track of additional trains.
+Buying the Private Companies (V-1.8)
+Bid & Choose — Buy the privates as detailed in section 1.3.
+Buy-Bid & Auction (★) — Buy the privates as detailed in C-2.2.
+Auction Variants
+Formal Bidding (★) — Bidding starts with the player holding the 
+priority deal card and proceeds clockwise (see C-2.2, p. 26)
+Free for All — Any participating player can make a bid at anytime. 
+Bidding stops when all participating players agrees to.
+Pass and Still In (★) — A player that passes may bid again.
+Pass and Out — A player that passes may not bid again.
+$5 Minimum Raise (★) — Bids must be raised by at least $5.
+$5 Incremental Bids — Bids may only be raised in multiples of $5.
+$5 Raises — Bids may only be raised by exactly $5.
+Sequence of Play	
+ (2.0)
+Variable Turn Order (★) — The turn order in which railroads 
+operate can change during a operating round if the share values 
+of railroad change. 
+Fixed Turn Order — The turn order in which railroads operate is 
+determined at the beginning of the operating round and does not 
+change during the round. 
+1830+ Private Companies
+Private Company	
+Abbr.
+Schuylkill Valley.............................SV
+Pittsburgh & Louisville................. PL
+Champlain & St. Lawrence........... CS
+C&O Canal.................................... CC
+Potomac & Piedmont.................... PP
+Delaware & Hudson.....................DH
+Mohawk & Hudson.....................MH
+James River & Kanawha.................JK
+Camden & Amboy........................ CA
+Baltimore & Ohio......................... BO 
+1830+ Railroads
+Railroad Corporatiion	
+Abbr.
+Pennsylvania................................ PRR
+New York Central...................... NYC
+Canadian Pacific.........................CPR
+Baltimore & Ohio...................... B&O
+Chesapeake & Ohio...................C&O
+Erie................................................Erie
+New York, 
+ New Haven, & Hartford ....... NNH
+Boston & Maine.........................B&M
+Norfolk & Western..................N&W
+Pere Marquette...........................PMQ
+Nickel Plate..................................NKP
+Reading........................................RDR
+1830+ Trains
+Total Available
+2-trains...............................................7
+3-trains...............................................6
+4-trains...............................................7
+5-trains...............................................4
+6-trains...............................................4
+7-trains...............................................2
+diesels.................................................7
+Variant Trains (see V-7.10, p. 33):
+2+2-train..............................................1
+3+3-train..............................................1
+4+4-train..............................................1
+5+5-train..............................................1
+6+6-train..............................................1
+
+ (3.0)
+Delayed Obsolescence — This variant delays the removal of trains 
+due to obsolescence—each train is allowed to run and earn 
+revenue one more time after it would normally be removed. For 
+example, as soon as the first 4-train is purchased, all 2-trains are 
+normally removed immediately—with this variant in play, each 
+2-train is allowed to run and earn revenue its railroad once more 
+before it is removed from play.
+Delayed Private Company Sales — This variant delays the sale 
+of private companies until after the stock round following the 
+purchase of the first 3-Train. 
+Permanent 4-Trains — This variant removes diesels from the 
+game, so the 4-trains are never retired.
+Delayed Obsolescence for the “Plus” trains — There is one 
+“plus” train for each of the train types between 2 and 6: 2+2, 3+3, 
+4+4, 5+5, and 6+6. Each replaces one of the normal train with the 
+corresponding number. A plus train is always the last bought 
+of its type. In addition, the 2+2 is not retired until the 4+4 train is 
+bought, the 3+3 train is not retired until the 6+6 is bought, and the 
+4+4 train is not retired until the last diesel is bought. 
+(4.0)
+DH Station Tight (★) — If the railroad that bought the DH does 
+not lay a token on the turn it lays the tile on hex F-16, it must 
+follow the normal rules when placing a station (e,g., it must have 
+a route to the hex). Other railroads may lay a tile on hex F-16 
+subject to the ordinary rules, after which, the DH special effects 
+are no longer available.
+DH Station Flexible — The owner of the DH may place a station 
+on hex F-16 on a turn after placing a tile on its starting hex—even 
+if it does not have a route to the hex.
+Schuylkill Valley — If this variant is used, the cost to lay a tile in 
+G-15 is halved for the owner of the SV. The SV is retired if this 
+effect is used. 
+ (5.0)
+Share Price: Selling Shares	
+(V-5.1)
+A corporation’s share value token moves down when a player sells 
+one or more of that corporation’s shares. However, there are several 
+ways to handle this effect.
+Standard (★) — The token moves down 1 grid box for each share 
+sold. If already at the bottom of a column, the token doesn’t move.
+Once Per Block — The token moves down 1 grid box per block of 
+shares sold.
+Once Per Block by non-President — The token moves down 
+1 grid box per block of shares sold by a player who is not the 
+president, and 1 box per share for the president.
+Note — For more on Plus trains see 
+V7.10 on page 33.
+
+Stock Market Reforms — Starting with the stock round following 
+the purchase of the last 5-train, and continuing until the end of 
+the game, all sales result in the share value dropping by one row 
+per block of shares sold, rather than one row for each share sold. 
+All other rules for share sales remain as standard.
+Share Price Increase Linked to Dividend 	
+(V-5.2)
+Share value only increases due to issuance of dividends if 
+dividends are greater than or equal to share price.
+Increased Certificate Limits	
+(V-5.3)
+When using additional railroads, it is often appropriate to 
+increase the certificate limits. The sidebar chart provides some 
+suggested values, and another set of suggested limits is on the game 
+board.
+Stock Rounds	
+ (6.0)
+Selling and Buying in the Same Turn (V-6.1)
+There a number of ways to handle the order of buying and selling 
+during your turn.
+Sell-Buy-Sell (★) — During one of your turns during the stock 
+round, you may sell shares, then buy your one share for that turn, 
+and then sell shares again.
+Sell-Buy — During one of your turns during the stock round, you 
+may sell shares, then buy your share for that turn.
+Buy-Sell — During one of your turns during the stock round, you 
+may buy your share for that turn, and then you may sell shares.
+Selling 2+ Shares in the Same Turn (V-6.2)
+Share Sales as Block (★) — Any shares of the same type are sold as 
+a block during your turn—all shares sold get the same money. 
+Sell Multiple Shares One at a Time — During your turn, you may 
+sell 1 share and let the price drop, then sell another share of the 
+same type and let the price drop, etc. This choice will yield less 
+money for you, so use it with care.
+Buying Brown-Valued Shares (V-6.3)
+Buy From Bank Pool (★) — During your turn in a stock round, 
+you may purchase any number of shares from the bank pool of 
+one corporation whose share value token is in a brown grid box. 
+Buy All — During your turn in a stock round, you may purchase 
+any number of bank shares and shares from the bank pool of one 
+corporation whose share value token is in a brown grid box. 
+Buying and Selling Private Companies (V-6.4)
+Private Company Sales Restriction (★) — A private company 
+may not be both bought and sold during the same stock round. 
+Without this rule, players can freely transfer money by selling and 
+reselling a private company.
+Private Company Sales Unrestricted — Private companies may be 
+bought and sold during the same stock round.
+1830+ Certificate Limits
+2 players . . . . . . . . . . . . . . . . . . . . . 32
+3 players . . . . . . . . . . . . . . . . . . . . . 22
+4 players . . . . . . . . . . . . . . . . . . . . . 18
+5 players . . . . . . . . . . . . . . . . . . . . . 15
+6 players . . . . . . . . . . . . . . . . . . . . . 13
+7 players . . . . . . . . . . . . . . . . . . . . . 12
+
+Operating Rounds	
+(7.0)
+Split Revenues (V-7.1)
+This variant allows you to divide the revenue for your railroad 
+equally between dividends and your railroad. When you do so, 
+your railroad’s share value does not change.
+Railroads with an Additional 20% Share (V-7.2)
+The Erie certificate mix may be modified so that there are two 
+of the 20% certificates (one president’s certificate and one “other” 
+certificate). Similarly the N&W has an “other” 20% certificate.
+The “other” 20% certificate is available for purchase as soon as 
+the president’s certificate is purchased. Players have the option of 
+purchasing either a 10% certificate or the 20% certificate from the 
+initial offering (until the 20% certificate is sold).
+The owner of the “other” 20% certificate has the option of selling 
+only 10% of his certificate. This option is not available if there are 
+no 10% certificates already present in the bank pool to trade for 
+(initial offering certificates may not be considered for this purpose).
+Railroads with a “OO” Starting Hex (V-7.3)
+The Erie has a starting hex that is a yellow “OO” hex. The Erie 
+home station may be placed on either city in the yellow hex marked 
+with the Erie logo (E-11). No other railroad may place a station in 
+that hex until the Erie has placed its home station. 
+The Erie may place a oo2 (#59) green tile on the hex containing 
+its home station (assuming green tiles are available). The Erie does 
+not have to place a tile in its starting hex.
+All of the above also applies to the Pere Marquette for its starting 
+hex (E-5).
+Multiple Starting Hexes (V-7.4)
+When a railroad with multiple starting hexes starts its first turn 
+of operations, its home station token is placed on any one of its 
+starting hexes. There must be a vacant space at one of the locations. 
+If another railroad places a token such that it there are no open city 
+circles at one of the locations, the railroad can only place its home 
+station in one of the other cities. The railroad’s final open starting 
+hex city circle must remain open and reserved for the railroad. The 
+railroads with the potential for multiple starting hexes are:
+C&O — Cleveland (F-6) and Richmond (K-13)
+N&W — Norfolk (L-16) and Roanoke (L-10)
+RDR ­— Schuylkill Valley (G15) and Reading (H-16)
+Non-City Starting Hexes (V-7.5)
+On the 1830+ board, the PRR has a starting hex without a city. 
+There is a special optional station token for the PRR with the 
+railroad’s logo and a circled “10” revenue symbol. When the PRR 
+starts its first turn of operations it places this special token on its 
+logo space. Whenever the PRR runs a route through its starting 
+hex, it may use its home station as a city on its route with a revenue 
+of 10. The track in the hex may be upgraded normally.
+The Reading Railroad also uses this rule.
+Note — There was a set of variant 
+rules concerning the Reading Railroad 
+published in the 1980s. This version of 
+the Reading has no connection to that 
+variant. 
+
+Example: The PRR 
+issues dividends during 
+its turn. Its share value 
+token should move to 
+the right, but it is at the 
+end of the row, so the 
+token moves up to the 
+“350” grid box. The PRR 
+finishes its turn and the 
+game ends.
+Replacing Green OO Tiles (V-7.9)
+Fixed “OO” Cities (★) — When replacing a OO 
+tile (oo2), you must not only 
+“maintain existing track,” you 
+must also maintain the existing 
+cities’ connections to existing 
+track (e.g., a broad curve on 
+a replacement tile may not 
+connect the two track segments 
+on the original OO tile).
+Variable “OO” Cities — When replacing a OO tile 
+(oo2) that does not have 2 stations, you may place 
+a replacement tile (oo11, oo15, oo16) so that the 
+broad curve connects the two track segments on the 
+original OO tile. If there is one station on the tile, 
+its owner may choose which city it occupies on the 
+new tile.
+“Plus” Trains (V-7.10)
+There is one “plus” train for each of the train 
+types between 2 and 6: 2+2, 3+3, 4+4, 5+5, and 6+6. 
+Each replaces one of the normal train with the 
+corresponding number. A plus train is always the last 
+bought of its type. In addition, the 2+2 is not retired 
+until the 4+4 train is bought, the 3+3 train is not retired 
+until the 6+6 is bought, and the 4+4 train is not retired 
+until the last diesel is bought. 
+The sum of the two numbers on a plus-train (i.e., 
+its type times two) is equal to the maximum number 
+of cities that the train may have on its route when it 
+runs. However, the maximum number of large cities 
+on its route is still equal to the train’s type—the rest of 
+the cities must be small cities.
+The End Of The Game (8.0)
+ Market Peaks End of Game —If the share value 
+of any railroad reaches the highest value of the 
+stock market, the game ends after that railroad has 
+finished its current operating turn (or at the end of 
+the stock round if the increase was due to all shares 
+of the stock being sold).
+Reading Railroad (V-7.6)
+The RDR has several variant starting hexes.
+(G-15) — The RDR operated extensively in this 
+area. Use the rules in V-7.4 & V-7.5 for handling 
+the RDR’s home station in this hex. In addition, 
+the cost for laying a tile on its starting hex is 
+only $60 for the RDR only.
+(H-16) — This reflects the historical development 
+of the railroad, but it can potentially be very 
+disruptive to the PRR and B&O.
+Choice — The RDR can choose its starting hex 
+(G-15 or H-16) as detailed in V-7.4.
+Laying Tiles (V-7.7)
+Open Track Placement (★) — A railroad placing 
+a tile must be able to trace a legal train route of 
+any length from one of its stations to at least one 
+track segments on the tile placed. 
+Closed Track Placement — A railroad placing 
+a tile must be able to trace a legal train route of 
+any length from one of its stations to at least one 
+new track segments on the tile placed. 
+Hybrid Track Placement — The closed variant 
+is used, plus a tile may be placed if the new tile 
+pays out more revenue.
+Buying and Selling Trains (V-7.8)
+Firm Train Limit (★) — A railroad may not buy 
+a train if it already has the maximum number of 
+trains allowed.
+Flexible Train Limit — A railroad may buy 
+a train such that it exceeds the limit on the 
+number of trains that a railroad can have. 
+However, it must then discard a train to the 
+open market.
+Can Sell a Railroad’s Last Train (★) — A railroad 
+with a legal route may sell its last train. It is only 
+required to have a train during its own turn.
+Can’t Sell a Railroad’s Last Train — A railroad 
+with a legal route may not sell its last train.
+➥
+
+Components (S-1.1)
+marked with a D:
+Coal River Hex (30a) . . . . . . . . . L-8
+SE Warehouse (30b) . . . . . . . . . M-13
+SW Warehouse (30c) . . . . . . . . . L-2
+W Warehouse (30d) . . . . . . . . . . F-2
+NW Warehouse (30e) . . . . . . . .A-11
+NE Warehouse (30f) . . . . . . . . . B-24
+Straight Track (A1) . . . . . . . . . M-11
+3 Railroads — 
+Add the Norfolk & Western 
+(N&W); add the Pere Marquette 
+(PMQ);use the D side of the two 
+Erie certificates so marked.
+4 Private Companies — Add the 
+James River & Kanawha Company. 
+Face value: $120, Revenue: $20. 
+The initial purchaser of the JK 
+receives a free Kanawha license 
+which can not be sold or traded 
+(see p. 35 for license effects). The 
+railroad has the right to build on 
+any one (1) hex that is adjacent 
+to the Kanawha Coal River hex at 
+half price. This would constitute 
+(S-1.0)	
+“A Level Playing Field”	
+Scenario D	
+by Morgan Dontanville
+In 1830 Classic, certain railroads are generally considered to be 
+1st tier railroads, while the others are 2nd tier. The former have the 
+potential to generate more revenue than the latter due to proximity 
+to New York, number of stations, and a number of other factors.
+This scenario makes changes to 1830 Classic so that all railroads 
+have roughly the same potential for revenue generation.
+(S-1.2)
+Use the components detailed in the sidebar and summarized in 
+scenario tables on pp. 45-47.
+The Phases (3.0)
+Once the first 6-train is bought, 7-trains and diesels are available.
+Private Companies (4.0)
+The James River & Kanawha (JK) company is available between 
+the MH and the CA.
+Certificate Limits (5.2)
+The limits on the number of certificates that a player may have are 
+detailed in the sidebar.
+Norfolk & Western — The base city of the N&W is Norfolk (L-16).
+The N&W has a second 20% share certificate that is handled just 
+like the Erie’s second 20% certificate.
+Pere Marquette — The base city of the PMQ is Detroit/Windsor 
+(E-5). The PMQ may start in either Detroit or Windsor.
+This section presents a number of “1830+” scenarios. Each 
+scenario details a set of variant rules that can be used with 1830 
+Classic to play a specific version of 1830+.
+Setting Up the 1830+ Board
+For each 1830+ scenario, you need to place a few board tiles on 
+the 1830+ board before beginning play. These tiles are specified 
+in Table T-01 on p. 44. Each tile also has brown, circled leters 
+indicating which scenarios it is used with.
+During play, you should treat these board tiles as if they were part 
+of the board (i.e., you do not remove them, and just place any new 
+tiles on top of the board tiles).
+ awrxrx 1830+ Scenarios	 awrxrx
+Pulling the Track Tiles & Trains
+For each scenario, remove the 
+track tiles that are not available— as 
+specified in each scenario’s section 
+in the rules, and in Table T-02 on 
+p. 45. Each tile also has brown, 
+circled letter indicating the scenarios 
+it is used with.
+Similarly, you need to stack the 
+available trains next to the board as 
+specified in Table T-03 on p. 45.
+
+Erie — The Erie certificate mix is modified so that there are now 
+two of the 20% certificates (one president’s certificate and one 
+“other” certificate).
+The “other” 20% certificate is available for purchase as soon as 
+the president’s certificate is purchased. Players have the option of 
+purchasing either a 10% certificate or the 20% certificate from the 
+initial offering (until the 20% certificate is sold).
+The owner of the “other 20% certificate has the option of selling 
+only 10% of his certificate. This option is not available if there are 
+no 10% certificates already present in the bank pool to trade for 
+(initial offering certificates may not be considered for this purpose).
+The Pere Marquette
+All rules about laying track for the Erie in theh base game are to 
+be applied to both the Erie and the PMQ in this scenario. 
+The Virginia Coalfields
+The Kanawha-Coal (K-C) River hex represents the Virginia 
+coalfields. Each corporation that wishes to run into or through this 
+hex must pay $120 license cost to build their route to the local coal 
+mines. This hex counts as a large city stop on a train route and any 
+train may only pass through this hex once per run.
+A railroad wishing to access the K-C River hex must have a 
+connection between one of its tokens and the K-C River hex that by 
+a route of infinite length.
+The purchase of a K-C River access license takes place during the 
+track-building phase of a railroad’s operating round and is made in 
+addition to any track building that may take place.
+A railroad’s K-C River access license is not transferable via trade, 
+sale, or any other method.
+Place a Station (7.3)
+Station Tokens
+All station tokens cost $100.
+The C&O
+When the C&O starts its first turn of operations, a token is 
+placed at either Cleveland or Richmond. No railroads may place 
+a token in Richmond until the C&O lays its first token. If another 
+company places a token such that it closes out Cleveland then the 
+C&O can only open in Richmond. If the C&O starts in Cleveland, 
+the Richmond space is open to token placement by other railroads. 
+The C&O may not place a token in both locations without a valid 
+connection.
+Run Trains (7.4)
+Warehousing
+ Each red off-board area is covered with a board tile. Those board 
+tiles represent railroad facilities and warehousing that allow trains 
+to “run through” the area. A route may pass through a warehouse. 
+Treat the warehouse area as a city for purposes of revenue and train 
+capacity.
+the railroad’s regular tile lay and 
+close the company. The owner 
+retains the license after the 
+JK closes. 
+5 Trains — A diesel only costs $900 
+to buy and $750 with a trade-in.
+Add (total #)
+2-trains . . . . . . . . . . . . . . . . . . .+1 (7)
+3-trains . . . . . . . . . . . . . . . . . . .+1 (6)
+4-trains . . . . . . . . . . . . . . . . . . .+2 (6)
+5-trains . . . . . . . . . . . . . . . . . . .+1 (4)
+6-trains . . . . . . . . . . . . . . . . . . .+1 (4)
+7-trains . . . . . . . . . . . . . . . . . . .+2 (2)
+diesels . . . . . . . . . . . . . . . . . . . . . . . (6)
+6 Track Tiles — Except as noted 
+here, use all of the track tiles—the 
+1830 Classic track tiles and the 
+1830+ track tiles. Remove these 
+tiles:
+A8 (5) . . . . . . . . . . . . . . . . . . . . . . . . 2 
+A9 (6) . . . . . . . . . . . . . . . . . . . . . . . . 2
+bb2 (592) . . . . . . . . . . . . . . . . . . . . . 2
+7Money — $12,000; if there are 
+7 players, give each $360
+8 Special — 3x Kanawha Coal River 
+Access Licenses (each marked with 
+a D). Use a proxy marker if a 4th 
+player wants a license.
+Certificate Limits
+2 players . . . . . . . . . . . . . . . . . . . . . 32
+3 players . . . . . . . . . . . . . . . . . . . . . 22
+4 players . . . . . . . . . . . . . . . . . . . . . 18
+5 players . . . . . . . . . . . . . . . . . . . . . 15
+6 players . . . . . . . . . . . . . . . . . . . . . 13
+7 players . . . . . . . . . . . . . . . . . . . . . 12
+Variant 
+The A9 and A10 track tiles are 
+available.
+
+More than anything, I felt that there was 
+an imbalance on the board. Because of their 
+starting locations, some companies were 
+just flat out better than others. Now you can 
+create situations for weaker companies to 
+become powerhouses, but I wanted to have 
+a map that allowed for all companies to have 
+a fighting chance. Now, with this scenario 
+you get to see steady activity in the west side 
+of the board. In addition, the dog that was 
+the CanPac is actually a pretty good buy 
+now; and Erie, the company that was always 
+dependent on the groundwork that was given 
+to it, actually gives people incentive to buy 
+in. In addition to that, the C&O is allowed 
+to mix it up in either the north or the south. 
+This allows for a dynamic change in how the 
+early game plays out. You just can’t depend 
+on the C&O’s involvement with a particular 
+location.
+I know what I like in an 18xx game and 
+tried to fashion that kind of growth and 
+variability. I also know that I am merely a 
+weekend warrior when it comes to these 
+games. In order to feel confident about its 
+playability I took this game to the yahoo 
+18xx board (http://games.groups.yahoo.com/
+group/18xx) and wrangled up some of the 
+experts in the field (Matt Riley, Harry White, 
+Frank P. Visco). I especially want to thank 
+J C Lawrence & Aliza Panitz for intense 
+playtesting and great ideas and advice, John 
+David Galt for being a catalog of information 
+and sound mind, and Hanno Girke for 
+properly keeping everyone in line. All in all, I 
+feel this scenario succeeds mainly because of 
+these fine folk.
+—Morgan Dontanville
+PRR Starting Hex
+On the 1830+ board, the PRR has a starting hex without a city. 
+There is a special optional station token for the PRR with the 
+railroad’s logo and a circled “10” revenue symbol. When the PRR 
+starts its first turn of operations it places this special token on its 
+logo space. Whenever the PRR runs a route through its starting 
+hex, it may use its home station as a city on its route with a revenue 
+of 10. Other railroads may use the track in the hex normally. The 
+track in the hex may be upgraded normally.
+Collect Revenue (7.5)
+In addition to the warehouses, some gray hexes have two values. 
+The lower value is used until the first 5 train is bought, immediately 
+after which the higher value is used. These hexes include Montreal, 
+Norfolk, and the Kanawha Coal River hex.
+Purchasing Trains
+Once the first 6-train is purchased, 7 and D trains are also 
+available as an alternative to other 6-trains. Diesels may be bought 
+for the $900 face value or for $750 with a trade in. Either a 4, 5, 6, 
+or 7 train may be traded in for the $150 discount. Any 5, 6, or 7 
+train traded in for credit on a diesel purchase may be repurchased 
+from the bank pool at face value. 
+(S-1.3)
+I’ve always loved the basic 1830. Over the years, when people would ask, what 
+is the best intro game into the 18xx line, I’d begrudgingly say 1830. It was hard 
+to expect someone to get into a system by seeking out an expensive, hard to find, 
+out of print game. While there are other passable ways into the system, I felt this 
+was the best. What makes 1830 so great as an intro system is its purity. People 
+have made their own changes over the years to suit their tastes, but 1830 is the 
+hard fast punch to the jaw.
+Now, when presented with an opportunity to add to the system I have to 
+ask myself why even attempt to change a good thing? First, this scenario came 
+straight from the work of others. There was too much worthwhile work and new 
+ideas by talented designers that went into attempting to make 1830 even better. I 
+felt it would have been a shame to let the extended legacy fall by the wayside. 
+Because things change over time, I was faced with a decision to either let these 
+ideas turn fallow, or to be inspired by the explorations. I tracked down Federico 
+Vellani to see if he wanted his work with the Pere Marquette added to our set and 
+he seemed pleased to see it come back to life again. The other additions we have 
+had to make on our own.
+So when I approached this version of 1830, I thought that I would try to tackle 
+a few issues that I feel that the base game could change. One, I feel that the basic 
+1830 ends too frequently with bankruptcy. While I want the danger of going bust 
+to be there, I also want there to be a likely chance that the game will grow and 
+develop to its natural conclusion—busting the bank.
+If you limit the likelihood of a player prematurely ending the game, then 
+people can play for the long game. It decreases the chances of stumbling 
+into victory, strictly because of the misfortune of a fellow player. The most 
+unfortunate thing for me about bankruptcy is that a player that goes out often 
+must sell their stock, so the value of a middling stock will plummet. If you are in 
+on a company with them, your game can get tanked because they played poorly.
+Trains and station prices have been changed to slow early growth down along 
+with adding new trains into the mix. This will buffer a crazy train rush, so that 
+people will be able to get on their feet. 
+
+Components (S-2.1)
+This scenario uses the 1830 
+Classic game components and the 
+components used in Scenario S-1.0 
+except as detailed in this sidebar.
+2 Board Tiles — Use the board 
+tiles marked with a G:
+Coal River Hex (30a) . . . . . . . . J-10
+Richmond, w/o C&O home (30p) K-13
+Ottawa, w/ no cost (30q) . . . . . B-16
+Toronto, w/30,exits NE,SW (30r) D-10
+Blank (30h) . . . . . . . . . . . . . . . C-21
+SE Warehouse (30b) . . . . . . . . M-13
+SW Warehouse (30c) . . . . . . . . . L-2
+W Warehouse (30d) . . . . . . . . . . F-2
+NW Warehouse (30e) . . . . . . . A-11
+NE Warehouse (30f) . . . . . . . . . B-24
+3 Railroads — Add the Norfolk 
+& Western (N&W); add the Pere 
+Marquette (PMQ).
+4 Private Companies — Add the 
+Potomac & Piedmont Coal and 
+Railroad Company (PP).
+5 Trains — 
+Add (total #)
+2-trains . . . . . . . . . . . . . . . . . . +1 (7)
+3-trains . . . . . . . . . . . . . . . . . . +1 (6)
+4-trains . . . . . . . . . . . . . . . . . . +1 (5)
+5-trains . . . . . . . . . . . . . . . . . . +1 (4)
+6-trains . . . . . . . . . . . . . . . . . . +1 (3)
+7-trains . . . . . . . . . . . . . . . . . . +2 (2)
+Diesels . . . . unlimited, Classic price
+6 Track Tiles — Use all of the track 
+tiles except for:
+A8 (5) . . . . . . . . . . . . . . . . . . . . . . . . 2 
+A9 (6) . . . . . . . . . . . . . . . . . . . . . . . . 2
+B28 (88) . . . . . . . . . . . . . . . . . . . . . . 1
+B29 (204) . . . . . . . . . . . . . . . . . . . . . 1
+B30 (87) . . . . . . . . . . . . . . . . . . . . . . 1
+bb1 (53) . . . . . . . . . . . . . . . . . . . . . . 2
+ny5 (62) . . . . . . . . . . . . . . . . . . . . . . 1
+oo20 (167) . . . . . . . . . . . . . . . . . . . . 1
+D4 (513) . . . . . . . . . . . . . . . . . . . . . . 1
+(S-2.0)	 “No One Expects the Canadian Pacific”	
+Scenario G	
+by Hanno Girke
+This scenario is designed to give the CPR more potential and 
+make it a 1st tier railroad. In addition, it moves the coalfields to 
+the NE so that they are within 3 builds for the C&O, PRR, B&O, 
+and N&W. Use the components detailed in the sidebar (S-2.1) and 
+summarized in the tables on p. 45.
+(S-2.2)
+Unless stated otherwise, all 1830 Classic rules are in effect. In 
+addition, all of the rules for Scenario S-1.0 are in effect unless stated 
+otherwise.
+The Potomac & Piedmont Coal and Railroad Company (PP) 
+company is available between the CS and the DH.
+Face value: $60, Revenue: $10. 
+Effect: A railroad owning the PP receives a free (New River) coal 
+field license which can not be sold or traded (see p. 35 for 
+license effects). When the owning railroad first runs a route 
+including the New River coal field hex, the PP is closed down. 
+The owner still retains the license after the PP closes.
+See Scenario S-1.0.
+C&O — The C&O starting hex is Cleveland.
+Erie — Use the standard certificate mix (i.e., do not use the 2nd 
+20% certificate). 
+For coal fields rules, see Scenario S-1.0. in addition, only the 
+Toronto tiles (to1 and to5) can be used to upgrade D-10.
+Place a Station (7.3)
+Station Tokens
+Station token costs are standard: $40 for the 1st, $100 each for 
+rest.
+Purchasing Trains
+See Scenario S-1.0. The diesels cost is standard: 1100/800.
+(S-2.3)
+This scenario mirrors most of the elements of the first scenario. 
+It also makes some more changes to the CPR’s position to make it a 
+possible 1st tier railroad.
+
+Components (S-3.1)
+marked with a R.
+Coal River Hex (30a) . . . . . . . . . L-8
+3 Railroads — Add the Norfolk & 
+Western (N&W); add the Nickel 
+Plate (NKP).
+4 Private Companies — Add the 
+James River & Kanawha company. 
+Face value: $120, Revenue: $20. 
+A railroad owning the JK receives 
+a free Kanawha license which can 
+not be sold or traded (see p. 35 for 
+license effects). The railroad has the 
+right to build on any one (1) hex 
+that is adjacent to the Kanawha Coal 
+River hex at half price. This would 
+constitute the railroad’s regular tile 
+lay and close the company. The owner 
+retains the license after the JK closes.
+5 Trains — Remove a 1830 Classic 
+2-train, 3-train, 4-train, and 
+5-train (each is marked with a 
+“★“). Add in the five “plus” trains: 
+the 2+2, 3+3, 4+4, 5+5, and 6+6.
+6Track Tiles — Except as noted 
+here, use all of the track tiles—the 
+1830 Classic track tiles and the 
+1830+ tiles. Remove these tiles: 
+bb1 (53) . . . . . . . . . . . . . . . . . . . . . . 2
+7 Money — $12,000.
+8 Special — 3x Kanawha-Coal 
+River Access Licenses). Use a 
+proxy marker if a 4th player wants 
+a license.
+(S-3.0)	
+“The Empire Builders Strike Back”	
+Scenario R	
+by L. Roznai et al.
+This scenario extends the primary regions in play to the south 
+and west. Use the components detailed in the sidebar (S-2.1) and 
+summarized in the tables on p. 45.
+(S-3.2)
+Unless stated otherwise, all 1830 Classic rules are in effect. In 
+addition, all of the rules for Scenario S-1.0 are in effect unless stated 
+otherwise.
+The James River & Kanawha (JK) Company is available between 
+the MH and the CA.
+Erie — The Erie certificate mix is the same as it is in 1830 Classic.
+Norfolk & Western — The base city of the N&W is Norfolk (L-16). 
+Pere Marquette — The Pere Marquette is not used.
+Nickel Plate — The base city of the Nickel Plate is Columbus (H-4). 
+The Virginia Coalfields
+See Scenario S-1.0
+“Plus” Trains (V-7.10)
+There is one “plus” train for each of the train types between 2 and 
+6: 2+2, 3+3, 4+4, 5+5, and 6+6. Each replaces one of the normal train 
+with the corresponding number. A plus train is always the last 
+bought of its type. In addition, the 2+2 is not retired until the 4+4 
+train is bought, the 3+3 train is not retired until the 6+6 is bought, 
+and the 4+4 train is not retired until the last diesel is bought. 
+The sum of the two numbers on a plus-train (i.e., its type times 
+two) is equal to the maximum number of cities that the train may 
+have on its route when it runs. However, the maximum number of 
+large cities on its route is still equal to the train’s type—the rest of 
+the cities must be small cities.
+(S-3.3)
+This scenario mirrors most of the elements of the first scenario. 
+However, it uses an expanded track tile mix, and it uses a more 
+traditional board setup. This allows for a more wide open game 
+even when many stations are placed.
+
+Components (S-4.1)
+Note: Use information on board 
+marked with a B : “F” — 
+Coalfield hex (see special rules) 
+Canal symbol in two places I-11, 
+J-12. It costs $40 to place a tile on 
+an river hex marked with “($40).”
+marked with a B:
+Blank (30h) . . . . . . . . . . . . . . . . . H-4
+Columbus, w/NKP home (30i) H-6
+Blank Gray Lake Erie(30j) . . . . . F-6
+Cleveland, w/o C&O home (30k) F-8
+Old Detroit (30l) . . . . . . . . . . . . .E-5
+Old Toronto (30m) . . . . . . . . . D-10
+Roanoke, 
+ w/ N&W home (30n) . . . . . L-10 
+3 Railroads — Add the 
+Norfolk & Western (N&W); 
+add the Nickel Plate (NKP).
+4 Private Companies — Add both:
+the C&O Canal company, and the 
+Pittsburgh & Louisville 
+Packet company. 
+5 Trains — Remove a 1830 Classic 
+2-train, 3-train, 4-train, and 
+5-train (each is marked with a 
+“★“). Add in the five “plus” trains: 
+the 2+2, 3+3, 4+4, 5+5, and 6+6. (see 
+V-7.10 for details).
+6 Track Tiles — Except as noted 
+here, use all of the track tiles. Also 
+remove these tiles:
+bb2 (592) . . . . . . . . . . . . . . . . . . . . . 2
+bb6 (884) . . . . . . . . . . . . . . . . . . . . . 1
+bb7 (997) . . . . . . . . . . . . . . . . . . . . . 1
+ny6 (883) . . . . . . . . . . . . . . . . . . . . . 1
+oo20 (167) . . . . . . . . . . . . . . . . . . . . 1
+D4 (513) . . . . . . . . . . . . . . . . . . . . . . 1
+(S-4.0)	
+“Opening up West, By-God, Virginia”	
+Scenario B	
+by the Bromleys et al.
+This scenario also opens up the west and southern regions, while 
+also correcting some historical and geographic problems in the 
+original 1830 board. Use the components detailed in the sidebar (S-
+2.1) and summarized in the tables on p. 45.
+(S-4.2)
+C&O Canal (CC) company — Available between CS and DH.
+Face value: $50, Revenue: $10.
+Effect: A railroad owning the CC may build on the hexes marked as 
+containing the CC (I-11, J-12) for a terrain cost of only $20 each. 
+The company is closed when tiles have been laid on both hexes.
+Pittsburgh & Louisville Packet (PL) company — Available 
+between SV and CL.
+Face value: $30, Revenue: $5.
+Effect: A railroad owning the PL may lay a tile on any Ohio river 
+hex with no terrain cost (J-2, J-4, K-5, J-6, J-8, or I-9). This hex 
+need not be connected to one of the railroad’s stations, and it 
+need not be connect to any track at all. This free tile placement 
+may be performed in addition to the railroad’s normal tile 
+placement—on that turn only it may play two tiles. 
+Norfolk & Western — The base city of the N&W is Roanoke (L-10). 
+Nickel Plate — The base city of the NKP is Columbus (H-6). 
+C&O — The base city of the C&O is Richmond (K-13). 
+Share Sale and Increase Variants
+Use variants V-5.2 (p31) and V5.1 (p30) “Once Per Block by 
+Non-President.”
+The Virginia Coal Fields
+All mountain hexes marked with a F have a terrain cost of $60.
+Add +$10 to run revenue for each hex marked with a F. 
+Running Routes (7.5)
+A train may not run to the same hex more than once (including 
+NY and Chicago).
+(S-4.3)
+This scenario mirrors some of the elements of the first scenario. 
+However it also fixes some geographical inaccuracies in the original 
+board and provides a different take on the W. Va. coal fields.
+
+Components (S-5.1)
+0 Economic Uncertainty Tokens 
+— Use the tokens with the 
+following label on the fronts: 
+ 3x “no change,” 
+ 1x “short runs,” 
+ 1x “retain revenue.” 
+If playing with three 5-trains, only 
+use 2 “no change” tokens.
+1 Board — Use the 1830 board or 
+the 1830+ board as preferred.
+2+ Other Components — Use 
+whatever components are specified 
+for the scenario you are playing.
+(S-5.0)	
+“Uncertain Times”
+Scenario T	
+by Keith Thomasson
+This scenario’s rules and mechanisms reflect some of the effects 
+that the Great Depression of the 1930s had on the U.S. railroads. 
+Both the Depression era and the post Depression era are addressed.
+(S-5.2)
+After choosing a banker (1.1), determine the seating around 
+the board AND ownership of the private companies. The banker 
+chooses a seat, shuffles the private companies, and deals one to each 
+player—including himself.
+ a In ascending order based on the price of the private company 
+held, the players then take their seats in clockwise order relative 
+to the banker. 
+a Each player pays the face value price to the bank for ownership 
+of the private company received. 
+a The player with the lowest priced private company is the 
+starting player, give him the priority deal card.
+a Remove the undealt private companies, if any, from the game.
+a If the CA is removed, the PRR share certificate is not issued and 
+remains in the bank, where it is available as a normal share.
+a If the BO is removed, the BO presidency is not issued and 
+remains in the bank, where it is available for purchase just like 
+the other presidencies.
+Options 
+a) The remaining private companies are sold in ascending price 
+order at face value.
+b) The remaining private companies are sold in the usual way. 
+Players may bid for future private companies and auctions may 
+be held as a result..
+The Phases (3.0) & Uncertainty Tokens
+Once the first 5-train is available (i.e., the last 4-train is 
+purchased), turn the Economic Uncertainty (EU) tokens facedown 
+and shuffle them. Each time a 5-train is purchased, flip over a 
+random EU-token:
+a If it is a “no change” token, there is no special effect.
+a If it is the “short runs” token, place the token on the purchasing 
+railroad’s charter. Until this railroad has operated again, each 
+train (for all railroads) behave as if they were half the size 
+(rounded up). For example, a 4-train or 3-train behaves like a 
+2-train, while a 5-train behaves like a 3-train. Once the railroad 
+has completed its next operating turn, remove the “short runs” 
+token from play.
+
+➥
+Example: The PRR issues dividends during its 
+turn. Its share value token should move to the 
+right, but it is at the end of the row, so the token 
+moves up to the “350” grid box. The PRR finishes 
+its turn and the game ends.
+a If it is the “retain revenue” tokens, place the token on the 
+purchasing railroad’s charter. Until this railroad has operated 
+again, all revenue must be retained by its railroad (i.e., dividends 
+may not be paid or split). Once the railroad has completed its 
+next operating turn, remove the “retain revenue’ token from play.
+It is possible for the “short runs” and “retain revenue” tokens to 
+be in play at the same time. It is also possible that neither of these 
+tokens will enter play during the game.
+After the last 5-train has been bought and the token placed, 
+remove the unused token from play. If the “short runs” and/or 
+“retain revenue” tokens are in play when this happens, they stay 
+in play until the relevant railroad has completed its next operating 
+turn.
+Stock Sales (6.1)
+Starting the with stock round following the purchase of the last 
+5-train, and continuing until the end of the game, all sales will 
+result in the share value dropping by one row per block of shares 
+sold, rather than one row for each share sold. All other rules for 
+share sales remain as standard.
+Share Value Token Movement (5.5)
+Starting with the stock round following the purchase of the last 
+5-train, and continuing until the end of the game, the procedure for 
+handling share values increases for declaring dividends changes.
+ When a dividend is declared for a railroad, its share value may 
+move one to four grid boxes on the stock market, depending on the 
+value of the dividend and the current share price. 
+a If the dividend declared is at least 4 times the share value, move 
+the share value token 4 grid boxes. 
+a Otherwise, if the dividend declared is at least 3 times the share 
+value, move the share value token 3 grid boxes.
+a Otherwise, if the dividend declared is at least 2 times the share 
+value, move the share value token 2 grid boxes.
+a Otherwise, the dividend declared is less than 2 times the share 
+value, so move the share value token 1 grid boxes.
+Follow standard stock market rules for this movement: i.e. move 
+to the right where possible, or up one row otherwise.
+End of the Game (8.0)
+If the share value of any railroad reaches (or is at) the highest 
+value of the stock market during an operating round, the game 
+ends after that railroad has finished its turn.
+
+Components (S-6.1)
+1 Board — Use the 1830 Classic 
+board with hese map changes: 
+1) K-13 – add east exit. 
+2) K-15 – add west exit. 
+3) D-24 – add northwest exit.
+2 Railroads — 
+The Reading Railroad is a different 
+variant. Its President’s certificate 
+is worth 3 shares, and it starts in 
+H-14 on a C9 track tile oriented 
+with track leaving E, W, SE, and 
+SW.
+3 Track Tiles — Use the 1830 
+Classic track tiles. The computer 
+game uses four more tiles: 2 more 
+B13 tiles and 2 more B14 tiles.
+ Other Components — The 
+standard components are used.
+(S-6.0)	
+“Dave? What are you doing...”	
+Scenario C	
+by Halspot Selene
+This scenario presents the rules used and variants provided in 
+the 1830 computer game published by Avalon Hill in the 90s. This 
+computer game is still available online and can be played using 
+emulators on Macs as well as on PCs. 
+It is not possible to provide all of the components used in these 
+variants (e.g., one variant calls for unlimited track tiles). So, you 
+will have to use proxy components and/or components from other 
+18xx games. 
+(S-6.2)
+In the uncustomized game, all of the 1830 Classic rules are in 
+effect except as noted below. In addition, you can customize a game 
+by choosing certain variants.
+Buying Private Companies
+A player may not buy a private company from another player. 
+(S-6.3)
+Each of these variants can be “toggled” on and off. 
+Random Revenues
+This variant changes the percentage of revenues earned by 
+railroads by up to 20%. For example, if you would normally earn 
+$100 playing 1830 Classic, you would earn from $80 to $120 with 
+this option in play. This option adds an element of unpredictability. 
+ Each time a railroad operates, mix the 6 markers numbered 1 to 
+6 and randomly pick one (alternatively roll a 6-sided die): 
+ if the result is a 1, the revenue is only 80% of normal; 
+ if the result is a 2, the revenue is only 90% of normal; 
+ if the result is a 3 or 4, the revenue is normal; 
+ if the result is a 5, the revenue is 110% of normal; 
+ if the result is a 6, the revenue is 120% of normal.
+Reading Railroad
+This variant makes the Reading Railroad available as a railroad 
+corporation. The following effects are also active: 
+1) Use the 2 station tiles tiles (bb2, bb7) 
+ for the B&O and B&M starting hexes. 
+2) Use an extra 4-train. 
+3) The maximum number of certificates that 
+ each player can hold is increased by one. 
+4) See the sidebar for additonal map changes.
+Delayed Obsolescence
+This variant delays the removal of trains due 
+to obsolescence—each train is allowed to run 
+and earn revenue one more time after it would 
+normally be removed. For example, as soon 
+as the first 4-train is purchased, all 2-trains 
+are normally removed immediately. With this 
+variant in play, each 2-train is allowed to run 
+and earn revenue its railroad once more. It will 
+ then be removed from play.
+
+Second Edition Credits
+Original Design: Francis Tresham
+Original Developer: Bruce Shelley
+Development: Coleman Charlton, 
+Morgan Dontanville, Pete Fenlon
+Art: Mark Zug (cover), 
+Jared Blando (board), 
+Mike Atkinson (trains)
+Graphic Design: Pete Fenlon, 
+Morgan Dontanville
+Production: Ron Magin, 
+Coleman Charlton, Pete Fenlon
+Proofreading: Henning Kantner, 
+Hanno Girke, Larry Roznai, Ron Magin, 
+Keith Thomasson
+Playtesting: Kurt Fisher, Dallas Pitt, 
+Dave Platnick, Al Rorireau, Ron Magin, 
+Henning Kantner, Hanno Girke
+Special Thanks: Peter Bromley, 
+Robert T. Carty, Jr., Dan Decker, 
+Bill Fogarty, Nick Johnson, 
+Ron Magin, Brad Steffen, Kim 
+McBrady, Marty McDonnell, Brad 
+McWilliams, Jim Miles, Bridget 
+Roznai, Loren Roznai, Guido 
+Teuber Bill Wordelmann, Elaine 
+Wordelmann, Alex Yeager.
+Scenario Design & Development:
+S-1.0: Morgan Dontanville 
+(see Design Notes)
+S-2.0: Hanno Girke
+S-3.0: Larry Roznai, Sue Balmes, Don 
+Glass, Jim Jewell, Bill Wordelmann, 
+Elaine Wordelmann
+S-4.0: Darwin Bromley, Peter Bromley, 
+Ken Gutermuth, Jeff Jackson
+S-5.0: Keith Thomasson
+Dedication
+This edition of 1830 is dedicated to 
+the memory of Gerald Lientz, one of the 
+original playtesters and a true gamer.
+Unlimited track tiles 
+There are an unlimited number of each track 
+tile available in 1830 Classic.
+Additional Tiles
+This variant adds additional track tiles;
+	
+# New	
+	
+Tiles	
+(old #)	
+Notes
+	
+A9(5)	
+2 in tile mix
+	
+A10(6)	
+2 in tile mix
+	
+B10(26)	
+	
+B11(27)	
+	
+B27 (141)	
+	
+B28 (142)	
+	
+B29 (143)	
+	
+B30 (144)	
+Delayed Private Company Sales
+This variant delays the sale of private companies until after the 
+stock round following the purchase of the first 3-Train. 
+Short Game
+This variant removes $7,500 from the bank. 
+Extended Game
+This variant adds $8,000 to the bank. You can use pennies or 
+some other marker to represent 16 additional $500 bills. 
+No Diesels
+This variant makes diesels unavailable.
+Split Revenues
+This variant allows you to divide the revenue for your railroad 
+equally between dividends and your railroad. When you do so, 
+your railroad’s share value does not change.
+Random Map
+The computer game can generate random boards, but, of course, 
+we cannot detail that process with the standard components 
+provided in this game.
+
+Railroad: see corporation.
+Revenue: When a railroad operates, it 
+may generate revenue based upon the the 
+total values of the cities connected by the 
+routes its trains run. Each turn a railroad’s 
+revenue is either paid out as dividends 
+to shareholders or paid entirely into the 
+railroad’s treasury. Revenue is also the 
+income paid to the owner of an existing 
+private company each operating round.
+Route: A length of connected track. A 
+railroad may “run” a route joining two or 
+more cities that does not reverse direction 
+at junctions, change track at cross-overs, 
+or travel the same track section twice. 
+When a railroad is operating more 
+than one train, their routes may not be 
+coincident, except they may meet or cross 
+at cities or use independent tracks on the 
+same tile.
+Stock market: The grid of prices on 
+which railroad tokens are moved to keep 
+track of each railroad’s current share 
+value.
+Stock Round: During this phase of the 
+game, the players have the opportunity 
+to buy and sell shares. A stock round 
+ends when each player has passed in 
+succession.
+Track Tiles: These yellow, green, and 
+brown, and gray hexagonal pieces 
+represent the track constructed by the 
+railroad corporations.
+Station Token: These round colored 
+markers depict the logos of the railroads. 
+Each railroad has either 2, 3, or 4 station 
+tokens that are placed in cities on the 
+board.
+Trains (train cards): Each train card 
+show a large identifying number or letter, 
+a corresponding locomotive silhouette, 
+and the train’s cost. The number on the 
+card is the number of cities the train may 
+connect on its route. Diesel (D) trains 
+may connect as many cities as they can 
+reach.
+Upgrade (of a tile): This is the act of 
+replacing a yellow tile by removing it 
+and placing a green tile in its place (or 
+replacing a green tile with a brown one). 
+There are detailed rules for upgrading 
+(see p. 19 and p. 48).
+ awrxrxr Appendix	
+awrxrxr
+Glossary
+Bank: This is the collective term for the money not held by players and 
+railroads, plus all unsold private companies, stock certificates, and trains. 
+Bank Pool: The space on the board where railroad stock certificates sold by 
+players are held and kept separate from the initial offerings.
+Banker: The player responsible for handling all transactions involving the 
+bank and bank pool.
+Bankruptcy: In 1830 Classic, bankruptcy occurs when a railroad is forced 
+to purchase a train, and the railroad money and its president’s money (and 
+sellable assets) is not enought to cover the train’s cost.
+Base City: A city circle or hexagon on the board showing the logo of one the 
+game’s eight railroads. At the beginning of a railroad’s first turn of operation 
+place a token at no cost in the city showing the logo. The Erie railroad is a 
+special case (see 7.3.2).
+Board (game board): The game board has the 1830 Classic map on one side 
+and the 1830+ map on the other. Both sides show the northeastern United 
+States and southeastern Canada. The map is overlaid with a hexagonal grid—
+you build your railroad tracks by placing hex tiles on this grid. The board 
+also has the stock market and other game elements.
+Certificate: Possession one of these cards signifies either the ownership of a 
+private company or the ownership of shares in a corporation. 
+Corporation Charter: Each railroad corporation has a Charter that is used 
+to hold a corporation’s money, tokens, and trains. It also shows information 
+about that corporation. 
+Corporation (railroad corporation): Each railroad is controled by the 
+player with the most shares (i.e., its president) in the corporation that owns 
+it. Control of these corporations, the competency of their operation, the size 
+and frequency of their dividends, and the value of their shares are the main 
+determinates of who wins.
+Hexes: The six-sided spaces of the board on which the track tiles are laid.
+Initial offering: A corporation’s initial offering consists of its share certificates 
+that have never been owned by a player (i.e., purchased or received due to a 
+private company’s special effects). The value of a corporation’s initial offering 
+share is always the corresponding recorded value on the par value chart. 
+Operating Round: During this phase of the game, each active railroad lays 
+track, runs its train to generate revenue, buys trains, and performs various 
+other activities. Depending on the type of trains in play, there are one to three 
+operating rounds between stock rounds.
+Par (par price): This is the initial price for the shares of a new railroad 
+determined when a player first obtains a previously unowned president’s 
+certificate. This is the price of each share in the initial offering. The initial 
+capital of a newly floated railroad is ten times its par price.
+President: The player holding the 20% president’s certificate in a corporation 
+is its president. This player controls the railroad when it is operating, and 
+holds its charter and treasury.
+President’s Certificate: This is the 20% share certificate of each railroad with 
+the word “president” inscribed—its owner is railroad’s president.
+Priority Deal Card: This card is given to the player to the left of the last 
+player to buy or sell shares in a stock round. That player has the first option 
+to buy or sell in the next stock round, with play continuing to his or her left.
+Private Company: Each private company is represented by a single certificate 
+showing its cost and revenue. Until retired and removed from play, each pays 
+a fixed revenue to its owner each operating round. The special effect that each 
+has on play is detailed on pages 46 and 47.
+
+Table T-02 – Board Tiles
+	
+	
+	
+	
+	
+	Scenario
+	
+	
+Loc.	 D	 R	 B	 T	 G
+coal field Hex (30a)	
+	
+	
+L-8	
+coal field Hex (30a)	
+	
+	
+J-10	
+SE Warehouse (30b)	
+	
+	 M-13	 1	
+SW Warehouse (30c)	
+	
+	
+L-2	
+W Warehouse (30d)	
+	
+	
+F-2	
+NW Warehouse (30e)	 	
+	
+A-11	 1	
+NE Warehouse (30f)	
+	
+	
+B-24	 1	
+Straight Track (use A-1)	
+	 M-11	 1	
+Blank (30h)	
+	
+	
+H-4	
+Columbus, w/NKP home (30i) 		
+H-6	
+Blank Gray Lake Erie (30j)	
+	
+F-6	
+Cleveland, w/o C&O home (30k)	
+F-8	
+Old Detroit (30l)	
+	
+	
+E-5	
+Old SW of Toronto Exit (30m)	
+E-9	
+Roanoke, w/ N&W home (30n)	
+L-10	 x	
+Richmond, w/o C&O home (30p)		
+K-13	 x	
+Ottawa, w/ no cost (30q)	
+	
+B-16	 x	
+Toronto, w/30,exits NE,SW (30r)		
+D-10	 x	
+Blank (30h)	
+	
+	
+C-21	 x	
+Note — 1830 Base Game, 1830 Classic, and Scenario C do not use board tiles.
+Table T-01 – 
+Track Tiles to Remove
+Scenario S-1.0 D 
+A8 (5).......................................2 
+A9 (6).......................................2
+bb2 (592)..................................2
+Scenario S-2.0 G 
+A8 (5).......................................2 
+A9 (6).......................................2
+B28 (88)....................................1
+B29 (204)..................................1
+B30 (87)....................................1
+bb1 (53)....................................2
+ny5 (62)....................................1
+oo20 (167)................................1
+D4 (513)...................................1
+Scenario S-3.0 R 
+bb1 (53)....................................2
+Scenario S-4.0 B 
+bb2 (592)..................................2
+bb6 (884)..................................1
+bb7 (997)..................................1
+ny6 (883)..................................1
+oo20 (167)................................1
+D4 (513)...................................1
+Table T-03 – Trains
+	
+Price	
+	
+ 	Scenario
+Type 	
+(w/ Trade-in)	 & Base	 D	 R 
+§	 B 
+§	 T	 G	 C
+$80	
+$180	
+$300	
+5-trains	
+ $450	
+6-trains 	
+$630	
+2††	
+7-trains 	
+$710	
+Diesels 	
+$1100($800)	
+6¥	
+7**	
+6†
+* – Scenario can be used with any train mix.
+** – 7 Diesels are provided, but there should be an unlimited number. Just add 
+markers if more than 7 are required.
+† – A variant is “no diesels.” †† – A variant is a 3rd 6-train.
+§ – There is one “plus-train” for each of the train types between 2 and 6: 2+2, 
+3+3, 4+4, 5+5, and 6+6. A plus-train is always the last bought of its type. For 
+more details, see the scenarios on pages 38 and 39. 
+¥ – Diesels cost 900, or 750 if a 4, 5, or 6 train is returned to the bank pool.
+Table T-04 — Script Manifest
+15 @ $500 = $7500 18 @ $10 =$180
+28 @ $100 = $2800 16 @ $5 = $80
+20 @ $50 = $1000 40 @ $1 = $40
+20 @ $20 = $400 
+Total = $12000*
+* – For this total, remove: 
+ 5@ $500, 12@ $100, 2@ $10, and 4@ $5.
+30a
+30b
+30c
+30d
+30e
+30f
+30h
+30i
+30j
+30k
+30l
+30m
+30n
+30p
+30q
+30r
+
+Table T-07 — The Phases
+	
+	
+	
+	
+	
+Introduced by	
+game	
+privates	
+3-train	
+4-train	
+5-train	
+6-train	
+diesel 
+	
+start	
+sold	
+New trains available	
+5-trains	
+6-trains &	
+	
+	
+	
+	
+	
+	
+diesels	
+Trains made obsolete 	
+New tiles available	
+yellow	
+green	
+brown	
+gray
+Train limit	
+# ORs between SRs	
+May buy privates	
+n	
+Privates removed	
+Off-board revenue	
+Table T-06 — Variables Due to # of Players
+ 	
+	 Number of Players 
+	
+Starting money	
+1200	
+Certificate limit	
+Private Co. Split	 SV+DH+CA	
+SV+BO	
+SV+MH	 SV+CS	
+	
+CS+MH+BO	
+CS+CA	
+CS+DH	
+DH	
+	
+DH+MH	
+DH 
+	
+MH	
+MH 
+	
+	
+Private 
+Companies
+(SV, 20/5) 
+1  Pittsburgh & Louisville Packet Co. B
+(PL, 30/5) — A railroad owning the PL 
+may lay a tile on any Ohio river hex with no 
+terrain cost (J-2, J-4, 
+K-5, J-6, J-8, or I-9). 
+This hex need not be 
+connected to one of 
+the railroad’s stations, 
+and it need not be 
+connect to any track at all. This free tile 
+placement may be performed in addition to 
+the railroad’s normal tile placement—on 
+that turn only it may play two tiles. 
+ Champlain & St. Lawrence
+(CS, 40/10) — A railroad owning the 
+CS may lay a tile on the CS’s hex (B-20). 
+This hex need not be 
+connected to one of 
+the railroad’s stations, 
+and it need not be 
+connected to any 
+track at all. This tile 
+placement may be performed in addition 
+to the railroad’s normal tile placement—on 
+that turn only it may play two tiles. 
+3 C&O Canal B
+(CC, 50/10) — A railroad owning the CC 
+may build on the hexes 
+containing the CC 
+(I11-J12) for a terrain 
+cost of only $20 each. 
+The company is closed 
+when tiles have been 
+laid on both hexes.
+Table T-05— The Private Companies
+	
+ Use w/	
+	
+ 
+Name (Scenario)	
+Loc. 	
+Special
+G-15	
+Pittsburgh & 	
+PL	
+$30 / $5	
+I-9	
+Extra track lay. 1
+	
+Louisville  B 
+B-20	
+Extra track lay. 2
+	
+C&O Canal B	
+CC	
+$50 / $10	 I-11/J-12	 Discounted track lays. 3
+Potomac & 	
+PP	
+$60 / $10	
+J-10	
+Free coal field license. 4
+	
+Piedmont G
+F-16	
+Track + free station. 5
+D-18	
+Exchange for NYC share. 6
+James River & 	
+JK	
+$120 / $20	 K-9/K-11	Free Kanawha license. 7
+	
+Kanawha D R
+H-18	
+Free share in PRR. 8
+$220 / $30	 I-13/I-15	President share of B&O. 9
+Note – The companies used in scenarios are marked brown, numbered circles. 
+Other companies are available in all scenarios. 
+Tables
+
+Original 1830 Credits
+Design: Francis Tresham
+Development Team: Francis Tresham, 
+Maurice Roth, Richard Waring, Thomas 
+Tresham, David Maxwell, Douglas May, 
+Mick Uhl, and Bruce Shelley
+AH Editor: Bruce Shelley
+Cover Painting: James Talbot
+Additional Playtesting: Vince Frattali, 
+Rex Martin, Cliff Willis, Steve Simmons, 
+Gerald Lientz, Edward Fahrmeier, and 
+WARTHOG
+Dedication
+This edition of 1830 is dedicated to 
+the memory of Gerald Lientz, one of the 
+original playtesters and a true gamer.
+  James River & Kanawha D R
+ (JK, 120/20) — The initial purchaser of the JK receives a 
+free Kanawha license which can not be sold or traded (see p. 
+35 for license effects). The railroad owns the JK has the right 
+to build on any one (1) hex that is adjacent to the Kanawha 
+Coal River hex at half price. This would constitute the 
+railroad’s regular tile lay and close the company. The owner still retains the 
+license after the JK closes. 
+8 Camden & Amboy
+(CA, 160/25) — The initial purchaser of the CA 
+immediately receives a 10% share of PRR shares without 
+further payment. This action does not close the CA. The PRR 
+railroad will not be running at this point, but the shares may 
+be retained or sold subject to the ordinary rules of the game.
+9 Baltimore & Ohio
+(BO. 220/30) — The owner of the BO private company 
+immediately receives the president’s certificate of the B&O 
+railroad without further payment and immediately sets 
+a par share value. The BO private company may not be 
+sold to any corporation, and does not change hands if the 
+owning player loses the presidency of the B&O. When the 
+B&O railroad purchases its first train this private company is closed down.
+Table T-08 — The Railroads
+	
+	
+Station	 Starting	
+ 
+Initials	 Tokens	 City	
+Loc.
+Pennsylvania	
+PRR	
+Altoona	
+H-12
+New York Central	
+NYC	
+Albany	
+E-19
+Canadian Pacific	
+CPR	
+4	 Montreal	
+A-19
+B&O	
+3	 Baltimore	
+I-15
+Chesapeake & Ohio	
+C&O	
+3	 Cleveland	
+F-6 
+	
+	
+	 (Richmond) 	(K-13)
+Erie	
+Erie	
+Buffalo	
+E-11
+New York, New Haven, 	NNH	
+2	 New York	
+G-19 
+ & Hartford
+Boston & Maine	
+B&M	
+Boston	
+E-23
+Norfolk D R B G	
+N&W	
+Norfolk	
+L-16
+ & Western	
+	
+	 (Roanoke)	 (L-10)
+Pere Marquette D R G	 PMQ	
+Detroit	
+E-5
+Nickel Plate B	
+NKP	
+2	 Columbus	
+H-6
+Reading C	
+RDR	
+Reading	
+G-15
+	
+	
+	
+	
+(H-16)
+  Potomac & Piedmont G
+ (PP, 60/10) — The initial purchaser of 
+the PP receives a free New River coal fields 
+license which can 
+not be sold or traded 
+(see p. 35 for effects). 
+When the owning 
+railroad first runs a 
+route including the 
+coal fields hex, the PP is closed down. The 
+owner retains the license after the PP closes.
+5 Delaware & Hudson
+(DH, 70/15) — A railroad owning the 
+DH may lay a track tile and a station token 
+on the DH’s hex (F-16). The mountain 
+costs $120 as usual, but laying the token 
+is free. This hex need not be connected to 
+one of the railroad’s 
+stations, and it need 
+not be connect to any 
+track at all. The tile 
+laid does count as the 
+owning railroad’s one 
+tile placement for his turn. If the DH does 
+not lay a station token on the turn it lays the 
+tile on its starting hex, it must follow the 
+normal rules when placing a station (i.e., 
+it must have a legal train route to the hex). 
+Other railroads may lay a tile on the DH 
+starting hex subject to the ordinary rules, 
+after which the DH special effects are no 
+longer available.
+6 Mohawk & Hudson
+(MH, 110/20) — A player owning the 
+MH may exchange it for a 10% share of 
+NYC, provided he does not already hold 
+60% of the NYC shares and there is NYC 
+shares available in 
+the bank or the pool. 
+The exchange may 
+be made during the 
+player’s turn of a stock 
+round or between the 
+turns of other players or railroads in either 
+stock or operating rounds. This action 
+closes the MH.
+Tables
+
+A1	
+➧ B1-B3, B8-B11
+Â 9	
++5	
+A2	
+➧ B2, B4, B5, B8,
+Â 8	
++5	
+B9, B12-B14
+A3	
+➧ B3, B10, B11, 
+Â 7	
+B13, B14
+A4	
+➧ B24, B25
+Â 4	
+A5	
+➧ B24, B25, B26,
+Â 58	
+B27
+A6	
+➧ B24, B25, B26
+Â 3	
+A7	
+Â 57	
+A8	
+Â 6	
+A9	
+Â 5	
+A10	
+Â 55	
+A11	
+Â 69	
+A12	
+Â 2	
+A13	
+Â 1	
+A14	
+Â 56	
+A15	
+Â 630 	
+A16	
+Â 631 	
+A17	
+Â 632 	
+A18	
+Â 633 	
+ bb1	
+➧ bb5, bb6, bb7
+Â 53	
+bb2	
+➧ bb5, bb6, bb7
+Â 592	
+bb5 	
+Â 61	
+bb6 	
+Â 884	
+	 	
+bb7	
+Â 997	
+	
+to1	
+➧ to5
+Â 810	
+to5 	
+Â 882	
+	 	
+ 	
+ 	
+ 	
+B1	
+➧ C5, C6
+Â 20	
+B2	
+➧ C7, C8
+Â 19	
+B3	
+➧ C9
+Â 18	
+B4	
+➧ C5
+Â 17	
+B5	
+➧ C9, C10
+Â 16	
+B8	
+➧ C1, C5, C7, C9
+Â 23	
+B9	
+➧ C2, C5, C8, C9
+Â 24	
+B10	
+➧ C2, C6, C7
+Â 26	
+B11	
+➧ C1, C6, C8
+Â 27	
+B12	
+➧ C3, C7, C8
+Â 25	
+B13	
+➧ C4, C8, C10
+Â 28	
+B14	
+➧ C4, C7, C10
+Â 29	
+B24	
+➧ C11, C12, C13
+Â 141	
+B25	
+➧ C11, C12, C13
+Â 142	
+B26	
+➧ C12, C13
+Â 143	
+B27	
+➧ C12
+Â 144	
+B28	
+➧ C11
+Â 88	
+B29	
+➧ C12
+Â 204	
+B30	
+➧ C13
+Â 87 	
+B35	
+Â 14	
+B36	
+Â 619	
+B37	
+Â 15	
+ny1	
+➧ ny5, ny6
+Â 54	
+ny5 	
+Â 62	
+	 	
+ny6	
+Â 883	
+	 	
+C1	
+Â 41	
+C2	
+Â 42	
+C3	
+Â 40	
+C4	
+Â 39	
+C5	
+Â 47	
+C6	
+Â 44	
+C7	
+Â 45	
+C8	
+Â 46	
+C9	
+Â 43	
+C10	
+Â 70	
+C11	
+Â 145	
+C12	
+Â 147	
+C13	
+Â 146	
+C15	
+➧ D4
+Â 63	
+oo1	
+➧ oo10-oo17
+Â 626	
+oo2	
+➧ oo10-oo17
+Â 59	
+oo10	 1	
+Â 68	
+oo11	 1	
+Â 67	
+oo12	 1	
+Â 66	
+oo13	 –	
+Â 36	
+oo14	 –	
+Â 35	
+oo15	 1	
+Â 65	
+oo16	 1	
+Â 64	
+oo17	
+Â 984 	
+oo20	 –	
+Â 167	
+D4	
+Â 513	
+Table T-09 — Track Tile Manifest & Upgrades
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Total 	25
++17
+Total 	26
++11
+Total 	 0
+Total 	34
+ 	
++23

@@ -1,0 +1,2554 @@
+Rules Reference
+TM
+
+The Only Game 
+That Matters
+Too many strange faces, Tyrion thought, too many 
+new players. The game changed while I lay rotting in 
+my bed, and no one will tell me the rules.
+—George R.R. Martin, A Song of Ice and Fire
+This document is intended as the definitive source for 
+rules information, but does not teach players how to 
+play the game. Players should first read the Learn to 
+Play book in its entirety and use this Rules Reference 
+as needed while playing the game.
+The majority of this guide consists of the glossary, 
+which provides an alphabetical listing of terms and 
+situations a player might encounter during a game. 
+This section should be the first destination for players 
+who have a rules question.
+The latter part of this guide contains two appendices. 
+The first appendix provides detailed timing diagrams 
+that illustrate the structure of an entire game round, as 
+well as a detailed explanation on how to handle each 
+game step presented in those diagrams. The second 
+provides a detailed anatomy of each cardtype.
+The Golden Rules
+If the text of this Rules Reference directly contradicts 
+the text of the Learn to Play book, the text of the 
+Rules Reference takes precedence.
+If the text of a card directly contradicts the text of 
+either the Rules Reference or the Learn to Play book, 
+the text of the card takes precedence.
+Glossary
+The following is an alphabetical list of entries for game 
+rules, terms, and situations that may occur during play.
+Abilities
+An ability is the special game text that a card contributes 
+to the game. Card abilities fall into one of the following 
+types: actions, constant abilities, interrupts, keywords, 
+reactions, or when revealed abilities.
+x The initiation of action, interrupt, and reaction 
+abilities is optional. The word “may” also incorporates 
+a player option into the resolution of an ability. The 
+player who controls the card on which an optional 
+ability exists determines whether or not he or she 
+wishes to use that ability at the appropriate time.
+x The application or initiation of the following types 
+of abilities is mandatory: constant abilities, when 
+revealed abilities, forced interrupt abilities, and 
+forced reaction abilities. 
+x The initiation of any keyword which uses the word 
+“may” in its keyword description is optional. The 
+application of all other keywords is mandatory.
+x Card abilities only interact with, and can only 
+target, cards that are in play, unless the ability 
+text specifically refers to an out of play area or 
+element. Card abilities on characters, locations, and 
+attachments can only be initiated or affect the game 
+from an in play area unless they specifically refer 
+to being used from an out of play area, or require 
+that the card be out of play for the ability to resolve. 
+Event cards and agenda cards implicitly interact with 
+the game from an out of play area, as established by 
+the rules of their cardtypes. 
+x A card ability can only be initiated if its effect 
+has the potential to change the game state. This 
+potential is assessed without taking into account 
+the consequences of the cost payment or any other 
+ability interactions.
+x A card ability can only be initiated if its cost (after 
+modifiers) has the potential to be paid in full.
+Related: Actions, Effects, Constant Abilities, Costs, 
+Delayed Effects, Forced Interrupts/Forced Reactions, 
+In Play and Out of Play, Interrupts, Keywords, Lasting 
+Effects, Reactions, Triggered Abilities, When Revealed
+Halt!
+Halt!
+
+Actions
+An action is a triggered ability that contains the 
+boldface “Action:” precursor. These abilities can only 
+be initiated by a player during an action window. For 
+details on when action windows occur during each 
+round, see the timing charts in Appendix I. 
+Some Action abilities have a phase name as a qualifier 
+to the word “Action.” Such abilities are still considered 
+Action abilities, with the restriction that they can only be 
+initiated during an action window in the specified phase.
+An action must be resolved completely before the next 
+action can be initiated.
+Active Player
+In some phases, the game creates an active player, who 
+is granted permission to perform a specified task.
+x During the marshaling phase, the active player 
+collects income and is also permitted to marshal 
+character, location, attachment, and duplicate cards 
+from his or her hand.
+x During the challenges phase, the active player is 
+permitted to initiate challenges.
+Related: Marshaling Phase, Challenges Phase
+Against
+During a challenge, the attacking player and the 
+defending player are considered to be taking part in the 
+challenge “against” each other.
+Agenda Cards
+Agenda cards are placed alongside a player’s faction 
+card, and provide specialized abilities and limitations 
+for his or her deck. A player may use a single agenda 
+card in conjunction with his or her faction card when 
+assembling a deck. The agenda card starts the game 
+next to a player’s faction card and is revealed along with 
+the faction card during setup.
+x Agenda cards are not considered “in play.” Their text 
+affects the game state from the out of play area while 
+they are active beside a player’s faction card.
+x Cards with the printed agenda cardtype cannot be 
+removed from the game by other card abilities.
+For agenda card anatomy, see Appendix II
+Related: In Play and Out of Play, Deckbuilding
+Ambush (X)
+Ambush is a keyword ability. A player may, as a player 
+action during the challenges phase, pay gold equal to 
+the (X) value of a card with ambush to put that card 
+into play from his or her hand. A card that enters play 
+using ambush is not considered to have been marshaled.
+x If a card has multiple instances of ambush, each with 
+a different (X) value, the player controlling the card 
+may choose which instance of ambush is used to put 
+the card into play.
+Related: Keywords, Put into Play
+Attachment Cards
+Attachment cards represent weapons, armor, items, 
+skills, conditions, and titles. These cards enter play 
+standing and attached to another card or game element, 
+and remain in play unless removed by an ability, or 
+unless the attached card leaves play. An attachment 
+cannot enter play if there is no eligible card or game 
+element to which it can attach.
+x An attachment can only attach to a character, unless 
+otherwise specified by the attachment's text.
+x There is no limit on the number of attachments that 
+may be attached to a card or game element.
+x If a card to which an attachment is attached leaves 
+play, return the attachment to its owner’s hand. 
+This occurs simultaneously with the attached card 
+leaving play.
+x If a situation arises in which an attachment is not 
+legally attached, discard the attachment.
+x An attachment a player controls remains under his 
+or her control even if the card or game element to 
+which it is attached is under an opponent’s control.
+x An attachment card stands and kneels independently 
+of the card to which it is attached.
+For attachment card anatomy, see Appendix II
+Related: Ownership and Control
+Attacker, Attacking Character, 
+Attacking Player
+The term “attacking character” refers to a character that 
+is participating in a challenge on the side of the player 
+who initiated the challenge. The term “attacker” is also 
+used as shorthand for “attacking character.”
+
+The term “attacking player” refers to the player that 
+initiated the challenge that is currently resolving.
+Related: Challenges Phase, Defender, Participating
+Base Value
+The value of a quantity before any modifiers are applied. 
+For most quantities, it is also the printed value.
+Related: Printed, Modifiers
+Blank
+If a card’s printed text box is considered “blank” by an 
+ability, that text box is treated as if it did not have any 
+of its printed content. Text and/or icons gained from 
+another source are not blanked.
+x A card’s text box includes: traits, keywords, card 
+text and abilities, and non-challenge icons (such as 
+gold, initiative, and reserve modifiers).
+Related: Printed
+Cancel
+Some card abilities (usually interrupt abilities) can 
+“cancel” other card or game effects. Cancel abilities 
+interrupt the initiation of an effect, and prevent the 
+effect from initiating. Because of this, cancel abilities 
+have timing priority over all other interrupts to the 
+effect that is attempting to initiate.
+x When an effect is canceled, that effect is no 
+longer imminent, and further interrupts 
+(including cancels) cannot be initiated in reference 
+to the canceled effect. 
+x When the effects of an ability are canceled, the 
+ability is still considered to have been used, and any 
+costs have still been paid.
+x If the effects of an event card are canceled, the card 
+is still considered to have been played, and it is still 
+placed in its owner’s discard pile.
+Related: Costs, Initiating Abilities, Interrupts, Limits 
+and Maxima, Triggering Condition
+Cannot
+The word “cannot” is absolute, and cannot be 
+countermanded by other abilities.
+Cardtypes
+The game’s cardtypes are presented in Appendix II, 
+with detailed card anatomies, on page 30. 
+x If an ability causes a card to change its cardtype 
+(such as an event card that changes into an 
+attachment), it loses all other cardtypes it might 
+possess and functions as would any card of the 
+new cardtype.
+Challenge Icons
+These icons appear on most character cards and indicate 
+which challenge types the character may be declared for 
+as an attacker or defender. The challenge icons are:
+Challenge
+Graphic Icon
+In Text
+Military
+󲀈
+Intrigue
+󲀊
+󲀉
+Challenges Phase
+See Appendix I, “4. Challenges phase” on page 27.
+Character Cards
+Character cards represent the lords, ladies, knights, 
+armies, mercenaries, creatures, and other personalities 
+and groups one might encounter in the A Song of Ice 
+and Fire setting. These cards enter play in the front 
+row of a player’s play area and remain in play unless 
+removed by an ability or game effect.
+For character card anatomy, see Appendix II
+Choose
+The word “choose” indicates that one or more targets 
+must be chosen in order to resolve an ability.
+Related: Target
+Claim or Claim Value
+Claim represents the consequences a player must face 
+upon losing a challenge as the defending player. 
+The claim value on a player’s revealed plot card (which 
+incorporates all relevant claim modifiers) determines 
+the potency of each challenge that player initiates if he 
+or she wins the challenge. 
+Claim value determines: how many different 
+characters the losing opponent must kill (for a 󲀈 
+challenge), how many cards are discarded from the 
+losing opponent’s hand (for an 󲀊 challenge), or how 
+much power is taken from the losing opponent’s 
+faction card (for a 󲀉 challenge).
+
+Related: Intrigue Claim, Military Claim, 
+Power Claim
+Constant Abilities
+A constant ability is any non-keyword ability whose text 
+contains no boldface precursor defining its ability type. 
+A constant ability becomes active as soon as its card 
+enters play and remains active while that card is in play.
+x Some constant abilities continuously seek a specific 
+condition (denoted by words such as “during,” “if,” 
+or “while”). The effects of such abilities are active 
+any time the specified condition is met.
+x If multiple instances of the same constant ability are 
+in play, each instance affects the game state.
+Control
+See “Ownership and Control” on page 14.
+Copy (of a card)
+A copy of a card is defined by title: any other card that 
+shares the same title is considered a copy, regardless of 
+cardtype, text, artwork, or any other characteristic of 
+the card(s).
+Related: Deckbuilding, Ownership and Control, 
+Unique Cards, Self-Referential Text
+Costs
+A card’s gold cost is the numerical value that must be 
+paid to marshal or play the card. 
+Some card abilities are presented in a “do X to do 
+Y” construct. In such a construct, the “do X” aspect 
+(preceding the word “to”) is a cost, and the “do Y” aspect 
+(following the word “to”) is an effect.
+x An opponent’s game elements may not be used to 
+pay a cost. 
+x If a cost requires a game element that is not in 
+play, the player paying the cost may only use game 
+elements that are in his or her out of play areas and/
+or gold pool to pay the cost.
+x If multiple costs for a single card or ability require 
+payment, those costs must be paid simultaneously.
+x If any part of a cost payment is prevented, once 
+all costs that can be paid are paid, the process of 
+initiating the ability or marshaling/playing the card 
+immediately ends without further resolution. (The 
+card remains unplayed in its owner's hand.)
+x An ability cannot initiate (and therefore its costs 
+cannot be paid) if the resolution of its effect will not 
+change the game state.
+Related: In Play and Out of Play, Ownership 
+and Control
+Dead Pile
+The dead pile is an out of play area. It is distinct from 
+the discard pile.
+x Any time a character in play is “killed,” that 
+character is placed faceup on top of its owner’s 
+dead pile.
+x A player cannot marshal, play, put into play, or take 
+control of a copy of any unique (󲀋) card that is in 
+his or her dead pile.
+x A single instance of a unique card in a player’s dead 
+pile does not prevent an effect that would cause the 
+card to enter play directly from the dead pile. This is 
+because such an effect removes the only instance of 
+the card from the dead pile.
+x Each player’s dead pile is open information, and may 
+be looked at by any player at any time.
+x The order of the cards in a dead pile may not be 
+altered unless a player is instructed to do so by a 
+card ability.
+x If multiple characters are killed simultaneously, the 
+owner of the cards may physically place them into 
+his or her dead pile one at a time, in any order.
+Related: Discard Pile, Leaves Play, Unique Cards
+Deck, Draw Deck
+When the word “deck” appears by itself in rules or in 
+card text, it refers to the deck that contains a player’s 
+attachment, character, event, and location cards. This is 
+also known as the “draw deck.”
+Any rule or ability that refers to a plot deck uses the 
+term “plot deck.”
+Related: Plot Deck
+Deckbuilding
+To build a custom deck for sanctioned tournament play:
+x A player must choose exactly 1 faction card.
+x A player may choose 1 agenda card, or may choose 
+to not use an agenda.
+
+x A player’s plot deck must contain exactly 7 
+cards. Up to one of the chosen plot cards may be 
+duplicated once (by title) within the plot deck. No 
+more than 1 copy of each of the other plot cards 
+may be in the plot deck.
+x A player’s draw deck must contain a minimum of 
+60 cards.
+x There is no upper limit on a player’s draw deck size.
+x A player’s draw deck can only contain up to 3 
+copies (by title) of any given card.
+x Unless instructed otherwise by a card ability, 
+each card in a player’s deck and plot deck must be 
+neutral or its affiliation must match the affiliation 
+of that player’s faction card.
+Related: Copy, Deck, Deck Limits, Faction, Plot Deck
+Deck Limits, Deck Limit: X
+Up to 3 copies of most cards (by title) may be included 
+in a player’s deck. If a card has the text “Deck Limit: 
+X” no more than X copies of that card may be included 
+in a player’s deck.
+x If X is 2 or lower, this phrase acts as a 
+deckbuilding restriction.
+x If X is 4 or higher, this phrase acts as a permission 
+that enables a player to include more than the 
+standard 3 copies.
+Related: Plot Deck Limit: X
+Defender, Defending Character, 
+Defending Player
+The term “defending character” refers to a character 
+that is participating in a challenge on the side of the 
+defending player. The term “defender” may also be 
+used as shorthand for “defending character.”
+The term “defending player” refers to the opponent of 
+the attacking player against whom (from the attacking 
+player's perspective) the challenge is resolving.
+Related: Attacker, Challenges Phase, Participating
+Delayed Effects
+Some abilities contain delayed effects. Such abilities 
+specify a future timing point, or indicate a future 
+condition that may arise, and dictate an effect that is to 
+happen at that time.
+x Delayed effects resolve automatically and 
+immediately after their timing point/future 
+condition occurs, before reactions to that moment 
+may be used.
+x When a delayed effect resolves, it is not treated as a 
+new triggered ability, even if the delayed effect was 
+originally created by a triggered ability.
+x Related: Abilities, Effects, Triggered Abilities
+Discard Pile
+The discard pile is an out of play area. It is distinct 
+from the dead pile.
+x Any time a card is “discarded” (from play or from 
+an out of play area such as a hand or deck), it is 
+placed faceup on top of its owner’s discard pile.
+x Each player’s discard pile is open information, and 
+may be looked at by any player at any time.
+x The order of the cards in a discard pile may not be 
+altered unless a player is instructed to do so by a 
+card ability.
+x If multiple cards are discarded simultaneously, the 
+owner of the cards may physically place them into 
+his or her discard pile one at a time, in any order.
+Related: Dead Pile, Leaves Play, Sacrifice
+Dominance Phase
+See Appendix I, “5. Dominance phase” on page 29.
+Drawing Cards
+When a player is instructed to draw one or more 
+cards, those cards are drawn from the top of his or her 
+draw deck.
+x When a player draws 2 or more cards as the result 
+of a single ability or game step, those cards are all 
+drawn simultaneously.
+x Drawn cards are added to a player’s hand.
+x There is no limit to the number of cards a player 
+may draw each round.
+Related: Reserve Value
+Draw Phase
+See Appendix I, “2. Draw phase” on page 27.
+
+Duplicates
+A player may use additional copies, by title, of any 
+unique card (indicated by a “󲀋” symbol in its title) he 
+or she owns and controls in play as duplicates. When 
+a card enters play as a duplicate, it is placed faceup, 
+overlapped by (i.e. partially visible beneath) the copy of 
+the card that was already in play.
+A duplicate grants its controller the following triggered 
+game ability: “Interrupt: When the overlapping unique 
+card would leave play, discard this duplicate to save that 
+card. (Cannot be canceled.)”
+x There is no cost to marshal a card as a duplicate.
+x Duplicates are not considered attachments. 
+Duplicates are not affected by and do not interact 
+with text that refers to attachments.
+x Duplicates have no text, titles, characteristics, type, 
+or traits. A duplicate is only considered a blank 
+“duplicate card” while it is in play.
+x It is possible to have more than one duplicate on a 
+single card.
+x A different version of a unique card may be used as 
+a duplicate on the card. The version of the card that 
+was first in play remains as the active version once 
+the duplicate is attached. A player may not switch a 
+card with its duplicate.
+x Marshaling a duplicate is not considered marshaling 
+a card of the duplicate’s printed type. It is only 
+considered “marshaling a duplicate card.”
+Related: Ownership and Control, Save, Unique Cards
+Effects
+A card effect is any effect that arises from the resolution 
+of ability text printed on, or gained by, 
+a card. A framework effect is any effect that arises from 
+the resolution of a framework event.
+x Card effects might be preceded by costs, triggering 
+conditions, play restrictions, and/or play permissions; 
+such elements are not considered effects.
+x Once initiated, players must resolve as much of each 
+aspect of the effect as they are able, unless the effect 
+uses the word “may.”
+x When a non-targeting effect attempts to engage 
+a number of entities (such as “draw 3 cards” or 
+“search the top 10 cards of your deck”) that exceeds 
+the number of entities that currently exist in the 
+specified game area, the effect engages as many 
+entities as possible.
+x The expiration of a lasting effect (or the cessation of 
+a constant ability) is not considered to be generating 
+a game state change by a card effect.
+Related: Abilities, Costs, Delayed Effects, Lasting 
+Effects, May, Initiating Abilities, Play Restrictions and 
+Permissions, Triggering Condition
+Enters Play
+The phrase “enters play” refers to any time a card makes 
+a transition from an out of play area into a play area. 
+Marshaling a card and putting a card into play by using 
+a card ability are two means by which a card may 
+enter play.
+Related: In Play and Out of Play, Marshal, Put Into Play
+Event Cards
+Event cards represent tactical actions, schemes, twists 
+of fate, and other unexpected developments that might 
+occur during the game.
+x An event card’s ability type, triggering condition (if 
+any), and play permissions/restrictions (if any) define 
+when and how the card can be played.
+x When a player plays an event card, its costs are 
+paid, its effects are resolved (or canceled), and the 
+card is placed in its owner's discard pile prior to 
+opening the reaction window which follows the 
+ability's resolution.
+x Event card effects engage the game state at the 
+time they resolve. If an event card creates a lasting 
+effect on a set of cards, only cards that are in play at 
+the time the event card is played are eligible to be 
+affected. Cards that enter play after the resolution of 
+the event are not affected by its lasting effect.
+x If the effects of an event card are canceled, the card 
+is still considered to have been played, and its costs 
+remain paid. Only the effects have been canceled.
+x Unless the ability that puts it into play also changes 
+its cardtype to a cardtype that is permitted in play, 
+an event card cannot enter play.
+For event card anatomy, see Appendix II
+Related: Cancel, Costs, Delayed Effects, Lasting 
+Effects, Play Restrictions and Permissions, 
+Triggering Condition
+
+Facedown Cards
+Some abilities put cards into play facedown. A facedown 
+card has no inherent attributes other than “facedown 
+card,” but it may be granted attributes by the card ability 
+that put it into play.
+x A player may look at the identity of any facedown 
+card that is in play and under his or her control.
+Faction, Faction Cards
+There are 8 factions in the game, shown in the 
+chart below.
+The faction card signals which faction a player has 
+chosen as the primary faction for his or her deck. An 
+in-faction card bears the loyal or non-loyal faction 
+symbol that matches the affiliation indicated by his or 
+her faction card. 
+For faction card anatomy, see Appendix II
+Related: Deckbuilding, For Your Faction, Loyal
+First Player, First Player Token
+A first player is chosen at random during setup. A new 
+first player is chosen each plot phase by the player who 
+wins initiative. The chosen player remains the first 
+player until a new first player is chosen. The first player 
+token is used to indicate which player is the first player.
+x The first player becomes the active player first 
+during the marshaling and challenges phases. 
+x During all framework event and action/reaction/
+interrupt windows the first player has the first 
+opportunity to initiate action, interrupt, or reaction 
+abilities at each appropriate game moment.
+x For any question as to who should perform an act 
+or make a decision first, in the absence of any other 
+direction by card or rules text, the first player does 
+so first, and other players follow in player order.
+x If the first player is eliminated from a game, the 
+player to his or her left becomes the first player.
+Related: Active Player, Setup, Initiative, 
+Plot Phase, Priority of Simultaneous Resolution
+Forced Interrupts/Forced Reactions
+While most triggered abilities are optional, some 
+interrupt and reaction abilities are preceded by 
+the word “Forced.” Such abilities must be resolved 
+immediately whenever the triggering condition 
+specified in the ability text occurs. 
+x For any given triggering condition, forced 
+interrupts take priority and initiate before non-
+forced interrupts, and forced reactions take priority 
+and initiate before non-forced reactions.
+x If two or more forced abilities would initiate at the 
+same moment, the first player determines the order 
+in which the abilities initiate, regardless of who 
+controls the cards bearing those abilities.
+x Each forced ability must resolve completely before 
+the next forced ability to the same triggering 
+condition may initiate.
+Related: Interrupts, Reactions
+For Your Faction
+The phrase “for your faction” is used to instruct a 
+player to place the power just gained on his or her 
+faction card.
+Faction
+Loyal
+Non-Loyal
+In Text
+Stark
+󲀆
+Lannister
+󲀅
+Baratheon
+󲀁
+Greyjoy
+󲀇
+Tyrell
+󲀃
+Martell
+󲀀
+Targaryen
+󲀄
+The Night’s 
+Watch
+󲀂
+
+Framework Effects and Framework Events
+A framework event is a mandatory occurrence 
+dictated by the structure of the game. A framework 
+effect is any effect that arises from the resolution of 
+a framework event.
+Related: Appendix I: Timing and Gameplay, Effects
+Gains
+The word “gains” is used in multiple contexts.
+x If a player gains gold, the player takes the specified 
+amount of gold from the treasury and adds it to his 
+or her gold pool.
+x If a player gains power for a card under his or her 
+control, the player takes the specified amount of 
+power from the treasury and adds it to the card.
+x If a card gains a characteristic (such as an icon, a 
+Trait, a keyword, or ability text), the card functions 
+as if it possesses the gained characteristic. Gained 
+characteristics are not considered to be printed on 
+the card.
+Related: Gold, Power, Printed
+Gold
+Gold is the game’s currency and 
+is used to pay for cards and card 
+abilities. The amount of gold a 
+player has available at any given 
+time is represented (as open 
+information) by gold tokens 
+in his or her gold pool.
+Gold begins the game in the treasury. When a player 
+gains gold, that player takes an equivalent amount of 
+gold from the treasury and adds it to his or her gold 
+pool. When gold is spent it is returned to the treasury 
+from a player's gold pool.
+Related: Marshaling Phase, Taxation Phase
+Gold Modifier
+Immune 
+If a card is immune to a specified set of effects (for 
+example, “immune to event card effects,” or “immune 
+to 󲀃 card effects”), it cannot be targeted or affected 
+by effects that belong to that set. Only the card itself 
+is protected, and peripheral entities associated with an 
+Gold Tokens
+immune card (such as attachments, tokens, abilities 
+originating from an immune card, or duplicates) are not 
+themselves immune.
+If a card gains immunity to an effect, pre-existing 
+lasting effects that have been applied to the card are 
+not removed.
+Immunity only protects a card from effects. It does not 
+prevent a card from being used to pay costs.
+Related: Costs, Lasting Effects
+In Play and Out of Play
+The cards (generally characters, locations, attachments, 
+duplicates, and the faction card) that a player controls in 
+the play area, the title card a player currently bears in a 
+melee game, as well as a player’s revealed plot card, are 
+considered “in play.”
+“Out of play” refers to all other cards and areas involved 
+in the game environment, including: cards in a player’s 
+hand, deck, discard pile, dead pile, plot deck, used pile, 
+agendas, and any cards that have been removed from 
+the game.
+x A card enters play when it transitions from an out of 
+play origin to a play area.
+x A card leaves play when it transitions from a play 
+area to an out of play destination.
+x A player’s faction card cannot leave play.
+x Outside of the process by which a player reveals a 
+new plot his or her previously revealed plot card 
+enters the used pile, a player's plot card cannot 
+leave play.
+Related: Abilities, Dead Pile, Deck, Discard Pile, 
+Plot Card
+Income
+When a player becomes the active player during the 
+marshaling phase, that player collects income by 
+gaining an amount of gold from the treasury equal 
+to the gold value on his or her revealed plot card 
+(which incorporates the total value of all relevant 
+gold modifiers).
+Related: Gold, Gold Modifier, Marshaling Phase
+
+Influence Tokens
+Influence tokens are generic tokens 
+that can be used to track a variety 
+of different game states and statuses. 
+They have no inherent rules. 
+x Card abilities can create and 
+define a number of different token types, such 
+as “betrayal tokens,” “poison tokens,” and “stand 
+tokens.” When such a token is called for, an 
+influence token is used to track its presence in 
+the game.
+Initiating Abilities/Marshaling Cards
+When a player wishes to marshal or play a card, or 
+initiate a triggered ability, that player first declares 
+his or her intent (and shows the card to be used, if 
+necessary). The following steps are then observed, 
+in order:
+1.	 Check play restrictions: can the card be marshaled 
+or played, or the ability initiated, at this time?
+2.	 Determine the cost (or costs, if multiple costs 
+are required) to marshal/play the card or initiate 
+the ability. If it is established that the cost (taking 
+modifiers into account) can be paid, proceed with 
+the remaining steps of this sequence.
+3.	 Apply any modifiers to the cost(s).
+4.	 Pay the cost(s).
+5.	 Choose target(s), if applicable.
+6.	 The card is marshaled/played, or the effects of the 
+ability attempt to initiate. An interrupt ability that 
+cancels this initiation may be used at this time.
+7.	 The effects of the ability (if not canceled in 
+step 6) complete their initiation, and resolve.
+Interrupts and Reactions may be used throughout 
+this process as normal, should their triggering 
+conditions occur.
+Related: Abilities, Cancel, Costs, Play Restrictions 
+and Permissions, Target
+Initiative
+A player’s initiative is the initiative value on his or her 
+revealed plot card (which incorporates the total value 
+of all relevant initiative modifiers).
+Influence Tokens 
+(double-sided)
+When new plot cards are revealed for the plot phase, 
+the players compare initiative. The player with the 
+highest initiative value wins initiative, and chooses 
+which player is the “first player” until a new first player 
+is chosen.
+If there is a tie at that time for initiative, the tied 
+player with the lowest power total wins initiative. If 
+the lowest power total is also tied, a random method 
+should be used to break this tie.
+Initiative Modifier
+Insight
+Insight is a challenge resolution keyword. After 
+a player wins a challenge, for each participating 
+character with the insight keyword he or she controls, 
+that player may draw 1 card.
+Instead
+See “Replacement Effects” on page 18.
+Interrupts
+An interrupt is a triggered ability whose text contains 
+the boldface “Interrupt:” precursor. An interrupt 
+ability interrupts the resolution of its triggering 
+condition, sometimes canceling or changing the 
+resolution of that condition. Always resolve interrupts 
+to a triggering condition before resolving the 
+consequences of the triggering condition itself.
+Unlike actions, which may be initiated during action 
+windows, each interrupt may be initiated once each 
+time its specified triggering condition occurs, as 
+described in the interrupt’s ability text.
+When a triggering condition initiates (but before 
+it begins resolving), an interrupt window for that 
+triggering condition opens. 
+Within the interrupt window, the first player always 
+has the first opportunity to initiate an eligible interrupt 
+(to this triggering condition), or pass. Opportunities to 
+initiate an eligible interrupt, or pass, continue in player 
+order until all players consecutively pass, at which 
+point the interrupt window closes. Passing does not 
+prevent a player from initiating an eligible interrupt 
+later in that same interrupt window.
+
+Once an interrupt window closes, further interrupts to 
+that specific triggering condition cannot be initiated. 
+The triggering condition now completes its resolution 
+(as long as its effects have not been canceled).
+x It is possible for multiple interrupts to be initiated 
+from the same triggering condition. Each interrupt 
+must resolve completely before the next interrupt to 
+the same triggering condition may initiate.
+x If multiple copies of the same interrupt are eligible 
+to be initiated, each copy may be initiated once 
+against that triggering condition.
+Related: Cancel, First Player, Forced Interrupts/Forced 
+Reactions, Nested Ability Sequences, Would
+Intimidate
+Intimidate is a challenge resolution keyword. After 
+a player wins a challenge as the attacking player in 
+which he or she controls a character with the intimidate 
+keyword, that player may choose and kneel a character, 
+controlled by the losing opponent, with equal or lower 
+STR than the amount of STR by which the challenge 
+was won. (The chosen character is not required to be 
+participating in the challenge.)
+x No more than one instance of intimidate can 
+successfully resolve during each challenge.
+Intrigue Claim
+When a player loses an intrigue (󲀊) challenge as the 
+defending player, that player must discard a number of 
+random cards from his or her hand equal to the claim 
+value on the attacking player’s revealed plot card.
+If the player has fewer cards in hand than would 
+satisfy claim, as much of the claim as possible must 
+be satisfied.
+Joust Game
+A joust game is a head-to-head game between 
+two players.
+x Melee title cards, and their associated framework 
+steps (1.4 and 7.4, see Appendix I), are not used in a 
+joust game.
+Related: Melee Game
+Keywords
+A keyword is a card ability which conveys specific rules 
+to its card.
+x Sometimes a keyword is followed by reminder text, 
+which is presented in italics. Reminder text is a 
+shorthand explanation of how a keyword works, but 
+it is not rules text and does not replace the rules for 
+that keyword in this glossary.
+x Cards are considered to have a keyword or to not 
+have that keyword. A single card that has and/or is 
+gaining the same keyword from multiple sources 
+functions as if it has one instance of that keyword. 
+(Note: Instances of Ambush (X) with different 
+values for X are considered different keywords.)
+x The keywords in the game are: ambush (X), insight, 
+intimidate, limited, no attachments, pillage, renown, 
+stealth, and terminal.
+Related: Ambush (X), Insight, Intimidate, Limited, 
+No Attachments, Pillage, Renown, Stealth, Terminal
+Kill, Killed
+Characters can be killed by framework effects and by 
+card abilities. When a character is killed, it leaves play 
+and is placed faceup on top of its owner’s dead pile.
+Related: Dead Pile, Leaves Play, Save
+Kneel, Kneeling, Knelt
+Cards often kneel in order to attack, defend, or use 
+certain card abilities. When a card is knelt, it is 
+rotated 90 degrees. A card in this latter state is 
+considered kneeling.
+x A kneeling card cannot kneel again until it is 
+standing (typically by a game step or card ability).
+Related: Stand, Standing
+Lasting Effects
+Some card abilities create effects or conditions that 
+affect the game state for a specified duration (such as 
+“until the end of the challenge” or “until the end of the 
+phase”). Such effects are known as lasting effects.
+x A lasting effect persists beyond the resolution of the 
+ability that created it, for the duration specified by 
+the effect. The effect continues to affect the game 
+state for the specified duration regardless of whether 
+the card that created the lasting effect is or remains 
+in play.
+
+x A lasting effect expires as soon as the timing point 
+specified by its duration is reached. This means that 
+an “until the end of the round” lasting effect expires 
+just before an “at the end of the round” ability 
+may initiate.
+x Any “until the end of the X” effects that would 
+initiate after the end of X (via the resolution of 
+an interrupt or reaction ability to something that 
+occurred at the end of X) would expire immediately 
+without affecting the game state, and therefore fail 
+to initiate.
+Leaves Play
+The phrase “leaves play” refers to any time a card 
+makes a transition from an in play state to an out of 
+play state.
+If a card leaves play, the following consequences occur 
+simultaneously with the card leaving play:
+x All tokens on the card are returned to the treasury.
+x All duplicates on the card are discarded.
+x All attachments that are on the card are returned 
+to their owners’ hands.
+x All lasting effects and/or delayed effects affecting 
+the card while it is in play expire for that card.
+Limited
+Limited is a keyword ability. No more than 1 card 
+in total with the limited keyword can be marshaled 
+(or played, if the card is an event) by each player each 
+round. No more than 1 limited card can be placed by 
+each player during setup.
+x Limited cards that are “put into play” via card 
+effects ignore and are ignored by this restriction.
+Related: Keywords, Put into Play
+Limits and Maxima
+“Limit X per [period]” is a limit that appears on 
+cards that remain in play through the resolution of 
+an ability’s effect. Each copy of an ability with such 
+a limit may be used X times during the designated 
+period. If a card leaves play and re-enters play during 
+the same period, the card is considered to be bringing 
+a new copy of the ability to the game.
+“Limit X copies per [card/game element]” is a limit 
+that appears on attachment cards, and restricts the 
+number of copies of that card (by title) that can be 
+attached to each designated card or game element.
+“Max X per [period]” is a maximum that appears on 
+cards that do not enter or remain in play through the 
+resolution of their effect. (An event card, for example.) 
+Such a phrase imposes a maximum number of times 
+that ability can be initiated from all copies (by title) of 
+cards bearing the ability (including itself), during the 
+designated period. Initiating an ability on a card counts 
+towards the maximum for all copies of that card.
+x All limits and maxima are player specific.
+x If the effects of a card or ability with a limit or a 
+maximum are canceled, it is still counted against 
+the limit/maximum.
+Related: Deck Limits, Plot Deck Limits
+Location Cards
+Location cards represent the castles, cities, forests, 
+shops, taverns, brothels, streets, and other places one 
+might discover in the A Song of Ice and Fire setting. 
+These cards enter play in the back row of a player’s play 
+area and remain in play unless removed by an ability.
+For location card anatomy, see Appendix II
+Look
+When a player is instructed to “look” at one or more 
+cards, that player does not show the cards to his or her 
+opponents. A card is not considered to leave its play 
+area while it is being looked at. A look instruction ends 
+when a card is returned to its prior state of concealment, 
+or reaches a new destination.
+Loyal, Loyalty
+Loyalty is a deckbuilding 
+restriction that limits which cards 
+can be used out-of-faction. A 
+card is loyal to its faction if it has 
+a scroll of parchment below its 
+shield. A loyal card’s affiliation 
+must match the affiliation of a 
+deck’s faction card in order to 
+be included in the deck. Certain 
+card abilities (such as the Banner 
+agenda cards) permit players to use non-loyal cards 
+out-of-faction in a deck.
+Related: Deckbuilding
+House Baratheon, 
+Loyal
+House Baratheon, 
+Non-Loyal
+
+Marshal
+In the Marshaling phase, the active player can (as 
+a player action) marshal a character, location, or 
+attachment card (or a duplicate) from his or her hand by 
+paying that card’s gold cost and placing the card in his 
+or her play area. A player pays a gold cost by returning 
+the indicated amount of gold from his or her gold pool 
+to the treasury.
+x When a card is marshaled, it is considered to have 
+entered play.
+x Event cards are not marshaled, they are played.
+x Card abilities that put a card directly into play are 
+not considered to be marshaling the card.
+Related: Costs, Duplicates, Enters Play, 
+Event Cards, Initiating Abilities/Marshaling Cards, 
+Put into Play
+Marshaling Phase
+See Appendix I, “3. Marshaling phase” on page 27.
+Max X (copies) (per period)
+See “Limits and Maxima” on page 12.
+May
+The word “may” indicates that a specified player has 
+the option to do that which follows. If no player is 
+specified, the option is granted to the controller of the 
+card with the ability in question.
+Melee Game
+A melee game is a game with three or more players.
+x Melee games use the title cards and the framework 
+steps (1.4 and 7.4, see Appendix I) associated 
+with them.
+Related: Joust Game, Title Cards
+Military Claim
+When a player loses a military (󲀈) challenge as the 
+defending player, that player must choose a number 
+of different characters he or she controls equal to the 
+claim value on the attacking player’s revealed plot card, 
+and kill those characters. The chosen characters are all 
+killed simultaneously.
+If the player controls fewer characters than would 
+satisfy claim, as much of the claim as possible must 
+be satisfied.
+x The same character cannot be chosen more than 
+once to satisfy claim for a single 󲀈 challenge.
+x If a character chosen to be killed for military claim 
+is saved, the choice still serves to satisfy the claim.
+Related: Challenges Phase, Save
+Modifiers
+Some abilities may ask players to modify values. 
+The game state constantly checks and (if necessary) 
+updates the count of any variable quantity that is being 
+modified.
+Any time a new modifier is applied (or removed), 
+the entire quantity is recalculated from the start, 
+considering the unmodified base value and all active 
+modifiers.
+x The calculation of a value should treat all modifiers 
+as being applied simultaneously. However, while 
+performing the calculation, all additive and 
+subtractive modifiers should be calculated before 
+doubling and/or halving modifiers are calculated.
+x Fractional values are rounded up after all modifiers 
+have been applied.
+x When a value is “set” to a specific number, the set 
+modifier overrides all non-set modifiers (including 
+any new non-set modifiers that are added during the 
+duration of the set value). If multiple set modifiers 
+are in conflict, the most recently applied set modifier 
+takes precedence.
+x A quantity cannot be reduced so that it functions 
+with a value below zero: a card cannot have 
+“negative” icons, STR, traits, cost, or keywords. 
+Negative modifiers in excess of a value’s current 
+quantity can be applied, but, after all active 
+modifiers have been applied, any resultant value 
+below zero is treated as zero.
+Related: Base Value
+Move
+Some effects allow players to move cards or tokens.
+x When an entity moves, it cannot move to its same 
+(current) placement. If there is no valid destination 
+for a move, the move attempt cannot be made.
+Moving Power
+Some effects (such as a power challenge claim) allow 
+players to move power from one card to another. Power 
+that is moved is not considered “gained.”
+
+x Power that is moved to a card under a different 
+player’s control counts toward that player’s 
+victory condition.
+Related: Gains, Power Claim
+Mulligan
+After a player draws a starting hand during setup (but 
+before placing any cards in setup), that player has a 
+one-time option to declare a mulligan draw. After 
+doing so, the player reshuffles his or her starting hand 
+into his or her deck and draws a new starting hand of 7 
+cards. The player must keep this second hand.
+x Players decide in player order whether or not to 
+take a mulligan.
+Related: Setup
+Negative Quantities
+See “Modifiers” on page 13.
+Nested Ability Sequences
+Each time a triggering condition occurs, the following 
+sequence is followed: (1) execute any interrupts to 
+that triggering condition, (2) resolve the triggering 
+condition, and then (3) execute any reactions to that 
+triggering condition.
+Within this sequence, if an interrupt or a reaction 
+to the original triggering condition generates a new 
+triggering condition, the game pauses and starts a new 
+sequence: (1) execute interrupts to the new triggering 
+condition, (2) resolve the new triggering condition, 
+and then (3) execute reactions to the new triggering 
+condition. Once this nested sequence is fully 
+completed, the game returns to where it left 
+off, continuing with the original triggering 
+condition’s sequence.
+It is possible that a nested sequence generates further 
+triggering conditions (and hence more nested 
+sequences). There is no limit to the number of nested 
+sequences that may occur, but each nested sequence 
+must complete before returning to the sequence that 
+spawned it. In effect, these sequences are resolved in a 
+Last In, First Out (LIFO) manner.
+In each interrupt window and each reaction window, 
+nested or not, the first player always has the first 
+opportunity to initiate an interrupt or reaction 
+(respectively).
+Related: Interrupts, Reactions 
+Neutral
+Some cards are not affiliated with any faction; these 
+cards are neutral. Any deck may include neutral cards.
+x Neutral cards are not considered to be in-faction or 
+out-of-faction.
+Related: Deckbuilding, Faction
+Next Player
+See “Player Order” on page 15
+No Attachments
+No attachments is a keyword ability. A card with this 
+keyword cannot have an attachment card attached. 
+x If one or more traits precedes the word 
+“attachments,” the card cannot have an attachment 
+that possesses one of the specified traits, but it can 
+have attachments possessing none of those traits.
+x If the word “attachments” is followed by the word 
+“except” and one or more traits, the card can 
+have attachments that possess one or more of the 
+specified traits, but it cannot have attachments 
+possessing none of those traits.
+x If a card has multiple variants of the “no 
+attachments” keyword, any variant that would 
+prevent a card from having a given attachment 
+prevails.
+Related: Attachment Cards, Keywords, Trait
+Out of Play
+See “In Play and Out of Play” on page 9.
+Ownership and Control
+A card’s owner is the player whose deck held the card 
+at the start of the game.
+x Cards by default enter play under their owner’s 
+control. Some abilities may cause cards to change 
+control during a game.
+x A player controls the cards located in his or her out 
+of play game areas (such as the hand, deck, discard 
+pile, and dead pile).
+x If a card would enter an out of play area of a player 
+who does not own the card, the card is placed in 
+its owner's equivalent out of play area instead. (For 
+all associated card ability and framework effect 
+
+purposes, the card is considered to have entered that 
+opponent's out of play area, and only the physical 
+placement of the card is adjusted.)
+x If a participating character changes control during 
+the resolution of a challenge, it is immediately 
+removed from the challenge.
+Related: Deck, Leaves Play
+Participating
+Any character that has been declared as an attacker or as 
+a defender for a challenge is considered participating in 
+that challenge through the resolution of the challenge. 
+x A character is either participating or not 
+participating in a challenge.
+x If an ability explicitly removes a character from a 
+challenge, that character is no longer participating 
+in the challenge.
+x If a participating character leaves play for any reason, 
+it is no longer participating in the challenge.
+x Once a character is participating in a challenge, 
+losing the challenge icon of that type does not remove 
+the character from the challenge.
+Related: Attacker, Challenges Phase, Defender
+Pass
+There are numerous points in the game where a player 
+has an option between performing an act (such as taking 
+an action, triggering an ability, or executing a game 
+step) or passing. Passing in such a situation forfeits the 
+player’s right to perform that act at that moment.
+x Many game sequences continue until all players 
+pass consecutively. Should one player perform 
+the function (i.e., not pass) during his or her 
+opportunity, opportunities to perform or pass 
+continue clockwise in player order until a state of 
+consecutive passes by all players is achieved. Passing 
+an opportunity does not prevent a player from acting 
+during his or her next opportunity in the same 
+sequence, as long as a state of consecutive passes by 
+all players does not occur.
+Pillage
+Pillage is a challenge resolution keyword. After a player 
+wins a challenge, for each participating character with 
+the pillage keyword he or she controls, that player may 
+discard 1 card from the top of the losing opponent’s deck.
+Play Restrictions and Permissions
+Many cards or abilities contain specific instructions 
+pertaining to when or how they may or may not be used, 
+or to specific conditions that must be true in order to 
+use them. In order to use such an ability or play/marshal 
+such a card, these play restrictions must be observed. 
+A permission is an optional play restriction, which 
+allows a player to play/marshal a card or use an ability 
+outside the timing or specifications provided by the 
+game rules.
+Related: Event Cards, Initiating Abilities/ 
+Marshaling Cards
+Player Order
+If the players are instructed to perform a sequence in 
+“player order,” the first player performs his or her part 
+of the sequence first, followed by the other players in 
+clockwise order. The phrase “the next player” is used in 
+this context to refer to the next player (clockwise) to act 
+in player order.
+Plot Card
+Plot cards represent the round-by-round strategic 
+decisions and plans a player makes throughout the 
+course of a game. A player’s plot deck begins the game 
+with exactly seven plot cards. Each plot card possesses 
+a gold, initiative, claim, and reserve value. Many plot 
+cards also possess an ability.
+x Each plot card exists in one of three states: in the 
+plot deck, revealed, or in the used pile.
+x When a player reveals a new plot card, it leaves the 
+plot deck and enters the revealed state. Place it on 
+top of that player's previously revealed plot card. This 
+removes the previously revealed plot card from play, 
+and replaces it with the newly revealed plot card. All 
+plot cards under a player’s currently revealed plot 
+card are considered that player’s used pile.
+x A player’s revealed plot card is considered in play 
+and interacts with the game state.
+x When a player reveals the final card of his or her 
+plot deck, after all just revealed plot cards have 
+entered play and all necessary “When Revealed” 
+abilities have resolved, each plot card in that 
+player's used pile is returned to his or her plot deck. 
+The just revealed plot card is not yet in the used 
+pile, and remains revealed.
+
+For plot card anatomy, see Appendix II
+Related: In Play and Out of Play, Plot Deck, 
+When Revealed
+Plot Deck
+Each player uses his or her own plot deck. A player’s 
+plot deck begins the game with exactly seven cards. 
+One of those plot cards may have an additional copy 
+(by title) within the plot deck. No more than one copy 
+of each of the other plot cards may be included in the 
+plot deck. 
+Related: Deckbuilding, Plot Card, Plot Deck Limit: X
+Plot Deck Limit: X
+If a plot card bears the phrase, “Plot Deck Limit: X,” 
+no more than X copies (by title) of the plot card may 
+be included in a plot deck.
+x If X is 1, this phrase acts as a deckbuilding 
+restriction. A player cannot include an additional 
+copy of this plot card in his or her plot deck.
+x If X is 3 or higher, this phrase acts as a 
+deckbuilding permission. A player may include up 
+to X copies of this plot card in his or her plot deck, 
+should this plot card be selected by the player as the 
+one card for which additional copies are permitted.
+Plot Phase
+See Appendix I, “1. Plot phase” on page 26.
+Plot Value Modifiers
+The following icons modify the values of various 
+statistics on their controller’s revealed plot card. Such 
+modifications are mandatory.
+x All active plot value modifiers under a player’s 
+control are cumulative in their effect upon that 
+player’s revealed plot card.
+x If a card’s printed text box is considered blank, any 
+modifiers printed in that text box are not active.
+The object of the game is for a player 
+to have 15 (or more) power. A player's 
+power total is equal to the amount of 
+power amassed on cards under his or 
+her control, and is tracked using 
+power counters.
+Related: Winning the Game
+Power Claim
+When a player loses a power (󲀉) challenge as the 
+defending player, that player must remove a number of 
+power from his or her faction card equal to the claim 
+value on the attacking player’s revealed plot card, and 
+move it to the attacking player’s faction card.
+If the player controls less power than would satisfy 
+claim, as much of the claim as possible must be satisfied.
+Printed
+The word “printed” refers to the text, characteristic, 
+icon, or value that is physically printed on the card.
+Related: Blank
+Priority of Simultaneous Resolution
+If a single effect affects multiple players simultaneously, 
+but the players must individually make choices 
+to resolve the effect, the first player chooses first, 
+followed by the other players in player order. Once all 
+necessary choices have been made, the effect resolves 
+simultaneously upon all affected entities.
+x If the resolution of two or more when revealed 
+abilities, delayed effects, or forced abilities would 
+resolve at the same time, the first player decides the 
+order in which the abilities resolve, regardless of who 
+controls the cards bearing the conflicting abilities.
+x If two or more constant abilities and/or lasting 
+effects cannot be applied simultaneously, the first 
+player determines the order in which the constant 
+abilities are applied.
+Put into Play
+Some card abilities may cause a card to be “put into 
+play.” Such abilities place the card directly into play 
+from an out of play state. 
+Counter
+Gold 
+Reserve 
+Initiative 
+
+x The gold cost of the card being “put into play” is 
+not paid.
+x Unless otherwise instructed by the “put into play” 
+effect, cards that enter play in this manner must do 
+so in a play area or attachment state that satisfies the 
+rules of marshaling the card.
+x A card that has been put into play is not considered 
+to have been “marshaled.”
+x If an additional copy of a unique card a player 
+already owns and controls is put into play under his 
+or her control, it enters play as a duplicate.
+Related: Dead pile, Duplicates, In Play and Out of 
+Play, Marshal, Unique Cards
+Qualifiers
+If card text includes a qualifier followed by multiple 
+terms, the qualifier applies to each item in the list, if it 
+is applicable. For example, in the phrase “each unique 
+character and location,” the word “unique” applies both 
+to “character” and to “location.”
+Reactions
+A reaction is a triggered ability whose text contains 
+the boldface “Reaction:” precursor. Always resolve a 
+triggering condition before initiating any reactions to 
+that triggering condition.
+Unlike actions, which are resolved during action 
+windows, each reaction may be initiated once each time 
+its specified triggering condition occurs, as described in 
+the reaction’s ability text.
+After a triggering condition resolves, a reaction window 
+for that triggering condition opens. 
+Within the reaction window, the first player always has 
+the first opportunity to initiate an eligible reaction (to 
+this triggering condition), or pass. Opportunities to 
+initiate an eligible reaction, or pass, continue in player 
+order until all players consecutively pass, at which point 
+the reaction window closes. Passing does not prevent a 
+player from initiating an eligible reaction later in that 
+same reaction window.
+Once a reaction window closes, further reactions to that 
+specific triggering condition cannot be initiated.
+x It is possible for multiple reactions to be initiated 
+from the same triggering condition. Each reaction 
+must resolve completely before the next reaction to 
+the same triggering condition may initiate.
+x If multiple copies of the same reaction are eligible to 
+be initiated, each copy may be initiated once against 
+that triggering condition. Each eligible reaction may 
+be used once per trigger. (If multiple copies of the 
+same reaction are eligible, each copy may be used 
+once.)
+Related: Interrupts, Nested Ability Sequences
+Redirect (Melee game only)
+The Crown Regent title card can be used to redirect a 
+single challenge each round. This ability is used after 
+a challenge is initiated, before any reactions to that 
+challenge’s initiation can be triggered.
+If a challenge is redirected, the player who is initiating 
+the challenge must immediately choose a new opponent 
+to resolve the challenge against. The attacking player 
+may also choose new stealth targets (controlled by 
+the new defending player) if he or she desires. Any 
+originally declared stealth targets are not considered to 
+have been bypassed by stealth; any new targets are.
+The challenge is still considered to have been initiated 
+against the original opponent, but it resolves against the 
+new opponent.
+A redirected challenge may not be resolved against the 
+same opponent it was originally initiated against.
+Any effect that would prevent a challenge from being 
+initiated against a player does not prevent a redirected 
+challenge from resolving against that player. (This 
+means that a redirected challenge may resolve against 
+an opponent the attacking player supports.)
+The player initiating the challenge cannot change which 
+characters he or she has declared, or the challenge type 
+that has been announced, when a challenge has been 
+redirected.
+Related: Melee Game
+Removed from Game
+A card that has been removed from the game is set aside 
+and has no further interaction with the game in any 
+manner for the duration of its removal.
+If there is no specified duration, a card that has been 
+removed from the game is considered removed until the 
+end of the game.
+
+Renown
+Renown is a challenge resolution keyword. After a 
+player wins a challenge, each participating character 
+with the renown keyword he or she controls may gain 
+1 power.
+Replacement Effects
+A replacement effect is an effect (usually an interrupt) 
+that replaces the resolution of a triggering condition 
+with a different means of resolving that same 
+triggering condition, but in such a manner that the 
+triggering condition is still considered to occur. The 
+word “instead” is frequently indicative of a such an 
+effect. After all interrupts to the triggering condition 
+have resolved and it is time to resolve the triggering 
+condition itself, the replacement effect resolves instead.
+If multiple replacement effects are initiated against 
+the same triggering condition, the most recent 
+replacement effect is the one that is used for the 
+resolution of the triggering condition.
+For example, Benjen Stark has the following replacement 
+effect, “Interrupt: When Benjen Stark is killed, gain 
+2 power for your faction. Then, shuffle him back into 
+your deck instead of placing him in your dead pile.” The 
+triggering condition (i.e. the killing of Benjen Stark) 
+will still occur, but the triggering condition will resolve 
+differently from normal because the card will be shuffled 
+back into its owner's deck rather than being placed in its 
+owner’s dead pile.
+Related: Interrupts
+Reserve Value
+Each plot card has a reserve value. During the taxation 
+phase, each player compares his or her current hand 
+size (i.e., the number of cards in the player’s hand) with 
+the reserve value on his or her currently revealed plot 
+(which incorporates all relevant reserve modifiers). If 
+a player’s hand size is higher than his or her reserve 
+value, that player must choose and discard cards from 
+his or her hand until the hand size is equal to the 
+reserve value. All players perform this process in 
+player order.
+Related: Plot Value Modifiers
+Reserve Modifier
+Reveal
+When a player is instructed to reveal cards, that player 
+is obliged to show those cards to his or her opponents. 
+If there is no specified duration for the reveal, the 
+revealed cards remain revealed until they reach a new 
+destination (as specified by the ability), or through the 
+completion of the ability's resolution.
+x While it is revealed, a revealed card is still 
+considered to be located in the game area (such as a 
+player's hand or deck) from which it is revealed.
+Revealed Plot
+See “Plot Card” on page 15.
+Rivals (Melee game only)
+If a player’s title card lists another title as a “rival,” 
+that player gains 1 power for his or her faction after 
+winning a challenge against an opponent who bears 
+that rival title. This occurs during framework step 
+4.2.3 (see Appendix I) and is known as a rivals bonus.
+x A player can gain a maximum of 1 rivals bonus per 
+rival opponent by winning a challenge against that 
+opponent each round.
+Related: Melee Game, Title Cards
+Sacrifice
+When a player is instructed to sacrifice a card, that 
+player must choose a card in play that he or she 
+controls and that matches the requirements of the 
+sacrifice, and place it in his or her discard pile.
+x If the chosen card does not leave play, the sacrifice 
+is not considered to have been made. 
+x Sacrificing a card does not satisfy any other means 
+(such as “kill” or “discard”) of a card leaving play.
+x A sacrificed card cannot be saved.
+Related: Ownership and Control, Save
+Save
+When a card is saved from an effect that attempts to 
+remove that card from play, the card remains in play as 
+the effect resolves and is not considered to have been 
+killed, discarded, or otherwise removed from play by 
+the effect.
+x If a card is saved from 󲀈 claim, the card was still 
+chosen for 󲀈 claim, and therefore is still counted 
+towards the fulfillment of the claim.
+
+x If an aspect of an ability that removes a card from 
+play is followed by the text “cannot be saved,” players 
+cannot attempt to save that card.
+x If a constant ability or lasting effect imposes a 
+condition upon a card that would continually drive 
+it from play (for example, a lasting effect that applies to 
+a character over a period of time, and kills that character 
+if its STR is 0), any attempt to save the card must 
+also remedy the ongoing condition. Otherwise, upon 
+resolution of the save attempt, the card is immediately 
+re-exposed to the ongoing condition, and removed 
+from play. Therefore, if the save effect does not also 
+remedy the ongoing condition, it cannot be initiated, 
+as the effect has no potential to change the game 
+state. As such, using a duplicate to save from such an 
+ongoing condition is also prohibited.
+Related: Effects, Military Claim, Would
+Search
+When a player is instructed to search for a card, that 
+player is permitted to look at all of the cards in the 
+searched area without revealing those cards to his or her 
+opponents.
+x If an effect searches an entire deck, the deck must 
+be shuffled to the satisfaction of each opponent upon 
+completion of the search.
+x A player is not obliged to find the object of a search 
+effect, even if the searched cards contain a card that 
+meets the eligibility requirements of the search.
+x If a search effect would add a card with specified 
+characteristics to a hidden game area, the player 
+fulfilling the search must reveal the card to his or 
+her opponent to verify that the card is eligible to be 
+found by the search.
+x While cards are being searched, they are not 
+considered to have left their play area of origin.
+Related: Deck
+Self-Referential Text
+When a card’s ability text refers to its own title, it is 
+referring to itself only, and not to other copies (by title) 
+of the card.
+Related: Copy
+Set
+See “Modifiers” on page 13.
+Setup
+To setup a game, perform the following steps in order:
+1.	 Determine game format and select decks. Games 
+with two players use the joust format. Games with 
+three or more players use the melee format. 
+2.	 Determine first player. Randomly determine a 
+player to be denoted as first player while setting up 
+the game. Place the first player token in front of 
+this player.
+3.	 Announce factions and agendas (if any). In player 
+order, each player announces the faction and agenda 
+(if any) that his or her deck uses, and places the 
+faction card and agenda (if any) faceup in his or her 
+play area.
+4.	 Create treasury. Place the gold tokens, power 
+counters, and influence tokens in a pile within reach 
+of each player. This area is known as the treasury.
+5.	 Place plot decks. Each player places his or her plot 
+deck facedown next to his or her faction card.
+6.	 Shuffle draw decks. Each player shuffles his or her 
+draw deck to the satisfaction of all opponents.
+7.	 Draw setup hands. Each player draws seven cards 
+from his or her draw deck. Each player, in player 
+order, has the option to take a single mulligan by 
+shuffling those seven cards back into his or her deck 
+and drawing seven new cards.
+8.	 Place setup cards. Each player, in player order, 
+may place up to a total of 8 cost worth of character, 
+location, and attachment cards from his or her hand 
+as setup cards. Setup cards are placed facedown in 
+a player’s play area. When placing setup cards, the 
+following restrictions must be observed:
+✦No more than 8 total cost worth of cards may 
+be placed.
+✦No more than 1 card with the “Limited” keyword 
+may be placed.
+✦Only character, location, and attachment cards 
+may be placed.
+✦Each attachment that is placed must be eligible to 
+be attached to a valid card or game element that 
+will be under its owner’s control when the setup 
+cards are revealed in the next step.
+
+✦Additional copies of unique cards may be placed 
+in setup at no cost, and revealed as duplicates in 
+the following step.
+9.	 Reveal setup cards. All players turn their setup 
+cards faceup simultaneously. Then, each player 
+attaches his or her attachments and places his or 
+her duplicates, in player order. Note: Cards are not 
+considered to have been marshaled, played, put into 
+play, or to have entered play when they are revealed or 
+announced in setup, and card abilities that reference 
+those terms are ignored during this step. These cards are 
+considered “already in play” when the game begins.
+10.	Replenish opening hand. Each player draws cards 
+until there are seven cards in his or her hand.
+Related: Duplicates, Mulligan, Appendix II: Card 
+Anatomy
+Stand, Standing
+A card that is in an upright state so that its 
+controller can read its text from left to right is 
+considered standing.
+x The default state in which cards enter play 
+is standing.
+x A standing card is knelt by rotating it 90 degrees to 
+the side.
+Related: Enters Play, Kneel, Kneeling
+Standing Phase
+See Appendix I, “6. Standing phase” on page 29.
+Stealth
+Stealth is a keyword ability. When a player initiates 
+a challenge, for each character with stealth he or she 
+declares as an attacker, that player may choose one 
+character without stealth controlled by the defending 
+player. Each chosen character is considered bypassed 
+by stealth, and is not eligible to be declared as a 
+defender for that challenge.
+STR
+The abbreviation for “strength.”
+Strength, Strength Modifiers
+A character’s strength (abbreviated “STR”) represents 
+its effectiveness in challenges. The higher the STR, 
+the more effective the character. A character’s printed 
+STR can be found in the shield to the left of its title.
+Total attacking STR is the sum of each participating 
+character’s STR on the attacking player's side, plus any 
+relevant modifiers.
+Total defending STR is the sum of each participating 
+character’s STR on the defending player's side, plus 
+any relevant modifiers.
+A player is not able to win a challenge with a total 
+attacking or defending STR of zero.
+Supports (Melee game only)
+If a player’s melee title card “supports” another title, 
+the bearer of that title cannot initiate a challenge 
+against the bearer of the title he or she supports.
+Related: Title cards
+Switch
+Some abilities use the word “switch.” In order to 
+resolve such an ability, switched items must exist on 
+each side of the switch.
+Target
+The term “choose” indicates that a target must be 
+chosen in order for an ability to resolve. The player 
+resolving the effect must choose a game element 
+(usually a card) that meets the targeting requirements 
+of the ability.
+x The controller of a targeting ability chooses all 
+targets for the effect unless otherwise specified by 
+the card.
+x If an ability requires the choosing of a target (or 
+targets), and there is no valid target (or not enough 
+valid targets), then the ability cannot be initiated. 
+This initiation check is made at the same time the 
+ability’s play restrictions are checked.
+x At the time targets are chosen, any currently valid 
+targets are eligible to be chosen. (This choice is not 
+restricted only to targets that were present during 
+the initiation check.)
+x If multiple targets are required to be chosen by the 
+same player, these are chosen simultaneously.
+
+x An effect that can choose “any number” of targets 
+does not successfully resolve (and cannot change the 
+game state) if zero of those targets are chosen.
+x The resolution of some effects (such as post-then 
+effects, or delayed effects) requires that targets are 
+chosen after the initiation of the effect. Such targets 
+need not be verified when checking play restrictions 
+and determining whether or not the entire ability 
+may initiate. If there are no valid targets at the time 
+such targets would be chosen, that aspect of the 
+effect fails to resolve.
+x A card is not an eligible target for an ability if the 
+resolution of that ability's effect could not affect the 
+target at all. (For example, a kneeling character cannot 
+be chosen as the target for an effect that reads, “choose and 
+kneel a character.”)
+Related: Delayed Effects, Initiating Abilities, 
+The word “Then”
+Taxation Phase
+See Appendix I, “7. Taxation phase” on page 29.
+Terminal
+Terminal is a keyword ability that appears on 
+attachment cards. If the card or game element to which 
+a terminal card is attached leaves play, the attachment 
+does not return to its owner's hand, and is discarded 
+from play.
+Related: Attachment Cards, Keywords
+The word “Then”
+If the effect text of an ability includes the word “then,” 
+the text preceding the word “then” must be successfully 
+resolved in full (i.e. the game state changes to reflect the 
+intent of the pre-then aspect of the effect in its entirety) 
+before the remainder of the effect described after the 
+word “then” can be resolved.
+x If the pre-then aspect of an effect does successfully 
+resolve in full, the resolution of the post-then aspect 
+of the effect must also attempt to resolve.
+x If the pre-then aspect of an effect does not 
+successfully resolve in full, the post-then aspect does 
+not attempt to resolve.
+Title Cards, Title Pool (Melee game only)
+The title cards are used only in the melee game. Each 
+title provides unique capabilities to its bearer, and 
+fosters political relationships among the players. 
+The title pool is created during game setup. It contains 
+all of the title cards not currently controlled by a player. 
+Players select a title from the title pool each round 
+during the plot phase, and bear it throughout the round. 
+While a player bears a title, it is in play under his or 
+her control.
+In addition to creating rival and support relationships 
+among the players (and to the textual or iconic abilities 
+described on the cards), each of the following titles 
+also provides its bearer with a unique STR bonus for a 
+specified part of the round.
+The Crown Regent contributes 2 additional STR to its 
+bearer’s total for dominance.
+The Hand of the King contributes 1 additional STR to 
+its bearer’s total during any 󲀉 challenge in which he or 
+she controls a participating character.
+The Master of Ships contributes 1 additional STR to its 
+bearer’s total during any 󲀈 challenge in which he or she 
+controls a participating character.
+The Master of Whispers contributes 1 additional STR 
+to its bearer’s total during any 󲀊 challenge in which he 
+or she controls a participating character.
+x If a player's title card leaves play, it must be returned 
+to the title pool.
+For title card anatomy, see Appendix II
+Related: Melee Game, Plot Phase, Redirect, 
+Rivals, Supports
+Tokens, Running out of
+There is no limit to the number of gold, power, or 
+influence tokens which can be in the play area at a 
+given time. If players run out of the provided tokens, 
+other tokens, counters, or coins may be used to track the 
+current game state.
+Traits
+Most cards have one or more traits listed at the top of 
+the text box and printed in bold italics. 
+x Traits have no inherent effect on the game. Instead, 
+some card abilities reference cards that possess 
+specific traits.
+Treasury
+The treasury is created during game setup and contains 
+all of the tokens and counters not currently controlled 
+by any player.
+
+x When a player gains gold, that gold is taken from 
+the treasury and added to the player’s gold pool. 
+When a player spends gold to marshal a card or pay 
+for an ability, that gold is returned to the treasury.
+x When a card with any tokens or counters on it 
+leaves play, those tokens or counters are returned 
+to the treasury.
+Related: Setup, Gold, Influence Tokens, Power
+Triggered Abilities
+A triggered ability is any ability with a boldface 
+precursor followed by a colon and the rest of the 
+ability. This incudes actions, phase specific actions, 
+interrupts, reactions, forced interrupts or reactions, 
+and when revealed abilities.
+Related: Abilities, Triggering Condition
+Triggering Condition
+A triggering condition is a specific occurrence 
+that takes place in the game. On card abilities, the 
+triggering condition is the element of the ability that 
+references such an occurrence, indicating the timing 
+point at which the ability may be used. The description 
+of an ability's triggering condition often follows the 
+word “when” (for interrupt abilities) or the word “after” 
+(for reaction abilities).
+If a single occurrence creates multiple triggering 
+conditions (such as two characters being killed 
+simultaneously by a claim 2 military challenge), those 
+triggering conditions are handled in shared interrupt/
+reaction windows, in which abilities that refer to any 
+of the triggering conditions created by that occurrence 
+may be used.
+The following is a sequence of possible interrupt 
+and reaction opportunities that exists around each 
+triggering condition that may arise in a game:
+1.	 The triggering condition becomes imminent. (In 
+other words, if it is not canceled, changed, or 
+otherwise pre-empted by interrupt abilities, the 
+triggering condition is the next thing that will 
+occur in the game.) 
+2.	 Interrupt abilities referencing when the imminent 
+triggering condition “would” occur may be used. 
+(Note that for effects, a “cancel” interrupt may 
+prevent the effect from initiating, and that the 
+initiation of an effect is a separate triggering 
+condition, that comes before the resolution of the 
+effect. “Cancel” interrupts are the only type that 
+will reference the initiation of an effect.) If the 
+imminent triggering condition is canceled, none 
+of the subsequent steps in this sequence occur. If 
+the triggering condition is changed, the original 
+triggering condition is no longer imminent, but 
+the newly established triggering condition is now 
+imminent (usually, this will mean that a card that 
+was about to leave play is now about to be saved).
+3.	 Forced interrupts to the imminent triggering 
+condition must resolve, in the order determined by 
+the first player.
+4.	 The interrupt window to the imminent triggering 
+condition opens, and closes after all players 
+consecutively pass.
+5.	 The triggering condition itself occurs.
+6.	 Forced reactions to the triggering condition must 
+resolve, in the order determined by the first player.
+7.	 The reaction window to the triggering condition 
+opens, and closes after all players consecutively pass.
+Related: Cancel, Initiating Abilities, Interrupts, 
+Reactions, Would
+Unique Cards
+A card with the 󲀋 symbol before its card title is a 
+“unique” card. Each player may only have a maximum 
+of one instance of each unique card, by title, in play.
+x A player may marshal (or put into play by a card 
+ability) additional copies of each unique card he or 
+she owns and controls, placed as a duplicate on that 
+card, for no cost.
+x A player cannot take control of a unique card if he 
+or she already controls or owns an in-play copy of 
+that card.
+x A player cannot bring into play or take control of 
+a unique card if a copy of that card is in his or her 
+dead pile.
+Related: Dead Pile, Duplicates, Ownership and Control
+Unopposed, Unopposed Challenge
+A challenge is “unopposed” if the defending 
+player counts 0 STR when the challenge winner is 
+determined. This can occur if the defending player 
+controls no participating characters, or if there are 
+defending characters but the total defending STR is 0.
+
+x When a player wins an unopposed challenge as 
+the attacker, that player gains 1 power for his or 
+her faction card. This occurs during framework 
+step 4.2.3 (see Appendix I), and is known as an 
+unopposed bonus.
+Used Pile
+See “Plot Card” on page 15.
+When Revealed
+A When Revealed ability contains the boldface “When 
+Revealed:” precursor. Such an ability must resolve 
+whenever a plot card bearing it is revealed.
+See timing step “1.3 Reveal plots” on page 26.
+Winning a Challenge
+Each challenge is won by the player who counts the 
+highest total STR for his or her side when the challenge 
+result is determined.
+x A player's total STR is the sum of the STR of each 
+participating character on his or her side of the 
+challenge, along with any other modifiers that are 
+affecting the amount of STR that player counts for 
+that challenge.
+x A player must count at least 1 total STR and there 
+must be at least 1 participating character on his or 
+her side in order to win a challenge.
+x If the total STR counted on each side is tied at a 
+value of 1 or greater (and the attacker controls at 
+least 1 participating character), the attacker wins 
+the challenge.
+x If neither player can meet the requirements of 
+winning a challenge, neither player wins (or loses) 
+that challenge.
+Related: Challenges Phase, Claim, Unopposed
+Winning the Game
+The first player to have 15 (or more) power on cards 
+he or she controls wins the game. The game ends 
+immediately if a player meets the victory condition of 
+having 15 (or more) power.
+x If multiple players would reach this victory condition 
+simultaneously, the first player determines which of 
+those players wins the game.
+x A player is eliminated from the game when his or 
+her draw deck has no cards remaining. If all of a 
+player’s opponents are eliminated from the game, the 
+remaining player wins the game. (If all remaining 
+players would be eliminated simultaneously, the first 
+player determines the order in which those players 
+are eliminated.)
+Would
+The word “would” is used to define the triggering 
+condition of some interrupt abilities, and establishes a 
+higher priority for those abilities than interrupts to the 
+same triggering condition that lack the word “would.”
+All “would be X” interrupts are eligibly to be used 
+before any “is X” interrupts. This means that an 
+interrupt with the word “would” (such as “when a 
+character would be killed”) has timing priority over 
+an interrupt without the word “would” to the same 
+occurrence (such as “when a character is killed”). 
+x If an interrupt to a triggering condition that would 
+occur changes the nature of that which is about 
+to occur (such as saving a character that would be 
+killed), no further interrupts to the original trigger 
+may be used, as the resolution of that trigger is no 
+longer imminent.
+Related: Cancel, Interrupts, Replacement Effects, Save
+The letter “X”
+Unless specified by a card ability or granted player 
+choice, the letter X is always equal to 0. For costs 
+involving the letter X, the value of X is defined by card 
+ability or player choice, after which the amount paid may 
+be modified by effects without altering the value of X.
+Component List
+For reference, the game components included in the 
+core set are:
+x 28 Plot cards
+x 20 Stark cards
+x 20 Lannister cards
+x 20 Baratheon cards
+x 20 Greyjoy cards
+x 20 Targaryen cards
+x 20 Martell cards
+x 20 Tyrell cards
+x 20 Night’s Watch cards
+x 31 Neutral cards
+x 1 Fealty Agenda card
+x 8 Faction/Agenda cards
+x 6 Melee title cards
+x 30 Gold tokens
+x 30 Power counters
+x 10 Influence tokens
+x 1 First Player token
+
+Appendix I: Timing 
+and Gameplay
+Numbered items presented in the darker boxes are 
+known as framework events. Framework events are 
+mandatory occurrences dictated by the structure of the 
+game. Yellow windows are framework events that only 
+occur when playing the melee format of the game. Grey 
+windows are special framework events that indicate 
+the possibility of the game returning to an earlier 
+framework event in the chart. These repetitive sequences 
+can end in various ways, such as when all players have 
+performed the steps in the sequence, or when a player 
+makes a specific decision. Each grey window explains 
+when and how the game either loops back or progresses 
+to a later framework event.
+Action Windows
+An Action may only be initiated during an action 
+window. Action windows are presented in red boxes 
+on the chart. When an action window opens, the 
+first player has the first opportunity to initiate an 
+action, or pass. Opportunities to initiate actions 
+rotate between the players in player order until all 
+players consecutively pass, at which point the action 
+window closes. (Note that if a player passes his or 
+her opportunity to act, but the other opponents do 
+not consecutively pass in sequence, the original player 
+may still take an action when the rotation of action 
+opportunities comes back around to the original player.)
+Resolve each action completely before the next 
+action opportunity.
+Reactions and Interrupts
+An Interrupt or Reaction ability can interrupt or react 
+to the resolution of a framework event if the triggering 
+condition of the ability is met.
+Each reaction or interrupt must resolve completely 
+before the next interrupt or reaction to the same 
+triggering condition may initiate.
+For example: An ability that reads, “Reaction: After 
+you win a challenge…” initiates after step (4.2.2) of the 
+challenge resolution framework event is complete.
+Proceed to Draw phase
+1. PLOT PHASE
+1.5 Plot phase ends.
+1.1 Round begins. Plot phase begins.
+1.2 Choose plots.
+1.3 Reveal plots.
+	
+	
+I. Count initiative.
+	
+	
+II. Determine first player.
+	
+	
+III. Resolve “when revealed” abilities.
+1.4 Select titles (Melee format only).
+Proceed to Marshaling phase
+2. DRAW PHASE
+2.3 Draw phase ends.
+2.1 Draw phase begins.
+2.2 Each player draws 2 cards.
+Proceed to Challenges phase
+3. MARSHALING PHASE
+3.4 Marshaling phase ends.
+3.1 Marshaling phase begins.
+3.2 Active player collects income (first player starts as 
+active player).
+SPECIAL ACTION WINDOW
+All players may use actions, but only the 
+active player can marshal cards into play.
+3.3 Next player becomes active player, until each player 
+has been active player.
+
+4.2.6 Challenge ends.
+CHALLENGE RESOLUTION
+4.2 Challenge is initiated.
+4.2.1 Defending player declares defenders.
+4.2.2 Compare STR to determine challenge winner.
+4.2.3 Gain challenge bonuses.
+4.2.4 Apply claim result.
+4.2.5 Process challenge resolution keywords.
+5. DOMINANCE PHASE
+5.3 Dominance phase ends.
+Proceed to Standing phase.
+5.1 Dominance phase begins.
+5.2 Count standing STR (and unspent gold) and 
+reward dominance.
+6. STANDING PHASE
+Proceed to Taxation phase.
+6.1 Standing phase begins.
+6.2 Stand each kneeling card.
+6.3 Standing phase ends.
+Proceed to Plot phase of next game round.
+7. TAXATION PHASE
+7.5 Taxation phase ends. Round ends.
+7.1 Taxation phase begins.
+7.2 Return unspent gold to treasury.
+7.3 Each player discards cards in hand down to his or 
+her reserve value.
+7.4 Return all titles to the title pool. 
+(Melee format only.)
+4. CHALLENGES PHASE
+4.4 Challenges phase ends.
+Proceed to Dominance phase.
+4.1 Challenges phase begins.
+4.2 Active player may initiate a challenge, if able 
+(first player starts as active player). If the active player 
+initiates a challenge, move to challenge resolution flow 
+chart.
+4.3 If the active player does not initiate further chal-
+lenges, the next player in player order becomes active 
+player; proceed to “Action Window.” If all players have 
+been active player, proceed to 4.4.
+
+Framework Event Details
+This section provides a detailed explanation on how 
+to handle each framework event step presented on the 
+game’s flow chart, in the order that the framework 
+events occur throughout the round.
+1. Plot phase
+1.1 Plot phase begins
+This step formalizes the beginning of the plot phase. 
+As this is the first framework event of the round, it 
+also formalizes the beginning of a new game round.
+The beginning of a phase is an important game 
+milestone that may be referenced in card text, either 
+as a point at which an ability may or must resolve, or 
+as a point at which a lasting effect or constant ability 
+begins or expires.
+1.2 Choose plots
+Each player looks at the cards remaining in his or her 
+plot deck, and chooses one to reveal during the next 
+framework step. The chosen plot is placed facedown 
+apart from the plot deck, and not revealed to other 
+players during this step.
+Once each player has chosen a plot and placed it 
+facedown away from his or her plot deck, this step 
+is complete.
+1.3 Reveal plots
+The players simultaneously reveal each of the plot cards 
+that were chosen during step 1.2 by turning those 
+cards faceup.
+When a player's plot card is revealed, it is placed on 
+top of his or her previously revealed plot card. All plot 
+cards beneath a player’s currently revealed plot card are 
+considered that player’s “used pile.” 
+The act of revealing plot cards for this framework event 
+involves three steps, performed in this order:
+I. Compare initiative. The player with the highest 
+initiative value on his or her revealed plot card (which 
+incorporates all relevant reserve modifiers) wins 
+initiative. If multiple players have the same initiative 
+value, the tied player with the lowest power total wins 
+initiative. If the players’ initiative and power totals are 
+both tied, the tie is broken by randomly selecting one 
+of the tied players.
+II. Choose first player. The player who won initiative 
+in step I chooses a player to be the first player. The 
+chosen player takes the first player token and keeps it 
+until another card or game effect (usually this step in 
+the following round) selects a new first player.
+Note: If a player reveals a new plot card outside the 
+standard plot phase framework step (for instance, 
+by resolving a card ability), steps I and II are 
+skipped: there is no new initiative comparison or 
+determination of a new first player.
+III. Initiate When Revealed abilities. Any when 
+revealed abilities on plot cards that have just been 
+revealed must now initiate. If multiple players 
+have When revealed abilities on their plot cards, 
+the first player determines the order in which these 
+abilities initiate. Resolve each when revealed ability 
+before initiating the next.
+Once these steps are complete, the players have 
+completed the process of revealing plots. If a player has 
+no cards in his or her plot deck, that player's used pile 
+now returns to his or her plot deck. (The just revealed 
+plot is not yet in the used pile and does not return at 
+this time.)
+TIMING NOTE: Any reaction abilities that read “After 
+you reveal a plot card” or “After a player reveals a plot card” 
+may be initiated after the completion of the above step III.
+1.4 Select titles (melee format only)
+If the players are playing a melee game, they now 
+select titles for the round. In a joust game, this 
+framework step is skipped.
+First, shuffle the six titles facedown and remove one 
+at random from the title pool. If three players are 
+playing, remove two at random instead. If six or more 
+players are playing, no titles are removed.
+The first player then looks at the remaining titles in 
+the title pool, and takes one without revealing his 
+or her selection to the other players. The remaining 
+titles are passed in player order, with each player 
+selecting one title in this manner. After all players 
+have selected, any unselected titles (including the 
+titles that were randomly removed at the beginning 
+of this step) are returned facedown to the title pool, 
+and each selected title is turned face up in front of the 
+player who selected it. Each selected title enters play 
+simultaneously, is considered in play under its bearer's 
+control, and may interact with the game state until it is 
+returned to the title pool.
+
+If more than six players are playing in a melee game, 
+any player who would be selecting a title from an empty 
+title pool plays the round without a title.
+1.5 Plot phase ends
+This step formalizes the end of the plot phase.
+The end of a phase is an important game milestone 
+that may be referenced in card text, either as a point at 
+which an ability may or must resolve, or as a point at 
+which a lasting effect or constant ability expires 
+or begins.
+2. Draw phase
+2.1 Draw phase begins
+This step formalizes the beginning of the draw phase.
+2.2 Draw
+Each player must simultaneously draw 2 cards from the 
+top of his or her draw deck.
+Note: A player is eliminated from the game 
+immediately if there are no cards remaining in his or 
+her deck. If all remaining players are eliminated while 
+fulfilling this step, the first player determines which of 
+those players is the winner of the game.
+2.3 Draw phase ends
+This step formalizes the end of the draw phase.
+3. Marshaling phase
+3.1 Marshaling phase begins
+marshaling phase.
+3.2 Active player collects income
+The first player is first to be the active player in the 
+marshaling phase.
+The active player collects income equal to the gold value 
+on his or her revealed plot card (which incorporates all 
+relevant gold modifiers), and gains that much gold from 
+the treasury, adding it to his or her gold pool.
+Marshaling phase player action window
+The first player always has the first opportunity to act 
+during this action window. 
+In addition to being permitted to initiate “Action” and 
+“Marshaling Action” abilities (like all players), the 
+active player is also permitted (when it is his or her 
+turn to act) to, as a player action, marshal a character, 
+location, attachment, or duplicate. Action opportunities 
+in this window continue in player order until each 
+player has consecutively passed. 
+TIMING NOTE: Any player may also initiate Interrupt 
+or Reaction abilities if the appropriate triggering 
+condition occurs.
+To marshal a card, a player returns an amount of gold 
+equal to the card’s gold cost from his or her gold pool to 
+the treasury.
+When a player marshals a character card, the card is 
+placed in the front row of that player’s play area.
+When a player marshals a location card, the card is 
+placed in the back row of that player’s play area.
+When a player marshals an attachment card, the card is 
+attached to another card or game element in play. Some 
+attachments have play restrictions or permissions that 
+describe the type of card or game element to which they 
+must be attached. If an attachment does not have any 
+such restriction or permission, the default state for an 
+attachment is that it attaches to a character.
+When a player marshals a duplicate, it is placed faceup, 
+overlapped by (i.e. partially visible beneath) the copy 
+of the card that was already in play. There is no cost to 
+marshal a duplicate.
+Action opportunities continue clockwise in player order 
+among the players until all players consecutively pass, at 
+which point the action window closes. As such, there is 
+no upper limit on the number of opportunities an active 
+player may have to marshal his or her cards. 
+3.3 Next player becomes active player
+If upon reaching this step all players have been the 
+active player this phase, proceed to step 3.4. 
+Otherwise, the next player (in player order) becomes the 
+active player. Return to step 3.2.
+3.4 Marshaling phase ends
+This step formalizes the end of the marshaling phase.
+4. Challenges phase
+4.1 Challenges phase begins
+challenges phase.
+4.2 Active player may initiate a challenge
+The first player is the first to be the active player in the 
+challenges phase.
+The game permits the active player to initiate one 󲀈, 
+one 󲀊, and one 󲀉 challenge (in any order) while he or 
+she is the active player during the challenges phase. 
+
+If the active player passes this opportunity to initiate 
+a challenge, or cannot initiate a challenge, proceed to 
+step 4.3.
+To initiate a challenge, the active player does the 
+following. The game treats these criteria as being 
+performed atomically (all at once), and they must all be 
+completed together in order to initiate a challenge. 
+x Announces the type of challenge (󲀈, 󲀊, or 󲀉) 
+being initiated.
+x Announces the opponent against whom the 
+challenge is being initiated.
+x Announces which characters (under his or her 
+control) are being declared as attackers, and kneels 
+them simultaneously. In order to be eligible as an 
+attacker, a character must have a challenge icon 
+that corresponds with the type of challenge being 
+initiated, and the character must be standing. At 
+least one character must be declared as an attacker 
+to initiate a challenge. Any character with the 
+stealth keyword that has been declared as an 
+attacker also chooses its stealth targets at this time 
+if its controller desires to use the stealth keyword.
+TIMING NOTE: Once a challenge is initiated, reactions 
+to any of the above announcements may be initiated.
+TIMING NOTE: Once a challenge is initiated, it is 
+considered to be resolving until the challenge ends in 
+step 4.2.6.
+4.2.1 Defending player declares defenders
+The defending player has the option to declare eligible 
+characters he or she controls as defenders, and kneels 
+them simultaneously. In order to be eligible as a 
+defender, a character must have a challenge icon 
+that corresponds with the type of challenge that 
+is currently underway, and the character must be 
+standing. A character that was chosen as a stealth 
+target in step 4.2 is not eligible to be declared as a 
+defender.
+4.2.2 Compare STR to determine challenge winner
+Compare the combined STR of all attacking 
+characters (plus any active modifiers) to the combined 
+STR of all defending characters (plus any active 
+modifiers) to determine the challenge winner. 
+The player whose side has the higher total STR wins 
+the challenge (or in the case of a tie, the challenge is 
+won by the attacking player). If this player does not 
+have a total STR of 1 or higher, and/or if there are no 
+participating characters on this player’s side when this 
+step (i.e., the STR comparison) occurs, neither player 
+wins (or loses) the challenge.
+If the attacking player is the winner, and the total 
+STR on the defending side of the challenge was 0, the 
+challenge is considered “unopposed.” 
+TIMING NOTE: Reactions to winning and/or losing the 
+challenge may be initiated after the completion of this step.
+4.2.3 Gain challenge bonuses
+If the challenge was unopposed in the previous step, 
+the attacking player gains 1 power for his or her 
+faction card for winning an unopposed challenge. This 
+is known as an unopposed bonus.
+In a melee game, if the challenge was won against an 
+opponent bearing a title which is denoted as a Rival 
+on the winning player’s title (and the challenge winner 
+has not already claimed power for defeating that Rival 
+this round), the challenge winner gains 1 power for his 
+or her faction. This is known as a rivals bonus.
+All challenge bonuses a player receives for this step are 
+gained simultaneously.
+4.2.4 Apply claim result. 
+If the attacking player is the challenge winner, the 
+claim result of the challenge is now applied. The claim 
+result for each challenge type resolves as follows, using 
+the claim value on the attacking player's revealed plot 
+card (and incorporating all relevant claim modifiers):
+󲀈 Military: The defending player must choose 
+a number of different characters under his or her 
+control equal to the claim value, and kill those 
+characters. (The chosen characters do not have to 
+be characters that participated in the challenge.)
+󲀊 Intrigue: The defending player must discard, at 
+random, a number of cards from his or her hand 	
+equal to the claim value.
+󲀉 Power: The defending player removes a number 
+of power counters from his or her faction card 
+equal to the claim value, and moves them to the 
+attacking player’s faction card.
+If the defending player wins the challenge, no claim 
+result occurs.
+
+4.2.5 Process challenge resolution keywords
+Challenge resolution keywords (e.g. insight, intimidate, 
+pillage, and renown) take effect at this time. The 
+first player determines the order, by keyword type, in 
+which these keywords are processed. The first player 
+chooses one keyword type (for instance, renown), and 
+then all relevant instances of that keyword resolve 
+simultaneously. The first player then chooses the next 
+keyword type to resolve, and so on, until all keyword 
+types that need to resolve upon the resolution of the 
+challenge have been processed.
+4.2.6 Challenge ends
+This step formalizes the end of the challenge. All 
+characters that were participating in the challenge are 
+no longer participating. Proceed to the action window 
+between framework steps 4.1 and 4.2.
+4.3 Next player becomes active player
+If the active player does not declare a challenge, or 
+cannot initiate any more challenges, the next player in 
+player order becomes the active player. Proceed to the 
+player action window between framework steps 4.1 
+and 4.2.
+If all players have been the active player this phase, 
+proceed to 4.4.
+4.4 Challenges phase ends
+This step formalizes the end of the challenges phase.
+5. Dominance phase
+5.1 Dominance phase begins
+dominance phase.
+5.2 Determine dominance
+Each player simultaneously counts the total combined 
+STR of all of his or her standing characters, and adds 
+1 to this total for each gold token in his or her gold 
+pool. The player with the highest total wins dominance 
+for the round, and gains 1 power for his or her faction. 
+(Note: a player may win dominance with no 
+standing characters.)
+If there is a tie for the highest total, no player 
+wins dominance.
+5.3 Dominance phase ends
+This step formalizes the end of the dominance phase.
+6. Standing phase
+6.1 Standing phase begins
+This step formalizes the beginning of the standing phase.
+6.2 Stand cards
+Simultaneously stand each kneeling card in play.
+6.3 Standing phase ends
+This step formalizes the end of the standing phase.
+7. Taxation phase
+7.1 Taxation phase begins
+This step formalizes the beginning of the taxation phase.
+7.2 Return unspent gold
+Each player simultaneously returns all unspent gold in 
+his or her gold pool to the treasury.
+7.3 Check reserve
+Each player, in player order, checks his or her reserve.
+Any player with more cards in hand than the 
+reserve value on his or her revealed plot card (which 
+incorporates all relevant reserve modifiers) chooses and 
+discards cards from his or her hand until that player’s 
+hand size and reserve value are equal.
+A player is not permitted to discard cards from his 
+or her hand at this time while at or below his or her 
+reserve value.
+7.4 Return melee title cards (melee format only)
+Each player returns his or her title to the title pool. All 
+titles leave play simultaneously. (In a joust game, this 
+step is skipped.)
+7.5 Taxation phase ends
+This step formalizes the end of the taxation phase.
+As the taxation phase is the final phase in the round, 
+this step also formalizes the end of the round. Any 
+active “until the end of the round” lasting effects expire 
+at this time.
+After this step is complete, play proceeds to the 
+beginning of the plot phase of the next game round.
+
+Appendix II: Card Anatomy
+This section presents a detailed anatomy of each cardtype. Definitions of each element can be found in the glossary.
+Card Anatomy Key
+Card Anatomy Key
+Factions & 
+Agendas
+Titles
+Illus. Chris Pritchard
+Title
+Supports: Master of Ships
+Rivals: Hand of the King, 
+Master of Whispers
+Within three years of his coming to court, he was 
+master of coin and a member of the small council, 
+and today the crown’s revenues were ten times what 
+they had been under his beleaguered predecessor…
+though the crown’s debts had grown vast as well.
+Supported by Master of Laws
+Master of Coin
++2
+House Lannister
+ 200A
+Illus. David Griffith
+Agenda
+You may include non-loyal 󲀃󲀃 cards in your deck.
+You must include at least 12 󲀃󲀃 cards in 
+your deck.
+Renly swept a hand across the campfires that burned from horizon 
+to horizon. "Well, there is my claim, as good as Robert's ever was."
+Banner of the Rose
+Banner.
+ 205B
+Illus. David Griffith
+
+Plots
+Characters
+Events
+Locations
+Attachments
+Illus. Tommy Arnold
++2
+Character
+Lord.
+Renown.
+Tywin Lannister gets +1 STR for each gold in 
+your gold pool.
+󲀋󲀋Tywin Lannister
+Illus. Gabrielle Portal
+Event
+Play only if you control a unique 
+󲀅󲀅 character.
+Interrupt: When the effects of 
+a triggered character, location, or 
+attachment ability initiate, cancel 
+those effects.
+Treachery
+X ##
+Illus. Tomasz Jedruszek
+Scheme. War.
+When Revealed: Each player chooses up to 3 characters he or she 
+controls. Kill each character not chosen (cannot be saved).
+Wildfire Assault
+Illus. Sergey Glushakov
+Location
+Stronghold. The Westerlands.
+You may initiate an additional 󲀊󲀊 challenge 
+during the challenges phase.
+“They say there is naught but stone 
+at the heart of Casterly Rock.” 
+–Catelyn Stark
+󲀋󲀋Casterly Rock
+Illus. Joshua Cairós
+Attachment
+Ambush (1).
+Attached character gets +2 STR.
+If attached character is Joffrey Baratheon, 
+he gains a 󲀈󲀈 icon.
+Valyrian Steel. Weapon.
+󲀋󲀋Widow’s Wail
+
+Index
+A
+action..............................24
+active player......................3
+agenda cards...............3, 30
+ambush..............................3
+attachment cards...............3
+attacker.......................3, 28
+B
+blank.................................4
+C
+cancel................................4
+cannot...............................4
+challenge...........................4
+challenges phase.............27
+character cards............4, 31
+claim, claim value.............4
+component list................23
+control.............................14
+cost....................................5
+D
+dead pile............................5
+deck...................................5
+deckbuilding.....................5
+defender......................6, 28
+discard pile........................6
+dominance phase............29
+draw phase......................27
+duplicates..........................7
+E
+effects................................7
+event cards........................7
+F
+faction cards................8, 30
+first player...................8, 26
+forced................................8
+for your faction.................8
+framework effects and 
+framework events........9, 24
+G
+gold.............................9, 27
+golden rules.......................2
+I
+income........................9, 27
+influence tokens..............10
+initiate a challenge..........27
+initiative....................10, 26
+in play.............................10
+insight.............................10
+interrupt....................10, 24
+intimidate.......................11
+intrigue challenge.....11, 28
+J
+joust game.......................11
+K
+keyword..........................11
+kneel...............................11
+L
+limited.............................12
+location cards............12, 31
+M
+marshal...............10, 13, 27
+marshaling phase............27
+melee game.....................13
+military challenge.....13, 28
+mulligan..........................14
+N
+no attachments...............14
+O
+out of play.........................9
+ownership.......................14
+P
+participating character....15
+pillage.............................15
+play a card.......................10
+player order.....................15
+plot card....................15, 31
+plot phase........................26
+power..............................16
+power challenge........16, 28
+put into play....................16
+R
+reaction..................... 17, 24
+redirect............................17
+renown............................18
+reserve value..............18, 29
+reveal...............................18
+rivals................................18
+S
+sacrifice...........................18
+save..................................18
+search..............................19
+setup................................19
+simultaneous...................16
+standing phase................29
+stealth.............................20
+strength (STR)...............20
+supports..........................20
+T
+taxation phase.................29
+terminal..........................21
+title cards............21, 26, 29
+traits................................21
+treasury...........................21
+triggered abilities............22
+U
+unique cards....................22
+unopposed challenge......22
+W
+when revealed...........23, 26
+winning the game...........23
+would..............................23
+Playtesting Credits
+For the second edition of A Game of Thrones: The Card Game, we marshaled 
+a huge amount of playtesting strength. Our testers are our watchers on the 
+Wall, and they have our undying thanks:
+A. Grenier, A.P. Hynes, Aaron Broderick, Aaron Glazer, Aaron Settles, Adam “Bomb” 
+Cerbone, Adam DeWulf, Adam Zuback, Allen Haas, Alex Esposito, Alex Filewood, 
+Alex Kern, Álvaro Rodríguez, Amy Mangrich, Andrea Gualdoni, Andreas Aldrin, 
+Anette Hall, Antti “WWDrakey” Korventausta, Ben Comstock, Ben DeWitt, Ben Tully, 
+Ben Wesolowski, Björn Jorner, Brad “ELSM” Andres, Brad Zimmerman, Brandon 
+Zimmer, Bret Kelso, Brian Aurelio, Brian Brimmer, Brian Cloonan, Brian Fred , 
+Brian Gerken, Britt Fitch, Brooks Mitchell, Buz Hannon, Caleb “Bulldog” Grace, 
+Cameron Davisson, Charles Haring, Chris ‘Leo’ Garder, Chris Gerber, Chris Kizer, 
+Chris Schoenthal, Chris Thompson, Christopher Lavin, Colby Cram, Cory Glenn, Curt 
+Shumaker, D. Tremblay, Dakota Zimmer, Damon Stone, Dan “Kid” Seefeldt, Dan 
+Strouhal, Daniel Ach, Daniel Creed, Darlene Plis, Darryl Loyd, Dennis Harrison, 
+Derrick Billings, Diego Iotti, Doug Knollenberg, Doug Pearson, Eddie Westdal, Elwe, 
+Eric Lawell, Eric S. Wood, Erick Butzlaff, Erik Dahlman, Evan Craig, Evan Johnson, 
+Evn Tomeny, Federico Pasolini, G. Rousseau, Greg Atkinson, Gregory Sztain, Guy 
+Hancock, Hannah Kane, Harold Jean, Hodor!, Iiro “Ire” Jalonen, Ingrid Henmark, 
+Jaclyn Wilson, Jacob Kern, Jakob Hultman, James Plank, James Randall Barnes, James 
+Speck, James Waumsley, Jamie Bamfield, Jason Aubry, Jason Cerbone, Jeff Molander, 
+Jere Tuovinen, Jeremy Hogan, Jeremy Zwirn, Jesse James Slater, Jesse Mariona, Jesse 
+Schingen, Jesse Sutherland, Jessica Hamburger, Jim Thomas, Jimi Lawson, Joe Oberbeck, 
+Joey Huskinson, John Bruno, John Kraus, John R. Barber, John Salas, Jon Lenz, Jonas 
+Henriksson, Jonathan Andrews, Josephine Fowler, Josh Forbes, Jukka Raninen, Julien 
+Menuet Justen Reddick, Justin Tholl, Kai Tai Chan, Kaleb Phillips, Keith Wigner, 
+Ken Keller, Kevin McClure, Kyle Szklenski, Lauren Fitch, Liisa Ronkainen, Luca 
+Manfredini, Lukas Litzsinger, Luke Whitehurst, M-A. Marcotte, M-L. Lemay, Marin 
+Christensen, Mark Downing-Heese, Mark Larson, Mark Moore, Mark Yocius, Martin 
+Carlsson, Martin Henmark, Massimo Lizzori, Mat Armstrong, Matt Jenkins, Matt 
+Mareck, Matt Newman, Matt Phillips, Matthew Gehman, Matthew Ley, Matthew 
+Rogers, Matthew Vercant, Max Meier, Michael Clarke, Michael K. Spaulding, Michael 
+Norman, Michael Sibilia, Michael Wallace, Miguel Tarín, Mike Hantsch, Morgan 
+Stana, Myron Mychal, Nate Torok, Nathan Tarantelli, Nathaniel Dean, Neil Kimball, 
+Nicolò Merusi, Patrick Brennan, Patrick Haynes, Peter Wilson, Pontus Strimling, 
+R.E. Hynes, Rachel Houk, Rheece Kennedy, Rich Meade, Richard Skelton, Rob Hayes, 
+Robert Kopp, Ronnie Rivas Jr., Rowan Gavin, Roy Rogers, Ryan Jones, Ryan Lenard, 
+Ryan Ritter, Sam Braatz, Samuel Bailey, Scott Awesome, Sean Becker, Sean Clemons, 
+Sean Emberly, Sean Pacer Stringfellow, Shayne Lindeman, Stefan Hoard, Stephan 
+Pennington, Stephen McNamara, Steven Cantrell, Steven Francisco, Stuart Wilson, 
+Tabitha Hastie, Tagore Nakornchai, Talieson Solmon, Tasslehoff, Tiny Grimes, Tommy 
+Plis, Tony Reische, Travis Pinter, Travis White, Tyler Hockman, Tyson Villa, Vince 
+Acceturro, Will “Kennon” Lentz, and Zach Nichols. Very special thanks to each of our 
+beta testers!

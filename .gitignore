@@ -3,3 +3,7 @@ source_pdfs/*.pdf
 __pycache__/
 *.pyc
 .venv/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock

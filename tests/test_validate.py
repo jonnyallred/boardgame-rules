@@ -1,5 +1,5 @@
 import pytest
-from scripts.validate import validate_rules_file
+from scripts.validate import validate_rules_file, EXPANSION_SECTIONS
 
 VALID_RULES = """---
 title: "Catan"
@@ -104,3 +104,67 @@ title: "Catan"
     path.write_text(incomplete)
     errors = validate_rules_file(str(path))
     assert any("bgg_id" in e for e in errors)
+
+
+VALID_EXPANSION = """---
+title: "Catan: Seafarers"
+bgg_id: 325
+base_game_bgg_id: 13
+player_count: "3-4"
+designer: "Klaus Teuber"
+---
+
+# Catan: Seafarers
+
+## Overview
+Adds ocean hexes and ships to Catan.
+
+## New Components
+- 60 wooden ships
+- Sea hexes and gold hexes
+
+## Setup Changes
+Build the board with sea frame and island scenarios.
+
+## Rule Changes
+Ships work like roads but on water. Gold hexes give any resource.
+
+## Special Rules & Edge Cases
+Pirate replaces robber on sea hexes.
+
+## Player Reference
+Ship: 1 wool + 1 lumber
+"""
+
+EXPANSION_MISSING_SECTIONS = """---
+title: "Catan: Seafarers"
+bgg_id: 325
+base_game_bgg_id: 13
+---
+
+# Catan: Seafarers
+
+## Overview
+An expansion.
+
+## New Components
+Ships.
+"""
+
+
+def test_validate_expansion_valid(tmp_path):
+    path = tmp_path / "catan-seafarers.md"
+    path.write_text(VALID_EXPANSION)
+    errors = validate_rules_file(str(path))
+    assert errors == []
+
+
+def test_validate_expansion_missing_sections(tmp_path):
+    path = tmp_path / "catan-seafarers.md"
+    path.write_text(EXPANSION_MISSING_SECTIONS)
+    errors = validate_rules_file(str(path))
+    assert any("Setup Changes" in e for e in errors)
+    assert any("Rule Changes" in e for e in errors)
+    # Should NOT complain about base-game sections like "Components" or "Turn Structure"
+    assert not any("Components" in e for e in errors)
+    assert not any("Turn Structure" in e for e in errors)

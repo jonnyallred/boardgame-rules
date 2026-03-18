@@ -1,0 +1,136 @@
+Rule book © 2009 Néstor Romeral Andrés. 
+Rules © 2005 Dieter Stein. 
+ 
+abande 
+INTRODUCTION 
+Abande is an abstract board game. Two 
+players in turn enter new pieces on the board 
+or move pieces already placed to capture 
+opponent pieces and end up with the highest 
+score. 
+EQUIPMENT 
+An hexagonal board providing 37 
+spaces. 
+2 × 18 pieces, in white and black color 
+for each of the two players. 
+BOARD 
+Abande is played on a hexagonal board 
+providing 37 spaces. 
+ 
+ 
+Pieces are placed on the intersections of the lines. 
+Please note the special coordinate system of the 
+hexagonal board. 
+PIECES 
+Each player is provided with 18 stackable 
+pieces in white or black respectively, which are 
+placed in front of each player. These are called 
+the “pieces in hand”. 
+Initially the board is empty. 
+ 
+OBJECT 
+Players attempt to get the highest score. 
+Each piece or stack on board under a player’s 
+control is added to the final score. Regarding 
+stacks, the topmost piece determines its 
+owner. 
+SEQUENCE OF PLAY 
+Players move in turn. The player playing 
+the black pieces starts the game by entering a 
+piece somewhere on the board. This is called 
+the “initiative” in contrast to a regular move, 
+which can be: 
+enter a new piece on the board, or 
+move a piece (or a complete stack) 
+already on the board on top of an adjacent 
+opponent piece (or stack), or 
+pass the turn, which is possible only if 
+you have no more pieces in hand. 
+If both players pass their turn in sequence, 
+the game is ended. 
+THE “BAND” 
+In any stage of play all pieces on the board 
+must be connected. There must be one single 
+“band” (hence the name Abande). Please note 
+that this band can include patterns like forks or 
+networks. 
+ENTERING A NEW PIECE 
+As long as you have pieces in your hand 
+and you do not want to or cannot move a 
+piece already on the board you must enter a 
+new piece on an empty space connected to 
+the band. 
+ 
+New pieces must be placed adjacent to other pieces (or 
+stacks) already on the board. 
+DIETER STEIN
+
+ 
+Rule book © 2009 Néstor Romeral Andrés. 
+Rules © 2005 Dieter Stein. 
+ 
+MOVING A PIECE 
+Instead of entering a new piece you can 
+also move a piece (or a complete stack under 
+your control) already on the board: 
+Pieces or stacks move one space into 
+any of the 6 directions on the hexagonal board. 
+Pieces or stacks always capture by 
+moving on top of an opponent piece or stack. 
+They cannot move to an empty space or on 
+top of a friendly piece or stack. 
+Stacks cannot grow larger than 3 
+pieces high. 
+Stacks cannot be split. 
+Moving is allowed only after Black has 
+entered the second piece,i.e.Black cannot 
+directly capture White's reply to the initiative. 
+ 
+Possible captures for White: e2-d3, e2-e3, e4-d4, e4-e3, 
+f2-e3. Possible captures for Black in the same position: b3-
+c4, d3-e2, e3-e2, e3-e4, e3-f2 (note: the complete stack on 
+e3 is moved). 
+The marked pieces on c4 and d4 are fixed and cannot be 
+moved. 
+PASSING A TURN 
+If a player has no more pieces in hand, he 
+can pass his turn, i.e. he does not need to 
+make a move. However, he does not lose the 
+right to move again in a subsequent turn. 
+END OF THE GAME 
+If both players pass their turn in sequence, 
+the game is ended. 
+SLEEPING PIECES 
+Before players sum up their scores, pieces 
+or stacks, which have no connection to an 
+opponent piece, are removed from the board 
+(note that pieces within mixed stacks are not 
+connected in this sense). 
+Also note that by removing sleeping 
+pieces, it is possible that the band is split. 
+ 
+The marked pieces and stacks are “sleeping” and will be 
+removed. 
+SCORE 
+After that, each remaining piece or stack is 
+counted: 
+Add 1 point for every single piece of 
+your color. 
+Add 2 points for every double stack 
+you control. 
+Add 3 points for every triple stack you 
+control. 
+The player with the higher score wins the 
+game of Abande. If both players get the same 
+score the game is drawn. 
+In the above example Black wins the game by 
+12-15 points. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visit http://abande.com for tips and strategies.

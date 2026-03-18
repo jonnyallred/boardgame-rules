@@ -1,3 +1,5 @@
+import re
+
 import pytest
 import yaml
 from pathlib import Path
@@ -138,6 +140,54 @@ def test_import_formats_designer(registry_path, mock_db, mock_master_csv):
     assert agricola["designer"] == "Uwe Rosenberg"
 
 
+@pytest.fixture
+def typed_mock_db(tmp_path):
+    """Mock DB with a base game and an expansion."""
+    games_dir = tmp_path / "typed_games"
+    games_dir.mkdir()
+    for game in [
+        {"id": "agricola", "name": "Agricola", "year": 2007, "designer": ["Uwe Rosenberg"]},
+        {"id": "catan", "name": "Catan", "year": 1995, "designer": ["Klaus Teuber"]},
+        {"id": "catan-seafarers", "name": "Catan: Seafarers", "year": 1997, "designer": ["Klaus Teuber"]},
+    ]:
+        (games_dir / f"{game['id']}.yaml").write_text(yaml.dump(game))
+    return str(games_dir)
+
+
+@pytest.fixture
+def typed_master_csv(tmp_path):
+    """CSV with type column including boardgame and expansion."""
+    csv_path = tmp_path / "master_list.csv"
+    csv_path.write_text(
+        "bgg_id,name,year,type,status,notes,yaml_id\n"
+        "31260,Agricola,2007,boardgame,,,\n"
+        "13,Catan,1995,boardgame,,,\n"
+        "325,Catan: Seafarers,1997,boardgameexpansion,,,catan-seafarers\n"
+    )
+    return str(csv_path)
+
+
+def test_import_type_filter(registry_path, typed_mock_db, typed_master_csv):
+    """--type boardgame should exclude expansions."""
+    # Without filter: all 3 imported
+    stats_all = import_from_database(
+        typed_mock_db, registry_path, typed_master_csv
+    )
+    assert stats_all["imported"] == 3
+
+    # Reset registry
+    Path(registry_path).write_text("games: []\n")
+
+    # With filter: only boardgames
+    stats_filtered = import_from_database(
+        typed_mock_db, registry_path, typed_master_csv, game_type="boardgame"
+    )
+    reg = load_registry(registry_path)
+    names = [g["name"] for g in reg]
+    assert "Catan: Seafarers" not in names
+    assert stats_filtered["imported"] == 2
+
+
 def test_import_formats_designer_multiple(tmp_path, registry_path, mock_master_csv):
     """Designer list with multiple entries should be comma-joined."""
     games_dir = tmp_path / "games"
@@ -158,3 +208,47 @@ def test_import_formats_designer_multiple(tmp_path, registry_path, mock_master_c
     reg = load_registry(registry_path)
     agricola = next(g for g in reg if g["name"] == "Agricola")
     assert agricola["designer"] == "Uwe Rosenberg, Someone Else"
+
+
+def test_dry_run_produces_candidates_file(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Dry-run should write candidates.txt without modifying registry."""
+    output_path = str(tmp_path / "candidates.txt")
+    stats = import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    # Registry should be unchanged
+    reg = load_registry(registry_path)
+    assert len(reg) == 0
+    # Candidates file should exist with entries
+    content = Path(output_path).read_text()
+    lines = [l for l in content.strip().split("\n") if l]
+    assert len(lines) == 2
+    assert stats["imported"] == 2
+
+
+def test_dry_run_output_format(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Each line should be 'Name (bgg_id)' format."""
+    output_path = str(tmp_path / "candidates.txt")
+    import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    content = Path(output_path).read_text()
+    lines = content.strip().split("\n")
+    for line in lines:
+        assert re.match(r".+ \(\d+\)$", line), f"Bad format: {line}"
+
+
+def test_dry_run_skips_existing(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Dry-run should skip games already in registry."""
+    from scripts.registry import add_game
+    add_game(registry_path, name="Agricola", bgg_id=31260)
+
+    output_path = str(tmp_path / "candidates.txt")
+    stats = import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    content = Path(output_path).read_text()
+    lines = [l for l in content.strip().split("\n") if l]
+    assert len(lines) == 1  # Only Catan
+    assert "Catan" in lines[0]
+    assert stats["skipped"] == 1

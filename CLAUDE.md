@@ -6,6 +6,8 @@
 - `extracted/` — raw extracted text from PDFs
 - `rules/` — final structured markdown files with YAML frontmatter
 - `scripts/` — Python pipeline tools
+- `index.md` — GitHub Pages landing page (game list + usage instructions)
+- `_config.yml` — Jekyll config for GitHub Pages
 
 ## Pipeline
 
@@ -17,7 +19,8 @@
 - [ ] If extracted text has gaps or garbled tables, render the PDF pages to images for visual inspection: `python -c "import fitz; doc=fitz.open('source_pdfs/<slug>-rules.pdf'); [doc[i].get_pixmap(matrix=fitz.Matrix(2,2)).save(f'/tmp/<slug>-p{i+1}.png') for i in range(len(doc))]"` then use the Read tool on the resulting PNGs to read tables and diagrams directly.
 - [ ] Summarize interactively with Claude Code: read the extracted text, produce `rules/<slug>.md` following the template format. Precision over brevity — keep all edge cases and exact numbers.
 - [ ] Run `python -m scripts.validate` to check the rules file has all required frontmatter and sections.
-- [ ] Commit the extracted text, rules file, and updated `games.yaml`.
+- [ ] Add the new game to the table in `index.md` (alphabetical order) so it appears on the GitHub Pages site.
+- [ ] Commit the extracted text, rules file, updated `games.yaml`, and `index.md`.
 
 ### Batch Processing (Scalable Pipeline)
 
@@ -52,6 +55,16 @@ python -m scripts.process_batch --status
 **Status flow:** `queued → found → downloaded → extracted → summarized → validated`
 Terminal states: `not_found`, `flagged` (need human attention)
 
+### Bulk Research (Parallel Subagents)
+
+Generate a candidates file from boardgame-database, then bulk-research with parallel subagents:
+
+1. Generate candidates: `python -m scripts.import_games ~/projects/boardgame-database/games/ --master-csv ~/projects/boardgame-database/master_list.csv --dry-run --type boardgame --limit 100 --output candidates.txt`
+2. Run the skill: `/research-games candidates.txt --batch-size 20 --parallel 3`
+3. Review results — check flagged games for issues
+
+The skill registers all games upfront, dispatches subagents to find PDFs / extract / summarize, then consolidates results into `games.yaml` and `index.md`.
+
 ### Batch PDF Finding (Interactive)
 
 To find rulebook PDFs for queued games using Playwright browser tools:
@@ -82,11 +95,42 @@ update_game("games.yaml", "Obscure Game", status="not_found",
 ## Rules File Format
 YAML frontmatter (title, bgg_id, player_count, play_time, designer, source_pdf, extracted_date, summarized_date, rulebook_version) + Markdown body with sections: Overview, Components, Setup, Turn Structure, Actions, Scoring / Victory Conditions, Special Rules & Edge Cases, Player Reference.
 
+## Expansions
+
+Expansions are tracked as separate entries linked to their base game. The pipeline is the same as for base games, with two differences:
+
+1. **Registry:** Add `base_game_bgg_id: <int>` to the expansion's `games.yaml` entry, pointing to the base game's BGG ID.
+2. **Rules file:** Use expansion sections instead of base game sections:
+   - Overview (what the expansion adds/changes)
+   - New Components (new pieces, cards, boards)
+   - Setup Changes (how setup differs from base game)
+   - Rule Changes (modified or new mechanics)
+   - Special Rules & Edge Cases
+   - Player Reference
+
+Frontmatter must include `base_game_bgg_id` to trigger expansion validation.
+
+**Helper functions:**
+```python
+from scripts.registry import find_expansions, find_base_game
+
+# Get all expansions for Catan (bgg_id=13)
+find_expansions("games.yaml", 13)
+
+# Find the base game for an expansion
+find_base_game("games.yaml", 325)  # returns Catan entry
+```
+
+**Display:** In `index.md`, list expansions indented under their base game with `↳` prefix.
+
 ## Testing
 ```bash
 source .venv/bin/activate
 python -m pytest tests/ -v
 ```
+
+## GitHub Pages Site
+The rules are published at `https://jonnyallred.github.io/boardgame-rules/`. GitHub Pages builds automatically from the `main` branch using Jekyll. The `_config.yml` excludes non-site directories (scripts, source_pdfs, extracted, tests, etc.). When adding a new game, update `index.md` with the new entry in alphabetical order.
 
 ## Requirements
 - Python 3.10+

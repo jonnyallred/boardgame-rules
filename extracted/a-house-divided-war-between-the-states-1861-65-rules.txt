@@ -1,0 +1,1718 @@
+Table of Contents 
+1.0 Introduction................................................................ 1 
+1.1 The Sides................................................................ 1 
+1.2 The Rules................................................................ 1 
+1.3 The Mapboard......................................................... 2 
+1.4 The Playing Pieces ................................................. 3 
+2.0 Setting up the 1861 Campaign Game....................... 4 
+3.0 Sequence of Play ....................................................... 4 
+4.0 Movement ................................................................... 5 
+4.1 First Game Turn Restriction .................................... 6 
+4.11 [Optional] Additional First Turn Restrictions ................ 6 
+4.12 [Optional] Kentucky Neutrality ..................................... 6 
+4.2 The Potomac River Restriction................................ 6 
+4.3 Entrenchment.......................................................... 6 
+4.4 Cavalry Jump Moves............................................... 7 
+4.5 Union River Jump Moves ........................................ 7 
+4.6 Union Sea Movement.............................................. 7 
+4.7 Union Naval Invasions ............................................ 7 
+4.71 [Optional] Fort Monroe................................................. 8 
+4.8 [Optional] Crack Infantry ......................................... 8 
+4.9 [Optional] Union Rail Movement Bonus .................. 8 
+5.0 Combat ....................................................................... 8 
+5.1 Resolving Battle Rounds......................................... 8 
+5.2 [Optional] Like Battlefield Targets ........................... 9 
+5.3 Battle Die Roll Modifiers.......................................... 9 
+5.31 Entrenchment (-1)........................................................ 9 
+5.32 Crack Infantry Units (-1)............................................... 9 
+5.33 Impossible Shots ......................................................... 9 
+5.34 Attacking Across Rivers (+1) ..................................... 10 
+5.4 Retreating from Battle ............................................10 
+5.41 [Optional] Union Naval Evacuations .......................... 10 
+5.5 Reinforcing a Battle................................................10 
+5.6 Cavalry Withdrawal before Combat........................11 
+5.7 Recovery from Battle Damage ...............................11 
+5.71 [Optional] Refitting the Army...................................... 11 
+6.0 Promotions................................................................13 
+6.1 [Optional] Combat Experience ...............................13 
+6.2 [Optional] Confederate Replacement Training .......13 
+7.0 Recruitment...............................................................14 
+7.1 Maximum Army Size ..............................................14 
+7.2 Union Army Drafts..................................................14 
+7.3 [Optional] The Draft Riots of 1863..........................15 
+7.4 [Optional] Increasing Union Forces........................15 
+7.5 [Optional] Historical Recruitment Limitations..........15 
+8.0 Capturing and Controlling Boxes............................16 
+9.0 Game Length.............................................................16 
+9.1 [Optional] Extended Game.....................................16 
+10.0 Victory Conditions..................................................17 
+10.1 [Optional] Helping a Novice Union Player ............17 
+11.0 Scenarios.................................................................17 
+11.1 The 1861 Short Game Scenario...........................17 
+11.2 The 1862 – 64 Scenario Special Rules................17 
+11.3 The 03 (March) Ending Date Victory Conditions ..18 
+11.4 The 1862 – 64 Scenario Setup Abbreviations......18 
+11.5 The 1862 Scenario Setup ....................................18 
+11.6 The 1863 Scenario Setup ....................................19 
+11.7 The 1864 Scenario Setup ....................................20 
+“A house divided against itself cannot stand. 
+I believe this government cannot endure permanently 
+half slave and half free. 
+I do not expect the Union to be dissolved – I do not 
+expect the house to fall – but I do expect it to cease 
+to be divided. 
+It will become all one thing, or all the other. 
+Either the opponents of slavery will arrest the further 
+spread of it, and place it where the public mind shall 
+rest in the belief that it is in the course of ultimate 
+extinction; or its advocates will push it forward, until it 
+shall become alike lawful in all states, old as well as 
+new, North as well as South.” 
+– Abraham Lincoln, 16 June 1858 
+1.0 Introduction 
+The epic struggle of the American Civil War was 
+primarily fought over the issues of slavery and states’ 
+rights. The period from 1840 to 1861 saw the issues 
+brought to a boil, and in 1861 the nation became 
+embroiled in a terrible war that lasted four long years. 
+This game covers that war between the North (the 
+Union) and the South (the Confederacy) from the 
+First Battle of Bull Run to Lee’s surrender at 
+Appomattox (or perhaps Grant’s surrender at 
+Harrisburg…). Each player becomes a leader of one 
+of these two nations and makes the strategic 
+decisions that will determine the outcome of the war. 
+1.1 The Sides 
+Two sides play A House Divided: 
+One player is the North – he represents the original 
+United States. Throughout the game, the terms North 
+and Union are used interchangeably to mean the 
+original (Northern) United States of America (USA). 
+The other player is the South – he represents the 
+Confederacy. The terms South and Confederate (or 
+Confederacy) are used to mean the Confederate 
+States of America (CSA). 
+1.2 The Rules 
+This booklet contains the A House Divided Basic 
+Game Rules, along with all of its Optional Rules 
+(highlighted in yellow thus) and Scenarios. 
+A House Divided 
+The American Civil War: 1861 to 1865 
+Special Living Edition Basic Game Rules © 2006 by Alan Emrich 
+
+• Charts, tables, and additional player aids are 
+provided in separate files. 
+• The Advanced Game Rules booklet is also 
+provided in a separate file. 
+Game Terms: There is no glossary. When a new 
+game term is introduced in these rules, you will find 
+it underlined and explained nearby. To refresh your 
+memory about a certain game term, scan through the 
+rules booklet looking for underlined words. 
+Optional Rules: These should not be used by new 
+players during their first few games, so skip these 
+highlighted sections when first learning the rules. 
+• Players may freely pick and choose exactly which 
+Optional Rules to use – they may be employed 
+separately or in any combination. Players need not 
+use them all at once. 
+• The following Optional Rules have a pro-Union 
+effect on play balance: 
+4.9 Union Rail Movement Bonus 
+5.41 Union Naval Evacuations 
+7.4 Increasing Union Forces 
+7.5 Historical Recruiting Limitations 
+9.1 Extended Game 
+10.1 Helping a Novice Union Player 
+• The following Optional Rules have a pro-
+Confederate effect on play balance: 
+4.11 Additional First Turn Restrictions 
+4.12 Kentucky Neutrality 
+4.71 Fort Monroe 
+6.2 Confederate Replacement Training 
+7.3 The Draft Riots of 1863 
+• The following Optional Rules are neutral and have 
+little effect on play balance: 
+4.8 Crack Infantry 
+5.2 Like Battlefield Targets 
+5.71 Refitting the Army 
+6.1 Combat Experience 
+Also note that these are “Living Rules” in that they 
+have been reformatted, reorganized, and include the 
+game’s latest clarifications, notes and innovations. 
+These Living Rules have been written and edited by 
+Alan Emrich (who has been laboring over A House 
+Divided as both a designer and developer since its 
+second edition in 1989). They are updated from time 
+to time and are available for free at his web site: 
+http://www.alanemrich.com/Games_Archive_pages/
+AHD_pages/ahd.htm
+1.3 The Mapboard 
+This game is played on a mounted mapboard 
+showing America, from the Atlantic coast on the east 
+to Missouri, Arkansas, and Louisiana on the west. On 
+the map are a number of boxes, each representing a 
+city, town, or important military location during the 
+war. These boxes are connected by Transportation 
+Lines: rivers (blue), roads (tan), and railroads 
+(brown). 
+Military pieces (hereafter referred to as “units”) on 
+the map are placed in the boxes to define their 
+positions. They move from box to box along 
+transportation lines during play. 
+Every box has a name and a color that shows its 
+default political loyalty (blue for Union, gray for 
+Confederate, and tan for Neutral or ‘Border State’ 
+territory). 
+ 
+Some boxes also contain information relating to 
+combat, such as entrenchments (Washington, 
+Richmond, Ft. Monroe, and Vicksburg) and rivers 
+(found along the edges of that box – units moving 
+into battle through the side of a box with a blue line 
+are said to be ‘attacking across the river’). 
+And some boxes also contain information relating to 
+movement, such as ports (anchor symbols), or 
+Recruitment (the Recruitment Values are show in red 
+and blue shields for the Confederate and Union sides, 
+respectively). 
+Features on the map other than these are purely 
+decorative and have no game function. 
+
+Reduced 
+Reduced Units 
+1.4 The Playing Pieces 
+A House Divided includes 160 cardboard playing 
+pieces that represent the military units which fought 
+in the war and various information markers about the 
+game. There are also 3 standup leader pieces (used in 
+the Advanced Game only). Union pieces are colored 
+blue; Confederate pieces are colored gray. 
+ 
+Unit Types: The information printed on the military 
+units identifies them as Infantry (foot soldiers) or 
+Cavalry (soldiers on horseback). In addition, the 
+quality of the troops is shown (Militia, Veteran, or 
+Crack). 
+Combat Values: The number in the bottom corner is 
+that unit’s Combat Value (essentially, a unit needs to 
+roll that number or less on a die to ‘hit’ an enemy 
+unit in battle). 
+ 
+Reduced Units: Note that each military unit has two 
+sides. The side with the white-printed Combat Value 
+represents a fully fit unit, while the red-printed side 
+represents a unit that has suffered losses in battle and 
+is now ‘reduced’ in its ability to survive further 
+combat. Think of a unit’s white side as its 2-step side, 
+and the red side as its 1 step (i.e., reduced strength) 
+side where a single ‘hit’ in battle will eliminate it. 
+ 
+Game Scale: Each military unit represents from 
+10,000 to 15,000 infantry or from 7000 to 10,000 
+cavalry. Each Game Turn represents one or two 
+months (depending on the time of the year). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Replacement Parts: If any of these parts are missing 
+or damaged, we apologize for the inconvenience and 
+ask that you contact us to receive any replacement 
+parts needed. 
+Please send your correspondence to: 
+Phalanx Games 
+Attn.: A House Divided 
+Bochumer Str. 122 
+45529 Hattingen 
+Germany 
+ 
+Veteran 
+ 
+Crack 
+ 
+ 
+Veteran 
+ 
+Crack 
+Military Units 
+ 
+Control 
+Game Markers 
+Entrench-
+ment 
+ 
+Battlefield
+Fax: +49-(0)2324-80376 
+E-Mail: UBlennemann@aol.com
+
+2.0 Setting up the 1861 
+Campaign Game 
+1. Begin by removing the Advanced Game pieces 
+from play. They include: the three Leaders (Lee, 
+Grant, and Sherman); the four orange Foreign 
+Intervention units; and the three Confederate 
+Militia Infantry units with the names of Border 
+States on them (Missouri, Kentucky, and 
+Maryland). 
+2. Both players divide up their remaining units by 
+type, keeping their own units close at hand and the 
+game’s markers in a common area that both 
+players can easily reach. 
+3. Place the wooden Game Turn marker in the 07 
+(July) 1861 space on the Game Turn Track at the 
+southwest corner of the board. 
+4. Place a Union Control marker in the 34 box, and a 
+Confederate Control marker in the 29 box, of the 
+track in the southeast corner of the board. (See 
+Rule 7.1, Maximum Army Size.) 
+5. The Union player has 24 Militia Infantry units. Set 
+aside 12 of them; they enter play later through 
+Union Army Drafts (as per Rule 7.2). 
+6. Both players place their lone 1-
+value Militia Cavalry unit in the 
+Recruitment Pool – an area to one 
+side that is clearly visible and 
+accessible to both players at all 
+times. (Consider using the Atlantic Ocean as the 
+Recruitment Pool area.) 
+7. Both players then take all of their remaining 
+Militia Infantry units and place them on the board 
+as listed below. Only Militia Infantry units setup 
+on the board in this scenario! Both players’ 
+Veteran and Crack units are set aside and enter 
+play through Promotion. 
+Union Setup (12 Militia Infantry units): 
+Two in: 
+Washington (DC) 
+One each in: 
+Philadelphia (Pennsylvania), 
+New York (New York), 
+Harper’s Ferry (Virginia), 
+Pittsburgh (Pennsylvania), 
+Columbus (Ohio), 
+Cincinnati (Ohio), 
+Indianapolis (Indiana), 
+Bloomington (Illinois), 
+Cairo (Illinois), and 
+St. Louis (Missouri). 
+Confederate Setup (8 Militia Infantry units): 
+One each in: 
+Manassas Junction (Virginia), 
+Fredericksburg (Virginia), 
+Front Royal (Virginia), 
+Charleston (South Carolina), 
+Mobile (Alabama), 
+Nashville (Tennessee), 
+Memphis (Tennessee), and 
+Springfield (Missouri). 
+3.0 Sequence of Play 
+A House Divided is played in a series of Game 
+Turns, each representing one month (or two in 
+winter) of real time. 
+Each Game Turn is divided into two Player Turns. 
+The Union has the first Player Turn each Game Turn, 
+followed by the Confederate Player Turn. After both 
+players have completed their respective Player Turns, 
+the Game Turn marker is advanced one box along the 
+Turn Track at the outer edge of the game board and 
+the next Game Turn begins. Victory is checked at the 
+end of the last Game Turn, 06 (June) 1865 – the 40th 
+Game Turn. 
+Each Player Turn consists of the following four 
+Segments, conducted in this exact order: 
+1. Movement 
+2. Combat 
+3. Promotions 
+4. Recruitment 
+All actions in one Segment must be finished before 
+the next Segment begins. For example, the Union 
+player cannot move any of his units after he has 
+begun a battle – movement must be completed before 
+combat. 
+Example: The first turn of the game is 07 (July) 1861. 
+The North has the first Player Turn which consists of four 
+Segments: The Northern player moves, then fights any combat 
+that is a result of that movement, then promotes units, and finally 
+recruits Militia units. 
+Once the North has finished its Player Turn, the South moves, 
+then fights, then promotes, and finally recruits. 
+When both the North and South Player Turns are complete, the 
+July 1861 Game Turn is over and the next turn – 08 (August) 
+1861 – begins. 
+
+4.0 Movement 
+A player can move his units during his Movement 
+Segment. 
+Stacking: There is no limit to the number of units a 
+player might have in a single box. Players are always 
+free to inspect their opponent’s forces at any time. 
+Procedure: In order to move, the player rolls one 
+six-sided die. The number rolled is the number of 
+Marches that he may make in the turn. However, if 
+he rolls a 1, he receives 2 Marches. 
+ 
+A March consists of activating a box containing 
+friendly units. When a box is activated by a March, 
+you may move any or all of your units in that box to 
+other boxes that are connected along transportation 
+lines and possibly entrench those that remain (see 
+4.3). Units may move to different boxes as part of a 
+single March provided they started that March 
+together in the same box. 
+March Distances: The distance a unit may move 
+during a single March depends on the unit type and 
+Transportation Line it moves along. 
+Infantry may move 
+one box along a road 
+or unfriendly railroad, 
+or two boxes along a 
+river or friendly 
+railroad (see the 
+sidebar for a definition 
+of “friendly”). An 
+Infantry unit may not 
+move along two 
+different types of 
+transportation line as part of the same March. 
+An Infantry unit could not move one box along a railroad and 
+another box along a river as part of the same March. 
+Cavalry may move two boxes along a road 
+and/or railroad (friendly or unfriendly), or river. 
+A Cavalry unit may combine movement along 
+roads and railroads, but a Cavalry unit may not 
+combine movement along rivers with movement 
+along any other type of transportation line. 
+Unit March Limit: The moving player may 
+distribute his Marches as he sees fit; but no unit may 
+participate in more than two Marches in a single turn. 
+Enemy Units: A unit may move into a box 
+containing enemy units, but it must stop there 
+(exceptions: see 4.4 and 4.5). This causes a battle in 
+that player’s ensuing Combat Segment. 
+Example: The Union Crack Cavalry and Militia Infantry units 
+begin in Shreveport. The Union Veteran Infantry unit begins in 
+Vicksburg. Using three Marches, here is what happened: 
+ 
+1st March: The box at Shreveport is activated by a March, so the 
+Cavalry and Infantry units there may move. The Cavalry unit 
+moves two boxes (the white solid arrow) by road and railroad to 
+Vicksburg. The Infantry unit moves one box by road (its 
+maximum rate, as show by the yellow solid arrow) to Monroe. 
+2nd March: The Militia Infantry unit now in Monroe moves one 
+box by rail (the yellow dashed line) to Vicksburg. It cannot 
+continue moving by rail a second box (to Jackson) because the 
+railroad leading to and from Vicksburg is not a friendly railroad. 
+That is, Monroe and Jackson are not Union controlled (or you 
+would see Union Control markers in those boxes). 
+3rd March: With all three units now in Vicksburg, it is activated 
+with a March. The Veteran Infantry unit moves two boxes by river 
+to Alexandria (the gold dotted line). The Cavalry unit moves by 
+rail to McComb (the white dotted line). Note that the Militia 
+Infantry unit cannot move as it has already participated in two 
+Marches this turn (the maximum allowed). 
+ 
+Play Tip: If it will help you remember, you can denote friendly 
+units that have already moved this Segment by rotating them 90 
+degrees (for one March) and 180 degrees (for two). Rotate them 
+back at the end of your Movement Segment. 
+for Marches 
+What is a 
+“Friendly Railroad?“ 
+A friendly railroad is a rail 
+line connecting two 
+friendly-controlled boxes. 
+An unfriendly railroad is 
+any other railroad. 
+See Rule 8.0 for 
+information on capturing 
+and controlling boxes. 
+Movement Chart 
+Unit Type 
+Transportation Line 
+Move Length
+by road 
+1 box 
+by unfriendly railroad 
+1 box 
+by friendly railroad 
+by river 
+by any* 
+* A Cavalry unit may only combine movement along roads 
+and railroads. 
+
+4.1 First Game Turn Restriction 
+Both sides were very disorganized when the Civil 
+War began. Because of this, neither player rolls the 
+die for Movement on the first Game Turn. 
+Each side automatically receives two Marches on the 
+first Game Turn. 
+4.11 [Optional] Additional First Turn 
+Restrictions 
+Both sides suffered organizational problems in the 
+opening days of the Civil War. Neither side wished to 
+violate the neutrality of Kentucky (who both sides 
+were courting to be an ally), and the Union Navy was 
+weak and scattered. 
+To further represent both sides’ initial problems, 
+the following additional limitations are in effect 
+on the first Game Turn only: 
+• A unit moves only one box per March along 
+a river, instead of two. 
+• No unit may enter Kentucky (any tan box). 
+• The Union may not perform any Sea 
+Movement (4.6). 
+4.12 [Optional] Kentucky Neutrality 
+The political implications of Kentucky’s neutrality at 
+the outset of the war cannot be overstated. Both sides 
+desperately wanted Kentucky’s willing cooperation in 
+the war. Thus, until September of 1861, its territory 
+was inviolable. Finally, the Confederates ‘invaded’ 
+Kentucky, after which the Union responded. 
+• Union units may not enter Kentucky until the 
+Union 01/02 (Jan/Feb) 1862 Player Turn. 
+• The Union is immediately free of this 
+restriction if a Confederate unit enters (or 
+‘passes through’) any box in Kentucky during 
+1861. 
+4.2 The Potomac 
+River Restriction 
+Due to the presence of 
+Union naval forces, 
+Confederate units may 
+never move along the 
+Potomac River (the river 
+connecting Washington 
+and Fredericksburg). 
+Only the Union player 
+may use the Potomac 
+River. 
+4.3 Entrenchment 
+Instead of moving, units may use their March 
+activation to entrench at their location. Entrenchment 
+improves a unit’s ability to survive in battle. 
+March Cost for Entrenchment: It costs one March 
+to entrench any or all friendly units in a Recruitment 
+City (any box with a number in it, whether blue or 
+red). Units must spend two Marches to entrench in 
+any other box. 
+• Units may not entrench in a box containing enemy 
+units. 
+• The same March may be used to move some units 
+out of a box and entrench the others in it. 
+Examples: The Recruitment City of Cincinnati is activated with a 
+March. Of the five units there, three are moved away while the 
+remaining two use that March activation to remain in Cincinnati 
+and entrench. 
+At Manassas Jct., which is not a Recruitment City, a player must 
+spend two Marches in a single friendly Movement Segment to 
+entrench any or all of the units there. This means that a unit 
+could not move into and entrench at Manassas Jct. in a single 
+Player Turn – that would consume three Marches and a unit can 
+only have two Marches spent on it during a single Player Turn. 
+Entrenchment Markers: To show 
+that units are entrenched, place an 
+Entrenchment marker on top of them. 
+(Feel free to make more of 
+Entrenchment Markers if you run out 
+of them during play.) 
+• Units moving into a box containing friendly 
+entrenched units do not automatically become 
+entrenched. Place these units above the 
+Entrenchment marker in that box. 
+• If a units moves, its entrenchment status is lost. 
+Permanent Entrenchment Locations: Any unit that 
+begins a Player Turn in one of the following boxes is 
+automatically considered entrenched: 
+movement 
+only! 
+Washington (DC) 
+Richmond (Virginia) 
+Fort Monroe (Virginia) 
+Vicksburg (Mississippi). 
+These locations are indicated on the map as 
+Permanent Entrenchments (Washington D.C. is 
+shown in the Potomac River Restriction illustration, 
+4.2). 
+
+4.4 Cavalry Jump Moves 
+Cavalry unit, making a two-box March, 
+may move through a box containing 
+enemy units within the limitations and 
+restrictions listed below. This is called a 
+Jump Move. 
+• A Cavalry unit may make only one Jump Move 
+during its owner’s Movement Segment. 
+• It may not end a Jump Move in a box containing 
+enemy units. 
+• It may not Jump Move through a box containing 
+enemy Cavalry. Cavalry ‘screen’ the box they’re 
+in and prevent enemy Cavalry Jump Moves 
+through it. 
+• It may not make this special cavalry Jump Move 
+when moving by river (see 4.5, below). 
+4.5 Union River Jump Moves 
+Any Union unit (including Cavalry) may make this 
+special Jump Move only when moving down a river. 
+The downriver direction is marked by pale blue 
+arrows inside the river. 
+• The South may not make river Jump Moves. 
+• The North may not make these Jump Moves when 
+moving up a river. 
+• River Jump Moves have the same restrictions as 
+cavalry Jump Moves (4.4) except that units may 
+move through boxes containing enemy cavalry. 
+ 
+Example: The Union Player wishes to penetrate the Confederate 
+lines. The Union Militia Cavalry in the Fts Henry & Donelson box 
+cannot Jump Move to the Corinth box through the Humbolt box 
+because of the presence of Confederate Cavalry at Humbolt. 
+The Cavalry cannot Jump Move through Pittsburg Landing to 
+Corinth because a part of the Jump Move would be by river. 
+The Cavalry can Jump Move to the Decatur box through the 
+Nashville box, occupied only by Confederate Infantry, by using 
+the railroad. 
+The Union Militia Infantry at Fts Henry & Donelson cannot follow 
+the Cavalry to Decatur with a river Jump Move (4.5) through 
+Pittsburg Landing because that move would be going up river. 
+4.6 Union Sea Movement 
+The North, due to its naval 
+superiority throughout the 
+war, may move units via 
+Sea Movement between 
+Port boxes. Port boxes are 
+those marked with an 
+anchor symbol in them. 
+Important: Each unit 
+moved by sea counts as one 
+March. 
+Baltimore is a Port box. 
+Example: Three units conducting Sea Movement count as three 
+Marches, even if they all started in the same port box. 
+Procedure: To conduct Sea Movement, that unit 
+must have started the Union Movement Segment in a 
+Port box. It may move by sea directly to any other 
+Port box currently controlled by the Union (see Rule 
+8.0 for the definition of “control”). 
+• A unit that conducts Sea Movement may not 
+conduct any other movement that Movement 
+Segment, but it may entrench (4.3) if in a 
+Recruitment City by using a second March. 
+4.7 Union Naval Invasions 
+If the Union player rolls a ‘6’ for Marches during his 
+Movement Segment, he may conduct Naval Invasion 
+Movement that turn. 
+Procedure: Naval Invasion 
+Movement is conducted like 
+Sea Movement (in 
+particular, each unit moved 
+counts as one March), 
+except that the Union units 
+being moved must have 
+started the Union 
+Movement Segment in 
+Washington D. C. 
+Invasion Opportunities 
+The Union player is not 
+required to conduct a 
+naval invasion if he rolls 
+a ‘6,’ but it is a good idea 
+to take the opportunity. If 
+he does not invade, he 
+cannot save that 
+opportunity for a later 
+Union Player Turn.
+Units conducting Naval Invasion Movement may 
+move to any Confederate-controlled port. If the port 
+is empty, the Union units freely occupy it; if 
+
+Confederate units are in that Port box, a battle must 
+be fought in the ensuing Union Combat Segment. 
+• Units making Sea Invasions may not conduct 
+further movement, but if the invaded Port box 
+is empty and a Recruitment City, they may 
+entrench (4.3) by using a second March. 
+• Units making Sea Invasions may invade 
+separate Port boxes. 
+• Note that retreating from a Naval Invasion battle 
+must conform to the regular rules of retreat (5.4) 
+unless Optional Rule 5.41 (Union Naval 
+Evacuations) is being used. 
+4.71 [Optional] Fort Monroe 
+Geography dictated that the guns of Fort Monroe 
+controlled access to the Chesapeake Bay. The 
+Confederacy would have been in a good defensive 
+position on its capital’s strategic right flank had it 
+managed to capture Fort Monroe. 
+If the Confederates control Fort Monroe, then 
+the Union player may not conduct Naval 
+Invasions (4.7) against either Yorktown or 
+Norfolk. 
+The Union player may, of course, conduct a 
+Naval Invasion of Fort Monroe itself. 
+ 
+4.8 [Optional] Crack Infantry 
+Known as ‘Foot Cavalry,’ the best of the 
+infantry soldiers could often maintain the 
+pace of their horse-mounted brethren. 
+Better able to endure the hardships of war, 
+these Crack troops could maintain 
+cohesion on long and tiring marches, and 
+their deeds are legendary in the annals of the American 
+Civil War. 
+Crack Infantry units move like Cavalry units – that is, 
+up to two boxes by road or railroad (friendly or 
+unfriendly), and may combine road and rail 
+movement in the same March. 
+Unlike Cavalry units though, Crack Infantry units 
+cannot make (or block) a Cavalry Jump Move (4.4). 
+ 
+4.9 [Optional] Union Rail Movement 
+Bonus 
+The Union railroad system was vastly superior to the 
+South’s. The Union had more track at standard gauges, 
+more cars and engines, and a better ability to maintain 
+them. Big business was with the North, and the railroads 
+were the biggest business of their day. Prior to the Civil 
+War, the largest single employer was not the government 
+(including the armed forces); it was the Pennsylvania 
+Railroad, which employed over 50,000 people! 
+Union units may move three boxes per March if 
+entirely along friendly rail lines. 
+5.0 Combat 
+If, at the end of player’s Movement Segment, a box 
+contains units from both sides, a battle must be 
+fought (exception: see 5.4, Cavalry Withdrawal 
+before Combat). The player who moved into the box 
+(i.e., whose Player Turn it is) is called the attacker, 
+while the other player is the defender. 
+• Battles take place one at a time, in any order the 
+attacker chooses. 
+• One battle must be completely finished before the 
+next battle begins. 
+Procedure: Both players take their 
+units out of the box and place the 
+Battlefield marker there to remind 
+them of the battle’s location. This is 
+the ‘Battle Box.’ 
+The two armies line up opposite each other in some 
+convenient area off to the side of the board and take 
+turns firing at each other in a series of Battle Rounds. 
+• Both players fire in each Battle Round, but the 
+defender fires first. Thus, the defender could 
+eliminate some attacking units before they can fire 
+back that Round. 
+• Battle Rounds continue until one player wins the 
+battle – either by eliminating all of the enemy 
+units in the contested box or by compelling those 
+enemy units to retreat (5.4). 
+5.1 Resolving Battle Rounds 
+During a Battle Round, each of a player’s units at that 
+battle may fire once. 
+Setup Procedure: At the beginning of a player’s part 
+of a Battle Round, he must announce the targets of all 
+his fire before any dice are rolled. Each unit fires at 
+one enemy unit, of the firing player’s choice. He may 
+not change his announced fire during the Round. 
+Example: If three Militia Infantry units are all assigned to fire at a 
+single Veteran unit, and the Veteran unit is eliminated after the 
+first two shots, the remaining Militia Infantry unit may not change 
+its target; it must ‘waste’ its fire this Round at the already 
+designated Veteran unit. 
+If the firing player has more units in the battle than 
+the enemy, the extra units may be used to ‘gang up’ 
+
+on enemy units and take additional shots at them. 
+However, each enemy unit must be fired upon by at 
+least one friendly unit if possible. 
+Firing Procedure: To resolve a shot, roll one die. If 
+the number rolled is equal to or less than the Combat 
+Value of the firing unit, the enemy unit has been hit. 
+Otherwise, the shot is a miss and has no effect. 
+Example: When a Veteran Cavalry unit (with its 
+Combat Value of 2) fires, it hits if the player rolls a 
+1 or 2. 
+Suffering a Hit: When the targeted unit is hit, it is 
+flipped over to its reduced side (the side with red 
+printing). If it is already reduced, it is eliminated. 
+Eliminated Militia units are placed in the Recruitment 
+Pool; eliminated Veteran and Crack 
+units are returned to the owning 
+player’s stock. 
+• Except for being one hit always 
+from elimination, reduced units do 
+not differ in any other way from full-strength 
+units. 
+5.2 [Optional] Like Battlefield Targets 
+During the American Civil War, the rifle had made old-
+fashioned cavalry charges obsolete. Cavalry evolved into a 
+mounted infantry role on the battlefield, quick to harass 
+and retreat from large bodies of enemy infantry. Too 
+valuable to lose, cavalry units were usually kept out of 
+harm´s way whenever possible on Civil War battlefields 
+where infantry´s long-range firepower was now what 
+decided the day. 
+In battles, a player’s choice of targets is more 
+realistically restricted. 
+Procedure: Infantry units may not fire at enemy 
+Cavalry units unless every enemy infantry unit has 
+already been selected as a target that Round. Even 
+then, the Infantry units may always choose to ignore 
+any enemy Cavalry units as targets and instead start 
+ganging up on enemy Infantry units. 
+Cavalry units, however, must fire at enemy Cavalry 
+units, even if every enemy Infantry unit has not 
+already been selected as a target that Round. Cavalry 
+units may not gang up on enemy Cavalry or Infantry 
+units until after every Cavalry unit has been selected 
+as a target that Round. 
+5.3 Battle Die Roll Modifiers 
+The following factors may make units easier or 
+harder to hit by modifying Combat die rolls. 
+5.31 Entrenchment (-1) 
+Units in Entrenchments (see 4.3) receive some 
+protection from enemy fire during a battle. 
+When firing at an entrenched unit, subtract one 
+from the Combat Value of the firing unit. 
+Example: If a Veteran Infantry unit fires at a unit in 
+Entrenchment, its Combat Value would be 2, not 3, and it 
+would hit that entrenched unit on a roll of 1 or 2. 
+5.32 Crack Infantry Units (-1) 
+In addition to its Combat Value of 3, 
+Crack Infantry has a Defensive 
+Value of -1. This means that units 
+firing at Crack Infantry have their 
+Combat Values reduced by one. 
+• Even Crack Infantry is reduced when firing at 
+another Crack Infantry unit. 
+• Units firing at Entrenched Crack Infantry 
+have their Combat Value reduced by two. 
+Note that Militia (Infantry or Cavalry) and 
+Veteran Cavalry units cannot hit entrenched 
+Crack Infantry at all (see 5.33, below). 
+5.33 Impossible Shots 
+A friendly unit can fire at an enemy unit in a 
+battle, even though it cannot hit it (i.e., when its 
+Combat Value is reduced below 1, such as when 
+firing at an entrenched or Crack Infantry unit). 
+This can be important for fulfilling the 
+restriction of Rule 5.1 where each enemy unit 
+must be fired at by at least one friendly unit if 
+possible. 
+Example: In this Battle Round, the firing player has one 
+Militia Cavalry unit (1 Combat Value) and three Veteran 
+Infantry units (3 Combat Value) targeting two entrenched 
+enemy units: one Veteran Infantry and one Crack Infantry. 
+The firing player assigns his Militia Cavalry unit to fire at 
+the entrenched Crack Infantry unit (even though it cannot 
+possible hit it with a -2 die roll modifier). This allows him to 
+concentrate all three of his Veteran Infantry units against 
+the more vulnerable enemy Veteran Infantry unit, giving 
+him three shots to hit it on 1s and 2s. 
+
+5.34 Attacking Across Rivers (+1) 
+Condition: Some 
+boxes have one or two 
+sides colored blue. T
+indicates that units 
+which attack throug
+that side of the box 
+(that is, units that 
+moved into the box 
+along a transportation 
+line that connects to 
+that side) must ‘cross 
+the river.’ Units 
+attacking across a river 
+are more vulnerable to 
+enemy fire while doing 
+so. 
+his 
+h 
+Effect: During the defender’s first two Battle 
+Rounds (only, not any subsequent rounds), his 
+units have their Combat Values increased by one 
+when firing at units attacking across the river. 
+Example: If attacked from across a river, a Veteran 
+Infantry unit would fire with a Combat Value of 4 instead of 
+3, hitting on a roll of 1 through 4. 
+When firing at Crack Infantry unit crossing a river, a unit 
+would have its Combat Value both increased and 
+decreased by one, and the two effects would cancel. 
+• The defender’s Reinforcements (5.5) arriving 
+on Round two do receive this combat benefit. 
+• Union Naval Invasions (4.7) are also treated 
+as attacking across a river. 
+• There is no Combat Value increase against 
+the attacker’s units that reinforce a battle (see 
+5.5) since they won’t arrive until after the 
+defender has fired on the second Round. 
+ 
+Players may wish to use one of the blank pieces 
+included in the game to create a two-sided River 
+Battle Marker (as illustrated here). Place it 
+among the attacker’s line of units to separate 
+those that have “crossed the river” (and are 
+subject to the defender’s Combat Value 
+increase) from those that did not. 
+If attacking units enter the defender’s box from 
+multiple directions, only those units that actually 
+cross the river are subject to this rule. 
+Unless attacked from the 
+north or west, moving against 
+enemy units in Selma would 
+mean attacking across a 
+river. 
+5.4 Retreating from Battle 
+Also beginning with the second Battle Round, either 
+player may retreat his army. 
+Procedure: Prior to (i.e., in lieu of) firing his units in 
+a Battle Round, all of that player’s units in the Battle 
+Box retreat to an adjacent box connected by a 
+transportation line within the restrictions below, thus 
+ending the battle. 
+• All units must retreat to the same box. 
+• The box retreated to must neither contain enemy 
+units nor be an enemy-controlled Recruitment 
+City (i.e., one with a Recruitment Value of either 
+color). 
+• If possible, the retreat must be to a friendly-
+owned box (see 8.0), but this is not required if 
+none are available. 
+• Defending units may not retreat to a box from 
+which the attacking units entered the battle. 
+If no such boxes are adjacent to the battle, then that 
+army cannot retreat and must fight to the death. 
+If an army retreats, the other side immediately wins 
+the battle. 
+5.41 [Optional] Union Naval Evacuations 
+Ironclads stole the glory in the Civil War’s naval 
+battles, but it was the vast fleet of Union sailing ships 
+that provided vital sea-lift capacity. Landing or 
+setting sail, they were a great support to the Army. 
+If a battle is occurring in a Southern Port box as 
+a result of a Union Naval Invasion (4.7) or a 
+Confederate attack on a Union garrison there, 
+the Union units may retreat by evacuating to 
+Washington D.C. (if it is Union controlled, 8.0). 
+5.5 Reinforcing a Battle 
+Beginning with the second Battle Round, and on 
+every Battle Round thereafter, both sides may 
+reinforce that battle. 
+Timing: The decision to retreat from a battle (5.4) 
+occurs before the decision to reinforce it. A player 
+cannot reinforce a battle that he just retreated from. 
+Procedure: Prior to firing his units in a Battle 
+Round, a player may reinforce that battle with one 
+unit from each adjacent, connected box. 
+River / Invasion 
+Round 1 
+Defender fires at 
++1 Combat Value 
+River / Invasion 
+Round 2 
+Defender fires at
++1 Combat Value
+
+• Reinforcing is a function combat, not movement 
+(4.0). No Marches are spent to reinforce a battle. 
+• Units that have already fought in a battle that 
+Player Turn (regardless of their victory or defeat) 
+cannot reinforce another battle during that same 
+Player Turn. 
+• The attacker may not reinforce his battle with 
+units from a box also containing enemy units. 
+• The defender may reinforce from a box containing 
+enemy units, but must leave a ‘screening force’ 
+there of as many friendly units in the box moved 
+from as there are enemy units in that box. 
+• A player may not reinforce a battle if all of his 
+units at that battle have already been eliminated or 
+retreated (5.4); that battle is over. 
+• Defending units that reinforce a battle fought at a 
+Permanent Entrenchment (e.g., Vicksburg) are not 
+considered entrenched during that battle. 
+5.6 Cavalry Withdrawal before Combat 
+If the defending player has only Cavalry units in a 
+box when the attacker designates it for a battle, those 
+Cavalry units may withdraw before any Battle 
+Rounds are conducted. 
+• Cavalry withdrawal before combat does not count 
+as losing a battle. (See Rule 6.0, Promotions.) 
+Procedure: Cavalry may withdraw to any adjacent 
+box except enemy-controlled Recruitment Cities, 
+boxes containing enemy units, or boxes from which 
+enemy units entered the battle. 
+Exception: Cavalry units may not withdraw if all of 
+the attacking units are also Cavalry units. This ‘pins’ 
+the defending Cavalry unit(s) in place long enough to 
+start a battle. 
+5.7 Recovery from Battle Damage 
+After a player’s Battle Segment is over, all units that 
+are flipped to their reduced (red number) sides are 
+returned to their full-strength (white number) sides. 
+5.71 [Optional] Refitting the Army 
+This rule recreates the historical lulls after many 
+Civil War battles. It required some considerable time 
+and energy to rest, regroup, refit, recover stragglers, 
+and incorporate replacements into these increasingly 
+massive groups after the chaos of battle. 
+Units do not recover automatically after a battle; 
+they remain on their reduced (red number) side 
+until Recovered. 
+Players may spend a Recruitment Point (7.0) to 
+recover one reduced-strength unit on the map 
+(flipping it back up to its white-number side) in 
+lieu of recruiting a Militia unit from the 
+Recruitment Pool (as usual). 
+Example: if a player had two Recruitment Points this turn, 
+he could recruit two Militia units, recover two reduced units 
+on the map, or do one of each (spending up to his total of 
+two Recruitment Points). 
+In the same manner, a March (4.0) can be spent 
+to either activate a box (as usual) or recover one 
+reduced unit on the board. Remember, you can 
+only spend a maximum of two Marches on a 
+given unit per friendly Movement Segment, and 
+recovering it counts as one of them. 
+• Units are always placed in their stock and 
+Recruitment Pool on their full-strength side. 
+Newly recruited units (7.0) are always placed 
+on the board at full strength. 
+Comprehensive Combat Example: 
+ 
+As seen in the illustration, the Confederate player spends one 
+March to activate the Fts. Henry & Donelson box. Both of his 
+Cavalry units there move two boxes along the river (through 
+Paducah) to attack Cairo. Had the Confederates invaded Cairo 
+with any Infantry units in their force, the defending Cavalry unit 
+there could have opted to withdraw before combat (as per Rule 
+5.6). 
+The defending Union Veteran Cavalry unit enjoys the advantages 
+of firing first (5.0), being entrenched (5.31), defending against 
+
+attacking units that are crossing a river (5.34), and having friendly 
+reinforcements nearby (5.5). 
+Round 1: The Union Cavalry unit fires at the Confederate 
+Veteran Cavalry unit and hits it with a die roll of 3 – its chance to 
+hit being increased by 1 during the first two Battle Rounds 
+because it is firing at a unit that has crossed a river. The 
+Confederate unit is flipped to its Reduced side. 
+ 
+The Confederate player returns fire with both units. His Militia 
+Cavalry unit has an Impossible Shot (5.33) and his (now 
+Reduced) Veteran Cavalry unit can only hit on a die roll of 1 due 
+to the enemy entrenchment. He rolls a 6 and misses completely. 
+ 
+Round 2: The Union player can retreat at this point in lieu of 
+shooting (5.4), but sensing victory he opts to stay and bring in 
+reinforcements (5.5). Joining the battle are the Veteran Infantry in 
+Vandalia and one of the Militia Infantry units in St. Louis (as one 
+per adjacent box, per Battle Round after the First Round, is the 
+reinforcement Speed Limit). 
+Hoping to get lucky and win the battle outright if he can roll three 
+hits, the Union player assigns his best shots (the Veteran 
+Infantry) at the enemy’s Reduced Veteran Cavalry unit, and has 
+his other two units gang up on the Confederate Militia Cavalry. 
+All three Union units enjoy the river bonus for this, its second and 
+final Battle Round of effect (5.34). The Veteran Infantry units rolls 
+a 4, destroying the enemy’s Reduced Veteran Cavalry unit. 
+ 
+The Union’s entrenched Veteran Cavalry unit rolls a 1 and hits 
+the Confederate’s Militia Cavalry unit, reducing it. 
+ 
+But the Union’s Militia Infantry unit rolls a 5 and fails to finish off 
+the Confederate’s (now reduced) Militia Cavalry unit. 
+ 
+The South is holding on by the skin of its teeth with only one 
+reduced Militia Cavalry unit remaining on the battlefield. But 
+never one to retreat while there still hope in the fight, the 
+Confederate player gives a Rebel Yell and brings in his own 
+reinforcements: the Veteran Cavalry unit from Paducah (which 
+leaves no Control marker there as per Rule 8.0) and the Crack
+Infantry unit is the first to arrive from Humbolt. He lines up his 
+units against the defenders with the results as shown below: 
+ 
+targets that are easier 
+to hit (because they are not entrenched). 
+ate Crack Cavalry misses the Union Veteran 
+Infantry unit. 
+Finally, the Confederate player scores a hit in the battle! 
+ 
+The reduced Militia Cavalry takes an Impossible Shot (5.33) 
+against the entrenched Veteran Cavalry. This will allow both of 
+the Confederate’s best shooters to aim at 
+ 
+The Confeder
+ 
+[
+X 
+
+Round 3: Although his river bonus has ended, the Union player 
+is not ready to give up yet. He reinforces with his last Militia 
+Infantry unit from St. Louis. He assigns his Veteran Infantry 
+against the Confederate’s Crack Infantry unit (it will hit on a 1 or a 
+2 – as per Rule 5.32), his entrenched Veteran Cavalry unit and 
+one Militia Infantry unit will try to finish off the enemy’s reduced 
+Militia Cavalry unit once and for all, and the last Union Militia 
+Infantry unit will take a shot at the Confederate’s Veteran Infantry 
+unit. Here are the results: 
+ 
+The Veteran Infantry unit misses because the enemy Crack 
+Infantry’s -1 modifier lowers the Combat Value of units firing at it 
+by one (from a 3 to a 2 in this case). 
+ 
+ 
+The first unit hit and eliminated the Confederate Militia Cavalry 
+unit, but since the second unit was also designated to fire at it 
+this Round, that shot is simply wasted. 
+ 
+Finally, the last Union Militia unit scores a hit against the enemy’s 
+Crack Cavalry unit. 
+The Confederate player will begin his Round 3 by reinforcing with 
+his Veteran Infantry unit in Humbolt and the battle will rage on... 
+6.0 Promotions 
+Units may be Promoted at the conclusion of each 
+battle (5.0) and during the Promotion Segment. 
+Militia units are promoted to Veteran units, and 
+Veteran units are promoted to Crack units. 
+Procedure: To promote a 
+unit, remove it from the 
+board and replace it with a 
+unit which is the same type 
+(Infantry or Cavalry) at the 
+next higher quality. Militia 
+units are placed in the 
+Recruitment Pool, Veteran 
+and units are returned to 
+the player’s stock. 
+How to Increase your 
+Cavalry Forces 
+You increase your 
+Cavalry forces on the 
+board by promoting 
+your lone Militia Cavalry 
+unit, and then recruiting it 
+again. 
+• Each time a player wins a battle (whether 
+attacking or defending), he may immediately 
+promote one of his surviving units that 
+participated. 
+• During his Promotion Segment, the player whose 
+turn it is may promote any one unit. Exception: A 
+unit that was just promoted during that player’s 
+Combat Segment cannot be selected; no unit can 
+receive two promotions during a single Player 
+Turn. 
+Promoting a unit does not affect its other status. A 
+promoted unit that is entrenched (4.3) or reduced 
+(5.71) remains entrenched or reduced. 
+ 
+6.1 [Optional] Combat Experience 
+Drilling and parade ground maneuvers can only teach 
+soldiers so much. There is no substitute for actual combat 
+experience against the foe. 
+A player can promote a Veteran unit 
+to a Crack unit only if it is the 
+victorious survivor of a battle. The 
+‘free’ promotion during the 
+Promotion Segment may not be used 
+to raise Veteran to Crack units. 
+6.2 [Optional] Confederate Replacement 
+Training 
+The Union and the Confederacy had a significant 
+difference in army doctrine when it came to replacing 
+battle losses. Unlike the Union, the Confederacy integrated 
+replacements into experienced units so that new soldiers 
+might learn from the old hands. 
+X 
+Wasted 
+Shot 
+[ 
+
+Procedure: The Confederate player rolls one die 
+during his Promotion Segment. On a roll of 1 or less, 
+he may promote two units that turn, instead of one. 
+Modifier: The Confederate player may subtract one 
+from the die roll for each Confederate Veteran or 
+Crack unit eliminated during battles this Game Turn. 
+(In the Advanced Game, Confederate Veteran or 
+Crack Infantry units lost through desertion (D.3) do 
+not count.) 
+7.0 Recruitment 
+After all Promotions are finished, the player whose 
+turn it is may conduct his Recruitment Segment. 
+Procedure: To recruit, roll one die. However, if a 1 
+is rolled, it is treated as a 2. 
+ 
+The value on this Recruitment die roll is the number 
+of Recruitment Points the player may spend during 
+that Recruitment Segment. 
+Spending Recruitment Points: One Recruitment 
+Point is spent to recruit one of that player’s Militia 
+units from the Recruitment Pool. 
+• Both Militia Infantry and Militia Cavalry units 
+may be recruited if available in the Recruitment 
+Pool. 
+Placing a Recruited Unit: A newly recruited Militia 
+unit can only be placed in a friendly-controlled 
+Recruitment City (see 8.0) that has a shield of that 
+side’s color (red for Confederate; blue for Union). 
+• Only one unit can be 
+recruited per allowable 
+Recruitment City per 
+friendly Recruitment 
+Segment. 
+Some friendly cities, if 
+captured, become 
+Recruitment Cities for the 
+other side. Cairo, for 
+instance, is a Recruitment 
+City for whichever side controls it. 
+7.1 Maximum Army Size 
+The numbers in the Recruitment Cities are used to 
+determine the maximum allowable size of a player’s 
+army. 
+Procedure: The sum of all numbered shields of the 
+correct color (blue for the Union, red for the 
+Confederacy) in all Recruitment Cities controlled by 
+that player is his Army Maximum Size. This is the 
+maximum number of units that he is allowed to have 
+in play at a time. 
+• A player may not recruit more Militia units than 
+necessary to bring him up to his Army Maximum 
+Size (even if more are available) 
+• If, however, the number of units a player currently 
+has on the board exceeds his current Army 
+Maximum Size due to the loss of a city, he is not 
+required to remove any units. 
+Both players’ Army Maximums should 
+be shown using two Control markers 
+and the numbered track in the 
+southeast corner of the board. Be sure 
+to keep these values current! 
+for Recruitment 
+Procedure: Place a Control marker in the box 
+corresponding to each player’s initial Army 
+Maximum size (i.e., the sum of all controlled 
+Recruitment City Values). In the 1861 Campaign 
+Game Scenario, this would be 29 for the Confederacy 
+and 34 for the Union. 
+Whenever a player captures a 
+Recruitment City containing a 
+shield of his color, adjust his 
+Control marker upward on the 
+scale; whenever a player loses a 
+Recruitment City containing a 
+shield of his color, adjust his 
+Control marker downward 
+accordingly. 
+Note that if a player captures a 
+neutral Recruitment City (i.e., 
+one that his opponent did not 
+control – specifically, those that 
+begin the game in Kentucky), his enemy’s Army 
+Maximum Size will not be reduced (since it was 
+never previously increased for having controlled it). 
+Whoever captures 
+neutral Louisville first 
+will raise their own 
+Army Maximum Size, 
+but not lower their 
+o
+Recruitment Cities 
+A Recruitment City is a 
+box that contains a 
+number in a small red or 
+blue shield. 
+The Union recruits in 
+cities with blue shields. 
+The Confederates recruit 
+in cities with red shields. 
+pponent’s.
+7.2 Union Army Drafts 
+The Union player begins the 1861 
+Campaign Game Scenario with only 
+twelve Militia Infantry units. The 
+other twelve are set aside and the 
+Union player may not recruit them. 
+They do not enter play until Drafted. 
+Procedure: The Union player gains these additional 
+Militia Infantry units over the course of three Drafts. 
+
+11886633
+R
+Riioott 
+• Drafts occur at the beginning of the 04 (April) 
+Game Turns in 1862, 1863, and 1864. 
+• Drafts occur at the beginning of the 04 (April) 
+Game Turns in 1862, 1863, and 1864. 
+• For each Draft, four of these Militia Infantry units 
+are added to the Recruitment Pool and are 
+available for the Union player to recruit on that 
+turn. 
+• For each Draft, four of these Militia Infantry units 
+are added to the Recruitment Pool and are 
+available for the Union player to recruit on that 
+turn. 
+Thus, after the first Draft, a total of 16 Union Militia Infantry units 
+will either be in play or be available for recruitment. After the 
+second Draft, the Union will have 20; and after the third, 24. 
+Thus, after the first Draft, a total of 16 Union Militia Infantry units 
+will either be in play or be available for recruitment. After the 
+second Draft, the Union will have 20; and after the third, 24. 
+ 
+7.3 [Optional] The Draft Riots of 1863 
+The Northern draft riots, particularly in 
+the city of New York, were by far the worst 
+in American history. No matter how many 
+times you see rioting and looting on the 
+news in American cities today, those riots 
+are a tea party in comparison. 
+The four Militia Infantry units drafted by the Union 
+in 1863 are not all added to the Recruitment Pool 
+during the 04 (April) 1863 Game Turn (as per Rule 
+7.2). 
+Instead, one is added in 04 (April), another in 05 
+(May), one more in 06 (June), and the last one in 07 
+(July) of the year 1863. 
+ 
+7.4 [Optional] Increasing Union Forces 
+As the Union Army grew, so did the North´s industrial 
+capacity to support it. The revolutionary manufacturing 
+concept of interchangeable parts (for rifles) allowed the 
+machine tool industry to arm a nation as never before. 
+With most of America’s heavy industry and transportation 
+lines in the North, the ever-increasing supply of war 
+materiel and its ever-improving logistical support proved 
+to be the cornerstone of Union victory. 
+To reflect the increasing Union mobilization of 
+resources, the ability of the Union to support troops 
+increases with each draft. 
+Procedure: After the first Draft on 04 (April) of 
+1862 (see Rule 7.2), the Union may support on the 
+game board (and Recruit up to) four more units than 
+its Army Maximum Size (7.1). 
+After the second Draft it may have four more, and 
+after the third draft, another four units. 
+Example: If the Union army maximum in 05 (May) 1864 is 35, up 
+to 12 additional (47 total) Union units may be in play on the 
+board. 
+Note that this is an economic increase and not a 
+political one. Therefore, the Union Army Maximum 
+Size does not increase for purposes of a Confederate 
+victory (see 9.0). 
+ 
+7.5 [Optional] Historical Recruitment 
+Limitations 
+Even more significant than just having a larger 
+population, the North enjoyed a more steady stream of 
+volunteers. One reason, of course, was that the many 
+immigrants coming to the North would obtain automatic 
+citizenship when discharged from the Union Army, so huge 
+numbers took the opportunity to enlist. The South, on the 
+other hand, while managing to mobilize over 90 percent of 
+its draftable white males, always suffered from chronic 
+shortages of manpower. 
+The Union player always receives a minimum of 3 
+Recruitment Points per turn, even if he rolls a 1 or 2. 
+ 
+The Confederate player never receives more than 4 
+Recruitment Points per turn, even if he rolls of 5 or 6. 
+ 
+ 
+Important: Both players may now place up to two 
+newly recruited Militia units in Recruitment Cities 
+with a value of 3 or more (i.e., Pittsburgh, New York, 
+Philadelphia, or Richmond). 
+or
+for Union Recruitment
+and
+for Confederate Recruitment 
+or
+
+8.0 Capturing and 
+Controlling Boxes 
+Throughout the game, all blue boxes not controlled 
+by the Confederates are controlled by (i.e., ‘friendly 
+to’) the Union. All gray boxes not controlled by the 
+Union are controlled by the Confederacy. All tan 
+boxes (i.e., those in Kentucky) that are not controlled 
+by either side are neutral and not friendly to either 
+side. 
+Procedure and Timing: A player ‘captures’ (‘owns’ 
+and /or ‘controls’) a box by having at least one unit 
+there at the end of his friendly Combat Segment. 
+Just ‘passing through’ or residing in a box at the end 
+of a particular March during your Movement Segment 
+does not change control of that box to ‘friendly.’ 
+Control of boxes only changes at the end of a player’s 
+Combat Segment. 
+• Once captured, a box remains under that player’s 
+control until the other player recaptures it (but 
+note the Cavalry unit exception below). 
+Noting Control: Physically occupying a box with a 
+unit at the end of a friendly Combat Segment denotes 
+its current ownership. If there is a Control marker is 
+in that box, remove it. 
+If a player captures a tan box or a 
+box of the enemy color, and later 
+completely vacates that box, 
+immediately place a Control (Flag) 
+marker there to indicate its continued 
+ownership by the vacating player. 
+• Any box without a unit or Control marker in it is 
+deemed to belong to its original owner (Union or 
+Confederate) based on the color of that box. Tan 
+boxes without Control markers are uncontrolled. 
+Exception: Cavalry units alone (without infantry 
+units) control a box only while they occupy it. The 
+instant they completely vacate it, control reverts back 
+to the box’s original color (i.e., . A player must bring 
+in (or recruit) a friendly Infantry at that box in order 
+to place a Control marker there and maintain 
+ownership. 
+Key Concept: Cavalry ‘raids’ deep into enemy territory thus 
+maintain only tenuous control. However, Cavalry raids into 
+enemy-controlled friendly territory will convert those spaces back 
+to their natural (friendly) color. 
+Example: In this 
+illustration, the 
+Confederates control 
+St. Louis and Cairo 
+as shown by the 
+presence of their 
+units in those 
+Recruitment City 
+boxes. They also 
+control Ironton, as 
+the Control marker 
+indicates. 
+Note that if the 
+Infantry unit moved 
+out of Cairo and the 
+city was thus 
+completely vacated, 
+a Confederate Control marker would be placed there to indicate 
+its continued Confederate control. But if the Cavalry unit was 
+moved out of St. Louis and the city was left empty, no 
+Confederate Control marker would be placed there. That box 
+would, instead, immediately revert back to is original color and 
+thus default back to Union ownership. 
+9.0 Game Length 
+Game Length: The game can last up to 40 Game 
+Turns, from 07 (July) 1861 to 06 (June) 1865. 
+The game will be generally shorter, however, because 
+one player usually wins before that time. 
+Game Turns are marked on the Turn Record Track 
+placing the wooden Turn maker along the perimeter 
+of the board. Advance this marker by one box at the 
+end of each Confederate Player Turn to indicate the 
+beginning of a new Game Turn. 
+9.1 [Optional] Extended Game 
+By mutual consent, the game length may be extended 
+beyond 06 (June) 1865 to 11/12 (November / 
+December) 1865, Game Turn 45. 
+
+10.0 Victory Conditions 
+Union Victory Condition: The Union player wins 
+when (and if) he simultaneously controls all seven 
+Confederate Recruitment Cities with a Recruitment 
+Value of 2 or 3. Specifically, these cities are: 
+New Orleans 
+Charleston 
+Wilmington 
+Atlanta 
+Memphis 
+When the Union player captures the last of these 
+Recruitment City boxes, play stops immediately, and 
+the Union player wins. 
+Confederate Victory Conditions: For the 
+Confederate player to win, he must achieve any one 
+of the following three things: 
+1. Capture Washington. If the Confederate player 
+gains control of Washington D.C., play stops 
+immediately and the Confederate player wins. 
+2. Capture (and avoid losing) sufficient Recruitment 
+Cities to make the Confederate Army Maximum 
+Size greater than that of the Union’s. If he does 
+this, play stops immediately, and the Confederate 
+player wins. 
+Example: If the Confederate Army Maximum Size is 31 and 
+the Union’s is 30, the Confederate player wins. 
+3. Avoid a Union victory. If the Union has not 
+fulfilled his victory condition by the end of Game 
+Turn 40, the Confederate player wins by default. 
+The South has ‘survived’ and receives recognition 
+as an independent nation by the North. 
+10.1 [Optional] Helping a Novice Union 
+Player 
+When experienced and inexperienced opponents 
+play, the inexperienced player should be given the 
+Union because that side is generally more able to 
+recover from mistakes. 
+However, an inexperienced Union player may find it 
+very difficult to avoid losing in the early stages of the 
+game. The following rule is suggested as an aid to 
+balancing the game under these circumstances: 
+The Confederate player must satisfy his victory 
+conditions (above), not at any time, but at the end of 
+the Union Player Turn. That is, even if the 
+Confederates achieve one of their first two victory 
+conditions, the Union player has his next Player Turn 
+to try and undo that verdict. 
+11.0 Scenarios 
+In addition to the campaign game of A House 
+Divided with its coverage of the entire American 
+Civil War, it is possible to play out the individual 
+years of the struggle and in doing so, to better see the 
+evolution of its military campaigns. 
+11.1 The 1861 Short Game Scenario 
+If there is no time for a complete game, players may 
+try this shorter version. All regular (and agreed-upon 
+optional) rules are in effect, including the victory 
+conditions. 
+Duration: This scenario lasts for 10 Game Turns: 
+from 07 (July) 1861 to 06 (June) 1862. 
+Setup: Use the standard 1861 Campaign Game 
+Scenario (Rule 2.0) setup. 
+End of Scenario Victory Condition: At the end of 
+the 10th Game Turn (06 1862), the Union player 
+wins if his Army Maximum Size is at least five 
+greater than the Confederate Army Maximum Size; 
+failing this, the Confederate player wins. 
+11.2 The 1862 – 64 Scenario Special 
+Rules 
+The following three scenarios for A House Divided 
+provide players with additional starting and ending 
+dates for playing the game. 
+Starting Date: Each scenario begins on the 04 
+(April) Game Turn of its year, with the Union player 
+going first and drafting his Militia Infantry units for 
+that year (see Rule 7.2) and adding them to his 
+Recruitment Pool. 
+First Turn Marches: Both players automatically 
+receive only two Marches on the first Game Turn of 
+these scenarios. 
+Rules: These scenarios, like the 1861 Campaign 
+Game, can be played at any complexity level and 
+with any agreed-upon Optional Rules. 
+Campaign Game Victory Conditions: Like the 
+1861 Campaign Game scenario, these scenarios can 
+be played to the bitter end (06 of 1865) with the usual 
+victory conditions (10.0). Alternately, players may 
+wish to employ the following rule to end the game at 
+an earlier turn. 
+
+11.3 The 03 (March) Ending Date Victory 
+Conditions 
+Players can agree to end the game at the conclusion 
+of any 03 (March) Game Turn from 1862 to1864. 
+Procedure: Compare the difference between the two 
+Army Maximum Sizes (Union minus Confederate) 
+on the following chart to determine the winner of the 
+game at that point. 
+If you are playing to a specific March ending date, 
+you can see how well you did compared to history as 
+indicated by the level of victory achieved. 
+Sudden Death Victory: Note that if you are playing 
+any scenario to the Campaign Game ending (i.e., 06 
+of 1865 with the standard victory conditions), players 
+may optionally check at the end of each March Game 
+Turn to see if either side has Automatic (i.e., 
+Decisive) Victory, at which point the game ends and 
+that player is declared the winner. 
+ 
+Army Maximum Size 
+ 
+Difference in 03 March of 
+Victory Level 
+1862 
+1863 
+1864
+Union Decisive 
+11+ 
+15+ 
+19+ 
+Union Marginal 
+Union Pyrrhic 
+Draw (Historical) 
+Confederate Pyrrhic 
+Confederate Marginal 6 
+Confederate Decisive 5 or less 9 or less 13 or less 
+ 
+11.4 The 1862 – 64 Scenario Setup 
+Abbreviations 
+Setup abbreviations for these three scenarios are as 
+follows: 
+Mi: Militia infantry 
+Mc: Militia cavalry 
+Vi: Veteran infantry 
+Vc: Veteran cavalry 
+Ci: Crack infantry 
+Cc: Crack cavalry 
+An asterisk (*) after the location name indicates that 
+all the units there begin the game Entrenched (i.e., 
+under an Entrenchment marker as per Rule 4.3). 
+11.5 The 1862 Scenario Setup 
+Fayetteville 
+Newport 
+Island No. 10 * 
+Corinth 
+Decatur 
+Savannah 
+Charleston (South Carolina) 
+Fredericksburg 
+Yorktown * 
+* = Entrenched 
+Confederate Army Maximum Size = 27 
+Springfield, Missouri 
+Ironton 
+Grant (1)** 
+Pensacola 
+Franklin 
+Port Royal * 
+Gettysburg 
+Gettysburg 
+* Entrenched 
+Control Markers: All of Kentucky, Forts Henry and 
+Donelson, Sedalia, and Jefferson City. 
+Union Army Maximum Size = 35 
+
+11.6 The 1863 Scenario Setup 
+Meridian 
+Little Rock * 
+Alexandria * 
+Murfreesboro * 
+Murfreesboro * 
+Knoxville 
+Savannah * 
+Goldsboro * 
+Petersburg * 
+Marion 
+Okolona 
+Chattanooga * 
+Lee (3)** 
+Confederate Army Maximum Size = 23 
+Fayetteville 
+Thayer 
+Grant (1)** 
+Sherman (1)** 
+St. Louis 
+Memphis * 
+Grand Junction 
+Humbolt 
+Bowling Green 
+Glasgow 
+Corinth * 
+Norfolk * 
+New Bern * 
+Port Royal * 
+New Orleans * 
+New Orleans * 
+A Note about Markers 
+This scenario requires using 15 Entrenchment 
+markers. The game only comes with 12. 
+Therefore, you will have to make up some 
+additional Entrenchment markers to establish 
+the proper game setup. 
+If additional markers are needed when playing 
+A House Divided for any reason (such as 
+Entrenchment markers in the 1863 Scenario), 
+use coins or blank pieces – whatever you 
+have available. 
+Control Markers: All of Kentucky, Forts Henry and 
+Donelson, Sedalia, Jefferson City, Springfield 
+(Missouri), Newport, Island No. 10, and Pittsburgh 
+Landing. 
+Union Army Maximum Size = 35. (The Union starts 
+with two units over their Army Maximum Size; 
+Optional Rule 7.4, Increasing Union Forces, is 
+recommended.) 
+Important: If all Union or Confederate units of 
+specific type are in play, no additional units of 
+that type can be created or brought into play 
+through recruitment or promotion. 
+This means that the counter mix is not a limit 
+for markers but it is a limit for the other playing 
+pieces (i.e., military units) in the game. 
+
+11.7 The 1864 Scenario Setup 
+Alexandria 
+Meridian 
+Okolona 
+Selma 
+Atlanta * 
+Tallahasse 
+Savannah 
+Staunton 
+Charleston (South Carolina) * 
+Petersburg * 
+Goldsboro 
+Manassas Junction 
+Wilmington 
+Lee (2)** 
+Fredericksburg 
+Control Marker: Pensacola. 
+Confederate Army Maximum=20. (The Confederates 
+start with three units over this maximum amount due 
+to recent Recruitment City losses.) 
+Game Piece Inventory 
+ 
+Union Confederate 
+Marker
+Militia Inf. 
+Veteran Inf. 
+Crack Inf. 
+Militia Cav. 
+Veteran Cav. 
+Crack Cav. 
+Control (Flag) 
+Entrenchment 
+Blank 
+ 
+Advanced Game Pieces 
+Leaders 
+Foreign Interv. 
+Border Militia 
+Totals 
+St. Joseph 
+Fort Smith 
+Springfield (Missouri) 
+Little Rock 
+Baton Rouge * 
+Baton Rouge * 
+New Orleans 
+Memphis * 
+Saint Louis 
+Cairo 
+Forts Henry and Donelson * 
+Decatur 
+Nashville * 
+Murfreesboro 
+Sherman (2)** Sparta 
+Knoxville * 
+Jacksonville (Florida) 
+Brunswick 
+Port Royal 
+Grafton 
+Grant (2)** 
+New Bern * 
+Norfolk * 
+Control Markers: All of Kentucky, Sedalia, 
+Jefferson City, Fayetteville, Natchez, Newport, Island 
+No. 10, Humbolt, Grand Junction, Pittsburgh 
+Landing, Corinth, Cumberland Gap, and Gainesville. 
+Union Army Maximum Size = 36. (The Union starts 
+with nine units over their Army Maximum Size; 
+Optional Rule 7.4, Increasing Union Forces, is 
+recommended.)

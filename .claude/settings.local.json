@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(sudo apt:*)",
+      "Bash(uv:*)",
+      "WebFetch(domain:boardgamegeek.com)",
+      "Bash(curl:*)",
+      "Bash(test:*)",
+      "WebSearch",
+      "WebFetch(domain:www.1j1ju.com)",
+      "WebFetch(domain:wehrlegig.com)",
+      "WebFetch(domain:en.1jour-1jeu.com)",
+      "Bash(sudo apt-get:*)",
+      "Skill(commit-commands:commit-push-pr)"
+    ]
+  }
+}
