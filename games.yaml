@@ -101,3 +101,40 @@ games:
   player_count: 1-5
   play_time: 60-80 min
   designer: S J Macdonald, Shem Phillips
+- name: Hey, That's My Fish!
+  bgg_id: 8203
+  status: validated
+  player_count: 2-4
+  play_time: 20 min
+  designer: "G\xFCnter Cornett, Alvydas Jakeliunas"
+  pdf_url: https://cdn.svc.asmodee.net/production-nextmove/uploads/2024/05/EN-HTMF-Rulebook-lowres.pdf
+- name: The Quacks of Quedlinburg
+  bgg_id: 244521
+  status: validated
+  player_count: 2-4
+  play_time: 45 min
+  designer: Wolfgang Warsch
+  pdf_url: https://cdn.1j1ju.com/medias/ba/73/db-the-quacks-of-quedlinburg-rulebook.pdf
+- name: 'The Quacks of Quedlinburg: The Herb Witches'
+  bgg_id: 264521
+  base_game_bgg_id: 244521
+  status: validated
+  player_count: 2-5
+  play_time: 45 min
+  designer: Wolfgang Warsch
+- name: 'The Quacks of Quedlinburg: The Alchemists'
+  bgg_id: 297966
+  base_game_bgg_id: 244521
+  status: validated
+  player_count: 2-4
+  play_time: 45 min
+  designer: Wolfgang Warsch
+- name: Ticket to Ride
+  bgg_id: 9209
+  status: summarized
+- name: Azul
+  bgg_id: 230802
+  status: summarized
+- name: Pandemic
+  bgg_id: 30549
+  status: summarized
