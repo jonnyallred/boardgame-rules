@@ -103,6 +103,8 @@ def import_from_database(
     master_csv_path: str,
     limit: int = 0,
     game_type: str | None = None,
+    dry_run: bool = False,
+    output_path: str = "candidates.txt",
 ) -> dict[str, int]:
     """Import games from boardgame-database YAML files into the registry.
 
@@ -117,6 +119,7 @@ def import_from_database(
         Stats dict with keys: imported, skipped, no_bgg_id, errors.
     """
     stats = {"imported": 0, "skipped": 0, "no_bgg_id": 0, "errors": 0}
+    candidates: list[tuple[str, int]] = []
 
     # Build BGG ID lookup from CSV
     bgg_lookup = build_bgg_lookup(master_csv_path, game_type=game_type)
@@ -183,13 +186,20 @@ def import_from_database(
         if designer:
             entry["designer"] = designer
 
-        games.append(entry)
+        if dry_run:
+            candidates.append((name, bgg_id))
+        else:
+            games.append(entry)
         existing_bgg_ids.add(bgg_id)
         existing_names.add(name.lower())
         stats["imported"] += 1
 
-    # Save registry once
-    save_registry(registry_path, games)
+    if dry_run:
+        with open(output_path, "w") as f:
+            for name, bgg_id in candidates:
+                f.write(f"{name} ({bgg_id})\n")
+    else:
+        save_registry(registry_path, games)
 
     return stats
 

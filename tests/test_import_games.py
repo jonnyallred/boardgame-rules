@@ -1,3 +1,5 @@
+import re
+
 import pytest
 import yaml
 from pathlib import Path
@@ -206,3 +208,47 @@ def test_import_formats_designer_multiple(tmp_path, registry_path, mock_master_c
     reg = load_registry(registry_path)
     agricola = next(g for g in reg if g["name"] == "Agricola")
     assert agricola["designer"] == "Uwe Rosenberg, Someone Else"
+
+
+def test_dry_run_produces_candidates_file(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Dry-run should write candidates.txt without modifying registry."""
+    output_path = str(tmp_path / "candidates.txt")
+    stats = import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    # Registry should be unchanged
+    reg = load_registry(registry_path)
+    assert len(reg) == 0
+    # Candidates file should exist with entries
+    content = Path(output_path).read_text()
+    lines = [l for l in content.strip().split("\n") if l]
+    assert len(lines) == 2
+    assert stats["imported"] == 2
+
+
+def test_dry_run_output_format(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Each line should be 'Name (bgg_id)' format."""
+    output_path = str(tmp_path / "candidates.txt")
+    import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    content = Path(output_path).read_text()
+    lines = content.strip().split("\n")
+    for line in lines:
+        assert re.match(r".+ \(\d+\)$", line), f"Bad format: {line}"
+
+
+def test_dry_run_skips_existing(tmp_path, registry_path, mock_db, mock_master_csv):
+    """Dry-run should skip games already in registry."""
+    from scripts.registry import add_game
+    add_game(registry_path, name="Agricola", bgg_id=31260)
+
+    output_path = str(tmp_path / "candidates.txt")
+    stats = import_from_database(
+        mock_db, registry_path, mock_master_csv, dry_run=True, output_path=output_path
+    )
+    content = Path(output_path).read_text()
+    lines = [l for l in content.strip().split("\n") if l]
+    assert len(lines) == 1  # Only Catan
+    assert "Catan" in lines[0]
+    assert stats["skipped"] == 1
