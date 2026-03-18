@@ -228,6 +228,22 @@ def main():
         default=0,
         help="Maximum number of games to import (0 = no limit)",
     )
+    parser.add_argument(
+        "--type",
+        default=None,
+        dest="game_type",
+        help="Filter by CSV type column (e.g., 'boardgame' to exclude expansions)",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Don't register games, just output a candidates file",
+    )
+    parser.add_argument(
+        "--output",
+        default="candidates.txt",
+        help="Output file for --dry-run mode (default: candidates.txt)",
+    )
     args = parser.parse_args()
 
     # Default master CSV location: sibling to games/ dir
@@ -240,14 +256,24 @@ def main():
         args.registry,
         master_csv,
         limit=args.limit,
+        game_type=args.game_type,
+        dry_run=args.dry_run,
+        output_path=args.output,
     )
 
-    print(f"Import complete:")
-    print(f"  Imported: {stats['imported']}")
-    print(f"  Skipped (already in registry): {stats['skipped']}")
-    print(f"  Skipped (no BGG ID): {stats['no_bgg_id']}")
-    if stats["errors"]:
-        print(f"  Errors: {stats['errors']}")
+    if args.dry_run:
+        print(f"Dry run complete:")
+        print(f"  Candidates: {stats['imported']}")
+        print(f"  Skipped (already in registry): {stats['skipped']}")
+        print(f"  Skipped (no BGG ID): {stats['no_bgg_id']}")
+        print(f"  Written to: {args.output}")
+    else:
+        print(f"Import complete:")
+        print(f"  Imported: {stats['imported']}")
+        print(f"  Skipped (already in registry): {stats['skipped']}")
+        print(f"  Skipped (no BGG ID): {stats['no_bgg_id']}")
+        if stats["errors"]:
+            print(f"  Errors: {stats['errors']}")
 
 
 if __name__ == "__main__":
