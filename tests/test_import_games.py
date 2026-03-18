@@ -138,6 +138,54 @@ def test_import_formats_designer(registry_path, mock_db, mock_master_csv):
     assert agricola["designer"] == "Uwe Rosenberg"
 
 
+@pytest.fixture
+def typed_mock_db(tmp_path):
+    """Mock DB with a base game and an expansion."""
+    games_dir = tmp_path / "typed_games"
+    games_dir.mkdir()
+    for game in [
+        {"id": "agricola", "name": "Agricola", "year": 2007, "designer": ["Uwe Rosenberg"]},
+        {"id": "catan", "name": "Catan", "year": 1995, "designer": ["Klaus Teuber"]},
+        {"id": "catan-seafarers", "name": "Catan: Seafarers", "year": 1997, "designer": ["Klaus Teuber"]},
+    ]:
+        (games_dir / f"{game['id']}.yaml").write_text(yaml.dump(game))
+    return str(games_dir)
+
+
+@pytest.fixture
+def typed_master_csv(tmp_path):
+    """CSV with type column including boardgame and expansion."""
+    csv_path = tmp_path / "master_list.csv"
+    csv_path.write_text(
+        "bgg_id,name,year,type,status,notes,yaml_id\n"
+        "31260,Agricola,2007,boardgame,,,\n"
+        "13,Catan,1995,boardgame,,,\n"
+        "325,Catan: Seafarers,1997,boardgameexpansion,,,catan-seafarers\n"
+    )
+    return str(csv_path)
+
+
+def test_import_type_filter(registry_path, typed_mock_db, typed_master_csv):
+    """--type boardgame should exclude expansions."""
+    # Without filter: all 3 imported
+    stats_all = import_from_database(
+        typed_mock_db, registry_path, typed_master_csv
+    )
+    assert stats_all["imported"] == 3
+
+    # Reset registry
+    Path(registry_path).write_text("games: []\n")
+
+    # With filter: only boardgames
+    stats_filtered = import_from_database(
+        typed_mock_db, registry_path, typed_master_csv, game_type="boardgame"
+    )
+    reg = load_registry(registry_path)
+    names = [g["name"] for g in reg]
+    assert "Catan: Seafarers" not in names
+    assert stats_filtered["imported"] == 2
+
+
 def test_import_formats_designer_multiple(tmp_path, registry_path, mock_master_csv):
     """Designer list with multiple entries should be comma-joined."""
     games_dir = tmp_path / "games"
