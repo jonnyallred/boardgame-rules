@@ -64,5 +64,6 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Splendor](rules/splendor/) | 2-4 | 30 min | Marc Andre |
 | [Star Wars: The Deckbuilding Game](rules/star-wars-the-deckbuilding-game/) | 2 | 30 min | Caleb Grace |
 | [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
+| [Watergate](rules/watergate/) | 2 | 30-60 min | Matthias Cramer |
 
 *{{ site.time | date: "%B %Y" }} · {{ site.pages | where_exp: "p", "p.path contains 'rules/'" | size }} games available*

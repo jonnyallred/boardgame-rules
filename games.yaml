@@ -138,3 +138,7 @@ games:
 - name: Pandemic
   bgg_id: 30549
   status: summarized
+- name: Watergate
+  bgg_id: 274364
+  status: summarized
+  notes: English rulebook PDF downloaded from cdn.1j1ju.com
