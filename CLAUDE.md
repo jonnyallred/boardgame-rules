@@ -55,6 +55,16 @@ python -m scripts.process_batch --status
 **Status flow:** `queued → found → downloaded → extracted → summarized → validated`
 Terminal states: `not_found`, `flagged` (need human attention)
 
+### Bulk Research (Parallel Subagents)
+
+Generate a candidates file from boardgame-database, then bulk-research with parallel subagents:
+
+1. Generate candidates: `python -m scripts.import_games ~/projects/boardgame-database/games/ --master-csv ~/projects/boardgame-database/master_list.csv --dry-run --type boardgame --limit 100 --output candidates.txt`
+2. Run the skill: `/research-games candidates.txt --batch-size 20 --parallel 3`
+3. Review results — check flagged games for issues
+
+The skill registers all games upfront, dispatches subagents to find PDFs / extract / summarize, then consolidates results into `games.yaml` and `index.md`.
+
 ### Batch PDF Finding (Interactive)
 
 To find rulebook PDFs for queued games using Playwright browser tools:
@@ -84,6 +94,34 @@ update_game("games.yaml", "Obscure Game", status="not_found",
 
 ## Rules File Format
 YAML frontmatter (title, bgg_id, player_count, play_time, designer, source_pdf, extracted_date, summarized_date, rulebook_version) + Markdown body with sections: Overview, Components, Setup, Turn Structure, Actions, Scoring / Victory Conditions, Special Rules & Edge Cases, Player Reference.
+
+## Expansions
+
+Expansions are tracked as separate entries linked to their base game. The pipeline is the same as for base games, with two differences:
+
+1. **Registry:** Add `base_game_bgg_id: <int>` to the expansion's `games.yaml` entry, pointing to the base game's BGG ID.
+2. **Rules file:** Use expansion sections instead of base game sections:
+   - Overview (what the expansion adds/changes)
+   - New Components (new pieces, cards, boards)
+   - Setup Changes (how setup differs from base game)
+   - Rule Changes (modified or new mechanics)
+   - Special Rules & Edge Cases
+   - Player Reference
+
+Frontmatter must include `base_game_bgg_id` to trigger expansion validation.
+
+**Helper functions:**
+```python
+from scripts.registry import find_expansions, find_base_game
+
+# Get all expansions for Catan (bgg_id=13)
+find_expansions("games.yaml", 13)
+
+# Find the base game for an expansion
+find_base_game("games.yaml", 325)  # returns Catan entry
+```
+
+**Display:** In `index.md`, list expansions indented under their base game with `↳` prefix.
 
 ## Testing
 ```bash
