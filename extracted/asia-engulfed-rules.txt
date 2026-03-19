@@ -1,0 +1,2504 @@
+The Second World War in Asia, 1941 – 1945
+RULE BOOK
+
+INTRODUCTION:
+Asia Engulfed (AE) is a strategic simulation of the Second World 
+War in Asia. Each player makes decisions that will affect the war. 
+You decide where and how the major battles of the war will be 
+fought. To reflect luck and local combat leader initiative, dice are 
+used to resolve these battles. Ultimately each player’s skill and grand 
+strategy will determine the outcome of the war.
+Asia Engulfed is a two-player game. One player controls the Allied 
+side representing the USA, the Commonwealth, China, the Philip-
+pines, and the Dutch East Indies (DEI) while the other player controls 
+the Japanese Empire. Soviet forces are not represented when playing 
+AE by itself, but are represented when AE is combined with Europe 
+Engulfed (EE). Up to five players may play the combined game by 
+adding the players recommended for EE.
+Throughout the rules, you will find references to other rules e.g. 
+[9.44]. These references may be ignored as you read through the 
+rules. They are provided, along with the Table of Contents, the Key 
+Terms and Concepts section (page 2), and the Index, to help you find 
+any desired rule when you refer back to the rulebook.
+TABLE OF CONTENTS:
+1.0 Sequence of Play. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 4
+	 1.1 Japanese Player-Turn
+	 1.2 Allied Player-Turn
+	 1.3 Turn Advancement Phase
+2.0 Strategic Warfare. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 5
+	 2.1 ASW and the Submarine Campaign
+	 2.2 ASW Table 
+	 2.3 Submarine Attack Table
+	 2.4 Strategic Air War
+	 2.5 Loss of Strategic Airbases
+3.0 Supply. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 6
+	 3.1 General Rules
+	 3.2 Area Types and Control
+	 3.3 Supply Sources
+	 3.4 Supply Paths Across Sea-Zones
+	 3.5 Japanese Supply Network
+	 3.6 Effects of Being Out of Supply
+	 3.7 Changing Supply Status
+	 3.8 Final Supply Determination Phase
+4.0 Production. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 7
+	 4.1 General Rules
+	 4.2 Units & Markers
+	 4.3 Replacements
+	 4.4 Producing New Units
+	 4.5 Japanese Replacements/Garrisons and Sea-Transport
+	 4.6 Production Protocol and Limits
+	 4.7 Production over Time
+	 4.8 Partisans
+5.0 Ground & LBA Movement. . . . . . . . . . . . . . . . . . . . . Page 11
+	 5.1 Operational Movement Phases
+	 5.2 Strategic Movement Phases (Strat-Moves)
+	 5.3 Sea-Transport
+	 5.4 Stacking Limits
+6.0 Ground Combat. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 13
+	 6.1 General Rules
+	 6.2 Round of Combat Procedure
+	 6.3 Combat Options
+	 6.4 Summary of Ground Unit Hit-Bonuses
+	 6.5 Air Units
+	 6.6 Breakthrough Combat Phases
+	 6.7 Terrain Effects on Combat
+	 6.8 Field Fortifications
+7.0 Special Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 14
+	 7.1 General Rules
+	 7.2 Amphibious Invasion
+	 7.3 Breakthrough Combat Phases
+	 7.4 Extended Naval Operations
+	 7.5 Japanese Extensive Rebasing
+	 7.6 US Code Breaking
+	 7.7 Chinese Nationalist Attack
+	 7.8 Unrestricted Replacements
+	 7.9 Special Action Uses from EE that do not apply in AE
+8.0 Naval Operations.. . . . . . . . . . . . . . . . . . . . . . . . . . . . Page 16
+	 8.1 General Rules
+	 8.2 Naval Movement Phase
+	 8.3 Naval Interception
+	 8.4 Naval Combat
+	 8.5 Submarine Units and Combat
+	 8.6 Damage Resolution
+	 8.7 Port/Airbase Attacks
+	 8.8 Naval Rebasing
+9.0 Nation Specific Rules. . . . . . . . . . . . . . . . . . . . . . . . . Page 20
+	 9.1 Japan
+	 9.2 USA
+	 9.3 The Commonwealth
+	 9.4 China
+	 9.5 Minor Powers (DEI & the Philippines)
+10.0 Conquest & Victory . . . . . . . . . . . . . . . . . . . . . . . . . Page 22
+	 10.1 National Conquest
+	 10.2 Conquered Territory Control
+	 10.3 Victory Conditions
+	 10.4 Bidding for Sides
+11.0 Player Notes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . Play Book
+12.0 Designers’ Notes. . . . . . . . . . . . . . . . . . . . . . . . . . Play Book
+13.0 Optional Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . Play Book
+14.0 Extended Examples of Play . . . . . . . . . . . . . . . . . Play Book
+15.0 Scenarios. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Play Book
+16.0 AE & EE Combined Game. . . . . . . . . . . . . . . . . . Play Book
+
+GAME COMPONENTS:
+Your copy of Asia Engulfed should include the following:
+•	 134 Wooden Blocks, as follows:
+Block Color	
+Number
+	 Japanese Land Units	
+Orange	
+	 Japanese Marine Units	
+Burnt Orange	
+	 Japanese Naval Fleets	
+Black	
+	 USA Land Units	
+Olive Green	
+	 USA Marine Units	
+Dark Green	
+	 The Commonwealth Land Units	
+Dark Blue	
+	 Chinese Units	
+Purple	
+	 Allied Naval Fleets	
+White	
+	 Minor Power Units	
+Brown	
+•	 One Rule Book (this book)
+•	 One Play Book
+•	 One Mapsheet
+•	 One Battle Board
+•	 Two Air Commitment Displays
+•	 Die-cut labels to be peeled & affixed to the wooden blocks
+•	 24 six-sided Dice (12 each of two different colors)
+•	 228 die-cut 9/16” square markers (two of these are for EE)
+•	 68 die-cut round markers
+•	 One Getting Started Card
+•	 Two Player-Aid Cards (11 x 17)
+Note that extra blocks have been included, so the block count may 
+be higher than listed. Extra labels have also been provided in 
+case they are needed. If any of these components are missing or 
+damaged, write to the following address:
+GMT Games
+P.O. Box 1308
+Hanford, CA 93232-1308
+www.GMTGames.com
+The designers and GMT Games authorize and permit the holder 
+of this rulebook to make one photocopy of the label sheets and the 
+counter sheets for personal use.
+KEY TERMS & CONCEPTS:
+Areas and Sea-zones: Areas are the named game spaces represent-
+ing the land regions of the Asian theatre. There are three types; Large 
+Areas [3.21], Port Boxes [3.22], and Island Boxes [3.23]. Sea-zones 
+are the named game spaces representing the ocean segments. 
+Battle Board: This Player-Aid is provided to help in resolving 
+naval combats.
+Blocks, Units, and Fleets: Once the labels have been applied [see 
+the Getting Started Card], the blocks included in the game represent 
+ground units and fleets. When a rule refers to ‘blocks’, it refers to 
+both types; when it refers to ‘units’, it refers to both air units (die-cut 
+counters with overhead airplane views) and ground units (but not 
+the die-cut submarine unit, which is always mentioned specifically 
+by name when a rule pertains to it). When it refers to fleets, it is 
+applied to the naval blocks. If a rule applies to a smaller subset, it 
+will name the type(s) affected.
+Build Markers: These are used to track construction over time of 
+fleets, ASW, and Japanese air units [4.71].
+Cadre: A ground unit that has only one step remaining is considered 
+to be at cadre level.
+Contested Area: A contested area is one in which both sides have 
+ground units. The side that was the last sole-occupant controls each 
+contested area.
+Fleets: Each block representing 1-4 naval steps is referred to as a 
+fleet [4.24].
+Force Pool: All the fleets, units, and Special Actions available for 
+construction by a given Power. As fleets / units are destroyed and 
+Special Actions are expended, they are returned to this pool.
+Ground Units: Each block representing 1-4 steps of ground forces 
+is referred to as a ground unit [4.22], as well as the die-cut garrison 
+markers [4.28].
+Hit-bonus: A Hit-bonus is a modifier that makes it easier for you to 
+hit what you are shooting at. Usually you need to roll a 6 on a die to 
+score a hit. Each Hit-bonus received adds one to the number rolled 
+on each affected die, thus making it easier to hit. With one Hit-bonus 
+you would hit on a 5 or 6, with two Hit-bonuses you would hit on 
+a 4 through 6, etc.
+Holding Boxes: Each Aircraft Carrier (CV) fleet is identified by a 
+letter or number and has a corresponding holding box on the map. 
+Carrier Based Air (CBA) units attached to the CV fleet are placed in 
+these boxes so the opposing player will not be able to determine the 
+exact location of the CV fleet. Each side also has an Orphan CBA 
+holding box, which is where CBA units without a carrier remain 
+until they can be based on a CV fleet. Each side also has a holding 
+box for its submarine unit when not deployed.
+Home Areas: Home areas are the core areas of a Nation where new 
+units are built and to which supply is traced. Home areas for each 
+Nation are those within their original borders, and they are shaded 
+the appropriate color on the map (orange for Japan, green for USA, 
+etc.). Port boxes and island boxes are not considered home areas. 
+Non-home large areas aligned with each country have the same color 
+code as their home areas, but are identified by having a diagonal 
+striping pattern within them. 
+Home Ports: Represented by a larger golden anchor, these are major 
+ports to which the owning player may return his fleets after a combat 
+or during the Rebasing Phase regardless of distance. 
+Influence Levels: These represent the influence projected by each 
+player into sea-zones, and the effect of such influence on the enemy 
+player’s naval movement, strat-moves, and sea-supply. Influence is 
+in one of three levels as follows, in order of least to most effective: 
+Noninfluenced, Limited, and Dominant [8.13]. 
+Japanese Home Islands: The Japanese home islands consist of 
+Honshu, Shikoku, and Kyushu. All new Japanese units must appear 
+in these areas.
+Major Powers: These are the main combatants, each with its own 
+production level and Force Pool. The Major Powers and their block 
+colors are: Japan (land-orange, naval-black), China (purple), The 
+Commonwealth (land-dark blue, naval-white), and the USA (land-
+green, naval-white).
+Minor Powers: The Minor Powers within Asia Engulfed are the 
+Dutch East Indies (DEI), also known as the Netherlands East Indies, 
+and the Philippines, both represented by brown blocks, except that 
+the DEI fleet uses a white block.
+
+Newly Contested Area: A newly contested area is one that has be-
+come contested as a result of the just completed Movement Phase. 
+An area may be newly contested more than once over the course of 
+the game, providing that each time it was solely occupied by one 
+side and then entered by the other.
+Oil Points: Oil points are used to track the strategic oil reserves 
+maintained by Japan. The maximum number of oil points Japan may 
+accumulate is 40. Oil is needed to move Japanese fleets. Oil is not 
+tracked for the Allies, as they produced 60% of the world’s output 
+at the time and did not suffer from any serious shortages.
+Special Actions: These are the die-cut round markers with the words 
+“Special Action” written on them. These represent concentrated 
+supply/leadership resources and the operational skill to put them to 
+best use. They can be expended for special offensive or defensive 
+operations [7.2-7.8].
+Steps: Steps are the increments by which blocks are built-up by 
+production/replacements, and depleted by combat losses. If a multi-
+step block suffers a hit, reduce its current step value by turning it 90 
+degrees counter-clockwise. If a unit with only one step remaining 
+suffers a hit, it is eliminated and returned to its Force Pool. Ground 
+units have maximum step values from one to four while fleets have 
+maximum values of three or four. Air units and submarine units 
+have two steps and their counters are flipped to show a step-loss 
+and removed to the Force Pool if an already reduced counter suf-
+fers a step-loss.
+Straits: Straits are narrow bodies of water separating two land areas. 
+They affect both movement [5.16] and combat [6.73]. Straits are 
+marked on the map with a connection arrow.
+Strat-move: An abbreviation for Strategic Movement [5.2].
+Strategic Air Bases: Land areas [3.2] that contain a printed airfield 
+symbol. These represent strategic air bases that are within strategic 
+bomber range of Japan.
+Strategic Assets: All strategic assets of both sides are represented 
+with markers on the General Information Track. These include 
+bomber points and submarine points (not the submarine unit [4.25]) 
+for the USA, and oil points and the current ASW level for the Japa-
+nese. As these assets are produced, consumed, or destroyed, their 
+current value is adjusted by moving the corresponding marker to the 
+appropriate number on this track (see game map). The maximum 
+number of bomber points that the USA player can have is 20. USA 
+submarine points and Japanese oil points can be accumulated up to 
+40 points by turning the appropriate counter over to its +20 side. 
+Transport Points: Naval transport forces for the Japanese player are 
+represented in the game as transport points. These points are used 
+to establish Japan’s Supply Network each turn, with any remaining 
+points being available to transport units and/or replacement steps. 
+Transport Points not used in a given turn do not have any effect 
+on Transport Capacity for future turns. In game terms, the Allies 
+never suffered a serious shortage of transports and do not need to 
+track this. 
+Troop Transports: Ground units and Land Based Air (LBA) units may 
+move into sea-zones using sea-transport [5.3]. These units are loaded on 
+troop transports [8.12] and are treated as fleets while at sea.
+WERP(s): Pronounced “wurps”, this is an acronym meaning War-
+time Economic Resource Point(s). These points measure a nation’s 
+military industrial output for the Pacific Theater of the Second 
+World War.
+1.0 SEQUENCE OF PLAY
+Game turns generally represent two months of historical time and 
+are broken into Phases as outlined below. These Phases must be 
+completed in the order presented. Portions of the turn that are unique 
+to the Japanese Player-turn are shown in bold italics. 
+1.1 JAPANESE PLAYER-TURN
+(The Japanese player is the Phasing Player, and completes 1.11 
+through 1.19 below while the Allied Player is the Non-phasing 
+Player).
+The Japanese Transports Available marker is reset to equal the 
+Japanese Transport Capacity to begin the new turn.
+1.11 NAVAL MOVEMENT PHASE: The Phasing Player moves 
+his fleets and troop transports [5.3 & 8.12] as follows:
+a) One destination sea-zone at a time, the Phasing Player moves 
+his fleets and troop transports into the sea-zone following the naval 
+movement rules [8.2].
+b) After the Phasing Player completes movement into the destination 
+sea-zone, the Non-phasing Player has the option to make a naval 
+reaction with his fleets and/or submarine unit [8.25]. If the Non-phas-
+ing Player reacts with one or more fleets, the Phasing Player may 
+add his own submarine unit to the sea-zone. Repeat steps (a) & (b) 
+until the Phasing Player has no more naval moves to make.
+c) Total the number of Japanese fleets that moved or reacted, and 
+adjust the Japanese Oil Reserve marker on the General Informa-
+tion Track accordingly. The number of transport points used is 
+calculated by totaling the number of troop transports at sea and 
+adjusting the Transports Available marker accordingly. Japanese 
+marine units that move two sea-zones may use either an oil point 
+or a transport point. When they move three sea-zones they must 
+use an oil point. Transport points do not use oil points.
+1.12 INITIAL SUPPLY DETERMINATION PHASE: The Phas-
+ing Player follows the steps below to determine supply:
+a) For Jul/Aug game turns, jungle effects are resolved [6.72].
+b) The Japanese Player selects the sea-zones he wishes to have in 
+his Supply Network [3.5], then adjusts the Transports Available 
+marker to reflect transports used for the supply net.
+c) The Phasing Player’s units are checked to determine their supply 
+status [3.1-3.5]. Units that are determined to be out of supply are 
+marked with an ‘Out of Supply’ marker. 
+1.13 PRODUCTION PHASE: The Phasing Player calculates 
+available WERPs, resolves strategic warfare effects, then spends 
+any remaining WERPs to purchase replacement steps and/or new 
+items according to the production rules [4.0].
+1.14 AIR & NAVAL COMBAT PHASE: Naval interception [8.3], 
+naval combat [8.4], and port/airbase attacks [8.7] are resolved com-
+pletely, one sea-zone at a time, in the order chosen by the Phasing 
+Player. Submarine units also fire during this phase [8.5].
+1.15 OPERATIONAL MOVEMENT PHASE: The Phasing 
+Player’s ground and LBA units may move during this phase using the 
+rules for operational movement [5.1]. Units performing Amphibious 
+Invasions [7.2] are moved from the sea-zone they remain in from 
+the Air & Naval Combat Phase onto the area(s) to be invaded, and 
+any necessary Special Actions are spent. The invasion(s) will not 
+be resolved until the Ground Combat Phase.
+
+then subtracted from Japan’s WERPs and Oil Points (each) received 
+for the current turn (but the 5 WERPs and 1 Oil Point received for 
+Honshu each turn may not be affected by submarine warfare). Any 
+WERP or oil point losses above those received in the current turn 
+are ignored. The number indicated is also subtracted from Japan’s 
+transport capacity. The current turn’s Supply Network and available 
+transport points marked on the General Information Track from the 
+Initial Supply Phase are not affected. The effect of the lost transport 
+capacity will not be felt until the following Game Turn.
+2.13 If there are enough submarine points remaining on the track 
+after submarine warfare is resolved, Japanese strat-moves [5.2] will 
+be adversely affected. Each multiple of 10 (rounded down) subma-
+rine points subtracts one from the Japanese strat-move allowance 
+for the current turn. Japanese strat-moves cannot be reduced to less 
+than their current ASW level. 
+EXAMPLE: If the current Japanese ASW Level is one, submarine 
+warfare may not reduce Japan to less than one strat-move.
+2.14 US TORPEDO ISSUES: Faults with US torpedoes affected 
+the submarine fleet’s effectiveness until they were remedied. To 
+reflect this, the US Dud Torpedoes marker begins on the General 
+Information Track as specified by the scenario (for the campaign 
+game it starts at 6). Each time a 1, 2, or 3 is rolled on the Submarine 
+Attack Table move the marker down one space. When it reaches zero 
+US torpedo issues are resolved and all future rolls on the Submarine 
+Attack Table receive a +1 hit-bonus.
+2.2 ASW Table
+	
+Die	
+	
+Current ASW Level
+	 Roll	
+	
+	
+	
+	
+	
+	
+The number shown is the number of submarine points that are 
+eliminated.
+2.3 Submarine Attack Table
+	
+Die	
+	
+	 Submarine Points
+	 Roll	
+1-8	
+9-16	
+17-24	
+25-32	
+33+
+	
+	
+	
+	
+	
+	
+	
+The number shown represents the number of WERPs, oil points, and 
+transport capacity (each) lost by the Japanese player. 
+- Move US Dud Torpedoes marker down one for each roll of 1-3.
+- Add one to die roll if US Dud Torpedoes marker has reached 
+zero.
+1.16 STRATEGIC MOVEMENT PHASE: A certain number 
+[5.24] of the Phasing Player’s ground and/or air units may be moved 
+using the rules for strategic movement [5.2].
+1.17 GROUND COMBAT PHASE(S)
+a) Initial Combat Phase: A single round of ground combat is fought 
+in areas where combat is desired or required [6.2]. Ground combats 
+that are initiated in this phase do not require the expenditure of a 
+Special Action.
+b) Breakthrough Combat Phase(s): The Phasing Player may conduct 
+one or more Breakthrough Combat Phases by expending Special 
+Actions [6.6]. Breakthrough Combat Phases may occur in any order 
+the Phasing Player desires and more than one may occur per area.
+1.18 REBASING PHASE: All fleets and troop transports still at sea, 
+plus any overstacked marine units that participated in an amphibi-
+ous invasion, and fleets that are in an out-of-supply port must now 
+rebase [8.8]. The Non-phasing Player’s fleets at sea return to port 
+before the Phasing Player’s. Phasing Player (only) fleets that did 
+not move this turn may also rebase (previously unmoved Japanese 
+fleets must use oil to rebase).
+1.19 FINAL SUPPLY DETERMINATION PHASE: All the 
+Phasing Player’s areas, units, and fleets are then checked for supply 
+status. Units and fleets that are found to be without at least Partial 
+Supply [3.35] are eliminated (even those that were in-supply dur-
+ing the Initial Supply Determination Phase earlier) and placed in 
+the Force Pool.
+1.2 ALLIED PLAYER-TURN
+Phases 1.11-1.19 (except those in bold italics) are repeated, with 
+the Allied player as the Phasing Player and the Japanese player as 
+the Non-phasing Player. 
+1.3 TURN ADVANCEMENT PHASE
+Check for any automatic victory; if none was achieved the turn 
+marker is advanced to the next turn, and a new game turn begins.
+2.0 STRATEGIC WARFARE
+Strategic Warfare represents the USA’s attacks on Japan’s produc-
+tion capability via submarines and strategic bombers and is resolved 
+during the Japanese Production Phase, after total WERPs have been 
+determined. Submarine warfare is mandatory if the USA has at least 
+one submarine point on the General Information Track. Strategic 
+air warfare is also mandatory if the USA player has any bomber 
+points on the General Information Track AND controls at least one 
+supplied strategic air base.
+2.1 ASW and the Submarine Campaign
+The Japanese player is assigned a starting ASW (Anti-Submarine 
+Warfare) level and the USA player is assigned his beginning number 
+of submarine points in the set-up instructions for each scenario. 
+These starting levels may be increased by production and decreased 
+(submarines only) by strategic warfare.
+2.11 The submarine portion of strategic warfare is begun by the 
+Japanese player rolling on the ASW Table [2.2], and cross-referenc-
+ing the die roll with the current ASW level. The indicated result is 
+the number of USA submarine points that are eliminated.
+2.12 The USA player then rolls a die on the Submarine Attack Table 
+[2.3] and cross-references the die roll with the column corresponding 
+to the remaining number of submarine points. The indicated result is 
+
+3.24 PORTS: Anchor symbols are used to indicate which areas have 
+ports [but see 5.17]. Ports affect replacements [4.32], and are also 
+used for basing fleets, strat-moving ground units, and for project-
+ing supply inland from a coastal area [3.4]. Many ports lie on the 
+boundary between two or more sea-zones allowing access to each 
+of those zones. Ports within port and island boxes adjoin each sea-
+zone the box itself adjoins. Areas without ports may not base fleets. 
+Ports come in four sizes that determine how many fleets may base 
+there and the number of anti-aircraft (AA) dice provided when the 
+port is being attacked [8.7].
+	
+Port Size	
+Fleets Allowed	
+AA Dice	
+	
+Small	
+	
+Medium	
+	
+Large	
+	
+Home	
+Unlimited 	
+3.25 CONTROLLED AREA: Either the Japanese or the Allies 
+control all non-neutral areas on the map. The player that was the last 
+sole-occupant controls each area. The areas that begin each scenario 
+friendly-controlled by each side are identified in the scenario instruc-
+tions. Enemy-controlled areas are converted to friendly-controlled 
+at the instant they are occupied solely by friendly ground unit(s), 
+except for areas taken by an uncontested Amphibious Invasion or 
+an uncontested Airborne Assault [13.4], which are not converted 
+until the end of the Ground Combat Phase.
+3.3 Supply Sources
+For each Power, supply is generated within a friendly-controlled 
+home large area [3.21], even if contested. Exceptions to this general 
+rule can be found in 3.31-3.35 below.
+3.31 The Chinese Nationalist Supply Sources are any Chinese-con-
+trolled resource area(s) in China except Hong Kong. 
+3.32 Chinese Communist units are always in supply and do not 
+require a Supply Source.
+3.33 DEI and Philippine units are always in supply. DEI units cannot 
+move from their areas of initial placement and the Philippine unit 
+cannot leave the Philippines. The DEI fleet traces supply and acts 
+as a Commonwealth fleet.
+3.34 Hawaii and friendly-controlled home areas of Australia also act 
+as home areas to USA units for supply purposes only.
+3.35 PARTIAL SUPPLY SOURCES: For all Powers, units in port 
+boxes and garrison units (only) in island boxes always have at least 
+partial supply. Additionally, Luzon, French Indo-China, and Man-
+chukuo are Partial Supply Sources for the side that controls them. 
+Units that cannot trace full supply but can trace to one of these areas 
+receive partial supply. Units in partial supply function normally with 
+the exception that they may not receive any Hit-bonuses (attack or 
+defense) except for Banzai attacks [9.14] until full supply has been 
+restored [3.1].
+3.4 Supply Paths Across Sea-Zones
+Units may trace a supply path as in 3.1 above to a friendly-controlled 
+port, then trace across one or more contiguous sea-zones to another 
+friendly-controlled port, then follow a second land supply path to 
+a Supply Source, assuming the sea-zones traced through are all 
+in supply. Units on a coastal area need not trace to a port initially 
+(even if the coastline is marked as impassable), but still trace sup-
+ply through the adjacent sea-zone and beyond to a Supply Source 
+port as above. Only one leg of any Supply Path may be by sea, but 
+2.4 Strategic Air War
+Strategic bombing is conducted by the USA player 
+against Japan. The USA may not launch a bombing 
+raid unless they currently control at least one supplied 
+strategic airbase. Bomber points are used for bombing 
+raids and may be used once per turn. Up to two bomber points may 
+be launched from each Allied-controlled and supplied strategic 
+airbase, but not above the number of bomber points that the US has 
+produced as shown on the General Information Track.
+2.41 BOMBING RESOLUTION: One die is rolled for each bomber 
+point. Each roll of a 4, 5, or a 6 scores a hit. Each hit scored will 
+reduce Japan’s production for this turn by one WERP. 
+2.42 MAXIMUM BOMBING DAMAGE: Bombers may not inflict 
+more than 5 hits on the Japanese production in any one Game Turn. 
+Bombing affects only the 5 WERPs on Honshu and may reduce 
+the total Japanese WERPs available to zero (provided submarine 
+warfare took them down to five and that five hits were scored in 
+the Game Turn’s bombing raid). Oil points are never affected by 
+strategic bombing.
+2.5 Loss of Strategic Airbases
+Any Allied-controlled strategic airbase that is captured by the Japa-
+nese immediately causes the loss of one bomber point, if it is on the 
+General Information Track to be lost.
+3.0 SUPPLY
+3.1 General Rules
+Areas, units, fleets, and sea-zones may either be in full supply 
+(hereafter referred to as “in supply”), “in partial supply”, or “out of 
+supply”. To be in supply, each area, unit, fleet, sea-zone, or marker 
+must trace a path of continuous friendly-controlled areas to a Sup-
+ply Source for the controlling Power. Supply may be traced across 
+both impassable boundaries and straits, and may be into or through 
+a friendly-controlled contested area. Supply may be traced out of an 
+enemy-controlled contested area, but never through one. See also 
+supply through sea-zones [3.4].
+3.2 Area Types and Control
+There are three types of land areas (large areas, port boxes, & island 
+boxes). Whether or not the area is contested, the presence or lack 
+of a port, and which player controls the area, all have a bearing on 
+supply. These concepts are defined below.
+3.21 LARGE AREAS: These are the land areas that are not drawn 
+as small rectangles or circles (including the USA and South Africa 
+areas).
+3.22 PORT BOXES: These rectangles represent either larger islands 
+or key ports that act as separate areas. Units in friendly-controlled 
+port boxes receive partial supply [3.35] if they cannot trace a valid 
+Supply Path.
+3.23 ISLAND BOXES: These represent the tiny islands scattered 
+across the Pacific that were used for bases. Island boxes are repre-
+sented on the map by a circular disk printed over the island. Gar-
+rison units (only) in friendly-controlled island boxes receive partial 
+supply if they cannot trace a valid Supply Path. Japanese garrison 
+units receiving partial supply should be flipped over to denote that 
+they are acting as Militia instead of infantry.
+
+it may traverse multiple sea-zones. The US player may also trace 
+supply around Australia [9.25]. Sea-zones are considered in supply 
+if all of the following conditions are met:
+a) The enemy Player does not have Dominant Influence over any 
+sea-zone that supply is traced into or through [8.13].
+b) For the Japanese player, he has also allocated transport points to 
+put the sea-zone into his Supply Network [3.5].
+3.5 Japanese Supply Network
+During the Initial Supply Determination Phase, the Japanese player 
+must place Supply Network Markers in each sea-zone he wishes to 
+have supplied in the current turn. For players that prefer more speed 
+and simplicity at the expense of realism, see the optional simplified 
+Japanese transport and supply rules [13.1].
+3.51 PROCEDURE: Each sea-zone on the map is marked with 
+one, two, or three transport icons under the sea-zone’s name. Place 
+a ‘Supply Network 1’ marker in a sea-zone with one transport icon, 
+a ‘2’ marker in a sea-zone with two icons, and a ‘3’ marker in a 
+sea-zone with three icons. This number represents the number of 
+transport points needed to supply the indicated zone. To place a 
+marker, or to keep a previously placed marker in its sea-zone, the 
+following conditions must be met:
+a) The Allied player may not have Dominant Influence [8.13] in the 
+sea-zone [exception—Submarine Supply 3.52].
+b) A contiguous path of Supply Network markers exists tracing back 
+to Japan from the sea-zone desired.
+c) Transport Capacity is sufficient to cover all the sea-zones in the 
+current network.
+The Japanese player adjusts the network as needed by adding and/or 
+subtracting Supply Network Markers so that the above conditions 
+are met for his entire Supply Network. The ‘Transports Available’ 
+marker is then adjusted to reflect the deduction of transport points 
+needed for this network, including all markers that remain from 
+previous turns (do not include any sea-zone covered by the sub-
+marine unit [3.52] in this total). Any remaining transport points are 
+available for the Production and Strat-move Phases of the current 
+Player Turn.
+3.52 JAPANESE SUBMARINE SUPPLY: The Japanese player 
+may use his submarine unit to augment the Supply Net-
+work. A 2-step submarine unit can cover a one or a two 
+transport point sea-zone, while a 1-step submarine unit 
+can cover a one transport point sea-zone. A submarine 
+unit used in this way has no effect other than to be a part of the Sup-
+ply Network, and may be placed per the normal rules for transport 
+point placement, except that it may ignore the restrictions on Allied 
+Dominant Influence [3.51]. The submarine must cover one sea-zone 
+by itself, and may not combine with transport points to accomplish 
+this. Supply may be traced into and through the sub-supplied zone. 
+The submarine cannot be attacked and it cannot be used for combat 
+or any other purpose for the entire Game Turn. Place the ‘Submarine 
+Supply’ marker over the submarine unit in the supplied sea-zone to 
+denote its use in this role.
+3.6 Effects of Being Out of Supply
+Ground and LBA units that are out of supply may only move one 
+area during the Operational Movement Phase; may not strat-move; 
+and may not receive replacements. Out of supply ground units defend 
+normally, but roll half the total dice allowed when attacking (rounded 
+down). Out of supply LBA units may not participate in combat (at-
+tack or defense) nor may they move across a sea-zone [5.13]. Out 
+of supply fleets and CBA units function normally except that they 
+must be in a supplied port by the end of the Player-turn 
+or face elimination in the Final Supply Determination 
+Phase. Mark units that are out of supply with an out of 
+supply marker.
+3.7 Changing Supply Status
+The supply status each unit has in the Initial Supply Determination 
+Phase remains in effect until the Final Supply Determination Phase. 
+Units marked out of supply that did NOT move during the friendly 
+Player-turn need only conduct a normal supply trace to restore sup-
+ply. Out of supply units that DID move in the friendly Player-turn 
+(flip the out of supply marker over to its ‘moved’ side) must addition-
+ally occupy a friendly-controlled area. Out of supply units must be 
+kept separate from supplied units assisting in their breakout attempt, 
+as the supplied units do not suffer from rules 3.6 or 3.8.
+3.8 Final Supply Determination Phase
+All friendly areas, units, and fleets are checked for supply. All fleets 
+and any units that are out of supply (whether marked out of supply 
+or not) are eliminated, except for units tracing to a Partial Supply 
+Source [3.35]. 
+4.0 PRODUCTION
+4.1 General Rules
+New units are produced and replacements are purchased during 
+the Production Phase of each turn. WERPs are received for home 
+resource areas and (Japanese player only) some captured resource 
+areas [4.11], minus strategic warfare effects. Except for Honshu 
+(5 WERPs) and the USA home area (variable [9.22]) all resource 
+areas are worth one WERP. WERPs cannot be saved, and strategic 
+warfare damage does not carry over from turn to turn. Oil areas are 
+worth one or two oil points per turn, as indicated by the number 
+within each oil area.
+4.11 Only the Japanese player receives WERPs and oil points for 
+captured resources. The Japanese player receives WERPs and oil 
+points for each controlled and occupied resource / oil area outside of 
+Japan that is within Japan’s Supply Network. The Commonwealth 
+receives WERPs for originally controlled areas (blue) that are 
+friendly-controlled; they need not be occupied. The USA receives 
+WERPS only from the USA home area. The Chinese Nationalists 
+receive WERPs for any resource areas in China (except Hong Kong) 
+that they control and occupy. Chinese Communists do not receive 
+any WERPs for any resource areas (instead they receive one free 
+step of infantry or militia per turn).
+4.12 Resource and oil areas under enemy-control or unable to trace 
+to a Supply Source for the producing Nation do not count for pro-
+duction. Contested resource areas that are friendly-controlled and 
+supplied do count towards production. 
+4.13 The DEI never receives any production regardless of how many 
+resource and oil areas they control.
+
+Land Based Air
+Submarines
+4.14 PRODUCTION CHART
+WERP Base Production
+	 Japan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5+	
+	 (Plus 1 WERP for each supplied, controlled and occupied 
+resource area outside of Japan)
+	 The Commonwealth. . . . . . . . . . . . . . . . . . . . 8*	
+	 (3 India, 1 South Africa, 2 Australia, 1 Singapore, 1 Hong 
+Kong)
+	 USA (Home Area) . . . . . . . . . . . . . . . . . . . Variable
+	 (5 in 1941; 20 in 1942; 25 in 1943; 30 in 1944 and 1945 
+[9.22]) 
+	 China . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2**	
+	 (China has five resource areas, of which Peking, Manchukuo, 
+and Shanghai start out occupied by Japan. These will contribute 
+to the Nationalist Chinese production if retaken and otherwise 
+eligible [4.11])
+	 Philippines. . . . . . . . . . . . . . . . . . . . . . . . . . . . 1	
+	 (May only be used for their militia unit while Luzon is 
+friendly-controlled and the Philippines has not been conquered 
+[9.56])
+	 DEI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0	
+	 (1 production area but DEI receives no production)
+OIL Base Production
+	 Japan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1	
+	 (Plus the indicated oil points for each supplied, controlled, and 
+occupied oil area outside of Japan)
+* Remember to subtract three WERPs for Europe [9.31]
+** Plus one free step of Communist forces per turn [9.42].
+4.2 Units & Markers
+There are numerous types of units, steps, and markers available for 
+production, identified as follows:
+4.21 AIR UNITS (LBA/CBA): These are the die-cut markers with 
+overhead views of airplanes. They are color coded to match the 
+ground units of each Nation. They come in two types: Land Based 
+Air (LBA), represented by round counters, and Carrier Based Air 
+(CBA), represented by square counters. Any reference in the rules 
+to the term ‘air units’ applies to both types. Rules specific to one 
+type will identify the type affected within the rule. The number of 
+counters provided for each country is the maximum that country can 
+have in play. When based on CV fleets, CBA units are placed in the 
+appropriate CV holding box; otherwise they remain in the Orphan 
+CBA holding box awaiting a CV fleet to base upon. LBA units may 
+not base on CV fleets.
+4.22 GROUND UNITS: These are the square wooden blocks with 
+the infantry, marine, and militia labels that are included in the game. 
+Any reference in the rules to ‘ground units’ refers to these blocks 
+(and garrison units [4.28]). These blocks are usually placed on edge, 
+with the information facing away from your opponents, thereby 
+providing a built-in limited intelligence system. The current step 
+value of each unit should be along the topmost edge of the playing 
+piece. The highest printed value on each label represents that unit 
+at full strength. Marine units [4.26] and airborne units [13.4] have 
+some special capabilities.
+4.23 RULES REFERENCES TO UNITS: Any reference in the 
+rules to ‘units’ applies to both air and ground units. If a rule applies 
+to only one type, the specific type will be identified.
+4.24 NAVAL STEPS AND FLEETS: Like ground units, naval 
+forces are represented by wooden blocks. Any reference in the rules 
+to ‘fleets’ refers to these wooden blocks. Fleets are always either in 
+a sea-zone or in a port. There are three types of fleets: each Aircraft 
+Carrier (CV) step within a fleet represents one Aircraft Carrier or 
+2-3 light Carriers, each Battleship (BB) step represents about one 
+Battleship, and each Cruiser (CA) step represents one Cruiser and 
+one Light Cruiser. Each step also has an appropriate number of 
+supporting craft (destroyers, etc.) for its type. Each step of Aircraft 
+Carriers may base two steps of CBA (one full-strength unit or two 
+cadres).
+4.25 SUBMARINE UNITS: These round submarine units (one for 
+each side) represent the tactical hunting groups of submarines used 
+to combat the opponent’s fleets, not his transport ships.
+4.26 MARINE UNITS: These are the Japanese and USA ground 
+units that were specially trained and equipped for amphibious opera-
+tions. They have the following special capabilities:
+•	 Marine units may move as either ground units or fleets. 
+•	 Marine units may launch Amphibious Invasions without the 
+need of a Special Action.
+•	 One marine unit is allowed to overstack in each amphibious 
+invasion [7.2].
+•	 American marine units were highly trained and fire with an 
+inherent Hit-bonus.
+4.27 MILITIA UNITS: These are weaker than normal infantry 
+units in that they do not receive any Hit-bonuses [Exception—9.14], 
+nor may they conduct Amphibious Invasions, but they are cheaper 
+to build from scratch [note after 4.44]. Chinese militia may only 
+fire when defending, though they may still absorb losses during an 
+attack [9.46].
+4.28 GARRISON UNITS: These are the die-cut counters showing a 
+regiment (III) or Brigade (X) symbol. They represent smaller forma-
+Carrier Based Air
+Markers
+Battleship
+Cruiser
+Carrier
+Elite
+Cruiser
+Marines
+Australian
+Indian
+Airborne
+Militia
+
+Dominant Influence
+Limited
+Influence
+Control
+tions and elements that were used to occupy the key villages, cross-
+roads, and the various islands in the Pacific. Only one garrison unit 
+may be built in each friendly-controlled, supplied, and uncontested 
+area. Garrison units may not move once placed, and are not limited 
+by the counter-mix (players may create more if needed). Except as 
+otherwise noted, garrison units are treated as 1-step ground units, 
+fighting as one step of infantry when in full supply, and as one step 
+of militia [4.27] when not in full supply.
+4.29 OTHER MARKERS: These are used to represent Special 
+Actions, port damage, damaged naval steps, and various game 
+concepts that need to be denoted by a marker. Damage (naval & 
+port), field fortifications, and out of supply markers are not limited 
+by the counter-mix (players may create more).
+4.3 Replacements
+Replacements are purchased to rebuild reduced ground and air 
+units on the map. The cost for each step is on the Cost to Build 
+Chart [4.44].
+4.31 A unit must be in supply and in a friendly uncontested area to 
+receive replacements [exception—7.8]. There must be room on the 
+CV fleet for a CBA replacement to be taken (you could not replace 
+a CBA for a 1-step fleet currently holding two CBA cadres).
+4.32 If meeting the requirements of 4.31, units may receive as many 
+steps in replacements per turn as the owning player can afford ex-
+cept that a unit may not be increased to full strength (i.e., a 4-step 
+unit may only be replaced up to the 3-step level) unless it is also 
+in an area containing a supplied and undamaged port or in an area 
+described in cases a-e below:
+a) British units in South Africa, India, and Australia.
+b) Australian and Indian units in their respective countries.
+c) Chinese units in any area of China.
+d) Japanese, USA, & Commonwealth via Special Action [7.8].
+e) The Philippine unit in the Philippines
+4.4 Producing New Units
+Units that are currently available in a Nation’s Force Pool may be 
+built (No Nation may build beyond the limits of its Force Pool). 
+These units are paid for in the same manner as replacements (but see 
+the note at the end of 4.44), and may be built at any strength level 
+desired, even full-strength. After paying the WERP costs for each 
+step desired, they appear as new units using the following rules:
+4.41 New units appear in an uncontested [exception—9.42], friendly-
+controlled home area as defined below with a limit of two new units 
+per area per turn [exception—4.42]:
+a) US new units appear in the USA home area (not Hawaii).
+b) British new units appear in South Africa.
+c) Commonwealth new units appear within their own country.
+d) Chinese new units appear within China.
+e) Japanese new units appear within Honshu, Kyushu, and Shi-
+koku.
+f) The Philippine unit appears within the Philippines. 
+4.42 There is no limit to the number of naval steps placed in a home 
+port, nor is there a limit on new units that the USA player may place 
+in the USA home area. CBA units may be placed on a CV fleet with 
+room for the CBA unit that is in a home port, otherwise they are 
+placed in the Orphan CBA Holding Box until there is a CV fleet with 
+room in their home port, or they can strat-move from the Orphan 
+CBA holding box to a CV fleet with room for it [5.22].
+4.43 Garrison units may be built in any friendly-controlled, uncon-
+tested, and supplied land area [3.2]. For the Allies, the Power with the 
+associated area color (Commonwealth blue; USA green) is the only 
+Power which may produce a garrison during the Production Phase in 
+that area. The Commonwealth (only) may also build garrison units in 
+friendly-controlled DEI port and island boxes (only). Either Allied 
+Power may build a garrison unit in a friendly-controlled area of the 
+Japanese color. The Chinese, the Philippines, and the DEI may not 
+build garrison units. Any Power with garrison units may also create 
+a garrison unit in an uncontested, supplied, and friendly-controlled 
+area with at least one infantry or marine unit by reducing a unit one 
+step during a friendly Operational Movement or Combat Phase, 
+regardless of the area color.
+Field
+Fortification
+Port
+Damaged
+Ship
+Damage
+Out of
+Supply
+Oil
+Reserves
+Bomber
+Points
+in partial
+supply
+Honshu
+ASW Level
+VP Marker
+Transport Network
+Markers
+Base WERPs
+Marker
+Contested
+Marker
+Special Action
+Night Action
+Day Action
+Battle Marker
+Avoid Marker
+In Port Marker
+
+4.44 COST TO BUILD CHART
+	 Unit/Resource 	
+WERP Cost
+	 Garrison Unit	
+	 Infantry/Militia Step 	
+	 Japanese Marine Step	
+	 USA Marine Step 	
+	 LBA Step 	
+	 CBA Step	
+	 Bomber Point	
+	 Submarine Point/Step	
+	 ASW Improvement	
+10	(1 per turn [4.62])
+	 Aircraft Carrier Step	
+4	 (1 per step per turn [4.7])
+	 Battleship Step	
+5	 (1 per step per turn [4.7])
+	 Cruiser Step	
+3	 (1 per step per turn [4.7])
+	 Add Transport Point to Capacity	
+1	 (1 per turn [4.7])
+	 Field Fortification	
+1/2/5*
+	 Repair Damaged Port	
+1	 (1 per port per turn [4.61])
+	 Each Special Action	
+	 *1 for an island box / 2 for a port box / 5 for a large area
+Note: Except for militia units and garrison units, the cadre step, 
+or initial step, of each new ground unit and CBA unit costs twice 
+the normal amount (e.g. a new Japanese marine unit would cost 4 
+WERPs for the initial step while an American marine would cost 6 
+WERPs, while a new militia unit would only cost 1 WERP for each 
+step). Fleets, submarine units, and LBA units do not pay double for 
+the first step.
+4.5 Japanese Replacements/Garrisons and Sea-Transport
+Every four steps of replacements and/or garrison units added outside 
+of Japan reduces the Japanese available transport points by one for 
+that turn (round fractions up).
+4.6 Production Protocol and Limits
+Production is completed for one Nation at a time, except that WERP 
+transfers between Nations [9.25] may be announced at any time. 
+The producing Nation announces its WERP total, and then as each 
+new item and each step of replacements is produced, the Nation an-
+nounces its remaining total. The player does not have to announce or 
+show what types of ground unit steps are purchased. In this manner, 
+the limited intelligence aspect of production is preserved. Special 
+Actions, air units, field fortifications, and anything produced on the 
+General Information Track, the Japanese Air Production Track, & 
+the Naval Production Tracks must be revealed as purchased. There 
+is no limited intelligence for these items.
+4.61 MUTUAL PRODUCTION LIMITS
+•	 Air units in AE have two steps and no air unit may be produced 
+at less than full-strength. 
+•	 Both sides may repair ports at a rate of one WERP per port per 
+turn [exception—8.72]. 
+•	 Neither player may build naval steps beyond the limits repre-
+sented by their build markers [4.71].
+•	 When producing a replacement for a 1-step submarine unit 
+that was deployed from the holding box before the Production 
+Phase, the producing player may place the submarine replace-
+ment marker in the submarine holding box. Then either flip 
+the 1-step submarine unit over to its 2-step side, or return the 
+submarine unit from the Force Pool if it was eliminated to the 
+holding box on its 1-step side after the Air & Naval Combat 
+Phase.
+4.62 JAPANESE PRODUCTION LIMITS (per turn):
+•	 Only two WERPs may be spent on the submarine unit.
+•	 No more than three WERPs may be spent on air unit steps. 
+These may be divided between points spent on the Air Produc-
+tion Track using the three provided markers [4.71] and replace-
+ment steps to existing reduced air units.
+•	 Only one WERP per turn may be spent on ASW.
+•	 Available WERPs are the only other limiting factor.
+4.63 ALLIED PRODUCTION LIMITS (per turn):
+•	 No more than two bomber points (USA only can build).
+•	 No more than three submarine points / steps (USA only can 
+build). These may be distributed between the General Infor-
+mation Track and the American submarine unit as the Allied 
+player desires. 
+•	 Available WERPs are the only other limiting factor. 
+4.7 Production Over Time
+4.71 BUILD MARKERS: Naval steps (Aircraft Carriers, Battle-
+ships, and Cruisers), Japanese air units, and ASW 
+all take longer than a single turn to produce. Each of 
+these items has a corresponding build marker that goes 
+onto its Production Track (ASW goes on the General 
+Information Track) as these units and steps are produced. Air re-
+placement steps of both sides and Allied air units do not require 
+build markers. 
+4.72 CHOOSING THE BUILD TYPE: Naval production and Japa-
+nese air unit markers are double-sided with (usually) a different type 
+on each side. When a marker is added to an Air or Naval Production 
+Track the player must decide which type of air unit or naval step is 
+being built and may not alter his selection until the next time that 
+marker is used to start a new unit or step. Production markers are 
+added to the USA Force Pool at specific times [9.24]. 
+4.73 BUILD RATE: All build markers may only be built (moved 
+up the Track) at a rate of one WERP per turn. Note that a Japanese 
+CBA unit takes three turns to build because the cadre costs two 
+WERPs and the final step another WERP.
+4.74 NAVAL BUILDS: At the completion of the Production Phase 
+all naval build markers that have been built to full-strength are 
+removed from their tracks and the appropriate naval step is either 
+added to an appropriate reduced fleet in a friendly home port loca-
+tion or a new fleet equal to the number of steps produced of the 
+appropriate type is created in a home port (American naval steps 
+must arrive in the USA home area, not Hawaii). If no reduced or 
+new fleet of the appropriate type is available, the marker remains 
+on the ‘Built’ space of the Production Track until the new step can 
+legally be placed. Because new naval steps arrive after the Naval 
+Movement Phase they must remain in port until the following turn 
+unless rebasing [8.8] or reacting [8.25]. 
+4.75 JAPANESE AIR BUILDS: Partially built air units may not 
+be placed; they may only arrive at full-strength. If no 
+appropriate air unit is available in the Force Pool, the 
+marker remains on the ‘Built’ space of the Production 
+Track until the air unit can legally be placed.
+
+4.76 MARKER AVAILABILITY: A build marker may not be re-
+used on the same turn that it completes production of a unit or step 
+since it is not removed from the ‘built’ space until after production 
+is complete. The build marker becomes available again on the next 
+Production Phase. 
+EXAMPLE: A Japanese CBA unit is produced over three turns: 
+On the first turn, pay one WERP to place an available CBA build 
+marker on the Japanese Air Build Track’s ‘1’ space. Next turn, pay 
+one WERP to advance the marker to the ‘2’ space. In the third 
+turn, pay one WERP to advance the marker to the ‘3 CBA built’ 
+space. After all production has been finalized return the marker 
+to the Force Pool and place the newly built 2-strength CBA in a 
+holding box either belonging to a CV fleet that is in Honshu or the 
+Orphan CBA holding box (an LBA unit would have been finished 
+in two turns).
+4.77 JAPANESE TRANSPORT CAPACITY: In order to add a 
+transport point to capacity, the Japanese player must have the BB/
+TR build marker available in his force pool and commit it towards 
+building a transport capacity point this turn. 
+Building a transport capacity point costs one 
+WERP and it arrives at the end of the Produc-
+tion Phase in which it was built.
+4.8 Partisans
+In order to avoid the partisan effects listed below, the Japanese must 
+occupy, with a ground unit and/or a garrison unit, all conquered 
+resource and oil areas outside their home country. A Chinese Na-
+tionalist unit must occupy resource areas they control or they face 
+the effects of partisans. The remaining Allied forces are not subject 
+to partisans. If an above area is not occupied, the following rules 
+come into effect:
+a)	 An unoccupied resource or oil area noted above will not pro-
+vide any WERPs or oil during the Production Phase.
+b)	 Supply may not be traced into, out of, or through unoccupied 
+resource / oil areas (exception—Chinese Nationalists may 
+trace supply into unoccupied Chinese-controlled resource 
+areas).
+c)	 Units may not enter or pass through such an unoccupied 
+resource or oil area during a Strategic Movement Phase.
+5.0 GROUND & LBA MOVEMENT
+5.1 Operational Movement Phases
+5.11 Friendly ground units may move to any one adjacent area. They 
+may not move more than one area during an Operational Movement 
+Phase. Garrison units may not move.
+5.12 LBA units may move up to two land areas, but must stop when 
+an enemy occupied area is entered [but see 5.15 & 5.18].
+5.13 LBA units may also fly across a sea-zone. To make this move 
+the LBA unit must begin a friendly Operational Movement Phase in 
+a supplied area or box in or bordering on the sea-zone. It may then 
+move to any other area or box in or bordering on the same sea-zone. 
+Moving across a sea-zone requires the LBA unit’s entire movement 
+allowance and may be done regardless of enemy influence.
+5.14 LEAVING A CONTESTED AREA is possible if both of the 
+following conditions are met:
+a) The unit started the current phase in the contested area, and the 
+first area entered is a friendly-controlled, uncontested area. Units 
+that leave a contested area may not enter another contested area the 
+same Player-turn.
+b) Friendly ground units totaling at least as many steps as the 
+number of opposing ground units in the area are left behind as a 
+rearguard. Other units may move into the area to allow the existing 
+units to leave. Air units may ignore this particular clause but are still 
+restricted by (a) above.
+EXAMPLE: The Commonwealth has two units totaling five steps in 
+an area the Japanese wish to leave. The Japanese may leave one or 
+two units totaling two steps and leave with all remaining units. 
+5.15 JUNGLE TERRAIN has the following effect: Air units must 
+stop upon entering a jungle area during Operational Movement. 
+There is no effect on strat-moves.
+5.16 MOVEMENT ACROSS STRAITS: Units may cross straits 
+without utilizing transport points, as a normal move during a friendly 
+Operational Movement Phase, except that crossing the straits re-
+quires the entire movement allowance for all units.
+5.17 PORT BOXES: Port boxes are treated as separate areas and 
+movement into and out of them is treated the same as for other 
+areas. The port of the port box is not shared by any surrounding 
+land area.
+5.18 IMPASSABLE BOUNDARIES: Ground units may not cross 
+an impassable boundary. Impassable boundaries have no effect on air 
+units regarding movement, port attacks or influence projection.
+5.19 Clear terrain, rough terrain, and rivers have no effect on move-
+ment.
+5.2 Strategic Movement Phases (Strat-Moves)
+5.21 Using strat-moves, ground and air units (not fleets or garrison 
+units) in friendly-controlled uncontested areas, including units that 
+moved in the Operational Movement Phase and air units that fought 
+in the Air and Naval Combat Phase, may move to any other friendly 
+uncontested area on the map with the following restrictions.
+5.22 The unit must trace its route over continuous friendly uncon-
+tested land areas to its destination. Or, by using sea-transport [5.32], 
+the unit may trace its route to a friendly port and then by sea to 
+another friendly port and on through other friendly uncontested land 
+areas. Air units may strat-move over one or more sea-zones by flying 
+Front
+Back
+
+directly between friendly uncontested areas that are connected to 
+each sea-zone traversed and then they may continue moving inland 
+if desired; they do not use sea-transport if flown directly in this 
+manner. CBA units in the Orphan CBA Holding Box (but no other 
+CBA units) may strat-move to a CV fleet with room on their decks 
+(but not into or through limited influence sea-zones [8.13]) and are 
+placed in the appropriate Fleet Holding Boxes. Units may also strat-
+move across straits without using sea-transport. Remember that areas 
+that have uncontested invasions against them are not converted to 
+friendly-control until the Combat Phase [3.25].
+5.23 At no time during a strat-move may a unit enter, pass through, 
+or leave an enemy-controlled or a contested area. Units using sea-
+transport and air units flying across sea-zones [5.13] during a strat-
+move may not enter, pass through, or leave a sea-zone where the 
+enemy player has limited or dominant influence [8.13]. They may 
+enter an area that borders such a zone, but must end their strat-move 
+in that area if they entered by sea-transport [5.32] or by flying across 
+a sea-zone [5.22]. Units strat-moving via connected land areas are 
+not affected by sea-zone influence.
+5.24 The strat-move limits for each Nation are listed below. The 
+limit for Japan can be further reduced by strategic warfare [2.13]. 
+The limits shown below are the maximum number of units that can 
+be moved per friendly Strat-move Phase: 
+	 Japan - 4
+	 USA - 4
+	 The Commonwealth - 1
+5.3 Sea-Transport
+Ground and LBA units may be transported via sea-transport during 
+the Naval Movement Phase and/or the Strategic Movement Phase 
+as follows:
+5.31 NAVAL MOVEMENT PHASE: A unit using sea-transport 
+during a Naval Movement Phase must start that Phase in a friendly-
+controlled port or coastal area. It may use troop transports [8.12] 
+to move to a sea-zone within two sea-zones of the departure area 
+(including the zone adjoining that area) and may move no farther 
+that phase—5.14(b) must be complied with if leaving a contested 
+area. Each Japanese unit so moved reduces the Japanese available 
+transport points by one for this turn. Such moves may be into, but 
+not through, sea-zones where the enemy exerts limited or dominant 
+influence [8.13]. Units still at sea in the Operational Movement Phase 
+may land in an uncontested friendly-controlled area, or a contested 
+area controlled by either side (but not across an impassable coast-
+line). In either case the area landed in must be within or adjoining 
+the sea-zone they occupy and does not require a port. Alternately, 
+they may conduct an amphibious invasion [7.2].
+5.32 STRATEGIC MOVEMENT PHASE: A unit using sea-trans-
+port during a Strat-move Phase may move to a friendly uncontested 
+port, embark, move to any other friendly uncontested port through up 
+to six supplied and consecutive sea-zones, disembark in any friendly 
+uncontested port that borders the final sea-zone moved through, and 
+continue moving (but see 5.23). The enemy player must not exert 
+limited or dominant influence through any sea-zones strat-moved 
+through [8.13]. Each Japanese ground unit so moved reduces the 
+Japanese available transport points by one for this turn. Air units 
+may strat-move without using sea-transport, with an unlimited 
+range, but may not enter a sea-zone with limited influence [8.13] 
+and must stop when entering a port or island box area bordering 
+such a sea-zone.
+5.4 Stacking Limits
+5.41 There is no limit to the number of units that may occupy any 
+land area with the exception of island boxes, port boxes, jungle 
+areas, and fleets in ports. For areas where stacking matters, CBA 
+units stationed on CV fleets never count against an area’s air unit 
+stacking limits.
+5.42 ISLAND BOXES: Each island box may hold one ground unit, 
+one LBA unit, and/or one garrison unit at the end of each player-
+turn (plus a number of fleets if a port is present [3.24]). Units may 
+overstack during a phase, but if stacking is exceeded at the end of 
+any phase, excess units (owning player’s choice) must be eliminated 
+(except for invading marines [7.2]). When attacking an enemy-
+controlled island box, the attacker may place one ground unit (two 
+if at least one is a marine), one LBA unit, plus any number of CBA 
+units in the island box. Excess units are rebased during the Rebasing 
+Phase or when the attack is called off. CBA units return to their CV 
+fleet(s) after the battle is resolved.
+5.43 PORT BOXES: Each port box may hold up to two ground 
+units and two LBA units of each side (plus one garrison unit and the 
+number of fleets allowed by the port size [3.24]). Units may overstack 
+during a phase, but if stacking is exceeded at the end of any phase, 
+excess units (owning player’s choice) must be eliminated (except 
+for invading marines [7.2]). When attacking an enemy-controlled 
+port box, the attacker may place up to two ground units (three if the 
+attack is an Amphibious Invasion and at least one unit is a marine), 
+two LBA units, plus any number of CBA units in the port box. Ex-
+cess units are deployed to an adjacent friendly area after the combat 
+round(s) are resolved or rebased during the Rebasing Phase. CBA 
+units return to their CV fleet(s) after the battle is resolved.
+5.44 JUNGLE AREAS: No more than four ground units and four 
+air units of each side may end a phase or participate in combat 
+within a jungle area.
+5.45 PORT STACKING: In addition to the stacking limits indi-
+cated above, ports may hold a number of fleets depending on their 
+size [3.24].
+5.46 If an LBA unit ever finds itself alone in an area with an enemy 
+ground unit, the LBA unit is immediately eliminated (this is not 
+considered a combat). If a fleet ever finds itself in an enemy-con-
+trolled port, it must either be voluntarily destroyed or immediately 
+exit to an adjoining sea-zone that does not contain any enemy CA, 
+BB, and/or CV fleets (spending oil if the exiting fleet is Japanese). 
+If a legal exit cannot be made, the fleet is eliminated instead. 
+Example of stacking limits: The Island (circle) can hold 1 ground 
+unit and 1 LBA, the Port Box (rectangle) can hold 2 ground units 
+and 2 LBAs, while the jungle area of Lae can hold up to 4 ground 
+units and 4 LBAs.
+
+6.0 GROUND COMBAT
+6.1 General Rules 
+The Phasing Player is always considered to be the attacker, regard-
+less of the overall strategic situation. Combat is optional for areas 
+that were already contested at the start of the turn (as shown by the 
+units already being face-up in the area). The Initial Combat Phase 
+is mandatory for areas newly-contested as a result of the Phasing 
+Player’s movement. The Initial Combat Phase comprises one combat 
+round except in the case of island boxes [6.75]. Special Action(s) 
+may be used for Breakthrough Combat Phase(s). Combat can result 
+in both sides having forces remaining in an area.
+6.2 Round of Combat Procedure
+One area at a time, in any order the attacker desires, a Round of 
+Combat is initiated by the attacker indicating the type of combat 
+desired (Normal or Assault [6.3]). Combat is then resolved for the 
+declared area. All combats in the Initial Combat Phase must be 
+completely resolved before any Breakthrough Combat Phase(s) 
+may be purchased.
+6.21 Both players declare how many of their air units will dogfight, 
+and how many will provide ground-support, hiding the air units 
+behind one hand and placing the counters in the appropriate boxes 
+on the Air Commitment Display, and revealing these commitments 
+simultaneously. A 2-step air unit may NOT be split; the entire unit 
+must commit to either ground-support or dogfighting duties. CBA 
+units are restricted [6.53]. A different allocation may be made each 
+round (attacker declares first for solitaire play, PBM, and PBeM 
+games).
+6.22 Air units that dogfight with each other fire simultaneously at 
+the start of each round, rolling one die per step, and eliminating an 
+opposing air step of the losing player’s choice on each result of a 5-6 
+(dogfighting steps eliminated first). Elite Japanese air units hit on a 
+4-6, but they must suffer all losses within each group (dogfighting 
+and supporting) incurred by the dogfight until they are eliminated. 
+Excess losses within each group are then applied to non-elite air 
+units.
+EXAMPLE: Japan has two elite and two non-elite full-strength 
+LBA units in a combat.  He elects to have one of each type dogfight 
+and one of each type provide ground support. The Allies have four 
+full-strength LBA units and elects to dogfight with all four. Of the 
+eight dice rolled by the Allies, the first two hits rolled would be 
+inflicted against the elite dogfighters, the next two rolled would be 
+inflicted against the non-elite dogfighters, the next two would be 
+inflicted against the elite ground-support, etc.
+6.23 If not already displayed from a previous round, ground units of 
+both sides are now revealed by tipping them face-up in a line with 
+the current value of each unit nearest to the line of enemy units. Once 
+units are displayed in an area, they remain face-up until the area is 
+no longer contested. Additional units moved into such an area are 
+revealed immediately upon entry.
+6.24 Firing in combat is resolved by rolling one or two dice [6.3] for 
+each step remaining on the firing unit(s). Each roll of six or higher, 
+after Hit-bonuses are applied, will eliminate one step from a ground 
+or garrison unit of the losing player’s choice. 
+6.25 Each step-loss is recorded by rotating a participating ground 
+unit of the owning players’ choice to its next lower level. All full-
+strength ground units (including garrison units) must take one 
+step-loss each before additional losses may be allocated to other 
+ground units. These additional losses may be distributed as desired 
+by the owning player.
+6.3 Combat Options
+The two types of Combat Rounds are:
+6.31 NORMAL: The defender fires first, rolling one die per step, 
+with the attacker extracting losses. The attacker’s surviving units then 
+fire, rolling one die per step, with the defender extracting losses.
+6.32 ASSAULT: The defender fires first, rolling two dice per step, 
+with the attacker extracting losses. The attacker’s surviving units 
+then fire with two dice per step, and the defender extracts losses. 
+Assaults may not be made in jungle areas.
+See the Combat Round examples in the Playbook [14.0].
+6.4 Summary of Ground Unit Hit-Bonuses:
+These Hit-bonuses give a +1 modifier to combat die rolls and are 
+cumulative.
+	 a)	 United States Marine Units [4.26] {B}
+	 b)	Air Unit Supporting [6.5] {B}
+	 c)	 Defending in Rough Terrain [6.71] {D}
+	 d)	First Round vs. River/Strait Crossing [6.73] {D} *
+	 e)	 First Round vs. Amphibious Invasion [7.21]) {D} *
+	 f)	 First Round Amphibious Shore Bombardment [7.22] {A}
+	 g)	 Defending with a field fortification [6.84] {D}
+	 h)	Japanese Surprise Jungle Attack [9.11g] {A}
+	 i)	 vs. Mixed Communist and Nationalist forces [9.43] {B}
+	 j)	 Banzai Attack [9.14] {B}
+	 k)	Japanese Units defending vs. Chinese attacks [9.15] {D}
+	 {A} Hit-bonus applies when attacking
+	 {D} Hit-bonus applies when defending
+	 {B} Hit-bonus applies in both cases
+	 * A unit may receive only one of (d) or (e), not both
+6.5 Air Units
+Each step of both LBA and CBA units that are assigned to ground-
+support [6.21] provides a Hit-bonus to one step of the ground unit 
+it is attached to each round. Each surviving air unit that did not 
+dogfight [6.22] is attached to a ground unit of the owning player’s 
+choice just prior to rolling the dice. A different ground unit may be 
+chosen each round of combat. 
+6.51 A ground unit may not have more than one Hit-bonus for each 
+of its steps provided by ground-support. Each air unit supports only 
+one ground unit of the same nationality, and only a number of steps 
+within that unit equal to its remaining air steps.
+6.52 In a given battle, each side may have no more than eight ground 
+unit steps supported by air units per round. If an air unit cannot 
+legally support a ground unit, it may only be used to dogfight or 
+to sit idle.
+6.53 For Amphibious Invasions conducted in the current player-turn, 
+CBA units that are allowed to participate [7.24] may either dogfight 
+or provide ground-support to involved ground units (attacking or 
+defending). They may also dogfight (only) during non-amphibious 
+ground combats for port boxes. CBA units may not participate in 
+non-amphibious ground combats within large areas [3.21]. CV fleets 
+must be in an adjoining sea-zone or at port in the affected area for 
+CBA to participate.
+
+box that contains at least one ground unit or garrison unit of the 
+same nationality as the building Power. The ground unit(s) must 
+have already been in the area; you cannot build a ground or gar-
+rison unit in an empty area and then build a fortification there on 
+the same turn.
+6.81 There is no limit on the number of fortifications each Major 
+Power may build within their available WERPs. The countermix is 
+not a limitation (more may be created as needed).
+6.82 A friendly-controlled fortified area provides its benefits to all 
+friendly ground units in the area, regardless of nationality.
+6.83 If a field fortification ends a player-turn without a friendly 
+ground or garrison unit in its area, it is immediately removed from 
+the map.
+6.84 EFFECTS OF FIELD FORTIFICATIONS:
+•	 An area with a field fortification gives the defensive benefits of 
+rough terrain to all friendly ground units for the mandatory first 
+round of combat.
+•	 If, after the first round, enemy units are still in the same area 
+with the field fortification, it is immediately removed from the 
+map (it has been breached).
+7.0 SPECIAL ACTIONS
+7.1 General Rules
+Special Actions may be purchased during the Production Phase, and 
+may be spent on the options listed in rules 7.2 - 7.8 below. Special 
+Actions may be saved until needed, but never beyond the limits of 
+the Force Pool.
+7.11 The maximum number of Special Actions a nation may have 
+at any one time is limited as follows:
+	 The Commonwealth 	
+	 USA (1942) 	
+	 USA (1943) 	
+	 USA (1944 on) 	
+	 Japan 	
+7.12 Purchased Special Action markers are placed in a home country 
+area. They may not be hidden from view. As each Special Action is 
+expended, it is returned to the Force Pool.
+7.13 To undertake any activity requiring a Special Action, each 
+involved Major Power wishing to participate must expend a Spe-
+cial Action. One Major Power may expend a Special Action in an 
+area containing two aligned Major Powers, but only the Power that 
+spent the Special Action receives the advantage associated with 
+the activity.
+7.2 Amphibious Invasion 
+This operation costs one Special Action per land area invaded, ex-
+cept that marine units invading without other ground units do not 
+require a Special Action. The chosen site may not have an impass-
+able symbol as its coastline facing the invading sea-zone, and the 
+invasion must be launched from a sea-zone already containing at 
+least one uncontested friendly-controlled area [3.2] (an area with 
+an impassable boundary adjoining that sea-zone does count). For 
+Japan to invade from a sea-zone, the zone must be in his Supply 
+Network [3.5]. Participating infantry and marine units (militia and 
+garrison units may not conduct Amphibious Invasions) must begin 
+6.6 Breakthrough Combat Phases.
+6.61 After all Initial Phase combats have been resolved, Break-
+through Combat Phases (rounds) may be purchased by expending 
+one Special Action [7.0] per round per area.
+6.62 Breakthrough Combat Phases are initiated by expending the 
+Special Action, declaring the area desired, and beginning the round 
+of combat procedures [6.2] for the designated area (including air unit 
+allocation & dogfighting). If two or more aligned Major Powers in 
+an area wish to attack in a Breakthrough Combat Phase, they must 
+each expend a Special Action. Only the Major Power(s) that expend 
+a Special Action may attack. The attacker may not assign casual-
+ties to friendly units that do not participate. Multiple Breakthrough 
+Combat Phases in the same area are allowed, provided one Special 
+Action is spent for each.
+6.63 If units of both sides coexist in any area(s) after all desired 
+combat rounds have been fought, the units of both sides remain 
+face-up in the engaged area(s) until, during some future phase or 
+combat round, only one side remains. When only one side’s forces 
+remain in an area that was contested, the surviving units are tipped 
+up and faced away from the enemy.
+6.7 Terrain Effects on Combat
+Clear terrain has no effect on combat. Other terrain types affect 
+combat as follows:
+6.71 ROUGH TERRAIN: Defending ground units receive a Hit-
+bonus.
+6.72 JUNGLE: Only Normal attacks may be chosen (no Assaults) 
+and no Breakthrough Combat Phases are allowed in jungle areas. 
+During each Japanese July/August Initial Supply Determination 
+Phase all ground units of both sides in contested jungle areas take a 
+step-loss due to jungle-rot and disease. Cadre-level units do not get 
+destroyed and remain at cadre-level.
+6.73 RIVER/STRAITS: If any attacking ground units entered a 
+defended area by crossing a river and/or strait, the defending ground 
+units receive a Hit-bonus, but only if the area is newly contested 
+this round. This bonus is not received if an Amphibious Invasion 
+is also occurring in that area (the Amphibious Hit-bonus is still 
+received).
+6.74 PORT BOXES: If the attacker has not cleared a port box 
+of defenders by the Rebasing Phase, any attacking marine unit in 
+excess of the two ground unit stacking limit must either move to 
+an adjacent uncontested friendly area or rebase [8.8]. If the port 
+box has been cleared of defenders, one remaining unit may take a 
+step-loss to immediately create a garrison unit in the newly captured 
+port box, after which any overstacked marine unit must move or 
+rebase as above.
+6.75 ISLAND BOXES: Attacks against island boxes are fought 
+in unlimited free combat rounds during the Initial Combat Phase 
+until one side is destroyed or the attacker calls off the attack. If the 
+island box has been cleared of defenders, one remaining unit may 
+take a step-loss to immediately create a garrison unit in the newly 
+captured island box. Any overstacked marine unit must rebase dur-
+ing the Rebasing Phase.
+6.8 Field Fortifications
+Field fortifications may be built during the friendly 
+Production Phase in any supplied, friendly-controlled, 
+and uncontested clear terrain area, port box, or island 
+
+the Operational Movement Phase already in the sea-zone. Move-
+ment into the sea-zone is performed by all invaders during the Naval 
+Movement Phase. During the Operational Movement Phase, the 
+Special Action is expended and they are then moved to the chosen 
+site which must be enemy-controlled. A maximum of four ground 
+units may amphibiously invade large areas, two against port boxes, 
+and one against island boxes (five, three, and two respectively if at 
+least one marine unit is among the attackers). 
+7.21 Any defenders except militia in the area invaded receive a Hit-
+bonus for the first round of the initial combat. 
+7.22 For the attacker, each complete grouping of BB & CA steps 
+shown below that is in the same sea-zone as the invasion provides 
+a shore bombardment Hit-bonus for one ground unit step during 
+the first combat round of invasions against port and island boxes 
+only: 
+	 2 BB steps
+	 4 CA steps
+	 1 BB step & 2 CA steps
+Each BB and CA step may only be a part of one grouping, and 
+each ground unit step can only receive one bombardment bonus. If 
+more than one site is being invaded in the same sea-zone, Battle-
+ship and Cruiser fleets may be split between the targets as desired 
+by the invading player. Bombarding fleets must be revealed to the 
+defending player. The bombardment Hit-bonus is in addition to any 
+ground-support and other bonuses received. Defending port AA has 
+no effect against an invasion. 
+7.23 If any invaders survive the combat for an area, the area be-
+comes contested and additional units may now enter the area by 
+sea-transport in subsequent Operational Movement Phases. Both 
+the invading and defending units are assumed to have control of 
+any port for movement and supply purposes (but only the Power 
+controlling the area for naval basing).
+7.24 In addition to the invading units, other units could join in 
+the battle by making a legal operational move (not sea-transport) 
+into the area (i.e. ground and LBA units could move directly from 
+adjoining areas and LBA units could fly across a sea-zone [5.13]). 
+Additionally, CBA units that are on CV fleets in the same sea-zone 
+as the invaders may also participate in combat within the invasion 
+area on the player-turn of the invasion. Note that these are the only 
+methods that allow attacking air units to participate in the Initial 
+Combat Phase. LBA units remain at the invasion site unless the 
+invasion is destroyed or aborted during the player-turn of the inva-
+sion, in which case they return to their base of origin.
+7.25 In addition to the main invasion, any undefended port boxes 
+or island boxes (those without at least a garrison unit) within the 
+attacking sea-zone may also be attacked (without expending extra 
+Special Actions). Any number of undefended port and island boxes 
+in the same sea-zone can be captured this way by reducing one step 
+for each port or island box desired from the invading unit(s) prior to 
+the main invasion, and placing a garrison unit for each step reduced. 
+Any remaining reduced units must then participate in the main inva-
+sion, along with any other chosen units in the sea-zone that are also 
+invading. Reduced units do count against the invasion limits. 
+7.3 Breakthrough Combat Phases
+See 6.6 for details. 
+7.4 Extended Naval Operations
+See 8.23 for details. 
+7.5 Japanese Extensive Rebasing
+During the Rebasing Phase the Japanese player may spend one 
+Special Action to perform extensive naval rebasing. The Japanese 
+player may rebase any or all of his fleets, troop transports still at 
+sea, and any marine units (either at sea or in a coastal area) to any 
+ports he can trace supply to. Regular influence rules apply for this 
+rebasing move, but not the movement distance rules. This rebasing 
+move does not cost oil points. 
+7.6 US Code Breaking
+Once each year in 1942 and 1943 during the Japanese Naval Move-
+ment Phase the Allied player may spend a US Special Action to break 
+the Japanese codes and perform a modified naval reaction. This has 
+the following effects:
+a) A single sea-zone must be selected to receive the code breaking 
+benefits, before the decision is made whether or not to react for 
+that sea-zone.
+b) The Japanese player must reveal the composition of the force in 
+that sea-zone (number of CV, BB, and CA steps, and also the total 
+steps of troops being transported) to the Allied player. CBA steps 
+need not be revealed.
+c) All US fleets that choose to react into the selected sea-zone may 
+move up to three sea-zones, instead of the normal two allowed for 
+reactions. Note—whether or not the US chooses to react with fleets 
+into that sea-zone, the Special Action is still spent and the once-per-
+year opportunity has been made.
+d) On the first naval interception check in that sea-zone the Allied 
+player receives a +3 on his interception die roll (greatly increasing 
+the chance of surprise [8.31(d)]).
+7.7 Chinese Nationalist Attack
+The Allied player may spend a US Special Action to allow Chinese 
+Nationalist units to move into uncontested Japanese occupied areas 
+and initiate combat [9.41]. Each Special Action spent allows any 
+number of new combats for that turn, but only during the Initial 
+Combat Phase. Chinese Nationalist units may always move into 
+and attack both Japanese occupied areas that were already contested 
+by at least one Nationalist unit to begin their turn and Japanese-
+controlled but undefended areas without need of a Special Action. 
+Chinese Communist units are not restricted and can move and 
+initiate combat without restriction. This Special Action is the only 
+Special Action the Chinese can use. The Chinese may not initiate 
+Breakthrough Combat Phases. 
+7.8 Unrestricted Replacements
+Each Special Action saved from the previous turn (only) may be 
+spent during your Production Phase to allow for replacements to 
+be taken in any one supplied area, even if contested and enemy-
+controlled (an exception to rule 4.31). The units in the selected area 
+may receive replacements as desired (even to full strength outside of 
+port areas) at normal WERP costs. This Special Action may then be 
+immediately repurchased if desired. No transport points are required 
+for replacements purchased with this Special Action.
+
+7.9 Special Action Uses from EE that do not apply in AE
+For Europe Engulfed players, be aware that the following Special 
+Action uses from EE do not apply in Asia Engulfed, due to the dif-
+ferent scale and nature of the Asian Theatre:
+•	 Breakthrough Movement Phases
+•	 Retreat Before Combat
+•	 Retreat from Contested Area Without Leaving a Rear-guard
+•	 Reinforce a Battle
+•	 Counterattack
+•	 Limited Supply
+8.0 NAVAL OPERATIONS
+8.1 General Rules
+The following rules apply to fleets and pertain to more than one 
+phase of the game turn.
+8.11 CONSOLIDATION: Consolidation is the process that allows 
+fleets of the same type to merge into a smaller number of fleets. 
+Consolidation is voluntary during the Naval Movement and Rebas-
+ing Phases; and mandatory during the Air and Naval Combat Phase. 
+When consolidation is performed in the Air and Naval Combat 
+Phase, it must be done to make the minimum possible number of 
+fleets within each class.
+•	 Consolidation can only be done when it would reduce the 
+number of fleets present (i.e. two 3-step Cruiser fleets and one 
+2-step Cruiser fleet can be consolidated into two 4-step Cruiser 
+fleets).
+•	 Consolidating fleets must be from the same navy.
+•	 Consolidation may be done prior to leaving port so that less oil 
+would be expended by the Japanese.
+•	 Consolidation may be done upon returning to port so that more 
+naval steps may be placed in the same port.
+•	 Consolidation must be done prior to making pairings in day or 
+night combat rounds (but not prior to submarine combat).
+•	 Consolidation may not be done at sea except as noted above.
+•	 Adjustment of fleets may only be done within the above rules; 
+fleets may not be split into smaller components.
+•	 The Japanese elite CA fleet may not be consolidated with other 
+fleets.
+8.12 TROOP TRANSPORTS: Every ground unit or LBA that 
+moves in the Naval Movement Phase is considered to be on a fleet 
+of troop transports. Troop transports do not require oil points and 
+have the following general qualities.
+•	 Troop transports may embark from and disembark into a port or 
+coastal area (including island boxes). They may only disembark 
+into an enemy-controlled area if it is already contested or if an 
+amphibious invasion is launched [7.2]. They may not embark 
+or disembark across an impassable coastline.
+•	 LBA units on troop transports do not exert influence.
+•	 Units may not participate in Combat until they disembark.
+•	 Troop transports move as fleets except that their movement 
+range is only two sea-zones.
+•	 Troop transports carrying marine units may move three sea-
+zones if they departed from a port, otherwise two sea-zones.
+•	 Troop transport steps are destroyed rather than damaged with a 
+roll of ‘5’.
+•	 Each troop transport step destroyed eliminates one step of the 
+transported ground or LBA unit.
+•	 Troop transports may not make a reaction move.
+•	 Troop transports do not exert influence [8.13].
+•	 Troop transports do not have any anti-aircraft fire.
+•	 Troop transports that are sunk do not affect the Japanese 
+player’s transport capacity.
+8.13 SEA-ZONE INFLUENCE: This represents the level of influ-
+ence that is projected by each player into sea-zones, and the effect 
+of such influence on naval movement, sea-transport, strat-moves, 
+and sea-supply. Influence is exerted either by having an LBA unit 
+in an uncontested land area that is within or bordering on the sea-
+zone or a combat fleet (not a submarine unit or a troop transport 
+fleet) either within that sea-zone or in a port within or adjoining 
+that sea-zone. Influence levels may change as fleets are moved into 
+different sea-zones. Influence is in one of three levels as follows, 
+from least to most effective:
+a) NONINFLUENCED: Neither player is exerting influence as in 
+rule 8.13 above. There is no effect on either player for naval move-
+ment, sea-transport, strat-moves, or sea-supply.
+b) LIMITED INFLUENCE: Both players exert influence as in rule 
+8.13 above. Limited influence in a sea-zone has the following ef-
+fects:
+•	 Both players stop naval movement and operational sea-trans-
+port when entering. 
+•	 Neither player’s fleets may enter when rebasing [8.8].
+•	 Strat-moves are not allowed out of, into, or through the sea-
+zone for either player. 
+•	 Sea-supply is allowed into and through the sea-zone for both 
+players.
+c) DOMINANT INFLUENCE: Only one player exerts influence as 
+in rule 8.13 above. Friendly dominant influence in a sea-zone has 
+the following effects:
+•	 Enemy player (only) stops naval movement and operational 
+sea-transport when entering.
+•	 Enemy fleets may not enter when rebasing [8.8].
+•	 Enemy player (only) may not strat-move out of, into, or 
+through the sea-zone.
+•	 Sea-supply is allowed into or through the sea-zone for friendly 
+player only. 
+8.2 Naval Movement Phase
+Naval movement and reaction takes place during this phase as 
+follows: 
+8.21 FLEET ACTIVATION: The Phasing Player declares a sea-
+zone that he is moving into. He then proceeds to move any desired 
+fleets to that destination. Only fleets (including troop transports) 
+that can reach the destination sea-zone may move. After all Phasing 
+Player fleets desired have moved into this sea-zone, the Non-phasing 
+Player has the option to react into this sea-zone only [8.25]. After 
+reaction is resolved, play then proceeds to the next sea-zone the 
+player would like to move into (if any). Regardless of any reaction 
+the Phasing Player may not move additional fleets or ground units 
+into previously selected sea-zones. Each Japanese fleet (block) that 
+moves or reacts will expend one oil point from the Japanese Oil Re-
+serve (CV, BB, CA, and some marines), or subtract from the transport 
+points remaining for the current turn (non-marine troop transports 
+
+and marine troop transports that did not use oil).
+8.22 NAVAL MOVEMENT: Activated fleets move up to three 
+sea-zones (two for non-marine troop transports), stopping when 
+they enter a sea-zone where the enemy exerts limited or dominant 
+influence [8.13]. Each fleet may only move once per Naval Move-
+ment Phase unless using extended naval operations (8.23).
+a) Both the act of leaving a port (or coastal area for a troop transport) 
+during a Movement or Rebasing Phase, and entering a port (Rebas-
+ing Phase only) count as a zone entered. 
+EXAMPLE: During the Allied Naval Movement Phase US fleets 
+may move from Hawaii to the Hawaiian Islands sea-zone, to 
+the Johnston Islands sea-zone, to the Phoenix Islands sea-zone, 
+utilizing all three allowed moves. During the Rebasing Phase, 
+these fleets may continue moving southward to the U.S. Mandate 
+sea-zone, to the Tonga Sea, and then the third allowed move would 
+have to bring them into port, into Fiji and/or Samoa.
+b) Fleets cannot move directly between the South Philippine Sea and 
+the Sulu Sea unless Leyte is uncontested and friendly-controlled.
+8.23 EXTENDED NAVAL OPERATIONS: The Phasing Player 
+(only) may spend a Special Action to allow CV, BB, and CA fleets 
+that have already used naval movement [8.22] in any one sea-zone 
+where the Phasing Player exerts Dominant Influence to move up to 
+an additional three sea-zones to any one destination sea-zone, again 
+having to stop when they enter a sea-zone where the enemy exerts 
+limited or dominant influence [8.13]. The new sea-zone that this 
+force moves to may not be one where movement and reaction has 
+already been resolved for the current player-turn. As this movement 
+occurs prior to the Production Phase, the Special Action must have 
+been saved from last turn. The enemy again gets a chance to react 
+after this extended move is completed. An opposing submarine unit 
+does not hinder this extended move, but may make a submarine 
+attack against the whole fleet before the fleet moves out of the sea-
+zone [8.5]. No fleet may perform more than one extended operation 
+per turn. Other friendly fleets and troop transports that have not yet 
+moved may join the extended move fleets in their destination zone if 
+they are within range of this zone from their origination port/area.
+8.24 MARINE UNITS: Japanese marines may move 
+up to three sea-zones, like fleets (costing the Japanese 
+player an oil point) or up to two zones like other ground 
+units (costing the Japanese a transport point). USA ma-
+rines move up to three zones. Marine units (both USA and Japanese) 
+must depart from a port to move three sea-zones [8.12].
+8.25 NAVAL REACTION: After the Phasing Player announces that 
+he has completed all his naval movement into a specific sea-zone the 
+Non-phasing Player may react into the sea-zone the enemy player 
+just declared and moved into. Only fleets in port and/or submarine 
+units in a holding box are eligible to react. Reacting fleets can move 
+up to two sea-zones [three using 7.6], following the rules for naval 
+movement [8.22], to enter the targeted sea-zone. Additionally, the re-
+acting player may choose to place his submarine unit, if eligible, into 
+the specified area, either with his fleets or acting alone (regardless 
+of distance and enemy influence). If the reacting player does react 
+with fleets, the Phasing Player may react with his submarine unit, 
+if eligible, into the specified area [8.5]. Each Japanese fleet (block) 
+that reacts expends one oil point from the Japanese Oil Reserve. 
+LBA units do not react, but may participate in Day Interceptions 
+[8.42] from adjoining uncontested areas during the second combat 
+round of each Day Interception resolved.
+8.3 Naval Interception
+8.31 During the Air and Naval Combat Phase, naval interception is 
+checked for every sea-zone where fleets from both sides reside and 
+also for sea-zones subject to submarine attack. Interceptions are 
+made in the order chosen by the Phasing Player and are executed 
+in the following manner:
+a) For the first interception attempt, each side may choose either 
+Day Interception (air combat) or Night Interception (surface fleet 
+combat). Beginning with the second interception attempt, either or 
+both sides may also choose to Avoid Interception. Each side hides 
+behind one hand the chits representing Day, Night, and Avoid with 
+the chit reflecting his choice at the top of the stack, and then both 
+players reveal their choice simultaneously. Avoid may not be chosen 
+on the first interception attempt. A player with only surface ships 
+and no LBA units present may only choose Night and a player with 
+only CV fleets and/or LBA units may only choose Day for the first 
+interception attempt (Avoid may also be selected as an additional 
+allowable option for both cases thereafter). 
+b) Neither player can choose Avoid for the first interception attempt. 
+If either or both players choose Avoid in a subsequent interception 
+attempt then interception for that sea-zone is over and the avoiding 
+player(s) must rebase [8.8] from that sea-zone. 
+c) Otherwise each player then rolls a die, with any player choosing 
+Day Interception receiving a +1 to the die roll, and compares their 
+results. Whoever rolls higher achieves their interception result. If the 
+modified rolls are tied, the result is bad weather, with the effect being 
+that another interception attempt is resolved. After bad weather both 
+players are eligible to select Avoid, and the possibility for surprise 
+is re-established [8.31d].
+d) If a player’s modified roll is four or more higher than his oppo-
+nent’s modified roll, he has achieved surprise. The effect of surprise 
+is that the player winning surprise fires and inflicts losses first, instead 
+of combat occurring simultaneously. Damaged ships will return fire. 
+Surprise may only be obtained in the first interception check and the 
+first check after any bad weather result.
+8.32 If Avoid is chosen, then each player that chose Avoid must 
+rebase [8.8] his fleets from the sea-zone to one or more ports after 
+resolving any submarine combat [8.52], reacting player first. Oth-
+erwise the winning result will be either Day or Night Interception, 
+resulting in day [8.42] or night [8.41] combat, respectively.
+8.33 JAPANESE NIGHT COMBAT ADVANTAGE: Any Night 
+Interception attempt made by the Japanese with the elite CA fleet in 
+that sea-zone receives a +1 modifier to the interception die-roll.
+8.4 Naval Combat
+If naval combat occurs as a result of the interception procedure 
+above, it is fought in a number of combat rounds and follow-up 
+interception attempts until only one side remains in the sea-zone. 
+The Air and Naval Combat Phase never ends with both sides at sea 
+in the same sea-zone.
+8.41 NIGHT COMBAT: A successful Night 
+Interception results in one round of night com-
+bat. Air units do not participate in night combat. 
+CV fleets and troop transports do not fire in 
+night combat and are screened by friendly BB 
+and CA fleets as indicated below. Consolidation 
+[8.11] for both sides must be done prior to making battle pairings. 
+The player with the higher interception roll chooses the one-on-one 
+battle pairings, and the owning player then decides where any surplus 
+
+fleets will fire after the one-on-one pairings are displayed. In both 
+cases, the following rules are used: 
+a) Battleships must fire upon Battleships and Cruisers must fire upon 
+Cruisers if possible. No enemy fleet may be targeted by more than 
+one firing fleet until all enemy Battleship and Cruiser fleets have 
+been targeted. CV fleets and troop transports may not be targeted 
+until all enemy Battleship and Cruiser fleets have been targeted 
+by at least two firing fleets. Fleets fire simultaneously unless one 
+player has achieved surprise [8.31d]. Each fleet rolls one die per 
+step (including damaged steps, if any). Die rolls of 6+ will destroy 
+one enemy step from the paired fleet. Die rolls of 5 will damage one 
+enemy step from the paired fleet. All destroy results are 
+applied first. A second damage result on the same fleet 
+destroys the damaged step instead of damaging a second 
+step. Any destroy or damage results after the one-on-one 
+paired fleet is fully destroyed may be applied to a second fleet that 
+has been assigned to target the firing fleet, if any, otherwise excess 
+hits are lost. Modifiers, if any, are always based on the paired fleet, 
+even if the remaining fleet is a different ship type.
+Firing steps receive Hit-bonuses as follows:
+	 +1	 Battleship firing on Cruiser
+	 +2	 Battleship firing on Carrier or Troop Transport
+	 –1	 Cruiser firing on Battleship
+	 +1	 Cruiser firing on Carrier or Troop Transport
+	 +1	 Japan’s elite Cruiser (cumulative with other modifiers)
+Carriers and Troop Transports may not fire.
+b) At the conclusion of the round of night combat, submarine 
+units present resolve combat [8.5], and then damage resolution is 
+performed [8.6]. The naval interception process is then repeated 
+[8.3].
+8.42 DAY COMBAT: A successful Day Inter-
+ception results in two rounds of day combat and 
+may be more easily resolved using the Battle 
+Board. BB and CA fleets do not participate in 
+day combat except to be possible targets for 
+enemy air units and to provide AA fire. Consoli-
+dation [8.11] for both sides must be done prior 
+to each round. LBA units based in an area adjoining multiple sea-
+zones may participate in Day Combat in each such zone containing 
+opposing fleets as they are resolved in turn. Day combat rounds are 
+conducted by using the following steps for each of two rounds:
+a) Both sides reveal their fleets and CBA units and then secretly 
+assign their air units to Attack, Escort, or CAP (Combat Air Patrol) 
+duties. This is done by hiding the Air Assignment Displays behind 
+one hand. Once assigned and revealed air units may not change 
+their assignment for the current round of combat. LBA units only 
+participate in the second round of combat during each successful day 
+interception result, and may perform any assignment for that round 
+(CAP, attack, or escort). Players must remember where each LBA 
+unit came from so they can be returned to their proper areas.
+b) If one side achieved surprise [8.31d], the surprised side may not 
+launch CBA units until after his opponent resolves his attack (in a 
+surprise round, neither side may fly CAP or escort; all planes of both 
+sides automatically fly attack). The surprised player may then attack 
+with any remaining CBA units on CV fleets that were not destroyed. 
+Following this resolution the second combat round begins as normal 
+with no remaining surprise effects. LBA does not participate in the 
+surprise round. Surprise has no effect if the surprising player has 
+only LBA air units.
+c) Place Air units and fleets onto the battle board in their respective 
+roles. Troop transports and CV fleets may not be screened in day 
+combat.
+d) Air-to-air combat is resolved and losses taken: Escorts and CAP 
+fire at each other, firing simultaneously, rolling one die per step, 
+and destroying a step on each roll of 5 or 6. Any hits exceeding 
+the number of Escorts are taken from the Attack Planes (Note that 
+Japanese Elite Planes must be eliminated first in this instance [9.12]). 
+If CAP steps exceed escorting steps by more than 2:1, CAP units of 
+the owning player’s choice that exceed the 2:1 ratio instead fire at 
+air units in the Attack section with a +1 hit bonus. 
+e) All fleets (except troop transports) fire anti-aircraft (AA): Roll 
+one die for every two naval steps (sum the steps of all friendly AA-
+firing fleets and divide by two, dropping fractions). Each 6 rolled 
+results in the destruction of one step of the attacking air units. If the 
+defender has no CAP remaining, then any surviving escort planes 
+may be the first to take the AA hits, otherwise AA hits must be suf-
+fered by the attacking air units until destroyed, with remaining AA 
+hits affecting escorts. 
+f) Remaining Attack air units select targets and fire upon ships, 
+rolling one die per step. No more than two attacking air units (up 
+to four steps) may target a single fleet until all fleets (including 
+troop transports) are targeted by two attacking units. Each 6 rolled 
+destroys one step and each 5 rolled damages a step from the targeted 
+fleet (two damage hits on one fleet will destroy a targeted step). 
+All destroy results are applied first. Any destroy or damage results 
+after the targeted fleet is fully destroyed are lost. CBA units (only) 
+receive a + 1 hit bonus if they fire on CV, CA, or troop transport 
+fleets. In addition, elite air units receive a +1 Hit-bonus against any 
+and all targets.
+g) All air units return home. CBA units in excess of the allowed 
+carrying capacity of remaining CV fleets are destroyed. A damaged 
+CV step can only base and launch a CBA cadre (flip a full-strength 
+CBA if necessary). Damage resolution [8.6] is not performed until 
+the end of the second round. Mark damaged fleets with a damage 
+marker to remind the players that the fleet already contains a dam-
+aged step. Damaged naval steps still count towards anti-aircraft dice 
+received. After the second round, LBA units return to the uncontested 
+friendly-controlled land areas in or bordering on the sea-zone that 
+they came from. 
+h) Repeat steps a-g for the second round. After the second round of 
+day combat, submarine units present resolve combat [8.5], damage 
+resolution is performed [8.6], and the naval interception process is 
+repeated [8.3].
+8.5 Submarine Units and Combat
+After each interception is fully resolved (one 
+round of night combat, two rounds of day com-
+bat, or zero rounds for an avoid), the submarine 
+units of each side that are in that sea-zone may 
+opt to either engage the enemy’s damaged 
+fleets, engage the enemy’s undamaged fleets, 
+or do nothing in that sea-zone, hoping for better opportunities in 
+future rounds. Damage resolution [8.6] is not performed until the 
+submarine units present make and resolve this choice. Submarine 
+units that choose to attack are fired upon and return fire only once 
+after each interception is resolved. Submarine options are resolved 
+as follows:
+
+8.51 ENGAGING DAMAGED ENEMY STEPS: Enemy fleets 
+that contain a damaged step are set aside.
+•	 Each CV and CA step (both damaged and whole) within the 
+fleet(s) containing a damaged step rolls one die vs. the attack-
+ing submarine unit. Each result of a ‘6’ destroys one step of the 
+attacking submarine unit. If there are no damaged CV or CA 
+fleets present, one die is rolled as a minimum anti-submarine 
+defense.
+•	 If the submarine unit survived this fire it picks one enemy dam-
+aged fleet and rolls one die per surviving submarine step, with a 
+5 or a 6 destroying the damaged step. If two hits are scored the 
+excess is ignored.
+8.52 ENGAGING UNDAMAGED ENEMY FLEETS: The sub-
+marine unit may instead opt to take on the enemy’s undamaged fleets 
+after each interception is fully resolved, or if there was no combat 
+round preceding submarine combat (possible if one or both sides 
+chose Avoid or there were no fleets friendly to the submarine unit 
+that reacted in that sea-zone).
+•	 If this option is taken, perform combat as in 8.51 above except 
+that all undamaged enemy CV and CA fleets get one die per 
+step before the surviving submarines can fire at any target of 
+their choice. If there are no CV or CA fleets present, one die is 
+rolled as a minimum anti-submarine defense.
+•	 In this case the fleet chosen as the target by the submarine can 
+take multiple hits, with a 5 causing a damage result, and a 6 (or 
+two 5’s) destroying one enemy step. Note that two 5’s would 
+destroy two steps of a troop transport [8.12].
+8.53 END OF COMBAT: As soon as the submarine unit resolves 
+its last attack (brought about by one or both sides choosing the avoid 
+option or there being no friendly fleets in that sea-zone), any surviv-
+ing submarine steps are removed from the sea-zone and placed back 
+in the submarine unit holding box for the next Player-turn. A 1-step 
+submarine that is returning to the submarine holding box merges 
+with the submarine replacement counter (4.61), if produced, and 
+becomes a 2-step unit. If the submarine unit was destroyed, the pro-
+duced submarine replacement counter becomes a 1-step submarine 
+unit in the holding box.
+8.6 Damage Resolution
+Damaged steps remain fully functional until this time, 
+except that a damaged CV step can only hold/launch a 
+single step of CBA. Each Naval Production Track has 
+a printed Damage Result Table (the numbers printed 
+along the bottom of each track). For each damaged step that survives 
+submarine combat [8.5] roll a die, then move the damage marker 
+from the affected fleet to the corresponding box on the proper Na-
+val Production Track, and then remove the damaged step from the 
+affected fleet by rotating it, subtracting a step. Each CBA unit that 
+was carried by a damaged CV step is placed in the Orphan CBA 
+holding box. Each damage marker may be advanced up its track by 
+expending one WERP per turn and it arrives when fully built like a 
+newly built naval step [4.74]. There is no damage resolution for the 
+DEI CA fleet or for troop transports, as a damage result is converted 
+to a destroyed result against these ship types.
+8.7 Port/Airbase Attacks
+The Phasing Player (only) may use CBA and LBA units 
+to conduct Port/Airbase attacks. If no enemy fleets 
+remain in a sea zone after all naval interceptions (if 
+any) have been resolved, then LBA in uncontested land 
+areas adjoining that sea-zone and CBA units in the sea zone may 
+conduct one round of port/airbase attacks on an enemy area within 
+or bordering the sea zone that either contains a port (port attack) or 
+is uncontested and contains an enemy LBA (airbase attack). Each 
+air unit is limited to one such attack per turn (even if an LBA’s area 
+borders more than one sea-zone). The phasing player may divide 
+his eligible air units to attack multiple areas. Each attacked area is 
+resolved with a round of combat as follows:
+•	 The Air units attacking each area are assigned either escort and 
+or port attack (if the area has a port bordering the sea zone) 
+duties as the Phasing Player desires. All defending air units 
+(including CBA on fleets in port) are automatically assigned 
+to CAP duties. If the defender has fleets present, he need not 
+reveal if there are CBA units present until after the attacker 
+has split his forces between escort and attack assignments. 
+Individual air units may not split their steps between different 
+missions.
+•	 Air-to-air combat is resolved as in rule 8.42d.
+•	 If at least one attacking unit was assigned to port attack duties 
+then the fleets in the port are revealed and AA fire is resolved as 
+in 8.42e, with the AA dice of the port [3.24] being added to the 
+AA dice of any fleets that are present in the attacked port.
+•	 Surviving air units with port attack duties target either an 
+enemy fleet in the port (as in 8.42f, but with a +1 port attack 
+Hit-bonus) or the port facilities (no port attack hit bonus, but 
+any number of air units may target the port facilities).
+•	 When targeting the port facilities, each 6 rolled damages the 
+port. No port can have more than three points of damage 
+inflicted against it; any additional damage is ignored.
+•	 Surviving attackers return to the area or fleet of origin.
+8.71 DAMAGED PORTS: Damaged ports do not function as ports 
+for strat-moves, fleet movement into them, and WERP/oil point 
+shipments out of them, but still function for supply purposes. Ports 
+can be repaired one point per turn at a cost of one WERP, provided 
+the damaged port is both friendly-controlled and supplied (excep-
+tion—8.72 below).
+8.72 REPAIRING HOME PORTS: Home ports may have any 
+number of damage points repaired in a single turn, though the cost 
+remains one WERP per point of damage. 
+8.73 ALLIED REPAIR RESPONSIBILITIES: Either Allied 
+player may pay for port repairs in non-home areas. Only the home 
+power may pay port repair costs in home areas.
+8.8 Naval Rebasing
+Naval rebasing takes place at the end of naval combat (for the side(s) 
+choosing Avoid) and also during the Rebasing Phase (for all fleets 
+and troop transports remaining at sea, any marine units that are 
+overstacked after an Amphibious Invasion, and unmoved Phasing 
+Player fleets in port that wish to change ports). All fleets in a sea-
+zone must return to port, none may remain at sea at the end of a 
+turn. Any reacting fleets return to port first followed by the Phasing 
+Player’s fleets. Fleets must make a legal naval move [8.22] to return 
+to a port. Alternately they may return to their home port, which al-
+lows fleets to ignore both distance and influence. The sea-zone they 
+begin the Phase in does not count for movement nor does enemy 
+influence within that zone preclude movement. Troop transports 
+and fleets may then move up to two (for troop transports, including 
+marines) or three (for fleets) sea-zones [per 8.22], but may not enter 
+any sea-zone where the enemy exerts limited or dominant influence. 
+Consolidation [8.11] is permitted in the destination port.
+
+9.0 NATION SPECIFIC RULES
+9.1 Japan
+9.11 SURPRISE ATTACK RULES (used only for the Nov/Dec 
+1941 Campaign Game): Japan attacked the Allies without a normal 
+declaration of war and caught them by surprise. During the Japanese 
+Player-turn of the Nov/Dec 1941 turn (only) they receive the fol-
+lowing surprise benefits: 
+a) The US fleets in Hawaii and in the USA may not make reaction 
+moves against Japanese fleets. 
+b) US fleets already at sea in the Hawaiian Islands sea-zone may 
+not make interception checks until after the surprise port attack on 
+Hawaii, following the procedure in rule 9.11k. 
+c) All Japanese air units receive a +1 hit-bonus for the first round of 
+the Air & Naval Combat Phase within each sea-zone. Elite air units 
+also receive their +1 hit-bonus. If the first attacks in a sea-zone are 
+port attacks, then the port attacks receive this surprise hit-bonus. 
+d) Allied LBA units and fleets in port do not project influence until 
+after the Air & Naval Combat Phase.
+e) Any Commonwealth fleets based in Singapore must automatically 
+make a reaction move against Japanese fleets ending movement in 
+the Gulf of Thailand or the Java Sea (whichever one is first eligible 
+for a reaction move [8.25]).
+f) For all port attacks, Allied AA dice are halved for both the port 
+and ships in port (fractions rounded up), first round only in the case 
+of Hawaii.
+g) Japanese infantry receive a +1 hit bonus when fighting in jungle 
+areas.
+h) There is no strategic warfare segment during the Japanese player’s 
+Production Phase of this turn.
+i) The Japanese submarine unit may only be placed where Allied 
+fleets react (not in the Hawaiian Islands).
+j) The Japanese player may have a surprise port attack using any 
+fleets in the Hawaiian Islands sea-zone. This is resolved like a normal 
+port attack [8.7] except that it happens before the first interception 
+attempt in that sea-zone, the Japanese receive the Hit-bonus of case 
+c above, and the defending LBA unit may not fly CAP. The LBA 
+unit may be fired upon (as air-to-air) without returning fire (bonuses 
+for surprise and elite apply).
+k) The Japanese player may elect to rebase [8.8] immediately fol-
+lowing the surprise port attack on Hawaii, or they may stay and 
+possibly fight the American fleets in the Hawaiian Islands sea-zone 
+hoping to clear the zone so they can then launch a second port at-
+tack round on Hawaii (this is the only case where a second port 
+attack is allowed). 
+•	 If the Japanese elect to stay, the US fleets at sea may then elect 
+to immediately rebase to the USA home port (not Hawaii) or at-
+tempt interception of the Japanese fleet for an abridged single-
+round of day combat. 
+•	 If the Americans elect to stay they get a +3 on the intercep-
+tion die roll (both sides must select day) for the single allowed 
+round. The Japanese lose the extra ‘surprise’ +1 Hit-bonus of 
+9.11(c) above (having used it on the surprise port attack). 
+•	 After this mandatory combat round, further interception at-
+tempts may be made, and either side may choose Avoid.
+•	 If the American fleet departs, either without combat or after 
+combat, and the Japanese fleet remains, a one round normal 
+port attack is then allowed on Hawaii with any surviving CBA 
+units.
+9.12 ELITE UNITS: Some of the Japanese pilots at the beginning 
+of the war, as well as the Japanese Heavy Cruisers, were highly 
+trained, had the best equipment, and had combat experience. The 
+Japanese player begins the Campaign Game with four elite CBA 
+units, four elite LBA units, and one elite Cruiser fleet. 
+•	 These units may never receive replacements. 
+•	 If an elite CA step is damaged, the damaged step becomes a 
+non-elite CA step as soon as the damage marker is placed on 
+the CA production track. The elite CA fleet may never receive 
+repaired steps.
+•	 The elite CA fleet receives a +1 Hit-bonus when firing in night 
+combat, and adds a +1 to the Japanese interception roll when 
+present and the Japanese choose a night interception attempt.
+•	 Two damaged elite air units in the same location and of the 
+same type (LBA or CBA) may combine into one full strength 
+elite unit, if desired. An elite unit may combine with a non-elite 
+unit, if the Japanese player desires, but the step is added to the 
+non-elite unit, and the elite unit is removed from play. 
+•	 All air-to-air combat hits (not anti-aircraft fire) from the Allied 
+player must be applied to elite air units first, when such losses 
+are applied within each mission type. 
+•	 Elite air units receive a +1 Hit-bonus when conducting air-to-
+air combat and when attacking fleets and port facilities, but not 
+for ground-support. 
+•	 Each elite air unit that is eliminated results in a non-elite air 
+unit of the same type being added to the Japanese Force Pool.
+9.13 KAMIKAZES: Place the kamikaze marker on the 
+General Information Track as indicated by the scenario 
+played. This marker is moved down one space each turn 
+for each of the following conditions that apply:
+•	 The Japanese player spends more than one WERP on air units 
+(Build Track and replacement steps combined).
+•	 Each Japanese Production Phase where they begin with less 
+than 20 oil points and they receive fewer than three additional 
+oil points that phase (after strategic warfare is resolved)
+When the kamikaze marker reaches zero the Japanese must invoke 
+kamikaze tactics (may no longer fly dogfight, CAP, escort, or ground-
+support missions) with their remaining LBA units due to lack of pilot 
+skill and shortage of fuel (except any remaining elite LBA units, 
+which along with CBA units may not use kamikaze tactics). Once 
+the Japanese LBA units have gone kamikaze, the Japanese player 
+may move one LBA build marker up one position on the build track 
+before production each Production Phase as all aircraft resources are 
+devoted to the kamikaze effort, in addition to any WERPs spent for 
+air units on the build track (note that this could allow for one LBA 
+marker to move up two slots on the build track against the normal 
+production rules). Kamikaze units must attack enemy shipping at 
+every opportunity and are resolved as follows:
+a) During each Air & Naval Combat Phase, the first action (before 
+interception checks) in each sea-zone is a kamikaze attack by all 
+
+Japanese LBA units that project influence into that sea-zone. Kami-
+kaze attacks are never forced to exceed one step of attacking air for 
+each step of targets. If there are more LBA steps than targets, the 
+remaining LBA units may either kamikaze attack or remain unused 
+awaiting better targets at the Japanese player’s option. Kamikaze 
+attacks do not undergo air-to-air combat or anti-aircraft fire (these 
+elements are already factored in). Sea-zones are resolved in the order 
+chosen by the Phasing Player.
+b) Each full strength Kamikaze unit (2 steps) receives one die roll 
+needing a 6 to destroy a step or 5 to damage a step of the targeted 
+enemy fleet or troop transport. The first Kamikaze unit must target 
+a cruiser fleet (if present) while any others in the battle can target 
+whomever they desire. Kamikaze units may not double-up on any 
+targeted fleet unless each fleet is being attacked by one Kamikaze. 
+Once Kamikaze units have fired they are destroyed.
+c) Half-strength (1 step) Kamikaze units may only damage the tar-
+geted fleet and need a 6 to succeed. Note that a damage result will 
+still destroy a targeted troop transport step or a DEI cruiser step.
+9.14 BANZAI ATTACKS: Before the Japanese player rolls for 
+any of his garrison and/or militia units that are in combat (attack or 
+defense), the Japanese player may declare that some or all of these 
+units are launching a banzai attack. The effect of the banzai attack 
+is that the Japanese player is awarded an additional +1 Hit-bonus to 
+the units conducting the banzai attack (even militia units and units 
+in partial supply receive this special +1 Hit-bonus), but after he rolls 
+the dice and resolves any hits inflicted on the Allies, all units that 
+conducted the banzai attack are eliminated, unless the Allies are 
+completely eliminated, in which case one step (only) of the banzai 
+attackers survives.
+9.15 TENACIOUS DEFENSE OF CHINA: Japanese ground 
+units (except militia) receive a Hit-bonus when defending against 
+Chinese attacks.
+9.16 HOME DEFENSE FORCE: There are three markers included 
+for the General Information Track to reflect the current strength of 
+the Japanese home defense militia. They begin each scenario at 12 
+(Honshu) and 4 (Shikoku and Kyushu). Each represents a single 
+unit of militia that would be full-strength at 20 steps. As such, they 
+represent the number of militia steps inherent with the defense of 
+each home island. For each round of combat, these are treated as 
+regular militia steps except that one quarter of the remaining defense 
+force steps (rounded up—no more and no less) on each contested 
+island must conduct a banzai attack [9.14] for each round of combat 
+(attack or defense) that is fought in the area. The Japanese player 
+may produce additional home defense steps for friendly-controlled 
+home islands, at a cost of one WERP per step, even if the island is 
+contested.
+9.2 USA
+9.21 USA NAVAL REINFORCEMENTS: Beginning with the 
+Jan/Feb 1944 turn the USA receives 1 CV, 1 BB, and 1 CA step 
+free of WERP cost every turn for the remainder of the game. This 
+represents the ramp-up of US naval production that kicked into high 
+gear by the beginning of 1944.
+9.22 USA PRODUCTION INCREASES: 
+•	 The USA has five WERPs for the Dec 1941 turn. 
+•	 Beginning with the Jan/Feb 1942 turn their production increases 
+to 20. 
+•	 If on any turn in 1942, the US reacts to a Japanese naval move 
+(and therefore has an interception attempt) or makes a naval 
+move that the Japanese could legally react to with surface fleets 
+(whether they do or not) then the US is eligible for their WERPs 
+to increase by 5 (to 25) with the Jan/Feb 1943 turn. To be eligible, 
+the USA fleet risked must be at least eight steps in total strength 
+and contain at least one CV step, and each CV step risked must 
+have a CBA unit on board. If the eligibility is fulfilled without na-
+val combat occurring, the US player must reveal sufficient fleets 
+from his force to prove the eligibility requirement was met. If 
+they are not eligible they remain at 20 WERPs until such time as 
+they fulfill the above condition. When this first increase occurs, 
+the 1943 USA Force Pool additions are also received (see sce-
+nario cards).
+•	 The process is repeated in 1943 when their production will in-
+crease to 30 in Jan/Feb 1944 or when they fulfill the above con-
+dition for the second time (on any turn in 1943 or later that is 
+after the turn that the first condition was fulfilled). When this 
+second increase occurs, the 1944 USA Force Pool additions are 
+also received (see scenario cards). 
+•	 The 1945 force pool additions are received at the start of the 
+Jan/Feb 1945 game turn.
+9.23 USA OPERATING LIMITS: USA units may not operate in 
+India, Burma, or China (except Formosa). 
+Note: Merrill’s Marauders, which operated in Burma, was too 
+small a unit to be represented in Asia Engulfed.
+9.24 NAVAL BUILD CHITS: There are seven US Naval Build 
+Chits labeled with a date of entry. These build chits are added to 
+the US Force Pool and may be used beginning with the turn shown 
+on the marker.
+9.25 LEND-LEASE: The US may transfer up to five WERPs (total) 
+per turn in some combination spread between The Commonwealth 
+and Nationalist China. Nationalist China can only receive a maxi-
+mum of two WERPs per turn for each of the Burma Road areas 
+(Assam and Burma) that the Allies control. WERPs transferred to 
+the Nationalist Chinese must be able to trace to a friendly-controlled 
+and Nationalist occupied Chinese resource area. WERPs transferred 
+to the Commonwealth must be able to trace to a friendly-controlled 
+resource area in India or Australia, and if any ground units are pro-
+duced by these WERPs they must belong to the nation traced into. 
+A trace to India may go around Australia, exiting the south edge of 
+the map east of Australia and re-entering the map in any sea-zone 
+west of the continent. This trace around Australia may also be used 
+for US supply [3.4], but not to strat-move units. Each WERP the 
+US transfers to either power deducts two WERPs from the USA 
+for the current turn.
+9.3 The Commonwealth
+9.31 THE WAR IN EUROPE: The Commonwealth must subtract 
+three WERPs per turn, representing aid sent to Europe in the war 
+against Nazi Germany. These WERPs are kept in the Asian theatre for 
+each Allied Production Phase that the Japanese Player has a ground 
+unit within any area of India (not Ceylon) or Australia.
+
+9.32 OPERATING LIMITS: Commonwealth units may not oper-
+ate in China except for the two islands (Hainan and Formosa) and 
+the two port boxes (Hong Kong and Shanghai). They may not enter 
+these areas if there are currently Chinese units in them.
+9.4 China
+9.41 CHIANG KAI-SHEK HEEL DRAGGING: Chinese Nation-
+alist units may not move into a Japanese occupied area unless the 
+area already contains at least one Nationalist unit or the US spends a 
+Special Action. If spent, the US Special Action allows them to create 
+one or more newly contested areas that turn. They may move into 
+already existing battles and unoccupied Japanese-controlled areas 
+without need of a Special Action.
+9.42 COMMUNIST UPRISING: The Chinese Communists receive 
+one free step each Allied Production Phase. This represents the 
+continual popular support they received from the local populations. 
+New Communist units may appear in any friendly-controlled (it 
+may be contested) area within China containing or adjacent to an 
+area already containing one or more Communist units. The Chinese 
+Communists may not use WERPs, even if they control and occupy 
+a Chinese resource area. The one free step per turn, along with any 
+free militia steps received through rule 9.45, are the only increases 
+the Chinese Communists are allowed.
+9.43 NATIONALIST-COMMUNIST CHINESE CONFLICT: 
+In any engaged area where both Communist and Nationalist units 
+are defending, the Japanese player receives a Hit-bonus during all 
+rounds of combat until a round begins with only one force remains 
+(Communists or Nationalists). In such areas where the Chinese 
+are attacking, the Japanese player still receives this Hit-bonus, 
+and additionally only one force (Nationalist or Communist; Allied 
+player’s choice) may launch the attack and that force suffers any 
+and all losses.
+9.44 OPERATING LIMITS: Chinese units may only operate in 
+China (including Shanghai, Hainan, and Hong Kong; China will 
+receive the WERP for Shanghai while Nationalist garrisoned, but not 
+Hong Kong, which the Commonwealth will receive the WERP for, 
+provided it is Allied-controlled and unoccupied or occupied by a Brit-
+ish ground or garrison unit), Manchukuo, and Korea. Additionally, 
+Chinese Communist units may only operate in rough terrain areas 
+and areas adjacent to rough terrain within the above limits. Chinese 
+units may not enter areas containing Commonwealth units.
+Note: The Chinese Expeditionary Forces that operated in Burma 
+were too small a unit to be represented in Asia Engulfed.
+9.45 CHINESE EMERGENCY MILITIA: Each time a territory 
+in China that was controlled by the Chinese becomes controlled by 
+the Japanese during a Combat Phase, the Chinese instantly receive 
+up to five free steps of militia in any combination of new units and/or 
+replacements (cannot exceed the Force Pool). These free steps shall 
+be Communist when the area taken was rough terrain, and Nationalist 
+for other areas. The free steps arrive with the same constraints as 
+newly produced units for each force.
+9.46 CHINESE MILITIA IN COMBAT: Chinese Militia may only 
+fire (roll dice) when defending. If they participate in an attack, they 
+may not fire (roll dice), but they may take casualties following the 
+normal rules (full-strength units first, etc.).
+9.47 CHINESE LBA UNIT: The Chinese LBA 
+unit may only be used to support Nationalist ground 
+units or to dogfight.
+9.5 Minor Powers (DEI & the Philippines)
+9.51 The DEI never produces. Their CA fleet is considered an Allied 
+fleet except as noted below. Their ground units may not move from 
+their initial placement areas.
+9.52 DEI fleet steps cannot be repaired. Destroy any damaged step 
+on the DEI fleet during damage resolution [8.6] instead of rolling 
+on the cruiser damage table. Note that two damage results during 
+combat will only destroy one step as with any other CA fleet. Dam-
+age results are not converted to destroy results until the Damage 
+Resolution is resolved.
+9.53 The DEI fleet may use any friendly-controlled port within the 
+DEI, India or Australia as a home port.
+9.54 The DEI is conquered and their ground units are permanently 
+removed from the game when all of their resource areas are Japa-
+nese-controlled at the end of any phase.
+9.55 The Philippines may only produce to rebuild or add a replace-
+ment to their militia unit, and only if Luzon is friendly-controlled. 
+Their militia unit is considered an American unit for all purposes 
+except that it cannot leave the Philippines and it cannot be replaced 
+or rebuilt with American WERPs.
+9.56 The Philippines are conquered and their unit is permanently 
+removed from the game when all four Philippine areas are Japanese-
+controlled at the end of any phase.
+10.0 CONQUEST & VICTORY
+10.1 National Conquest
+Each Major and Minor Power is considered conquered when the 
+conditions below are met. When a specified country is conquered 
+all its forces are removed permanently from the game.
+10.11 Japan is conquered the instant Honshu is enemy-controlled. 
+Upon conquest of Japan the game ends [10.3].
+10.12 India is conquered if at the end of the Allied Player-turn all 
+three Indian resource areas are under Japanese control. Indian units 
+are removed from the game, and India never again acts as a supply 
+source for Commonwealth units.
+10.13 Australia is conquered if at the end of the Allied Player-turn 
+both Australian resource areas are under Japanese control. Australian 
+units are removed from the game. If one or more Australian resource 
+areas are later liberated Australia will again act as a supply source 
+for Allied units.
+10.14 Each Chinese force is conquered as follows:
+a) Nationalist China is conquered if at the end of the Allied Player-
+turn the Chinese do not control at least one Chinese resource area 
+(Communist forces may continue fighting if they have not been 
+separately conquered).
+b) Communist Chinese forces are conquered when there are no 
+Communist Chinese units currently on the game map (National-
+ist China may continue fighting if they have not been separately 
+conquered).
+10.15 The DEI is conquered the instant they no longer control any 
+resource or oil areas. The DEI fleet is not removed when they are 
+conquered; it may only use Indian and Australian home ports from 
+that moment, but it cannot receive additional steps.
+
+10.16 Great Britain cannot be conquered.
+10.17 The USA cannot be conquered.
+10.18 END OF GAME: The game ends at the conclusion of the 
+July/August 1945 turn, unless it ended earlier with the conquest of 
+Japan or Japan fulfilling its Decisive Victory conditions [10.3]. 
+10.2 Conquered Territory Control
+After a Major or Minor Power has been conquered, and its forces 
+removed, control of its territory is determined as follows:
+10.21 All areas solely occupied by invading forces, or that contain no 
+forces at all, are considered controlled by the conquering Power.
+10.22 Areas containing forces opposed to the invader after the 
+conquered units have been removed remain friendly to the side that 
+controlled them at the instant prior to conquest.
+10.3 Victory Conditions
+Victory levels are determined as follows:
+The Japanese win a Decisive Victory if any of the following condi-
+tions exist at the end of an Allied Player-turn:
+a) The Japanese control Hawaii.
+b) The Japanese control 12 or more supplied Victory Point (VP) 
+areas/sea-zones.
+c) Japan is unconquered at the end of the Jul/Aug 1945 turn, controls 
+at least six supplied VP areas, and the Allies have NO strategic air 
+base land areas under Allied-control.
+The Japanese may win Operational and Marginal Victories by 
+controlling enough supplied Victory Point Areas as listed below 
+and remaining unconquered at the end of the Jul/Aug 1945 game 
+turn. VP’s for sea-zones are awarded if the Japanese exert limited 
+or dominant influence [8.13] in them (a Supply Network Marker is 
+not necessary).
+	 6+ . . . . . . . . . . . . . . . . . . Operational Victory
+	 3-5 . . . . . . . . . . . . . . . . . . Marginal Victory
+The Allied Victory levels are as follows:
+	 Marginal Victory . . . . . . . Japan controls 2 supplied VP areas
+	 Operational Victory . . . . . Japan controls 0-1 supplied VP areas
+	 Decisive Victory . . . . . . . Japan is conquered before game end
+CREDITS
+GAME DESIGNERS: Jesse Evans and Rick Young
+GAME DEVELOPER: John Foley
+RULES EDITING: Kristian Madsen, Joe Keller, and John 
+Ellsworth
+ART DIRECTOR: Rodger B. MacGowan
+PACKAGE DESIGN: Rodger B. MacGowan
+COUNTERS & MAP: Mark Simonitch
+RULES LAYOUT: Mark Simonitch
+PLAYTESTERS: Mark Beninger, Eric Burgess, Joe Chacon, Ron 
+Draker, Jesse Evans, John A. Foley, Kevin Garber, Jim Ham-
+bacher, Björn Hansson, Andrew Harding, Hal Hood, Joe Keller, 
+Dave Knoyle, Mark A. Kramer, Greg Lipin, Kristian G. Madsen, 
+Tim Paterson, Mark Simonitch, Joel Toppen, Mike Wene, Joe 
+White, and Rick Young.
+PRODUCTION COORDINATION: Tony Curtis
+PRODUCERS: Tony Curtis, Rodger MacGowan, Andy Lewis, 
+Gene Billingsley and Mark Simonitch
+10.4 Bidding For Sides
+Bidding for sides is done by bidding how many WERPs of free 
+pre-game production you are willing to allow the Japanese and how 
+many starting oil points you are willing to add to the Japanese player 
+for you to be the Allies. Alternately, how many WERPs of free pre-
+game production you are willing to allow the Allies and starting oil 
+points you are willing to sacrifice to be the Japanese. 
+EXAMPLE: If you win a bid to be the Americans with a bid of three, 
+the Japanese Player may take a free Production Phase before the 
+game begins using these three WERPs (only), within normal con-
+straints (except transport point usage, which does not subtract from 
+available transports for the first turn), and the Japanese player also 
+adds three oil points to his beginning tally to start the scenario.
+
+Air Units: 4.21, 4.44, 4.75, 5.12, 5.13, 5.14(b), 5.22, 5.3, 5.41 - 5.43, 
+5.46, 6.21, 6.22, 6.4, 6.5 - 6.53, 7.24, 8.13(a) - (c), 8.42(a) - (g), 
+9.11(c)+(d), 9.13 - 9.13(c)
+America: see USA
+Amphibious Invasions: 1.15, 6.4, 7.2 - 7.25, 8.13(a)
+Areas: KT&C, 3.1, 3.2
+ASW: see Strategic Assets
+Battleships: 7.22, 8.41, 8.41(a), 8.42
+Bomber Points: see Strategic Assets
+Breakthrough Combat Phase: 1.17(b), 6.6 - 6.63
+Cadre: KT&C, 4.44
+Carriers: 5.41, 8.41, 8.41(a), 8.42(c)
+Chinese:
+	 Communists: 3.32, 4.11, 9.42, 9.43, 9.44, 10.14(b)
+	 LBA: 9.47
+	 Militia: 9.45, 9.46
+	 Nationalists: 3.31, 4.11, 4.14, 7.7, 9.41, 9.43, 9.44, 10.14(a)
+Combat:
+	 Air-to-Air: 6.22, 8.42(d)
+	 Air & Naval: 1.14, 5.12, 8.4 - 8.42(h)
+	 Ground: 1.17, 6.0 - 6.75
+Combined Game: 16.0
+The Commonwealth: 4.11, 4.14, 9.3, 10.12, 10.13, 10.16
+Consolidation: 8.11, 8.41, 8.42, 8.8
+Contested Area: KT&C, 3.1, 5.14, 5.23, 6.1, 7.7
+Controlled Area: 3.25, 5.23
+Cruisers: 7.22, 8.33, 8.41, 8.41(a), 8.42
+Damage: 8.41(a), 8.42(b), 8.42(f), 8.42(g), 8.42(h), 8.6
+DEI: 3.33, 4.13, 4.14, 9.5 - 9.53, 10.15
+Dutch East Indies: see DEI
+Elite Units: See Japan
+Europe Engulfed: 16.0
+Field Fortifications: 4.44, 6.4, 6.8
+Final Supply Determination: 1.19, 3.7, 3.8, 6.74
+Fleets: KT&C, 1.11(a), 4.24, 4.74, 5.42, 5.43, 5.45, 8.0
+Force Pool: KT&C, 4.4
+Garrison Unit: 3.35, 4.28, 4.43, 4.44, 4.5, 4.8, 5.42, 5.43, 6.74, 7.25
+General Information Track: 2.0, 4.71
+Ground Units: KT&C, 4.22, 5.11, 5.21, 5.3, 6.23
+Hit-Bonuses: KT&C, 6.4, 7.21, 7.22
+Holding Boxes: KT&C
+Home Areas: KT&C, 4.41
+Home Ports: KT&C, 4.42, 4.74, 8.7, 8.8
+Influence: KT&C, 3.4(a), 5.23, 8.13, 8.22
+Interception: see Naval Interception
+Island Boxes: 3.23, 5.42, 6.75, 7.25
+Japan:
+	 Banzai Attacks: 3.35, 6.4, 9.14
+	 Conquest: 10.11
+	 Elite Units: 6.22, 9.12, 9.13
+	 Heavy Cruisers: 8.33, 9.12
+	 Home Defense Force: 9.16
+	 Kamikazes: 9.13 - 9.13(c)
+	 Partial Supply Sources: 3.35, 3.8
+	 Occupied Resources: 4.11, 4.14, 4.8 
+	 Oil Points: KT&C, 1.11(c), 2.12, 2.42, 4.11, 4.14, 4.8(a), 8.21, 
+8.24, 8.25
+	 Supply Network: 1.12(b), 2.12, 3.4(b), 3.5, 7.2, 8.13(a)
+	 Transport Points: KT&C, 1.11(c), 1.12(b), 2.12, 3.5, 4.44, 4.5
+Jungle: 1.12(a), 5.15, 5.44, 6.32, 6.4, 6.72, 9.11(g)
+Kamikazes: see Japan
+Land Areas: 3.21-3.23
+Large Areas: 3.21
+Marine Units: 4.26, 4.44, 6.4, 7.2, 8.24
+Markers: 4.29
+Major Powers: KT&C, 7.13
+Militia Units: 4.27, 4.44, 7.21, 9.45, 9.46
+Minor Powers: KT&C
+Movement - Ground/Air: 5.0 - 5.32
+Movement - Naval: see Naval Movement
+Naval Combat: see Combat: Air & Naval
+Naval Consolidation: see Consolidation 
+Naval Damage: see Damage
+Naval Interception: 8.3 - 8.33, 8.41, 8.42, 9.11(b)
+Naval Movement: 1.11(a), 7.4, 8.2 - 8.23
+Naval Reaction: 1.11(b), 7.4, 7.6, 8.2, 8.25, 9.11(a), 9.11(e), 9.22
+Naval Rebasing: 1.18, 7.5, 8.8
+Netherlands East Indies: see DEI
+Newly Contested Area: KT&C, 6.1
+Oil Points: see Japan
+Operational Movement: 1.15, 5.1 - 5.19, 5.31
+Out of Supply: 3.6
+Partisans: 4.8
+Philippines: 4.14, 4.32, 4.41, 4.43, 9.55, 9.56 
+Ports: 3.24, 4.44, 5.45, 7.23, 8.24, 8.7, 9.11(j)
+Port Boxes: 3.22, 3.35, 5.17, 5.43, 6.74, 7.25
+Production: 1.13, 4.0 - 4.8, 7.1, 7.8, 9.21, 9.22
+Production Tracks: 4.71
+Replacements: 4.3, 4.5, 7.8
+Rivers: 5.19, 6.4, 6.73
+Rough Terrain: 5.19, 6.4, 6.71
+Sea-supply: 3.4, 8.13
+Sea-transport: 5.23, 5.3 - 5.32
+Sequence of Play: 1.0 - 1.3
+Special Actions: KT&C, 4.44, 6.61, 7.0 - 7.8, 9.41
+Stacking Limits: 5.4 - 5.46
+Steps: KT&C, 4.22, 4.24
+Straits: KT&C, 3.1, 5.16, 6.4, 6.73
+Strat-Moves: KT&C, 1.16, 2.13, 4.8(c), 5.2 - 5.24, 5.32, 8.13
+Strategic Air Bases: KT&C, 2.4, 2.5
+Strategic Assets: KT&C
+	 ASW: 2.1, 2.11, 2.13, 2.2, 4.44
+	 Bomber Points: 2.4, 2.41, 2.42, 2.5, 4.44
+	 Submarine Warfare: 2.1, 2.12, 2.3, 4.44
+Submarine Units: 1.11(b), 1.14, 4.25, 4.44, 8.5, 9.11(i)
+Submarine Warfare: see Strategic Assets
+Supply: 1.12, 1.19, 3.0 - 3.8, 4.8(b) 
+Supply Network: see Japan
+Supply Sources: 3.1, 3.3
+Surprise: 8.31(d), 8.41(a), 8.42(b), 9.11
+Torpedoes: see USA
+Transport Points: see Japan
+Troop Transports: KT&C, 8.12, 8.41, 8.41(a), 8.42(c)
+USA: 3.34, 4.11, 4.14, 4.42, 9.2, 10.17
+Torpedoes: 2.14
+WERPs: KT&C, 2.12, 2.41, 2.42, 4.1 - 4.14, 4.6, 4.73, 4.77, 4.8(a), 
+9.22, 9.25
+INDEX (KT&C = Key Terms and Concepts - pages 2&3)

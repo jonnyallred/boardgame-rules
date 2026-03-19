@@ -1,0 +1,837 @@
+“ADELE, open the bay door!”
+“Sorry, Emma, I’m afraid I can’t do that…”
+After many years or careful planning, the ﬁ rst manned expedition to Mars takes ﬂ ight. All humanity bids farewell to 
+the Deimos, the ﬁ rst spacecraft of its generation, a whole new design equipped with the best systems technology 
+can provide, including a super AI that supervises it all: an Advanced Device of Electronic-Living Engineering, most 
+commonly  known as ADELE. A new era for humanity and their relationship with space has begun!
+Just a few days after leaving Earth, peculiar incidents start to happen… Small things, to begin with: a system disconnected 
+at an inopportune moment, a mistake in programming, nothing serious. It is when one of the crew members almost dies of 
+asphyxiation while sleeping in her own room that they are forced to accept the hard truth: ADELE, the central AI, has become 
+hostile. The race for survival starts. Can the crew disconnect the rogue AI? Or would it be best to escape the ship on a 
+shuttle? What’s clear is that they need to be as subtle as possible or ADELE will ﬁ gure out their intentions.
+Will they manage to survive or will they end up ﬂ oating in space, where no one can hear you scream?
+A  G A M E  B Y
+A L B E R T  R E Y E S
+A R T  B Y
+J O S É  S O T O
+COMPONENTS
+1 Main Board
+1 Main Board
+27 ADELE cards
+27 ADELE cards
+25 Event Cards
+25 Event Cards
+28 Cubes
+28 Cubes
+(7 of each color)
+(7 of each color)
+4 Astronaut 
+4 Astronaut 
+Meeples
+Meeples
+1d20 and 
+1d20 and 
+4d6
+4d6
+1 Energy 
+1 Energy 
+Cylinder
+Cylinder
+52 Hazard 
+52 Hazard 
+Tokens
+Tokens
+8 Inventory 
+8 Inventory 
+Disabled Tokens
+Disabled Tokens
+1 Turn 
+1 Turn 
+Marker
+Marker
+1 “No Return” 
+1 “No Return” 
+Marker
+Marker
+1 Cloth 
+1 Cloth 
+Bag
+Bag
+1 Rulebook + 2 Player aids
+1 Rulebook + 2 Player aids
+19 Mission
+19 Mission
+Tiles
+Tiles
+32 Object
+32 Object
+Tiles
+Tiles
+6 Anomaly
+6 Anomaly
+Tiles
+Tiles
+16 Charge 
+16 Charge 
+Tokens
+Tokens
+6 Hatch 
+6 Hatch 
+Closed 
+Closed 
+Tokens
+Tokens
+2 Alert 
+2 Alert 
+Terminal 
+Terminal 
+Tokens
+Tokens
+4 Impact 
+4 Impact 
+Tokens
+Tokens
+1 ADELE Console
+1 ADELE Console
+4 Crew Boards
+4 Crew Boards
+4 Crew Screens
+4 Crew Screens
+2
+1.0 THE GAME: HOW TO WIN
+In ADELE, all players (except one) will play the role of crew members who try to ﬁ nd the necessary items to complete one 
+of the two possible missions: either disconnect ADELE or escape the ship. The remaining player will take the role of the 
+rogue AI that tries to impede the other players’ mission.
+Both missions require speciﬁ c objects to be delivered to speciﬁ c locations on the ship. The knowledge of where to deliver each 
+object is fragmented among the crew members, so it is important they coordinate to ﬁ nd the objects and bring them to the 
+appropriate locations, always trying to hide this information from ADELE. Every mission also requires a speciﬁ c condition to be 
+met to succeed. If time runs out before completing one of the missions or one of the crew dies, ADELE wins.
+2.0 SETUP
+For a game with 3 to 5 players, follow these instructions (for 1 or 2 players, see 11.0):
+Place the main board on the table, in a central position reachable for all players. You can choose either to play on 
+the Deimos or on the Phobos.
+Choose a player at random (or by consensus) to take the role of ADELE. This player gets the ADELE console (and 
+must use the side of it that matches the number of players), the hazard tokens, the ADELE deck and her energy 
+counter. This player (referred to as ADELE from now on) must choose 4 anomaly tiles at random and place them 
+on their space on the console. Discard the rest of the anomaly tiles back into the box. Put all hazard tokens in the 
+bag, draw 4 and place them in matching spaces on the console, as much to the left as possible. Finally, remove 
+the 2 extra special cards (         ) , shufﬂ e the rest of the deck and draw 4 cards. and place the energy counter on its 
+starting position. If you are an experienced player, instead of removing the extra cards, you may remove any 2 other 
+special cards instead.
+The remaining players take one Crew Board each (deal them out randomly or by consensus), along with the mat-
+ching screen, dice and cubes. One cube should go on the leftmost square of the life track and 4 on the action zone.
+The remaining cubes will be used to mark knowledge of certain mission locations, as explained later. Finally, each 
+player takes the object printed on their board and places it there, face down.
+2
+1
+2
+3
+9
+9
+4
+6
+6
+6
+1
+2
+2
+2
+2
+RESOLUTION 
+SPACE
+      
+2 0 SETUP
+ADELE CHOSES 4 ANOMALY TILES AT RANDOM
+AND PLACES THEM ON HER CONSOLE
+ADELE DRAWS 4 HAZARD 
+TOKENS FROM THE BAG AND 
+PUTS THEM IN THE MATCHING 
+SPACES ON HER CONSOLE, 
+AS MUCH TO THE LEFTMOST 
+AVAILABLE SPACES
+ADELE’S CONSOLE
+PLACE ALERT TERMINALS ON THE 
+COMPUTERS IN LOCATIONS 3 AND 17
+ADELE’S DECK
+MAIN BOARD
+EVENTS
+DECK
+Select 1 copy of each of the following objects: ﬁ re extinguisher, space suit, ﬂ ashlight, battery and tracking dro-
+ne. Place those 5 objects face down on the box printed on the ship. Select the 7 mission objects, 2 copies of the 
+object parts, 1 battery object and add 10 of the remaining objects, selected randomly and without looking at them. 
+Shufﬂ e these 20 objects face down and then put one in each location on the ship, still face down. Return all remai-
+ning objects, without looking at them, to the box.
+For each crew member, roll the d20 and place their miniature on the matching location. Two players cannot start in 
+the same place. If this happens, reroll the die until each player is in a different location.
+Place the Alert Terminals on the computers in locations 3 and 17.
+Place the turn marker on the space assigned for the number of players present. Place the “No Return” marker on space 1.
+Shufﬂ e all Sector Mission tiles (except for the one 
+marked X) face down and place one in each of the 
+5 spaces on the Mission Track (one in the central 
+space and one in each of the two spaces to the ri-
+ght and left of that. The ones at each extreme have 
+ﬁ xed locations already printed on the track). Then 
+assign a cube from the designated player for each 
+Mission tile, as indicated in this chart  >
+Return all remaining Mission tiles to the box, except for the one marked X, without looking at them. 
+Keep this last tile (with the X) near the Mission Track.
+Prepare the Event Deck. In a 4- or 5-player game, remove the Silence event cards from the deck. Shufﬂ e the remai-
+ning cards and place the resulting deck on its space on the board. Turn the ﬁ rst card face up.
+Leave all remaining tokes near the board, for when they are needed.
+4
+3
+4
+4
+5
+7
+7
+8
+8
+8
+8
+8
+8
+5
+6
+7
+8
+9
+10
+R
+K
+PUT 1 SECTOR MISSION TILE IN 
+EACH OF THE 5 SPACES ON THE 
+MISSION TRACK
+KEEP THE SECTOR MISSION TILE 
+MARKED “X” NEAR THE MISSION 
+TRACK
+ASSIGN A CUBE FROM THE 
+DESIGNATED PLAYER FOR EACH 
+MISSION TILE, AS INDICATED IN THE 
+CHART
+EACH PLAYER TAKES THE 
+OBJECT PRINTED ON THEIR 
+BOARD AND PLACES IT 
+HERE FACE DOWN
+CREW SCREEN
+“NO RETURN” MARKER
+CREW BOARD
+CREW DICE
+CUBE ON THE 
+LEFTMOST SQUARE 
+OF THE LIFE TRACK
+4 ACTION CUBES
+PLACE THESE FIVE 
+OBJECTS FACE DOWN 
+ON THE BOX PRINTED  
+ON THE SHIP
+3
+3
+3
+4
+3.0 THE GAME TURN
+The game is played over a ﬁ xed number of turns, depending on the number of players. On each turn, phases are played in this order:
+EVENT PHASE. Place the ﬁ rst card from the event deck on the resolution space, covering the previous one, if any. 
+This event will be active on this turn. Some produce an immediate effect, while others apply for the whole turn. Re-
+member to turn the ﬁ rst card of the event deck face up, so everybody can see what will be the event for the next turn.
+PLANNING PHASE. All crew members must cover their boards with their screens and then assign their 4 
+action cubes to the various available actions.
+ADELE PHASE. In this phase, ADELE manages her console and places hazards and anomalies on the 
+board through these steps:
+Draw as many hazard tokens as indicated on the console and place them on their matching 
+spaces, starting with the least expensive (i.e. from left to right).
+Play as many cards as desired, in any order, to place available hazard tokens on the board by 
+expending the necessary energy. Anomalies can also be played as long as all costs are paid (see 
+section 8.0 ADELE for details).
+Discard as many cards as desired and then draw up 4 cards. Also, increase the available energy
+by the amount indicated on the console.
+RESOLUTION PHASE. The crew members remove the screens, showing the actions they have planned, 
+and resolve the hazards affecting them.
+ACTIONS PHASE. The crew members, in the order they desire, resolve the actions they have program-
+med (one player has to resolve all their actions before another can start).
+UPKEEP PHASE. Reduce the charge of all objects by one and remove all the tokens in the game that stay 
+“until the end of the turn”. Move the turn marker one space down.
+4.0 THE MISSIONS
+In order to win, the crew members must accomplish one of the two possible missions, either deactivate ADELE (blue 
+mission) or escape the ship (red mission). To succeed in either, they have to use 4 speciﬁ c objects in 4 speciﬁ c places
+on the ship and also meet this condition:
+IMPORTANT: As you can see on the Mission Track, the Retina Lens is common to both missions (it must be delivered, 
+no matter the mission) and the locations where the last object of each mission must be delivered (the Helmet for the 
+red mission and the Axe for the blue one) are ﬁ xed and printed on the track.
+The location where the ﬁ rst 3 objects needed to complete each mission have to be delivered is secret, deﬁ ned by the 
+Sector Mission Tile on its space. Beside each of those objects, there will be a cube that deﬁ nes which crew member 
+knows this information. This player can look at this Sector Mission Tile at any time but cannot show it to anyone. If two 
+crew members are, at any time, at the same location, both can allow the other to look at their Sector Mission Tiles but, 
+once they split again, they should remember what they saw, as they cannot look at each other’s tiles until they meet again.
+The ﬁ rst 3 objects in a mission can be activated in any order. To do this, a crew member carrying the object has to be 
+successful on a special action (see actions, in section 7.0) in the correct location. If this happens, reveal the object and his 
+matching Sector Mission Tile to prove the action was taken in the correct place. Leave the tile face up and return the object 
+to the box. Objects from both missions can be successfully delivered, as both missions can be attempted at the same time.
+The fourth object of each mission (the Axe in the blue mission and the Helmet in the red one) can only be delivered 
+after the other 3 objects have been successfully delivered and the condition for this mission is met. If this happens, 
+the crew members win. If, by the end of the turn numbered 1, this is not accomplished, ADELE wins the game.
+1
+2
+3
+DEACTIVATE ADELE
+ESCAPE THE SHIP
+There must be no impact 
+token on the board
+(see event Impact in 6.1 Events)
+The turn marker cannot be beyond 
+the “no return” marker.
+It can be in the same space (see event Drift in 6.1 Events)
+3 0 THE GAME TURN
+4 0 THE MISSIONS
+5
+5.0 THE SHIPS
+Both the Deimos and the Phobos are divided into 20 locations. Each one of these has a computer where special ac-
+tions can be performed. There are 6 special locations on the ship that also have a terminal. Each of these terminals 
+allows the crew to perform some very powerful actions that can only be performed there (see 10.0 Terminals). Also, 
+some rooms have a hatch that can be used to go out into space (see 7.3 Moving outside the ship).
+6.0 EVENT CARDS
+On the ﬁ rst phase of each turn, the event on the top of the deck becomes active, unless it has been deactivated (see 
+special actions in 7.0 The crew). If the event has an immediate effect, it is resolved now. If it creates a continuous 
+effect, this effect is active until the end of the turn.
+Some anomalies are triggered when certain icon appears on the event card (as described in 8.2 Anomalies)
+6.1 THE EVENTS
+EVASIVE MANEUVER
+The ship lurches suddenly. All 
+crew members must succeed on 
+a Spirit roll or suffer a wound.
+DRIFT
+The ship drifts 
+from its course. 
+The “No Return” 
+marker advances 
+1 space up.
+STRESS
+The oppressive atmosphere is 
+unbearable. All crew members 
+modify their Spirit by -1 until the 
+end of the turn.
+MALWARE
+ ADELE overchar-
+ges the onboard 
+computers. All spe-
+cial actions require 
+an extra action 
+cube this turn.
+IMPACT
+Something hits the ship. Roll the d20 to determine the impacted location and place an impact 
+token on it. Crew members in this location suffer 1 wound. The computer and terminal (if any) in 
+this location cannot be used until the impact token is removed but the location is otherwise una-
+ffected (it can be entered, objects there can be picked up, hazards can be placed, etc). A location 
+cannot have 2 impact tokens (roll again if necessary).  
+SILENCE
+Nothing happens 
+this turn (noti-
+ce that certain 
+anomalies can be 
+triggered anyway).
+5 0 THE SHIPS
+6 0 EVENT CARDS
+TERMINAL
+TERMINAL
+COMPUTER
+HATCH
+DOOR
+FRAME
+COMPUTER
+6
+7.0 THE CREW
+Every crew member has their own board.
+Every crew member can carry up to 4 objects and they already have one at the beginning of the game (as indicated on their 
+board). If, at any time, a crew member is carrying more objects than their capacity (because they have picked one up or 
+because they have received a wound and, because of this, reduced carrying capacity), they must discard all excess objects 
+(player’s choice) in their current location, always face down.
+All crew members have 6 spaces on their life track. Every time they suffer a wound, they must move the cube one space to 
+the right. If a crew member suffers enough wounds to reach the last space of his life track, he dies and the whole crew 
+loses the game.
+The Spirit value is very important to avoid being wounded and to succeed on some actions. Every time a situation 
+requires a Spirit roll, the player affected must roll his d6. If the result is equal to or less than his Spirit, the roll is 
+a success and the crew member has managed to avoid the wound or succeed on his action. If the number rolled is 
+higher, he has failed and must face the consequences.
+Each crew member has 4 action cubes to distribute 
+among the ﬁ ve possible actions during the planning 
+phase each turn. It is important that players hide this 
+planning with their screens to prevent ADELE from 
+knowing their intentions.
+All the actions (except for special actions) require 
+1 action cube to be performed, but more cubes can 
+be added to make the action more than once in the 
+same turn or to counter some adverse effect (like the 
+Malware event, for example). During the action phase, 
+the active crew member performs each action by dis-
+carding the corresponding action cube, until he runs 
+out of cubes or no longer wants to use them (the use 
+of the programmed cubes is never mandatory).
+Crew members can play in any order they desire, but 
+the active player must end their turn before another 
+crew member can become the active player and take 
+their own turn.
+THE ALLOWED ACTIONS ARE:
+SPECIAL ACTION: By using this action, you can achieve one of these things:
+If you are in the correct location, deliver a mission object.
+Activate the effect of a terminal (see 10.0 Terminals).
+Discard a “Espionage”, “Hypoxia” or “Darkness” hazard token from this location or an adjacent one.
+If the “Hatches Closed!” anomaly is in effect, unlock a hatch in this location or adjacent to 
+the space section you are in.
+If you are in a space section, remove an Impact token on an adjacent location.
+The special action is a little different from the others. It cost you 3 action cubes to perform, but you may, as an option, try it for 
+just 2. If you do, you must succeed on a Spirit roll to perform this action successfully. Usually, you will prefer to secure the 
+action, but sometimes you need this extra cube for something or a hazard gives you no choice but to take the risk.
+UNLOCK DOOR:
+Discard a “Blocked 
+Door” hazard token 
+from a door at your 
+location.
+SEARCH: 
+Take a look 
+at an object 
+in your 
+location. 
+You may 
+move it to your inventory (this 
+may cause you to have too 
+many objects and force you to 
+discard another).
+ADVANCE: Move to an 
+adjacent location as long 
+as the door that connects 
+to it is not blocked.
+USE OBJECT: 
+Flip a non-mis-
+sion object you 
+are carrying 
+face up. From 
+now until you 
+are forced to discard it, this 
+object gives you the advantages 
+listed in the object chart (see 9.0 
+Objects).
+7 0 THE CREW
+SPIRIT
+CHARACTER
+ABILITY
+4 ACTION
+CUBES
+ACTION CUBES 
+REQUIRED 
+ACTION
+SPACES
+LIFE TRACK
+INVENTORY
+STARTING OBJECT
+7
+7.1 WOUNDS
+Some elements of the game can cause wounds to the crew members, like events, hazards and anoma-
+lies played by ADELE. If you suffer a wound, move your marker on the life track one space to the right.
+At a certain point, wounded crew members start losing carrying capacity.
+To reﬂ ect this, put a token on one of the spaces for objects in the 
+personal board to mark that this particular space is unavailable.
+If the cube marker on the life track reaches the last space, the crew member 
+dies and ADELE wins the game. By using the First Aid Kit or the terminal in the 
+inﬁ rmary, crew members can recover from wounds. To reﬂ ect this, just move 
+the marker on the life track as many spaces back to the left as needed. You 
+cannot heal more than what the life track shows. When you recover wounds, it 
+is very possible that you will also recover some carrying capacity. Remember to 
+remove the tokens from the object spaces to reﬂ ect this.
+Note that there is a way to die without suffering wounds: if you are outside of the ship 
+and you are forced to discard your active space suit (see 7.3 Moving outside the ship).
+7.2 COMMUNICATION BETWEEN PLAYERS
+Crew members can talk as much as they want about the game, but they have to do it loud enough for everybody to 
+hear, ADELE included.
+Two crew members in the same location can allow each other to secretly look at the tiles they know on the Mission 
+Track, show the other player the objects they carry and exchange them without restriction. It seems like a good idea 
+for crew members to try to meet during the game to share as much information as possible between them.
+However, those two crew members cannot talk secretly, show anything to non-present crew members or show each 
+other sector mission tiles known from the other crew members, even if their content has been revealed to them on a 
+previous meeting.
+7.3 MOVING OUTSIDE THE SHIP
+A crew member with an active space suit can use an advance action to go through a hatch and move to the outside of 
+the ship. The exterior is divided into 4 sections. Some hatches allow movement to two different sections, while others 
+only have access to one of them. Once in space, the crew member can use another advance action to reenter the 
+ship via an adjacent hatch or to move to an adjacent section of space. They can keep moving and taking actions (like 
+removing impact tokens from adjacent locations) as long as the space suit remains active. If, for any reason, the suit is 
+discarded while the crew member is still on a space section, they die and ADELE wins the game automatically.
+If the “Hatches Closed!” anomaly is active, all hatches are blocked and a special action is needed to remove the block 
+token and allow movement through it. This can be done in the same location as the hatch or from the outside, from an 
+adjacent section of space.
+IF THE CUBE MARKER REACHES 
+THESE SPACES, THE CHARACTER 
+LOSES ONE SPACE FOR CARRYING 
+AN OBJECT IN HIS INVENTORY
+IF THE CUBE MARKER REACHES 
+THIS SPACE, THE CREW MEMBER 
+DIES AND ADELE WINS THE GAME
+THE BLUE PLAYER, 
+WEARING A SPACE 
+SUIT, CAN USE AN 
+ADVANCE ACTION 
+TO MOVE INTO 
+ONE OF THE TWO 
+ADJACENT SPACE 
+AREAS. HE CAN 
+THEN KEEP MOVING 
+TO A NEW AREA OR 
+BACK TO THE SHIP 
+THROUGH A HATCH
+THROUGH SOME 
+HATCHES, YOU 
+MAY MOVE INTO 2 
+DIFERENT SPACE 
+ZONES
+HATCHES BLOCKED 
+BY THE HATCHES 
+CLOSED! ANOMALY 
+CAN ALSO BE 
+UNLOCKED FROM 
+THE OUTSIDE
+8
+8.0 ADELE
+ADELE is not represented on the board but rather controls all ship systems from above. Unfortunately for her agenda, in order 
+to harm the crew members she must ﬁ ght her programming and, because of this, she can only divert a limited amount of 
+energy and resources to her actions.
+In every turn, ADELE gains a set amount of energy, hazard tokens and cards.
+· Energy is needed to pay for all the actions she performs, be they placing hazards, activating anomalies or playing special cards.
+· The hazard tokens are the different ways ADELE has to mess with the crew members. When ADELE gets new tokens, she 
+must place them in matching spaces on her console, always the leftmost possible, i.e. the cheapest positions. However, 
+when ADELE places a token on the board, she must always use the most expensive of its kind, i.e. the rightmost one.
+· The cards indicate which parts of the ship ADELE can affect. Besides some special cards, most of them show 2 speciﬁ c 
+locations, identiﬁ ed by a number (and, to some degree, by the color). By playing one of these cards, ADELE may pay the 
+indicated amount of energy to place a hazard token from her console (remember, always the most expensive of its kind) on 
+one of the two locations shown on the card.
+ADELE may play as many cards as she likes/can in the same turn, always limited by the energy she has and the hazard 
+tokens available. Some cards produce special actions that don’t necessarily place hazards on the board. Also, ADELE can 
+activate anomalies as part of her turn, as explained in 8.2 Anomalies.
+Remember that, when she is done playing actions, ADELE may discard as many cards as she wants before drawing back to 
+4 cards. If there are no cards left in the ADELE deck, shufﬂ e the discard pile to generate a new deck.
+8.1 HAZARDS
+To place a hazard on the board, ADELE must ﬁ rst have 
+the token on her console, play a card showing the 
+location she intends to play it on, and pay the energy 
+cost listed on the console. Most hazards are just pla-
+ced on the indicated location, but others, like the “Bloc-
+ked Door” or the “Computer Failure” must be placed in 
+a more speciﬁ c spot, as indicated in their descriptions.
+Regardless, ADELE cannot place 2 identical hazards in 
+the same place (such as 2 “Hypoxia” in the same room, 
+2 “Blocked Door” on the same door frame or 2 “Compu-
+ter Failure” on the same computer or terminal). 
+8 0 ADELE
+ADELE PLAYS A CARD WITH LOCATIONS 1/6 TO
+PLACE AN ESPIONAGE TOKEN ON LOCATION 1.
+TO DO SO, ADELE MUST USE THE RIGHTMOST
+TOKEN AVAILABLE IN HER CONSOLE AND SPEND
+THE REQUIRED ENERGY (3 IN THIS CASE).
+ENERGY
+TRACK
+HAZARD
+COSTS 
+ADELE’S
+DECK
+ANOMALY
+SPACES
+HAZARD 
+SPACES
+ADELE PHASE
+ADELE PHASE
+REMINDER
+REMINDER
+9
+ESPIONAGE: Play this hazard on the designated room. ADELE can secretly look at all the objects in this 
+room at any time. When a crew member enters or starts their turn in this room, ADELE can look at all their 
+carried objects and also attempt to discover one of the Sector Mission Tiles this crew member knows
+(the ones with a cube of this player’s color beside them). To do so, ADELE takes both the tile she wants to 
+discover and the one marked with an X, shufﬂ es them face down and secretly takes a look at one of them. 
+Afterwards, she shufﬂ es them again and gives them to the player she’s spying on to place them back in 
+their places (so there’s a 50% chance that ADELE has seen the correct tile, but only she knows).
+BLOCKED DOOR: Put this hazard on a door frame in the 
+designated room. No one can move through the 
+door until this hazard is removed.
+FIRE: Put this hazard in the designated room. All crew 
+members entering this room or starting their turn in it 
+must succeed on a Spirit roll or suffer 1 wound.
+HYPOXIA: Put this hazard in the designated room. All crew 
+members entering this room or starting their turn in it must 
+discard one of their unused action cubes, if they have any.
+DARKNESS: Put this hazard in the designated room. All actions performed in this room, including leaving 
+the room, have an extra cost of discarding an action cube. This cube can come from any programmed 
+action but, if the cube is not discarded, the action cannot be performed. If there is also a Fire hazard in the 
+same room, this hazard has no effect.
+COMPUTER FAILURE: Play this hazard on a computer or a terminal to disable it. When a computer is disa-
+bled this way, mission objects cannot be delivered in this room, no hazard tokens can be removed from this 
+computer and the hatch in this room cannot be unlocked. When a terminal is disabled this way, its 
+special action cannot be performed.
+8.2 ANOMALIES
+At the start of the game, ADELE should randomly choose 4 anomaly tiles and place them in the reserved space on her 
+console, showing the reverse. These are the anomalies ADELE has available during this game. To activate any of the-
+se anomalies, ADELE must discard 1 hazard from each of the sectors shown on the back of the tile and pay 5 energy. 
+The type of the hazard doesn’t matter as long as it is in a location of the correct color. Blocked Door hazards on a door 
+frame that connects rooms of different colors can be used as either. Remove all discarded hazards from the game. 
+When an anomaly is activated, ﬂ ip it face up and move it to its space on the main board, to show that it is active from 
+now on. Every anomaly affects the game in its own way, as explained below:
+HATCHES CLOSED!
+Place a “Hatch 
+Blocked” token 
+on each hatch. 
+This token must 
+be removed with a 
+successful special 
+action to make mo-
+vement throu-
+gh a hatch 
+possible.
+LOW BATTERIES: 
+All objects with 
+charges get 1 
+less charge when 
+activated.
+DEACTIVATED 
+TERMINALS:
+The Alert Termi-
+nals become disa-
+bled as if they both 
+had a “Computer 
+Failure” hazard on 
+them. Turn both 
+counters to the red 
+side to indicate 
+that.
+EXPLOSIONS: 
+All Spirit rolls to 
+avoid getting a 
+wound from a 
+“Fire” hazard get 
+a penalty of -2 to 
+the Spirit value. 
+In any case, a roll 
+of 1 is always a 
+success.
+PANIC: Once this 
+anomaly becomes 
+active, every time 
+an event shows 
+this anomaly icon, 
+all crew members 
+must make a Spirit 
+roll to avoid suffe-
+ring a wound. This 
+anomaly triggers 
+even if the event is 
+canceled.
+SELECTIVE
+ATTACK: Once 
+active, in every 
+event phase, 
+ADELE may play 1 
+hazard in a loca-
+tion of the color 
+shown on the HEX 
+of the event card. 
+All costs, save for 
+playing a card, 
+must be met.
+DOOR 
+DOOR 
+FRAME
+FRAME
+BLOCKED
+BLOCKED
+THIS TERMINAL IS DISABLED BY A 
+THIS TERMINAL IS DISABLED BY A 
+“COMPUTER FAILURE” HAZARD
+“COMPUTER FAILURE” HAZARD
+DOOR FRAME
+DOOR FRAME
+1
+2
+2
+1
+10
+9.0 OBJECTS
+At the start of the game, all objects in play may be in any of these 3 possible locations: in the possession of a crew 
+member, one in each location on the board, and 5 stacked in the laboratory. Unless an object is active, it should re-
+main face-down at all times.
+Using the Search action, a crew member can look at an object in a room and, if they so wish, move it to a space 
+in their inventory, on their personal board. This may result in exceeding their carrying capacity and, consequent-
+ly, force them to drop another object. Suffering wounds may be another reason to be forced to drop an object.
+ 9.1 TYPES OF OBJECTS
+There are basically two kinds of objects: mission objects and utility objects.
+MISSION OBJECTS provide no special advantages but are the key to winning the game. A crew member may 
+perform a special action, if they carry a mission object and are in the correct location (and the computer is not 
+disabled), to deliver the object. If the action is successful, turn the Sector Mission Tile face up to prove you are in 
+the correct room. Discard the object and leave the tile face up to show that this object has been delivered.
+NOTE: If the location is not correct, turn the tile down again and keep the object in your inventory.
+OBJECTS WITH CHARGE: when you use the Ac-
+tivate Object action on an object with charges, 
+turn it face up and then roll your
+d6 to determine the number of charges it has >
+Place a charge counter on the object to reﬂ ect this. From this moment on, this object is considered active and will provide 
+its carrier with certain special advantages, as listed on the Object Chart. Remove a charge from each active object on each 
+upkeep phase. If there’s no charge token left to remove, the object is discarded instead. Please, take note that the object is 
+not discarded along with the last charge, but the next turn, when there’s no more charges to discard.  
+ONE-USE OBJECTS: When you activate one of these objects, turn it face up, perform the associated action 
+and then discard it (unless the object description says otherwise).
+PERMANENT OBJECTS: Objects of this kind also need to be activated with an action to become active but, 
+unlike the others, they stay in the inventory providing their advantages to the crew member carrying them.
+IMPORTANT: When an object is active and is discarded, it doesn’t go to the location but is removed from play instead. 
+If players exchange active objects, the charges remain on the object.
+9.2 CREATE OBJECTS
+There’s a space in the laboratory that contains 5 objects at the start of the game. These objects can be created by two 
+possible ways:
+By assembling 2 objects named “parts”, a crew member can secretly choose an object from the pile and put it in 
+their inventory. They must perform the Use Object action to achieve this but they can do it anywhere on the ship 
+(they only need one action although they’re technically using 2 objects).
+By successfully using the Engineering Terminal (see 10.0 Terminals) in the laboratory, a crew member can look at 
+the remaining objects in the pile, secretly choose one and place it in their inventory.  
+1
+2
+9 0 OBJECTS
+1
+2
+11
+10.0 TERMINALS
+Besides the computer in each of the 20 rooms of the Deimos and the Phobos, 6 rooms also contain terminals that allow 
+the crew members to perform powerful special actions.
+ALERT TERMINALS: These are a special kind of terminal because they aren’t located in a speciﬁ c 
+room but rather move from one computer to another when activated. When a crew member does 
+so successfully, turn over the event card on top of the deck and roll the d20 to determine the new 
+location for that terminal (if the result puts it in the same room as the other Alert Terminal, reroll). 
+Next turn, in the events phase, this turned-over event will not take place and none of its effects 
+will be applied (but anomalies associated with the card can still be triggered). Keep in mind that, 
+unlike the other terminals, these work on the location’s computer and are therefore disabled by a “Computer Failu-
+re” hazard. Also, the “Deactivated Terminals” anomaly will render the computers these terminals are on useless until 
+repaired by normal means (like the use of a Battery or the Central Computer Terminal). 
+MEDICAL
+TERMINAL
+By successfully 
+activating this 
+terminal, a crew 
+member can heal 
+all wounds affec-
+ting themselves 
+or another crew 
+member in this 
+location.
+COURIER
+TERMINAL
+By successfully 
+activating this 
+terminal, a crew 
+member can give 
+one of their objects 
+to another crew 
+member located 
+anywhere in the 
+ship or get one 
+object from them, if 
+both players agree.
+COMMAND
+TERMINAL
+By successfully 
+activating this 
+terminal, the 
+“No Return” 
+marker retreats 
+one space down, 
+but never below 
+turn 1.
+ENGINEERING 
+TERMINAL
+By successfully 
+activating this 
+terminal, a crew 
+member can 
+create an object 
+as explained 
+in 9.2 Create 
+Objects.
+REPAIRING
+TERMINAL
+By successfully 
+activating this 
+terminal, a crew 
+member can 
+remove an Im-
+pact token from 
+anywhere on the 
+ship.
+CENTRAL
+COMPUTER
+TERMINAL
+By successfully 
+activating this 
+terminal, a crew 
+member can 
+remove a “Com-
+puter Failure” 
+hazard from any 
+computer or 
+terminal.
+repaired by normal means (like the use of a Battery or the
+y
+Central Computer Terminal).l)l
+10 0 TERMINALS
+12
+11.0 SOLO AND TWO-PLAYER GAMES
+In both these versions of the game, a lone crew member will face ADELE, the AI being either controlled by the second 
+player or acting automatically. In both situations, the setup of the game varies slightly:
+· Place the Blue Card on its space on the Mission Track. This object is considered already 
+delivered.
+· The crew member player gets a copy of the tracking drone object (discard all 
+other copies from play). This drone starts the game activated, doesn’t take up a 
+space in the inventory and never runs out of charges (is never discarded).
+· Remove an Impact event card from the event deck.
+· Don’t place cubes on the Mission Track. The crew member can inspect all of 
+the sector tiles at any time.
+In addition to the changes to the setup, the Courier Terminal works a little different: by activating it, the 
+crew member can send any object in his inventory to a location of his choosing.
+11.1 TWO-PLAYER GAME
+In addition to the changes above, also apply the following changes:
+· ADELE’s maximum hand size is 3 (draw only 3 cards on the setup)
+· Besides his initial object, the crew member can choose any non-mission object as an extra starting object. If it’s your 
+ﬁ rst try, we recomend you the Stimulants.
+11.2 SOLITAIRE GAME
+In addition to the changes mentioned, apply the following extra rules:
+· Remove the “Espionage” hazards from the hazard bag. Also, remove all the special cards from the ADELE’s deck.
+· Select the following anomalies: Hatches Closed!, Explosions, Low Batteries, Panic and Deactivated Terminals.
+Choose 2, 3 or 4 of these randomly, depending on the difﬁ culty desired, and place them face down on their spaces on 
+the board, in the same order drawn. They all start inactive (face down) and produce no effect on the game until activa-
+ted. This activation occurs in the ADELE phase on the turn indicated in this chart:
+· Place a cube of the crew member’s colour in the indicated spaces on the turn track as a reminder. Every time you 
+reach one cube, remove it and ﬂ ip the next anomaly who then becomes active.
+NOTE: If you want it more challenging, don’t choose the anomaly until it has to enter the game. This way, you will not 
+know what’s coming!!
+· ADELE’s turn is replaced by this procedure: Draw 1 card and 2 hazard tokens. Place the hazards on the indicated 
+locations, in the  order they were drawn. If the placement of a hazard conﬂ icts with the normal placement rules, the 
+hazard is discarded instead. When a “Blocked Door” hazard has to be placed, always choose the door frame closest 
+to the player (or at random if it’s in the same location). If a “Computer Failure” has to be placed on a location, it will 
+always target a terminal, if present and active.
+Designer · Albert Reyes
+Art · Jose Soto
+Graphic Design · Dossom Studio
+Development ·  Pau Carles & Javi Caparrós
+www.dmzgames.es
+d
+EASY
+MEDIUM
+HARD
+1ST ANOMALY
+3RD ANOMALY
+2ND ANOMALY
+4TH ANOMALY
+TURN 12
+TURN 15
+TURN 15
+TURN 6
+TURN 10
+TURN 12
+-
+TURN 5
+TURN 9
+`
+`
+TURN 6
+I

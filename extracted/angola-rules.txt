@@ -1,0 +1,2193 @@
+Rules of Play
+
+Table of Contents
+Errata	 
+Introduction	
+1.1	
+Learning the Game	
+1.2 
+Definitions 
+1.3 
+Game Components 
+Game Overview	 
+2.1 
+Factions 
+2.2	
+Playing the Game	 
+2.3 
+Game Map 
+2.4 
+Playing Pieces 
+Setting Up the Game	
+Sequence of Play	 
+4.1 
+Abbreviated Sequence of Play 
+4.2 
+Expanded Sequence of Play 
+Operations	
+5.1 
+Operations Phase 
+5.2 
+Operations Cards 
+5.3 
+Operations Deck 
+5.4 
+Operations Pack 
+First Player Chart	
+7.1 
+What Can Move and When 
+7.2 
+How Forces Move 
+Units, Columns and Forces	
+8.1 
+Columns 
+Combat	 
+9.1 
+Combat Definitions 
+9.2 
+Combat – General Rules 
+9.3 
+Combat Procedure 
+9.4 
+Automatic Victory 
+9.5 
+Revealing Combat Units 
+9.6 
+Airgroups in Combat 
+9.7 
+Air Strikes 
+9.8 
+Artillery 
+9.9 
+Mines and Minefields 
+9.10 
+Anti-Tank Missiles 
+9.11 
+Combat Resolution 
+9.12 
+Straggling 
+9.13 
+Towns and Cities in Combat 
+Towns and Cities	 
+10.1 
+Initial Deployment of Control Markers 
+16
+10.2 
+Uncontrolled Towns and Cities 
+10.3 
+Capturing Towns and Cities 
+10.4 
+Winning Victory Tokens 
+10.5 
+Towns and Cities as Assets 
+How to Win the Game	
+11.1 
+Victory Overview 
+11.2 
+11.3 
+Victory Track 
+11.4 
+Winning a Turn 
+11.5 
+Decisive Victory 
+11.6 
+End of Game Victory 
+New Troops	
+12.1 
+Direct Foreign Aid 
+12.2 
+Crisis Table 
+12.3 
+Recruitment 
+12.4 
+Covert Foreign Aid 
+Infantry Brigades	
+Special Areas	
+14.1 
+Zaire 
+14.2 
+South-West Africa 
+14.3 
+Cabinda 
+Alliance Rules	
+Counter Limitations	
+Unit and Equipment Descriptions	 
+17.1 
+Artillery Units 
+17.2 
+Armored Units 
+17.3 
+Engineers 
+17.4 
+Anti-Aircraft and Anti-Tank Missiles 
+17.5 
+Mines and Minefields 
+17.6 
+Mercenaries 
+Hints on Play	
+Game Notes	
+Credits	 
+Card Errata 
+Appendix 1: Unit Counters 
+Appendix 2: The Changing Face of War 
+Errata
+15 December 2013
+Errata in this edition is indicated by a ¶ symbol 
+and modified or additional text in color.
+
+Introduction
+Angola! is a game that simulates a short period (July 1975 to 
+April 1976) of the long civil war that racked Angola for over 
+two decades. Angola! is best as a four-player game, with each 
+player taking one of the conflict’s major Factions: FNLA, 
+UNITA, FAPLA or MPLA. Although there are four players, 
+there are only two sides. The FNLA and UNITA players are 
+allied against the FAPLA and MPLA players. 
+The game emphasizes the international repercussions of suc-
+cess and failure in the fighting. Each Faction has sufficient man-
+power to sustain its war effort, but the sophisticated weapons 
+essential to winning the war can only be obtained from outside 
+Angola. Even more important is the military involvement of 
+foreign powers (South Africa, Cuba and Zaire), whose willing-
+ness to commit men and materiel can be the difference between 
+survival and defeat.
+1.1	 Learning the Game
+Angola! is not complicated, but it does include many involved 
+processes. The best way to learn is to use the player aid cards, 
+all of which are cross-referenced to these rules. 
+Study the definitions (1.2) and the game overview (2) to famil-
+iarize yourself with the map and the playing pieces. Then set 
+up the game and follow the expanded sequence of play (4.2), 
+making reference to specific rules as needed. Pay particular at-
+tention to the rules sections on Units, Columns and Forces (8), 
+How to Win the Game (11), and Special Areas (14). 
+1.2 Definitions
+The following defined terms are capitalized in the rules (note 
+there are other capitalized terms that are not found in this sec-
+tion).
+Alliance
+One of the two opposing alliances in the game. FAPLA and 
+MPLA form the Soviet-backed alliance, and UNITA and FNLA 
+form the Western-backed alliance (2.1). Factions of an Alliance 
+can side together in combat.
+Column
+A Column is one or more Units of the same Faction underneath 
+a Column marker of that Faction (8).
+Enemy
+Any Unit or Equipment counter controlled by or belonging to a 
+Faction of the opposing Alliance.
+Equipment
+Mines, minefields, anti-aircraft missiles and anti-tank missiles 
+are Equipment. Equipment cannot move except when attached 
+to a Force. When attached to a Force, a piece of Equipment is 
+considered a part of that Force (2.4.2).
+Faction
+FAPLA, MPLA, UNITA and the FNLA are Factions (2.1). 
+A Force is any combination of Units or Columns in the same 
+region. It could be one or more Units, or one or more Columns, 
+or a combination of Units and Columns (8).
+Friendly
+Any Unit or Equipment counter controlled by or belonging to a 
+Faction of your Alliance.
+Operation
+An Operation is the play of an Operations Card. An Operation 
+may involve movement or combat or a reorganization of Col-
+umns (5). 
+Unit 
+A Unit is a combat unit. A Unit can be one of the following 
+types: infantry; armored car; tank; artillery battery; engineer; 
+airgroup. Column markers, game markers, and Equipment 
+counters are not Units (2.4.1 and 8). 
+1.3	 Game Components
+This game contains:
+One rule book
+Two sheets of 5/8” cardboard counters
+One 34 x 22” map
+Four 8.5 x 11” player aid cards (one for each player)
+One deck of 110 cards (65 playing cards plus 45 duplicates, 
+see production note on page 23) 
+Game Overview
+2.1	 Factions
+¶ Angola! is best played by four players, each player taking 
+control of one Faction. Games with fewer players are possible, 
+though they are not as well-balanced.
+The four Factions are FAPLA, MPLA, UNITA and FNLA:
+FAPLA (Forças Armadas Populares de Libertação de 
+Angola, the Popular Armed Forces for the Liberation of 
+Angola) is based around the capital, Luanda.
+MPLA (Movimento Popular de Libertação de Angola, the 
+Popular Movement for the Liberation of Angola) is based in 
+eastern Angola. 
+FAPLA and MPLA make up the Soviet-backed FAPLA/MPLA 
+Alliance.
+UNITA (União Nacional para a Independência Total de 
+Angola, the National Union for the Total Independence of 
+Angola) is based in South-West Africa.
+FNLA (Frente Nacional de Libertação de Angola, the Na-
+tional Front for the Liberation of Angola) is based in Zaire.
+UNITA and FNLA make up the Western-backed UNITA/FNLA 
+Alliance.
+Both Factions within each Alliance work together towards a 
+common victory. A Faction cannot win the game. Only an Alli-
+ance can win the game.
+2.2	 Playing the Game
+Each of the game turns represents one month of real time. The 
+game always ends after ten turns, but it can end earlier if one 
+Alliance wins a decisive victory (11.5). Victory (11) is primar-
+ily determined by the capture of towns and cities (10.3), and 
+also by winning the propaganda war (12.4.3).
+
+Each Turn consists of three phases:
+Planning Phase (4.2 and 5.4). 
+Operations Phase (7). 
+End Phase (4.2, 10, 11, 12, and 13). 
+There is an Expanded Sequence of Play (4.2) with cross-refer-
+ences to specific rules sections. You can use this to play the 
+game without reading specific rules sections first.
+2.3	 Game Map
+2.3.1	 Regions
+The map is divided into regions of varying size. Regions that 
+share a common border are considered adjacent, which is im-
+portant for movement (7) and combat (9). 
+Allied Forces (2.1) may occupy the same region and will de-
+fend together if attacked (9.2). There is no limit to the number 
+of Friendly Forces that can occupy the same region.
+Units from opposing Factions only ever occupy the same region 
+immediately before the resolution of combat.
+2.3.2	 Terrain
+There are four types of terrain: clear, jungle, savannah, and 
+hills. In addition, there are various terrain features such as 
+roads, escarpments, towns and cities. 
+The terrain key on the map shows the different terrain types and 
+terrain features. Terrain type defines each region, so a region 
+must be either a clear, jungle, savannah or hill region. Terrain 
+features do not define a region.
+Terrain and terrain features affect movement (7), combat (9), 
+deployment of new troops (12), and victory conditions (11). 
+2.3.3	 Special Cities and Areas
+There are special rules that apply to the cities of Cabinda and 
+the areas of Zaire and South-West Africa (14).
+2.3.4	 Ports
+A port is defined as a town or city in a region bordering the sea. 
+(Exception: Cabinda is not treated as a port in these rules.)
+2.3.5	 Map Play Aids
+Play aids on the map are the First Player Chart (6), the Victory 
+Track (11.3), the Air Mission Completed Box (9.6), the Terrain 
+Key, and the Turn Record Track.
+2.4	 Playing Pieces
+The cardboard playing counters include informational markers 
+as well as counters representing military Units and Equipment. 
+2.4.1	 Units
+The Units are: 
+• Infantry
+• Armored cars (17.2.2)
+• Tanks (17.2.1)
+• Artillery (17.1)
+• Engineers (17.3)
+• Airgroups (9.6)
+Most unit counters are referred to as Minor Units. However, 
+counters with a white band across them are Major Units.
+Units are color-coded for each of the four Factions.
+ILLUSTRATION: Minor Unit counters.
+Infantry, armored cars, tanks and engineers have NATO sym-
+bols printed on them to help indicate which is which.
+Infantry
+Tank
+Engineer
+Artillery
+Airgroup
+Armored cars and tanks are both considered armored Units 
+(17.2).
+Mercenaries are a type of infantry and are indicated by the word 
+‘Merc’ (17.6). 
+Infantry Brigades are large infantry formations that players can 
+form from existing infantry Units (13).
+Major Units are foreign aid troops—they are colored a different 
+shade of the Faction color. Purple Units represent South Afri-
+cans; light green Units are Zairois; orange and deep red Units 
+represent the Cubans. 
+Major Units function just like other Units with a few exceptions 
+noted in the rules (12). Each Faction has four Major Units. 
+Armored Car
+ILLUSTRATION: Counter information.
+ILLUSTRATION (left to right): Mercenary Unit; Infantry 
+Brigade; Major Unit.
+Note that Units have widely differing combat capabilities as 
+indicated by the information on their counters. Some Units 
+only have a combat strength (e.g., infantry); other Units have 
+no combat strength but provide Combat Dice Points (9.11.2) 
+(e.g., Minor Unit armored cars (17.2.2)); mercenary infantry 
+and tank Units (17.2.1) have a combat strength and provide 
+Combat Dice Points; artillery Units (17.1) and airgroups (9.6) 
+only have pips to indicate the number of dice they roll on the 
+Hit Table (9.3.1). Engineer Units (17.3) have no combat mark-
+ings but provide special combat benefits.
+
+2.4.2	 Equipment
+The Equipment counters are:
+• Anti-aircraft missiles
+• Anti-tank missiles
+Equipment assets are not Units and are not colored by Faction. 
+Instead, they come from a central pool used by all players.
+Note especially that Columns are not Units; they are organiza-
+tional markers. Because only Units in Columns may attack, the 
+Column rules are very important (8).
+2.4.4	 Operations Cards
+Operations Cards drive the activation of a player’s Units (5 and 
+7).
+ILLUSTRATION: Equipment counters.
+When a player receives a piece of Equipment as a reinforce-
+ment (12.4), he assigns it to one of his Forces, usually by plac-
+ing it directly beneath a Unit of that Force. There is no limit to 
+the amount of Equipment that can be assigned to a Force. 
+Equipment may be freely exchanged at any time between Forc-
+es of the same Faction that are in the same region, even if one of 
+the Forces is in the process of moving through the region. 
+The use of Equipment is always optional. Equipment left by 
+itself, because all the Units in a Faction’s Forces in that region 
+are eliminated, is immediately returned to the Equipment pool. 
+Although Units are revealed to the Enemy during combat, 
+the Equipment a Force carries remains a secret until it is used 
+(Exception: Minefields (9.9.1)). Players should therefore keep 
+Equipment counters covered over by a Unit of the carrying 
+Force until used.
+The use of Equipment is described in 9 and 17.
+2.4.3	 Informational Markers
+The informational markers are: 
+• Column markers (8)
+• Control Markers for Towns and Cities (10)
+• Victory Tokens (11.2)
+• Victory Track Marker (11.3)
+• First Player Marker (6)
+• Turn Marker (4.2)
+• +1 Jungle Markers (7.2)
+Anti-aircraft
+Missile
+Anti-tank
+Missile
+Mine
+Minefield
+Column
+Control
+Victory Token
+Victory Track
+First Player 
+Jungle Marker
+2.4.5	 Reinforcement Cards
+Reinforcement Cards determine the contribution of covert for-
+eign aid (12.4).
+Setting Up the Game
+STEP 1:
+Players sit as follows around the map:
+FAPLA - to the West of the map (near Luanda)
+FNLA - to the North of the map (near Zaire)
+MPLA - to the East of the map (near Luso)
+UNITA - to the South of the map (near South-West Africa)
+Sort the Units, Operations Cards, and Victory Tokens by Fac-
+tion.
+Each player sets aside his Operations Cards marked with a turn 
+number (e.g., “Turn 3”); these are added to the player’s Opera-
+tions Deck at the beginning of the appropriate turn. The rest of 
+the Operations Cards are available for immediate use.
+Each player places his five Victory Tokens and four Major Units 
+off-map. Turn the Major Units face down. (Players should take 
+care not to mix up Major Units and Infantry Brigades. Major 
+Units are marked as either “Cuban”, “Zairois” or “S.Africa” 
+(South African) and are colored differently.)
+Put the Equipment counters (minefields/mines and missiles) in 
+a central pool.
+• Mines
+• Minefields
+ILLUSTRATION: Informational markers.
+
+STEP 2:
+Place both Victory Track Markers in the “20” space of the Vic-
+tory Track; place the First Player Marker beside the First Player 
+Chart; place the Turn Marker in the “Turn 1” space of the Turn 
+Record. Shuffle the Reinforcement Card deck and place it to 
+one side.
+STEP 3:
+Each Faction takes the following Control Markers and places 
+them face up and off-map:
+FAPLA: Luanda
+FNLA: Maquela do Zombo, Santo António
+MPLA: Luso
+UNITA: Pereira de Eça
+Place the remaining 23 Control Markers together in an opaque 
+container.
+Note: There is no Control Marker for Cabinda.
+STEP 4:
+The players now deploy some of their Units and Column mark-
+ers as follows:
+Five infantry Units and one armored car in Luanda
+Column markers A, B, C, D and nine infantry Units tempo-
+rarily off-map
+Three infantry Units in Maquela do Zombo
+Two infantry Units in Santo António
+Three infantry Units in the FLEC Base
+Column markers A, B, C, D, E and 12 infantry Units tem-
+porarily off-map
+Four infantry Units and one armored car in Luso
+One infantry Unit in Cabinda
+Two infantry Units in the jungle region adjacent to the 
+FLEC Base
+Column markers A, B, C, D and 11 infantry Units temporar-
+ily off-map
+Four infantry Units in Pereira de Eça
+Column markers A, B, C, D and nine infantry Units tempo-
+rarily off-map
+There will be Units left over after this deployment; set these 
+undeployed Units aside for later use during the game; they have 
+no role during game set-up.
+STEP 5:
+Each Faction randomly and secretly draws the following 
+number of Control Markers from the opaque container:
+FAPLA, UNITA: four Control Markers each
+MPLA, FNLA: five Control Markers each
+Place these Control Markers secretly face up and off-map. Play-
+ers may not look at each other’s Control Markers at this time. 
+There will be five Control Markers left in the container. Keep 
+them there for now.
+NOTE: To help players locate the various towns and cit-
+ies on the map, a code has been printed onto each Control 
+Marker. E.g.: “Lucala NW” means that Lucala is to be 
+found somewhere in the north-west portion of Angola.
+STEP 6:
+NOTE: At this point, all the players should have some Units 
+deployed on the map, and other Units and Column mark-
+ers and Control Markers temporarily deployed off-map. As 
+noted above the other Units that were set aside in Step 4 
+play no role in the set-up.
+Each Player now takes his Units that are deployed temporarily 
+off-map and secretly places all of them on top of his off-map 
+Control Markers. No more than four Units may be placed on a 
+single Control Marker, but it is permissible to leave one or more 
+Control Markers without any Units.
+STEP 7:
+Players may now use all, some or none of the Column markers 
+received in Step 4 to create Columns from among the on-map 
+and off-map Units placed in Steps 4 and 6. Column markers not 
+used in this step remain available off-map for later use. See 8 
+for more detail on Columns. 
+Place the Column marker on a region or off-map Control Mark-
+er. Any number of Units in that region or on the Control Marker 
+can be placed beneath the Column marker to create a Column. 
+Units in other regions or on different off-map Control Markers 
+cannot join the Column.
+STEP 8:
+Players now deploy all of their off-map Forces onto the map. 
+Each Force is placed on the town or city corresponding to the 
+Control Marker on which it was placed. Off-map Forces may 
+now be combined with other Units deployed in the same region. 
+This means, for example, that if a Column is placed in a city or 
+town that already has Units, those Units may now be added to 
+the Column. Note that the Control Markers remain face up and 
+off-map but are no longer secret.
+PLAY NOTE: Players should take care to keep their Control 
+Markers face up. Control Markers that are captured during 
+the game are flipped face down in front of their new owners 
+and are treated differently from face up Control Markers 
+(10.2, 10.3, 10.5, 12.1, 12.3 and 12.4).
+STEP 9:
+Now take the five Control Markers left in the opaque container 
+from Step 5 and place each of them face up on the map on its 
+corresponding town or city. 
+PLAY NOTE: Each of these uncontrolled Control Markers 
+can be captured by any Faction whose Forces end a move 
+there (10).
+STEP 10:
+Begin Turn 1.
+
+Sequence of Play
+4.1	 Abbreviated Sequence of Play 
+1. Planning Phase
+a) Check for New Operations Cards (5.3)
+b) Create Operations Packs (5.4)
+c) Determine the First Player (6)
+2. Operations Phase (7)
+Beginning with the turn’s first player (6) and then going 
+clockwise, each player turns over the top Operations Card 
+in his Operations Pack, and takes the appropriate actions for 
+that card (e.g., moving Forces, resolving combat). Play con-
+tinues in this way until all cards have been turned over. 
+3. End Phase
+a) Victory Determination (11)
+b) Reorganization (8 and 13)
+c) Direct Foreign Aid (12.1)
+d) Recruitment (12.3)
+e) Covert Foreign Aid (12.4)
+f) Clean Up (9.6, 10.3 and 11.2)
+4.2	 Expanded Sequence of Play
+1. Planning Phase
+a) Check for New Operations Cards 
+All players should first check to see if they are to add any 
+Operations Cards bearing the current turn number to their 
+Operations Deck (5.3).
+NOTE: Players will add one Operations Card on turns 3, 
+4, 5 and 6.
+b) Create Operations Packs
+All players check the Turn Record Track to see how many 
+Operations Cards they can use to create their Operations 
+Pack (5.4).
+All Players secretly create their Operations Pack, keeping 
+unused Operations Cards in their Operations Deck, and ar-
+ranging their Operations Pack face down with the first card 
+to be played on top (5.4).
+c) Determine the First Player
+Determine who goes first by rolling on the First Player 
+Chart on the map. Note that the procedure for determining 
+the first player on turn 1 is different from the procedure for 
+the rest of the game (6).
+2. Operations Phase (5)
+Beginning with the turn’s first player, and proceeding clockwise 
+thereafter, the player to go turns over the top Operations Card 
+in his Operations Pack. If the card is a blank, play immediately 
+passes to the next player. If the card is not a blank, the player 
+takes any permissible actions (see 2A below) and then play 
+passes to the next player.
+2A. Possibilities During the Operations Phase
+a) Blank Operations Card flipped. 
+No permissible actions, play immediately passes to next 
+player clockwise (5.2).
+b) Column Card flipped (5, 7, 8, 9)
+Player may first detach one or more Units from the Column 
+to leave behind (8).
+Player may move the Column per the movement rules (7, 
+8).
+Combat is immediately resolved if the Column ends its 
+movement in a region with an Enemy Force (9).
+c) 5th Column Card flipped (5, 7)
+Player may move one or more Units that are not part of 
+a Column and that are in the same region. They may not 
+enter an Enemy-occupied region, and combat is therefore 
+not possible. 
+d) Command Card flipped (5, 8)
+Player may: 
+i) remove a Column marker from a Force that has not 
+moved this turn and place it onto a Force that does not have 
+a Column marker and that has not moved this turn; or
+ii) swap Column markers between two Columns that have 
+not moved this turn. 
+A player may keep the composition of Forces in the Col-
+umns secret during the process.
+3. End Phase
+A) Victory Determination (11)
+(i) ¶ Check to see if an Alliance has won a decisive victory.
+(ii) Both Alliances total their Victory Tokens to see if an Al-
+liance has won the turn.
+(iii) If an Alliance won the turn, it moves its Victory Track 
+Marker one, two or three spaces down the Victory Track.
+(iv) ¶ If it is the end of turn 10, the game is over, check to 
+see who won.
+B) Reorganization (8, 13)
+Players may form Infantry Brigades (13) and reorganize 
+their Columns (8).
+C) Direct Foreign Aid (12.1)
+If an Alliance lost the turn, its member Factions check their 
+Victory Tokens against the Direct Foreign Aid Table to see 
+if they receive foreign troops.
+D) Recruitment (12.3)
+All Factions may now recruit and deploy troops.
+E) Covert Foreign Aid (12.4)
+All Factions now bid for and use Reinforcement Cards to 
+receive covert foreign aid.
+F) Clean Up (9.6, 10.3, 11.2)
+Players take airgroups from the Air Mission Completed Box 
+back into their possession and return Victory Tokens to their 
+original Faction owners. Turn all Town and City Control 
+Markers face up. Advance the Turn Marker one space.
+Operations
+5.1	 Operations Phase
+The Operations Phase is when players organize and move their 
+Units, and initiate combat. Perform an Operation by playing an 
+Operations Card and performing the actions it allows. 
+
+The first player for the turn begins the Operations Phase by 
+turning over the top Operations Card in his Operations Pack 
+for all to see. If it is a blank, play passes immediately to the 
+next player clockwise. Otherwise, the first player may take any 
+permitted actions with his Forces. After he is done and after any 
+resulting combat is resolved, play passes immediately to the 
+next player clockwise and continues in this way until all Opera-
+tions Cards have been played.
+5.2	 Operations Cards
+There are four types of Operations Cards:
+5.4	 Operations Pack
+During the Planning Phase, each player uses the cards from his 
+Operations Deck to make up his Operations Pack for the turn. 
+Players must first check the Turn Record track to see the number 
+and type of Operations Cards they get for that turn.
+EXAMPLE: On Turn 4 players add a second Column B card 
+to their Deck and may use 5 Operations Cards in their Pack. 
+On Turn 5 they add a 5th Column card to their Deck and 
+make up an Operations Pack of 6 cards.
+The players then secretly create their Operations Pack by stack-
+ing their chosen Operations Cards face down in the reverse 
+order to be played, so that the first face down card to be played 
+is on the top of the stack. 
+The MPLA, FAPLA and UNITA players must include the blank 
+Operations Cards in their Operations Pack (5.2).
+Once a player has set his Operations Pack for the turn, no 
+one—including the owning player—can examine the Opera-
+tions Pack. The cards are turned over and revealed one at a time 
+as play proceeds.
+ILLUSTRATION (Left to Right): Blank, Column, Command 
+and 5th Column cards.
+Blank Operations Card
+Take no action. MPLA and FAPLA each have one blank Opera-
+tions Card, UNITA has two, and FNLA has none. A Faction’s 
+blanks must be included in its Operations Pack. The blank rep-
+resents command confusion. When a blank Operations Card is 
+turned over, play passes to the next player.
+Column Card
+Move and fight with the designated Column. Column Cards 
+each have a letter corresponding to the lettered Columns. When 
+a Column Card is turned over, it permits the Column of the cor-
+responding Faction and letter to be moved. See 7 for movement 
+and 8 for Columns.
+Command Card
+Adjust Columns. A Command Card permits the player to rede-
+ploy one of his Column markers from one Column to another 
+Force, or to trade Column markers between two of his Col-
+umns. A Command Card may not be used on a Force that has 
+already moved that turn and it does not permit a Force to move. 
+However, a Command Card does not stop a Force from moving 
+later in that turn. 
+A player may keep the contents of Columns secret while mak-
+ing Columns or trading markers with a Command Card. See 8 
+for Columns.
+5th Column Card
+Move a non-Column Force. A 5th Column Card permits a 
+player to move Force not currently in a Column. The Force so 
+moved may not enter an Enemy-occupied region (this means it 
+cannot launch an attack).
+5.3	 Operations Deck
+All of a player’s Operations Cards that are available for play 
+make up that player’s Operations Deck. Note that at the begin-
+ning of the game, some Operations Cards are not available for 
+play. These are the Operations Cards that have a turn number on 
+them; they are not added to a player’s Operations Deck until the 
+beginning of the Planning Phase of the designated turn.
+EXAMPLE: It is the first turn and the FAPLA arranges his 
+Operations Cards as shown above. As it is Turn 1, each 
+player is allowed four cards. The FAPLA player must al-
+ways include his blank card in his Operations Pack. The 5th 
+Column Card is on the top of the pack so it will be turned 
+over first. Column A will be able to move twice, after the 5th 
+Column moves and after the blank card is turned over.
+First Player Chart
+The First Player Chart is used during step (c) of the Planning 
+Phase to determine which player goes first that turn.
+On Turn 1 only: To determine the first player any player rolls a 
+die. A roll of 1 to 4 determines the first player according to the 
+First Player Chart. Roll again on a 5 or 6. Once the first player 
+is determined, place the First Player Marker as appropriate on 
+the First Player Chart.
+On all turns after Turn 1: To determine the first player the 
+previous turn’s first player rolls a die. A roll of 1 to 4 determines 
+the first player according to the First Player Chart. A roll of 5 
+or 6 means that the player sitting to the left of the die roller be-
+comes the turn’s first player. Once the first player is determined, 
+place the First Player Marker in the appropriate space on the 
+First Player Chart.
+
+Movement of a Force is made possible when the appropriate 
+Operations Card is flipped during the Operations Phase.
+7.1	 What Can Move and When
+If an Operations Card for a Column is flipped, that particular 
+Column can be moved by the owning player. This is the only 
+time that a Column can be moved. A Column can be moved into 
+a region containing Enemy Forces, and as soon as it does so it 
+stops movement for that Operation. Then combat is initiated 
+and resolved (9).
+If a 5th Column Operations Card is flipped, the owning player 
+can move any Force that is not a Column out of one region. 
+This means that he may move one or more of his Units together 
+from the same region but that these Units may not be part of 
+a Column. The moving Force must stay together for its entire 
+move. The moving Force may not be moved into a region that 
+contains Enemy Forces. 
+7.2	 How Forces Move
+Forces can move into adjacent regions. Normally, a Force 
+moves from the region it is in to an adjacent region and then 
+immediately stops movement. However, there are four excep-
+tions to this rule.
+Exception One: Road Movement
+A Force can move up to six regions if it begins in a region with 
+a road and only crosses into each new adjacent region along a 
+road.
+Exception Two: Clear Terrain Movement
+A Force can move up to three regions if it begins in a region 
+with clear terrain and moves only into adjacent regions with 
+clear terrain.
+Exception Three: Combination of Road and Clear Terrain 
+A Force can move up to three regions using a combination of 
+road and clear terrain movement if, when crossing into each 
+new adjacent region one of the following conditions is met: 
+a) the new region is connected to the old region by a road; or 
+b) both the old region and the new region are clear terrain. 
+Exception Four: Jungle Movement
+Each jungle region has a jungle rating printed in 
+it. A Force trying to exit a jungle region without 
+using road movement must roll equal to or greater 
+than the jungle rating on a six-sided die in order to 
+exit the region. If the Force rolls less than the jun-
+gle rating, its movement ends and the owing player places a +1 
+jungle marker on the Force. The next time that Force attempts 
+to move out of the jungle, add one to the die roll. If it fails again, 
+add another +1 Jungle Marker to the first one. Repeat this pro-
+cess, adding +1 to the die roll for each +1 Jungle Marker, until 
+the Force exits the jungle (at some point the accumulation of +1 
+markers will make the move automatic).
+A +1 Jungle Marker remains with a Force until that Force 
+moves, retreats or combines with another Force. At which point 
+it is removed.
+Other movement exceptions:
+Artillery Units may never enter an Enemy-occupied region un-
+less accompanied by non-artillery Units.
+Tank Units and Major Units that are also artillery may only 
+move through clear terrain or along roads. Should one of these 
+Units be forced to move or retreat through savannah, jungle 
+or hills, it is destroyed. Note that the FAPLA rocket battery is 
+considered a Major Unit that is artillery.
+EXAMPLE: The tank Force in Lobito is forbidden to move 
+into the jungle at region 1. However, it can move to regions 
+2. or 3. via Novo Redondo and Porto Amboim, as these are 
+all clear areas. It can also move to the jungle area of Gabe-
+la via Novo Redondo because these regions are connected 
+by roads. It could then continue moving along the road to 
+region 3 and beyond.
+Column C at Gabela can move to Porto Amboim via Novo 
+Redondo along the road. However, if it tried to move direct-
+ly across the non-road boundary it would first need to roll a 
+3 or more on a die. Failure would mean its move ended.
+
+Units, Columns and 
+Forces
+The Units in the game are: infantry, armored cars, tanks, artil-
+lery (including the FAPLA rocket battery), engineers, and air-
+groups. Stacks of Units not in Columns can be examined by 
+other players at any time, though not any Equipment they car-
+ry—keep Equipment hidden until revealed in combat (2.4.2).
+A Column is one or more Units of the same Faction underneath 
+a Column marker of that Faction. Once Units are placed in a 
+Column, they can only be examined by the owning player; such 
+Units must be revealed, however, during combat (9.5).
+Columns are important because only Units that are part of a 
+Column may enter an Enemy-occupied region. This means that 
+Units may only attack if they are in a Column.
+A Force is any combination of Units and/or Columns. This 
+means that a Force is one or more Units, or one or more Col-
+umns, or any combination of one or more Units and Columns.
+8.1	 Columns
+A Column marker is either in use, which means it is on the map 
+stacked on top of one or more Units, or it is available, which 
+means it is sitting off-map.
+Players can create Columns on only three occasions: 
+(i) while setting up the game (3); 
+(ii) on play of a Command Card (this section, below); and 
+(iii) during Step B of the End Phase (4, and below). 
+The number of Column markers supplied to a Faction is the 
+limit on the number of Columns that Faction can have (16). 
+2. Play of a Command Card
+After a Command Card has been played, the owning player 
+may: 
+a) Remove a Column marker from a Column that has not 
+moved this turn and place it onto a Force that does not have 
+a Column marker and that has not moved this turn; or 
+b) Swap Column markers between two Columns that have not 
+moved this turn. 
+A player may keep the composition of the Columns secret dur-
+ing this process.
+3. End Phase Reorganization
+During the End Phase, a player is free to:
+a) Combine multiple Columns and/or Forces in the same re-
+gion into a single column. If two or more Columns were 
+combined choose one Column marker to mark the stack and 
+remove any now-unused Column markers off-map.
+b) Create a new Column using an off-map Column marker. 
+(Column markers just moved off-map due to combining 
+Columns can be used to create new Columns).
+Note that the composition of a Column can be involuntarily 
+changed as the result of combat (9) and straggling (9.12).
+There are many steps in the combat procedure; players should 
+use the Player Aid card and refer to the rules as necessary.
+9.1 Combat Definitions
+Combat Region. The region where the combat occurs.
+Attacker. The Column that moved into the Combat Re-
+gion. 
+Defender. The non-moving Forces in the Combat Region.
+Attacker’s Region. The last region from which the At-
+tacker moved into the Combat Region.
+Supporting Region. Any region adjacent to the Combat 
+Region that contains a Force of the Attacker’s Faction (not 
+Alliance). The Attacker’s Region can never be a Supporting 
+Region.
+ILLUSTRATION: A stack of Units with a Column counter.
+To create a Column, a player simply takes an available (i.e., 
+off-map) Column marker and places it on top of one or more of 
+his Units that occupy the same region. A player does not have to 
+place all the Units in a region in the Column, as long as at least 
+one Unit is so placed.
+There is no limit to the number of Units that can be in a Col-
+umn, but there must always be at least one Unit in a Column. 
+If a Column loses its last Unit, take the Column marker off the 
+map; the Column marker is immediately available.
+Once a Column is created, a player may change the Column’s 
+composition under only three circumstances:
+1. Detachment Before a Move
+After a Column’s Operations Card has been played but before 
+the Column moves, it may detach one or more Units. The 
+detached Unit or Units are placed in the same region as the 
+Column and are no longer a part of the Column. They are not 
+considered to have moved. 
+Note that a Column does not have to move following a detach-
+ment. A Column may not detach its last Unit.
+EXAMPLE: Column B moves to attack the FNLA infantry 
+Unit. Region 1. is the Combat Region; 2. is the Attacker’s 
+region; 3. is a Supporting Region containing Column A. 
+
+9.2	 Combat – General Rules
+Combat occurs when a Column enters a region containing En-
+emy Forces. As soon as this happens the Column stops move-
+ment, combat is initiated, and the players resolve the combat. 
+All Forces in a Combat Region must participate in the combat. 
+If two Factions defend together as one side in a combat, the 
+player controlling the most Defending Units in that region con-
+ducts the defense and assigns losses. If both defending Factions 
+have an equal number of Units, then either the FNLA or FAPLA 
+conduct the defense.
+9.3	 Combat Procedure
+Perform the following steps in strict order for each combat. A 
+full rules description follows in this section.
+Step 1 
+Check for Automatic Victory (9.4)
+Step 2 
+Commit and Reveal Airgroups (9.6.2)
+Step 3 
+Reveal Combat Units (9.5)
+Step 4 
+Resolve Air-to-Air Combat (9.6.3)
+Step 5 
+Resolve Air Strikes (9.7)
+Step 6 
+Fire Artillery (9.8)
+Step 7 
+Use Minefields (9.9)
+Step 8 
+Fire Anti-tank Missiles (9.10)
+Step 9 
+Resolve Combat (9.11)
+Step 10 Resolve Stragglers (9.12)
+Step 11 Transfer Markers and Victory Tokens (9.13)
+9.3.1	 Hit Table
+The Hit Table is used at several junctures in the Combat Pro-
+cedure to resolve air-to-air combat (9.6.3), air strikes (9.7), and 
+missile (9.7, 9.10) and artillery (9.8) fire. Refer back to this sec-
+tion as directed below.
+the end of a combat, so suppressed Units remain suppressed.)
+Major Units that are eliminated are permanently removed from 
+play (Exception: 12.2). All other eliminated Units can be recy-
+cled.
+9.4	 Automatic Victory 
+Automatic Victory is checked during Step 1 of the Combat 
+Procedure.
+If the Attacker has at least six times as many combat strength 
+points as the Defender, and the Defender does not include a 
+Column, then the entire Defending Force is eliminated. In case 
+of Automatic Victory, proceed directly to Step 7 (Use Mine-
+fields), followed by Step 11 (Transfer Markers and Victory To-
+kens). Both players simply announce how many strength points 
+they have and the Attacker need not reveal the actual composi-
+tion of his Column. Eliminated Units and Equipment are taken 
+off-map and may be returned to play later, except for eliminated 
+Major Units, which are permanently removed from play (9.3.3).
+¶ Count the strength of all attacking engineers as one each for 
+purposes of calculating automatic victory odds, regardless of 
+the presence of a minefield, town or city. This is an exception to 
+the Rule 17.3 procedure, which is triggered only if there is no 
+automatic victory.
+Some Units, such as Minor Unit armored cars, do not have a 
+combat strength. One or more Minor Unit armored cars in a 
+Force with no other types of Units are considered to have a 
+combat strength of one each and do not use their Combat Dice 
+Points in combat.
+An Automatic Victory ends a Column’s move the same as any 
+other combat. 
+9.5	 Revealing Combat Units
+Combat Units are revealed during Step 3 of the Combat Pro-
+After airgroups are revealed (9.6.2) but before air-to-air combat 
+is resolved, both players must reveal all Units in the combat 
+hidden beneath Column markers. Only Units need be revealed; 
+Equipment may be kept secret (2.4.2).
+9.6	 Airgroups in Combat
+9.6.1	 Airgroups 
+Although airgroups are defined as Units, they do not move or 
+engage in combat like other Units. Instead, they remain off-map 
+until committed to a combat. 
+Each player keeps his available airgroups off-map but visible to 
+other players. After an airgroup is used in combat, it is placed 
+in the Air Mission Completed Box on the map. It is not returned 
+to its owner until the end of the turn.
+Airgroups can be used against Enemy airgroups (in air supe-
+riority missions) or against Enemy troops (in ground support 
+missions).
+9.6.2	 Committing and Revealing Airgroups
+During Step 2 of the Combat Procedure, the Attacker and De-
+fender may commit any available airgroups to the combat. Air-
+groups in the Air Mission Completed Box are not available to 
+be committed. If the Defender has a Column in the combat, the 
+Miss
+Suppression
+Hit
+9.3.2	 Explanation of Hit Table Results
+Miss = No effect
+Suppression = One Unit is flipped over and cannot partici-
+pate in this combat any longer, except to take hits and losses. 
+Hit = One unsuppressed Unit is eliminated, or one sup-
+pressed Unit is eliminated and one unsuppressed Unit is 
+suppressed.
+9.3.3	 How to Apply Hit Table Results
+All results are applied by the owning player.
+A player may opt to convert two suppressions to one hit.
+If a player receives more suppressions than he has Units, he 
+ignores the excess suppression results.
+¶ If every Unit of a Force in combat is suppressed, then the 
+entire Force conducts the combat with a combat strength of 1/2 
+(not of its total combat strength), may not fire anti-aircraft or 
+anti-tank missiles, and receives no die roll modifiers.
+All Units become unsuppressed and are flipped back over at the 
+end of the combat. (Note that a “combat continues” result is not 
+
+players secretly commit their airgroups to the combat and then 
+simultaneously reveal the number of their committed airgroups. 
+If the Defender does not have a Column in the combat, the At-
+tacker is allowed to commit his airgroups after the Defender 
+has revealed the number of airgroups he committed. (Note that 
+if there are two Factions defending, both commit and reveal 
+airgroups following this procedure.)
+A player can commit none, some, or all of his available air-
+groups to a combat. If a player has no available airgroups, then 
+he commits none.
+9.6.3	 Air-to-Air Combat
+Air-to-air combat is resolved during Step 4 of the Combat Pro-
+If the players have committed the same number of airgroups to 
+a combat, then all the committed airgroups must be used for air 
+superiority missions. 
+If the players have committed different numbers of airgroups, 
+the player who committed the fewest airgroups must use them 
+all for air superiority missions. The other player must commit 
+at least as many airgroups to air superiority missions as his op-
+ponent; he is then free to commit his remaining airgroups as he 
+sees fit to either air superiority or ground support missions.
+PLAY NOTE: A player can commit any number of airgroups 
+to a combat, but the missions that those airgroups perform 
+(i.e., air superiority or ground support) will depend not only 
+on the owning player’s choice, but also on his opponent’s 
+choice, and on the outcome of any air-to-air combat and 
+anti-aircraft fire. Of particular importance is the fact that 
+no matter how many airgroups a player commits to ground 
+support, only a maximum of two will be able to perform the 
+mission (see 9.7). The reason you might commit more than 
+two airgroups to ground support missions is to increase the 
+odds that one or more will survive air-to-air combat and 
+anti-aircraft fire.
+Air-to-air combat is resolved simultaneously using the Hit Ta-
+ble (9.3.1, 9.3.2, 9.3.3). Each player rolls dice against the Hit 
+Table equal to the number of pips on each airgroup counter he 
+has committed to air superiority missions. Results are applied 
+to Enemy airgroups. 
+Note that combat results are applied to all airgroups committed 
+to the combat, not just those flying air superiority missions.
+Following the resolution of air-to-air combat, all surviving air-
+groups that flew air superiority missions are placed in the Air 
+Mission Completed Box (suppressed airgroups placed in the 
+box are now unsuppressed).
+EXAMPLE: UNITA is defending and has a Column. FAPLA 
+secretly commits five airgroups, while UNITA commits two.
+The FAPLA player has more choice for his airgroups. He 
+could suppress any two, then eliminate one unsuppressed. 
+Or he could convert the two suppressions into a hit and 
+eliminate two. He is worried about anti-aircraft fire on his 
+ground support missions, so he decides to apply one hit to 
+eliminate an airgroup flying air superiority, and he converts 
+the two suppressions to a hit and eliminates the other air-
+group flying air superiority. His remaining three airgroups 
+(all assigned to ground support) remain in the air.
+9.7	 Air Strikes
+Anti-aircraft fire and air strikes are resolved during 
+Step 5 of the Combat Procedure.
+After air-to-air combat has been resolved, air 
+strikes are resolved if there are any airgroups left 
+that are committed to ground support missions. 
+If a player has anti-aircraft missiles in the Combat Region, he 
+may now fire them against Enemy airgroups conducting air 
+strikes. Missile fire is optional and there is no limit to the num-
+ber of missiles that may be fired. Announce how many missiles 
+are firing, then roll two dice for each missile. Use the Hit Table 
+to resolve the fire (9.3.1, 9.3.2, 9.3.3). Anti-aircraft missiles are 
+expended when fired; after firing return them to the Equipment 
+Pool.
+Apply results against airgroups conducting air strikes. If a Fac-
+tion has any unsuppressed airgroups that survived missile fire, a 
+maximum of two of those airgroups may now fire at the Enemy 
+using the Hit Table (9.3.1). Dice equal to the number of pips on 
+the selected airgroup counters are rolled. All Enemy Forces in 
+the Combat Region are eligible for losses from air strikes.
+After the anti-aircraft fire and air strikes are resolved, sup-
+pressed airgroups become unsuppressed and all surviving air-
+groups that participated in the combat are placed in the Air Mis-
+sion Completed Box.
+9.8	 Artillery
+Artillery is fired during Step 6 of the Combat Procedure.
+Players may each fire a maximum of one artillery Unit in the 
+Combat Region at the Enemy; artillery fire is always optional. 
+The Attacker always fires first; results are not simultaneous.
+Both UNITA airgroups must fly air superiority missions. The 
+FAPLA player commits two airgroups to air superiority and 
+three to ground support. Note that FAPLA had to commit at 
+least two airgroups to air superiority, and could have com-
+mitted three, four or five at the player’s option. 
+In air-to-air combat, UNITA rolls four dice (two for each 
+airgroup) for a ‘1, 4, 5, 6’ result (i.e., one miss, two suppres-
+sions and one hit), while FAPLA also rolls four dice (two for 
+each airgroup) and rolls ‘1, 2, 5, 5’ (i.e., two suppressions 
+and two misses).
+UNITA can either suppress both his airgroups or eliminate 
+one (i.e., by converting two suppressions to one hit). He 
+chooses the former, as there is no point in eliminating an 
+airgroup which will have no further effect on the combat.
+
+An artillery Unit fires a number of dice equal to the number of 
+pips on its counter, and artillery fire is resolved on the Hit Table 
+(9.3.1, 9.3.2, 9.3.3).
+Artillery Units are automatically suppressed after they fire. Ar-
+tillery Units have no combat strength.
+9.9 Mines and Minefields 
+9.9.1	 General Rules
+A mine counter is Equipment that a player can is-
+sue to his Forces. A mine moves around with its 
+assigned Force just like any other piece of Equip-
+ment. Mine counters have no effect on combat.
+On the flip side of a mine counter is a minefield. The minefield 
+does not exist until the mine is converted by flipping the coun-
+ter from mine to minefield. A player can convert a mine at any 
+time except during the play of an Enemy’s Operations Card. A 
+minefield cannot move and cannot be converted back to a mine. 
+There may never be more than one Friendly minefield per re-
+gion (there is no such limit for mine counters). 
+A minefield is revealed when converted. However, it can be 
+kept secret if it is stacked with a Column.
+¶ Minefields are not single use items and remain in place as 
+long as there is at least one Unit in the region from the Faction 
+(or Alliance) that originally deployed the minefield. A minefield 
+is returned to the Equipment pool if left alone in a region, or if 
+all Units of the side that deployed the minefield are eliminated 
+or forced to retreat as a result of combat. Exception: a minefield 
+remains on the map long enough to trigger anti-armor die rolls 
+(9.9.2) following an Automatic Victory (9.4), and also in cases 
+when all Defending Units are eliminated prior to Step 9 of the 
+Combat Procedure (9.11).
+¶ If two friendly Factions occupy an area and all the units of the 
+Faction that placed a minefield leave the area for any reason, the 
+remaining Faction of the Alliance may still use the minefield.
+9.9.2 Minefields in Combat
+Minefields are used during Step 7 of the Combat 
+Procedure.
+At the beginning of Step 7 the Defender announc-
+es whether he has a minefield in the Combat Re-
+gion. If the Attacker has one or more engineer Units (17.3), one 
+engineer Unit removes the minefield and is suppressed. If the 
+Attacker has no engineer Units, the minefield remains and the 
+Attacker must now roll for any armored Units (17.2) he has 
+in the combat. The Attacker rolls one die for each attacking 
+armored Unit. The rolls are made at once. Rolls of 2-6 have 
+no effect. Each roll of 1 eliminates an armored Unit of the At-
+tacker’s choice. Note that this roll must be made even following 
+an Automatic Victory. 
+A Defending Force receives one extra combat die if it has a 
+minefield during combat resolution (9.11).
+9.10	 Anti-Tank Missiles
+Anti-tank missiles are fired during Step 8 of the Combat Pro-
+Missile fire is optional and there is no limit to the number of 
+missiles that may be fired. The Attacker always fires first; re-
+sults are not simultaneous.
+Anti-tank missiles can only be fired against ar-
+mored Units (17.2) in the same Combat Region. 
+Announce how many missiles are firing, then roll 
+two dice for each missile. Use the Hit Table to re-
+solve the fire (9.3.1, 9.3.2, 9.3.3), applying the re-
+sults to armored units. If the Force fired on contains at least one 
+tank Unit, it ignores one suppression result. Anti-tank missiles 
+are expended when fired; return them to the Equipment Pool. 
+9.11	 Combat Resolution
+Combat is resolved in Step 9 of the Combat Procedure.
+If, after Step 8 of the Combat Procedure, one side has no Units 
+left, proceed directly to Steps 10 and 11.
+These are the substeps, for which a full description follows:
+Step 9A Calculate combat odds (9.11.1)
+Step 9B Calculate the Net Combat Dice Bonus (9.11.2)
+Step 9C Roll the Combat Dice to obtain the dice scores and 
+the difference (9.11.3)
+Step 9D Use the difference to consult the Adjustment Table 
+to obtain any combat odds shift (9.11.4)
+Step 9E Use the Final Combat Odds and consult the Result 
+Table to determine the combat result (9.11.5) 
+Step 9F Apply the combat result (9.11.6, 9.11.7, 9.11.8)
+PLAY NOTE: the role of engineer Units is tricky, and play-
+ers should refer to section 17.3 if there are any engineer 
+Units in the combat. 
+9.11.1	Combat Odds
+Combat odds are calculated in Step 9A of the Combat Proce-
+dure.
+The combat odds are an odds comparison of the total combat 
+strength of the Attacker’s Force to the total combat strength of 
+the Defender’s Force. Round the odds down in favor of the De-
+fender to yield a simple ratio (e.g., 1-2, 1-1, 2-1 and so on). 
+Odds of better than 6-1 are treated as 6-1; odds of worse than 
+1-4 are treated as 1-4.
+Remember that some Units do not have a combat strength. One 
+or more Minor Unit armored cars defending by themselves are 
+considered to have a combat strength of one each (17.2.2). An 
+engineer Unit acting as infantry has a strength of one (17.3).
+EXAMPLE: Eight attacking combat strength points against 
+three defending combat strength points yields a ratio of 
+2.67-1, or 2-1 rounded in favor of the Defender.
+9.11.2	Net Combat Dice Bonus
+The Net Combat Dice Bonus is calculated in Step 9B of the 
+Combat Procedure.
+Each player first adds up his Combat Dice Points. Combat Dice 
+Points are awarded for Units and Supporting Regions (Attacker 
+only). 
+The Attacker receives one Combat Dice Point for each Support-
+ing Region (9.1).
+Each player receives a number of Combat Dice Points equal to 
+the total Combat Dice Points provided by his Units in the Com-
+bat Region. One or more Minor Unit armored cars defending 
+by themselves are considered to have a combat strength of one 
+each and contribute no Combat Dice Points.
+
+The player with the highest total of Combat Dice Points receives 
+a Net Combat Dice Bonus equal to the sum of his Combat Dice 
+Points minus the sum of his Opponent’s Combat Dice Points. 
+The Net Combat Dice Bonus may not be greater than 5. 
+The Net Combat Dice Bonus will be added to that Player’s 
+highest Combat Dice roll (9.11.3). 
+9.11.3	Combat Dice
+The Combat Dice are thrown in Step 9C of the Combat Proce-
+dure.
+Both sides first calculate the number of Combat Dice they are 
+entitled to throw.
+The terrain of the Combat Region determines how many Com-
+bat Dice are thrown by the Attacker and Defender.
+Region
+Attacker Rolls
+Defender Rolls
+Clear
+Savannah
+Hills or Jungle
+In addition, the Defender rolls an additional die for each of the 
+following situations that applies:
+One die if he is defending in a town or city and the Attacker 
+has no assault engineers (17.3); or
+One die if he is defending the up (not down) side of an es-
+carpment from the Attacker’s Region (see the map key); or
+One die if he is defending a minefield.
+The number of Combat Dice is cumulative. For example, it 
+is possible for the Defender to throw as many as five Combat 
+Dice.
+Both players now roll their Combat Dice. The highest single 
+die roll is that side’s Dice Score. If one of the players had a 
+Net Combat Dice Bonus, he now adds that number to his Dice 
+Score.
+Subtract the Defender’s Dice Score from the Attacker’s Dice 
+Score to obtain the Difference. 
+EXAMPLE: If the Attacker’s Dice Score is 2 and the De-
+fender’s Dice Score is 4, the Difference is -2 (2 – 4 = -2).
+9.11.4	Adjustment Table
+The Difference obtained in Step 9C of the Combat Procedure 
+is used on the Adjustment Table in Step 9D of the Combat Pro-
+Cross check the Difference on the Adjustment Table to arrive at 
+the final adjustment to the Combat Odds calculated in Step 9A. 
+These are the Final Combat Odds.
+Adjustment Table 
+The Difference Adjustment to odds is:
++6 or better up three levels
++5, +4 up two levels
++3, +2 up one level
++1, +0, -1 no adjustment
+-2, -3 down one level
+-4, -5 down two levels
+-6 or worse down three levels
+NOTE: Moving the odds up benefits the Attacker, e.g., up 
+three levels will change odds of 2-1 to odds of 5-1. Moving 
+the odds down benefits the Defender, e.g., down two levels 
+will change odds of 1-1 to 1-3.
+9.11.5	Result Table
+The Final Combat Odds are used on the Result Table to deter-
+mine the combat result in Step 9E of the Combat Procedure. 
+Final 
+Odds
+(9.11.6, 9.11.7, 9.11.8)
+6-1
+Defending Force Eliminated
+5-1
+2/3rds of the Defending Force is Eliminated; 
+4-1
+1/2 of the Defending Force is Eliminated; 
+3-1
+1/3rd of the Defending Force is Eliminated; 
+2-1
+Defending Force must Retreat
+1-1
+Combat Continues
+1-2
+Attacking Force must Retreat
+1/3rd of the Attacking Force is Eliminated; 
+Remaining Attacking Force must Retreat
+1-4
+1/2 of the Attacking Force is Eliminated; 
+Remaining Attacking Force must Retreat
+9.11.6	Combat Losses
+Any combat losses are applied in Step 9F of the Combat Pro-
+Eliminated Units are removed from the map. Consult the Loss 
+Table to resolve combat losses that include fractions:
+# of Units in 
+For 1/3 
+For 1/2 
+For 2/3 
+Major Units that are eliminated are permanently removed from 
+play (Exception: 12.2); all other eliminated Units and Equip-
+ment are taken off the map but can return to play through direct 
+foreign aid, covert foreign aid and recruitment.
+9.11.7	Retreat From Combat
+Any retreats are applied in Step 9F of the Combat Procedure 
+after combat losses have been applied.
+An Attacking Force that retreats must retreat to the Attacker’s 
+Region (defined in 9.1).
+The Defending player chooses where to retreat his Force (or 
+Forces) within the following restrictions:
+
+Example of Combat
+MPLA Column B begins its move in Lucala and moves north 
+along the road to attack FNLA Column C in Camabatela.
+Step 1: Since the initial odds are 1-1 (five MPLA strength points 
+against three FNLA strength points, rounded off in favor 
+of the Defender) there is no Automatic Victory. Neither 
+player reveals the composition of his Force, just the combat 
+strength.
+Step 2: Neither side allocates any airgroups.
+Step 3: Both sides now reveal all of their Units in the combat.
+Steps 4-8: Neither side has any airgroups, missiles, artillery or 
+minefields.
+Step 9A: As noted above, the odds are 5-3, rounded to 1-1.
+Step 9B: MPLA has a Combat Dice Bonus of +2 (+1 for the 
+Supporting Region and +1 for the armored car), FNLA re-
+ceives a Combat Dice Bonus of +3 (+1 for each of the three 
+armored cars). The FNLA has a Net Combat Dice Bonus 
+of +1.
+Step 9C: The MPLA rolls one Combat Dice because its Column 
+is attacking into a jungle, and the FNLA rolls four Combat 
+Dice (two for defending a jungle, plus one for defending 
+a Town, plus one for defending against an attack up the 
+escarpment). 
+Both sides roll. The MPLA rolls a 1, while the FNLA rolls 1, 
+3, 4, and 4. FNLA takes the highest roll (4) and adds its Net 
+Combat Dice Bonus to reach a total of 5.
+The Difference is -4 (the Attacker’s 1 minus the Defender’s 
+5).
+Step 9D: The Difference of -4 on the Adjustment Table provides 
+a result of “Down 2 Levels”, so the initial 1-1 odds are now 
+1-3.
+Step 9E: The result of a 1-3 combat on the results Table is “1/
+3rd of the Attacking Force is Eliminated; Remaining Attack-
+ing Force Must Retreat”
+Step 9F: MPLA Column B removes two of its six Units (from 
+the Loss Table (9.11.6)) and retreats back into the Attacker’s 
+Region.
+Step 10: There are four Units left in Column B. The MPLA 
+player must now choose one Unit to remove from Column B 
+and place in the same Region as a straggler.
+Step 11: There are no Control Markers or Victory Tokens to 
+transfer as a result of this combat.
+(a) The retreat must be to a region adjacent to the Combat Re-
+gion.
+(b) The retreat may not be to the Attacker’s Region, to a region 
+that contains an Enemy Force or an Enemy-controlled town 
+or city.
+(c) All retreating Forces retreat to the same region.
+(d) The retreat may not be to a region next to the Attacker’s 
+Region unless no other region is available. 
+(e) If the retreat is to a region next to the Attacker’s Region, 
+then 1/2 of the Defending Force is eliminated following the 
+retreat (the Loss Table (9.11.6) applies).
+(f) All units of the Attacker’s faction that are not in the Combat 
+Region (i.e. are not in the combat) exert a Retreat Zone into 
+all empty regions adjacent to them. If the Defender retreats 
+into a region that is in a retreat zone, then 1/2 of the retreat-
+ing Force is eliminated (the Loss Table (9.11.6) applies).
+(g) ¶ Tank Units and Major Units that are also artillery are de-
+stroyed if forced to retreat into savannah, jungle or hills 
+(however, retreats are permitted along roads). The FAPLA 
+rocket battery is considered a Major Unit that is artillery.
+(h) A Defending Force that cannot retreat is eliminated.
+PLAY NOTE: Losses incurred because of a retreat are sepa-
+rate from and in addition to losses incurred in combat. The 
+sequence is: a) apply combat losses; b) conduct any retreat; 
+c) apply any losses resulting from the retreat.
+PLAY NOTE: It is possible for a retreating Force to have 
+the 1/2 eliminated penalty applied twice: once for clause (e) 
+and once for clause (f). Apply one set of losses first and then 
+apply 1/2 losses again.
+PLAY NOTE: The “empty region” condition of clause (f) 
+means that the loss does not apply if the retreat is to a re-
+gion that contains a Friendly Force.
+9.11.8	Continuing Combat
+The continuing combat process, if triggered, is determined in 
+Step 9F of the Combat Procedure.
+If the Result Table yields a result of Combat Continues, the At-
+tacker can choose:
+a) to end the combat by retreating to the Attacker’s Region, 
+or
+b) to fight on by eliminating any one of his unsuppressed 
+Units.
+If the Attacker chooses to lose a Unit and fight on, the Defender 
+can choose to end the combat by retreating (9.11.7), or the 
+Defender can choose to fight on by eliminating any one of his 
+unsuppressed Units.
+If both players choose to fight on, begin the Combat Procedure 
+all over.
+9.12	 Straggling
+Straggling is resolved in Step 10 of the Combat Procedure.
+There is no straggling following an Automatic Victory (9.4)
+After combat has been finally resolved, any losses applied and 
+any retreats finished, the Attacking Column must detach one 
+Unit of the owning player’s choice due to straggling. The strag-
+gling Unit is simply taken from the Column and placed by itself 
+
+in the same region as the Column. If the Attacking Column has 
+eight or more Units, it loses two Units to straggling.
+If a Column has only one Unit left before straggling, simply 
+remove the Column marker.
+A Unit that straggles may not move again the same turn.
+9.13	 Towns and Cities in Combat
+If the Attacker’s Force ended the combat in a region containing 
+an Enemy-controlled town or city, then the Enemy must sur-
+render the corresponding Control Marker to the Attacker during 
+Step 11 of the Combat Procedure. The Attacker places the Con-
+trol Marker face down amongst his Control Markers (10.3).
+In addition, if a town was won, the Enemy player must also 
+hand over one of his Victory Tokens to the town’s new owner; 
+if a city other than Luanda was won, two Victory Tokens are 
+surrendered; and if Luanda was won, the prize is three Victory 
+Tokens. 
+See 10 for more details on towns and cities.
+10	 Towns and Cities
+10.1	 Initial Deployment of Control Markers
+Each of the 23 towns and cities other than Cabinda has its own 
+Control Marker. During Step 5 of the game setup (3) the play-
+ers randomly and secretly draw 18 of the 23 Control Markers 
+(four each for FAPLA and UNITA, and five each for MPLA and 
+FNLA). The remaining five Control Markers are placed on the 
+map in their corresponding regions; these towns and cities be-
+gin the game uncontrolled. After set-up is complete and before 
+play starts, the players place their Control Markers face up in 
+front of them for all to see which players control which towns 
+and cities. 
+The difference between face up and face down Control Markers 
+is important and explained in 10.5, 12.1, 12.3 and 12.4.
+10.4	 Winning Victory Tokens
+When a player captures a town from the Enemy, the Enemy 
+player must hand over one of his Victory Tokens (if he has any 
+remaining) to the town’s new owner. 
+When a player captures a city other than Luanda from the En-
+emy, the Enemy player must hand over two of his Victory To-
+kens to the city’s new owner. 
+When a player captures Luanda from the Enemy, the Enemy 
+player must hand over three Victory Tokens to Luanda’s new 
+owner.
+¶ A player never hands over Enemy Victory Tokens in his pos-
+session, only those of his own Faction. Once a Victory Token is 
+captured by a player, it stays with that player until the Clean Up 
+Step of the End Phase.
+10.5	 Towns and Cities as Assets
+A player who controls a face up Control Marker may use its 
+associated town or city for deployment of direct foreign aid 
+(12.1), for recruitment (12.3), and for deployment of covert 
+foreign aid (12.4). Ports (2.3.4) have an anchor symbol on their 
+face up side to show they function as a port.
+Face down Control Markers provide their owner with no bene-
+fits other than the satisfaction of denying benefits to the Enemy. 
+Face down ports cannot be used as ports.
+11	 How to Win the Game
+11.1	 Victory Overview
+Only an Alliance can win the game. A Faction cannot win the 
+game.
+As explained below, victory in the game is possible at the end of 
+any turn (a “decisive victory”) (11.5), or, if no decisive victory 
+has happened, then victory is determined at the end of the game 
+(an “end game victory”) (11.6). Both types of victory depend 
+on where an Alliance’s Victory Track Marker is on the Victory 
+Track (11.3).
+Victory is determined during Step A of the End Phase. From 
+turns one through nine, players check for a decisive victory. On 
+turn ten, players determine an end of game victory. 
+10.2	 Uncontrolled Towns and Cities
+A player takes control of one of the five uncontrolled towns or 
+cities (i.e., a town or city whose Control Marker is on the map) 
+when one of his Forces ends its movement or retreat in the re-
+gion with the town or city (just moving through is not enough). 
+The player now takes the Control Marker from the map and 
+places it face up amongst his own Control Markers. 
+10.3	 Capturing Towns and Cities
+A player captures an Enemy-controlled town or city (and gains 
+control of its associated Control Marker) whenever his Force 
+ends its move (and survives any resulting combat) in the region 
+with the town or city. 
+When this happens, the owning player must surrender the 
+Control Marker to its new owner, who now places it face down 
+amongst his own Control Markers. Once a Control Marker is 
+turned face down, it stays face down for the rest of the turn, no 
+matter how many more times it changes hands or to whom it is 
+surrendered. In the Clean Up step of the turn all Control Mark-
+ers are turned face up (4.2 (3F)).
+11.2	 Victory Tokens
+Each Faction has five color-coded Victory Tokens. Whenever 
+a Faction is forced to hand over a Control Marker to an En-
+emy, he must also hand over one or more Victory Tokens (9.13, 
+10.4). If he has insufficient Tokens, just hand over as many as 
+he has remaining in his possession. 
+Victory Tokens are used during the End Phase of each turn to 
+determine whether an Alliance has won that turn (11.4).
+All Victory Tokens are returned to their owning Factions during 
+the Clean Up step (F) of the End Phase.
+Face up
+Face down
+
+11.3	 Victory Track
+The Victory Track on the map has ten spaces, 
+numbered from 10 to 20. At the beginning of the 
+game, both Alliances place their Victory Track 
+Markers on the “20” space of the Victory Track.
+The Victory Track Marker is moved down the 
+Victory Track when:
+• an Alliance wins a turn (11.4);
+• an Alliance wins a propaganda victory (12.4.3); or
+• the FNLA captures Cabinda (14.3.2).
+11.4	 Winning a Turn
+During Step A of the End Phase, each Faction adds up the 
+number of Victory Tokens it controls (i.e., both its own and 
+those won from Enemy Factions during the turn), and adds that 
+number to his Ally’s number. The Alliance with the most total 
+Victory Tokens wins that turn. In case of a tie, neither Alliance 
+wins the turn. An Alliance that wins a turn must move its Vic-
+tory Track Marker down the Victory Track as follows:
+Number of Victory Tokens 
+Controlled by that Alliance
+Victory Track Marker 
+movement
+10 or fewer
+no movement
+11 or 12 
+down one space
+13 or 14 
+down two spaces
+15 or more
+down three spaces
+Move from the 20 space toward the 10 space. Once on the 10 
+space, a Victory Track Marker no longer moves.
+11.5	 Decisive Victory
+An Alliance wins a decisive victory if, during Step A(i) of the 
+End Phase, it controls a number of Victory Tokens equal to or 
+greater than the number on the Victory Track where the Alli-
+ance’s Victory Track Marker sits.
+11.6	 End of Game Victory
+If there is no decisive victory, an Alliance wins an end of game 
+victory if, during Step A(i) of the End Phase of turn 10, its Vic-
+tory Track Marker is closer to the 10 space on the Victory Track 
+than the other Alliance’s Victory Track Marker. Ties are pos-
+sible.
+12	 New Troops
+New troops are acquired by:
+• direct foreign aid (12.1);
+• recruitment (12.3); and 
+• covert foreign aid (12.4).
+12.1	 Direct Foreign Aid
+PLAY NOTE: Direct foreign aid represents the deployment 
+of Zairois, South African and Cuban troops in Angola.
+12.1.1	Receipt of Direct Foreign Aid
+Direct foreign aid is determined in Step C of the End Phase. If 
+an Alliance has lost that turn (11.4), each Faction in that Alli-
+ance checks the number of Victory Tokens it controls against 
+the Direct Foreign Aid Table to see what aid it receives. Note 
+that the number of Victory Tokens counted are those controlled 
+by each Faction, not the total controlled by the Alliance.
+Direct Foreign Aid Table
+Controlled by 
+a Faction
+Direct Foreign Aid Received
+6 or more
+No Direct Foreign Aid
+One Minor Unit
+One Major Unit
+One Major Unit, one Minor Unit
+Two Major Units
+Two Major Units, one Minor Unit
+Three Major Units
+A Minor Unit can be an:
+• airgroup
+• engineer
+Choose it from the Minor Units belonging to that Faction that 
+are currently not in play.
+A Major Unit is one of the four Major Units available to each 
+Faction (2.4.1). The Major Units are colored a different shade 
+from the Faction’s other Units and bear the name of the foreign 
+power and the name of the Faction. 
+When the Direct Foreign Aid Table calls for a Faction to re-
+ceive one or more Major Units, the Faction player draws them 
+secretly and randomly from his pool. The player must make the 
+draw—he cannot refuse the direct foreign aid. If there are not 
+enough Major Units in the pool to satisfy the draw (because 
+they are already in play or were eliminated in combat), then the 
+player must roll on the Crisis Table once for each Major Unit he 
+was unable to draw (12.2).
+12.1.2	Deployment of Direct Foreign Aid
+Units received through direct foreign aid are deployed immedi-
+ately and simultaneously as follows:
+All FNLA direct foreign aid must be deployed in Zaire.
+All UNITA direct foreign aid must be deployed in South-
+West Africa.
+If Luanda is controlled by either FAPLA or MPLA, and the 
+Luanda Control Marker is face up, then all direct foreign aid 
+for both FAPLA and MPLA must be deployed in Luanda.
+If neither FAPLA nor MPLA controls Luanda, or if the 
+Luanda Control Marker is face down, then FAPLA and the 
+MPLA receive direct foreign aid at any port for which that 
+Faction has a face up Control Marker (only one Unit per 
+port; if there is no available port, the direct foreign aid is not 
+received this turn).
+¶ Provided it obeys the rules above, direct foreign aid units can 
+be deployed directly into existing columns.
+• armored car
+• artillery battery
+
+12.2	 Crisis Table
+Foreign Patron Says
+Effects
+Confidence is high
+Receive one Major Unit. You may even choose one eliminated Major Unit!1 
+(If no Major Units are available, treat as having no effect.)
+6-7
+We are content to maintain 
+our current policy
+No effect.
+We are concerned
+Withdraw one of your Major Units.2
+Perhaps you require more 
+guidance
+Withdraw one of your Major Units.2 
+Receive one fewer Reinforcement Card with each bid (12.4).3 
+None of your Major Units may enter an Enemy-occupied region from this point on.4
+We are alarmed
+Withdraw two of your Major Units.2
+Receive two fewer Reinforcement Cards with each bid (12.4).3
+None of your Major Units may move from this point on.4
+Our confidence is shattered
+Withdraw all of your Major Units.2
+¶ You receive no more direct foreign aid or covert foreign aid (12.4).3
+A Faction makes a separate roll on the Crisis Table for each Ma-
+jor Unit it was unable to draw as directed by the Direct Foreign 
+Aid Table (12.1.1).
+Each Faction receives a one-time +2 die roll modifier the first 
+time it rolls on the Crisis Table.
+¶ All results on the Crisis Table apply for the rest of the game, 
+not just the turn they are rolled.
+Explanation of Crisis Table Effects:
+If multiple results are obtained, apply each separately.
+1 Eliminated Major Units. This is an exception to the 
+general rule that eliminated Major Units are permanently 
+removed from the game.
+2 Withdraw Major Units. The owner chooses which 
+Major Units to withdraw. If no Major Unit is available for 
+withdrawal, then the player must withdraw any two non-
+infantry Units (i.e., tanks, armored cars, artillery, engineers, 
+airgroups). Withdrawn Units are available for later use.
+3 Reduce Reinforcement Cards. Reduce Reinforcement 
+Cards drawn by the appropriate number. If confidence is 
+shattered, no more cards can be drawn.
+EXAMPLE: If FAPLA’s Reinforcement Cards have been 
+reduced by two, a FAPLA bid of ‘5’ will produce only three 
+cards (12.4). A bid of ‘1’ will produce no cards at all.
+4 Move Restrictions. Movement restrictions on Major 
+Units do affect airgroups; they may now only fly missions 
+to support Defending Units.
+12.3	 Recruitment
+PLAY NOTE: Recruitment represents local efforts to raise 
+African troops. 
+Troops are recruited during Step D of the End Phase. 
+The turn’s first player recruits and deploys his Units first and 
+the players recruit and deploy clockwise after that. There are 
+two forms of recruitment: set recruitment (12.3.1) and variable 
+recruitment (12.3.2). A Faction performs set then variable re-
+cruitment before passing to the next player. 
+12.3.1	Set Recruitment
+Each turn, the Factions recruit as follows::
+• FNLA can recruit four infantry Units in Zaire. Until Cab-
+inda falls, at least two of these Units must be placed in the 
+FLEC Base. After Cabinda falls, all four infantry Units are 
+to be placed in Zaire.
+• FNLA can recruit two infantry Units in Luanda if it controls 
+Luanda and the Luanda Control Marker is face up.
+• UNITA can recruit four infantry Units in South-West Af-
+rica.
+• UNITA can recruit two infantry Units in Luanda if it con-
+trols Luanda and the Luanda Control Marker is face up.
+• MPLA can recruit Units in one of the following ways if it 
+controls Luanda (i.e. the Control Marker is face up):
+1. Two infantry Units in Luanda and one infantry Unit in 
+Cabinda, but only if Cabinda is MPLA controlled; or 
+2. Three infantry Units in Luanda; or
+3. Two infantry Units in Cabinda, but only if Cabinda is 
+MPLA controlled.
+• MPLA can recruit one infantry Unit in Cabinda, but only 
+if it controls Cabinda, and Luanda is not controlled by the 
+MPLA/FAPLA Alliance.
+• FAPLA can recruit Units in one of the following ways if it 
+controls Luanda (i.e. the Control Marker is face up):
+
+1. Two infantry Units in Luanda and one MPLA infantry 
+Unit in Cabinda, but only if Cabinda is MPLA controlled; 
+or 
+2. Three infantry Units in Luanda; or
+3. Two MPLA infantry Units in Cabinda, but only if Cab-
+inda is MPLA controlled.
+PLAY NOTE: If FAPLA controls Luanda, he can decide 
+whether to recruit for his MPLA ally in Cabinda.
+After Cabinda falls to FNLA, no Units may ever be recruited 
+there again. In addition, MPLA may not deploy covert foreign 
+aid (12.4) there again.
+Newly recruited Units may be deployed directly to a Column. 
+12.3.2	Variable Recruitment
+Each Faction may recruit a number of infantry Units equal to 
+its face up city Control Markers (except Luanda), plus half the 
+number of its face up town Control Markers (rounded down).
+EXAMPLE: If a Faction controlled two cities and five towns, 
+it would recruit four infantry Units (2 + 2.5 = 4.5 = 4).
+Once recruited, infantry Units are placed by the controlling 
+Faction. A maximum of one Unit may be placed in any town 
+or city where the recruiting Faction possesses a face up Control 
+Marker. Newly deployed troops may be deployed directly to a 
+Column.
+Units recruited by this method cannot be placed in Luanda or 
+Cabinda. 
+12.4	 Covert Foreign Aid
+PLAY NOTE: Covert foreign aid represents the advisors, 
+mercenaries and Equipment secretly provided to the com-
+batants by their patrons. Bidding for Reinforcement Cards 
+provides the mechanic.
+Covert foreign aid can be Units or Equipment.
+12.4.1	Bidding for Covert Foreign Aid
+In Step E of the End Turn Phase, each Faction secretly bids for a 
+number of Reinforcement Cards from 0 to 5. (Use slips of paper 
+or dice to record secret bids.)
+The bids are revealed beginning with the turn’s first player and 
+continuing clockwise. After revealing his bid, each player then 
+draws that number of cards from the Reinforcement Card deck, 
+and openly receives the bounty of each card. After all are done, 
+reshuffle the deck.
+PLAY NOTE: Don’t forget that the number of Reinforcement 
+Cards may be affected by the Crisis Table (12.2).
+EXAMPLE: At the end of Turn 1 players use dice to reveal 
+their bids as follows:
+12.4.2	Deployment of Covert Foreign Aid
+Beginning with the turn’s first player and proceeding clock-
+wise, the players deploy their covert foreign aid as follows:
+• FNLA may deploy any amount of covert foreign aid to Za-
+ire or the FLEC Base;
+• UNITA may deploy any amount of covert foreign aid to 
+South-West Africa;
+• FAPLA and MPLA may deploy any amount of covert 
+foreign aid to Luanda. But only if Luanda is controlled by 
+either FAPLA or MPLA and its Control Marker is face up.
+¶ Provided it obeys the rules above, covert foreign aid units can 
+be deployed directly into existing columns.
+In addition, any Faction can deploy any covert foreign aid that 
+is Equipment as follows:
+(1) One piece of Equipment per region that is occupied by that 
+Faction’s Units; or
+(2) Two pieces of Equipment per town or city region that is oc-
+cupied by that Faction’s Units, for which they have a face 
+up Control Marker.
+(3) In addition to case (2), if the face up town or city is a port, 
+FAPLA or MPLA may deploy any covert foreign aid that is 
+a Unit to that port (limit one Unit per port).
+EXAMPLE: MPLA controls Benguela. It deploys two AA 
+missiles per case (2) and then one tank Unit per case (3).
+PLAY NOTE: As Cabinda does not have a Control Marker 
+and is not a port, cases (2) and (3) cannot apply.
+12.4.3	Propaganda Victory
+If one Faction bid for more reinforcement cards than the 
+other Factions, that Faction has given the Enemy Alliance a 
+propaganda victory. Move the Enemy Alliance’s Victory Track 
+Marker one place down the Victory Track toward 10. 
+A tie for highest bid between Enemy Factions results in no 
+propaganda victory for either Alliance.
+A tie for highest bid between Allied Factions results in a propa-
+ganda victory for the Enemy Alliance.
+13	 Infantry Brigades
+If three infantry Units occupy the same region during Step B 
+of the End Phase, the owner may replace them with an infantry 
+brigade. Infantry brigades count as one Unit for all purposes 
+and may never be changed back into their component Units.
+Each Faction draws that number of cards (2 for FAPLA, 5 
+for the FNLA, and so on). In addition, the FNLA bid of 5 
+cards is higher than any other bid. This gives its opponents 
+a propaganda victory (12.4.3). The FAPLA/MPLA Victory 
+Marker is moved one space down the Victory Track.
+EXAMPLE: It is the end of 
+Turn 2 and FAPLA draws this 
+reinforcement card. FAPLA 
+receives 1 armored car Unit.
+If it had been Turn 3 or later, 
+FAPLA would have received 2 
+armored car Units. 
+After placing the armored car 
+Unit on the map, the card is 
+put back in the deck, which is 
+reshuffled.
+
+14	 Special Areas
+14.1	 Zaire
+Zaire consists of the FLEC Base and Zaire Proper. 
+No FAPLA or MPLA Force may ever enter Zaire.
+14.1.1	Zaire Proper
+UNITA and FNLA Forces can move into Zaire Proper from one 
+of the four regions to the South. Once Cabinda is captured Forc-
+es can also enter from the jungle region adjacent to the FLEC 
+Base (14.1.2). When a Force moves into Zaire Proper from one 
+of these regions, it stops its movement for that Operation. 
+Zaire Proper is divided by a dashed line into two areas. Forces 
+must be in one of the two areas. When moving in or out of an 
+area, move only to or from regions adjacent to that area. 
+A Force beginning its move in an area of Zaire Proper may 
+move to an adjacent region (it may use road movement if it 
+moves along a connecting road). It treats the adjacent area as 
+clear terrain and can continue moving after entering the area.
+FNLA Forces (only) in the area adjacent to the FLEC Base may 
+move to the FLEC Base (14.1.2).
+Areas of Zaire Proper can be Supporting Regions and Units in 
+areas can exert Retreat Zones into the adjacent regions.
+14.1.2	FLEC Base
+An FNLA Force may move into the FLEC Base, but only from 
+the adjacent area of Zaire Proper. After entering the Base it 
+stops its movement for that Operation.
+An FNLA Force may never move from the FLEC Base to Zaire 
+Proper. It may only move from the FLEC Base into the adjacent 
+jungle region.
+After the FNLA captures Cabinda (14.3.2), the FLEC Base has 
+no further effect on the game. For purposes of movement in Za-
+ire, treat it as if it did not exist. However, the road from Cabinda 
+does not connect with Zaire, so Forces leaving the jungle for 
+Zaire are subject to the jungle movement rules (7). 
+14.2	 South-West Africa
+No FAPLA or MPLA Force may ever enter South-West Africa.
+UNITA and FNLA Forces can move into South-West Africa 
+from one of the four regions to the North. When a Force moves 
+into South-West Africa from one of these regions, it stops its 
+movement for that Operation.
+Forces may leave South-West Africa along the connecting road.
+South-West Africa can be a Supporting Region and Units there 
+can exert Retreat Zones into the adjacent regions.
+14.3	 Cabinda
+Cabinda is not a port and does not have a Control Marker. 
+Therefore it cannot receive direct foreign aid (12.1.2) and is 
+restricted in which covert foreign aid it receives (12.4.2).
+Furthermore, it cannot receive Units via variable recruitment 
+(12.3.2).
+14.3.1	Cabinda’s Defense
+MPLA Forces defending Cabinda convert a retreat result (in-
+cluding one taken voluntarily as a result of a “combat contin-
+ues” result) into a “1/2 of the Defending Force is Eliminated” 
+result. This result is taken after any other combat loss has been 
+resolved. If, after any combat, MPLA Forces are still in Cab-
+inda, the Attacking Force must retreat.
+14.3.2	Cabinda’s Capture
+Once Cabinda is captured by the UNITA/FNLA Alliance:
+(1) No Victory Token is exchanged. Instead, immediately move 
+the UNITA/FNLA Victory Track Marker one space down 
+the Victory Track towards 10 (note, there is no Control 
+Marker for Cabinda).
+(2) The FLEC Base has no further effect on the game. For pur-
+poses of movement into and out of Zaire, treat it as if it did 
+not exist. Any FNLA Units in the FLEC Base are moved 
+into the closest part of Zaire Proper. See also 14.1.2. 
+(3) The FNLA’s four recruited infantry Units may all now be 
+placed in Zaire.
+15	 Alliance Rules
+Allies may discuss anything they wish, but must do so in public. 
+Secret communications are not allowed. 
+Allied Forces:
+• May move through and occupy the same regions 
+• Must defend the same region
+• Block Enemy retreats on behalf of their ally
+However, a Faction NEVER:
+• Provides a Supporting Region for its ally (9.1).
+16	 Counter Limitations
+¶ The counter mix provided is the absolute maximum; no new 
+counters can be made (not even to represent pieces of Equip-
+ment).
+The number of Column markers is also a limit on the number of 
+Columns each Faction may have in play.
+17	 Unit and Equipment 
+Descriptions
+PLAY NOTE: Most of this section consolidates and repeats 
+rules that are scattered elsewhere. It is included more as 
+a ready reference and can be skimmed initially, except for 
+17.3 Engineers, which should be read in full.
+17.1	 Artillery Units
+Artillery is fired during Step 6 of the Combat Pro-
+Players may each fire a maximum of one artillery 
+Unit in a combat. The Attacker always fires first; 
+results are not simultaneous.
+An artillery Unit fires a number of dice equal to the number of 
+pips on its counter, and artillery fire is resolved on the Hit Table 
+(9.3.1).
+Artillery Units are automatically suppressed after they fire.
+Artillery Units are Units, but they have no combat strength.
+Artillery Units may never enter an Enemy-occupied region un-
+less accompanied by non-artillery Units.
+
+¶ A Major Unit that is also artillery may not move through sa-
+vannah, jungle or hills unless along a road. It is eliminated if 
+forced to retreat through this terrain and is not retreating along a 
+road. Note that the FAPLA rocket battery is considered a Major 
+Unit that is artillery.
+17.2	 Armored Units
+Armored Units are tanks and armored cars.
+17.2.1	Tanks
+Tanks have a combat strength and provide Combat 
+Dice Points.
+¶ Tank Units may only move through clear terrain 
+or along roads. Should a tank Unit be forced to 
+move or retreat through savannah, jungle or hills, it is destroyed 
+unless it is moving/retreating along a road.
+If a Force being fired on by Anti-Tank missiles contains at least 
+one tank Unit, the Force ignores one suppression result.
+17.2.2	Armored Cars
+Minor Unit armored cars have no combat strength; 
+instead, they provide Combat Dice Points only. 
+Major Unit armored cars have a combat strength 
+and also provide Combat Dice Points.
+A Minor Unit armored car defending by itself is considered to 
+have a combat strength of one and does not use its Combat Dice 
+Points.
+17.3	 Engineers
+An engineer Unit can perform one of three roles in a combat: 
+(i) 
+Minefield removal 
+(ii) 
+Assault engineers
+(iii) 
+Normal combat 
+When assigning engineer Units to roles, they must be assigned 
+in precedence order from (i) to (iii). The only exception to this 
+is if the only attacking Unit or Units are engineers (17.3.3).
+If a minefield is present, one engineer Unit must be assigned 
+to minefield removal before any can be assigned to assault or 
+normal combat.
+If a town or city is present, one engineer Unit must be assigned 
+as assault engineers before any can be used for normal combat.
+17.3.1 Minefield Removal
+One attacking engineer Unit in a Combat Region containing an 
+Enemy minefield must be used to remove the minefield, after 
+which that engineer Unit is suppressed.
+17.3.2	Assault Engineers
+If the Combat Region contains a town or city, one engineer Unit 
+can be used as assault engineers. Assault engineers negate the 
+Defender’s extra combat die for defending in a town or a city. 
+This is the only way assault engineer Units contribute to the 
+combat. 
+17.3.3	Normal Combat
+An engineer Unit performing normal combat fights with a com-
+bat strength of 1. Note that defending engineer Units always 
+perform the normal combat role. 
+Exception: If the only attacking Unit or Units are engineers, one 
+engineer Unit is treated as infantry with a strength of 1 (i.e., it 
+performs the third role).
+17.4	 Anti-Aircraft and Anti-Tank Missiles
+All missiles are Equipment. Equipment must be assigned to a 
+Force (2.4.2).
+A missile is a one-use item. Once fired, it is immediately re-
+turned to the Equipment pool. 
+17.5 Mines and Minefields
+Mines and minefields are fully described in 9.9.
+17.6	 Mercenaries
+Mercenaries are marked with a ‘Merc’. Mercenaries have a 
+combat strength and provide Combat Dice Points. Mercenar-
+ies can arrive in the game only as Direct Foreign Aid (i.e. the 
+Zairois Merc Unit) or where Mercenaries are specified on a Re-
+inforcement Card.
+Hints on Play
+Some tips for new players.
+FAPLA/MPLA
+1. Luanda is vital. Lose it and you’ll probably lose the game. 
+Caxito, Camabatela, Lucala and the nearby jungle regions 
+are all crucial to hanging on to the capital.
+2. Clear Enemy troops out from behind your front lines as 
+quickly as possible.
+3. Use your road net and central position to out-maneuver the 
+Enemy.
+4. Don’t neglect Cabinda. Make sure it is well-garrisoned.
+5. On the other hand, don’t over-garrison Cabinda. You want 
+to tempt the FNLA into wasting time and resources against 
+it.
+6. The rules for removing losses as Units mean that an Infantry 
+Brigade, adequately supported, can soak up a lot of punish-
+ment. This is very useful when defending Cabinda.
+7. A two-Faction offensive against the same Enemy can pro-
+duce devastating results.
+UNITA/FNLA
+1. Be prepared to take losses (particularly infantry Units). You 
+can rebuild quickly, the Enemy cannot.
+2. FNLA:
+(a) Try and interrupt Enemy movement. Infiltrate small 
+Forces through the jungles, use mines, etc.
+(b) Don’t commit all your Forces to the Cabinda battle. A 
+competent FAPLA commander will use his opportunity to 
+destroy your position in the main area of Angola.
+(c) Fighting the later stages of the game with Cabinda in 
+Enemy hands is hard work, but not impossible.
+3. UNITA:
+Make every blow count. Accept the losses and never ease up 
+the pressure. Your ally will only make progress if you can 
+keep the MPLA from supporting FAPLA in the north.
+
+All Players
+1. Don’t rely on strength alone to destroy the Enemy. Maneu-
+ver around his Forces, use Supporting Regions to win your 
+battles and let retreat zones destroy him.
+2. Use small Units to block the drives of large Enemy Col-
+umns.
+3. Try to use smaller Columns to clear resistance away in front 
+of your larger Columns.
+4. NEVER give up. Direct Foreign Aid will keep you in the 
+game, no matter how badly you lose a turn.
+5. Make the most of your Major Units.
+Game Notes
+Notes on the game design and history.
+Jungle
+Jungle is a blanket term for regions of particularly difficult 
+terrain. Only in the north of Angola are there what can be de-
+scribed as areas of true jungle.
+Jungle elsewhere ranges from heavily-wooded valleys and 
+swampy watershed regions through to thorn forests and areas 
+of semi-desert.
+The FAPLA/MPLA ‘Alliance’
+Within the game the MPLA and FAPLA are presented as two 
+different Factions. In actual fact there was only the one ‘fac-
+tion’, the MPLA. However, in game terms it was felt that organ-
+izing the MPLA into two Factions was an accurate representa-
+tion of the difficulties faced by that organization: a two-front 
+war, considerable internal disagreement, and the problems 
+inherent in cooperating with Cuban forces operating under their 
+own commanders. (FAPLA was actually the acronym for the 
+armed forces of the MPLA.)
+The Time Scale
+The game length has been set at ten months. July 1975 was cho-
+sen as the starting point because it was then that the war entered 
+its second phase (far more extensive fighting, increased interna-
+tional concern and the first indications of military involvement 
+on the part of South Africa).
+This second phase came to an end in March/April 1976 when 
+South Africa withdrew its troops from all but the very south 
+of the country and the UNITA/FNLA positions consequently 
+collapsed.
+In actual game terms, Zaire withdrew its troops in Turn 7 and 
+South Africa in Turn 8, leading to a FAPLA/MPLA decisive 
+victory in Turn 9.
+From the end of the second phase the war was to continue unin-
+terrupted until 1991, before continuing with periodic ceasefires 
+to 2002.
+Cabinda
+The oil-rich province of Cabinda—separated from the rest of 
+Angola by the Zaire river and a strip of Zairois territory—was 
+perhaps Angola’s richest asset. The FLEC (Frente para a Lib-
+ertação do Enclave de Cabinda, Front for the Liberation of the 
+Enclave of Cabinda) was concerned with ‘liberating’ Cabinda 
+from its MPLA ‘garrison’.
+There are no FLEC units in the game; they are part of the FNLA 
+force mix.
+Propaganda Victories
+As the war progressed the OAU (Organisation for African 
+Unity) became increasingly concerned at the scale of foreign 
+involvement. Any Faction receiving too many reinforcements 
+would become that bit less credible as the next government of 
+Angola.
+Towns and Cities
+All Towns and Cities are referred to by the names used in 1975-
+76. Many names have since been changed. For instance, Novoa 
+Lisboa is now Huambo.
+Portugal
+Portuguese troops still garrisoned certain areas at the start of 
+the war. However, since these troops were withdrawn shortly 
+after the outbreak of hostilities, they have been factored out of 
+the game.
+Notes on the New Edition
+The rules have been reorganized and renumbered. Some sec-
+tions have been clarified.
+The map in the game’s original 1988 edition was squashed 
+along the east-west axis. The new map has been laid out over a 
+satellite image of the country and is correctly proportioned.
+All the place names have been researched and updated, some-
+times with slightly modified spellings.
+The southern area of Namibia (South Africa) on the original 
+map has been renamed South-West Africa, as this was appar-
+ently in more common use at the time.
+Credits
+Ragnar Brothers Edition:
+Original Idea: Phil Kendall
+Game Development: Phil Kendall, Roger Greenwood
+Further Suggestions: Gary Dicken, Steve Kendall, Dave Rob-
+erts, Steve Slade
+Playtesting thanks to: The Ragnar Brothers (Norris, Ronnie, 
+Gary, Dereck, Terry, Tommy and Quentin) and to Ian and Dave 
+Brigante
+Multi-Man Publishing Edition:
+Developed by: Adam Starkweather
+Rules Edit: Jon Gautier
+Graphics: Lee Brimmicombe-Wood
+Box Art: Nicolas Eskubi
+Thanks to: Ian Wakeham, Wendell Albright, Anthony Santiago, 
+Jeff Grossman, Jevon Heath, Jeff Meyers, Kevin Rohrer, David 
+Hoskins, Jordi Cairol
+Card Errata
+¶ One of the MPLA Column B cards incorrectly reads ‘Turn 4’. 
+This is an ‘At Start’ card that the MPLA player gets for immedi-
+ate use in step 1 of the game set up.
+
+Appendix 1: Unit Counters
+This lists the number of Unit counters in each Faction (does not 
+include the four Major Units of the Zairois, South Africans and 
+Cubans for each Faction):
+Infantry Units
+Infantry Brigades
+Armored Cars
+Tanks
+Artillery
+Engineers
+Airgroups
+Mercenaries
+Column Markers
+The card mix for each Faction:
+Command
+Column A
+Column B
+Column C
+Column D
+Column E
+5th Column
+Blank Card
+Appendix 2: The Changing Face of War
+This describes the changing face of the war. The table lists the 
+number of cards in each Faction’s Operations Pack each turn 
+and the turns in which new cards are introduced to the Opera-
+tions Deck. (This is also summarized on the Game Turn Track.)
+Turn
+Number of 
+Cards per 
+Pack
+New Cards per Deck
++1 card for Columns D*, E
++1 card for Column B
++1 card for 5th Column
++1 card for Column C
+* Not the FNLA, which starts Turn 1 with Column D in play
+Production Note
+The original Ragnar Brothers game had a total of 65 cards. 
+When we make a game at MMP, the cards must come in packs 
+of 55. We decided to give you the 65 cards as they came in the 
+original version of the game (cards 1 to 65) and 45 duplicate 
+Operations Cards for replacement should any be lost or worn 
+out (cards 66 to 110). You can tell the original from the dupli-
+cate by the stripe on the card.
+Original
+Duplicate
+
+Crisis Table (12.2) [+2 on first die roll]
+Foreign Patron Says
+Effects
+Confidence is high
+Receive one Major Unit. You may even choose one eliminated Major Unit! 
+(If no Major Units are available, treat as having no effect.)
+6-7
+We are content to maintain 
+our current policy
+No effect.
+We are concerned
+Withdraw one of your Major Units.
+Perhaps you require more 
+guidance
+Withdraw one of your Major Units.
+Receive one fewer Reinforcement Card with each bid (12.4).
+None of your Major Units may enter an Enemy-occupied region from this point on.
+We are alarmed
+Withdraw two of your Major Units.
+Receive two fewer Reinforcement Cards with each bid (12.4).
+None of your Major Units may move from this point on.
+Our confidence is shattered
+Withdraw all of your Major Units.
+¶ You receive no more direct foreign aid or covert foreign aid (12.4).
+Hit Table (9.3.1)
+Miss
+Suppression
+Hit
+Combat Dice Bonuses (9.11.2) [net max +5]
++1 per Combat Dice Bonus point (see Unit counters)
++1 per Supporting Region
+Combat Dice (9.11.3)
+Region
+Attacker Rolls
+Defender Rolls
+Clear
+Savannah
+Hills or Jungle
+Defender receives these extra dice:
++1 if defending in a town or city and Attacker has no 
+assault engineers
++1 if defending the up side of an escarpment
++1 if defending a minefield
+Adjustment Table (9.11.4)
+The Difference Adjustment to odds is:
++6 or better up three levels
++5, +4 up two levels
++3, +2 up one level
++1, +0, -1 no adjustment
+-2, -3 down one level
+-4, -5 down two levels
+-6 or worse down three levels
+Result Table (9.11.5)
+Final 
+Odds
+(9.11.6, 9.11.7, 9.11.8)
+6-1
+Defenders Eliminated
+5-1
+2/3rds Defenders Eliminated; Defenders 
+4-1
+1/2 of the Defenders Eliminated; Defenders 
+3-1
+1/3rd of the Defenders Eliminated; Defenders 
+2-1
+Defenders Retreat
+1-1
+Combat Continues
+1-2
+Attackers Retreat
+1/3rd of the Attackers Eliminated; Attackers 
+1-4
+1/2 of the Attackers Eliminated; Attackers 
+Combat Losses (9.11.6)
+# of Units in 
+For 1/3 
+For 1/2 
+For 2/3

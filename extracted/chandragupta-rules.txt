@@ -1,0 +1,3528 @@
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308 • www.GMTGames.com
+1.	
+Introduction......................................................... 	
+2.	
+Components and Terms....................................... 	
+3.	
+Sequence of Play................................................. 	
+4.	
+Leaders................................................................ 	
+5.	
+Leader Activation and Orders............................. 	
+6.	
+Movement............................................................ 	
+7.	
+Facing and Zones of Control............................... 	
+8.	
+Missile Combat................................................... 	
+9.	
+Shock Combat..................................................... 	
+10.	 Special Units....................................................... 	
+11.	 Effects of Combat................................................ 	
+12.	 Fortification......................................................... 	
+13.	 Army Withdrawal................................................ 	
+14.	 Optional Rules..................................................... 	
+TABLE OF CONTENTS
+	
+
+(1.0) INTRODUCTION
+Chandragupta brings the art of war in ancient India to GMT’s Great 
+Battles of History series. It covers the brief but rapid rise of the Mau-
+ryan Empire, from the Emperor Chandragupta’s first victories over 
+the Nanda clan to the expulsion of the Seleucids from the Indus river 
+valley, and finally the conquest of the last independent kingdom on 
+the subcontinent, Kalinga, by Chandragupta’s grandson Ashoka.
+The battles simulated here illustrate the traditional “four-fold” divi-
+sion of the Indian military system, with the elephant corps reigning 
+supreme in prestige (though not always effectiveness), and the lightly 
+armed infantry regarded as little more than fodder for chariots’ 
+wheels and trampling elephants. Though anachronistic, chariots still 
+play a prominent role on the Indian battlefield, while the modestly 
+armored cavalry is afforded a tentative importance at best. And in 
+Chandragupta, players will grapple with the unique aspects of the 
+Indian military “classes”—the loyal Maulas, the mercenary armies, 
+as well as the unpredictable tribals and the powerful but independent 
+trade guilds—and glean what were to be the seeds of the Mauryan 
+Empire’s eventual demise.
+Chandragupta includes historical notes so you can see what ques-
+tions of military history arose from the individual battles, as well 
+as design notes that explain the thinking behind some of the game’s 
+design decisions, and play notes with tips or comments about how 
+to play the game. There is the usual section on terminology for your 
+use in becoming oriented to the different unit types and major game 
+terms. Finally, the Scenario Booklet contains the orders-of-battle, 
+setup instructions, and victory conditions for each of the battles 
+featured in the game, as well as estimates of how long the battles 
+take to play and how well-balanced (in terms of having a chance to 
+win) they are. Though based upon playtest input, your own experi-
+ences may differ.
+A Note for Players: Chandragupta, while not an overly difficult 
+game to learn or understand, uses a tactical system that rewards 
+those who know what their units can do and how to exploit the 
+capabilities of even the worst of them. This is an archery-oriented 
+style of warfare, with the elephant corps taking center stage in terms 
+of battlefield prominence, a major departure from contemporary 
+Western systems in which infantry largely reigned supreme. 
+ 
+For Those Who Have Never Played a Historical Simulation Before: 
+Your main challenge will be that war gaming has its own language. 
+Also, the rules use a “sectional” approach that, while reading them 
+may be a somewhat disjointed process to the uninitiated, does help 
+you find things quickly when you need them. Above all, this is sup-
+posed to be fun, so peruse the rules, open up one of the battlefield 
+maps, and push some counters around to get a feel for simulation 
+gaming. We suggest you start with the Pataliputra scenario—set it 
+up (put the designated counters in their assigned “starting” hexes”), 
+turn to the rules section called Sequence of Play (3.0) on page 6, 
+and simply start doing what the sequence tells you to do, referring 
+to the rules as needed. After about 30 minutes or so, you’ll be good 
+to go.
+For Those Who Have Not Played the System Before: Even if you 
+are quite familiar with simulation gaming, we suggest you set up the 
+Pataliputra scenario and push the counters around for a turn or two 
+before actually starting a game. This will reveal the various tactical 
+strategies available, how the different types of weapons systems may 
+be best used and how to best (try to) protect against them. The one 
+thing to remember is that the more you know about your units and 
+how they act/interact, the better commander you will be.
+For Those Who Have Played the System: Chandragupta uses a 
+system similar to Great Battles of Alexander Deluxe (GBoH Vol. 
+I), with rules modifications and additions that portray the leadership 
+and command hierarchies (called “grades” in the game) that are 
+unique to the Indian military system of the era. We have also modi-
+fied the Chariot rules to something more historical and congruent 
+to the Indians’ use of this weapon system. Since Elephants are so 
+prominent here, you’ll notice some changes and additions to how 
+the pachyderms have been treated in earlier volumes. There are also 
+new rules that extensively treat terrain features such as fortifications 
+and cities. As always, a thorough review of the Charts & Tables is 
+heartily recommended.
+If you have any questions about these rules, we’ll be glad to (try 
+to) answer them. You can find our contact information at www.
+GMTgames.com. You also reach us at www.ConsimWorld.com in 
+the various gaming sections.
+(2.0) COMPONENTS AND TERMS
+The Chandragupta components include:
+•	 2 22” x 34” map sheets (back-printed)
+• 	1 22” x 17” map sheet
+• 	3 counter sheets (840 counters)
+• 	1 Rules Book
+• 	1 Scenario Book
+• 	4 player aid cards
+• 	1 ten-sided die
+• 	plastic counter storage bags
+(2.1) THE MAPS
+Each battle uses one or more game maps on which is overlaid a 
+hexgrid to regulate movement and combat. The effects of the differ-
+ent types of terrain on the map are covered in the rules and charts. 
+The battles of Kalinga and Magadha use one map plus a half-map 
+extension. The battles of Pataliputra, Takshashila, Gandhara, along 
+with the Revolt in the Provinces use one map. Malayaketu and the 
+Suppression of the Khashas are played on a 1/2 sized map.
+(2.2) THE PLAYING PIECES
+There are three types of playing pieces, or counters: combat units, 
+representing the various types of fighting troops; leaders, the indi-
+viduals who command the troops; and information markers used to 
+note specific pieces of information necessary for play.
+(2.21) Combat units come in two sizes: square (single) and rectangu-
+lar (double-size), the latter representing larger, linear formations such 
+as the feared, but rather rigid, Macedonian Phalanx. Each combat 
+unit is a specific Type and, possibly, Grade or Class (as illustrated 
+below), depending on its weaponry and armor/protection. All combat 
+units are rated numerically for their Size, Troop Quality (TQ) and 
+Movement capability. Units that are capable of firing missiles also 
+have a Missile Indicator indicating the type of missile weapon used 
+(J=javelin; A, A* = arrow; S=sling) with Artillery classified by type 
+(Yantra, etc.). The Missile Table gives the Ranges for these missiles. 
+Each combat unit has two sides. 
+For most units, the ratings are the same on both sides of the counter. 
+The reverse side is used to indicate that the unit has “Moved” at 
+least once that game turn. The reverse side of some Chariot units 
+indicates that the occupants have dismounted and are now fighting 
+
+on foot (separate “Moved” markers are supplied to indicate that 
+these units have moved).
+(2.22) Each combat unit is divided into Type, Class (not all units), 
+or Grade (Indian units only):
+TYPE: A unit’s Type—e.g., Heavy Infantry (HI), Elephant (EL), 
+etc.—is used to determine its relative Superiority (see 9.17) against 
+other types of units. 
+CLASS: Sometimes a Type is further subdivided by Class, e.g. 
+Heavy Infantry comes in two classes, Hypaspist (no indicator) and 
+Hoplite (HO). A unit’s Class allows for any variation of effective-
+ness within the Type. 
+GRADE: Indian units are also distinguished by their military “grade” 
+as identified by italic letter, e.g. an Indian Light Infantry (LI) unit 
+will be either of the Maula (m), Bhrta (b) or Sreni (a.k.a. “Guild”) 
+(s) grade, or will be designated as a Tribal (t). Grade designation 
+is important in terms of command and combat effectiveness within 
+type, and other special characteristics. Note that counter coloring and 
+unit symbols also differ among grade to aid in identification.
+DESIGN NOTE: Only Indian units have a grade designation. These 
+grades (called “classes” in military treatises of the era) placed 
+Indian units in a command hierarchy that distinguished substantial 
+differences in their training, abilities—and loyalty. Not all grades 
+defined in the period texts are present in the game. For purposes of 
+streamlining the rules, some of the less common classes have been 
+subsumed into the Bhrta and Tribal grades used here.	
+ 
+(2.23) Examples of Leader Counters
+Leaders have a variety of ratings used to rate their Initiative and Com-
+mand. Indian Guild Chiefs and Tribal Chiefs have slightly different 
+counters to reflect the different command systems they use. Leaders 
+and Leader Activation are discussed in 4.0 and 5.0.
+(2.24) Examples of Combat Units
+ 
+Medium Infantry (MI)
+Maula grade (m)
+Light Cavalry (LC)
+Bhrta grade (b)
+(BACK) White stripe: Unit has Moved.
+Sreni (Guild) grade (s)
+Light Infantry (LI)
+Tribal grade (t)
+Lancer Cavalry (LN)
+Guild
+Name
+Tribal
+Chief
+(TC)
+Guild and Tribal Chiefs
+Tribe Name
+Initiative
+Charisma 
+Command
+Range
+Guild 
+Chief
+(GC)
+(asterisk indicates Long Bow)
+Army/Kingdom
+Grade (Maula) 
+Sample Maula Unit
+Missile (Bow)
+Guild Name
+Grade (Sreni) 
+Sample Sreni (Guild) Unit
+(Javelin)
+Tribe Name
+Grade (Tribal) 
+Sample Tribal Unit
+Name
+Charisma
+Rank
+Command Range
+Initiative
+Line Command
+Capability
+Sample Overall Commander - Front (Activated Side)
+Finished Indicator
+Rear (Finished Side)
+Strategy Rating
+Subordinate Commander
+Setup Location 
+(e.g. LF = Left Flank)
+Unit type under Nayaka’s 
+command 
+(e.g. EL=Elephants)
+Nayaka Commander (N)
+Nayaka Commander
+
+Chariot (CH)
+Armed w/ Bow (A)
+Heavy Chariot (CH*)
+Armed w/ Javelin & Bow (J/A)
+Heavy Infantry (HI)
+Hypaspist
+Heavy Infantry (HI)
+Hoplite (HO)
+Phalanx (PH)
+Heavy Cavalry (HC)
+Cataphracted (CAT)
+Elephant (EL)
+Armed w/ Javelin & Archer Screen (J/a)
+Skirmisher (SK)
+Armed w/ Sling (S)
+Artillery (AT)
+Yantra
+(2.25) Examples of Information Markers. Information Markers, 
+such as “1s,” “2s” (representing Cohesion Points lost), “Routed,” 
+“Finished,” etc., are used to record certain game functions, as dis-
+cussed below.
+OC Restricted (4.55)
+Trumped (5.4)
+In Column (6.5)
+Must Shock Check TQ (7.33)
+Must Shock No TQ Check (7.34)
+Missile Low (8.19)
+Out of Missiles (8.19)
+Wounded Leader (9.15)
+EL Screen Missile Low (10.11)
+Fired Once (10.52)
+Cohesion Marker (11.1)
+Breach/Destroyed (12.31,12.32) 
+Damaged (12.32)
+ 
+(2.3) CHARTS, TABLES AND THE DIE
+There are several Charts & Tables player aid cards. The use of each 
+chart/table is explained in the rules, below. 
+All tables use a ten-sided die; the ‘0’ is treated as a ‘0’ (not a ‘10’), 
+and is less than ‘1’.
+(2.4) TERMINOLOGY
+We have included two sections. The first is a general definition of 
+most-used terms in the game system. The second is more in the way 
+of historical background, hopefully providing some insight into what 
+units were and how they were used.
+Game Terms
+Activated Leader: The leader who is giving orders to his troops. 
+Only one leader may be active at any one time.
+Class: Subcategory within “Type”, used to differentiate between 
+various weapons/armor systems within a type. EXAMPLE: Hoplites 
+(HO), a class of Heavy Infantry (HI).
+Cohesion: A unit’s ability to remain in an organized, fighting for-
+mation. Combat results are in the form of Cohesion “hits” causing 
+reductions to a unit’s Cohesion level (see Troop Quality).
+
+DR: Acronym for die roll; the roll of a single ten-sided die
+DRM: Acronym for die roll modifier; a number added to or sub-
+tracted form the result of a DR (die roll).
+Finished Leader: A previously activated leader who is “Finished” 
+with his actions, and (normally) may not be activated again. Leaders 
+may be Finished for other reasons, such as failure to Trump, etc.
+Grade: A classification of Indian (only) combat unit. Grade desig-
+nates an Indian unit’s place in the Indian military command hierar-
+chy. From highest prestige (and also status) to lowest, the hierarchy 
+encompassed the grades Maula, Bhrta, Sreni, and Tribal.
+Inactive Leader: A leader who has yet—and is still eligible—to 
+be activated.
+Individual Order: An order by a leader to an individual unit to 
+move, attack, etc.
+Leader: Leaders were the kings, rajas, generals, guild and tribal 
+chieftains who commanded/influenced the troops.
+Line: All units of specified Type(s) which are eligible to move under 
+a single Line Command. 
+Line Command: The ability of certain leaders to move large sec-
+tions (Lines) of troops at once.
+MA: Acronym for a unit’s basic Movement Allowance. It also 
+represents a unit’s maneuverability compared with the other units 
+in the game.
+Missile Volley: Friendly units throwing javelins, slinging stones, or 
+shooting arrows at enemy units. 
+Momentum: The mechanic by which a leader can undertake more 
+than one Orders Phase in a turn.
+MP: Acronym for Movement Points. Terrain has a cost in Movement 
+Points to cross or move through.
+Orders Phase: The period during a turn when a Leader gives orders 
+to his troops to move and fight.
+Shock Combat: Hand-to-hand, (and, often literally, eyeball-to-
+eyeball), hack and thrust, slash and crash, push and shove melee. 
+Size: Representing not only the number of men in that unit but also 
+its density and formation.
+Superiority: The relative capabilities of the opposing weapons/
+armor systems which will help determine who will take fewer/more 
+Cohesion Hits in combat. 
+TQ: Acronym for the all-important Troop Quality rating. The TQ 
+Rating is, by far, the most important number a combat unit has, and 
+it will be consulted constantly throughout play—at almost any time 
+a unit does something that will endanger its cohesion.
+TQ Check: A frequently-used game mechanic by which the unit’s 
+TQ is compared against a die roll; the difference between TQ and 
+DR often results in Cohesion Hits.
+Trump: The mechanic by which an enemy leader can stop a friendly 
+leader from undergoing an Orders Phase and transfer that phase to 
+him. It can also be used by a friendly leader to go before another, 
+but lower-rated, friendly leader.
+Type: General, categorical description of a combat unit, usually used 
+to determine combat effectiveness and results, as per the various 
+combat charts. EXAMPLES: LI (Light Infantry), EL (Elephants), 
+etc.
+Wing Command: The ability of certain Indian (generally Mauryan) 
+leaders to activate large sections of an army through the use of 
+subordinate “Nayaka” commanders.
+Zone of Control (ZOC): The hexes—usually directly to the front of 
+a unit—into which that unit exerts, by its presence, enough “influ-
+ence’ so as to inhibit freedom of movement by an enemy unit.
+Combat Units/Terms
+Archers: The most prevalent weapon among Indian infantry. Two 
+types of bows are present in Chandragupta, the common bow “A” 
+used by Sreni, Tribals, and foreign armies, and the long bow “A*”. 
+The long bow (familiar to players of the Hydaspes scenario of 
+Deluxe Great Battles of Alexander), made of bamboo, wood, and 
+possibly laminated with sinew and other materials, was particularly 
+large—72” long was considered best – and required foot-bracing 
+to draw.
+Artillery (AT): Though the terms varied in use and definitions 
+weren’t exactly fixed, for game purposes yantra refers to the lighter 
+scorpio-like device, and jamadagnya is equivalent (more or less) to 
+the ballista. A sarvatobhadra is a catapult. 
+Bhrta: The second tier of the Indian military hierarchy, the grade 
+Bhrta comprised the large mercenary corps stationed at hand and 
+ready to march at a king’s orders. Bhrta generally paid for their 
+own weapons and armor; their quality was reasonably good but 
+their loyalty was in proportion to their pay—not an issue for the 
+wealthy Mauryas.
+Cataphracted (CAT): From the Greek kataphraktos, meaning 
+“armored” or clad in mail or leather. Effective as protection against 
+missiles, most “cataphracting” in Indian armies was reserved for 
+the elite of the elephant corps. 
+Chariots (CH): Chariot corps still enjoyed great prestige in most of 
+the Indian kingdoms of the era, and the Mauryas maintained them 
+at great expense. An asterisk (“CH*”) indicates this “heavy” four-
+wheeled (and cataphracted) variety. The Elephant Chariot (“elCH”) 
+is—yes—an elephant-pulled chariot.
+Elephants (EL): The crème-de-la-crème of the Indian military, 
+elephants were considered the “victory of kings in battles” and the 
+implicit faith in their military effectiveness did not truly fade until 
+the advent of firearms. Particularly useful for trampling and scat-
+tering enemy infantry (or friendly troops when enraged), they were 
+also handy for battering down camp gates and walls. Many elephant 
+units, particularly of the Maula grade, were cataphracted.
+Heavy Cavalry (HC): Cavalry trained and armed for shock com-
+bat, and invariably foreign, as the Indians did not adopt them (why 
+bother when one has elephants?). Wearing some armor, their shock 
+capability often came from their fighting formations rather than 
+their weaponry.
+Heavy Infantry (HI): A Type that includes Hoplites and hypaspists. 
+The basic foot infantry of the Seleucids, usually protected by 30+ 
+lbs of armor (helmet, breastplate and, maybe, leg armor), shield and 
+both a short sword and a seven-foot (or more) spear. 
+
+Hoplite (HO): The “grunts” of classical-era Greek warfare, a class 
+of Heavy Infantry.
+Hypaspist: Macedonian hypaspists, an elite Hoplite group, were 
+somewhat lighter (in armor) than Hoplites and thus more mobile. 
+They also (probably) carried a shorter spear. 
+Lancers (LN): Light cavalry units trained to use a lance for at-
+tack. They have no missile capability (a simplification for game 
+purposes.) 
+Light Cavalry (LC): Mounted archers and javelinists whose great 
+plus was their mobility. They rarely carried armor/protection or any 
+other weapon.
+Light Infantry (LI): A generic term applied to foot units with little 
+or no body armor, and possibly a light shield and sword. Indian 
+infantry of the era was almost exclusively light infantry, heavily 
+missile-oriented and valued for mobility. Since they were not given 
+to close formations anyway, their cohesion was less vulnerable to 
+broken terrain—though this also made them more vulnerable to 
+trampling elephants.
+Maula: or “hereditary” troops, these were the professional soldiers 
+and thus considered the top grade of the Indian military hierarchy. 
+They were the best trained, their equipment was paid for by the state, 
+and they were unfalteringly loyal to the king. They also had a higher 
+morale than the other grades (rent-free lands and tax exemptions no 
+doubt were factors here).
+HISTORICAL NOTE: Though “hereditary” likely indicated that the 
+privileged soldierly status of the Maula was passed from father to 
+son, they were not exclusively of the Kshatriya warrior caste. 
+Medium Infantry (MI): Units with some armor (usually chest 
+mail) and heavier weapons (usually spears and swords) than Light 
+Infantry, and were trained for Shock combat. 
+Phalanx (PH): A formation of shoulder-to-shoulder Hoplites used 
+in Greek warfare and perfected by the Macedonians, who relied on 
+an extremely long spear (the 16–18 foot Macedonian sarissa) that 
+enabled the middle ranks to help present a truly formidable and 
+demoralizing frontage when advancing.
+Skirmishers (SK): A generic term applied to types of Greek troops 
+that wore no armor and used missiles: javelinists, archers and sling-
+ers. They did not fight in strict formation and were generally not 
+capable of or trained for Shock. They were intended to harass and 
+annoy the approaching enemy. The Indians did not employ skirmish-
+ers (that’s what Tribals were for).
+Sreni: Sreni or srenibala were analogous to trade guilds, and their 
+troops were something of a corporate militia, contracted in the 
+royal army—usually during threat of invasion—to defend trading 
+centers and caravans, or to protect temples and shrines. The troops 
+of this grade were led by their own chiefs and often followed their 
+own agendas—and thus not high on the king’s “loyalty” scale. Also 
+referred to as “Guilds” in the game.
+Tribals: Also known as atavibalam or atavika, the Tribals were a 
+myriad of independent clans from the vast forests and inaccessible 
+mountain areas of India. Though undisciplined, kings nonetheless 
+employed them to scout out rough terrain, harass an enemy’s flanks, 
+or—if the king was in a vindictive mood—they were set loose to 
+plunder the enemy’s countryside.
+(2.5) GAME SCALE
+Each point of Size denotes either 150 infantry or 100 cavalry. Tribal 
+infantry were perhaps 200 infantry per size point because their for-
+mations (if you would call it that) were denser. Each chariot Size 
+Point equals from 6–7 chariots, and each elephant Size Point is one 
+elephant. Foot skirmishers are an exception; their size—always 
+‘1’—reflects not their numerical strength but their dispersed type 
+of formation.
+HISTORICAL NOTE: Most modern historians agree that “exact” 
+numbers are almost impossible to divine, but the best historical data 
+are derived from the Arthashastra, the famous military treatise writ-
+ten during the Mauryan dynasty. Based on the treatise’s descriptions 
+of rank depths and frontages, the recommended distances between 
+units standing abreast in formation, and other details, we have man-
+aged to come up with what we feel are good “guesstimates.” 
+Each hex is approximately 60–70 paces (yards) from side to side. 
+Each game turn covers, rather loosely, 15–20 minutes of real time, 
+although gamers should not take this too literally.
+(2.6) GAME LENGTH 
+Most battles consist of an indeterminate number of Game Turns. 
+Since battles are usually fought until one side withdraws, there is 
+usually no need to keep track of how many turns have passed. Some 
+battles, however, do keep track of time, so we’ve provided you with 
+a Turn Record Track with the Charts and Tables. 
+(3.0) SEQUENCE OF PLAY
+Players activate each of their leaders in the order determined by 
+their Initiative Rating, as per 5.1. When a leader is activated he 
+gives Individual Orders (or, if eligible, Line Commands or Wing 
+Commands) which allow units within his Command Range to move 
+and conduct combat. After all leaders have been activated and are 
+“Finished,” each player checks for Rout and Recovery and Army 
+Withdrawal, after which the game turn is concluded. 
+A. Leader Activation Phase
+1.	The player with the lowest-Initiative-rated leader, who has not 
+yet been activated, activates that leader. If that leader is eligible 
+for, and wishes to use, a Line or Wing Command, he rolls—when 
+necessary—for that ability at this point.
+2.	Non-Momentum Trump attempts (5.41 & 5.42) may be made 
+here.
+B. Orders Phase
+1.	Movement and Missile Fire Segment.
+For each Individual Order issued by an activated leader, the 
+a.	
+player may perform any one function listed in 5.22 with one 
+combat unit, OR
+For leaders with Line Command capability (4.3), an entire 
+b.	
+Line of units may Move and/or Missile Fire, OR
+If Wing Commanders (4.5) are present, they may issue Wing 
+c.	
+Commands to subordinate Nayaka Commanders in range. 
+The moving player places a “SHOCK—Must Check TQ” marker 
+on top of each moving “heavy” unit the instant it moves adjacent 
+to an enemy unit (7.31).
+Units capable of Orderly Withdrawal (6.6) and/or Reaction Fire 
+(8.2) may do so throughout this segment.
+
+2.	Shock Combat Segment. After a leader has finished issuing orders, 
+eligible units engage in Shock combat (9.0), using the following 
+sequence: 
+a.	Shock Designation: all non-moving, eligible units that 
+choose to Shock are given “SHOCK—No Check” markers.
+b.	The Charge (Pre-Shock TQ Check).
+c.	Resolution of Possible Leader Casualties.
+d.	Resolve Shock Combat.
+e.	Check for possible Collapse and Rout.
+ 
+C. Momentum Phase OR Return to “A”
+1.	The player whose leader was activated in the immediately preced-
+ing Orders Phase may attempt a Momentum (5.3) die roll to give 
+that leader another Orders Phase (Phase “B”), or, play returns to 
+Phase “A” for any leaders that have not been activated. 
+2.	If the player attempts a Momentum die roll, the opposing player 
+may attempt a Momentum Trump (5.42[2]).
+D. Rout and Recovery Phase
+1.	Remove “Rallied” markers.
+2.	Rout Movement: Routed units must undergo Rout Movement 
+(11.22). Check for Tribal Flight (11.4). 
+3.	Reload Segment: Eligible missile units may get more missiles 
+(8.110).
+4.	Resolve Breach Attempts (12.3).
+5.	Flip all “Moved” units and “Finished” leaders to their front 
+sides.
+E. Camp Orders Phase
+Artillery units and individual units that are “out of command” but 
+inside camps may move, fire, and then Shock attack. See 12.17.
+F. Withdrawal Phase
+Each Player totals his Rout Points (13.10) to see if his army has left 
+the field. If either army has, the game is over with victory going 
+to the player whose army remains on the field. Otherwise, at the 
+conclusion of Phase “F,” that game turn is concluded and another 
+game turn begins. 
+(4.0) LEADERS
+Combat units may not move or fire missiles without getting an 
+Individual Order or a Line or Wing Command from a leader. Those 
+combat units that received such orders during a turn, or that are 
+within Command Range of that same leader, may conduct Shock 
+Combat. Each leader counter has two sides: “Active” and “Fin-
+ished.” A leader who has not yet been or is now activated uses his 
+Active side. A leader that has concluded his activation is flipped to 
+his Finished side. 
+(4.1) LEADER COUNTERS
+Each leader possesses several ratings:
+Command Range: Denotes his overall presence on the battlefield as 
+well as the presence of his aides and the effectiveness of his abilities; 
+the range in hexes over which that leader may exert his Initiative.
+Initiative: Denotes his basic ability to control forces and make rapid 
+decisions. Initiative is used to determine the order of leader activation 
+and the chances of that leader being able to use Momentum. It also 
+defines the number of Individual Orders that leader may issue per 
+Orders Phase. The higher the rating, the better the leader.
+Line Command Rating: Leaders capable of issuing Line Com-
+mands have an “L” printed adjacent to their Initiative Rating. 
+When designated by the scenario, Indian Leaders may issue a Line 
+Command or if eligible may issue Wing Commands to their Nayaka 
+commanders (see 4.4 and 4.5). Indian Guild and Tribal Chiefs (as 
+well as Greek leaders) cannot issue Wing Commands. 
+Movement Allowance: MA for leaders is not printed on the counter. 
+The number of Movement Points any non-Tribal Leader may expend 
+in an Orders Phase is nine (9), and they use Cavalry costs on the 
+Movement chart unless riding an Elephant or Chariot in which case 
+the cost is for those unit types instead. The MA for Tribal Leaders is 
+six (6) Movement Points. Tribal Leaders use Infantry costs on the 
+Movement chart. Leaders do not incur cohesion hits. 
+Charisma Rating: Denotes a leader’s ability to spur his troops on 
+to greater efforts in combat. The rating is used to adjust the die roll 
+on the Shock Combat Results table in his favor for combat units 
+with which he is stacked. 
+Strategy Rating: For Subordinate leaders only; expresses the ability 
+to issue Line Commands on their own Initiative.
+PLAY NOTE: There are no Elite Commanders in Chandragupta. 
+(4.2) LEADER CAPABILITIES: INDIVIDUAL 		
+ORDERS 
+(4.21) A leader may give Individual Orders to a friendly combat 
+unit within his Command Range, which is measured by tracing an 
+unobstructed path of hexes equal to or less than the range between 
+leader and unit. Count the unit’s hex, but not the leader’s. A path is 
+obstructed by hexes occupied by enemy units, a hex in an enemy 
+Zone of Control (ZOC) unoccupied by a friendly unit, or terrain a 
+leader could not cross or enter using his method of conveyance (see 
+6.16). Friendly units negate enemy ZOCs for purposes of tracing 
+order paths. All other paths are considered unobstructed. Command 
+Ranges are calculated at the instant the Individual Order is given.
+(4.22) An Individual Order allows a friendly unit to conduct move-
+ment and/or missile fire, etc., as per 5.22. Without an order, a unit 
+may not move voluntarily. In a given Orders Phase, a leader may 
+issue a number of orders equal to his Initiative Rating. Once a leader 
+can give no more Orders and cannot be activated again, flip him to 
+his Finished side.
+(4.23) A leader (other than an Overall Commander – see 4.4) in an 
+enemy Zone of Control may not issue Orders (or Line Commands, 
+for that matter) either to combat units or to himself... and thus may 
+not move out of that enemy ZOC ... unless and until he is moved 
+out of that ZOC by an Order from the Overall Commander. See 
+also 5.27.
+(4.24) A leader who is “Finished” (5.15) may not issue Individual 
+Orders (or Wing or Line Commands). However, he may move—but 
+only if ordered by an Overall Commander to do so.
+
+(4.3) LEADER CAPABILITIES: LINE 
+COMMANDS
+This section applies only to those leaders with an “L” printed adja-
+cent to their Initiative Rating.
+PLAY NOTE: Indian Tribal Chiefs and the majority of Guild Chiefs 
+do not use Line Commands. Greek leaders do have the ability to 
+issue Line Commands.
+(4.31) A leader with Line Command Capability, instead of issuing 
+any Individual Orders, may issue one Line Command to all the 
+units in a Line (4.33), if he is eligible to do so (4.4). The allowable 
+Lines are listed in the Line Command Eligibility section of each 
+scenario. 
+(4.32) Line Size. There is no limit to the number of units in a Line 
+that may be so ordered—other than 4.33—and all the eligible units 
+in a Line do not have to take part. Units in a Line do not have to 
+stay together when they move ... although to do otherwise is to court 
+organizational disaster.
+(4.33) Line Composition.
+Infantry Lines. In order for Infantry units to be eligible for a Line 
+Command:
+1.	The units must be all the same Type/Class as listed in that scenar-
+io’s Line Command Eligibility Chart. The Indian infantry Grades 
+Maula and Bhrta may be considered part of the same line.
+2.	The units must be either flank-to-flank or (but not “and”) front-
+to-rear (see Facing, 7.1) to be in the same line. 
+3.	The units in the line must be adjacent; any space—even an oc-
+cupied space—between eligible units ends the line.
+4.	An Infantry Line may be of any length regardless of Command 
+Range.
+5.	Indian Maula and Bhrta Light Infantry can be combined with 
+Elephant or Chariot units to form Combined Elephant/Infantry 
+and Chariot/Infantry lines (see below).
+Cavalry/Chariot Lines. In order for Cavalry or Chariot units to be 
+eligible for a Line Command:
+1.	The units must all be of the same Type/Class listed in that sce-
+nario’s Line Command Eligibility Chart. The Indian Maula and 
+Bhrta Grades may be considered part of the same line.
+2.	The units must all be within half the leader’s Command Range, 
+rounded up. They do not have to be adjacent or flank-to-flank, 
+etc. Units outside that Range are not in that Line, even if they are 
+adjacent to units that are.
+3.	Macedonian LN (Lancer) units are generally considered to be of 
+a separate type for Line Command purposes, however, Indian LN 
+units are not, i.e. Indian LN and Indian LC units may be part of 
+the same line.
+4.	Combined Chariot/Infantry lines are treated separately (see be-
+low); Cavalry never combine with any other Type.
+Elephant Lines. To be eligible for a Line Command, Elephant units 
+may be in either a linear (as with infantry) or non-linear (as with 
+cavalry/chariots) formation: 
+1.	To be in the same line, the Elephant units must be either flank-to-
+flank or front-to-rear, adjacent with no intervening spaces. The 
+line may be of any length without regard to command range, 
+OR
+	 They do not have to be adjacent, flank-to-flank etc. if they are 
+within the leader’s Command Range. Units outside the Command 
+Range in this case are not in the line, even if adjacent to units that 
+are.
+2.	No combining of the two formations is allowed—an Elephant 
+line must be either “infantry style” or “cavalry style.”
+3.	The Indian Grades Maula and Bhrta may be considered part of 
+the same line.
+4.	Combined Elephant/Infantry lines are treated separately (see 
+below).
+PLAY NOTE: Note that Cavalry Command Ranges for Line Com-
+mand purposes are one half their printed Range, rounded up. Those 
+for Elephants are not halved.
+DESIGN NOTE: The treatment of elephant lines in Chandragupta is 
+a departure from previous games in the GBoH series by combining 
+the stricter Elephant formations defined in Deluxe Alexander with 
+some aspects of the looser formations allowed in later games and 
+modules. We believe that this greater latitude in command and con-
+trol more accurately reflects the elephant’s status as the preeminent 
+corps of the Indian military system.
+Combined Elephant/Infantry and Chariot/Infantry Lines. Indian 
+(only) Light Infantry (LI) units may be eligible for a Line Command 
+in combination with friendly Chariot or Elephant units (any Types) 
+when the following criteria are met:
+1.	All units in the Combined Line must be either Maula or Bhrta 
+grade (or both); no other grades are eligible.
+2.	Light Infantry (LI) are the only infantry that can be part of a 
+Combined Line.
+3.	A Combined Line may be comprised of Light Infantry and Chariot 
+or Light Infantry and Elephant units; Chariot and Elephant units 
+cannot be in the same Line.
+4.	The units must be either flank-to-flank or (but not “and”) front-
+to-rear (see Facing, 7.1) to be in the same line.
+5.	All eligible units in the Combined Line must be adjacent to one 
+another; any space, even if occupied by an ineligible unit, ends 
+the Line.
+6.	Light Infantry units in the front rank of a flank-to-flank Combined 
+Line cannot be adjacent; they must be separated by at least one 
+intervening Chariot or Elephant unit (note that this applies to front 
+rank only).
+7.	A Light Infantry unit in a hex immediately behind the front rank 
+of a flank-to-flank Combined Line may move as part of that Line 
+if it is in a rear hex of an eligible Elephant or Chariot unit and 
+facing the same direction (see Facing, 7.1). 
+8.	Units in a Combined Line must stay together when they move 
+(this is the disadvantage to Combined Lines—and an exception 
+to 4.32).
+9.	A Combined Line may be of any length, without regard to com-
+mand range.
+
+EXAMPLE: The units above are part of a Combined Elephant/
+Infantry Line commanded by Subordinate Commander Sakatala 
+(who is stacked atop an Elephant unit). They are all Bhrta with the 
+exception of the EL unit (A), which is Maula and therefore is eligible. 
+The LI units “following” in the rear hexes of adjacent Elephant 
+units (B) are eligible. The LI unit (C) is not “following” an EL unit 
+and therefore is not eligible; and (D) is not eligible because it is 
+adjacent to the flank of another LI unit.
+PLAY NOTE: The idea here is that the Infantry in a Combined Line 
+are following the Elephant or Chariot units into battle. Rules should 
+be interpreted with this in mind. 
+DESIGN NOTE: The Combined Line illustrates both the preemi-
+nence of the Elephant and Chariot in the Indian military system 
+as well as the distinctly subordinate role of the Infantry, which 
+often served as little more than support for the Elephant corps and 
+Chariot-mounted knights. 
+(4.34) For Infantry lines, “infantry-style” Elephant lines, or Com-
+bined Lines, a leader must start his Orders Phase within two (2) 
+hexes of at least one unit in that “line” with NO intervening combat 
+units. He must have a clear LOS (8.14, and interpreted liberally in 
+the case of disagreements) to that unit (Elephants do not block LOS). 
+Nayaka leaders are an exception in that they must be stacked with 
+a unit in the line. 
+(4.35) Command Restrictions. Certain leaders who may issue 
+Line Command may do so only to the Type of units specified in the 
+scenario instructions or on their counters. Command Restrictions 
+do not apply to Individual Orders (Important Exception: Sreni and 
+Tribal leaders and units, see 4.6).
+DESIGN NOTE: While Line Commands are a more efficient way 
+to move large numbers of units, such “efficiency” comes at a cost, 
+mostly as these leaders were not truly “professionals.” For example, 
+a leader issuing a Line Command to move may not rally units in 
+that Orders Phase.
+(4.4) COMMAND HIERARCHY
+There are five types of commanders in Chandragupta: Overall Com-
+manders, Wing Commanders, Subordinate Commanders, Nayaka 
+Commanders, and Guild/Tribal Chiefs. This section describes the 
+general features of command system used by all the armies present 
+in the game. Section 4.5 details the Mauryan Command System 
+while 4.6 covers Guilds and Tribes. 
+(4.41) Overall Commanders. Overall Commanders (OC) are those 
+leaders that command the entire army, as designated in each scenario. 
+Every army has an Overall Commander. OCs function like other 
+leaders except that, when activated, OCs can:
+1.	Leave enemy ZOCs by issuing an Individual Order to them-
+selves.
+2.	Issue Orders to other, friendly leaders (one per leader per Orders 
+Phase) to move them. If the leader to be moved starts in an enemy 
+ZOC, it costs the OC two (2) Orders to move that leader. Note 
+that an OC in an enemy ZOC may not issue an Order to move 
+another leader; he must first leave that ZOC.
+3.	Issue Individual Orders to friendly combat units of any type, within 
+range, for any purpose the game allows. An OC, however, cannot 
+issue Individual Orders to Sreni or Tribal units (see 4.6).
+4.	Issue a Line Command (if eligible to do so) to any line as per the 
+Line Composition rules (4.33) in any Order Phase. An OC that 
+issues a Line Command cannot do #1–3 above. 
+5.	Can be used by Subordinate and Wing Commanders to automati-
+cally issue Line/Wing Commands per 4.43 and 4.54.
+PLAY NOTE: Some armies have more than one “Overall” com-
+mander. The individual scenarios cover this situation.
+(4.42) Subordinate Commanders. Subordinate Commanders (SC) 
+are the second command tier leaders of the non-Indian armies and in 
+Indian armies those leaders assigned to command a small section of 
+the army independent of the Wing Commanders. SCs function like 
+other leaders except that, when activated, SCs can:
+• 	Issue Individual Orders to any units in his range (Sreni and Tribal 
+units excepted).
+• 	Issue a Line Command to a line as per the Line Composition rules 
+(4.33) in an Initial (non-Momentum) Orders Phase if: 
+	 1. it is the first game turn of the scenario, or
+	 2. the SC starts the phase within his Overall Commander’s range, 
+or
+	 3. the SC is not within the Overall Commander’s Range or the 
+player chooses not to use his OC as above, but the player rolls 
+a die, and that die roll is the same as or lower than the leader’s 
+Strategy Rating. If it is higher, he may issue only Individual 
+Orders.
+DESIGN NOTE: This limitation has much to do with chain-of-
+command “red tape” vs. individual initiative (the die roll).
+• 	In a Momentum-generated Orders Phase, issue a Line Command 
+if the SC issued a Line Command in the Initial Orders Phase as 
+per #1 or #3 above. 
+(4.43) Important Momentum Limitation: Subordinate command-
+ers that used their proximity to their Overall Commander to issue 
+a Line Command may not attempt/roll for Momentum. 
+PLAY NOTE: Why, pray tell, is that? Well, it takes far more time 
+and energy to use the chain of command than to call on one’s ini-
+tiative.
+(4.5) THE MAURYAN COMMAND 
+HEIRARCHY
+DESIGN NOTE: The Mauryans utilized a multi-tired command 
+system necessary for fielding their often-enormous armies. This 
+is expressed in a command hierarchy using the device of the Wing 
+Commands and Nayaka subordinate commanders, as variously de-
+scribed in the Mauryan military treatise Arthashastra. A Nayaka was 
+something of a brigade-level commander. For game purposes (and 
+also due to the fog of Indian history) we have somewhat abstracted 
+this, giving the Nayaka a function similar to the legionary Tribune 
+or a Contingent Commander in previous GBoH volumes. 
+PLAY NOTE: The Mauryan Overall Commander controls the Center 
+and Wings of his forces through his Wing Commanders. When a Wing 
+Commander (WC) is activated he may, if the Nayaka Commanders 
+(NCs) under his command have passed, issue a Wing Command al-
+lowing for an entire wing of the army to move at the same time. In 
+order to efficiently control a Wing, the NCs must be within command 
+range of their Wing Commander or the OC—and the Line Composi-
+
+tion rules must be adhered to. As Players will learn, keeping their 
+forces together after battle is joined is not easy to do.
+(4.51) The Mauryan army is led by an Overall Commander (OC). 
+The OC subordinates command of his army’s sections, or wings, 
+to a Wing Commander (WC). The Wing Commander, in turn, sub-
+ordinates command of his wing to his Nayakas (NCs) by issuing a 
+Wing Command.
+1.	Wing Commanders may affect/lead only those Nayaka assigned 
+to his wing(s), as designated in the scenario. Note that some OCs 
+also serve as Wing Commanders; e.g. in Kalinga scenario, Ashoka 
+commands EL center and EL rear Nayakas.
+2.	Each wing is comprised of lines of one or more of the “four-
+fold” Indian army constituents, e.g. Infantry, Cavalry, Chariots, 
+Elephants, or a combined EL/Infantry or CH/Infantry lines.
+3.	One or more of these lines, in turn, may be commanded by a 
+Nayaka.
+4.	Guild (Sreni) or Tribal troops in the Mauryan army get orders 
+from their own Guild Chiefs or Tribal Chiefs, never a Nayaka, 
+SC, or OC (unless an exception is called for in the scenario).
+HISTORICAL NOTE: Though the Mauryans perfected this command 
+system, they did not invent it out of whole cloth—they inherited 
+it from the Nandas. So other Indian armies undoubtedly used a 
+similarly hierarchical system. To reflect this, we have allowed the 
+Nandas and Kalingans, in their respective scenarios, limited use of 
+Nayakas and Wing Commanders.
+(4.52) Wing Commanders are those leaders that command a wing 
+or section of the Mauryan army. These commanders acted as quasi-
+Overall Commanders for their assigned wings. WCs function like 
+other leaders except that, when activated in any non-Momentum 
+generated Orders Phase (see 5.1), a Wing Commander may do one 
+of the following: 
+1.	Issue Individual Orders to friendly combat units of any type, within 
+range, per 4.2. A SC, however, cannot issue Individual Orders to 
+Sreni or Tribal units (see 4.6). 
+2.	Issue a Line Command to a line as per the Line Composition rules 
+(4.33).
+3.	Issue Orders to one of his Nayaka Commanders to move them. 
+If the Nayaka Commander to be moved starts in an enemy ZOC, 
+it costs the WC two (2) Orders to move him. 
+4.	Issue a Wing Command (4.54[1]) to any one Nayaka Commander 
+under his command (as designated by the scenario) and in his 
+Range.
+5.	Issue Wing Commands to multiple Nayaka Commanders under 
+his command, and in his Range. See 4.54[2] and 4.54[3]. 
+When activated, in any Momentum generated orders phase (see 5.3) 
+a WC may do one of the following:
+•	 Issue Individual Orders as in 4.52 #1 above.
+•	 Issue a Line Command to a line as per the Line Composition rules 
+(4.33).
+The Greek/Macedonian armies and Guild/Tribal armies do not use 
+Wing Commanders.
+(4.53) Nayakas. A Nayaka Commander may give Line Commands 
+only to the unit type specified on its counter (e.g. “Inf” for Infan-
+try units, “Cav” for Cavalry units, “EL” for Elephant units, etc.). 
+Nayakas assigned specifically to cavalry or infantry may only give 
+Line Commands or Individual Orders to Cavalry or infantry units, 
+respectively (no combination with other unit types). Nayakas as-
+signed to Elephants or Chariots may combine infantry with the 
+Chariots or Elephants as part of a line. The counter designation “left 
+flank,” “right flank” etc. is for setup purposes only. 
+When activated in any non-Momentum generated Orders Phase (see 
+5.1), a Nayaka may do one of the following:
+1.	Issue Individual Orders to eligible friendly combat units, as per 
+4.2.
+2.	Pass (place a “Passed” marker on this leader). A Nayaka that has 
+Passed is still eligible to be used for a Mauryan Wing Command 
+(see 4.54) when so activated by his Wing Commander. See also 
+5.15.
+3.	Issue a Line Command if inside the camp per 12.17.
+When activated by a Wing Command (see 4.54 below), a Nayaka 
+that “Passed” or is not Finished and is not currently in an enemy 
+ZOC may issue a Line Command to eligible units comprising a Line 
+(see 4.33). A Nayaka must be stacked with one of the units in that 
+“line” in order to issue a Line Command.
+A Nayaka may NOT:
+•	 issue Line Commands without activation by a Wing Commander 
+unless inside the camp (12.17)
+•	 Pass in a Momentum-generated Phase
+•	 use Momentum when activated by a Wing Command
+•	 be used for Trumping
+ 
+PLAY NOTE: This means that in a Momentum Phase Nayaka Com-
+manders are limited to Individual Orders.
+Clarification: CH and EL Nayaka can issue Individual Orders to 
+LI if the Nayaka are eligible to command a mixed CH/LI or EL/LI 
+line in that particular scenario.
+(4.54) Wing Commands. Wing Commands are orders that “activate” 
+the Nayakas under the Wing Commander’s control and within his 
+Command Range. Nayakas that are Finished or in an enemy ZOC 
+may not be activated. “Passed” Nayakas may be activated. When 
+so activated, each Nayaka may then immediately issue a Line Com-
+mand as part of that Orders Phase. 
+A WC may activate one of his Nayaka Commanders with a Wing 
+Command (4.52[4] above). However, he is restricted as to his ability 
+to activate more than one Nayaka:
+1.	First Turn Automatic: in the first turn (only) of any scenario a 
+Wing Commander may automatically issue Wing Commands to 
+all Nayakas in his range; doing so does not restrict his OC.
+2.	Starting with second turn of game, if he is within the OC’s Range 
+he does not need a die roll to activate multiple Nayakas. However, 
+if he uses the OC to avoid rolling the die, the OC is immediately 
+“Restricted” (see 4.55).
+ 
+3.	Starting with second turn of game, if he is not within his OC’s 
+Range, or the player chooses not to use the OC, he rolls the die 
+for each additional Nayaka in his Range. The die roll must be the 
+same as or lower than the WC’s Strategy Rating to activate the 
+Nayaka. If the die roll is higher, the Nayaka is Finished.
+
+EXAMPLE: Vitasoka is out of Ashoka’s (his OC) range, and has 
+activated his Left Flank EL Nayaka. To activate any other Nayakas 
+under his command, he must roll against his Strategy Rating.
+If the wing Commander issues Wing Commands to multiple Nayaka 
+(4.52 #5), each Nayaka issues its Line Command and moves/fires its 
+units separately. The Shock Segment commences after all the activated 
+Nayaka have issued their Line Commands and moved/fired their units. 
+ 
+(4.55) OC Restriction. If an OC is used to enable one of his Wing 
+Commanders to effect Wing Commands on multiple Nayakas with-
+out a die roll, the OC is immediately Restricted. Place a “Restricted” 
+marker on the OC. When a restricted OC is activated, the only func-
+tions he may perform are:
+•	 Rally and Recovery. 
+•	 Movement, but with half (rounded up) his Movement Allow-
+ance.
+•	 He may attempt Momentum.
+He may NOT Trump, nor may he move other units, including other 
+leaders. Restricted OCs may NOT use their range to affect Shock for 
+units already in ZOCs, as per 7.32[2]. A Finished OC may NOT be 
+used to allow a Wing Commander to activate multiple Nayakas.
+(4.6) INDIAN GUILD (“Sreni”) and TRIBAL 
+CHIEFS
+The trade-guild militias, or Srenibalam, were usually contracted as 
+levies to the king and enlisted under their own chiefs; independent 
+chieftains also led the tribals. Units under the Sreni and Tribal 
+grades are therefore activated by and receive orders from their own 
+commanders.
+(4.61) Guild Chiefs are identified by the “GC” label on their counter, 
+Tribal Chiefs by “TC.”
+(4.62) Guild and Tribal Chiefs may command only those units in 
+their Command Range who are members of their Guild or Tribe 
+(as indicated by the Guild name or Tribal name printed on their 
+counters). Likewise, Sreni and Tribal units cannot take orders from 
+any other leaders (e.g. OCs, WCs). 
+(4.63) Neither GCs or TCs are eligible for Momentum or Trump-
+ing; their Initiative Ratings are used for activation and Individual 
+Orders only. 
+(4.64) In Combat, Charisma die roll modifiers (if any) apply only 
+to that leader’s Tribe or Guild (see 9.17[3]).
+(4.65) Guild Chiefs that are eligible to issue Line Commands (see 
+4.3) are treated as Subordinate Commanders for their Guild. Such 
+GC’s use their Initiative Ratings as their Strategy Ratings for pur-
+poses of 4.42, Section 3.
+(4.66) To be eligible for a Line Command, Guild infantry units must 
+merely be within their Guild Chief’s Command Range; they are not 
+constrained by the infantry Line restrictions of 4.33. Units outside 
+the Command Range are not in the line. 
+(4.7) LEADERS and MOVEMENT
+(4.71) Leaders move under the following circumstances:
+•	 They issue an Individual Order to themselves, which counts 
+against the number of orders that leader may issue that Orders 
+Phase.
+•	 They may move—without expending an Individual Order—with 
+any combat unit with which they are stacked and to which an 
+Individual Order has been issued by that leader. The leader must 
+remain stacked with the combat unit. 
+•	 They receive an Individual Order from their Overall Command-
+er.
+•	 They may—not must—move as part of a Line or Wing Command. 
+The leader does not have to stay with the line.
+(4.72) Leaders do not have—or need—any Facing (7.1).
+(4.8) LEADERS and COMBAT
+This section covers general rules relating to leaders and enemy 
+combat units. 
+(4.81) Leaders may enter enemy ZOCs only if stacked with a friendly 
+combat unit (see 4.23) or that ZOC already contains a friendly com-
+bat unit. Like combat units, leaders must cease movement for that 
+Order (or Line Command) upon entering an enemy ZOC. A leader 
+may leave an enemy ZOC by itself only if it receives Orders from 
+the Overall Commander or, if applicable, a Wing Commander; see 
+4.41 and 4.53.
+(4.82) The instant any combat unit moves adjacent to a leader, or if a 
+combat unit is adjacent to an enemy leader after combat, whether he 
+is alone in a hex or stacked with a friendly combat unit, that leader 
+can undertake an Orderly Withdrawal (see 6.6). If the leader is not 
+stacked with a combat unit and does not—or cannot—withdraw, 
+because he is surrounded by enemy units, ZOCs and/or impassable 
+terrain—that leader is eliminated (captured/killed). A leader stacked 
+with a combat unit that uses Orderly Withdrawal may withdraw 
+with the unit. 
+(4.83) Leader casualties may occur as a result of combat. See 8.111 
+and 9.15 for Missile and Shock Combat, respectively. There are no 
+Replacements for eliminated leaders. 
+(5.0) LEADER ACTIVATION AND 
+ORDERS
+Combat units may move and fight only when ordered to do so by 
+their leaders. Leaders issue Orders or Line/Wing Commands in the 
+Orders Phase.
+•	 Leaders may not issue any Individual Orders or Line/Wing com-
+mands until they are activated.
+•	 Players may use the Momentum rule to give an activated leader 
+up to two additional Orders Phases.
+•	 They may also use the Trump Option to activate a Leader sooner 
+than usual. 
+An Important Note: For the sake of brevity, the word “order” will 
+also mean a Line Command (LC), unless the rule specifically uses 
+the term Individual Order to distinguish it from a LC.
+(5.1) HOW TO ACTIVATE LEADERS
+(5.11) All leaders start the turn Inactive. Each leader has the oppor-
+tunity to become Activated and issue orders. After they complete 
+issuing orders, they are then Finished. In a rare occurrence (5.33[1]) 
+Finished leaders may be Re-Activated.
+
+(5.12) Each game turn starts with one player activating one of his 
+leaders. Leaders are activated in the order of their Initiative rating, 
+starting with the lowest to highest. The lowest possible Initiative 
+Rating is a 1. In case of ties, roll a die; high roll goes first, with play-
+ers then alternating among the remaining, similarly-rated leaders. 
+If two leaders on the same side have the same Initiative Rating, the 
+owning player decides which one goes first. 
+(5.13) Only Inactive leaders that have not previously been activated 
+in that turn are eligible for activation with the exception of the Mo-
+mentum Rule (5.3) or Reactivation (5.33[2]). 
+EXAMPLE: At Gandhara, Chandragupta (6), Vidudhaba (5), and 
+Ghosa (4), plus Seleucus (6) and Patrocles (5) are the available, 
+inactive leaders. After Ghosa has been activated and finished giving 
+orders, Patrocles and Vidudhaba would roll the die to see which of 
+the two goes first. 
+(5.14) A leader may be activated a maximum of three (3) times in 
+succession in a single game-turn (using Momentum for the last two 
+times). Exception: Reactivation (5.33[1]).
+(5.15) A leader is Finished when one of the following occurs:
+1.	The leader has completed an Orders Phase and does not (or can-
+not) make a Momentum attempt; or
+2.	The leader is Trumped by an enemy leader; or
+3.	The leader fails a Trump or Momentum attempt.
+A Nayaka that Passed is NOT Finished. When a leader is Finished, 
+flip his counter over to so indicate. A Finished leader cannot under-
+take any further Orders Phases that turn. Exception: see 5.33[1].
+(5.2) THE ORDERS PHASE
+(5.21) Once activated, a leader can give a number of Individual 
+Orders equal to his Initiative rating to units within his Command 
+Range; OR, he can issue Line or Wing Commands, as per 4.3 and 
+4.54. Thus, when Chandragupta (#2) is activated he can issue up to 
+six (6) orders for that activation. He may choose to issue less (or 
+none); he may not issue more in that Orders Phase. Alternatively, 
+Chandragupta could issue a Line Command instead of issuing or-
+ders. When Ghosa is activated, he may, if eligible, issue one Line 
+Command, one or more Wing Commands, or he may issue four 
+Individual Orders. 
+(5.22) Each Individual Order allows the player to 
+1.	Move any one unit. Missile units may also fire at any time during 
+their movement (8.1); or 
+2.	Individual Missile Fire with any one missile unit without move-
+ment; or
+3.	Remove two Cohesion Hits, as per 11.13; or 
+4.	Attempt to Rally a Routed unit, as per 11.3.
+(5.23) Each Line Command allows all the units in one Line to 
+1.	Move any/all units in that line. Moving units capable of firing 
+missiles may do so; or
+2.	Any/all units in that line may Missile fire without movement. 
+Note: Leaders may not use a Line Command for Order #’s 3–4, above. 
+ 
+(5.24) Each Wing Command allows a Wing Commander (only) to 
+activate one or more of his subordinate Nayaka Commanders. The 
+activated Nayaka Commander(s) may then issue Line Commands 
+to the unit type specified on its counter and within the Nayaka’s 
+Range. See 4.53[2].
+(5.25) Although a given combat unit may be ordered to move 
+more than once per Game Turn, it may not move (or Missile 
+Fire) more than once per Orders Phase. (See 6.12 and 6.13). 
+ 
+EXAMPLE: (Revolt of Malayaketu) A combat unit ordered to move 
+by Rakshasa may not be ordered by Rakshasa to move again in that 
+Orders Phase. It may, however, be so ordered in a subsequent phase 
+(in the same turn) by, say, Malayaketu, or even by Rakshasa if he 
+gets a second (Momentum) activation. 
+(5.26) Orders are not used to directly precipitate shock combat, 
+which occurs in a subsequent segment. They can be used for Missile 
+Fire (however, see 8.1). Reaction Fire (8.2) does not require orders; 
+it occurs in response to enemy movement.
+(5.27) Any leader—other than the Overall Commander—who starts 
+an Orders Phase in an enemy ZOC may not issue orders (as per 4.23). 
+However, his Command Range may still be used to designate units 
+to engage in Shock Combat in that segment of the Orders Phase (see 
+7.32[2]), so he is not entirely useless. In addition, he may still use his 
+Charisma rating. He is not Finished simply because he is in an enemy 
+ZOC; however, he is Finished—and unable to be activated—if:
+•	 He comes under 5.15, or
+•	 He has used his Command Range to allow units to engage in 
+Shock. 
+If neither of the above occurs, and he becomes eligible to issue or-
+ders, the player must activate him before any higher-rated leaders. 
+However, a leader so activated may not use Momentum.
+EXAMPLE: If Ghosa started the Orders Phase in a ZOC he could 
+not issue any orders, but he is still able to allow Shock. In either 
+case, Ghosa is Finished at the conclusion of the phase. 
+(5.28) After a leader has issued all of the orders he wishes (or can), 
+friendly units engage in Shock in the ensuing Shock Combat Seg-
+ment, as delineated by the introduction to 9.1. 
+(5.29) After Shock combat has been completed that Orders Phase 
+is finished. Two things may now happen:
+1.	The player may attempt a Momentum Orders Phase (5.3) with 
+the same leader who was just activated; or
+2.	The next, eligible leader with the lowest Initiative Rating 
+is activated (subject to Trumping), returning to Phase “A”. 
+(5.3) MOMENTUM 
+PLAY NOTE: Momentum (and Trumping, below) are highly useful 
+and powerful gambits, especially for the Player with superior lead-
+ership. However, they have a good chance of backfiring, and if they 
+do, they often provide the opponent with major possibilities. 
+(5.31) At the conclusion of the Orders Phase, if the leader who is-
+sued orders for that Phase: 
+•	 Is not in an enemy Zone of Control, and
+•	 Was not previously Trumped or Bypassed (5.44), and
+•	 Did not use his OC to issue a Line Command,
+the player may attempt to undertake an additional Orders Phase 
+with that same leader. In order to do so, that leader must pass a 
+Momentum die roll.
+(5.32) The player rolls the die and compares the result to the leader’s 
+Initiative Rating. If it is the same or less than the rating, that leader 
+starts another Orders Phase (Phase B); if it is more than the rating 
+that leader is Finished for the game turn.
+
+EXAMPLE: Thus, Chandragupta (#2) would need a die roll of 0–6 
+to gain Momentum; a 7, 8, or 9 would Finish him.
+(5.33) The Dieroll of Doom. If the Momentum die roll is a ‘9’, then 
+the die is immediately rolled again. 
+1.	If the second die roll is a ‘0’ or ‘1’, Re-Activation is possible. Play 
+immediately transfers to the opposing player who may activate any 
+one of his leaders, regardless of whether they are Finished or not! 
+Such a Re-Activated leader may not use Momentum himself.
+2.	If the second die roll is a ‘2–8’ the leader attempting Momentum 
+is Finished. Go Back to Phase “A.”
+3.	If the second die roll is a ‘9’ the leader has had a Crisis of Faith 
+(or “Second Thoughts”). All friendly combat units within one-half 
+his range, rounded up, must Withdraw two hexes, even if they 
+are in an enemy ZOC. Withdrawing units observe the require-
+ments of 6.63[1] and [3]. The leader also Withdraws and is now 
+Finished. 
+(5.34) Momentum die rolls apply only to a leader who has just com-
+pleted an Orders Phase. You may not apply Momentum to a leader 
+who was Finished several phases ago or who was Reactivated, as 
+per 5.33[1]. 
+(5.4) THE TRUMP OPTION
+DESIGN NOTE: This is a game mechanic that is intended to simulate 
+the effect of superiority in the area of command. As such, it is likely 
+to be used by the player with better leaders (such as Ashoka). The 
+“inferior” player will often find that, for him, its best application is 
+when it backfires on his opponent. For that reason, players should 
+be aware that this option should not be used indiscriminately. 
+Prior to each leader’s activation, both players are given one option 
+to trump that leader’s activation.
+(5.41) Active Player Trump Option. The Active player may, in-
+stead of activating his lowest-rated leader, attempt to activate any 
+of his other, inactive leaders with a higher Initiative rating. To do 
+this, the player must roll the latter’s Initiative rating or less on the 
+die. If successful, that leader is now activated; if unsuccessful, the 
+originally designated leader is activated and the one who is attempt-
+ing the Trump is Finished.
+EXAMPLE: In Magadha, the Mauryan player, instead of activating 
+Vairodhaka could attempt to activate Parvataka by Trumping. If he 
+rolled a 0–5 he would be successful; a 6–9 and the Trump attempt 
+fails, Vairodhaka is activated and Parvataka is Finished.
+(5.42) Inactive Player Trump Options. The opposing player has 
+two Trump options, each usable under different circumstances:
+1.	Trumping the Trump. If—and only if—the Active player is 
+successful with his trump (5.41) the opposing player then has the 
+option of attempting to trump that first trump activation with his 
+own leader—if that leader has an equal or higher Initiative rating. 
+If successful this leader is immediately activated and the Trumped 
+leader is Finished; if unsuccessful the initial trump-activated leader 
+goes and the leader attempting the trump is Finished. 
+ 
+EXAMPLE: Using the leaders in 5.41, the Mauryan player is suc-
+cessful in activating Parvataka instead of Vairodhaka. The Nandan 
+Player now attempts to trump-the-trump by rolling for Bhadrasala 
+(Initiative=5). However, he rolls a ‘7’, so Parvataka remains the 
+activated leader and Bhadrasala is Finished for the turn.
+2.	Momentum Trump. If the active player is successful attempting 
+a Momentum die roll, the opposing player may attempt to trump in 
+the same fashion as Trumping the Trump, above. 
+EXAMPLE: Still following the above examples, the Mauryan player 
+is successful in his attempt to undergo a Momentum Orders Phase 
+with Vairodhaka. The Nandan Player attempts to trump Vairodhaka’s 
+Momentum Phase with Sahalya (Initiative=4). He rolls a ‘3’ and, 
+instead of Vairodhaka going, it is now Sahalya’s Orders Phase—and 
+Vairodhaka is Finished. 
+After the successfully Trumping leader has finished his set of Or-
+ders, play reverts back to the standard, lowest-available-leader-goes 
+procedure ... with one major exception, as per 5.44.
+(5.43) Each side is allowed only one Trump attempt per leader 
+activation.
+(5.44) A leader who fails a Trump attempt, or has been Trumped 
+when trying for Momentum, is Finished. An inactive leader who 
+is passed over by a successful Trump—a Bypassed leader—is still 
+eligible for activation (he’ll probably still be next in line as the 
+lowest-rated leader), but he may not use Momentum that turn. Use 
+the “Trumped / No Momentum” markers to indicate this. There are, 
+thus, two basic premises:
+•	 A Trumped leader is Finished.
+•	 A Bypassed leader (one who had the same or lower Initiative 
+rating as a leader who successfully Trumped) is still eligible to 
+“go”, but he may not use Momentum. 
+EXAMPLE: Still following the examples above, note that Vairodhaka 
+could only have made the Momentum attempt if Parvataka had failed 
+his Trump attempt, otherwise Vairodhaka would have been Bypassed 
+and thus denied the Momentum opportunity.
+PLAY NOTE: The No-Momentum restriction means that if Ambhi 
+attempted to gain Momentum and did so, but was then Trumped by 
+Chandragupta, not only would Ambhi be Finished, but all remain-
+ing Greek (and Mauryan) leaders who had yet to go would get only 
+one Phase (after Chandragupta completed his turns). They could 
+not attempt Momentum! This is an important consideration when 
+one is formulating game tactics. 
+(5.45) A leader may be activated only once per game turn, although 
+that activation may be extended by Momentum (5.44 and 5.33 are 
+exceptions). Finished leaders may not be activated again that game 
+turn, except by Re-Activation (5.33[1]).
+(5.46) A leader that successfully Trumps cannot pass. He must 
+issue an order to a unit to move or missile fire or he must use his 
+Command Range to have units Shock attack. A unit is considered 
+to have moved for the purpose of this rule if it ends the phase in a 
+hex different from the one in which it started.
+(5.47) A leader that is in an enemy ZOC may attempt to Trump. 
+However, if successful, he must obey 5.46, otherwise the trumping 
+action is considered to have never occurred.
+
+(6.0) MOVEMENT
+(6.1) MOVEMENT ALLOWANCES
+DESIGN NOTE: Movement Allowances simulate not only the time it 
+takes a unit to move from point ‘a’ to point ‘b’ but also its maneuver-
+ability relative to other, different-type units as well as the tactical 
+doctrines applied to deploying those units. 
+(6.11) A combat unit’s printed Movement Allowance is the basic 
+allowance for a single Order. A combat unit receiving an Order 
+may move up to its printed MA. Most units may move less than 
+the printed MA.
+(6.12) There is no limit to the number of times a combat unit may 
+move in a single game turn; however; it may move only once per 
+Orders Phase. Note that changing facing is considered movement.
+(6.13) After the first time a unit moves in a turn, flip it to its “Moved” 
+side. “Moved” units may use their full MA. However, each time a 
+“Moved” unit is moved, it earns a Cohesion Hit (see 11.1). This 
+Hit penalty does not apply to Orderly Withdrawal (6.6) or Advance 
+After Combat (9.2).
+PLAY NOTE: Thus, a combined Infantry-Elephant line ordered by 
+Chandragupta to move in Chandragupta’s first Orders phase may 
+move again; but, to do so, it must wait for an order from either a 
+different leader or from Chandragupta in a subsequent, Momentum 
+Phase. 
+(6.14) Leaders may move any number of times in a turn or Orders 
+Phase, but they may not exceed their MA per phase; see 4.23. All 
+other restrictions and allowances apply, including the ability of 
+leaders to use Orderly Withdrawal before any opposing unit. Each 
+different time a leader moves requires an order. Leaders have no 
+facing and do not pay any cost to change facing.
+(6.15) Tribal Chiefs have a movement allowance of 6 MA per phase; 
+all other leader types have the standard 9-point MA. 
+DESIGN NOTE: Tribal leaders are apt to have moved by foot, along 
+with their horde, thus the lower MA for Tribal Leaders.
+(6.16) An Indian (only) leader that begins the game stacked with 
+an Elephant or Chariot unit is considered to be either mounted atop 
+an Elephant or riding a Chariot, respectively, for the duration of 
+the game. The leader’s “mode of conveyance” is used to determine 
+which hexes/hexsides a leader can enter/cross with the exception 
+that Leaders may always enter any hex within a city or camp. All 
+such leaders have a movement allowance of 9, regardless of their 
+“conveyance.”
+PLAY NOTE: Leader conveyance also has a specific impact on 
+Indian Charisma and Rout/Rally (see 9.17[3] and 11.23). 
+(6.2) TERRAIN
+There is always a cost in Movement Points to enter/cross each type 
+of terrain. In addition, there may be a possible Cohesion Hit penalty 
+to do so, depending on the unit and/or terrain type.
+(6.21) A unit expends Movement Points for each hex it enters and 
+for some hex sides crossed. Most units also pay extra Movement 
+Points to move into a hex of different elevation. Units also pay 
+movement point costs (and possible cohesion penalties) to change 
+facing; see 7.1.
+ 
+ 
+(6.22) A unit may incur Cohesion Hits whenever it changes elevation 
+or enters certain kinds of terrain. Some units may also incur Cohesion 
+Hits for changing facing. All Hits due to movement (including all 
+advances after combat) and facing changes are applied the instant 
+they occur. Leaders never incur cohesion hits. 
+(6.23) There are limitations on the levels of elevation that may be 
+changed at any one time:
+1.	Cavalry and Chariots may never change more than one elevation 
+level at a time; i.e., they may not move directly from a level-1 
+hex to a level-3 hex (treated as a “Steep Slope”), or vice versa. 
+2.	Only Skirmishers (SK) and Tribal LI may change three levels 
+in any one hex move (with a concurrent 3-point cohesion pen-
+alty).
+(6.24) The term “Rough” terrain, used throughout, applies to any 
+non-Clear hex outside a City, Camp, or Stronghold. 
+(6.25) A hex containing two types of terrain uses the “majority” 
+terrain. Thus hex 1716 in Khashas is a level-4 Clear hex, although 
+there is some level-5 in the hex.
+(6.26) A moving unit must have enough MPs to pay the terrain cost 
+of entering a hex; if it doesn’t, it cannot enter that hex. 
+(6.27) Terrain also affects shock combat results by adjusting the 
+column under which the players roll to determine losses, as per 
+the Shock Combat Results Table. Units in Forest also gain some 
+protection from enemy Missile fire; see (8.17).
+(6.28) Camps and Cities. Camp and City terrain are treated with 
+considerably more detail than in most other games in the series. See 
+sections 12.1 and 12.2, respectively. 
+(6.29) The Movement Costs Chart. This chart gives the Movement 
+and Cohesion Penalty costs for each type of unit moving (or chang-
+ing facing in) into/across a specific type of terrain. 
+(6.3) MOVEMENT PROCEDURES
+(6.31) As a unit moves, it traces a path of contiguous hexes through 
+the hex grid, paying the cost of each hex entered. One unit’s move-
+ment must be completed before another can begin, even if both 
+started in the same hex. 
+(6.32) A unit may be moved in any direction or combination of 
+directions. However, a unit may only enter a hex that is to its front. 
+In order for a unit to change direction it must first change facing 
+(7.1) by pivoting in the hex it occupies.
+(6.33) Double-sized units do not change facing within a hex; they 
+do so by pivoting as per 6.43. Double-sized units incur an extra 
+cost when pivoting.
+(6.34) Forest movement. Due to their size and training (even in 
+peace time elephants worked in forests) Indian Elephant units do not 
+automatically suffer a 1-point Cohesion Hit when entering a Forest 
+hex if they are moving at a slow pace.
+Before moving the Elephant unit, the player must declare his in-
+tention to avoid the Forest Cohesion Hits. The Elephant may then 
+expend no more than one-half or less (rounded down) of its printed 
+Movement Allowance and does not incur any Cohesion Hits for 
+entering the Forest hex(es). This restriction applies for that Orders 
+Phase. All other cohesion penalties apply.
+
+(6.4) DOUBLE-SIZED UNITS
+HISTORICAL/DESIGN NOTE: The double-sized units reflect forma-
+tion and tactical use, as exemplified by the Macedonian Phalanx 
+although not all double-sized units are Phalanxes in the game sense, 
+nor are Phalanxes in the game ‘Macedonians’ per se. At its height 
+during Alexander, the Phalanx system was still potent when deployed 
+by Seleucus and Eudamus against Chandragupta.
+(6.41) There are two Types of double-sized units, Phalanxes and 
+Hoplite Heavy Infantry. Because of the nature of the geometric shape 
+of the counters, these units have some special rules. 
+(6.42) When a double-sized unit moves and enters two hexes of 
+different terrain/elevation it expends the greater of the two possible 
+terrain costs both for movement and cohesion. Whenever either half 
+of the unit would incur a Cohesion Hit because of the terrain entered 
+then the entire unit suffers the effects. 
+(6.43) Front-to-Flank Maneuver. A double-sized unit can either 
+go forward with both halves of the unit entering new hexes, or one 
+half of the unit can enter a hex while the other half pivots in the 
+space it occupies, in essence changing the facing of the unit. This 
+is also called Pivoting. For each hex entered while undertaking this 
+Front-to-Flank maneuver, the unit incurs one (1) Cohesion Hit, in 
+addition to any other terrain-induced costs.
+(6.44) The Reverse-Face Maneuver. At a cost of 3 MP, a double-
+sized unit may be re-faced in the opposite direction (180o) in the 
+same two hexes. There is no cohesion penalty for this maneuver, 
+but it may not be performed if any part of the unit is in an enemy 
+ZOC or in Rough terrain.
+(6.45) The Wheeling Maneuver. If one side of a double-sized 
+unit is in an enemy ZOC the other side may still move forward in 
+essence, using front-to-flank, as per 6.43. However, because of the 
+difficulty in performing such a wheeling maneuver, the unit incurs 
+the one Front-to-Flank Cohesion Hit and then, after completing the 
+pivot (even in an advance after combat), the player performs a TQ 
+check. If the die roll is higher than the TQ, the unit takes Cohesion 
+Hits equal to the difference, with a minimum penalty of 1 additional 
+Hit, regardless of die roll.
+EXAMPLE: (Takshashila) A Mauryan unit is in 2807. A Greek 
+mercenary Hoplite HI unit is in 2707/2708, with the part that is in 
+2707 in the Mauryan ZOC. That Hoplite may pivot 2708 to 2808 
+(while the 2707 portion remains in place), paying 1 Hit for pivot-
+ing plus whatever movement costs apply. The Hoplite (with a TQ 
+of ‘6’) then undergoes a TQ check. If the die roll were an ‘8’, it 
+would take two Hits.
+ 
+ 
+ 
+(6.46) Augmented Movement. The following movement capability 
+is available only to Phalanxes. Because of their lighter armor and 
+better training, the Phalanxes could move somewhat faster than their 
+(double-sized) Hoplite counterparts—although this added rapidity 
+sometimes created cohesion problems. Therefore, the Greek player 
+may increase his phalangite MA to ‘5’ in any Movement order. If he 
+does so the first time the unit moves in a turn, the unit must undergo 
+a TQ check at the end of the increased movement. If the die roll is 
+greater than the Phalanx’s TQ, the unit incurs one Hit. If a “Moved” 
+Phalanx uses its 5 MA in any subsequent move it incurs two (2) 
+Cohesion Hits (as opposed to the one Hit if it uses its MA of 4).
+HISTORICAL NOTE: The armies of the “Yavana”—the Indian’s 
+term for the Greek (“Ionian”) invaders—were not “Greek” per se. 
+They used the Macedonian Phalanx system perfected by Alexander 
+the Great, and were a mix of Macedonians, Greeks, and mercenar-
+ies recruited from the Hellenic Near East to Bactria (including 
+Indians).
+(6.5) COLUMN MOVEMENT
+DESIGN NOTE: On the battlefield, formed combat units moved in a 
+battle formation that would, in later centuries, be called a “Line.” 
+They were capable, however, of using much looser, more mobile 
+formation (in modern terms, “Column”) for more rapid movement. 
+Because the units in this “column” formation were not in an extended 
+line that constantly needed dressing to be effective, the effects of 
+movement upon a unit’s “cohesion” were not as drastic.
+ 
+(6.51) On being given a move order, a combat unit that is not in an 
+enemy ZOC may change to (or from) “Column” at the conclusion 
+of its movement. There is no cost in Movement Points to change 
+formation. In order for a unit to use Column Movement it must 
+start the Orders Phase In Column. Use the “In Column” markers to 
+indicate this status. A unit may not change into Column if such a 
+change would cause the unit to rout (see 6.55 below).
+Exception: Skirmishers (SK), Tribal LI, and Routed units may not 
+use Column Movement.
+(6.52) Column Benefits. Foot (only) units In Column increase their 
+MA by one. Terrain Cohesion Hit costs for any unit In Column are 
+decreased by one (–1) to a minimum of ‘0’. 
+EXAMPLE: Normally a unit would incur two Cohesion Hits for 
+moving across a River into a Forest hex; In Column it incurs only 
+one Hit.
+PLAY NOTE: Phalanxes use the higher of their two MAs, so their 
+In Column MA would be ‘6’.
+
+(6.53) Column Facing. Units In Column must face the hexside 
+(not the vertex) and only the hex directly in front of them is frontal. 
+The change in facing is effected when the change to (or from) In 
+Column status is announced. 
+Double-Sized Units: 
+Single-sized Units: 
+ 
+When changing formation from column to normal for double-sized 
+units, the unit is not moved in any way. Thus, a Phalanx that is 
+In Column that changes to normal is now facing in the direction 
+indicated by the “top” (name) of the counter. The unit may only be 
+moved/refaced during a subsequent Orders Phase.
+When changing formation from In Column to normal for single-sized 
+units, adjust the unit 30 degrees to the left or right (your choice) so 
+that it faces a vertex. 
+(6.54) Column Movement Procedure. Column units move into 
+either their frontal hex or the flank hexes adjacent to the frontal hex. 
+Movement into the frontal-flank hex is not considered a change of 
+facing. In Column units wishing to move into a rear-flank hex, for 
+example, must change facing. Double-sized units may not change 
+facing in place; they may only move. All flank/rear combat penal-
+ties apply. 
+(6.55) Combat Penalty. Units In Column have their TQ ratings 
+temporarily reduced by two (–2). Units In Column may not Shock 
+attack or fire missiles. The only thing they do is move. If Shock at-
+tacked by an enemy unit, the attacking unit is automatically Attack 
+Superior, regardless of Position or Weapon system. 
+(6.56) If an In Column unit is Shock attacked, at the conclusion of 
+that Orders Phase the unit automatically goes back to its noncol-
+umn formation (i.e. remove the In Column marker) at the cost of 
+one additional Cohesion Hit—even if that hit were to cause it to 
+Rout . Double-size units don’t reface, but single-size units must be 
+adjusted 30 degrees to the left or right (owner’s choice) so that it 
+faces a vertex.
+(6.57) Column Restrictions. In Column units may not use Orderly 
+Withdrawal (6.6) or be part of a Combined Line (4.33). 
+(6.6) ORDERLY WITHDRAWAL
+Orderly Withdrawal is a form of retreat carried out during the Move-
+ment Segment, in the face of an approaching enemy, in which “light-
+er” but faster and more maneuverable units can avoid getting crushed. 
+ 
+DESIGN/PLAY NOTE: Orderly Withdrawal (OW) is an extremely 
+valuable maneuver, particularly for units facing heavier-but-slower 
+attackers (e.g. elephants or Phalanxes). Therefore, we have gone 
+to great lengths to explain this rule; the extended example at the 
+end should help clarify any (unintended) opaqueness. See 4.82 for 
+OW rules for Leaders. 
+(6.61) During an enemy Movement/Missile Segment, any friendly 
+(unrouted) combat unit that is not in an enemy ZOC (7.2) may 
+avoid contact with an enemy unit (even a Rampaging elephant—and 
+that applies to friendly Cavalry/Chariots about to be trampled by a 
+friendly elephant; see 10.14) the instant it moves within two hexes 
+of the friendly, “defending” unit—or if it starts movement two hexes 
+distant—as long as the “defending” unit has a higher movement 
+allowance than the attacking combat unit. 
+(6.62) To undertake OW, the defending unit withdraws up to a 
+number of Movement Points (not hexes) equal to the difference 
+between the units’ Movement Allowances away from the advanc-
+ing unit. Withdrawal must occur the instant the enemy unit moves 
+into the two-hex range (stop moving the enemy unit temporarily), 
+or the option is lost. Regardless of how many hexes they may actu-
+ally move, double-sized units use their ‘4’ MA for purposes of MA 
+comparisons for Orderly Withdrawal. See also 6.57.
+Exception #1: Skirmishers may Orderly Withdraw up to two hexes 
+before any units whose MA is the same or less (i.e., all foot units), 
+regardless of the MA differential.
+Exception #2: Chariots may Orderly Withdraw 1 MP before an El-
+ephant unit even though they have the same Movement Allowance. 
+ 
+EXAMPLE #1: an EL unit (MA of ‘7’) approached by a Phalanx (MA 
+of ‘4’) may Withdraw up to three Clear hexes (7–4 = 3 MP).
+EXAMPLE #2: A Bhrta LI unit with an MA of ‘5’ may not Withdraw 
+up-level when approached by double-sized HI (MA of ‘4’), because 
+it would cost the LI 2 MPs to so move—and it is only allowed a 1 
+MP withdrawal.
+PLAY NOTE: Yes, it says within two hexes, so any (eligible) friendly 
+unit can withdraw if an enemy moves within two hexes—even if that 
+unit doesn’t actually move in his direction. Thus the friendly player 
+must make his decision to withdraw before the moving enemy makes 
+his full intentions clear!
+(6.63) The withdrawing unit maintains its original facing throughout 
+withdrawal at no “facing change” cost in Cohesion Hits or Move-
+ment Points. It does, however, pay any of the usual movement and 
+cohesion costs for movement. At the completion of withdrawal, if 
+it changes facing it pays any cohesion penalties inherent in such 
+change. There are three (possible) additional penalty situations:
+1.	Withdrawing foot units and Chariots receive an immediate and 
+automatic one (1) Cohesion Hit after moving. Withdrawing 
+Skirmishers, Cavalry and Elephants do not suffer this automatic 
+penalty.
+2.	If the withdrawing unit was being approached from a rear or flank 
+hex it incurs one (1) Cohesion Hit before withdrawing. This is 
+cumulative with #1.
+
+Exception: The penalty applies to Skirmishers only when ap-
+proached from the rear—not their flank. 
+3.	At the conclusion of the withdrawal, a withdrawing unit (includ-
+ing the units excepted in #1) must undergo an immediate TQ 
+check. If the die roll is higher than the TQ the unit receives one 
+(1) Cohesion Hit. 
+HISTORICAL/PLAY NOTE: Orderly Withdrawal is a “retreat’ in 
+the face of an approaching enemy, long before that enemy can close. 
+This is why the withdrawing unit can return to the original facing 
+(with minimum cohesion cost) it had before the enemy approached. 
+In play/game terms, you simply move the counter backwards. 
+(6.64) If a withdrawing unit reaches its TQ Rating in Cohesion hits 
+it Routs; see 11.21.
+(6.65) A unit may withdraw an unlimited number of times during a 
+game turn. The 6.63 penalties apply each time, however. 
+(6.66) A unit may not withdraw into an enemy ZOC or a Rough 
+hex, and a withdrawing missile unit may not fire as it withdraws. 
+Stacking restrictions (6.7) apply during withdrawal. 
+Exception: Cavalry and Chariot mounted archers may fire as they 
+withdraw. The range is always treated as two (2) hexes and they 
+use the +1 die roll modification for firing while moving (to account 
+for the haste). A withdrawing Cavalry/Chariot unit is limited to one 
+missile fire per triggering unit per Orders Phase.
+(6.67) Orderly Withdrawal takes place during the opposing player’s 
+Movement/Missile Segment—a unit may not withdraw in the Shock 
+Combat Segment. The moving unit may continue to complete its 
+movement in the face of such withdrawal. 
+Exception: Cavalry/Chariot OW in the face of rampaging elephants 
+may take place at any time.
+(6.68) Cavalry Line Withdrawal. An entire Line of Cavalry as al-
+lowed by 4.33 and the Line Command Eligibility Chart may have 
+all its units withdraw at the same time. Standard OW rules apply, 
+but here, if an enemy approaches, the entire Line may withdraw. 
+All units in the Line must withdraw; the player may NOT pick and 
+choose. Once a single unit in the line uses an individual OW, the 
+line is NOT eligible for Line Withdrawal.
+(6.7) STACKING
+Stacking refers to having more than one unit in a hex at any one time, 
+whether during movement or at the completion of movement. There 
+are two principles involved in the Stacking rules: Voluntary Move-
+ment, which means combat units moving under Orders or Orderly 
+Withdrawal; and Mandatory Movement, which is Rout movement. 
+See 11.21–11.24 for Rout movement. 
+(6.71) The basic rule is: one combat unit per hex. One half of a dou-
+ble-sized combat unit counts as one unit. Leaders and informational 
+markers do not count for stacking purposes; a hex can contain any 
+number of leaders/markers. There are three exceptions to this rule: 
+ 
+1.	Indian Tribal LI units—more horde than “formation”—may stack 
+two per hex if they are of the same tribe (see 6.73 below). 
+2.	Greek Skirmisher units, trained in avoidance and dispersal tactics, 
+have certain advantages over other units in this area, namely in 
+terms of moving into/through other friendly units.
+3.	An Artillery unit may be stacked with any single-hex infantry 
+unit. There may never be more than one Artillery unit in a hex.
+(6.72) A unit may never move into or through a hex containing an 
+enemy unit. 
+Exception: See Elephant and Chariot Pass-Through, 10.13 and 10.26. 
+(6.73) Indian Tribal LI units may voluntarily stack together if they are 
+of the same tribe at the cost of +2 MPs in addition to cost of entering 
+the hex. No more than two Tribal LI may be stacked together in a 
+hex. Stacking occurs at the end of movement only.
+Exception: There is no stacking in City or Stronghold hexes.
+PLAY NOTE: In other words, the units may not move together as 
+a stack. This means that if you want to keep two Tribal LI stacked 
+after movement, one of the two units must move and stop (become 
+the “stationary” unit), and the following unit must then move into 
+the hex (the “moving” unit) and pay the +2 MP.
+DESIGN NOTE: Why? Remember, the Tribals were not trained or 
+disciplined to move or fight together as coherent formations. This 
+aspect of the Tribal LI stacking rule reflects the inevitable jostling 
+and “traffic jams” that would occur.
+(6.74) It takes two Individual Orders to move two Tribal LI units 
+stacked in the same hex. The stacking order (who’s on top) of two 
+Tribal LI units in the same hex be switched only by an Individual 
+Order; it may NOT be part of movement. If the player desires to move 
+only one unit from a stack, only the TOP unit may move. A Tribal 
+unit moving into a hex to stack is always placed on the bottom. 
+(6.75) Both Tribal units stacked in a hex must have the same facing. 
+If one unit has to change facing to do this, it must (and pay cohesion 
+costs to do so). This does not apply to a unit passing through an oc-
+cupied hex, nor does it apply to Artillery stacked with a foot unit.
+(6.76) Stacking has the following effects on combat:
+1.	Stacked Tribal units combine Size when using Shock.
+2.	Only the top unit in a Tribal stack may fire; Artillery and any 
+stacked foot may both fire.
+3.	Enemy Fire affects only the top Tribal unit in a stack, unless the 
+fire is through the rear hexes, in which case it affects only the 
+Tribal bottom unit. Enemy fire always affects the foot unit when 
+stacked with Artillery.
+4.	For Tribal units, Shock Hits are distributed per 11.12, with the 
+“odd” hit going to the top Tribal unit unless the attack is from 
+rear, in which case the “odd” goes to the bottom unit. All Shock 
+Hits are applied to the foot unit when stacked with an Artillery 
+unit. 
+5.	If the top Tribal unit Routs, so does the bottom. If the bottom unit 
+Routs, the top unit undergoes a TQ Check and Routs if the die 
+roll is greater than the unit’s TQ. If the foot unit stacked with an 
+Artillery unit Routs, the Artillery unit is eliminated. If the Artil-
+lery Routs, the stacked foot undergoes a TQ check and Routs if 
+the die roll is greater than its TQ. 
+(6.77) Combat units may enter a hex containing only a leader—and 
+vice versa—at no movement or cohesion cost. A combat unit stacked 
+with a leader may use Orderly Withdraw (6.6) together, or the leader 
+may withdraw (4.82) and the combat unit remains. If they withdraw 
+together, they must stay together. 
+(6.78) The restrictions, allowances, and penalties for stacking are 
+all given in the two Stacking Charts. The actual chart used depends 
+on the type of movement—Voluntary or Mandatory (see above)—
+being undertaken by the moving unit. The following premises and 
+terms are used:
+
+Basic: All units other than Greek Skirmishers, HI or PH infantry, 
+or Indian Tribal LI of the same tribe. Tribal LI of different tribes 
+use the Basic line.
+Tribal LI: If the unit involved is a stack of two Tribal LI of the same 
+Tribe, the “Basic” line is used.
+PH or HI Infantry: If either the moving or stationary unit(s) are 
+Greek Phalanx or Heavy Infantry, voluntary stacking is prohibited. 
+Exception: Skirmishers may move through a PH/HI unit.
+PLAY NOTE: If you are reading the rules for the first time, we 
+strongly suggest you take a look at this important chart. 
+The chart lists what type of unit is moving. However, the effects 
+apply to both moving and stationary units, unless otherwise speci-
+fied.
+(7.0) FACING AND ZONES OF 
+CONTROL
+(7.1) FACING
+(7.11) All combat units—except those In Column; see 6.5—must 
+be faced in a hex so that the top of the unit (the side with its name) 
+faces into the vertex of the hex (between two hexsides, as below). 
+The two hexes to the front (3 for double-sized units) are called the 
+Front hexes; those to the side, the Flank, and those behind, the Rear. 
+A unit may only move into a hex to its front. Facing does not apply 
+to Leaders or Artillery units.
+Single-sized Units: 
+Double-Sized Units:
+ 
+(7.12) In order for a single-hex combat unit to change its facing it 
+must pivot within its hex. It costs one Movement Point for each 
+vertex shifted. See 7.25.
+Exception #1: Skirmisher units pay 1 MP regardless of the number 
+of vertices changed.
+Exception #2: Elephants, Heavy Chariots, and Cataphracted Heavy 
+Cavalry pay two (2) MPs per vertex to change facing ... reflecting 
+the difficulty these units had in maneuvering effectively. In addi-
+tion, see 7.15. 
+Exception #3: Elephant Chariots (elCH) pay three (3) MPs per 
+vertex (see Kalinga scenario special rule).
+(7.13) Double-sized units do not “change facing”; they can only 
+change the direction in which they are facing by moving (and pay-
+ing any costs for so moving) one side of the counter forward, thus 
+pivoting the counter (see 6.4). 
+(7.14) As changing facing is “movement”, any such change in a 
+Rough terrain hex incurs one (1) Cohesion Hit for changing fac-
+ing. 
+Exception: Tribal LI and Skirmishers do not pay the Rough terrain 
+penalty.
+(7.15) Chariots may not change more than one vertex in any given 
+hex while moving. They may change more than one vertex in a hex 
+(with appropriate costs), as long as that hex is either the hex in which 
+the Chariot starts or finishes.
+DESIGN NOTE: Chariots were unwieldy in terms of maneuver, 
+mostly because they operated with fixed axles.
+(7.16) Reaction Facing Change. Any single-sized unit (not double-
+sized units) may change facing one vertex per Orders Phase when an 
+enemy unit moves adjacent to it. It may not do so if it either began 
+the Movement/Missile segment in an enemy ZOC or is in a ZOC 
+of another enemy unit at that instant. After changing facing, the 
+owning player rolls the die. If the DR is higher than the unit’s TQ, 
+apply the difference (DR–unit’s TQ) as Hits to the reacting unit. If 
+the reacting unit doesn’t Rout, it may conduct Entry Reaction Fire 
+if eligible (see 8.21).
+Exception: Cavalry changing facing in reaction to infantry move-
+ment do not have to make the TQ check.
+(7.2) ZONES OF CONTROL (ZOC) 
+ZOCs are those hexes, other than the hex occupied, over which 
+units exert a control, forcing enemy units to cease movement and 
+to precipitate combat.
+(7.21) Depending on their Type, all combat units exert a Zone of 
+Control:
+•	 Skirmishers exert a ZOC into their front and flank hexes—except 
+when out of missiles (Missile No), in which case they exert a ZOC 
+only into their front hexes.
+•	 All other combat units exert a Zone of Control only into their 
+front hexes. 
+•	 Routed units, Artillery units, and leaders do not exert ZOCs. 
+(7.22) ZOCs do not extend into a hex into which movement is 
+prohibited. 
+(7.23) Stops Movement. A unit must cease movement the instant 
+it enters an enemy ZOC. A unit that begins movement in an enemy 
+ZOC can move out of the enemy ZOC only if:
+1.	It is a combat unit that can receive an order to move, has at least 
+one unoccupied front hex, and the unit’s Movement Allowance 
+is greater than the MA of the enemy unit exerting that ZOC. For 
+this purpose, Phalanxes use their extended MA of ‘5’; OR,
+2.	The unit is the Overall Commander issuing an Individual Order 
+to himself; OR,
+3.	The unit is a leader who has been issued two Individual Orders 
+by the OC.
+
+(7.24) ZOC to ZOC Movement. A unit leaving an enemy ZOC 
+may immediately enter another enemy ZOC but would then cease 
+movement again. Units leaving a Missile unit’s ZOC are subject to 
+Retire Reaction Fire (8.22).
+(7.25) ZOCs and Facing. A unit that begins the Movement Seg-
+ment in the ZOC of an enemy unit may use up to one half its MA 
+(rounded up) in facing changes if:
+•	 It is in the ZOC of only one enemy combat unit, and
+•	 It does not move out of that hex that Phase.
+A unit that changes facing in this manner may not use 7.23 #1 to 
+leave that ZOC. See also 9.22.
+(7.26) If opposing units extend a ZOC into the same hex they are 
+both considered to “control” that hex.
+(7.3) SHOCK REQUIREMENTS
+The requirement that a combat must attack an enemy unit usually 
+depends both on unit Type as well as whether it moved or not, Shock 
+being a question of inertia more than weaponry.
+(7.31) Must Shock. In the Shock Combat Segment, all combat units 
+marked with an plus sign (+) on the Shock Superiority Chart—units 
+whose Shock capabilities depend mostly on “mass x inertia”—that 
+moved during the current Orders Phase must undertake a Shock 
+Attack against all enemy units in their ZOC. 
+(7.32) May Choose to Shock.
+1.	All other “light” units—no plus (+) sign—that moved may choose 
+to undertake Shock.
+2.	Any unit issued Fire (only) orders, or a unit that changed facing 
+per 7.25, or those simply within the activated Leader’s command 
+range, may choose to attack all enemy combat units in their ZOCs. 
+See the introduction to 9.1.
+(7.33) Procedure. The moving player places a “SHOCK—Must 
+Check TQ” marker on top of each unit that must Shock attack in 
+the ensuing Shock segment, as per 7.31, or that moved and chose 
+to Shock attack, as per 7.32[1]. “SHOCK—Must Check TQ” 
+markers are placed the instant the moving unit moves adjacent 
+and delineate which units will have to undergo a pre-Shock TQ 
+check, as per 9.14. 
+(7.34) Non-moving units, as per 7.32[2] are given a ‘SHOCK—No 
+TQ Check” marker, to indicate they are going to Shock attack but do 
+not have to check for pre-Shock TQ. Use this marker also for units 
+who do not have to check for Shock; cf. 9.14, et al.
+(7.35) Only those units with “SHOCK” markers may Shock attack, 
+and such delineations must be made before the end of the Shock 
+Designation Segment, although units which moved in the current 
+Orders phase will already have “SHOCK—Must Check TQ” mark-
+ers on them.
+EXAMPLE: A Mauryan elephant unit that moves adjacent to a 
+chariot (CH) unit has a “SHOCK—Must Check TQ” marker placed 
+on top of it because it has to attack, as per 7.31. A Mauryan LI unit 
+moving adjacent to a Greek HI unit does not have to shock attack 
+(7.32[1]); however, the moving player must state his decision on 
+whether or not to do so as it finishes movement. If he wishes it to at-
+tack, he must place a “SHOCK—Must Check TQ” marker on top.
+(8.0) MISSILE COMBAT 
+(8.1) MISSILE VOLLEY
+HISTORICAL/DESIGN NOTE: Professional foot soldiers (i.e. 
+Maula and Bhrta) were known to carry large bows which when 
+strung were up to 72” in length. Though somewhat unwieldy (they 
+had to be anchored against the foot to be drawn), these bows packed 
+quite a punch, as Alexander discovered in Hydaspes. The long bow, 
+denoted as ‘A*’ (‘A’ with an asterisk) in this game, will be recognized 
+by players of Deluxe GBA.
+(8.11) Units with missile capability (see sample units) may use Mis-
+sile Fire. There are four types of missile units in Chandragupta: Bow 
+(A), Long Bow (A*), Slingers (S), and Javelinists (J); see, also, Artil-
+lery (10.5). When given an order an individual missile unit can fire 
+at any time before, after, during—or instead of—forward movement. 
+However, each unit may fire only once per Orders Phase, although 
+the firing of the missile does not cost any Movement Points. 
+Exception: Long Bow (A*) units may not move and fire in the same 
+Orders Phase (though they may move then engage in Reaction Fire). 
+Long Bow units may change facing and still fire. 
+EXAMPLE: A mounted archer may move four hexes forward, fire 
+at an enemy unit two hexes distant, and then use its remaining MPs 
+to ride away. A Mauryan LI archer with Long Bow (denoted with 
+asterisk, A*), on the other hand, may move OR fire in a given Orders 
+phase, but may not do both.
+(8.12) Virtually all Fire takes place in the Movement and Fire Seg-
+ment, although there may be Reaction Fire by the non-phasing player 
+in the Shock Combat Segment.
+Missile Fire may occur:
+•	 As an Order or Line Command, or
+•	 As Reaction Fire, or
+•	 During Withdrawal (Cavalry/Chariot archers only; see exception 
+to 6.66).
+Missile units must fire individually; they may not combine fire.
+PLAY NOTE: Cavalry/Chariot archers are the only units that may 
+fire while moving “backwards.” Why? Try throwing a javelin while 
+back-pedaling.
+(8.13) A Missile unit may fire (volley) at any single target that is 
+within its Missile Range and to which it can trace a Line of Sight 
+(8:14). A unit’s Missile Range extends through its front hexes, with 
+the following exceptions:
+•	 For Skirmisher (SK) units, Missile Range extends through its 
+front and/or flank hexes;
+•	 For Chariot units, Missile Range extends through any of its hexes, 
+front, flank, or rear.
+ 
+(8.14) A missile unit can shoot a missile volley only at an enemy 
+target unit to which it has an unobstructed Line Of Sight (LOS). A 
+LOS is calculated by tracing a path between the center of missile 
+unit’s hex to the center of the target unit’s hex, through the hexes of 
+the firing unit’s Missile Range arc (see 8.13 above). LOS is blocked 
+by Forest, most City/Camp terrain, Strongholds, and combat units, 
+unless they are in hexes at a lower elevation than the firer and the 
+target. LOS is also blocked by a hex on an elevation level higher 
+than both firer and target. 
+
+(8.15) If the firing unit and target unit are on different levels, the 
+basic premises are:
+•	 If firing unit is higher than target, LOS is blocked when blocking 
+terrain is closer to target;
+•	 If firing unit is lower than target, LOS is blocked when blocking 
+terrain is closer to firer.
+Exactly “halfway” is treated as blocking. 
+(8.16) If the LOS is blocked, missiles may not be fired. 
+Exception: Missile units may always fire into adjacent hexes
+PLAY NOTE: Missile LOS should be interpreted strictly. If the LOS 
+goes down a hexside between blocking/non-blocking, consider it 
+blocked.
+(8.17) The Missile Range and Results Chart is used to determine 
+the effect of Missile volleys. For each volley, a die is rolled. If the 
+die roll is equal to or less than the strength of the missile unit at that 
+range, then the target unit receives one (1) Cohesion Hit (but see 
+the adjustments below). 
+The following die roll adjustments are made:
+•	 Movement: If the missile unit is any type other than foot javelin 
+and it moved/will move, add one (+1) to the die roll.
+•	 Terrain: If the target unit is in a Forest hex, add one (+1) to the 
+die roll. For Camp and City terrain effects (including Strongholds), 
+see those charts 12.12 and 12.21.
+•	 Firing and Target Types:
+	 1. When Long Bow (A*) archers, javelin, or slingers are firing 
+upon Cataphracted (“Cat”) Cavalry or Elephants, Heavy Chariot 
+(CH*) or Elephant Chariot (elCH) targets, add one (+1) to the die 
+	 2. When Bow (A) archers are firing upon Cataphracted (“Cat”) 
+Cavalry or Elephants, Heavy Chariot (CH*) or Elephant Chariot 
+(elCH) targets, add two (+2) to the die roll. 
+	 3. If the target is Heavy Infantry (HI) or a Phalanx (PH), add one 
+(+1) to the die roll (this represents the heavier armor protection 
+of such units). This does not apply to fire from Long Bow (A*) 
+archers.
+	 4. If the target is Heavy Infantry (HI) or Phalanx (PH), and a 
+slinger or an archer unit is firing at a range of one hex (adjacent) 
+through the frontal hexsides of the infantry, add three (+3) to the 
+die roll. This does not apply to javelins or artillery. This modifier 
+is not cumulative with #3 above.
+HISTORICAL NOTE: This represents the fact that missiles were 
+most effective against the formidable shield-wall and body armor 
+of the Hoplites when firing “from above” into the body of troops; 
+at close range, they could not do that. 
+	 5. If the target unit is a Skirmisher (SK), add two (+2) to the die 
+	 6. If the target is an Elephant, it receives two (2) Cohesion Hits 
+for every successful missile volley. 
+All combat effects from Missile Fire are immediate and occur before 
+any other unit is moved. 
+EXAMPLE: A Mauryan LI Archer (A*) unit is two hexes distant 
+from a Nanda Cataphracted Elephant unit. At a range of ‘2’, the 
+Mauryans’ long bow Missile Strength is “6”. The Mauryan player 
+volleys against the Nanda Elephant, rolling a ‘2’. He adds one to the 
+die roll (because the Elephant is cataphracted), making the adjusted 
+roll a ‘3’. The Elephant takes two Cohesion Hits. If he had rolled a 
+‘6’, on the other hand, the volley would have had no effect. If he had 
+rolled a ‘9’, it would have had no effect and he would have had to 
+place a MISSILE LOW marker (see 8.19) on the Mauryan Archer. 
+(8.18) When a missile unit fires at a target unit on a lower eleva-
+tion, its range is increased by one hex. When firing at that Extended 
+Range, a die roll of ‘0’ is required for a hit. 
+EXAMPLE: A Sreni LI Archer of the Elephant Trainers’ Guild, with 
+a normal maximum range of ‘4’ (Foot Archer), is in Kalinga West 
+map hex 3412, could fire at an enemy unit five hexes away in 2913. 
+However, it would need a natural die roll of ‘0’ to hit. 
+(8.19) Missile Supply. Missile Units may keep firing until they run 
+out of Missiles. Each different missile type has its own availability 
+levels:
+1.	Archers and slingers become Missile Low whenever there is a 
+die roll of ‘9’ when firing, at which point place a “Missile Low” 
+marker on it, indicating it has one volley remaining. This includes 
+Elephant Screen archers (denoted with lower case and javelin, 
+‘J/a’), who have their own Missile Low counters. See 10.11 and 
+10.12. 
+2.	Javelinists become Missile Low whenever there is a die roll of ‘7, 
+8 or 9’ when resolving any Missile Fire, at which point place a 
+“Missile Low” marker on it, indicating it has one volley remain-
+ing. 
+
+3.	If any “Missile Low” unit fires flip the marker over to its “Missile 
+No” side to indicate there are no missiles left to fire. 
+4.	Artillery units never run out of Missiles.
+5.	Any javelin-armed unit that is involved in Shock Combat is au-
+tomatically Missile NO on completion of the Shock combat.
+DESIGN NOTE: Players may notice that the Indian Long Bows (A*) 
+in Chandragupta are not given the javelinists’ missile availability, 
+as were their Indian LI Archer “predecessors” in Great Battles of 
+Alexander. The sources are fairly clear that these archers carried 
+two quivers of arrows. They also likely did not have as high a rate 
+of fire, which would offset some of the missile depletion.
+(8.110) A missile unit may Reload during the Reload Segment of the 
+Rout and Recovery Phase, bringing it up to full missile capability. 
+Any friendly “Missile Low” or “Missile No” unit that is 
+•	 Not in an enemy ZOC, and
+•	 Not within Missile Fire Range (and LOS) of an enemy unit (who 
+is not Missile No)
+may Reload in the Reload Segment of the Rout and Recovery Phase 
+by removing any Missile Low/No markers. 
+(8.111) If a leader is in a hex that has been fired upon and the Missile 
+Fire die roll was a ‘0’ (before modifiers), there is a possibility that 
+the leader has been hit. See 9.15 for resolution.
+(8.2) REACTION FIRE
+Inactive Missile units may fire in reaction to certain enemy move-
+ments into (Entry Reaction) and out of (Retire Reaction) their 
+ZOCs, and against enemy units that use Missile Fire against them 
+(Return Fire). 
+(8.21) Entry Reaction. Whenever a friendly unit enters the ZOC of 
+an enemy missile-capable unit, including Advance After Combat, 
+that missile unit may immediately fire at the entering unit (range is 
+one hex) before the moving unit’s Missile Fire occurs. All effects 
+from this Missile Fire occur immediately. When using Line Com-
+mands, all movement is completed before Entry Fire takes place.
+Exception: Rampaging Elephants do NOT draw Reaction Fire (of 
+any kind).
+(8.22) Retire Reaction. Whenever an unrouted unit leaves the ZOC 
+of an enemy missile unit, that missile unit, if it has a fire range of two 
+or more hexes, may fire at the moving unit prior to its leaving the 
+ZOC. Any results are applied before the unit moves. Retire Reaction 
+Fire is always resolved at a range of two (2) hexes.
+(8.23) Return Fire. Any non-phasing unit may Missile Fire “back” 
+at an enemy unit that has fired at it. The target of Return Fire must 
+be within range and LOS. The phasing unit’s fire is resolved before 
+the return fire; they are not simultaneous. The non-phasing player 
+cannot use both Entry Reaction and Return Fire at the same unit.
+(8.24) Reaction Fire does not require an order. A unit may perform 
+Reaction Fire any number of times during enemy movement, as long 
+as it is has missiles available.
+(9.0) SHOCK COMBAT
+DESIGN NOTE: This section is the heart of the game, and thus we 
+have gone to great lengths to explain how it works. It is longer and 
+more detailed than other sections and may, at first glance, appear 
+somewhat daunting. Take heart: in practice/play, most of the me-
+chanics become self-evident and, after a few trial runs, the resolution 
+of Shock will become second nature. 
+PLAY NOTE: The Shock system relies on the interaction of the units’ 
+weapon types, armor protection, size, angle of attack and quality 
+(TQ) to produce a single result. While no factor is unimportant, the 
+rating to pay closest attention to is the TQ, for that rating deter-
+mines the ability of a unit to withstand the rigors of shield-to-shield 
+ancient warfare.
+(9.1) SHOCK COMBAT PROCEDURE
+Shock Combat takes place in the Shock Combat Segment. Shock 
+is part of a leader’s Orders Phase, and all Shock created by that 
+leader is resolved before the next leader may be activated (or Mo-
+mentum attempted). All units with a ‘Shock’ marker—see 7.33 and 
+7.34—must Shock Attack.
+Important Note: Each Shock combat is conducted as a series of steps 
+performed in order for all units participating in Shock combat—
+before the next step of Shock combat is conducted. See 9.13 for the 
+sequence of steps. We suggest undertaking each separate step from 
+left to right, across the map. Players may use any system they wish 
+to note what has happened up-and-down the lines of attack. 
+DESIGN NOTE: It would be easier to resolve each separate combat 
+as one “piece”. However, to do so creates a “blitzkrieg” type of 
+effect, wherein the attacker gets to choose which attacks he wants to 
+do first so that he can achieve “breakthroughs”. Despite its simplic-
+ity, this would be so far from reality as to render the system—and 
+the game—inaccurate. However, isolated shocks can certainly be 
+resolved as a piece, if doing so would not affect other attacks. The 
+method you choose should keep this intent in mind. 
+(9.11) Shock Designation Segment. This is used to place 
+“SHOCK—No Check” markers on non-moving units that Choose 
+to Shock as per 7.34. 
+(9.12) The Basic Pre-Shock Procedure. Units that attack by Shock 
+must attack all units in their ZOCs, unless that defending unit is 
+being attacked by another, friendly unit in that Shock Combat Seg-
+ment. The attacker determines which units will be involved in each, 
+individual combat resolution, within the restrictions that follow: 
+1.	A friendly unit may attack more than one unit, as long as the 
+targeted defenders are all in the attacking unit’s ZOC.
+2.	An attacking unit (even a two-hex unit) may not split its attack 
+capabilities, although two (or more) units may combine to attack 
+one defender. 
+3.	If more than one unit is defending and/or attacking, total the Sizes. 
+4.	Each unit may attack only once per Shock Combat Segment.
+5.	A defending unit may be Shock attacked only once per Shock 
+Combat Segment. 
+Other than the above restrictions, the attacking player may divide 
+his attacks amongst his units as he sees fit.
+
+ 
+EXAMPLE #1: (Gandhara) A two-hex Greek Hoplite unit in 
+2710/2711 faces a Mauryan Cataphracted Elephant unit (Maula 
+class) in 2611 and a Tribal Javelinist LI from the Vasati tribe in 
+hex 2612. It must attack both defending units as one unit; the Mau-
+ryan player uses his Elephant unit to determine Superiority—here, 
+none. 
+EXAMPLE #2: Same as above, except a Greek Hypaspist is in 2712 
+and capable of attacking the Tribal LI in 2612. The Greek Hoplite 
+can now engage only the Mauryan Elephants, while the Hypaspists 
+beat up on the poor Tribals. Or, unless the Hypaspists had a “Must 
+Shock” marker, they could sit this one out while Hoplites took care of 
+everyone. While the former will produce better results, the latter may 
+be necessary if the Hypaspists are close to their TQ limit in hits.
+EXAMPLE #3: A Bactrian Heavy Cavalry unit in 2838 is “charging” 
+a Tribal LI (Pottala tribe) in 2737. Unfortunately for the Pottalas, 
+there is also an Arachosian LC contingent in 2638. The Greek player 
+may either combine the two Cavalry units in the attack, or have the 
+HC attack and the LC sit by and watch. 
+(9.13) An Overview of the Shock Combat Resolution Proce-
+dure. Sections 9.14 through 9.19 are descriptions of the sequence 
+and procedure used to resolve Shock Combat. Each step must be 
+completed for all units involved before proceeding to the next step. 
+While extensive in narrative terms, players will soon realize that 
+these steps are:
+1.	Charge: “SHOCK—Must Check TQ” marked units and their 
+defenders check TQ to see if troops will attack in an ordered 
+manner [9.14]
+2.	Check for any Leader casualties [9.15]
+3.	Resolve the Shock
+	 a. Use Clash of Spears Chart to determine what column on the 
+Shock Combat Results Table will be used [9.16]
+	 b. Determine Weapon and Position Superiority [9.17 #1]
+	 c. Determine Size Ratio Difference [9.17 #2]
+	 d. Determine whether terrain and/or leaders will have any effect, 
+then resolve the Shock using Shock Combat Results Table [9.17 
+#3]
+	 e. Apply results from the Shock CRT [9.17 #4]
+	 f. Push of Shields/Breakthrough [9.18]
+4.	Check for Collapse [9.19]
+(9.14) The Charge. All units with a “SHOCK—Must Check TQ” 
+marker and their intended targets undergo a Pre-Shock TQ check 
+by rolling the die for each unit, all such checks being simultane-
+ous. If any of the attackers “Must Check,” then the defender(s) 
+must check.
+Exceptions: The following units are NOT required to make the 
+Pre-Shock TQ Check:
+•	 If all defenders are Routed, or are all Skirmisher (SK) units, the 
+attackers need not make a TQ check. The intended targets still 
+do, however (and remember, Routed units have a TQ of 1). 
+•	 Defending Phalanxes (PH) and Heavy Infantry (HI) that are at-
+tacked frontally by Light Infantry (LI). 
+•	 Attacking Chariots with “SHOCK—Must Check TQ” markers 
+(note that their defenders must undergo a TQ check; see be-
+low). 
+Attacking units with ‘SHOCK—No Check” markers and their 
+defenders do not undergo this TQ check. 
+The Pre-Shock TQ Check is resolved as follows:
+1.	If the die roll is higher than a unit’s TQ, it takes a number of 
+Cohesion Hits equal to the difference between the die roll result 
+and its TQ.
+2.	If the defender has taken sufficient Cohesion Hits to be equal to 
+or greater than its TQ Rating it immediately Routs (see 11.21) and 
+the attacking unit advances into the vacated hex (where it may 
+change its facing one vertex, if desired, if it is not in the ZOC of 
+another enemy unit). See 9.2 for the effects on the advance.
+3.	If the attacker Routs from its TQ check, the defender stays put (if 
+not Routed).
+4.	If both units would Rout from their TQ checks, defender retreats 
+as per Rout rules, but attacker stays in place (although he is still 
+routed).	
+
+The following units have their Pre-Shock TQ check die roll adjusted: 
+•	 If the attacker is an Elephant, add one (+1) to the defender’s die 
+•	 If the attacker is a Chariot that moved four (4) or more hexes 
+during the Movement Phase, add one (+1) to the defender’s die 
+•	 If a Phalanx or Heavy Infantry unit is attacked by a Chariot, 
+subtract one (–1) from the defender’s die roll.
+After the TQ check, if the attacker and the defender did not rout, 
+go to the next step.
+(9.15) Leader Casualties. Casualties to Leaders are determined 
+prior to resolving the actual Shock. If either or both sides has a 
+leader stacked with one of the units involved in combat the player 
+rolls the die for each such leader. If the die roll is a ‘0’ the leader 
+has been Wounded. The player then rolls a second time; if that die 
+roll is greater than the leader’s Initiative Rating, the leader has been 
+Killed instead.
+•	 If a leader is Wounded, he is immediately Finished. For the re-
+mainder of the game, subtract one (–1) from all numeric ratings 
+(i.e. there is no effect on the leader’s Line Command ability), to 
+a minimum of ‘0’. See 9.45.
+•	 If Killed, time to settle those Karmic accounts ... our hero is now 
+dead, to be reborn another day. Dead leaders are immediately 
+removed from play and are not replaced. A leader who has been 
+Killed as part of Shock combat has a negative effect on that 
+combat; see 9.17[3].
+(9.16) The Clash of Spears and Swords. The Clash of Spears and 
+Swords Chart is now consulted to determine under which Shock CRT 
+column the battle will occur (prior to any adjustments):
+•	 If there is more than one type of defending unit, the defender 
+chooses which type will be used for determination.
+•	 If there is more than one type of attacking unit, the attacker de-
+termines the Type he will use. If a unit is being attacked through 
+the vertex between different facings, that defender gets the benefit 
+of the most advantageous facing.
+Clarification: In cases where a player has more than one unit is 
+involved, the player picks the unit (not Type) that will be used in the 
+determination. This choice determines the angle of attack.
+EXAMPLE #1: A Greek HI Hypaspist is attacking two units at 
+once, one Elephant (EL) through its flank, and one Light Infantry 
+(LI) frontally. The defender gets to choose the unit type; here he 
+chooses the Elephant, even though it is being attacked through its 
+flank. Why? Firstly, using the Clash of Spears Chart, we will see 
+that using the EL produces a ‘8’ CRT column, while the LI would 
+allow attacker to use the ‘9’ column. And, regardless of whom the 
+defender chose, the attacker has Attack Superiority (either because of 
+type-heavy infantry vs. light infantry—or angle of attack—attacking 
+the elephant through its flank).
+ 
+EXAMPLE #2: A Mauryan elephant unit is attacked by two Nanda 
+units—one Medium Infantry (MI) from the front, and one Lancer 
+(LN) through the rear. The Nanda player would use the LN attack-
+ing EL from the rear to gain the more advantageous column “10” 
+versus the MI’s “3”. However the Lancer, since it is a Cavalry unit, 
+does not gain Position Superiority against the Elephant (see 9.17 
+exception #2 below). 
+(9.17) The Hand-to-hand Struggle. Players now determine the effect 
+of any advantages either side has and then resolve the shock combat: 
+1. Determine Superiority: There are two (2) “types” of Superiority: 
+•	 POSITION SUPERIORITY: Results when one side’s angle/posi-
+tion of attack is from the flank or rear.
+•	 WEAPON SYSTEM SUPERIORITY: The weapons system and 
+armor/protection of one side is so superior to the other that it will 
+result in a marked increase in “losses” to the inferior side.
+Either one side or the other may (but not must) gain Position or 
+Weapons Superiority, either as: Attack Superior (AS; the most 
+common), or Defense Superior (DS). Players determine Superior-
+ity using the Shock Superiority Chart. In many instances there is 
+no Superiority.
+Superiority is determined as follows:
+A.If a friendly unit is attacking an enemy through its flank or rear it 
+is considered Attack Superior to the defender. If a single unit is 
+attacking two defending units, the defender chooses which unit to 
+use for Position determination. However, if the attacker is attack-
+ing with more than one unit, and such attack is coming from more 
+than one “angle”, the attacker chooses the angle of attack most 
+advantageous to him. In either case, whichever unit the attacker 
+or defender uses to determine Position Superiority must also be 
+used to determine the Shock Column on the Clash of Spears and 
+Swords Chart, as per 9.16. 
+	 Exception #1: An attacking unit does not gain Position Superiority 
+if it’s in the ZOC of any other enemy unit, and that enemy unit is 
+not being attacked by a different friendly unit.
+	 Exception #2: Elephants, Cavalry and Chariots never achieve 
+Position Superiority over Elephants; see 10.15.
+B.If no Position Superiority is attained, the opposing units check 
+their weapon class relationship (see the Shock Superiority Chart, 
+9.42) to determine if either weapon system is superior (either AS 
+or DS) to the other. If more than one unit type is involved on any 
+one side the players chose which of their units to determine Shock 
+column on the Clash of Spears Chart. 
+
+PLAY NOTE: Many different types of permutations and combina-
+tions are possible, in terms of unit types and multiple attack angles. 
+The two precepts above should cover virtually all of these possibili-
+ties. If they don’t, try to attain a result that best fits in with the general 
+principles. If that doesn’t work, try casting the OC’s horoscope.
+2. Determine Size Ratio Difference: Players now compare the 
+relative difference in size between attacker and defender. 
+Size Ratio Difference (SRD) is expressed as a simple ratio. For 
+example, two units with Size Rating of 5 each (a total of 10) at-
+tacking one unit with a Size of 5, would have a two-to-one (2:1) 
+size ratio difference; a single unit with a Size Rating of 3 attacking 
+three units with a combined Size of 12 would have a negative SRD 
+of one-to-four (1:4). 
+For each level of Size Ratio Difference (SRD) greater than one-to-
+one (1:1), the Shock Results Table is adjusted by one Column. The 
+attacker adjusts to the right, the defender to the left. 
+EXAMPLE: Continuing with the example above, the 2:1 attack 
+would result in a one-column shift to the right—an advantage to the 
+attackers. Meanwhile, the 1:4 attack would result in a three column 
+shift to the left ... a definite advantage to the defenders.
+Reduce all size ratios to a #:1 (or 1:#) expression, rounding off as 
+follows:
+If any attacker moved to affect the shock, round off in favor of 
+the attacker! Thus a 5 Size unit attacking a 4 Size unit is 2:1, a 4:5 
+becomes 1:1.
+If no attacker moved, round off in favor of the defender. Thus a 5 Size 
+unit attacking a 4 Size unit would be 1:1, while 4:5 becomes 1:2. 
+Exception: In any Shock combat involving either Elephants vs. 
+non-Elephants, Chariots vs. non-Chariots, and/or Skirmishers vs. 
+Chariots, Size is not taken into consideration; there is no SRD. 
+However, in Elephant vs. Elephant, or Chariot vs. Chariot, size IS 
+taken into consideration. 
+EXAMPLE: Attacking at 10 vs. 5 (or 2:1 odds) adjusts the Shock 
+Table one column to the right. Likewise, a moving attack at 5:3 also 
+produces a one column adjustment to the right, but if the attacker 
+did not move, there would be no adjustment.
+DESIGN NOTE: The “rounding off” rules reflect the advantage of 
+“momentum.”
+3. Adjust Columns and Resolve: To resolve the Shock Combat, the 
+attacker consults the Shock Combat Results Table, determines the 
+“base” column and adjusts that column for any Size Ratio Differ-
+ence, Unit Type, and Terrain effects. All adjustments are cumulative, 
+except where noted.
+a.	Size Ratio Difference: If applicable, the Shock Results Table 
+is adjusted, attacker to the right and the defender to the left, as 
+determined by SRD (#2 above).
+b.	Terrain Adjustments: Use best position available to defender. 
+•	 If all defenders are in Forest hexes, shift one column to the left 
+(1L).
+•	 If all attackers are attacking across a River hexside, shift two 
+columns to the left (2L).
+•	 If any defender is on a higher terrain level than the attacker(s), 
+shift one column to the left (1L).
+•	 If all defenders are on a higher terrain level than the attacker(s), 
+shift two columns to the left (2L). This is not cumulative with the 
+preceding modifier.
+•	 If any defenders are in a Stronghold hex, shift two columns to the 
+left (2L).
+•	 If all defenders are on a lower terrain level than the attacker(s), 
+shift one column to the right (1R). 
+•	 City and Camp Shifts (see 11.12 and 11.22).
+c.	Unit Adjustments:
+•	 If any of the attackers are Cataphracted Cavalry (Cat HC), Cata-
+phracted Elephants (Cat EL), Heavy Chariot (CH*), or Elephant 
+Chariot (elCH), shift two columns to the right (2R). 
+•	 If any of the defenders are Cataphracted Cavalry (Cat HC), Cata-
+phracted Elephants (Cat EL), Heavy Chariot (CH*), or Elephant 
+Chariot (elCH), shift two columns to the left (2L).
+•	 For each supporting Phalanx when a Phalanx is attacked frontally 
+by moving enemy unit, shift two columns to the left (2L).
+The attacking player then rolls the die, modifying the die roll by 
+the Charisma Rating of any one leader (of the player’s own choice) 
+stacked with the units of either side as follows:
+•	 For example, if Chandragupta were leading the attackers and 
+Bhadrasala the defenders, the net die roll adjustment would be 
++1 (Chandra’s 5 minus Bhadrasala’s 4). 
+•	 If a leader has been killed, as per 9.15, that side suffers a reverse 
+die roll adjustment equal to that leader’s Charisma Rating. 
+EXAMPLE: Vairodhaka is killed while leading an attack. The attack-
+er will subtract ‘2’ from the die roll (Vairodhaka’s ‘2’ Charisma). 
+Indian Charisma: When resolving Shock involving an Indian 
+Overall Commander (OC), a special variant of the above Charisma 
+rules apply. If the OC is stacked with a Maula unit, the OC’s Cha-
+risma applies to that unit and all adjacent Maula units. If the OC is 
+being conveyed atop an Elephant (EL) unit (see 6.16), his Charisma 
+is applied to the stacked Maula unit and all adjacent units regard-
+less of Class.
+HISTORICAL/DESIGN NOTE: This is a variant on the “Heroic 
+Charisma” rules found in other game in the series. The office of 
+the king was as much an inspiration to “greater efforts” by Indian 
+troops—particularly the “hereditary” Maula class—as was the king 
+himself. This status was enhanced by the ultimate symbol of royal 
+prestige and power ... the king atop his elephant.
+4. Apply Results. Results on the Shock CRT are Cohesion “hits” for 
+both attacker and defender. The # in parentheses is for the defender. 
+If the attacker was superior (AS) then double the defender’s result. 
+If the defender was superior (DS), then triple the attacker’s result. If 
+more than one unit (of the same player) was involved in that combat, 
+cohesion hits are distributed as per 11.12.
+(9.18) The Push of Shields/Breakthrough. After the shock has been 
+resolved, each unit that has accumulated three or more times cohe-
+sion hits than any individual enemy unit in that combat takes two 
+additional cohesion hits If more than one unit on a side is involved, 
+treat each unit individually, and, in such instance, if one unit has ‘0’ 
+hits, treat as if it had ‘1’.
+Clarification: A unit’s total accumulated hits is used in the 
+determination, not just the hits incurred in that Shock combat. 
+
+EXAMPLE: An attacking Mauryan Elephant has 1 Hit, while two 
+defending Kalinga Bhrta Light Infantry units have accumulated 2 
+and 4 Hits, respectively. The LI with 4 Hits is given another 2 Hits 
+for Breakthrough and, thus, routs (the 6 hits exceed his TQ of ‘5’). 
+The other Kalingan unit is unaffected. 
+(9.19) The Collapse. All units that have Cohesion Hits equal to or 
+greater than their TQ automatically Rout (11.2); then:
+1.	Units that are within one Cohesion Hit of automatic Rout and in 
+an enemy ZOC must roll the die. If this die roll is less than their 
+TQ, reduce the unit’s Cohesion Hits by one; otherwise, the unit 
+routs.
+2.	Attacking units must advance into any vacated hex (see 9.2).
+Exception: Double-sized units that Stand (10.64) do not 
+make this check. Likewise, units that stand in place in-
+stead of routing, as indicated in special scenario rules (e.g. 
+Guild Rout in “Revolt in the Provinces” and Strongholds 
+in “Suppression of the Khashas”), do not make this check. 
+(9.2) ADVANCE AFTER COMBAT
+(9.21) Attacking units must advance into any hex vacated by enemy 
+units as a result of Shock (only), including Pre-Shock TQ check 
+rout. This does not require an Order, but the advancing unit incurs 
+all Cohesion Hits engendered by such a move (e.g. Reaction Fire, 
+8.21). If the advance would Rout the moving unit, it still advances 
+but does not Rout; it retains a number of Cohesion Hits equal to 
+its TQ minus 1.
+Exception: Units that cause an enemy to vacate a hex because of 
+Pre-Shock TQ check (not the actual shock) and are in an enemy 
+ZOC at the time may not advance. 
+(9.22) Advancing single-hex units may change their facing one 
+vertex upon finishing the advance, even if they are in an enemy 
+ZOC. This is an exception to 7.25. 
+(9.23) Advancing Phalanxes may change the direction in which 
+they are facing only if they can move, as per 6.43 (and remember 
+7.14). An advancing Phalanx may combine straight-ahead advance 
+with a Wheeling Maneuver, if opportunity for such presents itself—
+as long as it pays all cohesion costs inherent in such advance. 
+ 
+(9.24) If there was more than one attacking unit, the unit that had 
+Superiority (if any) must advance. If no such unit, the one with the 
+highest TQ must advance. Tie? Player chooses. 
+(9.25) There is no advance after Missile Fire alone, regardless of 
+what the target unit does.
+(9.3) HARASSMENT and DISPERSAL (H&D) 
+TACTICS
+(9.31) Missile-armed Light Cavalry (LC) and Javelin or Slinger 
+armed Light Infantry/Skirmishes units may use H&D tactics against 
+any enemy unit that has a lower Movement Allowance. H&D com-
+prises a unit’s entire action for that turn. Skirmisher units cannot be 
+targets of H&D, nor may foot Archers use H&D. 
+Exceptions: Light Cavalry may use it against Cataphracted Cavalry 
+even though their Movement Allowance is not lower. Phalanx units 
+use the higher of the two Movement Allowances when determining 
+eligibility. 
+(9.32) Light Infantry (LI) and Skirmisher (SK) wishing to use H&D 
+must start within two (2) hexes (but not adjacent to) the target unit. 
+Light Cavalry (LC) must start within four (4) hexes (but not adjacent 
+to) the target unit.
+(9.33) Units using H&D may not start in an enemy ZOC, and they 
+must be able to trace a path of hexes clear of enemy units and their 
+ZOC unless that ZOC is adjacent to the target. The path may not be 
+traced through friendly units, a Rough terrain hex, or across a Rough 
+terrain hexside. It may cross a stream, but not any type of river.
+PLAY NOTE: Incurring Cohesion Hits for movement does not ap-
+ply here.
+(9.34) Procedure. If the unit satisfies the above, it may fire its mis-
+siles against the enemy target without moving. The procedure is:
+1. Note which unit is using H&D.
+2.	Note the target, as per above.
+3.	Fire the missiles as if they were being fired at one-hex range (this 
+is a moving attack).
+4.	The target may use Entry Reaction Fire against the firing unit. 
+Treat all fire as simultaneous. 
+5.	All of this occurs without moving the firing unit.
+DESIGN NOTE: Well, it is moving (to the target and then back to 
+whence it came). We just eliminated the counter-fiddling.
+(9.35) Light Cavalry may use H&D against Elephants, however, the 
+restrictions in 10.15 apply. Therefore, H&D attacks are not allowed 
+through an Elephant’s Front hex. Greek Cavalry conducting H&D 
+through an Elephant’s flank/rear hex earn two Cohesion Hits which 
+are applied prior to any Missile Fire.
+ 
+(9.4) THE COMBAT TABLES
+All of these tables are printed on the Player Aid Cards.
+(9.41) The Missile Range and Result Chart. This table is used to 
+determine the strength of a missile unit firing at a given range.
+(9.42) The Shock Superiority Chart. This chart is used to 
+compare the superiority (if any) of one type of unit com-
+pared to another, depending on which side is attacking or 
+defending. Always read down the column from the attacker’s 
+point of view. Superiority is used to augment Cohesion Hits. 
+ 
+(9.43) Clash of Spears and Swords Chart. This chart is used to 
+determine which Column will be used on the Shock Combat Results 
+Table (subject to adjustments).
+(9.44) Shock Combat Results Table. This Table is used to resolve 
+shock combat in terms of Cohesion “hits” to both attacker and 
+defender. See 11.11.
+(9.45) Leader Casualty Chart. This is used to determine the se-
+verity of casualties to leaders from Missile Fire and being involved 
+in Shock.
+
+(10.0) SPECIAL UNITS
+The special unit types all perform like other combat units, except 
+for the rules given below.
+(10.1) WAR ELEPHANTS (Hasti)
+HISTORICAL NOTE: The crème-de-la-crème of Indian military. 
+Considered terrible, wild beasts in Vedic era (1500–600 BC), there 
+was no mention of their use in war until they were domesticated 
+in post-Vedic times. By the time of Alexander they were the most 
+important arm of the military, and everywhere there was an implicit 
+faith in their military effectiveness. “The victory of kings in battles,” 
+remarks Kautilya, “depends mainly upon elephants.” Often cata-
+phracted and employing towers for both archers and javelinists, 
+hundreds of the pachyderms were deployed to the battlefield. Those 
+bred in the southeast—such as Kalinga—were said to be among the 
+best of the beasts.
+(10.11) Elephant Screens. Elephants were quite vulnerable to mis-
+sile attacks, and to protect against this each elephant was surrounded 
+with its own light screen of skirmishers, usually archers (represented 
+by the small “a” on the counter). Elephant Screens have the ability 
+to fire arrows—but as Entry Reaction Fire only—using the special 
+section on the Missile Chart for Elephant screen (they also have 
+their own missile supply markers). They may not fire as part of an 
+Order. The firepower is much less than normal archer units, to ac-
+count for the size of the screen and its tactical use. Elephants are not 
+treated as Skirmishers; the screen is part of the elephant counter. In 
+addition, because of their screens, elephants can be Missile Low/
+No on either or both javelins and/or arrows. Use the appropriate 
+marker to so indicate.
+HISTORICAL NOTE: Warriors in the Indian elephant corps were 
+known to be armed with both javelin and bow. Though the use of 
+elephant “screens” is not explicitly mentioned in the sources, they 
+were probably used. Consider the Bow designation in this case to 
+also encompass a small elephant screen. 
+ 
+(10.12) Warriors atop elephants were armed with javelins (with 
+elephant screen, “J/a”) or with a combination of Javelin and Bow 
+(“J/A”). Treat EL as Mounted Javelins for Missile Range purposes. 
+As Entry Reaction Fire, an elephant unit may both throw Javelins and 
+fire its arrows (either “a” as screen per 10.11 above or as Bow “A”). 
+However, the player rolls separately for each such Missile Fire.
+GAME NOTE: Due to counter mix limitations we aren’t able to 
+provide separate “Elephant A” Missile Low/No markers. Players 
+therefore may use the “Screen Low/No” markers to keep track of 
+their tuskers’ Bow ‘A’ ammo supply.
+PLAY NOTE: Elephants with Bow (“A”), unlike elephant “screens” 
+(“a”), are not restricted to Entry Reaction Fire only.
+While inside a city, an Elephant unit may not Missile Fire when 
+activated. An Elephant unit inside a city may use Reaction Fire.
+DESIGN NOTE: The narrow streets limited the ability to use their 
+missile offensively.
+(10.13) Pass-Through Attacks. After completing their Shock com-
+bat, if the Elephant unit has not Rampaged (10.14) and the defending 
+unit is still in place, the attacking Elephant is placed in one of the 
+defender’s vacant Rear hexes, maintaining its attack facing. Thus, 
+an Elephant in 3022 (Pataliputra map) attacking into 2921 would 
+end up in either 2821 or 2822. If there are units occupying both 
+rear hexes, the elephant unit immediately shock attacks the unit(s) 
+in one of those hexes. 
+PLAY NOTE: If an elephant fails to “dislodge” a second-row de-
+fender, it would still be placed behind those “second-row” units. 
+Essentially, the elephant keeps on attacking each occupied row, until 
+it passes through to an unoccupied rear hex.
+HISTORICAL NOTE: Why is there no “Pass-through Avoidance” 
+for the Indians? Simply put, their infantry, valued mainly for its 
+numbers and missile fire, was not trained to perform such organized 
+antics in the heat of battle (it probably would have been deemed 
+unmanly, anyway). The sources mention nothing whatsoever of such 
+maneuvers. Apparently, neither had the “Yavana” yet developed the 
+tactic (as seen in SPQR).
+(10.14) Rampaging Elephants. Any time an Elephant unit incurs 
+enough hits that would produce a Rout, the Elephant instead of 
+routing, goes on a Rampage, charging anyone in sight. Each time 
+an Elephant unit Routs, the owning player rolls one die and follows 
+the instructions below:
+	 0: the Elephant heads in the direction of the nearest friendly 
+unit.
+	 1–6: the Elephant heads in the direction indicated on the Com-
+pass on the map, an example of which is given below. Note that 
+geographical direction is represented at the vertex; the direction 
+in which the elephant is to rampage is by hexside.
+	 7–9: the Elephant’s mahout has been successful in stopping the 
+rampage by driving a wedge into the beast’s brain; the unit is 
+Elephant Rampage is always resolved immediately, before any other 
+game mechanic is addressed... except for Orderly Withdrawal in face 
+of the rampaging elephant (6.61).
+EXAMPLE: The above diagram shows the elephant unit (originally 
+heading N) refaced and now heading N/NE, after a Rampage die 
+roll of “1”. This is just an example; use the compass on the map 
+for each battle.
+A Rampaging elephant always attempts to move three (3) hexes per 
+directional die roll in the indicated direction (as per Rout Movement, 
+11.22) until it either moves off the map or is otherwise eliminated, 
+as below. If a rampaging Elephant unit would enter a hex occupied 
+by a unit—whether it be friend or foe—the elephant stops in the 
+adjacent hex and the “target” unit(s) takes
+•	 One (1) Cohesion Hit (each) if the elephant would have entered 
+frontally, or 
+•	 Two (2) Cohesion Hits (each) if it would have entered from the 
+flank or rear.
+
+Regardless of angle of rampage, Cavalry and Chariots always take 
+two (2) Hits when so attacked.
+If there is a Leader in the hex (alone or stacked with a unit), and he 
+cannot withdraw, he is tragically impaled on the elephant’s tusks, 
+tossed high in the air, and then crushed to death under its feet. All 
+that without a die roll!
+The player now rolls again, as above, repeating the process until
+1.	the Elephant exits the map,
+2.	the Elephant is eliminated (7–9 mahout die roll),
+3.	the Elephant is at least eight (8) hexes from the nearest unit, in 
+which case it is eliminated, or
+4.	if none of the above, after the 4th consecutive Rampage die roll, 
+the Elephant is eliminated.
+Rampaging elephants have no ZOC, and they may not be rallied. 
+Each “Rampage” is undertaken until its conclusion, so there may 
+never be more than one rampaging Elephant at any one time. And 
+remember that Cavalry/Chariot withdrawal can take place at any 
+time (see exception in 6.67).
+PLAY NOTE: When an elephant rampages, play stops dead and the 
+Rampage is resolved before anything else occurs.
+DESIGN NOTE: Historically, the mahouts were trained to use “the 
+wedge” on any berserk elephants. With each counter representing 
+5–6 elephants, the rule represents the 1 or 2 elephants they could 
+not dispatch immediately.
+(10.15) Cavalry and Chariot units may never voluntarily move into 
+the ZOC of an enemy Elephant unit. Indian Cavalry (including Indian 
+units in the Greek armies) and Chariots may move into or through 
+an Elephant’s flank or rear hexes with no penalty; non-Indian (i.e. 
+Greek/Macedonian) Cavalry units, however, do so at the cost of 
+two Cohesion Hits for each such hex entered. Cavalry and Chari-
+ots may never Shock attack enemy Elephants through the latter’s 
+frontal hexes; they may Shock attack through the Elephants’ flank 
+or rear hexes, but they do not gain the usual Attack Superiority for 
+such position attack.
+HISTORICAL NOTE: This reflects Indian horses’ exposure to 
+elephants and the training of Indian cavalry with the ubiquitous 
+elephant corps, an advantage the Greeks did not enjoy (horses 
+generally dislike elephants intensely). 
+(10.16) If an Elephant moves adjacent to an enemy Cavalry or 
+Chariot unit, that unit must attempt Orderly Withdrawal, if possible. 
+If they cannot so withdraw, they undergo an immediate TQ check. 
+If the die roll is higher than the unit’s TQ, it takes Cohesion Hits 
+equal to the difference between its TQ and the die roll. If the unit is 
+non-Indian, the minimal result (even if the die roll is less than the 
+TQ) is one (1) Cohesion Hit. If the Cavalry is already Routed, it is 
+automatically eliminated without any Hits for the Elephant (other 
+than those earned through movement).
+(10.17) TQ Check Modifier. Whenever an Elephant is Shock at-
+tacking and a TQ check is required, any defending unit adds one 
+(+1) to its TQ Check die roll. There is no TQ Check die roll for 
+Rampaging elephant attacks.
+(10.18) Cataphracted Elephants. These units have special combat 
+modifiers as noted in sections 8.17 and 9.44.
+(10.19) Elephant Rampage Table. See Charts and Tables.
+(10.2) CHARIOTS
+DESIGN NOTE: Though by this time abandoned by Western armies, 
+many Indian kingdoms still favored the chariot, and the Mauryans 
+maintained them at considerable expense. The war chariots in the 
+Mauryan era had grown quite large—four-wheeled affairs, drawn 
+by at least four horses. The “heavy” variety carried up to six war-
+riors (two shield-bearers, two archers, and two drivers/javelin-
+ists). Because of their fixed axles and lack of suspension they were 
+notoriously difficult to maneuver and had a tendency to tip over if 
+turned too sharply—a weakness mitigated (well, somewhat) by the 
+multi-axle models. 
+Two types of Chariots are used in Chandragupta, the lighter “stan-
+dard” two-wheeled variety (CH), and a larger multiple-axle (and 
+cataphracted) model. The latter are designated “heavy” for game 
+purposes, denoted by the asterisk on the counter (CH*).
+(10.21) Chariots operate under the following movement and terrain 
+restrictions. Chariots may change facing only one vertex per hex if 
+moving. Chariots earn Cohesion Hits for entering certain types of 
+terrain per the Movement Costs chart. Furthermore, Chariots may not 
+move up or down more than one level in any one Orders Phase.
+(10.22) Chariots may use Orderly Withdrawal, but they incur one 
+Cohesion Hit each time they withdraw. 
+(10.23) TQ Check Modifiers. Chariots do not make a Pre-Shock 
+TQ check when they “Must Shock”. Any unit attacked by a Chariot 
+unit has one (+1) added to its pre-Shock TQ Check if the attacking 
+Chariot has moved four (4) or more hexes during the Movement 
+Phase. All Phalanx or Heavy Infantry units have one (–1) subtracted 
+from their Pre-Shock TQ Check when attacked by Chariots. 
+(10.24) Routed Chariots are immediately removed from the game—
+ 
+ 
+(10.25) Heavy Chariots (CH*). These units have special combat 
+modifiers as noted in sections 8.17 and 9.44.
+(10.26) Pass-Through Attacks. After completing their Shock 
+combat (but see 10.24), if the defending unit is still in place, the 
+attacking chariot unit is placed in one of the defender’s vacant 
+Rear hexes, maintaining its attack facing. If units occupy both rear 
+hexes, the chariot must immediately shock attack the unit(s) in one 
+of those hexes if able to do so. If not, the attacking chariot remains 
+in its hex. 
+(10.27) Pass-Through Avoidance. If a Greek unit is about to be 
+attacked through a front hexside (only) by Chariots, prior to resolv-
+ing that Shock, the Greek player rolls the die and compares it to the 
+unit’s TQ. If the die roll is higher, normal Shock takes place. If the 
+die roll is the same as or lower than the TQ, the defending units 
+have parted ranks, and the Chariots have passed-through (as per 
+10.26) without causing any harm, other than an automatic, one (1) 
+Cohesion Hit for the defending unit (the penalty it pays for disrupt-
+ing its formation).
+If both rear hexes are occupied, the Greek Player rolls for both units, 
+as above. If both “pass,” the Chariots keep on going through. If one 
+fails, the Chariot attacks, as per 10.26.
+
+HISTORICAL NOTE: From Alexander’s experience with the Persian 
+chariots a generation earlier, Macedonian/Greek infantry trained to 
+avoid their headlong charge by simply breaking ranks and letting 
+the onrushing chariots pass through. 
+PLAY NOTE: Pass-Through Avoidance cannot be used by Indian 
+units in Greek armies.
+(10.28) Chariot Dismount. Indian Chariots may dismount as foot 
+in the Movement/Missile Segment if located inside a camp or Tak-
+shashila. Dismounting costs the entire unit’s Movement Allowance 
+and cannot be done in an enemy ZOC. Flip the counter to its reverse, 
+foot side. The unit may be faced in any direction.
+Dismounting is a permanent action—once dismounted, CH may 
+never “re-mount.”
+(10.3) SKIRMISHERS
+(10.31) Javelin- or slinger-armed Skirmishers (SK) may use H&D 
+tactics against any enemy unit that has a lower Movement Allow-
+ance. See 9.3 for restrictions and procedure.
+(10.32) Skirmishers (SK) have reduced effectiveness in combat, 
+offset by enhanced withdrawal abilities. The following apply to 
+Skirmishers only:
+•	 Skirmishers may only Shock attack Chariots. 
+•	 All non-SK units shock attacking solely SK units do not have to 
+make a pre-Shock TQ Check, even if they must charge.
+•	 When firing any missile at an SK unit, add two (+2) to the die roll 
+(this adjustment applies only to the combat effect, not the Missile 
+Availability).
+•	 Skirmishers may Orderly Withdraw up to two hexes before any 
+units whose MA is the same or less (i.e., all foot units), regardless 
+of the MA differential.
+•	 Skirmishers do not Rout; they are eliminated instead.
+DESIGN NOTE: Players will also notice that chariots and skirmish-
+ers have an unusual (albeit inimical) relationship: they each are 
+Attack Superior to the other when attacking. This is not a misprint. 
+It reflects the fact that chariots were susceptible to the tactics of 
+aggressive skirmishers, who were trained in (literally) pulling the 
+riders from the chariots. 
+(10.4) SPECIAL CAVALRY CAPABILITIES
+(10.41) Missile-armed Light Cavalry (LC) may use H&D tactics 
+against any enemy unit that has a lower Movement Allowance. See 
+9.3 for restrictions and procedure .
+Exception: Light Cavalry may use H&D Tactics against Cataphract-
+ed Heavy Cavalry (Cat HC), even though their MA is not higher.
+(10.42) Cataphracted Cavalry. These units have special combat 
+modifiers as noted in sections 8.17 and 9.44. These units pay a two 
+(2) MP cost to change facing per vertex. 
+(10.5) ARTILLERY
+DESIGN/HISTORICAL NOTE: Camps, particularly forts and cities, 
+were defended by the jamadagnya and yantra. While Indian artil-
+lery was quite diverse, the term yantra was largely generic, simply 
+meaning “machine” (the definition of “scorpio” by the Romans 
+was not so firm, either, for that matter). For game purposes yantra 
+refers to a moveable, scorpio-like device, and the jamadagnya is a 
+larger (and sometimes stationary) bolt-throwing, ballista-like device. 
+(10.51) Artillery units are missile firing engines with built-in crews, 
+so they do not have to be manned. The crews are treated as LI if 
+attacked. Artillery cannot Shock attack and their only offensive 
+combat capability is to Fire. Indian Artillery units do not have a 
+Grade (e.g. Maula, etc.) designation.
+(10.52) Yantras may fire twice during a single Orders Phase (not turn); 
+a Jamadagnya may fire once per Orders Phase. The units may fire at 
+any time during the phase, even in the midst of enemy movement! 
+They do not need Orders or LCs, nor do they have to be “in command.” 
+The first time a Yantra fires, place a “Fired Once” marker on it. The 
+second time it fires, or each time a Jamadagnya fires, flip the counter 
+over to its “Fire Done” side. Artillery units do not use Reaction Fire. 
+(10.53) Artillery have no “facing”; they may fire in any direction, 
+regardless of which direction the actual counter is pointed. They 
+may not fire over walls or ramparts of any kind, unless they are in 
+Towers. 
+DESIGN NOTE: Most ancient artillery were “low trajectory” 
+weapons with little ability to raise the angle of fire.
+(10.54) Artillery may move (as per their MA) in the Camp Orders 
+Phase only, even if they are not in a camp. Units that are on their 
+“Fired” side may not move. In certain scenarios the Jamadagnyas 
+are immoveable.
+(10.55) Artillery units incur Cohesion Hits from Fire and Shock 
+only if alone in a hex, otherwise, the unit stacked with the Artillery 
+incurs all hits. See 6.7 for stacking effects. An Artillery unit that 
+Routs is eliminated. 
+(10.56) Sarvatobhadras. Historical sources describe these as “carts 
+on wheels” with a turnstile that revolved rapidly, “throwing stones 
+in all directions.” In other words, a catapult. The Sarvatobhadra has 
+the following capabilities/restrictions: 
+•	 When moving by road, the Sarvatobhadra uses Column Movement 
+benefits, i.e. increase of its MA by one (see 6.52).
+•	 The Sarvatobhadra may fire only once per Game Turn (not 
+phase).
+•	 A Sarvatobhadra may be used to Breach a City Gate (see 
+12.32).
+(10.6) PHALANX AND HOPLITES 
+(10.61) In any Shock Resolution in which a non-Phalanx unit 
+moves and Shock attacks a Phalanx frontally, the Shock column is 
+adjusted two to the Left (2L) for each flank of the Phalanx that is 
+covered either by another Phalanx unit or a Phalanx ZOC (enabling 
+echelon to work). 
+DESIGN NOTE: This reflects the remarkable defensive capabilities 
+that the Phalanx had, especially with its wall of 16–18 foot spears 
+(known as the sarissa). Once inside the sarissa, the attackers stood 
+a better chance of cracking the Phalanx. 
+(10.62) Square. Phalanx and Hoplite Heavy Infantry (Size 10) 
+units may form “square” to give it “all around” protection. To form 
+or leave Square, an active unit must expend all of its Movement 
+Allowance and not be in an enemy ZOC. Use a Square marker to 
+indicate its new “formation”.
+
+The Movement Allowance of a unit in Square is 1 MP. The unit 
+can move in any direction but never adjacent to any enemy unit. 
+All hexes adjacent to the unit in Square are front hexes (the unit has 
+no flank/rear hexes). A friendly combat unit can never enter a hex 
+containing a unit in Square. A unit in Square may not initiate Shock 
+combat although it may move adjacent to an enemy unit. A unit in 
+square retains all of its normal Shock table relationships. However, 
+ignore the Size Ratio modifier. 
+(10.63) Phalanxes (PH) and Heavy Infantry (HI) that are attacked 
+frontally by Light Infantry (LI) do not have to undergo a pre-Shock 
+TQ Check ... although the LI still does. The reverse is not true; Pha-
+lanx and Heavy Infantry do undergo a pre-shock TQ check when 
+attacking Light Infantry. 
+(10.64) Phalanx Rout. Phalanxes and Hoplite/Heavy Infantry 
+(Size 10 only) do not Rout like other units. If these units incur Hits 
+greater than or equal to its TQ, the player rolls the die. He adds to 
+that DR: 
+1.	A number equal to the amount by which accumulated Hits exceeds 
+TQ (thus, a Phalanx unit with a TQ of 7 that has incurred 9 hits 
+would have +2 added to the Rout die roll); and 
+2.	Three (+3), if the Phalanx or Hoplite/Heavy Infantry unit was 
+attacking at the time. 
+ 
+Exception: If the Hits were a result of Position Superiority by the 
+enemy then the unit automatically Routs; there is no die roll.
+STANDS: If the adjusted DR is equal to or less than the unit’s TQ, 
+the unit Stands, in place, with hits equal to TQ minus 1. 
+ROUTS: If the adjusted DR is greater than the unit’s TQ, the unit is 
+Routed and retreats two hexes (as it would normally do when rout-
+ing). The unit may not be rallied. In the Rout Movement segment of 
+the Rout and Recovery Phase, all routed Phalanx and Hoplite/Heavy 
+Infantry units are eliminated—immediately removed from play. 
+PLAY NOTE: The single hex Greek Heavy Infantry hypaspists Rout 
+as other units.
+(10.7) GUILDS (Sreni) and TRIBALS 
+(Atavibalam)
+(10.71) Guild (Sreni) and Tribal units may only take Orders or Line 
+Commands issued by their respective Guild (“GC”) or Tribal (“TC”) 
+Chiefs (see 4.62).
+(10.72) Guild Enmity. Guild units and their leaders are prohibited 
+from stacking with one another and cooperating in combat:
+HISTORICAL NOTE: Indian guild levies of this period were noto-
+rious for their parochial loyalties and—and sometimes violent—
+brawls with one another. “Machiavellis” such as Chanakya, fearing 
+their independence, made a point of keeping the guilds at odds with 
+one another. 
+1.	Guild Chiefs may not voluntarily stack with or move through a 
+hex containing a Chief from a different Guild. If forced to do so 
+as a result of Retreat or enemy movement, the Chief forced to 
+move is immediately Finished.
+2.	Guild combat units may not voluntarily move through a hex con-
+taining a combat unit from a different Guild. If forced to do so as 
+a result of retreat, the moving unit is immediately routed and the 
+stationary unit suffers an immediate one Cohesion Hit and must 
+undergo a TQ check die roll (see 11.15 and 11.2).
+3.	Routed Guild units treat other Guild units—even if controlled 
+by the same player!—as enemy units for retreat purposes (in 
+other words, they must find an alternate retreat path or they are 
+eliminated).
+4.	A Guild unit may not perform Shock Combat against any enemy 
+unit that is in the ZOC of a unit from a different Guild. This re-
+striction does not apply to missile fire. Guild units can of course 
+always Shock or fire missiles at any units controlled by the op-
+posing player (Guild or otherwise).
+(10.73) Tribal units are restricted as to their movement in friendly 
+camps—see 12.11 and individual scenario rules.
+(10.74) Tribal units may stack two to a hex if they are units of the 
+same Tribe, and not in a City or Stronghold hex. See 6.73.
+(10.8) MAULA UNITS
+(10.81) Maula Rout. When stacked with their Overall Commander 
+and defending against a Shock attack, Maula class units do not Rout 
+like other units. Each time such a unit incurs Hits greater than or 
+equal to its TQ, the player rolls the die. He adds to that die roll a 
+number equal to the amount by which the incurred hits exceeds the 
+unit’s TQ. 
+Exception: If the enemy has Position Superiority then the Maula 
+unit automatically Routs; there is no die roll.
+STANDS: If the adjusted die roll is equal to or less than the unit’s 
+TQ, the unit stands in place, with hits equal to TQ minus 1.
+ROUTS: If the adjusted die roll is greater than the unit’s TQ, the 
+unit Routs per 11.21. 
+(11.0) EFFECTS OF COMBAT 
+Units suffer cohesion penalties (called “hits”) from disruptive 
+and/or excessive movement and/or combat. Too many Cohesion 
+Hits produce a Rout. Routing units retreat, for the most part, 
+towards their Retreat Edge of the map as identified in the scenario 
+rules. A routed unit can be Rallied under certain circumstances. 
+ 
+(11.1) COHESION
+Cohesion is a measure of how organized and effective a unit is at any 
+point during the battle. The loss of cohesion is measured in Cohesion 
+Hits, which are applied against a unit’s Troop Quality—sometimes 
+automatically, sometimes after a die roll. The Cohesion Hit and TQ 
+Check Chart (11.15) summarizes when these occur.
+(11.11) Cohesion Markers. Each time that a unit receives a cohe-
+sion hit place a Cohesion # Marker—representing the total number 
+of hits taken—on (or under) the unit. 
+
+(11.12) If there are multiple units involved in a single combat resolu-
+tion, hits must be divided as equally as possible amongst these units, 
+with any extra hits being given to the unit that was
+	 1st: 	
+used to determine Superiority;
+ 	 2nd: 	 used to determine the Shock CRT column;
+ 	 3rd: 	 player’s Choice.
+This rule applies even if it means that a unit will have to Rout.
+Exception: If a double-sized unit is attacking two single-hex units, 
+the attacker chooses how any Cohesion Hits will be distributed 
+among the defenders. Such distribution may be uneven, if so desired. 
+This does not apply when double-sized units are defending.
+(11.13) Recovery. During an Orders Phase, any unrouted unit which 
+is not adjacent to an enemy unit, nor within range and LOS of an 
+enemy missile unit that is not Missile No, and is in “Clear” terrain 
+may remove two (2) Cohesion Hits by being given an Individual 
+Order to do so. A unit may not remove more than two Cohesion Hits 
+per Orders Phase, and neither Line nor Wing Commands may be 
+used to do this. A unit that has “Recovered” may not do anything 
+else that Order Phase. Units that have Rallied this game turn may 
+not have Cohesion Hits removed.
+(11.14) Cohesion Hits do not affect a unit’s combat strength or 
+capabilities in any way, other than to show how close it is getting 
+to falling apart. Thus, a unit with a TQ of 6 and 4 hits has the same 
+combat effect as one with no hits. It is just more likely to Rout.
+(11.15) Cohesion Hit and TQ Check Chart. This chart lists the 
+times during the game when a unit must undergo a TQ Check. A 
+TQ Check consists of rolling the die and comparing it to the unit’s 
+printed TQ rating. The Cohesion Hit and TQ Check Chart lists the 
+results, usually one or more Cohesion Hits when/if the die exceeds 
+the rating. 
+PLAY NOTE: As a reminder, units In Column have their TQ reduced 
+by –2 (see 6.55) and Routed units have a TQ of “1” (see 11.28).
+(11.2) ROUT and RETREAT
+HISTORICAL NOTE: Routing units usually ran away, with infan-
+try often throwing away their equipment in a futile effort to speed 
+their exit—which usually precluded their being of much future use 
+in the battle. 
+ 
+(11.21) When a unit has absorbed Cohesion Hits equal to or more 
+than its Troop Quality Rating it Routs. 
+Exception #1: Chariots, Skirmishers, and Artillery units do not rout 
+when their TQ is exceeded. They are, instead, eliminated. 
+Exception #2: Elephants do not rout, but Rampage (10.14) in-
+stead.
+If, as a result of Cohesion Hits from Shock, ALL attacking and 
+defending units would Rout, the following occurs:
+1.	Attacker adds to his total Hits the number of Hits—if any—that 
+he would incur were he to advance after combat.
+2.	The side that has the unit with the greatest discrepancy between 
+Hits and TQ rating Routs. If the defender is not Routed, it remains 
+in place; if the attacker is not Routed, he advances (if eligible). 
+The unit that does not Rout has Cohesion Hits equal to its TQ 
+minus one (–1).
+3.	If the difference between the Hits and TQ is the same for both 
+sides, the defender Routs and the attacker advances after combat 
+(if allowed) and has Cohesion Hits equal to its TQ minus one 
+(–1).
+ 
+EXAMPLE: Ambhi’s Takshashila javelinists Light Infantry with 4 
+hits, attacks one of the Nanda’s archer Light Infantry, TQ of ‘5’, 
+with one hit. The Nanda LI is in clear terrain, no elevation. The 
+Shock Result is 2(2), but the Nanda’s hits are doubled because the 
+Takshashila LI is Attack Superior due to a flank attack. This means 
+the Takshashila LI now has 6 hits (TQ=6) and the Nanda LI has 5 
+hits (TQ=5). There would be no added hits were the Takshashila 
+Light Infantry to advance as the terrain is clear and level. They both 
+have reached their “Rout” level, but, in this case, only the Nanda 
+Light Infantry Routs. Ambhi adjusts his unit’s hit level to ‘5’ (TQ 
+minus 1) and advances after combat. The Ambhi Player would have 
+to roll for possible “Collapse” for the unit if after the advance it is 
+in another enemy unit’s ZOC. 
+(11.22) Rout Movement. A unit which has Routed is immediately 
+moved two (2) hexes toward its Retreat Edge (as defined in scenario 
+rules, but usually the one behind his original deployment). 
+Exceptions: Elephant Rampage, see 10.14; Phalanx Rout, see 10.64; 
+and Maula Rout, see 10.81. 
+No Movement points are expended, but the unit must take the most 
+direct path towards his Retreat Edge that is not blocked by enemy 
+units, enemy ZOC (unless occupied by a friendly unit), or impass-
+able terrain, even if this means moving into and/or through friendly 
+units. However, when given a choice, it will take the path of least 
+resistance (see below). The unit’s facing is changed—at no cost—
+so that it faces the direction it is going to go at the instant of Rout. 
+If it cannot retreat the full distance it is eliminated (see 11.23, and 
+note 11.24). Place a “Routed” marker on that unit when it finishes 
+its retreat.
+The Path of Least Resistance is as follows:
+1.	Vacant hex not in an enemy ZOC (even if terrain is not Clear); 
+then,
+2.	Friendly-occupied hex not in an enemy ZOC; then,
+3.	Friendly-occupied hex in an enemy ZOC.
+The routing unit will always enter ‘1’ before ‘2’, etc., always with 
+an eye towards the Retreat Edge. 
+PLAY/DESIGN NOTE: Routing units have one thought in mind: get-
+ting out of the area as quickly as possible. If there are people standing 
+in their way, that’s their problem. Therefore, routs in ancient warfare 
+often took other troops with them. While routing/retreating units 
+usually move directly towards the rear of their lines, instances will 
+occur where that is not feasible or even possible. In such instances, 
+
+common sense, along with the knowledge that these units are trying 
+to get away from the enemy, should guide your movements.
+(11.23) Cascade Rout. If an Indian OC or WC is conveyed by an 
+Elephant or Chariot unit that Routs, the rout may spread or “cascade” 
+to adjacent friendly units:
+•	 If a Wing Commander or Overall Commander is atop an Elephant 
+or Chariot unit that routs, all adjacent friendly units immediately 
+make a TQ check die roll (as per 9.14).
+•	 Furthermore, if the routing unit is an Elephant (EL) conveying 
+an Overall Commander, all units adjacent to any units that have 
+routed as a result of #1 above must also perform an immediate 
+TQ check die roll (as per 9.14). 
+Cascade Rout applies only when initiated by the Elephants and 
+Chariots while stacked with Indian OCs or WCs conveyed by that 
+type. Cascade Rout affects any adjacent units as described above, 
+regardless of the unit’s Grade.
+(11.24) In the Rout Movement Phase all routed units are moved 
+their full, printed Movement Allowance in the same direction and 
+manner as in 11.22—even if they moved previously during the turn. 
+Routed units use normal movement rules, except that they may not 
+enter enemy ZOCs unoccupied by friendly units. They do not suffer 
+Cohesion Hits from Rout/Retreat movement.
+(11.25) A unit that either moves off the map (for whatever reason) 
+or cannot complete its Rout movement because of the presence of 
+enemy units/ZOCs or impassable terrain is permanently removed 
+from play and considered eliminated for Army Withdrawal purposes. 
+Note that Routed units may NOT rout across a River hexside.
+(11.26) The movement of Routing units through or into other units 
+is covered on the Stacking Charts [6.78]. The main premise is that 
+routed units may not stack. If a routed unit were to finish its rout 
+movement in a friendly-occupied hex, instead, and as per the chart, 
+it continues on one more hex. If that additional hex is also occupied, 
+the routed unit is automatically eliminated. The non-moving unit in 
+that hex incurs the penalties indicated on the chart. 
+(11.27) If a Leader is stacked with a routing/retreating unit that 
+leader may Rout Move/Retreat along with that unit. He is otherwise 
+unaffected by the Rout/Retreat.
+(11.28) Restrictions on Routed Units:
+1.	Routed units retain their Size and Movement Allowance .
+2.	They have a TQ of ‘1’. If a Routed unit fails a TQ check, it is 
+3.	Routed foot missile units are automatically “Missile No” (this 
+does not apply to mounted missile units).
+4.	Routed units may not receive or use Orders or Commands (other 
+than to Rally) nor may they fire missiles for any reason.
+5.	Routed units that incur any additional cohesion hits are immedi-
+ately eliminated and removed from play.
+(11.3) RALLY 
+(11.31) During an Orders Phase a leader may attempt to Rally any 
+Routed unit which is stacked with him or within his Command 
+Range, and is not adjacent to an enemy unit nor within LOS and 
+missile range of an enemy missile-capable unit that is not Missile 
+No. Follow the normal restrictions of 4.21 when determining Com-
+mand Range. 
+Exception: Elephants can never Rally (they Rampage instead; see 
+10.14), nor do double-size Phalanxes and Hoplite/Heavy Infantry 
+(see 10.64), Chariots (10.24), or Skirmishers (10.32). All these units 
+are eliminated if/when they Rout.
+(11.32) An individual leader may attempt to rally a given unit only 
+once per Game Turn. The limitation applies to the leader, not the 
+unit (a unit may be rallied by another leader in that turn, as long as 
+the unit is within that leader’s Command Range). Rally is conducted 
+as an Individual Order only.
+(11.33) Procedure. A leader may automatically Rally any eligible 
+(per 11.31) unit with which he is stacked. For an eligible Routed 
+unit with which he is not stacked, but which is within his Command 
+Range, he makes the attempt by rolling the die: 
+1.	if the leader is Indian and conveyed by Elephant (see 6.16), sub-
+tract one (–1) from that leader’s Rally attempt. Then,
+2.	if the die roll is the same as or lower than the Leader’s Initiative Rat-
+ing +1 (which represents the routed unit’s TQ), the unit is Rallied. 
+3.	if the die roll is higher than the “Initiative +1,” the unit Rout Moves 
+(11.22), unless the die roll was also higher than the printed TQ in 
+which case it is instead eliminated.
+(11.34) Units that have been successfully Rallied have their Rout 
+Marker flipped to its “Rallied” side. The unit is now given Hits 
+equal to one-half its printed TQ, rounded down. 
+ 
+PLAY NOTE: Yes, a leader may move around the map during his turn, 
+stopping to issue Individual Orders for Rally and then moving on.
+(11.4) SRENI and TRIBAL FLIGHT
+(11.41) At the conclusion of the Rout Movement segment, each 
+player checks to see whether any of his Sreni or Tribal contingents 
+have Fled. If the Guild/Tribe has no routed or eliminated units, the 
+Guild/Tribe is unaffected.
+(11.42) To determine if a Sreni or Tribal contingent has Fled, the 
+owning player rolls a die, adding to the roll the number of that 
+Guild’s/Tribe’s units that are Routed or have been eliminated. If the 
+adjusted die roll is greater than that Guild’s/Tribe’s Flight Level as 
+given in the scenario instructions, that Guild/Tribe has Fled. Remove 
+all units in the Tribe/Guild from play—they are eliminated. 
+(12.0) FORTIFICATIONS 
+(12.1) CAMPS
+The Gandhara, Malayaketu, and Magadha scenarios use the Camp 
+Extension map. The map contains all the classical elements of an 
+Indian military camp of the era as described (in some detail) in the 
+Arthashastra. As one can see, there are several “layers” of defensive 
+walls, berms, and other enclosures protecting the royal encampment 
+at the center. A unit’s access to these enclosures may be restricted 
+by the unit’s type and/or grade.
+DESIGN NOTE: The camp here is rendered as close as possible 
+to the descriptions of military camps provided in the Arthashastra. 
+Camps were large and contained everything from provisions to 
+prostitutes, vendors, priests, and other non-combatants. The crowded 
+conditions are simulated by camp terrain movement costs.
+(12.11) Indian fortifications were built with four concentric enclo-
+sures, each bounded by different terrain:
+Fourth Enclosure: An outer perimeter of the camp, normally de-
+fended by Tribal units, comprised of a Berm/Ditch—essentially a 
+
+ditch and earthen wall, perhaps 6–8 feet in height, which provided 
+a basic defensive line. Non-infantry may not cross a Berm/Ditch 
+hexside.
+Third Enclosure: The camp proper. Sreni and Bhrta units, as well 
+as elephants were camped within this enclosure. Elephants, Chariots, 
+and Cavalry may enter this enclosure only through Gate hexsides. 
+Friendly Tribal units may not voluntarily enter this enclosure; they 
+may only enter it (through a Gate hexside) as part of Rout movement 
+(see 11.24). Enemy Tribals are not under this restriction. The third 
+camp enclosure consisted of several terrain items, including:
+	 Wall–what surrounded the “camp” per se, a palisade of wooden 
+posts. Non-infantry units may not cross a Wall hexside other than 
+via Gate. 
+	 Gates–served, obviously, as the means of crossing the Palisade. 
+These were actual hinged gates, barricaded from inside against 
+the enemy.
+	 Moat–a (usually) water-filled ditch that surrounded the wooden 
+palisade. It was frequently augmented with sharpened spikes, 
+etc.
+	 Towers–were built at various intervals along walls to act as strong 
+points and to guard the entrances. Higher than the walls they sup-
+ported, they were used for missile firing troops and Artillery. 
+Second Enclosure: This enclosure contained the armory and the 
+encampment of the Senapati (Wing Commanders). Maula and Bhrta 
+units camped here, as well as Cavalry and Chariot units. The Second 
+enclosure was bounded by Thorns. A form of ancient “concertina 
+wire,” shrubs variously known as “dog’s tooth” for their large thorns 
+were gathered to form a defensive barrier. Non-infantry units may 
+not cross a Thorns hexside.
+First Enclosure: This was the enclosure of the Royal Encampment, 
+and also contained the royal stables, the encampment of the priests, 
+the field treasury, and the harem (none of which have any effect on 
+movement). Friendly non-Maula units may not voluntarily enter 
+this enclosure if any Maula units are inside. The First Enclosure 
+was bounded by Wagons, which were (probably) buried up to their 
+axles in the upcast soil of a shallow defensive trench. Non-infantry 
+may not cross a Wagons hexside.
+(12.12) Camp Effects Chart. Each of the above has its own MP 
+and Cohesion costs to cross, as listed on the chart. It is usually easier 
+to cross a fortification hexside from within the camp than from the 
+outside. Movement through Gates is most efficiently accomplished 
+In Column (see 6.5).
+(12.13) Camp Walls and Camp Towers may be destroyed by Elephant 
+units (see 12.31 and 12.32). 
+(12.14) Units may not Retreat, Rout, or Withdraw across a fortified 
+hexside. Cavalry, Chariots, and Elephant units may not cross any 
+fortified hexside other than a Camp Gate. These unit types cannot 
+enter a Camp Tower. Moreover, if a unit does not have the necessary 
+MPs to cross a given fortified hexside, it may not do so.
+(12.15) Units outside a fortification hexside do NOT extend a Zone 
+of Control (7.2) across/through fortification hexsides of any type. 
+Exception: Missile-armed units that are not “Missile No” DO exert 
+a ZOC across Thorn and Wagon hexsides.
+(12.16) Units inside fortifications exert a “Fort ZOC”: they affect 
+movement like standard ZOCs, but they do not require Shock against 
+units moving into them. All units inside fortifications that are facing 
+adjacent to Walls, Berms, etc., exert Fort ZOCs into adjacent hexes 
+outside the fortification. 
+(12.17) Nayaka inside camps may issue LCs without being given a 
+Mauryan Wing Command by their WC. An SC or WC may issue a 
+Line Command inside a camp without being in the range of the OC. 
+Individual combat units inside a camp’s Third Enclosure or lower 
+(i.e. within the palisade walls) and without a leader (they have no 
+leader inside the camp) may move as if they were given orders, as 
+long as they do not leave the camp and have not previously Moved 
+during that turn. For this purpose—specifically and alone—there 
+is a Camp Orders Phase. It occurs after all other units have gone. 
+They may move adjacent to enemy units, fire and/or shock, as if 
+they were given orders. 
+PLAY/DESIGN NOTE: Units defending inside a camp would rely 
+mostly on time-honored drill, training and dogma ... as well as their 
+lower-level leaders ... to defend the camp.
+(12.18) Missile Fire in and out of fortifications carries die roll modi-
+fiers because of sighting problems. All camp fortification hexsides 
+other than the Moat block Line of Sight (LOS) (see 8.14) with the 
+exception that a missile unit adjacent to a fortification hexside may 
+fire and be fired at. Towers hexes block LOS, however, missile units 
+may fire into/from such hexes. The following die roll adjustments 
+are applied, per fortification type:
+Wall: Slingers suffer a +1 die roll adjustment; archers suffer a +2 
+adjustment; javelinists a +4 adjustment. 
+Gates: Gates are treated as Walls (above). However, a missile unit 
+firing across a Breached Gate hexside from a range of greater than 
+one hex may only fire into the adjoining hex and no further (and the 
+die roll adjustment for Walls still applies). 
+Towers: Units firing from Tower hexes (inside-to-outside) do not 
+suffer the above die roll adjustments; they gain a benefit of subtract-
+ing one (–1) from all die rolls. Archers and slingers firing at units 
+in Towers suffer a +1 adjustment; javelinists have a +2 die roll 
+adjustment when doing so.
+Missile units, including Artillery, in Tower hexes increase their 
+Missile Range by one hex. At the “Extended Range” they need an 
+(adjusted) ‘0’ to obtain a Hit.
+(12.2) CITIES (TAKSHASHILA)
+Takshashila—known as “Taxila” by the Greeks—was the ancient 
+capital of the kingdom of Gandhara and strategically located at the 
+crossroads of major trade routes from Pataliputra in the east, the 
+north-western route into Bactria, and from Kashmir in the north. 
+The walls of the city were of heavy mud bricks reinforced with 
+timber. Typical of a city of that era, it did not enjoy the benefits of 
+urban planning—the buildings were small and crowded one atop 
+another over the generations, separated by lanes in which two people 
+could barely walk abreast, and its streets were “haphazard, narrow 
+and tortuous.” 
+DESIGN NOTE: For Takshashila and its surrounding terrain, we 
+used the excellent topographical map provided in Marshall’s A 
+Guide to Taxila. Other than the city walls and portions of the main 
+avenue (revealed through Marshall’s excavation), the interior of the 
+city as portrayed is largely conjectural.
+(12.21) City Effects Chart. The city of Takshashila has the fol-
+lowing features for game purposes, each having its own MP and 
+Cohesion costs to enter/cross, as listed on the chart:
+
+City Walls–units cannot move across City Walls. 
+City Gate–the city has four which provide access through the City 
+Wall.
+City Block–the built up areas of the city; its buildings and dwell-
+ings. 
+City Street–the major thoroughfares inside the city.
+City Square–open areas within the city; a form of “Street” ter-
+rain. 
+Temple/Palace–the key city buildings; a form of “Block” terrain. 
+(12.22) Units inside the city are located either in Street terrain (in-
+cluding City Squares) or in Block terrain (including the Temple and 
+Palace). Only foot units may enter Block terrain (except double-sized 
+units, which are prohibited).
+Exception: Elephants may Shock Attack into and Advance after 
+Shock into a Temple/Palace hex but may not enter in the Move-
+ment Segment.
+(12.23) A unit may use Street movement by entering a Street hex 
+directly from another Street hex, but only if traversing a hexside that 
+is crossed by the Street symbol (e.g. from 2430 to 2529). However, if 
+entering a Street hex from a non-Street hex or across a hexside that 
+is not traversed by the Street terrain symbol, it is subject to Block 
+movement costs/restrictions. 
+EXAMPLE: A Mauryan LI-A* is in hex 2428 and wants to move 
+towards the Square in 2628 (it is in normal formation, not In Col-
+umn). It may thus move to hex 2528 by using the Street from 2429 to 
+2528, expending a total of 4 MPs along the way (2 MPs per Street 
+hex); it cannot move to the Square this Movement Phase because 
+it does not have enough of its MA remaining. Alternately, the unit 
+may move directly into the adjacent hex 2528, but will use Block 
+terrain costs at 3 MPs; since it has 2 of its MA remaining, it could 
+then move from 2528 and into the square in hex 2628.
+(12.24) Elephants, Chariots, and Cavalry may only move into Street 
+terrain, including City Squares (note exception in 12.22). The Street 
+movement of Elephant units, furthermore, is restricted to the main 
+thoroughfare that runs north to south (the “wider” street on the map 
+from hex 2426 to hex 2939). 
+HISTORICAL NOTE: Excavations show this main thoroughfare to 
+average about 22 feet in width, not much to be sure, but enough for 
+a pachyderm in single-file with some screen archers (nervously) 
+trotting alongside. The other streets, however, appear to have been 
+from 9–12 feet in width—too tight a squeeze for an elephant.
+(12.25) Movement through Gates and along Streets is most effi-
+ciently accomplished In Column (see 6.5). Chariots and Elephants 
+must be In Column to enter a Street hex. Units in Street or Square 
+hexes observe normal Facing rules and thus must move into their 
+frontal hexes per 6.53 or 7.11. 
+PLAY NOTE: Note that Chariots and Elephants must be In Column to 
+enter (i.e. move into) a Street hex; they do not have to be In Column 
+if they are stationary.
+EXAMPLE: Repeating the example above, say there is a Mauryan 
+EL unit in 2428, heading towards the same Square in 2628. The 
+Elephant is In Column (it must be to use Street movement), and 
+has more than enough MA to reach 2628. At the conclusion of its 
+movement, the EL unit reverts from Column to normal formation and 
+is faced 30 degrees to the vertex with hexes 2629/2728 (per 6.53). 
+Because EL units are prohibited from moving into Block terrain, 
+the unit could not have entered 2528 directly from 2428; it had to 
+traverse the Street through hex 2429.
+(12.26) Units in Block, Temple or Palace hexes are considered to 
+have “all-around” facing and may move into any adjacent hex by 
+expending the appropriate MP cost (see the City Effects Chart 12.21). 
+Units in Block, Temple or Palace hexes cannot be In Column. 
+(12.27) ZOCs do not extend into City Block, Temple, or Palace 
+hexes. Likewise, units in a City hex do NOT exert a ZOC into an-
+other City hex, and therefore cannot use Entry or Retire Reaction 
+Fire against enemy units (see 8.21 and 8.22).
+(12.28) Units outside the City Wall/Gate hexside do NOT extend a 
+Zone of Control (7.2) across/through these hexsides. Only Missile-
+armed units inside the city and adjacent to a Wall/Gate hexside, that 
+are not “Missile No”, exert a ZOC across these hexsides. 
+(12.29) Units in a City Block, Temple, or Palace hex may fire mis-
+siles in any direction. City Walls and Gates are blocking terrain for 
+LOS purposes (8.14). LOS, however, is not blocked to/from a unit 
+adjacent to a City Wall/Gate. City Block, Temple, and Palace hexes 
+block LOS. Missile Fire can be directed into such hexes but not 
+through them. City Streets and Squares do not block LOS. Thus a 
+Missile unit in a Palace hex could fire across the street at a unit in a 
+Temple hex. A Missile unit in a Street/Square hex may fire down a 
+row of City Street hexes if that route is a straight line (no shooting 
+around corners). Thus, an Archer in hex 2530 (Takshashila map) 
+could fire along the street into hexes 2631 and 2731, but not into 
+2732.	
+(12.210) Units in a City Block, Temple, or Palace hex may Shock 
+attack any, all, or none of the enemy units adjacent. Shock is never 
+mandatory for units in a City hex, nor are “Heavy” units required to 
+Shock if they move adjacent to an enemy unit in a City hex. A unit 
+cannot Shock attack into or across a hex/hexside it cannot enter. 
+(12.211) There is no Pre-Shock check for any Shock combat con-
+ducted inside the city; skip this step in the Shock procedure. Shock 
+attacking into/from most City terrain has an adverse column shift 
+as noted on the City Effects Chart. An attacking unit may never 
+gain Position Superiority against a unit in a City Block, Temple, 
+or Palace hex. 
+(12.212) A unit that Routs while inside the city is automatically 
+eliminated. The Player may Recover Hits in a City hex; treat as 
+clear for purposes of 11.13. Missile unit range/LOS do not prevent 
+Recovery for units in City Block, Temple, or Palace hexes, nor do 
+adjacent enemy units prohibit Recovery in those hexes.
+(12.213) Units may not retreat, rout, or withdraw across a City Wall 
+hexside. Gate hexsides may be crossed by either player if Breached. 
+If not Breached, the Gate hexside can be crossed only by the con-
+trolling player. The player who controls the Gate is the player who 
+has a unit in an adjacent hex inside the city, or was the last player to 
+occupy that hex. Control of Gates at beginning of game is defined 
+in the scenario instructions. 
+(12.214) Leaders can only issue Individual Orders to units within the 
+city. Leaders may only issue a Recovery order to a unit in the same 
+hex. Leaders may enter any City hex regardless of conveyance.
+ 
+
+(12.3) BREACHING FORTIFICATIONS
+(12.31) Breaching Camp Walls/Gates. Indians specifically trained 
+Elephants for this purpose—although it is not an easy task: 
+1.	The Elephant unit must begin the (non-Momentum) Orders Phase 
+with the camp wall in its front hexside(s), and cannot move or 
+change facing for the entire Phase. If it does so the Breach attempt 
+fails.
+2.	During the Resolve Breach Attempts segment in the Rout and 
+Recovery Phase, roll the die for each eligible unit. If the “target” 
+is a Camp Gate, it is breached on a roll of 0–4; if target is a Camp 
+Wall, it is breached on a roll of 0–2.
+3.	If the Wall or Gate is successfully breached, place a Breached 
+marker in the Elephant unit’s hex, with the arrow pointing towards 
+the breached hexside (attacker’s choice if more than one adjacent 
+hexside). The “breached” status remains for the duration of the 
+game. 
+(12.32) Destroying Camp Towers/City Gates is a special case, requir-
+ing two successful attempts by the Elephant unit:
+1.	Breaching Camp Towers/City (Takshashila) Gates requires that 
+the Tower/Gate first be Damaged, then Destroyed/Breached. This 
+requires two non-Momentum Orders Phases (Phases do not have 
+to be consecutive).
+2.	The Elephant unit must begin its Orders Phase adjacent to and 
+facing the Camp Tower hex, or (if the target is a City Gate) with 
+the City Gate in its frontal hexside. It cannot move or change fac-
+ing for the entire Phase. If it does so the Damage/Destroy/Breach 
+attempt fails.
+3.	During the Resolve Breach Attempts segment in the Rout and 
+Recovery Phase, roll the die for each eligible unit. On a roll of 0–3 
+the Tower/City Gate is Damaged; if it has already been Damaged, 
+then it is Destroyed/Breached. Place a “Damaged” or “Destroyed” 
+(Tower)/”Breached” (City Gate) marker, as applicable, on the 
+target hex. This status remains in effect for the duration of the 
+game.
+4.	Only Camp Towers can be destroyed; Takshashila City Walls 
+cannot be destroyed. Any units occupying a Camp Tower when 
+it is destroyed are automatically Routed. 
+(12.33) More than one Elephant unit can attempt to Breach/Destroy 
+the same target hex(side) at the same time. Each such unit would 
+perform a separate die roll during Rout and Recovery Phase. The 
+results upon the target gate/wall/tower are cumulative. 
+(12.34) Elephant units may fire missiles while conducting a Breach 
+or Damage/Destroy attempt with no penalty. During a Momentum 
+Phase, an Elephant unit may fire its missiles but it cannot use that 
+Phase to enable a Breach/Destroy attempt.
+(12.35) A Sarvatobhadra may be used to Breach a City Gate (only). 
+The Sarvatobhadra must be issued an Individual Order to do so by 
+a commander—Nayakas are not eligible. The procedure is:
+1.	The Sarvatobhadra must fire from a range greater than one hex—it 
+cannot do so from an adjacent hex.
+2.	The player must announce that he is firing his Sarvatobhadra upon 
+a gate. On a roll of 0–4 the gate is Damaged; if it has already been 
+Damaged, then it is Breached. Place a “Damaged” or “Breached” 
+marker, as applicable, on the target hex.
+3.	On any roll equal to or less than the number indicated on the 
+Sarvatobhadra line of the Missile Results Chart, all units in a hex 
+adjacent to the Gate hexside—including friendly units!—must 
+immediately make a TQ check. Units that fail take 1 Cohesion 
+Hit. Combat units are otherwise unaffected.
+(12.36) Breach Table. See Charts and Tables
+(12.4) RETIRE TO CAMP
+Indian forces had a predilection for fighting within close range of 
+their camps in order to retreat to the camp’s safety if “fate” was not 
+treating them well. This rule is used only in scenarios where the 
+Indian Camp, the city of Takshashila, or the Khasha strongholds 
+are in use. 
+(12.41) Retire to Camp applies only to the Indian army that controls 
+the camp, Takshashila city, or the Khashan mountain strongholds 
+at the beginning of the game; the opposing (or any foreign) army 
+cannot use Retire to Camp. 
+(12.42) To initiate a Retire to Camp, the Overall Commander of the 
+side controlling the camp/city/stronghold, must be within twice his 
+Command Range, in hexes, of a respective city gate, camp gate, or 
+the main Khasha stronghold (hexes 3309 or 3410). At the start of 
+his OC’s activation, the player declares that his army will Retire to 
+Camp. Once made, the declaration cannot be rescinded.
+(12.43) Retire to Camp is triggered as follows. Having made his 
+declaration per 12.42, on this activation and at the start of each 
+subsequent OC activation, the player must roll against his OC’s 
+Initiative, adding to the die roll the following:
+•	 If the OC is present inside a “Retire Target Area” add one (+1) 
+to the die roll. The Target Area is any hex within the camp’s 
+First Enclosure, one of the two Palace hexes of Takshashila, or 
+the main Khashas stronghold (hexes 3309–3410 on the Khashas 
+map), respectively. 
+•	 Add one (+1) for every ten friendly Rout Points accumulated
+If the adjusted die roll is higher than the OC’s Initiative, Retire to 
+Camp is triggered. If equal to or lower than his OC’s Initiative, the 
+OC is immediately Finished for the remainder of that Game Turn.
+(12.44) When Retire to Camp is triggered the following occurs:
+1.	The OC is restricted to Individual Orders only. One of the Individ-
+ual Orders issued by the OC must be used to either move himself, 
+or a unit with which he is stacked (see first and second bullets of 
+4.71), towards one of the Target Areas defined in the first bullet 
+of 12.43, above. The OC, or the unit with which he is stacked, 
+must expend the full MP allowance until the OC has reached the 
+Target Area. The path taken must be as direct as possible, bar-
+ring impassable terrain or enemy units (e.g. no dilly-dallying or 
+stopping at the bawdy house). This is considered a retreat by the 
+Overall Commander, and the spirit of the Retreat rules in 11.22 
+should be observed. 
+2.	Once reaching his OC target hex, the Overall Commander is re-
+leased from the command restriction of #1 above, though 12.214 
+applies to leaders inside Takshashila. However, for the remainder 
+of the game, the OC may NOT leave the confines of the Target 
+Area.
+
+Once the OC has reached his Target Area, the Victory Conditions 
+for the opposing player now change. To win the game, the oppos-
+ing player must now control the respective camp/city/stronghold 
+as defined in the scenario special rules. The “retiring” player’s 
+victory conditions do not change (i.e. he still must cause his enemy 
+to Withdraw).
+DESIGN NOTE: Originally this optional rule had been designed 
+as a form of mandatory Pre-Arranged Withdrawal. We believe the 
+rule as now written is more elegant and makes for more interesting 
+play. The player must now consider the timing and positioning of his 
+troops before making his declaration, and will be forced to reposi-
+tion his units according to the new circumstances of his opponent’s 
+changed victory conditions. 
+(13.0) ARMY WITHDRAWAL
+(13.11) A player wins by causing his opponent’s army to Withdraw. 
+An army will withdraw when it has reached its Withdrawal Level (as 
+given in the scenario instructions) at the end of the turn. During the 
+Withdrawal Phase, each player totals the number of Rout Points that 
+army/player has garnered from his eliminated units—this includes 
+units that have Fled (11.4) or have Routed off the map, as well as 
+any Killed leaders. 
+(13.12) In general, a unit is worth RPs equal to its TQ, with the 
+following exceptions: 
+•	 All Indian Tribal combat units are worth one (1) RP.
+•	 All Indian Sreni (Guild) combat units are worth two (2) RPs.
+•	 Skirmisher (SK) units are worth two (2) RPs.
+•	 All Indian Maula and Bhrta Light Infantry are worth one-half 
+their TQ, rounded up.
+•	 Phalanx and Hoplite/Heavy Infantry (Size 10) are worth twice 
+(2X) their TQ in Rout Points.
+•	 Artillery units are worth zero (0) RP.
+•	 Sreni, Tribal, and Nayaka Leaders are worth their Initiative Rating 
+in RP, all other Leaders are worth five times (5x) their Initiative 
+Rating in RP.
+(13.13) If an Army’s RP total is the same or higher than the With-
+drawal Level for that army in that battle, it has surrendered the 
+battlefield and that player has lost the battle. 
+(13.14) If both sides reach Withdrawal Level at the end of the same 
+turn, the player with the least number of RPs above that level wins 
+(but just barely). If both sides are exactly the same, it’s a draw.
+Clarification: EL units are worth RPs equal to their TQ.
+(14.0) OPTIONAL RULES
+(14.1) DHARMAYUDDHA
+HISTORICAL NOTE: Dharmayuddha, or “just” warfare, was a 
+military code approaching laws of war. It essentially prohibited 
+flanking attacks or attacks by units of one arm of the military against 
+units of a weaker or “lesser” (in the hierarchy) arm. Observing 
+Dharmayuddha—or violating it when one has pledged to abide by 
+it—may raise or lower a player’s Withdrawal Level.
+(14.11) Only Indians may adopt Dharmayuddha. Foreign armies 
+(e.g. Greek) may not do so.
+(14.12) Before play begins, the player(s) controlling an Indian Over-
+all Commander must indicate, in secret, whether he will abide by 
+Dharmayuddha. The player simply writes “yes” or “no” on a scrap 
+of paper, folds it so that it cannot be read by his opponent, and sets 
+it aside. Note that if both players control an Indian OC both must 
+make this choice.
+(14.13) Until the player’s “pledge” is revealed, all of his forces, re-
+gardless of class, must abide by the following combat restrictions:
+•	 Units that undertake Shock combat or fire missiles may do so 
+through an enemy’s front hexsides only; they may not Shock from 
+(or fire missiles through) a unit’s rear or flank hexes even if the 
+unit is in their ZOC (note this exception to 9.12). Normal ZOC 
+rules still apply.
+Exception: Cavalry and Chariots may Shock and Missile Fire at 
+Elephants through the EL’s flank hexes.
+•	 Orderly Withdrawal is not allowed with the exception that Cavalry 
+and Chariots may withdraw if approached by an Elephant per 
+10.16.
+•	 Furthermore, Shock combat may not be initiated by a friendly 
+unit against a “subordinate” enemy unit, as per the table below:
+	 	
+	
+ 	
+ 
+EL,elCH
+Cavalry
+Chariot
+MI
+LI
+El,elCH
+Cavalry
+Chariot
+MI
+LI
+	 	
+A = Attack allowed
+	 	
+P = Prohibited
+	 	
+* = See Exception #2 below.
+ 
+Exception #1: Units are prohibited from initiating Shock with a 
+subordinate unit, but are not exempt once they have already been 
+Shock attacked by a subordinate unit, and they still remain in that 
+(“inferior”) unit’s ZOC.
+PLAY NOTE: In other words, if in the ZOC of a subordinate unit 
+that has attacked it in the preceding Combat Phase, the “superior” 
+unit may conduct Shock against it (use a “Shock—No Check” coun-
+ter to keep track). Once the subordinate unit has moved away, the 
+exception is rescinded.
+Exception #2: Infantry that are part of a combined EL/Infantry or 
+CH/Infantry line (4.33) are not treated as “Infantry LI” for purposes 
+of Dharmayuddha. Instead, treat them as EL or CH, respectively.
+(14.14) A unit that “Must Shock” per 7.31 may only move into a 
+hex adjacent to a Prohibited enemy unit (i.e. that is “P” for it on the 
+Dharmayuddha table) by expending an additional two (+2) Move-
+ment Points to enter that hex. It ignores the Must Shock requirement 
+for any “P” units that are in its ZOC. The +2 MPs are not cumulative 
+to the number of enemy “P” units adjacent. 
+(14.15) A player’s Dharmayuddha “pledge” may be revealed volun-
+tarily, during the Orders Phase of any one of his activated leaders. 
+The pledge cannot be revealed on the first turn of the game. Once 
+he has revealed his “pledge” to his opponent, the player is free from 
+the restrictions of 14.13 (though he may incur penalties for violating 
+them; see below). 
+
+(14.16) If he has not voluntarily revealed his pledge, a player must 
+reveal his pledge during the Withdrawal Phase that his forces reach 
+their Withdrawal Level (per 13.11).
+(14.17) When a player reveals his pledge, the following awards or 
+penalties apply:
+•	 If during his leader’s Orders Phase (per 14.15) a player reveals 
+he has pledged “yes” to Dharmayuddha and then (or any time 
+thereafter) proceeds to violate the restrictions of 14.13, his With-
+drawal Level is reduced by 10% (rounded up) at the subsequent 
+Withdrawal Phase, after Rout Points of his eliminated units have 
+been tallied.
+•	 If a player who has obeyed the restrictions of 14.13 reaches his 
+Withdrawal Level, and reveals that he had pledged “yes,” his 
+Withdrawal Level is increased by 15% (rounded up), after Rout 
+Points are tallied.
+•	 A player that has pledged “no” gains no penalty or Withdrawal 
+Level benefit.
+PLAY NOTE: A player may pledge “no,” observe the restrictions of 
+Dharmayuddha nonetheless, and yet never have to reveal his pledge 
+(because his opponent reaches Withdrawal Level first). Bluffing is 
+encouraged.
+(14.18) Tribal units are altogether exempt from Dharmayuddha. 
+Tribal units (only) may voluntarily conduct Shock free from the 
+restrictions of 14.13 and have no impact on the owning player’s 
+commitment to the pledge.
+HISTORICAL NOTE: Though mentioned from the Epic period 
+through to the Mauryan era, it is not certain to what extent Dhar-
+mayuddha was practiced. It least with some Indian leaders—and 
+among the kshatriya caste—obeying the rules of “just war” was a 
+matter of personal pride akin to the Roman concept of battlefield 
+“honor.” At any rate, confrontation with foreigners and the impe-
+rial ambitions of the Mauryans tended to endorse its opposite—
+“Kutayuddha,” or “unjust” war.
+ 
+ 
+(14.2) RANDOM SELECTION OF GUILDS 
+(SRENI) and TRIBALS
+DESIGN NOTE: While specific military guilds (e.g. Artisans, Silk 
+Weavers, etc.) are mentioned frequently in the sources, which guilds 
+fought for which side in which battle simply is not known. It is likely 
+that independent guilds of the same trade were found among all the 
+kingdoms and city-states of India, and their loyalties were parochial. 
+The situation is the same for the Tribals—we have tribe names and 
+know the part of the country they lived in, but no telling on whose side 
+they may have fought. It’s likely that they changed sides, or avoided 
+fighting altogether, according to expediency (i.e. survival). This rule 
+allows the players to “choose their own” Guilds and Tribes—a 
+method not much more informed than the designer’s. 
+(14.21) Before the game begins, all available Guild and Tribal Chiefs 
+from the counter mix are placed in a cup. Players draw counters from 
+the cup, rolling the die to determine who goes first. Whatever Chief 
+the player draws, that is the Guild or Tribe available to him for the 
+game. The players repeat, alternating their draws until a number of 
+Guilds and/or Tribes equal to the OOB have been drawn for each 
+player. If a player’s OOB lists Guilds only and no Tribes, and he 
+draws a TC, he returns the TC to the cup and draws again until he 
+selects a Guild Chief (and vice-versa, if he has Tribes only). If a 
+player has no Guilds or Tribes in his OOB, he does not draw. 
+(14.22) Use a “free setup” for Guilds when this optional rule is used. 
+The player(s) may choose to set up their Sreni units and leaders 
+anywhere on the map on or behind the forward-most hex row (facing 
+the opponent) of the scenario’s original deployment scheme. 
+(14.23) Variant. The player controlling Chanakya (if Chanakya is in 
+play) may demand a re-draw if he does not like the selection he (or 
+his opponent) has made. Roll against Chanakya’s Charisma Rating; 
+if the die roll is the same or lower, all Chief counters are returned 
+to the draw cup and then re-drawn, per 14.21. If higher, there is no 
+re-draw and Chanakya is Finished for the entire first Game Turn. 
+Limit is one re-draw attempt per game.
+Fin.

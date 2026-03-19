@@ -1,0 +1,41 @@
+AVALAM BITAKA
+Copyright (c) 1995 Philippe Deweys
+This game is played on the following board.
+Using my diagram editor...
+STACK - A stack of 1 to 5 stones of either color.
+A stack with more than 5 stones is invalid.
+A stack belongs to the player with the color of the top
+stone.
+TURN - On each turn, each player may move any stack (of
+either color) to any adjacent (orthogonal or diagonal) cell which
+is occupied by another stack, providing that the final stack is
+valid.
+GOAL - The game ends when no more legal moves can be
+made, i.e. all the stacks are isolated, or there are no valid
+moves.
+Games of Towers - AVALAM BITAKA
+http://homepages.di.fc.ul.pt/~jpn/gv/avalam.htm
+1 of 2
+21/08/2008 9:32 PM
+
+The winner is the player who owns more stacks.
+An example
+Since stacks cannot have more that 5
+there is only one possible move for th
+4-stack, moving north up to the black
+stack.
+Some words from Stephen Taverner's review - [...] after a couple of games, you realise
+that most of the time you want to move your opponent's counters on top of each other
+rather than move your own pieces - this reduces your opponent's available moves, and
+at the same time, you can attempt to draw your opponent's counters away from your
+own. The next thing you find is that you can create little pockets of your own counters
+(or a majority of your own counters), which are guaranteed to become your towers at a
+later stage in the game. This makes the corners of the board very desirable. The other
+thing I have noticed is that once towers start forming, interesting situations occur.
+Strange deadlocks occur when lots of towers of size 2 are next to each other, for
+instance (moving any of these towers will usually allow your opponent to make a safe
+tower of size 5).
+Games of Towers - AVALAM BITAKA
+http://homepages.di.fc.ul.pt/~jpn/gv/avalam.htm
+2 of 2
+21/08/2008 9:32 PM

@@ -1,0 +1,2304 @@
+Game Design: Ed Beach
+Multi-Player Rulebook
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308 • www.GMTGames.com
+Anglo-Scottish Border Raids
+1513-1603
+
+1.0 Introduction......................................................................3
+1.1 Key Definitions................................................................3
+2.0 Components.......................................................................3
+2.1 Map..................................................................................4
+2.2 Card Decks Display.........................................................5
+2.3 Victory Track....................................................................6
+2.4 Family Sheets...................................................................6
+2.5 Permanent Defense Tokens..............................................6
+2.6 Defense Tokens................................................................7
+2.7 Livestock..........................................................................7
+2.8 Summer Cards..................................................................7
+2.9 Event Cards......................................................................8
+2.10 Warden Cards.................................................................8
+2.11 Target Cards....................................................................8
+2.12 Attack Indicators............................................................8
+2.13 Cubes..............................................................................8
+2.14 Trait Cards (Advanced Rule).........................................8
+2.15 Unused Components......................................................9
+3.0 Setup..................................................................................9
+3.1 Changes for 2- or 4-Player Games...................................9
+3.2 Family Selection..............................................................9
+3.3 Family Sheets...................................................................9
+3.4 Map..................................................................................9
+3.5 Randomization Cups........................................................9
+3.6 Cards................................................................................9
+4.0 Sequence of Play.............................................................10
+5.0 Summer............................................................................10
+5.1 Recruit............................................................................11
+5.2 Play.................................................................................11
+5.3 Hold................................................................................11
+5.4 Discard...........................................................................11
+5.5 Default Actions..............................................................11
+5.6 Sixth Round....................................................................12
+5.7 Abbot of Kelso/Keeper of Tynedale...............................12
+6.0 Autumn............................................................................12
+6.1 Economic Update...........................................................12
+6.2 Draw Events...................................................................12
+6.3 Place Defenses...............................................................12
+7.0 Winter..............................................................................12
+7.1 Determine Order............................................................13
+7.2 Select Target Card..........................................................14
+7.3 Place Notoriety...............................................................14
+7.4 Select Final Target..........................................................14
+7.5 Compute Combat Dice...................................................15
+7.6 Resolve Combats............................................................16
+7.7 Recalculate Turn Order..................................................18
+7.8 Repeat for Second Combat............................................18
+7.9 Battle Awards.................................................................18
+8.0 Spring...............................................................................18
+8.1 Reset...............................................................................18
+8.2 Score VP.........................................................................19
+8.3 Bonus Actions................................................................19
+9.0 End Game Scoring..........................................................19
+9.1 Livestock Scores............................................................19
+9.2 Selecting the Winner......................................................19
+9.3 Breaking Ties.................................................................19
+10.0 Advanced Rules.............................................................20
+10.1 Traits (4- or 6-Player Game Only)...............................20
+10.2 Wildcard Target Card...................................................20
+10.3 Balanced Summer Card Passing 
+ (3- or 6-Player Game Only).........................................20
+Example of Play....................................................................21
+Border Reiver Names...........................................................25
+Key Terms Index...................................................................26
+Score Sheet............................................................................28
+Table of Contents
+
+1.0 Introduction
+IMPORTANT NOTE: This set of rules is used only when 
+there are two or more players. If you are playing the game 
+solo, put this booklet back in the box; you won’t be using it. 
+Use the “Solo Rulebook” instead.
+“In the story of Britain, the Border Reiver is a unique figure. 
+He was not part of a separate minority group in his area; he 
+came from every social class. Some reivers lived in outlaw 
+bands, but most of them were ordinary members of the com-
+munity, and they were everywhere in the Marches … He was a 
+fighting man who, on the evidence, handled his weapons with 
+superb skill; a guerilla soldier of great resource to whom the 
+arts of theft, raid, tracking and ambush were second nature 
+… For many generations he and his people formed a lawless 
+state within, or between, two countries, and in spite of all that 
+was done for their suppression, and the complicated interna-
+tional arrangements that were made for their regulation, they 
+flourished until England and Scotland came under one king.”
+Steel Bonnets: The Story of the Anglo-Scottish Border 
+Reivers by George MacDonald Fraser
+Multi-player Border Reivers is a game for up to six players that 
+places you in the midst of the raids and battles that occurred 
+along the border between England and Scotland during the 
+16th century (from the Battle of Flodden Field in 1513 CE to 
+the unification of these kingdoms by James I in 1603 CE). Each 
+player leads one or two of the major families of the Borders in an 
+attempt to become the most notorious Border Reiver in the land.
+1.1 Key Definitions
+Family
+A Family is one of the most prestigious kinship groups (known 
+as a “grayne” in the Borders region) that fought for control of 
+the Borders during this historical period. Each Family is based 
+in a geographic region called a March.
+Player
+A player is one of the human participants in the game. When 
+playing with 4 or 6 players, each player controls a single Family. 
+If playing with 2 or 3 players, each player controls two of the 
+Families. Games with 2 or 4 players also must remove the Grey 
+and Hume Families from play.
+	
+Players	
+Families Controlled	 Families Removed
+	
+Grey, Hume
+	
+None
+	
+Grey, Hume
+	
+None
+2.0 Components
+“In an attempt to impose some degree of law and order on what 
+had become an anarchic society, both kingdoms had agreed to di-
+vide their Border territories into East, West and Middle Marches 
+and appointed wardens and keepers to govern and police them. 
+Between the west marches of each kingdom, however, was a nar-
+row strip of territory known as the Debateable Land. Although 
+both kingdoms hotly contested ownership of this small piece of 
+ground, neither of them was prepared to take responsibility for 
+the crimes of the inhabitants.”
+Strongholds of the Border Reivers: Fortifications of the 
+Anglo-Scottish Border 1296-1603 by Keith Durham
+The game takes place on a 22" x 34" map of the Borders in the 
+16th century. The map is divided into the six Border Marches, 
+administrative districts (established by the treaty in 1249 CE 
+between Henry III of England and Alexander III of Scotland) 
+that served as a buffer zone between the two warring kingdoms. 
+Each player takes responsibility for building the strength and the 
+defenses of their March(es), furthering their ability to raid other 
+players and protect their holdings. Detailed information about 
+map elements and other game components is provided in this 
+section of the rulebook. 
+NOTE: All terms defined in this section (March, Farm Region, 
+Town, etc.) appear capitalized throughout the rulebook so 
+players can know at a glance which items are explained here 
+(in case they need to refer back to this section at a later time). 
+A full index of these key terms (and the sections where they 
+are defined) is provided at the end of this rulebook.
+Component List
+A complete game of Border Reivers contains: 
+1 Mounted Map (22"×34")
+136 Main Deck Cards 
+60 Mini-Deck Cards 
+90 Wooden Cubes 
+60 Wooden Sheep Meeples 
+42 Wooden Horse Meeples 
+2 Countersheets 
+1 Multi-Player Rulebook (this manual) 
+1 Solo Rulebook 
+1 Book of Historical Notes 
+6 Family Sheets (8½"×11") 
+6 Reference Charts (8½"×5.5") 
+1 Card Decks Display (8½"×11") 
+1 Victory Point Track (8½"×11") 
+20 six-sided dice
+
+2.1 Map
+The game map shows the principal sites of the Anglo-Scottish 
+border region in the 16th century. To one side of this main play 
+area are six boxes used to help track combats.
+2.1.1 Scottish Borders Map
+The main section of the map shows the border region and con-
+tains six Marches and the Debateable Land. Embedded within 
+each March are a number of regions and boxes, all described 
+below.
+Marches
+Marches are surrounded by thick brown borders, with a darker 
+line along the border between England and Scotland.
+Each March contains:
+•	 1 Notoriety Track
+•	 4 Farm Regions
+•	 4 Permanent Defense sites
+•	 1 Town (with a Gaol)
+•	 1 Family Seat (with Feud box)
+•	 1 Battlefield
+Each March serves as the “Home March” for a specific family. 
+Marches are often referred to with a three-letter abbreviation, 
+and each family/march pairing is assigned a specific color. 
+	March Name	
+Family	
+Abbreviation	 Color
+	English West March	
+EWM	
+	English Middle March	
+EMM	
+	English East March	
+EEM	
+	Scottish West March	
+SWM	
+	Scottish Middle March	 Kerr	
+SMM	
+	Scottish East March	
+SEM	
+Debateable Land
+The Debateable Land sits 
+between the English and 
+Scottish West Marches. 
+This special case March 
+contains only a Notori-
+ety Track and 1 Farm 
+Region. Since it is dis-
+puted territory, ungoverned by either kingdom, Raids here are 
+undefended (until the Summer Card Scots’ Dyke is played). 
+The Debateable Land is a March for Notoriety tracking and 
+scoring only; not for any other purpose. Additionally, it is 
+never considered to be a part of England or Scotland.
+Notoriety Tracks
+Each March (including the Debateable Land) has a track to re-
+cord the current level of Notoriety each Family enjoys with the 
+people of that March. The “3” space is highlighted to indicate 
+the initial Notoriety level of each Family in their Home March. 
+Cubes from the Families in the game are advanced along these 
+tracks as they gain Notoriety during play. The Families in first 
+or second place on these tracks are awarded VP at the end of 
+each turn and extra dice when making attacks in this March. 
+Farm Regions
+The four named, irregularly-
+shaped regions that appear 
+within each March are Farm 
+Regions. Farm Regions may 
+contain Sheep, which increase 
+the economic value of the re-
+gion but also make it a juicier 
+target for Raids by enemy 
+players. Each Farm Region can be defended by the 1 to 3 adjacent 
+Permanent Defense sites and by placing a Defense Token in the 
+box with the green border and shepherdess symbol. 
+Permanent Defenses
+Each March has four sites for Permanent 
+Defenses marked with defensive tower 
+symbols: one of the four is a castle with 
+arrows extending in each cardinal direc-
+tion; the other three are simpler towers 
+known as Peels. Permanent Defense Summer Cards trigger the 
+activation of these defenses which is shown by placing the coun-
+ter with the matching name over the printed symbol.
+CASTLE GARRISON: Activating a castle with a defensive gar-
+rison provides two defense dice that protect against Raids on 
+the two adjacent Farm Regions.
+PEEL: Activating a Peel provides one defense die protecting 
+against Raids on the two adjacent Farm Regions.
+
+Towns
+The box with a Gaol in each March is its 
+Town—the municipal seat where captured 
+reivers are retained. The Town contains a 
+Gaol box with a handcuff symbol where 
+Cubes from other Families are stored 
+when they have had reivers captured in 
+Raids on this March. A second box with 
+a militia symbol is present to hold a De-
+fense token allocated to protect against 
+Gaolbreak attacks. Two Towns on the map 
+(Carlisle and Berwick) are Walled Towns, 
+as indicated by an extra gray box and die symbol around their 
+Gaol; players controlling such a March roll 1 extra Defense die 
+against Gaolbreaks.
+Family Seat
+The box with a gray-roofed tower house 
+in each March is its Family Seat which 
+represents the ancestral castle of the 
+family in charge of this March. The Fam-
+ily Seat contains a “Feuds with” box. 
+Cubes from other families are stored 
+here if the owner of this March stole Livestock from those 
+families. A second box with a militia symbol is also present to 
+hold a Defense token allocated to protect against Feud attacks. 
+Battlefield
+The final element present in each March is 
+a card-sized, rectangular battlefield where 
+an important military action occurred be-
+tween English and Scottish armies during 
+the Border Reiver period. Each Battle may 
+occur once during the game and is triggered 
+when its corresponding Event Card (2.9) is 
+drawn.
+2.1.2 Livestock Boxes
+Near each March’s 
+Notoriety track are 
+three boxes used by 
+players to store 
+their Horses, Cattle, 
+and Defense To-
+kens. Players must 
+always display the 
+Cattle owned by the 
+family—as well as 
+any Horses not al-
+located to a current attack—in these boxes so the other players 
+can review that family’s capabilities. When not in use during 
+Autumn and Winter, Defense Tokens are stored face down in 
+their box in a manner so other players can count how many this 
+family possesses but cannot see what they are.
+2.1.3 Winter Combat Area
+To one side of the map is the Winter Combat Area, which serves 
+as a playaid helping players through each half of Winter. This 
+area includes six ordered, card-sized boxes, one for each family to 
+use when they designate the Target Card they have allocated for 
+each attack. Section 7.0 provides full detail on using these boxes.
+2.2 Card Decks Display
+The Border Reiver Card Decks playaid holds the cards (2.8, 2.9, 
+2.10, 2.11) and warden tokens (2.6) that are drawn or discarded 
+during play. Some of the piles of cards on this deck may be re-
+viewable, as detailed below:
+The Border Reivers Card Decks playaid
+EVENT DECK: Face-down deck of Event cards that have not yet 
+come into play (2.9). This pile cannot be reviewed by the players 
+(Exception: The top two cards can be peeked at by a player who 
+recruits the Warden Alexander Hume.)
+EVENT DISCARDS: Face-up discard pile of Event Cards from 
+previous turns. Any cards in this pile are effectively out-of-play; 
+these discards remain accessible to the players, if they wish to 
+review the events that have occurred. 
+
+TARGET DISCARDS: Face-up discard pile of Target (2.11) and 
+Warden (2.10) cards expended by players. Any cards in this pile 
+are effectively out-of-play; these discards remain accessible to the 
+players, if they wish to review the targets that have been selected.
+SUMMER CARDS OUT-OF-PLAY: Face-up pile of Summer 
+Cards (2.8) that are now out-of-play because they were Played 
+(5.2) or a newly Recruited (5.1) card knocked them out of the 
+game. Cards in this pile have been removed from the game and 
+you are not allowed to review them (since this just slows play 
+down without giving players any particularly relevant informa-
+tion). You may want to put the Day of Truce Summer Card on 
+the top of this pile if it is played on Turn 1 or 2 since recruitment 
+of a Warden later in the game may allow this card to reenter play.
+SUMMER CARDS DISCARDS: Face-down discard pile of 
+Summer Cards that were Discarded (5.4) and may reenter play 
+later as the result of the Offices Abbot of Kelso and Keeper 
+of Tynedale, as a consequence of the Double Cross Summer 
+Card, or if selected by the family in last place during Spring. 
+These cards may be reviewed only when you have triggered one 
+of these occurrences and you are about to put one of these cards 
+back into play.
+2.3 Victory Track
+A separate cardstock card contains the track used to show each 
+family’s current Victory Point (VP) total using one of their Cubes. 
+Families who have scored 100 or more VP should place a second 
+Cube in the “+100” box to the right of the track to show that 
+their score is 100 plus the total shown by the first Cube. Families 
+ranked near the bottom in VP receive extra actions in the Spring 
+at the end of Turns 1 and 2. VP order is also used to establish 
+the Winter turn order on Turns 2 and 3. 
+2.4 Family Sheets
+The current possessions of each family are tracked on their 
+Family Sheet. All six Family Sheets are identical, only differing 
+in the family name, crest, and color. 
+ATTACK DICE BOXES: The upper 
+left corner of the sheet contains boxes 
+used to compute the dice you are to roll 
+in an upcoming attack (Section 7.0). Fill each of 
+these boxes with either the die symbol counters 
+or actual dice to represent how many rolls of each type you will 
+be taking. 
+DEFENSE DICE BOXES: The upper right corner of the sheet 
+contains four boxes used to compute the dice you are to roll in 
+defense against an attack (Section 7.0).
+SHEEP ON MAP TRACKER: The very top 
+of each sheet houses a single Sheep on Map 
+marker that starts the game at 4 and moves 
+back and forth across the columns of this tracker when you add 
+or lose Sheep from the map. Read down from the Sheep marker 
+to see how many Horses and Held cards you can retain during 
+Autumn, or how many Cattle you gain during Autumn. If you 
+recruit one of two specific Offices (Abbot of Jedburgh or 
+Prior of Hexham) a new marker reflecting the Office replaces 
+the Sheep on Map marker and is offset two columns to the right.
+The Dacre Family Sheet (player aid card)
+SINGLE CARD DISPLAYS: The Reiver, Warden, Allied Grayne 
+#1, Office #1, and Office #2 or Allied Grayne #2 boxes are each 
+used to display a single card that the family has Recruited (5.1) 
+during Summer. Cards in these boxes are always face up so all 
+players can view the bonuses they provide.
+HELD CARD BOX: The bottom right corner of each Family 
+Sheet contains a facedown pile of any cards that the family has 
+Held (5.3) but not yet used during Winter or Spring. Cards in this 
+box may be held for more than 1 turn (i.e., a card held on Turn 
+1 can be saved to be played during Winter or Spring of Turn 3).
+2.5 Permanent Defense Tokens
+A number of Permanent Defense 
+Summer Cards may be Played to 
+allow families to add Defense To-
+kens to the Castle and Peels of 
+their March. Each player starts 
+with their four Permanent Defense Tokens off-map in front of 
+them until the appropriate card brings them into the game.
+
+2.6 Defense Tokens
+Each family starts the game with 
+two Defense Tokens: one Deputy 
+Warden and one Rumor, and play-
+ers can add more during play. 
+Families gain a specific Defense 
+Token if they Recruit (5.1) a War-
+den and they gain randomly cho-
+sen Defense Tokens if they Play 
+(5.2) a Defense Token card. The 
+color and number of dice at the bottom of a Defense Token show 
+where it may be placed and how many defense dice it adds. 
+Tokens with green dice symbols may be placed to defend a Farm 
+Region from Raids; tokens with gray dice symbols may be placed 
+in a Town or Family Seat to defend against Gaolbreaks or Feuds 
+respectively. Tokens with text in this area (“No Defense Dice”, 
+“Attack Dice Halved”) may be placed in any defensive location.
+2.7 Livestock
+The three types of Livestock in the game represent each family’s 
+wealth in terms of liquid purchasing power (Cattle), overall 
+economic strength (Sheep), or ability to project offensive power 
+(Horses). Families gain Livestock by taking the Play action with a 
+Livestock Summer Card or by invoking certain Default Actions. 
+Families can gain Cattle and Sheep when successful in a Raid, 
+or Horses when successful in a Gaolbreak. Each family scores 
+VP for the Livestock they own at the end of the game. Keep a 
+pool of available Livestock tokens of each type in reach of all 
+players so they can add and remove Livestock easily during play.
+2.7.1 Cattle
+DESCRIPTION: Cattle are used as 
+the currency in the game and you 
+will spend Cattle to Recruit or Play 
+Summer Cards or to increase the 
+effectiveness of some Allied Graynes. You gain Cattle auto-
+matically each Autumn based on the number of Sheep that you 
+possess. Cattle can also be added when certain Summer Cards 
+are Played or as the result of a successful Raid. Finally, 1 Cattle 
+is gained each time you hold a card during the Summer card 
+drafting. Cattle come in two denominations (1 and 5).
+PLACEMENT: Cattle are placed in public view in the Cattle box 
+on the edge of the map near your March.
+VALUE: Cattle are the least valuable type of livestock, worth 1 
+VP for every 2 Cattle at the end of the game.
+2.7.2 Sheep
+DESCRIPTION: The number of Sheep present 
+in a Farm Region depicts the Family’s relative 
+wealth. Possessing more Sheep in your Farm 
+Regions allows you to gain more Cattle in the 
+Autumn, to keep more cards in your hand, and to 
+support a larger herd of Horses. 
+PLEASE NOTE: Animal “meeples” may vary slightly in ap-
+pearance from those shown in this manual.
+PLACEMENT: Families start the game with 1 Sheep in each 
+Farm Region but can gain or lose Sheep in a region through 
+play. Place Sheep in a cluster within the Farm Region near the 
+Farm Defense token box. Sheep standing up in a Farm Region 
+are unprotected and can be stolen during Raids. Sheep flipped 
+down onto their side are protected by a Bastle (stone farmhouse) 
+and are not harmed when Raids target this region.
+VALUE: Sheep are twice as valuable as Cattle, worth 2 VP for 
+every 2 Sheep at the end of the game.
+COMPONENT NOTE: Additional Sheep 
+counters have been provided for the unlikely 
+case where all the wooden pieces have been 
+used. These additional sheep are two-sided to 
+represent their unprotected and bastled states.
+2.7.3 Horses
+DESCRIPTION: Horses represent the number of 
+horsemen your family may put in the saddle to 
+attack other families or fight Battles. Each Horse 
+present in a combat gives you 1 extra combat die.
+PLACEMENT: Horses are placed in the Horses box on the 
+edge of the map near your March. Standing Horses in this box 
+are available for offensive use; Horses on their side have already 
+been expended this turn. Horses are moved to a target region 
+just before adding dice to an attack.
+VALUE: Horses are the most valuable type of livestock, worth 3 
+VP for every two Horses at the end of the game.
+COMPONENT NOTE: Additional Horse 
+counters have been provided for the unlikely 
+case where all the wooden counters have been 
+used. These additional horses are two-sided to 
+represent their unused and expended states.
+ 
+2.8 Summer Cards
+Each turn starts with Summer, when families simultaneously 
+draft cards to increase the power of their holdings. A unique set 
+of Summer Cards is used for each of the turns: 
+Summer Cards come in three distinct types: Recruit, Play, and 
+Hold cards. Within each of the types are various subtypes, each 
+marked with a unique symbol as shown in the following table:
+
+Type	
+Subtype	
+Symbol
+Reiver	
+Warden	
+ 
+Office	
+ 
+Allied Grayne	
+ 
+Defense Token	
+ 
+Livestock	
+ 
+Permanent Defense	
+ 
+Bastle	
+ 
+ 
+Attack	
+ 
+Defense	
+ 
+Target	
+ 
+Border Ballad	
+ 
+In the upper right is the card’s subtype 
+symbol and an indication of how 
+many Cattle (if any) are gained or 
+expended by playing the card. The 
+lower left corner shows whether this 
+card is always included in a 4-player 
+game (“4P”), sometimes added (“?”), 
+or not included (blank field). The 
+lower right corner lists the card’s 
+number within the full set of 126 
+Summer cards. Below the card’s title 
+is the descriptive text that explains the 
+card’s effect and any conditions for play. Finally, the bottom of 
+the card contains a colored stripe showing how this card is 
+played by your opponents during a Solo game. Ignore this stripe 
+when playing a Multi-Player game.
+2.9 Event Cards
+A deck of 12 Event cards is 
+used to trigger key histori-
+cal events that impacted the 
+Anglo-Scottish border dur-
+ing the 16th century. These 
+Events allow the players to 
+capitalize on short-term 
+opportunities like gaining 
+Notoriety and VP fighting 
+in Battles, receiving rerolls on combat dice due to national sup-
+port for reiver activities, or gaining extra Notoriety for actions 
+that are in vogue during a certain turn of the game. Three Events 
+are drawn each turn during Autumn (reduced to just two Events 
+in a 2-player or a 4-player game).
+2.10 Warden Cards
+Each family receives a single Warden card 
+during setup. This single-use card can be 
+played to rearrange your Defense Tokens and 
+gain a +1 die roll modifier just prior to a Raid, 
+Feud, or Gaolbreak attack that targets your 
+March.
+2.11 Target Cards
+Six Target Cards are provided to each family 
+during game setup. Two of these cards are 
+expended each Winter (and removed from 
+play), one for each of the two rounds of com-
+bat that occur during that season. The Target 
+Cards for each family come in six different 
+types, and these cards represent the various 
+roles that a well-rounded reiver would find 
+themselves playing during their lifetime. 
+Those card types are: Reiver, English/Scottish, supporting their 
+family, and targeting either the Opposite March, a Cross-Border 
+March, or a Same Side March. 
+2.12 Attack Indicators
+Each family is given a set of two double-sided 
+Attack Indicators that are used to designate which 
+attack target that family has selected and to show 
+whether that combat has been resolved.
+2.13 Cubes
+A set of 15 wooden Cubes that matches a family’s color is given 
+to each family during setup. These Cubes are used for a variety 
+of game purposes, including: marking Feuds with other families, 
+marking when this family has had reivers captured who are in 
+Gaol in another March, tracking VP and Notoriety levels in each 
+March, and marking the turn order for Winter.
+2.14 Trait Cards (Advanced Rule)
+Six Trait cards can be added to the game for 
+experienced players to provide the most bal-
+anced game possible (for example in a tourna-
+ment setting). See Section 10.0 for details.
+
+2.15 Unused Components
+The following components are only used in Solo games and can 
+be ignored when setting up a Multi-Player game:
+•	 All 32 Farm Region Tokens
+•	 Back side of all Family Sheets (which contain playaids for 
+Solo games)
+•	 The 10 Summer cards with a brown stripe labeled SOLO 
+CARD at the bottom
+3.0 Setup
+Follow these steps to prepare for a Multi-Player game of Border 
+Reivers.
+3.1 Changes for 2- or 4-Player Games
+If playing with two or four players, remove the following game 
+components before continuing with the setup:
+•	 HUME and GREY: Remove the Family Sheets, Cubes, 
+Permanent Defense Tokens, Target Cards, and Warden 
+Cards for these two families.
+•	 DEFENSE TOKENS: Remove the 11 Defense Tokens that 
+do not possess a “4P” designation on them.
+•	 CARDS: Remove the eight cards for each turn that do not 
+possess either a “4P” or “?” designation from each set of 
+Summer cards. Randomly add in 10 of the 16 cards with 
+a “?” designation so each Summer card set has 28 cards. 
+Remove the cards Flodden Field, Haddon Rigg and 
+Border Beacons from the Event deck.
+Do not add Sheep to the English East March or Scottish East 
+March during the map setup; these two Marches are out-of-play 
+in a 2- or 4-player Game.
+3.2 Family Selection
+4- OR 6-PLAYER GAME: Each player chooses one of the avail-
+able families, either at random or due to personal preference 
+(perhaps due to family genealogy?).
+3-PLAYER GAME: Each player chooses one of the English 
+families. Then pair a Scottish family with these English families 
+as follows (Dacre with Kerr, Fenwick with Hume, Grey with 
+Maxwell).
+2-PLAYER GAME: One player chooses to play Dacre and Kerr. 
+The other player receives Maxwell and Fenwick.
+Give each player the Family Sheet, Cubes, Permanent Defense 
+Tokens, 6 Target Cards, 1 Warden Card, and 2 Attack Indicators 
+for each family that they are controlling. They also should each 
+receive one of the 6 Reference Charts.
+3.3 Family Sheets
+Place your Family Sheet near your Home March. Add your 
+“Sheep on Map” marker on the highlighted “4” space (Exception: 
+Place on the “5” space if this is a 3- or 6-player game and this is 
+the Fenwick Family Sheet).
+3.4 Map
+Setup the map as follows:
+•	 Place 1 Sheep standing up in each Farm Region.
+•	 Place a second Sheep standing up in the Farm Region in 
+the Debateable Land.
+•	 Place the available Warden Defense Tokens (7 in a 2- or 
+4-player game; 8 otherwise) face up in their box in the 
+upper right corner of the Card Decks Display.
+Add these items to the map for each family in play:	
+•	 Place 3 Horses standing up in your Horse box.
+•	 Place 8 Cattle (one 5, three 1s) in your Cattle box.
+•	 Add a Deputy Warden and a Rumor Defense token in your 
+Defense Token box.
+•	 Place 1 Cube on the 0 space of the Victory Track.
+•	 Place 1 Cube in the 3 space of that family’s Home March 
+Notoriety display.
+•	 Place 1 Cube from the family directly across the Border 
+(e.g., Scottish West March if you are setting up the English 
+West March; Scottish Middle March is you are setting up 
+the English Middle March) in the Gaolbreak Box of each 
+March.
+•	 Place 1 Cube from the family directly across the Border in 
+the Feud Box of each March.	
+If playing with 3 or 6 players:
+•	 Add an additional Horse to the Kerr Horse box
+•	 Add a Sheep flipped on its side to the Farm Region of 
+Tynedale (in the English Middle March).
+3.5 Randomization Cups
+Take two opaque containers (not provided) and fill them as 
+follows:
+•	 TURN ORDER CONTAINER: Add 1 Cube from each 
+family.
+•	 DEFENSE TOKEN CONTAINER: Add all remaining 
+Defense Tokens (12 in a 2- or 4-player game, 18 in a 3 or 
+6-player game).
+3.6 Cards
+Shuffle all three sets of Summer cards separately and place them 
+face down in three separate piles near the board. Shuffle the 
+Event deck and place it face down in the designated space on 
+the Card Decks Display.
+
+4.0	 Sequence of Play
+“Fattened, glossy with good autumn condition, the herds came 
+down off the hills when the weather began to close down and 
+the year turned around the solstice. These weeks also saw the 
+beginning of the raiding season. Dispersed over the hill pasture 
+(and needing to feed and improve their condition in any case), 
+the cattle and sheep were not a feasible target for reivers in the 
+summer. Far better to come for them where they were handily 
+corralled in the inbye fields and fat and fit enough to make a 
+long journey when they had been lifted.”
+The Reivers: The Story of the Border Reivers 
+by Alistair Moffat
+The game is played in exactly three turns, each representing 
+about 30 years. Reiver activities along the border varied widely 
+based on the time of year, thus each turn is organized into four 
+seasons, starting with Summer. At the end of the game a special 
+scoring phase is added to complete the game. The rules govern-
+ing each season are presented in Sections 5.0, 6.0, 7.0, and 8.0. A 
+high-level guide to the activities in a single turn looks like this:
+SUMMER
+•	 DEAL: Deal 7 Summer cards to each family from this turn’s 
+shuffled Summer Card deck.
+•	 DRAFT: Each family simultaneously selects a card from 
+their current hand. The remaining cards are passed to 
+an adjacent family (to the left on Turn 1, to the right on 
+Turn 2, and in a random direction on Turn 3). All families 
+undertake their planned action (Recruit, Play, Hold or 
+Discard) with their selected card, possibly gaining or 
+expending Cattle. These steps are then repeated for four 
+more rounds with the incoming hand of cards just passed 
+to each family.
+•	 SIXTH ROUND: In this final round families select one card 
+to act on normally, then add the final card to the Summer 
+Card Discards pile.
+•	 OFFICE DRAFTS: A family with the Abbot of Kelso 
+Office gets to draft a card from the Summer Card Discards 
+pile if this is Turn 2 or 3. This is followed by the same action 
+from a family with the Keeper of Tynedale Office.
+AUTUMN
+•	 ECONOMIC UPDATE: Check Hand Size and Horses 
+against each family’s capacity based on their Sheep on the 
+map. Discard any extra cards or Horses if above those limits. 
+Then gain Cattle income.
+•	 DRAW EVENTS: Pick 3 random events for this turn (2 
+events if playing with four players).
+•	 PLACE DEFENSES: All families secretly allocate their 
+Defense tokens to boxes in their March.
+WINTER
+•	 DETERMINE ORDER (*): Turn order is chosen for this 
+Winter, based on the rules in place for this turn. Exception: 
+Ignore this step during Turn 1 Winter if playing with the Traits 
+Advanced Rule (10.1).
+•	 SELECT TARGET CARD: All families simultaneously 
+choose which Target Card they will play.
+•	 PLACE NOTORIETY (*): In reverse turn order, families 
+add Notoriety to the Marches. Notoriety cards may also be 
+played at this time.
+•	 SELECT FINAL TARGET: In turn order, families choose 
+their exact target (Farm Region, Feud, Gaolbreak), moving 
+their Attack Indicator and Horses to this map location. 
+Target and Attack cards are played at this time.
+•	 COMPUTE COMBAT DICE: The attacker and defender 
+in each combat compute how many dice they will roll.
+•	 RESOLVE COMBATS: In turn order, the combats are all 
+resolved and post-combat awards granted.
+•	 REDO TURN ORDER (*): If this is Turn 1, a second 
+random determination of turn order is performed.
+•	 REPEAT FOR SECOND ATTACK: Repeat steps above 
+(except those marked with an *) for the second round of 
+combat.
+•	 BATTLE AWARDS: Post-combat awards are granted for 
+any Battle that was only contested by one side.
+SPRING
+•	 RESET: Stand up all Horses. Reset Debateable Land Farm 
+Region to exactly 2 Sheep. Discard current events. Return 
+Defense Tokens to their family’s box.
+•	 SCORE VP: Add VP for Notoriety and Reivers in Gaol. Play 
+Spring cards (Turn 3 only). Record end-of-turn total VP.
+•	 BONUS ACTIONS (Turns 1 and 2 only): Family in last 
+place: select and play a discarded Summer card for free, or 
+take 1 Default action. All other families in bottom half by 
+VP: take 1 Default Action.
+END-OF-GAME SCORING (TURN 3 ONLY): Families are 
+awarded VP for livestock in their possession.
+5.0 Summer
+Summer on the borders was a peaceful time when construc-
+tion projects were completed and the livestock could graze in 
+comfort across the hills and dales. 
+At the beginning of Summer, each family receives a hand of 7 
+Summer cards, dealt randomly from the deck of cards for this 
+Turn. Each Summer is made up of 6 rounds. During each round 
+the families select a single card and separate it from the remain-
+ing cards in their hand. Those other cards are passed facedown 
+to the next family, as follows:
+•	 Turn 1: Pass cards to the family on your left.
+•	 Turn 2: Pass cards to the family on your right.
+•	 Turn 3: Roll a die. If it is odd, pass cards to the left. If it is 
+even, pass cards to the right. Once determined by a single 
+random roll, retain this same randomly-determined 
+direction throughout this Summer.
+In 2- or 3-player games, players can select their card from either 
+of their two families first; the order of selection is not important. 
+
+When all families have made their selection (but not yet revealed 
+it) and passed their remaining cards (which may not be reviewed 
+by the receiving family until all cards in the current round have 
+been acted upon), they then all reveal their selected card and 
+act on each card simultaneously. There are four possible actions, 
+each described in a section below.
+5.1 Recruit
+The Recruit action may be used with Summer Cards of these 
+subtypes: Reiver, Warden, Office, or Allied Grayne. You must 
+have enough Cattle to afford the card; pay this Cattle cost (if 
+any) to the bank. Then place the recruited card face up on the 
+matching box of your Family Sheet. If there already was a card 
+here, move that previous card to the Summer Cards Out-of-
+Play pile. If you recruited a Warden, retrieve the corresponding 
+Warden Token from the top of the Card Decks Display and add 
+it to your Defense Tokens box on the map. If you already had a 
+Warden Token in that box, remove it from play along with the 
+corresponding card for the previous Warden.
+SPECIAL CASES:
+a)	The “Office #2/Allied Grayne #2” slot does not become 
+available until Turn 2; in the rare case that you choose to 
+recruit a second Office or Allied Grayne on Turn 1 the first 
+one must be moved to the Out-of-Play pile.
+b)	Special rules apply if it is Turn 2 or later and you are 
+recruiting an Office or Allied Grayne when the “Office #2/
+Allied Grayne #2” slot is already occupied. In that case you 
+may move any previously played Office or Allied Grayne to 
+the Out-of-Play pile and then swap the remaining cards as 
+desired (as long as you do not end with more than 2 Offices, 
+2 Allied Graynes, or 3 cards total of these two types).
+5.2 Play
+The Play action may be used with Summer Cards of these 
+subtypes: Defense Token, Livestock, Permanent Defense, and 
+Bastle. You must have enough Cattle to afford the card; pay this 
+Cattle cost (if any) to the bank. Then add the card to the Sum-
+mer Cards Out-of-Play pile and add the livestock or defenses to 
+your holdings as follows:
+5.2.1 Defense Tokens
+Draw the specified number of Defense Tokens from the cup 
+holding these chits. Place them face-down in your Defense 
+Tokens box on the map. The player drawing them may secretly 
+view the tokens just drawn.
+5.2.2 Cattle
+Take the specified number of Cattle from the bank and add them 
+to your Cattle box on the map.
+5.2.3 Sheep
+Take the specified number of Sheep from the bank and add them, 
+standing up, to Farm Regions in your March as instructed on 
+the card. You do not need to allocate Sheep evenly as long as any 
+constraints mentioned on the card are satisfied.
+5.2.4 Horses
+Take the specified number of Horses from the bank and add 
+them, standing up, to your Horses box on the map.
+5.2.5 Permanent Defenses
+Choose specific Castle Garrison and/or Peel Permanent Defense 
+tokens from among the four provided to your family during 
+setup—the number of such tokens should correspond to those 
+specified by the card. Add each marker chosen to the matching, 
+named Permanent Defense site in your March.
+5.2.6 Bastle
+Select standing up Sheep in Farm Regions of your March as speci-
+fied on the card and flip these Sheep onto their side to indicate 
+that they are protected from Raids.
+5.3 Hold
+The Hold action may be used with Summer Cards of these 
+subtypes: Notoriety, Attack, Defense, Target, and Border Bal-
+lad. Place the card face down without revealing it to the other 
+players on the Held Cards box of your Family Sheet. You can 
+place a card here even if it puts you over your current Hand Size 
+because Hand Size Limits only apply during the Autumn. These 
+cards will be played in an upcoming Winter or Spring. Gain +1 
+Cattle from the bank.
+5.4 Discard
+Any Summer Card may be discarded to take a Default Action 
+instead. The possible Default Actions are listed in the following 
+rule section. Cards discarded this way are added to the Sum-
+mer Cards Discards. These cards may reenter play as the result 
+of the Offices Abbot of Kelso and Keeper of Tynedale, as a 
+consequence of the Double Cross Summer Card, or if selected 
+by the family in last place during Spring. 
+GAMEPLAY TIP: It can often be a good idea to discard a 
+card that you cannot use yourself if it would be of interest to 
+one of your opponents.
+5.5 Default Actions
+Default Actions are less powerful moves that families may want 
+to take if they have a shortfall in a particular type of livestock, 
+or if they are worried about the defenses of their own March. 
+Default actions are received either when a card is Discarded 
+during Summer, in Spring for the families lowest in VP at that 
+time, or from the Tax Time Summer Livestock Card.
+Each time a Default Action is received, a family gets to undertake 
+exactly one of the following moves:
+•	 Add 1 Horse
+•	 Add 1 Sheep
+•	 Add 3 Cattle
+•	 Add 1 Notoriety to your Home March
+•	 Bastle 1 Sheep (2 if this is Turn 2 or later)
+Livestock are added (or Sheep bastled) just as described in Sec-
+tion 5.2 with no restrictions on the Farm Region chosen when 
+
+adding or bastling Sheep. To add 1 Notoriety, simply advance 
+your Cube on the Notoriety Track in your Home March by 1 
+space (e.g., from the “3” space to the “4” space).
+GAMEPLAY TIP: Toward the end of Summer, make sure you 
+have enough Sheep to support your current number of Horses 
+and Held cards (see 6.1). If not, a Default Action to add Sheep 
+may be a good play.
+5.6 Sixth Round
+The sixth round of Summer is a special case. At the beginning of 
+this round, the families each receive a two-card hand from their 
+neighbor. Each family then selects one card (like in previous 
+rounds) but instead of passing their remaining card they add 
+it to the Summer Cards Discards pile. The selected card is then 
+played normally. (Exception: If playing with the Traits Advanced 
+Rule (10.1), on Turn 1 and 2, the player with the Tireless trait may 
+play both the cards in their hand.)
+5.7 Abbot of Kelso/Keeper of Tynedale
+On Turns 2 and 3, families that have recruited either the Abbot 
+of Kelso or Keeper of Tynedale Offices get to end the Sum-
+mer by selecting a card from the Summer Cards Discards pile. 
+If both Offices have been recruited, the Scottish family holding 
+Abbot of Kelso always chooses before the English family hold-
+ing Keeper of Tynedale. Play the selected card normally based 
+on its type (Recruit, Play, or Hold) except that you never add 
+or subtract Cattle (i.e., this move is made for “free”). The card 
+selected may be Discarded right back into the Summer Cards 
+Discards pile if you prefer to take a Default Action.
+6.0 Autumn
+Autumn marked the time on the borders when reivers and their 
+families prepared for the upcoming winter raids.
+6.1 Economic Update
+All families begin Autumn by making sure their Sheep on Map 
+tracker is positioned properly on their Family Sheet based on 
+the number of Sheep they own on the map and whether or not 
+they have an office (Abbot of Jedburgh, Prior of Hexham) 
+that moves the marker two columns to the right. Then each takes 
+the following three actions, as necessary, using the numbers in 
+the column directly below your Sheep on Map marker:
+1.	HORSE LIMIT: If you have more Horses than your current 
+Horse Limit, return the excess to the bank. 
+2.	HAND SIZE: If you have more Held cards than your current 
+Hand Size, discard (to the Summer Card Discards pile) your 
+choice of cards to get the number down to your Hand Size.
+3.	CATTLE INCOME: Finally, add Cattle (as in 5.2.2) equal 
+to the Cattle Income.
+6.2 Draw Events
+Events are now flipped face up from the top of the Event deck. 
+Flip over 3 events if playing with 3 or 6 players, 2 events in a 
+game with 2 or 4 players. If any of the six Battles that take place 
+in a specific March are drawn (i.e., all Battles except the Rising of 
+the North), place the event card over the battlefield on the map. 
+Any other events that are drawn are placed in the Current Events 
+area on the edge of the map near the English East March. These 
+non-Battle events alter the resolution of attacks made by any 
+player for the rest of the turn. The Rough Wooing and Mary 
+Queen of Scots events allow combat dice to be rerolled (see 
+7.6). If one of these events is drawn, place the specified number 
+of reroll dice on this card now so you can track how many rerolls 
+have been taken. Dice are taken off this card as rerolls are used 
+by eligible families. No more than 3 of the reroll dice from one 
+of these events can be used in a single combat. (Typically, a suc-
+cession of different families will take advantage of these rerolls 
+before they are all exhausted).
+6.3 Place Defenses
+Families now take the Defense Tokens on their Family Sheet and 
+allocate them secretly (face down) to the Defense Token boxes in 
+their March. Only one token may be added to each box. Tokens 
+may only be placed in a Farm Defense Token box if they have at 
+least one green die (or are text only, such as “No Defense Dice”) 
+on their face up side; tokens may only be placed in a Town or 
+Family Seat Defense Token box if they have at least one gray 
+die (or are text only) on that same side. Tokens with both green 
+and gray dice may be placed anywhere, though some tokens are 
+more valuable for defense in one type of box than the other. It 
+is possible that a family could possess too many tokens to place 
+all of them on the map; if so any excess are returned face down 
+to your Defense Token box.
+7.0 Winter
+Winter was when the reputation of a Border Reiver was made. 
+These were the “riding times” where there were livestock to 
+be stolen, outlaws to be apprehended, and family reputations 
+to be defended.
+In Border Reivers, Winter consists of two rounds of combat with 
+up to seven individual steps (detailed in sections 7.1 to 7.7 be-
+low). Note that three steps (7.1, 7.3, and 7.7) are skipped during 
+the second round of combat. In each round, the families pick 
+attack targets, compute the attack and defense dice that need to 
+be rolled, and then resolve each family’s attack. Combats can be 
+one of four types (Raid, Feud, Gaolbreak, or Battle) and these 
+attacks can cause Livestock to change hands, Notoriety to be 
+gained or lost, and VP to be scored. Complete each step for all 
+families before moving onto the next step.
+
+To provide the proper context for the rest of the rules in this 
+section, a summary of the pros and cons of the four types of 
+combat that can be initiated is shown below. The use of these 
+four terms (Raid, Feud, Gaolbreak, and Battle) in rules and on 
+cards always explicitly refers to just that one type of combat (e.g., 
+the Maid Lilliard card applies to Battle combats only and can 
+never be used for a Raid, Feud or Gaolbreak).
+RAID
+Raids were attacks where the intent was to steal cattle and 
+sheep held by another reiver family. Often initiated under the 
+cover of darkness to make the initial theft of livestock easier, 
+the biggest challenge was to get the stolen herd home before 
+the warden’s men on a “Hot Trod” could pursue and apprehend 
+the thieving horsemen.
+A Raid is an attack on a Farm Region that is best attempted 
+where there are plenty of Sheep unprotected by Bastles and few 
+defense dice provided by adjacent Permanent Defenses. An at-
+tacker choosing to Raid is very likely to gain Cattle and Sheep 
+but scores fewer VP than with other attacks and does not receive 
+a Notoriety boost. It is a good type of attack to weaken a player in 
+the lead, though the attacker does risk getting a reiver captured 
+and placed in Gaol, or even worse—hanged.
+FEUD
+After years of rivalry, thefts, and perceived injustices, the emo-
+tions between two rival families on the border would often boil 
+over into a deadly feud. These direct attacks of one family on 
+another could be very deadly, as evidenced by the hundreds 
+of Maxwells slain by the Johnstones during the 1593 Battle 
+of Dryfe Sands.
+A Feud is an attack on a Family Seat where one of your Feud 
+Cubes is present. Since the attacker receives an extra die for each 
+such Cube at that location, the more poisoned the relationship 
+the better. An attacker choosing to Feud often scores significant 
+VP, though they will risk losing a Horse and letting their op-
+ponent pick up some VP as well. The winner of a Feud combat 
+(usually the attacker) also gets a significant boost in Notoriety 
+over their opponent within that March.
+GAOLBREAK
+As the name implies, Gaolbreaks were attempts to free previ-
+ously imprisoned reivers from a town gaol. With well-placed 
+friends on the inside and enough horsemen approaching at 
+night, even prisoners in walled towns such as Carlisle could be 
+sprung loose (as occurred in 1596 during the famous Rescue 
+of Kinmont Willie).
+A Gaolbreak is an attack at a Town where one or more of your 
+reivers have been captured. Since the attacker receives an extra 
+die for each such captive at that location, the more possible 
+reivers to set free the better. A Gaolbreak scores less VP than a 
+Feud but that is offset by the valuable addition of one or more 
+Horses. Notoriety is gained much like in a Feud if one or more 
+prisoners escape.
+BATTLE
+Throughout the 16th century the rivalry between England and 
+Scotland would heat up and one side or the other would send 
+a major army to invade the other land. When these battles 
+occurred, border horsemen were valued auxiliary troops that 
+would fight alongside their national army as light horsemen 
+known as “prickers.”
+A Battle is an opportunity provided by an Event card that al-
+lows a reiver to pursue glory fighting for his native land, either 
+England or Scotland. Battles vary in historical size with the 
+larger ones offering the greatest chance of scoring hits to earn 
+VP (but in those Battles it is also more likely for the other side 
+to successfully block each hit). Successfully leading your nation 
+can award you with a potentially huge Notoriety boost, especially 
+in the largest Battles.
+7.1 Determine Order
+The first step in Winter is to determine 
+turn order. Each turn has a different 
+method:
+• TURN 1: Draw Cubes at random 
+from the Turn Order Container. 
+As Cubes are drawn, place them in 
+consecutive boxes at the top of each 
+section of the Winter Combat Area (so 
+box “1”, then “2”, etc.)
+Exception: Ignore this step if playing 
+with the Traits Advanced Rule (10.1).
+• TURN 2: Place the Cubes in the 
+boxes in the reverse order of families 
+by current VP score (so the Cube for 
+the family with the highest VP goes in the “6” box—or the 
+“4” box in a 2- or 4-player game). Thus the “1” box contains 
+the Cube for the family in last place. Refer to Section 9.3 to 
+break any ties, making sure to put the player who is winning 
+the tie-breaker after the other player (since the Cubes are 
+placed in reverse VP order).
+•	 TURN 3: Repeat the procedure for Turn 2. Then follow 
+the instructions for the Offices Lord Warden of the 
+Marches and Warden-General of All Marches if 
+those Offices are in play on a Family Sheet.
+On Turn 1, prior to the second round of combat, the random 
+Cube draw for order is repeated as detailed in step 7.7. On Turns 
+2 and 3 the player order established here at the start of Winter 
+remains in effect for both rounds of combat.
+
+7.2 Select Target Card
+Families begin each of the two rounds of combat by simul-
+taneously reviewing the Target Cards they still possess and 
+selecting a single Target Card. The characteristics of that card 
+determine the type(s) of combat players can initiate and where 
+on the map this attack can take place. Place the selected card 
+face down in the Target Card box just below your Cube in the 
+Winter Combat Area.
+GAMEPLAY TIP: Selection of targets is an important con-
+sideration each combat round. You should consider these 
+questions (and more) when deciding which target to choose:
+•	 Is there an event that makes Feuds or Gaolbreaks more 
+effective?
+•	 Can I fight a Battle for England or Scotland before any 
+of the other families hailing from my side of the border?
+•	 Am I expecting to roll a lot of dice for this combat (if so, 
+I should play a card that gives +1 on each attack die)?
+•	 Do I have a March where I will get extra dice from being 
+in 1st or 2nd place in Notoriety?
+Once all families have finalized their selections, flip all the chosen 
+Target Cards so each one is face up. Knowing which Target Card 
+the other families have selected (especially those earlier in turn 
+order) is important for optimal placement of Notoriety and for 
+selection of final targets (in the two steps that follow).
+7.3 Place Notoriety
+If this is the second round of combat, skip this step entirely; how-
+ever, if this is the first round of combat, families add Notoriety to 
+Marches based on play of Held cards and on the Allied Graynes 
+and/or Offices they have Recruited to their Family Sheet. Noto-
+riety placement always occur in the reverse order from the turn 
+order established in 7.1 (e.g., on Turn 2 this means that the family 
+with the highest VP total always places Notoriety first). Shrewd 
+Notoriety allocations can set you up with Marches where you 
+roll additional attack dice and score VP at the end of the turn. 
+Note that it is most useful to place Notoriety last after you have 
+seen where the other families have made your allocations. When 
+it is your turn to place Notoriety, follow the three steps below.
+Note: Although the Notoriety Tracks only go to the number 
+12, there is no actual limit on the possible Notoriety a fam-
+ily may have in a March. If a family’s Notoriety marker ever 
+exceeds 12, leave one of their Cubes on the 12 space and start 
+advancing a second Cube up from 0.
+PLAY HELD NOTORIETY CARDS 
+There are a number of Summer Cards that can be Held for play 
+for “when it is your turn to place Notoriety…” Such a card can 
+only be played now during the first round of Winter. Apply the 
+indicated effects and then add the card to the Summer Cards 
+Out-of-Play pile.
+UPDATE NOTORIETY FROM OFFICES
+About two-thirds of the Offices allow 
+families to add 2 or more Notoriety to 
+Marches on your side of the border. 
+These increases can be spread as de-
+sired among the legal choices shown 
+on this Office. For each point of No-
+toriety being placed, advance your 
+Cube on the Notoriety Track in a legal 
+March by 1 space.
+UPDATE NOTORIETY FROM ALLIED GRAYNES
+All Allied Graynes allow families to 
+add at least 1 Notoriety to a March. 
+Notoriety from Allied Graynes is usu-
+ally applied to the East, Middle, or 
+West Marches but can be placed either 
+in England or Scotland. These in-
+creases can be spread as desired 
+among the legal choices shown on this 
+Allied Grayne. For each point of No-
+toriety being placed, advance your 
+Cube on the Notoriety Track in a legal 
+March by 1 space.
+7.4 Select Final Target
+In both rounds of combat, the next step is to lock onto a specific 
+final attack target and combat type. This choice is guided by the 
+initial targeting information that the family indicated with their 
+Target Card (Step 7.2).
+PLACE ATTACK INDICATOR
+Final target selection occurs in the order estab-
+lished in 7.1. When it is your turn, take your 
+Attack Indicator for this round of combat and 
+move it onto the map, with the side with the 
+rider facing up. The arrow should point to the 
+final target for this attack:
+Raid 	
+The final target is a Farm Region.
+Feud	
+The final target is a Family Seat.
+Gaolbreak	
+The final target is a Town.
+Battle 	
+The final target is a Battle.
+RESTRICTIONS:
+1.	You may never Raid the other player under your control 
+in a 2- or 3-player game.
+2.	You may not choose a final target selected earlier in the 
+turn (even if it was during a prior round of combat). 
+Exceptions: Battles can be selected as targets twice as long 
+as one selecting family is English and the other is Scottish; 
+Feuds and Gaolbreaks can be targeted once during each 
+round of combat if the Ill Week or Kinmont Willie event 
+is in play (respectively).
+
+The final target must also be eligible based on the Target Card 
+that the family selected in 7.2, which means it must adhere to 
+these rules:
+• 	 If the Target Card is one of the three 
+entitled “Target XXX March,” a Raid or 
+Battle may be chosen in the marches 
+shown in the “Targets” section of that 
+card that list the desired attack type 
+(Example: in the card shown at right a 
+Raid can be chosen in the English East 
+March or the English West March; a battle 
+can be chosen in those two marches plus 
+the Scottish Middle March—assuming this is a 6-player game 
+where East Marches are in play). These cards can also be 
+used to select a Feud or Gaolbreak where one of their Cubes 
+is present (as shown at the bottom of the card). 
+• 	 If the Target Card is the “Reiver” card, any Farm Region on 
+the map (including the Debateable Land, but not including 
+the East Marches if this is a 2- or 4-player game) may be 
+targeted for a Raid and the attacker will gain +1 to all dice 
+rolled. Other attack types may not be chosen with this card.
+• 	 If the Target Card lists the Family name 
+(as shown to the right), a Feud or 
+Gaolbreak may be targeted anywhere 
+that one of their Cubes is present, and 
+the attacker will gain +1 to all dice rolled. 
+This card may also be used for a Raid on 
+any March, but the +1 bonus is lost.
+•	 If the Target Card lists “English” or “Scottish”, any Battle on 
+the map may be targeted and the attacker will gain +1 to all 
+dice rolled. This card may be used for a Feud or Gaolbreak 
+in a March across the border, but the +1 bonus is lost.
+Finally, the special Battle Rising of the North can be chosen as 
+if it was a Battle in their Home March. The first family target-
+ing this card has the choice of representing the Catholics or the 
+Protestants (based on what bonus they want to receive if they 
+win). The second family targeting this card must support the 
+opposite religion (to attempt to receive the other bonus).
+COMMIT HORSES 
+Once the Attack Indicator is in place, the attacker takes 1 or 
+more available Horses from the box in their March and moves 
+them adjacent to the Attack Indicator to show that they are also 
+part of the attacking force. At least 1 Horse must be committed 
+to each attack, and if this is the first round of Winter, at least 1 
+available Horse must be left back in the box so that Horse can 
+lead the second-round attack. If a player enters Winter with only 
+1 Horse, they may attack in the first round only.
+REVEAL DEFENSES/USE WARDEN (skip this step 
+entirely if a Battle has been targeted) 
+Next, the attacker flips over the Defense Token (if any) protect-
+ing the target. After the token has been revealed, the defender 
+has the option to expend their Warden card (by placing it in 
+the Target Discards pile) in order to move or swap in a different 
+Defense Token and/or to gain a +1 die roll modifier on all their 
+Defense dice (the defender need not move Defense Tokens to 
+gain the die roll modifier). Any move or swap of tokens under-
+taken must result in all tokens ending up in a valid final location 
+(e.g. only tokens with green dice can be in a Farm Region; grey 
+dice are required for a token occupying a Town or Family Seat 
+slot). Moving/swapping of a Defense Token falls into one of 
+these three cases:
+•	 MOVE: Possible if the target location is not defended by 
+a token. Any token with properly colored dice symbols 
+elsewhere in the March may move to the target.
+•	 SWAP: A Defense Token elsewhere in the March is 
+exchanged with the one at the target.
+•	 REPLACE: A Defense Token elsewhere in the March 
+replaces the one at the target and the previous token is 
+moved back to the Family Sheet because it does not have 
+the properly colored dice to swap into this other spot.
+Tokens may not be moved or swapped if they are already in a 
+position where they are being targeted by an attack declared 
+earlier in this round of combat or if they were on the Family 
+Sheet when the attack was declared. 
+The Held cards Warden’s Tithe and Heavy Snows may be 
+played at this time.
+PLAY HELD ATTACK CARDS
+After the defender has made a final decision on committing his 
+Warden card, the attacker can now further boost their chances 
+by playing one or more Held Summer cards that are appropri-
+ate to this combat type. Set any card(s) played face up near the 
+combat for ease of reference.
+7.5 Compute Combat Dice
+After committing to their final target, the attacker may begin 
+assembling the attack and defense dice needed to resolve this 
+combat. Players are encouraged to assemble dice for all combat 
+simultaneously to speed play along. Use the boxes in top left 
+corner of your Family Sheet to facilitate gathering the dice.
+Most of the sources of attack and defense dice for a combat are 
+the same regardless of the attack type. The only exceptions are 
+the addition of dice for Sheep that are not protected by Bastles 
+in a Raid and the dice for Cubes of the correct type for a Feud 
+or Gaolbreak. See the table below for a complete breakdown on 
+populating these Attack dice boxes. 
+
+Note: Three Defense Tokens halve the number of dice that the 
+attacker will roll. Apply this effect after all other adjustments 
+to the number of dice and round up in favor of the attacker. 
+ATTACK DICE
+Player Attacks
+Reiver
+Use “Bonus ATTACK dice” for this Com-
+bat Type on the Reiver card. (If the Reiver 
+is Ralph Eure, 3 cattle may be expended at 
+this time for 1 extra Attack die.)
+Horses
+1 die for each Horse committed to the attack.
+Allied Grayne
+Use “Bonus ATTACK die in” for this 
+March on the Allied Grayne card. (If this 
+grayne is the Armstrongs or Elliotts, cattle 
+may be expended at this time for extra 
+Attack dice. Allied Graynes that add extra 
+combat dice for attacks in “any March” 
+may not add dice to the Rising of the 
+North Battle.)
+2 dice if in sole possession of 1st in Noto-
+riety in this March.
+1 die if 2nd place or tied for 1st place. (None 
+if tied for 2nd).
+1 die for each Sheep without a Bastle in the 
+target Farm Region.
+Feud Cubes
+1 die for each of the attacker’s Cubes in 
+the “Feuds with” box in this Family Seat. 
+Return these Cubes to the attacker after 
+computing these dice.
+Gaolbreak Cubes
+1 die for each of the attacker’s Cubes in the 
+“Reivers in Gaol” box in this Town. Leave 
+these Cubes in place; they might be freed if 
+the attack is a success.
+Held Attack Cards
+See effect text from card for details.
+Offices
+2 dice if the bonus from Captain of Ber-
+wick or Keeper of Liddesdale is allocated 
+to this attack. Each Office can only be used 
+once per turn.
+Assemble the Defense dice to be 
+rolled against your attack in the 
+same fashion in the boxes in the 
+upper right corner of your Fam-
+ily Sheet. Use the table below to 
+determine the dice the defender 
+will roll.
+DEFENSE 
+DICE
+Instructions for Computing these Dice
+Peels
+1 die for each Peel adjacent to the Farm 
+Region targeted by this Raid.
+Castle Garrison 2 dice for each Castle Garrison adjacent 
+to the Farm Region targeted by this Raid.
+Defense Token
+1 die for each dice icon of the proper 
+color on the Defense Token (green dice 
+icons if this is a Raid; gray dice icons if a 
+Feud or Gaolbreak). Add 1 die if this is 
+a Gaolbreak occurring in a Walled Town 
+(either Berwick or Carlisle). 
+Battle Dice
+1 die for each die icon present on the 
+Battle Event card.
+7.6 Resolve Combats
+Each combat is now resolved in the order listed in the Winter 
+Combat area. Each player involved rolls all the dice that were 
+allocated in 7.5. (Anyone can roll the defense dice in a Battle 
+since those attacks do not adversely affect any defensive player). 
+Note: Even though the first few combats resolved might change 
+the status of Notoriety, Sheep, or Feud Cubes on the map for 
+later combats, players never change the number of dice to be 
+rolled from the number that was originally computed during 
+step 7.5.
+ATTACKER +1 DIE ROLL MODIFIERS: With certain Target 
+Cards, the attacker adds +1 to the number shown on each die 
+rolled. Due to these modifiers, results of “7” may occur; treat 
+those as if a “6” had been rolled instead. 
+DEFENDER DIE ROLL MODIFIERS: The defender receives a 
++1 die roll modifier for each of these situations:
+•	 A Warden Defense Token is defending this target.
+•	 The defender has played his Warden card in response to 
+this Raid, Feud or Gaolbreak in his Home March. 
+This die roll modifier applies to all defensive dice 
+rolled, regardless of whether they came from a 
+Defense Token or a Permanent Defense. These 
+two modifiers are cumulative, meaning that if 
+both are true, all of the defender’s dice are ad-
+justed by +2. In this case it is possible to receive a result of “8;” 
+treat those as if a “7” is the result instead. 
+DETERMINING RESULTS, USING REROLLS: Based on the 
+type of Combat, each roll is evaluated and the immediate results 
+are determined as shown by either the “Roll of X” lines below or 
+by looking at the Combat Results Chart. Some events and Offices 
+may allow players to reroll dice if the result was a “Miss.” Play-
+ers must pick a single source (e.g., Held attack card, Event card, 
+Office, the Warden Robert Carey) for any rerolls they are taking 
+and once that has been chosen, the player cannot take additional 
+rerolls from a second source. In addition, each Miss may only be 
+rerolled once, even from a single source of rerolls. Both players 
+should roll their dice before either decides on rerolls.
+
+Note: Mary Queen of Scots rerolls may not be used dur-
+ing Raids on the Debateable Land. Rerolls from either Mary 
+Queen of Scots or Rough Wooing may not be used at the 
+Rising of the North Battle. 
+RAID AND FEUD DEFENSE ROLLS: Modified defense rolls 
+of exactly 6—or rolls of 7 or higher—against Raid and Feud 
+attacks trigger a powerful result the first time they occur and 
+lesser results afterwards. To properly reward the defending 
+player, resolve all modified rolls of 7+ first, then modified rolls 
+of 6, then modified rolls of 5.
+APPLYING RESULTS: Many of these outcomes award VPs; 
+if so, move that family’s VP marker on the Victory Track and 
+record the VP award on the Score Sheet. Finally, Post-Combat 
+Awards are granted based on the type of combat and which side 
+is determined to be the winner. 
+CLEANUP: Attacking Horses are then returned to the box in 
+the attacker’s March but are flipped on their side to show they 
+are not available until a future turn. Flip the Attack Indicator 
+for the combat over to its reverse side to show that the combat 
+has been resolved. All Attack cards played in this combat are 
+moved to the Summer Cards Out-of-Play pile. The Target Card 
+assigned to this combat is moved to the Target Discards pile and 
+is out of the game.
+RAID
+Roll of 1, 2: Miss
+Roll of 3, 4: CATTLE HIT, award 1 VP if not blocked.
+Roll of 5, 6: SHEEP HIT, award 2 VP if not blocked.
+Roll of 5: BLOCK. A block nullifies the most common hit 
+(between Cattle and Sheep) until they are equalized. If tied, 
+nullify a Cattle hit. (Example: The attacker has 3 Sheep hits 
+and 2 Cattle hits. The first block nullifies a Sheep hit so the 
+hits become 2 of each. The next Block nullifies a Cattle hit to 
+make it 2 Sheep hits, 1 Cattle hit.)
+Roll of 6: First roll of a 6 is a CAPTURE. Subsequent 6s are 
+BLOCKs (as if a 5 was rolled). If a CAPTURE occurs, the 
+attacker loses 1 Horse; add a Cube from the attacker in the 
+Reivers in Gaol box in the defender’s Town.
+Roll of 7: First roll of a 7 is HANGED. Subsequent 7s are 
+CAPTUREs (as if a 6 was rolled). If a HANGED result 
+occurs, the attacker loses 1 Horse and the defender gains 
+6 VP. 
+Notes: 
+1.	Capture and Hanged results are not also Blocks. 
+They have no effect on the number of hits scored by the 
+attacking player. 
+2.	An attacker can never lose more Horses than were 
+initially sent on this Raid. There is no limit on the number 
+of Cubes that can be added to the Reivers in Gaol box.
+CATTLE: For each unblocked Cattle hit, the attacker gains one 
+of the Cattle in the defender’s Cattle box. If more Cattle hits 
+remain after the defender’s Cattle have all been taken, those hits 
+still score VP, but no additional Cattle are lost.
+Note: Cattle are never received as a Post-Combat Award from 
+Raids on the Debateable Land; however, VP are scored from 
+the Cattle hits here as usual.
+SHEEP: The attacker gains one Sheep for each unblocked Sheep 
+hit from the target region. Sheep protected by Bastles cannot 
+be stolen in this manner. If more Sheep hits remain after the 
+unbastled Sheep have all been taken, those hits still score VP, 
+but no additional Sheep are lost. Sheep stolen in a Raid are re-
+moved from the target Farm Region and distributed as desired 
+by the attacker into one or more Farm Regions of the attacker’s 
+March, even Farm Regions that are about to undergo a Raid. 
+(These additional Sheep do not change the number of attack dice 
+computed in 7.5 even if that Raid has not yet been resolved).
+FEUD CUBES: If the attacker gained at least 1 VP in the attack, 
+the defender has gained a new Feud with that attacking family. 
+Add one of the defender’s Cube to the Feud box in the attacking 
+family’s March.
+FEUD
+Roll of 5, 6: HIT, award 3 VP if not blocked.
+Roll of 5: BLOCK. A block nullifies one of the attacker’s hits.
+Roll of 6: First roll of a 6 is a HIT, award 3 VP and the attacker 
+loses 1 Horse. Subsequent 6s are BLOCKs (as if a 5 was 
+rolled).
+Roll of 7: HIT, award 3 VP and the attacker loses 1 Horse.
+Note: Attacker can never lose more Horses than were initially 
+sent on this Feud.
+Whichever side scored more hits gains 2 Notoriety in this March 
+(or 4 Notoriety if Ill Week event is in play). The losing side drops 
+by 1 Notoriety (but not below 0) in the March. If both sides 
+scored the same number of hits no Notoriety change occurs.
+
+GAOLBREAK
+Roll of 5, 6: HIT, award 2 VP if not blocked. Remove 1 of the 
+attacker’s Cubes in the defender’s Reivers in Gaol box for 
+each hit. Attacker also gains 1 Horse from the bank which 
+is placed standing up in their Horses box for each hit but 
+never more than twice as many Horses as the attacker had 
+Cubes in this Gaol at the start of the combat. If more hits 
+occur than the number of Cubes at the start of the combat, 
+those hits still score 2 VP each.
+Roll of 5, 6: BLOCK. A block nullifies one of the attacker’s hits.
+Roll of 7: HANGED. The attacker loses 1 Horse and the 
+defender gains 6 VP. If the attacker still had at least one 
+Cube in the defender’s Reivers in Gaol box after the HITs 
+were applied, remove 1 Cube now.
+Note 1: HANGED results are not also BLOCKS. They have 
+no effect on the number of hits scored by the attacking player. 
+Note 2: Attacker can never lose more Horses than were initially 
+sent on this Gaolbreak.
+If the attacker freed at least one Cube from Gaol they gain 2 
+Notoriety in this March (or 4 Notoriety if Ballad of Kinmont 
+Willie event is in play) and the defender drops by 1 Notoriety 
+(but not below 0) in the March. 
+BATTLE
+Roll of 5, 6: HIT, if not blocked award the number of VP 
+specified on the Event card for this Battle.
+Roll of 5, 6: BLOCK. A block nullifies one of the attacker’s hits.
+FIRST ATTACK: Post-combat awards are not awarded when the 
+first attack on a Battle card is resolved. Instead, add Cubes next 
+to the attacker’s Attack Indicator as a reminder of the number 
+of unblocked hits scored (so 3 Cubes if 3 unblocked hits were 
+achieved). Leave these Cubes in place until a second attack occurs 
+(even if this is in a later round of combat) or until you know this 
+was a Battle contested by only one side (see 7.9).
+SECOND ATTACK: Once the second attack on this Battle card 
+has been resolved players will know whether it was the first or 
+second attacker who scored the most unblocked hits. That family 
+gains Notoriety in this March equal to the value shown on the 
+Event card. If both sides scored the same number of unblocked 
+hits, each family gains half of the Notoriety listed on the card. 
+The Event card for this Battle can then be discarded and both 
+Attack Indicators returned to their respective families.
+If no family makes a second attack on this Battle, then the first 
+family becomes the winner at the end of Winter (see 7.9).
+RISING OF THE NORTH: Post-Combat awards for this Battle 
+are an exception to the rule above; these awards are not granted 
+at all if the two sides tie in the number of unblocked hits. Also 
+note that this Battle has unique post-combat awards either 
+granting expended Horses to a Protestant winner or Notoriety 
+in the March of your choice to a Catholic victor.
+7.7 Recalculate Turn Order
+If this is the first turn of the game, turn order must be recalculated 
+before the second set of attacks (even if playing with the Traits 
+Advanced Rule, 10.1). Place all the turn order Cubes back in the 
+opaque container and once again draw them out at random. As 
+Cubes are drawn, place them in consecutive boxes at the very 
+top of each section of the Winter Combat Area. Skip this step 
+entirely if it is Turn 2 or 3.
+7.8 Repeat for Second Combat
+Play now proceeds to the second round of Winter. Repeat the 
+steps outlined in 7.2, 7.4, 7.5 and 7.6 to complete this round.
+7.9 Battle Awards
+Some Battles may not have been contested by both possible sides. 
+Granting of Post-Combat Awards for these Battles occurs here 
+at the end of Winter.
+COMPLETELY UNCONTESTED BATTLES
+If there are Battles that were not contested on either side, simply 
+discard that event by moving it to the Event Discards pile.
+CONTESTED BY ONLY ONE SIDE
+If a Battle was contested by only one side, that side is declared 
+the winner at this time, even if they did not score any unblocked 
+hits. Award that family with the Post-Combat Awards outlined 
+in Section 7.6. All these awards can be granted simultaneously 
+except if the Catholic side won the Rising of the North. In that 
+case award that benefit (+3 Notoriety in any one March) last.
+8.0 Spring
+The onset of Spring allowed livestock to disperse to the hills, 
+bringing an end to the raids and allowing the borders to begin 
+the process of renewal.
+In the game, families spend Spring resetting for the next turn 
+and recapping the previous turn by updating each family’s score. 
+8.1 Reset
+During the end of turn reset, undertake these actions:
+•	 ATTACK INDICATORS: Any of these markers still on the 
+map are returned to their owner.
+•	 HORSES: All flipped down Horses are returned to a 
+standing position in their owner’s Horses box. 
+
+•	 DEBATEABLE LAND: The Farm Region in the Debateable 
+Land is set to exactly 2 Sheep. 
+•	 DISCARD EVENTS: The current events are discarded to 
+the Event Discards pile. 
+•	 DEFENSE TOKENS: Each family returns their Defense 
+Tokens to their Defense Token box.	
+You can skip all the reset activities listed above during the Turn 
+3 Spring since there is no upcoming turn for which to prepare.
+8.2 Score VP
+“The Border ballads are world famous. They are earth po-
+etry. That they survived in such quantity is due largely to the 
+industry and enthusiasm of Sir Walter Scott, who saved them 
+from oblivion… For those who can take the ballads—and not 
+everyone can—they provide a haunting impression of the Bor-
+der spirit, captive and restless in a hostile world, sometimes 
+breaking free in exhilarating imagination, but always returning 
+to the resigned sadness of the North.”
+Steel Bonnets: The Story of the Anglo-Scottish Border 
+Reivers by George MacDonald Fraser
+Although VP from combat successes accrue during Winter, the 
+final accounting of which family is in the lead takes place in the 
+Spring. Perform these scoring activities at this time:
+•	 REIVERS IN GAOL: Add 2 VP to each family’s score for 
+each Cube in their town’s Gaol.
+•	 SCORE NOTORIETY VP: VP are awarded to the two 
+families with the highest notoriety in each of the seven 
+marches (including the Debateable Land). The number of 
+VP awarded depend on whether a family is in first or second 
+place and scale based on the current turn:
+	MARCH NOTORIETY VP SCORING
+	
+Turn	
+1st Place	
+2nd Place
+	
+	
+	
+	
+If 2 or more families are tied for 1st place in a March, all of 
+them receive the 2nd place VP; in this case no family gains 
+the 2nd place points. If 2 or more families are tied for 2nd 
+place in a March, do not award 2nd place VP.
+•	 SPRING CARDS: If this is Turn 3, families can now play 
+one or more of the five Border Ballad Spring cards to gain 
+additional VP. Opponents who are sticklers for period 
+flavor are welcome to insist that this player reads out the 
+full text of the ballad printed on their card before they can 
+be awarded the VP!
+•	 RECORD END-OF-TURN VP TOTALS: Scoring for the 
+turn is now complete. Ensure that all VP are recorded and 
+totaled for the turn on the Border Reivers Score Sheet and 
+that the total for each family matches the score shown by 
+their Cube on the Victory Track on the map.
+8.3 Bonus Actions
+On Turns 1 and 2 (only), families who are trailing in score gain 
+bonus actions here at the end of the turn, as follows:
+•	 LAST PLACE PLAYER: The family in last place by VP total 
+reviews the Summer Cards Discards pile and selects one 
+for a Recruit, Play, or Hold action as appropriate (Sections 
+5.1 to 5.3). Cattle are never expended or gained for this 
+action (allowing the player to select a card that would 
+normally be too expensive). If the player prefers, they may 
+take 1 Default Action (5.5) instead of selecting a card. If 2 
+or more families are tied for last place, use the tie-breaking 
+procedure in Section 9.3 and the family who loses those 
+tie-breakers receives this bonus action.
+•	 FAMILIES IN BOTTOM HALF BY VP: All other families 
+in the bottom half of the families by VP total get to take 1 
+Default Action (e.g., in a 6-player game this would be the 
+players in 4th and 5th place). Again, use the tie-breakers in 
+Section 9.3 as necessary to establish a complete ranking of 
+all families.
+9.0 End Game Scoring
+At the end of Turn 3, families are awarded additional VP based 
+on the Livestock they have accumulated. These VP are added 
+just before the winner is determined.
+9.1 Livestock Scores
+Each family gains VP for the Livestock they possess here at the 
+end of the game. Add VP as follows:
+•	 HORSES: Gain 3 VP for every 2 Horses in your possession 
+(an odd Horse is ignored).
+•	 SHEEP: Gain 2 VP for every 2 Sheep in your possession 
+(an odd Sheep is ignored).
+•	 CATTLE: Gain 1 VP for every 2 Cattle in your possession 
+(an odd Cattle is ignored).
+9.2 Selecting the Winner
+Once the Livestock scores have been determined, compute a final 
+score for each family and record it on the Border Reivers Score 
+Sheet. The family with the highest VP total is the winner. If there 
+is a tie for first place use the tie-breaking procedures listed below. 
+2- OR 3-PLAYER GAMES: If this is a 2- or 3-player game, sum 
+together the VP total for both of your families to arrive at your 
+final score. If two players are tied, use the tie-breakers below 
+based on the total set of Livestock and cards accumulated by 
+both of those players’ families.
+9.3 Breaking Ties
+If families are ever found to be tied in VP, break ties by review-
+ing the items below until a tie is no longer present (ignore the 
+higher-numbered tie-breakers once a difference is found).
+1.	HORSES: The family with the most Horses is leading.
+2.	SHEEP: The family with the most Sheep is leading.
+
+3.	CATTLE: The family with the most Cattle is leading.
+4.	RECRUIT SUMMER CARD: The family with the highest 
+numbered Summer Card on their Family Sheet is leading.
+10.0 Advanced Rules
+Players who have already tried Border Reivers at least once may 
+want to consider adding one of more of these Advanced Rules 
+to the game to add additional levels of strategy and competitive 
+balance.
+10.1 Traits (4- or 6-Player Game Only)
+Replace the usual instruc-
+tions for choosing a family 
+found in Section 3.2 with 
+these rules that add an ad-
+ditional drafting round for 
+players to choose both a 
+bonus Trait and the family 
+which they will control 
+during play.
+The steps for this additional draft that occurs during the Family 
+Selection step of game setup are as follows:
+1.	Add to an opaque container one Cube of each color that 
+corresponds to the 4 or 6 families in this game. Draw out the 
+Cubes out at a time, placing them in consecutive boxes at the 
+top of the Winter Combat Area (so box “1”, then “2”, etc.). 
+The usual determination of turn order at the start of the 
+Turn 1 Winter Phase is skipped and the order established 
+in this step is used instead for that round of attacks.
+2.	Now randomly determine an order that players will follow 
+during this draft.
+3.	In order, each player chooses either one of the six Traits or 
+a family that they want to play (remember that the Grey 
+and Hume families cannot be selected in a 4-player game).
+4.	Once all players have made one selection, reverse the 
+drafting order. (Thus, the last player in the first round gets 
+first choice in the second round). 
+5.	Then for the second round (in this reverse order) each 
+player chooses again, selecting either a Family to play or a 
+Trait, whichever type of item they did not select during the 
+first round.
+In a 6-player game all families and all traits are thus assigned, 
+one of each to each unique player. In a 4-player game all families 
+except Hume and Grey and 4 of the 6 available Traits are assigned, 
+one of each to each unique player.
+Each player now receives the Family Sheet, Cubes, 6 Target 
+Cards, 1 Warden Card, and 2 Attack Indicators for the family 
+they drafted. They also can take advantage of the Trait they have 
+selected at the appropriate time.
+Setup then continues with Step 3.3.
+10.2 Wildcard Target Card
+With this Advanced Rule players gain an additional option for 
+play of their Warden Card. This option may not be chosen if a 
+player has already used their Warden card defensively (see 7.4, 
+Reveal Defenses). When Selecting their Final Target (7.4), the 
+player ignores their original Target Card selection and instead 
+expends their Warden card. This maneuver changes their original 
+Target Card into a wildcard that can be used to send an attack 
+against any valid target (Raid, Feud, Gaolbreak, or Battle) with 
+no die roll modifier. The target must abide by the usual Target 
+Selection restrictions in 7.4 (i.e., it can’t have been targeted earlier 
+in the turn unless one of the special exceptions applies).
+10.3 Balanced Summer Card Passing 
+(3- or 6-Player Game Only)
+The usual Summer card passing sequence in a 3- or 6-player 
+game puts the Middle March players at a slight disadvantage. 
+For this reason, the Middle March players usually gain these 
+benefits during Setup:
+•	 Add an additional Horse to the Kerr Horse box
+•	 Add a Sheep flipped on its side to the Farm Region of 
+Tynedale (in the English Middle March).
+This Advanced Rule eliminates this imbalance but slightly com-
+plicates the card passing sequence.
+When using this Advanced Rule, do not give either the Kerr or 
+Fenwick families these setup advantages listed above. The setup 
+for all six families is thus identical. Then, follow the instructions 
+below when passing cards (instead of the usual passing to an ad-
+jacent player regardless of whether they are English or Scottish):
+	 Pass	 Instructions
+	
+English families pass amongst themselves. (assume 
+Grey is left of Dacre; Dacre is right of Grey).
+	
+	
+Scottish families pass amongst themselves (assume 
+Maxwell is left of Hume; Hume is right of Maxwell).
+	
+	
+English family passes to the Scottish family directly 
+across the Border (e.g., Dacre to Maxwell); Scottish 
+family passes their cards directly back.
+	
+	
+Examples: On Turn 1 when passing is to the left, the first pass 
+will be as follows: Grey to Fenwick; Fenwick to Dacre; Dacre 
+to Grey; Maxwell to Kerr; Kerr to Hume; Hume to Maxwell. 
+On Turn 2 when passing is to the right, the first pass will be: 
+Grey to Dacre; Dacre to Fenwick; Fenwick to Grey; Maxwell 
+to Hume; Hume to Kerr; Kerr to Maxwell.
+
+Example of Play
+Four friends sit down to play a game of Border Reivers: Catha-
+rine, Steve, Vera and Thomas. Based on family ties to the border 
+region, they choose their families as follows:
+•	 Catharine plays Maxwell (Scottish West March)
+•	 Steve chooses Kerr (Scottish Middle March)
+•	 Vera takes Fenwick (English Middle March)
+•	 Thomas selects Dacre (English West March) 
+Setup
+Following along with the setup instructions in 3.0, the players:
+•	 Remove the Grey and Hume family components
+•	 Remove the Defense Tokens without the “4P” designation
+•	 Remove the 10 “Solo” Summer Cards
+•	 Remove the 8 Summer cards for each turn without a “4P” 
+or “?” designation
+•	 Deal in exactly 10 of the “?” cards for each turn (for Turn 
+1, the cards removed in this sample game are #14, #16, #28, 
+#37, #39 and #40)
+•	 Remove the 3 events without a “4P” designation
+Each player sits down near their March and places their Family 
+Sheet in front of them. They then finish the setup described in 
+3.4, adding:
+•	 Sheep, Cattle and Horses to the map
+•	 Their Sheep on Map marker to their Family Sheet
+•	 Player Cubes to various tracks, on-map boxes, and a 
+randomization cup
+•	 Defense Tokens to both a randomization cup and each 
+player’s map area
+The Kerr player does not receive an extra horse – nor does the 
+Fenwick player bastle a Sheep – since this is a 4-player game 
+(not 3 or 6-player).
+Summer Card Deal
+The 28 cards in the Summer Deck are dealt to the four players 
+as follows.
+Catharine (Maxwell):
+•	 #9, Early Defenses
+•	 #12, Provost of Dumfries
+•	 #23, Galloway Cattle
+•	 #24, Chillingham Cattle
+•	 #25, Shiels
+•	 #35, Defensible Church
+•	 #38, Devil’s Beeftub
+Steve (Kerr):
+•	 #1, Johnnie Armstrong
+•	 #4, William de Lisle
+•	 #5, Henry Percy
+•	 #15, Abbot of Kelso
+•	 #19, Johnstone
+•	 #20, Carleton
+•	 #30, Signal Fires
+Vera (Fenwick):
+•	 #3, Richard Graham of Esk
+•	 #13, Keeper of Liddesdale
+•	 #27, Scottish Highland
+•	 #29, Signal Fires
+•	 #31, Signal Fires
+•	 #33, Bastle Houses
+•	 #42, Foggy Night
+Thomas (Dacre):
+•	 #6, Earl of Angus
+•	 #8, Early Defenses
+•	 #11, Bishop of Carlisle
+•	 #17, Forster
+•	 #18, Scott
+•	 #36, Day of Truce
+•	 #41, Maid Lilliard
+Summer Draft - First Round
+Let’s focus our attention on Catharine’s choices through this 
+Summer of Turn 1. The decision in the first round is pretty 
+easy. #12, Provost of Dumfries, which gives a discount on all 
+Summer cards that cost 1 Cattle or more, is a great card to draft 
+early in the game.
+
+Catharine pays 4 of her 8 Cattle to the bank and recruits this 
+card, placing it on her Family Sheet as shown here.
+She also takes the Provost of Dumfries marker and places it in 
+her Cattle box on the map as a reminder that she will get a 1 
+Cattle discount on Summer Card drafts in the future:
+The other players simultaneously resolve their first-round drafts 
+as follows:
+•	 Steve: Recruits #20, Carleton and places it in the Allied 
+Grayne #1 box of his Family Sheet while dropping his Cattle 
+by 3 to 5.
+•	 Vera: Plays #29, Signal Fires, dropping her Cattle to 7. She 
+places two Peels at Elsdon Tower and Belsay. Signal Fires 
+is placed face down as the first card in the Summer Cards 
+Out-of-Play pile.
+•	 Thomas: Plays #11, Bishop of Carlisle, for much the same 
+reason that Catharine chose Provost of Dumfries. His Cattle 
+is also at 4.
+All four players pass the six cards they did not select to the 
+player seated to their left (so Catharine receives these cards 
+from Thomas):
+•	 #6, Earl of Angus
+•	 #8, Early Defenses
+•	 #17, Forster
+•	 #18, Scott
+•	 #36, Day of Truce
+•	 #41, Maid Lilliard
+Summer Draft - Second Round
+Catharine is eager to show the power of the Provost of Dumfries, 
+so she now recruits the Warden #6, Earl of Angus for free (skip-
+ping the usual 1 Cattle payment). He is placed on her Family 
+Sheet, and she retrieves his Defense Token which she adds to 
+her stack with the Rumor and Deputy Warden she started with.
+The other players make these second-round drafts:
+•	 Steve: Plays #23, Galloway Cattle, boosting his Cattle total 
+from 5 to 11.
+•	 Vera: Recruits #1, Johnnie Armstrong, dropping her Cattle 
+from 7 to 5.
+•	 Thomas: Plays #3, Richard Graham of Esk, paying only 
+1 due to his Bishop of Carlisle Office (leaving him with 3 
+Cattle).
+Each player now passes 5 cards to the left, with Catharine receiv-
+ing cards that had started with Vera:
+•	 #13, Keeper of Liddesdale
+•	 #27, Scottish Highland
+•	 #31, Signal Fires
+•	 #33, Bastle Houses
+•	 #42, Foggy Night
+Summer Draft - Third Round
+Catharine decides to boost her economic might and now plays 
+#27, Scottish Highland to add 3 Sheep to her March. She adds 
+1 Sheep (standing up) to each of Nithsdale, Solway Plain and 
+Eskdale (which now have 2 each). Only Annandale remains at 
+1 Sheep.
+And as for the others:
+•	 Steve: Holds #41, Maid Lilliard. His Cattle increases further 
+to 12 and he secretly places this card face down on his Held 
+Cards pile.
+•	 Vera: Plays #24, Chillingham Cattle to build her Cattle up 
+to 11.
+•	 Thomas: Recruits #19, Johnstone. Because of his discount 
+it only costs 2 and he has 1 Cattle remaining.
+
+Summer Draft - Fourth Round to End
+Keeping our focus on Catharine, here is what she recruits in the 
+last three rounds of Summer:
+Fourth Round: Plays #30 Signal Fires (still no cost!) to add Peels 
+at Elshieshields Tower and Lochmaben Peel:
+•	 Steve: #13, Keeper of Liddesdale
+•	 Vera: #18, Scott
+•	 Thomas: #25, Shiels (adds 2 Horses)
+Fifth Round: This round sees Catharine viewing three cards 
+from her original hand:
+•	 #9, Early Defenses
+•	 #35, Defensible Church
+•	 #38, Devil’s Beeftub
+She holds #38, Devil’s Beeftub, boosting her Cattle to 5.
+•	 Steve: #4, William de Lisle
+•	 Vera: #42, Foggy Night
+•	 Thomas: #36, Day of Truce
+Sixth Round: In the final round of drafting, Catharine recruits 
+#17, Forster, filling her Allied Grayne slot. It costs her just 2, 
+leaving her Cattle at 3 at the end of drafting. The other card, 
+#8, Early Defenses is added to the Summer Cards Discard pile.
+•	 Steve: #9, Early Defenses played (and the Riding the Bound 
+Defense Token secretly drawn); #35, Defensible Church 
+discarded.
+•	 Vera: #5, Henry Percy recruited; #15, Abbot of Kelso 
+discarded.
+•	 Thomas: #33, Bastle Houses played (Sheep in Lyne and 
+Caldew Valleys bastled); #31, Signal Fires discarded.
+Here is Catharine’s Family Sheet as Summer ends:
+Autumn
+Economic Update: With 3 Horses and 1 Held card, Catharine 
+is comfortably within the Horse Limit and Hand Size checks, 
+especially with 7 Sheep. None of the other players added Sheep, 
+but since they all have 5 or less Horses and 2 or less Held cards, 
+they also are fine.
+All players gain Cattle income. For Catharine, that is 6 more 
+Cattle, giving her a total of 9. The other players end with 10 
+(Steve), 11 (Vera), and 5 (Thomas).
+Draw Events: The events are #6, Lochmaben Fair (placed in the 
+Scottish West March) and #9 Ill Week (placed in the Current 
+Events area).
+
+Place Defenses: Catharine is worried about her 2 unbastled 
+Sheep in Eskdale, so she puts the Earl of Angus Defense Token 
+(facedown) there to guard that Farm Region with his 3 dice 
+(and +1 die roll modifier). She placed the Deputy Warden in 
+Annandale and the Rumor next to Caerlaverock to scare off the 
+Dacres from trying a Feud – it is Ill Week after all! The Scottish 
+West March now looks like this:
+The other players also add their Defense Tokens (Steve and Vera 
+each cover 3 Farm Regions; Thomas places his Defense Tokens to 
+cover the two Farm Regions that each have one unbastled Sheep).
+Winter – Determine Order
+Player Cubes are drawn from the Turn Order Container to de-
+termine who will attack first. The order is:
+•	 Steve (Kerr)
+•	 Thomas (Dacre)
+•	 Catharine (Maxwell)
+•	 Vera (Fenwick)
+Winter – Select Target Card
+Now each player selects their Target card for this first round of 
+combats. Catharine’s first priority is to fight the battle in her own 
+Scottish West March to maintain her Notoriety lead there. But 
+since Steve gets to attack first, she can’t be 100% sure she will be 
+able to represent Scotland at Lochmaben Fair. So she will go for 
+one of the Target XXX cards that allow her to fight a Battle in 
+her Home March, but not use her Scottish card since she doesn’t 
+want to lose the +1 die roll modifier if she can’t get to the turn’s 
+only Battle. She settles on the Target Cross-Border March card 
+since that allows her to target the English Middle March if she 
+is kept out of the Battle; EMM is a good Raid target since she 
+can use the Forster die roll bonus there.
+All four player’s Target cards are revealed simultaneously to be:
+Winter – Place Notoriety
+Notoriety placements are made in reverse turn order, so Vera 
+starts those: 
+•	 Vera: 2 in SMM (from Scott Grayne).
+•	 Catharine: 2 in SWM (Provost of Dumfries), 1 in EMM 
+(Forster).
+•	 Thomas: 2 in EMM (Bishop of Carlisle), 2 in DL (Johnstone). 
+He decides to save Day of Truce since he is already going to 
+lead in EWM and DL, and place second in EMM. No need 
+to become a big target!
+•	 Steve: 1 in DL (Carleton).
+Winter – Select Final Target
+Final targets are selected for these first-round combats (with 
+Horses being allocated to these attacks):
+•	 Steve: Raids Debateable Land with 2 Horses.
+•	 Thomas: Raids Annandale with 3 Horses. Although it is 
+earlier than usual, Catharine plays her Warden card to swap 
+the Earl of Angus over to Annandale (trading places with 
+the Deputy Warden). With 3 dice all with a +2 modifier, 
+she has a great chance for a Hanged result, worth a big 6 
+VP.
+•	 Catharine: Fights the Battle of Lochmaben Fair with 2 
+Horses.
+•	 Vera: Raids Liddesdale with 1 Horse since there is no 
+Defense Token present in that Farm Region.
+No one plays a Held Attack card – the three players with Attack 
+cards are all initiating another type of combat. These Held cards 
+will surely prove useful later though.
+Winter – Resolve Combats
+•	 Steve: Rolls 8 dice (2 Reiver, 2 Horses, 1 Grayne, 1 Notoriety, 
+2 Sheep). Scores 2 Sheep and 3 Cattle hits. The Sheep from 
+Debateable Land are taken to Tweeddale and Teviotdale. 7 
+VP earned. Steve’s 2 Horses are expended and placed back 
+in the SMM Horse box on their side.
+
+•	 Thomas: As shown above, he rolls 6 dice (1 Reiver, 3 Horses, 
+1 Grayne, 1 Sheep). Rolls are 2 Sheep hits, 2 Cattle hits, 2 
+misses. Catharine has 3 defense dice (+2 DRM). Natural 
+rolls are 4, 4, 6 (which become 6, 6, 8) resulting in 1 Hanged, 
+1 Capture, and 1 Cattle hit blocked (the second 6 becomes 
+a BLOCK because only the first 6 is a CAPTURE). Thomas 
+scores 5 VP, takes 1 Cattle from Catharine, and adds the 
+Sheep from Annandale to Lyne Valley. Catharine scores 6 
+VP for the Hanged result and adds an orange Player Cube 
+to her gaol in Dumfries. A light blue Feud Cube is added 
+to the Family Seat Naworth in the English West March. 2 
+Horses were lost and go back to the bank; the remaining 1 
+is returned to Thomas’s Horse box (on its side).
+•	 Catharine: Rolls 4 dice at the Battle of Lochmaben Fair (2 
+Horses, 2 Notoriety lead in SWM). Rolls 5, 6, 3, 4 for 2 hits, 
+but 1 hit is blocked (a roll for the English of a 5). Thus only 
+3 VP scored here. She could still pick up 2 Notoriety if no 
+one fights for the English at this battle (or if they score no 
+hits). Catharine’s 2 Horses are expended.
+•	 Vera: Rolls 5 dice (2 Reiver, 1 Horse, 1 Grayne, 1 Sheep) 
+against undefended Liddesdale. Scores 1 Sheep and 3 Cattle 
+hits. Vera scores 5 VP, takes 3 Cattle from Steve, and adds 
+the Sheep from Liddesdale to Coquetdale. A dark blue Feud 
+Cube is added to the Family Seat Fenwick in the English 
+Middle March. Vera’s 1 Horse is expended.
+The Game Continues
+And so, after the first round of Winter on Turn 1, the VP scores 
+are as follows:
+•	 Catharine: 9
+•	 Steve: 7
+•	 Thomas and Vera: 5
+Catharine is the only player with 2 Cubes in her Gaol, so that 
+could extend her lead at the end of the turn. Thomas is in the 
+best position to score Notoriety (he will gain 7 VP if he holds on 
+to first place in the EWM and DL, and maintains second in the 
+EMM). However, he also lost 2 Horses when the Earl of Angus 
+showed up to thwart his Raid on Annandale. It is anyone’s game 
+as the players start to plot out the second round of Winter Com-
+bats. Will Thomas or Vera fight for England at Lochmaben Fair? 
+Will Catharine suffer more Raids now that her Defense Tokens 
+have been revealed and her Warden card expended?
+The four Turn Order Cubes are taken from the west edge of the 
+map, added back to the opaque container, and drawn again from 
+the cup. The scheming for the turn’s second round of combat 
+commences immediately…
+BORDER REIVER NAMES 
+The historical characters from the Border Reiver period 
+have some of the most colorful names found in English 
+or Scottish history, so players of Border Reivers need to be 
+able to earn these flavorful epithets as well. Here’s how it is 
+done, using the table in the bottom left corner of the Border 
+Reivers Scoresheet. 
+Once you have determined the order of finish of your play-
+ers, write down their first names in that order in the middle 
+“Player Name” column. Then add the name of the Family 
+that each player controlled in the right-most column. 
+The left-hand column is filled in for just the players finish-
+ing in 2nd through 6th places (since the 1st place player is 
+always a Laird or Lady). Use the Name Bank to the right to 
+compute the exact name for this left hand column referenc-
+ing the place of finish with the final (ones) digit of the player’s 
+score. Once all three boxes are complete for a player you can 
+read their full Reiver name from left to right. 
+Example: A game finishes with these final scores: 
+- Catharine (playing as Maxwell): 159 VP 
+- Vera (Fenwick): 154 VP 
+- Thomas (Dacre): 153 VP 
+- Steve (Kerr): 143 VP 
+- Jane (Grey): 139 VP 
+- David (Hume): 101 VP 
+These players’ computed Border Reiver names are: 
+- Catharine Maxwell the Lady 
+- Wantoun Vera Fenwick 
+- Wynking Thomas Dacre 
+- Hen Harrow Steve Kerr 
+- Gleed Jane Grey 
+- Ill-Drowned David Hume 
+(For games with four players you can skip the 3rd and 4th 
+rows and just use the naming in rows for 2nd, 5th and 6th 
+where some of the most colorful nicknames appear.)
+
+Attack – The initiation of combat by a Player, either a Raid, 
+Feud, Gaolbreak or Battle. (7)
+Attack Indicator – A two-sided counter placed on the map 
+next to the target of an attack. (2.12, 7.4)
+Autumn – The second phase of each turn where Players 
+perform administrative tasks and prepare for the Winter 
+combats. (6)
+Bastle – A Sheep piece that has been flipped on its side to 
+denote that it is protected from Raids. Historically a “bastle” 
+is a fortified farmhouse; in this game it is also used as a verb 
+to describe the act of protecting a Sheep. (5.2.6)
+Battle – One of the four types of combat; occurs at a Battle-
+field when the proper event has been drawn. (7)
+Battlefield – Map location that holds a Battle event. (2.1.1)
+Block – Defensive combat result that nullifies a hit by the 
+attacker. (7.6)
+Bonus Action – Extra actions granted to Families with the 
+lowest VP totals during the Spring of the first two turns. (8.3)
+Capture – Defensive combat result that causes one of the 
+attacker’s Horses to be lost and one of the attacker’s Player 
+Cubes to be placed in Gaol. (7.6)
+Card Decks Display – Cardstock card holding various card 
+decks and discard piles. (2.2)
+Castle Garrison – A Permanent Defense that provides 2 
+defense dice against Raids. (2.1.1)
+Cattle – The least valuable type of Livestock; acts as the 
+game’s currency. (2.7.1, 5.2.2)
+Cattle Hit – Offensive combat result that can cause Cattle 
+to move between Families. (7.6)
+Cattle Income – Economic statistic for each Family based 
+on the number of Sheep they possess; determines how many 
+new Cattle they gain in Autumn. (6.1)
+Current Events Area – Three boxes in the southeast corner 
+of the map to hold Events that are active this turn which do 
+not occur at a Battlefield. (6.2)
+Debateable Land – The only Farm Region outside of any 
+March, leaving it extremely vulnerable. (2.1.1)
+Default Action – A less powerful drafting move taken to 
+bolster Livestock, defenses or Notoriety. (5.5)
+Defense Token – A counter received during setup or Sum-
+mer that is placed face down during the Autumn to guard 
+against upcoming Attacks. (5.2.1)
+Discard – One of the four Summer drafting actions; allows 
+you to take one Default Action. (5.4)
+EEM – English East March. (2.1.1)
+EMM– English Middle March. (2.1.1)
+Event Card – A card from the Event Deck that presents a 
+one-Winter-long historical opportunity for the Players. (2.9)
+Event Deck – The deck of Event Cards placed on the Card 
+Decks Display. (2.2)
+Event Discards – Event Cards that have been drawn on a 
+previous turn. (2.2)
+EWM – English West March. (2.1.1)
+Family – The kinship group in control of a single March. 
+(1.1) 
+Family Seat – Map location that holds the Feuds With Box 
+for a Family and a militia Defense Token box. (2.1.1)
+Family Sheet – Player mat tracking Recruited cards, Held 
+cards, Sheep On Map, and combat dice for a single Family. 
+(2.4)
+Farm Region – Map location that holds the Sheep allocated 
+to this region and a Defense Token box. (2.1.1)
+Feud – One of the four types of combat; occurs at a Fam-
+ily Seat where one of your Player Cubes marks an existing 
+Feud. (7)
+Feuds With Box – Holds Player Cubes representing those 
+Families with a grudge against the Family controlling this 
+March. (2.1.1)
+Gaol – Holds Player Cubes representing those Families who 
+have captives in the custody of the Family controlling this 
+March. (2.1.1)
+Gaolbreak – One of the four types of combat; occurs at 
+a Gaol where one of your Player Cubes marks a previous 
+Capture. (7)
+Hand Size – Economic statistic for each Family based on 
+the number of Sheep they possess; limits how many cards 
+they can Hold in Autumn. (6.1)
+Hanged – Defensive combat result that causes one of the 
+attacker’s Horses to be lost and immediately awards VP to 
+the defender. (7.6)
+Held Card Box – An area of a Family Sheet reserved to hold 
+a Family’s hand of cards to be used later in the game. (2.4)
+Hit – Combat result that tracks progress toward winning a 
+Battle, Feud, or Gaolbreak. (7.6)
+Key Terms Index
+
+Hold – One of the four Summer drafting actions; results in 
+a card being placed face down in your Held Card Box. (5.3)
+Home March – The March associated with a specific Fam-
+ily. (2.1.1)
+Horse Limit – Economic statistic for each Family based on 
+the number of Sheep they possess; limits how many Horses 
+they can have in Autumn. (6.1)
+Horses – The most valuable type of Livestock, representing 
+your attack power. (2.7.3, 5.2.4)
+Livestock – The aggregate term for Cattle, Horses, and 
+Sheep. (2.1.2, 2.7)
+March – One of six administrative districts, each controlled 
+by a single family. (2)
+Notoriety – Numerical value tracked for each March to 
+depict which Family has the strongest reputation there. (7.3)
+Notoriety Track – Set of 12 boxes near each March; Player 
+Cubes are moved along this Track to display Notoriety for 
+each Family. (2.1.1, 7.3)
+Peel – A Permanent Defense that provides 1 defense die 
+against Raids. (2.1.1)
+Permanent Defense – A Castle Garrison or Peel; each one 
+protects two adjacent Farm Regions. (2.1.1, 5.2.5)
+Play – One of the four Summer drafting actions; results in 
+livestock or defenses being added to your March. (5.2)
+Player – Human participant in the game. (1.1)
+Player Cube – Wooden Cube in one of the Family colors 
+used to mark Turn Order, Feuds, captives in Gaol, VP, and 
+Notoriety. (2.13)
+Raid – One of the four types of combat; occurs in a Farm 
+Region and may result in Cattle or Sheep changing hands. (7)
+Randomization Cups – Opaque cups used to draw Cubes 
+or counters at random. (3.5)
+Recruit – One of the four Summer drafting actions; results 
+in a card being placed face up on your Family Sheet. (5.1)
+Rising of the North – The only Event Card that creates a 
+Battle off-map; although it acts as a Battle it is placed in the 
+Current Events area and special rules apply to its resolution 
+(6.2, 7.6).
+Scots’ Dyke Marker – Counter that may be placed in the 
+Debateable Land on Turn 2; if so all Raids on this Farm 
+Region have one hit blocked. (2.1.1)
+SEM – Scottish East March. (2.1.1)
+Sheep – A Livestock which is more valuable that Cattle 
+but less valuable than Horses, representing your economic 
+wealth. (2.7.2, 5.2.3)
+Sheep Hit – Offensive combat result that can cause Sheep 
+to move between Families. (7.6)
+Sheep On Map Tracker – A table in the middle of each 
+Family Sheet that contains economic statistics used each 
+Autumn. (2.4, 6.1)
+Sixth Round – Final round of Summer drafting where one 
+of the two cards in each Family’s hand is added to the Sum-
+mer Cards Discard pile. (5.6)
+SMM– Scottish Middle March. (2.1.1)
+Spring – The fourth and final phase of each turn where they 
+game is reset for the next turn and scores are recorded. (8)
+Summer – The first phase of each turn where Players draft 
+cards to strengthen their families. (5)
+Summer Card – A card in one of the three Summer Decks 
+that can be drafted to improve the abilities of a Family: come 
+in three types, thirteen subtypes. (2.8) 
+Summer Cards Out-of-Play – A pile of Summer Cards 
+that have been expended and are now out of the game. (2.2)
+Summer Cards Discard – A pile of Summer Cards that 
+were Discarded; cards here may reenter play by various 
+means. (2.2)
+SWM – Scottish West March. (2.1.1)
+Target Card – One of six cards given to each Family at the 
+start of the game; one is expended whenever an attack is 
+executed. (2.11, 7.4)
+Target Discards – A pile of Target Cards that have been 
+expended and are now out of the game. (2.2)
+Town – Map location that holds the Gaol for a March and 
+a militia Defense Token box. (2.1.1)
+Trait Card – Additional ability drafted for a Family if play-
+ing with the Traits Advanced Rule. (10.1)
+Turn Order – Order in which Families resolve their attacks 
+in Winter; shown by Player Cubes in the Winter Combat 
+Area. (2.1.2, 7.1, 7.7).
+Victory Track – Cardstock card holding one Player Cubes 
+from each Family to track scores. (2.3)
+Walled Town – Berwick and Carlisle; special Towns where 
+Gaolbreaks are harder to execute. (2.1.1)
+Warden Card – A card given to each Family that can be 
+used once in the game to reposition their defenses after an 
+attack has been declared (7.4).
+Winter – The third phase of each turn where attacks are 
+initiated to score VP and gain livestock. (7)
+Winter Combat Area – Area on the west edge of the map 
+used to display Turn Order and selected Target Cards. 
+(2.1.2, 7.2)
+
+SCORE SHEET
+Player Names:
+Traits:
+TURN 1
+TURN 2 
+RUNNING TOTAL
+TURN 3 
+Warden’s Tithe, Bills of Complaint Var
+Ballads 
+RUNNING TOTAL
+Cattle (End Game), per 2 
+Sheep (End Game), per 2 
+Horses (End Game), per 2 
+FINAL TOTAL
+ 
+ 
+ 
+ REIVER NAME 
+PLAYER NAME 
+FAMILY NAME
+1st
+2nd
+3rd
+4th
+5th
+6th
+the Laird
+or Lady
+Final digit
+fof score
+fFinal d
+Fin
+ 
+0, 1, 2 
+3, 4, 5 
+6, 7 
+8, 9
+2nd Bold 
+Wantoun 
+Kinmont 
+Sweetmilk
+3rd 
+Skinabake 
+Wynking 
+Topping 
+As-It-Looks
+4th 
+Auld 
+Hen Harrow 
+Give-It-Tem 
+Unhappy
+5th 
+Fingerless 
+Nebless (lost nose) Halﬂugs (lost ear) Gleed (squints)
+6th 
+Ill-Drowned Evil-Will-It 
+Curst 
+Ill-Will-It
+Name Bank:

@@ -1,0 +1,155 @@
+BILLABONG - RULES (modified slightly for CS405) 
+ 
+BILLABONG is a strategy race game. Each player controls a team of five kangaroos all 
+of the same color, either Red or Green. The billabong is the lake in the center of the 
+board, and the stream flowing into the billabong is the start/finish line for the race. The 
+winner is the player who first gets ALL his kangaroos across the start line, around the 
+billabong in a clockwise direction, and then across the finish line. The game starts with 
+the players taking turns to place one kangaroo anywhere on the board until all have been 
+placed. Red moves first. Movement rules will be described shortly. 
+ 
+The board is shown below. It is 16 squares across and 14 squares down. We will denote 
+kangaroos by "r", "R", "g", or "G" to stand for red or green. A lowercase letter means the 
+kangaroo has not yet crossed the starting line, while an uppercase letter means the 
+kangaroo has crossed the starting line. 
+ 
+ 
+To specify a location on the board we will use a coordinate system of x,y. The square in 
+the upper left hand corner is in location 1,1. The square in the lower right hand corner is 
+in location 16,14. Note that this follows the origin for graphic systems, not the origin for 
+mathematics (where 0,0 is the lower left corner instead of upper left). 
+
+Walking Turns 
+ 
+Players take turns in the usual way, and may move just ONE of their kangaroos. The 
+chosen kangaroo may WALK one square in any direction provided it moves to a vacant 
+square. The player's turn ends when the kangaroo has been moved one square. 
+ 
+In the figure below, the red kangaroo at coordinate 2,2 can move to 1,1 or 2,1 or 3,1 or 
+1,2 or 3,2 or 1,3 or 2,2. It cannot move to 3,3 since that is occupied by another kangaroo. 
+R
+R
+ 
+ 
+ 
+Jumping Turns 
+ 
+Instead of walking, the chosen kangaroo may jump one or more of the other kangaroos 
+which may be of ANY color. To jump another kangaroo, which is called the "pivot" 
+kangaroo, the pivot must lie on the same row, column, or diagonal as the jumping 
+kangaroo. The chosen kangaroo may continue to jump other pivot kangaroos IN THE 
+CURRENT TURN. In each single jump the jumping kangaroo must land an EQUAL 
+distance on the other side of the pivot and on the same row, column, or diagonal. In 
+addition there are four other rules about jumping as follows: 
+ 
+1. The chosen kangaroo may only jump ONE pivot kangaroo in each jump of the 
+turn. 
+2. The kangaroo must not land on top of another kangaroo. 
+3. The kangaroo must not jump off the board. 
+4. The kangaroo must not jump across any part of the billabong. But note that the 
+four diagonals with squares that join at the corners of the billabong do not pass 
+across the billabong. 
+
+Illegal Jumps 
+ 
+The figure below illustrates various illegal jumps: 
+ 
+R1
+g2
+R3
+g1
+R4
+ 
+ 
+The kangaroo marked "g1" cannot jump: 
+ 
+R4: because it would go off the board 
+R2: because it would jump more than one kangaroo (R3) 
+R1: because it would jump over part of the billabong 
+g2: because it would land on kangaroo G3 
+ 
+The Referee Kangaroo 
+ 
+One of the kangaroos in the game is colored black. This is a "referee" kangaroo that is 
+used as a placeholder to mark the original location of the jumping kangaroo. When a 
+kangaroo is beginning its jump, the referee is placed into the starting square of the 
+jumping kangaroo. If the player loses track of his jumps he can make a fresh start 
+because the referee marks the starting point. The player is NOT allowed to decide to 
+move another of his kangaroos after starting his turn. 
+ 
+Since the referee is a kangaroo is may be jumped as a pivot. This is illustrated below: 
+ 
+ 
+In one turn the kangaroo G1 can jump over G2 to 3,6 then jump G3 to 3,4 then jump the 
+referee to 7,4 and finally jump R2 to end up at 7,6. 
+
+Starting and Finishing the Game 
+ 
+Recall that we stated that to start the game each player takes a turn to place one of his 
+kangaroos on ANY vacant square. Why don't they start lined up along the starting line? 
+They could, but you have seen how kangaroos can jump a whole series of pivot 
+kangaroos, so clearly it is sometimes possible for a kangaroo to make a lot of progress 
+around the billabong in a single turn. There is often an advantage instarting well back 
+from the starting line because that might allow big jumps to be made. When all the 
+kangaroos have been placed on the board, movement can start. 
+ 
+Each kangaroo must cross the start line, travel around the billabong, and will eventually 
+cross the finish line. When a kangaroo finishes the course it is picked up and placed in 
+the billabong to "cool off". It plays no further part in the game. 
+ 
+Hints on Play 
+ 
+Because the winner must finish the course with ALL his kangaroos, it is very important 
+to keep all the kangaroos "in touch." That is, try not to leave one far behind. If you do, 
+the "tail end Charlie" will not find any pivot kangaroos to jump and will have to walk all 
+the way home. By that time, your opponent may have won the game. Remember that the 
+referee, being a kangaroo, can be jumped. Obviously this will require that at least one of 
+the individual jumps will be in a backward direction. Blocking tactics are often 
+important to prevent an opponent from making a lot of progress on his next turn. 
+ 
+Move Notation 
+ 
+For purposes of the AI game tournament we will use the following notation to specify 
+moves. 
+ 
+A walking move consists of the letter "W" followed by a space, the source coordinate of 
+the kangaroo to move separated by a comma, followed by a space, followed by the 
+destination coordinate of the new location. For example: 
+ 
+ 
+W 2,2 3,2 
+ 
+Results in moving from: 
+ 
+ 
+to 
+ 
+ 
+ 
+ 
+
+A jumping move consists of the letter "J" followed by a space, the source coordinate of 
+the jumping kangaroo, followed by a list of coordinates of pivot kangaroos in the event of 
+multiple jumps. Note that we specify the coordinates of pivot kangaroos, not landing 
+coordinates. 
+ 
+For example, given the board as shown below: 
+ 
+R1
+G4
+R3
+ 
+ 
+The following move would jump kangaroo G3 all the way around the billabong: 
+ 
+J 3,5 3,3 6,1 12,4 13,7 11,6 13,7 11,9 
+ 
+This will land the kangaroo at 7,9 where it will then be removed and placed in the 
+billabong since it has crossed the finish line. 
+ 
+Note that we don't have to make all these jumps. We could also just stop after jumping 
+G2: 
+ 
+J 3,5 3,3 
+ 
+This would place kangaroo G3 at coordinate 3,1.

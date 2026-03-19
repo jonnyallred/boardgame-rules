@@ -1,0 +1,1183 @@
+Manual, Operations: Credits
+ credits
+table of contents
+Game Designer:
+Larry Harris
+Development:
+Mike Selinker, with contributions from
+ 
+Richard Baker and Bill McQuillan
+Editor:
+Jennifer Clarke Wilkes
+Art Directors:
+Ryan Sansaver and Peter Whitley
+Cartographer:
+Todd Gamble
+Production Designers:
+Brian Dumas, Lisa Hanson, and Abigail Fein
+Cover Illustrator:
+Tommy Lee Edwards
+Photographer:
+ 
+Craig Gibson
+Interior Photos:
+ 
+ 
+Courtesy of the U.S. National Archives
+ 
+ 
+and Records Administration
+Playtest Groups:
+ 
+A Bridge Too Many, Cincygamers,
+ 
+The Gathering of Friends, Hasbro Games Group,
+ 
+Houston Gamers, I3 Lunchtime Gamers,
+ 
+McKinney Gamers, The Nixon Administration,
+ 
+Penna Volunteers, RPI Gaming,
+ 
+South Coast Area Boardgamers,
+ 
+Westbank Gamers, and Wizards at War
+Thanks to Aaron Alberg, Mary-Elizabeth Allen,
+Stephen Baker, Paul Bazakas, Clare Brodie,
+Monique Catino, Rob Daviau, Martin Durham, Mike Gray,
+Brian Hart, Barry Holldorf, Kurt Isensee, Mary Kirchoff,
+Rob Lazzaretti, Darrell Merino, Travis Petkovits,
+Jason Pipes, Faith Price, Kate Ross, Patrick Ross,
+and Liz Schuh.
+ Step 1: Place Units on Battle Board
+ Step 2: Attacking Units Fire
+ Step 3: Defending Units Fire
+ Step 4: Remove Casualties
+ Step 5: Determine Control
+ Example of Combat
+ Special Combats
+ Antiaircraft Fire
+ Blockhouses
+ Naval Bombardment
+ Reinforcements
+ Check for Victory
+Appendix 1: Order Cards
+Advanced Rules
+ Fortune Cards
+ Tactics Cards
+Object of the Game
+Game Setup
+The Combat Units
+The Game Board
+ Axis Setup
+ Allies Setup
+Sequence of Play
+ Order Cards
+Movement
+ Maximum Units in a Zone
+ Combat
+
+Manual, Operations: Object of the Game
+Object of the game
+It is the morning of June 6, 1944. The largest combined operation in the history of warfare is beginning: Operation
+Overlord, the invasion of German-held Normandy. 130,000 soldiers of the United Kingdom, Canada, and the United 
+States are assaulting Fortress Europe. You and your fellow world powers control their fates. One side is the Axis: Ger-
+many, which has turned the beaches of Normandy into a deadly killing zone. Breaching its defenses are the Allies: the 
+United Kingdom (U.K.) and the United States (U.S.). The future of Europe, and of the world, hangs in the balance.
+Object of the Game
+To win, you must meet one of the following conditions.
+If You Are an Allies Player (United Kingdom and United States): Capture the zones containing the cities of
+Cherbourg, St. Lô, and Caen and hold these zones for one complete turn.
+If You Are the Axis Player (Germany):
+Prevent the capture of those three city zones, either by repelling or destroying the Allied forces. If the Allied side has 
+not achieved its goal by the end of turn 10, you win.
+
+Manual, Operations: Game Setup
+game setup
+One player takes the side of the 
+Axis, and one or two players take the 
+side of the Allies. In a three-player 
+game, each player controls one world 
+power. If two people play, one
+controls both Allies powers.
+Three-Player Game
+Player 1: 
+ Germany
+Player 2: 
+Player 3: 
+ United States
+Two-Player Game
+Player 1: 
+ Germany
+Player 2: 
+ 
+ and United States
+If you control both the United 
+Kingdom and the United States, 
+keep those powers’ units separate.
+Once you’ve decided who will play 
+which power, prepare the game for 
+play. It contains the following
+components.
+Game Board
+The game board is a map of the 
+historical battleﬁ eld of Normandy, 
+France. It is divided into zones
+separated by border lines. Place the 
+game board in the center of the table. 
+The Allies player(s) should sit near 
+its top (northern) edge, and the Axis 
+player should sit beside the bottom 
+(southern) edge.
+Turn Marker
+This is used to indicate the passage
+of turns in the game. Remove the 
+turn marker and place it on the 
+space numbered “1” of the turn track 
+printed on the game board.
+Battle Board and Dice
+The battle board is a large card with columns that list attacking and
+defending land units and their combat strength. When combat occurs, the 
+players involved place their land units on the battle board. Combat is resolved 
+by rolling dice. Place the battle board next to the game board, and the dice 
+next to the battle board.
+Reinforcement Charts
+Each of the three powers has one reinforcement chart listing new land units 
+that come into play for it during the reinforcement steps. See Reinforcements 
+on page 13 for more information.
+Order Deck
+This is a set of order cards that determine the course of the game. For your 
+ﬁ rst game, use only these cards. Set aside all the others (these are optional, for 
+use in the advanced game).
+Sort the cards in numerical order to form a face-down deck (number side 
+showing), with card 1 at the top and card 16 at the bottom. Place this deck in 
+the “Orders” box on the game board.
+Combat Forces
+Take the plastic pieces that represent your power’s units. Each power is
+color-coded as follows.
+Power
+Color
+Symbol
+Axis (Germany)
+Gray
+Tan
+United States
+Green
+
+This section provides detailed information for each unit in the game. Each entry has a short description, including 
+national identiﬁ cation, the unit’s attack and defense, and the number of zones it can move. Some unit types also have 
+special abilities, which are summarized below these statistics.
+Infantry, artillery, tanks, and blockhouses can attack and defend in zones. Only blockhouses can attack invasion 
+beachheads. All but blockhouses can move to adjacent zones. All land units count for control of a zone (see Determine 
+Control on page 10).
+Infantry
+Description: Soldiers who make up the backbone of any ground force.
+ 
+ 
+ 
+German Army
+British National Army
+U.S. Army
+Attack: 1
+Defense: 2
+Move: 1
+Artillery
+Description: Heavy gun batteries that can also shoot down attacking air units.
+ 
+ 
+88 mm 
+Allies
+105 mm howitzer 
+Attack: 2
+Defense: 2
+Move: 1
+Shoot Down Air Units: Artillery can shoot down attacking air units. Whenever an order card so directs, each artillery 
+can ﬁ re on one air unit in its zone. Roll one die per artillery against an air unit: On a roll of 1, that air unit is destroyed.
+
+Tanks
+Description: Armored units that pack a major punch in an attack.
+ Panther
+Allies
+Sherman
+Attack: 3
+Defense: 2 (3 for Axis)
+Move: 2
+Move 2 Zones: A tank can move up to 2 adjacent zones, but only if the ﬁ rst zone is unoccupied. The ﬁ rst must be 
+adjacent to the starting zone and the next adjacent to the ﬁ rst. A tank that encounters enemy land units in the ﬁ rst zone 
+it enters must stop there. 
+Blockhouses (Axis only)
+Description: Fortiﬁ ed batteries that protect the shorelines.
+Attack: 3
+Defense: 1
+Move: —
+Fire to Sea: Blockhouses can make a special targeted attack against the beachheads, when so directed by an order 
+card. Each blockhouse may ﬁ re once at an Allies land unit in a beachhead box within its ﬁ ring arc, indicated by an
+arrow. (See Special Combats on page 13 for more information.) 
+
+Air Units (Allies Only)
+Fighters and bombers can patrol and strike zones, respectively. They have unlimited movement and can enter zones 
+containing enemy land units. However, they are exposed to antiaircraft ﬁ re in zones that contain enemy artillery.
+Air units can never return ﬁ re.
+Air units do not remain on the game board for the whole turn and cannot control zones. Thus, they do not have attack 
+and defense values. Instead, order cards control when they can ﬁ re and be ﬁ red upon. They have no movement rating 
+either; air units can move to any zone. When they have completed their actions they “return to base” and are placed on 
+the airﬁ eld. The order cards indicate which air units return to base and when.
+Fighters
+Description: Small, fast aircraft that strafe enemy land units.
+Spitﬁ re 
+P-38 Lightning
+Strafe: Fighters do not attack when they enter a zone containing Axis land units. They are on patrol, waiting for enemy 
+movement. They have the opportunity to strafe any Axis land units that move into or out of the zone. (See Special 
+Combats on page 13 for more information.)
+Bombers
+Description: Mammoth, long-range aircraft that drop bombs on their targets.
+Halifax
+B-17
+Strike: Unlike ﬁ ghters, bombers can strike immediately upon entering a zone. Roll one die per bomber; a die roll 
+or 3 or less is a hit, eliminating a land unit of the Allies player’s choice from that zone. A bomber cannot enter zones 
+containing Allies land units.
+
+Manual, Operations: The Game Board
+Zone 
+Victory City 
+Beachhead 
+Airborne Box 
+AirField
+the game board
+The game board is divided into 41 
+zones. Along with the zones are the 
+historical points of entry of the
+Allied forces on June 6, 1944,
+identiﬁ ed by the names of beaches 
+(such as Omaha Beach) and
+airborne troop landing areas.
+These are indicated by large, light-
+colored arrows. 
+At the northern edge of the game 
+board is an area marked “Airﬁ eld
+“A
+“
+”
+where air units are placed when not 
+attacking. Along the left side of the 
+board is a track numbered from 1
+to 10 to mark the number of turns 
+played.
+Six zones along the southern and 
+eastern edges of the game board 
+contain sector markers for Axis 
+reinforcements. There are two for 
+each sector: Rennes, Chartres, and 
+Rouen.
+The game board has printed
+silhouettes that indicate the number 
+and type of land units to be placed 
+in zones and beachheads. National 
+emblems and unit identiﬁ cation also
+distinguish the invading forces. All
+forces in zones at the start of the 
+game are Axis. Place all the
+indicated units as listed. (See page 5 
+for a listing and illustrations of the
+various units.) 
+Axis Setup
+Place the pieces so that they match 
+the silhouettes printed on the map. 
+For example, the zone containing 
+Bayeux (located beside Gold Beach, 
+near the middle of the board) shows
+silhouettes of two infantry and two
+blockhouses. Place the correspond-
+ing gray pieces in that zone.
+Also, place gray pieces of the
+appropriate types on the correspond-
+ing spaces of the German
+reinforcement chart.
+Allies Setup
+At the beginning of the game, most 
+of the British and American forces 
+are at sea, landing their troops on the 
+beaches. 
+Place the listed units belonging
+to the United States on the two 
+American beachhead boxes (Utah 
+and Omaha beaches), matching the 
+silhouettes in the boxes. Place the
+listed units belonging to the United 
+Kingdom in the boxes for the other 
+beachheads.
+Place the listed number of United 
+Kingdom and United States infantry 
+(representing paratroopers) in the 
+zones containing the “British
+Airborne” and “American Airborne”
+boxes.
+Also, place pieces of the appropriate
+colors and types on the correspond-
+ing spaces of the American and
+British reinforcement charts. 
+Place the air units of the Allies on
+the Airﬁ eld area in their
+appropriately labeled spaces.
+
+Axis & Allies: D-Day is played in 
+a series of turns. A turn consists of 
+one pass through the sixteen order 
+cards, then a check for victory.
+Order Cards
+The order cards drive the sequence 
+of play. They break each turn into 
+distinct phases. During a given 
+phase one side is active. If there are 
+three players, both Allies players 
+take their actions when an order card 
+directs them to do so.
+During each turn of play, you follow 
+the instructions on the order cards, 
+one at a time from the lowest number 
+to the highest, then place the card 
+face up in the “Completed Orders” 
+box. When you have completed the 
+instructions on all the cards, check 
+for victory. The turn is then over. 
+Flip the deck over, return it to the 
+“Orders” box, and begin the next 
+turn of play. 
+As the game progresses, certain 
+cards can be removed from the deck. 
+Order card 1, for example, describes 
+the Allied airborne assault, which 
+happens only on the ﬁ rst turn. This 
+card is removed from the deck after 
+play, leaving cards 2 through 16 
+for the remainder of the game. As 
+well, if all units named on an order 
+card have been eliminated or are no 
+longer available, the card is no longer 
+needed and can be removed from the 
+deck.
+How to Read an Order Card
+Each order card has a symbol or 
+symbols corresponding to the active 
+player. 
+The top of the card lists which side is 
+active. In the center of the card is the 
+name of the action; if the other side 
+can respond, that is shown here in 
+smaller text. 
+The bottom of the card describes the 
+actions to be taken that turn. These 
+are described in detail under
+Appendix 1: Order Cards on page 15.
+For example, the card shown above 
+lists orders for the Axis player. The 
+center of the card reads “Block-
+houses Fire to Sea.” The bottom of 
+the card lists instructions for
+completing this action.
+This card lists orders for both the 
+Allies (active) and the Axis play-
+ers. The ﬁ rst line in the center of 
+the card reads “Allies Attack.” The 
+second says “Axis Defends.” This 
+means that the Allies player makes 
+attack rolls ﬁ rst, then the Axis player 
+makes defense rolls (see Combat on 
+page 10).
+Movement
+Each side moves its units when 
+instructed to do so on order cards. 
+Different types of units move on 
+different phases in the turn. Move as 
+many of the appropriate units as you 
+wish. You do not have to move any 
+units. A given unit type cannot move 
+again until a card so directs.
+A land unit can move only to a zone 
+adjacent to its current zone.
+Whenever a land unit enters a zone 
+or begins its turn in a zone that
+contains enemy land units (those
+belonging to an opposing player), 
+this creates a combat situation.
+Combat situations are resolved only 
+when the appropriate order card is 
+drawn (see Combat on page 10).
+Land units of opposing sides in a 
+given zone are considered to be 
+“locked in combat.” Land units
+cannot move out of that zone as long 
+as enemy land units are present.
+Tanks can never move through a 
+zone occupied by enemy land units.
+There are two kinds of air units: 
+bombers and ﬁ ghters. Only the
+Allies have air units.
+Air units have unlimited movement. 
+When an order card directs an air 
+unit to move, simply place it on the 
+desired zone.
+Maximum Units in a Zone
+The maximum number of land units 
+(the total of tanks, infantry, and 
+artillery) a side can have in a zone is 
+eight. In the case of the Allies, the 
+total of United Kingdom and United 
+States land units in a zone cannot 
+exceed eight. Air units (Allies only) 
+and blockhouses (Axis only) do not 
+count against this limit.
+The maximum number of ﬁ ghters 
+that can patrol a zone is four.
+
+ADDRESS TO THE HOUSE OF COMMONS
+The passage of the sea has been 
+made with far less loss than we 
+apprehended. The resistance of the 
+batteries has been greatly weakened
+by the bombing of the Air Force,
+and the superior bombardment of
+our ships quickly reduced their Fire 
+to dimensions which did not affect 
+the problem. The landings of the 
+troops on a broad front . . .
+have been effective, and our troops 
+have penetrated, in some cases, 
+several miles inland. . . . The 
+enemy will now probably endeavour 
+to concentrate on this area, and in
+that event heavy Fighting will soon 
+begin and will continue without
+end, as we can push troops in and 
+he can bring other troops up. It 
+is, therefore, a most serious time
+that we enter upon. Thank God, we
+enter upon it with our great Allies
+all in good heart and all in good 
+friendship.
+Winston Churchill
+Prime Minister
+June 6, 1944
+Combat
+When opposing land units are in the
+same zone, a combat situation
+occurs. You resolve combat by 
+rolling dice (also known as ﬁ ring). 
+Resolve each combat situation
+separately, zone by zone. Combat 
+follows a speciﬁ c sequence of steps.
+Use the battle board to resolve
+combat between land units. Air 
+units, antiaircraft ﬁ re, blockhouses 
+ﬁ ring to sea, and naval bombardment 
+do not use the battle board. See
+Special Combats on page 13 for 
+details about these situations.
+You complete just one set of steps in 
+a combat situation. This is referred 
+to as a cycle of combat.
+Whenever an order card directs a
+side to attack, it also directs the
+opposing side to defend. Attacking
+and defending units are considered 
+to ﬁ re at the same time, but for ease
+of play you roll dice in sequence:
+attacker ﬁ rst, then defender. You
+must attack when an order card so
+directs.
+A unit may ﬁ re any number of times
+in a turn, but only once per order 
+card.
+When a unit ﬁ res, you roll a die. An
+attacking unit scores a hit if you 
+roll its attack or less. A defending
+unit scores a hit if you roll its 
+defense or less. For example, a unit 
+with a defense of 2 scores a hit only 
+on a roll of 1 or 2; it “defends on a
+2.” (Sometimes the expression “hits 
+on a” number is used.)
+When one of your units scores a hit, 
+the opposing player decides which 
+enemy unit it applies to. A unit that 
+takes a hit becomes a casualty. The
+opposing player may designate
+casualties in any order. (There are 
+some exceptions to this rule; see 
+Targeted Attacks on page 13.)
+Combat Sequence
+1. Place units on battle board
+2. Attacking units ﬁ re
+3. Defending units ﬁ re
+4. Remove casualties
+5. Determine control
+Step 1:
+Place Units on Battle Board
+The battle board has two sides, 
+labeled “Attacker” and “Defender.”
+Place all attacking and defending
+land units from a zone on their 
+respective sides, in the numbered 
+columns that contain their names 
+and silhouettes. The number in a 
+unit’s column identiﬁ es that unit’s
+attack or defense.
+Step 2:
+Attacking Units Fire
+All the units on the attacker’s side
+ﬁ re during this step. Roll one die for 
+each attacking unit. It’s generally
+easiest to roll for all units of a
+given attack at once, but this is not 
+required. For each hit scored, the 
+defender must choose one of his or 
+her units and move it to the casualty 
+zone. These units are not out of the 
+game just yet. They will be able to 
+counterattack.
+Step 3:
+Defending Units Fire
+All the units on the defender’s side 
+ﬁ re during this step. Roll one die 
+for each defending unit (including
+casualties). It’s generally easiest to 
+roll for all units of a given defense 
+at once, but this is not required. For 
+each hit scored, the attacker moves 
+one unit to his or her casualty zone.
+Step 4:
+Remove Casualties
+Clear both casualty zones, destroy-
+ing all units there. (Return them to 
+their owners’ inventories.)
+Step 5:
+Determine Control
+After both attacker and defender 
+have made one set of rolls, any
+surviving units are replaced in the 
+original zone. (It’s quite possible for 
+both Axis and Allies land units to
+remain in the same zone after
+combat.)
+You control a zone if you have the 
+only land units in that zone. A zone 
+that does not contain land units does
+not count as controlled by either side.
+
+Example of Combat
+Germany attacks the United Kingdom forces in the victory city of Caen.
+Step 1: Place Units on Battle Board.
+The Axis is the attacker. Its player places the infantry, artillery, and tanks in the appropriate columns on the attacker’s 
+side of the battle board (1, 2, and 3, respectively). The United Kingdom’s tank, infantry, and artillery are placed in the 
+appropriate columns on the defender’s side (in this case, all defend on a 2).
+Step 2: Attacking Units Fire.
+Germany’s player rolls three dice for the infantry and gets a 4, a 2, and a 5, all misses. Rolling one die for the artillery
+produces a 2, which is a hit, and rolling three dice for the tanks give two 2s and a 5, for two more hits. The U.K.’s 
+
+player chooses two infantry and one artillery as casualties and moves them to the defender’s casualty zone.
+Step 3: Defending Units Fire.
+The U.K.’s player rolls seven dice, needing a 2 or less to hit on each: one for the tank, two for the infantry, and four for 
+the artillery (even though two infantry and one artillery are in the casualty zone). The U.K.’s player rolls a 1, a 2, two 
+3s, a 4, and two 5s, for a total of two hits. The Axis player chooses two infantry as casualties and moves them to the 
+defender’s casualty zone.
+Step 4: Remove Casualties.
+The U.K.’s two infantry and one artillery and the two Axis infantry are destroyed.
+Step 5: Determine Control.
+Both the United Kingdom and the Axis have land units remaining in the zone, so neither side controls it and a combat 
+situation still exists. The next time an order card directs an attack, a new cycle of combat will begin.
+
+APPEAL TO THE FRENCH PEOPLE
+Frenchmen,
+The German and Anglo Saxon armies 
+have met upon our soil. France will 
+therefore become a battleField.
+OfFicials, civil servants, railway-
+men, workers stand Firm at your 
+post to continue the life of the 
+nation and accomplish the tasks 
+which are incumbent upon you.
+Frenchmen, do not aggravate our 
+misfortune by acts which risk 
+bringing tragic reprisals upon you. 
+It will be the innocent French 
+population which will suffer the 
+consequences.
+Marshal of France
+Head of State
+Philippe Pétain
+Special Combats
+Air units, blockhouses ﬁ ring to sea, 
+antiaircraft ﬁ re, and naval bombard-
+ment have special rules spelled out 
+on the order cards. They do not use 
+the battle board.
+Targeted Attacks: The usual rule 
+in resolving combat is that when 
+you score a hit, the opposing player 
+decides which unit is the casualty. 
+But some special combats allow the 
+attacker to select a target and then 
+roll dice in an attempt to destroy it. 
+This is called a targeted attack; the 
+attacker “targets” an enemy unit or 
+“chooses a target” enemy unit.
+Only the Allies have air units:
+ﬁ ghters and bombers.
+Fighters: Fighters do not attack 
+when they enter a zone containing 
+Axis land units. They are on patrol, 
+waiting for enemy movement. They 
+have the opportunity to strafe any 
+Axis land units that move into or out 
+of the zone. Roll one die per ﬁ ghter 
+against each Axis land unit that 
+moves, including reinforcements (see 
+below); a roll of 1 destroys that unit. 
+The Axis player cannot return ﬁ re.
+Bombers: Unlike ﬁ ghters, bombers 
+can strike immediately upon
+entering a zone. This is a targeted 
+attack. Roll one die per bomber; a 
+roll or 3 or less is a hit, eliminating a 
+land unit of the Allies player’s choice 
+from that zone. The Axis player
+cannot return ﬁ re.
+Bombers cannot enter a zone
+containing Allies land units.
+Antiaircraft Fire
+In addition to its normal combat
+ability, Axis artillery can attack air 
+units. This can create a situation 
+where Axis artillery ﬁ res more than 
+once in a turn, during antiaircraft 
+ﬁ re and again during combat.
+An Axis artillery in a zone contain-
+ing an enemy air unit can ﬁ re only 
+when an order card so directs and 
+only against the speciﬁ ed type of air 
+unit (ﬁ ghter or bomber). Roll one die 
+for each artillery against a chosen air 
+unit in its zone. A roll of 1 destroys 
+that air unit.
+Blockhouses
+Only the Axis has blockhouses. 
+Blockhouses do not move. They ﬁ re 
+in combat against land units in their 
+zone just as other land units do,
+attacking on a 3 and defending on a 1.
+Blockhouses also can make a special 
+targeted attack out to sea, directed 
+by order card 9. Each blockhouse 
+may ﬁ re once at an Allies land unit 
+in a beachhead box within its ﬁ ring 
+arc. For example, the two
+blockhouses in the zone containing 
+Bayeux can each ﬁ re on land units in 
+the Gold Beach box. (Not all block-
+houses are in a zone with an adjacent 
+beachhead box.) A roll of 3 or less is 
+a hit. Each blockhouse can ﬁ re on a 
+different target.
+Naval Bombardment
+The Allies can conduct a naval 
+bombardment when an order card so 
+directs. Naval bombardment targets 
+only blockhouses. Roll six dice, one 
+at a time: A roll of 2 or less destroys 
+the blockhouse.
+The Allies choose a blockhouse as 
+the target of each die roll; the same 
+blockhouse can be chosen more than 
+once.
+Reinforcements
+Each power has a corresponding 
+reinforcement chart, listing land 
+units that enter play after the start of 
+the game. Silhouettes on each chart 
+show how many and which types of 
+units are available. Reinforcements 
+enter play in order from left to 
+right and top to bottom. No unit 
+can enter play until all units
+preceding it have entered play.
+Roll two dice. The total rolled is the 
+number of units that can reinforce 
+this turn. The Allies side rolls once 
+for the United Kingdom and once for 
+the United States. The Axis player 
+makes two reinforcement rolls, one 
+for the Rennes/Chartres sectors and 
+one for the Rouen/Chartres sectors. 
+Reinforcements for the United States 
+are placed on either of the Utah and 
+Omaha beachhead boxes. Reinforce-
+ments for the United Kingdom can 
+be placed on any or all of the Sword, 
+Juno, and Gold beachhead boxes. 
+You can’t place more units than there 
+are spaces available in the beachhead 
+
+boxes (but the reinforcements don’t
+have to match the printed
+silhouettes). If there are still units 
+in a beachhead box (for example, 
+because the adjacent zone contains 
+the maximum of eight land units),
+you can place only enough rein-
+forcements to ﬁ ll the empty spaces. 
+You can’t reinforce in the British or 
+American Airborne boxes where the
+paratroopers start play. 
+Axis reinforcements must enter 
+play in the sectors speciﬁ ed on the 
+reinforcement card but can be placed 
+on any zone containing a marker 
+corresponding to the named sector. 
+For example, reinforcements
+coming from Rennes or Chartres can 
+be placed on any of the four zones 
+containing those markers.
+For example, in the United King-
+dom reinforcement chart, a roll of 7
+brings the following units into play 
+for the Allies: three infantry, three 
+artillery, and one tank. These units 
+may be placed on any of Sword, 
+Juno, and Gold beaches, up to the 
+limit allowed in each beachhead box.
+Check for Victory
+The Allies win if land units from
+that side control the zones
+containing Cherbourg, St. Lô, and 
+Caen and retain control of those 
+zones for one full turn. 
+If a turn ends with the Allies in
+control of those zones, that side is 
+close to victory. (If you wish, you 
+can place order card 01 in front of 
+the Allies player(s) to mark this.) If 
+at the end of the next turn the Allies
+still control all of those zones, that 
+side has won. If the Allies no longer 
+control one or more of those zones, 
+the game continues. (The Allies 
+must again control those zones for 
+an entire turn after taking control of 
+them.) The Axis wins if the Allies 
+have not achieved victory after 10 
+turns.
+LA BATAILLE SUPRÈME EST ENGAGÉE!
+After much Fighting, furor and pain 
+the decisive shock has come, the 
+hoped for shock. Of course, it is 
+the Battle of France and it is the
+Battle of the French! . . .
+There is nothing more in the
+nation, in the Empire, in the armed 
+forces but one and the same will,
+one and the same hope. Behind the 
+clouds, if heavy with our blood and 
+with our tears, there is that which 
+will restore the sunlight and our 
+grandeur.
+General Charles De Gaulle
+Broadcast to France
+June 6, 1944
+A MEMO TO THE FÜHRER
+The situation on the Normandy 
+front grows more difFicult daily; it 
+is approaching the proportions of a 
+major crisis. The Fighting power of 
+the divisions is steadily
+lessening . . . . It no longer is 
+possible to bring to the front 
+in Normandy any new forces worth 
+mentioning. On the enemy side, new
+forces and new war matériel Flow 
+to the front day after day. The
+enemy’s supply system is undisturbed 
+by our air force. The enemy
+exerts stronger and stronger
+pressure. . . .
+Our troops everywhere are Fighting 
+heroically, but the unequal contest 
+is drawing to an end. I must ask 
+you to draw the consequences from 
+this situation without delay. I feel 
+bound as supreme commander of the 
+army group to express this clearly.
+Field Marshal Erwin Rommel
+Commandant,
+German Army Group B
+July 15th, 1944
+
+Each phase of a turn involves
+turning over the top order card and 
+following its instructions. After a 
+few turns of play, these cards will 
+become second nature to you, and 
+you might not need to use them at 
+all. Below is the text and a detailed 
+explanation of each card.
+This represents the surprise predawn 
+attack by paratroopers and applies 
+only to the ﬁ rst phase of the ﬁ rst 
+turn of the game. Allies infantry in 
+the British and American Airborne 
+boxes attack in their zone without 
+being counterattacked. They score a 
+hit on a roll of 1.
+Once they have landed, these units 
+act as regular infantry, so this card is 
+removed from the deck.
+Roll the six dice, one at a time. 
+Choose a blockhouse as the target of 
+each die roll; the same blockhouse 
+can be chosen more than once.
+There are eight ﬁ ghters available to 
+the Allies (four U.K. and four U.S.). 
+Place up to four ﬁ ghters in any zone.
+Fighters do not attack in this phase. 
+However, if the Axis later moves 
+one or more land units (including 
+reinforcements) into or out of a zone 
+containing ﬁ ghters, each ﬁ ghter in 
+the zone can attack each of the
+moving units. See order cards 12 and 
+15 for more about straﬁ ng.
+The Axis player ﬁ res with each 
+artillery in a zone where ﬁ ghters are 
+patrolling. Choose one ﬁ ghter in that 
+zone for each roll. Each hit removes 
+that ﬁ ghter from play. (It is not
+returned to the Airﬁ eld area.)
+There are two bombers available to 
+the Allies (one U.K. and one U.S.). 
+Place as many bombers as desired on 
+any zone that does not contain Allies 
+land units. Each hit removes one 
+land unit of the Allies player’s choice 
+from play.
+The Axis player ﬁ res with each
+artillery in a zone with bombers. 
+Choose one bomber in that zone 
+for each roll. Each hit removes that 
+bomber from play. (It is not returned 
+to the Airﬁ eld area.)
+The Allies return their bombers to 
+base. Place surviving bombers on the 
+Airﬁ eld area.
+ORDER CARD 1
+ORDER CARD 2
+ORDER CARD 3
+ORDER CARD 4
+ORDER CARD 5
+ORDER CARD 6
+ORDER CARD 7
+
+This phase applies only to land units 
+of the Allies that are already ashore,
+not those in the beachhead boxes.
+(On the ﬁ rst turn, the only such units 
+are those that attacked from the
+Airborne boxes in phase 1.)
+A blockhouse can ﬁ re on land units 
+of the Allies in a beachhead box 
+within its ﬁ ring arc. This is indicated 
+by an arrow. (Some blockhouses can 
+ﬁ re on more than one beachhead, 
+while others cannot ﬁ re on any.) A 
+blockhouse cannot ﬁ re on air units.
+Each blockhouse can ﬁ re on a
+different target. Roll dice one at a
+time.
+Move Allies land units from beach-
+head boxes into the zones adjacent to 
+them (connected by the light-colored 
+arrows). Remember that the maxi-
+mum number of Allies land units
+allowed in a zone is eight. You can-
+not move land units into a zone if 
+they bring the total to more than 
+eight. (They’ll just have to wait off-
+shore for another turn.)
+Don’t move land units that are
+already in zones. They already 
+moved during phase 8 above.
+Follow the steps outlined in Combat 
+on page 10. Allies units ﬁ re ﬁ rst. 
+You ﬁ ght only one cycle of combat 
+for each zone that contains opposing 
+land units. (The struggle for a zone 
+could go on for some time.)
+You must attack in every zone where 
+a combat situation exists.
+After combat, if land units of only 
+one side remain, that side controls 
+the zone.
+During this step, Axis land units 
+move and patrolling Allied ﬁ ghters 
+react. Each ﬁ ghter in a region rolls to
+strafe each Axis unit moving into or 
+out of that zone, including reinforce-
+ments. The Axis player indicates all 
+units that are moving, then the Allies 
+ﬁ re one at a time against target units.
+ORDER CARD 8
+ORDER CARD 9
+ORDER CARD 10
+ORDER CARD 11
+ORDER CARD 12
+
+Follow the steps outlined in Combat, 
+above. Axis units ﬁ re ﬁ rst. You ﬁ ght 
+only one cycle of combat for each 
+zone that contains opposing land 
+units.
+You must attack in every zone where 
+a combat situation exists.
+After combat, if land units of only 
+one side remain, that side controls 
+the zone.
+During this phase the Allies roll for 
+both U.K. and U.S. reinforcements. 
+Place the reinforcements in the
+appropriate beachhead boxes. United 
+States units cannot be placed in 
+United Kingdom beachhead boxes, 
+and the reverse is also true.
+The number of reinforcing units 
+cannot exceed the number of units 
+shown in each beachhead box. The 
+reinforcements do not have to be the 
+same types of units as those shown 
+in the box, however. If there’s not 
+enough room to place all the units 
+available, the remaining units must 
+wait for a later turn. (They stay on 
+the reinforcement chart.)
+During this step the Axis player rolls 
+twice for reinforcements, once for 
+Rennes and Chartres and once for 
+Rouen and Chartres. Place the
+reinforcements as you choose in any 
+of the zones containing the listed 
+markers. Reinforcements count as 
+units moving in a zone, so they are 
+subject to straﬁ ng by patrolling
+ﬁ ghters. The Axis player places 
+reinforcing units in all zones; then 
+the Allies ﬁ re one at a time against 
+target units.
+Reinforcements cannot raise the 
+number of land units in a zone 
+to more than eight. If there’s not 
+enough room to place all the units 
+available, the remaining units must 
+wait for a later turn. (They stay on 
+the reinforcement card.)
+The Allies return their ﬁ ghters to 
+base. Place surviving ﬁ ghters on the 
+Airﬁ eld area.
+ORDER CARD 13
+ORDER CARD 14
+ORDER CARD 15
+ORDER CARD 16
+
+Once you’ve played a few games of 
+Axis & Allies: D-Day, you might 
+want to add more complexity or
+variable elements. The following 
+cards are optional additions to the 
+order deck. You may add in one
+or both types, but you must use all 
+cards of a particular type.
+Green-backed cards are fortune 
+cards. These cards affect each order. 
+If you are using fortune cards, add 
+them to the deck so that each comes
+up immediately before the order card 
+of the same number. Each time a 
+fortune card comes up, roll a die. On 
+a roll of 1, a positive result affects 
+the next order. On a 6, a negative 
+result affects the next order. A roll of 
+2 through 5 has no effect.
+For example, fortune card 2 affects 
+the number needed to hit when
+conducting naval bombardment: 3 
+or less if a positive development, 1 
+if negative. On a roll of 2 through 5, 
+treat the order card normally.
+Red-backed cards are tactics 
+cards. These cards represent
+different maneuvers you can attempt. 
+If you are using tactics cards, add 
+them to the deck so that each comes
+up immediately after the order card 
+r r
+of the same number. A tactics card 
+affects only that phase; its effect 
+does not continue through the game. 
+Remove a tactics card from the deck 
+after use. You don’t have to use a
+tactics card when it comes up.
+Here’s an Easy-to-Remember Rule:
+Set up the deck with card types in
+alphabetical order from top to
+bottom—fortune (green), order 
+(blue), and tactics (red).
+Fortune Cards
+Events can go terribly wrong, or 
+go much better than you hoped. 
+Weather, supplies, and even airplane 
+crashes affect the most carefully laid 
+plans. Use these cards if you want a 
+more dynamic version of your game 
+where anything can happen. The 
+effect of a fortune card lasts only
+for its associated phase. On the next 
+turn, roll again for a new effect.
+Once order card 1 has been removed 
+from the deck, this card no longer 
+has any effect and should also be 
+removed from the game.
+Roll six dice as normal, one at a
+time. Choose a blockhouse as the
+target of each die roll; the same 
+blockhouse can be chosen more than 
+once.
+Normally no more than four ﬁ ghters 
+can patrol a given zone.
+FORTUNE CARD 1
+FORTUNE CARD 2
+FORTUNE CARD 3
+FORTUNE CARD 4
+FORTUNE CARD 5
+FORTUNE CARD 6
+
+On a roll of 6, the bomber is removed 
+from play before the Allies return-
+bombers to the Airﬁ eld area.
+Units moving 2 zones must still 
+move to adjacent zones.
+Units that are restricted to moving 
+out of one zone can still split up and 
+enter multiple zones.
+The Allies choose which beachheads 
+are active on a result of 6.
+The Allies choose in which zones to 
+attack on a result of 6.
+Units moving 2 zones must still 
+move to adjacent zones.
+Units that are restricted to moving 
+out of one zone can still split up and 
+enter multiple zones.
+The Axis chooses in which zones to 
+attack on a result of 6.
+Each Allies power gets one-half its 
+reinforcements. Round up for each 
+power, not for the total.
+Each sector gets one-half its
+reinforcements. Round up for each 
+sector, not for the total.
+FORTUNE CARD 7
+FORTUNE CARD 8
+FORTUNE CARD 9
+FORTUNE CARD 10
+FORTUNE CARD 11
+FORTUNE CARD 12
+FORTUNE CARD 13
+FORTUNE CARD 14
+FORTUNE CARD 15
+
+On a roll of 6, the ﬁ ghter is removed 
+from play before the Allies return 
+ﬁ ghters to the Airﬁ eld area.
+Tactics Cards
+Tactics cards represent new
+maneuvers that each side can
+pursue. Each takes effect just once; if 
+you use it, remove the card from the 
+deck. You are never required to use a 
+tactics card.
+The reinforcements must match 
+the nationality of the Airborne box 
+(U.K. in the British box and U.S. in 
+the American box). There cannot be 
+more reinforcements than space
+allowed in the landing zone. They 
+still cannot attack blockhouses
+during this phase.
+The chosen ﬁ ghter cannot be the
+target of antiaircraft ﬁ re. If it is the 
+only ﬁ ghter in the zone, no antiair-
+craft ﬁ re is allowed in that zone.
+FORTUNE CARD 16
+TACTICS CARD 1
+TACTICS CARD 2
+TACTICS CARD 3
+TACTICS CARD 4
+TACTICS CARD 5
+
+A coastal zone is any zone that
+borders water (colored blue),
+regardless of whether it contains 
+landing beaches or Axis units.
+Even if blockhouses are not
+physically on their silhouettes, you 
+cannot build a blockhouse if the zone 
+has not lost any.
+Infantry in excess of the number of 
+artillery still attack on a 1.
+Those ﬁ ghters may strafe reinforcing 
+land units as normal.
+Fighters may strafe this moving land 
+unit as normal.
+Replace the infantry in their original 
+positions on the reinforcement chart. 
+They enter play in the normal order, 
+from top to bottom and from left to 
+right.
+TACTICS CARD 6
+TACTICS CARD 7
+TACTICS CARD 8
+TACTICS CARD 9
+TACTICS CARD 10
+TACTICS CARD 11
+TACTICS CARD 12
+TACTICS CARD 13
+TACTICS CARD 14
+TACTICS CARD 15
+TACTICS CARD 16
+
+Manual, Operations: Questions?
+questions?
+U.S., Canada, Asia Paciﬁ c, and Latin America:
+Wizards of the Coast, Inc.
+P.O. Box 707
+Renton WA 98057-0707, U.S.A.
+1-800-324-6496 (within the U.S.)
+1-800-624-0933 (outside the U.S.)
+custserv@wizards.com
+U.K., Eire, and South Africa:
+Wizards of the Coast, Inc.
+Consumer Affairs
+P.O. Box 43
+Caswell Way
+Newport
+NP19 4YD
+GREAT BRITAIN
++800 22 427276
+wizards@hasbro.co.uk
+All Other European Countries:
+Wizards of the Coast
+p/a Hasbro Belgium
+’t Hofveld 6D
+B-1702 Groot-Bijgaarden
+BELGIUM
++32.70.233.277
+custserv@hasbro.co.uk
+Axis & Allies, Avalon Hill, and their logos are trademarks of Hasbro, Inc. ® denotes Reg. U.S. Pat. & TM OfFice. All rights reserved. ©2004 Hasbro.
+Manufactured and distributed by Wizards of the Coast, Inc. Wizards of the Coast and its logo are trademarks of Wizards in the U.S.A. and other countries.
+©2004 Wizards. Rulebook printed in the U.S.A.

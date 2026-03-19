@@ -1,0 +1,189 @@
+A strategy board game for 2 players designed by
+Néstor Romeral Andrés.
+INTRODUCTION
+Adaptoid is a board game for two players. Each game
+lasts around 20 minutes.
+An adaptoid is a creature that constantly evolves to
+adapt itself to its surroundings. To survive it needs to be
+fed. In adaptoid, two players must confront their
+armies of adaptoids with the aim of eliminating the
+opponent. 
+MATERIAL
+This is what you need in order to play adaptoid:
+A hexagonal board with 37 circles like this one:
+12 white adaptoids, 12 white legs, and 12
+white pincers:
+ 
+ 
+12 black adaptoids, 12 black legs, and 12
+black pincers:
+ 
+ 
+5 white counters and 5 black counters (for 
+scoring).
+GAME PREPARATION
+Determinate randomly the colours of the players (black
+or white), and then position the board in the middle of
+the table. Each player takes his pieces (adaptoids,
+legs and pincers). Finally, each player positions one of
+his adaptoids (without legs and pincers) as it is shown
+on the image. Other initial positions are permitted upon
+agreement.
+The game can start now. The white player plays first. 
+GAME RULES
+Alternately, each player must do the following one by
+one in order:
+1.
+If you want and can, move one of your
+adaptoids 
+(see MOVEMENT AND
+CAPTURE). This can originate the capture
+of an enemy adaptoid. 
+2.
+Create a new adaptoid of your colour
+OR add a leg or a pincer to one of your
+adaptoids on the board (see CREATING
+AN ADAPTOID or ADDING LEGS AND
+PINCERS).
+3.
+Capture simultaneously (by moving away
+from the board) all the enemy adaptoids
+which are not fed (see FEEDING THE
+ADAPTOIDS).
+Once this process is completed, the turn goes to the
+other player.
+Let’s see this in more detail:
+MOVEMENT AND CAPTURE
+An adaptoid can move up to as many free spaces as
+the number of legs it has (in any direction, and not
+necessarily in a straight line). Notice that, at the start of
+the game, none of the adaptoids can move, as they
+have no legs.
+An adaptoid cannot go through an already occupied
+space; however it can finish its itinerary on a space
+already occupied by its enemy. When this last happens,
+the player with higher number of pincers will capture the
+enemy’s adaptoid and he will remove it from the
+board. If both adaptoids have the same number of
+pincers, then both will be removed from the board.
+Note: An adaptoid with no pincers cannot capture.
+Captured pieces can be used again during the game.
+Record your captures by taking the discs of the
+opponent’s colour.
+
+The adaptoid 1 cannot move because it doesn’t have
+any legs.
+The adaptoid 2 can move up to three spaces (spaces
+marked with a green ‘2’) because it has three legs. But
+it cannot reach any of the spaces marked with a red ‘X’.
+The adaptoid 2 can capture adaptoid 3, but cannot
+capture adaptoid 4, as it has more pincers.
+CREATING AN ADAPTOID
+In order to create an adaptoid, a new one must be
+positioned on the board (without legs and without
+pincers) on any empty space which is located next to
+another adaptoid of the same colour.
+Example: A new white adaptoid can be created on any
+of the spaces marked with a green ‘+’
+ADDING LEGS AND PINCERS
+In order to add a leg or a pincer to an adaptoid
+already positioned on the board, you just have to insert
+the corresponding piece in one of the free slots of the
+adpatoid. An adaptoid can have as many legs or
+pincers as you want, maximum 6 in total. It´s possible to
+create 28 different adaptoids! 
+Example: adding a leg
+FEEDING THE ADAPTOIDS
+The adaptoids must always be fed to survive. The
+biggest adaptoids need more food than the small
+ones. In order to feed an adaptoid, it must be
+surrounded by at least as many free spaces as the total
+number of extremities it has (legs and pincers together)
+It is white’s turn to capture the enemy adaptoids which
+have not been fed.
+Black adaptoid 1 has 5 extremities but it is surrounded
+only by 4 free spaces, so it must be removed from the
+board. The same happens to the adaptoid number 2,
+which has 4 extremities, but it is only surrounded by 3
+free spaces.
+The white player scores 2 captures.
+AIM AND END OF THE GAME 
+The aim of the game is to capture at least 5 enemy
+adaptoids. The first player, who achieves this
+objective, will win the game. A player loses also if all of
+his adaptoids are removed from the board. In case of
+a tie, the player that made the last move wins.
+SUPER-ADAPTOID VARIANT
+You need a SUPER-ADAPTOID set to play this variant.
+You can configure you own board before starting the
+game, by using the 37 discs included in the SUPER-
+ADAPTOID edition.
+Notes:
+An Adaptoid must be surrounded by at least as many
+free ‘discs’ as the total number of extremities it has
+(legs and pincers together) to survive. The board
+doesn’t need to have an hexagonal distribution.
+Example (the number on the cells indicates the
+surrounding discs):
+
+STRATEGY TIPS
+Don’t read this if you prefer to discover the strategies by
+yourself!
+Definitions:
+Liberties: Number of free surrounding cells of a given
+Adaptoid.
+Size: Number of parts of a given Adaptoid.
+Remember that if Size is bigger than Liberties the
+adaptoid is dead.
+Balance:
+Adaptoid is based on ‘balance’. ‘Balance’ is the core of 
+it and the concept that generated the game.
+So the more balanced your strategy is, the better. This 
+means:
+1- Don’t let your adaptoids grow too big.
+2- Don’t leave your small adaptoids unprotected.
+3- Keep your total liberties as high as possible.
+4- Material advantage is NOT important. Positional
+advantage IS (liberties).
+Useful tactics:
+The ‘fork’
+I call it the ‘fork’ until I find a better name. The goal of
+this tactic is to capture a more powerful adaptoid that
+has liberties=parts+1, by using a weaker one that has at
+least 1 leg and that can reach a free space adjacent to
+the enemy adaptoid.
+Procedure:
+1.- Move the adaptoid to a free space adjacent to the
+enemy adaptoid.
+2.- Create a new adaptoid next to one of yours (as
+stated in the rules) and adjacent to the enemy adaptoid.
+3.- Now the enemy adaptoid has lost 2 liberties, so
+liberties=parts-1. The enemy adaptoid is captured.
+(I’ve managed to capture 2 adaptoids at the same time
+with this movement)
+The ‘siege’
+The ‘siege’ consists in creating a wall the enemy cannot
+cross. So the enemy keeps growing until all its liberies
+are exhaused.
+The ‘reserve’
+Keep a naked adaptoid on your back line. This way you
+can prevent your front line adaptoids from growing too
+much, by simply creating new adaptoids next to the
+naked one. But watch out! If the enemy crosses your
+lines, it'll be a massacre.
+The ‘tail’
+This is a powerful technique when used correctly. It
+consists in creating a chain of base adaptoids (no parts)
+across the border of the board to reach the opponents
+back line. The best places to have a base adaptoid are
+the corners. The spaces adjacent to a line of adaptoids
+have 4 liberties at most (3 if on a corner). Any adjacent
+enemy adaptoid that wants to capture them needs at
+least one leg and one pincer, leaving only 2 liberties (1
+if on a corner). This makes the enemy adaptoids more
+vulnerable.
+The ‘kamikaze’
+Don’t let your gigantic adaptoids die of starvation. Use
+them ASAP to capture an enemy adaptoid, even if it's
+protected or it has the same number of pincers (so both
+are removed).

@@ -1,0 +1,829 @@
+BattleCON
+Free Preview Game
+Print and Play Rules version 1.3
+© 2011 D. Brad Talton Jr.
+Art by K. Lin, Z. Crescent, D. Hirajeta, P. Butler, F. 
+Fontes.
+This document may be reproduced for personal 
+use only. This document may not be re-hosted or 
+re-uploaded without written permission from 
+Level 99 Games.
+What is BattleCON?
+BattleCON is a standalone game that comes as a 
+complete boxed set. There are no random packs to 
+buy, no rares, and no chase cards—you get the 
+complete game up front in the box. This preview is a 
+small taste of the variety and possibility contained in 
+the full game. This preview set features a set of 
+characters from our upcoming base game, War of 
+Indines. 
+While you can expand BattleCON with additional 
+sets featuring new characters, there is no buy-in to 
+collect more powerful cards and no expensive rares to 
+chase down—when you get a box, you know exactly 
+what you are getting.
+War of Indines
+Welcome to Indines, a land of mystery, magic, 
+wonder, and war. In this game, you will take on the 
+roles of several champions of each nation, 
+participating in duels to determine their fates and the 
+fate of the world as a whole.
+Each duel is short and fast-paced, as two 
+combatants move across the field attempting to strike 
+one another and avoid being struck. Only the one 
+whose wits are strongest and whose strategy is surest 
+will be able to claim victory.
+Gameplay Overview
+A single match consists of two or three duels. A 
+duel is a complete game, beginning at 20 life points 
+and ending with one player reaching 0 life. A single 
+duel takes between 10 and 20 minutes, so a match is 
+typically between 20 minutes and an hour long.
+In the course of a single duel, the goal of both 
+players is to reduce their opponents' life totals to zero 
+or fewer points. The first to accomplish this is 
+declared the winner of the duel.
+A duel consists of any number of turns, called 
+beats. Each beat is a single pair of cards played from 
+each side. These cards are played face-down 
+simultaneously, then revealed and activated at once.
+Card Overview
+There are 3 primary kinds of cards in BattleCON 
+games: Characters, Bases, and Styles.
+Characters
+Characters
+ 
+are 
+specific personas that 
+you use on the field of 
+battle. Each player 
+will select a different 
+character at the start 
+of the game, and must 
+use all of the styles 
+and bases that are 
+associated with that 
+specific character.
+Each
+ 
+character 
+card has the following 
+components:
+1. Name – The name of the character.
+2. Classification – This describes the style and 
+general strategy of the character in very simple 
+Khadath Says: If you don't feel like 
+reading the entire rulebook before 
+playing, why not download the 
+how-to-play comic at
+http://www.battleconnection.com
+
+terms, but has no effect on gameplay.
+3. Unique Ability – One or more unique abilities 
+that this character possesses. These are staples of 
+their personal strategy and are used during 
+gameplay.
+4. Overdrive Finish Attack – A special attack 
+described in the 'Special Actions' rules at the end 
+of this document. In your first game or two, you 
+won't use these.
+5. Strategy – A bonus strategy card is included with 
+each character.
+Bases
+These cards are 
+printed with their 
+numbers aligned to 
+the left and may be 
+either unique to a 
+character or generic. 
+Those that are unique 
+to a character have 
+that character's picture 
+on them. Bases are the 
+foundations of an 
+attack pair. All bases 
+have the following 
+parts.
+1. Name – The name of the base.
+2. Range – This is what distance the attack will 
+strike at. Some ranges are expressed as two values 
+(ie: 1~4). These ranges target all spaces included 
+in the range (so 1~4 would target spaces at range 
+1, 2, 3, and 4). Attacks with a range of N/A will 
+never hit.
+3. Power – This is how much damage the attack will 
+do. Attacks with a power of N/A will not do any 
+damage.
+4. Priority – The speed of the attack. Higher priority 
+attacks have the advantage of going first in 
+combat—allowing you to stun or escape your 
+opponent in many instances.
+5. Effects – Special effects that are part of the 
+attack. These are explained in more detail later.
+Styles
+These cards are 
+printed with their 
+numbers aligned to 
+the right and are all 
+specific to a certain 
+character. Each style 
+can be paired with a 
+base to form an 
+attack pair. A style 
+has the following 
+parts:
+1.
+Name – The name of the style. This pairs with the 
+name of the base to form the name of the attack. 
+For example, a 'Clockwork' style and a 'Strike' 
+base combine to form the 'Clockwork Strike' 
+attack.
+2.
+Range Modifier – The range of the attack is 
+1. If the base has a variable range like (1~4), 
+then the range modifier is added to both sides 
+(so 1~4 plus 2 would be 3~6). 
+2. If the range modifier is also variable, it adds 
+its highest and lowest parts to the highest and 
+lowest parts of the base (so 1~4 plus 2~4 
+would be 3~8). 
+3. If the modifier is variable and the base is not, 
+then the base becomes variable (1 plus 1~4 
+would be 2~5).
+3.
+Power Modifier – The power of the attack is 
+4.
+Priority Modifier – The priority of the attack is 
+Effects – These effects are added on to the effects 
+of the base, giving the attack additional powers. 
+Style effects work the same way as base effects.
+
+Gameplay
+BattleCON duels take place in a series of turns, 
+called beats. The first player to use his attacks and 
+reduce his opponent's life to zero is the winner!
+Setup
+Both players choose a character. They take all 7 of 
+that character's cards (1 character card, 5 styles, and 1 
+base), plus a set of generic bases (6 bases), and form a 
+starting hand. Players should also find any tokens or 
+markers their character uses and place them beside 
+their character card or into play as specified by their 
+unique abilities.
+Place the board between the two players make use 
+of paper, a 20-sided die, or whatever else is at hand to 
+track each player's life. All players start with 20 life.
+Place both players on spaces 2 and 6 respectively, 
+so that each character is on its owner's left hand side 
+of the board.
+Each player finds the two bases and 
+two styles with the icons “1” and “2” in 
+the bottom left and right. These will form two pairs 
+(cards with the same number form a pair), that should 
+be placed in discard 1 and discard 2 respectively. 
+These cards will not be available at the start of the 
+game, but will become available soon. Make sure 
+your two discard piles are clearly separated and that 
+you know which is which, as they both have very 
+important functions (see “step 5: Recycle” for more 
+information).
+Advanced players can choose which two cards 
+they want to have in their discard piles at the game's 
+start. The numbers are provided as suggestions to 
+help new players start quickly.
+Once you have completed these actions and filled 
+both discard piles, you are ready to begin the game.
+Khadath Says: Before a duel starts, 
+both players are allowed to read all 
+the cards their opponents possess, as 
+well as take a moment to look over 
+their own cards. Familiarity with your 
+own and your opponents' capabilities 
+is the key to victory.
+Example Attack Pair: Lure Strike
+This attack pair will have 1~6 
+range, 3 power, and 2 priority. It 
+also has all effects of both cards.
+
+Objective
+The objective of each duel is to reduce the 
+opponent's life points to zero while preventing your 
+life from being reduced. The first player whose life 
+points reach zero is eliminated, and the remaining 
+player is declared the winner of the duel.
+The Base Mechanic
+An attack pair is formed by selecting one style and 
+one base from the player's hand, and placing those 
+face-down in front of him. An attack pair has the 
+power, range, and priority of the base, plus the 
+modifiers specified on the style, and all the effects of 
+both cards. Since there are 5 styles and 7 bases, each 
+character has 35 possible unique attacks (and even 
+more for characters with tokens!)
+Turn Sequence
+Every turn of BattleCON is called a 'beat', and 
+follows a similar pattern. Each of these steps is done 
+by each player simultaneously.
+1. Select attack pairs
+2. Ante Tokens
+3. Reveal attack pairs
+4. Execute attacks
+Recycle 
+Step 1 – Select Attack Pairs
+Both players choose one style and one base from 
+their hand, then place those cards face down in front 
+of them where their opponent can see the backs of the 
+cards clearly. Once both players have attack pairs 
+placed down in front of them, move on to the next 
+step.
+Step 2 – Ante Tokens
+Many characters' special abilities provide them 
+with tokens. These tokens are chosen and spent 
+during the ante step, after both players have selected 
+beats. A token's exact effect depends on the unique 
+ability of the character using it. It is important to 
+remember that some effects, such as Kallistar's 
+elemental form and Khadath's Gate Trap are not 
+tokens, even though tokens are used to track their 
+state.
+Unless otherwise stated by a character's unique 
+ability, tokens are discarded to their own separate 
+discard pile, and cannot be retrieved except by the 
+effects of that character's styles and bases.
+Players may ante tokens in any order, and may 
+always ante more tokens (as far as their unique 
+abilities allow) but tokens can never be taken away. 
+Once both players have elected to pass on adding 
+tokens, move on to the next step.
+Step 3 – Reveal Attack Pairs
+Both players simultaneously flip over their face-
+down attack pairs, then activate any Reveal effects 
+they have.
+At this point, check the priorities of both attacks 
+(considering at any modifications provided by tokens, 
+styles, and special abilities). If the total priorities tie, 
+then a clash occurs. 
+CLASH: In a clash, both players must play a new 
+base face-down from their hands. They 
+simultaneously reveal the played base and put it on 
+top of the old one, hiding the effects and stats of the 
+original base and forming a new attack. Players then 
+check to see if another clash has occurred. If it has, 
+continue again as above. If players run out of cards 
+during a clash, then they pick up all bases in the 
+attack (including the original base) and continue the 
+clash. When a clash is resolved, only the top card of 
+the clash remains in play, and all cards beneath it are 
+returned to the players' hands.
+Once any clashes are resolved, the Start of Beat 
+effects of both attacks trigger, with the higher priority 
+character's effects triggering first. 
+
+If a player has multiple effects to resolve with a 
+single trigger (such as having 2 or 3 reveal effects), 
+then he chooses which order he activates them. This 
+is true for all triggers.
+Step 4 – Execute Attacks
+The player who has higher priority after reveal 
+effects are resolved is called the Active Player, and 
+the one with lower priority is called the Reactive 
+Player.
+The active player activates his attack first by 
+performing the following steps:
+1.
+He performs any Before Activating effects 
+listed on his cards. If there are multiple effects, he 
+chooses which order to use them.
+2.
+He checks to see if the opponent is within 
+his range. Range is counted in spaces, with the 
+space occupied by the player being space zero (so 
+adjacent characters are at range 1, and characters 
+at the start of a match are at range 4).
+3.
+If the opponent is in range, then the active 
+player resolves any On Hit effects, then the 
+opponent takes damage equal to the power of the 
+attack, reducing the damage taken by his own 
+attack's Soak value (if he has this effect—see 
+common effects).
+4.
+If any damage was done, On Damage 
+effects are resolved. Also, if any damage was done, 
+the opponent may be stunned. This stun can be 
+prevented by an opponent with Stun Guard (see 
+the section on Stun, below).
+If a player's life is reduced to zero or fewer 
+points, the game immediately ends, with the 
+remaining player being declared the winner.
+6.
+Regardless of whether or not the attack hit 
+or did damage, the active player resolves any 
+After Activating effects.
+If the reactive player is not stunned, then he may 
+activate his attack by following the same steps as the 
+active player. A stunned player skips activation 
+entirely, including any Before Activating and After 
+Activating effects.
+Once both players have resolved their attacks, 
+move on the the next step.
+Step 5 – Recycle
+Both players activate any End of Beat effects 
+they possess. If both players have End of Beat effects, 
+the active player executes all of his effects first. End 
+of Beat effects can be executed by the reactive 
+player even if he was stunned.
+Finally, both players pick up their second discard 
+pile, move their first discard pile into their second 
+discard pile, and move the attack pair they just played 
+face-up into their first discard pile.
+How discard piles shift after the recycle step
+Ending the Duel
+A duel ends when either player's life drops below 
+zero as a result of damage (during step 4 of a beat). 
+Other effects than damage cannot reduce a player to 
+fewer than 1 life points.
+If you are playing a match, then winning the duel 
+Khadath Says: It's possible to 
+determine exactly what cards are in a 
+player's hand by looking at his discard 
+pile. Stay informed! You don't have to 
+counter moves that your opponent isn't 
+able to make!
+Khadath Says: If you can predict the 
+priority of your opponent's moves well 
+enough, you can set up a clash to cut 
+off their best options!
+Range as calculated from red's position
+
+provides the winner with 1 match point. The first to 2 
+match points wins a standard match (though you can 
+play to higher point values if you desire).
+Resolving Effects
+During the course of the game, you will need to 
+resolve many special effects that your attacks have. 
+How to resolve these effects is explained in detail 
+here.
+There are two kinds of effects, triggered effects 
+and passive effects. 
+Passive effects are always active from the time 
+the attack is revealed until the end of the beat. For 
+example, Khadath's Snare base states 
+'Your gate trap marker cannot be 
+moved during this beat'. 
+An effect such as this does not have any timing or 
+activation. It is always considered to be active, and its 
+instructions should be obeyed by both players at all 
+times.
+Triggered effects have two parts, a trigger, and an 
+effect. An example of a triggered effect might be 
+'Before Activating: Move 1 or 2 spaces forwards.' 
+This means that the effect is triggered and 
+resolved during the Before Activating step (during 
+step 4 of the turn). If a player controls multiple 
+triggered effects, then he chooses what order to 
+activate them. All triggered effects are mandatory
+—you must use them when they trigger.
+Movement
+Many effects will cause characters to move. The 
+only way to move on the board is by these effects or 
+by the unique abilities of characters.
+Movement will be specified by triggered effects or 
+a character's unique abilities in the form of effects 
+such as 
+“After Activating: Move 1, 2, or 3 spaces 
+forwards or backwards.” 
+Movement effects are mandatory. If an effect 
+says 'move 1 or 2 spaces forwards', then the player 
+must move either 1 space forwards or 2 spaces 
+forwards. He cannot choose to remain where he is.
+If an effect specifies 'Move up to 2 spaces 
+forwards or backwards', then the player has the option 
+to choosing a movement of zero (which is less than 2) 
+and remaining stationary. Negative movement is 
+never allowed.
+Forwards movement brings you closer to your 
+opponent. Backwards movement brings you 
+further away. This means that 'forwards' and 
+'backwards' mean different directions, depending on 
+which side of your opponent you are on.
+When moving, you hop over opponents, and do 
+not count the spaces they occupy against your 
+movement. See the example below.
+Example: Cadenza uses a 'Clockwork Dash' 
+which moves him one, two, or three spaces forwards. 
+He declares that he is moving three spaces, and 
+begins his move one space away from Kallistar. His 
+first move puts him adjacent to her. His second move 
+causes him to switch sides, and his third carries him 
+one more space past. He finishes his movement on the 
+opposite side of her, at range 2.
+If a player cannot complete a backwards move 
+due to the presence of a wall, then he moves as far as 
+possible and stops. The same holds true for a player is 
+moving forwards against a player who is adjacent to a 
+wall. The presence of walls may preclude movement 
+entirely. In this case, movement is ignored.
+Stun and Stun Guard
+All attacks have the potential to stun opponents 
+when they hit. A stunned opponent is unable to react 
+with an attack of his own. Thus, in order to score hits 
+a player must either be fast enough to strike first, 
+maneuverable enough to avoid damage, or defensive 
+enough to prevent stun.
+A stun occurs whenever a player takes damage 
+greater than his Stun Guard value. Attacks that have 
+no Stun Guard on them are understood to have a 
+Khadath Says: Don't forget that 
+your Dash prevents opponents from 
+hitting you if you change sides! Use 
+this to escape from bad situations 
+and avoid unnecessary damage!
+
+Stun Guard of zero. Here are a few examples that 
+you can follow along with using your own cards. All 
+of these examples ignore range and movement (in 
+many of the examples, Kallistar would be able to 
+escape by moving Cadenza out of range, but this is 
+ignored for the sake of explanation).
+Example 1: Cadenza and Kallistar are dueling. 
+Kallistar uses a 'Blazing Strike' (4 priority) and 
+Cadenza uses a 'Battery Drive' (3 priority). Kallistar 
+will go first. She hits Cadenza for 4 damage. Because 
+Cadenza has no Stun Guard or Soak effects, he takes 
+4 damage and is stunned. He will not be able to use 
+the movement effect on his Drive base, but he can still 
+utilize the effect on his Battery style, since it is an 
+End of Beat effect and not prevented by stun.
+Example 2: Cadenza uses 'Clockwork Drive' 
+(priority 1, Soak 3) and Kallistar uses 'Ignition 
+Grasp' (priority 4). Kallistar will hit first, dealing 3 
+points of damage to Cadenza. Cadenza has Soak 3, 
+which reduces the damage he takes by up to 3 points. 
+Thus, he takes 0 damage. Because he has not taken 
+any damage, he is able to retaliate and score 6 
+damage on Kallistar.
+Example 3: Cadenza uses 'Mechanical Strike' 
+(priority 1, Stun Guard 4) and Kallistar in uses 
+'Volcanic Grasp' (priority 5). Kallistar will hit first, 
+as usual, and deal 2 points of damage. Cadenza takes 
+the damage, but because the damage is lower than or 
+equal to his Stun Guard value, he is not stunned. He 
+can hit Kallistar back for 6 damage.
+Example 4: Cadenza uses 'Mechanical Shot' 
+(priority 0, Stun Guard 2) and Kallistar uses 'Flare 
+Strike' (priority 4). Kallistar will hit first, dealing 7 
+damage to Cadenza. Cadenza takes the damage, and 
+since it is higher than his stun guard value, he is 
+stunned, and will not activate his attack.
+Example 5: Cadenza uses an extremely defensive 
+'Clockwork Strike' (priority 0, Soak 3, Stun Guard 4). 
+Kallistar uses a 'Caustic Grasp' (priority 6, in 
+elemental form). Kallistar will go first, dealing 3 
+damage to Cadenza. Cadenza's soak absorbs the 
+damage, so he takes nothing. However, Kallistar's 
+Caustic style has a special effect 'On Hit, Elemental 
+Form: The opponent is stunned.' Cadenza is stunned 
+because of the effect, and will not activate his attack. 
+This is called an auto-stun effect, and can stun 
+regardless of the opponent's Stun Guard and Soak.
+Example 6: Cadenza uses the same 'Clockwork 
+Strike' and Kallistar uses his same 'Caustic Grasp'. 
+This time, however, Cadenza decides to ante one of 
+his Iron Body tokens during the Ante phase. This ante 
+gives him the effect of Stun Immunity due to his 
+unique ability. Now when Kallistar hits first, her 
+Caustic effect will attempt to stun Cadenza. Cadenza 
+is immune to stun, however, so no effect or damage 
+can prevent him from executing his Clockwork Strike 
+for 7 damage.
+Common Effects
+Soak – A number will be specified (ie: Soak 3, 
+Soak 1, Soak 2). Whenever the player would take 
+damage this turn, he reduces the damage taken by the 
+amount specified. Multiple soaks effects stack 
+together (so Soak 3 + Soak 1 = Soak 4). Soak is 
+always a passive effect.
+Stun Guard – A number will be specified (ie: 
+Stun Guard 5, Stun Guard 3). Whenever the player 
+takes damage this turn, he is not stunned unless the 
+total damage taken this turn is greater than his stun 
+guard rating. (So a player with Stun Guard 3 who 
+takes 3 or fewer points of damage this turn is not 
+stunned). Multiple Stun Guards stack together (so 
+Stun Guard 2 + Stun Guard 5 = Stun Guard 7). Stun 
+Guard is always a passive effect. Attacks with no Stun 
+Guard specified have an implied Stun Guard of 0.
+Glossary
+Forwards – The direction that would bring you 
+closer to the opponent.
+Backwards – The direction that would carry you 
+further away from the opponent.
+Stunned – A state caused by taking damage or by 
+specific effects. A stunned character cannot react to 
+his opponent's attacks during step 4 of a beat.
+Jargon
+Fighting games use a very specific language to 
+describe the kind of maneuvers that characters can 
+make. While these terms don't appear in the rules text 
+of cards, they are useful for discussing and analyzing 
+Khadath Says: Stun Guard is only 
+useful if you are still alive to 
+retaliate! Make sure you keep your 
+life points high to make use of this 
+defensive countermeasure! 
+
+strategies.
+Advance – An attack that closes distance between 
+characters, creating a more favorable situation for 
+close range fighters.
+Corner Trap – When a character has his or her back 
+to a wall, it is more difficult to perform escapes. 
+Some characters are especially good at capitalizing on 
+Corner Traps.
+Counterescape – A move that is intended to predict 
+an escape and prevent the opponent from escaping, or 
+simply to punish the escape.
+Counteroffensive – A move that is intended to 
+respond to an opponent's offensive attack by utilizing 
+a block-and-counter technique. Cadenza is a character 
+who specializes in counteroffensives.
+Escape – A move that brings the character out of his 
+opponent's preferred range. The opposite of an 
+advance.
+Off the Line – Used to describe the first attack in a 
+match. Some characters have a wide variety of 
+options 'off the line' while others are more limited in 
+what they can do.
+Set Up – A situation that makes a certain attack 
+possible or more likely to succeed. For example, 
+using a Drive to move into close range would set up 
+for a Strike during the next beat.
+Khadath Ahemusei
+Class: Trapper
+Unique Ability: Gate Trap
+Khadath's ability to control terrain and alter his 
+range give him the tools to evade opponents without 
+moving. Meanwhile he sets traps in the form of his 
+portals, which he lures enemies into and punishes 
+them for crossing.
+Kallistar Flarechild
+Class: Opportunist
+Unique Ability: Elemental Form
+Kallistar is a risk-return character that rewards 
+high-stakes offensives with exceptional damage 
+payoff. Because of her life loss while in elemental 
+form, Kallistar's player is pressured to make a strong, 
+relentless offensive, which can serve to make her 
+predictable to opponents if not tempered well with her 
+low-risk mode. A savvy player switches between 
+modes often to accommodate the situation he finds 
+himself in.
+Cadenza
+Class: Juggernaut
+Unique Ability: Iron Body
+Cadenza is a heavy melee fighter who is able to 
+wade through damage and wreck havoc at close 
+range. His styles give him an unconditional 
+opportunity to advance on enemies, as well as the 
+chance to pull enemies in and to deal damage based 
+on the amount of damage he absorbs in a turn.
+Hikaru Sorayama
+Class: Universalist
+Unique Ability: Geomantic Assault
+Hikaru is not stellar in any single area of combat
+—until he starts spending tokens. With his elemental 
+tokens, Hikaru's attacks can stand up to the most 
+potent abilities of opponents. Since tokens are limited, 
+however, Hikaru must manage them carefully, and 
+make efforts to recover them whenever possible.
+Because of his lack of defensive ability, Hikaru 
+relies on priority to deal damage, and must be wary of 
+enemies who stack defenses and counteroffensives.
+General Questions
+What happens when a character with Stun 
+Immunity is hit by an automatic stun effect?
+When a character with stun immunity (such as 
+Khadath using his snare) is hit by an auto-stun effect 
+(ie: “the opponent is stunned” such as an elemental 
+Kallistar with her Caustic style), then Stun Immunity 
+prevents the stun. This is the only case where an auto-
+stun effect can fail.
+If I hit my opponent for 0 damage, but he does 
+not have any Soak or Stun Guard effects, is he still 
+stunned?
+
+No. A character can only be stunned by damage or 
+automatic stun effects. A hit for zero damage is still a 
+hit, but does not stun opponents or trigger On 
+Damage effects.
+If I must move forwards or backwards, but my 
+forward or backward movement is blocked, can I 
+choose to move towards the wall so that I remain 
+in the same place?
+No. If you can choose to make a legal, unblocked 
+movement, then you must take that option. The only 
+time movement is canceled is when there is no legal 
+movement option granted by the effect.
+Will an attack with a range of 2 or more hit an 
+opponent closer than that range?
+No. Attacks only hit the exact space or spaces 
+listed. An attack with range 2 will ONLY hit the 
+second space out from your character.
+Can stats be reduced below zero?
+Range and power cannot be reduced below zero, 
+though Priority can. An attack with a range of 0 
+cannot hit anything, since it only reaches the space 
+occupied by the attacker. An attack can still hit even 
+with a Power of zero.
+Character-Specific Questions
+Khadath
+What happens to Khadath if he is standing on 
+his own trap?
+Khadath is never affected by his own trap. His 
+trap will only penalize opponents, as stated on his 
+character card, and Khadath is not considered his own 
+opponent.
+Cadenza
+What is the advantage to Anteing Cadenza's 
+tokens versus spending them when he takes 
+damage?
+Cadenza can Ante a token to gain Stun 
+Immunity, or spend one at the moment he takes 
+damage to gain Stun Guard ∞. The difference 
+between these is subtle. See examples 5 and 6 in the 
+section on Stun for an explanation of how Stun 
+Immunity is better than Stun Guard.
+In this preview game, Cadenza will only need to 
+worry about anteing his tokens against Kallistar, as a 
+preventative measure in case she uses her Caustic 
+Style. In the full game, there are several other 
+characters that have automatic stun effects. So in 
+matches against Khadath and Hikaru, Cadenza only 
+needs to spend these tokens at the moment he takes 
+damage.
+Hikaru
+What happens if I use Hikaru's Geomantic 
+style with my Wind token to create a priority tie 
+during Reveal?
+In this case, the player who originally had the 
+highest priority continues to have priority. If the 
+priority boost causes priority to switch hands (ie: 
+Hikaru's priority becomes higher), then this changes 
+the order of execution and the Active Player.
+Kallistar
+What happens if I have 1 life at the start of a 
+turn in elemental form?
+Normally, Kallistar loses life each turn in 
+elemental form. However, characters can never die by 
+their own effects, so Kallistar does not lose life in this 
+case.
+What if I hit someone with Stun Guard or Soak 
+using my Caustic Style? Are they still stunned?
+Yes. An effect that says 'the opponent is stunned' 
+always stuns, except in the case that the opponent has 
+Stun Immunity.
+
+Special Actions
+The two special action cards are used in the complete 
+game. They are slightly more complex than the rest of 
+the game rules, and are best introduced once both 
+players have played one or two duels and grasped all 
+the basic concepts of the game.
+Setup
+Each player takes one Special Action card at the start 
+of the duel. The special action card looks identical to 
+a style on its reverse face.
+Usage
+During any beat, the player may play his Special 
+Action style in conjunction with a base from his hand, 
+just like a normal attack pair. During the Reveal 
+step, but before any reveal effects, the special 
+action is executed. 
+The effect that is executed changes depending on 
+which base is paired with the Special Action. For 
+example, pairing Special Action + Burst would 
+activate the Pulse effect. Pairing Special Action + 
+Grasp would activate the cancel effect.
+After a Special action is used, it is removed from 
+the game until the end of the duel.
+Pulse
+Pulse is the ultimate defensive tactic, and triggers if 
+you pair the Special Action with a Burst or Dash.
+When a pulse is revealed, the opponent's entire action 
+(even another special action) is negated immediately. 
+They simply do not take a turn. After this, the player 
+using the pulse pushes his opponent any number of 
+spaces backwards, then moves himself any number of 
+spaces backwards.
+If both players pulse simultaneously, they both push 
+each other back as far as possible.
+Your discard pile does not cycle the turn when a 
+pulse is used. The opponent still discards his attack 
+pair as normal.
+Cancel
+Cancel allows you to choose your attack after looking 
+at what your opponent has played. It triggers if you 
+pair a Special Action with a Grasp or Shot (or if you 
+try to activate a Finish and your life total is too high). 
+Return the base played with cancel to your hand, 
+remove cancel from the game, then select a new 
+attack pair and play it. Any tokens you spent during 
+the ante phase apply to your new attack. The pair 
+played with cancel will trigger a clash if it ties your 
+opponent's pair.
+If both players cancel simultaneously, they must both 
+choose new attacks secretly. 
+Finish
+If Special Action is paired with a Strike, Drive, or a 
+character's unique base (Snare / Press / Spellbolt / 
+Palm Strike), then the characters's Overdrive Finish is 
+executed instead of a normal attack. A character 
+must have 7 or fewer life points to use an 
+Overdrive Finish. If a player attempts an Overdrive 
+Finish, but his or her life total is too high, then the 
+finish becomes a Cancel instead.
+The overdrive finish attack varies for each character, 
+and is listed on the Character card. This attack 
+replaces a character's entire attack pair (ie: the 
+base played with the Special action has no effect 
+except to trigger the Finish).
+Overdrive finishes always win priority ties without 
+clashing. If two finishes clash, then they both 
+downgrade into cancels.
+Your discard pile does not cycle the turn when a 
+finish is used. Return the base played with the 
+finish to your hand instead.
+
+Special Thanks
+Thank you for checking out Battle Connection and for 
+playing the game! If you have any comments, ideas, 
+or bugs to report, please email them to me at 
+level99games@gmail.com
+If you would like to report your play experience with 
+the game and be listed as a playtester in the rules 
+book, please send some play logs and reports to me as 
+well. The more input I get on the game, the more I 
+can tweak it to be balanced for the release.
+Check out www.battleconnection.com for information 
+on how you can get the full version of the game, as 
+well as strategies, forums, and additional print and 
+play goodies!
+Thanks for playing, and I hope to hear from you soon!
+- D. Brad Talton Jr.
+BattleCON designer, Level 99 Games President
+Pre-Order Your Copy!
+BattleCON is coming out soon, and you can 
+score special pre-order bonuses by getting a copy 
+from the Level 99 Games Store! Check out 
+www.battleconnection.com to links to pre-order the 
+full game!
+The complete game features 18 characters, 
+Multiplayer modes, the arenas variant, and more! A 
+single game box is all you need to run a tournament!
+Check out www.battleconnection.com for even 
+more character information and downloads!
+Character Teaser
+Here's a sneak peek at some of the characters in the 
+full version of BattleCON: War of Indines.
+Magdelina Larington – A priestess who channels 
+spirits. As the battle goes on, she can strengthen her 
+trance to gain more and more power, becoming an 
+unstoppable force if not defeated fast enough.
+Demitras Denigrande – A vampire who is extremely 
+mobile and quick, and fights by gathering up power 
+with each hit. Though his attacks are weak, they build 
+up power to allow him to unleash devastating attacks.
+Lixis Ran Kanda – A biomancer who uses poisons 
+and a deadly spear in combat. Lixis is able to force 
+opponents to discard extra cards, cutting off their 
+options and negating their special powers.
+Vanaah Kalmor – A scythe-wielding paladin who 
+predicts an opponent's priority and takes advantage of 
+it. She excels at using powerful single strikes at 
+strategic intervals to cut down foes.
+Rukyuk Amberdeen – A bounty hunter who utilizes 
+a pair of pistols loaded with specialized custom 
+ammunition in order to capitalize on his opponents' 
+weaknesses.
+Kehrolyn Ross – A shape-changing homunculus who 
+alters her natural weaponry in order to adapt to the 
+situation at hand and gain additional stats.
+Regicide Heketch – A 300-year old assassin who 
+gains power by retreating into the shadows, then 
+unleashes it in a torrent of deadly strikes before 
+vanishing again.
+Seth Cremmul – As an oracle with the ability to see 
+into the future and alter fate, Seth is able to predict his 
+opponents' every move. With correct predictions, he 
+is able to shut down enemy strategies and corner 
+them.
+Disclaimer
+This print and play preview is of a work under 
+construction—the design and layout of these 
+components is not indicative of the final product.
+This document, the attached cards, and all 
+designs, rules, and illustrations therein are property 
+of Level 99 Games LLC, and are not to be 
+redistributed without express written permission of D. 
+Brad Talton Jr.

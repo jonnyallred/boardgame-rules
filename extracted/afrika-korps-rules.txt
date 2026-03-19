@@ -1,0 +1,1558 @@
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 1 of 13 
+ 
+THE AVALON HILL GAME COMPANYS TRADEMARK 
+FOR ITS DESERT CAMPAIGN GAME 
+1. COMPONENTS: 
+ 
+1.1 THE MAPBOARD: The map board shows the area 
+where the western desert campaign was actually fought.  It 
+covers approximately 700 miles between El Agheila and El 
+Alamein.  Map spellings are according to British War Office 
+maps.  A hexagonal grid has been superimposed on the 
+mapboard to determine movement.  Important features include: 
+ 
+GRID COORDINATES: Black numbers printed along the 
+south and east edges of the board are used to identify individual 
+hexes.  The letters are read horizontally (east-west), the numbers 
+diagonally from southwest to northeast.  When a number and 
+letter are cross-indexed they pinpoint a certain location on the 
+map.  Examples: Agheila is W6, El Alamein is L59, 
+ 
+ESCARPMENT: Any hex containing brown splash 
+contours (Example: G24 ): 
+ 
+NOTE: Hex T29 is not a pass through the escarpment: 
+ 
+ 
+QATTARA DEPRESSION: Any hex containing brown 
+dots wholly OF partially within the brown lines of the area 
+labeled QATTARA DEPRESSION.  (Example: R60). 
+ 
+ 
+FORTRESS: Bengasi (H2), Tobruk (G25).  Alternate 
+spellings: Benghazi, Tobruch. 
+   
+ 
+ 
+COASTROAD: Any hex containing a red line (Example: 
+K61). 
+ 
+ 
+GERMAN HOME BASE: Gray hex at W3, 
+ 
+ 
+ALLIED HOME BASE: Gray hex at J62. 
+ 
+ 
+1.2 UNIT COUNTERS: The die-cut, Order of Battle Unit 
+Counters are the tokens whose movement and placement 
+determine the course of play.  The Blue pieces are Allied; Red 
+are Axis (a term referring to the German-Italian alliance).  
+Hereafter they will be referred to simply as units.  Printed on 
+each unit is information necessary for play of the game. 
+ 
+1.21 There are five different unit sizes: 
+Counter Symbol 
+Unit Size 
+XXX 
+Army Group 
+XX 
+Division 
+X 
+Brigade 
+III 
+Regiment 
+II 
+Battalion 
+ 
+1.22 The nationality of pieces can be determined as follows: 
+Counter Nomenclature 
+Description 
+A 
+Australian 
+NZ 
+New Zealand 
+I 
+Indian 
+SA  
+South African 
+It 
+Italian 
+Unmarked Red 
+German 
+Unmarked Blue 
+British 
+ 
+1.23 The types of pieces are determined as follows: 
+ 
+1.24 Identification is provided only for historical reference.  
+It is not necessary for play of the game, and players not wishing 
+to take the time to set up the game with the correct historical 
+units can ignore this information and bring units into play solely 
+on the basis of their combat and movement factors (see 2.2) 
+ 
+1.25 The attack factor is the basic strength of the unit when 
+attacking. 
+ 
+1.26 The defense factor is the basic strength of the unit 
+when defending. 
+ 
+1.27 The movement factor is the maximum number of clear 
+terrain hexes a unit may move into in one turn. 
+ 
+1.3 RULEBOOK: The rulebook contains all rules, charts 
+and tables necessary for play of the game. 
+ 
+1.4 DIE: The six-sided die is used only to resolve combat 
+and the arrival of Axis supplies; it has nothing to do with 
+movement. 
+ 
+1.5 TIME RECORD CARD: The Time Record Card is 
+used to record the passage of turns and indicates the availability 
+of reinforcements, replacements, and Allied substitute counters, 
+as well as possible changes in Axis supply arrival status, and the 
+approaching end of the game. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 2 of 13 
+2. PREPARE FOR PLAY 
+ 
+2.1 Lay the mapboard out on a long table.  The Axis player 
+sits at the northern side; the Allied player at the southern side. 
+ 
+2.2 Punch out the unit counters from their die-cut sheet and 
+place the corresponding units on the Order of Appearance tables 
+printed on the mapboard.  These units are the Reinforcements 
+(19.1) which both sides receive at various intervals throughout 
+the game. 
+ 
+2.3 Place the units shown on the March 1941 Situation 
+Chart on their respective listed positions on the mapboard.  
+Stacking limits (6.1) can be ignored during this preliminary 
+setup but must be adhered to at the conclusion of each player’s 
+movement and also at the end of each player’s turn. 
+ 
+2.4 Place the remaining four Axis and five Allied supply 
+counters off the board in an accessible place where they can be 
+brought into play as dictated by the course of the game.  The 
+remaining counters are Allied substitute counters (21) which 
+cannot enter play until August, 1942.  Put them aside for later 
+use.  The blank red and blue counters are merely “spares” to 
+replace potentially lost units.  You are now ready to begin play. 
+MARCH 1941 SITUATION CHART 
+ 
+3. SEQUENCE OF PLAY 
+ 
+AFRIKA KORPS is played in turns.  The Axis player 
+moves all of his units which he cares to move, and resolves any 
+resulting battles.  That is his player turn.  The Allied player 
+moves all of his units which he cares to move, and resolves any 
+resulting battles.  That is his player turn.  Together these two 
+player turns comprise a complete game turn and are measured as 
+the passage of half a month of real time.  The exact sequence of 
+play is outlined below. 
+ 
+3.1 If the Axis player controls a port (4.3) at which he can 
+bring in supply, and provided there are less than three Axis 
+supply units (not including captured supply units) already on the 
+board and in play), he rolls the die and consults the Supply Table 
+(12.2) to determine whether he receives a supply unit that turn.  
+If successful, he places it at the controlled port of his choice.  He 
+then consults the Time Record Card.  If he is due additional units 
+to enter play that turn he places them on board at a controlled 
+port of his choice.  The Axis player then moves all of his units 
+on board (including just arrived supply, reinforcement, and 
+replacement units) which he chooses to move.  No Allied 
+movement is allowed. 
+ 
+3.2 All attacks caused by Axis movement are resolved one 
+attack at a time in the order the Axis player wishes them to be 
+resolved, subject to any other rules contained herein.  After each 
+attack, the Axis player decides whether or not to execute 
+movement after combat if applicable. 
+ 
+3.3 Provided the Allied Player has less than four Allied (not 
+counting captured supply units) supply units in the game 
+already, the Allied player brings on a supply unit at any 
+controlled port providing he is entitled to and wants it.  After 
+consulting the Time Record Card he places any additional units 
+he is due on board in a controlled port of his choice.  He then 
+moves all his units on board which he chooses to move.  No 
+Axis movement is allowed. 
+ 
+3.4 All attacks caused by Allied movement are resolved one 
+attack at a time in the order the Allied player wishes them to be 
+resolved, subject to any other rules contained herein.  After each 
+attack, the Allied player decides whether or not to execute 
+movement after combat if applicable. 
+ 
+3.5 The Allied player checks off one game turn on the Time 
+Record Card and players repeat Steps 3.1 through 3.5 for the 
+duration of the game. 
+4. VICTORY CONDITIONS 
+ 
+4.1 The Axis player wins if he has eliminated all Allied 
+combat (not supply) units currently on the board, or controls 
+both fortresses and both home bases simultaneously for two 
+consecutive Axis player turns (at the beginning and end of each 
+turn) by his last October, 1942 turn. 
+ 
+4.2 The Allied player wins if he has eliminated all Axis 
+combat (not supply or Rommel) units currently on the board, or 
+controls both fortresses and both home bases simultaneously for 
+two consecutive British player turns (at the beginning and end of 
+each turn), or avoids the Axis victory conditions through the last 
+October, 1942 turn. 
+ 
+4.3 To control a fortress or a home base, the controlling side 
+must occupy that hex.  Last possession of the hex is not 
+sufficient to be considered “controlled”.  It must be occupied by 
+a combat, supply, or Rommel unit.  To control a home base you 
+must both garrison it as above and keep it out of enemy zones of 
+control at the beginning and the end of each player turn, NOTE: 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 3 of 13 
+a player may never use his opponent’s home base as a port, 
+whether he controls it or not. 
+5. MOVEMENT 
+ 
+5.1 Barring special restrictions caused by enemy zones of 
+control (ZOC) and restrictive terrain, you may move all, some or 
+none of your units currently in play on every turn. 
+ 
+5.2 On each turn, you may move each unit in any direction 
+or combination of directions any number of open terrain hexes 
+not exceeding its movement factor. 
+ 
+5.3 You move all of your units you choose to move in your 
+turn before resolving any battles, 
+ 
+5.4 You may not move your units on top of or through 
+opponent’s combat units or their ZOC (supply and Rommel units 
+are not combat units), except during Automatic Victory (9.1) 
+situations. 
+ 
+5.5 Movement factors are not transferable from one unit to 
+another nor can they be accumulated from one turn to the next. 
+ 
+5.6 You may move units on partial Qattara Depression 
+hexes (Example: Q60) as if they were clear terrain, but not on 
+full Qattara Depression hexes (Example: R60).  T61 is 
+considered a full Qattara hex. 
+    
+    
+ 
+ 
+5.7 You may not move units directly from one hex to 
+another across an all-water hexside (Example: E18 to F19), or 
+Qattara Depression hexside (W62-X62) nor may units on these 
+adjoining hexes engage each other in battle. 
+      
+ 
+ 
+5.8 You may not move units on partial hexes on the East or 
+West ends of the mapboard (i.e. R68), nor are you allowed to 
+move units on hexes for which there is no grid coordinate (i.e. 
+there is no X70 nor is there a Y70 since neither 70 nor Y are grid 
+coordinates).  Hexes 163, K64, M65, 066, Q67, S68, and U69 
+are considered playable. 
+6. STACKING 
+ 
+6.1 Both players may stack up to three combat units in one 
+hex.  Supply units and/or Rommel may be stacked by themselves 
+or with combat units over and above the three-high limit. 
+ 
+6.2 The movement factor of stacked units is that of the 
+slowest unit in the stack.  Units may combine to form a stack at 
+any point during a turn in which they can reach the same hex.  
+Similarly, a stack may split up into its component parts at any 
+point during the movement of the stack. 
+ 
+6.3 Units may pass through hexes containing other friendly 
+combat units even if those hexes are already stacked to the 
+maximum.  Units must conform to stacking limits only at the 
+end of movement and the end of each player turn. 
+7. COMBAT 
+ 
+7.1 Every combat unit has a Zone of Control (hereafter 
+referred to as ZOC) which consists of the six hexes adjacent to 
+the hex it occupies (Exceptions: E18-F19, W62-X62, and 
+fortresses, etc.).  An overlapping friendly ZOC does not negate 
+an enemy ZOC.  Combat units lose their ZOC if attacked at 7-1 
+odds or 5-1 surrounded (see 9.1). 
+ 
+7.2 A player automatically causes combat whenever he 
+moves a combat unit into an enemy ZOC, The player moving his 
+units is always the attacker; his opponent is always the defender. 
+ 
+7.3 Battle odds are determined by expressing the attacker’s 
+attack factor(s) as a ratio of attack factors to the defender’s 
+defense factor(s).  Fractions are always rounded off in favor of 
+the defender (7:2 becomes 3-1; 2:7 becomes 1-4). 
+ 
+ 
+EXAMPLE 7.3: If the British 7th Armored Infantry (3-3-7) 
+attacks the Italian Trenta Division (2-3-4) battle odds are 3-3 or 
+1-1.  To resolve this battle the attacker rolls the die once.  The 
+battle result is obtained from the Combat Results Table found on 
+the back of this rulebook by cross-indexing the die roll with the 
+proper odds column.   
+ 
+7.4 Odds greater than 7-1 are treated as 7-1.  Odds less than 
+1-6 are not allowed.  Any unit forced to attack at odds worse 
+than 1-6 would be eliminated before any other battles are 
+resolved without constituting a soak-off (11.6) or a ZOC for 
+blocking potential retreat routes.  No unit may voluntarily attack 
+at less than 1-6.  Any unit forced to attack in this position is 
+eliminated before any other combat takes place. 
+ 
+7.5 The results of combat are interpreted as follows: 
+Result 
+Description 
+A Elim 
+All attacking units in that attack are eliminated. 
+A back 2 
+All attacking combat units in that attack are 
+retreated two hexes by the defender. 
+Exchange 
+The player with fewer combat factors actually 
+involved in the combat (attack factors for the 
+attacker, defense factors for the defender) must 
+remove all his units in that battle.  The other 
+player removes the number of involved units 
+whose combined combat factors actually used in 
+the battle total at least that of the units removed 
+by his opponent.  In an exchange, the defender’s 
+defense factors are computed at basic or double 
+value according to terrain.  The attacker’s 
+combat factors are never affected by terrain. 
+D back 2 
+All defending units in that attack are retreated 
+two hexes by the attacker. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 4 of 13 
+D Elim 
+All defending units in that attack are eliminated. 
+ 
+EXAMPLE 7.5: If a 2-3-4 unit which is doubled on defense 
+is attacked by seven 1-1-6 units at 1:1 odds with a resulting 
+“exchange” the 2-3-4 unit is lost along with six of the seven 1-1-
+6 units.  If, on the other hand, a 3-4-6 unit is attacking four 1-1-
+6s at 1-2 odds with a resulting “exchange”, the 3-4-6 unit is 
+eliminated along with three of the four 1-1-6s. 
+ 
+7.6 RETREATS: Retreats can be handled in a zigzag 
+fashion so as to end the retreat only one hex away from the 
+original hex occupied during the battle.  Retreat can be through 
+friendly units already stacked to maximum and over all playable 
+terrain including escarpments. 
+ 
+7.61 Retreating units are eliminated instead if they are 
+forced to retreat into or through enemy zones of control, out to 
+sea, into the Qattara Depression, or off the playable hexes of the 
+board.  Retreating units in excess of the stacking limit would be 
+eliminated if forced to end their retreat on friendly units that 
+would result in stacks exceeding the three-high combat unit 
+limit.  The retreating player could not elect to eliminate another 
+unit in the stationary stack so as to make room for a retreating 
+unit, although he could choose which of the retreating units to 
+eliminate should the hex retreated to be able to accommodate 
+somewhat less than the full number of retreating units. 
+ 
+7.62 The winner cannot force retreating units into blocking 
+ZOC, or terrain which would result in their elimination if 
+alternate, unblocked routes of retreat are available. 
+ 
+7.63 If the Rommel unit is stacked with an attacking unit or 
+units which must retreat as a result of combat, it does not retreat 
+with the combat units because it is technically not a part of the 
+attacking force.  However, in most cases the rules for placing 
+Rommel with the closest Axis force when alone in an Allied 
+ZOC (22.41) will have the same effect. 
+8. ATTACKING 
+ 
+8.1 A unit must stop as soon as it enters the first hex in an 
+enemy ZOC (Exception: see Automatic Victory, 9 1). 
+ 
+8.2 You may move as many units into an enemy ZOC as the 
+stacking limits and board situation will allow before calculating 
+battle odds and resolving combat. 
+ 
+8.3 A unit is not allowed to move through an enemy ZOC 
+(see Automatic Victory, 9.1 for exception), nor is it allowed to 
+move from a hex in the ZOC of an enemy unit directly to 
+another hex in the ZOC of that same enemy unit (Exception: see 
+Advance After Combat, 16.2).  The unit would have to first 
+move to a hex free of enemy ZOC before reentering the ZOC of 
+the original enemy unit who’s ZOC it began the turn in.  It 
+could, however, start its turn in an enemy ZOC and move 
+directly to a hex in the ZOC of a different enemy unit providing 
+the hex moved into is not also in the ZOC of the original enemy 
+unit in whose ZOC it started its turn, 
+ 
+8.4 You must resolve combat against every enemy combat 
+unit into whose ZOC you have moved units.  Every combat unit 
+in the ZOC of an enemy unit must attack some enemy unit. 
+ 
+8.5 Each attacking unit in a particular attack must be 
+adjacent to every defending unit which it is attacking in that 
+attack. 
+ 
+8.6 After concluding all movement for your player turn, you 
+resolve all battles one at a time in any order you choose.  Any 
+advance after combat or retreat possibilities resulting from each 
+attack must be executed before resolving the next attack. 
+ 
+8.7 A unit’s attack factor remains at its basic level in all 
+situations regardless of the terrain it is attacking from or into. 
+9. AUTOMATIC VICTORY 
+ 
+9.1 Whenever enough attacking units are in attack position 
+against a defending unit to create an automatic elimination 
+situation (odds of 7-1, or 5-1 if the defender is surrounded by 
+enemy ZOC or impassable terrain such that he could not survive 
+a “back 2” result) that defending unit’s ZOC is immediately 
+ignored for the remainder of the attacker’s turn.  Therefore, units 
+not yet moved by the attacker may move through that defending 
+unit’s adjacent hexes.  The attacker’s units may even move over 
+the defending unit itself although they may not end their move 
+directly on top of it.  However, that defending unit remains in 
+play and is not removed until the attacker is ready to resolve his 
+attacks. 
+ 
+9.2 Attacking units must be able to trace a line no more than 
+five hexes long which is free of enemy ZOC and impassable 
+Qattara/water hexsides to a friendly supply unit at the instant 
+they achieve automatic victory.  Although automatic victory 
+(hereafter referred to as AV) takes place during the movement 
+portion of a turn, the combat units involved in the AV may not 
+make any further movement during that turn until after the battle 
+portion of the turn, when they may advance if they meet the 
+Advance After Combat (see 16.1) requirements. 
+ 
+9.3 Units which serve to cut off retreat routes and thus 
+participate in an AV (in a 7-1 or 5-1 surrounded attack) even 
+though they may not be adjacent to the AV’ed unit, also may not 
+make any further movement during that turn. 
+ 
+9.4 Units which move through a negated ZOC by virtue of 
+an earlier AV attack, may join in that AV attack. This means that 
+units can move through a negated ZOC and then join in the AV 
+attack against that AVed unit so as to be able to remain adjacent 
+to other non-AVed enemy units without attacking, provided 
+proper soak-offs are made.  However, units used to gain an AV 
+cannot later have their “places taken” by other units moving 
+through the negated ZOC and thus freeing the original AVing 
+units to continue their move. 
+ 
+9.5 A unit which must be eliminated before combat due to 
+being trapped in enemy ZOC without benefit of supply cannot 
+participate in an AV. 
+ 
+9.6 Units making an AV attack must be in supply (14.2) at 
+the time of that attack.  They cannot rely on the AV to open a 
+route to a source of supply to sustain that AV attack. 
+ 
+9.7 The supply used to Sustain an AV attack could 
+conceivably move over the AVed unit and continue on to supply 
+other attacks on the same turn but it must maintain its five hex 
+supply line to the units which made the AV attack as well as any 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 5 of 13 
+units involved in other attacks which it is supplying (Exception: 
+See 14.5). 
+ 
+ 
+EXAMPLE 9A: 21/5 has established an AV (7- 1) vs 7A/2.  
+The German unit is within five hexes Of Supply fl.  The 21/5 
+must remain in position for the rest of the turn, although the 
+supply can move as shown to hex “A”, ignoring 7A/2’s ZOC 
+and ending its movement still within five squares of 21/5. Note 
+the reverse is not true: if supply #1 had started the turn at “A” it 
+could not supply the AV from that hex, since the 7A/2’s ZOC is 
+not ignored until after the supplied AV has taken place, 
+ 
+ 
+EXAMPLE 9B: At the end of the Allied turn, 15/115 is 
+isolated by ISA/l, 1/22 and 32.  The Axis player moves 21/104 
+and Brescia into position for what appears to be an AV vs 
+1SA/1.  However, it isn’t an AV because the 15/115 cannot 
+make a 1-2 attack without supply vs 1/22 and 32, and thus would 
+be eliminated before combat.  What the Axis player has is just a 
+normal 5-1 vs 1SA/1.  The 15/115, unable to attack at 1-2 
+without supply, must be eliminated prior to combat.  Note that 
+15 /115 could have been saved had the Axis player been able to 
+bring up enough force against 1SA/1 to get a 7-1 AV, thus 
+opening a supply route to 15/ 115 which could then attack at 1-2 
+or even move away without a fight through the hole left by the 
+demise of 1SA/1. Note also that, somewhat paradoxically, 
+15/115 could have been saved had the 32 Armor unit had a 
+defense factor of 3.  15/115 could then have attacked at 1-3 
+without supply, (see 14.3) and conceivably could have retreated 
+through the hole left by the demise of 1SA/l. 
+10. DEFENDING 
+ 
+10.1 The defending player is not allowed to move any unit 
+while his opponent is taking his turn, although his opponent can 
+retreat his defeated defending units after combat (see 7.6) in the 
+same manner that the defender can retreat defeated attacking 
+units after combat. 
+ 
+10.2 Any defending unit in a battle which occupies a 
+fortress or escarpment hex has its defense factor doubled for 
+purposes of calculating the odds of that battle and the amount of 
+loss an attacker must suffer in an “exchange” result.  Such a 
+unit’s defense factor remains doubled regardless of the terrain 
+occupied by the attacker. 
+11. MULTIPLE UNIT BATTLES 
+ 
+11.1 When two or more units attack one defending unit the 
+factors of the attacking units must be totaled into one combined 
+attack factor. 
+ 
+11.2 When one unit attacks two or more defending units the 
+factors of the defending units must be totaled into one combined 
+defense factor. 
+ 
+11.3 When several units attack several defending units the 
+attacker has the choice of dividing combat into more than one 
+battle as long as the following conditions are met: 
+ 
+11.31 The attacker must attack every defending unit in 
+whose ZOC he has attacking units, and 
+ 
+11.32 His attacking units must be in the ZOC of every 
+defending unit he is attacking, and 
+ 
+11.33 Each of the attacker’s units in an enemy ZOC must 
+attack. 
+ 
+11.4 The attacker may divide combat against stacked units 
+on the same hex into more than one battle as long as he has more 
+than one attacking unit. 
+ 
+11.5 The attacker with stacked units on the same hex may 
+divide combat into more than one battle against defending units 
+on separate hexes. 
+ 
+11.6 The attacker may deliberately sacrifice one or more 
+attacking units at unfavorable odds in order to gain more 
+favorable odds over other defending units.  This tactic is called 
+soaking-off.  However, soak-off odds cannot be worse than 1-6.  
+Any time an attacker finds his units trapped in enemy ZOC at 
+odds worse then 1-6, he must either bring up enough units in 
+support to bring odds down to 1-6 or eliminate it from the board 
+before resolving any battles. 
+ 
+11.7 The attack or defense factor of a unit cannot be split 
+and applied to more than one battle, nor may any defending unit 
+be attacked more than once in any turn. 
+ 
+EXCEPTION: Should a unit be retreated into a fortress hex 
+which will be attacked later in that same turn, that unit could 
+undergo attack twice in the same turn.  In this case, however, the 
+unit does not add its defense factor to that of the other defending 
+unit(s) in the hex, although it must abide by the results of the 
+attack.  If a D Elim is rolled, the unit is eliminated with the other 
+defending unit(s).  If the result is DB2, the unit is again 
+retreated.  The nonparticipating unit could not be used to satisfy 
+exchange losses and is eliminated if all other defending units in 
+the hex are lost. 
+ 
+Should a unit be retreated into a fortress hex containing no 
+other combat units it would be subject to automatic elimination 
+if attacked at any odds during that player turn. 
+ 
+The attacking player cannot dictate a retreat into a vacant 
+fortress hex against the defender’s will if any other legal retreat 
+route exists. 
+ 
+11.8 No attacking unit may fight more than one battle per 
+turn even if it finds itself in an enemy ZOC after combat has 
+been resolved.  The defending unit in such a case must attack or 
+withdraw in its turn or be eliminated.  If such a unit wishes to 
+attack in its turn it may do so by holding its present position or 
+by withdrawing from the enemy ZOC altogether and then re-
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 6 of 13 
+entering into a different hex of the enemy unit’s ZOC providing 
+it has any supply it may need to attack. 
+ 
+11.9 If, at the end of the movement portion of its turn, an 
+attacking unit is isolated while in an enemy ZOC it must be 
+eliminated before the combat phase of the turn (Exception: 14.3, 
+see the second example under 9.6). 
+ 
+EXAMPLE 11A: In the above example blue may divide combat 
+in two ways.  As shown by the gray circles he may resolve 
+combat in two separate battles or in three separate battles as 
+shown by the red circles, Notice that in dividing combat every 
+red unit that is in a blue ZOC will be fought, Also notice that the 
+Free French unit is not engaged since its ZOC does not fall on 
+any red units. 
+ 
+ 
+EXAMPLE 11B: In this example the red 2-2-12 soaks off 
+against blue 2nd & 24th brigades at 1-3.  This gives Red’s 
+remaining units odds of 5-1 over the remaining blue 2-2-6 unit.  
+This tactic by red, forces surviving blue units to withdraw or 
+counterattack at relatively unfavorable odds. 
+ 
+ 
+EXAMPLE 11C: Soaking-off can be useful in forcing 
+defending units to abandon an escarpment.  Here the red 2-2-7 
+soaks-off against blue 4-4-7 at 2 to 8 (1-4).  Note that blue 4-4-
+7’s defense factor doubles on defense.  The remaining red units 
+attack blue 1-1-6 at 6 to 2 (3-1).  Blue, in his turn, must either 
+counterattack or give up the escarpment position. 
+ 
+EXAMPLE 11D: The result of a blue attack has left red with a 
+forced soak-off situation in his turn.  At first glance it appears 
+that red has blue NZ/2 surrounded, but a closer look finds that 
+red 1-1-7 would have to soak-off at odds of 1-8 which is not 
+allowed.  Therefore, if red does not bring up additional units to 
+join the attack and bring the soak-off odds down to at least 1-6, 
+then red 1-1-7 must be removed before resolving the 4-1 attack 
+against blue 1-1-6. 
+ 
+ 
+EXAMPLE 11E: All attacking blue units are within five 
+hexes of a supply unit except blue 2-2-6, which has been left 
+surrounded by red’s previous player turn.  In this event blue 2-2-
+6 is automatically eliminated prior to combat resolution (see 
+11.9), thus opening a retreat route for red 2-2-4 which is being 
+attacked at 10-2 (5-1).  Note that red 2-2-4 would be AVed in a 
+5-1 surrounded attack were it not for rule 11.9 which requires 
+the elimination of blue 2-2-6 before any combat is resolved due 
+to being in red ZOC without access to supply. Both blue supply 
+units must be removed because neither is within five hexes (free 
+of enemy ZOC) of all attacking units, 
+12. AVAILABILITY OF SUPPLY 
+ 
+12.1 The Allied player is due one supply unit per turn 
+throughout the game providing he has control of a port at which 
+to land the supply unit.  However, the Allied player may never 
+have more than four of his own (not captured) supply units on 
+board at any one time. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 7 of 13 
+ 
+12.2 The Axis player is allowed to roll a die once per game 
+turn on the SUPPLY TABLE in an attempt to secure a supply 
+unit provided he controls a port in which to land the supply unit 
+that turn.  Therefore the Axis player cannot roll for supplies on 
+the first game turn because he doesn’t control a port.  The Axis 
+player may never have more than three of his own supply units 
+on board at any time. 
+SUPPLY TABLE 
+Die 
+roll 
+April 
+1941-June 
+1941 
+July 1941-November 
+1941 
+December 
+1941-
+End of Game 
+1 
+Sunk 
+Sunk 
+Sunk 
+2 
+Sunk 
+Sunk 
+ 
+3 
+ 
+Sunk 
+ 
+4-6 
+ 
+ 
+ 
+The Axis player receives a supply unless he rolls a “Sunk” result. 
+ 
+12.3 There is no limit to the number of captured supply 
+units which a player may have over and above the maximum 
+number of his own supply units. 
+ 
+12.4 If a player is unable to land his supply unit for a given 
+turn in a controlled port (i.e.: Tobruch or his home base) at the 
+start of the movement portion of his turn he forfeits that supply 
+unit.  Supply units may not be accumulated off board.  They 
+must land on their turn of arrival or be lost. 
+ 
+12.5 A player does not have to accept supply.  He can 
+decline the arrival of a supply unit if he so desires. 
+13. MOVEMENT OF SUPPLY UNITS 
+ 
+13.1 Initial placement on board in a controlled port does not 
+count against the supply unit’s movement rate.  It can be moved 
+and used to sustain attacks on the turn of its arrival, or any turn 
+thereafter until used or destroyed. 
+ 
+13.2 Supply units may move into an enemy ZOC only if 
+they are being used to sustain attacks against that enemy unit in 
+that turn. 
+ 
+13.3 A supply unit cannot capture or move adjacent to 
+(excepting the E18-F19, W62-X62 and fortress anomalies) 
+opposing supply units (either during or at the end of the 
+movement portion of the turn) unless it is accompanied by a 
+combat unit.  However, a supply unit could move adjacent to, or 
+even on top of the Rommel unit (22) if the Rommel unit were 
+alone in a hex. 
+14. SUSTAINING ATTACKS 
+ 
+14.1 Units may never attack at odds of 1-2 or better without 
+access to a supply unit.  Whenever a supply unit is used to 
+sustain an attack, that supply unit is removed at the end of the 
+current player turn. 
+ 
+14.2 Units may attack at odds of 1-2 or better only if all 
+attacking units involved in that attack are within five hexes of a 
+friendly supply unit after movement.  The five hex route to the 
+supply unit must be free of enemy ZOC and full Qattara 
+Depression hexes (and cannot be traced across the E18-F 19, 
+W62-X62 hexsides).  The five hex route is inclusive of the hex 
+containing the supply unit, but exclusive of the hex containing 
+the attacker.  The five hex supply route need not be maintained 
+once combat is resolved: thus, retreating enemy combat units 
+across the five hex supply route would have no effect on 
+subsequent attacks being resolved during that same player turn. 
+ 
+14.3 Attacks at odds of 1-3 or worse do not require supply.  
+However, attacking units are not allowed to voluntarily attack at 
+reduced odds so as to avoid the necessity of supply. 
+ 
+14.4 One supply unit may sustain attacks for more than one 
+attack in the same player turn, There is no limit to the number of 
+attacks that can be sustained by the same supply unit as long as 
+all the units which are attacking, at 1-2 or better odds are within 
+the five hex radius of the supply unit described in 14.2.  Other 
+supply units (whether within the five hex radius or not) do not 
+have to be used and can remain on board for use in later turns. 
+ 
+14.5 Supply units are required to sustain AV attacks both at 
+the instant the AV is attained and at the end of the movement 
+portion of the attacking player’s turn.  Note that it is possible 
+that the supply unit sustaining an AV attack may move out of the 
+five hex supply radius of that attack, providing another supply 
+unit takes its place within the five hex supply radius at the end of 
+the movement portion of the turn.  However, in this case both 
+supplies would have to be used to sustain the AV attack. 
+ 
+14.6 The attacking player must state before resolving each 
+combat (including AV attacks) which supply is sustaining the 
+attack. 
+ 
+14.7 Supply is not necessary to defend; there is no change or 
+reduction of a unit’s defense factor due to lack of supply. 
+15. CAPTURE OF SUPPLY 
+ 
+15.1 Supply units have no ZOC and all enemy combat units 
+may move adjacent to or on top of a hex containing only supply 
+units (and/or Rommel unit) without stopping or may even end 
+their move in the same hex.  Opposing supply and/or Rommel 
+units may not move adjacent to an opposing supply unit unless 
+they are accompanied by a friendly combat unit. 
+ 
+15.2 The situations in which supplies can be captured fall 
+into two distinct categories: those in which the supply is stacked 
+with a friendly combat unit, and those in which it is not.  The 
+following rules pertain to the capture of supplies wherein the 
+Supply unit is unaccompanied by friendly combat units. 
+ 
+15.21 A supply unit is automatically captured whenever an 
+enemy combat unit moves adjacent to it prior to combat 
+(Exception: the E180-F19, W62-X62 anomalies) unless the 
+supply unit is in a fortress (see 15.23).  The instant this occurs 
+the supply unit is replaced with a captured supply unit of the 
+opposing color in the same hex.  The removed supply unit is 
+returned to the opponent for possible re-entry into the games at a 
+later time under the normal Supply generation rules.  The 
+captured supply unit can then be moved normally for the 
+duration of the capturing player’s movement portion of his turn 
+arid can also be used to sustain attacks as if it had started that 
+player turn as a friendly supply unit in that hex.  Such a capture 
+can occur during a combat unit’s move, after which that combat 
+unit may continue its movement for the turn without penalty or 
+delay. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 8 of 13 
+ 
+15.211 The possible presence of enemy combat units 
+adjacent to the unaccompanied enemy supply unit has no effect 
+on the capture outlined above. 
+ 
+15.212 Immediately after its capture, the captured supply 
+unit is subject to all movement restrictions arid cannot move 
+through hexes which previously were friendly, but are in enemy 
+ZOC. 
+ 
+15.22 Any retreating/advancing combat unit which finds 
+itself adjacent (usual E18/F19, W62/X62 exceptions apply) to or 
+on top of an enemy supply unit (unaccompanied by a combat 
+unit during its retreat/advance automatically captures that supply 
+unit (Exception: see 15.23). 
+ 
+However, the captured supply unit can move no further 
+during that player turn other than accompanying the capturing 
+retreated combat unit for the duration of its retreat.  Should a 
+supply which is currently being used to sustain an attack during 
+that player turn be overrun by a retreating unit in this manner it 
+is neither captured (because it is in the process of being used) 
+nor prevented from sustaining other attacks during that player 
+turn. 
+ 
+15.23 A supply unit (unaccompanied by a combat unit) in a 
+fortress can be captured by an adjacent combat unit only at the 
+conclusion of the movement portion of the turn because the 
+fortress protects the supply unit from the combat unit’s ZOC.  A 
+retreating or moving combat unit could capture the supply unit 
+only if it moved into the fortress on top of the supply unit.  In 
+essence, for a supply unit alone in a fortress to be captured by an 
+adjacent combat unit it must be “attacked”, and attacks can occur 
+only during the combat portion of a turn not before or after it.  
+Therefore, such a supply unit could not be moved immediately 
+after capture, because the captor’s movement portion of the turn 
+has been completed.  Note also that a supply unit 
+(unaccompanied by a friendly combat unit) in a fortress would 
+also be captured as part of the same attack in which an enemy 
+combat unit attacks both the lone supply unit in the fortress and 
+any other friendly combat units which are adjacent to the 
+attacker unless all the attacking units were eliminated or 
+retreated as a result of the combat. 
+ 
+15.24 Supply is not necessary in order to “attack” an 
+unaccompanied supply unit (nor is it necessary to attack a supply 
+unit under any circumstances, although it is often necessary to 
+attack 
+accompanying 
+combat 
+units). 
+ 
+Capture 
+of 
+an 
+unaccompanied supply unit during movement is not considered a 
+“battle” (even in the case of the fortress example cited in 15.1-
+3).  Plus, the combat unit which captures the supply unit may 
+also take part in battle against enemy combat units in that player 
+turn. 
+ 
+15.3 Capture of Supply units which are accompanied by 
+friendly combat units in the same hex is governed by the 
+following rules, 
+ 
+15.31 If an AV can be attained against the accompanying 
+combat unit(s), capture of the supply follows the procedure in 
+15.21 with the exception that the attacker could not occupy the 
+AVed unit’s actual hex (see 9.1), unless an Advance After 
+Combat (16.2) situation was applicable. 
+ 
+15.32 In all other cases, supply units accompanied friendly 
+combat units can be captured only by carrying out normal 
+attacks against the accompanying combat units.  This capture 
+can take one of two forms: 
+ 
+15.321 The supply unit is captured if all accompanying 
+combat units are eliminated or retreated while at least one 
+attacking combat unit remains adjacent to the supply or advances 
+after combat (see 16.1) onto it.  Supply units cannot retreat.  The 
+supply unit is neither captured nor eliminated if the battle result 
+eliminates all attacking and defending combat units and the 
+supply unit is not left in an enemy ZOC. 
+ 
+15.322 The supply unit is captured if one adjacent enemy 
+combat unit “attacks” the supply, while other attacking units 
+attack the accompanying combat units at legal odds (1-6 or 
+better).  The attacker may not use more than one attacking unit 
+to capture the supply; all other units in the defender’s ZOC must 
+attack the accompanying combat units.  NOTE: This method 
+cannot be used if the defender is in a fortress hex.   
+ 
+115.33 Supply units captured by the 15.32 method can be 
+moved by the attacker their full movement capability, but they 
+cannot be used to sustain other battles during that turn, 
+ 
+15.34 Captured supply units may be moved out of the ZOC 
+of previously accompanying friendly combat units by the new 
+owner.  This is the only time that a unit can move through an 
+enemy ZOC other than during Advance After Combat (16.2). 
+ 
+ 
+EXAMPLE 15: The Allies have moved to capture Axis 
+supply #2 by 2SA/4, while 32nd attacks 15/8 at 1-4.  This is a 
+clever way to destroy Axis Supply without using an Allied 
+supply and taking only a 50% chance of losing the 32nd.  Note 
+2SA/4 cannot join in the attack against 15/8. In this case, the 
+capture of the supply is considered a battle.  Now consider what 
+would happen if the Allies could bring up the 1st Armor (another 
+2-2-7) to the hex occupied by the 32nd.  The 1st Armor cannot 
+join 2SA/4 in capturing the supply, since in a situation like this 
+only one attacking unit may be used to capture the supply.  
+However, the Allies would have a surrounded 1-2 vs 15/8 
+(assuming the 1st & 32nd can be supplied by a separate supply 
+unit; the captured supply cannot be used to sustain this attack) 
+because 2SA/4 serves to block the 15/8’s retreat. 
+ 
+15.4 A player may destroy his own supply or captured 
+supply units at any time during his own player turn, including 
+after combat is resolved, 
+16. ADVANCE AFTER COMBAT 
+ 
+16.1 Any time an attack removes all defending combat units 
+from a fortress or escarpment hex, any and all (up to maximum 
+stacking limits) surviving attacking units may move into the hex 
+vacated by the defender.  Such advance must occur prior to the 
+resolution of the next battle, if any. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 9 of 13 
+ 
+16.2 Advance after combat is the only instance (other than 
+15.34) in which a unit may move directly from the ZOC of an 
+enemy unit into another ZOC of that same enemy unit. 
+ 
+16.3 A unit attacking a supply unit in a fortress without 
+accompanying combat units can nevertheless advance after 
+combat into the fortress even though there was no defending 
+combat unit involved. 
+17.  COAST ROAD 
+ 
+17.1 All units are allowed to move up to ten additional 
+hexes per turn on the coast road above and beyond their normal 
+movement factors.  Such movement may be combined with 
+normal movement over other terrain in any manner desired. 
+ 
+EXAMPLE: A 2-2-6 unit could move two hexes through 
+clear terrain to a coast road, then move seven hexes along the 
+coast road, then move four additional hexes across clear terrain 
+(or coast road), before returning to the coast road for its last 
+three hexes of movement along the coast road. 
+ 
+17.2 Movement along the coast road must be through the 
+specific hexsides bisected by the red coastal  road lines.  To 
+qualify for the coastal road bonus the hex entered must be 
+entered through a hex side crossed by the red coastal road 
+symbol; otherwise movement into that hex is at the cost of the 
+other terrain in that hex. 
+ 
+17.3 Hex I26 contains two roads which do not intersect 
+within the hex and therefore presents an exception to the normal 
+rules. 
+ 
+17.31 A unit which starts its turn in I26 can move along 
+either road. 
+ 
+17.32 A unit which starts its turn outside 126 and moves 
+into the hex via the road could not transfer to the other road in 
+that hex and move along it at no penalty.  It would either have to 
+move outside the hex and back into it along the proper hexside 
+(such as I26-J27-I26) or pay an additional movement factor for 
+moving across the escarpment within the hex to get to the new 
+road. Such expenditure would count as moving onto a road 
+escarpment hex (see 18.5). 
+18. ESCARPMENTS 
+ 
+18.1 Any unit may move onto an escarpment hex at the 
+normal cost of one movement factor, but may move no further 
+during the movement portion of that player turn, 
+ 
+18.2 Units may leave escarpment hexes at their normal 
+movement rate. 
+ 
+18.3 Units move through escarpment hexes at the rate of one 
+hex per player turn.  The only way a unit could move through 
+more than one escarpment hex in a player turn would be to 
+advance (16, 1) or retreat (7.6) after combat. 
+ 
+18.4 Units may move through escarpment hexes containing 
+the coast road without stopping, using either normal movement 
+factors or their coast road bonus as long as movement is made 
+through hexsides bisected by the road. 
+ 
+18.41 Units may move directly onto a coast road escarpment 
+hex from a hexside not bisected by the road and then continue 
+along the coast road without stopping.  However, they may not 
+then leave a coast road escarpment hex from a hexside not 
+bisected by the road. 
+ 
+18.42 Units which enter a coast road escarpment hex from a 
+hexside which is bisected by the road may later move off a coast 
+road escarpment hex in any direction. 
+ 
+18.5 In summary, rule 18.4 allows a unit to move either off 
+or on a coast road escarpment hex from a hexside not bisected 
+by the road without delay, but not to move both off and on in the 
+same turn except as a result of retreat or advance after combat.  
+See examples at bottom left. 
+ 
+ 
+EXAMPLE 18: A unit beginning its turn at either G24 or 
+124 could move directly onto H24 and then continue to H23, 
+H25, or 125 and then onwards along the road with no delay, 
+However, the unit could not move H24-H25-H26 since the direct 
+move between H25 and H26 would be off the coast road 
+escarpment through a hexside not intersected by the road, and in 
+one turn a unit cannot move on (to H24) and off (to H26) a coast 
+road escarpment in this way.  Note that an H24-125-126-J27-
+127-128-H28-H29-130 move is legal, since entry to 130 is made 
+from a coast road clear terrain hex (H29). 
+ 
+A unit beginning its turn at G22 can move H23-H24-H25-
+H26-H27, etc.  It entered the coast road escarpment (H23) from 
+a hexside intersected by the road, thus the H25/H26 is the only 
+time it used the non-road hexside move.   NOTE: Technically, 
+the unit did move off H25 and the H26 from non-road hexsides, 
+but the one hex distance is considered a single move. 
+ 
+A unit beginning its’ turn in Tobruch may move H26-I27-
+J27-J28 but it may move H26-I27-J28.  The H26/I27 is its legal 
+non-road hexside move; the I27/I28 would be a second such 
+move in the same turn, which is not allowed. 
+19. REINFORCEMENTS 
+ 
+19.1 Both players receive reinforcements at specific 
+intervals.  Reinforcements are new units and have nothing to do 
+with Replacements (see 20).  The Order of Appearance tables 
+printed on the mapboard state the earliest time that 
+reinforcements can be put into play.  These turns are noted in 
+bold print on the Time Record Card as a reminder. 
+ 
+19.2 Reinforcements may enter the game at Tobruch, their 
+home base, or both provided they are controlled by friendly 
+forces at the start of the player turn.  As is the case with the 
+arrival of supply units there is no movement penalty for being 
+placed on board in a controlled port.  They can be moved and 
+used in battle on their turn of arrival. 
+ 
+19.3 Unlike supply units, reinforcements do not have to land 
+on the first turn they are available.  They can be left off-board 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 10 of 13 
+for arrival during a later turn.  Such units are not considered at 
+sea and are therefore not subject to the restrictions of units using 
+normal sea movement, 
+ 
+19.4 Arriving reinforcements may be stacked above the 
+three-high limit during their initial placement on the board 
+providing they do not exceed that stacking limit at the 
+conclusion of the movement portion of the turn. 
+ 
+19.5 Reinforcements (and supply) can be placed in Tobruch 
+while under siege.  Adjacent units do not exert a ZOC over a 
+fortress hex, and, therefore, do not prevent this. 
+ 
+19.6 Reinforcements can enter play only during their own 
+player turn, 
+ 
+19.7 An opponent’s home base cannot be used as a source 
+of reinforcements. 
+ 
+19.8 Reinforcements which are not in play by the last 
+October 1942 turn are eliminated. 
+20. REPLACEMENTS 
+ 
+20.1 Starting in March, 1942 both players are eligible to 
+receive replacement units.  These units have nothing to do with 
+reinforcements (19) and are taken only from those units already 
+eliminated. 
+ 
+20.2 The Axis player earns replacement units at the rate of 
+one attack factor per turn for his home base and one attack factor 
+per turn for Tobruch, providing he controls these hexes at the 
+beginning of his player turn, for a maximum of two attack 
+factors per turn. 
+ 
+20.3 The Allied player receives two attack factors per turn 
+for his home base and one attack factor per turn for Tobruch, 
+provided he controls these hexes at the beginning of his player 
+turn, for a maximum of three attack factors per turn. 
+ 
+20.4 The rules for putting replacements into play are 
+identical to those for reinforcements. 
+ 
+20.5 Each side is allowed to accumulate replacement factors 
+from turn to turn.  A special (un-shaded) column for each side is 
+provided on the Time Record Card for this very purpose. 
+ 
+20.6 Accumulated replacement factors are not lost even if 
+an opponent gains temporary control of Tobruch and/or the 
+home base. 
+   
+ 
+21. ALLIED SUBSTITUTE COUNTERS 
+ 
+21.1 Starting in August, 1942 and all turns thereafter, the 
+Allied player may exchange substitute counters for units 
+presently on board totaling the same number of attack factors as 
+that of the substitute counters.  Armor must be exchanged for 
+armor and/or armored infantry; infantry must be exchanged for 
+infantry and/or recce units. 
+ 
+21.2 Substitution can occur only at the end of the Allied 
+player’s movement portion of his player turn.  The Allied player 
+is not allowed to move substitute units during the turn of 
+placement (except as a result of combat; i.e.  advance or retreat), 
+but he may use them to attack during their initial turn on the 
+board.  Substitution can therefore occur in an enemy ZOC.  The 
+only requirement is that all units involved in the substitution end 
+the movement portion of their turn in the same hex. 
+ 
+21.3 Substitution counters can be broken down into 
+component smaller parts of the same type (see 21.1) in much the 
+same manner they are formed at the end of the movement 
+portion of their player turn, OR during combat resolution.  Thus, 
+a 4-4-10 unit which must take a three factor loss due to an 
+exchange result could be replaced by a 1-1-7 unit. 
+ 
+21.4 A substitute counter which is breaking down into its 
+component parts may not generate units whose combined attack 
+factor is greater than that of the substitute unit, nor can it 
+generate any unit whose movement factor is greater than that of 
+the substitute unit unless that unit was used to create the 
+substitute unit originally.  Therefore, should a recce unit be used 
+to create a substitute unit special care should be taken to record 
+the specific substitute unit which contains the recce unit. 
+ 
+21.5 Units on board being converted to a substitute counter 
+or a substitute counter being converted back to its component 
+parts may not stack in such a way as to be above the three-high 
+maximum combat unit limit either immediately before or after 
+the substitution takes place. 
+ 
+21.6 Substitution may not take place at sea, or off-board, nor 
+may substitute units be brought onto the board as replacements. 
+ 
+21.7 Only those units provided in the game specifically as 
+substitute counters can be used as such.  For example, the British 
+player could not use an eliminated 2-2-6 unit as a substitute 
+counter for a pair of still functional 1-1-6 counters. 
+ 
+22. ROMMEL HEADQUARTERS UNIT 
+ 
+22.1 The Rommel unit provides any and all friendly units a 
+two hex movement bonus provided it moves with that unit(s) for 
+two hexes.  There is no numerical limit to the number of Axis 
+units which the Rommel unit can help in this manner, but it can 
+help each unit only once per turn. 
+ 
+22.2 The Rommel unit does not count against stacking 
+limits. 
+ 
+22.3 The Rommel unit has no ZOC and cannot block enemy 
+units in any manner, nor can it capture supply.  Enemy units can 
+move directly on top of the Rommel unit if unaccompanied by 
+Axis combat units. 
+ 
+22.4 The Rommel unit cannot be attacked, captured or 
+eliminated.  If placed in an enemy ZOC without benefit of an 
+accompanying friendly combat unit in the same hex, the 
+Rommel unit is merely placed with the closest Axis combat unit 
+at that point in time.  If isolated without benefit of an 
+accompanying friendly combat unit, it is likewise moved to the 
+closest Axis combat unit.  If isolated with a friendly combat unit 
+inside the same encirclement, Rommel must stay within the 
+encirclement pending the elimination or relief of the combat 
+unit. 
+ 
+22.41 The Axis player may not purposefully move the 
+Rommel unit into an Allied ZOC without benefit of 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 11 of 13 
+accompanying friendly combat unit in the same hex unless there 
+is no alternative move or non-move. 
+ 
+22.42 In determining “the closest Axis combat unit” in 22.4 
+the Axis player may not count hexes which can’t be traversed 
+normally or which are in Allied ZOC unless there is no other 
+way to place Rommel with an Axis unit.  If two Axis combat 
+units are still equidistant from Rommel, the Axis player may 
+choose which of the two he wishes to place Rommel with. 
+ 
+22.5 Rommel may be used to control ports, but does not 
+count as a unit to be eliminated for Allied victory conditions. 
+23. FORTRESSES & SEA MOVEMENT 
+ 
+23.1 Opposing units may move adjacent to enemy combat 
+units in Bengasi and Tobruch without attacking, although they 
+have the option to do so.  If units attack into a fortress, they must 
+attack all units in the fortress, but not all units adjacent to the 
+fortress necessarily have to attack. 
+ 
+23.2 Units in fortresses do not have to attack adjacent 
+enemy combat units, although they have option to do so.  If units 
+in a fortress attack, they must attack all adjacent enemy units. 
+However, all units in the fortress are not required to take part in 
+an attack.   
+ 
+23.3 Sea movement in and out of Bengasi is not allowed. 
+ 
+23.4 Sea movement between Tobruch and each side’s 
+respective controlled home base is allowed, Sea movement is 
+conducted by moving the units involved to Tobruch or their 
+home base and then off the board.  In the following friendly 
+player turn those units may be placed on Tobruch or the home 
+base and moved inland. 
+ 
+23.41 Units may move in and out of Tobruch by sea even 
+when enemy units are adjacent.  A unit may not move both into 
+and out of Tobruch by sea during the same player turn. 
+ 
+23.42 Units cannot remain at sea indefinitely.  They must 
+return to a port on the turn following initial removal from the 
+board or they are eliminated.  A unit which lands at a port may 
+not move out to sea again in the same turn. 
+ 
+23.43 Units can return to the same port they embarked from 
+on the previous game turn.  They need not move to another port. 
+ 
+23.44 To use sea movement into a port, you must control 
+the port at the beginning of your turn.  However, you may move 
+out of a port without controlling it at the beginning of your 
+player turn, provided it is not in an enemy ZOC at the time of 
+embarkation. 
+ 
+23.5 Transfer between Tobruch and the enemy home base 
+are not allowed. 
+ 
+23.6 Units in a fortress which are surrounded by a 
+combination of enemy ZOC and the sea are subject to isolation 
+(see 24) unless they have a supply unit present. 
+ 
+23.7 Units in a fortress which are surrounded by a 
+combination of enemy ZOC and the sea may not retreat.  Such 
+units would be eliminated if they suffered a “back 2” result on 
+the Combat Results Table. 
+ 
+ 
+EXAMPLE 23: In the diagram above, neither side is 
+required to attack, However, red 4-5-6 and 2-2-12 units attack 
+blue 1-1-6 at 6 to 2 (3-1) with blue’s defense factor doubled.  
+Red 1-1-7 must soak-off against blue 3-3-7, doing so at 1-6.  In 
+the 3-1 attack, a die roll of ‘3’ calls for blue M6’s retreat, but 
+since involuntary movement out to sea is not allowed, blue 1-1-6 
+is eliminated instead.  Red 1-1-7 is eliminated in the soak-off 
+attack.  In this instance, the blue supply unit cannot be captured 
+(15.322). 
+ 
+In the diagram below, it is now blue’s move so he decides to 
+move his supply unit off the board voluntarily to preclude 
+capture in the event of a successful red attack against blue 3-3-7 
+on the next turn.  However, to prevent blue 3-3-7s elimination 
+due to isolation, a supply unit will have to be brought back into 
+the fortress on the second blue turn of isolation. 
+ 
+24. ISOLATION 
+ 
+24.1 A combat unit becomes isolated when it is unable to 
+trace a line of hexes free of enemy ZOC, the sea, Qattara 
+Depression, board edge, or unplayable hexsides to a friendly 
+supply unit.  It makes no difference how extended or curved the 
+supply line is or how far away the supply unit. 
+ 
+24.2 Any unit that is isolated for two consecutive friendly 
+player turns, both at the beginning, and at the end of the player 
+turn is automatically eliminated.  Therefore, an isolated unit 
+which advances into attack position and thereby momentarily 
+breaks isolation before being retreated back into isolation has not 
+broken isolation because it is still isolated at the beginning and 
+end of the player’s turn. 
+ 
+24.3 Units which land at a port are considered to be in the 
+same supply status as the port in which they are brought onto the 
+board.  Such units entering a port which cannot trace a line of 
+supply to a friendly supply unit share the supply status of any 
+units already there, whether it is the first or second turn of 
+isolation. 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 12 of 13 
+ 
+24.4 Supply lines cannot be traced from one port to another, 
+or through the sea in any manner.  However, combat units which 
+end their turn at sea with a supply unit also at sea are considered 
+supplied, even if the combat unit and the supply unit put out to 
+sea from different ports.  Combat units at sea without a supply 
+unit also at sea are considered isolated.  Therefore, if a unit is in 
+its second turn of isolation on the board and then moves out to 
+sea without a supply unit also at sea, it is eliminated. 
+ 
+24.5 Any player without supply units on board at the start 
+and end of two consecutive friendly player turns loses all units 
+currently on board, and, consequently, the game. 
+ 
+ 
+EXAMPLE 24: 15/33 begins Its turn on hex “A” isolated 
+by the four South African infantry brigades, and moves as shown 
+by the red line to attack 1SA/3 at 2-1 (supplied by Axis supply 
+#1).  The battle results in an A back 2, with 15/33 retreated along 
+the black line to hex “B”, thus ending its’ turn still very much in 
+isolation.  Since 15/33 was isolated both at the beginning and the 
+end of its turn it is considered isolated for the entire turn even 
+though it used a supply unit to sustain its attack. 
+25.0 THIRD EDITION 
+ 
+These rules are the third edition (copyright 1980) and 
+supersede all earlier versions.  Players are urged to confer as to 
+the exact edition of the rules they are using prior to the start of 
+any game (especially those played by mail) so as to avoid 
+misunderstandings later. 
+26.0 DESIGN CREDITS 
+26.1 ORIGINAL THE AVALON HILL GAME COMPANY CREDITS 
+Original Research & Design 
+Charles Roberts  
+Original Development 
+Thomas N.  Shaw 
+Third Edition Rewrite 
+Donald Greenwood  
+Rulebook Cover Art 
+Rodger MacGowan 
+Playtesting 
+Frank Preissle, Bruno Sinigaglio, Dale 
+Garbutt, Alan R.  Moon, Donald 
+Burdick 
+Typesetting 
+Colonial Composition 
+Printing 
+Monarch Services, Inc. 
+26.2 WARGAME ACADEMY AMPLFIED 3TH EDITION RULEBOOK 
+Project Manager 
+Bill Thomson (WGA) 
+ComSimWorld interface 
+ 
+Graphics & Diagrams 
+Jeff Wise; Bill Thomson (WGA) 
+Proofreading 
+James Cohen 
+AFK Subject Matter Experts 
+Bruno Sinigaglio & Greg Smith 
+26.3 AFK VASSAL MODULE 
+Vassal Engine Creation:  
+Rodney Kinney 
+Original Configuration & 
+Trustees: 
+WGA VASSAL Team (Brent Easton, Jeff 
+Wise, Bill Thomson). 
+Enhanced Map 
+Jeff Wise 
+Errata Compilation 
+WebGrognards & WGA GENERAL 
+archive 
+27.0 ERRATA AND QUESTIONS AND ANSWERS 
+28.0 ARTICLE INDEX 
+FIRE & MOVEMENT MAGAZINE 
+1. 
+F&M #10; Foxes in the Desert: A Game Survey of the Desert War: 
+Warren G. Williams (Review)  
+2. 
+F&M #60; World War II Anthology: Chapter 1: The Mediterranean 
+Theater: Vance von Borries (Review)  
+GENERAL MAGAZINE 
+1. 
+General Vol.1, #1; Can the British Really Win in Afrika Korps  
+2. 
+General Vol.1, #1; Contest #1  
+3. 
+General Vol.1, #1; Afrika Korps: Sea Movement  
+4. 
+General Vol.1, #2; You're Not Reading the Rules  
+5. 
+General Vol.1, #2; Afrika Korps - Rules Supplement  
+6. 
+General Vol.1, #2; Play Balance for Afrika Korps: Victor Madeja  
+7. 
+General Vol.1, #3; Sink Some African Sands: Victor Madeja  
+8. 
+General Vol.1, #3; Absurdity of Afrika Korps: Jon Perica  
+9. 
+General Vol.1, #4; Afrika Korps - Tactics of Isolation: Carl Knabe  
+10. General Vol.1, #5; Afrika [sic] Korps – Replayed  
+11. General Vol.1, #6; A Critique - Afrika Korps Replayed  
+12. General Vol.1, #6; 9 December 1940: Albert Nofi  
+13. General Vol.1, #6; Play-by-Mail Table for Afrika Korps  
+14. General Vol.2, #1; Tactics and Strategy: David Whiskeyman  
+15. General Vol.2, #2; Tactics on Afrika Korps: John Finch  
+16. General Vol.2, #4; A New German Approach to Afrika Korps: Jared 
+Johnson  
+17. General Vol.2, #6; Basic German Strategy in Afrika Korps: James 
+Tribolet  
+18. General Vol.3, #1; Basic Allied Strategy in Afrika Korps: Frank 
+Russell  
+19. General Vol.3, #1; Raiding Rommel: Jim Epperson  
+20. General Vol.3, #3; Rommel Rides Again: Allen Wood  
+21. General Vol.3, #4; Across the Sands: Bill Stone  
+22. General Vol.3, #4; Operation Oasis: Chris Meagher  
+23. General Vol.3, #6; Major Battles and Campaigns;Libya and Egypt, 
+1940-42: James Tribolet  
+24. General Vol.4, #1; Rommel's Thrust – 1941: Doug Cragoe  
+25. General Vol.4, #2; German Strategy in Afrika Korps: Mark Rosenberg  
+26. General Vol.4, #5; Afrika Korps and the Attrition Table: Brooke 
+Duvall  
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+AFRIKA KORPS; Wargame Academy Amplified Third Edition Rulebook 
+Page 13 of 13 
+AFK; Revised and reformatted by Wargame Academy for internal use only 
+www.wargameacademy.org 
+27. General Vol.5, #4; Best Allied Defense - an Aggressive German: Lee 
+Mathews  
+28. General Vol.5, #5; The Real Afrika Korps: Robert Olson  
+29. General Vol.5, #6; The Road to Alexandria: Daniel Lee  
+30. General Vol.5, #6; Brains vs Brawn: William Searight  
+31. General Vol.5, #6; All or Nothing? Hardly: Bill Quinn  
+32. General Vol.7, #4; D.A.K: William Searight  
+33. General Vol.8, #2; Contest #44  
+34. General Vol.8, #3; Afrika Korps Thesis: Tom Hazlett  
+35. General Vol.9, #1; Tobruch: William Searight  
+36. General Vol.9, #4; A Southern Strategy: Larry Baggett  
+37. General Vol.9, #5; Contest #53  
+38. General Vol.10, #4; Operation Crusader: Robert Garbisch  
+39. General Vol.10, #5; Contest #59; Series Replay: Afrika Korps  
+40. General Vol.11, #3; Contest #62  
+41. General Vol.11, #5; A Decade With Das Afrika Korps: O.DeWitt  
+42. General Vol.12, #4; Series Replay: Afrika Korps: T.Hazlett, B.Libby, 
+Burdick  
+43. General Vol.12, #5; The Paleveda Gambit: A New British Gambit For 
+Afrika Korps: J.Lockwood  
+44. General Vol.13, #5; Series Replay: Afrika Korps: T.Hazlett, R.Beyma, 
+D.Burdick (Replay)  
+45. General Vol.14, #1; Competitional Afrika Korps: Dave Roberts  
+46. General Vol.15, #5; Another Afrika Korps Gambit, Strategy: 15, 
+Stephen S. Packwood  
+47. General Vol.16, #2; K.O. in Round Five..., Strategy, 22, Or Give Up 
+the Home Base? Never, Never, Never!: Frank Preissle  
+48. General Vol.17, #3; Afrika Korps Theory - A Tournament Player's 
+View of AFRIKA KORPS: J.Lockwood  
+49. General Vol.18, #1; Face Lift for a Classic Beauty, Analysis, 27, A 
+Tour of a Revised Afrika Korps Rules: Frank Preissle  
+50. General Vol.18, #2; Desert Deception, Variant, 12, A Hidden 
+Movement Variant for Afrika Korps: Richard Gutenkunst  
+51. General Vol.18, #3; Operation Torchlighter, Strategy, 22, The End 
+Game in Afrika Korps: Frank Preissle  
+52. General Vol.18, #4; Back To Basics, Strategy, 42, Basic German 
+Alternatives in Afrika Korps: Robert Beyma  
+53. General Vol.22, #1; Operation Compass, Variant, 35, A Variant for 
+Afrika Korps: Arnold Blumburg  
+54. General Vol.25, #3; Upgunning an Old Warrior, Variant, 21, Afrika 
+Korps For Everybody: Rich Gutenkunst  
+55. QUESTION BOX; 6-6; 7-3; 7-4; 9-6; 10-2; 11-6; 12-1; 22-2  
+JAGDPANTHER MAGAZINE 
+1. 
+Jagdpanther #7; The Rommel Fantasy (Variant)  
+2. 
+Jagdpanther #7; KG’s in AKorps: Jim Brown  
+MOVES MAGAZINE 
+1. 
+Moves #5; Realistic Afrika Korps: (Variant)  
+OUTPOST MAGAZINE 
+1. 
+Hardcore Afrika Korps: (Variant)  
+2. 
+Realistic Afrika Korps: (Variant) (same as Moves article – see above)  
+PANZERFAUST MAGAZINE 
+1. 
+Issue unknown; Shortcomings of AK: Chuck Lane (Critique)  
+2. 
+Issue unknown; Afrika Korpse: Tom Hazlett  
+3. 
+Issue unknown; The Afrika Korps Thesis: Tom Hazlett  
+4. 
+Panzerfaust #44; Afrika Korps II: Chuck Lane (Variant)  
+5. 
+Panzerfaust #47; Afrika Korps II, Part 2: Chuck Lane (Variant)  
+6. 
+Panzerfaust #54; Prelude to Afrika Korps: Robert W. Garbisch 
+(Historical)  
+7. 
+Panzerfaust #54; Simulating the Desert War: Confessions of a 
+Frustrated War Gamer: J. E. Pournelle (Analysis/Historical)  
+PANZERSCHRECK MAGAZINE 
+1. 
+Panzerschreck #1; Short Takes: End Game Scenario for Afrika Korps: 
+B. Shatner (Variant)  
+SPARTAN SIMULATION GAMING JOURNAL 
+1. 
+Issue #4?; The Tobruch Dilemma: Harley Anton  
+2. 
+Issue #4; Montgomery's Maulers: Strategy for Afrika Korps: H. Anton 
+(Strategy)\  
+3. 
+Issue #4; Gazala 1942 (Variant)\  
+4. 
+Issue #4; SICL Championships: Game replays of Afrika Korps 
+(Replay)\  
+5. 
+Issue #10; Review: Afrika Korps (Review)  
+STRATEGY & TACTICS MAGAZINE 
+1. 
+S&T #2; AHIKS on AK: (Variant from KOMMANDEUR magazine)  
+2. 
+S&T #10; Afrika Korps (Modified): John Schaefer (Variant)  
+3. 
+S&T #17; Afrika Korps in HO: E.Mohrmann  
+4. 
+S&T #23; Campaign Analysis: North Africa 1940-42, Part III: Afrika 
+Korps: A.Nofi  
+5. 
+S&T #23;; GAGE Review (Afrika Korps): Jim & John Flanagan  
+6. 
+S&T #40; PanzerArmee Afrika and the War in the Desert, June 1940-
+December 1942: Albert A. Nofi (Historical)  
+STRATEGY & TACTICS SUPPLEMENT 
+1. 
+S&T Supp #11; Campaign Analysis ... North Africa 1940-42; the 
+British Army; a British soldier comments (LTC Henry A. Radice)  
+WARGAMER MAGAZINE 
+1. 
+Wargamer Vol.1 #3; De-Briefing: Afrika Korps; J. Hind (Review)\  
+2. 
+Wargamer Vol.1 #3; Functional Unit Differences in AK  
+Magazines and issues unknown for the following: 
+1. 
+German Strategy for Afrika Korps: Tom Ryan  
+2. 
+British Defense in Afrika Korps: Tim Tilson  
+3. 
+Africa 1940-42: Bruce Gletty (Variant) 
+29.0 TOURNAMENT ARCHIVE 
+• 
+AFRIKA KORPS is an active Face to Fact tournament 
+at the annual World Boardgame Championships 
+(successor to Avaloncon) by the Boardgamer Player 
+Association [http://www.boardgamers.org].  WBC is 
+held in Lancaster, PA; end of July/early August. 
+• 
+BPA also administers a repeating AFRIKA KORPS 
+Play 
+by 
+Email 
+Tournament. 
+[http://www.bpaclassics.org/afrika_korps.htm] 
+• 
+AFRIKA KORPS is an active Face to Fact tournament 
+at the annual Prezcon Winter Nationals event; 
+Charlottesville, VA; Mid February. 
