@@ -74,7 +74,7 @@ def _format_player_count(possible_counts: list[int] | None) -> str | None:
     """Format player count list into a range string like '1-5' or '3'."""
     if not possible_counts:
         return None
-    counts = sorted(possible_counts)
+    counts = sorted(int(str(c).rstrip('+')) for c in possible_counts if str(c).rstrip('+').isdigit())
     if len(counts) == 1:
         return str(counts[0])
     return f"{counts[0]}-{counts[-1]}"

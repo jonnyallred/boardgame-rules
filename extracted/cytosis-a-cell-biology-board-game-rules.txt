@@ -1,0 +1,908 @@
+rulEBOOK
+
+CYTOSIS: A CELL BIOLOGY GAME
+A game that takes place inside a human cell for 2 - 5 players
+GAME SUMMARY
+Cytosis is a worker placement game that takes place inside a human cell. Players start out with a number 
+of flasks and on their turn, they place one of their flasks on any available location within that cell. Some 
+locations provide players with resources (e.g., mRNA, ATP) and some with actions (e.g., convert resources, 
+collect cards). Resources are used to build enzymes, hormones, and/or receptors, which score Health Points. 
+The player with the most Health Points at the end of the game wins!
+COMPONENTS - BASE GAME
+43 CELL COMPONENT CARDS
+• 10 Enzyme Cards
+• 6 Protein Hormone Cards
+• 6 Steroid Hormone Cards
+• 5 Steroid Hormone Receptor Cards
+• 5 Protein Hormone Receptor Cards
+• 4 Additional Resource Cards
+• 7 Detoxification Cards
+66 MACROMOLECULE RESOURCES
+• 18 mRNA Resources (Black)
+• 18 Protein Resources (Red)
+• 15 Carbohydrate Resources (Green)
+• 15 Lipid Resources (Yellow)
+5 GOAL CARDS 
+12 EVENT CARDS 
+COMPONENTS - VIRUS EXPANSION
+6 CELL COMPONENT CARDS 
+• 2 Ebola Virus Attack
+• 2 Influenza Virus Attack
+• 2 Rhinovirus Virus Attack 
+2 GOAL CARDS 
+3 EVENT CARDS 
+ 
+p
+(
+)
+66 MACRO
+5 PLAYER MATS
+5 ANTIBODY DICE
+15 ANTIBODY MARKERS
+(TAN)
+5 AN
+2 GREY FLASKS
+1 FIRST PLAYER MARKER 
+PLAYER PIECES
+• 20 Flasks 
+ (4 of each in 5 different colors)
+• 10 Transport Vesicle Disks 
+ (2 of each in 5 different colors)
+• 15 Player Markers 
+ (3 of each in 5 different colors)
+1 GAME BOARD (DOUBLE-SIDED)
+30 ATP TOKENS
+7 EPIGENETIC MODIFICATION 
+CARDS
+
+GAME SETUP 
+If you’re playing the Base Game, remove all the components from the Virus Expansion and the 7 
+Epigenetic Modification Cards and place them back into the box. You won’t use these components.
+From the Event Cards, remove the 
+3 Virus Event Cards.
+From the Goal Cards, remove the two 
+Virus Expansion Goal Cards (“Virus Attack” 
+and “Immune Response”). 
+Remove the 7 Epigenetic Modification Cards.
+ 
+Place the board in the center of the play area with the Base Game side 
+of the board face up. Then, separate the macromolecule resources 
+into like colors, placing them in piles near the board. Now, place the 
+ATP Tokens in a pile near the board. These macromolecule resources 
+and ATP Token piles make up the general resource stock. Place the 2 
+Grey Flasks on the Grey Flask area of the board.
+Separate the three types of cards: Event Cards, Goal Cards, and Cell 
+Component Cards. Shuffle the 12 Event Cards. If playing a 2 or 3 
+player game, randomly remove 2 Event Cards and place them back into 
+the box. If playing a 4 player game, randomly remove 1 Event Card, 
+and if playing a 5 player game remove none. Now, place the remaining 
+Event Cards face down as a deck near the game board.
+Shuffle the Goal Cards and place a number of them face up above the game board, equal to the number 
+of players plus 1 (Exception: In a 5 player game without the Virus Expansion, use all five Goal Cards.) 
+Place any unused Goal Cards back into the box.
+Shuffle the Cell Component Cards and flip four of these cards face up into the four available spots 
+of the Cell Component Card Area of the board. 
+Deal each player three Cell Component Cards. Each player should secretly choose two of the three to 
+keep and shuffle the one unchosen Cell Component Card in with the remaining Cell Component Cards. 
+Place the remaining Cell Component Cards face down as a deck to the right of the Cell Component Cards 
+Area just off the board. 
+From the Cell Component Cards, 
+remove the 6 Virus Attack Cards.
+Remove the 5 Antibody Dice, 15 
+Antibody Markers and 5 Player Mats. 
+BASE GAME SIDE
+
+Each player should place one of their Markers on the number 0 on the Health Track (the numeric track 
+surrounding the game board). This is a player’s Health Marker, which tracks that player’s score along 
+the Health Track. 
+Whoever was sick most recently receives the First Player Marker and 2 ATP. The player to their left 
+receives 3 ATP, the next player 4 ATP, and so on until all players have ATP. This is each player’s starting 
+Each player chooses 2 additional resources (any combination of ATP, mRNA or Lipids) to add to their 
+You are now ready to play!
+ Here’s what setup for a 3 player game looks like
+2 OR 3 
+PLAYER GAME
+4 Flasks 
+Player 3
+Player 2
+Player 1
+4 PLAYER GAME
+3 Flasks 
+5 PLAYER GAME
+2 Flasks 
+Give each player their Player Pieces according to the chart below. Each player’s pieces should all be of 
+the same color.
+
+GAMEPLAY
+GAME SUMMARY
+Cytosis is played in rounds and each round is divided into two phases. During Phase 1, players will place 
+their flasks in order to collect resources and take actions with the goal of completing Cell Component 
+Cards and thus scoring Health Points. Once all players have placed all their flasks, Phase 1 is over and 
+Phase 2 begins. During Phase 2, an Event Card will be revealed and the board will be refreshed. 
+This process continues until the last Event Card is revealed, after which one more round is played and 
+then players will add up their final number of Health Points.
+PHASE 1: FLASK PLACEMENT
+Every round, the player holding the First Player Marker will be the first player to take their turn, then 
+play continues clockwise. 
+On their turn, a player must place exactly one of their flasks on any available spot on the board and then 
+must also immediately collect the resources or take the action associated with that spot. Then, the player 
+to their left (i.e. clockwise) now takes their turn. This flask placement process continues clockwise with 
+each player placing flasks in this fashion, one at a time, until all players have placed all of their flasks. 
+Instead of placing a flask, a player may choose to collect a single mRNA, Lipid, or ATP, 
+exhausting one of their flasks. Any exhausted flasks may not be placed again that round. 
+Only one flask may be placed on each spot. If a spot is occupied, it is not available again 
+during that round.
+ There are four main types of flask placement spots in the base game: 
+Collecting Resources (to add to your personal resource stock), 
+Purchasing Cell Component Cards (to add to your hand),
+Completing Cell Component Cards (these cards are completed over multiple turns), 
+Taking the First Player Marker (and Placing a Goal Marker or Taking 1 ATP)
+PHASE 2: EVENT CARD REVEALED AND BOARD REFRESHED
+All players should retrieve the flasks they placed during Phase 1 and return the Grey Flasks to the Grey 
+Flask Area of the game board. (Transport Vesicle Disks and any resources on them should stay on the board.) 
+Now, reveal the top Event Card from the Event deck and follow the instructions on that card. 
+This new Event Card is the only active Event Card. Any 
+Event Cards from previous rounds become inactive. 
+Remove the left-most Cell Component Card from the Cell Component 
+Card Area and place it in the Cell Component Card discard pile. Now, 
+without changing the order of the cards, slide any remaining face up 
+Cell Component Cards to the left-most open space(s). Then fill any 
+newly opened spots with Cell Component Cards from the top of the 
+Cell Component Card deck.
+If there are no cards remaining in the Cell Component Card deck, 
+shuffle the Cell Component Card discard pile and place it face down 
+as the Cell Component Card deck.
+Available
+Not 
+Available
+DISCARD
+LEFT-MOST
+CARD 
+SLIDE TO THE LEFT
+ENDING THE GAME:
+Revealing the last Event Card marks the last round of the game. Play through Phase 1 one last time 
+and instead of going through Phase 2, skip directly to Scoring.
+
+FLASK PLACEMENT SPOTS
+The game board contains a number of spots on which players can place their flasks.
+COLLECTING RESOURCES 
+(TO ADD TO YOUR PERSONAL RESOURCE STOCK) 
+NUCLEUS (DNA Transcription) 
+If a player places a flask on the spot marked with a 3, they receive 3 black 
+mRNA resources. If a player places on the spot marked with a 2, they receive 
+2 black mRNA resources. Players should add these black resources to their 
+ 
+PLASMA MEMBRANE (Glucose Transporter) 
+If a player places a flask on the spot marked with a 2, they pay 2 ATP from 
+their personal resource stock and receive 2 green Carbohydrate resources. 
+If a player places on the spot marked with a 1, they pay 1 ATP from their 
+personal resource stock and receive 1 green Carbohydrate resource. Players 
+should add these green resources to their personal resource stock.
+MITOCHONDRIA (ATP Production) 
+If a player places a flask on either of the spots marked with a 2 or 3, they 
+receive 2 or 3 ATP Tokens, respectively. If a player places on the bottom-most 
+spot, they must pay 1 green Carbohydrate resource from their personal 
+resource stock, and receive 6 ATP. (If 6 ATP are not available, they may take 
+less than 6 ATP). Players should add these ATP Tokens to their personal 
+resource stock. 
+SMOOTH ER (Lipid Synthesis) 
+If a player places a flask on the spot marked with a 3, they receive 3 yellow 
+Lipid resources. If a player places on the spot marked with a 2, they receive 2 
+yellow Lipid resources. Players should add these yellow resources to their 
+FREE RIBOSOME (mRNA Translation) 
+If a player places a flask on the mRNA Translation spot, they must trade any 
+number of black mRNA resources from their personal resource stock for the 
+same number of red Protein resources. Players should then add these red 
+resources to their personal resource stock.
+EXTRA RESOURCES ADDED BY EVENT CARDS
+If an Event Card adds a resource of any type to a location on the Board, that resource is awarded to the first player 
+to place on any spot within that location on the board at no additional cost. (See Event Cards for more details.)
+
+PURCHASING CELL COMPONENT CARDS (TO ADD TO YOUR HAND)
+If a player places a flask on any of the spots within the 
+Cell Component Card area, they must pay the ATP cost 
+(indicated to the right of their flask) and collect the card 
+just below their flask, placing that card into their hand.
+COMPLETING CELL COMPONENT CARDS
+(THESE CARDS ARE COMPLETED OVER MULTIPLE TURNS)
+SMOOTH ER 
+If a player places a flask on the lower portion of the Smooth ER (Alcohol 
+Detoxification or Steroid Hormone Synthesis) they must do one of two things:
+ROUGH ER (Protein Hormone Synthesis / Receptor Synthesis) 
+The process of completing a Protein Hormone, Protein Hormone Receptor or a 
+Steroid Hormone Receptor Card starts by first placing a flask in the Rough ER. If 
+a player places a flask on any of the spots within the Rough ER they must: 
+OPTION 1: ALCOHOL DETOXIFICATION 
+If a player places a flask to complete an Alcohol Detoxification Card, they 
+must pay the amount of ATP shown on the card and then immediately gain 
+1 Health Point. 
+OPTION 2: STEROID HORMONE SYNTHESIS 
+The process of completing Steroid Hormone Cards starts by placing a flask in the 
+Steroid Hormone Synthesis area of the Smooth ER. If a player places a flask in this 
+spot, they must: 
+1. Place one of their Transport Vesicle Disks on any one of the available Budding 
+ Transport Vesicle Locations (yellow rimmed circles) in the Smooth ER.
+2. Place a number of Lipid resources (just Lipid resources, Carbohydrate 
+ resources must be placed on their Transport Vesicle Disk in the Golgi Apparatus) 
+ from their personal resource stock onto that Transport Vesicle Disk according to 
+ the quantity required by the Steroid Hormone Card that player is trying to complete.
+Budding Transport 
+Vesicle Location
+1. Place one of their Transport Vesicle Disks on any one of the available budding
+ Transport Vesicle locations (yellow rimmed circles) in the Rough ER. 
+2. Trade the number of mRNA resources from their personal resource stock 
+ (according the Cell Component Card they are trying to complete) for the same 
+ number of Protein resources from the general resource stock. Then, place 
+ those Protein resources onto that Transport Vesicle Disk placed in Step 1 above. 
+You must start with mRNA resources. You may not place Protein resources from 
+your personal resource stock here.
+A player must have at least the number of macromolecule resources required by the Cell 
+Component Card they are completing on their Transport Vesicle Disk, but may have more.
+
+GOLGI APPARATUS 
+The Golgi Apparatus is the second step in the process of completing a Protein 
+Hormone, Steroid Hormone, Protein Hormone Receptor, or Steroid Hormone 
+Receptor Card. If a player places a flask on either of the spots within the Golgi 
+Apparatus, they must: 
+If the active player places a flask on a spot in the Smooth ER, Rough ER or Golgi Apparatus, and no budding 
+Transport Vesicle locations for that area are available, that player chooses one Transport Vesicle Disk (and 
+all resources on it) to remove from the board and return to the player who owns it. The active player must 
+now place (or move) their Transport Vesicle Disk and appropriate resources onto the newly opened Transport 
+Vesicle location.
+PLASMA MEMBRANE (Exocytosis) 
+The exocytosis of the Plasma Membrane is the final step in completing a 
+Protein Hormone, Steroid Hormone, Protein Hormone Receptor, or Steroid 
+Hormone Receptor Card. If a player places a flask on any of the spots within 
+the Plasma Membrane, labeled Exocytosis, they must:
+CYTOPLASM (Enzyme Synthesis) 
+The Cytoplasm is the final step in completing an Enzyme Card (once a player 
+has red Protein resources from the Free Ribosome). If a player places a flask 
+on the spot within the Cytoplasm labeled Enzyme Synthesis, they must: 
+1. Move one of their Transport Vesicle Disks (and all resources on it) from either 
+ the Smooth ER or the Rough ER, onto an available budding Transport Vesicle 
+ location in the Golgi Apparatus.
+2. Place one Carbohydrate resource or one Lipid resource from their 
+ personal resource stock onto that Transport Vesicle Disk, according to the Cell 
+ Component Card they are trying to complete. (This spot does NOT allow a 
+ player to trade a Carbohydrate resource for a Lipid resource or vice versa.)
+1. Reveal the Cell Component Card they are completing. 
+2. Move one of their Transport Vesicle Disks from the Golgi Apparatus, through 
+ the Plasma Membrane, and out of the cell. 
+3. Immediately pay the ATP cost indicated on that Cell Component Card. 
+4. Place all the macromolecule resources from the Transport Vesicle Disk back 
+ into the general resource stock. The Transport Vesicle Disk should go back to 
+ the player who owns it. 
+5. Gain Health Points according to the number indicated on the Cell Component 
+ Card just completed. 
+ 
+1. Reveal the Enzyme Card they are completing. 
+ 
+2. Immediately pay the ATP cost indicated on that Enzyme Card. 
+3. Pay a number of Protein resources (and a Carbohydrate resource if 
+ required) from their personal resource stock, as indicated on that Enzyme Card. 
+4. Gain Health Points according to the number indicated on the Enzyme 
+ just completed.
+
+The first Goal Marker placed on each Goal Card immediately awards that player 3 Health Points. 
+(See Goal Cards for details.) 
+TAKING THE FIRST PLAYER MARKER
+(AND PLACING A GOAL MARKER OR TAKING 1 ATP)
+LAUREATES IN BIOLOGY
+If a player places a flask on the spot in the Laureates in Biology area, 
+they must take the First Player Marker (and keep it for all subsequent 
+rounds until the First Player Marker is claimed by another player) and 
+they may choose to do one of the following: 
+1. Take 1 ATP and add it to their personal resource stock, or 
+2. Place one of their two Goal Markers on one of the available Goal Cards above 
+ the game board. (Once a Goal Marker has been placed, it may never be moved.)
+CELL COMPONENT CARDS 
+There are five types of Cell Component Cards in the base game: (1) Hormone Cards, (2) Hormone 
+Receptor Cards, (3) Enzyme Cards, (4) Alcohol Detoxification Cards, and (5) Additional 
+Resource Cards. 
+With the exception of the Additional Resource Cards, which simply give players additional resources, 
+each card indicates the placement spot to begin that card, the resource cost (macromolecule 
+resources and ATP) needed to complete that card, as well as the number of Health Points it will 
+immediately score once it is completed. 
+The Hormone Receptor Cards may score a player additional points throughout the game (see 
+Hormone Receptor Cards for details) while Enzyme Cards or Alcohol Detoxification Cards may 
+score a player additional End Game points. (See Enzyme Cards and Alcohol Detoxification Cards 
+for details.) A quick reference for these additional points is shown at the bottom of each card. 
+Cards in a player’s hand are kept secret from other players until completed, while completed cards 
+should be kept face up in front of the player who completed them. Completed cards will be useful in 
+tracking End Game points. 
+HEALTH POINTS AWARDED 
+PLACEMENT SPOT
+TYPE OF CARD
+ATP COST
+MACROMOLECULE 
+RESOURCES COST
+
+HORMONE Cards
+There are two different types of Hormone Cards: Protein Hormones 
+(red background) and Steroid Hormones (blue background). 
+Hormone Cards (as with most cards) are completed over a series 
+of turns by placing flasks in the required spots, first in the ER (either 
+the Smooth ER or the Rough ER), then in the Golgi Apparatus, and finally 
+in the Plasma Membrane (Exocytosis). 
+First, a player must place a flask in the ER (either Smooth ER for Steroid 
+Hormone Cards or Rough ER for Protein Hormone Cards), which allows that 
+player to immediately place one of their Transport Vesicle Disks in the ER, 
+along with the required Protein or Lipid resources. (See Smooth ER and 
+Rough ER sections under Completing Cell Component Cards for details.) 
+Next, a player must place in the Golgi Apparatus, pulling their Transport Vesicle Disk (and all 
+resources on it) from the ER and adding the additional Carbohydrate resource. 
+Finally, a player must place in the Exocytosis area of the Plasma Membrane and pay the ATP cost. 
+That player then gains the number of Health Points shown on the card just completed. 
+All macromolecule resources shown on a Hormone Card must have been placed on a Transport 
+Vesicle Disk in the process just outlined to complete a Hormone Card. 
+2 ATP TOKENS
+REWARD:
+7 HEALTH 
+POINTS 
+2 PROTEIN RESOURCES
+COSTS:
+1 CARBOHYDRATE RESOURCE
+4 ATP TOKENS
+REWARD:
+9 HEALTH 
+POINTS 
+3 LIPID RESOURCES
+COSTS:
+1 CARBOHYDRATE RESOURCE
+PlACEMENT SPOT: 
+ROUGH ER
+PlACEMENT SPOT: 
+SMOOTH ER
+
+A Detailed Example of How to Complete a Protein Hormone Card 
+For the first flask placement, place a flask in the Rough ER, 
+and do all of the following: 
+1. Place your Transport Vesicle Disk on one of the available 
+ budding Transport Vesicle locations. 
+2. Trade two mRNA resources from your personal resource stock 
+ for two Protein resources to match the quantity required by 
+ the Protein Hormone Card that you are trying to complete. 
+3. Place those Protein resources onto that Transport Vesicle Disk. 
+For the second flask placement, place a flask in the Golgi 
+Apparatus, and do all of the following: 
+1. Move your Transport Vesicle Disk (and all resources on it) 
+ from the Rough ER, into an available budding Transport 
+ Vesicle location in the Golgi Apparatus. 
+2. Then place one Carbohydrate resource from your personal 
+ resource stock onto that Transport Vesicle Disk. 
+For the third flask placement, place a flask in the Exocytosis 
+area of the Plasma Membrane, and do all of the following: 
+1. Reveal the Protein Hormone Card you are completing.
+2. Move your Transport Vesicle Disk (and all resources on it) 
+ from the Golgi Apparatus, through the Plasma Membrane, 
+ and out of the cell. 
+3. Immediately pay the 2 ATP indicated on that Protein 
+ Hormone Card. 
+4. Place the macromolecule resources from that Transport 
+ Vesicle Disk back into the general resource stock. 
+ The Transport Vesicle Disk goes back to you! Gain the 7 
+ Health Points shown on the Protein Hormone Card you’ve 
+ just completed.
+CONGRATULATIONS, YOU’VE JUST COMPLETED A 
+PROTEIN HORMONE CARD! 
+This example assumes the player has already collected mRNA resources previous 
+to their first placement, a Carbohydrate resource previous to their second 
+placement, and enough ATP previous to their third and last placement. 
+
+HORMONE RECEPTOR CARDS
+There are two types of Hormone Receptor Cards: Steroid Hormone Receptor 
+Cards and Protein Hormone Receptor Cards. Both types of Hormone Receptor 
+Cards are completed in the same way as the Hormone Cards, with two 
+exceptions. First, BOTH Hormone Receptor Cards begin in the Rough ER. 
+Second, Steroid Hormone Receptor Cards will receive a Lipid resource (rather 
+than a Carbohydrate resource) in the Golgi Apparatus. (See Hormone Cards 
+for more details on how to complete Hormone Receptor Cards.)
+The major benefit of Hormone Receptor Cards is that players who have 
+completed them will score Health Points when opposing players complete 
+Hormone Cards. Any time an opposing player completes a Protein Hormone Card, 
+all players with a completed Protein Hormone Receptor Card will gain 2 Health 
+Points for each Protein Hormone Receptor Card they’ve completed.
+Any time an opposing player completes a Steroid Hormone Card, all players with 
+a completed Steroid Hormone Receptor Card will gain 2 Health Points for each 
+Steroid Hormone Receptor Card they’ve completed.
+Also, any time a player personally completes a Protein Hormone Card, they will score 
+1 additional Health Point for each Protein Hormone Receptor Card they have already 
+completed. Likewise, any time a player personally completes a Steroid Hormone Card, 
+they will score 1 additional Health Point for each Steroid Hormone Receptor Card they 
+have already completed.
+ENZYME CARDS
+Enzyme Cards (in this game) do NOT require the use of a Transport Vesicle 
+Disk. Rather, they are completed by first placing a flask in the Free Ribosome 
+spot to trade black mRNA resources for red Protein resources, and then by 
+placing a flask in the Cytoplasm spot. A player will then reveal the Enzyme Card 
+they are completing, pay the required Protein resources (and Carbohydrate 
+resource if required by that Enzyme Card) from their personal resource stock, 
+pay the ATP indicated on that Enzyme Card and then gain the Health Points 
+shown on that completed Enzyme Card. 
+Completed Enzyme Cards should be overlapped and flared so all other players can 
+see them. Sets of Enzyme Cards will score additional points at the end of the game, 
+as shown on the bottom of each Enzyme Card (see Scoring for details).
+For example, if a player has two completed 
+Steroid Hormone Receptor Cards, they will 
+move up 4 Health Points each time an opposing 
+player completes a Steroid Hormone Card. In 
+the same way, if a player has three completed 
+Steroid Hormone Receptor Cards, they will 
+move up 6 Health Points each time an opposing 
+player completes a Steroid Hormone Card.
+Player 1 
+completes 
+a Steroid 
+Hormone
+Player 2 
+receives
+6 health 
+points
+
+ALCOHOL DETOXIFICATION CARDS
+Alcohol Detoxification Cards are completed by placing a flask in the Alcohol 
+Detoxification spot (within the Smooth ER) and paying the ATP cost indicated 
+on that card. After completing an Alcohol Detoxification Card, a player will gain 
+one Health Point. 
+At the end of the game, the players with the most Alcohol Detox will gain additional 
+points (see End Game Points from Alcohol Detoxification Cards for more details).
+ADDITIONAL RESOURCE CARDS
+Additional Resource Cards may be kept in a player’s hand 
+and played at any time during a player’s turn. Once the card 
+is played, that player should immediately take the number 
+of resources shown on the card and place that card in the 
+Cell Component Card discard pile. 
+GOAL CARDS
+After a player places a flask on the spot in Laureates in Biology, they may choose 
+to place a single Goal Marker on any available Goal Card. Once a Goal Marker has 
+been placed, it may never be moved, and a player may never place both of their Goal 
+Markers on the same Goal Card. A maximum of two Goal Markers may be placed 
+on each Goal Card. 
+Goal Cards may score a player points in two ways: 
+1. During the Game: The first Goal Marker placed on each Goal Card immediately 
+ awards that player 3 Health Points. (The second Goal Marker placed on a Goal 
+ Card receives no immediate Health Points.) 
+2. During End Game Scoring: If a player has placed a Goal Marker on a Goal Card, 
+ and that player has completed any number of Cell Component Cards indicated on 
+ that Goal Card, they will score End Game points according to the description on 
+ that Goal Card.
+EVENT CARDS
+The purpose of the Event Cards is to change up the game each round. During 
+Phase 2 of each round, 1 Event card will be flipped face up and will affect the 
+game in some way. 
+There are three types of Event Cards in the Base Game (4 types of Event Cards 
+if including the Virus Expansion): 
+(1) Boost, 
+(2) Reduce ATP Cost, and 
+(3) Toxicity
+ 
+
+Boost
+A Boost Event Card adds 1 resource to a 
+specific area of the board. That resource 
+is awarded for free to the first player to 
+place on any spot within that location, 
+in addition to the resources that spot 
+usually awards. Any resources added to 
+a specific area of the board remain in 
+that area until awarded.
+REDUCE ATP COST 
+A Reduce ATP Cost Event Card reduces the 
+cost of each Cell Component Card purchased 
+that round by 1 ATP. If a player places on 
+the Free Spot when this Event Card is active, 
+they may also take 1 ATP from the general 
+resource stock.
+Toxicity 
+A Toxicity Event Card forces players 
+to return macromolecule resources 
+from their personal resource stock 
+to the general resource stock. If any 
+player has 5 or more of any certain 
+macromolecule, they lose 1. If they 
+have 7 or more, they lose 2. If they 
+have 10 or more, they lose 4.
+GREY FLASKS
+Before a player places their flask during their turn, they may pay 4 ATP to place 
+a Grey Flask first. (This is in addition to their normal flask placement). After 
+paying 4 ATP, a player may take an available Grey Flask from the Grey Flask 
+Area of the board and place that Grey Flask in any flask placement spot (available 
+or unavailable), and then take the action associated with that spot.
+ENDING THE GAME
+The last round is signaled when the last Event Card is flipped face-up. Players should play through Phase 1 
+ one last time and then skip directly to Scoring.
+SCORING
+At the end of the game, players will score additional End Game points for macromolecule resources still in 
+their personal resource stock, Alcohol Detoxification Cards completed, Enzyme Cards completed, as well as 
+any Goal Cards on which they’ve placed any of their Goal Markers during the game. Players should move their 
+Health Marker along the Health Track for all End Game Points earned.
+END GAME POINTS FROM MACROMOLECULE RESOURCES
+Before scoring macromolecules resources, a player may collect all macromolecule resources remaining on 
+any of their Transport Vesicle Disks still on the board, and add these to their personal resource stock. 
+Macromolecule resources (Protein, Lipid, mRNA, and Carbohydrate) in a player’s personal resource stock 
+earn that player 1 point for every 4 mRNA or 4 Lipids, 1 point for every 3 Proteins and 1 point for every 
+2 Carbohydrates. 
+Restrictions: A player may pay to place only one Grey Flask per turn and 
+must be able to take the action associated with that spot. Only Grey Flasks 
+in the Grey Flask area are available for this action. 
+
+END GAME POINTS FROM ALCOHOL DETOXIFICATION CARDS
+The player with the most Alcohol Detox gains an additional 8 Health Points, the player with the second 
+most gains an additional 5 Health Points, and the player with the third most gains an additional 2 Health 
+Points. The most Alcohol Detox is determined by adding together the number of ATP on all of the Alcohol 
+Detoxification Cards completed by that player (Alcohol Detoxification Cards still in a player’s hand do not add 
+to this total). If a player has completed no Alcohol Detoxification Cards, they automatically score no points 
+for Alcohol Detoxification Cards. 
+For example, a player who built three separate Alcohol Detoxification 
+Cards requiring 2 ATP would have an equal amount of Alcohol Detox 
+as the player who built two Alcohol Detoxification Cards both 
+requiring 3 ATP. 
+In case of a tie, the tying player with the most completed Alcohol 
+Detoxification Cards wins. If there is still a tie, tying players should 
+add the points allotted to the position of those two tying players and 
+the position directly below it and divide those points equally between 
+them, rounding down to the nearest whole number. In case of a three 
+way tie, add the position of those tying players and all positions below 
+it, and divide those points equally among the tying players, again 
+rounding down. 
+In a 2 player game, the player with the most Alcohol Detox will gain 
+6 Health Points, and the player with the second most Alcohol Detox 
+will gain 3 Health Points.
+END GAME POINTS FROM ENZYME SETS
+Sets consist of Enzyme Cards of different colors. Any sets of Enzyme Cards a player has completed 
+during the game earn End Game points according to the table below:
+# OF UNIQUE 
+ ENZYMES COMPLETED
+HEALTH POINTS EARNED
+2 3 4 5 
+2 5 9 14 
+Two Enzyme Cards of the same color may not belong to the same set; however a player may score points for two sets.
+END GAME POINTS FROM GOAL CARDS
+If a player has placed a Goal Marker on a Goal Card, and that player has completed any number of the Cell 
+Component Cards indicated on that Goal Card, they will score End Game points according to the description 
+on that Goal Card. Each player should reference the Goal Card(s) on which they have placed their Goal 
+Marker(s) for details on points scored.
+FINAL SCORING
+Whoever has the most total Health Points wins the game! 
+If there is a tie, the player with the most completed Cell Component Cards wins (only Alcohol Detoxification 
+Cards, Enzyme Cards, Hormone Cards, and Hormone Receptor Cards count). And if there is still a tie, the 
+tying player in the last position from the player holding the First Player Marker wins the tie!
++5 POINTS DURING 
+END GAME SCORING
+3 Completed 
+Enzyme Cards
+=
+Most cards wins the tie
+Two players tied for 2nd
+Current position (5) +
+Position Below (2) = 7
+Divide by 2 = 3
+
+2 PLAYER RULE MODIFICATIONS
+GAME SETUP DIFFERENCES
+ 
+Remove 3 Alcohol Detoxification Cards at random from the Cell Component Card deck, 
+ before dealing 3 to each player or filling the Cell Component Card Area with cards. 
+ 
+Remove 2 Event Cards at random from the Event Deck before placing it near the game board.
+GAMEPLAY DIFFERENCES
+1 FLASK IN EACH PLACEMENT SPOT
+In a 2 player game, a maximum of 1 flask is allowed in each placement area on the board, each round. Each 
+area has a distinct tan border with grey text, e.g. Nucleus, Rough ER, and Mitochondria are different areas. 
+There are three exceptions to this: the Mitochondria, the Smooth ER and the Cell Component Card Area. 
+Exceptions:
+ 
+• In the Cell Component Card Area, all four spots may 
+ 
+ be occupied, just like in a 3-5 player game. Thus, there 
+ is no difference in the way the Cell Component Card 
+ Area functions. 
+ 
+• In the Mitochondria, any two out of the three total 
+ 
+ spots may be occupied.
+ 
+• In the Smooth ER, two spots may be occupied - a 
+ 
+ maximum of one in the Lipid Synthesis location and one 
+ 
+ in Alcohol Detoxification/Steroid Hormone Synthesis.
+For example, if one flask has been placed in the [3] spot of the 
+Nucleus, a second flask may not be placed in the [2] spot of the 
+Nucleus that round, because they are both in the same Nucleus 
+area. Or, if a flask has been placed in the Rough ER, Golgi 
+Apparatus, or either of the Plasma Membrane areas, a second 
+flask may not be placed in any of those areas that round.
+ 
+A player may still purchase and place a Grey Flask 
+in ANY occupied or unoccupied spot, even if another 
+flask has already been placed in that placement area 
+or placement spot. 
+REMOVE THE 2 LEFT-MOST CELL COMPONENT CARDS
+In Step 3 of Phase 2, instead of discarding the one left-most Cell Component Card from the Cell 
+Component Card Area, discard the two left-most cards. 
+SCORING DIFFERENCES FOR 2 PLAYERS
+END GAME POINTS FROM ALCOHOL DETOX CARDS 
+In a 2 player game, the player with the most Alcohol Detox will gain 6 Health Points, and the player with 
+the second most Alcohol Detox will gain 3 Health Points.
+Placement Spot Restrictions
+
+VIRUS EXPANSION
+
+VIRUS EXPANSION RULES
+For 2 - 5 players
+GAME SETUP - MODIFICATIONS TO THE BASE GAME 
+INCORPORATE THE FOLLOWING STEPS INTO THE BASE GAME SETUP
+Board: In Step 1 of Base Game Setup, place the board with the Virus Expansion side face up. 
+Event Deck: In Step 2 of Base Game Setup, shuffle the 12 Event Cards like normal, but if playing 
+a 2 or 3 player game randomly remove 5 Event Cards, if playing a 4 player game remove 3 Event 
+Cards, and if playing a 5 player game remove 1 Event Card. Return these removed Event Cards to 
+the box without looking at them. Then, shuffle the 3 Virus Event Cards into the remaining Event 
+Deck and continue setup as usual. 
+Goal Cards: In Step 3 of Base Game Setup, shuffle the 1 Immune Response and the 1 Virus Attack 
+Goal Cards in with the other five Goal Cards from the Base Game. Then continue setup by placing a 
+number of these Goal Cards face up above the game board, equal to the number of players plus 1.
+In a 2 or 3 player game, if both Virus Expansion Goal Cards come up, replace one at random with a 
+different Goal Card.
+Cell Component Deck: In Step 5 of Base Game Setup, after you have dealt each player 3 Cell 
+Component Cards, shuffle the 6 Virus Attack Cards in with the Cell Component Card deck. 
+Continue set up as usual.
+NOW, PERFORM THESE TWO ADDITIONAL STEPS: 
+Expansion Step 1: Give each player one Player Mat and 3 Antibody Markers (tan resources). Each player 
+should place one of these Antibody Markers on each of the three spots marked “0” on the bottom of each 
+of their Virus strain columns (Ebola, Influenza and Rhinovirus). 
+In a 2 Player game, set up one additional Player Mat (according to Expansion Step 1) near the game 
+board to act as a third “dummy” player. 
+Expansion Step 2: Place the 5 Antibody Dice somewhere near the top of the game board. 
+EVENT CARDS 
+There are three different Event Cards in the Virus Expansion, each 
+representing a different Virus strain: Ebola, Influenza and Rhinovirus. 
+ 
+When a Virus Event Card is flipped face up from the Event Deck, it 
+becomes active and players should follow the instructions explained 
+in the When Viruses Attack section. 
+GOAL CARDS 
+There are two different Goal Cards in the Virus Expansion: 1 Immune 
+Response Goal Card and 1 Virus Attack Goal Card. Rules for the Virus 
+Expansion Goal Cards are the same as for the Base Game Goal Cards. 
+
+PLAYER MATS 
+Each player mat features two main sections: The Immune Response Area 
+and the Resource Area. 
+Immune Response Area: This section has three columns marked at the 
+bottom with Ebola, Influenza or Rhinovirus. The position of a player’s 
+Antibody Marker within a column indicates the number of antibodies 
+that player has built up to combat a virus of that strain’s type. (See 
+When Viruses Attack section for details.) 
+Resource Area: This section has areas indicating where a player may 
+store their Flasks and Goal Markers not in use, and their personal 
+resource stock (macromolecule resources and ATP). 
+WHEN VIRUSES ATTACK
+When a Virus Event Card is flipped face up from the Event Deck, or when a Virus Attack Card 
+is purchased from the Cell Component Card Area, that Virus Card becomes active immediately 
+and all players should immediately follow the steps below. 
+WHEN A VIRUS EVENT CARD IS FLIPPED DURING THE EVENT PHASE: 
+All players roll a number of Antibody Dice according to their current position 
+on the Health Track. If their Health Marker is in the red section, they will roll 
+one die. If their Health Marker is in the yellow section, they will roll 2 dice, 
+and if their Health Marker is in the green section, they will roll 3 dice.
+To their roll, each player adds the number of antibodies 
+from the column of their Player Mat that matches the 
+attacking Virus strain. This sum is each player’s 
+Antibody Response. 
+All players compare their Antibody Response and 
+gain or lose resources accordingly. (See the Antibody 
+Response Resource Allocation section for details) 
+After all players have completed Steps 1-3, each player 
+will have the option to pay ATP from their personal 
+resource stock to gain antibody matching that attacking 
+Virus strain, starting with the player holding the First 
+Player Marker and moving in player order. 
++ 2 Ebola Antibodies = Antibody Response of 6
+For each ATP paid, a player moves their Antibody 
+Marker up that strain’s column by one level 
+(2 antibodies). 
+ll 
+CELL COMPONENT CARDS 
+There are six Virus Attack Cell Component Cards: 2 Ebola, 2 Influenza 
+and 2 Rhinovirus Virus Strain Cards. When a player purchases a Virus 
+Attack Card from the Cell Component Card Area, that card immediately 
+takes effect and players should follow the instructions explained in the 
+When Viruses Attack section. 
+Note: this 
+symbol = 6
+
+Only the player who purchased the Virus Attack Card may pay additional ATP to move their Antibody 
+Marker up the column matching that attacking Virus strain (at a rate of 1 ATP per 2 antibody). 
+All other players must lose 1 Health Point on the Health Track. (Players can go negative on the Health Track.)
+Now follow Steps 1-4 of “When A Virus Event Card is Flipped During the Event Phase” to determine how 
+many resources a player will gain or lose. 
+ 
+ANTIBODY RESPONSE RESOURCE ALLOCATION
+In a 2-3 player game: 
+In a 4 player game: 
+A player gaining resources may choose any combination of ATP, mRNA, and Lipids from 
+the general resource stock. A player losing a resource may choose to lose any resource from 
+their personal resource stock or lose 1 Health Point. 
+Lose 1 resource or 1 Health Point 
+Player with Third Highest Antibody Response
+Gain 2 resources
+Lose 1 resource or 1 Health Point
+In a 5 player game: 
+Player with Third Highest Antibody Response
+Player with Fourth Highest Antibody Response
+Gain 4 resources 
+Gain 2 resources
+Lose 0 resources
+WHEN A VIRUS ATTACK CARD IS PURCHASED FROM THE CELL COMPONENT CARD AREA: 
+In a 2 Player game, the third “dummy” player rolls a number of Antibody Dice according to the current 
+position of the player lowest on the Health Track, and adds the number of antibodies from the column 
+of their player mat just like all other players. 
+After all players have added up their Antibody Response, reference the Antibody Response Resource 
+Allocation chart for 2-3 players. Any resources gained or lost by the “dummy” player remain in the 
+general resource stock. 
+After all players have completed Step 4, move the Antibody Marker on the “dummy” Player Mat 
+up one level (2 antibodies) on the column that matches the attacking Virus strain. 
+If there is a tie for Antibody Response, the first player, or the player closest to the First Player 
+wins the tie. In a 2 player game, if a player ties with the “dummy” player, the “dummy” player wins. 
+
+Example: Player 1 purchases a Virus Attack Card (Influenza 
+Strain) from the Cellular Component Card Area, then 
+decides to pay 2 additional ATP to move his Antibody 
+Marker up 4 (a total of 2 levels) on the Influenza column 
+of his Player Mat. 
+All other players lose 1 Health Point on the Health Track. 
+Each player now rolls a number of Antibody Dice according 
+to their current position on the Health Track. 
+Player 1 currently has 14 Health Points, and is thus in the 
+yellow section of the Health Track, so he rolls 2 Antibody 
+Dice. He rolls a 4 and 3 on his Antibody Dice, and simply 
+adds the 4 from his Influenza antibodies on his Player Mat, 
+giving him an Antibody Response of 11. 
+Player 2’s Antibody Response is 12, and Player 3’s Antibody 
+Response is 9. 
+Player 2 has the highest Antibody Response, so she gains 3 
+resources from the general resource stock. Player 1 has the 
+second highest Antibody Response, so he gains 1 resource. 
+Player 3 has the lowest Antibody Response, so she loses 1 
+resource from her personal resource stock. 
+Now all players have the option to pay ATP from their 
+personal resource stock to gain antibody on the Influenza 
+column of their Player Mat. Player 1 and Player 2 decide 
+not to pay any ATP. Then Player 3 decides to pay 2 ATP 
+to move up 4 more antibodies on her Influenza column. 
+PLAYER 1
+PLAYER 1 
+ROLLS 2 DICE
+4 + 3 + 4 = ANTIBODY 
+RESPONSE OF 11
+PLAYER 2’S ANTIBODY RESPONSE = 12 
+PLAYER 1’S ANTIBODY RESPONSE = 11
+PLAYER 3’S ANTIBODY RESPONSE = 9
+PLAYER 2 GAINS
+3 RESOURCES
+PLAYER 1 GAINS
+1 RESOURCE
+PLAYER 3 LOSES 
+1 RESOURCE
+PAYS 2 
+ATP TO 
+MOVE UP 4
+PLAYER 3
+PAYS 2 
+ATP TO 
+MOVE UP 4
+
+RULES FOR THE EPIGENETIC MODIFICATION CARDS
+Each Epigenetic Modification Card gives a player a unique ability that they may use throughout the game. 
+We recommend you don’t use the Epigenetic Modification Cards until players have played Cytosis and are 
+already familiar with the game. The Epigenetic Modification Cards may be used with the Base Game of 
+Cytosis or combined with the Virus Expansion. 
+GAME SET UP – MODIFICATIONS TO THE BASE GAME
+When setting up the Base Game with Epigenetic Modification Cards, determine the First Player before 
+Step 4, instead of waiting until Step 8. Then, shuffle the seven Epigenetic Modification Cards and deal 
+three to the First Player. That player should secretly read the three cards and choose one of them to keep. 
+Next, that player must replace the chosen card by adding another Epigenetic Modification Card, at 
+random, to the two remaining, then pass these three cards to the player on their left.
+ 
+This player should secretly choose one of the three, then follow the same process of replacing the chosen 
+card with a new card, and passing to the player on their left, until all players have chosen one Epigenetic 
+Modification Card. Remaining Epigenetic Modification Cards should be placed back in the box. 
+ 
+Players should now place their chosen Epigenetic Modification Card face up in front of them for all 
+players to see. 
+Game Setup now continues as usual with Step 4 of Base Game Setup. (See Page 2.)
+EPIGENETIC MODIFICATION CARDS
+Each player will keep their chosen Epigenetic Modification Card for the entire game. A player may only 
+use their unique ability on their turn, UNLESS their Epigenetic Modification Card indicates otherwise. 
+The player holding this card may trade ATP for Lipids or mRNA at a rate of 1 ATP 
+for 1 Lipid or 1 mRNA, and trade ATP for Carbohydrates at a rate of 2 ATP per 1 
+Carbohydrate. This card does NOT allow a player to trade macromolecules for ATP. 
+This ability may be used as many times per turn as a player wishes, provided they 
+have the ATP to trade. 
+The player holding this card may pay 2 ATP to secretly look at the top 3 Cell 
+Component Cards from the deck. In addition, they MAY pay 2 more ATP in order to 
+place one of these cards in their hand. This player must then place the unchosen cards 
+back on top of the Cell Component Card deck in any order they choose. This ability 
+may be performed only ONCE per turn. 
+Note: If playing with the Virus Expansion and a Virus Attack Card is chosen, the 
+chosen Virus Attack Card must be played immediately, following the Virus 
+Expansion Rules. 
+The player holding this card may collect 1 additional macromolecule or ATP every 
+time they place on a numbered resource collection spot on the board. For example, if 
+a player places on a [3] spot, they may collect 4 of that resource, and if a player places 
+on a [2] spot, they may collect 3 of that resource. (Carbohydrates still cost 1 ATP for 
+each Carbohydrate taken.)
+
+The player holding this card may pay 3 ATP to place a Grey Flask, rather than paying 
+the usual 4 ATP. Rules for placing the Grey Flask are the same as in the Base Game. 
+Before the First Player places their first Flask at the beginning of a round, the player 
+holding this card should be given the choice to pay 1 ATP in order to place one 
+of their Flasks before the First Player places their first Flask. Normal placement 
+position then resumes, starting with the player holding the First Player Marker. This 
+ability may be used only once per round. 
+For example, if the player with this Epigenetic Modification Card is currently the 
+First Player, they may pay 1 ATP to place their first Flask, and then take their normal 
+placement as first player (by placing a second Flask) before the second player places 
+their first Flask. 
+At the beginning of every round, the player holding this card may collect 1 ATP, 1 
+mRNA OR 1 Lipid from the general resource stock and place this resource into their 
+The player holding this card purchases their Cell Component Card for free every time 
+they place a Flask in the Cell Component Card Area.
+
+GAME DESIGN
+GAME DEVELOPMENT
+Shelley Spence
+ART AND GRAPHIC DESIGN
+Tomasz Bogusz
+RULEBOOK DESIGN
+Sarah Lafser
+SCIENCE ADVISORS
+Elizabeth Gurnack
+Edward Brian Rader
+KEY PLAYTESTERS
+Courtney Falk
+Jonathan Grothe
+Bharath Kishore
+Jonathan Leggo
+Preston Lingle
+Edward Brian Rader
+Susan Rice
+Sunny Singh
+John Walker
+SPECIAL THANKS
+Mike Bialecki
+Upkar Gata-Aura
+Edmond Gravel
+Gábor Géza Kiss
+Jonathan Leggo
+Iñigo Maestro
+Oglik Naes
+Petar Perisin
+Dr. Jörn Peuser
+Kenneth Stuart
+Jonas Thierry
+Wyverns Rose
+SCIENCE CONTENT 
+COMPILATION
+Stephen J. Bush, PhD
+Dr. Karl Jenkinson, PhD 
+Nicole M. Milkovic, PhD 
+Jennifer C. Schroeder, PhD 
+Dr. Bryan G. White 
+SCIENCE CONTENT 
+EDITORS
+Dr. Michael Bialecki, PhD
+Mike Christensen 
+Zach Grimes 
+L.A. Johnson PhD, DSc
+Gábor Géza Kiss 
+Aitan Magence 
+Sarita Menon, PhD 
+Myra Nati, MPH 
+Dr. Duong T. Nguyen 
+Christopher Olivera, PhD 
+Erin Syverson, MGC, CGC 
+Annalisa VanHook, PhD 
+Dr. Jonathan Chi Man Wong 
+Dr. Fabian Yu, PhD

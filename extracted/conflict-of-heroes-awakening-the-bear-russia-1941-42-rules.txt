@@ -1,0 +1,3662 @@
+Rulebook - 2nd Edition
+Awakening the Bear 
+1941 - Operation Barbarossa
+June 26, 2012
+®
+
+Intro & Setup
+the side with effects face down. (You may want to put them into 2 
+opaque cups.) These markers will be randomly drawn throughout 
+the game when units take hits.
+7.	Select the action cards specified by the firefight. Shuffle and deal 
+each player the specified number of cards.
+8.	Some firefights allow hidden units or artillery barrages during setup. 
+Write down the map locations of the hidden units and artillery 
+targets on a piece of paper. (To simplify this, players can download 
+the free “Hidden Movement and Artillery Targeting Maps” from our 
+website at www.Academy-Games.com.)
+1.1 Unit Types
+This game includes units that represent infantry squads of 6-10 men, 
+crewed support weapons such as mortars, individual tanks, self-
+propelled guns, armored personnel carriers (APCs), trucks, and many 
+others. Summaries of all units are listed on page 18.
+Unburdened Foot Units refer specifically to foot units 
+that have a red movement cost of 2APs or less. These 
+include Rifle and SMG units, crewed machine guns and 
+light mortars, tank hunter teams, pioneers, etc.
+Designer’s Note: Owners of the first edition 
+Awakening the Bear game may notice that their foot 
+units do not include a blue firepower number. As the 
+CoH system evolved, we needed to refine each unit’s 
+anti-tank firepower capacity.
+Also note the symbol 
+ adjacent to the HMG34 
+unit name. This symbol is for unit identification 
+purposes only and varies from unit to unit. 
+Game Overview
+Conflict of Heroes is a tactical war game of platoon-sized engagements, with each counter representing a squad of infantry, a crewed gun 
+or a vehicle. The engagements are presented as firefights with different objectives. During a firefight players use their army’s units to fight for 
+these objectives, which are worth victory points (VPs). The player with the most VPs at the end of the game wins. 
+Each firefight consists of several rounds. In each round, players alternate taking turns. During 
+his turn, a player may take an action with one of his units, stall or pass. When a unit activates, 
+it receives 7 action points (APs), which it spends to take actions. These APs are tracked on 
+the green Unit Action Points Track on the player’s Track Sheet. Different actions can cost a 
+different number of APs. Ex: For the unit shown below, it costs 2APs to fire or 1AP to move. 
+The firepower (FP) of this unit is listed in the lower left corner of the counter. Red FP is 
+used to attack unarmored targets with red defense ratings (DRs) and blue FP is used 
+to attack armored 
+targets with blue 
+DRs. A unit’s DRs 
+are marked on the 
+lower right corner 
+of the counter. In 
+combat, a player rolls two 
+6 sided dice (2D6) and adds the 
+result to his firepower to determine his 
+attack value (AV). Ex: The Pioneers 
+attack an enemy unit with a red defense value and the player rolls a 9 for a red 13AV (4FP + 9). 
+The player then compares this AV to the defender’s red defense value (DV), which is a unit’s DR modified by 
+the terrain. Ex: If a defending unit with a 12DR is in heavy woods, its DR would be modified by +2 (for the extra 
+woods protection) for a total front 14DV (12DR + 2). The attacker hits if his AV is greater than or equal to the 
+defender’s DV.
+When a player’s unit is hit, he randomly draws a hit marker and 
+places it under the unit. The various hit markers affect units 
+in different ways. A unit may be instantly killed, suppressed, 
+panicked, and so on. 
+Play continues with players alternating turns until both pass 
+consecutively. At this point the round ends and the next round 
+begins. Most games consist of five or fewer rounds. 
+Victory points are won during the game by destroying enemy units and taking objectives. Victory conditions 
+are listed on each firefight sheet. A player can lose most of his command, but still win the game if he has 
+met his victory conditions and has more victory points than his opponent.
+Programmed Instruction This rule book is organized to facilitate a programmed instruction approach to learning 
+the rules. This means that you will learn one section of the rules at a time and then play one or two firefights to reinforce your understanding of 
+those rules. As you read further, you will learn new rules that will build upon what you have already learned. This enables you to begin playing 
+the game as quickly as possible. 
+Ex: Throughout the rule book, you will see numerous examples of the rules printed in this color (red). 
+Designer’s Note: Throughout the rulebook, you will also see numerous designer's notes printed in this color (blue). These notes will give 
+you insight into why some of the rules work the way they do as well as discuss some of the history that influenced the game. 
+Optional Rules are printed in brown. We recommend that you play a section’s rules at least once before implementing optional rules.
+Section 1 - Game Structure & Turn Progression
+In this section you will learn how to set up a firefight, play through a game round, and manage command resources to wage war.
+AP Cost to Fire
+Front DR 
+(Defense Rating)
+Firepower against 
+Soft Targets (Red) or 
+Armored Targets (Blue)
+Flank DR (Defense 
+Rating)
+Unit Forward 
+Facing
+Track Sheet
+© 2012 Academy Games
+ An activated unit receives 7APs with 
+which it can move, fire, and take other 
+actions. It pays for these actions by 
+counting down the action’s cost on the 
+unit AP track.
+(Optional Rule 3.01: Roll 3D6 when a 
+unit is activated. Sum the high and low 
+dice to determine the unit’s APs) 
+Unit 
+Action Points (APs)
+Activated units may augment their unit’s 
+action AP cost with CAPs.
+All fresh or spent units may take command 
+actions which are paid for with CAPs.
+A player’s first destroyed unit is placed 
+on the starting CAP number specified in 
+the firefight; the second destroyed unit 
+is placed on the next number down, and 
+so on. The number of CAPs a player 
+receives each round is reduced by 1 for 
+each unit that player lost in the game.
+Command
+Action Points (CAPs)
+Victory Points (VPs)
+Game Round
+Player Track Sheet
+Command
+APs
+B03
+B05
+B07
+B09
+B11
+B13
+A02
+A04
+A06
+A08
+A10
+A12
+A14
+B01
+D01
+C03
+C05
+C07
+C09
+C11
+C13
+B02
+B04
+B06
+B08
+B10
+B12
+B14
+C01
+D03
+D05
+D07
+D09
+D11
+D13
+C02
+C04
+C06
+C08
+C10
+C12
+C14
+E03
+E05
+E07
+E09
+E11
+E13
+D02
+D04
+D06
+D08
+D10
+D12
+D14
+E01
+F03
+F05
+F07
+F09
+F11
+F13
+E02
+E04
+E06
+E08
+E10
+E12
+E14
+F01
+G03
+G05
+G07
+G09
+G11
+G13
+F02
+F04
+F06
+F08
+F10
+F12
+F14
+G01
+H03
+H05
+H07
+H09
+H11
+H13
+G02
+G04
+G06
+G08
+G10
+G12
+G14
+H01
+I03
+I05
+I07
+I09
+I11
+I13
+H02
+H04
+H06
+H08
+H10
+H12
+H14
+I01
+J03
+J05
+J07
+J09
+J11
+J13
+I02
+I04
+I06
+I08
+I10
+I12
+I14
+J01
+K03
+K05
+K07
+K09
+K11
+K13
+J02
+J04
+J06
+J08
+J10
+J12
+J14
+K01
+L03
+L05
+L07
+L09
+L11
+L13
+K02
+K04
+K06
+K08
+K10
+K12
+K14
+L01
+M03
+M05
+M07
+M09
+M11
+M13
+L02
+L04
+L06
+L08
+L10
+L12
+L14
+M01
+A16
+A18
+B15
+C15
+B16
+D15
+C16
+E15
+D16
+F15
+E16
+B17
+C17
+B18
+D17
+C18
+E17
+D18
+F17
+E18
+B19
+C19
+D19
+E19
+F19
+G15
+F16
+H15
+G16
+I15
+H16
+J15
+I16
+J16
+G17
+F18
+H17
+G18
+I17
+H18
+J17
+I18
+J18
+G19
+H19
+I19
+J19
+K15
+L15
+K16
+M15
+L16
+K17
+L17
+K18
+M17
+L18
+K19
+L19
+M19
+N
+4 Rifle ‘41 1-3
+Rifle ‘41 1-2
+MMG Maxim 
+Unit 1
+Squad 1-1
+Germans Enter Round 1
+Soviets
+Round 2
+Germans Round 3
+Control
+Firefight 1 - Partisans 
+Setup Round 1: Enter anywhere 
+along the western edge of the map.
+Round 3: Enter map within 2 
+hexes of hex A18.
+German Forces: 1/2 Rifle Platoon, 161 Inf Division
+3 Rifle ‘41 1-1
+2x 
+SS Tracker Unit
+1x Pioneers
+(No Flamethrower or 
+smoke capabilities.)
+LMG34 1-1
+2x 
+LMG 34 
+Setup Round 1: Set up the units 
+on the hexes listed next to the unit 
+names.
+Round 2: Reinforcements 
+enter along the road at hex 
+G19.
+Soviet Forces: Partisans with MMG support
+Rifle ‘41 1-1
+3x 
+(F13,H12, 
+J14) 
+Rifle ‘41 1-4
+2x Rifles
+3 Maxim MMG
+1x 
+MMG 
+(C11) 
+Round 4
+Round 1
+Initiative: 
+Germans
+Control Marker.
+Round 2
+Soviets: 
+Reinforcements.
+Control Marker.
+Round 3
+Germans: 
+Reinforcements.
+Round 5
+Game End
+17 Oct, 1941 Comrades, this is a main supply route for the Germans. We will mine the road and ambush the next convoy that comes from the 
+south. Take out as many trucks as you can and then melt away to the east. We will rendezvous at camp. Victor - partisan leader. 
+General Situation: Remnants of cut-off Soviet infantry units, scattered after the fall of Kiev, have begun partisan activities. A heavily armed 
+group of partisans operating near Priluki have been tracked by a group of soldiers from the German 161st Inf. Div. sent to clean up the area. 
+Worse for the Soviets, a detached squad of SS trackers are trailing a group of arriving partisan reinforcements from the east. 
+Commanders: 2 Initiative: Germans on Round 1. CAP Allocation per Round: German - 6 CAPs Soviet - 7 CAPs 
+Action Cards: Play your first game without Action Cards. 
+Optional Action Cards After reading section create a draw deck of all action and bonus cards with a number 13 and under. Players receive 2 
+cards at the beginning of the game. At the beginning of each round thereafter both commanders receive an additional card. 
+Map Setup: Maps 1. Place a control marker, Soviet side up, in hex 1- G09. 
+Orders: Your men have been tracking these partisans for the past 
+week. Informants say that they are planning a coordinated ambush. 
+Take prisoners for interrogation if possible, if not, neutralize them. 
+Victory Points: (Mark VPs on your track sheet as you earn them.)
+1VP - Immediately score each Soviet unit eliminated.
+1VP - Control hex G09 at the end of each round.
+Orders: You are to ambush a supply convoy at hex G09. Wipe out 
+the Germans and confiscate as many supplies as possible. 
+Victory Points: (Mark VPs on your track sheet as you earn them.)
+1VP - Immediately score each German unit eliminated. 
+1VP - Control hex G09 at the end of each round.
+Hex Type
+Open or Road
+Light Woods
+Heavy Woods
+Optional Rule (5.0.3)
+Play your first game without Cautious Movement.
+Normal Move
+Cautious Move
+1.0 Game Setup
+The firefights provided in Conflict of Heroes represent historical 
+situations for you and your friends to battle through. For each game of 
+Conflict of Heroes, you follow the steps below before playing:
+1.	Choose one of the firefights to play. The firefight sheet lists the 
+maps setup, units setup, starting command action points (CAPs) 
+level for each side, the action cards used, the number of rounds the 
+firefight lasts, and the victory conditions.
+2.	Each player takes a track sheet and places a yellow victory point 
+marker on 0 victory points. The players also mark their starting 
+CAPs level with their blue CAPs marker and place their green 
+action point (AP) marker on the “0” space.
+3.	Place the round marker on the round 1 box of your track sheet and 
+sort out the units listed in the firefight.
+4.	Configure the maps as described by the firefight.
+5.	Decide who will play each force and place the starting forces on the 
+map as specified by the firefight. 
+ Unit setup locations are designated by 
+the map coordinates as follows: Map # - Row 
+Letter and Column Number. 
+ Ex: 2-J10 would be map #2, hex J10, the 
+gray stone church building to the right. 
+Units may be set up and move on full 
+hexes only. Half hexes are not playable at 
+any time in the game.
+6.	Sort the vehicle and infantry hit markers into two piles, keeping 
+2nd Edition
+1st Edition
+
+Setup & Actions
+He may take several turns with no unit being activated by either passing 
+or taking only command actions, opportunity actions, or card actions. 
+Ex: German Turn: In Figure 1, 
+Rifle A activates, placing its green 
+AP marker on the ‘7’ box of its AP 
+track. These 7APs may be spent 
+by this Rifle unit only. Rifle A fires 
+at the Soviet Rifle C by paying 
+its 3AP cost to fire, counting the 
+AP track marker down to 4APs. 
+The German misses and his turn 
+ends. (For this example, all units 
+are bad shots and miss on all 
+attacks.) 
+Soviet Turn: Rifle C activates, 
+placing its green AP marker on 
+the ‘7’ box of its AP track. Rifle C then pays 4APs to fire back at Rifle 
+A by counting his Unit AP Track marker down to 3APs. Rifle C misses 
+and his turn ends. 
+German Turn: Rifle A has enough APs remaining to fire again, but 
+the German player instead decides to take a command action to fire 
+with LMG B at Soviet Rifle C. The German player counts his blue CAP 
+track marker down 2CAPs, fires and misses. His turn ends.
+Soviet Turn: The Soviet player wishes to fire Rifle C at the LMG B. 
+But Rifle C must pay 4APs to fire and it has only 3APs remaining. 
+The Soviet player counts off the remaining 3APs from his AP track 
+plus 1CAP from his CAP track, fires and misses. (CAPs may be used 
+to supplement a unit’s APs, as detailed in section 3.2.1.) Since Rifle 
+C has 0APs remaining on its AP track and the unit is marked as spent 
+by flipping the counter to its spent side. This indicates that Rifle C 
+cannot be activated again for the rest of this round, but it may still take 
+command actions and card actions. 
+German Turn: In Figure 2, Rifle A 
+has 4APs left and moves forward 
+one hex for 1AP. The German AP 
+track is counted down to 3APs. 
+Soviet Turn: The Soviet could 
+activate and fire MMG D, but 
+instead wants to see what the 
+German does next and passes. 
+German Turn: Rifle A fires at 
+Rifle C with its last 3APs, misses 
+and marks Rifle A as spent. 
+Soviet Turn: The Soviet player 
+activates MMG D, marking his 
+AP track to 7APs. He then counts his AP track down 3APs and 
+fires at the LMG B. MMG D has 4APs remaining.
+German Turn: The German activates LMG B, marking his Unit AP 
+Track to 7APs. He then counts his AP track down 2APs and fires at 
+MMG D. LMG B has 5APs remaining.
+Soviet Turn: The Soviet wishes to see what the German will do. If the 
+Soviet passes, he would have to mark MMG D as spent, which he does 
+not want to do. Instead, he stalls for 1AP, leaving the MMG 3APs.
+German Turn: LMG B fires at MMG D for 2APs, counts his AP track 
+down to 3APs, and misses. 
+Soviet Turn: MMG D fires back, spending its last 3APs, misses and 
+MMG D is marked as spent.
+German Turn: LMG B fires at MMG D for 2APs, counting its AP track 
+down to 1AP, and misses.
+Soviet Turn: Both Soviet units are spent, so neither may be activated 
+again. The Soviet player could take a command action (if he has enough 
+CAPs to do so) or play an action card, but instead decides to pass.
+German Turn: The German player would like to fire with LMG B again 
+by paying 1AP and 1CAP, but sees that he has no CAPs left. Even 
+though he has 1AP left, he decides to pass and the LMG is spent.
+Round over: Both players passed consecutively, so the round ends. 
+All spent units are flipped back to their fresh side, the CAPs tracks are 
+reset and a new round begins. 
+2.3 Round Progression
+A round ends when each player passes in consecutive order. Victory 
+points (VPs) are awarded, the round marker is advanced, and the 
+next round's pre-round sequence is followed (2.0). 
+2.4 Game End and Victory Conditions
+The firefight ends after the last round is played or when a firefight’s 
+victory conditions have been met. The side with the highest VP total is 
+declared the winner. In case of a tie, both players are losers.☺
+2.0 Pre-Round Sequence
+A firefight lasts a set number of rounds. Prior to every round, the 
+following steps must be taken in the following order: 
+Flip Spent Unit Counters to their fresh sides. (2.3)
+Reduce or Remove Smoke Counters (13.0)
+Reset CAPs to their starting value minus deducted casualties. (7.4)
+Draw Cards specified in the firefight. (8.0)
+Target Off-Board Artillery for next round’s resolution. (12.3)
+Resolve Off-Board Artillery targeted last round. (12.3)
+Prepare Reinforcements specified in the firefight. (5.5)
+Roll for Round Initiative (2.1)
+2.1 Roll for Round Initiative
+At the beginning of each round, the players each roll 2D6 for initiative. 
+The roll may be modified by CAPs (3.2.4). In case of a tie, re-roll. The 
+player with the highest result wins initiative and takes the first turn. 
+2.2 Taking Turns 
+A round consists of a series of alternating player turns. 
+During a player’s turn, he may take one action, stall or 
+pass. An action is defined as any single thing a unit does 
+such as moving one hex, firing once, rallying, etc. Each 
+action costs a certain number of action points (APs). 
+A unit is either fresh, active or spent. A unit 
+is fresh if it has not spent any APs or taken an 
+opportunity action. A unit is active when a player 
+activates it with 7APs. A unit is spent after it has been 
+activated and has spent all of its 7APs or if it has taken 
+an opportunity action. A unit is marked as spent by 
+flipping its counter to the side with the red bar.
+During each turn, a player may take one of the 
+following four actions:
+1.	Unit (AP) Action: Choose any fresh unit and activate it by 
+advancing the marker to 7APs on the green Unit AP Track. This 
+activated unit may take an action by spending these action 
+points (APs). Different actions can cost a different number of 
+APs. If the activated unit has APs remaining after taking an action, 
+it may take additional actions by spending more of its APs in later 
+turns within the same round (3.0). The unit is marked as spent 
+if it has spent all of its APs or if the player wishes to activate a 
+different fresh unit with 7APs. A player may have only one unit 
+activated at a time (exception - Shared Activations 9.0). 
+2.	Opportunity Action: Take any one action with any fresh unit that is 
+not activated. Mark the unit as spent after it has taken the one action. 
+3.	Command (CAP) Action: Take one action with any fresh, activated 
+or spent unit by spending only command action points (CAPs). The 
+unit’s spent or fresh status is not changed by a command action.
+4.	Card Action: Play an appropriate card on any fresh, activated or 
+spent unit. A unit’s spent or fresh status is not changed by a card 
+action.
+Stall: A player may want to delay making a decision by stalling. 
+Stalling counts as an action that costs either 1AP for the currently 
+activated unit or 1CAP. 
+Pass: A player may wish to take no action and pass. A pass costs 
+no APs or CAPs, but if the passing player has an activated unit with 
+unspent APs, he must flip the unit to its spent side and lose any of 
+its unused APs. A player who passed may take more actions during 
+future turns. However, if both players pass consecutively, the round 
+is immediately over and no further actions may be taken until the 
+next round. Example: A player may wish to stall instead of passing 
+because his opponent could end the round by also passing. 
+Designer’s Note: APs and CAPs are employed in the game to 
+account for the efforts, planning, and time it takes to carry out specific 
+actions. More involved actions cost more APs and/or CAPs.
+All players may have an activated unit at the same time. 
+Players alternate taking turns by taking an activated unit’s AP actions, 
+opportunity actions, command actions, card actions, stalling or passing. 
+Designer’s Note: This is a change from the original AtB rules that 
+allowed only one player at a time to have an activated unit.
+An activated unit may intersperse its Unit AP action turns 
+with command action (3.2) or card action (8.0) turns. Taking 
+these other action turns does not spend the activated unit, which may 
+continue to take its AP actions in future turns. 
+Other units may take opportunity action, command action 
+and card action turns between an activated unit’s AP action 
+turns. These other actions do not spend the activated unit, which 
+may continue to take its AP actions in future turns.
+A player does not have to have an activated unit at all times. 
+Fresh Unit
+Spent Unit
+Figure 1
+Figure 2
+
+Actions
+5, 4 and 3. The unit receives 8APs (5+3) for its activation.
+Optional Rule - Additional Fog of War: For added suspense, 
+players may decide to roll the 3D6 under a cup, keeping the results 
+secret. Instead of setting the track sheet to the amount of APs 
+received, the player tracks how many APs have been spent. Once the 
+unit is spent, the player must show his opponent the dice result.
+Ex: The player rolled for 8APs and fires with the active unit for 
+3APs. He counts his AP track marker up from 0 to 3APs. On a future 
+turn, after the unit has spent all of its 8APs or the player decides to 
+activate a different unit, the player reveals his dice. 
+3.1 Opportunity Actions
+A player can take an opportunity action with a fresh unit only. An 
+activated or spent unit may NOT take an opportunity action. Any one 
+action costing any number of APs, such as firing once, moving one 
+hex, rallying, etc., may be taken as an opportunity action. This action 
+does not cost the player APs or CAPs, but the unit is marked as spent 
+after completing the action. 
+Ex: Figure 3. German Turn: The German player activates Rifle A, 
+moves it forward for 1AP, and counts the AP marker down to 6APs on 
+his green Unit AP Track. 
+Soviet Turn: The Soviet activates Rifle C, fires at Rifle A for 4APs, 
+counts his green AP track marker down to 3APs, and misses. 
+German Turn: The German player wants to fire with the fresh HMG 
+B at Rifle C, but activating HMG B to make the attack would cause 
+Rifle A to be marked as spent (thus losing its remaining 6APs). HMG 
+B instead opportunity fires at Rifle C. The opportunity fire marks the 
+HMG as spent and it can no longer be activated this round. 	
+ 
+Designer’s Note: Taking an opportunity action with a fresh unit is 
+often less efficient than waiting to activate the unit later in the round. 
+But sometimes a player needs to immediately react to a situation with a 
+unit, without marking the activated unit as spent or using CAPs or cards. 
+3.2 Command Action Points (CAPs)
+An army’s available command resources are represented by the 
+CAPs marker on the blue command track on the track sheet. Each 
+firefight specifies the starting number of CAPs for each player. These 
+CAPs are shared by all of a player’s units during the entire round and 
+are not replenished until the beginning of the next round. CAPs left 
+over from one round are not carried over into the next round. 
+CAPs may be spent to:
+-Supplement an activated unit’s APs (3.2.1).
+-Execute a command (CAP) action (3.2.2).
+-Modify any dice roll (3.2.3), stall (2.2), or play a card (8.1).
+Designer’s Note: The strength, functionality, and effectiveness of a 
+fighting force relies on its logistics and leadership structure. Leaders, 
+from sergeants on up, coordinate attacks, keep the morale high in the 
+company, direct fire groups, and much more. The logistical structure 
+is responsible for supplying food and ammo to the front line troops, 
+evacuating wounded soldiers, communicating with the HQ command, 
+etc. If a position had to be held, extra ammunition, spare parts, and 
+men were sent to reinforce the defenders. Command and logistical 
+availability are abstracted in the game through the use of CAPs.
+3.2.1 Supplement an Activated Unit’s APs
+A player may use CAPs to supplement an activated unit’s APs when 
+spending for actions on a one-for-one basis. A player may spend as 
+many of his CAPs as desired this way.
+Ex: Figure 4. Continuing the previous example, it is the Soviet 
+2.5 Victory Points (VPs)
+Typically victory points are earned during the game by destroying 
+opposing units, controlling victory hexes, and by achieving objectives 
+during scoring rounds.
+2.5.1 Scoring Destroyed Units
+When an opposing unit is destroyed, the VP value for that unit is 
+immediately awarded to a player and recorded on his yellow VPs 
+track. If a player destroys his own unit (yes, it can happen), his 
+opponent still gets the VP associated with its destruction.
+2.5.2 Victory Hex Control
+The victory hex(es) specified in a firefight are marked 
+at the beginning of a game with Control Markers, which 
+are placed with the controlling side’s symbol face up. 
+During the course of the game, victory hex control is 
+maintained by one side until an opposing ground unit 
+enters and solely occupies the hex, even if the unit 
+simply passes through the hex. If an opposing unit enters an enemy 
+occupied victory hex, control is retained by the enemy until the 
+opposing side becomes the sole occupier of the victory hex.
+3.0 Unit (AP) Actions
+A player may activate a unit by choosing any fresh unit on the map 
+and advancing the AP marker on the green Unit AP Track of the Track 
+Sheet to 7APs. Activating a unit is not an action.
+The activated unit takes one AP action at a time 
+by spending the APs on the green Unit AP Track. As 
+actions are taken, the AP track is counted down to 
+show the unit’s remaining APs. Ex: The Soviet Rifle ‘41 
+spends 4APs to fire or 1AP to move one hex. 
+Designer’s Note: The AP cost for a unit to fire takes many factors 
+into account and does not represent just one shot, but the total 
+firepower output of the unit during a two to three minute time frame. 
+This involves target acquisition time, ammo replenishment, orders 
+being screamed at squad members, and so on.
+When an activated unit has spent all of its APs by 
+taking AP actions or if the player no longer wishes to 
+take further AP actions with the unit, he marks the unit 
+as spent. Marking a unit as spent is not an action and 
+any remaining unspent APs are lost.
+A player may intersperse an activated unit’s 
+AP actions with command actions (3.2.2) and card actions (8.0). 
+Ex: The Soviet player activates a Rifle unit, marks its AP track 
+to 7APs, fires it once spending 4APs, and then counts the AP marker 
+down to 3APs. On the Soviet player’s next turn he takes a card action 
+to move the unit two hexes. Next turn he stalls for 1AP. He has 2APs 
+left on his AP track. Next turn he takes a command action and moves 
+the Rifle unit forward 1 hex for 1CAP. Next turn he fires for 2APs 
+supplemented by 2CAPs (3.2.1). The Rifle unit is out of APs at this 
+point and is marked as spent. 
+A player may intersperse an activated unit’s AP actions with 
+opportunity, command, and card actions taken by other units. 
+Ex: The Soviet player activates a Rifle unit, marks its AP track 
+to 7APs, fires once spending 4APs and counts the AP marker down 
+to 3APs. Next turn the Soviet takes a command action, moving a spent 
+Maxim MMG one hex for 2CAPs. Next turn he takes a card action with 
+Card #4 to attempt to rally a tank that was previously hit. Next turn he 
+returns to the activated Rifle unit and fires for 3APs and 1CAP. The 
+Rifle unit is out of APs and is spent.
+At the beginning of his turn, a player may mark an active unit as 
+spent in order to immediately activate and use a different unit. The 
+green Unit AP Track is again set to 7APs and this new unit may now 
+take an action by spending these APs. In all cases, no more than 
+one unit may be activated by a player at a time (exception - Shared 
+Activations 9.0). 
+Ex: The Russian makes an unexpected move to which the 
+German player wants to react by firing his HMG unit. However, a 
+German Rifle is currently activated with 4APs left. The German 
+immediately marks the Rifle as spent, losing its remaining 4APs. 
+He then activates the HMG, sets the green Unit AP Track marker 
+to 7APs, and takes an AP action with the HMG, counting down the 
+action cost on the AP track. The process of marking an activated unit 
+spent and activating a new unit must be done at the beginning of a 
+player’s turn and is not an action.
+3.0.1 Variable AP Allocation (Optional Rule)
+At the beginning of a game, players may decide on the following option. 
+Instead of units automatically receiving 7APs when activated, players 
+roll three six sided dice (3D6) and sum the high and low dice rolls to 
+determine how many APs their units receive. Ex: 3D6 are rolled for a 
+Figure 3
+Figure 4
+
+player’s turn and he wants to fire with Rifle C again. It costs Rifle C 
+4APs to fire, but it only has 3APs left on its Unit AP Track. The Soviet 
+player has 5CAPs at his disposal for the round, which allows him to 
+fire Rifle C again by paying its remaining 3APs plus 1CAP. The CAPs 
+marker is counted down one space on the blue command track to 
+show 4CAPs remaining for the round. Rifle C has spent all of its Unit 
+APs and is marked as spent.
+3.2.2 Command (CAP) Actions 
+Command actions are completely paid for with CAPs. CAP actions 
+can be taken by an activated, fresh or spent unit. Activated or fresh 
+units that take a command action are not marked as spent.
+Ex: Figure 5 continuing the previous example. 
+German Turn: The German player has 3CAPs left on his blue CAP 
+track. He decides to use a CAP action to fire his spent HMG B at 
+Rifle C for 2CAPs and misses. 
+Soviet Turn: The Soviet activates Rifle D setting his green Unit AP 
+Track to 7APs. Rifle D moves forward one hex for 1AP and counts 
+down his AP track to 6APs. 
+German Turn: Rifle A (which is still the German activated unit) fires at 
+Rifle D for 3APs, counts its green AP track to 3APs, and misses.
+Soviet Turn: Rifle D has 6APs remaining. It fires at Rifle A, counts its 
+green AP track to 2APs and misses. 
+German Turn: Rifle A has 3APs remaining. It fires at Soviet Rifle D, 
+counts its green AP track to 0 and misses. Rifle A is marked as spent. 
+Soviet Turn: Rifle D has 2APs left, but the Soviet player decides to 
+pass and marks the unit as spent. 
+German Turn: All units are spent. The German passes and the round 
+ends. Instead of passing, both players could have continued to take 
+command actions or card actions (8.0). 
+3.2.3 Modify Any Dice Roll with CAPs
+A player may spend up to 2CAPs to negatively or positively modify 
+any of his dice rolls on a one-for-one basis. He may never modify an 
+opponent’s dice roll. A player must state all CAP dice roll modifications 
+before rolling. The CAPs spent are valid for only one dice roll.
+Ex: The Soviet player needs to roll ≥ 9 to hit a unit. Before rolling, 
+he declares that he will spend 2CAPs to positively modify his roll. He 
+now only needs to roll ≥ 7 to hit (7 + 2CAPs = 9).
+3.2.4 New Round Initiative Dice Roll
+Players may spend up to 2CAPs to modify new round initiative rolls 
+(2.1). The player with the most CAPs announces how many he will 
+spend to modify his initiative dice roll. (In case of ties, the Soviet 
+player decides first.) Then his opponent announces how many CAPs 
+he will spend. Each player may only announce once what they will 
+spend. Both players deduct the stated CAPs (up to two maximum), 
+then roll, adding the modifications to the dice total. If tied, the players 
+re-roll. Players may spend additional CAPs to modify the new dice rolls.
+Ex: At the beginning of a new round, the German player has the 
+most CAPs and decides to use 2 of his 7 available CAPs to modify his 
+roll. The Soviet player chooses to save his CAPs and uses none. The 
+German player rolls a 6 (4 dice roll + 2 CAP modifier). His opponent 
+rolls a 7. The Soviet player goes first, but the German player still has 
+only 5CAPs left for the rest of the round for all of his units to draw from.
+3.2.5 Equalizing Play
+If a game is out of balance because the opponents have different 
+levels of experience, you can equalize the firefight by increasing the 
+disadvantaged player’s starting CAPs level by one or two points. 
+4.0 Terrain
+The battle is played on a map consisting of hexes representing 
+40-50 meters of ground. On these hexes you will see various types 
+of terrain. Each hex has a dot in the middle. Whatever terrain type 
+surrounds the dot dictates the entire hex’s terrain type. 
+Ex: If a center dot touches any part of a building, the entire hex 
+is considered developed and thus blocks LOS - even if portions of the 
+developed hex are open and LOS could conceivably be drawn through it. 
+Designer’s Note: A building pictured in a hex means that the hex 
+is developed and does not represent just one individual building.
+Open Terrain: 
+Yards and rolling fields with intermittent clumps of brush 
+and individual trees. Open terrain includes any hex that is 
+not a building, plowed field, woods, or water hex. 
+Example hexes: 1-B07, 2-C10, 2-F07, 2-H08, 2-I05, 
+3-F14, 4-F08, 4-H12, 5-C08, 5-J06, 5-K11, 5-K17. 
+Road: 
+Any prepared surface intended for vehicles. These include 
+dirt and paved roads. Roads do not change the terrain 
+type of the hex such as building or woods. 
+Example hexes: 1-G08, 1-D13, 2-I08, 4-G11, 5-D10, 
+5-H07.
+Walls: 
+Constructed stone walls that protect units which are 
+directly behind them. They follow a hex’s edge and do 
+not change its terrain type. The hex pictured is an open 
+terrain hex with walls along its northern edges. 
+Example hexes: 2-G05, 2-H04, 4-G12. The following are 
+NOT walled hexes: 2-J05, 5-A07, 5-D03, 5-K11. 
+Building (Wood): 
+Consist of light cover wooden buildings and sheds. All are 
+yellow/brown toned.
+Example hexes: 2-F08, 2-I09, 4-F10, 5-F02, 5-G04, 5-I04, 
+5-L03, 5-K15.
+Building (Stone): 
+Sturdier structures such as barns & farms built of stone/
+wood mixes or bricks. All are grey toned.
+Example hexes: 2-J10, 5-E03, 5-B07, 5-C16, 5-I05, 
+5-K07, 5-J11. 
+Hills: 
+Open terrain at an increased level. Level one hills (L1) are 
+designated with a 
+ behind the hex number. L2 hills have 
+two 
+ 
+ behind their hex numbers. Each level represents 
+a 10-15 meter rise in elevation. Example hexes: 3-E09, 
+3-G11, 3-E13, 3-K07, 4-D05, 4-D07, 4-B12. 
+Hills (Steep): 
+Open terrain that increases two or more levels over a 
+single hexside.
+Example hexes: 3-F14, 3-G15, 3-K11. 
+Plowed and/or Muddy Fields: 
+Fresh tilled or muddy fields that make tracked vehicle 
+movement difficult. Wheeled vehicles are not allowed.
+Example hexes: 2-G02, 2-J03, 4-C17, 4-G13, 4-E15. 
+The following are NOT plowed field hexes because the 
+center dots are in open terrain: 2-K04, 4-J11, 4-F15.
+Woods (Light): 
+Overgrown areas with light tree and brush cover. 
+Example hexes: 1-E03, 1-F11, 2-L03, 2-L07, 3-E09, 
+3-K08, 4-H08, 4-J17, 5-B15. 
+The following are NOT light woods: 5-F10, 5-K17. 
+Woods (Heavy): 
+Large, well-developed trees, with undergrowth.
+Example hexes: 1-E12, 2-K07, 3-E08, 4-B12, 4-G07, 
+5-A04, 5-E12, 5-G14. 
+Water (Rivers and Lakes): 
+Bodies of water with a depth of over 1 meter and are 
+passable only by unburdened foot units (1.1) and boats. 
+Units may not fire while in water hexes. 
+Example hexes: 5-B11, 5-C13.
+Designer’s Note: In future games we introduce boats 
+and amphibious vehicles that may also pass over water.
+Terrain may give your units cover, conceal enemy units, block line of 
+sight, and/or affect movement. The Foot Unit Movement and Terrain 
+Table details how certain terrain types affect a foot unit’s movements, 
+defensive modifiers (DMs), and line of sight (LOS) restrictions. 
+Figure 5
+
+Moving & LOS
+5.0 Foot Unit Movement
+Foot units are units that have a red movement cost number in the 
+top right corner of the counter. To move a foot unit into a hex, the unit 
+must spend the movement cost number in APs. Some terrain types 
+cost more to move into, and these additional costs are listed on the 
+movement and terrain table. These costs are added to the unit’s 
+movement cost and are cumulative. 
+Ex: A Soviet Maxim MMG unit with a 2AP movement 
+cost would pay 3APs to move into a heavy woods hex 
+(2APs unit movement cost + 1AP for heavy woods 
+terrain cost). 
+ Each foot unit’s movement into a new hex is 
+considered a separate action. There are no stacking 
+limits. Units may move into and through hexes occupied by both 
+friendly and enemy units. (Of course, an enemy unit may engage you 
+in close combat if you move into its hex!)
+5.0.1 Roads 
+Roads negate hex restrictions and movement costs of terrain that 
+covers the hex. Units must follow the roads from hex to hex to gain 
+the road movement advantage. Bridges function as roads over water. 
+Roads do not affect the DM of the hex. 
+5.0.2 Walls 
+A unit receives +1DM for all incoming fire, from all levels, if the fire 
+crosses a wall that is in or bordering the target unit's hex. Other 
+terrain modifiers still apply. Walls do not offer cover against mortar 
+and artillery fire. 
+Crossing a wall hex side costs foot and tracked units +1AP. 
+Wheeled units may not cross wall hex sides. 
+Walls acts as covering terrain for hidden units, if LOS from 
+enemy units crosses a wall in or bordering a hidden unit's hex.
+5.0.3 Foot Unit Cautious Movement (Optional Rule)
+All foot units moving into a ‘No Cover Terrain’ hex, as listed on the 
+Movement & Terrain Table above, are penalized -1DM. This penalty 
+is only applied if an opponent fires at the unit immediately in the 
+following turn. Transported foot units (17.1) are not penalized.
+The movement penalty can be negated by moving cautiously. 
+Foot units move cautiously by adding +1AP to the regular movement 
+cost listed on the movement table.
+Designer’s Note: A player must weigh the extra APs paid for 
+cautious movement against the benefits of a higher DM when using 
+these optional rules. Beginners may wish to gain some experience 
+playing CoH before including this optional rule.
+5.1 Facing 
+All units have a forward facing represented on their 
+counters by a white arrow on a green or red field. A 
+green field indicates a counter that can move and/or 
+pivot, a red field indicates a counter that is stationary 
+and may not move and/or pivot (Bunkers 18.1.2). 
+At all times, a unit’s facing arrow must point to a 
+hex side (as opposed to the corner of a hex). Units may move forward 
+into any one of their 3 front hexes (see figure 6). Units may change 
+their facing to any hex side at no AP 
+cost after they move into a new hex and 
+before the opposing player’s turn. 
+Flank hexes represent hexes to the 
+rear of and outside of a unit's field of focus. 
+5.2 Backwards Movement 
+A unit may move backwards into any of 
+its 3 flank hexes, but must pay a +1AP 
+backward movement penalty in addition 
+to all other movement costs (5.0). A unit 
+moving backwards into a new hex may 
+change its facing at no additional AP cost. 
+Moving backwards is considered a cautious move (5.0.3). 
+Designer’s Note: Facing is critical for a unit. Facing involves a 
+unit’s “focus” or attention as much as taking up positions to deal with 
+that focus. While deployed behind a wall, against an embankment, 
+etc., a unit is very vulnerable to fire coming from its flank. Not only is 
+the unit often more exposed, but flank attacks can be psychologically 
+devastating. “Where did the enemy come from? Are we surrounded? 
+Can we get away?” The natural instinct is often to either just run away 
+or to hunker down. A unit’s experience and leadership play a vital role 
+in assessing the new threat and deciding how to react to it. 
+5.3 Pivoting
+If a unit does not wish to move into a new hex, but wants to change 
+its facing, it may pivot as an action for a cost of 1AP or 1CAP. The unit 
+may change its facing to any hex side. 
+5.4 Enemy Occupied Hexes 
+Units may move into and through hexes occupied by both friendly 
+and enemy units. If friendly and enemy units occupy the same hex 
+at the beginning of a turn, a player may initiate close combat (7.7.3). 
+If vehicles move through an enemy occupied hex without stopping 
+(14.1), they cannot be engaged in close combat.
+5.5 Unit Reinforcements
+When a firefight calls for reinforcements these units may come into 
+the game on that round or later rounds. If the reinforcements enter on 
+a later round, they must still enter on the same hex(s) as specified by 
+the firefight. 
+Units move onto full hexes when entering a firefight. Half hexes 
+are ignored. The move can be made with a Unit AP, opportunity, 
+command or card action. 
+If an enemy unit occupies an entry hex, the reinforcements may 
+shift their hex of entry by up to 2 hexes. 
+Multiple units may enter the map simultaneously using a group 
+move (9.1.1) or while being transported (17.0).
+5.6 Exiting the Game 
+Units may never exit a map, unless called for in the setup rules of an 
+individual firefight. 
+6.0 Line of Sight (LOS)
+Units have to see each other in order to fire at each other. Hexes 
+that block LOS are listed on the Movement & Terrain Table in section 
+5.0. If a line drawn from the center dot of the attacking hex to the 
+center dot of the target hex is free of any blocking terrain, LOS is 
+established. Units can see into a hex that blocks LOS, but not through 
+it. So LOS is blocked if any part of the LOS crosses any part of a 
+blocking hex. All LOS rules apply in both directions. So if unit A can 
+see unit B, then B can see A.
+ Ex: Figure 7. The HMG in hex A can see into light woods hex B, 
+but not through it to hexes C or D.
+If LOS passes exactly along the edge of two hexes, it is always 
+affected by the hex with the least restrictive LOS. 
+Ex: Figure 7. The HMG in hex A can see into hex E, because the 
+ 
+ 
+o
+n
+t 
+x
+s
+Figure 6
+ 
+ 
+l
+a
+n
+k
+ 
+x
+s
+Figure 7
+Foot Unit Movement and Terrain Table
+Additional AP 
+Cost to Move 
+into a Hex
+Defensive 
+Modifier (DM)
+Hex 
+Blocks 
+LOS?
+Cover 
+Terrain?
+Open Terrain / Road
+Buildings-Stone
+Buildings-Wood
+Plowed Field
+Wall
+Water
++4 AP
+Woods - Heavy
+Woods - Light
+Move Backwards
+Move Uphill
+Movement AP Costs & Defensive Modifiers are cumulative.
+Optional Cautious Movement Rule (5.0.3)
+Unit is Moving Normally
+Unit is Moving Cautiously
+
+Combat & Hits
+7.4 Destroyed Units and CAP Track Adjustments
+A unit is immediately destroyed when it takes a critical hit (7.0) or a 
+unit with a hit marker takes a second hit. 
+Destroyed units (except for Trucks & Wagons 16.0) are removed 
+from the game and are placed on its commanding player’s CAPs track. 
+The first destroyed unit is placed on the starting CAP number specified 
+in the firefight, the second destroyed unit on the next number lower, 
+and so on. At the beginning of each round, the CAPs track marker is 
+reset to its beginning value minus 1 for each of that side's lost units. 
+Ex: A player starts a firefight with 9CAPs and loses 2 units on 
+round one. The first unit is placed on the “9” space, the second on the 
+“8” space. He would start round two with only 7CAPs at his disposal. 
+The 7CAPs would decrease in future rounds if he lost more units.
+If the CAP track marker is on the space where a destroyed unit 
+must go, the CAP level is immediately reduced by one and the player 
+loses the use of this CAP. 
+Ex: In the example above, the player had 8CAPs left when he 
+lost his second unit. The unit is placed on the “8” space and the CAP 
+tracking marker is moved to the “7” space. 
+Designer’s Note: As units are destroyed, the loss of front line 
+sergeants, 2nd lieutenants, and other officers affect a force’s combat 
+and command structure effectiveness.
+7.5 Hits
+When an un-hit unit takes a hit, its commanding player draws a hit 
+marker and without revealing it to his opponent, places it face down 
+under the hit unit. Pull hits against foot units from the Foot Hit Marker 
+pile and pull hits against vehicles from the Vehicle Hit Marker pile.
+A unit’s stats and abilities are modified by the corresponding values 
+printed on the hit marker. If no value appears in a corner of a hit 
+marker, there is no affect on the corresponding stat of the hit unit. 
+Ex: A Soviet Rifle pulls a Suppressed 
+hit marker. The unit’s stats are modified as 
+follows:
+- The cost to fire increases from 4 to 5. 
+- The red firepower decreases from 3 to 1 
+and the blue FP from 0 to -2. 
+- Movement and defense values are not affected, since these areas 
+on the hit marker are blank.
+- The unit may rally and remove the hit marker on a 2D6 roll of 7 or 
+higher.
+ Some markers have a 
+ symbol, which negates a unit’s ability. 
+Ex: A pinned unit cannot move or pivot, but none of its other 
+stats are affected. Ex: A stunned unit cannot do anything except rally. 
+LOS follows the hex edge between the woods D and the open hex. 
+The LOS is not blocked, because the open hex LOS applies.
+Players may check for LOS before they commit to firing.
+Units do not block LOS or firing. 
+6.1 Arc of Fire (AoF)
+The front 3 hexes extending 
+outward from a unit’s facing 
+arrow represent the unit’s arc 
+of fire. Units may only shoot at 
+targets in their arc of fire.
+Ex: Figure 9. The German 
+Rifle unit moves into hex A, 
+which is in its front arc and is 
+considered a forward movement. The 
+Soviet passes. The German moves to 
+hex B and again the Soviet passes. 
+The German now moves to hex C 
+and changes its facing for free. The 
+Soviet Rifle cannot fire at the German, 
+because the German is now outside 
+of its arc of fire. The German is also 
+facing the Soviet’s flank. The Soviet 
+could pivot to face the German as an 
+action for 1AP, but then would have to 
+wait another turn in order to fire.
+7.0 Combat Resolution
+Combat involves one unit firing its weapons at another unit. 
+The attacking unit must have the target in its arc of fire, LOS, and 
+range (7.7). 
+ The black number in the top left corner of the counter shows 
+the number of APs the unit must spend to attack. Each attack is 
+considered a separate action.
+When attacking, compare the attacker’s attack value (AV) with 
+the defender’s defense value (DV) of the same color. 
+- If the AV is equal to or greater than the DV, the defender takes 
+one hit. 
+- Critical Hit. If the AV is greater than the DV by 4 or more, the 
+defender is immediately destroyed. 
+A unit may be attacked an unlimited number of times in a round.
+7.1 Firepower (FP) and Defense Rating (DR)
+All units have a blue and a red fire power (FP) value located in the 
+lower left corner of the counter. The red value reflects a unit’s bullets 
+and high-explosive firepower. The blue value reflects a unit’s armor-
+piercing firepower. 
+All units also have either a red or blue defense rating (DR) 
+located in the lower right corner of the counter. A red DR indicates 
+that the unit is a soft or disbursed target, such as men. A blue DR 
+means that the unit is armored, such as a tank. 
+When a unit fires at an enemy unit, it fires using the same FP 
+color as the target’s DR color. 
+7.2 Attack Value (AV)
+AV is calculated by adding the attacking unit’s fire power (FP) to a 
+2D6 dice roll. Remember, attack dice rolls can be modified by adding 
+up to 2CAPs. 
+AV = Unit FP + 2D6 + CAP dice roll modifiers
+Ex: Figure 9. The German Rifle with a red 2FP is firing at the 
+Soviet Rifle. The player rolls a 9 and scores an 11AV (2FP + 9 dice roll).
+Units may attack even if they have a 0 or negative FP.
+7.3 Defense Value (DV)
+DV is calculated by adding 
+either a unit’s front or flank 
+defense rating (DR) to 
+the hex’s terrain DMs. Fire 
+originating from outside of a 
+unit’s arc of fire is considered 
+a flank attack and is resolved 
+against the unit’s weaker 
+flank DR. The unit’s flank DR 
+is printed above the unit’s 
+front DR on the counter. 
+DV = DR + terrain DM.
+Ex: Figure 10. The yellow lines represent flank shots because 
+the fire originates from outside of the unit’s arc of fire. These flank 
+shots would be resolved against the unit’s 11 flank DR.
+ Defenders may never add CAP modifiers to their unit’s DV.
+Figure 9
+c
+ 
+o
+f
+ 
+i
+Figure 8
+Flank
+Fire
+Figure 10
+Front 
+Fire
+Foot Unit Hit Markers
+Stunned (x2): 
+•	Unit cannot take 
+any action other 
+than rally. 
+Unnerved (x2): 
+•	No stats are 
+affected.
+KIA (x1): 
+•	The unit is killed 
+on the first hit. 
+Immediately 
+remove it from 
+the map.
+Panicked (x2): 
+•	Unit cannot fire. 
+•	Flank DR increases.
+•	Front DR 
+decreases. 
+Pinned (x5): 
+•	Unit cannot move 
+or pivot. 
+Suppressed(x5): 
+•	Costs +1AP to fire. 
+•	FP decreases by 2.
+Cowering (x2): 
+•	Cost +2AP to fire.
+•	+1AP per hex to 
+move or pivot.
+•	Range drops to 1.
+•	DR increases.
+Berserk (x1): 
+•	Costs -1AP to fire.
+•	FP increases by 1.
+•	Range drops to 1.
+•	DR increases.
+Back of Foot 
+Hit Counters 
+•	All foot hit counters 
+shown have the 
+same back art.
+ = The ability is lost. 
+A black symbol affects all colored 
+stats.
+A blue or red symbol affects only 
+the same colored stat.
+
+Rally & Range
+However, its defense ratings are not affected.
+A pinned unit may not move under its own power (including 
+loading or unloading from a vehicle), but may be transported if 
+already loaded.
+A player only needs to reveal a Hit Marker to his opponent 
+when the hit unit’s affected stats are used in play. In such a case, 
+he shows the marker to his opponent and then places the marker 
+back under the hit unit.
+Ex: A suppressed unit wishes to fire. Its FP is affected by the hit 
+marker, so the suppressed hit marker must be shown to the opponent.
+Ex: A panicked unit is fired upon. The defender must reveal the 
+panic hit marker to the attacker, regardless of the outcome of the 
+attacker’s dice roll. 
+The “killed” hit marker is immediately revealed when pulled 
+and the affected unit is removed from the map. Hit markers are also 
+revealed when a unit is destroyed or after it rallies. 
+Designer’s Note: Taking a hit does not necessarily mean that 
+men are killed. In battle, units often hit the dirt when fired at and could 
+not fire back. Other times they would panic, forget about firing, and 
+run away. These various effects are simulated through the hit markers 
+without adding pages of complicated rules! 
+7.5.1 Stacked Units and Combat
+There are no stacking limits. When a hex with more than one unit 
+is attacked, the attack is resolved simultaneously against all of the 
+targeted units with separate dice rolls. The more units in a hex, the 
+better the chances are that an attacker will hit one of them. This does 
+not cost the attacker any extra resources and is considered to be one 
+action. However, each dice roll CAP modifier (3.2.3) affects only 
+one target in a multi-target hex. The attacker can spend CAPs on 
+each dice roll separately if he so wishes. An opponent may react only 
+after all attacks have been resolved against all stacked units in the 
+target hex.
+Ex: Figure 11. The Soviet MMG A fires at LMG 
+B and Rifle C for 3APs. Both defenders have a 
+12DV. The MMG resolves fire against LMG B first. 
+The Soviet player decides to add 2CAPs to modify 
+his dice roll and scores a 14AV (3FP + 9 dice roll 
++ 2CAPs) for a hit. Then the MMG resolves fire 
+against Rifle C, this time without spending any 
+CAPs to modify its dice roll. The CAPs spent on the 
+first dice roll do not count for this second roll. The 
+MMG misses and the Soviet ends his turn.
+Multiple Target Types - A unit firing at a hex that 
+contains units with different DR colors, rolls against 
+each using its corresponding colored FP. 
+ Designer’s Note: The stacking rules were developed to simulate 
+target density. Having two tanks nicely lined up for an anti-tank gun is a 
+fire fest, whereas if they were spaced out the gun would have to reorient 
+itself between shots. Therefore, the more targets in a hex, the easier 
+they are to fire at and hit. In WWII, units were trained to spread out 
+and not bunch up for these reasons. Concentrated forces were easier 
+to manage, but could be devastated by mortar, artillery, and MG fire.
+7.6 Rally 
+Hit units can try to remove a hit marker by successfully rallying. A 
+successful rally indicates that the soldiers have calmed and their 
+leaders have inspired them to fight. 
+The cost to attempt a rally action is 5APs.
+After paying 5APs, the player rolls 2D6. The rally 
+attempt is successful if the 2D6 roll is greater than or 
+equal to (≥) the rally number marked on the top center 
+of the hit marker. The hit marker is removed from the 
+successfully rallied unit, shown to the opponent, and 
+then is placed back into the hit marker pile. If a rally 
+attempt fails, nothing happens and the hit marker remains in place. 
+Units may also attempt to rally with an opportunity, command, 
+or card action. A unit can attempt multiple rallies as long as it has 
+enough APs, CAPs, and/or action cards to do so. Each rallying 
+attempt is considered a separate action.
+Some vehicle hit markers are marked as ‘No Rally’ and cannot 
+be rallied for the remainder of the game. 
+Hit markers are returned to the hit marker pile after a unit 
+successfully rallies or is destroyed.
+Units in a hex with enemy units cannot rally.
+7.6.1 Rally Dice Roll Modifiers
+Units in cover terrain add a +1 rally dice roll modifier to their rally 
+attempt. The Movement and Terrain Table on Page 5 and on the 
+Summary Sheet lists which terrains act as cover. 
+ Units stacked with other friendly un-hit units receive an additional 
++1 rally dice roll modifier per friendly un-hit unit in the same hex.
+Rally dice rolls may be modified with CAPs.
+7.7 Range
+A unit’s range represents the number of hexes away the unit may fire into 
+and is designated on the bottom center of the counter inside the country 
+symbol. Blocking terrain naturally limits the effective LOS range. 
+7.7.1 Long Range Firing 
+If the range to a target exceeds an attacking unit’s range, but is 
+less than or equal to twice its range, the attacking unit may fire but 
+subtracts 2 from its FP.
+Designer’s Note: The ranges on the counters represent the 
+distances at which the units historically shot in combat situations, not 
+their true maximum range capabilities. 
+7.7.2 Short Range Firing 
+If an attacking unit is in a hex adjacent to a target, the target is 
+considered to be in short range and the 
+attacking unit adds +3 to its FP. 
+Ex: Figure 12. German Turn: Pioneer 
+C moves adjacent to the Soviet MMG D. 
+Soviet Turn: The MMG fires. Since the 
+German is in the adjacent hex, the MMG 
+adds +3FP short range bonus to his 3FP 
+for a total 6FP. 
+7.7.3 Same Hex and Close Combat (CC) 
+Units may move into enemy-occupied hexes. A player on his turn 
+may (but does not have to) attack an opposing unit in the same hex 
+thru CC. The CC attack requires an AP, CAP, opportunity, or card 
+action. If the opponent’s unit survives, it may take an action to attack 
+back or retreat on its turn with an AP, CAP, opportunity, or card action.
+The FP of units in CC are modified as follows: 
+-2FP for all units with a white box around their FP.
++4FP for all other units.
+Ex: The HMG has a white box around its red FP so 
+in CC it is reduced from 5FP to 3FP. 
+Units with a minimum fire range, including mortars and 
+field guns, may still CC. 
+- CC does not affect other friendly units in the same hex.
+- CC is resolved against the flank DR of the target enemy unit.
+- Terrain modifiers affect all units defending in CC. 
+- Fortifications benefit only the occupying units (18.1).
+- Units in CC can form firegroups (9.1.2) only with other friendly units 
+in the same hex.
+- Units cannot fire or sight outside of their hex for attacking, spotting, 	
+ or victory condition purposes while enemy units are in their hex.
+Advancing into an enemy hex is an action, so the defender may 
+react with any unit, including the defending unit. If the defending unit 
+decides to retreat out of the hex, it may not move into the same hex 
+or either of the two adjacent hexes from which the advancing unit had 
+just moved from. It may move into these hexes in later actions.
+A unit or group may CC fire at only one enemy unit per turn. 
+Ex: Two German Rifle units group move (9.1.1) into a hex 
+occupied by a Soviet Rifle. The Soviet Rifle may CC attack only one 
+of the Germans per turn.
+Designer’s Note: When firing at stacked units in another hex, 
+the attacker rolls against each enemy unit. But in close combat, the 
+attacker may only fire at one enemy unit at a time to simulate melee 
+and overrun engagements. 
+Outside units can fire into a CC hex resolving fire against all units 
+in the hex, friends and foes alike. Terrain modifiers and individual 
+flank facings apply for fire originating from outside of the hex.
+Ex: A spent unit, which has no CAPs or action cards to play, is 
+surprised and cannot react to an enemy unit moving into its hex. 
+Ex: Figure 13. A Soviet Rifle occupying heavy 
+woods is being assaulted by German Pioneers. 
+German Turn: The German moves cautiously 
+forward into the hex next to the Soviets for 2APs. 
+Soviet Turn: The Soviet Rifle fires at short range 
+with a 6AV (3FP + 3 Short Range Bonus) against 
+the Pioneer’s 12DV and misses. 
+German Turn: The Pioneers move into the hex 
+with the Soviet Rifle. 
+Soviet Turn: The Soviet Rifle CC fires with a 7AV (3FP + 4CC Bonus) 
+against the Engineer’s 14DV (12 Flank DR + 2 Heavy Woods DM). 
+The Soviet needs a 7 to hit and scores! Luckily for the Germans, they 
+Figure 13
+Figure 11
+Figure 12
+
+Cards & Groups
+beginning of a game. A unit may use an assigned weapon card for 
+a separate attack action or as part of a firegroup action. A weapon 
+card's firepower is modified by any hit marker the unit using the 
+weapon may have. 
+Ex: A German LMG with a 'Stunned' hit counter may not use an 
+assigned Grenades card until rallied. 
+Ex: A spent German Rifle unit in close combat plays its assigned 
+grenades against Soviet Rifle as an action for 0 cost. The grenades 
+attack with a red 5FP against the Soviet's 11 flank defense rating. 
+8.5 Card Icon Details
+Some cards have icons printed on the bottom. 
+Group Action - The card may be played as part of a group 
+action (9.1) if paid for with CAPs. Ex: Card #03 ‘Follow Me!’ 
+allows all units in a group to rally.
+High Explosive - The weapon attack is always resolved 
+against the target’s flank defense rating. 
+Action Spent - The weapon attack is considered an action. 
+9.0 Shared Activations
+Multiple fresh units can be activated together to coordinate their 
+actions. The activated units take individual actions whose costs 
+are deducted from a shared 7AP pool. A player need not declare 
+which units are going to share an activation before taking actions. 
+He may add units at will. Units sharing activations do not have to be 
+in the same or adjacent hexes. Units sharing an activation continue 
+spending the shared 7AP pool, even if any of them are destroyed. 
+Each individual shared action still counts as a turn, which is followed 
+by the opponent’s turn. When the shared AP pool is spent, all the 
+units that shared the activation are marked as spent. 
+Summary: A player activates a unit and advances the AP track 
+marker to 7APs as always. But now he may take actions with other 
+fresh units also, paying for their actions from this shared 7AP pool. 
+Ex: A Soviet Rifle is activated and advances the AP track marker 
+to 7APs. It moves west into a clear road hex for 1AP and counts the 
+AP track down to 6APs. The German passes. A fresh Soviet MMG 
+(with a 2AP movement rate) shares the Soviet Rifle's activation and 
+moves 1 hex east onto the Rifle’s hex. The MMG's 2AP movement 
+cost is paid for from shared AP pool and the units have 4APs 
+remaining. 
+9.1 Group Actions
+Multiple units may take any action as a group including moving, firing, 
+and rallying. Group actions may be taken by:
+- Units sharing their activation.
+- Fresh units grouping an opportunity action.
+- Fresh, activated or spent units grouping a command action.
+- Fresh, activated or spent units grouping the results of a card. 
+A player’s turn ends only after all participating units have completed 
+the group action. 
+9.1.1 Group Movement
+Units in the same or continuous adjacent hexes may group move and 
+pay only the AP cost of the moving unit with the highest cost to move. 
+Ex: The Soviet Rifle and MMG stacked together in the last 
+example. They now group move together into an open hex. The total 
+cost for the move is 2APs, based only on the MMG’s movement cost 
+and they now have 2APs remaining in their shared AP pool.
+Ex: Figure 14. Soviet Turn: 
+Four Soviet Rifles, that are 
+sharing an activation, group 
+move towards the German 
+HMG. Three Rifles move into 
+open terrain, but the fourth 
+moves into heavy woods so 
+the group must pay the costlier 
+2AP woods movement. Had all 
+units moved into open terrain 
+hexes, the group move would 
+have only cost a total of 1AP. 
+Figure 14. German Turn: The 
+German activates the HMG and fires at the second Rifle unit for 2APs 
+and destroys it. 
+Units that are split, either by moving away from each other or thru 
+combat, can no longer group move until they are again adjacent.
+pull an “Unnerved” hit marker. 
+German Turn: The Pioneers fire with an 8AV (4FP + 4CC Bonus) 
+against the Soviet’s 13DV (11 Flank DR + 2 Heavy Woods DM). They 
+need a 5 to hit and a 9 to kill. 
+You are now ready to play Firefight 1. 
+Play this firefight before continuing on with the rules.
+Section 2 
+In this section you will be introduced to cards that add uncertainty 
+and army-specific tactics to the game. You will also learn how to 
+coordinate the efforts of your units. 
+8.0 Cards
+There are several types of cards in the game. 
+- Action cards 
+ are played as an action. 
+- Bonus cards 
+ do not count as an action, but influence some 	
+ other action the player is taking. 
+- Event cards 
+ trigger special events or designate scoring rounds.
+- Weapon cards 
+ give players extra ‘toys’ to play with. 
+Each firefight specifies which action, bonus, 
+and event cards are shuffled into a single 
+deck at the beginning of the game using the 
+card ID numbers in their lower left corner.
+In each pre-round sequence (2.0), 
+players draw one or more cards (as specified 
+by each firefight) from the top of the deck. 
+Action and bonus cards are held secretly 
+until played, but event cards are played 
+immediately. There is no limit to the number 
+of cards a player may hold in his hand or play 
+in a round. Un-played cards may be held into 
+future rounds. Individual card descriptions are listed on page 17.
+The cost to play an action, bonus or weapon card is listed in the 
+middle of each card. If the cost icon is blue, the cost must be paid 
+in CAPs and if in green, the cost 
+must be paid by an activated unit’s 
+APs. If the icon is split with both 
+colors, the action may be paid with 
+any combination of APs or CAPs. 
+A card paid for with an activated 
+unit’s APs must be played on that 
+unit. Cards with no cost or cards 
+paid for entirely with CAPs may be 
+played on any unit. 
+8.1 Action Cards 
+ 
+Action cards have a green lightning bolt icon in the top left corner and 
+are played as an action. Action cards give a player additional APs, 
+CAPs or allow him to take certain actions. 
+Ex: A fresh Soviet MMG is hit and draws a 
+pinned hit marker. The Soviet player has card #03 
+‘Follow Me - Automatic Rally’ in his hand. He plays 
+it on his turn as an action, paying 2CAPs. The 
+hit marker is removed and the Soviet unit is not 
+marked as spent.
+8.2 Bonus Cards 
+ 
+Playing a bonus card does not count as an action. 
+These cards are played in addition to an action 
+the player has taken or may take, including having 
+played another action or weapon card. 
+Action and Bonus Cards are discarded after 
+having been played.
+8.3 Event Cards 
+ 
+Event Cards initiate events such as reinforcements 
+entering the game or a special scoring. Each 
+firefight specifies if and how these cards are to be 
+used. 
+8.4 Weapon Cards 
+ 
+Weapon cards represent weapons that units can 
+use and are played as an action. Each firefight 
+will designate which, if any, weapon cards are in 
+use. A weapon card is discarded after use, unless 
+specified otherwise in the firefight. A weapon’s 
+range and firepower is detailed on the card. 
+Weapon cards, other than artillery, are 
+assigned to specific foot units by a player at the 
+Objectives are specified
+in the firefight setup.
+Objective #1
+Attempt to rally a unit 
+not in close combat. 
+Rally Up!
+One Rally Attempt
+Take two turns in a row, 
+skipping an opponent’s 
+turn. Play this card during 
+the first turn.
+Swift Action
+Take Extra Turn
+Cost: 2 APs
+An activated unit may roll 
+1D6 and add its result to 
+the CAPs track for use this 
+Frontline Officer
++1D6 CAPs
+AP or CAP 
+cost to use.
+Card Title
+Group Action
+Card ID #
+Card 
+Description
+Card Type Icon
+use grenades as an action.
+Grenades
+Stielhandgranate m24
+Both players total and score 
+mid-game victory points. 
+After playing this card, 
+draw a new card.
+Score
+Figure 14
+
+Group Actions
+Figure 15. Soviet Turn: The Soviet 
+player has 5APs remaining in the 
+shared AP pool and for his next 
+action he could either group move 
+the two adjacent units or move the 
+lone unit in the woods. He may not 
+group move all three, since they are 
+not adjacent. He decides to move the 
+group of two Rifles forward for 1AP, 
+leaving him 4APs in the pool. 
+Not all units included in a group move action must move. 
+Ex: Three adjacent units initiate a group move action. The 
+center unit holds its position, while the two adjacent Rifle units move 
+forward one open hex. The APs paid are determined by the unit with 
+the highest cost to move. If the center unit had been a MMG with 2AP 
+cost to move, the group move would have still only cost 1AP, since the 
+MMG did not move. 
+Units included in a group move may split by moving away from 
+each other. Some or all units part of a group move may just pivot.
+Hit units, still able to move, may participate in a group move.
+9.1.2 Group Firing
+Multiple units may group fire by creating a firegroup. Firegroups must 
+target a single hex. A firegroup designates one unit as the fire leader, 
+with the rest of the units in the firegroup supporting it. Supporting units 
+must (a) be in the fire leader’s hex and/or the six hexes around the fire 
+leader, (b) have the target hex in their arc of fire (including turreted units 
+15.4), (c)have a clear LOS, (d) be in range (i.e., not in long range), 
+and (e) not have a hit marker that affects their FP. Only the fire leader 
+pays the cost to fire. Units may only join firegroups if they have a FP 
+greater than 0 (this FP can include range bonuses). Each supporting 
+unit in the firegroup increases the FP of the fire leader by 1FP. 
+All fire modifiers are determined by the group’s fire leader.
+Ex: Figure 16. A fresh German LMG and a fresh 
+Rifle group fire at a target. The LMG is designated as the 
+fire leader and pays 2APs. Its FP increases from 4FP 
+to 5FP due to the support of the Rifle. These two units 
+could also have been in adjacent hexes to group fire.
+9.1.3 Group Rally
+Units in the same or continuous adjacent hexes may group rally for 
+5APs/CAPs. Each rallying unit rolls separately (7.6). 
+9.1.4 Other Group Actions
+Multiple units in the same or continuous adjacent hexes may take 
+other group actions such as creating group hasty defenses, etc. 
+Ingenious combinations of group actions are limited only by a player’s 
+creativity. 
+Ex: An activated German Rifle moves next to a fresh HMG unit. 
+On his next turn, the German plays a hasty defense card on both units. 
+They both receive a hasty defense counter. The HMG is not marked 
+as spent, since only a card action was played on it.
+9.2 Group Action Details
+A group action may never be taken by multiple units that are not in 
+the same or continuous adjacent hexes. Group actions can be taken 
+and paid for in several ways: 
+- Units sharing their activations pay for a group action out of their 
+shared activation 7AP pool. (The AP pool amount may vary if 
+optional ‘Variable AP Allocation’ rule 3.0.1 is used.)
+- Multiple fresh units may take a group opportunity action. After a 
+group opportunity action is taken, all participating units are marked 
+as spent. 
+ Ex: Two fresh German Rifles are stacked together and have 
+been overrun by a Soviet T-34 tank. The Rifles group move with an 
+opportunity action and retreat backwards into non-adjacent hexes. 
+Both are marked as spent.
+- Multiple fresh, activated or spent units may take group command 
+actions using only CAPs. Fresh and activated units are not marked 
+as spent. 
+ Ex: An activated German Rifle moves into a hex with a non-
+activated HMG. The two group command fire for 2CAPs (the HMG is 
+the fire leader). The Rifle then moves on using what remains of his 
+AP pool. The HMG is not marked as spent. 
+- Multiple fresh, activated or spent units may take group card actions. 
+Fresh and activated units are not marked as spent. 
+ Ex: Two hit Rifles are in adjacent hexes, one spent, the other 
+fresh. Auto-Rally card #3 is played on both Rifles for a cost of 2CAPs. 
+Both Rifles remove the hit markers and the one Rifle is still fresh. 
+ Ex: Four adjacent Rifles all move forward two hexes with ‘Rapid 
+Deployment’ card #5. 
+Players may intersperse individual actions and group actions.
+Ex: Figure 17. German LMG A 
+activates and moves into Rifle B’s 
+hex for 1AP. 
+The Soviet passes. 
+ Figure 18. Both units command 
+group move forward one hex for 
+1CAP. CAPs instead of APs are paid 
+because Rifle B does not want to 
+share LMG A’s activation. Again the 
+Soviet passes. Now both German 
+units command group fire at Rifle 
+C, with LMG A as the fire leader, for 
+2CAPs. The LMG’s FP increases 
+from 4 to 5FP and a hit is scored. 
+The Soviet randomly pulls a pinned 
+hit marker. 
+Figure 19. The LMG A moves 
+into the stone building for 2APs and 
+has 4APs left. It could continue to 
+fire, continue moving, or take other 
+actions. Rifle B is not marked as 
+spent since only CAPs were utilized 
+for all group actions. 
+New Example: Figure 17. This 
+time both German units share their 
+activation. LMG A moves into Rifle 
+B’s hex for 1AP. The Soviet passes. 
+Then both units group move forward 
+for another 1AP. The Soviet passes. 
+In Figure 18, they group fire for 3APs 
+and miss. The Soviet passes. LMG 
+A moves into the stone building for 
+2APs and the units have no APs 
+remaining in their group AP pool. 
+Both units are marked as spent. 
+10.0 Hidden Units
+A firefight will state if and how many units start the game hidden. The 
+locations of hidden units are written on a piece of paper instead of 
+placing the units on the map. The opponent has no idea where these 
+units are since no counters are placed on the map. Free hidden unit 
+tracking maps are available at www.Academy-Games.com. 
+Hidden units do not have a facing until they are revealed and 
+placed on the map. At this time the player may choose their facing. 
+Hidden units are revealed if:
+10.01 A hidden unit takes an action. Hidden units are revealed 
+immediately if they take any action other than hidden movement or 
+stalling, even if out of enemy LOS. It and all other hidden units in the 
+same hex are immediately revealed and placed on the map. 
+Cards may be played on a player’s own hidden units, but doing 
+so reveals them unless stated otherwise in the card’s description.
+10.02 A hidden and a non-hidden unit are in the same hex. 
+Hidden units are immediately revealed when they are in the same hex 
+as any friendly or enemy non-hidden unit.
+10.03 A hidden unit is fired upon and hit. 
+Sometimes an attacker will shoot at a promising hex hoping to reveal 
+an enemy. If multiple hidden units are in a hex, incoming fire is 
+resolved only against the unit with the lowest front DR. 
+Mortar and artillery fire (9.2) are resolved against the unit with 
+the lowest flank DR. 
+If one hidden unit is hit and revealed, all other hidden units in the 
+same hex are also revealed and placed on the map (see 2 above). 
+ Attacks against hexes with potential hidden units are resolved 
+even if there are no hidden units in the hex. 
+Ex: A Soviet Rifle unit is hidden in a heavy woods hex for a red 
+14DV (12 front DR + 2DM for woods). A German HMG fires at the hex 
+because he thinks it may be a good place for a hidden unit. In this 
+case he guessed correctly, but does not know it. He scores a 13AV 
+and misses. The Soviet player promptly ridicules the German for 
+thinking that there could be a hidden unit in that hex.
+10.04 An enemy unit moves into the same hex or near it. 
+Units hidden in open terrain hexes stay hidden until an enemy unit 
+moves within 2 hexes of their hex and has a clear LOS.
+Units hidden in cover terrain stay hidden until an enemy unit 
+moves into the same hex. 
+Figure 15
+Figure 16
+Figure 17
+Figure 19
+Figure 18
+
+Hills
+Ex: Figure 21. The HMG is on ground level (L0) and does not have 
+LOS to the shaded/yellow outlined hexes. The HMG can see hex B 
+(L1), but not hex D, because of the plateau effect. The HMG has LOS 
+to the first L2 hill crest hexes H thru K, but not anything beyond them. 
+Ex: Figure 22. Here we see the Fig 21 HMG’s LOS from a side view 
+and the plateau effect. A can see B and H, but not D. 
+All woods and buildings act as L1 obstacles for LOS purposes. 
+L1 obstacles are added to hill levels for LOS determination. 
+Ex: Figure 21. Hex G is a L1 hill with woods, equating to a L2 
+obstacle. Ex: Woods or buildings on L0 hexes equate to L1 obstacles. 
+11.4 Blind Spots
+Hexes directly behind any obstacle are blind spots and out of LOS to 
+units located at higher levels (and vice versa). 
+Ex: Figure 23. Hex 1 (L2) has a clear LOS into hexes 2, 3 and 11, but 
+no LOS to hexes 4, 5, 6, 9 and 10, because of the L1 obstacles along 
+the LOS path (woods 2 & 3 and buildings 7 & 8). 
+Designer’s Note: Blind spots simulate units hugging a tree line or 
+houses to stay out of the LOS of enemy units perched on hills. 
+A clear hill hex does not create a blind spot for units firing from 
+higher up along the same hill slope. Ex: 1 to 3 below. 
+Ex: Figure 24. Here we see a side view of the LOS from hexes 1 to 9. 
+Ex: A unit in hex 16 (L1) has LOS into hex 3 but nothing beyond, 
+because the light woods acts as a L1 obstacle and thus is the same 
+height as hex 16, creating a plateau effect. Anything beyond the woods 
+is not visible. 
+Fortifications such as bunkers and hasty defenses (18.1) count as 
+cover. Higher elevation DMs do not apply as covering terrain. See the 
+Movement & Terrain Summary Sheet for a complete listing.
+10.1 Hidden Unburdened Foot Unit Movement
+Hidden unburdened foot units (1.1) may move and remain hidden. 
+Hidden movement adds +3APs movement cost penalty when moving 
+into cover terrain and +6APs movement cost penalty when moving 
+into non-cover terrain. All other movement modifiers are ignored. 
+Ex: It costs a Soviet Rifle unit 4APs to move hidden into a heavy 
+woods hex. 
+Hidden units may move into or within enemy LOS. They may 
+move adjacent to an enemy unit and still remain hidden, as long as 
+they stay in cover terrain. Thus, a hidden unit would be revealed if it 
+moved into open terrain that was within 2 hexes of an enemy unit.
+To move a hidden unit(s) a player states which hidden unit he is 
+activating, takes the action, and marks the new location on a sheet of 
+paper or the “hidden unit tracking map” for future reference. 
+When a hidden unit is activated and performs a hidden move, the 
+player deducts the AP costs from the Unit AP Track the same as with 
+any other unit. Once a hidden unit is spent, the hidden unit counter is 
+placed next to the map in open view and is marked as spent. 
+10.2 Hiding Unburdened Foot Units During a Game
+Un-hit unburdened foot units that are out of enemy LOS may spend 
+7APs to hide themselves within a 1 hex radius of their current position. 
+The destination hex must also be out of enemy LOS. The units are 
+taken off of the map and their new hex position is secretly written down. 
+Unburdened foot units may hide as a group using the group action rules. 
+You are now ready to play Firefight 2. 
+Section 3
+In this section you will learn how to deal with changes of elevation 
+on the game map. We also introduce mortars, artillery, and rules for 
+using smoke to protect your units.
+11.0 Hills
+Hills are contoured on the map and come in levels that abstractly 
+represent the height of the hill. All non-hill open terrain is considered 
+to be ground level 0 (L0). Level 1 (L1) hill hexes are designated by 
+one 
+ symbol behind the hex number and level 2 (L2) hill hexes are 
+designated by two 
+ symbols behind the hex number. A hill covering 
+the center dot of a hex fills the entire hex even if the artwork does not. 
+A bare hill hex with no buildings or woods is considered open terrain.
+ Moving up a hill incurs a +1AP movement penalty per level to the 
+moving unit. Roads do not negate this penalty.
+Ex: Figure 20. 
+A Rifle moving from 
+hex A to B pays 
+2APs (1AP for open 
+terrain movement 
++1AP for moving up 
+one level). If there 
+were heavy woods 
+in the higher level 
+hex, the cost would 
+be 3APs (2APs for 
+woods movement 
++1AP for moving up 
+a level).
+11.1 Steep Terrain
+Elevation changes of two or more levels over a single hexside is 
+considered steep terrain. Foot movement up a steep terrain hex 
+carries a +2AP movement penalty. Vehicles may not move up a 
+steep terrain hex side 
+ .
+Ex: Figure 20. The Pioneers may move from F to G or H for 
+3APs (1AP for open movement, +2 for moving up steep terrain). 
+11.2 Higher Elevatio n Bonuses
+Units on a higher level attacked by units from a lower level receive a 
++1DM. Units at a higher level firing at units on a lower lever receive a 
++1FP modifier.
+11.3 Elevation and Line of Sight (LOS)
+A unit has LOS to a higher level target hex if there are no obstacles of 
+equal or greater level than the target hex between the two. A unit has 
+LOS to a lower level target hex if there are no obstacles of equal or 
+greater level than the firing unit hex between the two.
+2APs
+2APs
+Figure 20
+J
+K
+I
+Figure 21
+Figure 22
+Figure 23
+Figure 24
+
+Mortars
+12.0 Mortar Units
+Mortar units represent teams of 2-6 men that fire explosive shells 
+directly or indirectly. When a mortar can see its target, it fires directly. 	
+Some mortars can fire indirectly over obstacles at targets not in the 
+mortar’s LOS. These mortars have an AP Indirect Fire Cost marked 
+on the counter in parentheses. To fire indirectly, the mortar unit must 
+use a spotting 
+hex. This is any 
+hex with a clear 
+LOS to and within 
+2 hexes of the 
+mortar that is not 
+enemy occupied. 
+The mortar unit 
+has LOS from the 
+spotting hex for all 
+purposes. 
+Ex: Figure 25. The mortar 
+can use any of the highlighted 
+hexes as spotting hexes, even 
+those outside of its arc of fire. The 
+mortar’s target must be within its 
+arc of fire and in a spotting hex’s 
+LOS. 
+ Designer’s Note: Mortar 
+units sent spotter teams out who 
+directed the fire for the mortars. 
+These teams are simulated in the 
+game by the spotting hex. The 
+proximity between the spotting hex 
+and the mortar team is necessary, 
+since the spotters had to signal or 
+call instructions to the mortar team. 
+Very few platoon and company 
+mortars had radios at this time. 
+Some firefights may alter this rule 
+for larger mortars, since some company level mortars ran telephone 
+wires or had radio contact.
+ Mortars may fire from woods and building hexes. (Mortars were 
+often set up in yards, alleyways, or small woodland clearings.)
+ Mortars may not fire at targets that are closer than their minimum 
+range and must fire at targets in their arc of fire. 
+Mortars may conduct close combat, but may not fire short range 
+if their minimum range is 2 or more. 
+Attack elevation bonuses for mortars are determined by the height 
+of the spotting hex when using indirect fire. 
+12.1 Mortar and Artillery Fire Resolution
+Mortar and artillery units have a high explosive symbol 
+ next to their 
+firepower which denotes that their attacks are resolved against a 
+target's flank DR (including hidden units). Target units still receive the 
+benefit of all terrain & fortification DMs (exception - 12.2 Air Bursts).
+12.2 Mortar and Artillery Air Bursts
+Units with red colored flank defense ratings that are in a heavy woods 
+hex do not receive the heavy woods’ +2DM when subjected to high 
+explosive 
+ mortar or artillery fire. 
+ Designer’s Note: Usually artillery exploded upon impact with the 
+ground. But when artillery shells hit dense tree cover, the shells would 
+burst in the air sending shell and tree fragments raining down upon 
+units on the ground and in fox holes. This effect was devastating. 
+12.3 Off-Board Artillery (OBA)
+Off-board artillery is represented by weapon 
+cards and each firefight states if any are 
+available. OBA has a 1 round delay. A player 
+secretly writes down a target hex during the 
+current pre-round target sequence and resolves 
+that artillery strike during the next pre-round 
+resolution sequence. The mechanics for 
+resolving off-board artillery are exactly like on-
+board mortar fire, except that off-board attacks 
+are resolved against multiple hexes, usually 
+the target hex and the 6 hexes surrounding 
+it. (The affected hexes are marked on each 
+weapon card.) A separate attack is resolved against each of these 
+7 hexes. Of course, if there are multiple units in a hex, the off-board 
+fire is resolved separately for each unit. (We recommend that players 
+download the free artillery planning maps from www.Academy-Games.
+com.)
+Off-board artillery spotters are specified in a firefight’s setup rules. 
+A spotter for OBA only needs to have LOS when the hexes are 
+targeted, not when the OBA is resolved. OBA spotters may be hidden 
+and are not revealed when spotting. 
+Elevation attack bonuses do not apply to OBA and their spotters.
+Designer’s Note: Artillery fire was usually shot from kilometers 
+away at pre-registered targets and was either called in by radio, field 
+telephone, or pre-arranged signals such as flares. The pre-registered 
+targets were marked on maps (or more likely, tissue overlays placed 
+over the map) and were usually easily identifiable terrain features 
+such as crossroads, developed areas, or high ground. The Soviets 
+usually had indirect artillery support only when defending or attacking 
+a fixed front line. On the move, any field guns in a Soviet force fired 
+only over open sights providing direct heavy artillery fire. The German 
+Army could call in fire on the move using reference points on a map 
+and call for the fire by radio from a command tank or APC.
+13.0 Smoke
+Smoke is used to create a screen to cover a unit’s 
+position and movement. When smoke is fired, a +2DM 
+smoke counter is placed in the target hex. LOS and 
+fire attacks may originate and end in a +2DM smoke 
+hex, but may not pass through it. Units receiving fire 
+originating from or ending in a +2DM smoke hex 
+receive a +2DM. 
+Ex: A targeted unit in a +2DM smoke hex adds +2DM to its DR. 
+Ex: A unit firing out of a +2DM smoke hex adds +2DM to its 
+target’s DR.
++2DM Smoke negates open terrain bonus movement 
+ 
+ for that 
+hex (14.1). 
+At the beginning of every new round, all +2DM smoke counters 
+are flipped to their +1DM side and all +1DM smoke counters are 
+removed from the map. 
++1DM smoke counters simulate smoke that has 
+dissipated. These counters partially obscure LOS 
+passing through the smoke, but do not block LOS. 
+Units may see and fire through a +1DM smoke hex. 
+Units receive +1DM to all fire originating, ending, or 
+passing thru the +1DM smoke hex.
+Smoke effects are cumulative. Two +1DM smoke counters in a 
+hex act as a +2DM smoke screen and block all LOS through the hex. 
+Two +2DM counters add +4DM for the hex, and so on. LOS passing 
+through two hexes, each with a +1DM smoke counter, is blocked past 
+the second hex. 
+Each DM worth of smoke acts as a L1 obstacle. 
+Ex: A +2DM smoke counter acts as a L2 obstacle, a +1DM 
+counter acts as a L1 obstacle. 
+Smoke never damages units.
+13.1 Unit Smoke Capability
+Mortars that are 8cm (80mm) or larger, all off-board artillery, and 
+Pioneers may fire smoke unless disallowed by the firefight. Other 
+units may not fire smoke unless permitted by the firefight. Tanks 
+and guns that can fire smoke rounds may target hexes within the 
+same range as their normal attacks, including long range. Engineer 
+units may only place smoke counters in their own hex or 1 hex away 
+(9.1.2). 
+Smoke automatically hits the hex at which it is aimed. Off-board 
+artillery smoke, which must be marked down when targeting a hex, 
+affects the same target hexes like a normal attack. 
+Unless otherwise specified, any smoke placed by units is +2DM.
+You are now ready to play Firefight 3.
+Section 4
+This section adds some special vehicle movement, transport and 
+combat rules. 
+14.0 Vehicle Movement
+Vehicle Movement rules are identical to the Foot Movement rules 
+covered in section 1. Below are additional rules that pertain only to 
+vehicles. Vehicles are either tracked units (such as tanks) or wheeled 
+units (such as trucks and cars). Tracked units have a blue movement 
+cost and wheeled units have a green movement cost in the top right 
+corner of their counters. 
+14.1 Bonus Movement
+Some vehicles receive bonus moves in certain terrains. These 
+potential bonus moves are represented on a counter by track 
+ or by 
+wheel 
+ symbols below the movement cost. 
+Fire. Directly 
+or Indirectly
+Flank 
+Firepower 
+(FP)
+HE Symbol
+Front
+10,5cm Howitzer 18
+Figure 25
+Mortar 
+Spotting 
+Hexes
+
+Vehicles
+A unit with a bonus move symbol(s) on its counter, that pays to move 
+into terrain that lists one of these symbols, may take one free bonus 
+move for every symbol on its counter. The bonus move(s) must be 
+taken into terrain that allows this type of bonus move. 
+Ex: The truck shown to the right has a green 
+movement cost, so it is classified as “Wheeled Vehicle” 
+on the Movement Table. The truck also has two 
+ 
+bonus move symbols. The Movement Table shows that 
+wheeled vehicles get bonus moves on roads. If this 
+truck pays to move from one road hex to another for 
+1AP, it may move up to two additional road hexes at not 
+additional cost. 
+Ex: The Soviet T-34a tank shown to the right has 
+two 
+ symbols. Its movement cost is blue, so it is 
+classified as a “Tracked Vehicle”. Under the Tracked 
+Movement column; open terrain and roads list a bonus 
+move per 
+. If the tank pays to move into any of 
+these terrains, it may move an additional two of any 
+combination of these terrain hexes for free. 
+For example, the T-34 could pay to move into 
+an open hex for 1AP and then take free bonus 
+moves into an open hex and then a road hex.
+Ex: Figure 26. German Turn: The PzIIIe 
+moves along the white arrow path paying 1AP 
+to move into the first open hex. It then bonus 
+moves into the next open hex. Only after the 
+bonus move does the German’s turn end. 
+Next German Turn: The Panzer moves into 
+the heavy woods hex for a total of 3APs (1AP 
+movement cost, plus 2APs heavy woods 
+movement penalty). Woods do not allow the 
+tank a bonus move and he ends his turn. 
+Ex: Figure 26. German Turn: The 
+PzIIIe moves along the yellow arrow path 
+paying 1AP to move into the open hex. The 
+German’s turn ends, since woods do not 
+allow bonus moves. 
+Next German Turn: The Panzer moves into 
+the heavy woods for 3APs. His turn ends and 
+so on. 
+A unit’s movement action includes all 
+bonus movements. An entire multiple hex 
+movement action must be completed before a player’s turn ends. 
+So in each of the examples above, the opponent may not take his 
+turn until the paid and bonus moves are fully completed. 
+Designer’s Note: A unit’s movement cost takes into account the 
+time it took to give orders, study maps, set for sighting, and so on. 
+The unit’s movement allowance is an abstraction of these processes. 
+Even though a truck full of men could reach 100 kph, seldom did it 
+travel so fast over bumpy or muddy roads.
+14.2 Roads 
+Roads negate hex restrictions and movement costs of terrain that 
+covers the center of the hex. So a wheeled vehicle, which is usually 
+restricted from entering a woods hex, can follow a road into woods 
+paying the road movement cost only. Units must follow the roads 
+from hex to hex to gain the road movement advantage.
+Roads do not affect the DM of the hex. 
+Bridges function as roads over bodies of water. 
+Ex: Figure 26. The PzIIIe moves from the 
+woods hex onto the road hex, paying another 
+3APs. Only when he is on the first road hex 
+and moves to the next road hex is he able to 
+take advantage of the road movement through 
+woods.
+Ex: Figure 27. The T-34 tank with two 
+ 
+bonus symbols can move a total of 3 open 
+hexes. The T-34 moves 3 open hexes up a hill. 
+The total cost is 3APs (One additional 1AP for 
+each uphill level traversed). The three hex move 
+counts as one action and the opponent cannot 
+react until the tank has reached the top of the 
+hill. 
+Road Congestion - Wheeled vehicles receive no 
+ bonus 
+moves when entering a road hex that already contains other vehicles. 
+14.3 Enemy Occupied Hexes 
+Vehicles may move into and through hexes occupied by both friendly 
+and enemy units. If vehicles move thru a hex without stopping, they 
+cannot be engaged in CC.
+14.4 Reverse Movement 
+A unit may move backwards into any of its flank hexes for a +1AP 
+movement penalty cost, which is added to the normal movement cost 
+of the terrain. 
+Movement bonuses do not apply when moving in reverse. 
+14.5 Vehicle Immobilization
+Vehicles can be immobilized while moving over certain 
+terrain such as stone buildings or marsh. After moving 
+into terrain whose movement cost is followed by an “!” 
+on the Vehicle Movement Table, the vehicle must check 
+for immobilization. The player must roll 2D6 and score 
+a 6 or higher to prevent his unit from being immobilized. 
+He may modify this dice roll with CAPs.
+Immobilized vehicles may not pivot, but turreted vehicles may 
+still fire outside of their arc of fire (15.4). 
+Towing - Immobilized or stunned wheeled vehicles may be towed by 
+wheeled or tracked vehicles. Tracked vehicles may be towed only by 
+other tracked vehicles and receive no bonus moves. 
+Vehicles that were immobilized due to terrain and are towed out 
+of the immobilizing terrain may move again. A vehicle immobilized by 
+a hit marker always remains immobilized, but may still be towed. 
+15.0 Armored Defense Rating and Firepower
+Until now we have only considered unarmored units such as infantry 
+and various support teams. These unarmored units have front and 
+flank DRs marked in red on their counters. These units usually fire 
+bullets or high explosive ammunitions, marked by red FP values on 
+their counters.
+An armored unit’s front and flank DR is marked in blue on its counter. 
+Similarly, certain units have munitions such as armor-piercing rounds. 
+The armor-piercing FP is marked in blue on their counters. Blue FP 
+can only be fired at units with blue defense ratings.
+ Designer’s Note: When developing the tank FP values and DRs, 
+round penetration and armor thickness were not the only factors 
+taken into account. These would have generated distorted values. 
+Targeting equipment, crew training, tank maintenance, rate of fire, 
+armor slope, relative armor thickness, round “stick” factors, steel 
+quality, radio access, movement speed, and more were considered 
+Vehicle Movement Costs
+ Additional AP Cost to Move into a Hex
+Wheeled Vehicle
+Tracked Vehicle
+Open Terrain
+Road / Bridge
+Buildings-Stone
++3! AP 
+Buildings-Wood
+Plowed Field
+Road Block
++1D6 AP
+Wall
+Water
+Woods - Heavy
+Woods - Light
+Move Backwards
+Move Uphill
+Movement AP Costs are cumulative.
+! = Check for immobilization: 2D6 ≥ 6 is safe.
+ = Move a bonus open, road or plowed hex.
+ = Move an extra road hex.
+ 
+ = No bonus movement allowed into this hex. 
+NA = Not accessible.
+Figure 26
+1APs
+Figure 27
+Move 1
+Move 2
+Firepower (FP)
+MG & HE (Red)
+Armor-Piercing (Blue)
+AP Cost to Fire. 
+Circle means the 
+unit is turreted. 
+AP Cost to Move
+Tracked 
+Movement Bonus
+Flank Defense
+Front Defense
+
+Vehicles & Transport
+for the system to yield historical combat results. On paper, the Soviet 
+T-34 outclassed any German tank available in mid-1941. However a 
+T-34 tank crew was ill-trained, often the tank commander had a very 
+limited field of vision, many tanks had very few armor-piercing rounds 
+on board, and often the transmissions broke down within days of 
+rolling off the assembly line with no spare parts available. These and 
+other factors gave the Germans their 7:1 tank kill ratio.
+ The ranges on the counters represent the distances at which the 
+units historically shot, not their true maximum ranges. For example, 
+the Panzer IIIe had a fire range of over 1800m, but knocked out over 
+70% of its victims at less than 500m!
+15.1 Multiple Target Types
+A unit firing at a hex with multiple targets that have different DR colors 
+fires against each target with its FP of the corresponding color. 
+ Ex: The T-34 tank, shown below, fires at a hex containing a tank 
+and an infantry units. Against the tank, the T-34 uses its blue 7FP. 
+Against the infantry unit, it uses its red 5FP. 
+15.2 Vehicle Hits
+Hits against vehicles are resolved in the same manner as hits against 
+foot units (7.4 and 7.5). 
+Destroyed
+Destroyed (x1): 
+• Immediately remove 
+the affected unit 
+from the map.
+Gun 
+Damaged
+Gun Damaged (x2): 
+• Either the Blue 
+or Red FP ability 
+is damaged and 
+cannot be used 
+to attack.
+Immobilized
+Immobilized (x5): 
+• Unit may not move 
+or pivot.
+• Front DR decrease 
+by 1, flank DR 
+increase by 1.
+Light 
+Damage
+Light Damage (x4): 
+• Unit mechanical 
+stats are not 
+affected, but the 
+crew is rattled. 
+-4
+R>9 
++0
+Panicked
+Panicked (x1): 
+• Unit may not fire.
+• Front DR 
+decreases by 4.
+• 9 needed to rally. 
+R>9 
+Stunned
+Stunned (x2): 
+• Unit may not 
+move, fire or take 
+any action other 
+than rally.
+• 9 needed to rally. 
+-3
++1 R>8 
+Suppressed
+Suppressed (x5): 
+• Costs +1AP to fire. 
+• FP decreases by 
+2 for red and 3 for 
+blue.
+• 8 needed to rally. 
+Back of Hit 
+Markers 
+• All vehicle hit 
+markers have the 
+same back art.
+ = The ability is lost. Black means all, blue or red is gun color specific. 
+Designer’s Note: Some vehicle hit markers cannot be rallied because 
+most of the damage to them was of a physical nature that could not 
+be readily repaired in the heat of battle. 
+15.3 Range Effects
+Combat ranges for vehicles and their effect on FP are identical to that 
+of foot units covered in section 7.7.
+15.4 Turreted Vehicles
+Some vehicles, such as tanks, have turreted guns 
+which are designated with a white circle under their 
+AP cost to fire. A turreted gun can rotate 360 degrees 
+without the vehicle having to change its facing. Thus, 
+vehicles with turreted guns are the only units that can 
+fire at targets outside their arcs of fire, which they may 
+do for an additional 1AP/CAP cost to fire. The tank’s facing does 
+not change when firing outside of its arc and does not constitute an 
+additional action. Turreted vehicles firing outside of their arc with an 
+Opportunity Action or a Command Action Card do not have to pay an 
+additional 1AP/CAP.
+ Designer’s Note: Most tanks kept their turret firing action within 
+the front 120 degree arc rotational. If a tank was threatened by an 
+enemy, the crew would try to face the threat, thus offering the smallest 
+target silhouette with the highest armored area while protecting the 
+treads of the tank. Often tactical logic was overcome by the sheer 
+psychological stress and panic of taking flank shots. 
+ Self-propelled Guns (SPGs) were field guns 
+mounted onto a tank chassis. Having no turret, they 
+had limited horizontal tracking ability and had to pivot 
+the entire tank in order to follow a target. This made 
+moving target acquisitions more difficult than for tanks. 
+This combat occurrence is designed into the game mechanics, 
+dispensing complicated turret rules. The rotation speed, crew training 
+and reaction speed, command visibility, and targeting capabilities are 
+calculated into the “AP Cost to Fire” for each unit type. The effect is 
+that Self-propelled Guns have to expend a separate pivoting action in 
+order to fire outside of their arcs. 
+15.5 Open Topped Vehicles 
+Open topped vehicles have a white box with red border 
+around their blue flank DR. This blue DR acts as a 
+red DR when attacked by artillery, mortar fire, 
+ high 
+explosive weapon cards or CC attacks by foot units. 
+These attack open topped vehicles with their red FP. 
+Ex: The PzJg 35R has a red 13DR if attacked by a 
+Soviet Rifle unit in CC. (Tank hunter units may still attack with blue FP.)
+Designer’s Note: Many self-propelled guns had open tops and 
+rear sections, which made them very vulnerable to hand grenades, 
+artillery shrapnel, and other incoming flank fire.
+15.6 Vehicles as Cover
+Vehicles offer +1DM cover to all friendly non-transported unburdened 
+foot units in the same hex. The foot units do not have to move 
+cautiously when group moving with these vehicles.
+Ex: A Rifle unit and a tank group move towards an enemy 
+position. The Rifle unit is not being transported, so it is placed under 
+the tank as they move forward and receives a +1DM from the tank.
+16.0 Trucks and Wagons 
+Trucks and wagons represent vehicles 
+designed to move other units and 
+supplies over road systems. Trucks and 
+wagons utilize green movement making 
+them good for roads. 
+Trucks have a -2FP and a range of 
+0, so they may attempt feeble CC attacks. Wagons may never attack. 
+Trucks and wagons may not claim victory hexes.
+Destroyed truck and wagon counters do not adjust the CAP 
+track, but do count for VP scoring.
+16.1 Armored Personnel Carriers (APC)
+APC units represent vehicles designed to transport and 
+protect other units. All units transported by an APC with 
+a +2 red shield +2 receive a +2DM. Towed guns and 
+mortar units also receive this bonus, since the gun crew 
+rides in the APC. All other transportation rules apply.
+Incoming fire is resolved simultaneously against 
+the APC and any units being transported. Attacks are still rolled 
+individually for each unit. If the APC is destroyed, transported units 
+still receive the APC’s +2DM for that attack. 
+17.0 Loading, Transporting, and Unloading Units
+All vehicles may transport either one foot unit or pull one gun. 
+(Exception: Vehicles may transport both a German Rifle and LMG, 
+since these units historically comprised one squad.) 
+A vehicle must be in the same hex as a unit in order for it to 
+load. The loading unit then pays its open terrain movement cost to 
+load onto or limber to the truck with a group action. The unit counter is 
+placed on top of the vehicle counter, facing the same direction. 
+Transported units receive no vehicle cover from the vehicle 
+transporting them (exception - 16.1 APCs). A vehicle and its 
+transported unit take group movement actions to move and pay the 
+vehicle's movement cost only. A vehicle does not suffer a movement 
+penalty for moving while loaded and all movement bonuses apply.
+A unit being transported may not fire.
+To unload, a transported unit must pay its open terrain movement 
+cost with a group action. The unloaded unit is now placed under the 
+vehicle facing any direction. 
+Ex: Figure 28. German Turn: A 251 APC transporting (towing) a 
+PaK38 gun group moves three open hexes for 1AP. 
+Next German Turn: The 251 moves forward only one hex for 1AP. 
+Next German Turn: The 251 unloads the PaK38 for 4APs. 
+Figure 28
+4 APs to 
+unload
+1 AP 
+1 AP 
+1 AP to move + 2 
+bonus 
+ moves
+
+Fortifications
+Next German Turn: The 251 moves on to the west after which both 
+the gun and the 251 are marked as spent. 
+New Ex: Figure 28. The 251 APC towed the PaK38 gun in the 
+previous round, but ran out of APs before it could unload the gun. 
+This round the German begins by unloading the PaK38 for 4CAPs. 
+The PaK38 and the 251 APC remain fresh since they unloaded with a 
+command action. On his next turn, the German activates the APC and 
+begins to take actions with it. The PaK38 remains 
+fresh and may still be activated later in the round.
+Ex: Figure 29. A German 251 APC transporting 
+a Rifle moves next to a Soviet Rifle for 1AP. 
+Next German Turn: The APC fires point blank for 
+2APs, hitting the Soviet. 
+Next German Turn: The Rifle unloads for 1AP. 
+Next German Turn: For 2APs, the Germans group 
+fire (9.1.2) at the Soviet with a 7AV (3FP for the 251 
+APC + 1FP for the Rifle group fire + 3FP for short 
+range bonus (7.7.2)). 
+17.1 Firing at Transported Units 
+Incoming fire is resolved simultaneously against a vehicle and the 
+flank DRs of any transported units. Attacks are rolled individually for 
+each unit. Both the vehicle and the transported unit receive the hex’s 
+terrain modifier. If a transporting vehicle is destroyed, any surviving 
+unit is placed on the map facing the same way the vehicle was facing 
+when destroyed. Transported units do not receive extra damage if the 
+vehicle is destroyed. 
+Ex: Figure 30. German Turn: 
+The German 251/1 APC, 
+transporting a Rifle unit, group 
+moves from the south. The units 
+have 6APs left in their shared 
+activation (9.0). 
+Soviet Turn: The Soviet 45mm 
+ATG activates and pays 3APs 
+to simultaneously attack the 
+APC and Rifle. The ATG has 
+a blue 6FP vs the APCs blue 
+13DV and so needs a 7 to hit 
+(13DV-6FP) and an 11 to kill. 
+It rolls an 11 and destroys the 
+APC. The German player places 
+the destroyed unit counter on its 
+CAP track. Next the 45mm ATG resolves its attack against the Rifle. 
+The ATG has a 3FP vs the Rifle’s 13DV (11 flank DR + 2DM from the 
+APC) and misses. 
+German Turn: Figure 31. The 
+Rifle moves into the wooden 
+building for 2APs.
+Soviet Turn: The ATG fires at 
+the PzIIIh for 3APs with a blue 
+7FP vs the tank’s 17DV and 
+misses. It has 1AP left on its AP 
+track.
+German Turn: The Rifle moves 
+into the hex occupied by the ATG 
+using cautious movement for 
+2APs.
+Soviet Turn: The ATG could fire 
+at the German infantry in CC, 
+but its red FP is surrounded by 
+a white box, which denotes its -2FP CC penalty. The adjacent Soviet 
+SMG could fire into the hex, but it might hit the ATG as well. So the 
+Soviet player decides to spend 
+the ATG and activate the SMG, 
+counting its track marker to 7APs. 
+The SMG moves cautiously into 
+the CC hex for 2APs. 
+German Turn: Figure 32. The 
+German can now CC one 
+(7.7.3) of the two Soviet units 
+and decides to fire at the SMG, 
+since it poses a greater threat. 
+He spends his last 2APs, plus 
+1CAP. The German has a red 
+6FP vs the SMG’s 11 flank DV. 
+He needs ≥ 5 to hit and ≥ 9 to 
+kill. He rolls a 6 and the Soviet 
+draws a suppression hit marker. Usually the hit result would be kept 
+secret and the marker placed face down.
+Soviet Turn: The SMG cannot rally when it is in the same hex as an 
+enemy unit, so it decides to fire at the German infantry with a red 6FP 
+(4FP +4 close combat bonus -2 suppression penalty) vs the German’s 
+11DV. The Soviet needs ≥ 5 to hit and ≥ 9 to kill. He will modify his 
+roll with 1CAP and now needs ≥ 4 to hit and ≥ 8 to kill. He scores a 9 
+and the German Rifle is removed from the game and is placed on the 
+German player’s CAP track. 
+You are now ready to play Firefight 4.
+Section 5
+This section introduces Fortifications and Obstacles. 
+18.0 Fortifications and Obstacles
+Fortifications include trenches, bunkers and hasty defenses. 
+Obstacles include barbed wire, road blocks, and land mines. All are 
+represented by counters placed on the map. No more than 1 of each 
+type of fortification or obstacle may be in a hex, except for hasty 
+defenses.
+Fortifications and obstacles do not block LOS.
+18.1 Fortifications - Trenches, Bunkers and Hasty 	
+ 	
+ Defenses
+Firefights begin with trench and bunker counters on the map. They 
+may not be built during the course of a game unless specified by the 
+firefight. 
+Units occupying a fortification are placed under the counter and 
+receive the cumulative benefit of the terrain DM and the fortification 
+DM +? . The fortification DM is located in the bottom right corner of 
+the fortification counter. 
+18.1.1 Trenches may be occupied by unburdened foot 
+units and all mortars, but not vehicles or guns. Wheeled 
+vehicles are not allowed 
+ into trench hexes. A trench 
+negates open terrain bonus movement 
+Units in trenches may face and fire in any direction 
+and receive a black +2DM from all directions. Black 
+DMs are effective against both blue and red FP attacks. 
+An unlimited number of units may be placed under a trench. 
+18.1.2 Bunkers may be occupied by unburdened foot 
+units, anti-tank guns, and field guns. Mortars may not 
+fire from inside of a bunker. Bunkers have a red facing, 
+so may not pivot during the game. Units in a bunker 
+face the same direction as the bunker. 
+Enemy units outside of a bunker’s arc of fire can 
+fire at units in the bunker, but units in the bunker cannot fire at targets 
+outside of the bunker’s arc of fire. An unlimited number of units may 
+be placed in a bunker. 
+Bunkers have black front and flank defense modifiers listed in 
+the shield symbols. These black DMs are effective against both blue 
+and red FP attacks. The smaller number represents the bunker’s flank 
+DM against fire originating from the bunker’s flank, artillery/mortar and 
+close combat attacks. 
+Ex: The Soviet Rifle unit receives a +5DM to its 
+front 12DR for a total 17DV against direct frontal fire. If 
+this Rifle were fired on from the bunker’s flank, it would 
+have a red 14DV (11DR + 3DM for the bunker’s flank 
+defense modifier). 
+18.1.3 Hasty Defense counters represent a hastily 
+fortified position which may be placed in any terrain 
+expect water. A hasty defense may be prepared by 
+any foot unit as an action by paying 7APs or by 
+playing an action card. Ex: Card 02 or 11. 
+A hasty defense counter is placed over the unit 
+that prepared it and the unit receives a black +1DM from all directions. 
+A hasty defense counter may only be occupied by the unit that 
+prepared it and is removed if that unit pivots, moves, or is destroyed. 
+Multiple hasty defenses may be prepared by multiple units in a 
+hex, but only one hasty defense may be placed on each individual unit. 
+Players may prepare as many hasty defenses as there are 
+counters available in the game. 
+18.2 Occupying and Exiting Trenches and Bunkers
+Units may occupy empty or friendly fortifications when moving into a 
+hex at no additional cost. In CC, fortifications benefit defending units only. 
+Units may exit a fortification at no additional cost if part of a movement 
+Figure 29
+Figure 30
+Figure 31
+Figure 32
+
+Hindrances
+18.4 Fortification and Obstacle Destruction
+Fortifications and obstacles with a red number in the bottom right 
+hand corner of their counters can be destroyed by mortar fire, artillery 
+fire, red tank and gun FP (no MG fire) or CC foot unit attacks. The DR 
+of a fortification or obstacle is modified by any terrain DM, including 
+woods, buildings and smoke. When a fortification or obstacle is hit, it 
+is removed from the game.
+Attacks are resolved simultaneously (but rolled individually) 
+against the target unit(s) and the fortification or obstacle. If a 
+fortification is destroyed, units inside of it still receive the fortification’s 
+DM for that turn’s attack.
+Units in fortifications defend with their flank defense against 
+flank, artillery/mortar, and CC attacks as normal. 
+A player may attack an empty fortification or obstacle, in an 
+attempt to destroy it.
+Ex: Soviet artillery with a red 6FP fires at 2 Rifle units in a bunker 
+with a 16DV and a black 3 flank DM. The artillery rolls a 10 for a total 
+16AV and the bunker counter is removed. The Soviet rolls a 13AV 
+against the first Rifle’s 14DV (11 flank DR +3DM from the bunker) and 
+misses. For the second Rifle unit, the Soviet rolls a 12AV and misses. 
+You are now ready to play Firefight 5.
+Section 6
+This section introduces special units and rules for playing with more 
+than 2 players. 
+19.0 Pioneers
+Pioneers were specially trained units outfitted to 
+assault enemy positions. Pioneers behave exactly like 
+other infantry units, except for the following abilities: 
+•	 Pioneers reveal hidden mines when moved on, but 
+do not trigger an attack from them.
+•	 Pioneers can fire +2DM smoke up to 1 hex distance for 2APs.
+•	 Pioneers have flamethrower capabilities with a range of 1 (19.1). 
+19.1 Flamethrowers 
+Certain tanks and pioneers have flamethrower 
+capabilities and are marked with a flame symbol 
+. 
+These units may choose to fire at their normal FP 
+capabilities and ranges, or they can choose to use 
+their flamethrower. All flamethrowers fire with a red or 
+blue 2FP and have a maximum range of 1 (no long 
+range fire is allowed). Short range and CC FP modifiers 
+apply. Flamethrowers always fire against a defender’s 
+flank DR and all defense modifiers are ignored. 
+Hull mounted 
+ flamethrowers fire in the front arc 
+only, turret mounted 
+ flamethrowers can fire outside 
+of their arc for an additional 1AP. 
+20.0 Three to Four Player Games
+Some firefights are designed for more than 2 players. Each player 
+has his own track sheet and force to command. Players decide at 
+the beginning of the game if turn order alternates between sides (Ex: 
+German 1, then Soviet 1, then German 2, then Soviet 2) or if all players 
+from one side simultaneously take their turns (Ex: German 1 and 2, 
+then Soviet 1 and 2). 
+Players roll for initiative individually at the beginning of a round 
+with the high roller or high roller side taking the first action(s). Players 
+may also decide to take turn order from highest to lowest initiative roll. 
+When all but 1 player pass consecutively, the round ends.
+Ex: Soviet 1 passes, German 1 takes an action, Soviet 2 passes, 
+German 2 passes. If Soviet 1 now passes, the round is over.
+Cards may not be traded between allied players.
+Victory conditions are awarded to the player that moves onto a 
+victory hex first, etc. Players of a side may decide to play the game 
+for an individual win or as a group win.
+20.1 Two Players Playing a Three or Four Player Game 
+When two players play a firefight designed for four, they may 
+consolidate each side's forces into one. This includes consolidating all 
+CAP's, minus one, onto one track sheet and drawing and combining 
+the cards for both factions into one hand. The player controls all units 
+of both forces and may activate the units in any order that he wishes. 
+Ex: A player controls two German forces. The first force receives 
+7CAPs and the second 6CAPs. The single player may consolidate 
+12 CAPs on a single track sheet and use them as he wishes. He also 
+draws all cards for both forces, using them as he wishes. 
+If three players are playing a four player game, we do not 
+recommend that any of the forces be consolidated.
+action out of the hex. Units may exit a fortification without leaving the 
+hex by paying their normal movement cost for that hex. A unit in a hex 
+that wishes to reenter a fortification pays its normal movement cost 
+Ex: A LMG in a bunker on an open hex is being outflanked. As its 
+action it pays 1AP to exit the bunker and may then face any direction.
+18.3 Obstacles - Barbed Wire, Road Blocks and Mines
+18.3.1 Barbed Wire counters affect units that want 
+to move into the hex from any direction. Wheeled 
+vehicles may not enter 
+ a wire hex. Wire negates 
+open terrain bonus movement 
+Foot units pay a random extra +1D6 movement 
+penalty 
++
+ for moving into a wire hex. To move 
+into a wire hex, foot units:
+1. Announce their intent to move into the wire hex. 
+2. Roll 1D6 to determine a movement penalty cost. 
+3. Add this movement penalty to the normal terrain movement cost for 
+that hex.
+If after rolling for the penalty cost an activated unit does not have 
+enough APs/CAPs to move into the wire hex or if the player does not 
+wish to pay the additional APs/CAPs to move into the hex, the unit 
+loses all of its remaining APs. This attempt counts as an action. The 
+unit may still take further CAP or card actions on later turns. 
+Ex: A German Rifle unit occupies a clear hex with a wire counter 
+on it. A Soviet Rifle unit wishes to move into the German hex in order 
+to initiate close combat. The Soviet has 4APs and 2CAPs left. He 
+states his intent, rolls 1D6 for a 4 and so must pay 5APs total to move 
+into the wire hex with the German (the 4 rolled + 1AP open terrain 
+movement cost). The Soviet may either pay 4APs + 1CAP to move in 
+or not move in and lose his remaining 4APs.
+Wire counters are automatically destroyed and removed when a 
+tracked unit moves into the hex or when fired upon (18.4).
+Wire may be placed only during setup, unless specified by the 
+firefight. 
+Artillery and mortar fire is resolved simultaneously against the 
+wire and any other units in the hex. 
+18.3.2 Road Blocks affect vehicles that want to 
+move into the hex from any direction. Road blocks 
+do not affect foot units. Wheeled green units may not 
+enter 
+ a road block hex. Tracked vehicles that wish 
+to move into a road block hex must: 
+1. Announce their intent to move into the road block 
+hex.
+2. Roll 1D6 to determine a movement penalty cost.
+3. Add the movement penalty to the normal terrain movement cost.
+If after rolling for the penalty cost, an activated unit does not 
+have enough APs/CAPs to move into the road block hex or if the 
+player does not wish to pay the additional APs/CAPs to move into the 
+hex, the unit loses all of its remaining APs and is marked as spent. 
+This attempt counts as an action. This unit is not restricted from 
+taking CAP or card actions later in the round. 
+Road blocks may be placed only during setup, unless specified 
+by the firefight. 
+Road blocks do not block LOS and add +1DM for all units.
+18.3.3 Land Mines may be placed on any hex, 
+openly or hidden, as specified by the firefight. If a unit 
+moves onto a hidden mine, a mine counter is placed 
+in that hex. Mines attack enemy or friendly units 
+immediately after the units move into a mined hex or 
+take any action other than firing, rallying, or spotting 
+for artillery. Units moving out of a mine hex are not 
+affected by the mines. If a new unit moves into a mined hex with an 
+existing unit in it, only the new unit is affected by the mine attack. 
+- Mines included with this game have a black attack number, thus 	
+ explode against all foot and vehicle units. 
+When an enemy unit moves onto a mine, the mine owner rolls 2D6, 
+which may be modified with CAPs. On a 2D6 result equal to or 
+greater than eight 
+_ 8
+>
+, the unit is hit. 
+Terrain and fortification DMs do not affect mine attacks.
+Ex: A player decides to modify his dice roll with 2CAPs. He now 
+needs to roll a 6 or higher to hit. 
+
+Solitaire Play
+20.2 Solitaire Play
+The following rules are a guideline on how a solo player plays 
+opposing (AI - Artificial Intelligence) units. The solo player should 
+always play the attacking force. The solo player still takes actions for 
+the opposition forces, but is constrained by the AI doctrines described 
+below. When solitaire firefights are played with two players, normal 
+rules supersede these Solitaire Rules. 
+Initiative - At the beginning of each round roll 1D6. The opposition 
+wins initiative on 1, 2, 3, or 4, the player wins on 5 or 6. 
+Activation 
+An AI unit will only activate if it has an enemy unit in its LOS. 
+Movement Doctrine 
+- AI units are more likely to pull back towards their game objectives 
+than to advance away from them. 
+- AI units will not attempt to move into an enemy occupied hex, unless 
+it is one of their objective hexes. If the solo player thinks that the AI 
+units need to attack a hex anyway, he rolls 1D6. Only if a “1, 2, 3, or 
+4” is rolled will the AI unit complete the move. 
+Pivoting - An AI unit will pivot towards a threat that is outside of its 
+arc of fire (AoF) in the following order of importance:
+- If the enemy unit is in an adjacent hex. 
+- If fired upon and there is no closer threat within LOS. 
+- If a threat is in range that would require a 9 or less to hit and there is 
+no closer threat in LOS. 
+Fire Doctrine 
+- AI units will only fire at enemy units that are in normal range and that 
+can be hit on an unmodified 2D6 roll of 10 or less. 
+- AI units will fire at the enemy unit that is the easiest to hit.
+CAP Usage - Give the AI opposition 20% more CAPs than listed 
+in the firefight setup, rounding up. The preferred use of CAPs is to 
+modify an AI unit’s attack value (AV). The number of CAPs spent to 
+modify an AI unit’s AV is determined by the result of a 1D6 roll.
+- On a 1 or 2, the AI unit’s attack is modified by 2 CAPs. 
+- On a 3 or 4, the AI unit’s attack is modified by 1 CAP. 
+- On a 5 or 6, the AI unit does not modify the attack dice roll. 
+The AI will use as many CAPs as it has left in order to fulfill the 
+requirements above. 
+Ex: An AI Soviet Rifle has a clear LOS to a normal moving 
+German Rifle. The Soviet AI Rifle will fire because it only needs an 
+8 to hit (3AV vs a 12DR - 1 normal move penalty). The Soviet AI has 
+1CAP left on its CAPs track and so rolls a 1D6 to see if the AI Rifle’s 
+attack will be modified with CAPs. The AI rolls a 1 for its attack dice roll 
+modifier check and will modify the attack with its remaining 1CAP, since 
+that is all the remaining CAPs left. The AI now needs a 7 dice roll to hit 
+the German unit (3FP +1CAP = 4AV vs an 11DV). 
+AI Soviet units may fire into enemy hexes, even if that hex contains 
+other Soviet units.
+Augment APs with CAPs to Fire Again - 
+If an AI unit can hit a target on an unmodified 2D6 roll of 9 or less, it 
+will use up to one CAP, if needed, to augment its APs to fire again. 
+ Ex: An activated AI unit’s cost to fire is 4APs, but it has only 3APs 
+remaining. The AI will add 1 CAP in order to fire again. 
+ Ex: The activated AI unit’s cost to fire is 4APs, but it has only 2 
+APs remaining. It will not fire again. 
+Rallying - A hit AI unit will always rally before firing, unless an enemy 
+unit can be attacked and hit on an unmodified 2D6 roll of 8 or less. 
+Common Sense - Unforeseen situations may arise and the solo 
+player should react with the AI units in a way that is in the AI unit's 
+best interest. This means that some of the doctrines above may be 
+modified or broken in certain situations. When playing solitaire, it is 
+recommended that you use the Variable APs optional rule (3.0.1). 
+20.3 Hidden AI Units for Solitaire Play 
+For each hidden AI unit called for in a firefight, mark two hexes that 
+are likely hiding spots on the map with pennies. Place the hidden AI 
+unit counter in a cup, along with a dummy counter (any counter not 
+being used in the game). When a hidden AI unit position is activated 
+(as dictated by the firefight), the player pulls a counter randomly from 
+the cup to see if a AI unit is actually there. If the counter pulled is a 
+dummy counter, the spot was a decoy and the dummy counter and 
+penny are discarded and play continues. 
+Ex: Two AI units may be hidden at the beginning of a game. The 
+player chooses and marks 4 hexes with pennies and places the two 
+AI units and two dummy (misc.) counters into a cup. 
+Designer’s Notes: Modern day tactics employed by most of today’s 
+advanced armies find their roots in early WWII doctrine. The tactics 
+employed evolved (and sometimes slipped) throughout the conflicts 
+and wars that followed in Korea, Vietnam, Bosnia, Afghanistan, and 
+Iraq. I designed CoH to follow this evolution in tactics in a series of 
+games, the first of which is Awakening the Bear! Russia 1941-42. The 
+system is a fast and fluid playing board game that is easy to learn, but 
+tactically realistic for every unique time period portrayed. 
+In developing any new system, there is the temptation to add 
+more and more rules in an attempt to make the game more “realistic”. 
+Unfortunately, this often can have the opposite effect as the big 
+picture becomes lost in a forest of heavy detail. I wanted the system 
+to stress the flow of battle and quick reaction to adversities and 
+opportunities. It had to contain just the right level of abstraction so 
+more time could be spent fighting the opponent and exploring unique 
+tactics than fighting the rules. Staying true to these goals was quite 
+challenging as the developers constantly came up with new ideas. In 
+the end, we relied on a rule of thumb that required a proposed rule 
+to apply in more than 10% of relevant situations and add important 
+period flavor to be included in the game. We operated under the belief 
+that mountains of detail do not make a good game; a clean and easily 
+implemented core system does. 
+How we decided to portray command structure in the game is an 
+example of our efforts to make core game play elements as robust 
+and easy to use as possible. Command structure is the all important 
+force that keeps units together in the face of brutality. In CoH, the 
+probabilities of successful attacks were purposefully calculated to 
+make hits very difficult without CAP modifications. Often, Soviet 
+peasant units were handed rifles (if they were lucky) and pushed 
+towards a battle without training. They were very brave, but just did 
+not know what to do tactically when confronted by a German MG 
+nest. So in this case, they would not start a firefight with many CAPs. 
+This highlights the incredible importance a good command structure 
+played. Therefore, successful play is dependent on management of 
+CAPs. Carefully designed systems like these subtly affect game play 
+tactics and are the backbone of Conflict of Heroes.
+The CoH rules system has been finely tuned, but one cannot 
+foresee all possibilities in a game with so many variables. If there is 
+a disagreement in the rule interpretations, use common sense and 
+come to a friendly agreement on how to resolve the situation with the 
+other player. 
+The series will be expanded to cover other WWII theaters and 
+other conflicts such as Vietnam and Iraq. It will also include rules for 
+airplanes, boats, paratroopers, and much more. 
+So find some friends, set up a game, and have fun!
+Uwe Eickert 
+Special thanks to the following people who helped in the development 
+of the game. I appreciate the numerous ideas, hours of historical 
+research, and stimulating discussions.
+Game and firefight developments: Gunter Eickert, Dave Kimmel 
+Rules editing: Kai von der Aa, James Palmer, Jim Toland 
+Original cover artwork: Stephen Paschal (www.stephenpaschal.com) 
+Counter and card art: Pavlos Germidis Maps: Pat Ward
+Statistics: Andreas Büttenbender, Jon Pehrson
+Special thanks to the following people who helped during the development 
+of the game series: Grady Brecheisen, Jose Luis Vilar Benet, Łukasz 
+Biernat, Jacob Cassens, Josh Christensen, Steven Duke, William 
+Eastwood, Grant Eldridge, Steven Erikson, Mike Gladniuk, Dean 
+Halley, Michael Hekel, Kyle Knauman, Jesse LeBreton, Russell Marsh, 
+John McLintock, Stan Myszak, Wojciech Pawlus, Bruno Savaresse, 
+Brian Sturk, Kevan Sumner, Michael Vinarcik, Norbert Westenberg, 
+Thomas Witham
+Rolf Werner for his many hours of storytelling, for giving me his 
+wartime journal, and for the poem he wrote and lived through on the 
+last page. Rest in peace Rolf.
+To my father Ari Eickert for initiating my interest in history during our 
+long dinner table discussions. They no longer are as heated or as 
+long, since we can now prove (or disprove) each other’s points too 
+easily with the Internet! 
+The latest rules version, video rules, Q&A, additional free firefights, and 
+much more can be found online at www.Academy-Games.com
+Online forums for quick answers about Awakening the Bear: 
+www.boardgamegeek.com/boardgame/24800 or 
+https://www.facebook.com/groups/44778571393/
+
+Card Descriptions
+Take one free action of 
+any cost with any unit.
+Command Action
+One Free Action
+Command Action (x13) Card #02
+Any unit or group may execute any 
+one action at 0 cost. 
+Follow Me! (x3) Card #03
+Any unit or group may immediately 
+rally. Certain vehicle hit counters 
+have no rally option and thus may 
+not use this card. 
+Attempt to rally a unit 
+not in close combat. 
+Rally Up!
+One Rally Attempt
+Rally Up! (x3) Card #04
+Any unit or group may roll to attempt 
+to rally. Each attempt must be rolled 
+separately.
+Move one of your units 
+2 hexes over terrain 
+passable for this unit.
+Rapid Deployment
+Move 2 Hexes
+Rapid Deployment (x2) Card #05
+Any unit or group, including hidden 
+ones, may move up to 2 hexes 
+at no cost. May not be used on 
+immobilised, pinned, or stunned 
+units. Intervening mines affect the 
+moving unit. Unit may not move into 
+prohibited hexes.
+Mark any one enemy 
+unit as spent.
+Battlefield Confusion
+Mark as Spent
+Battlefield Confusion (x2) Card #06 
+Flip any one enemy unit to its spent 
+side. The affected unit may no longer 
+activate or use APs for the remainder 
+of the round. It may use CAPs and 
+cards. This card may not be played 
+on a group or off-board units, but 
+may be played on hidden units. 
+Add 1D6 to an 
+activated unit’s APs.
+Experienced Sergeant
++1D6 APs
+Experienced Sergeant (x2) Card #07
+An activated unit rolls 1D6 for 
+additional APs that are added to the 
+unit’s AP track. The AP total may 
+now be temporarily higher than the 
+number of APs the unit activated with. 
+Cost: 2 APs
+An activated unit may roll 
+1D6 and add its result to 
+the CAPs track for use this 
+Frontline Officer
++1D6 CAPs
+Frontline Officer (x2) Card #08
+Roll 1D6 for additional CAPs and add 
+them to the CAP track. These CAPs 
+are added one time only and may 
+temporarily push the CAP total over 
+the firefight’s starting CAP number. 
+Place a hasty defense counter 
+over any unit not engaged in 
+close combat.
+Seek Cover!
+Hasty Defense
+Seek Cover! (x2) Card #11
+A hasty defense counter(s) may 
+be placed on any fresh, activated 
+or spent unit or group (including 
+vehicles). Hasty Defense may not be 
+placed on a unit in CC. 
+Action Cards must be played during a player’s turn. Playing an action card constitutes an action. Cards paid for with APs must be played on the 
+activated unit or group that paid for it. Cards with no cost or those that are paid with CAPs only may be played on any unit. 
+Roll 1D6. Opponent loses 
+CAPs this round equal to the 
+die result: 
+1 =0 CAPs, 2 thru 3 =1 CAPs, 
+4 thru 5 =2 CAPs, 6 =3 CAPs.
+Sniper Fire
+CAP Loss
+Sniper Fire (x3) Card #13
+Opponent loses CAPs immediately for 
+this round only:
+Roll 1 = 0CAPs Roll 2-3 = 1CAP
+Roll 4-5 = 2CAPs Roll 6 = 3CAPs 
+Immobilize an opponent’s 
+vehicle for the rest of the 
+Bogged Down
+Immobilize Vehicle
+Bogged Down (x1) Card #20
+Immobilize any one fresh or spent 
+enemy vehicle. The immobilization 
+counter is removed at round’s end. 
+This Card may not be played on a 
+group.
+Cost: 1 AP/CAP
+Reveal all hidden enemy units 
+within 2 hexes and in the LOS 
+of the designated unit.
+Scout Teams
+Reveal Enemy
+Scout Teams (x1) Card #30
+Choose any one of your units. Your 
+opponent must reveal all hidden units 
+that are within 2 hexes and within the 
+LOS of the unit you chose.
+Cost: 1 AP/CAP
+Place a land mine counter 
+within one hex of an un-hit 
+friendly unit not in close 
+combat.
+Mine-Laying
+Place Mine
+Mine-Laying (x1) Card #40
+Any one fresh, activated or spent 
+unburdened foot unit may lay an 
+available mine on its own or adjacent 
+hex, but not on an enemy occupied hex. 
+The mine may be placed as hidden if 
+out of enemy LOS. Cannot be placed by 
+units in CC.
+Remove an obstacle from 
+a hex containing an un-hit 
+friendly unit that is not in 
+close combat.
+Obstacle-Clearing
+Wire, Roadblocks, Mines
+Obstacle-Clearing (x1) Card #41
+Any fresh, activated or spent 
+unburdened foot unit may remove 
+one obstacle counter from its own hex. 
+Obstacles include Barbed Wire, Road 
+Blocks and Land Mines. Cannot be 
+played if in CC or by a group.
+ 
+ Action Cards
+use grenades as an action.
+Grenades
+Stielhandgranate m24
+Grenades (x1)
+• German foot units may use this card 
+to attack as an action at 0 cost.
+• May be used at 1 range with a -2FP 
+penalty (long range).
+• No CC modifiers at 0 range.
+• May support a firegroup.
+• Terrain modifiers apply.
+Molotov Cocktail
+Petrol Bomb
+use a Molotov as an action. 
+Molotov Cocktail (x1)
+• Soviet foot units use this card to at-
+tack as an action at 0 cost. 
+• May be used at 1 range with a -2FP 
+penalty (long range). 
+• No CC modifiers at 0 range.
+• May support a firegroup. 
+• Terrain modifiers apply. 
+use a Tellermine as an action. 
+No long range. Close combat 
+FP and terrain modifiers do 
+not apply. 
+Tellermine
+Anti-Tank Weapon
+Tellermine (x1)
+• German foot units use this card to 
+attack vehicles as an action at a cost 
+of 2AP/CAP. 
+• May only be used at 0 range.
+• May not be part of a firegroup. 
+• All DM and CC modifiers do not apply.
+Tellermines may also be placed as a land mine 
+within one hex of a unit’s position. The same rules 
+apply as for the Lay Land Mine card #40.
+ Weapon Cards
+ Bonus Cards
+Weapon Cards are played as an action or in support of a group action. Off-board artillery cards are 
+played and resolved during the pre-round sequence (2.0). 
+Event Cards are played immediately when 
+drawn at the beginning of a round. The player 
+then draws a new card. 
+Playing a Bonus Card does not constitute an action. Bonus cards may be played in conjunction with 
+another action or as described below. 
+Both players total and score 
+mid-game victory points. 
+After playing this card, 
+draw a new card.
+Score
+Objectives are specified
+in the firefight setup.
+Objective #1
+Resolve firefight event,
+then draw a new card.
+Firefight Event
+Score (x1)
+A firefight will dictate if the score card 
+is mixed into the card deck. When 
+pulled, follow the scoring instructions 
+set by the firefight. Pull a new card 
+after the scoring is resolved.
+Objective 1 - 4 (x4)
+Objective cards are shuffled and 
+one is drawn randomly. This card 
+usually defines a player’s secret 
+objective for the game. The card is 
+revealed at game’s end.
+Firefight Event (x1)
+The event card is sometimes 
+mixed into the card deck and when 
+pulled triggers an event set by the 
+firefight. Draw a new card after the 
+event is resolved.
+Game Ends (x1)
+This card is sometimes mixed into 
+the card deck and when pulled 
+ends the game.
+The game ends immediately!
+Both players add up their 
+victory points.
+Halt Order
+Game Ends
+Off-Board Artillery (OBA) 
+- OBA represent off-board resources available to 
+the players as set by a firefight. 
+- A player must note if he will use smoke when 
+targeting in the pre-round sequence. 
+- The affected target hex patterns are printed on 
+each card.
+- OBA attacks a target’s flank defense. 
+- Terrain modifiers apply except for heavy woods 
+(see Air Bursts 12.2).
+German Off-Board Artillery (x1) 
+10.5cm leFH18 Light Howitzer
+Soviet Off-Board Artillery (x1) 
+122mm m.38 Field Howitzer
+122mm Howitzer m38
+10,5cm Howitzer 18
+ Event Cards
+Careful Aiming (x2) Card #09
+Playing this card increases a player's 
+FP by 2. Playing this card does not 
+constitute an action. This card may 
+be used by a group. 
+Take two turns in a row, 
+skipping an opponent’s 
+turn. Play this card during 
+the first turn.
+Swift Action
+Take Extra Turn
+Swift Action (x2) Card #10
+A player may take two consecutive 
+actions, skipping an opponent’s turn. 
+Playing this card does not constitute 
+an action. A player must announce 
+the use of this card before his first 
+action is taken. This card may be 
+used by a group.
+After any die roll, a player 
+may attempt to modify the 
+result by rolling 1D6.
+Result: 1 =-3, 2 thru 6 =+2.
+Luck!
+Modify Die Roll
+Luck (x3) Card #12
+A player may play this card in an 
+attempt to modify his own dice roll 
+result. Playing this card does not 
+constitute an action and may be 
+played during a player’s turn after a 
+roll has been made. 
+
+Unit Descriptions
+Unit Counters from Awakening the Bear 2nd Edition
+3 Rifle ‘41 1-1
+Rifle ‘41 Unit x8 39-45
+Seven men and officers armed with 
+rifles and some sub-machine guns. A squad 
+included a LMG 34 unit below.
+LMG34 1-1
+LMG 34 - Belt Fed x7 39-45
+With the 200 round belt-fed ammo, the 
+LMG 34 became the classic infantry 
+medium support weapon. 
+HMG34
+HMG 34 x2 39-43
+A LMG 34 mounted on a tripod made the 
+MG very lethal and accurate.
+2-10
+5cm Mortar
+Mortar 5cm x2 39-42
+The 5cm light mortar proved to be 
+underpowered and was later supplanted 
+by the 8cm mortar.
+3-16
+(4)
+8cm Mortar
+Mortar 8cm x2 39-45
+Three man crews manned these mortars 
+which could fire indirectly. They replaced 
+the 5cm mortars. 
+Pioneer Squad x3 39-45
+Specially trained squads of 8-10 men 
+that assaulted fortified positions, laid 
+mines and set traps.
+Tank Hunters
+Tank Hunters x1 39-42
+Two man teams trained to assault tanks with 
+bundled grenades (Geballte Ladung), mines 
+and other improvized explosives.
+3 7,5cm leIG18
+7.5cm Inf Gun x2 39-45 
+The short barrel leIG 18 light infantry gun 
+was used for close infantry support against 
+soft targets and fired high-explosive shells.
+3 7,62cm FK 297
+7.62cm FK 297 x1 41-43 
+To stop the T-34 and KV-1, the Germans 
+used many captured soviet guns, here the 
+un-modified F-22 USV M39 AT gun.
+2 3,7cm PaK36
+PaK36 x2 39-42 
+The Germans were totally unprepared for 
+the Soviet T-34 tank and the PaK36 3.7cm 
+shells literally bounced off of its armor.
+5cm PaK38
+PaK38 x2 41-45 
+This 5cm AT gun was too weak against 
+the heavily armed T-34 and KV tanks and 
+was useful only at short ranges. 
+3 88mm Flak18
+FlaK18 88mm x1 39-45
+This anti-air gun was converted into one of 
+the most effective anti-tank guns of 
+the war. It could penetrate any armor.
+Wagon
+Wagons x3 39-45
+A majority of both armies were supplied by 
+horse drawn wagons. Wagons outnumbered 
+all other vehicles combined.
+Opel Blitz
+Truck/Opel x2 39-45
+The German army was lucky to have 
+trucks when available. Most supplies 
+were still transported by wagons. 
+3 Demag PaK38
+DeMag D7 x1 41-42
+A standard PaK38 5cm AT gun mounted 
+on a light half-track chassis. Sometimes 
+improvised armor was added to the front.
+2 Protze PaK36
+Protze PaK36 x1 41-42
+Many Panzerjäger units mounted the Pak36 
+3.7cm AT gun directly on trucks, to increase 
+its mobility.
+SdKfz 251/1
+SdKfz 251/1 APC x2 39-45 
+Heavy duty armored troop transporter that 
+could keep up with tanks. Armed with two 
+mounted LMG 34s.
+SdKfz 232 L
+SdKfz 232L x1 39-45
+A heavy 8-wheel reconnaissance car armed 
+with a 2cm L55 autocannon. This is the late 
+version with spaced armor front shield.
+PzJg 35R(f)
+PzJg 35R x1 41-44
+A disappointing replacement for the 
+Panzerjäger I, this tank-destroyer was fitted 
+with a Czech 47mm gun atop of a captured 
+R35 French tank.
+Listed below are the unit names, number supplied in the game, years in active service and descriptions. Players that wish to create their own firefights can download a unit 
+point cost list from our website. Designer's Note: Unit stats and abilities were calculated based on how they preformed historically relative to each other during a specific time 
+period. Fans of the series will notice that a unit's (relative) stats in different games often change as the war progresses. 
+Pz 38(t) E
+Panzer 38t x1 39-42
+This Czech tank with a 3.7cm L48 gun was 
+slated to be a main battle tank, but proved to 
+be vulnerable and underpowered. 
+Pz II F
+Panzer IIf x3 40-43
+This reconnaissance tank was similar 
+to the PzIIc, but had added armor.
+Pz III E
+Panzer IIIe x2 39-41
+Intended to be the main German battle 
+tank, the puny 3.7cm gun proved to be 
+useless against most Soviet tanks.
+Pz III H
+Panzer IIIh x1 41-42
+Pz IIIe tanks were retrofitted with 5cm guns 
+and much thicker armor to protect against 
+the T-34 tank.
+Pz IIIj #1
+Panzer IIIj x1 42-43
+In an attempt to counter the devastating 
+T-34, this upgraded tank was already 
+obsolete when introduced. 
+Pz IV E
+Panzer IVe x2 39-43
+An infantry support tank that sported a short 
+7.5cm L24 gun effective against soft targets.
+Pz IV F2 #1
+Panzer IVf2 x1 42-43
+Upgraded to a 7.5cm anti-tank gun, making 
+it the new main battle tank for the Germans, 
+replacing the aging PzIIIs.
+B-2 (f)
+B2(f) Tank x1 42-44
+A captured French heavy tank, with its hull-
+mounted gun replaced by a flamethrower. 
+4 Somua S35(f)
+S35(f) Somua Tank x1 41-44
+A captured French medium tank with a 47mm 
+L42 gun, fitted with radio and cupola. Fought 
+with Army Group North as well as in Finland. 
+T-34 m40(r)
+T-34 Captured Tank x1 41-42
+The Germans thrived on captured equipment. 
+The captured T-34s were outfitted with radio 
+communications. 
+Rifle ‘41 1-1
+Rifle ‘41 Squad x12 39-41
+10 men and officers armed with rifles. 
+Though not as tactically trained as the 
+Germans, they had greater firepower. 
+NKVD 1-1
+NKVD Squad x3 39-45
+Security troops used for internal ‘order’, as 
+well as anti-German fighting. Many fought 
+ferociously during 1941. 
+3 SMG Rifles 1-1
+SMG/Rifle Squad x4 41-42
+The Soviets began to supply more men 
+with dreaded sub-machine guns. 
+By war’s end, 34% of all Soviet hand 
+weapons were comprised of SMGs. 
+3 Maxim MMG
+Maxim MMG Squad x3 39-45 
+The model 1910 Maxim was heavy and 
+cumbersome, but rugged and reliable.
+2-10
+50mm Mortar
+Mortar 50mm x2 39-42
+The 50mm light mortar proved to be too 
+underpowered to have any great effect 
+on the battlefield.
+(4)
+82mm Mortar
+Mortar 82mm x2 39-45
+Most heavily produced Soviet mortar. 
+Some had wheels affixed to the base for 
+easier movement. Could fire indirectly and 
+fire smoke.
+3 Inf Gun m27
+Inf Gun 76mm x1 39-45
+The 76,2mm regimental gun M1927 was a 
+soviet infantry support gun, and was issued 
+to rifle and cavalry regiments.
+3 76mm F22 m36
+F22 m36 76mm x1 39-45 
+Designed as both an AA and AT gun, it 
+had awkward sights and controls. It was 
+disappointing in handling and performance.
+45mm m37
+AT Gun 45mm x2 39-45 
+Upgraded from the German PaK36, the 
+19-K L43 gun was very versatile, firing 
+armor-piercing and high-explosive ammo.
+Wagon
+Wagons x4 39-45
+A majority of both armies were supplied by 
+wagons. Wagons outnumbered all other 
+vehicles combined.
+GAZ Truck
+GAZ Trucks x2 39-43
+A Ford copy manufactured in Russia, the 
+GAZ 2x4 wheel truck was the workhorse for 
+the Soviets.
+BA-10
+BA-10 Armored Car x2 39-43
+Used mostly for reconnaissance, the BA-
+10 had light armor, good speed, a 45mm 
+turreted main gun, and a MG. The most 
+produced heavy armored car in the war.
+BT-7
+BT-7 Light Tank x2 39-43
+Lightly armored, the BT-7 was obsolete by 
+1941. Its design was a precursor of the 
+T-34. 
+KV-1 m40
+KV1a Heavy Tank x2 40-42
+The most powerful serial-made tank at the 
+beginning of the war, its thick armor was 
+almost impenetrable.
+KV-2
+KV2a Heavy Tank x1 40-43
+The “Tank Buster” provided close support 
+for the KV1a. Its main drawback was its 
+slooow speed.
+OT-26
+OT-26 x1 41-42
+The soviets mounted a flamethrower on a 
+modified m31 T-26 light tank. Short range 
+and light armor made the OT-26 vulnerable.
+T-26 m39
+T-26b Light Tank x4 39-42
+Though obsolete by Operation Barbarossa, 
+this was the most numerous tank in the 
+Soviet army during the first years of the war. 
+T-34 m40
+T-34a m40 Med Tank x4 40-42
+Considered the most successful tank 
+series of WWII, it sported well-shaped and 
+thick armor, small size and great speed.
+T-34 m41
+T-34b m41 Med Tank x2 41-43
+The gun was upgraded from the T-34a 
+and the overall design simplified to make 
+manufacturing easier.
+T-35
+T-35 Heavy Tank x1 39-41
+A heavy multi-turret tank, armed with 3 guns 
+and 5 MGs. Prone to break down and poorly 
+armored, it fought to extinction in 1941.
+ZiS-30
+ZiS-30 Mobile Art. x1 41-42
+Hastily designed tank destroyers made 
+by fitting an 57mm gun to a Komsomolets 
+tractor - not a good gun platform. The early 
+57mm gun had many defects.
+
+Index Table
+“Kampf im Osten”
+Weit ist der Weg, 
+reich und fruchtbar die Erde.
+Auf ihren Feldern
+hielt Ernte der Tod.
+Unteroffizier Rolf Werner 
+Im Felde, Russland Sept 1941
+“War in the East”
+Long is the Way, 
+rich and fruitful the Earth.
+On her Fields 
+Death held its Harvest.
+Sergeant Rolf Werner 
+In the Field, Russia Sept 1941
+Rulebook Chapters
+Hills - 10
+Mortars & Artillery - 11
+Vehicles & Tanks - 12
+Fortifications & Obstacles - 14
+Card & Unit Descriptions - 17
+Game Structure & Turn Progression - 1
+Terrain & LOS - 4
+Movement - 5
+Combat - 6
+Cards & Group Actions - 8
+Abbreviations
+1D6 - 1 Six-sided Die
+2D6 - 2 Six-sided Dice
+AA - Anti-Air
+AoF - Arc of Fire
+APs - Action Points
+APC - Armored Personnel Carrier
+AT Gun - Anti-Tank Gun
+AtB - Awakening the Bear
+AV - Attack Value 
+ (AV = FP + 2D6 + CAPs)
+CAPs - Command Action Points
+CC - Close Combat
+CoH - Conflict of Heroes
+DM - Defense Modifier
+DR - Defense Rating 
+DV - Defense Value 
+ (DV = DR + DM)
+FP - Firepower
+HE - High Explosive
+HMG - Heavy Machine Gun
+KIA - Killed in Action
+L1 - Level 1 Hill
+LMG - Light Machine Gun
+LOS - Line of Sight
+MG - Machine Gun
+MMG - Medium Machine Gun
+NA - Not Accessible
+OBA - Off-Board Artillery
+PoH - Price of Honour
+Pz - Panzer (German tank)
+SMG - Sub-Machine Gun
+SoS - Storms of Steel
+SPG - Self-propelled Gun 
+VP - Victory Point 
+Index Table
+Action Cards
+Action Points (APs)
+Actions
+Air Burst
+Arc of Fire (AoF)
+Armor / Tanks
+Armored Personnel Carrier
+Artillery
+Attack Value (AV)
+Backwards Move
+Barbed Wire
+Blind Spots - LOS 
+Bonus Cards
+Bunkers 
+CAP Adjustment
+Cards 
+Casualties 
+Close Combat (CC)
+Combat 
+Command (CAP) Actions
+Control Hex
+Cover from Vehicle
+Critical Hit 
+Defense Rating (DR)
+Defense Value (DV) 
+ From Mortar Fire
+Destroyed Units
+Dice Roll Modifier 
+Elevation Bonus
+Enemy Hexes
+Equalize Play
+Event Cards
+Exiting Game
+Facing
+Firepower (FP) 
+Flame Throwers
+Flank Fire 
+Foot Units
+Fortifications
+ Destruction
+ Enter & Exit
+8.1
+12.2
+6.1
+15.0
+16.1
+12.3
+7.2
+5.2
+18.3.1
+11.4
+8.2
+18.1.2
+8.0
+7.7.3
+7.0
+3.2.2
+2.4.1
+15.6
+7.0
+7.1,15.0
+7.3
+12.1
+3.2.3
+5.4
+3.2.5
+8.3
+5.6
+5.1
+7.1,15.0
+19.1
+7.3
+5.0
+18.1
+18.4
+18.2
+Exit Game
+Game End
+Group Actions
+ Firing
+ Rally
+Hasty Defense
+Hex Control
+Hidden Units
+Higher Elevation Bonus
+Hills 
+Hits / Casualties 
+Immobilization 
+Initiative
+Killed Units
+Line of Sight (LOS) 
+ Blind Spots 
+ Elevation
+ Units do not block
+Load Unit/Gun
+Map Coordinates
+Mines 
+Mortars
+ Backwards
+ Cautious
+ Foot
+ Hidden 
+ Vehicle
+Multiple Players
+Multiple Targets
+New Round Initiative
+Obstacles
+Off-Board Artillery 
+Open Topped Vehicles
+Opportunity Actions
+Pass
+Pinned
+Pivoting
+5.6
+2.4
+9.1
+9.1.2
+9.1.1
+9.1.3
+18.1.3
+2.4.1
+10.0
+11.0
+7.5,15.2
+14.5
+2.1
+6.0
+11.4
+6.0
+17.0
+1.0
+18.3.3
+12.0
+5.0,14.0
+5.2
+14.1
+5.0.3
+5.0
+10.1
+14.0
+20.0
+15.1
+3.2.4
+18.3
+12.3
+15.5
+3.1
+7.5
+19.0
+5.3
+Pre-Round Sequence
+Rally 
+ Long
+ Same hex 
+ Short 
+Reinforcements
+Reverse Movement
+Road Block
+Roads 
+ Congestion
+Round Progression
+Round Sequence
+Self-propelled Guns
+Setup - Game
+Shared Activation
+Short Range Fire
+Smoke 
+Solitaire Play 
+Spent Unit
+Stacking Limits 
+Stall
+Steep Terrain
+Supplement APs
+Towing
+Transporting
+Trenches
+Trucks
+Turns
+Turreted Units
+Unburdened Foot Unit
+Unit (AP) Actions
+Uphill Bonus
+Variable APs
+Victory Hex Control
+Victory Points (VPs)
+Walls
+Water Movement
+Weapon Cards
+Wire
+2.0
+7.6
+7.7
+7.7.1
+7.7.3
+7.7.2
+5.5
+5.2,14.4
+18.3.2
+5.0.1
+14.2
+2.3
+15.4
+1.0
+9.0
+7.7.2
+13.0
+20.2
+7.5.1
+11.1
+3.2.1
+4.0
+14.5
+17.0
+18.1.1
+16.0
+15.4
+1.1
+3.0.1
+2.5.2
+2.5
+5.0.2
+4.0
+8.4
+18.3.1
+Conflict of Heroes ®: 
+Awakening the Bear!
+Copyright © 2012 Academy Games
+Helena, OH 43435 419-307-2115
