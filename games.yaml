@@ -1,2631 +1,3711 @@
 games:
-- name: Catan
-  bgg_id: 13
-  status: extracted
-  player_count: 3-4
-  play_time: 60-120 min
+- bgg_id: 13
   designer: Klaus Teuber
-- name: Nemesis
-  bgg_id: 167355
+  name: Catan
+  play_time: 60-120 min
+  player_count: 3-4
   status: extracted
-  player_count: 1-5
+- bgg_id: 167355
+  designer: Adam Kwapiński
+  name: Nemesis
   play_time: 90-180 min
-  designer: "Adam Kwapi\u0144ski"
-- name: Hansa Teutonica
-  bgg_id: 43015
+  player_count: 1-5
   status: extracted
-  player_count: 2-5
-  play_time: 45-90 min
+- bgg_id: 43015
   designer: Andreas Steding
-- name: QE
-  bgg_id: 266830
+  name: Hansa Teutonica
+  play_time: 45-90 min
+  player_count: 2-5
   status: extracted
-  player_count: 3-5
-  play_time: 45-45 min
+- bgg_id: 266830
   designer: Gavin Birnbaum
-- name: Arcs
-  bgg_id: 359871
-  status: summarized
-  player_count: 2-4
-  play_time: 60-120 min
-  designer: Cole Wehrle
-- name: Cryptid
-  bgg_id: 246784
-  status: extracted
+  name: QE
+  play_time: 45-45 min
   player_count: 3-5
-  play_time: 30-50 min
-  designer: Hal Duncan, Ruth Veevers
-- name: Concordia
-  bgg_id: 124361
-  status: summarized
-  player_count: 2-5
-  play_time: 100 min
-  designer: Mac Gerdts
-- name: Ready Set Bet
-  bgg_id: 351040
   status: extracted
-  player_count: 2-9
-  play_time: 45-60 min
-  designer: John D. Clair
-- name: Blood on the Clocktower
-  bgg_id: 240980
-  status: extracted
-  player_count: 5-20
-  play_time: 30-120 min
-  designer: Steven Medway
-- name: Splendor
-  bgg_id: 148228
-  status: extracted
-  player_count: 2-4
-  play_time: 30 min
-  designer: Marc Andre
-- name: Rhino Hero
-  bgg_id: 91514
-  status: extracted
-  player_count: 2-5
-  play_time: 5-15 min
-  designer: Scott Frisco, Steven Strumpf
-- name: 'Star Wars: The Deckbuilding Game'
-  bgg_id: 374173
-  status: extracted
-  player_count: 2
-  play_time: 30 min
-  designer: Caleb Grace
-- name: 7 Wonders
-  bgg_id: 68448
-  status: extracted
-  player_count: 3-7
-  play_time: 30 min
-  designer: Antoine Bauza
-- name: Ark Nova
-  bgg_id: 342942
-  status: extracted
-  player_count: 1-4
-  play_time: 90-150 min
-  designer: Mathias Wigge
-- name: 'Pax Pamir: Second Edition'
-  bgg_id: 256960
-  status: extracted
-  player_count: 1-5
-  play_time: 45-120 min
+- bgg_id: 359871
   designer: Cole Wehrle
-- name: Chinatown
-  bgg_id: 6719
+  name: Arcs
+  play_time: 60-120 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 246784
+  designer: Hal Duncan, Ruth Veevers
+  name: Cryptid
+  play_time: 30-50 min
+  player_count: 3-5
   status: extracted
+- bgg_id: 124361
+  designer: Mac Gerdts
+  name: Concordia
+  play_time: 100 min
   player_count: 2-5
-  play_time: 60-90 min
-  designer: Karsten Hartwig
-- name: Architects of the West Kingdom
-  bgg_id: 236457
-  status: extracted
-  player_count: 1-5
-  play_time: 60-80 min
-  designer: S J Macdonald, Shem Phillips
-- name: Hey, That's My Fish!
-  bgg_id: 8203
-  status: validated
-  player_count: 2-4
-  play_time: 20 min
-  designer: "G\xFCnter Cornett, Alvydas Jakeliunas"
-  pdf_url: https://cdn.svc.asmodee.net/production-nextmove/uploads/2024/05/EN-HTMF-Rulebook-lowres.pdf
-- name: The Quacks of Quedlinburg
-  bgg_id: 244521
-  status: validated
-  player_count: 2-4
-  play_time: 45 min
-  designer: Wolfgang Warsch
-  pdf_url: https://cdn.1j1ju.com/medias/ba/73/db-the-quacks-of-quedlinburg-rulebook.pdf
-- name: 'The Quacks of Quedlinburg: The Herb Witches'
-  bgg_id: 264521
-  base_game_bgg_id: 244521
-  status: validated
-  player_count: 2-5
-  play_time: 45 min
-  designer: Wolfgang Warsch
-- name: 'The Quacks of Quedlinburg: The Alchemists'
-  bgg_id: 297966
-  base_game_bgg_id: 244521
-  status: validated
-  player_count: 2-4
-  play_time: 45 min
-  designer: Wolfgang Warsch
-- name: Ticket to Ride
-  bgg_id: 9209
   status: summarized
-- name: Azul
-  bgg_id: 230802
-  status: summarized
-- name: Pandemic
-  bgg_id: 30549
-  status: summarized
-- name: Watergate
-  bgg_id: 274364
-  status: summarized
-  notes: English rulebook PDF downloaded from cdn.1j1ju.com
-- name: '007'
-  bgg_id: 12751
-  status: not_found
-  notes: Hasbro blocks automated download (403). No alternative free PDF found.
-  player_count: 2-4
-  play_time: 20-45 min
-  pdf_url: https://www.hasbro.com/common/instruct/JamesBond007game.PDF
-- name: 10 Days in Europe
-  bgg_id: 5867
-  status: summarized
-  player_count: 2-4
-  play_time: 20-40 min
-  designer: Alan R. Moon, Aaron Weissblum
-  pdf_url: http://upload.snakesandlattes.com/rules/1/10DaysInEurope.pdf
-- name: 12 Realms
-  bgg_id: 68606
-  status: not_found
-  notes: Only on BGG (login required). Publisher (Mage Company) appears defunct.
-  player_count: 1-6
-  play_time: 60-90 min
-  designer: Ignazio Corrao
-  pdf_url: https://boardgamegeek.com/filepage/104467/12-realms-revised-english-rules
-- name: 12 Thieves
-  bgg_id: 22278
-  status: summarized
-  notes: Rules sourced from web
-  player_count: 2-4
+- bgg_id: 351040
+  designer: John D. Clair
+  name: Ready Set Bet
   play_time: 45-60 min
-  designer: Thorsten Gimmler
-  pdf_url: https://rules.queen-games.com/12-thieves_en.pdf
-- name: '13 Days: The Cuban Missile Crisis'
-  bgg_id: 177590
-  status: summarized
-  player_count: '2'
-  play_time: 30-60 min
-  designer: Asger Harding Granerud, Daniel Skjold Pedersen
-  pdf_url: https://cdn.1j1ju.com/medias/c8/2c/f2-13-days-the-cuban-missile-crisis-rulebook.pdf
-- name: 13 Dead End Drive
-  bgg_id: 1899
-  status: summarized
-  notes: Rules sourced from web
+  player_count: 2-9
+  status: extracted
+- bgg_id: 240980
+  designer: Steven Medway
+  name: Blood on the Clocktower
+  play_time: 30-120 min
+  player_count: 5-20
+  status: extracted
+- bgg_id: 148228
+  designer: Marc Andre
+  name: Splendor
+  play_time: 30 min
   player_count: 2-4
-  play_time: 30-60 min
-  designer: Michael Marra, David Wyman
-  pdf_url: https://cdn.1j1ju.com/medias/72/47/ba-13-dead-end-drive-rulebook.pdf
-- name: "1754: Conquest \u2013 The French and Indian War"
-  bgg_id: 206150
-  status: summarized
-  player_count: 2-4
-  play_time: 60-120 min
-  designer: Beau Beckett, Jeph Stahl
-  pdf_url: https://cdn.1j1ju.com/medias/70/47/31-1754-conquest-the-french-and-indian-war-rulebook.pdf
-- name: '1775: Rebellion'
-  bgg_id: 128996
-  status: summarized
-  player_count: 2-4
-  play_time: 60-120 min
-  designer: Beau Beckett, Jeph Stahl
-  pdf_url: https://cdn.1j1ju.com/medias/a7/4a/15-1775-rebellion-rulebook.pdf
-- name: '1776: The Game of the American Revolutionary War'
-  bgg_id: 3312
-  status: downloaded
-  notes: No free direct PDF found
-  player_count: '2'
-  play_time: 120-300 min
-  designer: Randell Reed
-  pdf_url: https://grognard.com/variants2/1776-third-edition-rules-nov-2018.pdf
-- name: '1812: The Invasion of Canada'
-  bgg_id: 94246
-  status: summarized
+  status: extracted
+- bgg_id: 91514
+  designer: Scott Frisco, Steven Strumpf
+  name: Rhino Hero
+  play_time: 5-15 min
   player_count: 2-5
+  status: extracted
+- bgg_id: 374173
+  designer: Caleb Grace
+  name: 'Star Wars: The Deckbuilding Game'
+  play_time: 30 min
+  player_count: 2
+  status: extracted
+- bgg_id: 68448
+  designer: Antoine Bauza
+  name: 7 Wonders
+  play_time: 30 min
+  player_count: 3-7
+  status: extracted
+- bgg_id: 342942
+  designer: Mathias Wigge
+  name: Ark Nova
   play_time: 90-150 min
-  designer: Beau Beckett, Jeph Stahl
-  pdf_url: https://cdn.1j1ju.com/medias/e3/4d/75-1812-the-invasion-of-canada-rulebook.pdf
-- name: '1829'
-  bgg_id: 1823
+  player_count: 1-4
+  status: extracted
+- bgg_id: 256960
+  designer: Cole Wehrle
+  name: 'Pax Pamir: Second Edition'
+  play_time: 45-120 min
+  player_count: 1-5
+  status: extracted
+- bgg_id: 6719
+  designer: Karsten Hartwig
+  name: Chinatown
+  play_time: 60-90 min
+  player_count: 2-5
+  status: extracted
+- bgg_id: 236457
+  designer: S J Macdonald, Shem Phillips
+  name: Architects of the West Kingdom
+  play_time: 60-80 min
+  player_count: 1-5
+  status: extracted
+- bgg_id: 8203
+  designer: Günter Cornett, Alvydas Jakeliunas
+  name: Hey, That's My Fish!
+  pdf_url: https://cdn.svc.asmodee.net/production-nextmove/uploads/2024/05/EN-HTMF-Rulebook-lowres.pdf
+  play_time: 20 min
+  player_count: 2-4
+  status: validated
+- bgg_id: 244521
+  designer: Wolfgang Warsch
+  name: The Quacks of Quedlinburg
+  pdf_url: https://cdn.1j1ju.com/medias/ba/73/db-the-quacks-of-quedlinburg-rulebook.pdf
+  play_time: 45 min
+  player_count: 2-4
+  status: validated
+- base_game_bgg_id: 244521
+  bgg_id: 264521
+  designer: Wolfgang Warsch
+  name: 'The Quacks of Quedlinburg: The Herb Witches'
+  play_time: 45 min
+  player_count: 2-5
+  status: validated
+- base_game_bgg_id: 244521
+  bgg_id: 297966
+  designer: Wolfgang Warsch
+  name: 'The Quacks of Quedlinburg: The Alchemists'
+  play_time: 45 min
+  player_count: 2-4
+  status: validated
+- bgg_id: 9209
+  name: Ticket to Ride
+  status: summarized
+- bgg_id: 230802
+  name: Azul
+  status: summarized
+- bgg_id: 30549
+  name: Pandemic
+  status: summarized
+- bgg_id: 274364
+  name: Watergate
+  notes: English rulebook PDF downloaded from cdn.1j1ju.com
+  status: summarized
+- bgg_id: 12751
+  name: '007'
+  notes: Hasbro blocks automated download (403). No alternative free PDF found.
+  pdf_url: https://www.hasbro.com/common/instruct/JamesBond007game.PDF
+  play_time: 20-45 min
+  player_count: 2-4
   status: not_found
+- bgg_id: 5867
+  designer: Alan R. Moon, Aaron Weissblum
+  name: 10 Days in Europe
+  pdf_url: http://upload.snakesandlattes.com/rules/1/10DaysInEurope.pdf
+  play_time: 20-40 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 68606
+  designer: Ignazio Corrao
+  name: 12 Realms
+  notes: Only on BGG (login required). Publisher (Mage Company) appears defunct.
+  pdf_url: https://boardgamegeek.com/filepage/104467/12-realms-revised-english-rules
+  play_time: 60-90 min
+  player_count: 1-6
+  status: not_found
+- bgg_id: 22278
+  designer: Thorsten Gimmler
+  name: 12 Thieves
+  notes: Rules sourced from web
+  pdf_url: https://rules.queen-games.com/12-thieves_en.pdf
+  play_time: 45-60 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 177590
+  designer: Asger Harding Granerud, Daniel Skjold Pedersen
+  name: '13 Days: The Cuban Missile Crisis'
+  pdf_url: https://cdn.1j1ju.com/medias/c8/2c/f2-13-days-the-cuban-missile-crisis-rulebook.pdf
+  play_time: 30-60 min
+  player_count: '2'
+  status: summarized
+- bgg_id: 1899
+  designer: Michael Marra, David Wyman
+  name: 13 Dead End Drive
+  notes: Rules sourced from web
+  pdf_url: https://cdn.1j1ju.com/medias/72/47/ba-13-dead-end-drive-rulebook.pdf
+  play_time: 30-60 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 206150
+  designer: Beau Beckett, Jeph Stahl
+  name: '1754: Conquest – The French and Indian War'
+  pdf_url: https://cdn.1j1ju.com/medias/70/47/31-1754-conquest-the-french-and-indian-war-rulebook.pdf
+  play_time: 60-120 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 128996
+  designer: Beau Beckett, Jeph Stahl
+  name: '1775: Rebellion'
+  pdf_url: https://cdn.1j1ju.com/medias/a7/4a/15-1775-rebellion-rulebook.pdf
+  play_time: 60-120 min
+  player_count: 2-4
+  status: summarized
+- bgg_id: 3312
+  designer: Randell Reed
+  name: '1776: The Game of the American Revolutionary War'
+  notes: No free direct PDF found
+  pdf_url: https://grognard.com/variants2/1776-third-edition-rules-nov-2018.pdf
+  play_time: 120-300 min
+  player_count: '2'
+  status: downloaded
+- bgg_id: 94246
+  designer: Beau Beckett, Jeph Stahl
+  name: '1812: The Invasion of Canada'
+  pdf_url: https://cdn.1j1ju.com/medias/e3/4d/75-1812-the-invasion-of-canada-rulebook.pdf
+  play_time: 90-150 min
+  player_count: 2-5
+  status: summarized
+- bgg_id: 1823
+  designer: Francis Tresham
+  name: '1829'
   notes: No free English rulebook PDF found online. Out of print (Hartland Trefoil).
     BGG thread mentions scanned rules upload but behind login wall.
+  play_time: 240-480 min
   player_count: 3-7
-  play_time: 240-480 min
-  designer: Francis Tresham
-- name: '1830: The Game of Railroads and Robber Barons'
-  bgg_id: 421
-  status: summarized
-  player_count: 2-6
-  play_time: 240-480 min
-  designer: Francis Tresham
-  pdf_url: https://fgbradleys.com/wp-content/uploads/rules/1830%20Railways%20and%20Robber%20Barons%20-%20rules.pdf
-- name: '1835'
-  bgg_id: 422
   status: not_found
+- bgg_id: 421
+  designer: Francis Tresham
+  name: '1830: The Game of Railroads and Robber Barons'
+  pdf_url: https://fgbradleys.com/wp-content/uploads/rules/1830%20Railways%20and%20Robber%20Barons%20-%20rules.pdf
+  play_time: 240-480 min
+  player_count: 2-6
+  status: summarized
+- bgg_id: 422
+  designer: Francis Tresham, Michael Meier-Bachl
+  name: '1835'
   notes: No free English rulebook PDF found online. BGG has filepage/30065 (English
     rules by John Webley) but requires login. Hans im Gluck instructions page is empty.
     BGG wiki page (1835_Rules) returned 403.
-  player_count: 3-7
   play_time: 240-360 min
-  designer: Francis Tresham, Michael Meier-Bachl
-- name: '1853'
-  bgg_id: 1493
-  status: downloaded
-  notes: PDF blocked 403
-  player_count: 3-6
-  play_time: 240-480 min
-  designer: Francis Tresham
-  pdf_url: https://www.lookout-spiele.de/wp-content/uploads/EN-1853_V3.pdf
-- name: '1856: Railroading in Upper Canada from 1856'
-  bgg_id: 423
+  player_count: 3-7
   status: not_found
+- bgg_id: 1493
+  designer: Francis Tresham
+  name: '1853'
+  notes: PDF blocked 403
+  pdf_url: https://www.lookout-spiele.de/wp-content/uploads/EN-1853_V3.pdf
+  play_time: 240-480 min
+  player_count: 3-6
+  status: downloaded
+- bgg_id: 423
+  designer: Bill Dixon
+  name: '1856: Railroading in Upper Canada from 1856'
   notes: No free direct PDF download found. Rules available on Scribd (requires account)
     and as HTML at members.tripod.com/~active_civilian/1856.en.htm. BGG has player
     aids but no rules PDF found without login.
-  player_count: 3-6
   play_time: 180-240 min
-  designer: Bill Dixon
-- name: 18CZ
-  bgg_id: 163841
+  player_count: 3-6
   status: not_found
+- bgg_id: 163841
+  designer: Leonhard Orgler
+  name: 18CZ
   notes: English rulebook on BGG filepage (login required). Publisher site (lonny.at)
     returns 403.
-  player_count: 3-6
   play_time: 240-360 min
-  designer: Leonhard Orgler
-- name: '1914'
-  bgg_id: 4962
-  status: flagged
+  player_count: 3-6
+  status: not_found
+- bgg_id: 4962
+  designer: James Dunnigan
+  name: '1914'
   notes: Scribd returns HTML not PDF. Only a revision doc available (spigames.net),
     not full rules.
-  player_count: '2'
-  play_time: 180-360 min
-  designer: James Dunnigan
   pdf_url: https://www.scribd.com/document/393400812/1914-pdf
-- name: '1918: Brother Against Brother'
-  bgg_id: 234673
-  status: downloaded
-  notes: No English rulebook PDF found
+  play_time: 180-360 min
   player_count: '2'
-  play_time: 90-150 min
-  pdf_url: http://www.lindenlakegames.com/wp-content/uploads/2018/02/BaB_rules_27FEB2018.pdf
-- name: 1936 Guerra Civil
-  bgg_id: 27680
-  status: not_found
-  notes: Publisher site download links broken. BGG files page returns 403.
-  player_count: '2'
-  play_time: 120-240 min
-- name: '1960: The Making of the President'
-  bgg_id: 27708
-  status: summarized
-  player_count: '2'
-  play_time: 90-120 min
-  designer: Christian Leonhard, Jason Matthews
-  pdf_url: https://cdn.1j1ju.com/medias/2e/f6/79-1960-the-making-of-the-president-rulebook.pdf
-- name: '1989: Dawn of Freedom'
-  bgg_id: 26997
-  status: summarized
-- name: 2 de Mayo
-  bgg_id: 36522
-  status: not_found
-  notes: PDF blocked 403
-- name: 20 Questions
-  bgg_id: 3377
-  status: summarized
-- name: '221B Baker Street: The Master Detective Game'
-  bgg_id: 1275
-  status: summarized
-  notes: Rules sourced from web
-- name: 3-6-9
-  bgg_id: 32597
-  status: summarized
-  notes: Rules sourced from web
-- name: 3 Chapters
-  bgg_id: 423517
-  status: not_found
-  notes: New game, no rulebook PDF found
-- name: 3-stones
-  bgg_id: 7834
-  status: not_found
-  notes: Out of print, no PDF found
-- name: 30 Seconds
-  bgg_id: 25213
-  status: summarized
-  notes: Rules sourced from web
-- name: 4000 A.D.
-  bgg_id: 1435
-  status: not_found
-  notes: PDF blocked 403
-- name: 4th Dimension
-  bgg_id: 675
-  status: not_found
-  notes: Out of print, no PDF found
-- name: 5 Seconds Rule
-  bgg_id: 86073
-  status: summarized
-- name: '51st State: Master Set'
-  bgg_id: 192458
-  status: summarized
-- name: '51st State: Ultimate Edition'
-  bgg_id: 357726
-  status: summarized
-- name: '5th Fleet: Modern Naval Combat in the Indian Ocean'
-  bgg_id: 4920
-  status: not_found
-  notes: Only paywalled copies found
-- name: 6 nimmt! Junior
-  bgg_id: 40958
-  status: summarized
-- name: 6-Tage Rennen
-  bgg_id: 515
-  status: not_found
-  notes: Obscure German promotional game
-- name: 7 Ages
-  bgg_id: 3870
-  status: summarized
-- name: '7 Wonders: Architects'
-  bgg_id: 346703
-  status: summarized
-- name: 8th Army
-  bgg_id: 7243
-  status: not_found
-  notes: No rulebook PDF available online
-- name: A Castle for All Seasons
-  bgg_id: 38386
-  status: summarized
-- name: A Column of Fire
-  bgg_id: 217949
-  status: summarized
-- name: A Distant Plain
-  bgg_id: 127518
-  status: summarized
-- name: A Feast for Odin
-  bgg_id: 177736
-  status: summarized
-- name: A Few Acres of Snow
-  bgg_id: 79828
-  status: summarized
-- name: "A Game of Thrones: Catan \u2013 Brotherhood of the Watch"
-  bgg_id: 229218
-  status: summarized
-- name: 'A Game of Thrones: The Board Game'
-  bgg_id: 6472
-  status: summarized
-- name: 'A Game of Thrones: The Card Game'
-  bgg_id: 39953
-  status: summarized
-- name: 'A Gleam of Bayonets: The Battle of Antietam'
-  bgg_id: 5476
-  status: not_found
-  notes: Only system intro PDF found
-- name: 'A House Divided: War Between the States 1861-65'
-  bgg_id: 701
-  status: summarized
-- name: A la Carte
-  bgg_id: 217
-  status: summarized
-- name: A Line in the Sand
-  bgg_id: 2061
-  status: not_found
-  notes: No rulebook PDF found
-- name: A Mighty Fortress
-  bgg_id: 2666
-  status: not_found
-  notes: No freely downloadable PDF found
-- name: A Study in Emerald
-  bgg_id: 141517
-  status: summarized
-- name: A to Z
-  bgg_id: 416
-  status: not_found
-  notes: No rulebook PDF found
-- name: A Trip To Mars
-  bgg_id: 99277
-  status: not_found
-  notes: No rulebook PDF found
-- name: A Victory Lost
-  bgg_id: 19622
-  status: not_found
-  notes: Publisher does not host rules publicly
-- name: A World at War
-  bgg_id: 7614
-  status: not_found
-  notes: Rules as HTML only, not PDF
-- name: Abalone
-  bgg_id: 526
-  status: summarized
-- name: Abande
-  bgg_id: 21324
-  status: extracted
-- name: ABBA Monopoly
-  bgg_id: 179687
-  status: summarized
-- name: Abilene
-  bgg_id: 906
-  status: summarized
-- name: Ablaze!
-  bgg_id: 65516
-  status: summarized
-- name: About Time
-  bgg_id: 32337
-  status: summarized
-- name: Abyss
-  bgg_id: 155987
-  status: summarized
-- name: Accasta
-  bgg_id: 9060
-  status: summarized
-- name: 'Ace of Aces: Wingleader'
-  bgg_id: 6504
-  status: summarized
-- name: Ace of Aces
-  bgg_id: 798
-  status: summarized
-- name: ACHTUNG!
-  bgg_id: 172454
-  status: summarized
-- name: Acquire
-  bgg_id: 5
-  status: summarized
-- name: Acronymble
-  bgg_id: 12646
-  status: summarized
-- name: 'Across Suez: The Battle of the Chinese Farm'
-  bgg_id: 9577
-  status: summarized
-- name: Activity
-  bgg_id: 8790
-  status: summarized
-- name: Ad Astra
-  bgg_id: 38343
-  status: summarized
-- name: Adaptoid
-  bgg_id: 51195
-  status: summarized
-- name: A.D.E.L.E.
-  bgg_id: 337324
-  status: summarized
-- name: Adji-boto
-  bgg_id: 39647
-  status: summarized
-- name: Admirals
-  bgg_id: 2942
-  status: summarized
-- name: Advance to Boardwalk
-  bgg_id: 334
-  status: summarized
-- name: Advanced Civilization
-  bgg_id: 177
-  status: summarized
-- name: 'Advanced Squad Leader: Starter Kit #2'
-  bgg_id: 15126
-  status: summarized
-- name: 'Advanced Squad Leader: Starter Kit #3'
-  bgg_id: 20542
-  status: summarized
-- name: Advanced Third Reich
-  bgg_id: 283
-  status: summarized
-- name: Adventure Land
-  bgg_id: 183231
-  status: summarized
-- name: Adventurer
-  bgg_id: 1405
-  status: summarized
-- name: AeroTech
-  bgg_id: 8196
-  status: summarized
-- name: 'Aether Captains: Clockwork Cabal'
-  bgg_id: 96703
-  status: summarized
-- name: Aether Captains
-  bgg_id: 86003
-  status: summarized
-- name: Aether
-  bgg_id: 68943
-  status: summarized
-- name: Affenstark
-  bgg_id: 23498
-  status: summarized
-- name: Aficionado
-  bgg_id: 34189
-  status: summarized
-- name: Afrika Korps
-  bgg_id: 2259
-  status: summarized
-- name: "Afrikan t\xE4hti: Retkikunnat"
-  bgg_id: 165320
-  status: summarized
-- name: "Afrikan t\xE4hti"
-  bgg_id: 5130
-  status: summarized
-- name: After the Holocaust
-  bgg_id: 5475
-  status: summarized
-- name: Aftermath
-  bgg_id: 281946
-  status: summarized
-- name: Age of Discovery
-  bgg_id: 27165
-  status: summarized
-- name: 'Age of Empires III: The Age of Discovery'
-  bgg_id: 22545
-  status: summarized
-- name: Age of Industry
-  bgg_id: 65901
-  status: summarized
-- name: 'Age of Mythology: The Boardgame'
-  bgg_id: 6707
-  status: summarized
-- name: Age of Napoleon
-  bgg_id: 8490
-  status: summarized
-- name: Age of Renaissance
-  bgg_id: 26
-  status: summarized
-- name: Age of Steam
-  bgg_id: 4098
-  status: summarized
-- name: Aggravation
-  bgg_id: 2272
-  status: summarized
-- name: Agincourt
-  bgg_id: 3615
-  status: summarized
-- name: Agon
-  bgg_id: 5168
-  status: summarized
-- name: 'Agricola: All Creatures Big and Small'
-  bgg_id: 119890
-  status: summarized
-- name: Agricola Express
-  bgg_id: 45020
-  status: summarized
-- name: Agricola
-  bgg_id: 31260
-  status: summarized
-- name: Air Assault on Crete
-  bgg_id: 3044
-  status: summarized
-- name: Air Baron
-  bgg_id: 76
-  status: summarized
-- name: Air War
-  bgg_id: 1629
-  status: summarized
-- name: Airborne in My Pocket
-  bgg_id: 42651
-  status: summarized
-- name: Airlines Europe
-  bgg_id: 90419
-  status: summarized
-- name: Airships
-  bgg_id: 32116
-  status: summarized
-- name: Akron
-  bgg_id: 10889
-  status: summarized
-- name: Akropolis
-  bgg_id: 357563
-  status: summarized
-- name: Aku Ankka
-  bgg_id: 39636
-  status: summarized
-- name: Aladdin's Dragons
-  bgg_id: 492
-  status: summarized
-- name: 'Alaric the Goth: Fall of the Western Roman Empire'
-  bgg_id: 6740
-  status: summarized
-- name: Alaska
-  bgg_id: 1387
-  status: summarized
-- name: Alcazar
-  bgg_id: 45319
-  status: summarized
-- name: Alchemists
-  bgg_id: 161970
-  status: summarized
-- name: Alemungula
-  bgg_id: 187517
-  status: summarized
-- name: Alexander the Great
-  bgg_id: 1726
-  status: summarized
-- name: Alhambra
-  bgg_id: 6249
-  status: summarized
-- name: Alias
-  bgg_id: 3818
-  status: summarized
-- name: 'Alien Contact: Extraterrestrial Empires in Conflict'
-  bgg_id: 2756
-  status: summarized
-- name: Alien Frontiers
-  bgg_id: 48726
-  status: summarized
-- name: Alien Space Battle Manual
-  bgg_id: 8046
-  status: summarized
-- name: Aliens
-  bgg_id: 69851
-  status: summarized
-- name: All Star Baseball
-  bgg_id: 3157
-  status: summarized
-- name: All The King's Men
-  bgg_id: 1289
-  status: summarized
-- name: 'Allegiance: War of Factions'
-  bgg_id: 10893
-  status: summarized
-- name: Allenby's Blitzkrieg
-  bgg_id: 4832
-  status: summarized
-- name: Almirante
-  bgg_id: 167948
-  status: summarized
-- name: Alpha Blitz
-  bgg_id: 1443
-  status: summarized
-- name: Alpha Nature
-  bgg_id: 17826
-  status: summarized
-- name: Alquerque
-  bgg_id: 11464
-  status: summarized
-- name: Altiplano
-  bgg_id: 234487
-  status: summarized
-- name: Ambush!
-  bgg_id: 1608
-  status: summarized
-- name: American Megafauna
-  bgg_id: 639
-  status: summarized
-- name: Amerigo
-  bgg_id: 137408
-  status: summarized
-- name: Amoeba Wars
-  bgg_id: 982
-  status: summarized
-- name: Amun-Re
-  bgg_id: 5404
-  status: summarized
-- name: AmuseAmaze
-  bgg_id: 31887
-  status: summarized
-- name: Anachronism
-  bgg_id: 14038
-  status: summarized
-- name: Anagrams
-  bgg_id: 3359
-  status: summarized
-- name: Anasazi
-  bgg_id: 24224
-  status: summarized
-- name: Ancestree
-  bgg_id: 229240
-  status: summarized
-- name: Anchors Aweigh!
-  bgg_id: 245704
-  status: summarized
-- name: Ancient Knowledge
-  bgg_id: 338093
-  status: summarized
-- name: Ancients
-  bgg_id: 1782
-  status: extracted
-- name: Andantino
-  bgg_id: 11893
-  status: summarized
-- name: Andean Abyss
-  bgg_id: 91080
-  status: summarized
-- name: 'Andor: The Family Fantasy Game'
-  bgg_id: 295488
-  status: summarized
-- name: 'Android: Netrunner'
-  bgg_id: 124742
-  status: summarized
-- name: Android
-  bgg_id: 39339
-  status: summarized
-- name: Angola
-  bgg_id: 4688
-  status: summarized
-- name: 'Angry Birds: Knock on Wood'
-  bgg_id: 89962
-  status: summarized
-- name: 'Animal Upon Animal: Balancing Bridge'
-  bgg_id: 84464
-  status: summarized
-- name: Animal Upon Animal
-  bgg_id: 17329
-  status: summarized
-- name: Animouv
-  bgg_id: 212388
-  status: summarized
-- name: Anno 1503
-  bgg_id: 8166
-  status: summarized
-- name: Anno 1701
-  bgg_id: 31897
-  status: summarized
-- name: Ant Wars
-  bgg_id: 2837
-  status: summarized
-- name: Anti-Monopoly
-  bgg_id: 1931
-  status: summarized
-- name: Antike Duellum
-  bgg_id: 104955
-  status: summarized
-- name: Antike
-  bgg_id: 19600
-  status: summarized
-- name: Antler Island
-  bgg_id: 30483
-  status: summarized
-- name: Ants in the Pants
-  bgg_id: 8487
-  status: summarized
-- name: Ants
-  bgg_id: 446699
-  status: summarized
-- name: Anzio
-  bgg_id: 4173
-  status: summarized
-- name: Apocalypse
-  bgg_id: 2574
-  status: summarized
-- name: Apples to Apples
-  bgg_id: 74
-  status: summarized
-- name: Aqua Romana
-  bgg_id: 20080
-  status: summarized
-- name: Aqualin
-  bgg_id: 295948
-  status: summarized
-- name: Aquaretto
-  bgg_id: 34194
-  status: summarized
-- name: Aquarius
-  bgg_id: 814
-  status: summarized
-- name: Aquatika
-  bgg_id: 208707
-  status: summarized
-- name: Arab-Israeli Wars
-  bgg_id: 3218
-  status: summarized
-- name: Arbolito
-  bgg_id: 405012
-  status: summarized
-- name: Arborea
-  bgg_id: 371077
-  status: summarized
-- name: Arcanor
-  bgg_id: 17006
-  status: summarized
-- name: Archipelago
-  bgg_id: 105551
-  status: summarized
-- name: Are You the Traitor?
-  bgg_id: 41541
-  status: summarized
-- name: Arena of Death
-  bgg_id: 3533
-  status: summarized
-- name: 'Arena: Roma II'
-  bgg_id: 56931
-  status: summarized
-- name: 'Argent: The Consortium'
-  bgg_id: 144797
-  status: summarized
-- name: Arkadia
-  bgg_id: 25643
-  status: summarized
-- name: Arkham Express
-  bgg_id: 77548
-  status: summarized
-- name: Arkham Horror (First Edition)
-  bgg_id: 34
-  status: summarized
-- name: Arkham Horror (2nd Edition)
-  bgg_id: 15987
-  status: summarized
-- name: Arkham Horror (Third Edition)
-  bgg_id: 257499
-  status: summarized
-- name: Armada
-  bgg_id: 3484
-  status: summarized
-- name: Armageddon
-  bgg_id: 17522
-  status: summarized
-- name: Armies of Arcana
-  bgg_id: 4176
-  status: summarized
-- name: Art Society
-  bgg_id: 395375
-  status: summarized
-- name: Articulate!
-  bgg_id: 6541
-  status: summarized
-- name: Artifact
-  bgg_id: 4271
-  status: summarized
-- name: Artus
-  bgg_id: 92643
-  status: summarized
-- name: 'Arydia: The Paths We Dare Tread'
-  bgg_id: 219650
-  status: summarized
-- name: Asara
-  bgg_id: 72991
-  status: summarized
-- name: Ascending Empires
-  bgg_id: 37919
-  status: summarized
-- name: 'Ascension: Deckbuilding Game'
-  bgg_id: 69789
-  status: summarized
-- name: ASG Baseball
-  bgg_id: 11780
-  status: summarized
-- name: Ashtapada
-  bgg_id: 13776
-  status: summarized
-- name: Asia Engulfed
-  bgg_id: 20609
-  status: summarized
-- name: Assault Across the Suez
-  bgg_id: 14832
-  status: summarized
-- name: 'Assault on Hoth: The Empire Strikes Back'
-  bgg_id: 3548
-  status: summarized
-- name: "Ast\xE9rix et la Potion magique"
-  bgg_id: 61798
-  status: summarized
-- name: Asteroid Pirates
-  bgg_id: 2746
-  status: summarized
-- name: Asteroid
-  bgg_id: 1772
-  status: summarized
-- name: Asteroyds
-  bgg_id: 65200
-  status: summarized
-- name: Astoria
-  bgg_id: 25772
-  status: summarized
-- name: Astrotime
-  bgg_id: 1865
-  status: summarized
-- name: At the Gates of Loyang
-  bgg_id: 39683
-  status: summarized
-- name: Atlanta
-  bgg_id: 8872
-  status: summarized
-- name: Atlantic Wall
-  bgg_id: 5485
-  status: summarized
-- name: Atlas & Zeus
-  bgg_id: 10682
-  status: summarized
-- name: Aton
-  bgg_id: 19999
-  status: summarized
-- name: Attack of the Mutants!
-  bgg_id: 2706
-  status: summarized
-- name: Attack!
-  bgg_id: 6752
-  status: summarized
-- name: Attacktix Battle Figure Game Marvel Superheroes
-  bgg_id: 24025
-  status: summarized
-- name: 'Attacktix Battle Figure Game: Star Wars'
-  bgg_id: 17274
-  status: summarized
-- name: Attangle
-  bgg_id: 24525
-  status: summarized
-- name: Attika
-  bgg_id: 8051
-  status: summarized
-- name: Attila
-  bgg_id: 827
-  status: summarized
-- name: Auf Achse
-  bgg_id: 110
-  status: extracted
-- name: "Auf die N\xFCsse!"
-  bgg_id: 130223
-  status: summarized
-- name: Aurignac
-  bgg_id: 369560
-  status: summarized
-- name: Ausbrecher AG
-  bgg_id: 772
-  status: summarized
-- name: Austerlitz
-  bgg_id: 5052
-  status: summarized
-- name: Australia
-  bgg_id: 15033
-  status: summarized
-- name: Automobile
-  bgg_id: 39351
-  status: summarized
-- name: Avalam
-  bgg_id: 9092
-  status: summarized
-- name: Avalanche
-  bgg_id: 446
-  status: summarized
-- name: 'Avatar: The Last Airbender Trading Card Game'
-  bgg_id: 22469
-  status: summarized
-- name: Ave Caesar
-  bgg_id: 494
-  status: summarized
-- name: Awithlaknakwe
-  bgg_id: 34481
-  status: summarized
-- name: Axiom
-  bgg_id: 820
-  status: summarized
-- name: Axis & Allies Anniversary Edition
-  bgg_id: 35052
-  status: summarized
-- name: 'Axis & Allies: Battle of the Bulge'
-  bgg_id: 22457
-  status: summarized
-- name: 'Axis & Allies: D-Day'
-  bgg_id: 10081
-  status: summarized
-- name: 'Axis & Allies: Europe'
-  bgg_id: 520
-  status: extracted
-- name: 'Axis & Allies: Guadalcanal'
-  bgg_id: 29259
-  status: extracted
-- name: 'Axis & Allies: Pacific'
-  bgg_id: 1262
-  status: extracted
-- name: Aye, Dark Overlord!
-  bgg_id: 18723
-  status: summarized
-- name: Ayoayo
-  bgg_id: 28302
-  status: summarized
-- name: Aztec
-  bgg_id: 1071
-  status: summarized
-- name: B-17, Queen of the Skies
-  bgg_id: 1032
-  status: summarized
-- name: Babel
-  bgg_id: 986
-  status: summarized
-- name: 'Babylon 5: A Call to Arms'
-  bgg_id: 13455
-  status: summarized
-- name: Backgammon
-  bgg_id: 2397
-  status: summarized
-- name: "Baden-W\xFCrttemberg Catan"
-  bgg_id: 123386
-  status: summarized
-- name: Bagatelle
-  bgg_id: 123417
-  status: summarized
-- name: Bagh-Chal
-  bgg_id: 315
-  status: summarized
-- name: Bailout! The Game
-  bgg_id: 55127
-  status: summarized
-- name: Bakari
-  bgg_id: 4150
-  status: summarized
-- name: Bakschisch
-  bgg_id: 1504
-  status: summarized
-- name: Balconia
-  bgg_id: 410273
-  status: summarized
-- name: Balderdash
-  bgg_id: 163
-  status: summarized
-- name: Balloon Cup
-  bgg_id: 5716
-  status: summarized
-- name: Banana Express
-  bgg_id: 18104
-  status: summarized
-- name: BANG! The Bullet!
-  bgg_id: 30933
-  status: summarized
-- name: Banqi
-  bgg_id: 29741
-  status: summarized
-- name: Bao
-  bgg_id: 14186
-  status: summarized
-- name: Barbarian Kings
-  bgg_id: 3251
-  status: extracted
-- name: Barbarian Prince
-  bgg_id: 1631
-  status: summarized
-- name: 'Barbarossa: The Russo-German War 1941-45'
-  bgg_id: 5541
-  status: extracted
-- name: Barbarossa
-  bgg_id: 550
-  status: summarized
-- name: Barbie Queen of the Prom
-  bgg_id: 9633
-  status: summarized
-- name: Baron
-  bgg_id: 22085
-  status: summarized
-- name: Barons
-  bgg_id: 86128
-  status: summarized
-- name: Barrage
-  bgg_id: 251247
-  status: summarized
-- name: Barragoon
-  bgg_id: 157779
-  status: summarized
-- name: Bashni
-  bgg_id: 36550
-  status: summarized
-- name: Baston
-  bgg_id: 4537
-  status: summarized
-- name: Bataclan
-  bgg_id: 3486
-  status: summarized
-- name: Batik
-  bgg_id: 3706
-  status: summarized
-- name: 'Battle Cattle: The Card Game'
-  bgg_id: 2458
-  status: summarized
-- name: Battle Cry
-  bgg_id: 551
-  status: extracted
-- name: Battle Dome
-  bgg_id: 6112
-  status: extracted
-- name: Battle for Armageddon
-  bgg_id: 3177
-  status: summarized
-- name: Battle for Germany
-  bgg_id: 3986
-  status: summarized
-- name: Battle for Moscow
-  bgg_id: 6544
-  status: extracted
-- name: Battle for Rokugan
-  bgg_id: 234477
-  status: summarized
-- name: Battle Masters
-  bgg_id: 700
-  status: extracted
-- name: Battle of the Bulge
-  bgg_id: 16444
-  status: summarized
-- name: Battle Over Britain
-  bgg_id: 4278
-  status: summarized
-- name: Battle Rider
-  bgg_id: 10966
-  status: summarized
-- name: Battle Sheep
-  bgg_id: 54137
-  status: summarized
-- name: Battle-Sphere
-  bgg_id: 14757
-  status: summarized
-- name: Battlecars
-  bgg_id: 2368
-  status: summarized
-- name: 'BattleCON: War of Indines'
-  bgg_id: 89409
-  status: summarized
-- name: BattleForce
-  bgg_id: 3616
-  status: summarized
-- name: 'Battleground: Crossbows & Catapults'
-  bgg_id: 30328
-  status: summarized
-- name: Battleground
-  bgg_id: 18985
-  status: summarized
-- name: Battlelords
-  bgg_id: 17480
-  status: summarized
-- name: BattleLore
-  bgg_id: 25417
-  status: summarized
-- name: Battles for a Continent
-  bgg_id: 93360
-  status: summarized
-- name: Battles for the Ardennes
-  bgg_id: 7092
-  status: summarized
-- name: Battles of the Third Age
-  bgg_id: 18034
-  status: summarized
-- name: Battles of Westeros
-  bgg_id: 67492
-  status: extracted
-- name: Battleship Galaxies
-  bgg_id: 93538
-  status: extracted
-- name: Battleship
-  bgg_id: 2425
-  status: summarized
-- name: BattleSpace
-  bgg_id: 7470
-  status: summarized
-- name: Battlestar Galactica Collectable Card Game
-  bgg_id: 19671
-  status: summarized
-- name: 'Battlestar Galactica: The Board Game'
-  bgg_id: 37111
-  status: summarized
-- name: Battlesuit
-  bgg_id: 3271
-  status: summarized
-- name: BattleTech Collectible Card Game
-  bgg_id: 3487
-  status: summarized
-- name: BattleTech
-  bgg_id: 1540
-  status: summarized
-- name: BattleTroops
-  bgg_id: 7943
-  status: summarized
-- name: Battling Tops
-  bgg_id: 4934
-  status: summarized
-- name: Bau Cua Ca Cop
-  bgg_id: 22503
-  status: summarized
-- name: Bauernhof-Bande
-  bgg_id: 269624
-  status: summarized
-- name: Bauernroulette
-  bgg_id: 19842
-  status: summarized
-- name: Bauernschlau
-  bgg_id: 1588
-  status: summarized
-- name: Bausack
-  bgg_id: 1231
-  status: summarized
-- name: 'Beachhead: A Game of Island Invasions in the South Pacific 1942-1944'
-  bgg_id: 4298
-  status: summarized
-- name: Beagle-opoly
-  bgg_id: 92247
-  status: summarized
-- name: Beast
-  bgg_id: 281549
-  status: summarized
-- name: Beat the Buzzard
-  bgg_id: 175
-  status: summarized
-- name: Bed Bugs
-  bgg_id: 8486
-  status: summarized
-- name: Beda Fomm
-  bgg_id: 6914
-  status: summarized
-- name: Beer Empire
-  bgg_id: 205346
-  status: summarized
-- name: Before the Wind
-  bgg_id: 28723
-  status: summarized
-- name: Belfort
-  bgg_id: 50750
-  status: summarized
-- name: Belratti
-  bgg_id: 259374
-  status: summarized
-- name: Belter
-  bgg_id: 4316
-  status: summarized
-- name: Bendomino
-  bgg_id: 28298
-  status: summarized
-- name: 'Beowulf: The Legend'
-  bgg_id: 17449
-  status: summarized
-- name: Beppo der Bock
-  bgg_id: 27948
-  status: summarized
-- name: 'Berlin ''85: The Enemy at the Gates'
-  bgg_id: 4839
-  status: summarized
-- name: Bermuda Triangle
-  bgg_id: 2296
-  status: summarized
-- name: Bermude
-  bgg_id: 18757
-  status: summarized
-- name: Betrayal at House on the Hill
-  bgg_id: 10547
-  status: summarized
-- name: Beyblade Trading Card Game
-  bgg_id: 8786
-  status: summarized
-- name: Bezzerwizzer
-  bgg_id: 32441
-  status: summarized
-- name: Biblios
-  bgg_id: 34219
-  status: summarized
-- name: Big Adventure
-  bgg_id: 307534
-  status: summarized
-- name: Big Boss
-  bgg_id: 313
-  status: summarized
-- name: Big Elementary School Game
-  bgg_id: 18741
-  status: summarized
-- name: Big Kini
-  bgg_id: 20228
-  status: summarized
-- name: Billabong
-  bgg_id: 464
-  status: summarized
-- name: Bindle Rails
-  bgg_id: 39787
-  status: summarized
-- name: Bismarck
-  bgg_id: 2422
-  status: summarized
-- name: Bitin' Off Hedz
-  bgg_id: 1527
-  status: summarized
-- name: Bits
-  bgg_id: 89668
-  status: summarized
-- name: Bizingo
-  bgg_id: 13765
-  status: summarized
-- name: 'Black Book: The Board Game'
-  bgg_id: 436055
-  status: summarized
-- name: Black Box
-  bgg_id: 165
-  status: summarized
-- name: Black Friday
-  bgg_id: 39242
-  status: summarized
-- name: Black Hole
-  bgg_id: 3465
-  status: summarized
-- name: Blackbeard
-  bgg_id: 235
-  status: summarized
-- name: Bladestorm
-  bgg_id: 12385
-  status: summarized
-- name: Bleach Trading Card Game
-  bgg_id: 28838
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Blink
-  bgg_id: 1197
-  status: summarized
-- name: Block Mania
-  bgg_id: 330
-  status: summarized
-- name: Blockade
-  bgg_id: 2559
-  status: summarized
-- name: Blokus Duo
-  bgg_id: 16395
-  status: summarized
-- name: Blokus
-  bgg_id: 2453
-  status: summarized
-- name: "Blood Bowl: Team Manager \u2013 The Card Game"
-  bgg_id: 90137
-  status: summarized
-- name: Blood Bowl
-  bgg_id: 3071
-  status: summarized
-- name: Blood Feud in New York
-  bgg_id: 14258
-  status: summarized
-- name: Blood Rage
-  bgg_id: 170216
-  status: summarized
-- name: Blood Royale
-  bgg_id: 248
-  status: summarized
-- name: Bloodbath at the Sakarya
-  bgg_id: 24372
-  status: summarized
-- name: 'Bloody April: The Battle of Shiloh, 1862'
-  bgg_id: 11139
-  status: summarized
-- name: Bloody Ridge
-  bgg_id: 11964
-  status: summarized
-- name: Blox
-  bgg_id: 34227
-  status: summarized
-- name: 'Blue & Gray: Four American Civil War Battles'
-  bgg_id: 4564
-  status: summarized
-- name: Blue & Gray
-  bgg_id: 19254
-  status: summarized
-- name: Blue Max
-  bgg_id: 508
-  status: summarized
-- name: Blue Moon City
-  bgg_id: 21882
-  status: summarized
-- name: Bluffer
-  bgg_id: 58782
-  status: summarized
-- name: Boarding Party
-  bgg_id: 4247
-  status: summarized
-- name: Bobbin' Bumblebee
-  bgg_id: 32048
-  status: summarized
-- name: Bomb Busters
-  bgg_id: 413246
-  status: summarized
-- name: Bommerz over da Sulphur River
-  bgg_id: 4646
-  status: summarized
-- name: Bonaparte at Marengo
-  bgg_id: 15839
-  status: summarized
-- name: Bonkers!
-  bgg_id: 1943
-  status: summarized
-- name: Bonnie and Clyde
-  bgg_id: 16320
-  status: summarized
-- name: Bookchase
-  bgg_id: 32742
-  status: summarized
-- name: Boom, Bang, Gold
-  bgg_id: 235467
-  status: summarized
-- name: Boomtown
-  bgg_id: 10997
-  status: summarized
-- name: Boonlake
-  bgg_id: 343905
-  status: summarized
-- name: Border Reivers
-  bgg_id: 23920
-  status: summarized
-- name: Borderlands
-  bgg_id: 40
-  status: summarized
-- name: Borneo
-  bgg_id: 32164
-  status: summarized
-- name: Borodino
-  bgg_id: 252
-  status: summarized
-- name: Bosworth
-  bgg_id: 645
-  status: summarized
-- name: Bottle Imp
-  bgg_id: 619
-  status: summarized
-- name: Bowl Bound
-  bgg_id: 3226
-  status: summarized
-- name: Brain Chain
-  bgg_id: 16233
-  status: summarized
-- name: Brainstonz
-  bgg_id: 33144
-  status: summarized
-- name: Brainstorm
-  bgg_id: 1866
-  status: summarized
-- name: Brandon the Brave
-  bgg_id: 148767
-  status: summarized
-- name: 'Brass: Birmingham'
-  bgg_id: 224517
-  status: summarized
-- name: 'Brass: Lancashire'
-  bgg_id: 28720
-  status: summarized
-- name: Brawl
-  bgg_id: 392
-  status: summarized
-- name: Brax
-  bgg_id: 12694
-  status: summarized
-- name: Breakaway Rider
-  bgg_id: 923
-  status: summarized
-- name: 'Breakout: Normandy'
-  bgg_id: 20203
-  status: summarized
-- name: Breakscore
-  bgg_id: 19859
-  status: summarized
-- name: Breakthrough
-  bgg_id: 3825
-  status: summarized
-- name: Breakthru
-  bgg_id: 335
-  status: summarized
-- name: Brew
-  bgg_id: 332386
-  status: summarized
-- name: Brilliant Lances
-  bgg_id: 3894
-  status: summarized
-- name: Britannia
-  bgg_id: 240
-  status: summarized
-- name: Broadsides and Boarding Parties
-  bgg_id: 96
-  status: summarized
-- name: Broker
-  bgg_id: 2947
-  status: summarized
-- name: Broom Service
-  bgg_id: 172308
-  status: summarized
-- name: Bruges
-  bgg_id: 136888
-  status: summarized
-- name: Bruxelles 1893
-  bgg_id: 144592
-  status: summarized
-- name: Bubble Stories
-  bgg_id: 341178
-  status: summarized
-- name: Buccaneer
-  bgg_id: 22287
-  status: summarized
-- name: Buck Rogers
-  bgg_id: 22908
-  status: summarized
-- name: "Buck Rogers \u2013 Battle for the 25th Century"
-  bgg_id: 548
-  status: summarized
-- name: Buffy the Vampire Slayer Collectible Card Game
-  bgg_id: 8930
-  status: summarized
-- name: Bug-Eyed Monsters
-  bgg_id: 4379
-  status: summarized
-- name: Bug Hunter
-  bgg_id: 5940
-  status: summarized
-- name: Bug-opoly
-  bgg_id: 28649
-  status: summarized
-- name: Bug Race
-  bgg_id: 153571
-  status: summarized
-- name: Bugs! Bugs! Bugs!
-  bgg_id: 22552
-  status: summarized
-- name: Bul
-  bgg_id: 13745
-  status: summarized
-- name: Bull's-Eye Ball
-  bgg_id: 8093
-  status: summarized
-- name: Bunker Poker
-  bgg_id: 3268
-  status: summarized
-- name: Bunny Bunny Moose Moose
-  bgg_id: 59149
-  status: summarized
-- name: Bunny Hops!
-  bgg_id: 361335
-  status: summarized
-- name: Bunny Kingdom
-  bgg_id: 184921
-  status: summarized
-- name: Burg Appenzell
-  bgg_id: 28089
-  status: summarized
-- name: Burg der 1000 Spiegel
-  bgg_id: 40962
-  status: summarized
-- name: Burn Rate
-  bgg_id: 3341
-  status: summarized
-- name: Burosh
-  bgg_id: 37937
-  status: summarized
-- name: Bushido
-  bgg_id: 38707
-  status: summarized
-- name: Button Men
-  bgg_id: 17
-  status: summarized
-- name: BuyWord
-  bgg_id: 8920
-  status: summarized
-- name: By the Sword!
-  bgg_id: 114115
-  status: summarized
-- name: Byzanz
-  bgg_id: 38032
-  status: summarized
-- name: Cacao
-  bgg_id: 171499
-  status: summarized
-- name: Caesar & Cleopatra
-  bgg_id: 132
-  status: summarized
-- name: Caesar
-  bgg_id: 1430
-  status: summarized
-- name: Caesar's Legions
-  bgg_id: 1722
-  status: summarized
-- name: "Caf\xE9 International"
-  bgg_id: 214
-  status: summarized
-- name: Calamity
-  bgg_id: 1542
-  status: summarized
-- name: Calico
-  bgg_id: 283155
-  status: summarized
-- name: Camelot
-  bgg_id: 5251
-  status: summarized
-- name: Camette
-  bgg_id: 117871
-  status: summarized
-- name: Camp Granada
-  bgg_id: 12409
-  status: summarized
-- name: Campaign Manager 2008
-  bgg_id: 46255
-  status: summarized
-- name: 'Campaign Trail: The Game of Presidential Elections'
-  bgg_id: 3590
-  status: summarized
-- name: Canadian Checkers
-  bgg_id: 5454
-  status: summarized
-- name: Canal Grande
-  bgg_id: 4401
-  status: summarized
-- name: 'Candamir: The First Settlers'
-  bgg_id: 12004
-  status: summarized
-- name: Candy Land
-  bgg_id: 5048
-  status: summarized
-- name: Can't Stop Express
-  bgg_id: 217547
-  status: summarized
-- name: Can't Stop
-  bgg_id: 41
-  status: summarized
-- name: Capes & Cowls
-  bgg_id: 20731
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Capitol
-  bgg_id: 1155
-  status: summarized
-- name: Captain Flip
-  bgg_id: 393325
-  status: summarized
-- name: Captain Silver
-  bgg_id: 219509
-  status: summarized
-- name: Captain Sonar
-  bgg_id: 171131
-  status: summarized
-- name: Car Wars
-  bgg_id: 2795
-  status: extracted
-- name: Carabande
-  bgg_id: 150
-  status: summarized
-- name: Carat
-  bgg_id: 963
-  status: not_found
-  notes: No English rulebook PDF found
-- name: 'Carcassonne: The Castle'
-  bgg_id: 7717
-  status: summarized
-- name: 'Carcassonne: The City'
-  bgg_id: 12902
-  status: summarized
-- name: 'Carcassonne: Wheel of Fortune'
-  bgg_id: 45748
-  status: extracted
-- name: Card football
-  bgg_id: 22924
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cardino
-  bgg_id: 2116
-  status: summarized
-- name: 'Cardline: Animals'
-  bgg_id: 130882
-  status: summarized
-- name: Careers
-  bgg_id: 1475
-  status: summarized
-- name: Caribbean
-  bgg_id: 13301
-  status: summarized
-- name: Carla Caramel
-  bgg_id: 351937
-  status: summarized
-- name: Carnegie
-  bgg_id: 310873
-  status: extracted
-- name: Carnuta
-  bgg_id: 457386
-  status: summarized
-- name: Carolus Magnus
-  bgg_id: 481
-  status: summarized
-- name: Carpe Diem
-  bgg_id: 245934
-  status: summarized
-- name: Carrier
-  bgg_id: 1679
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Carson City
-  bgg_id: 39938
-  status: summarized
-- name: Cartagena
-  bgg_id: 826
-  status: summarized
-- name: 'Cartaventura: Lhasa'
-  bgg_id: 327076
-  status: not_found
-  notes: No English rulebook PDF found
-- name: 'Cartographers: A Roll Player Tale'
-  bgg_id: 263918
-  status: summarized
-- name: Cascadia
-  bgg_id: 295947
-  status: summarized
-- name: 'Ca$h ''n Gun$: Live'
-  bgg_id: 30324
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Ca$h 'n Guns
-  bgg_id: 19237
-  status: extracted
-- name: Casse-toi pov' con
-  bgg_id: 98189
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Castle
-  bgg_id: 655
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Castle Flutterstone
-  bgg_id: 191065
-  status: summarized
-- name: Castle Knights
-  bgg_id: 29411
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Castle of Magic
-  bgg_id: 1738
-  status: summarized
-- name: Castle Panic
-  bgg_id: 43443
-  status: summarized
-- name: 'Dungeons & Dragons: Castle Ravenloft Board Game'
-  bgg_id: 59946
-  status: summarized
-- name: Castle Risk
-  bgg_id: 2557
-  status: summarized
-- name: Castles of Mad King Ludwig
-  bgg_id: 155426
-  status: extracted
-- name: 'Cat in the Box: Deluxe Edition'
-  bgg_id: 345972
-  status: summarized
-- name: Catacombs
-  bgg_id: 57390
-  status: extracted
-- name: Catan 3D Collector's Edition
-  bgg_id: 17419
-  status: summarized
-- name: 'Catan: Ancient Egypt'
-  bgg_id: 161527
-  status: summarized
-- name: Catan - Anniversary Edition
-  bgg_id: 152959
-  status: extracted
-- name: Catan Dice Game
-  bgg_id: 27710
-  status: summarized
-- name: 'Catan: Event Cards'
-  bgg_id: 20038
-  status: summarized
-- name: 'Catan Geographies: Germany'
-  bgg_id: 38749
-  status: summarized
-- name: 'Catan Geographies: Settlers of Hesse'
-  bgg_id: 32270
-  status: summarized
-- name: 'Catan Histories: Merchants of Europe'
-  bgg_id: 103091
-  status: summarized
-- name: 'Catan Histories: Rise of the Inka'
-  bgg_id: 244144
-  status: summarized
-- name: Catan Junior Madagascar
-  bgg_id: 140743
-  status: extracted
-- name: Catan Junior
-  bgg_id: 125921
-  status: summarized
-- name: 'Catan: Portable Edition'
-  bgg_id: 3972
-  status: summarized
-- name: 'Catan Scenario: Crop Trust'
-  bgg_id: 259397
-  status: summarized
-- name: 'Catan Scenarios: Frenemies'
-  bgg_id: 131958
-  status: summarized
-- name: Catapult Feud
-  bgg_id: 310789
-  status: summarized
-- name: Category Game
-  bgg_id: 13094
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cathedral
-  bgg_id: 7
-  status: summarized
-- name: 'Cauldron: Battle of Gazala, May 1942'
-  bgg_id: 9973
-  status: summarized
-- name: Cavaliers and Roundheads
-  bgg_id: 25990
-  status: not_found
-  notes: No English rulebook PDF found
-- name: 'Caverna: The Cave Farmers'
-  bgg_id: 102794
-  status: summarized
-- name: Cavum
-  bgg_id: 37734
-  status: summarized
-- name: Caylus
-  bgg_id: 18602
-  status: summarized
-- name: Celestia
-  bgg_id: 175117
-  status: summarized
-- name: Celtica
-  bgg_id: 21293
-  status: summarized
-- name: Cemetery Hill
-  bgg_id: 13921
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Central America
-  bgg_id: 2080
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cerberus
-  bgg_id: 3245
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chainsaw Warrior
-  bgg_id: 1827
-  status: summarized
-- name: Challenge The Yankees
-  bgg_id: 7654
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chameleon
-  bgg_id: 3104
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chancellorsville
-  bgg_id: 13614
-  status: summarized
-- name: Chandragupta
-  bgg_id: 26458
-  status: summarized
-- name: Chang Cheng
-  bgg_id: 29903
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chaos in the Old World
-  bgg_id: 43111
-  status: summarized
-- name: Chapayev
-  bgg_id: 36799
-  status: summarized
-- name: Chase
-  bgg_id: 316
-  status: summarized
-- name: Chaturanga
-  bgg_id: 18011
-  status: summarized
-- name: Checkers
-  bgg_id: 2083
-  status: summarized
-- name: Checkmath
-  bgg_id: 310868
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cheeky Monkey
-  bgg_id: 29773
-  status: summarized
-- name: Cheese Chasers
-  bgg_id: 40819
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cherry Ames' Nursing Game
-  bgg_id: 7644
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chess Mutation
-  bgg_id: 19685
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chess
-  bgg_id: 171
-  status: summarized
-- name: Cheyenne
-  bgg_id: 13036
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chicago
-  bgg_id: 1398
-  status: summarized
-- name: Chicken Chicken
-  bgg_id: 280203
-  status: summarized
-- name: 'Chill: Black Morn Manor'
-  bgg_id: 724
-  status: summarized
-- name: 'China''s War: 1937-1941'
-  bgg_id: 287515
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chinese Checkers
-  bgg_id: 2386
-  status: summarized
-- name: Chinese Farm
-  bgg_id: 8747
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chinesenspiel
-  bgg_id: 35769
-  status: not_found
-  notes: No English rulebook PDF found
-- name: 'Chitin: I'
-  bgg_id: 2194
-  status: not_found
-  notes: No English rulebook PDF found
-- name: ChiZo Rising
-  bgg_id: 19040
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Chopstick Dexterity MegaChallenge 3000
-  bgg_id: 25695
-  status: summarized
-- name: Chromino
-  bgg_id: 13328
-  status: summarized
-- name: Chronicles of Crime
-  bgg_id: 239188
-  status: summarized
-- name: Chunky Fighters
-  bgg_id: 43136
-  status: summarized
-- name: Cineplexity
-  bgg_id: 17209
-  status: summarized
-- name: Circus Imperium
-  bgg_id: 2224
-  status: summarized
-- name: Circus Maximus
-  bgg_id: 244
-  status: summarized
-- name: Citadel of Blood
-  bgg_id: 3248
-  status: summarized
-- name: Citadels
-  bgg_id: 286
-  status: summarized
-- name: Cities
-  bgg_id: 38657
-  status: summarized
-- name: "Cities: Skylines \u2013 The Board Game"
-  bgg_id: 267370
-  status: summarized
-- name: Citizen X
-  bgg_id: 39581
-  status: summarized
-- name: City of Chaos
-  bgg_id: 1145
-  status: summarized
-- name: City of Heroes Collectible Card Game
-  bgg_id: 19766
-  status: summarized
-- name: City of Sorcerers
-  bgg_id: 7102
-  status: summarized
-- name: City of the Great Machine
-  bgg_id: 263895
-  status: summarized
-- name: City States of Arklyrell
-  bgg_id: 4248
-  status: summarized
-- name: CityTech
-  bgg_id: 6923
-  status: summarized
-- name: Civil War
-  bgg_id: 8220
-  status: summarized
-- name: Civilization
-  bgg_id: 77130
-  status: summarized
-- name: 'Civilization: The Boardgame'
-  bgg_id: 3633
-  status: summarized
-- name: 'Civilization: The Card Game'
-  bgg_id: 26047
-  status: summarized
-- name: Claim It!
-  bgg_id: 26162
-  status: summarized
-- name: Clan War
-  bgg_id: 13584
-  status: summarized
-- name: 'Clank!: A Deck-Building Adventure'
-  bgg_id: 201808
-  status: summarized
-- name: Clans of Caledonia
-  bgg_id: 216132
-  status: summarized
-- name: Clans
-  bgg_id: 4636
-  status: summarized
-- name: Clash of the Gladiators
-  bgg_id: 3242
-  status: summarized
-- name: Class Struggle
-  bgg_id: 1510
-  status: summarized
-- name: Classical Diplomacy
-  bgg_id: 483
-  status: summarized
-- name: Claustrophobia
-  bgg_id: 36932
-  status: summarized
-- name: Cleopatra and the Society of Architects
-  bgg_id: 22141
-  status: summarized
-- name: Click Clack
-  bgg_id: 36560
-  status: summarized
-- name: Clobber
-  bgg_id: 23864
-  status: summarized
-- name: Clomping Creatures
-  bgg_id: 195340
-  status: summarized
-- name: Cloomba
-  bgg_id: 261683
-  status: summarized
-- name: Close Action
-  bgg_id: 3553
-  status: summarized
-- name: Close to the Border
-  bgg_id: 22237
-  status: summarized
-- name: CLOWN
-  bgg_id: 13260
-  status: summarized
-- name: 'Clue: The Great Museum Caper'
-  bgg_id: 1484
-  status: summarized
-- name: 'Cluedo: Discover the Secrets'
-  bgg_id: 37589
-  status: summarized
-- name: Cluedo Master Detective
-  bgg_id: 1561
-  status: summarized
-- name: Cluedo
-  bgg_id: 1294
-  status: summarized
-- name: Co-opoly
-  bgg_id: 115997
-  status: summarized
-- name: 'Cobra: Game of the Normandy Breakout'
-  bgg_id: 4008
-  status: summarized
-- name: Cockroach Duel
-  bgg_id: 217275
-  status: summarized
-- name: Coda
-  bgg_id: 8946
-  status: summarized
-- name: 'Codename: Kids Next Door Trading Card Game'
-  bgg_id: 16977
-  status: summarized
-- name: Codenames
-  bgg_id: 178900
-  status: summarized
-- name: Coerceo
-  bgg_id: 84783
-  status: summarized
-- name: Coffee Rush
-  bgg_id: 377061
-  status: summarized
-- name: 'Cold War: CIA vs KGB'
-  bgg_id: 24742
-  status: summarized
-- name: Colomino
-  bgg_id: 10005
-  status: summarized
-- name: Colonial Diplomacy
-  bgg_id: 250
-  status: summarized
-- name: 'Colonial Twilight: The French-Algerian War, 1954-62'
-  bgg_id: 180199
-  status: summarized
-- name: Colony Delta
-  bgg_id: 11622
-  status: summarized
-- name: Colony
-  bgg_id: 192934
-  status: summarized
-- name: Coloretto
-  bgg_id: 5782
-  status: summarized
-- name: Colorito
-  bgg_id: 35346
-  status: summarized
-- name: Colosseum
-  bgg_id: 27746
-  status: summarized
-- name: Colt Express
-  bgg_id: 158899
-  status: summarized
-- name: Comanauts
-  bgg_id: 256883
-  status: summarized
-- name: 'Combat Commander: Europe'
-  bgg_id: 21050
-  status: summarized
-- name: 'Combat Commander: Pacific'
-  bgg_id: 28181
-  status: summarized
-- name: Comet
-  bgg_id: 381078
-  status: summarized
-- name: Commander Chess
-  bgg_id: 191203
-  status: summarized
-- name: 'Commands & Colors: Ancients'
-  bgg_id: 14105
-  status: summarized
-- name: 'Commands & Colors: Napoleonics'
-  bgg_id: 62222
-  status: summarized
-- name: Commonspoly
-  bgg_id: 438998
-  status: summarized
-- name: Complots
-  bgg_id: 188188
-  status: summarized
-- name: Composio
-  bgg_id: 20112
-  status: summarized
-- name: Conan Collectible Card Game
-  bgg_id: 23387
-  status: summarized
-- name: Conan
-  bgg_id: 160010
-  status: summarized
-- name: 'Concept Kids: Animals'
-  bgg_id: 247314
-  status: summarized
-- name: Concept
-  bgg_id: 147151
-  status: summarized
-- name: Concilium Urbis
-  bgg_id: 416817
-  status: summarized
-- name: Condottiere
-  bgg_id: 112
-  status: summarized
-- name: "Conflict of Heroes: Awakening the Bear! \u2013 Russia 1941-42"
-  bgg_id: 24800
-  status: summarized
-- name: "Conflict of Heroes: Storms of Steel! \u2013 Kursk 1943"
-  bgg_id: 38823
-  status: summarized
-- name: Conflict
-  bgg_id: 4325
-  status: summarized
-- name: Confrontation
-  bgg_id: 7742
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Congkak
-  bgg_id: 255613
-  status: not_found
-  notes: No English rulebook PDF found
-- name: ConHex
-  bgg_id: 10989
-  status: summarized
-- name: Connect 4x4
-  bgg_id: 42685
-  status: summarized
-- name: Connect Four
-  bgg_id: 2719
-  status: summarized
-- name: Connections
-  bgg_id: 3370
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Connex'Oh
-  bgg_id: 19825
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Conquest of Nerath
-  bgg_id: 92044
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Conquest of the Empire
-  bgg_id: 97
-  status: summarized
-- name: Conquest
-  bgg_id: 67
-  status: not_found
-  notes: No English rulebook PDF found
-- name: 'Conquistador: The Age of Exploration'
-  bgg_id: 1506
-  status: summarized
-- name: Consentacle
-  bgg_id: 166976
-  status: summarized
-- name: Conspiracy
-  bgg_id: 697
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Conspirateurs
-  bgg_id: 60707
-  status: summarized
-- name: Container
-  bgg_id: 26990
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Contigo
-  bgg_id: 2545
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Continuo
-  bgg_id: 1190
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Contrario
-  bgg_id: 15271
-  status: summarized
-- name: Cootie
-  bgg_id: 4378
-  status: summarized
-- name: Copa
-  bgg_id: 148730
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Coppit
-  bgg_id: 1730
-  status: not_found
-  notes: No English rulebook PDF found
-- name: CoraQuest
-  bgg_id: 318546
-  status: summarized
-- name: Core Worlds
-  bgg_id: 98351
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Corona
-  bgg_id: 1000
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Corsaro
-  bgg_id: 5136
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cosmail
-  bgg_id: 212300
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cosmic Coasters
-  bgg_id: 1771
-  status: summarized
-- name: Cosmic Encounter
-  bgg_id: 15
-  status: summarized
-- name: Cosmic Journey
-  bgg_id: 33494
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cosmic Wimpout
-  bgg_id: 1302
-  status: summarized
-- name: Cottage Garden
-  bgg_id: 204027
-  status: summarized
-- name: Coup
-  bgg_id: 131357
-  status: summarized
-- name: Court of the Medici
-  bgg_id: 37208
-  status: summarized
-- name: Cowgirls
-  bgg_id: 8083
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Coyote
-  bgg_id: 8172
-  status: summarized
-- name: Crack List
-  bgg_id: 373284
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Cranium Whoonu
-  bgg_id: 16035
-  status: summarized
-- name: Cranium
-  bgg_id: 891
-  status: summarized
-- name: Crappy Birthday
-  bgg_id: 88402
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crash by Crash
-  bgg_id: 38464
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crash! The Bankrupt Game
-  bgg_id: 8443
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crazy Circus
-  bgg_id: 5478
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crazy Time
-  bgg_id: 147614
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crescendo
-  bgg_id: 6634
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crimson Skies
-  bgg_id: 3855
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Critter Kitchen
-  bgg_id: 393429
-  status: summarized
-- name: Crocodile Dentist
-  bgg_id: 10453
-  status: summarized
-- name: Crokinole
-  bgg_id: 521
-  status: summarized
-- name: 'Crossbows & Catapults: Fortress War'
-  bgg_id: 2129
-  status: not_found
-  notes: Rules file not found
-- name: Crossfire
-  bgg_id: 2816
-  status: summarized
-- name: Crossings
-  bgg_id: 21845
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crows
-  bgg_id: 71973
-  status: summarized
-- name: 'Crude: The Oil Game'
-  bgg_id: 147
-  status: not_found
-  notes: No English rulebook PDF found
-- name: Crusader Rex
-  bgg_id: 8481
   status: flagged
+- bgg_id: 234673
+  name: '1918: Brother Against Brother'
+  notes: No English rulebook PDF found
+  pdf_url: http://www.lindenlakegames.com/wp-content/uploads/2018/02/BaB_rules_27FEB2018.pdf
+  play_time: 90-150 min
+  player_count: '2'
+  status: downloaded
+- bgg_id: 27680
+  name: 1936 Guerra Civil
+  notes: Publisher site download links broken. BGG files page returns 403.
+  play_time: 120-240 min
+  player_count: '2'
+  status: not_found
+- bgg_id: 27708
+  designer: Christian Leonhard, Jason Matthews
+  name: '1960: The Making of the President'
+  pdf_url: https://cdn.1j1ju.com/medias/2e/f6/79-1960-the-making-of-the-president-rulebook.pdf
+  play_time: 90-120 min
+  player_count: '2'
+  status: summarized
+- bgg_id: 26997
+  name: '1989: Dawn of Freedom'
+  status: summarized
+- bgg_id: 36522
+  name: 2 de Mayo
+  notes: PDF blocked 403
+  status: not_found
+- bgg_id: 3377
+  name: 20 Questions
+  status: summarized
+- bgg_id: 1275
+  name: '221B Baker Street: The Master Detective Game'
+  notes: Rules sourced from web
+  status: summarized
+- bgg_id: 32597
+  name: 3-6-9
+  notes: Rules sourced from web
+  status: summarized
+- bgg_id: 423517
+  name: 3 Chapters
+  notes: New game, no rulebook PDF found
+  status: not_found
+- bgg_id: 7834
+  name: 3-stones
+  notes: Out of print, no PDF found
+  status: not_found
+- bgg_id: 25213
+  name: 30 Seconds
+  notes: Rules sourced from web
+  status: summarized
+- bgg_id: 1435
+  name: 4000 A.D.
+  notes: PDF blocked 403
+  status: not_found
+- bgg_id: 675
+  name: 4th Dimension
+  notes: Out of print, no PDF found
+  status: not_found
+- bgg_id: 86073
+  name: 5 Seconds Rule
+  status: summarized
+- bgg_id: 192458
+  name: '51st State: Master Set'
+  status: summarized
+- bgg_id: 357726
+  name: '51st State: Ultimate Edition'
+  status: summarized
+- bgg_id: 4920
+  name: '5th Fleet: Modern Naval Combat in the Indian Ocean'
+  notes: Only paywalled copies found
+  status: not_found
+- bgg_id: 40958
+  name: 6 nimmt! Junior
+  status: summarized
+- bgg_id: 515
+  name: 6-Tage Rennen
+  notes: Obscure German promotional game
+  status: not_found
+- bgg_id: 3870
+  name: 7 Ages
+  status: summarized
+- bgg_id: 346703
+  name: '7 Wonders: Architects'
+  status: summarized
+- bgg_id: 7243
+  name: 8th Army
+  notes: No rulebook PDF available online
+  status: not_found
+- bgg_id: 38386
+  name: A Castle for All Seasons
+  status: summarized
+- bgg_id: 217949
+  name: A Column of Fire
+  status: summarized
+- bgg_id: 127518
+  name: A Distant Plain
+  status: summarized
+- bgg_id: 177736
+  name: A Feast for Odin
+  status: summarized
+- bgg_id: 79828
+  name: A Few Acres of Snow
+  status: summarized
+- bgg_id: 229218
+  name: 'A Game of Thrones: Catan – Brotherhood of the Watch'
+  status: summarized
+- bgg_id: 6472
+  name: 'A Game of Thrones: The Board Game'
+  status: summarized
+- bgg_id: 39953
+  name: 'A Game of Thrones: The Card Game'
+  status: summarized
+- bgg_id: 5476
+  name: 'A Gleam of Bayonets: The Battle of Antietam'
+  notes: Only system intro PDF found
+  status: not_found
+- bgg_id: 701
+  name: 'A House Divided: War Between the States 1861-65'
+  status: summarized
+- bgg_id: 217
+  name: A la Carte
+  status: summarized
+- bgg_id: 2061
+  name: A Line in the Sand
+  notes: No rulebook PDF found
+  status: not_found
+- bgg_id: 2666
+  name: A Mighty Fortress
+  notes: No freely downloadable PDF found
+  status: not_found
+- bgg_id: 141517
+  name: A Study in Emerald
+  status: summarized
+- bgg_id: 416
+  name: A to Z
+  notes: No rulebook PDF found
+  status: not_found
+- bgg_id: 99277
+  name: A Trip To Mars
+  notes: No rulebook PDF found
+  status: not_found
+- bgg_id: 19622
+  name: A Victory Lost
+  notes: Publisher does not host rules publicly
+  status: not_found
+- bgg_id: 7614
+  name: A World at War
+  notes: Rules as HTML only, not PDF
+  status: not_found
+- bgg_id: 526
+  name: Abalone
+  status: summarized
+- bgg_id: 21324
+  name: Abande
+  status: extracted
+- bgg_id: 179687
+  name: ABBA Monopoly
+  status: summarized
+- bgg_id: 906
+  name: Abilene
+  status: summarized
+- bgg_id: 65516
+  name: Ablaze!
+  status: summarized
+- bgg_id: 32337
+  name: About Time
+  status: summarized
+- bgg_id: 155987
+  name: Abyss
+  status: summarized
+- bgg_id: 9060
+  name: Accasta
+  status: summarized
+- bgg_id: 6504
+  name: 'Ace of Aces: Wingleader'
+  status: summarized
+- bgg_id: 798
+  name: Ace of Aces
+  status: summarized
+- bgg_id: 172454
+  name: ACHTUNG!
+  status: summarized
+- bgg_id: 5
+  name: Acquire
+  status: summarized
+- bgg_id: 12646
+  name: Acronymble
+  status: summarized
+- bgg_id: 9577
+  name: 'Across Suez: The Battle of the Chinese Farm'
+  status: summarized
+- bgg_id: 8790
+  name: Activity
+  status: summarized
+- bgg_id: 38343
+  name: Ad Astra
+  status: summarized
+- bgg_id: 51195
+  name: Adaptoid
+  status: summarized
+- bgg_id: 337324
+  name: A.D.E.L.E.
+  status: summarized
+- bgg_id: 39647
+  name: Adji-boto
+  status: summarized
+- bgg_id: 2942
+  name: Admirals
+  status: summarized
+- bgg_id: 334
+  name: Advance to Boardwalk
+  status: summarized
+- bgg_id: 177
+  name: Advanced Civilization
+  status: summarized
+- bgg_id: 15126
+  name: 'Advanced Squad Leader: Starter Kit #2'
+  status: summarized
+- bgg_id: 20542
+  name: 'Advanced Squad Leader: Starter Kit #3'
+  status: summarized
+- bgg_id: 283
+  name: Advanced Third Reich
+  status: summarized
+- bgg_id: 183231
+  name: Adventure Land
+  status: summarized
+- bgg_id: 1405
+  name: Adventurer
+  status: summarized
+- bgg_id: 8196
+  name: AeroTech
+  status: summarized
+- bgg_id: 96703
+  name: 'Aether Captains: Clockwork Cabal'
+  status: summarized
+- bgg_id: 86003
+  name: Aether Captains
+  status: summarized
+- bgg_id: 68943
+  name: Aether
+  status: summarized
+- bgg_id: 23498
+  name: Affenstark
+  status: summarized
+- bgg_id: 34189
+  name: Aficionado
+  status: summarized
+- bgg_id: 2259
+  name: Afrika Korps
+  status: summarized
+- bgg_id: 165320
+  name: 'Afrikan tähti: Retkikunnat'
+  status: summarized
+- bgg_id: 5130
+  name: Afrikan tähti
+  status: summarized
+- bgg_id: 5475
+  name: After the Holocaust
+  status: summarized
+- bgg_id: 281946
+  name: Aftermath
+  status: summarized
+- bgg_id: 27165
+  name: Age of Discovery
+  status: summarized
+- bgg_id: 22545
+  name: 'Age of Empires III: The Age of Discovery'
+  status: summarized
+- bgg_id: 65901
+  name: Age of Industry
+  status: summarized
+- bgg_id: 6707
+  name: 'Age of Mythology: The Boardgame'
+  status: summarized
+- bgg_id: 8490
+  name: Age of Napoleon
+  status: summarized
+- bgg_id: 26
+  name: Age of Renaissance
+  status: summarized
+- bgg_id: 4098
+  name: Age of Steam
+  status: summarized
+- bgg_id: 2272
+  name: Aggravation
+  status: summarized
+- bgg_id: 3615
+  name: Agincourt
+  status: summarized
+- bgg_id: 5168
+  name: Agon
+  status: extracted
+- bgg_id: 119890
+  name: 'Agricola: All Creatures Big and Small'
+  status: summarized
+- bgg_id: 45020
+  name: Agricola Express
+  status: summarized
+- bgg_id: 31260
+  name: Agricola
+  status: summarized
+- bgg_id: 3044
+  name: Air Assault on Crete
+  status: summarized
+- bgg_id: 76
+  name: Air Baron
+  status: summarized
+- bgg_id: 1629
+  name: Air War
+  status: summarized
+- bgg_id: 42651
+  name: Airborne in My Pocket
+  status: summarized
+- bgg_id: 90419
+  name: Airlines Europe
+  status: summarized
+- bgg_id: 32116
+  name: Airships
+  status: summarized
+- bgg_id: 10889
+  name: Akron
+  status: summarized
+- bgg_id: 357563
+  name: Akropolis
+  status: summarized
+- bgg_id: 39636
+  name: Aku Ankka
+  status: summarized
+- bgg_id: 492
+  name: Aladdin's Dragons
+  status: summarized
+- bgg_id: 6740
+  name: 'Alaric the Goth: Fall of the Western Roman Empire'
+  status: summarized
+- bgg_id: 1387
+  name: Alaska
+  status: summarized
+- bgg_id: 45319
+  name: Alcazar
+  status: summarized
+- bgg_id: 161970
+  name: Alchemists
+  status: summarized
+- bgg_id: 187517
+  name: Alemungula
+  status: summarized
+- bgg_id: 1726
+  name: Alexander the Great
+  status: summarized
+- bgg_id: 6249
+  name: Alhambra
+  status: summarized
+- bgg_id: 3818
+  name: Alias
+  status: summarized
+- bgg_id: 2756
+  name: 'Alien Contact: Extraterrestrial Empires in Conflict'
+  status: summarized
+- bgg_id: 48726
+  name: Alien Frontiers
+  status: summarized
+- bgg_id: 8046
+  name: Alien Space Battle Manual
+  status: summarized
+- bgg_id: 69851
+  name: Aliens
+  status: summarized
+- bgg_id: 3157
+  name: All Star Baseball
+  status: summarized
+- bgg_id: 1289
+  name: All The King's Men
+  status: summarized
+- bgg_id: 10893
+  name: 'Allegiance: War of Factions'
+  status: summarized
+- bgg_id: 4832
+  name: Allenby's Blitzkrieg
+  status: summarized
+- bgg_id: 167948
+  name: Almirante
+  status: summarized
+- bgg_id: 1443
+  name: Alpha Blitz
+  status: summarized
+- bgg_id: 17826
+  name: Alpha Nature
+  status: summarized
+- bgg_id: 11464
+  name: Alquerque
+  status: summarized
+- bgg_id: 234487
+  name: Altiplano
+  status: summarized
+- bgg_id: 1608
+  name: Ambush!
+  status: summarized
+- bgg_id: 639
+  name: American Megafauna
+  status: summarized
+- bgg_id: 137408
+  name: Amerigo
+  status: summarized
+- bgg_id: 982
+  name: Amoeba Wars
+  status: summarized
+- bgg_id: 5404
+  name: Amun-Re
+  status: summarized
+- bgg_id: 31887
+  name: AmuseAmaze
+  status: summarized
+- bgg_id: 14038
+  name: Anachronism
+  status: summarized
+- bgg_id: 3359
+  name: Anagrams
+  status: summarized
+- bgg_id: 24224
+  name: Anasazi
+  status: summarized
+- bgg_id: 229240
+  name: Ancestree
+  status: summarized
+- bgg_id: 245704
+  name: Anchors Aweigh!
+  status: summarized
+- bgg_id: 338093
+  name: Ancient Knowledge
+  status: summarized
+- bgg_id: 1782
+  name: Ancients
+  status: extracted
+- bgg_id: 11893
+  name: Andantino
+  status: summarized
+- bgg_id: 91080
+  name: Andean Abyss
+  status: summarized
+- bgg_id: 295488
+  name: 'Andor: The Family Fantasy Game'
+  status: summarized
+- bgg_id: 124742
+  name: 'Android: Netrunner'
+  status: summarized
+- bgg_id: 39339
+  name: Android
+  status: summarized
+- bgg_id: 4688
+  name: Angola
+  status: summarized
+- bgg_id: 89962
+  name: 'Angry Birds: Knock on Wood'
+  status: summarized
+- bgg_id: 84464
+  name: 'Animal Upon Animal: Balancing Bridge'
+  status: summarized
+- bgg_id: 17329
+  name: Animal Upon Animal
+  status: summarized
+- bgg_id: 212388
+  name: Animouv
+  status: summarized
+- bgg_id: 8166
+  name: Anno 1503
+  status: summarized
+- bgg_id: 31897
+  name: Anno 1701
+  status: summarized
+- bgg_id: 2837
+  name: Ant Wars
+  status: summarized
+- bgg_id: 1931
+  name: Anti-Monopoly
+  status: summarized
+- bgg_id: 104955
+  name: Antike Duellum
+  status: summarized
+- bgg_id: 19600
+  name: Antike
+  status: summarized
+- bgg_id: 30483
+  name: Antler Island
+  status: summarized
+- bgg_id: 8487
+  name: Ants in the Pants
+  status: summarized
+- bgg_id: 446699
+  name: Ants
+  status: summarized
+- bgg_id: 4173
+  name: Anzio
+  status: summarized
+- bgg_id: 2574
+  name: Apocalypse
+  status: summarized
+- bgg_id: 74
+  name: Apples to Apples
+  status: summarized
+- bgg_id: 20080
+  name: Aqua Romana
+  status: summarized
+- bgg_id: 295948
+  name: Aqualin
+  status: summarized
+- bgg_id: 34194
+  name: Aquaretto
+  status: summarized
+- bgg_id: 814
+  name: Aquarius
+  status: summarized
+- bgg_id: 208707
+  name: Aquatika
+  status: summarized
+- bgg_id: 3218
+  name: Arab-Israeli Wars
+  status: summarized
+- bgg_id: 405012
+  name: Arbolito
+  status: summarized
+- bgg_id: 371077
+  name: Arborea
+  status: summarized
+- bgg_id: 17006
+  name: Arcanor
+  status: summarized
+- bgg_id: 105551
+  name: Archipelago
+  status: summarized
+- bgg_id: 41541
+  name: Are You the Traitor?
+  status: summarized
+- bgg_id: 3533
+  name: Arena of Death
+  status: summarized
+- bgg_id: 56931
+  name: 'Arena: Roma II'
+  status: summarized
+- bgg_id: 144797
+  name: 'Argent: The Consortium'
+  status: summarized
+- bgg_id: 25643
+  name: Arkadia
+  status: summarized
+- bgg_id: 77548
+  name: Arkham Express
+  status: summarized
+- bgg_id: 34
+  name: Arkham Horror (First Edition)
+  status: summarized
+- bgg_id: 15987
+  name: Arkham Horror (2nd Edition)
+  status: summarized
+- bgg_id: 257499
+  name: Arkham Horror (Third Edition)
+  status: summarized
+- bgg_id: 3484
+  name: Armada
+  status: summarized
+- bgg_id: 17522
+  name: Armageddon
+  status: summarized
+- bgg_id: 4176
+  name: Armies of Arcana
+  status: summarized
+- bgg_id: 395375
+  name: Art Society
+  status: summarized
+- bgg_id: 6541
+  name: Articulate!
+  status: summarized
+- bgg_id: 4271
+  name: Artifact
+  status: summarized
+- bgg_id: 92643
+  name: Artus
+  status: summarized
+- bgg_id: 219650
+  name: 'Arydia: The Paths We Dare Tread'
+  status: summarized
+- bgg_id: 72991
+  name: Asara
+  status: summarized
+- bgg_id: 37919
+  name: Ascending Empires
+  status: summarized
+- bgg_id: 69789
+  name: 'Ascension: Deckbuilding Game'
+  status: summarized
+- bgg_id: 11780
+  name: ASG Baseball
+  status: summarized
+- bgg_id: 13776
+  name: Ashtapada
+  status: summarized
+- bgg_id: 20609
+  name: Asia Engulfed
+  status: summarized
+- bgg_id: 14832
+  name: Assault Across the Suez
+  status: summarized
+- bgg_id: 3548
+  name: 'Assault on Hoth: The Empire Strikes Back'
+  status: summarized
+- bgg_id: 61798
+  name: Astérix et la Potion magique
+  status: summarized
+- bgg_id: 2746
+  name: Asteroid Pirates
+  status: summarized
+- bgg_id: 1772
+  name: Asteroid
+  status: summarized
+- bgg_id: 65200
+  name: Asteroyds
+  status: summarized
+- bgg_id: 25772
+  name: Astoria
+  status: summarized
+- bgg_id: 1865
+  name: Astrotime
+  status: summarized
+- bgg_id: 39683
+  name: At the Gates of Loyang
+  status: summarized
+- bgg_id: 8872
+  name: Atlanta
+  status: summarized
+- bgg_id: 5485
+  name: Atlantic Wall
+  status: summarized
+- bgg_id: 10682
+  name: Atlas & Zeus
+  status: summarized
+- bgg_id: 19999
+  name: Aton
+  status: summarized
+- bgg_id: 2706
+  name: Attack of the Mutants!
+  status: summarized
+- bgg_id: 6752
+  name: Attack!
+  status: summarized
+- bgg_id: 24025
+  name: Attacktix Battle Figure Game Marvel Superheroes
+  status: summarized
+- bgg_id: 17274
+  name: 'Attacktix Battle Figure Game: Star Wars'
+  status: summarized
+- bgg_id: 24525
+  name: Attangle
+  status: summarized
+- bgg_id: 8051
+  name: Attika
+  status: summarized
+- bgg_id: 827
+  name: Attila
+  status: summarized
+- bgg_id: 110
+  name: Auf Achse
+  status: extracted
+- bgg_id: 130223
+  name: Auf die Nüsse!
+  status: summarized
+- bgg_id: 369560
+  name: Aurignac
+  status: summarized
+- bgg_id: 772
+  name: Ausbrecher AG
+  status: summarized
+- bgg_id: 5052
+  name: Austerlitz
+  status: summarized
+- bgg_id: 15033
+  name: Australia
+  status: summarized
+- bgg_id: 39351
+  name: Automobile
+  status: summarized
+- bgg_id: 9092
+  name: Avalam
+  status: summarized
+- bgg_id: 446
+  name: Avalanche
+  status: summarized
+- bgg_id: 22469
+  name: 'Avatar: The Last Airbender Trading Card Game'
+  status: summarized
+- bgg_id: 494
+  name: Ave Caesar
+  status: summarized
+- bgg_id: 34481
+  name: Awithlaknakwe
+  status: summarized
+- bgg_id: 820
+  name: Axiom
+  status: summarized
+- bgg_id: 35052
+  name: Axis & Allies Anniversary Edition
+  status: summarized
+- bgg_id: 22457
+  name: 'Axis & Allies: Battle of the Bulge'
+  status: summarized
+- bgg_id: 10081
+  name: 'Axis & Allies: D-Day'
+  status: summarized
+- bgg_id: 520
+  name: 'Axis & Allies: Europe'
+  status: extracted
+- bgg_id: 29259
+  name: 'Axis & Allies: Guadalcanal'
+  status: extracted
+- bgg_id: 1262
+  name: 'Axis & Allies: Pacific'
+  status: extracted
+- bgg_id: 18723
+  name: Aye, Dark Overlord!
+  status: summarized
+- bgg_id: 28302
+  name: Ayoayo
+  status: summarized
+- bgg_id: 1071
+  name: Aztec
+  status: summarized
+- bgg_id: 1032
+  name: B-17, Queen of the Skies
+  status: summarized
+- bgg_id: 986
+  name: Babel
+  status: summarized
+- bgg_id: 13455
+  name: 'Babylon 5: A Call to Arms'
+  status: summarized
+- bgg_id: 2397
+  name: Backgammon
+  status: summarized
+- bgg_id: 123386
+  name: Baden-Württemberg Catan
+  status: summarized
+- bgg_id: 123417
+  name: Bagatelle
+  status: summarized
+- bgg_id: 315
+  name: Bagh-Chal
+  status: summarized
+- bgg_id: 55127
+  name: Bailout! The Game
+  status: summarized
+- bgg_id: 4150
+  name: Bakari
+  status: summarized
+- bgg_id: 1504
+  name: Bakschisch
+  status: summarized
+- bgg_id: 410273
+  name: Balconia
+  status: summarized
+- bgg_id: 163
+  name: Balderdash
+  status: summarized
+- bgg_id: 5716
+  name: Balloon Cup
+  status: summarized
+- bgg_id: 18104
+  name: Banana Express
+  status: summarized
+- bgg_id: 30933
+  name: BANG! The Bullet!
+  status: summarized
+- bgg_id: 29741
+  name: Banqi
+  status: summarized
+- bgg_id: 14186
+  name: Bao
+  status: summarized
+- bgg_id: 3251
+  name: Barbarian Kings
+  status: extracted
+- bgg_id: 1631
+  name: Barbarian Prince
+  status: summarized
+- bgg_id: 5541
+  name: 'Barbarossa: The Russo-German War 1941-45'
+  status: extracted
+- bgg_id: 550
+  name: Barbarossa
+  status: summarized
+- bgg_id: 9633
+  name: Barbie Queen of the Prom
+  status: summarized
+- bgg_id: 22085
+  name: Baron
+  status: summarized
+- bgg_id: 86128
+  name: Barons
+  status: summarized
+- bgg_id: 251247
+  name: Barrage
+  status: summarized
+- bgg_id: 157779
+  name: Barragoon
+  status: summarized
+- bgg_id: 36550
+  name: Bashni
+  status: summarized
+- bgg_id: 4537
+  name: Baston
+  status: summarized
+- bgg_id: 3486
+  name: Bataclan
+  status: summarized
+- bgg_id: 3706
+  name: Batik
+  status: summarized
+- bgg_id: 2458
+  name: 'Battle Cattle: The Card Game'
+  status: summarized
+- bgg_id: 551
+  name: Battle Cry
+  status: extracted
+- bgg_id: 6112
+  name: Battle Dome
+  status: extracted
+- bgg_id: 3177
+  name: Battle for Armageddon
+  status: summarized
+- bgg_id: 3986
+  name: Battle for Germany
+  status: summarized
+- bgg_id: 6544
+  name: Battle for Moscow
+  status: extracted
+- bgg_id: 234477
+  name: Battle for Rokugan
+  status: summarized
+- bgg_id: 700
+  name: Battle Masters
+  status: extracted
+- bgg_id: 16444
+  name: Battle of the Bulge
+  status: summarized
+- bgg_id: 4278
+  name: Battle Over Britain
+  status: summarized
+- bgg_id: 10966
+  name: Battle Rider
+  status: summarized
+- bgg_id: 54137
+  name: Battle Sheep
+  status: summarized
+- bgg_id: 14757
+  name: Battle-Sphere
+  status: summarized
+- bgg_id: 2368
+  name: Battlecars
+  status: summarized
+- bgg_id: 89409
+  name: 'BattleCON: War of Indines'
+  status: summarized
+- bgg_id: 3616
+  name: BattleForce
+  status: summarized
+- bgg_id: 30328
+  name: 'Battleground: Crossbows & Catapults'
+  status: summarized
+- bgg_id: 18985
+  name: Battleground
+  status: summarized
+- bgg_id: 17480
+  name: Battlelords
+  status: summarized
+- bgg_id: 25417
+  name: BattleLore
+  status: summarized
+- bgg_id: 93360
+  name: Battles for a Continent
+  status: summarized
+- bgg_id: 7092
+  name: Battles for the Ardennes
+  status: summarized
+- bgg_id: 18034
+  name: Battles of the Third Age
+  status: summarized
+- bgg_id: 67492
+  name: Battles of Westeros
+  status: extracted
+- bgg_id: 93538
+  name: Battleship Galaxies
+  status: extracted
+- bgg_id: 2425
+  name: Battleship
+  status: summarized
+- bgg_id: 7470
+  name: BattleSpace
+  status: summarized
+- bgg_id: 19671
+  name: Battlestar Galactica Collectable Card Game
+  status: summarized
+- bgg_id: 37111
+  name: 'Battlestar Galactica: The Board Game'
+  status: summarized
+- bgg_id: 3271
+  name: Battlesuit
+  status: summarized
+- bgg_id: 3487
+  name: BattleTech Collectible Card Game
+  status: summarized
+- bgg_id: 1540
+  name: BattleTech
+  status: summarized
+- bgg_id: 7943
+  name: BattleTroops
+  status: summarized
+- bgg_id: 4934
+  name: Battling Tops
+  status: summarized
+- bgg_id: 22503
+  name: Bau Cua Ca Cop
+  status: summarized
+- bgg_id: 269624
+  name: Bauernhof-Bande
+  status: summarized
+- bgg_id: 19842
+  name: Bauernroulette
+  status: summarized
+- bgg_id: 1588
+  name: Bauernschlau
+  status: summarized
+- bgg_id: 1231
+  name: Bausack
+  status: summarized
+- bgg_id: 4298
+  name: 'Beachhead: A Game of Island Invasions in the South Pacific 1942-1944'
+  status: summarized
+- bgg_id: 92247
+  name: Beagle-opoly
+  status: summarized
+- bgg_id: 281549
+  name: Beast
+  status: summarized
+- bgg_id: 175
+  name: Beat the Buzzard
+  status: summarized
+- bgg_id: 8486
+  name: Bed Bugs
+  status: summarized
+- bgg_id: 6914
+  name: Beda Fomm
+  status: summarized
+- bgg_id: 205346
+  name: Beer Empire
+  status: summarized
+- bgg_id: 28723
+  name: Before the Wind
+  status: summarized
+- bgg_id: 50750
+  name: Belfort
+  status: summarized
+- bgg_id: 259374
+  name: Belratti
+  status: summarized
+- bgg_id: 4316
+  name: Belter
+  status: summarized
+- bgg_id: 28298
+  name: Bendomino
+  status: summarized
+- bgg_id: 17449
+  name: 'Beowulf: The Legend'
+  status: summarized
+- bgg_id: 27948
+  name: Beppo der Bock
+  status: summarized
+- bgg_id: 4839
+  name: 'Berlin ''85: The Enemy at the Gates'
+  status: summarized
+- bgg_id: 2296
+  name: Bermuda Triangle
+  status: summarized
+- bgg_id: 18757
+  name: Bermude
+  status: summarized
+- bgg_id: 10547
+  name: Betrayal at House on the Hill
+  status: summarized
+- bgg_id: 8786
+  name: Beyblade Trading Card Game
+  status: summarized
+- bgg_id: 32441
+  name: Bezzerwizzer
+  status: summarized
+- bgg_id: 34219
+  name: Biblios
+  status: summarized
+- bgg_id: 307534
+  name: Big Adventure
+  status: summarized
+- bgg_id: 313
+  name: Big Boss
+  status: summarized
+- bgg_id: 18741
+  name: Big Elementary School Game
+  status: summarized
+- bgg_id: 20228
+  name: Big Kini
+  status: summarized
+- bgg_id: 464
+  name: Billabong
+  status: summarized
+- bgg_id: 39787
+  name: Bindle Rails
+  status: summarized
+- bgg_id: 2422
+  name: Bismarck
+  status: summarized
+- bgg_id: 1527
+  name: Bitin' Off Hedz
+  status: summarized
+- bgg_id: 89668
+  name: Bits
+  status: summarized
+- bgg_id: 13765
+  name: Bizingo
+  status: summarized
+- bgg_id: 436055
+  name: 'Black Book: The Board Game'
+  status: summarized
+- bgg_id: 165
+  name: Black Box
+  status: summarized
+- bgg_id: 39242
+  name: Black Friday
+  status: summarized
+- bgg_id: 3465
+  name: Black Hole
+  status: summarized
+- bgg_id: 235
+  name: Blackbeard
+  status: summarized
+- bgg_id: 12385
+  name: Bladestorm
+  status: summarized
+- bgg_id: 28838
+  name: Bleach Trading Card Game
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1197
+  name: Blink
+  status: summarized
+- bgg_id: 330
+  name: Block Mania
+  status: summarized
+- bgg_id: 2559
+  name: Blockade
+  status: summarized
+- bgg_id: 16395
+  name: Blokus Duo
+  status: summarized
+- bgg_id: 2453
+  name: Blokus
+  status: summarized
+- bgg_id: 90137
+  name: 'Blood Bowl: Team Manager – The Card Game'
+  status: summarized
+- bgg_id: 3071
+  name: Blood Bowl
+  status: summarized
+- bgg_id: 14258
+  name: Blood Feud in New York
+  status: summarized
+- bgg_id: 170216
+  name: Blood Rage
+  status: summarized
+- bgg_id: 248
+  name: Blood Royale
+  status: summarized
+- bgg_id: 24372
+  name: Bloodbath at the Sakarya
+  status: summarized
+- bgg_id: 11139
+  name: 'Bloody April: The Battle of Shiloh, 1862'
+  status: summarized
+- bgg_id: 11964
+  name: Bloody Ridge
+  status: summarized
+- bgg_id: 34227
+  name: Blox
+  status: summarized
+- bgg_id: 4564
+  name: 'Blue & Gray: Four American Civil War Battles'
+  status: summarized
+- bgg_id: 19254
+  name: Blue & Gray
+  status: summarized
+- bgg_id: 508
+  name: Blue Max
+  status: summarized
+- bgg_id: 21882
+  name: Blue Moon City
+  status: summarized
+- bgg_id: 58782
+  name: Bluffer
+  status: summarized
+- bgg_id: 4247
+  name: Boarding Party
+  status: summarized
+- bgg_id: 32048
+  name: Bobbin' Bumblebee
+  status: summarized
+- bgg_id: 413246
+  name: Bomb Busters
+  status: summarized
+- bgg_id: 4646
+  name: Bommerz over da Sulphur River
+  status: summarized
+- bgg_id: 15839
+  name: Bonaparte at Marengo
+  status: summarized
+- bgg_id: 1943
+  name: Bonkers!
+  status: summarized
+- bgg_id: 16320
+  name: Bonnie and Clyde
+  status: summarized
+- bgg_id: 32742
+  name: Bookchase
+  status: summarized
+- bgg_id: 235467
+  name: Boom, Bang, Gold
+  status: summarized
+- bgg_id: 10997
+  name: Boomtown
+  status: summarized
+- bgg_id: 343905
+  name: Boonlake
+  status: summarized
+- bgg_id: 23920
+  name: Border Reivers
+  status: summarized
+- bgg_id: 40
+  name: Borderlands
+  status: summarized
+- bgg_id: 32164
+  name: Borneo
+  status: summarized
+- bgg_id: 252
+  name: Borodino
+  status: summarized
+- bgg_id: 645
+  name: Bosworth
+  status: summarized
+- bgg_id: 619
+  name: Bottle Imp
+  status: summarized
+- bgg_id: 3226
+  name: Bowl Bound
+  status: summarized
+- bgg_id: 16233
+  name: Brain Chain
+  status: summarized
+- bgg_id: 33144
+  name: Brainstonz
+  status: summarized
+- bgg_id: 1866
+  name: Brainstorm
+  status: summarized
+- bgg_id: 148767
+  name: Brandon the Brave
+  status: summarized
+- bgg_id: 224517
+  name: 'Brass: Birmingham'
+  status: summarized
+- bgg_id: 28720
+  name: 'Brass: Lancashire'
+  status: summarized
+- bgg_id: 392
+  name: Brawl
+  status: summarized
+- bgg_id: 12694
+  name: Brax
+  status: summarized
+- bgg_id: 923
+  name: Breakaway Rider
+  status: summarized
+- bgg_id: 20203
+  name: 'Breakout: Normandy'
+  status: summarized
+- bgg_id: 19859
+  name: Breakscore
+  status: summarized
+- bgg_id: 3825
+  name: Breakthrough
+  status: summarized
+- bgg_id: 335
+  name: Breakthru
+  status: summarized
+- bgg_id: 332386
+  name: Brew
+  status: summarized
+- bgg_id: 3894
+  name: Brilliant Lances
+  status: summarized
+- bgg_id: 240
+  name: Britannia
+  status: summarized
+- bgg_id: 96
+  name: Broadsides and Boarding Parties
+  status: summarized
+- bgg_id: 2947
+  name: Broker
+  status: summarized
+- bgg_id: 172308
+  name: Broom Service
+  status: summarized
+- bgg_id: 136888
+  name: Bruges
+  status: summarized
+- bgg_id: 144592
+  name: Bruxelles 1893
+  status: summarized
+- bgg_id: 341178
+  name: Bubble Stories
+  status: summarized
+- bgg_id: 22287
+  name: Buccaneer
+  status: summarized
+- bgg_id: 22908
+  name: Buck Rogers
+  status: summarized
+- bgg_id: 548
+  name: Buck Rogers – Battle for the 25th Century
+  status: summarized
+- bgg_id: 8930
+  name: Buffy the Vampire Slayer Collectible Card Game
+  status: summarized
+- bgg_id: 4379
+  name: Bug-Eyed Monsters
+  status: summarized
+- bgg_id: 5940
+  name: Bug Hunter
+  status: summarized
+- bgg_id: 28649
+  name: Bug-opoly
+  status: summarized
+- bgg_id: 153571
+  name: Bug Race
+  status: summarized
+- bgg_id: 22552
+  name: Bugs! Bugs! Bugs!
+  status: summarized
+- bgg_id: 13745
+  name: Bul
+  status: summarized
+- bgg_id: 8093
+  name: Bull's-Eye Ball
+  status: summarized
+- bgg_id: 3268
+  name: Bunker Poker
+  status: summarized
+- bgg_id: 59149
+  name: Bunny Bunny Moose Moose
+  status: summarized
+- bgg_id: 361335
+  name: Bunny Hops!
+  status: summarized
+- bgg_id: 184921
+  name: Bunny Kingdom
+  status: summarized
+- bgg_id: 28089
+  name: Burg Appenzell
+  status: summarized
+- bgg_id: 40962
+  name: Burg der 1000 Spiegel
+  status: summarized
+- bgg_id: 3341
+  name: Burn Rate
+  status: summarized
+- bgg_id: 37937
+  name: Burosh
+  status: summarized
+- bgg_id: 38707
+  name: Bushido
+  status: summarized
+- bgg_id: 17
+  name: Button Men
+  status: summarized
+- bgg_id: 8920
+  name: BuyWord
+  status: summarized
+- bgg_id: 114115
+  name: By the Sword!
+  status: summarized
+- bgg_id: 38032
+  name: Byzanz
+  status: summarized
+- bgg_id: 171499
+  name: Cacao
+  status: summarized
+- bgg_id: 132
+  name: Caesar & Cleopatra
+  status: summarized
+- bgg_id: 1430
+  name: Caesar
+  status: summarized
+- bgg_id: 1722
+  name: Caesar's Legions
+  status: summarized
+- bgg_id: 214
+  name: Café International
+  status: summarized
+- bgg_id: 1542
+  name: Calamity
+  status: summarized
+- bgg_id: 283155
+  name: Calico
+  status: summarized
+- bgg_id: 5251
+  name: Camelot
+  status: summarized
+- bgg_id: 117871
+  name: Camette
+  status: summarized
+- bgg_id: 12409
+  name: Camp Granada
+  status: summarized
+- bgg_id: 46255
+  name: Campaign Manager 2008
+  status: summarized
+- bgg_id: 3590
+  name: 'Campaign Trail: The Game of Presidential Elections'
+  status: summarized
+- bgg_id: 5454
+  name: Canadian Checkers
+  status: summarized
+- bgg_id: 4401
+  name: Canal Grande
+  status: summarized
+- bgg_id: 12004
+  name: 'Candamir: The First Settlers'
+  status: summarized
+- bgg_id: 5048
+  name: Candy Land
+  status: summarized
+- bgg_id: 217547
+  name: Can't Stop Express
+  status: summarized
+- bgg_id: 41
+  name: Can't Stop
+  status: summarized
+- bgg_id: 20731
+  name: Capes & Cowls
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1155
+  name: Capitol
+  status: summarized
+- bgg_id: 393325
+  name: Captain Flip
+  status: summarized
+- bgg_id: 219509
+  name: Captain Silver
+  status: summarized
+- bgg_id: 171131
+  name: Captain Sonar
+  status: summarized
+- bgg_id: 2795
+  name: Car Wars
+  status: extracted
+- bgg_id: 150
+  name: Carabande
+  status: summarized
+- bgg_id: 963
+  name: Carat
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 7717
+  name: 'Carcassonne: The Castle'
+  status: summarized
+- bgg_id: 12902
+  name: 'Carcassonne: The City'
+  status: summarized
+- bgg_id: 45748
+  name: 'Carcassonne: Wheel of Fortune'
+  status: extracted
+- bgg_id: 22924
+  name: Card football
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 2116
+  name: Cardino
+  status: summarized
+- bgg_id: 130882
+  name: 'Cardline: Animals'
+  status: summarized
+- bgg_id: 1475
+  name: Careers
+  status: summarized
+- bgg_id: 13301
+  name: Caribbean
+  status: summarized
+- bgg_id: 351937
+  name: Carla Caramel
+  status: summarized
+- bgg_id: 310873
+  name: Carnegie
+  status: extracted
+- bgg_id: 457386
+  name: Carnuta
+  status: summarized
+- bgg_id: 481
+  name: Carolus Magnus
+  status: summarized
+- bgg_id: 245934
+  name: Carpe Diem
+  status: summarized
+- bgg_id: 1679
+  name: Carrier
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 39938
+  name: Carson City
+  status: summarized
+- bgg_id: 826
+  name: Cartagena
+  status: summarized
+- bgg_id: 327076
+  name: 'Cartaventura: Lhasa'
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 263918
+  name: 'Cartographers: A Roll Player Tale'
+  status: summarized
+- bgg_id: 295947
+  name: Cascadia
+  status: summarized
+- bgg_id: 30324
+  name: 'Ca$h ''n Gun$: Live'
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 19237
+  name: Ca$h 'n Guns
+  status: extracted
+- bgg_id: 98189
+  name: Casse-toi pov' con
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 655
+  name: Castle
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 191065
+  name: Castle Flutterstone
+  status: summarized
+- bgg_id: 29411
+  name: Castle Knights
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1738
+  name: Castle of Magic
+  status: summarized
+- bgg_id: 43443
+  name: Castle Panic
+  status: summarized
+- bgg_id: 59946
+  name: 'Dungeons & Dragons: Castle Ravenloft Board Game'
+  status: summarized
+- bgg_id: 2557
+  name: Castle Risk
+  status: summarized
+- bgg_id: 155426
+  name: Castles of Mad King Ludwig
+  status: extracted
+- bgg_id: 345972
+  name: 'Cat in the Box: Deluxe Edition'
+  status: summarized
+- bgg_id: 57390
+  name: Catacombs
+  status: extracted
+- bgg_id: 17419
+  name: Catan 3D Collector's Edition
+  status: summarized
+- bgg_id: 161527
+  name: 'Catan: Ancient Egypt'
+  status: summarized
+- bgg_id: 152959
+  name: Catan - Anniversary Edition
+  status: extracted
+- bgg_id: 27710
+  name: Catan Dice Game
+  status: summarized
+- bgg_id: 20038
+  name: 'Catan: Event Cards'
+  status: summarized
+- bgg_id: 38749
+  name: 'Catan Geographies: Germany'
+  status: summarized
+- bgg_id: 32270
+  name: 'Catan Geographies: Settlers of Hesse'
+  status: summarized
+- bgg_id: 103091
+  name: 'Catan Histories: Merchants of Europe'
+  status: summarized
+- bgg_id: 244144
+  name: 'Catan Histories: Rise of the Inka'
+  status: summarized
+- bgg_id: 140743
+  name: Catan Junior Madagascar
+  status: extracted
+- bgg_id: 125921
+  name: Catan Junior
+  status: summarized
+- bgg_id: 3972
+  name: 'Catan: Portable Edition'
+  status: summarized
+- bgg_id: 259397
+  name: 'Catan Scenario: Crop Trust'
+  status: summarized
+- bgg_id: 131958
+  name: 'Catan Scenarios: Frenemies'
+  status: summarized
+- bgg_id: 310789
+  name: Catapult Feud
+  status: summarized
+- bgg_id: 13094
+  name: Category Game
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 7
+  name: Cathedral
+  status: summarized
+- bgg_id: 9973
+  name: 'Cauldron: Battle of Gazala, May 1942'
+  status: summarized
+- bgg_id: 25990
+  name: Cavaliers and Roundheads
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 102794
+  name: 'Caverna: The Cave Farmers'
+  status: summarized
+- bgg_id: 37734
+  name: Cavum
+  status: summarized
+- bgg_id: 18602
+  name: Caylus
+  status: summarized
+- bgg_id: 175117
+  name: Celestia
+  status: summarized
+- bgg_id: 21293
+  name: Celtica
+  status: summarized
+- bgg_id: 13921
+  name: Cemetery Hill
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 2080
+  name: Central America
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 3245
+  name: Cerberus
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1827
+  name: Chainsaw Warrior
+  status: summarized
+- bgg_id: 7654
+  name: Challenge The Yankees
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 3104
+  name: Chameleon
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 13614
+  name: Chancellorsville
+  status: summarized
+- bgg_id: 26458
+  name: Chandragupta
+  status: summarized
+- bgg_id: 29903
+  name: Chang Cheng
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 43111
+  name: Chaos in the Old World
+  status: summarized
+- bgg_id: 36799
+  name: Chapayev
+  status: summarized
+- bgg_id: 316
+  name: Chase
+  status: summarized
+- bgg_id: 18011
+  name: Chaturanga
+  status: summarized
+- bgg_id: 2083
+  name: Checkers
+  status: summarized
+- bgg_id: 310868
+  name: Checkmath
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 29773
+  name: Cheeky Monkey
+  status: summarized
+- bgg_id: 40819
+  name: Cheese Chasers
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 7644
+  name: Cherry Ames' Nursing Game
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 19685
+  name: Chess Mutation
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 171
+  name: Chess
+  status: summarized
+- bgg_id: 13036
+  name: Cheyenne
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1398
+  name: Chicago
+  status: summarized
+- bgg_id: 280203
+  name: Chicken Chicken
+  status: summarized
+- bgg_id: 724
+  name: 'Chill: Black Morn Manor'
+  status: summarized
+- bgg_id: 287515
+  name: 'China''s War: 1937-1941'
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 2386
+  name: Chinese Checkers
+  status: summarized
+- bgg_id: 8747
+  name: Chinese Farm
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 35769
+  name: Chinesenspiel
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 2194
+  name: 'Chitin: I'
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 19040
+  name: ChiZo Rising
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 25695
+  name: Chopstick Dexterity MegaChallenge 3000
+  status: summarized
+- bgg_id: 13328
+  name: Chromino
+  status: summarized
+- bgg_id: 239188
+  name: Chronicles of Crime
+  status: summarized
+- bgg_id: 43136
+  name: Chunky Fighters
+  status: summarized
+- bgg_id: 17209
+  name: Cineplexity
+  status: summarized
+- bgg_id: 2224
+  name: Circus Imperium
+  status: summarized
+- bgg_id: 244
+  name: Circus Maximus
+  status: summarized
+- bgg_id: 3248
+  name: Citadel of Blood
+  status: summarized
+- bgg_id: 286
+  name: Citadels
+  status: summarized
+- bgg_id: 38657
+  name: Cities
+  status: summarized
+- bgg_id: 267370
+  name: 'Cities: Skylines – The Board Game'
+  status: summarized
+- bgg_id: 39581
+  name: Citizen X
+  status: summarized
+- bgg_id: 1145
+  name: City of Chaos
+  status: summarized
+- bgg_id: 19766
+  name: City of Heroes Collectible Card Game
+  status: summarized
+- bgg_id: 7102
+  name: City of Sorcerers
+  status: summarized
+- bgg_id: 263895
+  name: City of the Great Machine
+  status: summarized
+- bgg_id: 4248
+  name: City States of Arklyrell
+  status: summarized
+- bgg_id: 6923
+  name: CityTech
+  status: summarized
+- bgg_id: 8220
+  name: Civil War
+  status: summarized
+- bgg_id: 77130
+  name: Civilization
+  status: summarized
+- bgg_id: 3633
+  name: 'Civilization: The Boardgame'
+  status: summarized
+- bgg_id: 26047
+  name: 'Civilization: The Card Game'
+  status: summarized
+- bgg_id: 26162
+  name: Claim It!
+  status: summarized
+- bgg_id: 13584
+  name: Clan War
+  status: summarized
+- bgg_id: 201808
+  name: 'Clank!: A Deck-Building Adventure'
+  status: summarized
+- bgg_id: 216132
+  name: Clans of Caledonia
+  status: summarized
+- bgg_id: 4636
+  name: Clans
+  status: summarized
+- bgg_id: 3242
+  name: Clash of the Gladiators
+  status: summarized
+- bgg_id: 1510
+  name: Class Struggle
+  status: summarized
+- bgg_id: 483
+  name: Classical Diplomacy
+  status: summarized
+- bgg_id: 36932
+  name: Claustrophobia
+  status: summarized
+- bgg_id: 22141
+  name: Cleopatra and the Society of Architects
+  status: summarized
+- bgg_id: 36560
+  name: Click Clack
+  status: summarized
+- bgg_id: 23864
+  name: Clobber
+  status: summarized
+- bgg_id: 195340
+  name: Clomping Creatures
+  status: summarized
+- bgg_id: 261683
+  name: Cloomba
+  status: summarized
+- bgg_id: 3553
+  name: Close Action
+  status: summarized
+- bgg_id: 22237
+  name: Close to the Border
+  status: summarized
+- bgg_id: 13260
+  name: CLOWN
+  status: summarized
+- bgg_id: 1484
+  name: 'Clue: The Great Museum Caper'
+  status: summarized
+- bgg_id: 37589
+  name: 'Cluedo: Discover the Secrets'
+  status: summarized
+- bgg_id: 1561
+  name: Cluedo Master Detective
+  status: summarized
+- bgg_id: 1294
+  name: Cluedo
+  status: summarized
+- bgg_id: 115997
+  name: Co-opoly
+  status: summarized
+- bgg_id: 4008
+  name: 'Cobra: Game of the Normandy Breakout'
+  status: summarized
+- bgg_id: 217275
+  name: Cockroach Duel
+  status: summarized
+- bgg_id: 8946
+  name: Coda
+  status: summarized
+- bgg_id: 16977
+  name: 'Codename: Kids Next Door Trading Card Game'
+  status: summarized
+- bgg_id: 178900
+  name: Codenames
+  status: summarized
+- bgg_id: 84783
+  name: Coerceo
+  status: summarized
+- bgg_id: 377061
+  name: Coffee Rush
+  status: summarized
+- bgg_id: 24742
+  name: 'Cold War: CIA vs KGB'
+  status: summarized
+- bgg_id: 10005
+  name: Colomino
+  status: summarized
+- bgg_id: 250
+  name: Colonial Diplomacy
+  status: summarized
+- bgg_id: 180199
+  name: 'Colonial Twilight: The French-Algerian War, 1954-62'
+  status: summarized
+- bgg_id: 11622
+  name: Colony Delta
+  status: summarized
+- bgg_id: 192934
+  name: Colony
+  status: summarized
+- bgg_id: 5782
+  name: Coloretto
+  status: summarized
+- bgg_id: 35346
+  name: Colorito
+  status: summarized
+- bgg_id: 27746
+  name: Colosseum
+  status: summarized
+- bgg_id: 158899
+  name: Colt Express
+  status: summarized
+- bgg_id: 256883
+  name: Comanauts
+  status: summarized
+- bgg_id: 21050
+  name: 'Combat Commander: Europe'
+  status: summarized
+- bgg_id: 28181
+  name: 'Combat Commander: Pacific'
+  status: summarized
+- bgg_id: 381078
+  name: Comet
+  status: summarized
+- bgg_id: 191203
+  name: Commander Chess
+  status: summarized
+- bgg_id: 14105
+  name: 'Commands & Colors: Ancients'
+  status: summarized
+- bgg_id: 62222
+  name: 'Commands & Colors: Napoleonics'
+  status: summarized
+- bgg_id: 438998
+  name: Commonspoly
+  status: summarized
+- bgg_id: 188188
+  name: Complots
+  status: summarized
+- bgg_id: 20112
+  name: Composio
+  status: summarized
+- bgg_id: 23387
+  name: Conan Collectible Card Game
+  status: summarized
+- bgg_id: 160010
+  name: Conan
+  status: summarized
+- bgg_id: 247314
+  name: 'Concept Kids: Animals'
+  status: summarized
+- bgg_id: 147151
+  name: Concept
+  status: summarized
+- bgg_id: 416817
+  name: Concilium Urbis
+  status: summarized
+- bgg_id: 112
+  name: Condottiere
+  status: summarized
+- bgg_id: 24800
+  name: 'Conflict of Heroes: Awakening the Bear! – Russia 1941-42'
+  status: summarized
+- bgg_id: 38823
+  name: 'Conflict of Heroes: Storms of Steel! – Kursk 1943'
+  status: summarized
+- bgg_id: 4325
+  name: Conflict
+  status: summarized
+- bgg_id: 7742
+  name: Confrontation
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 255613
+  name: Congkak
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 10989
+  name: ConHex
+  status: summarized
+- bgg_id: 42685
+  name: Connect 4x4
+  status: summarized
+- bgg_id: 2719
+  name: Connect Four
+  status: summarized
+- bgg_id: 3370
+  name: Connections
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 19825
+  name: Connex'Oh
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 92044
+  name: Conquest of Nerath
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 97
+  name: Conquest of the Empire
+  status: summarized
+- bgg_id: 67
+  name: Conquest
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1506
+  name: 'Conquistador: The Age of Exploration'
+  status: summarized
+- bgg_id: 166976
+  name: Consentacle
+  status: summarized
+- bgg_id: 697
+  name: Conspiracy
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 60707
+  name: Conspirateurs
+  status: summarized
+- bgg_id: 26990
+  name: Container
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 2545
+  name: Contigo
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1190
+  name: Continuo
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 15271
+  name: Contrario
+  status: summarized
+- bgg_id: 4378
+  name: Cootie
+  status: summarized
+- bgg_id: 148730
+  name: Copa
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1730
+  name: Coppit
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 318546
+  name: CoraQuest
+  status: summarized
+- bgg_id: 98351
+  name: Core Worlds
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1000
+  name: Corona
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 5136
+  name: Corsaro
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 212300
+  name: Cosmail
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1771
+  name: Cosmic Coasters
+  status: summarized
+- bgg_id: 15
+  name: Cosmic Encounter
+  status: summarized
+- bgg_id: 33494
+  name: Cosmic Journey
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 1302
+  name: Cosmic Wimpout
+  status: summarized
+- bgg_id: 204027
+  name: Cottage Garden
+  status: summarized
+- bgg_id: 131357
+  name: Coup
+  status: summarized
+- bgg_id: 37208
+  name: Court of the Medici
+  status: summarized
+- bgg_id: 8083
+  name: Cowgirls
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 8172
+  name: Coyote
+  status: summarized
+- bgg_id: 373284
+  name: Crack List
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 16035
+  name: Cranium Whoonu
+  status: summarized
+- bgg_id: 891
+  name: Cranium
+  status: summarized
+- bgg_id: 88402
+  name: Crappy Birthday
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 38464
+  name: Crash by Crash
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 8443
+  name: Crash! The Bankrupt Game
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 5478
+  name: Crazy Circus
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 147614
+  name: Crazy Time
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 6634
+  name: Crescendo
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 3855
+  name: Crimson Skies
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 393429
+  name: Critter Kitchen
+  status: summarized
+- bgg_id: 10453
+  name: Crocodile Dentist
+  status: summarized
+- bgg_id: 521
+  name: Crokinole
+  status: summarized
+- bgg_id: 2129
+  name: 'Crossbows & Catapults: Fortress War'
+  notes: Rules file not found
+  status: not_found
+- bgg_id: 2816
+  name: Crossfire
+  status: summarized
+- bgg_id: 21845
+  name: Crossings
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 71973
+  name: Crows
+  status: summarized
+- bgg_id: 147
+  name: 'Crude: The Oil Game'
+  notes: No English rulebook PDF found
+  status: not_found
+- bgg_id: 8481
+  name: Crusader Rex
   notes: Downloaded file was HTML not PDF
-- name: Cry Havoc
-  bgg_id: 1323
+  status: flagged
+- bgg_id: 1323
+  name: Cry Havoc
   status: summarized
-- name: Cthulhu 500
-  bgg_id: 12627
+- bgg_id: 12627
+  name: Cthulhu 500
   status: summarized
-- name: Cthulhu Dice
-  bgg_id: 65611
+- bgg_id: 65611
+  name: Cthulhu Dice
   status: summarized
-- name: Cuba Libre
-  bgg_id: 111799
+- bgg_id: 111799
+  name: Cuba Libre
   status: summarized
-- name: Cuba
-  bgg_id: 30380
+- bgg_id: 30380
+  name: Cuba
   status: summarized
-- name: Cuboro Tricky Ways
-  bgg_id: 147352
+- bgg_id: 147352
+  name: Cuboro Tricky Ways
   status: summarized
-- name: Cubulus
-  bgg_id: 95364
-  status: not_found
+- bgg_id: 95364
+  name: Cubulus
   notes: No English rulebook PDF found
-- name: Cum Laude
-  bgg_id: 26193
   status: not_found
+- bgg_id: 26193
+  name: Cum Laude
   notes: No English rulebook PDF found
-- name: Cups
-  bgg_id: 19916
   status: not_found
+- bgg_id: 19916
+  name: Cups
   notes: No English rulebook PDF found
-- name: Curse of the Mummy's Tomb
-  bgg_id: 62
   status: not_found
+- bgg_id: 62
+  name: Curse of the Mummy's Tomb
   notes: No English rulebook PDF found
-- name: Cutthroat Caverns
-  bgg_id: 28259
+  status: not_found
+- bgg_id: 28259
+  name: Cutthroat Caverns
   status: summarized
-- name: Cyclades
-  bgg_id: 54998
+- bgg_id: 54998
+  name: Cyclades
   status: summarized
-- name: 'Cytosis: A Cell Biology Board Game'
-  bgg_id: 202977
-  status: summarized
+- bgg_id: 202977
+  name: 'Cytosis: A Cell Biology Board Game'
   notes: Rules file not found
-- name: D-Day at Omaha Beach
-  bgg_id: 29603
   status: summarized
-- name: 'D-Day Dice: Free Trial Version'
-  bgg_id: 61028
+- bgg_id: 29603
+  name: D-Day at Omaha Beach
   status: summarized
-- name: D-Day Dice
-  bgg_id: 101785
+- bgg_id: 61028
+  name: 'D-Day Dice: Free Trial Version'
   status: summarized
-- name: 'D-Day: The Great Crusade'
-  bgg_id: 10785
+- bgg_id: 101785
+  name: D-Day Dice
   status: summarized
-- name: D-Day
-  bgg_id: 12168
+- bgg_id: 10785
+  name: 'D-Day: The Great Crusade'
   status: summarized
-- name: Da Vinci's Challenge
-  bgg_id: 17136
+- bgg_id: 12168
+  name: D-Day
   status: summarized
-- name: Dablot Prejjesne
-  bgg_id: 13777
+- bgg_id: 17136
+  name: Da Vinci's Challenge
   status: summarized
-- name: D.A.K.
-  bgg_id: 5056
+- bgg_id: 13777
+  name: Dablot Prejjesne
   status: summarized
-- name: Dameo
-  bgg_id: 24698
+- bgg_id: 5056
+  name: D.A.K.
   status: summarized
-- name: Dance Arena 200
-  bgg_id: 194285
+- bgg_id: 24698
+  name: Dameo
   status: summarized
-- name: Dao
-  bgg_id: 948
+- bgg_id: 194285
+  name: Dance Arena 200
   status: summarized
-- name: Dark Emperor
-  bgg_id: 1719
+- bgg_id: 948
+  name: Dao
   status: summarized
-- name: Dark Force
-  bgg_id: 18574
+- bgg_id: 1719
+  name: Dark Emperor
   status: summarized
-- name: Dark Future
-  bgg_id: 2285
+- bgg_id: 18574
+  name: Dark Force
   status: summarized
-- name: Dark Millennium
-  bgg_id: 19351
+- bgg_id: 2285
+  name: Dark Future
   status: summarized
-- name: Dark Moon
-  bgg_id: 111124
+- bgg_id: 19351
+  name: Dark Millennium
   status: summarized
-- name: "Dark Souls \u2013 The Board Game"
-  bgg_id: 197831
+- bgg_id: 111124
+  name: Dark Moon
   status: summarized
-- name: Dark Tower
-  bgg_id: 30
+- bgg_id: 197831
+  name: Dark Souls – The Board Game
   status: summarized
-- name: Darkest Crusade
-  bgg_id: 162596
+- bgg_id: 30
+  name: Dark Tower
   status: summarized
-- name: Darkover
-  bgg_id: 39
+- bgg_id: 162596
+  name: Darkest Crusade
   status: summarized
-- name: Daruma
-  bgg_id: 378293
+- bgg_id: 39
+  name: Darkover
   status: summarized
-- name: Darwin's Dice
-  bgg_id: 205596
+- bgg_id: 378293
+  name: Daruma
   status: summarized
-- name: Darwin's Journey
-  bgg_id: 322289
+- bgg_id: 205596
+  name: Darwin's Dice
   status: summarized
-- name: Das Amulett
-  bgg_id: 1350
+- bgg_id: 322289
+  name: Darwin's Journey
   status: summarized
-- name: Das Bohnenspiel
-  bgg_id: 39271
+- bgg_id: 1350
+  name: Das Amulett
   status: summarized
-- name: "Das kaufm\xE4nnische Talent"
-  bgg_id: 9079
+- bgg_id: 39271
+  name: Das Bohnenspiel
   status: summarized
+- bgg_id: 9079
+  name: Das kaufmännische Talent
   notes: Rules file not found
-- name: Das Kleine Gespenst
-  bgg_id: 16369
   status: summarized
-- name: Dawn of the Dead
-  bgg_id: 1773
+- bgg_id: 16369
+  name: Das Kleine Gespenst
   status: summarized
-- name: Daybreak
-  bgg_id: 334986
+- bgg_id: 1773
+  name: Dawn of the Dead
   status: summarized
-- name: DDR-Reise
-  bgg_id: 30601
+- bgg_id: 334986
+  name: Daybreak
   status: summarized
-- name: De Bellis Magistrorum Militum
-  bgg_id: 28096
+- bgg_id: 30601
+  name: DDR-Reise
   status: summarized
-- name: De Kolonisten van de Lage Landen
-  bgg_id: 52825
+- bgg_id: 28096
+  name: De Bellis Magistrorum Militum
   status: summarized
-- name: De l'Orc pour les braves
-  bgg_id: 6824
+- bgg_id: 52825
+  name: De Kolonisten van de Lage Landen
   status: summarized
-- name: De Ontembare Stad
-  bgg_id: 13542
+- bgg_id: 6824
+  name: De l'Orc pour les braves
   status: summarized
-- name: De Vulgari Eloquentia
-  bgg_id: 75165
+- bgg_id: 13542
+  name: De Ontembare Stad
   status: summarized
-- name: 'Dead of Winter: A Crossroads Game'
-  bgg_id: 150376
+- bgg_id: 75165
+  name: De Vulgari Eloquentia
   status: summarized
-- name: Deadwood
-  bgg_id: 96713
+- bgg_id: 150376
+  name: 'Dead of Winter: A Crossroads Game'
   status: summarized
-- name: Deal Me In
-  bgg_id: 2062
+- bgg_id: 96713
+  name: Deadwood
   status: summarized
-- name: Death Stacks
-  bgg_id: 29449
+- bgg_id: 2062
+  name: Deal Me In
   status: summarized
-- name: Deathwing
-  bgg_id: 2163
+- bgg_id: 29449
+  name: Death Stacks
   status: summarized
-- name: 'Deckscape: Behind the Curtain'
-  bgg_id: 267735
+- bgg_id: 2163
+  name: Deathwing
   status: summarized
-- name: 'Deckscape Crew vs Crew: The Pirates'' Island'
-  bgg_id: 295571
+- bgg_id: 267735
+  name: 'Deckscape: Behind the Curtain'
   status: summarized
-- name: 'Deckscape: Dracula''s Castle'
-  bgg_id: 343387
+- bgg_id: 295571
+  name: 'Deckscape Crew vs Crew: The Pirates'' Island'
   status: summarized
-- name: 'Deckscape: Escape from Alcatraz'
-  bgg_id: 295565
+- bgg_id: 343387
+  name: 'Deckscape: Dracula''s Castle'
   status: summarized
-- name: Decktet
-  bgg_id: 37301
+- bgg_id: 295565
+  name: 'Deckscape: Escape from Alcatraz'
   status: summarized
-- name: "D\xE9connaissance"
-  bgg_id: 19113
+- bgg_id: 37301
+  name: Decktet
   status: summarized
+- bgg_id: 19113
+  name: Déconnaissance
   notes: Rules file not found
-- name: Deep Sea Adventure
-  bgg_id: 169654
   status: summarized
-- name: Deep Space Navigator
-  bgg_id: 11378
+- bgg_id: 169654
+  name: Deep Sea Adventure
   status: summarized
-- name: Defenders of the Realm
-  bgg_id: 65532
+- bgg_id: 11378
+  name: Deep Space Navigator
   status: summarized
-- name: Defenders of the Wild
-  bgg_id: 372649
+- bgg_id: 65532
+  name: Defenders of the Realm
   status: summarized
-- name: "D\xE9fifoo"
-  bgg_id: 33061
+- bgg_id: 372649
+  name: Defenders of the Wild
   status: summarized
+- bgg_id: 33061
+  name: Défifoo
   notes: Rules file not found
-- name: "D\xE9lir'phone"
-  bgg_id: 123665
   status: summarized
+- bgg_id: 123665
+  name: Délir'phone
   notes: Rules file not found
-- name: 'Delve: The Dice Game'
-  bgg_id: 43691
   status: summarized
-- name: Demonlord
-  bgg_id: 1635
+- bgg_id: 43691
+  name: 'Delve: The Dice Game'
   status: summarized
-- name: Demon's Run
-  bgg_id: 2753
+- bgg_id: 1635
+  name: Demonlord
   status: summarized
-- name: Demons
-  bgg_id: 3626
+- bgg_id: 2753
+  name: Demon's Run
   status: summarized
-- name: Der wahre Walter
-  bgg_id: 8939
+- bgg_id: 3626
+  name: Demons
   status: summarized
-- name: 'Descent: Journeys in the Dark (Second Edition)'
-  bgg_id: 104162
+- bgg_id: 8939
+  name: Der wahre Walter
   status: summarized
-- name: 'Descent: Journeys in the Dark'
-  bgg_id: 17226
+- bgg_id: 104162
+  name: 'Descent: Journeys in the Dark (Second Edition)'
   status: summarized
-- name: "Descent: Legends of the Dark \u2013 The Betrayer's War"
-  bgg_id: 382927
+- bgg_id: 17226
+  name: 'Descent: Journeys in the Dark'
   status: summarized
-- name: 'Descent: Legends of the Dark'
-  bgg_id: 322708
+- bgg_id: 382927
+  name: 'Descent: Legends of the Dark – The Betrayer''s War'
   status: summarized
-- name: Destination
-  bgg_id: 15182
+- bgg_id: 322708
+  name: 'Descent: Legends of the Dark'
   status: summarized
-- name: Destinies
-  bgg_id: 285192
+- bgg_id: 15182
+  name: Destination
   status: summarized
-- name: Detective Charlie
-  bgg_id: 304450
+- bgg_id: 285192
+  name: Destinies
   status: summarized
-- name: Detective
-  bgg_id: 223321
+- bgg_id: 304450
+  name: Detective Charlie
   status: summarized
-- name: Deus
-  bgg_id: 162082
+- bgg_id: 223321
+  name: Detective
   status: summarized
-- name: Deutschlandreise
-  bgg_id: 6787
+- bgg_id: 162082
+  name: Deus
   status: summarized
-- name: Devil Bunny Hates the Earth
-  bgg_id: 1817
+- bgg_id: 6787
+  name: Deutschlandreise
   status: summarized
-- name: Devil Bunny Needs a Ham
-  bgg_id: 185
+- bgg_id: 1817
+  name: Devil Bunny Hates the Earth
   status: summarized
-- name: Devil's Den
-  bgg_id: 5482
+- bgg_id: 185
+  name: Devil Bunny Needs a Ham
   status: summarized
-- name: Diaballik
-  bgg_id: 20253
+- bgg_id: 5482
+  name: Devil's Den
   status: summarized
-- name: Diadem
-  bgg_id: 4811
+- bgg_id: 20253
+  name: Diaballik
+  status: summarized
+- bgg_id: 4811
+  name: Diadem
+  status: summarized
+- bgg_id: 11730
+  name: Diam
+  status: summarized
+- bgg_id: 15512
+  name: Diamant
+  status: summarized
+- bgg_id: 133664
+  name: Diamond
+  status: not_found
+- bgg_id: 194594
+  name: Dice Forge
+  status: summarized
+- bgg_id: 40793
+  name: Dice Town
+  status: summarized
+- bgg_id: 3339
+  name: Diceland
+  status: not_found
+- bgg_id: 167
+  name: Dicke Kartoffeln
+  status: not_found
+- bgg_id: 5886
+  name: Die Dracheninsel
+  status: summarized
+- bgg_id: 1
+  name: Die Macher
+  status: summarized
+- bgg_id: 1012
+  name: Die Magier
+  status: not_found
+- bgg_id: 1177
+  name: Die Ritter von der Haselnuss
+  status: not_found
+- bgg_id: 504
+  name: Die Verbotene Stadt
+  status: not_found
+- bgg_id: 59223
+  name: Diego Drachenzahn
+  status: not_found
+- bgg_id: 457501
+  name: Dig Deeper Dwarf
+  status: not_found
+- bgg_id: 7256
+  name: Digit
+  status: not_found
+- bgg_id: 153318
+  name: Dimension
+  status: summarized
+- bgg_id: 11484
+  name: Dindons & Dragons
+  status: not_found
+- bgg_id: 3768
+  name: Dingbats
+  status: not_found
+- bgg_id: 235927
+  name: Dino World
+  status: not_found
+- bgg_id: 23541
+  name: Dinosaurus
+  status: not_found
+- bgg_id: 29491
+  name: Dipole
+  status: summarized
+- bgg_id: 22065
+  name: Direct Conflict in Dimension Six
+  status: not_found
+- bgg_id: 5687
+  name: Dirtside II
+  status: summarized
+- bgg_id: 2956
+  name: Dirty Minds
+  status: not_found
+- bgg_id: 424455
+  name: Discat
+  status: not_found
+- bgg_id: 91312
+  name: 'Discworld: Ankh-Morpork'
+  status: summarized
+- bgg_id: 295895
+  name: Distilled
+  status: summarized
+- bgg_id: 23
+  name: Divine Right
+  status: not_found
+- bgg_id: 121288
+  name: 'Dixit: Journey'
+  status: summarized
+- bgg_id: 92499
+  name: Djam
+  status: not_found
+- bgg_id: 17691
+  name: Djambi
+  status: summarized
+- bgg_id: 56796
+  name: Dōbutsu shōgi
+  status: summarized
+- bgg_id: 2492
+  name: Doctor Faust
+  status: not_found
+- bgg_id: 25337
+  name: Doctor Who – Battles in Time
+  status: not_found
+- bgg_id: 42142
+  name: 'Doctor Who: Solitaire Story Game'
+  status: not_found
+- bgg_id: 3090
+  name: 'Doctor Who: The Game of Time & Space'
+  status: not_found
+- bgg_id: 28665
+  name: Dodge Bowl
+  status: not_found
+- bgg_id: 2633
+  name: DOG
+  status: summarized
+- bgg_id: 148083
+  name: Dogs
+  status: not_found
+- bgg_id: 754
+  name: Domain
+  status: not_found
+- bgg_id: 62219
+  name: Dominant Species
+  status: summarized
+- bgg_id: 16620
+  name: Domination
+  status: summarized
+- bgg_id: 7450
+  name: Domineering
+  status: not_found
+- bgg_id: 210
+  name: Don Pepe
+  status: not_found
+- bgg_id: 150558
+  name: Donkey Racing
+  status: not_found
+- bgg_id: 2136
+  name: Don't Be Annoyed
+  status: not_found
+- bgg_id: 4888
+  name: Don't Break the Ice
+  status: summarized
+- bgg_id: 32687
+  name: Don't Drop the Soap
+  status: summarized
+- bgg_id: 7791
+  name: Don't Give Up the Ship!
+  status: not_found
+- bgg_id: 1420
+  name: Don't Go to Jail
+  status: summarized
+- bgg_id: 4407
+  name: Don't Miss the Boat!
+  status: not_found
+- bgg_id: 10917
+  name: Don't Quote Me
+  status: not_found
+- bgg_id: 6535
+  name: Don't Wake Daddy
+  status: summarized
+- bgg_id: 299939
+  name: Doodle Dungeon
+  status: not_found
+- bgg_id: 10640
+  name: 'Doom: The Boardgame'
+  status: summarized
+- bgg_id: 156714
+  name: Doomtown
+  status: summarized
+- bgg_id: 3512
+  name: Doorways to Adventure
+  status: not_found
+- bgg_id: 6212
+  name: Doorways to Horror
+  status: not_found
+- bgg_id: 5155
+  name: Dorada
+  status: not_found
+- bgg_id: 370591
+  name: 'Dorfromantik: The Board Game'
+  status: summarized
+- bgg_id: 26983
+  name: Dorn
+  status: summarized
+- bgg_id: 9408
+  name: Dos Rios
+  status: not_found
+- bgg_id: 23425
+  name: Down Styphon!
+  status: not_found
+- bgg_id: 1593
+  name: Down with the King
+  status: not_found
+- bgg_id: 1099
+  name: Downfall
+  status: summarized
+- bgg_id: 7804
+  name: Dracula
+  status: summarized
+- bgg_id: 264055
+  name: Draftosaurus
+  status: summarized
+- bgg_id: 18656
+  name: Dragon Booster Trading Card Game
+  status: not_found
+- bgg_id: 1860
+  name: Dragon Dice
+  status: summarized
+- bgg_id: 381247
+  name: Dragon Eclipse
+  status: summarized
+- bgg_id: 3110
+  name: Dragon Rage
+  status: summarized
+- bgg_id: 73725
+  name: Dragon Riders Triumphant
+  status: not_found
+- bgg_id: 803
+  name: Dragonhunt
+  status: not_found
+- bgg_id: 795
+  name: Dragonlance
+  status: summarized
+- bgg_id: 25030
+  name: Dragonlord
+  status: not_found
+- bgg_id: 235655
+  name: Dragon's Breath
+  status: summarized
+- bgg_id: 1042
+  name: Dragon's Gold
+  status: not_found
+- bgg_id: 23055
+  name: Dragons of Kir
+  status: not_found
+- bgg_id: 5610
+  name: Dragons of Underearth
+  status: not_found
+- bgg_id: 4486
+  name: Dragonslayer
+  status: not_found
+- bgg_id: 1149
+  name: DragonStrike
+  status: summarized
+- bgg_id: 172933
+  name: Dragonwood
+  status: summarized
+- bgg_id: 102237
+  name: 'Drako: Dragon & Dwarves'
+  status: summarized
+- bgg_id: 6942
+  name: Drang Nach Osten!
+  status: not_found
+- bgg_id: 15020
+  name: Draw Out
+  status: not_found
+- bgg_id: 4236
+  name: Dreadnought
+  status: summarized
+- bgg_id: 299028
+  name: Dream Catcher
+  status: not_found
+- bgg_id: 194880
+  name: Dream Home
+  status: summarized
+- bgg_id: 2337
+  name: Droids
+  status: not_found
+- bgg_id: 244916
+  name: Drop It
+  status: summarized
+- bgg_id: 19
+  name: Drunter und Drüber
+  status: not_found
+- bgg_id: 35964
+  name: duck! duck! Go!
+  status: summarized
+- bgg_id: 54986
+  name: duck! duck! SAFARI!
+  status: not_found
+- bgg_id: 2789
+  name: Duck Pond
+  status: not_found
+- bgg_id: 27048
+  name: Duel in the Dark
+  status: summarized
+- bgg_id: 8306
+  name: Duel Magical
+  status: not_found
+- bgg_id: 283355
+  name: Dune
+  status: summarized
+- bgg_id: 42617
+  name: Dune Express
+  status: not_found
+- bgg_id: 316554
+  name: 'Dune: Imperium'
+  status: summarized
+- bgg_id: 102548
+  name: Dungeon Fighter
+  status: summarized
+- bgg_id: 90730
+  name: Dungeon in a Tin
+  status: not_found
+- bgg_id: 45315
+  name: Dungeon Lords
+  status: summarized
+- bgg_id: 97207
+  name: Dungeon Petz
+  status: summarized
+- bgg_id: 12995
+  name: Dungeon Twister
+  status: summarized
+- bgg_id: 1339
+  name: Dungeon!
+  status: summarized
+- bgg_id: 5177
+  name: DungeonQuest Legends
+  status: not_found
+- bgg_id: 472
+  name: DungeonQuest
+  status: summarized
+- bgg_id: 17804
+  name: Dungeons & Dragons Basic Game (2004)
+  status: not_found
+- bgg_id: 4746
+  name: Dungeons & Dragons Computer Labyrinth Game
+  status: summarized
+- bgg_id: 6366
+  name: 'Dungeons & Dragons: The Fantasy Adventure Board Game'
+  status: not_found
+- bgg_id: 91872
+  name: 'Dungeons & Dragons: The Legend of Drizzt Board Game'
+  status: summarized
+- bgg_id: 26519
+  name: 'Dunkirk: The Battle of France'
+  status: not_found
+- bgg_id: 22348
+  name: Duplik
+  status: summarized
+- bgg_id: 29109
+  name: Dust
+  status: summarized
+- bgg_id: 2346
+  name: DVONN
+  status: summarized
+- bgg_id: 65814
+  name: Dweebies
+  status: summarized
+- bgg_id: 7290
+  name: Dynasty League Baseball
+  status: summarized
+- bgg_id: 7032
+  name: 'Eagle Day: The Battle of Britain'
+  status: not_found
+- bgg_id: 25236
+  name: Ear Tug
+  status: not_found
+- bgg_id: 73171
+  name: Earth Reborn
+  status: summarized
+- bgg_id: 350184
+  name: Earth
+  status: summarized
+- bgg_id: 22143
+  name: 'EastFront: The War in Russia 1941-45'
+  status: summarized
+- bgg_id: 4779
+  name: Easy Money
+  status: summarized
+- bgg_id: 72125
+  name: Eclipse
+  status: summarized
+- bgg_id: 6647
+  name: Ecopolicy
+  status: not_found
+- bgg_id: 616
+  name: Egghead
+  status: summarized
+- bgg_id: 58421
+  name: Egizia
+  status: summarized
+- bgg_id: 151228
+  name: Eiertanz, Das Kartenspiel
+  status: not_found
+- bgg_id: 131366
+  name: Eight-Minute Empire
+  status: summarized
+- bgg_id: 293207
+  name: Eila and Something Shiny
+  status: summarized
+- bgg_id: 299150
+  name: Eile mit Weile
+  status: summarized
+- bgg_id: 18699
+  name: EinStein würfelt nicht!
+  status: not_found
+- bgg_id: 29972
+  name: El Capitán
+  status: summarized
+- bgg_id: 93
+  name: El Grande
+  status: summarized
+- bgg_id: 19526
+  name: 'Elasund: The First City'
+  status: summarized
+- bgg_id: 100423
+  name: Elder Sign
+  status: summarized
+- bgg_id: 146021
+  name: Eldritch Horror
+  status: summarized
+- bgg_id: 6578
+  name: Electronic Dream Phone
+  status: summarized
+- bgg_id: 7320
+  name: Elefun
+  status: summarized
+- bgg_id: 10
+  name: Elfenland
+  status: summarized
+- bgg_id: 1628
+  name: Elric
+  status: summarized
+- bgg_id: 163968
+  name: Elysium
+  status: summarized
+- bgg_id: 14438
+  name: Emergo
+  status: summarized
+- bgg_id: 68425
+  name: Eminent Domain
+  status: summarized
+- bgg_id: 168
+  name: Empire Builder
+  status: summarized
+- bgg_id: 5034
+  name: Empire of the Rising Sun
+  status: not_found
+- bgg_id: 173442
+  name: 'Empires: Age of Discovery'
+  status: summarized
+- bgg_id: 254
+  name: Empires in Arms
+  status: summarized
+- bgg_id: 911
+  name: Empires of the Middle Ages
+  status: summarized
+- bgg_id: 938
+  name: Enchanted Forest
+  status: summarized
+- bgg_id: 2879
+  name: Encore
+  status: summarized
+- bgg_id: 367966
+  name: 'Endeavor: Deep Sea'
+  status: summarized
+- bgg_id: 6203
+  name: Enemy at the Gates
+  status: not_found
+- bgg_id: 83157
+  name: Engine, Engine No. 9
+  status: summarized
+- bgg_id: 1334
+  name: 'Entdecker: Exploring New Horizons'
+  status: summarized
+- bgg_id: 1329
+  name: Entropy
+  status: summarized
+- bgg_id: 41898
+  name: Epäillyt
+  status: not_found
+- bgg_id: 112686
+  name: 'Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre'
+  status: summarized
+- bgg_id: 103368
+  name: Epigo
+  status: summarized
+- bgg_id: 2499
+  name: Equate
+  status: summarized
+- bgg_id: 9379
+  name: Escalado
+  status: summarized
+- bgg_id: 26884
+  name: Escalation!
+  status: summarized
+- bgg_id: 715
+  name: Escape from Colditz
+  status: summarized
+- bgg_id: 731
+  name: Escape from New York
+  status: summarized
+- bgg_id: 444
+  name: Escape from the Hidden Castle
+  status: summarized
+- bgg_id: 90009
+  name: Eselsbrücke
+  status: not_found
+- bgg_id: 31291
+  name: España 1936
+  status: not_found
+- bgg_id: 343898
+  name: Espresso Doppio
+  status: summarized
+- bgg_id: 206718
+  name: Ethnos
+  status: summarized
+- bgg_id: 22811
+  name: Eureka
+  status: not_found
+- bgg_id: 116484
+  name: Euro Miljonairs
+  status: not_found
+- bgg_id: 42050
+  name: Eurobusiness
+  status: not_found
+- bgg_id: 7649
+  name: Eurocracy
+  status: not_found
+- bgg_id: 295
+  name: Europa 1945-2030
+  status: summarized
+- bgg_id: 4102
+  name: Europa Universalis
+  status: not_found
+- bgg_id: 295785
+  name: 'Euthia: Torment of Resurrection'
+  status: summarized
+- bgg_id: 396989
+  name: Evenfall
+  status: summarized
+- bgg_id: 363307
+  name: Evergreen
+  status: summarized
+- bgg_id: 1159
+  name: Evo
+  status: summarized
+- bgg_id: 31775
+  name: Ex*Pion
+  status: not_found
+- bgg_id: 226522
+  name: 'Exit: The Game – Dead Man on the Orient Express'
+  status: summarized
+- bgg_id: 203420
+  name: 'Exit: The Game – The Abandoned Cabin'
+  status: summarized
+- bgg_id: 215840
+  name: 'Exit: The Game – The Forbidden Castle'
+  status: summarized
+- bgg_id: 215841
+  name: 'Exit: The Game – The Forgotten Island'
+  status: summarized
+- bgg_id: 244918
+  name: 'Exit: The Game – The Mysterious Museum'
+  status: summarized
+- bgg_id: 203416
+  name: 'Exit: The Game – The Pharaoh''s Tomb'
+  status: summarized
+- bgg_id: 215842
+  name: 'Exit: The Game – The Polar Station'
+  status: summarized
+- bgg_id: 203417
+  name: 'Exit: The Game – The Secret Lab'
+  status: summarized
+- bgg_id: 226518
+  name: 'Exit: The Game – The Sunken Treasure'
+  status: summarized
+- bgg_id: 18297
+  name: Experiment
+  status: not_found
+- bgg_id: 22947
+  name: Exxit
+  status: not_found
+- bgg_id: 35665
+  name: Eye Know
+  status: summarized
+- bgg_id: 20133
+  name: 'FAB: The Bulge'
+  status: summarized
+- bgg_id: 264295
+  name: Fabulantica
+  status: summarized
+- bgg_id: 24417
+  name: Factory Fun
+  status: summarized
+- bgg_id: 183284
+  name: Factory Funner
+  status: summarized
+- bgg_id: 1233
+  name: Facts in Five
+  status: not_found
+- bgg_id: 163154
+  name: 'Falling Sky: The Gallic Revolt Against Caesar'
+  status: summarized
+- bgg_id: 75
+  name: Falling
+  status: summarized
+- bgg_id: 95449
+  name: Fame Us
+  status: not_found
+- bgg_id: 81453
+  name: Famiglia
+  status: summarized
+- bgg_id: 11081
+  name: Familienbande
+  status: not_found
+- bgg_id: 4386
+  name: Fanorona
+  status: summarized
+- bgg_id: 2972
+  name: Fantasy Business
+  status: not_found
+- bgg_id: 3674
+  name: Fast Attack Boats
+  status: not_found
+- bgg_id: 38548
+  name: Fast Flowing Forest Fellers
+  status: summarized
+- bgg_id: 720
+  name: Fast Food Franchise
+  status: summarized
+- bgg_id: 61506
+  name: Fast4Words
+  status: not_found
+- bgg_id: 35497
+  name: Fauna
+  status: summarized
+- bgg_id: 593
+  name: Favoriten
+  status: not_found
+- bgg_id: 96704
+  name: Fealty
+  status: summarized
+- bgg_id: 7805
+  name: Fearsome Floors
+  status: summarized
+- bgg_id: 36
+  name: Federation and Empire
+  status: summarized
+- bgg_id: 19854
+  name: Federation Commander
+  status: summarized
+- bgg_id: 1594
+  name: Federation Space
+  status: not_found
+- bgg_id: 345868
+  name: Federation
+  status: summarized
+- bgg_id: 271601
+  name: Feed the Kraken
+  status: summarized
+- bgg_id: 32125
+  name: 'Felicity: The Cat in the Sack'
+  status: summarized
+- bgg_id: 137830
+  name: Felli
+  status: summarized
+- bgg_id: 6744
+  name: Feudal Lord
+  status: not_found
+- bgg_id: 163839
+  name: Feudum
+  status: summarized
+- bgg_id: 91475
+  name: Fidchess
+  status: not_found
+- bgg_id: 107704
+  name: 'Fief: France 1429'
+  status: summarized
+- bgg_id: 28829
+  name: 'Field Commander: Rommel'
+  status: summarized
+- bgg_id: 7029
+  name: Field of Honor
+  status: not_found
+- bgg_id: 18352
+  name: Fields of Action
+  status: summarized
+- bgg_id: 159675
+  name: Fields of Arle
+  status: summarized
+- bgg_id: 22877
+  name: Fields of Fire
+  status: summarized
+- bgg_id: 285253
+  name: Fiesta de los Muertos
+  status: summarized
+- bgg_id: 6638
+  name: Fight in the Skies
+  status: summarized
+- bgg_id: 39217
+  name: 'Fighting Formations: Grossdeutschland Motorized Infantry Division'
+  status: summarized
+- bgg_id: 9526
+  name: Figure It Out
+  status: not_found
+- bgg_id: 2916
+  name: File 13
+  status: not_found
+- bgg_id: 2635
+  name: Finance
+  status: not_found
+- bgg_id: 40628
+  name: Finca
+  status: summarized
+- bgg_id: 28516
+  name: Finger Baseball
+  status: not_found
+- bgg_id: 27768
+  name: Finis ton Assiette
+  status: summarized
+- bgg_id: 436126
+  name: Finspan
+  status: summarized
+- bgg_id: 4643
+  name: Fire and Ice
+  status: summarized
+- bgg_id: 19134
+  name: Fire and Steel
+  status: summarized
+- bgg_id: 144189
+  name: Fire in the Lake
+  status: summarized
+- bgg_id: 14083
+  name: 'Fire in the Sky: The Great Pacific War 1941-1945'
+  status: summarized
+- bgg_id: 1768
+  name: Fireball Island
+  status: summarized
+- bgg_id: 138161
+  name: 'Firefly: The Game'
+  status: not_found
+- bgg_id: 41302
+  name: First Orchard
+  status: summarized
+- bgg_id: 4370
+  name: Fish, Fluff, Meatballs
+  status: not_found
+- bgg_id: 4471
+  name: Fist of Dragonstones
+  status: not_found
+- bgg_id: 10565
+  name: FITS
+  status: summarized
+- bgg_id: 25471
+  name: Five-Field Kono
+  status: summarized
+- bgg_id: 157354
+  name: 'Five Tribes: The Djinns of Naqala'
+  status: summarized
+- bgg_id: 15511
+  name: Fjords
+  status: summarized
+- bgg_id: 336986
+  name: Flamecraft
+  status: summarized
+- bgg_id: 11168
+  name: Flames of War
+  status: not_found
+- bgg_id: 199478
+  name: Flamme Rouge
+  status: summarized
+- bgg_id: 100901
+  name: 'Flash Point: Fire Rescue'
+  status: summarized
+- bgg_id: 364942
+  name: 'Flashback: Zombie Kidz'
+  status: summarized
+- bgg_id: 38226
+  name: Flibbix
+  status: not_found
+- bgg_id: 5864
+  name: Flight of the Goeben
+  status: not_found
+- bgg_id: 5692
+  name: Flintloque
+  status: summarized
+- bgg_id: 154681
+  name: Flizz & Miez
+  status: not_found
+- bgg_id: 125315
+  name: FlowerFall
+  status: not_found
+- bgg_id: 1101
+  name: Flying Carpet
+  status: not_found
+- bgg_id: 789
+  name: Focus
+  status: summarized
+- bgg_id: 175324
+  name: Fog of Love
+  status: summarized
+- bgg_id: 175914
+  name: Food Chain Magnate
+  status: summarized
+- bgg_id: 431248
+  name: For a Crown
+  status: summarized
+- bgg_id: 172
+  name: For Sale
+  status: summarized
+- bgg_id: 3945
+  name: Forbidden Bridge
+  status: summarized
+- bgg_id: 136063
+  name: Forbidden Desert
+  status: summarized
+- bgg_id: 65244
+  name: Forbidden Island
+  status: summarized
+- bgg_id: 380226
+  name: Forbidden Jungle
+  status: not_found
+- bgg_id: 245271
+  name: Forbidden Sky
+  status: summarized
+- bgg_id: 302723
+  name: Forgotten Waters
+  status: summarized
+- bgg_id: 25677
+  name: Formidable Foes
+  status: not_found
+- bgg_id: 24247
+  name: Formula 1 Grand Prix
+  status: not_found
+- bgg_id: 1535
+  name: Formula 1
+  status: summarized
+- bgg_id: 173
+  name: Formula D
+  status: summarized
+- bgg_id: 296912
+  name: Fort
+  status: summarized
+- bgg_id: 99
+  name: Fortress America
+  status: summarized
+- bgg_id: 80979
+  name: Fortuna
+  status: not_found
+- bgg_id: 3998
+  name: Fortune
+  status: not_found
+- bgg_id: 61
+  name: Fossil
+  status: not_found
+- bgg_id: 291550
+  name: Foto Fish
+  status: not_found
+- bgg_id: 21022
+  name: Found Objects
+  status: not_found
+- bgg_id: 284189
+  name: Foundations of Rome
+  status: summarized
+- bgg_id: 11054
+  name: Four Battles in North Africa
+  status: not_found
+- bgg_id: 2025
+  name: Frag
+  status: not_found
+- bgg_id: 17281
+  name: Fragrances
+  status: not_found
+- bgg_id: 19030
+  name: Frankenstein
+  status: not_found
+- bgg_id: 706
+  name: Frederick the Great
+  status: not_found
+- bgg_id: 2115
+  name: Free Parking
+  status: summarized
+- bgg_id: 36659
+  name: Free Trader
+  status: not_found
+- bgg_id: 9950
+  name: Free Willy Game
+  status: summarized
+- bgg_id: 1717
+  name: Freedom in the Galaxy
+  status: not_found
+- bgg_id: 119506
+  name: 'Freedom: The Underground Railroad'
+  status: summarized
+- bgg_id: 4281
+  name: Freeloader
+  status: not_found
+- bgg_id: 66188
+  name: Fresco
+  status: summarized
+- bgg_id: 9372
+  name: Friedland 1807
+  status: not_found
+- bgg_id: 12891
+  name: Friedrich
+  status: summarized
+- bgg_id: 4694
+  name: Friends Trivia Game
+  status: summarized
+- bgg_id: 384213
+  name: Fromage
+  status: summarized
+- bgg_id: 295770
+  name: Frosthaven
+  status: summarized
+- bgg_id: 16144
+  name: Fruit Spy
+  status: summarized
+- bgg_id: 33799
+  name: Fruttirelli
+  status: summarized
+- bgg_id: 169855
+  name: Fujian Trader
+  status: summarized
+- bgg_id: 20
+  name: Full Metal Planète
+  status: not_found
+- bgg_id: 370164
+  name: Fun Facts
+  status: summarized
+- bgg_id: 16982
+  name: Fun House
+  status: summarized
+- bgg_id: 8964
+  name: Funny Bunny
+  status: summarized
+- bgg_id: 16366
+  name: Funny Friends
+  status: summarized
+- bgg_id: 5294
+  name: Fury in the West
+  status: summarized
+- bgg_id: 181279
+  name: Fury of Dracula (Third Edition)
+  status: summarized
+- bgg_id: 220308
+  name: Gaia Project
+  status: summarized
+- bgg_id: 235213
+  name: 'Galacta: Star Commandos'
+  status: summarized
+- bgg_id: 31481
+  name: Galaxy Trucker
+  status: summarized
+- bgg_id: 47046
+  name: Gambit 7
+  status: summarized
+- bgg_id: 24509
+  name: Gambit Royale
+  status: summarized
+- bgg_id: 4123
+  name: Gambler
+  status: summarized
+- bgg_id: 182516
+  name: Game For Fame
+  status: summarized
+- bgg_id: 2125
+  name: Game of the Amazons
+  status: summarized
+- bgg_id: 2728
+  name: Game of the Generals
+  status: summarized
+- bgg_id: 2785
+  name: Game of the Goose
+  status: summarized
+- bgg_id: 179719
+  name: Game of Thrones Risk
+  status: summarized
+- bgg_id: 129976
+  name: 'Game of Thrones: The Card Game'
+  status: summarized
+- bgg_id: 1408
+  name: Gammarauders
+  status: summarized
+- bgg_id: 3085
+  name: Gang of Four
+  status: summarized
+- bgg_id: 1471
+  name: Gangsters
+  status: summarized
+- bgg_id: 28989
+  name: Garçon
+  status: not_found
+- bgg_id: 25260
+  name: Garden Party
+  status: summarized
+- bgg_id: 42776
+  name: 'Gears of War: The Board Game'
+  status: summarized
+- bgg_id: 11948
+  name: Généric
+  status: not_found
+- bgg_id: 40830
+  name: Genial Spezial
+  status: summarized
+- bgg_id: 1345
+  name: Genoa
+  status: summarized
+- bgg_id: 22706
+  name: Geoprimo
+  status: summarized
+- bgg_id: 28436
+  name: 'Germany: Find Minden'
+  status: summarized
+- bgg_id: 229553
+  name: Gespensterburg
+  status: summarized
+- bgg_id: 30539
+  name: Get Bit!
+  status: summarized
+- bgg_id: 5205
+  name: G.E.V.
+  status: not_found
+- bgg_id: 23730
+  name: Gheos
+  status: summarized
+- bgg_id: 8063
+  name: Ghettopoly
+  status: summarized
+- bgg_id: 275032
+  name: Ghost Adventure
+  status: summarized
+- bgg_id: 146312
+  name: Ghost Fightin' Treasure Hunters
+  status: summarized
+- bgg_id: 37046
+  name: Ghost Stories
+  status: summarized
+- bgg_id: 2290
+  name: Ghosts
+  status: summarized
+- bgg_id: 2402
+  name: 'Ghoulash: The Last Game on Earth'
+  status: summarized
+- bgg_id: 23686
+  name: Gift Trap
+  status: summarized
+- bgg_id: 170969
+  name: Gigamons
+  status: summarized
+- bgg_id: 8395
+  name: Giganten
+  status: summarized
+- bgg_id: 38229
+  name: GiocaGoal
+  status: summarized
+- bgg_id: 527
+  name: GIPF
+  status: summarized
+- bgg_id: 32382
+  name: Gipsy King
+  status: summarized
+- bgg_id: 5717
+  name: Girl Talk
+  status: summarized
+- bgg_id: 21985
+  name: Giro Galoppo
+  status: summarized
+- bgg_id: 176
+  name: Give Me the Brain!
+  status: summarized
+- bgg_id: 1693
+  name: Gladiator
+  status: summarized
+- bgg_id: 66362
+  name: Glen More
+  status: summarized
+- bgg_id: 24230
+  name: Glik
+  status: summarized
+- bgg_id: 35179
+  name: Globalissimo
+  status: summarized
+- bgg_id: 2195
+  name: Globbo!
+  status: summarized
+- bgg_id: 291457
+  name: 'Gloomhaven: Jaws of the Lion'
   status: summarized

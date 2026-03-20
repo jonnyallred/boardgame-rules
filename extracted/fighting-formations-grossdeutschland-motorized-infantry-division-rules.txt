@@ -1,0 +1,2058 @@
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+GMT1015
+g a me de sig n by C had Je n se n
+NOTE: Items in purple text indicate functional 
+changes from the first edition of this rulebook.
+Series Rulebook
+Series Rulebook
+Fighting Formations
+
+INTRODUCTION
+Fighting Formations (FF) is a series of wargames 
+covering WWII tactical combined-arms combat at 
+the platoon and squad levels. Each game in the series 
+will feature a distinct combat unit, highlighting 
+battles in which that unit participated as well as its 
+particular order of battle and fighting characteristics. 
+In each scenario, one player will take command 
+of elements of this featured unit while the other 
+assumes control of the opposing forces. These two 
+players will alternate giving orders, activating their 
+units on the map for various military functions. 
+Players attempt to achieve victory by moving their 
+combat units across the game map to attack their 
+opponent’s units and to achieve as many scenario 
+objectives as possible. The degree to which a player 
+succeeds or fails is measured by a scenario’s specific 
+victory conditions—be it the destruction of enemy 
+units, the taking of vital mapboard objectives, or the 
+exiting of friendly units off the opponent’s map edge.
+Each game turn is divided into ten orders, with each 
+player performing a variable number of these orders. 
+In each turn, the sequence of play is fluid – with 
+orders being given by the active player and reactions 
+being taken by both players – depending upon the 
+relative initiative level at any given moment.
+Sit back, buckle up, and enjoy the ride!
+Throughout this booklet you will see paragraphs 
+such as this one set in blue text. These sections are 
+filled with clarifications, play hints, design notes, 
+and other assorted wisdom in order to help ease 
+you along.
+Rules found within this booklet are the “Core 
+Rules” of the series. Rules within each game’s Play-
+book are termed its “Exclusive Rules.” Whenever a 
+conflict arises between Core Rules and Exclusive 
+Rules, the Exclusive Rules always take precedence.
+Throughout this rulebook and the accompanying 
+Playbook will be found numbers within brackets 
+– e.g. [3.2] – which will indicate to the reader 
+an important reference to another rule. These 
+references may be ignored when reading through 
+the rules for the first time, as their main use is to 
+aid the reader in finding a specific related rule 
+during play.
+Ta b l e of Con t en t s
+Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Core Rules—Components
+1. Track Display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2. Maps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3. Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4. Command Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5. Hit Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6. Sighting Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7. Fortification Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8. Smoke Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+9. Fate Card . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+10. Asset Cards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Core Rules—Mechanics
+20. Sequence of Play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+21. Game Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+22. Victory Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+23. Line of Sight (LOS) . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+24. Terrain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+25. Abandoning Guns & Vehicles . . . . . . . . . . . . . . . . . . . 15
+26. Barrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Core Rules—Orders
+30. General Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+31. Advance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+32. Assault . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+33. Asset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+34. Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+34.1 Direct Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+34.2 Melee Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+34.3 Return Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+35. Move . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+35.6 Opportunity (Op) Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+36. Rally . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+37. Sniper . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+38. Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Summary of Orders . . . . . . . . . . . . . . . . . . . . . . back page
+S cen a r io s
+Each game within the FF series will come with several “scenarios.” Each 
+scenario represents a battle in which the featured formation fought. Sce-
+narios will instruct the players as to which map(s) to use, which and how 
+many units and markers to use, how to set up the game, how to win the 
+game, etc. Scenarios are found within each game’s Playbook.
+
+G l o s s a ry
+Activate—Units belonging to the active player 
+(only) can be activated for orders. Activated units 
+are indicated by their being flipped to their reverse 
+side (with the white stripe). [30.1]
+Active —The player currently performing an 
+order. Any unit or marker belonging to that player. 
+Adjacent—Units and markers in the same hex 
+are adjacent to one another. Two hexes sharing a 
+common hexside are adjacent to one another. Units 
+and markers in one of those hexes are adjacent to 
+units and markers in the other hex.
+Aircraft—A type of barrage. [26]
+AP—Armor-piercing. One of two types of unit 
+firepower. Only affects units with armor. [3.21]
+Armor—One of two types of unit defense. 
+Affected only by AP firepower. Armor is an 
+abstract measure of how well protected an armored 
+unit is from penetrative weaponry. [3.25]
+Artiller y—A type of barrage. [26]
+Command—Markers used to more efficiently 
+activate friendly units for orders and for Return 
+Fire/Op Fire. Command markers are not units. 
+Command is an abstract measure of how well a 
+player can control the units assigned him by each 
+scenario. [4] 
+Command Radius—The hex a friendly Com-
+mand marker occupies as well as every hex within X 
+hexes of that hex, where X equals that side's current 
+Command & Control level. [4.31]
+Countermix—All pieces not currently being 
+used on the map or Track Display. When a unit 
+or marker is "eliminated" it is always placed back 
+into the countermix.
+Cover—A number associated with each terrain 
+and some fortifications. Cover helps protect a 
+unit being shot at. Multiple applicable cover is 
+not cumulative. [24.3]
+"d" and "D"—The various die sizes found in FF 
+are expressed as “d#,” where # is the number of 
+faces on the die—for example, “d10” is a 10-sided 
+die. A number before the lowercase d – such as 
+“2d10” – indicates how many of that die size are 
+to be rolled and summed together. When the 
+size of dice to be rolled is modified up or down, 
+the capital letter D is used —for example, “+1D” 
+would increase 2d10 to 2d12 (no 11-sided dice!). 
+The “0” on the d10’s is to be treated as a 10, not a 0.
+Defense—One of a unit’s base stats. Defense 
+can be “soft” (morale) or “hard” (armor). Defense 
+is a measure of how much punishment a unit can 
+take before being rendered combat ineffective. 
+[3.25]
+Enemy—A unit or marker belonging to the 
+opposing player. A hex occupied by an enemy 
+unit or enemy Control or Command marker.
+Fire Arc—Rectangular units (guns and vehicles) 
+have a defined “front” fire arc; everything else is 
+in their “flank” fire arc. Fire arcs affect where a 
+unit can move and shoot as well as its defense 
+when shot at. [3.4]
+Firepower (FP)—One of a unit’s base stats. 
+FP can be "soft" (HE and small arms) or "hard" 
+(AP). FP is a measure of how much damage a piece 
+can inflict on enemy units. [3.21]
+For tification —Any of a number of mark-
+ers used to represent man-made obstacles (small 
+square counters) or protective field works (hex-
+agonal counters). Examples might include mines 
+or a pillbox, respectively. [7]
+FP—Firepower.
+Fresh—Any unit without a hit marker on it. 
+A fresh unit that is “hit” by a fire attack or bar-
+rage has a random hit marker drawn and placed 
+atop it. [5]
+Friendly—A unit or marker belonging to your 
+nationality. A hex occupied by a friendly unit or 
+friendly Control or Command marker. 
+Gun—One of three unit types. All guns are on 
+rectangular counters and have a leg speed. 
+HE—High-explosives and small arms. One of 
+two types of unit firepower. Only affects units 
+with morale. [3.21]
+Hindrance—A value with a default of “1” that 
+can cause a fire attack to automatically miss. Some 
+terrain and markers will increase the hindrance 
+value for shots going through it – never into or 
+out of it (except for Smoke). Hindrances are not 
+cumulative. [23.3]
+Hit—A unit with a hit marker on it is “hit” instead 
+of fresh. Depending on the marker, a hit unit can 
+be prohibited from firing and/or moving. A hit unit 
+that is hit again is eliminated. [3.31 & 5]
+Inactive—The player not currently perform-
+ing an order. Any unit or marker belonging to 
+that player. If a game situation forces or allows both 
+players to do something simultaneously, the inactive 
+player always goes first.
+Infantr y—One of three unit types. All infantry 
+are on the larger (5/8") square counters.
+Initiative—The position of the Initiative pawn 
+on the Initiative Track will at all times indicate 
+which player is eligible to perform the next order. 
+[1.21]
+LOS —Line of sight. Generally, a unit in hex A 
+has a LOS to hex B if a string, drawn taut between 
+those hexes’ center dots, does not touch an obstacle 
+in an intervening hex. [23]
+Marker—Any round, hexagonal or small (½") 
+square counter. Some marker examples include 
+Sighting, Bunker, Command, Smoke, Sudden 
+Death, Air Support, or the various hit markers.
+Melee—Any hex containing units of both sides 
+is considered a melee hex. “Entering melee” or 
+“exiting melee” means to enter/exit an enemy-
+occupied hex, respectively. [34.2]
+Morale —One of two types of unit defense. 
+Affected only by HE firepower. Morale is an 
+abstract measure of how much damage a unit can 
+endure before becoming combat ineffective. [3.25]
+MP—Movement point. A unit’s speed equals its 
+available MPs. MPs are expended by units to move 
+from hex to hex during Move and Assault orders, 
+among other things.
+Obstacle—A type of terrain that blocks LOS 
+through it; never into or out of it. [23.2]
+Opportunity (Op) Fire—The ability of inac-
+tive units to fire at enemy units as they expend 
+MPs. [35.6]
+Order—The basic action of the game. Performed 
+by the player with the Initiative. [30]
+Piece—Any unit, Sighting marker or fortifica-
+tion marker.
+Range—One of a unit’s base stats, shown as a 
+superscript to the unit’s FP. Range is a measure of 
+how far a unit can shoot, in hexes. [3.22]
+Rate of Fire (ROF) —One of a unit’s base 
+stats. ROF is an indication of an armament’s base 
+rate of fire coupled with its user’s reactive capabili-
+ties versus observed enemy activity. [3.23]
+Reaction—An ability keyword on some assets. 
+Allows a reaction to something occurring in-game. 
+There is no limit to the number of asset reactions 
+a player may perform each turn other than the 
+number of cards in his hand and being able to 
+meet each reaction’s stated prerequisite. Return 
+Fire and Op Fire are also reactions.
+Return Fire—The ability of inactive units to fire 
+at enemy units after they themselves fire during a 
+Fire order. [34.3]
+ROF—Rate of fire.
+Special Action—Actions available to some 
+units. Indicated on a unit by a capital letter next 
+to its FP box. To use a special action the unit must 
+be fresh, and usually requires the discard of an 
+asset or the expenditure of MPs. [3.27]
+Speed—One of a unit’s base stats. Speed is color 
+coded for three different types of mobility: leg, 
+track, and wheel. Speed is a measure of how well 
+a unit can move about the battlefield. [3.24]
+Spent—Units belonging to the inactive player 
+can become spent when rolling low during Return 
+Fire/Op Fire [34.33 & 35.63]. Spent units are 
+no longer able to Return Fire/Op Fire for the 
+remainder of that order.
+Unit—Any rectangular (guns and vehicles) or 
+5/8" square (infantry) counter. A unit will have 
+three small black bars in front of its name if pla-
+toon-sized; one if squad-sized. The three unit types 
+are infantry, gun and vehicle. Units are either 
+fresh or hit. [3]
+Vehicle—One of three unit types. All vehicles 
+are on rectangular counters and have either track 
+or wheel speed.
+VP—Victory Point. [22]
+
+CO R E RU L E S — COMP ONEN T S
+1. T r a c k Dis p l ay
+The Track Display is the reception point for many of the game’s 
+functions—most importantly the Order Matrix. It is also home to 
+various tracks and holding boxes that players will use throughout 
+the play of the game.
+1.1 O r d e r M at r i x
+The Order Matrix dominating the center of the Track Display defines 
+the capability of the players to perform the various orders – the basic 
+actions of FF – throughout the game. Specifically, the 
+Matrix determines which orders are available to the play-
+ers at any given moment via the position of allotted order 
+cubes within its colored boxes.
+1.11 S e e din g O r d e r s
+At the start of each game, the chosen scenario will direct the players 
+as to how to seed the Matrix with order cubes. Then, whenever the 
+Matrix runs out of cubes it will trigger the end of a turn, at which 
+time the Matrix will be reseeded with fresh order cubes [21.12f].
+1.12 E x e c u t in g O r d e r s
+Whenever an order is not being performed – that is, at the very start 
+of the game or whenever another order is concluded – the player with 
+the Initiative is allowed to remove one order cube from the Matrix 
+so as to perform a specific order [30]. This order will be either the 
+one listed next to the box from where the cube was taken OR any 
+single order listed below it. Place cubes removed from the Matrix 
+into the "Used Order Cubes" box, where they will await the next 
+reseeding of the Matrix.
+1.2 In i t i at i v e T r a c k
+1. 2 1 I n i t i a t i v e P a w n
+The Initiative pawn is placed on the Initiative Track at the 
+start of every scenario, and will move back and forth along 
+the track – that is, towards and away from each player – as 
+Initiative points are spent during play. The position of the 
+Initiative pawn serves to determine which player is eligible 
+to perform the next order [30].
+1. 2 2 V i c t o r y P oin t ( V P) M a r k e r s
+Some scenarios will have the players 
+place a VP marker on the Initiative 
+Track. The scenario will indicate in 
+which space the marker begins. As 
+VPs are gained and lost during play 
+(as described in the scenario’s Victory 
+Conditions), players should slide the 
+VP marker towards the appropriate 
+player a number of spaces equal to the 
+relevant gain/loss. The back of the VP marker is used to record VP 
+totals greater than 20. A second marker is provided for use in tracking 
+VP totals greater than 40. In most cases the player who has the VP 
+marker on his side of the "0" space at the end of the game is declared 
+the winner [22].
+1. 2 3 A t t a c k To t al M a r k e r
+This marker is a mnemonic device 
+for players to mark an attack's final 
+strength. The reverse is used for attacks 
+greater than 20.
+1.3 T im e T r a c k
+1.3 1 Tu r n & S u d d e n D e a t h M a r k e r s
+The Turn and Sudden Death markers are placed on 
+the Time Track at the start of the game, as directed by 
+the particular scenario being played. The Turn marker 
+tracks the passage of game time while the Sudden Death 
+marker determines how likely it is for the game to end 
+once the Turn marker reaches its space [21.22].
+1.3 2 Rein f o r c e m e n t M a r k e r s
+The Reinforcement markers are placed on the Time 
+Track at the start of the game whenever a scenario has 
+reinforcing units. Each marker serves as a reminder 
+that that side has scheduled reinforcements when the 
+Turn marker enters its space [21.12e].
+1.3 3 S ni p e r B o x
+The Sniper marker is placed here to 
+indicate which side is next eligible to 
+perform sniper activity [21.12c]. The 
+scenario being played will indicate 
+which side of this marker begins the game face-up.
+1.4 A ir S u p p o r t B ox
+The Air Support marker is placed here 
+to indicate which side has local air 
+superiority at any given time (relevant 
+only for certain assets). The scenario 
+being played will indicate which side 
+of this marker begins the game face-up.
+1.5 Ava il a ble / P ending Comm a nd box es
+Command markers begin in the Available box, where they are “avail-
+able” to be placed on the map for immediate use [4.1]. After spending 
+time on the map Command markers are sent to the Pending box, 
+where they will wait a turn before being returning to the Available 
+box once again [21.12d].
+1.6 C omm a nd & C on t rol T r a c k
+Each side has a Command Radius marker which is used 
+on the Command & Control Track to mark the current 
+Command Radius of all its Command markers [4.31].
+Turn
+Turn
+Sudden
+Death
+Sudden
+Death
+Command
+Radius
+Command
+Radius
+
+2. M a p s
+Each map contains a large identification number used to determine 
+which map or maps are used for a particular scenario. Most maps 
+also have a compass used to delineate North which is used as an aid 
+to setting up initial forces and/or reinforcements.
+Superimposed over each mapboard is 
+a hexgrid which is used to regulate 
+movement and combat at a scale of 
+about 75 meters (250 feet) per hex. 
+Each hex contains: 
+a)	 a specific type of terrain [24] 
+which can affect movement 
+as well as attacks made into or 
+through it;
+b)	 a white center dot used for determining line of sight [23] between 
+hexes;
+c)	 a unique letter-number identifier – such as “J17” picture above – 
+used mainly for identifying setup areas.
+3. U ni t s
+Units are always square or rectangular counters. They are the 
+main tool at the player’s disposal with which to craft a victory on 
+the battlefield. Players will use their units to fire at opposing units, 
+maneuver to take objectives and envelop the enemy, and to hold 
+key positions.
+3.1 U n i t T y p e s
+There are three types of units in FF: Infantry, gun and vehicle. 
+Infantry are defined by always being on a larger (5/8") square counter. 
+Guns are defined by always being on a long counter and having a leg 
+speed. Vehicles are defined by always being on a long counter and 
+having either a track or a wheel speed [3.24]. 
+J17
+J18
+3.2 U ni t S tat s
+All units have various stats that govern what they can and can’t do 
+in the game and, to a great degree, how well they can do it. Not all 
+units will have all the stats. The various stats are as follows:
+3. 2 1 F ir e p o w e r (F P)
+FP is always located in the bottom left corner of a unit and is its base 
+strength when firing at an enemy unit [34 & 35.6]. Firepower comes 
+in two types: “AP” and “HE.” AP is always shown as a white number 
+with a superscript inside a black box; HE as a black number with 
+a superscript inside a white box (the superscript is the unit’s “range"; 
+see below). When using direct fire, an AP FP can only affect units 
+with armor, and an HE FP can only affect units with morale [3.25].
+3. 2 2 R a n g e
+This is the superscript to every FP stat and is the maximum number of 
+hexes away at which it may use that FP to fire at enemy units without 
+suffering a detrimental modifier. Units can fire at up to double and 
+even triple their printed range with penalty [34.13].
+3. 2 3 R a t e o f F ir e ( RO F )
+On the front side of every unit – the one without the white stripe – 
+this is the number within a diamond at the bottom middle of the 
+counter. ROF serves as a trigger whenever the unit uses Return Fire 
+or Op Fire: if either attack die is less than or equal to the ROF the 
+unit becomes spent [34.33 & 35.63].
+3. 2 4 S p e e d
+On the reverse side of every unit – the one with the white stripe – this 
+is the middle number along the bottom, and gives the number of 
+movement points (“MPs”) a unit can spend to move [32 & 35] from 
+hex to hex across the map. Speed will always be inside a color-coded 
+box to show which mode of transport it has and thus which column 
+of the Terrain Chart it will use for its MP expenditures:
+●Green = Leg movement
+●Blue = Track movement
+●Red = Wheel movement
+ Sd Kfz 250/10
+A 12
+1110
+ Sd Kfz 250/10
+name
+[back]
+[front]
+“AP” FirepowerRange
+(vs Armor)
+“HE” FirepowerRange
+(vs Morale)
+Fire Arc: circle () = loose
+triangle () = strict
+Special Actions
+Speed:
+= leg
+= track
+= wheel
+bars:
+single = squad
+triple = platoon
+“Armor” Defense (frontﬂank)
+“Morale” Defense (frontﬂank)
+stripe = activated
+Rate of Fire
+(ROF)
+VEHICLE = long unit with track or wheel speed
+GUN = long unit with leg speed
+INFANTRY = any square unit
+Anatomy of a Unit
+
+3. 2 5 D e f e n s e
+Defense is always located in the bottom right corner of a unit and is 
+its base strength when defending against a direct fire attack. Defense 
+comes in two types: “armor” and “morale.” Armor is always shown as 
+a white number inside a black box; morale as a black number inside 
+a white box. When a hex is attacked via direct fire, AP FP can affect 
+only units with armor, and HE FP can affect only units with morale. 
+Many guns and vehicles have a subscripted number accompanying 
+their defense. If present, this subscript is the unit’s defense value 
+whenever it is being shot at from any hex within its flank fire arc; 
+the larger number is then used only for direct fire attacks emanating 
+from those hexes within its front fire arc [3.4]. 
+3. 2 6 F i r e A r c
+All guns and vehicles have one of either a circle or triangle in the 
+upper right corner of their counter. A circle denotes a “loose” fire 
+arc; a triangle a “strict” fire arc [3.4].
+Loose fire arcs are for vehicles with turrets as well as guns having 
+some form of 360º mount; usually anti-aircraft types. Strict fire 
+arcs represent turretless vehicles and the standard ordnance gun.
+3. 2 7 S p e c i al A c t io n s
+Some units have one or more capitalized letters next to their FP: 
+these are called “special actions.” Special actions allow a fresh unit to 
+perform an activity not normally allowed to other units, usually at the 
+cost of discarding an asset or spending a specified amount of MPs.
+The various special actions within each game in the FF series are 
+described in detail in that game’s Playbook.
+3.3 U n i t S i z e s
+There are two unit sizes in FF: platoon and squad. A platoon can be 
+identified by three small black bars and a squad by a single black bar 
+in front of the counter name.
+SCALE: A squad-sized unit in the game represents: a squad of 8-12 
+men; a gun with its inherent crew; or an individual vehicle. Each 
+platoon-sized unit represents three such units fighting as a coherent 
+formation. Historically, platoons sometimes contained four or more 
+units – especially armored formations – but this game uses three as 
+a nominal figure for both consistency and simplicity.
+DESIGN NOTE: The terms “squad” and “platoon” aren’t 100% accu-
+rate, of course, and are used here solely as a matter of convenience. For 
+example, a grouping of guns would often be called a “battery” but are 
+termed a platoon in FF to maintain consistency throughout the rules.
+Squads and platoons act identically for all game purposes except as 
+noted in the following two rules.
+Platoon
+Squad
+3.3 1 U ni t E limin a t io n
+When a platoon is eliminated [5.2], it is replaced in its hex with 
+two squads of the same name (and both with the same fire arc, if 
+applicable). The owning player places the hit marker that was on the 
+platoon onto one of the replacement squads. Replacement squads 
+themselves are never affected by the same attack that hit their parent 
+platoon. If there was a Spent marker on the platoon, place a Spent 
+marker on both resulting squads. The two squads are considered to be 
+the same unit as their parent platoon with regard to the current game 
+situation (activated/unactivated; remaining movement points; etc).
+When a squad is eliminated, place it back into the countermix. Place 
+its hit marker back into the draw cup. 
+3.3 2 U ni t S t a c k in g
+Unlike similar tactical games, in FF there is no limit to the number 
+of units that may occupy the same hex. The one exception is the 
+vehicular stacking limit whilst In Column [24.102]. Also, some 
+beneficial fortification markers such as entrenchments or pillboxes 
+might limit how many units may stack inside them [see Playbook].
+See also rule 30.2 on deploying platoons and mustering squads.
+3.4 U ni t Fa c in g
+All long units – guns and vehicles – must at all times maintain a 
+particular orientation with respect to the hex they occupy: this is 
+termed a “fire arc.” Specifically, the right edge of a gun or vehicle 
+counter – the one with the circle or triangle fire arc symbol – must 
+always be oriented parallel to a single hexside of the hex it occupies. 
+In this manner, the unit’s “front fire arc” and “flank fire arc” are 
+defined as shown in the diagram below.
+Infantry have no fire arcs and may attack in any direction without 
+penalty.
+See rules 31.1, 34.13 and 35.2 for details on how fire arcs affect 
+advancing, fire attacks and movement, respectively. 
+Fire Arcs
+FRONT
+FIRE ARC
+FLANK
+FIRE ARC
+
+4. C o m m a nd M a r k e r s
+4.1 Ava il a b l e C o m m a nd
+At the start of every game, Com-
+mand markers allotted to each 
+player are placed in their respective 
+(color-coded) Available Command 
+box, located on the Track Display. 
+Command markers are also placed 
+in the Available Command box when entering play as reinforcements. 
+Command markers should always have their "Mission" side face 
+up when occupying an Available Command box. All of a player’s 
+available Command is eligible to be placed on the map as desired.
+4.2 P l a c in g Ava il a b l e C o m m a nd
+A player may, at any time, place any number of his available Command 
+into one or more hexes of the map. While a Command occupies a 
+map hex it is no longer considered “available” and is instead “active.” 
+Command are always placed on the map initially with their “Mission” 
+side face up. At the end of every game turn, all Mission Command 
+on the map are flipped to their “Tactical” side (after existing Tactical 
+Command are reset to the Pending box [21.12d]). 
+PLAY HINT: Placement of available Command is usually – but 
+not always – done by the active player just after announcing an 
+order but prior to activating units, or by the inactive player just 
+before making an Op Fire or Return Fire attack.
+4.3 A c t i v e C o m m a nd
+4.3 1 C o m m a n d R a diu s
+All friendly active Com-
+mand have a “Command 
+Radius” equal to that 
+side's current Command 
+& Control level [1.6]. A 
+Command Radius is 
+counted in hexes radi-
+ating outward from 
+that marker’s hex (and 
+includes it). Command 
+Radius is unaffected 
+by enemy units, enemy 
+Command Radius and 
+terrain—a player need 
+not trace a "command 
+path" or any such device. 
+Effect—A Command marker serves to put all friendly units within 
+its Command Radius under either "Mission Command” or "Tacti-
+cal Command," depending on which side of the marker is currently 
+face up. Mission Command trumps Tactical Command for friendly 
+units finding themselves under both types. Friendly units outside 
+the Command Radius of all friendly active Command markers are 
+deemed “Out of Command.”
+A side with a Command & Control level of zero still puts all friendly 
+units in a Command marker's hex under command.
+4.3 2 C o m m a n d B e n e f i t s
+A player enjoys two main benefits from his active Command: 
+a)	 when he is the active player, the Initiative cost to activate a unit 
+for an order is reduced to 1 if that unit is under Tactical Com-
+mand, or reduced to 0 if that unit is under Mission Command 
+[30.1]. Mission Command trumps Tactical Command.
+b) 	when he is the inactive player, the Initiative cost to perform 
+Return Fire or Op Fire with a unit is reduced to 1 if that unit is 
+under Tactical Command, or reduced to 0 if that unit is under 
+Mission Command [34.3 & 35.6]. Mission Command trumps 
+Tactical Command. 
+Command markers have "0" on their Mission side and "1" on their 
+Tactical side as a visual reminder of these capabilities.
+Command can also allow units to deploy or muster [30.2] and can 
+increase the chances of rallying [36].
+4.3 3 C o m m a n d M a r k e r M o v e m e n t
+Whenever a unit moves or advances, an active Command marker 
+sharing its hex may accompany it. Units may "pick up" and "drop 
+off" friendly Command at any point along their route. A Command 
+marker that exits the map along with a friendly unit is also removed 
+from the game (place it back in the countermix).
+4.3 4 C o m m a n d M a r k e r Re m o v al 
+Voluntar y—An active Command marker can never be voluntarily 
+removed from the map.
+Involuntary: Capture—If an active Command marker ever finds 
+itself in the same hex as an enemy unit and no friendly unit is also 
+present, the Command is immediately eliminated and placed back 
+in the countermix.
+DESIGN NOTE: Perhaps an officer was killed, wounded or cap-
+tured; or he and his command team could be (temporarily) running 
+for their lives; or maybe they are cowering in a ditch, out of touch 
+with their subordinate units. This effect could also represent the 
+cutting of a phone line; the loss of a HQ runner; dwindling supplies 
+of ammunition; etc. The key thing here is that a Command marker 
+isn’t necessarily a single commanding officer: it often simply repre-
+sents a side’s local command & control capability in abstract form.
+Involuntar y: Other—At the end of each turn Active Command 
+can also be eliminated by enemy Sniper Activity [21.12c] or sent to 
+the Pending Command box [21.12d].
+4.3 5 C o m m a n d A s M a r k e r s 
+Command are markers – not units – and thus ignore terrain, cannot 
+be affected by fire attacks or barrages, do not need to be activated, etc.
+4.4 P e ndin g C o m m a nd
+At the end of every turn, all Command markers in a player's Pending 
+Command box are shifted into their Available Command box, then 
+all of a player's active Tactical Command are sent to their Pending 
+Command box [21.12d]. "Pending" Command markers cannot be 
+used for any purpose.
+
+5. H i t M a r k e r s
+Note—Before play begins, all hit 
+markers should be placed into an 
+opaque cup so that they may be drawn 
+at random when called for during play.
+5.1 P l a c e m e n t
+A hit marker is placed on a fresh unit if it suffers a hit during a fire 
+attack or barrage. On vehicle units, a hit marker is placed with its 
+“tank” silhouette side face up; on infantry and gun units, place the 
+hit marker “soldier” silhouette side face up.
+5.2 E f f e c t s
+A unit with a hit marker that suffers another hit is eliminated. A unit 
+with a hit marker on it can be prevented from firing and/or moving 
+depending on the specific hit marker attached:
+The circled F symbol indicates that the hit unit cannot fire 
+(including assault, melee, Return Fire and Op Fire).
+The circled M symbol indicates that the hit unit cannot move, 
+advance, pivot, or spend MPs for a special action.
+A hit marker with both of these symbols imposes both restrictions 
+on the attached unit. A hit marker with neither of these symbols 
+imposes neither restriction on the attached unit. 
+Though the unit would still be in imminent danger of elimination 
+should it be hit again before the hit marker is removed.
+5.3 R e m ova l
+A hit marker remains on a unit until the unit is eliminated, abandoned 
+[25], exits the map, or rallies [36]. Place removed hit markers back 
+in the draw cup for immediate reuse.
+6. S i gh t in g M a r k e r s
+Sighting markers represent possible locations of hidden 
+units and/or fortifications.
+6.1 P l a c e m e n t
+Some scenarios will assign one or both players a specific number of 
+Sighting markers. The contents of the reverse side of each Sighting 
+marker – hidden forces, a false sighting or a fortification, for example 
+– will be identified within the scenario special rules. If allotted, Sight-
+ing markers are set up within hexes of the map in the same manner 
+as the player’s other forces.
+6.2 P r e s e n c e
+Despite being markers and not units, all Sighting markers have a 
+morale stat of 13. The sole effect of this inherent morale is to allow 
+Sighting markers to suffer attacks by barrage and by HE direct fire 
+attacks as if they were units. 
+Panicked
+Pinned
+?
+6.3 R e v e a l in g
+A Sighting marker can be revealed by its owning player at any time 
+(for example, in order to set up and then immediately activate a hidden 
+unit [6.5]). Otherwise, a Sighting marker must be revealed if: 
+a)	 it is hit by a fire attack or barrage against its hex; or
+b)	 an enemy unit occupies the same or an adjacent hex.
+6.4 C o n t e n t s
+When a Sighting marker is revealed, flip it to its reverse side: 
+a)	 If the reverse side is “False Sighting” then the Sight-
+ing marker was a dummy position and is removed 
+from play.
+b)	 If the reverse side is a harmful fortification (roadblock or wire, for 
+example) the owning player keeps that fortification marker in the 
+hex. If a unit now finds itself in an impassable hex, immediately 
+eliminate the unit.
+You generally want to keep your units away from your own 
+harmful fortifications before they are revealed.
+c)	 If the reverse side is “Hidden” then it was hiding one or more units 
+(possibly inside a beneficial fortification, such as entrenchments 
+or a pillbox) which are immediately set up in that hex.
+6.5 H idd e n F o rc e s
+6.5 1 I d e n t i f y in g Hi d d e n F o r c e s
+When a Sighting marker is revealed as a “Hidden” 
+marker, it will have a letter designation (“Hidden: 
+A” in the example to the right). Each such Hidden 
+marker matches a large “Hiding” marker sporting the same letter 
+designation (shown below). During setup, the player in control of a 
+Hidden marker will place one or more of his allotted units (possibly 
+inside beneficial fortifications) underneath the matching Hiding 
+marker—thus indicating where on the map those pieces will appear.
+6.5 2 P l a c in g Hi d d e n F o r c e s
+Once a revealed Hidden marker’s 
+matching Hiding marker has 
+been identified, the latter’s con-
+tents need to be set up on map. 
+The owning player takes all units 
+and fortifications underneath that 
+Hiding marker and places them into the Hidden marker’s hex. Both 
+the Hidden and Hiding markers are then removed from the game. 
+Units and fortifications with fire arcs may be placed facing in any 
+direction desirable (this information need not be recorded ahead of 
+time). Revealed pieces are unaffected by any attack versus the Sight-
+ing marker that revealed them.
+Pieces underneath the oversized Hiding markers are to be kept out 
+of view of the opponent and may only be inspected by the control-
+ling player.
+False
+False
+Hidden:
+Hidden:
+Hiding: A
+Hiding: A
+
+7. F o r t if i c at io n M a r k e r s
+"Harmful" fortifications are always found on the reverse side of Sight-
+ing markers. "Beneficial" fortifications exist separately on hexagonal 
+counters. Fortifications are normally only set up at the start of a 
+scenario, though they may begin play hidden via Sighting markers 
+(harmful) or if a hidden unit is stacked inside (beneficial). Fortifica-
+tions can be eliminated during play by various assets or when their 
+hex is struck by barrage.
+Fortifications specific to each game in the series can be found within 
+its Playbook.
+8. S m ok e M a r k e r s
+8.1 P l a c e m e n t
+Smoke markers can enter play via various assets and special actions. 
+Smoke will usually be placed on the 
+map on its full-strength (5) side. The 
+reverse side of each Smoke marker is 
+its depleted (2) side.
+8.2 E f f e c t s
+A Smoke marker increases the hindrance to 5 (if full strength) or 2 (if 
+depleted) for any fire attack – direct or melee – into, out of, within, 
+or through its hex, including along the hexsides.
+8.3 R e m ova l
+At the end of each turn, all depleted Smoke markers on the map 
+are removed then all full strength Smoke flip to their depleted side 
+[21.12b].
+S m o k e A s Te r r ain — E f f e c t s S um m a r y :
+Move Cost: use other terrain in the hex
+Cover: use other terrain in the hex
+LOS: 2 or 5 hindrance into, out of, within, or through
+9. Fat e C a r d
+Each scenario will indicate which player begins the game in posses-
+sion of the Fate card.
+The Fate card is never part of a player’s hand (only asset cards). 
+The Fate card should simply be kept face up in front of the owning 
+player for ease of reference during play.
+9.1 R e - Ro l l
+At any time during the game, the player currently in control of the 
+Fate card may choose to cancel all effects of the last single die or 
+dice roll to have been made, causing it to be re-rolled. This decision 
+must be made prior to any results of that roll being implemented.
+SMOKE
+SMOKE
+This includes a roll when reseeding the Order Matrix, in which 
+case only that one die is re-rolled, not all ten rolls.
+When a player calls for a re-roll in this manner, he must give the Fate 
+card to his opponent, then the re-roll is performed. The opponent 
+will then control the Fate card unless and until he himself performs 
+a re-roll option, thus passing it back to the first player. This use of 
+the Fate card can occur an unlimited number of times during the 
+game—even during the same die roll.
+9.2 T i e G a m e
+If a scenario ends in a tie – for example, 0 VPs after sudden death 
+– the player with the Fate card breaks the tie and wins the game.
+The Fate card thus acts as a sort of balancing mechanism to temper 
+those occasional wild strings of luck inherent in any game with dice. 
+Fate will generally pass back and forth between the two players as 
+the fortunes of war play out, though this isn’t mandatory—it is 
+possible, however unlikely, that a player could refrain from using 
+it throughout an entire game.
+10. A s s e t C a r d s
+Asset cards allow the players various forms of orders and reactions, 
+be it artillery, air support or engineering functions, to name a few. 
+Assets may be assigned at the start of the game and can be drawn 
+during the game via the various Support orders [38]. 
+Assets are one of two types: ORDER or REACTION. Some asset cards 
+might contain two orders, two reactions, or both an order and a reac-
+tion—such an asset can be played for only one of the two abilities 
+each time it is played. There are three ways in which a player may 
+use an asset currently in his hand:
+a)	 Order—An asset order may only be played by the player with 
+the Initiative announcing an "Asset" order [33]. 
+b)	 Reaction—Asset reactions may be played by either player at any 
+time so long as the condition or prerequisite listed on the card 
+itself is met. Multiple reactions may be conducted in response 
+to the same game situation. All effects of consecutively-played 
+reactions are cumulative. If both players wish to perform one or 
+more reactions at the same time, the inactive player must perform 
+all of his reactions before the active player may play his first one.
+c)	 Enabler—Oftentimes an asset must be discarded as the “cost” 
+to perform a unit’s special action [3.27 and Playbook]. When this 
+occurs, the asset is placed directly atop the player’s discard pile 
+and any printed effect of that asset is ignored.
+In the unlikely event that either asset deck depleted, shuffle its discard 
+pile to form a new draw pile.
+
+CO R E RU L E S — MECH A NIC S
+2 0. S equ e n c e of P l ay
+A game of Fighting Formations consists of a series of turns. Each 
+turn is broken up into ten "orders" which are performed by both 
+players in a variable sequence [30]. Each scenario assigns one player 
+as starting with "the Initiative.” A player has the Initiative when, on 
+the Initiative Track: 
+●the Initiative pawn is on his side of the “0” space; or
+●The Initiative pawn occupies the “0” space and he is in possession 
+of the Fate card.
+The player with the Initiative will perform a single order. Every order 
+costs a certain amount of Initiative to perform, depending on which 
+row the order cube was removed from. At the end of every order 
+players check to see if the turn ends [21.12]. Then, whichever player 
+has the Initiative – which could be the same player – performs the 
+next order. Orders are thus performed over and over by both players 
+until a sudden death roll or other occurrence ends the game [21.3].
+2 0.1 O r d e r C a pa b il i t y
+In FF, no player may give an order without the removal of an order 
+cube from the Order Matrix. There is no limit to the number of 
+consecutive orders a player may perform so long as that player retains 
+the Initiative. Orders do not need to be predesignated—they are 
+announced and executed one at a time. When retaining the Initiative 
+a player may observe the results of one order before deciding which 
+order to give next. A player may "pass" and do nothing instead of 
+performing a chosen order—though the initiative cost for removal 
+of the order cube is still paid.
+The different orders that may be given by a player are explained 
+in rules 31–38.
+2 0.2 R e a c t i o n C a pa b il i t y
+Reactions such as Return Fire [34.3], Op Fire [35.6] or those found 
+on assets can be performed whenever a player deems them appropri-
+ate provided the prerequisite, if any, given for that reaction is met.
+The different asset reactions that may be taken by a player are 
+explained in the Assets section of this game's Playbook.
+2 1. G a m e T im e
+2 1.1 T u r n M a r k e r
+2 1.11 P l a c e m e n t
+Each scenario will indicate on which space of the Time Track (located 
+on the Track Display) the Turn marker is to be placed.
+2 1.12 A d v a n c e m e n t
+A turn ends – and the Turn marker is advanced one space forward 
+along the Time Track – at the end of any order in which there are 
+exactly zero cubes remaining on the Order Matrix. 
+Immediately after advancing the Turn marker, normal play pauses 
+and the following steps are executed in the order shown:
+a)	 Sudden Death—The triggering player makes a sudden death 
+roll if appropriate [21.22].
+Then, if the game did not end due to sudden death, continue:
+b)	 Smoke Depletion—Remove all depleted (“2”) Smoke markers 
+from the map, placing them back into the countermix; then flip 
+all full strength (“5”) Smoke markers on the map to their depleted 
+side.
+c)	 Sniper Activity— The player whose side of the Sniper marker 
+is currently face up counts the total number of active enemy 
+Command markers, selects one of them, then rolls 1d10:
+◦◦If the result is greater than the count, there is no effect. 
+◦◦If the result is less than or equal to the count, that opponent 
+must choose one: either eliminate the chosen Command marker 
+(placing it back into the countermix); or permanently lower his 
+Command & Control level by one, to a minimum of 0.
+d)	 Regroup—In this step players first move all Command markers 
+in their Pending Command box to their Available Command box 
+(Mission side face up). Then remove all active Tactical Command 
+markers from the map, placing them in their Pending Command 
+box. Finally, flip all active Mission Command markers to their 
+Tactical side.
+e)	 Reinforcements—If there are any scheduled reinforcements 
+for the new turn (as indicated in the scenario’s Deployment box), 
+the owning player sets them up according to the instructions 
+found in the scenario. Any reinforcement Command markers are 
+placed in their Available Command box (Mission side face up).
+f)	 Reseed—Either player rolls 1d10 one at a time for each of the 
+ten order cubes. Place each cube into the box on the row of the 
+Order Matrix matching the die result.
+Once the steps above have been completed in their entirety, normal 
+play resumes from wherever it left off.
+This sequence is shown in abbreviated form on the Track Display 
+for ease of reference during play.
+
+2 1.2 S udd e n D e at h M a r k e r
+2 1. 2 1 P l a c e m e n t
+Each scenario will indicate on which space of the Time Track the 
+Sudden Death marker is to be placed.
+2 1. 2 2 P r o c e d u r e
+Whenever the Turn marker advances into or beyond the space occu-
+pied by the Sudden Death marker, the triggering player rolls 2d10. 
+If the result is less than the number in the space currently occupied 
+by the Turn marker (not the Sudden Death marker), the game imme-
+diately ends. Otherwise, play proceeds as normal. 
+PLAY HINT: This roll can be re-rolled via use of the Fate card.
+2 1.3 G a m e E nd
+Via Sudden Death
+If a sudden death roll ends the game, the player with the higher VP 
+total – that is, the VP marker is on his side of the 0 space – wins the 
+game. If the VP marker is in the 0 space, the player holding the Fate 
+card breaks the tie and wins the game.
+If VP totals are irrelevant to the scenario being played, the scenario’s 
+specific Victory Conditions will instruct the players as to how to 
+determine the winner.
+Alternate Game End
+In addition to or in place of sudden death, a scenario’s specific Vic-
+tory Conditions may sometimes prescribe an alternate way for the 
+game to end.
+It is possible, however unlikely, for one or both sides to end up with 
+no units on the map prior to sudden death. If this occurs, the game 
+doesn't necessarily end: the player having no units would still spend 
+initiative for orders as normal—though, with the exception of draw-
+ing and playing assets, he would pretty much always have to pass.
+2 2. V i c t o ry C o ndi t io n s
+A player will usually win the game by having more VPs than his 
+opponent when the game ends [21.3]. VPs are generally earned in 
+one of three ways:
+●elimination of enemy units;
+●exiting of friendly units off a particular map edge;
+●control of mapboard objectives.
+2 2.1 E l i m in at i o n V i c t o ry P o in t s
+In most scenarios, when a unit is eliminated the opponent is awarded 
+a certain number of VPs for it, as described in the scenario’s Victory 
+Conditions. Adjust the VP marker accordingly whenever VPs are 
+gained in this manner.
+Note that a hit platoon that is hit again is considered “eliminated” 
+even though it is replaced by two squads—one of that platoon's three 
+squads was, in effect, eliminated.
+2 2.2 E x i t V i c t o ry P o in t s
+A unit may never exit the map without a scenario’s Victory Conditions 
+or Special Rules specifically allowing it. If allowed, a unit activated 
+to Advance [31], Assault [32] or Move [35] may exit off the map (at 
+a MP cost of 1) along the specified edge/hex(es). Each unit exited 
+in this way immediately earns its owning player a number of VPs 
+equal to that stipulated in the scenario’s Victory Conditions. Adjust 
+the VP marker accordingly whenever VPs are gained in this manner.
+Exited units are placed back in the countermix, permanently removed 
+from play. Place any hit marker that may have been on an exited unit 
+back into the draw cup.
+2 2.3 O b j e c t i v e V i c t o ry P o in t s
+Sometimes one or more hexes on a map will be 
+outlined in red. Such hexes are termed “objectives” 
+and are worth one or more VPs to one or both 
+sides, depending on the scenario’s Victory 
+Conditions.
+Control Markers—When objec-
+tives matter, the double-sided Control 
+markers are used to indicate which 
+side currently controls each mapboard 
+objective. 
+Procedure—During setup, a scenario will specify which objec-
+tives begin under each player’s control. In some cases, objectives 
+may begin the game controlled by neither side: these should not 
+contain any Control marker. Otherwise, once play commences, the 
+last player to have solely occupied an objective with a friendly unit 
+should place/flip the Control marker within that objective to match 
+the faction he is commanding.
+2 3. L in e of S i gh t (L O S)
+2 3.1 L O S C h e c k s
+Generally, a unit in one hex must be able to see a unit in another hex 
+in order to fire at it. Mapboard terrain and units inside certain forti-
+fications can affect this LOS. A LOS “check” is made by stretching 
+a string taut between the center dot within the “sighter’s” hex and 
+the center dot of the “target’s” hex. If the string touches the physical 
+depiction of a terrain obstacle or hindrance in an intervening hex, 
+that LOS is blocked [23.2] or hindered [23.3], respectively. 
+A LOS check may be made at any time by either player.
+An obstacle or hindrance that is within the sighting or target hex 
+will not affect LOS. (exception: Smoke [8].)
+LOS is reciprocal: if unit A can see unit B, then B can also see A. 
+Units – friendly or enemy – in an intervening hex do not block or 
+hinder LOS in any way.
+L40
+L41
+
+2 3.2 O b s ta c l e s & L O S
+Some terrain [24] is noted as being an “obstacle.” A unit in one hex 
+can’t see a unit in another hex if the LOS between them is blocked 
+by an obstacle. 
+2 3.3 H ind r a n c e s & L O S
+Some terrain is too sparse or too low to be considered a complete 
+obstacle to LOS. Such terrain is termed a “hindrance” because it 
+hinders fire traced through it, making it harder to hit enemy units 
+with fire attacks.
+2 3.3 1 F i r e A t t a c k s & Hin d r a n c e s
+Any fire attack traced through an intervening hindrance will have 
+its default hindrance of “1” [34.141] increased to the number listed 
+in that terrain’s LOS column of the Terrain Chart.
+EXAMPLE: A direct fire attack made through rough terrain will 
+have a hindrance of 2 instead of 1.
+2 3.3 2 H in d r a n c e M o di f ie r s
+Hindrances – including the default “1” – are not cumulative: always 
+use the single largest applicable hindrance.
+EXAMPLE: An infantry unit fires at an enemy gun three hexes 
+away. Both hexes between them contain rough terrain. Instead of 
+the default 1 the fire attack will suffer a hindrance value of 2 for 
+the rough hindrance, not 4 for both rough hexes. If one or both 
+of the two intervening hexes contained a “5” Smoke marker, the 
+hindrance would be 5 instead of 2.
+2 3.3 3 S m o k e H in d r a n c e s
+A Smoke hindrance [8] is considered to fill the entirety of the hex that 
+its marker occupies, including its hexsides. In other words, a LOS 
+traced through any portion of a hex containing Smoke – including 
+directly along one of its hexsides – is hindered by that marker.
+The physical placement of a Smoke marker within a hex is unim-
+portant: Smoke is an “inherent” terrain, and is considered to affect 
+the entire hex – including all six hexsides – as long as it remains.
+Furthermore, Smoke hinders any LOS traced into or out of or within 
+its hex, not just through it like printed mapboard hindrances.
+Continuing the example from 23.32, if the infantry unit’s hex con-
+tained a “5” Smoke, the hindrance would be raised to 5.
+2 4. T e r r a in
+2 4.1 T y p e s & F e at u r e s
+One of the player aid cards is a Terrain Chart showing stats for the 
+different terrain in the game. Terrain “Types” are shown on this 
+Chart with green backgrounds. Terrain “Features” are shown with 
+tan backgrounds and generally only serve to modify the Terrain Type 
+they share a hex with. The Terrain Chart also lists the various terrain 
+in hierarchical order—that is, if a hex contains two or more Terrain 
+Types, the one closest to the top of the chart takes precedence. 
+EXAMPLE: If a hex with rough terrain has some of that terrain 
+spill into an adjacent hex containing a building, that second hex is 
+a “building hex” for all purposes, not a “building-rough hex” or any 
+such conglomeration. This also means that a hex is an “open ground 
+hex” only if it contains none of the terrain types shown above it on 
+the Terrain Chart (those with their text on a green background)—it 
+could contain any of the terrain features shown below it (those on 
+a tan background) and still be an “open ground hex,” albeit with 
+some sort of modification.
+The Terrain Type of every hex on every map is thus defined by which-
+ever Terrain Type both occupies that hex and is positioned nearest the 
+top of the Terrain Chart—even if that terrain doesn’t dominate the 
+hex or share space with the hex’s center dot. Roads can also occupy 
+a hex, usually modifying a unit’s movement therein. Smoke markers 
+[8] also function as terrain to a certain degree.
+2 4.2 M ov e C o s t s
+Each terrain lists three different “Move Costs” – one each for leg, track 
+and wheel – which are color-coded to match the square surrounding 
+each unit’s Speed. A unit will use only the move cost associated with 
+its defined mode of transport. 
+A terrain’s move cost is the amount of MPs a unit must expend to 
+move [35] into that hex or across that hexside. The Advance order 
+[31] does not require MP expenditures and thus terrain move costs 
+are ignored when performing that order.
+2 4.3 C ov e r
+Each terrain lists a “cover.” Cover benefits each unit occupying that 
+terrain in the following manner:
+●Cover is added to a unit’s Fire Defense roll when fired at [34.15].
+●Cover is added to a unit’s target number when attacked by a 
+barrage [26].
+●Cover greater than 0 aids in Rally attempts [36]. 
+Cover is never cumulative, however, so a unit’s owner must choose 
+only one instance of cover to apply if more than one is present (for 
+example, a beneficial fortification marker occupying a building hex).
+2 4.4 L in e Of S i gh t
+Each terrain lists whether it is an “obstacle,” a “hindrance” or “clear.” 
+
+●Terrain obstacles block same-level LOS. Obstacles usually create 
+one blind hex [24.53] to a higher-level observer.
+●Terrain hindrances serve to increase the value of the default 
+hindrance [34.141] for same-level fire attacks traced through them.
+●Clear terrain has no effect on LOS. 
+2 4.5 E l e vat i o n
+The standard buff colored open ground hex 
+in FF is said to be at level “0” or “ground 
+level.” Hills can then be thought of as being 
+at levels 1 (tan), 2 (light brown), 3 (medium 
+brown) or 4 (dark brown), while a depression 
+can be thought of as being at level -1 (green). 
+Therefore, a unit on a hill is above any terrain 
+occupying either a ground- or depression-level 
+hex or any hill hex of a lower level. The level at 
+which a hex’s center dot lies is its actual level 
+when multiple levels appear in a hex (hex I14, 
+at right, is a level 3 hill hex). A hill or depression 
+hex functions exactly like any other ground 
+level hex except as modified below.
+2 4.5 1 C r e s t s & L O S
+24.511 Crest Lines—A hex showing more 
+than one level is termed a “Crest” hex. The level 
+at which a Crest hex’s center dot lies is its actual 
+level. In every Crest hex, the physical edge of 
+each hill or depression is termed a “Crest Line.”
+24.512 Vertical LOS—A unit may only trace a LOS into the 
+initial Crest hex of each level above it. Likewise, a unit may trace a 
+LOS to a hex at a lower level only if that LOS never passes through 
+a Crest Line of equal or greater height in an intervening hex.
+EXAMPLE: Unit A on a hill can see unit B at a lower level only if 
+the LOS from unit A both: crosses a Crest Line before it crosses a 
+hexside; and never again crosses a Crest Line of the same or higher 
+level.
+EXAMPLE: A unit on a level 2 hill can see past an intervening 
+level 2 hill only to another hill hex of level 2, 3 or 4. If that inter-
+vening hill were instead level 3, the target hex would have to be at 
+level 4 – and also be a Crest hex – to be seen.
+It may help to think of each hill level in FF as a thick, flat pancake; 
+or perhaps one layer of a tiered wedding cake.
+24.513 Crests as Obstacles—A crest itself blocks LOS traced 
+between any two hexes of lower level.
+EXAMPLE: A unit on a level 1 hill cannot see past an intervening 
+level 2 hill to another level 1 hill hex.
+2 4.5 2 C r e s t s & O b s t a c le s
+The LOS to or from a hill hex is blocked only if it clearly touches 
+any part of the physical depiction of a terrain obstacle at the same 
+or higher level as that hill hex. In other words, LOS to or from a hill 
+I14
+I15
+I16
+Cemet
+K10
+hex is not blocked by obstacles that lie at a lower level (exception: 
+see blind hexes, below).
+EXAMPLE: A unit on a level 1 hill can see past (over) an intervening 
+building at level 0 to another unit on a distant level 1 hill. How-
+ever, if that building was also on a hill the LOS would be blocked.
+2 4.5 3 Blin d H exe s
+A unit can see into a lower-level obstacle hex, as normal, but cannot 
+see into the next hex beyond it if that next hex is also at or lower than 
+the obstacle hex’s level. In other words, a lower-level obstacle creates 
+a one-hex blind zone behind it to an observer at a higher level—all 
+hexes beyond this blind zone are visible from the hill (barring further 
+obstacles along the way).
+EXAMPLE: A unit at ground level can see past a depression-level 
+building except into the depression hex directly behind it. Conversely, 
+a unit on a level 1 hill could see past an intervening level 1 building 
+to a unit at level 2 or higher unless that building was in the first 
+intervening hex along that LOS.
+2 4.5 4 C r e s t s & Hin d r a n c e s
+Any mapboard hindrance terrain at a lower level does not hinder LOS 
+to or from a higher level. A hindrance on a hill does hinder LOS 
+between two other hill hexes of the same level as that hindrance. 
+A Smoke marker, however, always hinders LOS through its hex, 
+regardless of the sighter’s or target’s level.
+DESIGN NOTE: The hindrance that a Smoke marker creates is 
+considered to be at a height sufficient enough to affect any possible 
+LOS that can be represented in the game.
+Note that the above crest rules are based upon the premise that in 
+FF each crest level is taller than a mapboard obstacle, and that every 
+mapboard obstacle is taller than a mapboard hindrance. This isn't 
+always true in the real world, of course, but functions well rules-wise.
+2 4.5 5 U p hill M o v e m e n t
+When entering a hex that is at a higher level than the one it is leaving, 
+a moving unit must expend: 
+●+1 MP per elevation change if using leg movement; or
+●+3 MP per elevation change if using track or wheel movement.
+There is no MP modifier when moving downhill.
+EXAMPLE: A tracked unit moving from a level -1 depression hex 
+into an adjacent level 1 hill hex must expend +6 MPs.
+EXAMPLE: A leg unit moving from a level 1 hill hex containing a 
+building to a level 2 hill hex containing a building must expend 3 
+MPs (2 for the building plus 1 for the change in level). The converse 
+downhill move would cost only 2 MP.
+2 4.5 6 H ei g h t A d v a n t a g e
+A direct fire attack suffers -2 FP if the target hex is at a higher level 
+than the firing unit. Conversely, a direct fire attack gains +2 FP if 
+the target hex is at a lower level than the firing unit. 
+-1
+
+2 4.6 O p e n Gro u nd
+Open ground is the default terrain 
+type for all games in the series. It has 
+the following stats: 
+Leg Move Cost: 1
+Track Move Cost: 1
+Wheel Move Cost: 2
+Cover: 0; or -1 (negative one) if the unit is currently activated for 
+a Move or Assault order.
+LOS: clear
+2 4.7 ro u gh
+This catch-all terrain represents a 
+diverse set of ground effects such as 
+brush, light woods, scrub, debris, etc. 
+It has the following stats: 
+Leg Move Cost: 2
+Track Move Cost: 2
+Wheel Move Cost: 3
+Cover: 1
+LOS: 2 hindrance
+2 4.8 Ro a d
+This is the default means of rapid 
+movement for all games in the series. 
+Roads have the following stats and 
+game effects: 
+Leg Move Cost: 1
+Track Move Cost: ½
+Wheel Move Cost: ¼ 
+Road Movement—These three move costs assume the unit is 
+traveling along the road depiction (that is, it crossed a road hexside as 
+it entered the hex); otherwise, use the move cost of the other terrain 
+in the hex and/or on the hexside crossed. 
+Cover: Use other terrain in the hex.
+LOS: Clear if directly along the road depiction; otherwise use the 
+other terrain inside the hex.
+J17
+J18
+N2
+N3
+K19
+K20
+2 4.9 B uil din g
+This is the default terrain for most 
+any type of man-made structure or 
+other built-up area. It has the fol-
+lowing stats: 
+Leg Move Cost: 2
+Track Move Cost: Impassable if 
+the hex’s center dot lies atop a build-
+ing (unless entering/exiting along a road [24.8]); otherwise 2 if the 
+hex’s center dot is not on a building.
+Wheel Move Cost: Impassable if the hex’s center dot lies atop a 
+building (unless entering/exiting along a road [24.8]); otherwise 3 if 
+the hex’s center dot is not on a building.
+The building hex pictured above would be impassable to tracked 
+and wheeled units.
+Cover: 4
+LOS: Obstacle; creates one blind hex [24.53]
+2 4.9 1 Ve hi c le s & B uil din g s
+Vehicles cannot cross any hexside that is entirely covered by building 
+artwork. Vehicles must always be placed In Column while occupying 
+any building hex, however briefly [24.10].
+A vehicle is not actually entering the buildings themselves but instead 
+maneuvering around and between them within the hex.
+2 4.10 V e h i c l e s In C o l u m n
+Some terrain (building or woods, for example) requires 
+a vehicle unit be placed “In Column” when entered. 
+Some games in the FF series may also have terrain that 
+is always impassable to vehicles (such as marsh): a vehicle 
+can enter (and subsequently leave) such a hex only as long as it travels 
+along a road and is placed In Column while in the hex.
+2 4.10 1 C olum n P l a c e m e n t
+Being In Column is signified by the placement of a Column marker 
+atop the vehicle or stack of vehicles. A Column marker is placed the 
+instant a vehicle enters any hex requiring it (before any Op Fire or 
+other reaction occurs in that hex). 
+2 4.10 2 C olum n E f f e c t s
+There is a per-hex stacking limit of 1 vehicle platoon or 3 vehicle 
+squads In Column, which can never be exceeded. This stacking limit 
+is enforced at all times (even during movement). Infantry and guns 
+that also happen to be in the hex – which do not themselves need to 
+be In Column – do not count against this stacking limit.
+EXAMPLE: A vehicle squad is In Column in a building hex. A 
+vehicle platoon –friendly or enemy – cannot enter that hex as it would 
+create an overstacked hex. The platoon would have to first deploy 
+then move only one or two of the resulting squads into that building 
+hex; or the vehicle already in the hex would first have to vacate it.
+G8
+G9
+COLUMN
+
+While a vehicle unit is In Column, it has the following effects:
+●It suffers -1D when firing in melee.
+●Opposing units gain +1D when firing at it in melee.
+●Any beneficial cover that would have been afforded it is reduced to 0.
+A vehicle In Column may pivot normally.
+2 4.10 3 C o l u m n Re m o v al
+Once placed, a Column marker may only be removed at the instant 
+the vehicle or stack of vehicles enters a hex not requiring Column 
+status (before any Op Fire or other reaction occurs in the hex entered).
+Additional terrain specific to each game in the series is described 
+in detail in that game’s Playbook. Terrain effects are also shown in 
+abbreviated form on the Terrain Chart.
+25. Abandoning Guns & Vehicles
+DESIGN NOTE: In FF, guns and vehicles are considered to always 
+be accompanied by an inherent crew of from 2-7 men. If a player 
+deems it appropriate given the overall strategic situation, this crew 
+can take infantry form in the following manner.
+Just after being activated for an order – after any deploying or mus-
+tering, but before performing any activities allowed by that order – a 
+gun or vehicle may be “abandoned.” To abandon a squad-sized gun 
+or vehicle, remove it from the map (placing it back in the counter-
+mix) and replace it in the same hex with a Crew infantry unit of the 
+same nationality. To abandon a platoon-sized gun or vehicle, remove 
+it from the map and replace it with three same-nationality Crews. 
+DESIGN NOTE: There are no Crew platoons in FF as they gener-
+ally weren’t trained to operate as such when forced to take on the 
+temporary role of straight foot soldiers. A crew abandoning its charge 
+would likely high-tail it back to HQ or hide until the fighting was 
+over, only very rarely taking an active role in the current battle. The 
+horrible stats of this game's infantry crews – coupled with the risk 
+of the opponent possibly earning victory points for their subsequent 
+elimination – should encourage just this sort of behavior.
+In both cases, any hit marker that was on the abandoned gun/vehicle 
+unit is placed back in the draw cup. 
+The Crew effectively rallies as it abandons its gun or vehicle.
+An abandoned gun or vehicle is not considered eliminated, so the 
+opponent gains no VPs for their removal should the scenario’s specific 
+Victory Conditions normally allow for it. The Crew itself can, of 
+course, garner the opponent elimination VPs and/or the owner exit 
+VPs, if appropriate to the scenario being played.
+A Crew is still considered activated for the order in which its aban-
+doned gun/vehicle was activated.
+2 6. B a r r a ge
+Some units or assets can allow a player to perform a “barrage.” 
+Barrages can be from mortars, artillery, aircraft, or other similar 
+weaponry. Whenever a barrage is called for, that player performs the 
+following five steps in the order shown:
+1)	 Spotting
+2)	 Accuracy
+3)	 Targeting
+4)	 Terrain Modifiers
+5)	 Impact
+Each step is explained in detail below (as well as on the Barrage Table 
+player aid for ease of reference during play).
+2 6.1 S p o t t in g
+To indicate the hex that is to be the intended target 
+of the barrage, the active player places the Spotting 
+Round (SR) marker into a hex within LOS of his chosen 
+“spotter.” A spotter is always a friendly Command 
+marker currently on the map unless the asset or special 
+action specifies otherwise. The SR can be placed into a hex normally 
+impassable to units.
+2 6.2 A c c u r a c y
+Once the SR has been placed, the active player consults the Accuracy 
+Grid (located on the Barrage Table player aid) and rolls 1d20. The 
+result is the map hex to which the SR is immediately moved—the 
+center hex of the diagram is where the SR was placed in step 1; the 
+“1” hex within the diagram always points towards the “1” hexrow of 
+the map(s) being used.
+2 6. 2 1 O f f- M a p
+If the SR errs off the map it is removed with no further effect and 
+the barrage ends (steps 3-5 are skipped).
+2 6. 2 2 P r e - plo t t e d F ir e
+Some barrage assets allow the active player to give up the Fate card to 
+his opponent in exchange for a larger modifier to the accuracy roll. 
+In such a case, if the acting player is in possession of the Fate card 
+he is not forced to give it up: the benefit is entirely optional but the 
+decision must be made before the accuracy roll is made.
+2 6. 2 3 S m o k e B a r r a g e s
+Some barrage assets allow the active player to place Smoke (a “smoke 
+barrage”) instead of conducting a bombardment with the intent of 
+inflicting casualties. If the active player chose smoke in this manner, 
+he places a full-strength Smoke marker into the hex containing the 
+SR as well as in the six adjacent hexes. The barrage is then considered 
+finished (steps 3-5 are skipped).
+2 6. 2 4 I m p a c t B a r r a g e s
+If a barrage is not a smoke barrage, it is an impact barrage. The Barrage 
+Table is split into two types of impact barrages: Aircraft and Artillery.
+For an artillery barrage, the hex into which the SR finally lands 
+becomes the center hex of its impact area—in other words, the SR’s 
+hex and each adjacent hex will be bombarded.
+Spotting
+Round
+
+For an aircraft barrage, the single occupied hex closest to the hex into 
+which the SR finally lands becomes its impact area. “Occupied” is 
+defined as any hex containing at least one unit or Sighting marker 
+(friendly or enemy). If more than one such hex is equidistant, the 
+barraging player chooses which will be affected.
+2 6.3 Ta rg e t in g
+Referencing the Barrage Table (on the player aid), the active player 
+locates the name of the asset played along the left hand side of the 
+table. He then selects one unit, Sighting marker or fortification in 
+an affected hex and finds its name or relevant stat along the top of 
+the table.
+Don’t worry if the affected hex(es) contain lots of targets: you’ll get 
+to each of them in turn.
+Locate the number at the intersection of these two names: this is the 
+“target number” needed to hit that particular piece. A dash ("–") 
+instead of a number indicates no possibility of the barrage inflicting 
+harm on that particular piece: move directly on to the next piece.
+2 6.4 T e r r a in M odif i e r s
+If the targeted piece is a unit or Sighting marker, add its cover to the 
+target number (fortifications themselves are never affected by cover: 
+either the hex’s or their own).
+Note however that many fortifications provide a higher cover value 
+for their occupants when targeted by a barrage as opposed to direct 
+fire. See the Playbook for details.
+Some terrain will have further beneficial or detrimental effects on a 
+barrage’s target number. See the Barrage Table for details.
+2 6.5 I m pa c t
+Once a modified target number vs the chosen piece is determined, 
+the active player rolls 2d20:
+●If the roll is less than the final target number, the barrage has 
+no effect on that piece.
+●If the roll is greater than or equal to the final target number, 
+the piece is hit:
+◦◦If a fresh unit, attach a random hit marker to it [5.1];
+◦◦If a hit unit, eliminate it [3.31];
+◦◦If a Sighting marker, reveal it [6.4];
+◦◦If a fortification, eliminate it.
+2 6.6 B o m b a r dm e n t
+Barrages will affect all units, Sighting markers and fortifications 
+within their impact area (usually seven hexes for artillery; one hex 
+for aircraft).
+If after making an impact roll there remain one or more units, Sight-
+ing markers or fortifications in the barrage’s impact area that have 
+not yet had an impact roll made for them, repeat steps 3 through 5, 
+above, until all such pieces – both enemy and friendly – have either 
+been missed or hit by the barrage. EXCEPTION: do not attack the 
+two squads resulting from a platoon being eliminated by that same 
+barrage.
+They’ve suffered enough.
+
+Co r e Ru l e s — OR DER S
+3 0. G e n e r a l Ru l e s
+To perform – or “give” – an order, a player must have the Initia-
+tive—that is, the Initiative marker must currently be:
+●on his side of the “0” space; or
+●in the “0” space when he is in possession of the Fate card.
+To give an order, a player performs the following sequence:
+1)	 Remove any one order cube from the Order Matrix.
+2)	 Move the Initiative marker a number of spaces towards his opponent 
+equal to the number in the box from which the cube was taken.
+3)	 Choose to perform either the order listed directly to the left/right 
+of the box from which the cube was taken – depending on the 
+nationality being commanded by that player – OR any order 
+listed below it (that is, one next to a smaller Matrix number).
+4)	 Activate units if appropriate for the order [30.1]. Activated units 
+may deploy or muster [30.2]. They may then Abandon [25].
+5)	 Perform the chosen order [rules 31-38] or choose to do nothing 
+("pass"). Opponent may use Return Fire/Op Fire if appropriate 
+[34.3 & 35.6]. Unactivate units as they complete their activities.
+6)	 Opponent removes any Spent markers from his units.
+7)	 Check for possible end of turn [21.12].
+An announced order must be performed in its entirety before the 
+next order can be given (by either player).
+Remember that Available Command may be placed on the map 
+by either or both players at any time during the above sequence.
+3 0.1 U n i t A c t i vat i o n
+For orders involving unit participation, there are three ways to activate 
+units for that order:
+a)	 freely activate any number of friendly units currently under Mis-
+sion Command [4.31]; and/or
+b)	 activate any number of friendly units currently under Tactical Com-
+mand [4.31], losing 1 Initiative for each such unit activated; and/or
+c)	 activate any number of friendly units currently Out of Command, 
+losing 2 Initiative for each such unit activated. 
+A unit can’t be activated if it would cause the Initiative marker to 
+move beyond the opponent’s “20” space.
+Activated units are identified by flipping them to their reverse side 
+(with the white stripe).
+A unit can be activated for multiple orders each turn.
+3 0.2 D e p l oy in g a nd M u s t e r in g
+3 0. 2 1 D e plo y
+As a friendly platoon is activated for an order – before it or any other 
+activated units begin their allowed activities, including Abandon-
+ment [25] – it may “deploy” into three like squads. A platoon must 
+be under Mission Command or Tactical Command to deploy (Out 
+of Command units can't deploy). 
+To deploy an activated platoon:
+1)	 remove it from the map, placing it back into the countermix;
+2)	 retrieve up to three squads from the countermix with the same name 
+as the removed platoon and place them into the hex from which 
+the platoon was taken (each with the same fire arc, if applicable).
+3)	 if the platoon had a hit marker, place it on one of the three squads. 
+The other two will deploy fresh—the main reason for deploying.
+The resulting squads are still considered activated for the order in 
+which the parent platoon was activated.
+3 0. 2 2 M u s t e r
+As friendly squads are activated for an order – and before they or any 
+other activated units begin their allowed activities – they may “muster” 
+into a platoon. It takes three squads to muster and all three must: 
+●be under Mission Command or Tactical Command (Out of 
+Command units can't muster); and
+●share the same hex; and
+●have the same name; and
+●be fresh (no hit markers attached to any of them). 
+To muster three activated squads that meet all the above criteria:
+1)	 remove them from the map, placing them back into the countermix;
+2)	 retrieve a platoon from the countermix with the same name as 
+the removed squads and place it into the hex from which the 
+squads were taken (with the same fire arc as any of those squads, 
+if applicable).
+The resulting platoon is still considered activated for the order in 
+which the three squads were activated.
+3 0.3 U ni t U n a c t i vat io n
+As each activated unit finishes its allowed activity(s) – or declines 
+to do so, as the case may be – flip the unit back to its unactivated 
+side (after any Return Fire or Op Fire by the inactive player [34.3 & 
+35.6]). Once all activated units have been unactivated, the order ends.
+The various orders are described in detail on the following pages. 
+They are presented in alphabetical order for ease of reference.
+3 12
+
+3 1. A dva n c e
+3 1.1 P ro c e du r e
+units [30.1]. An infantry unit activated to Advance can enter a hex 
+adjacent to the one it currently occupies, where it must stop. A gun or 
+vehicle can only advance into the hex directly in front of it or directly 
+behind it, as defined by its fire arc (that is, the hex in the center of 
+its front arc or the hex in the center of its flank arc). Advancing guns 
+and vehicles may freely change their fire arc either before or after 
+advancing into a new hex; never both. Activated guns/vehicles may 
+also freely change their fire arc without leaving their hex. Friendly 
+Command markers may accompany advancing units.
+A unit’s speed as well as terrain move costs are ignored during an 
+Advance, though impassable terrain still cannot be entered or crossed.
+You only get to go one hex but you are immune to fire attacks.
+Hit Units—Units affected by a hit marker with a circled M can’t 
+advance.
+3 1.2 M e l e e E n t ry & E x i t
+An advancing infantry unit (only) may enter or exit an enemy-occupied 
+hex. Activated guns and vehicles are prohibited from entering or 
+exiting melee during an Advance order.
+3 2. A s s a ult
+3 2.1 Ge n e r a l Ru l e s
+units [30.1]. Activated units can then expend MPs exactly as if they 
+were activated for a Move order [35], with two exceptions:
+1)	 Units activated for Assault have their printed Speed halved, and 
+thus only have half as many MPs to spend. 
+Half means half—no rounding.
+2)	 An assaulting unit may spend 1 MP to make a fire attack [34]. 
+This MP expenditure may only be made once by each activated 
+unit, but may be done before, during, after, or instead of that unit 
+spending its other available MPs to move. Assaulting units suffer 
+-1D when direct firing (that is, they are not in melee). Note that 
+this shot is a MP expenditure so the opponent is allowed multiple 
+Op Fires in reaction to it [35.6], not a lone Return Fire [34.3].
+So an infantry unit with a printed speed of 6 could traverse three 
+open ground hexes; or traverse 2 open ground hexes then fire; or enter 
+1 open ground hex, fire, then enter another open ground hex; etc. 
+In other words, during an Assault order, each activated unit may: 
+a) Just move; or
+b) Fire then move; or
+c) Move then fire then continue moving; or
+d) Move then fire; or
+e) Just fire.
+3 2.2 M e l e e E n t ry & E x i t
+An assaulting vehicle unit (only) may enter and/or exit an enemy-
+occupied hex. Activated guns and infantry are prohibited from 
+entering or exiting melee during an Assault order.
+3 2.3 O p p o r t u ni t y F ir e
+After each MP expenditure by the active player (including assault 
+fire) the inactive player can perform any number of Op Fire attacks 
+against the unit/hex in which the expenditure was made [35.6].
+3 3. A s s e t
+When this order is given, the active player may play up to one Asset 
+order from his hand. If the player has no cards in hand, this order is 
+forfeit (though the Initiative cost is still paid). Place any played Asset 
+card face up atop that player's discard pile.
+See this game's Playbook for specific assets and their effects.
+3 4. F ir e
+units [30.1]. Each activated unit can then perform one fire attack, 
+either “direct” if there are no enemy units within its hex or “melee” 
+if at least one enemy unit occupies its hex.
+Hit Units—Units affected by a hit marker with a circled F can’t fire.
+3 4.1 D ir e c t F ir e At ta c k
+Each unit activated to fire – and not in melee [34.2] – may take 
+one shot at any hex within both its range and LOS; after which it 
+becomes unactivated (but see 34.3 Return Fire). Units – friendly or 
+enemy – in intervening hexes are not affected by any fire attack pass-
+ing through their hex.
+To conduct a direct fire attack, perform the following steps in the 
+order shown:
+1)	 Ammo Type
+2)	 Targeting
+3)	 Attack Dice
+4)	 Attack Total
+5)	 Defense Totals
+6)	 Hit Results
+Each step is explained in detail below (as well as on the Player Aid 
+card for ease of reference during play).
+3 4.11 A m m o Ty p e
+Select one unit to fire. If a unit only has HE FP or only has AP FP, 
+that FP must be chosen for the attack. For those units having both 
+types of FP, however, the owning player must verbally choose either 
+one or the other for the current fire attack. 
+That same unit can use the same or different FP later on—earlier 
+fire attacks do not “lock in” a unit's mode of fire for subsequent shots.
+
+3 4.12 Ta r g e t in g
+Determine the range to the intended target hex by counting the 
+number of hexes from the firing unit to that hex—including the 
+target hex but excluding the firing piece’s hex. If this range is greater 
+than three times the printed range on the firing unit's chosen mode 
+of FP (AP or HE), the shot cannot even be attempted.
+Direct fire attacks at up to double and triple a unit’s printed range 
+are allowed but will be penalized in a later step.
+34.121 Targeting Pivot
+When targeting, a gun or vehicle with a strict fire arc must now 
+be pivoted within its hex, if necessary, in order to bring the target 
+within its front fire arc [3.4]. Guns and vehicles with loose fire arcs 
+may be pivoted at this time, at their owner's discretion, if doing so 
+would bring the target hex into their front fire arc. A targeting pivot 
+cannot be made if the firing unit has a hit marker with a circled M.
+In other words, you can perform a targeting pivot only if: 
+(1) the target hex is currently in the firing unit's flank arc; and 
+(2) the pivot brings that hex into the firing unit's front arc.
+3 4.13 A t t a c k D i c e
+Each direct fire attack begins with a default 2d10. However, the die 
+size may increase or decrease 
+(auto miss)  2d6  2d8  2d10  2d12  2d20
+●-1D if the firing unit is currently activated for an Assault order;
+●-1D if the unit is firing at greater than its printed range but less 
+than or equal to twice that range (“long” range);
+●-2D if the unit is firing at more than double its printed range but 
+less than or equal to three times that range (“extreme” range);
+●+1D if the unit is firing into an adjacent hex (“short” range);
+●-2D if the firing unit is a gun or vehicle that, during targeting, 
+pivoted in order to bring the target hex within its front fire arc;
+●-1D if the firing unit is a gun or vehicle with a loose fire arc (only) 
+that is firing into a hex within its flank fire arc; 
+The above modifiers are shown in table form on the Player Aid 
+for ease of reference during play.
+Multiple modifiers are cumulative. If the net modifier to the attack 
+dice is greater than -2D – that is, it would be less than 2d6 – the 
+attack is immediately ended with no effect (though any targeting 
+pivot contributing to the auto miss does still occur). 
+EXAMPLE: A gun that pivots while taking a shot at an adjacent 
+hex rolls 2d8: -2D for the pivot (down to d6’s) and +1D for short 
+range (back up to d8’s). If the target hex was at extreme range, the 
+-4D net modifier would make the shot impossible—the gun still 
+performed its free targeting pivot, however, so its next shot will likely 
+already be within its front fire arc. In this latter case, if the gun 
+was conducting Return Fire or Op Fire [34.3 & 35.6] it would not 
+become spent because no attack dice were actually rolled.
+3 4.14 A t t a c k To t al
+Once the attack dice have been finalized, the player needs to determine 
+the shot’s hindrance value before making his attack roll. 
+34.141 Determine Hindrance
+Every direct fire attack begins with a default hindrance of 1. How-
+ever, if the fire attack passes through an intervening hex containing 
+hindering terrain at the same level [24.54], the default hindrance will 
+be raised to that of the hindering terrain. Alternately, if the fire attack 
+enters, leaves or passes through a hex containing a Smoke marker, 
+the default hindrance is raised to that listed on the marker. Multiple 
+hindrances are not cumulative: only the single largest hindrance 
+affecting the fire attack is used.
+34.142 Roll Attack Dice
+Once the hindrance has been determined, the firing player rolls the 
+two attack dice:
+●If either or both dice result in a number that is less than or equal 
+to the hindrance, the shot misses and the attack is immediately 
+ended with no effect on the targeted hex.
+●If the shot does not miss, the player adds the sum of the two 
+attack dice to the FP of the firing unit (possibly modified by 
+elevation—see 24.56): this total becomes the “Attack Total.” 
+3 4.15 D e f e n s e To t al s
+HE—If the fire attack was designated as HE, both players must make 
+Fire Defense rolls – one at a time, active player first – for each of their 
+Sighting markers and all of their units with morale in the targeted hex. 
+Units having no morale stat are unaffected by HE direct fire attacks.
+AP—If the fire attack was designated as AP, both players must make 
+Fire Defense rolls – one at a time, active player first – for all of their 
+units with armor in the targeted hex. Sighting Markers and units 
+having no armor stat are unaffected by AP direct fire attacks.
+All Fire Defense rolls for one attack must be made before the next 
+attack is announced, even if that same hex will be shot at again.
+An affected unit’s defense plus its cover [24.3] is added to a Fire Defense 
+roll of 2d10 in order to arrive at a “Defense Total”:
+a)	 If the Defense Total is greater than or equal to the Attack Total, 
+the unit is unaffected.
+The mantra "the last die wins a tie" works for all types of attacks.
+b)	 If the Defense Total is less than the Attack Total, the unit is hit. 
+For defending units with subscripted defense factors, make sure 
+the correct defense stat is being used based on whether the shot 
+emanated from a hex in their front or flank fire arc.
+
+3 4.16 H i t Re s ul t s
+When a piece is hit by a fire attack, it has the following effect: 
+a)	 If a fresh unit is hit – either squad or platoon – draw a hit marker 
+at random from the draw cup and place it on the unit.
+b)	 If a squad with a hit marker is hit again, eliminate it. Place its hit 
+marker back into the draw cup.
+c)	 If a platoon with a hit marker is hit again, eliminate it [3.31].
+And remember, the newly placed squads need NOT make Fire 
+Defense rolls of their own. 
+d)	 If a Sighting marker is hit, reveal it [6.4].
+3 4.2 M e l e e F i r e At ta c k
+Whenever a unit would fire and there is at least one enemy unit within 
+its hex, that unit must perform a melee fire attack (or just “melee”) 
+rather than a direct fire attack.
+Melee differs from a direct fire attack in that firepower, defense, 
+fire arcs, range and cover are all ignored, all while using a target 
+number mechanic similar to that of a barrage.
+To conduct a melee, perform the following steps in the order shown:
+1)	 Targeting
+2)	 Melee Dice
+3)	 Melee Total
+4)	 Hit Results
+Each step is explained in detail below (as well as on the Melee Tables 
+player aid card for ease of reference during play).
+3 4. 2 1 M ele e Ta r g e t in g
+As opposed to direct fire which affects a whole hex, melee only ever 
+affects a single unit. When a melee is announced by the active player, 
+the opposing player selects any one of his units in that hex to be the 
+target of the attack. When a melee is announced by the inactive 
+player (via Return Fire or Op Fire), only the last acting unit will be 
+the target of the attack. 
+Here you can assume that the active player made his "choice" of 
+which unit will be affected by any Op/Return Fire when he chose 
+to move/shoot with a particular unit in the first place.
+In both cases, all other units within the hex will be unaffected by 
+the attack.
+Then, referencing his nationality’s Melee Table (located on a player 
+aid card), the firing player locates the name of the firing unit along 
+the left hand side of the table and the name of the targeted unit along 
+the top of the table. Finally, locate the number within the grid that 
+lies at the intersection of these two names: this is the “target number” 
+needed to hit that enemy unit. A dash ("–") instead of a number 
+indicates no possibility of the attack inflicting harm on the targeted 
+unit: the attack is immediately ended with no effect.
+3 4. 2 2 M ele e Di c e
+Each melee begins with a default 2d10 attack dice. However, the die 
+size may increase or decrease 
+(auto miss)  2d6  2d8  2d10  2d12  2d20
+●+1D if the firing unit is platoon-sized;
+●+1D if the targeted unit is a vehicle In Column;
+●-1D if the firing unit is a vehicle In Column;
+●-1D if the targeted unit is inside a beneficial fortification.
+Multiple modifiers are cumulative. If the net modifier to the attack 
+dice is greater than -2D – that is, it would be less than 2d6 – the 
+attack is immediately ended with no effect. 
+3 4. 2 3 M ele e To t al
+34.231 Determine Hindrance
+Every melee begins with a default hindrance of 1. If the melee hex 
+contains a Smoke marker, the default hindrance is raised to that listed 
+on the marker. Terrain hindrance is ignored in melee.
+34.232 Roll Melee Dice
+Once the hindrance has been determined, the firing player rolls the 
+two attack dice:
+●If either or both dice result in a number that is less than or equal 
+to the hindrance, the shot misses and the attack is immediately 
+ended with no effect on the targeted unit.
+●If the shot does not miss, the player sums the two attack dice:
+◦◦If the total is less than the target number, the unit is unaffected.
+◦◦If the total is greater than or equal to the target number, the 
+unit is hit. 
+3 4. 2 4 Hi t Re s ul t s
+When a unit is hit by a melee attack, it has the following effect: 
+a)	 If a fresh unit is hit – either squad or platoon – draw a hit marker 
+at random from the draw cup and place it on the unit.
+b)	 If a squad with a hit marker is hit again, eliminate it. Place its hit 
+marker back into the draw cup.
+c)	 If a platoon with a hit marker is hit again, eliminate it [3.31].
+MELEE = 2d10: 
+–1D target inside fortiﬁcation
+ 
+–1D ﬁring unit In Column
+ 
++1D target unit In Column
+ 
++1D ﬁring unit is a platoon
+
+3 4.3 R e t u r n F i r e
+During an enemy Fire order (only), immediately after the active player 
+concludes a fire attack with an activated unit, the inactive player has 
+the option of making a single reactive fire attack against that acting 
+unit's hex. This reactive attack is termed "Return Fire." Only unspent 
+units belonging to the inactive player may Return Fire [34.33].
+3 4.3 1 Re t u r n F ir e P r o c e d u r e
+At the conclusion of every Fire order attack by the active player – 
+whether that attack was successful or not – he should pause for a 
+moment so as to give the inactive player a short time in which to 
+decide whether to announce a Return Fire attack against that unit. If 
+so, the inactive player should announce a temporary halt to the Fire 
+order so that he can make one fire attack against that unit (and its 
+hex, if the Return Fire will be direct fire) with one of his own units 
+that is not yet spent [34.33]. This Return Fire attack must use AP if 
+the activated unit being reacted to is armored; HE if it has a morale 
+(inactive player's choice if both apply).
+3 4.3 2 E x c e p t io n s
+Units performing Return Fire follow all normal rules for a direct or 
+melee fire attack [34.1 & 34.2] as appropriate, with several important 
+exceptions:
+a)	 Each Return Fire attack costs the inactive player 2 Initiative if that 
+firing unit is Out of Command or 1 Initiative if under Tactical 
+Command (those under Mission Command fire for free). A unit 
+cannot make a Return Fire attack if the cost to do so would cause 
+the Initiative marker to move beyond the opponent's “20” space.
+Note that Return Fire can be performed even when the Initiative 
+marker is on the opponent's side of the Initiative Track.
+b)	 Unless and until they become spent [34.33], Return Firing units 
+are not limited to only firing once and so remain eligible to fire 
+at activated units for the entirety of that Fire order. However:
+c)	 No more than one Return Fire attack may be made vs each fire 
+attack conducted by the active player.
+d)	 A unit in a melee hex can't Return Fire at a unit outside its hex.
+3 4.3 3 R a t e o f F ir e
+During Return Fire, the inactive player risks having 
+his firing unit become “spent.” A Return Firing unit 
+becomes spent if either or both of the attack dice shows 
+a number that is less than or equal to that unit’s ROF. 
+If this occurs, place a Spent marker on the unit at the 
+conclusion of that Return Fire attack. Spent units are no longer 
+eligible to perform Return Fire for the remainder of that Fire order. 
+When the active player announces his Fire order is finished, remove 
+all Spent markers from the inactive player's units.
+See also the PLAY NOTE for rule 35.63.
+3 4.3 4 Re s u m e t h e O r d e r
+After any such Return Fire attack is made – or the opportunity to 
+do so is declined (“Never mind; keep firing”) – the active player 
+continues with his Fire order.
+3 5. M ov e
+units [30.1]. Units that are activated to Move – or Assault [32] – can 
+move from hex to hex across the map, expending MPs in each new 
+hex they enter. Activated units can also spend MPs to pivot in place 
+[35.23].
+In addition, some scenarios allow a player to exit units off a certain 
+map edge in order to earn victory points [22.2].
+During Move orders, an activated unit has as many MPs to spend 
+as its printed speed (half that during an Assault) minus those MPs 
+already spent during the order. Generally, the movement of one unit 
+must be completed before another activated unit can begin moving. 
+However, activated units that begin their movement in the same 
+hex may choose to move together. Such a group may split up during 
+movement in order to continue moving separately but all members of 
+that group must end their movement before any other unit or group 
+of units begins moving. Friendly Command markers sharing a hex 
+with a moving unit may accompany that unit into all, some or none of 
+the hexes that unit enters. Command markers ignore all move costs.
+Hit Units—Units affected by a hit marker with a circled M can’t 
+move.
+3 5.1 M ov e m e n t C o s t s
+Each terrain lists three different color-coded “move costs": green for 
+leg, blue for track and red for wheel. One of these colors will always 
+match the color of the box surrounding a moving unit’s speed, indi-
+cating which move cost that unit must adhere to. In order to enter 
+an adjacent hex during a Move or Assault order, an activated unit 
+must spend a number of MPs equal to the move cost of the terrain 
+in that hex. An additional cost may be assessed if a unit moves to a 
+higher level [24.55] or crosses certain hexsides. 
+Units with different modes of transport that are moving together 
+expend their own MPs independently of one another. 
+A unit may not enter a hex unless it has at least as many MPs remain-
+ing as the total cost to enter that hex.
+Unlike many other games, there is no "minimum move" concept in 
+Fighting Formations. If a unit doesn't have enough MPs to move 
+even one hex, it will have to await an Advance order to get going.
+3 5.2 F ir e A rc s & M ov e m e n t
+3 5. 2 1 F o r w a r d M o v e m e n t
+Guns and vehicles – those units with defined fire arcs – may only 
+move into the hex directly ahead of them. Immediately after entering 
+a new hex – before any Op Fire or other reaction or triggered action 
+occurs – a gun or vehicle is allowed a free pivot of up to one hexside, 
+either clockwise or counterclockwise (an "adjacent pivot").
+3 5. 2 2 Re v e r s e M o v e m e n t
+Guns and vehicles may also move into the hex directly behind them, 
+but at triple (3x) the normal move cost. The free adjacent pivot 
+described above is still available to units using reverse movement.
+
+3 5. 2 3 S t a t io n a r y P i v o t in g
+While activated to Move (or Assault), a gun or vehicle may spend 1 
+MP to pivot within its current hex. A stationary pivot allows the unit 
+to change its facing to any hexside within its hex. Being an indepen-
+dent MP expenditure, a stationary pivot is subject to Op Fire [35.6].
+3 5.3 C o m b in e d A r m s M ov e m e n t
+Up to one friendly infantry squad (only; not a gun or other vehicle) 
+moving as a group with an armored vehicle squad may claim an alter-
+nate cover of 0 versus any Op Fire made against it. Similarly, up to 
+one infantry platoon – or up to three infantry squads, as the case may 
+be – moving as a group with an armored vehicle platoon may claim 
+an alternate cover of 0 for any Op Fire made against that infantry.
+This rule only comes into play when traversing open ground, negating 
+the -1 "moving in the open" cover for the infantry.
+3 5.4 M e l e e E n t ry & E x i t
+During a Move order, an activated gun unit (only) may enter or exit 
+an enemy-occupied hex. Activated infantry and vehicles are prohibited 
+from entering or exiting melee during a Move order.
+3 5.5 C o l u m n M ov e m e n t
+A vehicle must be placed In Column immediately upon entering any 
+building hex. (This game's Playbook may include additional terrain 
+in which being In Column is mandatory.) A vehicle must be placed 
+In Column when using a road to enter any hex which is otherwise 
+impassable to it. A vehicle In Column in an otherwise impassable hex 
+may only leave that hex via a road hexside. See rule 24.10 for details 
+on being In Column.
+3 5.6 O p p o r t u n i t y (O p) F i r e
+During an enemy Move or Assault order, immediately after the 
+active player concludes an activity in which an activated unit spent 
+any number of MPs (a stationary pivot; using a special action; assault 
+firing; or moving into a new hex), the inactive player has the option 
+of making any number of reactive fire attacks against that acting unit's 
+hex. This is termed "Opportunity Fire" (or just "Op Fire"). Only 
+unspent units belonging to the inactive player may Op Fire [35.63].
+3 5.6 1 O p F i r e P r o c e d u r e
+At the conclusion of every activity requiring a MP expenditure by 
+the active player during a Move or Assault order, he should pause 
+for a moment so as to give the inactive player a short time in which 
+to decide whether to announce one or more Op Fire attacks against 
+the acting unit. If so, the inactive player should call out “Wait!” so as 
+to temporarily halt the order. He then makes one or more consecu-
+tive fire attacks against that unit (and its hex, if the Op Fire will be 
+direct fire) with one or more of his own units that are not yet spent 
+[35.63]. Each Op Fire attack must use AP if the unit being reacted to is 
+armored; HE if it has a morale (inactive player's choice if both apply).
+3 5.6 2 E x c e p t io n s
+Units performing Op Fire follow all normal rules for a direct or 
+melee fire attack [34.1 & 34.2] as appropriate, with several important 
+exceptions:
+a)	 Each Op Fire attack costs the inactive player 2 Initiative if that 
+firing unit is Out of Command or 1 Initiative if under Tactical 
+Command (those under Mission Command fire for free). A unit 
+cannot make an Op Fire attack if the cost to do so would cause 
+the Initiative marker to move beyond the opponent's “20” space.
+Note that Op Fire can be performed even when the Initiative marker 
+is on the opponent's side of the Initiative Track.
+b)	 Unless and until they become spent [35.63], Op Firing units 
+are not limited to only firing once and so remain eligible to fire 
+at activated units for the entirety of that Move/Assault order. 
+However:
+c)	 Even though multiple Op Fires are allowed vs each MP expen-
+diture, no individual unit may Op Fire more than once per MP 
+expenditure.
+EXAMPLE: An activated vehicle expends 1 MP to pivot within 
+its hex: Op Fire ensues but misses. It then spends 2 MPs to move 
+into an adjacent rough hex where more Op Fire ensues. It then 
+spends 1 MP to conduct an assault fire, which draws even more 
+Op Fire. A unit belonging to the inactive player that remains 
+unspent throughout this sequence could make three different fire 
+attacks against the activated unit, one attack after each distinct 
+MP expenditure. If the Op Firing unit was under Tactical Com-
+mand, each attack would cost the inactive player 1 Initiative (3 
+Initiative total for 3 shots).
+d)	 A unit in a melee hex can't Op Fire at a unit outside its hex.
+3 5.6 3 R a t e o f F ir e
+During Op Fire, the inactive player risks having his 
+firing unit become “spent.” An Op Firing unit becomes 
+spent if either or both of the attack dice shows a number 
+that is less than or equal to that unit’s ROF. If this 
+occurs, place a Spent marker on the unit at the conclu-
+sion of that Op Fire attack. Spent units are no longer eligible to perform 
+Op Fire for the remainder of that Move/Assault order. When the 
+active player announces his Move/Assault order is finished, remove 
+any and all Spent markers from the inactive player's units.
+PLAY NOTE: be aware that a unit’s ROF acts differently from 
+the hindrance affecting the fire attack. So a unit could miss due to 
+a high hindrance but remain unspent and eligible to shoot again 
+later in the same order due to a good (low) ROF stat. Alternately, a 
+Return Firing (or Op Firing) unit could hit an enemy unit but still 
+become spent because its ROF number is greater than the hindrance 
+affecting that shot.
+3 5.6 4 Re s um e t h e O r d e r
+After any such Op Fire attacks are made – or the opportunity to do 
+so is declined (“Never mind; keep moving”) – the active player may 
+continue with his Move/Assault order. 
+
+3 6. R A L LY
+units [30.1] with hit markers attached. Fresh units can't be activated 
+during a Rally order. Each activated unit can then make a single 
+"rally" attempt to have its hit marker removed.
+PLAY NOTE—Since none of a unit’s stats are relevant during Rally, 
+there’s really no need to physically flip them over when activated. 
+If it’s obvious to both players who’s been activated, “skip the flip.”
+Each rally attempt begins with a default 2d10. However, the die size 
+may increase or decrease 
+(auto fail)  2d6  2d8  2d10  2d12  2d20
+●–2D if the unit is in melee;
+●+1D if the unit can currently claim a cover of 1 or more;
+●+1D if the unit shares a hex with a friendly Command marker.
+The two dice are then rolled, with three possible outcomes:
+a)	 If the result is greater than or equal to the hit marker’s 
+rally target number (the number within a circle in the 
+upper right corner) the rally is successful. Remove that 
+hit marker, placing it back in the draw cup.
+The rally number on the Panicked hit marker is highlighted above. 
+b)	 If a hit marker’s rally target number is black (like 
+the “12” shown to the right) and the result is less 
+than that rally number, the rally is unsuccessful 
+and there is no effect.
+c)	 If a hit marker’s rally target number is red (like the 
+“18” shown to the right) and the result is less than 
+that rally number, the rally is unsuccessful but with 
+consequences: the unit is eliminated [3.31].
+nicked
+Stunned
+Immobilized
+3 7. S nip e r
+When this order is given, the active player flips the Sniper marker 
+so that his side's nationality is face up. He then selects and performs 
+any one order that is below his side's Sniper order on the Matrix.
+EXAMPLE: A side's Sniper order is on row 5 of the Order Matrix. 
+Below it are Rally, Fire, Move and Asset at 4, 3, 2 and 1, respectively. 
+If that player removed a cube from any of rows 5 through 10 and 
+chose "Sniper," he could perform a Rally, Fire, Move or Asset order 
+in addition to flipping the Sniper marker to his side. 
+PLAY NOTE: At the end of each turn, the player with his side of the 
+Sniper marker face up will get to perform Sniper Activity [21.12c].
+DESIGN NOTE: Despite its chosen title, the Sniper order/Sniper 
+Activity represents much more than just a patient man with a scoped 
+rifle taking head shots. This mechanism can also abstractly represent 
+the increasing friction inherent at every battlefield, or non-specific 
+occurrences such as friendly fire, growing panic, loss of a runner, a 
+cut phone line, despair, fatigue, ammunition shortage, etc.
+3 8. S u p p o r t
+Each Support order allows the active player to draw a certain number 
+of assets from the top of his deck (as indicated on his Order Matrix). 
+Drawn assets are placed directly into the active player’s hand and 
+kept hidden from his opponent until played or discarded.
+If, in the act of drawing, a player’s draw pile runs out of cards he 
+immediately shuffles together all cards currently in his discard pile to 
+form a new face down draw pile (and resumes drawing, if appropriate).
+
+Sum m a ry of Or de rs
+A L L [3 o]
+Costs 2 Initiative to activate any unit that is Out of Command; 1 if under Tactical Command; 0 if under Mission Command [30.1]. 
+Flip activated units to their reverse (white stripe) side. Flip them back (“unactivate” them) after each has performed its activities.
+A turn ends at the conclusion of any order in which no cubes remain on the Order Matrix [21.12].
+A dva n c e [31]
+Infantry are the only unit type that may enter/exit melee during an Advance order.
+Activated units may move a maximum of 1 hex. Guns/vehicles can pivot once (before, after or instead of advancing). MPs are ignored. Friendly 
+Command may accompany advancing units. Units with a hit marker attached containing a circled M can’t advance or pivot.
+A s s a u lt [3 2] – O p Fi re i s a l l o w e d (s e e b o t t o m o f p a g e)
+Vehicles are the only unit type that may enter/exit melee during an Assault order.
+Activated units have their printed Speed halved. Activated units spend MPs as if for a Move order. Each activated unit may fire once by spend-
+ing 1 MP, suffering –1D (unless in melee). Friendly Command may accompany assaulting units. 
+A s s e t [3 3]
+Play up to one Asset order from your hand.
+F ir e [3 4]
+Units with a hit marker attached containing a circled F can’t fire. Units with a hit marker attached containing a circled M can’t pivot.
+DIR E C T: Activated units may each make one fire attack outside their own hex. See the Player Aid for detailed procedure.
+M e l e e : Activated units may each make one fire attack at a unit in their own hex. See the Melee Tables for detailed procedure.
+R e t u r n F i r e [ 3 4. 3]
+Inactive player only: Up to one unspent unit may Return Fire at an activated unit that just completed its Fire order. Lose 2 Initiative to 
+Return Fire with a unit that is Out of Command; lose 1 Initiative to Return Fire with a unit under Tactical Command; units under Mission 
+Command Return Fire for free. If either attack die is less than or equal to the Return Firing unit’s ROF, place a Spent marker on it. Remove 
+all Spent markers at the end of the order.
+M ov e [3 5 ] – O p Fi re i s a l l o w e d (s e e b o t t o m o f p a g e)
+Guns are the only unit type that may enter/exit melee during a Move order.
+Activated units move from hex to hex, expending MPs as they go. Friendly Command may accompany moving units. Units with a hit marker 
+attached containing a circled M can’t expend MPs.
+R a l ly [3 6]
+Attempt to remove hit markers from activated units. Rolls greater than or equal to a hit marker’s rally number are successful. A failed attempt 
+with a red-colored rally number eliminates the unit, otherwise a fail has no effect.
+Start with 2d10: –2D if rallying unit is in melee; +1D if stacked with a friendly Command; +1D if rallying unit has Cover of 1 or more.
+S nip e r [3 7 ]
+Flip the Sniper marker so that your side is face up. Then perform any one order that lies below your side's Sniper order.
+S u p p o r t [3 8]
+Draw X asset cards (as indicated on the Order Matrix).
+O p p o r t u n i t y (O p) F i r e [ 3 5 . 6 ]
+Inactive player only: Any number of unspent units may Op Fire – one at a time – at an activated unit(s) that just expended any number of MPs 
+during a Move or Assault order. Lose 2 Initiative to Op Fire with a unit that is Out of Command; lose 1 Initiative to Op Fire with a unit under 
+Tactical Command; units under Mission Command Op Fire for free. If either attack die is less than or equal to the Op Firing unit’s ROF, place 
+a Spent marker on it. Remove all Spent markers at the end of the order.

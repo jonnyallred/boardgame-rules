@@ -1,0 +1,2029 @@
+Terms are defined best in bold sections.
+• Amphibious Landings . . . . . . . . . 11.2.5.1, 8.2
+• Battle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.2
+• Battle board . . . . . . . . . . . . . . . . . . . .3.4.1, 11.2.1
+• Base . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.4
+ – Allied/Japanese controlled Base 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.4, 12.2
+ – Allied Base Expansion . . . . . . . . . . . . . . 15.2
+ – Base Control Changes . . . . . . . 3.3.10, 12.2
+ – Home Base . . . . . . . . . . 3.3.3, 3.3.4, 6.1, 6.3
+ – Neutral Base . . . . . . . . . . . 3.2.4, scenarios
+ – Occupied Base . . . . . . . . . 3.3.2, 11.2.6, 12.2
+• Combat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.2
+ – Air Combat . . . . . . . . . . . . . . . . . . . . . . . .11.2.2
+ – Land Combat . . . . . . . . . . . . . . . . . . . . .11.2.5
+ – Surface Combat . . . . . . . . . . . . . . . . . . .11.2.3
+• Boxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3.2
+ – Carriers without Planes Box . . . . . . . .6.1.1
+ – Convoy Escort Box . . . . . . . . 3.2.5, 5.2, 5.3
+ – Holding Box . . . . . . . . . . . . . . . . . . . . . . . 3.2.5
+ – Naval Aviation Box . . . . . . . . . . . . . . . . .6.1.1
+ – Off-map Box . . . . . . . . . . . . 3.2.5, 3.2.6, 6.4
+• Capacity . . . . . . . . . . . . . . . . . . . . . . . . 3.3.1, 7.3
+ – Air Capacity . . . . . . . . . . . . . . . . . . . . . . . 3.2.4
+ – Land Capacity . . . . . . . . . . . . . . . . . . . . . 3.2.3
+ – Port (Naval) Capacity . . . . . . . . . . . . . . 3.2.4
+• Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.3
+ – Air Unit at Sea Damage . . . . . . . . . . . 11.3.3
+ – Air Unit Damaged on Ground . . . . 11.3.4
+ – Land Combat Damage . . . . . . . . . . . . 11.3.5
+ – Land Unit/Replacements 
+at Sea Damage . . . . . . . . . . . . . . . . . . . 11.3.2
+ – Naval Unit Damage . . . . . . . . . . . . . . . 11.3.1
+• Deployment . . . . . . . . . . . . . . . . . . . . . 7.0, 13.0
+ – Major Deployment Phase . . . . . . . . . . . . 7.0
+ – Minor Deployment Phase . . . . . . . . . 13.0
+ – On-hex Deployment . . . . . . . . . . . . . . . . 7.2
+ – Sea Deployment . . . . . . . . . . . . . . . . . . . . 7.1
+• Ground Support . . 11.2.2.4, 11.2.5.3, 11.2.5.5
+• Hex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2
+ – Entry Hex . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.6
+ – Land Hex . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.3
+ – Resource Hex . . . . . . . . . . . . . 3.2.7, 5.1, 15.3
+ – Resource Hex Fueling . . . . . . . . . . . . . .15.3
+ – Sea Hex . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.1
+• Impassable Hexsides . . . . . . . . . . . . . . . . 3.2.2
+• Markers
+ – Other markers . . . . . . . . . . . . . . . . . . . . . .3.5
+ – Replacement markers . . . . . . . . . . . . . 3.3.9
+• Merchantmen Pool . . . . . . . . . . . . . . . . . . 3.3.5
+• Nationalities . . . . . . . . 3.1.1, 3.3.3, 3.3.6, 15.4
+• Player
+ – Japanese/Allies Player . . . . . . . . . . . . . .3.1.1
+ – Phasing/Non-phasing Player . . . . . 3.3.11
+• Points
+ – Air Points . . . . . . . . . . . . . . . . . . . 3.4.2, 11.2.2
+ – Oil Points . . . . . . . 3.3.7, 5.1, 8.4, 9.0, 16.1.3
+ – Submarine Points. . 3.3.8, 5.3, 5.4, 6.2, 11.1
+ – Transport Points . . . . . . 3.3.6, 7.1, 8.2, 8.3
+ – Victory Points . . . . . . . . . . . . . . . . 3.3.10, 4.3
+• Ratings
+ – Air Strength Rating . . . 3.1.2, 3.1.3, 11.2.2.1
+ – Anti-Aircraft Rating . . 3.1.2, 3.2.4, 11.2.2.4
+ – Combat Strength Rating . . . 3.1.4, 11.2.5.5
+ – Firepower Rating . . . . . . . . . . . . 3.1.2, 11.2.3
+ – Movement Allowance Rating 
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.2, 8.0, 9.0
+ – Transport Rating 
+. . . . . 3.1.2 (naval), 3.1.3 (air), 3.1.4 (land), 7.1
+• Reactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.0
+• Return to Base . . . . . . . . . . . . . . . . . . . . . . 12.0
+• Sea Control . . . . . . . . . . . 3.4.3, 11.2.4, 11.2.5.4
+• Supply Line . . 3.3.2, 3.3.4, 4.3.1, 5.1, 11.2.5.4
+• Submarines . . . . . . . . 3.3.8, 5.3, 5.4, 6.2, 11.1
+• Stacking Limits . . . . . . . . . . . . . . . . . 3.3.1, 7.3
+• Task Force . . . . . . . . . . . 8.0, 8.1, 9.0, 11.1, 11.2
+ – Bombardment Task Force . . . . . . . . 11.2.1
+ – Carrier Task Force . . . . . . . . . . . . . . . 11.2.1
+• Unit Side 
+(Development/Operational) . . . . . . . . . 3.1.2
+• Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1
+ – Air units . . . . . 3.1.3, 3.3.2, 8.3, 10.0, 11.2.6
+ – Land units . . . . . . . . . . . . . 3.1.4, 8.2, 11.2.5.1
+ – Naval units . . . . . . . . . . . 3.1.2, 8.4, 9.0, 12.0
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2. Game Components . . . . . . . . . . . . . . . . . . . . . . 2
+3. Core Concepts . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ 
+3.1. Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ 
+3.2. The Map . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+ 
+3.3. Strategic War Aspects . . . . . . . . . . . . . . . . 4
+ 
+3.4. Tactical Battle Aspects . . . . . . . . . . . . . . . 7
+ 
+3.5. Other Markers . . . . . . . . . . . . . . . . . . . . . . . 7
+4. General Course of Play. . . . . . . . . . . . . . . . . . . 7
+ 
+4.1. Preparation for Play . . . . . . . . . . . . . . . . . . 7
+ 
+4.2. Sequence of Play . . . . . . . . . . . . . . . . . . . . . 7
+ 
+4.3. Game End and Winning . . . . . . . . . . . . . . 7
+5. Economic Phase . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ 
+5.1. Oil Transport Segment . . . . . . . . . . . . . . . 8
+ 
+5.2. DD Units Transfer Segment . . . . . . . . . . 8
+ 
+ 5.3. Anti-Submarine Warfare (ASW) 
+Segment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ 
+5.4. Submarine Segment . . . . . . . . . . . . . . . . . 8
+6. Reinforcement Phase . . . . . . . . . . . . . . . . . . . . 8
+ 
+6.1. Units Reinforcement Segment . . . . . . . . 8
+ 
+6.2. Submarine and Transport 
+Reinforcement Segment . . . . . . . . . . . . . 9
+ 
+6.3. Replacements Segment . . . . . . . . . . . . . . 9
+ 
+6.4. Off-Map Box Movement Segment . . . . 9
+7. First (major) Deployment Phase. . . . . . . . . . 9
+ 
+7.1. Sea Deployment . . . . . . . . . . . . . . . . . . . . . . 9
+ 
+7.2. One-hex Deployment . . . . . . . . . . . . . . . 10
+ 
+7.3. Stacking Limits . . . . . . . . . . . . . . . . . . . . . . 10
+8. Operational Movement Phase. . . . . . . . . . . 10
+ 
+8.1. Task Forces . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ 
+8.2. Land Units . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ 
+8.3. Air Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ 
+8.4. Naval Units . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9. Reaction Phase. . . . . . . . . . . . . . . . . . . . . . . . . . 11
+10. Air Commitment Phase . . . . . . . . . . . . . . . . . 11
+11. Combat Phase. . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ 
+11.1. Submarine Attack Segment . . . . . . . . . . 11
+ 
+11.2. Battle Segments . . . . . . . . . . . . . . . . . . . . 12
+ 
+ 
+11.2.1. Battle Board Preparation Step . 12
+ 
+ 
+11.2.2. Air Combat Step . . . . . . . . . . . . . . 12
+ 
+ 
+11.2.3. Surface Combat Step . . . . . . . . . 13
+ 
+ 
+11.2.4. Sea Control Step . . . . . . . . . . . . . 14
+ 
+ 
+11.2.5. Land Combat Step . . . . . . . . . . . 14
+ 
+ 
+11.2.6. Administrative Step . . . . . . . . . . 15
+ 
+11.3. Damage Resolution . . . . . . . . . . . . . . . . . 15
+12. Return to Base Phase . . . . . . . . . . . . . . . . . . . 16
+ 
+12.1. Naval Units . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ 
+12.2. Base Control Changes . . . . . . . . . . . . . . 16
+ 
+12.3. Stacking Limits . . . . . . . . . . . . . . . . . . . . . 16
+13. Second (minor) Deployment Phase. . . . . . 16
+14. End Phase. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+15. Special Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ 
+15.1. Malaya Peninsula Case . . . . . . . . . . . . . . 17
+ 
+15.2. Allied Base Expansion . . . . . . . . . . . . . . 17
+ 
+15.3. Resource Hex Fueling . . . . . . . . . . . . . . 17
+ 
+15.4. The Netherlands . . . . . . . . . . . . . . . . . . . 17
+ 
+15.5. British Oriental Fleet . . . . . . . . . . . . . . . 17
+ 
+15.6. British European Fleet . . . . . . . . . . . . . . 18
+16. Optional Rules . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ 
+16.1. Optional Rules 
+Favoring the Allies . . . . . . . . . . . . . . . . . . 18
+ 
+16.2. Optional Rules 
+ 
+ 
+Favoring the Japanese . . . . . . . . . . . . . . 19
+ 
+16.3. Optional Rules 
+ 
+ 
+Favoring Neither Player . . . . . . . . . . . . . 20
+RULEBOOK • TABLE OF CONTENTS
+INDEX
+
+3.0 CORE CONCEPTS
+3.1 Units
+Units represent the various forces that each player 
+controls throughout the course of the game. Units 
+represent naval, air and land forces that participated 
+in the actual campaign. The counter mix of units in-
+cluded in the game is an absolute limit: if you are in-
+structed to place or receive a unit and there are none 
+of that type available, then that placement is forfeited.
+3.1.1 Unit Nationalities
+There are four nationalities in the game, each repre-
+sented by a different color:
+ Japan 
+ • red stripe and white background
+ United States & ANZAC
+ • blue stripe and green background (US Army and 
+ANZAC forces) 
+ • blue stripe and blue background (US Navy and 
+Marines)
+ Britain & India
+ • blue stripe and red background
+ Netherlands
+ • blue stripe and orange background.
+The Japanese player controls the Japan units (all red 
+stripe units), while the Allies player controls the oth-
+ers (all blue stripe units).
+3.1.2 Naval Units
+Operational
+Side
+Anti-Aircraft 
+Defence 
+Allowance 
+Firepower 
+Air Strength 
+(carriers only)
+Deployment
+Side
+Naval units (square counters) come into two ba-
+sic types: aircraft carriers (CV, CVL and BBV) and 
+non-carriers (all others). Naval units are used to at-
+tack enemy naval units and to support land combat. 
+Aircraft carriers are also used to attack enemy air 
+units in Bases and units transported by ships.
+Naval unit counters have two sides:
+ an Operational Side with a  ship silhouette and 
+a  national flag - used while the unit is part of 
+a Task Force (8.1)
+ and a Deployment Side with a ship silhouette and 
+an anchor - used while the unit is in port.
+1.0 INTRODUCTION
+Fire in the Sky is a two-player, strategic-level game 
+of the Pacific War covering the entire conflict between 
+the Empire of Japan and the Western Allies, from the 
+Japanese surprise attack on Pearl Harbor to the days 
+when American atomic bombs were dropped on Hiro-
+shima and Nagasaki.
+Hexes on the map are roughly 900 km across and 
+game turns represent 3 months, except for the spe-
+cial December 1941 turn. Due to the scope of the game, 
+unit scale is somewhat abstract. Naval units repre-
+sent groupings of several ships: usually a pair for air-
+craft carriers and battleships, and divisions/flotillas 
+for other types. Land units range in size from several 
+thousand to several tens of thousands of troops. Air 
+units represent a nation’s air power as a whole and 
+are the most abstracted.
+2.0 GAME COMPONENTS
+The game includes the following components:
+ 1 Game Board (the Map)
+ 1 Battle Board
+ 1 Rulebook
+ 1 Scenario Book
+ 2 Player Aid Cards
+ 115 Naval Units (33 Japanese & 82 Allied)
+ 25 Land Units (11 Japanese & 14 Allied)
+ 30 Air Units (15 Japanese & 15 Allied)
+ 10 Replacement markers (3 Japanese & 7 Allied)
+ 7 Task Force & Fleet markers
+ 1 Tokyo Express marker
+ 1 Game Turn marker
+ 1 Victory Points marker
+ 1 Oil Points marker
+ 1 Merchantmen Pool marker
+ 3 Transport Points markers
+ 2 Submarine Points markers
+ 5 Occupied Base markers
+ 1 Battle marker
+ 5 Occupied Base markers
+ 2 Air Superiority / Supremacy marker
+ 2 Air Points markers
+ 15 Air Strike / Hit markers
+ 5 Additional Hit markers
+ 7 Task Force & Fleet screens
+ 10 Dice
+ 30 Wooden cubes.
+
+Land units have two sides: a full strength front and 
+a reduced strength back. A land unit’s Transport rat-
+ing is always the same, regardless of which side it 
+is on (equal to a number of Transport Points used 
+during Deployment Phases). Reduced strength units 
+may not initiate combat on their own.
+3.2 The Map
+The map (Game Board) depicts the area over which the 
+Pacific War was fought. A grid of hexagons (hereafter 
+called hexes) is superimposed on it to help regulate 
+the movement and positioning of the playing pieces. 
+Areas of the map where there are no hexes (e.g., much 
+of Australia) are not part of the playing area. Various 
+holding boxes are printed on the map, and their use is 
+detailed in the appropriate rules sections.
+3.2.1 Sea Hexes
+For movement purposes, every hex on the map is 
+considered a sea hex, except for the Gangetic Plain 
+hex. Sea hexes are used for sea movement during the 
+Deployment (7.0,13.0), Operational Movement (8.0), 
+and Reaction (9.0) Phases. Except for air and land 
+units using One-hex Deployment (7.2), all movement 
+is considered sea movement.
+Impassable 
+hexside
+Both 
+types 
+hex 
+(sea 
+and land)
+Land 
+connec-
+tion
+Sea hex
+3.2.2 Impassable Hexsides
+Units using sea movement cannot cross impassable 
+hexsides, which are shown as a thick white line.
+3.2.3 Land Hexes
+Hexes containing a  square (actually a  rounded 
+square) or a circle with a name are land hexes. 
+White land connections (roads) allow land units to 
+move between two linked land hexes using One-hex 
+Deployment (7.2). If there is no such connection be-
+tween two land hexes, land units cannot use One-
+hex Deployment between them.
+Land hexes are also subject to stacking limits (3.3.1). 
+The Land Capacity refers to land units and it is the 
+maximum total amount of their Transport rating 
+that can be stacked on the land hex.
+Land units have to end their sea movement or One-
+hex Deployment (7.2) by entering a land hex: if there 
+is no square or circle in a hex, land units cannot en-
+ter it. A square represents a Base (3.2.4). A circle de-
+Ship class abbreviations used in the game:
+CV – Aircraft carrier
+CVL – Light aircraft carrier
+BB – Battleship
+BBV – Battleship/carrier hybrid
+CB – Large cruiser
+CA – Heavy cruiser
+CL – Light cruiser
+CLAA – Anti-aircraft cruiser
+DD – Destroyer
+Designer Note: The US counter mix includes 
+units with different national flags and back-
+ground colors. There are US Army units, US 
+Marine and Navy units, and AUS and NZ units, 
+and these serve for a thematic distinction only.
+3.1.2 Air Units
+Front Side
+Back Side
+Air Strength 
+Air units (hexagonal counters) are used to control 
+the air in and around a hex. They are also used to 
+attack enemy naval units, air units in Bases, units 
+transported by ships, and to support land combat.
+Air unit counters have two sides, each having a 2 Air 
+Strength on the front and a 1 Air Strength on the back. 
+The number of airplane icons represents Air Points, 
+which are used in Battles, and is also the Transport 
+rating (equal to the number of Transport Points used 
+during Deployment Phases). Air units can be com-
+bined or broken apart as needed, but are subject to 
+component limitations (like all units, 3.1).
+Designer Note: All Allied air units are exchang-
+able. Different national flags and background 
+colors serve for a thematic distiction only.
+3.1.3 Land Units
+Full 
+Strength Side
+Reduced 
+Strength Side
+(may not 
+initiate 
+combat)
+Combat 
+Strength 
+Land units (round counters) are used to attack ene-
+my land units, and are the ONLY units that can take 
+control of an enemy or neutral Base.
+
+Each Allied off-map box is virtually connected to 
+one Base on the map. During the Reinforcement 
+Phase (6.0), Allied units may move to the connecting 
+base without spending Transport Points (3.3.6). No 
+Japanese units may ever enter an Allied off-map box.
+Any units located in Kure, Yokosuka or Pearl Harbor 
+can be placed in their holding boxes to reduce clut-
+ter (any units in the holding boxes are considered 
+to be in the respective hexes). It is recommended to 
+use holding boxes essentially for naval units.
+3.2.6 Entry Hexes
+Hexes bearing a nation’s flag with an 
+arrow are Entry Hexes for that na-
+tion. Three US flags mark Entry Hex-
+es from/to the West Coast USA off-
+map box and two BR flags mark Entry 
+Hexes from/to the Indian Ocean Ports off-map box.
+An Entry Hex is considered to be one hex away from 
+its off-map box for sea movement, supply tracing, 
+and amphibious landing purposes. A naval unit could 
+thus go from an Entry Hex to the off-map box (or vice 
+versa) by spending one movement point; or the Allied 
+player could perform an amphibious landing in Dutch 
+Harbor even if both Dutch Harbor and Attu were lost 
+to the Japanese.
+No unit can react from an off-map box during the 
+Reaction Phase (9.0).
+3.2.7 Resource Hexes
+There are three of these, marked with 
+an Oil symbol: Singapore, Surabaya 
+and Brunei. These hexes allow the 
+Japanese player to acquire Oil Points 
+(3.3.7), and occasionally move naval 
+units for free (15.3).
+3.3 Strategic War Aspects
+3.3.1 Stacking Limits
+Each land hex has one or three stacking limits, all 
+referring to a sum of Transport ratings:
+ Air Capacity for air units in the Base (only for base)
+ Port Capacity for naval units in the Base (only for base)
+ Land Capacity for land units (for each land hex).
+Land stacking limits are indicated by the Land hex at-
+tributes (3.2.4) and apply at the end of each Deployment 
+Phase (7.0,13.0) and each Return to Base Phase (12.0).
+Land Capacity (stacking limit refers to a sum of 
+Transport ratings) has only one of two possible val-
+ues: 4 for an atol and 8 for any other land hex. When 
+both sides have units in the same hex, each counts 
+the land stacking limit separately.
+Example: 4 Japanese and 4 Allied Transport ratings 
+land units can occupy the same atol hex.
+notes a land hex that can be entered by land units, 
+but cannot be used as a Base by air or naval units, 
+and these hexes are worth no Victory Points.
+3.2.4 Bases
+Bases for air and naval units are represented by 
+a square on the map. 
+Original control 
+(Turn 1)
+Land 
+Port 
+Air 
+Victory Points 
+Value
+Anti-Aircraft Rating 
+(half of its printed Air Capacity)
+The Air Capacity (a number inside a hexagon) refers to 
+air units and it is the maximum total amount of their 
+Transport ratings that can be stacked in the Base. The 
+Port Capacity (a number inside a square) refers to na-
+val units and it is the maximum total amount of their 
+Transport ratings that can be stacked in the Base.
+The Anti-Aircraft rating is half the base’s printed Air 
+Capacity. Every base has Victory Point value repre-
+sented by yellow stars (4.3.1).
+Initially (Turn 1) each Base’s control is determined by 
+the flag printed in its square. Japanese flags indicate 
+Japanese control, and US, British, Australian, New 
+Zealand, Dutch and French flags indicate Allied con-
+trol. Allied units can use Bases from any Allied nation-
+ality. Base control changes occur during the Return 
+to Base Phase (12.0). Some Bases may begin the game 
+uncontrolled or captured (see the scenario descrip-
+tion for details).
+3.2.5 Off-map and Holding Boxes
+There are three special types of boxes on the map:
+ two Off-Map Boxes → representing US and British 
+ports outside the map
+ three Holding Boxes → representing key ports: 
+two Japanese (Kure and Yokosuka) and one US 
+port (Pearl Harbor)
+ and one Convoy Escort Box → representing Japa-
+nese DDs assigned to escort Japanese Merchant-
+men fleet.
+Base virtually connected 
+to Off-Map Box
+Holding
+Off-Map 
+Entry Hex
+Convoy 
+Escort 
+Land Hex, 
+but not a Base
+
+ A Supply Line must stop in a hex in an enemy Air 
+ZOC (3.3.2) unless that hex also contains a friendly 
+air unit. If the hex that the Supply Line stops in is 
+also the destination, it may still be supplied.
+Home 
+Base
+(no more 
+than 
+2 hexes 
+away)
+Supply Line
+(a string of 
+controlled 
+Bases)
+Last Hex 
+in Supply Line
+(Base or not,
+controlled or not)
+Land units are considered supplied whenever they 
+are in a friendly controlled Home Base or if their side 
+has established Sea Control in the hex (11.2.4). Enemy 
+Sea Control in a hex prevents land units from being 
+supplied, unless they are within their Home Base. 
+If neither player manages to gain Sea Control, land 
+units require their Supply Line to be supplied.
+Designer Note: The only way to supply Japa-
+nese land units in the Paramushiro hex is by 
+establishing Sea Control, since the Japanese 
+player cannot trace a Supply Line to this hex.
+3.3.5 Merchantmen Pool
+The Merchantmen Pool 
+represents overall Japa-
+nese transport capabili-
+ty during the whole war. 
+This number initially be-
+gins (Turn 1) at 60 (see 
+the scenario description for details), but often de-
+creases during gameplay and never increases.
+Designer Note: The Merchantmen Pool marker is 
+twice as large as the other General Game Track 
+markers. The marker always decreases in incre-
+ments of two (it never increases). The even num-
+ber it covers marks the current Merchantmen 
+Pool number.
+Land stacking limits apply at the end of each De-
+ployment Phase (7.0,13.0), during Amphibious Land-
+ings (11.2.5.1), and at the end of the Return to Base 
+Phase (12.0).
+If a  player exceeds the stacking limit of a  space, 
+his opponent may choose and remove excess units 
+from the hex. These removed units are placed on the 
+Game Turn Track to arrive as reinforcements in the 
+next friendly Reinforcement Phase.
+3.3.2 Air Zone of Control (Air ZOC)
+Air ZOC 
+(zone 
+of control)
+Air Unit
+(at Base)
+Every air unit at a friendly Base exerts an Air Zone of 
+Control in its own hex and the all adjacent hexes. Air 
+ZOCs can hinder enemy sea movement (7.0) and cut 
+Supply Lines (3.3.4).
+Note that an Air unit transported by ships (i.e., using 
+Operational Movement) does NOT exert an Air ZOC.
+3.3.3 Home Bases
+Each nation has its own Home Base(s) 
+marked by a pentagon with a nation-
+al flag inside. There are four of them:
+ Japan → Kure and Yokosuka (Bases)
+ US & ANZAC → West Coast USA 
+(Off-map box)
+ Britain & India → Indian Ocean Ports (Off-map box).
+Each nation uses its Home Base(s) to place rein-
+forcements (6.1), place replacement markers (6.3), 
+Return to Base (12.0) and for supply tracing (3.3.4).
+3.3.4 Supply Lines and Supplied Land Units
+An Open (unblocked) Supply Line is required for:
+ Oil Point transport (3.3.7)
+ maintaining the lifeline between the United States 
+and Australia (4.3.1)
+ checking land units supply during a Battle.
+Definition of a Supply Line:
+ A Supply Line is traced from any friendly controlled 
+Home Base to the destination hex along a string 
+of friendly controlled Bases, each within 2 hexes 
+of the previous one. The final destination must be 
+within 2 hexes of the last Base in the chain.
+ A Supply Line may cross any hexside, even an im-
+passable one.
+
+Replacements move like land units during the De-
+ployment (7.0,13.0) or Operational Movement Phases 
+(8.0). They may not use One-hex Deployment (7.2). 
+All sea movement rules for land units apply, and they 
+may only be transported by TPs matching their na-
+tionality.
+Replacements do not count toward stacking limits, 
+cannot take part in land combat, and cannot take 
+control of an enemy base. 
+At any time Replacements and a  land unit are in 
+the same hex, or an adjacent hex with a land con-
+nection between them, if neither the marker or the 
+unit is part of a Task Force, the Replacements may 
+augment the land unit’s strength. The Replacements 
+value must be equal to or greater than the land 
+unit’s reduced strength. Flip the land unit back to 
+full strength and remove the Replacements marker.
+Only one Replacements marker may augment a land 
+unit; you may not combine several markers. You also 
+may not split the value of a marker amongst multiple 
+reduced-strength land units: one marker may only 
+augment one unit.
+All phasing player’s Replacements markers are re-
+moved from the map during their End Phase (14.0).
+3.3.10 Capturing Bases and Victory Points
+Capturing bases is the only way to win 
+the war and the game. “Capture” refers 
+to taking control of a neutral or ene-
+my-controlled Base. Japan will gain VPs 
+when they capture a base, and lose VPs 
+when Allies capture one.
+Initially the number of VPs (Turn 1) is equal to the 
+sum of Japanese controlled bases (i.e hexes with 
+printed Japanese flag). Allies player initially (Turn 1) 
+controls all bases with any printed Allied flag.
+Guide for marking the control of a Base on the Game 
+Board (Map):
+ Neutral Base:
+ • no printed flag and no wooden cube on the hex
+ Japanese controlled Base:
+ • printed Japanese flag and no wooden cube on 
+the hex
+ • or a white wooden cube on the hex
+ Allied controlled Base:
+ • a printed Allied flag and no wooden cube on the hex
+ • or a blue wooden cube on the hex.
+There is always no more the one wooden cube on a 
+Base hex. When a Base control change occur during 
+Return to Base Phase wooden cubes should be 
+changed accordingly. 
+3.3.11 Phasing and Non-phasing Player
+The phasing player is the player(s) whose current part 
+of a turn it is. The other is the non-phasing player.
+3.3.6 Transport Points
+Transport Points (TPs) represent current 
+transport capability which constrains 
+how many units can be moved during 
+a turn. Every nationality has its own TPs.
+TPs can only be used by units matching 
+the same nationality (e.g., British and US units may 
+not use each others’ TPs). Use the background color 
+of the Transport rating (TR) number as a guideline:
+ Any Japanese units → use Japanese Transport Points
+ Allied units with TR black background → use US 
+Transport Points
+ Allied units with TR red-black background → use 
+British Transport Points
+ Allied units with TR orange-black background → 
+no Transport Points used at all.
+TPs not used during a turn are lost, with the mark-
+er being reset to the designated levels again at that 
+player’s next Reinforcement Phase (6.0).
+TPs can be used to move Replacements markers, too. 
+The Japanese player may also use them to transport 
+oil from Southern Asia to Japan (5.1) and to transfer 
+DD units to/from the Convoy Escort box (5.2).
+Designer Note: Transport Point costs for all Al-
+lied air units must always be met with US TPs 
+only, even if it has flag/background color of 
+another nationality.
+3.3.7 Oil Points 
+Japan has limited oil reserves. Japa-
+nese naval units must spend Oil Points 
+to move in the Operational Movement 
+(8.0) and Reaction Phases (9.0), and 
+to defend against Allied submarines 
+during the Merchantmen Phase (5.0). The Japanese 
+player uses Transport Points to receive new Oil 
+Points from Southern Asia (5.1). The Allies, who had 
+no oil shortages during the war, do not use Oil Points.
+3.3.8 Submarine Points
+Both the Japanese and Allied players 
+use Submarine Points representing 
+their submarine fleet strength. Each 
+submarine attack (5.4,11.1) costs one 
+Submarine Point. Each Reinforcement 
+Phase (6.0), the phasing player’s Submarine Points 
+are set at the number indicated by their Reinforce-
+ment Schedule or General Record Track (this is not 
+an accrual, it is a reset: Submarine Points not used 
+before a player’s Reinforcement Phase are lost).
+3.3.9 Replacements Markers
+Replacements 
+Markers 
+allow 
+re-
+duced-strength land units (3.1.3) to be 
+brought up to full strength.
+
+4.0 GENERAL COURSE OF PLAY
+4.1 Preparation for Play
+To start the game you need:
+ First, decide which sides players want to play (Jap-
+anese or Allies).
+ Second, choose which game scenario will be 
+played. Game scenarios can be found in the Sce-
+nario Book.
+ Third, determine which optional rules will be used 
+for this game (16.0).
+ Fourth, setup all units and markers on the Map 
+according to the chosen scenario description.
+The Game Scenario 1 “From the Battle of the Java Sea 
+to Japanese Surrender” is the main game scenario. It 
+is recommended for competitive play and tourna-
+ments (scenario book 2.0).
+4.2 Sequence of Play
+Fire in the Sky is played in successive Game Turns 
+with each Turn consisting of various Phases. Every 
+turn has two identical parts. The Japanese play-
+er takes their part first, working through all their 
+Phases, after which the Allies player takes their 
+part, working through all their Phases, too. After 
+both player parts of the turn have been complet-
+ed, the GAME TURN marker is advanced one box 
+on the Game Turn Track and another Game Turn 
+begins.
+All Phases are identical for both players, with the 
+only exception being the first one:
+ Economic Phase (5.0)
+ Reinforcement Phase (6.0)
+ First (major) Deployment Phase (7.0)
+ Operational Movement Phase (8.0)
+ Reaction Phase (9.0)
+ Air Commitment Phase (10.0)
+ Combat Phase (11.0)
+ Return to Base Phase (12.0)
+ Second (minor) Deployment Phase (13.0)
+ End Phase (14.0).
+4.3 Game End and Winning
+ If the Victory Point total ever reaches 40 (indicated 
+on the General Record Track) or more, the game 
+ends immediately and the Japanese player wins.
+ If the Victory Point total ever reaches 19 (indicat-
+ed on the General Record Track) or less, the game 
+ends immediately and the Allies player wins.
+ If no one has won by the end of Game Turn 16, 
+check the Victory Point total: If it is 20, the game is 
+a draw; otherwise the Japanese player wins.
+3.4 Tactical Battle Aspects
+3.4.1 Battle Board
+ The Battle Board is used to resolve indi-
+vidual battles. At the start of the battle, 
+units are placed in specific holding boxes 
+on the Battle Board: these regulate their 
+behavior and capabilities in combat. At 
+the end of the battle, the surviving units 
+are returned to the map.
+3.4.2 Air Points
+Both the Japanese and Allies players use 
+Air Points during Battles to track their air 
+power involved. Air power depends on 
+air units and aircraft carriers involved in 
+the Battle. Use the markers provided to 
+track Air Points on the Battle Board (11.2.2.1). Air Points 
+are used to win Air Superiority during the Battle and to 
+air strike units in Task Forces or in a Base.
+3.4.3 Sea Control
+Sea Control is established during the 
+Battle by committing naval units and 
+winning the surface combat (11.2.3). Only 
+one player may establish Sea Control in 
+the hex, or there is no Sea Control.
+Sea Control is needed for land units to perform am-
+phibious landing into a non-friendly Base. Sea Control 
+also determines if land units are supplied (3.3.4) in the 
+hex during land combat (11.2.5).
+3.5 Other Markers
+In addition to units, there are also var-
+ious markers used to track resources 
+and statuses. Markers are placed on the 
+Map, the Game Turn Track, The Gener-
+al Record Track, the Battle Board, and 
+represent various things throughout play.
+ The Game Turn Track markers:
+ • JAPANESE / ALLIED TURN marker (4.2)
+ The General Record Track markers:
+ • VICTORY PTS marker (4.3.1)
+ • MERCHANTMEN POLL marker (3.3.5)
+ • OIL PTS marker (3.3.7)
+ • three TRANSPORT PTS markers (3.3.6) for Japan, 
+US and Britain
+ • two SUB PTS markers (3.3.8) for Japan and US
+ The Battle Board markers:
+ • two AIR POINTS / AIR POINTS +10 markers for 
+Japan and Allies (3.4.2)
+ • two AIR SUPERIORITY / AIR SUPREMACY mark-
+ers for Japan and Allies
+ The Map markers:
+ • BATTLE marker
+ • TASK FORCES and FLEETS markers.
+
+can be transferred straight to the Convoy Escort Box 
+in this fashion. DD units transferred from the Box 
+must be placed in a friendly Home Base.
+5.3 Anti-Submarine Warfare (ASW) Segment
+Knowing how many Allied SUB Points are used, the 
+Japanese player may roll as many dice as they wish 
+up to the number of DD units in the Convoy Escort 
+box. Each die roll costs 1 Oil Point. Refer to the Com-
+bat Table: each hit reduces the current available Al-
+lied Submarine Points by 1.
+5.4 Submarine Segment
+The Allies player may roll as many dice as they wish. 
+Each die roll costs one Submarine Point. Refer to the 
+Combat Table for modifiers and results: each hit re-
+duces the Japanese Merchantmen Pool and current-
+ly available Transport Points by 2.
+6.0 REINFORCEMENT PHASE
+The phasing player conducts Segments in the fol-
+lowing order:
+6.1 Units Reinforcement Segment
+The phasing player consults their Reinforcement 
+Schedule. All units scheduled to arrive, as well as 
+units that should re-enter play this turn as rein-
+forcements are placed on a Home Base (3.3.3) of the 
+appropriate nationality.
+If both Japanese Home Bases are occupied by Al-
+lied units, the Japanese player cannot gain any re-
+inforcements during their turn. They are placed on 
+the Game Turn Track to be gained as reinforcements 
+next turn (assuming either Home Base is liberated).
+The components provided with the game represent 
+the absolute limits. If there is no available unit of 
+a type scheduled to arrive, that unit is forfeited.
+6.1.1 Japanese Carriers and Naval Aviation
+Any Japanese carriers re-en-
+tering play (due to combat 
+damage) go into the Carriers 
+without Planes box and cannot leave it until their air 
+group has been replenished.
+Some arriving Japanese air units may be used ei-
+ther as regular units or to replenish carriers (sce-
+nario book 2.4). When receiving such units, they 
+may be either deployed as normal, or played in the 
+Naval Aviation box. If placed as normal, they may 
+not later be placed in the box. In future Reinforce-
+ment phases, the Japanese player may remove air 
+units from this box and place them as normal rein-
+forcements.
+Scenarios may have own Scenario Victory Condi-
+tions (see the scenario descriptions for details).
+4.3.1 Victory Points
+During the End Phase of each turn, Japan will gain 
+Victory Points (VPs) when they capture a base, and 
+lose VPs when Allies capture one. “Capture” refers to 
+taking control of a neutral or enemy-controlled Base.
+Bases are worth the following Victory Points:
+ Pearl Harbor, Kure, Yokosuka → 5 VP
+ Singapore, Manila, Calcutta, Bombay, Brisbane → 3 VP
+ All other Bases → 1 VP.
+The following also adjusts VPs:
+ During the Japanese player’s End Phase (not the 
+Allies), if a Supply Line cannot be traced from the 
+US Home Base to Brisbane, Japan gains 2 VPs.
+ At the start of Game Turn 4, if the Japanese play-
+er has not captured Manila, they lose 1 VP. Also, if 
+they have not captured Singapore, they lose 1 VP. 
+These checks and deductions will occur at the start 
+of every turn beginning with Turn 4. If the Japanese 
+manages to capture either Manila or Singapore 
+during the game, that individual Base is no longer 
+checked and points are no longer deducted for the 
+rest of the game (even if the Allies recapture).
+5.0 ECONOMIC PHASE
+If the Japanese player is the phasing player they may 
+perform one or both of the following actions with 
+any remaining Japanese TPs:
+ Transport oil to the Japanese mainland (5.1)
+ Transfer DD units to/from the Convoy Escort box (5.2).
+If the Allied player is the phasing player and wants to 
+use their remaining SUB points to attack Japanese 
+merchant lines this phase is broken down into two 
+sequential segments, performed in this order:
+ Anti-Submarine Warfare Segment (5.3)
+ Submarine Segment (5.4).
+5.1 Oil Transport Segment
+The Japanese player may transport up to 8 Oil Points 
+from each Resource Hex (3.2.7) they control. This re-
+quires a Supply Line (3.3.4) to the Resource Hex. The 
+maximum Oil Points that can be transferred in to-
+tal cannot exceed half the Japanese player’s current 
+Merchantmen Pool. Each Oil Point moved costs 1 TP.
+5.2 DD Units Transfer Segment
+The Japanese player can transfer any number of DD 
+units to or from the Convoy Escort box. Each DD 
+unit transferred costs 2 TPs. Any DD unit on the map 
+
+6.3 Replacements Segment
+The phasing player may receive as many Replace-
+ments markers (3.3.9) as they wish (there is no com-
+ponent limitation; if you run out, make up more). Re-
+placements markers are placed on a friendly Home 
+Base (3.3.3) of the appropriate nationality. Choose 
+the value of each marker by setting the appropri-
+ate side up. This value also represents the marker’s 
+Transport rating.
+6.4 Off-Map Box Movement Segment
+The Allies player, during this phase on their part of 
+a turn, may move as many units as they wish from 
+any off-map box to the Base it is connected to: 
+ The West Coast USA off-map box connects to 
+Pearl Harbor
+ The Indian Ocean Ports off-map box connects to 
+Bombay.
+This movement does not cost TPs. If the connecting 
+Base is not under Allied control, or if there are Japa-
+nese units in the hex, this movement is not allowed.
+7.0 FIRST (MAJOR) 
+DEPLOYMENT PHASE
+Twice per turn (once now and once after the Return 
+to Base Phase), the phasing player redeploys their 
+units. There are two types of deployment available:
+ Sea Deployment: Units can move one or more 
+hexes by spending TPs 
+ One-hex Deployment: Units can move one hex 
+without spending TPs. 
+During the First Deployment Phase, each unit can 
+only use one of the above types of Deployment.
+7.1 Sea Deployment
+ Any unit may use this type of deployment.
+ Units must start the Deployment Phase in a friend-
+ly base.
+ Units must move to any other friendly base within 
+4 hexes. No enemy units may be in this hex.
+ Units may not cross impassable hexsides (3.2.2).
+ Units may move into an enemy Air ZOC (3.3.2), but 
+must stop there. If starting in an enemy Air ZOC, 
+they may leave that hex, but must stop if they en-
+ter another hex under an enemy Air ZOC (even if 
+the Air ZOC is generated by the same enemy air 
+unit).
+Each unit deploying in this fashion must spend TPs 
+from its nation equal to its Transport rating.
+Any air units in the Naval Aviation box may be used 
+to replenish a  carrier’s air group, although this is 
+never mandatory. 
+Designer Note: This is useful, for example, if 
+the Japanese player does not wish to redeploy 
+a weaker carrier and instead save the air group 
+to rapidly deploy a better carrier should it en-
+ter the box.
+Carriers require one Air Strength of air units for 
+each Air Strength the carrier group has. Partial re-
+plenishment is not allowed: all air units must be pro-
+vided at once. Once replenished during this phase, 
+the carrier arrives as a reinforcement as normal and 
+is placed at the Home Base that matched the half of 
+the box they were in.
+The Carriers without Planes box is divid-
+ed into two spaces: Kure and Yokosuka. 
+Units placed in the box are placed on one 
+side. For all intents and purposes, units 
+in each side of the box exist in those re-
+spective locations and can be attacked during com-
+bat (and are added to the battle board during com-
+bat as normal).
+Air units that enter combat while in these boxes 
+choose one of the following two options: 
+ Fight normally following regular rules, but they 
+immediately become regular air units and can no 
+longer replenish a carrier.
+ They can remain in the box and give no benefit at 
+all. They provide no Air Points for the Japanese player 
+and can still be targeted during combat. In this case, 
+if they survive combat, they may remain in the box 
+and potentially replenish carriers in the future.
+6.2 Submarine and Transport 
+Reinforcements Segment
+ Reset the Phasing player’s Submarine Points to the 
+level indicated on their Reinforcement Schedule 
+or the General Record Track. 
+ On their turn, the Japanese player resets their TPs 
+equal to their current Merchantmen Pool value.
+ On their turn, The Allies player resets the British 
+TPs to 12, and the US TPs to the number indicated 
+on their Reinforcement Schedule or the General 
+Record Track.
+Designer Note: Remember that unused TPs and 
+Submarine Points are not carried over through 
+consecutive turns. The values are ‘reset’ during 
+this phase and any excess the phasing player 
+has is lost.
+
+ Each unit using Operational Movement must 
+spend Oil or TPs.
+ Units may move only as a part of a Task Force.
+8.1 Task Forces
+When a unit moves through Operational Movement 
+(including as a Reaction, see below), it does so as part of 
+a Task Force (TF). One or more Task Forces are formed 
+from the participating units at the start of the Oper-
+ational 
+from a hex. A Task 
+Force may contain 
+a maximum for four 
+naval units and one 
+air or one land unit. 
+A single unit (naval, 
+air or land) under-
+taking Operational 
+Movement alone is 
+still considered to 
+be a Task Force.
+If there is more than 
+one unit in the Task 
+Force, they all must start at the same Base and move 
+to the same hex together. They can only move as far as 
+their slowest unit.
+Task Forces may only defend themselves against air 
+and submarine attacks with their own units.
+Designer Note: This means that a  Task Force 
+moving with no DDs is a good target for enemy 
+submarines.
+8.2 Land Units
+Land units using Operational Movement must 
+spend TPs equal to their Transport rating multi-
+plied by 2 (see Transport Cost Chart). These units 
+are being transported on ships, and thus cannot 
+perform amphibious landings and fight until the 
+Land Combat Step (11.2.5.1). Until then, the land 
+units are considered to still be on transports at sea.
+Designer Note: Amphibious landings perform 
+at the begining of Land Combat Step are al-
+lowed only within 2 hexes of any friendly Base.
+8.3 Air Units
+Air units using Operational Movement must spend 
+TPs equal to their Transport rating multiplied by 
+2 (see Transport Cost Chart). These units are con-
+sidered to be on ships, and thus are not considered 
+flying and do not exert an Air ZOC. They can only 
+disembark at a Base if it is friendly or if it has been 
+occupied this turn (11.2.6).
+Sea Deployment (up to 4 hexes)
+TP cost = Transport rating
+Example: An Army land unit using Sea Deployment 
+has Transport rating 8, so the total cost is 8 TPs.
+Units may deploy as many times as a player likes as long 
+as the cost is paid each time and they are not interrupt-
+ed by an enemy Air ZOC. A unit entering an enemy Air 
+ZOC cannot deploy again for the rest of that Phase.
+7.2 One-hex Deployment
+Units using this type of deployment may move only 
+one hex during this phase. This costs no TPs and is 
+not affected by enemy Air ZOCs or land units. 
+ Naval units can only use One-hex Deployment to 
+go to any adjacent friendly Base, unless they would 
+cross an impassable hexside (3.2.2).
+ Air units can only use One-hex Deployment to go 
+to any adjacent friendly Base.
+ Land units can only move along land connections 
+with One-hex Deployment. They may enter a land 
+hex occupied by enemy units. If deploying from an 
+enemy occupied hex, the destination cannot be an-
+other enemy occupied hex or enemy controlled Base.
+7.3 Stacking Limits
+At the end of each Deployment Phase, stacking lim-
+its must be checked and obeyed (3.3.1).
+8.0 OPERATIONAL 
+MOVEMENT PHASE
+The phasing player may move their units with the 
+following restrictions:
+ Naval units can move up to their Movement Allow-
+ance. Air and land units can move up to 4 hexes.
+ Units may not cross an impassable hexside (3.2.2).
+ If a unit enters an enemy Air ZOC (3.3.2), it can 
+either stop or move one more hex. If starting in an 
+enemy Air ZOC, it may move one hex only (leaving 
+the hex it started in), even if the destination is not 
+in an enemy Air ZOC.
+Task Force 
+(3 naval 
+units 
+together)
+Operational 
+
+by positioning the Air unit counter against the edge 
+of the hex (or the middle if it is committed to its own 
+hex). The phasing player can commit air units how-
+ever they want. This is unaffected by the presence 
+of enemy air units, aircraft carriers or Air ZOCs. 
+Committing an air unit to an adjacent space does 
+not change the hex it occupies (this is important for 
+certain modifiers and for Air ZOCs).
+Commiting 
+Air Unit
+Commited 
+hex
+The non-phasing player’s air units are considered 
+committed to the hexes they occupy. During combat, 
+all air units committed to their own hex add their full 
+strength. Air units committed to an adjacent hex only 
+add half their total strength (rounded down).
+11.0 COMBAT PHASE
+The Combat Phase is broken down into two different 
+kinds of Segments: the Submarine Attack Segment, 
+in which both players can attack enemy Task Forces 
+with submarines, followed by the Battle Segments.
+11.1 Submarine Attack Segment
+Resolve this Segment in the order given below.
+11.1.1 Target Determination Step
+Both players can attack any enemy naval, land or air 
+units that are part of a Task Force. Each attack costs 
+1 Submarine Point, and each Task Force can only be 
+targeted once during this Segment.
+First, the phasing player designates all the Task Forc-
+es they will attack, spending 1 Submarine Point per 
+attack. Then the non-phasing player does the same. 
+After all targets have been determined, resolve the 
+submarine attacks in any order by following the next 
+two steps.
+11.1.2 Anti-Submarine Warfare (ASW) Step
+If an attacked Task Force includes any DD units, 
+they may perform an ASW counterattack. The own-
+er of the Task Force rolls dice equal to the number of 
+DD units and refers to the Combat Table for any ap-
+plicable modifiers. If any hits occur, the Submarine 
+attack fails and does not proceed to the Submarine 
+Attack Step below.
+8.4 Naval Units
+Japanese naval units using Operational Movement 
+must spend Oil Points. When a unit:
+ moves up to 4 hexes → it must spend Oil Points 
+equal to its Transport rating
+ moves more than 4 hexes → it must spend Oil 
+Points equal to its Transport rating multiplied by 
+1.5 (see Transport Cost Chart); in case of ½ frac-
+tions, round up for every moving Task Force not 
+per individual unit.
+Allied naval units may use Operational Movement 
+for no cost.
+9.0 REACTION PHASE
+During this phase, the non-phasing player’s naval 
+units may move with the following restrictions:
+ They may move a number of hexes up to half their 
+Movement Allowance (rounded up).
+ They may not cross impassable hexsides (3.2.2).
+ They must end their move in a hex with an enemy 
+unit of any type, even if the reacting units would 
+be unable to attack the enemy.
+ If they enter an enemy Air ZOC (3.3.2), they must 
+either stop moving or move one additional hex (if 
+moving one extra hex, the destination must contain 
+an enemy unit). If starting in an enemy Air ZOC, 
+they may move one hex only (leaving the hex they 
+started in), even if the destination is not in an ene-
+my Air ZOC. Naval units may react (i.e. leave port) 
+but remain in the same hex, enabling them to di-
+rectly engage in the subsequent Battle in that hex.
+ Units in off-map boxes cannot react.
+ Reacting units move as a Task Force (8.1).
+Naval units can react out of a hex containing enemy 
+Task Forces or units. The only thing that can affect 
+a  reaction movement is an enemy Air ZOC. Naval 
+units may react (i.e. leave a port) but remain in the 
+same hex, enabling them to directly engage in the 
+subsequent Battle in that hex.
+When Japanese naval units react, they must use Oil 
+Points as if making Operational Movement (8.4). Al-
+lied naval units react for no cost.
+10.0 AIR COMMITMENT PHASE
+The phasing player must declare which hexes their 
+air units will commit to in the upcoming Combat 
+Phase (11.0). Committed air units can attack enemy 
+naval and air units or support land combat (they 
+cannot attack enemy land units on their own).
+Air units can be committed to the hex they are in 
+or an adjacent hex. Units in the same hex may split 
+where they are committed to. Indicate commitment 
+
+ • Land units in these boxes cannot perform am-
+phibious landings, and air units cannot disem-
+bark during the Administrative Step (11.2.6).
+Designer Note: Thus, it is not generally a good 
+idea to place land or air units in Task Forces 
+with carriers. Also, this means that the only 
+way to sink a carrier unit is through submarine 
+attacks and air strikes.
+ Bombardment Task Force Box
+ • Any Task Force that was not placed in a Carri-
+er Task Force box is placed in this box instead. 
+The naval units of a Task Force that are placed in 
+these boxes can either perform surface combat 
+(to establish Sea Control of the hex) or provide 
+ground support. Land units in these boxes may 
+perform Amphibious Landings (11.2.5.1), and air 
+units in these boxes may disembark during the 
+Administrative Step (11.2.6).
+Designer Note: Naval units have no way of 
+hurting land units on their own; they can only 
+support friendly land units.
+Non Task Force units placement:
+ Ship at Anchor Box
+ • Naval units in the Battle that are not part of a Task 
+Force are placed in the Ships at Anchor box.
+ Air at Base Box
+ • Air units that are not part of a  Task Force are 
+placed in the Air at Base box.
+ Long Range Air Box
+ • Air units from adjacent hexes (10.0) are placed in 
+the Long Range Air box and cannot be targeted 
+by enemy attacks.
+ Land at Base Box
+ • Land units that are not part of a Task Force are 
+placed in the Land at Base box.
+11.2.2 Air Combat Step
+11.2.2.1 Calculate Air Points
+Each player calculates their Air Points total and re-
+cords it on the Air Point Display of the Battle Board:
+ Aircraft Carrier units in the Carrier Task Force 
+boxes provide their Air Strength as Air Points.
+ Half (rounded down) of the Air Strength of air units 
+in the Long Range Air box to Air Points.
+ All Air Strength of air units in the Air at Base box 
+are counted as Air Points on a  1-to-1 basis un-
+less they were committed to an adjacent hex, 
+in which case they provide no Air Points in the 
+current battle (but can still be targeted by an Air 
+Strike).
+11.1.3 Submarine Torpedo Attack Step
+If no ASW hit occurs, the Submarine may attack any 
+one unit in the Task Force. Roll a die and refer to the 
+Combat Table for any applicable modifiers. If a naval 
+or air unit is hit, apply Damage Resolution (11.3). If 
+a land unit is hit, place 1 HIT marker on it as a re-
+minder (its damage will be resolved at the end of the 
+Air Combat Step, 11.2.2).
+11.2 Battle Segments
+Each hex containing either opposing forces, or 
+phasing player forces only that can perform am-
+phibious landings, results in a Battle. The phasing 
+player determines the order in which these Battles 
+are resolved. Do so in the following order, skipping 
+any steps that are not applicable (usually due to ab-
+sence of appropriate units):
+ Battle Board Preparation Step 
+ Air Combat Step 
+ • Calculate Air Points
+ • Air-to-Air Combat
+ • Target Determination
+ • Air Strikes
+ Surface Combat Step 
+ • Surface Combat Rounds:
+ 
+– Combat Groups Forming
+ 
+– Withdrawal Declaration
+ 
+– Fire Combat
+ 
+– End of the Round
+ Sea Control Step
+ Land Combat Step
+ • Amphibious Landings
+ • Replacements
+ • Ground Support
+ • Supply Check
+ • Land Combat 
+ Administrative Step
+11.2.1 Battle Board Preparation Step
+For every Battle hex, both players take their units off 
+the map and place them on the Battle Board. Place 
+the BATTLE marker in the hex as a reminder.
+Each Task Force must be set up in either the Carrier 
+Task Force or Bombardment Task Force box. A Task 
+Force may not be split between the boxes, and re-
+grouping or rearranging is not allowed at this time.
+ Carrier Task Force Box
+ • A Task Force with carriers (CVs or CVLs) must be 
+placed in this box. Any carrier in the Task Force 
+may use its Air Strength to perform air-to-air 
+combat and air strikes.
+ • Naval units in these boxes cannot be used in any 
+upcoming surface combat nor provide ground 
+support.
+
+ • After targets are assigned, roll a die for each at-
+tacking Air Point, referring to the Combat Table 
+for any applicable modifiers. Resolve any damage 
+as per Damage Resolution (11.3), including dam-
+age for any land units that were damaged earlier 
+in Submarine attacks (11.1).
+ • Remove Air Points from the display as they attack. 
+Alternatively, any air strike targeting the enemy Base 
+can be forfeited to provide ground support for an 
+upcoming land combat (announced now, but re-
+solved late). Multiple Air Points may provide ground 
+support. At the end of this step, each player’s Air 
+Point counters should reflect only the number of Air 
+Points that have been designated for ground sup-
+port (11.2.5.3), the remaining having been spent.
+11.2.3 Surface Combat Step
+The player without Air Superiority can take any of 
+their naval units out of the Bombardment Task Force 
+box (these units may come from multiple Task Forc-
+es) and put them into the Sea Control box on the 
+Battle Board. After the choices have been made, the 
+player with Air Superiority does the same. Only the 
+naval units in the Sea Control boxes will participate 
+in this Step, which will determine Sea Control for 
+the remainder of the Battle.
+Three 
+Combat
+Groups
+Surface Combat Step consists of rounds that repeat 
+until one or both players withdraw from combat or 
+have all their naval units destroyed or damaged.
+Resolve each Surface Combat Round in this order:
+ [a] Combat Groups Forming
+ • The player without Air Superiority lines up all 
+the naval units in a row. The player with Air Su-
+periority then pairs their naval units with the 
+opponent’s units so each unit is matched. Then, 
+11.2.2.2 Air-to-Air Combat 
+Both players roll as many dice as they have Air Points. 
+Refer to the Combat Table for any applicable modi-
+fiers. Each hit reduces the opponent’s Air Points by 
+one (results applied simultaneously; note, these are 
+Air Points, not units, that are reduced).
+After applying hits, compare players’ 
+remaining Air Point totals. The player 
+with more Air Points gains Air Superi-
+ority during this Battle (mark this in 
+their Air Status box). If the totals are the 
+same, including if both totals are at zero, each player 
+rolls a die and the higher roll receives Air Superiority.
+If only one player has any Air Points 
+remaining (the other player has none), 
+that player gains Air Supremacy in-
+stead (mark this in their Air Status 
+box). Air Supremacy is the same as Air 
+Superiority, plus it gives additional modifiers in air 
+strikes and ground support.
+11.2.2.3 Target Determination
+Each remaining Air Point (after the Air-to-Air Com-
+bat) may attack the enemy Base or any enemy Task 
+Force on the Battle Board. The player without Air 
+Superiority announces their targets first. Multiple 
+Air Points may attack the same target, and all such 
+Air Points will attack together.
+11.2.2.4 Air Strikes
+After targets are determined, resolve each attack for 
+each target as follows:
+ [a] Anti-Aircraft Fire
+ • The player being attacked determines their An-
+ti-Aircraft strength and rolls that many dice:
+ 
+– If the target is a Task Force, use the com-
+bined Anti-Aircraft ratings of all the units 
+in the targeted Task Force, rounding down 
+any fraction after totaling.
+ 
+– If the target is a Base, the Anti-Aircraft rat-
+ing is the Base’s printed Air Capacity divid-
+ed by 2 (rounded down). Do not add any 
+ratings from units.
+ • Refer to the Combat Table for any applicable mod-
+ifiers. Each Hit reduces the Air Points attacking the 
+current target by 1. Excess hits are ignored.
+ [b] Air Bomb and Torpedo Strike
+ • Each Air Point that survived Anti-Aircraft Fire 
+may now do one of the following (attacking play-
+er’s choice for each Air Point):
+ 
+– If the target was a Task Force, attack any 
+unit in that Task Force.
+ 
+– If the target was a Base, attack any air unit 
+in the Air at Base box or any naval unit in 
+the Ships at Anchor box.
+ • Multiple Air Points may strike the same enemy unit.
+
+11.2.5 Land Combat Step
+Resolve Land Combat in the following order:
+11.2.5.1 Amphibious Landings
+Land units may perform amphibious landings only in 
+hexes within 2 hexes of any friendly Base. They must 
+attempt to land if the above criteria is met. The Allied 
+off-map Home Bases are considered one hex away 
+from each respective Entry Hex when attempting to 
+satisfy this requirement. Amphibious Landings, even 
+at neutral Bases with no enemy units, can only occur 
+if the phasing player has Sea Control.
+Task Force 
+with 
+Land Unit
+(no more than 4 
+hexes away from 
+starting Base)
+(no more than 
+2 hexes away from 
+any friendly 
+controlled Base)
+Any land units and replacements markers in the Bom-
+bardment Task Force boxes may now move into their 
+friendly Land at Base box if the player has Sea Control. 
+Stacking Limits must now be applied to the box (3.3.1). 
+If a unit would exceed the limit, it cannot land and will 
+remain in the Bombardment Task Force box. Land units 
+in the Carrier Task Force box cannot land. Land Units 
+that took damage while at sea during this Battle (from 
+a Submarine attack or an Air Strike) cannot land.
+11.2.5.2 Replacements
+If a  Replacements marker lands in a  hex where 
+there is a reduced-strength friendly land unit with 
+strength equal to or less than the Replacement 
+marker’s value, the unit may be augmented back to 
+full strength (3.3.9). This may also occur if the unit 
+is adjacent to the Replacement Marker and there is 
+a land connection between the two hexes.
+11.2.5.3 Ground Support
+Both players total their ground support by adding up 
+their remaining Air Points and the Firepower of any 
+naval units remaining in their Bombardment Task 
+Force box. Each player rolls a number of dice equal to 
+their total, referring to the Combat Table for any ap-
+plicable modifiers. Any hits rolled will be added to the 
+hits rolled this Land Combat (11.2.5.5). This number 
+of ground support hits cannot exceed a player’s total 
+Combat Strength in their respective Land at Base box.
+if either player has any unmatched naval units, 
+they may assign them to enemy units as they 
+see fit.
+ 
+ [b] Withdrawal Declaration
+ • The player without Air Superiority may declare 
+Withdrawal. Then his opponent may declare 
+a  Withdrawal. If either player withdraws, their 
+naval units slated for Surface Combat are con-
+sidered to be ‘In Withdrawal’.
+ • If at least one player Withdraws, resolve the Fire 
+step (below) as usual, with the following two ad-
+justments:
+ 
+– Units in Withdrawal may not fire.
+ 
+– Units not In Withdrawal may only fire at 
+units that have a lower Movement Allow-
+ance than their own.
+ • Withdrawn units are placed on the Game Turn 
+Track to arrive as reinforcements in the next 
+friendly Reinforcement Phase (6.0).
+ [c] Fire Combat
+ • Each naval unit fires once at its matched ene-
+my unit. If a unit has more than one enemy unit 
+matched against it, it may choose any of them. All 
+attacks are considered to occur simultaneously.
+ • For each firing naval unit, refer to the Surface 
+Combat Table to cross-reference the attacker’s 
+Firepower and the target’s Defense. This will give 
+a To Hit number: roll a single die, and place a HIT 
+marker on the target if you meet or exceed the 
+To Hit number. Once all firing is complete, every 
+unit must roll a Damage Check for each hit scored 
+(11.3). A lone ½ hit does not cause a damage check.
+ [d] End of the Round
+ • If either player has no remaining units in Surface 
+Combat, either because they were destroyed, 
+damaged or withdrawn, Surface Combat is over. 
+Otherwise, remove any ½ hit markers and begin 
+a new Surface Combat round (11.2.3.a).
+11.2.4 Sea Control Step
+After the Surface Combat Step, the player with na-
+val units remaining in their Sea Control box has Sea 
+Control established in the hex. If neither side com-
+mitted naval units to surface combat, or if all naval 
+units were destroyed, or if both players withdrew 
+from combat, neither player has Sea Control.
+The player with Sea Control places all opposing naval 
+units still in their Bombardment Task Force box onto 
+the Game Turn Track to arrive as reinforcements in 
+their next friendly Reinforcement Phase (6.0).
+The player with Sea Control will have their land units 
+supplied during any upcoming land combat, while 
+the other player’s land units will be out of supply. This 
+overrides the Supply Line rules for this combat.
+
+ • Air units that do not fall into the above categories 
+(like a Carrier Task Force air units) are placed on 
+the Game Turn Track to arrive as reinforcements in 
+their next friendly Reinforcement Phase (6.0).
+ Land Units
+ • Land units in the Land at Base box must be 
+placed onto the Battle hex.
+ • Land units that couldn’t land during Amphibious 
+Landings are placed on the Game Turn Track to 
+arrive as reinforcements in their next friendly 
+Reinforcement Phase (6.0).
+This is the end of a  Battle. Proceed with the next 
+Battle, starting again at the Battle Board Preparation 
+Step (rule 11.2.1).
+11.3 Damage Resolution
+11.3.1 Naval Unit Damage
+Any naval unit hit by the enemy must roll a number 
+of Damage Checks equal to the number of hits it suf-
+fered. Each Damage Check is resolved by rolling two 
+dice and adding any applicable modifiers from the 
+Naval Damage Check Table. If the result is equal to or 
+greater than the unit’s Defense rating, it is sunk.
+If a naval unit has more than one hit then a damaged 
+unit still rolls one Damage Check per hit sustained 
+and adds 1 to the die roll for each hit over one.
+3 HITs
+Example: A Japanese BB suffered 3 hits. Three Dam-
+age Checks are needed, each with a +2 modifier.
+Remove any sunk naval units from the game perma-
+nently.
+If a unit was hit but not sunk after all Damage Checks 
+have been rolled, it is damaged. Place all damaged 
+units on the Game Turn Track. Place them a num-
+ber of friendly Reinforcement Phases later equal to 
+twice the number of hits the unit received.
+Example: A Japanese BB suffered 3 hits during Allied 
+player’s part of Game Turn 3 but wasn’t sunk. It is 
+placed on the Turn 9’ space of the Game Turn Track 
+(6 friendly Reinforcement Phases away).
+11.3.2 Land Unit/Replacements at Sea Damage 
+When a land unit receives (in one player part of a turn) 
+hits from Submarine attacks and/or Air strikes equal 
+to its reduced Combat Strength (regardless of the 
+11.2.5.4 Supply Check
+Each player checks their land unit Supply status:
+ If a player has Sea Control (11.2.4), their units are 
+automatically in supply, and their opponent’s are 
+out of supply.
+ If neither player has Sea Control, each player 
+checks Supply Lines to determine if their units are 
+in supply (3.3.4).
+ Land units in a friendly Home Base hex (3.3.3) are 
+always in supply.
+Out of supply land units will incur a negative modi-
+fier in the upcoming combat.
+11.2.5.5 Land Combat
+Land combat will only occur if the phasing play-
+er has at least one full Strength land unit i.e, with 
+a non-bracketed Combat Strength rating (3.1.3).
+If combat occurs, both players roll as many dice as 
+they have Combat Strength, referring to the Combat 
+Table for any applicable modifiers. They each to-
+tal their land combat hits, which is hits they rolled 
+plus hits from their Ground Support (11.2.5.3). The 
+non-phasing player also adds (counts as hits on the 
+opposing land units) the total air strength of friendly 
+air units currently in their Air at Base box.
+Apply land unit damage (11.3).
+11.2.6 Administrative Step
+All surviving units are placed back on the map in the 
+Battle hex as per the below rules. In cases where 
+both sides still have units, those of the player con-
+trolling the Base are placed under those of the 
+non-controlling player.
+If a land unit is in an enemy or neu-
+tral Base without enemy land units, 
+place an Occupied Base marker in the 
+hex (on top of any enemy naval or air 
+units). This indicates that friendly air 
+units can disembark at this base. It does not yet indi-
+cate a change in control of the base (yet). Any enemy 
+naval or air units returned to the hex this Step will 
+be placed under this marker.
+Placing back surviving unit to the map:
+ Naval Units
+ • All naval units still on the Battle Board (regard-
+less of the box) are placed in the Battle hex.
+ Air Units
+ • Air units in the Air at Base box are placed in the 
+Battle hex.
+ • Air units in the Long Range Air box are placed 
+on the map in the hex they were in before the 
+Battle.
+ • Air units in the Bombardment Task Force box can 
+disembark into the Battle hex only if whose side 
+has Sea Control and the Base is friendly-con-
+trolled or contains an Occupied Base marker.
+
+ If the phasing player’s total is greater, then all the 
+non-phasing player’s units are affected as such: 
+air units lose one Strength, full-strength land 
+units are damaged (flip over the counter), and 
+reduced-strength land units are eliminated.
+ If the phasing player’s total is greater than the 
+non-phasing player’s total PLUS the non-Phas-
+ing Player’s Combat Strength total, then all the 
+non-phasing player’s units are eliminated.
+Eliminated land units are placed on the Game Turn 
+Track, two friendly Reinforcements Phases in the fu-
+ture (exception: a Dutch ABDA unit is eliminated, 15.4).
+12.0 RETURN TO BASE PHASE
+12.1 Naval Units
+Naval units that moved during the Operational 
+Movement or Reaction Phases (and thus should be 
+on their operational side) are placed in their na-
+tion’s Home Base (on the deployment side). The 
+Japanese player chooses which Base. The British 
+player sends them to Singapore, unless it has ever 
+been occupied by the Japanese (see 15.5 for this 
+special exception).
+12.2 Base Control Changes
+Units that are under an Occupied Base marker 
+(11.2.6) are eliminated: the naval units are considered 
+sunk (11.3) and the air units are removed from the 
+map. These occupied bases become friendly to the 
+occupying side and then the marker is removed.
+12.3 Stacking Limits
+Apply stacking limits (3.3.1).
+13.0 SECOND (MINOR) 
+DEPLOYMENT PHASE
+The phasing player can again redeploy their units 
+during this part of a turn.
+All rules for the First (major) Deployment Phase (7.0) 
+apply with the following two exceptions:
+ Any land or air unit that used Operational Move-
+ment (8.0) may not deploy again.
+ One-hex Deployment is not allowed during the 
+Second (minor) Deployment Phase.
+14.0 END PHASE
+During the End Phase, the following occurs:
+ Remove all Replacements markers from the map.
+current unit status), it is damaged. A damaged full-
+strength unit is flipped to its reduced-strength side, 
+while a reduced-strength unit is eliminated. A full-
+strength unit can be eliminated outright if it takes 
+hits equal to its full combat strength. Eliminated land 
+units are placed on the Game Turn Track two friendly 
+Reinforcement Phases later.
+Each hit on a Japanese land unit at sea also reduc-
+es the Japanese Merchantmen Pool (not TPs) by 2, 
+even if the unit was not damaged. Note that the 
+Merchantmen Pool reduction cannot exceed the hit 
+unit’s Combat Strength multiplied by 2.
+3 HITs
+Example: A  Japanese land unit with full Combat 
+Strength of 2 (and with reduced strength of 1) suffers 
+a total of three hits from Submarine and Air Strikes 
+during the Allies player’s turn on Turn 2. It is elimi-
+nated and is placed on the Game Turn Track on Turn 
+4. The Japanese Merchantmen Pool is reduced by 4.
+Any remaining hits, too few to cause damage, are 
+removed (and have no effect on any upcoming land 
+combat).
+Replacements markers are eliminated if they are 
+damaged once (i.e. the number of hits is equal or 
+greater than a half of its Combat Strength). When 
+eliminated, remove the marker from the board.
+Designer Note: This is a new rule. In the previous 
+edition replacement markers were only removed 
+when taking hits equel to their Combat Strength.
+11.3.3 Air Unit at Sea Damage
+Each hit scored on an air unit in a Task Force (from Sub-
+marine or Air Strikes) reduces the air unit’s Strength by 
+one. Each hit on a Japanese air unit also reduces the 
+Japanese Merchantmen Pool (not current TP) by 2. The 
+amount lost cannot exceed a unit’s initial Air Strength 
+(i.e. before hits have been applied) multiplied by 2.
+11.3.4 Air Unit Damaged on Ground
+Each hit scored by an air strike reduces an air unit 
+by one Strength.
+11.3.5 Land Combat Damage
+Players compare their land combat hit totals:
+ If the non-phasing player’s is equal to or greater 
+than the phasing player’s no losses occur and the 
+land combat has no effect.
+
+15.2 Allied Base Expansion
+Beginning on Game Turn 6, Allied controlled Bases 
+have their Air and Port Capacities multiplied. The 
+factor depends on the game turn:
+ Turns 6-9: → 2x
+ Turns 10-13: → 3x
+ Turns 14-16: → 4x
+These modifiers only apply while the Base is Allied 
+controlled. 
+This does not change the Anti-Aircraft ratings of 
+these Bases (Anti-Air is always half its printed Air 
+Capacity, 11.2.2.4.a).
+15.3 Resource Hex Fueling
+Starting on Game Turn 10 (and from 
+then on), any Japanese naval units 
+that start their Operational Move-
+ment (7.0, 13.0) or Reaction Phase 
+(8.0) in a  Resource hex can move 
+without spending Oil Points.
+15.4 The Netherlands
+The Netherlands receives no TPs for 
+the whole game, and thus cannot use 
+Sea Deployment (7.0,13.0) for its naval 
+units or Operational Movement for its 
+ABDA land unit (9.0).
+The Dutch ABDA land unit is eliminated when dam-
+aged (it has no reduced-strength side), and is always 
+considered out of supply. Dutch naval units must re-
+turn to Surabaya during the Return to Base Phase 
+(12.0). If the Japanese player takes control of Suraba-
+ya, permanently remove all Dutch naval units from 
+the game.
+Surabaya is marked by a pentagon with a Dutch flag 
+inside but it is not a Home Base, so damaged Dutch 
+naval units and eliminated/disbanded land units 
+cannot return there as reinforcements. When any 
+Dutch unit is damaged or eliminated, it is perma-
+nently removed from the game.
+15.5 British Oriental Fleet
+At the start of the game, British 
+naval units return to Singapore 
+during the Return to Base Phase 
+(instead of the Indian Ocean Ports 
+off-map box). If the Japanese ever 
+place an Occupied Base marker in 
+Singapore, then for the rest of the game, British na-
+val units return to their Home Base as usual during 
+the Return to Base Phase (12.0). Singapore is marked 
+by a pentagon with a British flag inside but it is not 
+a Home Base.
+ The phasing player may voluntarily disband any 
+friendly units they have on the map. Disband-
+ed land and naval units are placed on the Game 
+Turn Track to arrive as reinforcements in the next 
+friendly Reinforcements Phase. Disbanded air 
+units are removed from the map and placed to the 
+side (to be potentially reused).
+ Players adjust the Victory Point marker up or down 
+to reflect any VPs earned or lost this turn (4.3.1).
+15.0 SPECIAL RULES
+15.1 Malaya Peninsula Case
+Half Hex
+Half Hex
+The Malaya hex is cut in half by the peninsula, and 
+for sea movement purposes is treated as two half 
+sea hexes separated by an impassable hexside (the 
+thick white line running along the white land con-
+nection). Thus, naval units in the western half hex 
+cannot move directly to the eastern half hex, and 
+vice versa. Also, an enemy Task Force in the eastern 
+half hex does NOT allow a Reaction Movement into 
+the western half hex, and vice versa.
+If a  battle occurs in the hex with opposing Task 
+Forces in the same half hex, normal rules apply.
+Opposing Task Forces NOT in the same half hex can 
+interact in a limited way during a battle for the Mala-
+ya hex, specifically in the Air Combat Step (11.2.2) and 
+Land Combat Step (11.2.5). Normal rules apply, except:
+ During the Target Determination of the Air Com-
+bat Step, Air Points can only choose the Base as 
+target (i.e. to provide ground support), not enemy 
+Task Forces (11.2.2.3).
+ Each player still has to place at least one naval 
+unit in the Sea Control box to have Sea Control 
+in their half hex (and thus to be able to provide 
+ground support with their naval units, or to have 
+land units perform an amphibious landing), but no 
+naval surface combat can occur.
+ Sea Control in a  half hex does not automatical-
+ly put enemy land units in the Malaya hex out of 
+supply.
+ Once the battle is over, any surviving naval units 
+must be placed back in the half hex they occupied 
+before they were brought on the Battle Board.
+
+16.1.2 Man, Those Decks Are Really Hard
+Designer Note: Since British Carriers were tra-
+ditionally built with armored decks, this rule 
+makes them tougher.
+When performing an Air Strike (11.2.2.4) 
+against British CVs (not CVLs), the Jap-
+anese player subtracts one from each 
+die roll.
+16.1.3 Curtis LeMay Wants to Help Win the War
+Designer Note: This rule allows the Allies to 
+launch strategic bombing attacks against the 
+Japanese oil reserves.
+During the Economic Phase (5.0), after all Allied 
+Submarine attacks have been resolved, the Allies 
+player may spend remaining TPs to bomb Japan. To 
+do so, the player must have a friendly Base within 4 
+hexes of a Japanese Home Base, and they must be 
+able to trace a Supply Line from the US Home Base 
+to that friendly Base.
+For each 1 TP spent, the Allies player rolls a die 
+(refer to the Combat Table for applicable modi-
+fiers). Each hit reduces Japanese Oil Points by 1. 
+This is not allowed during the first turn of any 
+Scenario.
+16.1.4 Allies are Just a Little Sneakier
+The Allies player may form their Task 
+Forces in secret and move them with-
+out the Japanese player knowing the 
+composition. 
+When 
+forming 
+Task 
+Forces, keep the units off the map 
+and out of view (use a special standing Task Force/
+Fleet screens), and divide them into piles. Each pile 
+is instead represented by one of the US Task Force 
+or British Fleet markers on the map. The Japanese 
+player is allowed to examine all the units that are 
+available before Task Forces are created.
+At the end of the Reaction Phase (9.0), remove the 
+markers and replace them with the units they rep-
+resent.
+16.1.5 Ranger to the Rescue
+At the end of any Allied Reinforce-
+ment Phase where there are no Allied 
+CV units on the map (Turn Track and 
+CVLs do not count), the Allies player 
+may place the CV (Ranger) in the West 
+Coast USA off-map box. Doing so adds 1 VP to the 
+current total.
+15.6 British European Fleet
+The British naval units scheduled as reinforcements 
+for Game Turn 14 may arrive earlier. If a Japanese 
+land unit enters Calcutta, Bombay or Ceylon, then 
+those British units may instead arrive during the 
+next Allied Reinforcement Phase.
+16.0 OPTIONAL RULES
+16.1 Optional Rules Favoring the Allies
+16.1.1 Gentlemen Do Not Read Other People’s Mail
+During any Allied Reaction Phase, the Allies player 
+may move one (and only one) Task Force by Sea De-
+ployment prior to performing any actual Reaction 
+movement. This is treated as a regular Sea Deploy-
+ment following normal rules (8.0). 
+(1st) Additional Sea 
+for Task Force
+(2nd) Standard 
+Reaction 
+Example: The Japanese have just launched an attack on 
+Midway and the Allies want to counterattack with na-
+val units currently at Noumea, which is out of Reaction 
+range. Having a sufficient number of Transport Points 
+available, the Allies first deploy the Task Force to Ellice 
+and then to Pearl Harbor. Now, as if it had started the 
+Reaction Phase in Pearl Harbor, the Task Force may use 
+a Reaction Movement to move to Midway.
+This special Sea Deployment may only be per-
+formed once per game, it must be the first thing the 
+Allies player does during that Reaction Phase, and 
+it may not be used on the first turn of any Scenario 
+(for example: during Scenario 1 the rule can be used 
+starting from Game Turn 3). 
+
+their Air-to-Air Combat and Air Strike die rolls for the 
+duration of the Battle when any of these naval units are 
+participating. This benefit is lost if either unit is dam-
+aged, even if the air group is replenished (6.1.1).
+Once the Japanese player has received the air unit of 
+2 Air Strength that can be placed as an air unit into 
+the Naval Aviation box on Game Turn 4, the Japanese 
+player can no longer place air units into the Naval 
+Aviation box. Instead, they can now choose to train 
+any air reinforcements as carrier pilots (as below). 
+The Japanese player still starts scenarios with an air 
+unit of 2 Air Strength, trained and ready, in the Naval 
+Aviation box.
+ Training Carrier Pilots
+ • If they choose to, the Japanese player can place 
+any air units received in the Reinforcement 
+Phase on the Game Turn Track, to arrive one 
+year later (turning them 180° to avoid mistaking 
+them for “normal” air units).
+ • Once the year of training is complete, the air units 
+are placed in the Naval Aviation box. They can-
+not be pulled from the Game Turn Track earlier, 
+but are treated as in the normal rules once in the 
+Naval Aviation box (they may replace carrier air 
+groups or be converted to normal air units, 6.1.1).
+ Carrier Reinforcements
+ • All Japanese carrier units entering play as rein-
+forcements must be treated as returning dam-
+aged carriers (placed in the Carriers without 
+Planes box, 6.1.1). The CV (Jun’yō, Hiyō) unit that 
+arrives on Game Turn 4 is an exception: it enters 
+play as normal with a trained air group.
+16.2.4 A Divine Wind
+Beginning on Game Turn 10, if the Victory Point to-
+tal is 27 or less, the Japanese player may declare the 
+use of Kamikaze when a  Battle begins (11.2). Once 
+declared, the following effects activate and remain 
+in force for the rest of the game:
+ The Allies player adds 1 to all their Air-to-Air com-
+bat and Task Force Anti-Aircraft rolls. During the 
+Air Strike Round (11.2.2.4), each Japanese Air Point 
+which survives long enough to attack a Task Force 
+automatically hits (no die roll). The Allies player 
+chooses which unit is hit by each odd-numbered 
+Air Point, and the Japanese player chooses which 
+unit is hit by each even-numbered Air Point. These 
+Japanese air units are not eliminated.
+ At the end of each Japanese Reinforcement Phase, 
+the Japanese player must choose one Japanese air 
+unit to be removed from the map (remember that 
+air units can be freely combined and broken apart 
+when in the same stack, 3.1.2).
+ At the end of each Allied Reinforcement Phase, the 
+Allies player may choose one Japanese air unit to 
+be removed from the map.
+16.1.6 Semper Fi
+ All US Marine land units (with an an-
+chor on their unit symbol) add one to 
+their land combat die rolls during the 
+turn in which they perform an Amphib-
+ious Landing in an enemy-occupied 
+hex which contains no friendly units.
+16.1.7 RADAR and SONAR
+Beginning with Game Turn 10, the Allies player adds 
+1 to all their ASW rolls, Air-to-Air combat rolls and 
+Anti-Aircraft rolls.
+16.1.8 You Need to Unpack Your Things
+Air units disembarking in a  hex with an Occupied 
+Base marker do NOT exert an Air ZOC until the end 
+of the player’s part of the turn. 
+In addition, during the Second (minor) Deployment 
+Phase (13.0) of a player’s part of turn, air units cannot 
+deploy to a Base that was just captured this turn. 
+Designer Note: You can use OCCUPIED BASE 
+markers to mark such Bases, but don’t forget to 
+remove them from the map at the end of the End 
+Phase (14.0).
+ 
+16.2 Optional Rules Favoring the Japanese
+16.2.1 Long Lance Torpedoes
+In the first Surface Combat Round of 
+any Surface Combat Step (11.2.3), any 
+Japanese CA or DD units are consid-
+ered to have 2 Firepower instead of 
+their printed values. These values re-
+vert in subsequent Surface Combat Rounds during 
+the same Surface Combat Step.
+16.2.2 Tokyo Express
+The Japanese player can use the To-
+kyo Express marker during each phase 
+while Task Forces are being formed. 
+It must be placed on one Task Force 
+which is composed of only CA and/or 
+DD units.
+In every Surface Combat Round (11.2.3.c), all naval 
+units in the Tokyo Express Task Force fire first, and 
+damage is assessed before the Allies can fire back.
+16.2.3 Elite and Not-so-Elite Pilots
+The Air Points associated 
+with the CV (Akagi, Kaga) 
+and CV (Hiryū, Sōryū) units 
+are considered elite. The 
+Japanese player adds 1 to all 
+
+ either Carrier TF (BBV acts like CV, i.e. using Air 
+Points but not Firepower) 
+ or Bombardment TF (BBV acts like BB, i.e. using 
+Firepower but not Air Points). 
+It is the Japanese player decision.
+16.2.6 Naval AA Upgrade Program
+Beginning with Game Turn 10, every Japanese naval 
+unit has its Anti-Aircraft Rating increased by ½ (i.e. 
+Japanese DD anti-aircraft rating is ½ + ½ = 1). 
+16.3 Optional Rules Favoring Neither Player
+16.3.1 Mutsu Go Boom
+During each Reinforcement Phase, after a  player 
+places their reinforcing units on the map (6.1 Unit 
+Reinforcement Segment), the phasing player must 
+roll two dice: if they roll a total of 2, apply the nega-
+tive effect below depending on who rolled:
+ If it was the Japanese player, they select one Home 
+Base that contains at least one BB, BBV, CV or CVL 
+unit, and the Allies player may pick any one of 
+those units to sink (6.1). If neither Home Base has 
+a BB, CV, CVL or BBV, nothing is sunk.
+ If it was the Allies player, randomly select one of 
+their BB, CV or CVL units in the West Coast USA 
+Home Base. That unit is sunk (11.3.1).
+ Air units counters removed because of these Ka-
+mikaze rules are permanently eliminated from 
+the game and cannot be brought back as rein-
+forcements, nor used as “change” to recombine 
+air units.
+16.2.5 I Want it All!
+Include the optional Jap-
+anese carrier and bat-
+tleship units. They start 
+the game on the map (CV 
+Hōshō, Ryūjō) or arrive as 
+reinforcements (BBV Ise, Hyūga and CV Unryū, Shi-
+nano) as indicated in the Japanese set-up and the 
+Reinforcement Schedule.
+If this rule is used, the BB (Ise, Hyuga) unit is removed 
+from the map for conversion as indicated on the Re-
+inforcement Schedule (Turn 6). When it returns as 
+a BBV (Turn 9), it is treated as a returning damaged 
+carrier, and must be placed into the Carriers with-
+out Planes box, and must stay there until it receives 
+an air unit of 2 Air Strength (6.1.1). It must be the first 
+unit replenished before any other Japanese carrier 
+can receive planes. If this BB unit is eliminated prior 
+to conversion, ignore the conversion.
+BBV is a real hybrid (carrier & battleship) 
+naval unit. If a Task Force, consisting of 
+BBV and no other CV/CVL units, takes 
+part of a battle then the TF can be:
+Designer: Tetsuya Nakamura 
+Developer of Multi-Man Publishing edition: Adam Starkweather 
+Developer of PHALANX edition: Piotr Górny
+Production Manager: Agata Jurczyszyn
+Graphics: Rafał Zalewski, Bartłomiej Jędrzejewski
+DTP: Krzysztof Klemiński
+Rules writer: Eric Engstrom
+Proofreaders: Ryszard Jeziorny, Scott Moore, James Buckley
+Designer’s special thanks to Jon Gautier and Brian Youse... and to Yuko as well.
+PHALANX CO. LTD
+Craven House, 40-44 Uxbridge Road, 
+London, W5 2BS, United Kingdom
+www.phalanxgames.co.uk
+Current versions of all Fire in the Sky game books (Rulebook, Scenario Book with Example of Play)
+and additional on-line files (e.g. FITS FAQ) could be found on the FITS game page of the PHALANX website.

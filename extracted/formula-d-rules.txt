@@ -1,0 +1,562 @@
+Another boardgame player aid by
+Game: 	 FORMULA D
+Pub: 	
+Asmodée Editions (2008)
+Page 1: 	 Rules summary front
+Page 2: 	 Rules summary back
+Page 3: 	 Reference sheet front
+Page 4: 	 Reference sheet back
+v1.3
+May 2010
+Download a huge range of popular boardgame rules summaries, 
+reference sheets and player aids at www.headlesshollow.com
+Universal Head • Design That Works • www.universalhead.com
+These sheets are intended only for the personal use of existing owners of the game for 
+additional reference. Universal Head makes no claim whatsoever to the rights of the publisher 
+and copyright holder, and does not benefit financially from these player aids. Artwork from the 
+original game is copyrighted by the publisher and used without permission. This PDF may not 
+be re-posted online, sold or used in any way except for personal use. 
+Print on card (ensure you are printing at 100% scale) laminate and trim to size. 
+
+Setup
+Choose a circuit.
+ Each player takes a car, 
+scorecard, dashboard and gear stick.
+Each player rolls the black die to 
+determine his starting position; the highest 
+roller receives pole position and goes first, and the other 
+cars are positioned in decreasing order (re-roll ties).
+Before engaging 1st gear, each player rolls the black die:
+Poor Start Miss first turn, then next turn start 
+without rolling again. 
+2-19	
+Normal Start Start normally by rolling the die 
+for 1st gear.
+Great Start Move car 4 spaces immediately, 
+changing 1 or 2 lanes if desired. May shift to 
+2nd gear next round. 
+Gears
+Each gear has its own die. When it is your turn, 
+announce your chosen gear and move the gear stick on 
+your dashboard, and roll the corresponding die. Then 
+move your car forward the number of spaces you roll. 
+When the move is finished, the car ‘stops’.
+	
+Gear	
+Die Color	
+Move (spaces)
+	
+	
+1 - 2
+	
+	
+2 - 4
+	
+	
+4 - 8
+	
+	
+7 - 12
+	
+	
+11 - 20
+	
+	
+21 - 30
+Gearing Down
+A player may skip 1-3 gears when changing down, but 
+must lose the following brake, engine and gearbox WP:
+	Gears Skipped	 Gearbox WP	 Brake WP	 Engine WP
+	
+1 gear	
+	
+2 gears	
+	
+3 gears	
+It is not possible to skip 4 gears.
+Order of Play
+Each round, players move according to their car’s 
+position on the track, the leader going first. If 2 cars 
+are level, the driver with the highest gear goes first. If 
+they are in the same gear, the car nearest to the inside 
+(referring to the next or current corner) goes first.
+Winning
+The player whose car passes the finishing line first after 
+2 laps wins the race. The race ends when all cars have 
+crossed the finishing line.
+Driving 
+Driving through other cars or backwards is prohibited.
+Driving Through Corners
+The only legal routes though corners are indicated by 
+arrows. A car must stop a minimum number of times, as 
+indicated in the yellow box. After this number of stops, 
+the car may proceed and exit the corner on its next move. 
+For reference, the number in the green box is the length 
+of the longest path through the corner, and the number 
+in the red box is the length of the shortest path.
+Overshooting
+If a car passes through a corner at the end of its 
+turn without making the required number of stops, it 
+overshoots the corner. The number of spaces it overshot 
+the corner is deducted from its tires’ Wear Points (WP).
+When coming out of a corner a car must stay in the 
+same lane. If the move ends in another corner, this stop 
+does not count for the new corner. If blocked by another 
+car, the player must brake.
+When a car loses its last tire WP by overshooting, the 
+car is placed on the final space of the move, pointing 
+backwards. The player must turn around and drive off 
+in 1st gear again next turn. If the car overshot by more 
+than 1 space, it is eliminated.
+If a car loses more tire WP than it has, it is eliminated.
+Corner with 2 stops: If the car made no stops, it is 
+eliminated.
+Corner with 3 stops: If the car made no stops or only 1 
+Driving on the Straights
+Driving through a straight must be completed in the 
+smallest number of spaces possible. 
+A car may only change 2 lanes. A car may not change 
+lanes and then return to the same lane in the same 
+move, unless overtaking another car. 
+Braking
+A player may use brake WP at any time to avoid having 
+to advance the full number of spaces. 
+Lose 1 brake WP for each space not advanced.
+If blocked by another car, move forward as far as 
+possible, then count how many spaces the car would 
+have moved if you had not been blocked, and lose the 
+following brake and tire WP:
+	
+Spaces 	
+Brake	
+Tire
+	
+Remaining	
+	
+	
+	
+	
+	
+	
+	
+ The car is eliminated	
+If the car does not have enough brake and tire WP to 
+Collision
+When a car ends its move on a space next to or behind 
+one or more cars, roll the black die. 
+If a 1 is rolled, the car loses 1 car body WP.
+If a car loses its last car body WP, it is eliminated.
+Motor Damage
+If a player rolls a 20 in 5th gear or a 30 in 6th gear, he 
+must roll the black die after his car stops. All players in 
+5th or 6th gear must also roll the black die.
+If 1-4 is rolled, the corresponding car loses 1 engine WP.
+If a car loses its last engine WP, it is eliminated.
+Damage and Road Handling
+Each time a car loses a car body or engine WP, or if a 
+car is eliminated, place a damage marker on the space 
+where the move ended; the space becomes dangerous. 
+A car passing over or landing on a dangerous space 
+must roll the black die. 
+If 1-4 is rolled, the car loses 1 road handling WP.
+If a car loses its last road handling WP, it is eliminated.
+Slipstreaming
+If a car drives behind another car, is moving as fast or 
+faster than the car in front, and both cars are in 4th 
+gear or higher, the car may slipstream.
+The car must stop directly behind another car without 
+braking. He then adds 3 spaces onto his last move:
+a.	Change a lane, overtake the car in front and return 	
+	
+to the original lane.
+b.	Change a lane and move 2 spaces in a straight line.
+c.	Change 2 lanes and move 1 space in a straight line.
+The player may use brake WP to reduce the number of 
+spaces moved. If the move brings the car up behind 
+another car, he may carry on slipstreaming (and so on).
+A car carried into a corner by slipstreaming loses a 
+brake WP (the move is not reduced).
+Braking to take advantage of slipstreaming is prohibited.
+Pit Stop
+At the end of the first lap a player may make a pit stop. 
+There is no speed limit in the pit lanes and there is no 
+need to roll the exact number to reach your pit, but you 
+must roll the minimum number required to enter or 
+higher using your gear die.
+As soon as a car enters the pits it receives all its tire WP 
+back. Then roll the black die:
+1-10 	
+Quick Stop 
+Divide the number by 2 (round up) to find the 
+number of spaces the car may move when 
+leaving the pit in 4th gear. 
+11-20	 Slow Stop 
+The car remains in the pit until next round, 
+then moves off in 4th or lower gear.
+
+Optional Rules
+Constructing Your Car
+Each player may distribute 20 WP between the 6 zones 
+of his car, within the following restrictions:
+WP tires	
+1-14	
+WP car body	
+WP brakes	
+WP engine	
+WP gearbox	
+WP road handling	
+Qualifying Lap with Stopwatch
+All players drive a qualifying lap consecutively to set 
+their starting positions. WP are not taken into account.
+One player is the referee. The player whose turn it is 
+places his car in the middle lane in front of the starting 
+line. The referee starts a stopwatch before the player 
+rolls for 1st gear, and stops it as soon as the car crosses 
+the finish line. He also records the number of die throws 
+the player needed to finish the lap.
+The referee then adds one throw of the die for every 
+full minute the player took to complete the lap, and 
+one throw of the die per space that the car overshot 
+any corner.
+The lap is over if the player does not stop at all in 
+corners where 2 or 3 stops are required (he then starts 
+the race from the last position).
+The car that completed the lap with the fewest die 
+throws takes first position, followed by the other cars in 
+decreasing order. If 2 players tie, the order is decided by 
+the fastest stopwatch time.
+Three-Lap Race
+The player whose car passes the finishing line first after 
+3 laps wins. 2 pit stops are possible during the race.
+Weather Conditions 
+It is recommended that the tire selection rules are used 
+with the weather rules.
+Roll the black die and check the weather chart before 
+the qualifying laps: 
+Good Weather, Changeable No effect.
+Rain The laps for all drivers take place in rain. 
+Roll the black die and check the weather chart before 
+the actual race: 
+Good Weather No effect.
+Changeable Whenever a player in 5th gear rolls a 20, 
+or a 30 in 6th gear, roll the black die and check the 
+weather chart again.
+Good Weather Conditions shifted one line upwards.
+Changeable Weather stays the same.
+Rain Conditions shifted one line downwards:
+	
+Weather	
+Effect on Race
+	
+Good	
+none (invariable) 
+	
+Changeable	
+none
+	
+Rain, changeable	
+rain
+	
+Rainy	
+rain (invariable)
+Rain The entire race takes place in rain. 
+Effect of Rain
+Collision A result of 1 or 2 (instead of 1) means a 
+collision occurs.
+Engine Damage Occurs when result is 1-3 (instead of 
+1-4). 
+Road Handling The car loses 1 road handling WP for a 
+result of 1-5 (instead of 1-4).
+Tire Selection
+After weather has been determined, each player may fit 
+special tires. 
+Tires may also be changed between the qualifying lap 
+and the race.
+Hard Tires
+Recommended on a dry track and inefficient on a wet 
+track. 
+If it is raining, the car moves 3 additional spaces, as 
+long as at least one space in the move is within a corner.
+Soft Tires
+Recommended on a dry track and inefficient on a wet 
+track. A driver using soft tires places 1 damage marker 
+on the score card with the sun side faceup.
+If the weather is changeable or good, the car can move 
+1 additional space each move during qualifying and 
+race laps (this is not compulsory). If the tires are not 
+changed in a pit stop before the third race lap, the tire 
+WP penalties for overshooting a corner are trebled.
+If it is raining, the car moves 3 additional spaces each 
+move during qualifying and the first 2 race laps, as long 
+as at least one space in the move is within a corner. If 
+the tires are not changed in a pit stop before the third 
+race lap, the tire WP penalties for overshooting a corner 
+are trebled.
+Rain Tires
+Recommended on a wet track and inefficient on a dry 
+track. A driver using rain tires places 1 damage marker 
+on the score card with the rain side faceup. 
+If the weather is changeable or good, the tire WP 
+penalties for overshooting a corner are doubled during 
+qualifying and the first 2 race laps. If the tires are not 
+changed in a pit stop before the third race lap, the 
+penalties are trebled.
+If it is raining, the car moves 1 additional space each 
+move, as long as at least one space in the move is 
+within a corner. 
+Pit Stops
+At every pit stop a player can choose one of these two 
+options:
+Tire Pit Stop As in the normal rules. The player can also 
+change the type of tires he has fitted.
+Technical Pit Stop The player can change his tires and 
+regain up to 2 WP in one or two zones (except the tires). 
+This 2 WP allowance applies for the entire race. In the 
+next round, the car may not start in higher than 4th 
+gear. A car with soft tires does not receive the bonus of 
+1 additional space when leaving the pits.
+Team Race
+A large group with an even number of players may use 
+these rules. Form teams, each with 2 players and a color.
+Pit Stop Each team has 4 WP for repairs. Both players 
+must decide together how to use them
+Winner by Points Each car receives a number of winning 
+points and the team with the highest number of total 
+points wins the race:
+	
+Ranking	
+No. of Points
+	
+	
+	
+	
+	
+	
+	
+	
+	
+9 and 10	
+Road Races
+It is recommended that the weather conditions rules are 
+used with road races (if not, Julien Marcellin and his car 
+should not be used).
+Cars and Drivers
+Each driver has a card with WPs and special features. 
+All cars drive on hard tires.
+All cars also have nitro fuel injection, which can be 
+used once a lap after rolling the gear die and provides a 
+movement bonus according to the gear used (+1 spaces 
+in 1st gear, +2 in 2nd, etc); then place a damage 
+marker on the score card space.
+Circuit
+The pits on the circuit are not used during road races.
+Engine Noise: Cars ending their move in this area must 
+roll the black die as a resident takes a shot at their car:
+	
+Black die	
+Result
+	
+1-15	
+Too Late: the shot goes wild 
+	
+16-18	
+Grazing Shot: the car loses 1 tire WP
+	
+Not bad: the car loses 1 car body WP
+	
+Direct hit: the car loses 1 engine WP
+Danger Zone: All red spaces are treated as spaces with 
+damage markers.
+Police Station: Every time a driver crosses the line 
+record his speed (the number on the gear die x10). 
+When all drivers have crossed, the fastest driver gets 2 
+WP he can distribute between damaged zones on his 
+car. In a tie, the first driver to pass the line receives 
+the bonus.
+Tunnel: Move directly between the spaces marked with 
+the same number.
+Checkpoint: If a race consists of several laps, each car 
+receives its entire tire WP on crossing the finish line, 
+plus 2 WP to distribute between damaged zones on 
+his car.
+v1.3
+
+Start	
+Miss first turn, then next turn start without 
+rolling again. 
+2-19	
+Start normally by rolling the die for 1st gear.
+Move car 4 spaces immediately. 
+Driving
+Corners
+Car must stop a minimum number of times, as 
+indicated in the yellow box. When coming out of a 
+corner a car must stay in the same lane. 
+Straights
+A car may only change 2 lanes and may not return to 
+the same lane in the same move, unless overtaking. 
+Gearing Down
+	Gears Skipped	 Gearbox WP	 Brake WP	 Engine WP
+	
+1 gear	
+	
+2 gears	
+	
+3 gears	
+Braking
+Lose 1 brake WP for each space not advanced.
+If blocked by another car:
+	
+Spaces 	
+Brake	
+Tire
+	
+Remaining	
+	
+	
+-2	
+	
+	
+	
+-2
+	
+	
+ Car eliminated	
+If the car does not have enough brake and tire WP to 
+Overshooting 
+-1 tire WP for each space overshot.
+A car is eliminated if it skips more than 1 corner stop.
+When a car overshoots and loses its last tire WP, place it 
+backwards on its final space. The player must turn and 
+drive off in 1st gear again next turn. If the car overshot 
+by more than 1 space, it is eliminated.
+Slipstreaming
+The car behind must be as fast or faster as the car in 
+front, and both cars must be in 4th gear or higher.
+The car must stop directly behind another car without 
+braking. He then adds 3 spaces onto his last move (he 
+may use brake WP to reduce the number of spaces). If 
+the move brings the car up behind another car, he may 
+carry on slipstreaming (and so on).
+A car carried into a corner by slipstreaming loses 1 
+brake WP (move is not reduced).
+Collision	
+When a car ends its move on a space next to or behind 
+one or more cars, roll: 
+1: -1 car body WP.
+Damage	
+Motor Damage
+If a player rolls a 20 in 5th gear or a 30 in 6th gear, all 
+players in 5th or 6th gear must roll:
+1-4: -1 engine WP.
+Road Damage
+Each time a car loses a car body or engine WP, or if a 
+car is eliminated, place a damage marker on the space 
+where the move ended. A car passing over or landing on 
+the space must roll: 
+1-4: -1 road handling WP.
+Elimination
+If a car lose its last engine, road handling, or car body 
+WP, or more than its tire WP, it is eliminated.
+Pit Stop	
+Enter at any speed. Receive all tire WP back, then roll:
+1-10 	
+Divide the number by 2 (round up) for the 
+number of spaces the car may move when 
+leaving the pit in 4th gear. 
+11-20	 Car remains in the pit until next round, 
+then moves off in 4th or lower gear.
+Quick 
+Reference
+
+All cars drive on hard tires.
+All cars also have nitro fuel injection, which can be 
+used once a lap after rolling the gear die and provides a 
+movement bonus according to the gear used (+1 spaces 
+in 1st gear, +2 in 2nd, etc); then place a damage 
+marker on the score card space.
+How Sweet!
+Each time an opponent (male or female) 
+overtakes this driver on a straight their 
+speed is reduced by one square while they 
+try and catch a glimpse of her. 
+Weather Frog
+Each time the black die is rolled to 
+determine weather conditions (including 
+at the beginning of the game) this driver 
+is allowed to roll the die again, and the 
+second result counts.
+If it is raining, he only slides 1 space forward (instead 
+of 3 spaces) when he stops in a corner.
+Aggressive
+Every time this driver is involved in a 
+collision, his opponent has to roll the black 
+die twice instead of once (treat each roll as 
+a separate collision check).
+Skidding Pro
+This driver can adjust his move plus or 
+minus 1 space in every corner, as he has 
+perfect skid control. He loses 1 tire WP 
+whenever he uses this skill.
+Experienced Mechanic
+This driver regains 4 WP instead of 2 WP 
+every time she crosses the finishing line.
+The original number of points may never 
+be exceeded in any category.
+Quick Off The Mark
+If several drivers have the same position, 
+this driver is always the first to move—even 
+if one or more drivers are faster and/or are 
+nearer the inside of the corner.
+She also wins if there is a tie when the starting 
+positions are determined using the black die.
+Car Radio
+Once per race this driver thinks his car 
+radio plays bad music, and he throws it out 
+of the window—onto a car in an adjacent 
+space.
+The target car then loses 1 WP in a category defined by 
+rolling the black die:
+	
+1-4	
+tires WP 
+	
+5-7	
+brakes WP
+	
+8-10	
+gearbox WP
+	
+11-13	
+car body WP
+	
+14-17	
+engine WP
+	
+18-20	
+road handling WP
+A damage marker is placed on the feature symbol to 
+show that it has been used.
+Pile of Scrap
+Once per lap this driver can place a 
+damage marker on a space as he leaves it.
+A damage marker is placed on the feature 
+symbol to show that it has been used.
+In addition, if he lands on a space with a damage marker 
+he only loses 1 road handling WP if he rolls 1 or 2.
+Little Genius
+This car’s features are extraordinary, and 
+the engine is especially robust. In the event 
+of engine failure, he only loses 1 engine 
+WP if he rolls 1-3 (1-2 if it is raining).
+Better Nitro
+If this driver wishes, he may receive a 
+bonus of 3 additional spaces every time he 
+uses the nitro fuel injection.
+Ace At The Wheel
+Once a lap this driver may reroll the gear 
+die (the second result counts). A damage 
+marker is placed on the feature symbol to 
+show that it has been used.
+Skill 
+Reference

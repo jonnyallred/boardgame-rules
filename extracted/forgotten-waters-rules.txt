@@ -1,0 +1,929 @@
+RULEBOOK
+
+1.	 Location Name
+2.	 Location Type
+3.	 Location Features (will have 
+associated location dials)
+4.	 Location Warning
+5.	 Action Name
+6.	 Action Guide Symbols
+7.	 Action Type
+8.	 Action Resolution Order
+9.	 Action Effect
+10.	End of Round Section
+LOCATION BOOK
+Name
+Card Number
+Effect
+Skill Bonus
+HANDY Harpoon
+After performing 
+a hunting check, 
+aim 
+Cursed 
+blood-axe
+When you roll a 5 or 
+less on a die during a 
+brawn check, you 
+must return this card 
+to the story deck unless 
+you spend 1 crew 
+TREASURE/STORY CARD
+Level
+Status
+Aim Bonus
+unloaded
++3
+loaded
+CANNON TOKENS
+Card Number
+Name	
+Goal
+Threat Limit	
+Objective Set	
+Decipher the map
+Goal: Reach Precipice Island (963)
+Vance - 1/4
+OBJECTIVE CARD
+OBJECT OF THE GAME
+In Forgotten Waters, players are the senior crew of a pirate ship 
+embarking on a shared adventure. Together they will all serve 
+under the same colorful pirate captain, and work together to 
+successfully complete that captain’s adventure. But each player will 
+also seek their own glory by filling in stars on their personal player 
+sheet. Once players reach the end of the adventure, their fate will 
+be determined by how many stars they filled in.
+FORGOTTEN WATERS APP
+Forgotten Waters requires a free web-based app. To use the app, visit 
+fwcrossroads.com in your mobile or desktop browser. Whenever 
+the game instructs you to read an entry, type that entry into the app. 
+You can also find printable ship’s logs and player sheets on the app if 
+you run out.
+COMPONENTS
+Rulebook
+12-Sided Dice
+Location Book
+Map Board
+Boatswain Board
+First Mate Board
+Cooper Board
+Gunner Board
+Quartermaster Board
+Lookout Board
+Pad of Ship Scribe Sheets
+Pad of Player Sheets
+89	 Treasure Cards
+10	 Objective Cards
+96	 Story Cards
+Player Treasure Chest Cards
+Location Dials
+Special Rules Cards
+Cannon Tokens
+25	 Re-roll Tokens
+20	 Misfortune Tokens
+Lock Tokens
+15	 Constellation Event Tokens
+20	 Special Location Tokens
+30	 Navigation Tokens
+Threat Tokens
+Hull Marker
+Supplies Marker
+Crew Marker
+Discontent Marker
+7 	 Player Infamy Markers
+7 	 Pirate Standees
+1 	 Ship Standee
+Standee Stands
+LOCATION DIAL ASSEMBLY
+Before playing, assemble each of the five location dials on the Gunner 
+board as shown below.
+
+SHIP SCRIBE SHEET
+Ship Name
+Scenario Name
+Log
+Threat Event
+Captain’s Quarters
+Captain’s Mission
+Game Stats Save
+Map Save
+Player Save
+THREAT EVENT
+ Read entry 791
+ Read entry 792
+ Read entry 793
+ Read entry 794
+ You Lose! Read entry 795
+Captain’s quarters
+ Read entry 043
+ Read entry 044
+ Read entry 045
+ Read entry 046
+ Read entry 047
+captain’s mission
+ Read entry 048
+ Read entry 049
+ Read entry 050
+ Read entry 051
+ Read entry 052
+SHIP SCRIBE
+SHIP LOG
+SHIP NAME: 
+SCENARIO: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hull: 
+ Supplies: 
+ Discontent: 
+ Crew: 
+Cannons: 
+ 
+Cross off navigation tokens that were removed from game: 
+001 • 002 • 003 • 004 • 005 • 006 • 007 • 008 • 009 • 010 • 011 • 012 • 013 • 014 • 015 
+016 • 017 • 018 • 019 • 020 • 021 • 022 • 023 • 024 • 025 • 026 • 027 • 028 • 029 • 030
+SAVE GAME
+PLAYER SHEET
+Pirate Name
+Title
+Constellation
+Skills
+Story Blanks
+Character Backstory
+Fold Line
+End of Game Chart
+Note: Player sheets are to be folded down the fold line to form a booklet .
+Front
+Back
+Inside
+The SEEKER Pirate
+Endings
+ 
+ 
+ = BAD 
+You knew you would quit your position aboard the ship long before you finally 
+did. When your adventure concluded, all you had left was a smelly, disgusting 
+ to show for it. You immediately traded it away to get passage back to 
+your childhood home. The life that followed was humdrum and predictable, and 
+though devoid of pirates and their company, so too was it devoid of meaning. You 
+spent your later years wistfully staring out at the ocean and wondering what 
+might have been. When you eventually perished, following a protracted battle 
+with 
+ brain, you left behind a legacy of bitterness and wasted potential. 
+Your family buried you next to the grave of Captain 
+ , having known all 
+along of your scandalous, secret affair.
+ 
+ = GOOD 
+All your life you’d been searching for something. The pirate life finally revealed 
+what it was. After your time on the ship was up, you sold your 
+ and 
+planned out an expedition with a fledgling crew of ex-
+(1)
+s to a mysterious 
+island in the southern seas of Sunset. In the heart of the jungle there, you and 
+your team found a mysterious and long-lost temple. As you entered the chamber 
+within, your eyes were filled with the glowing light of a magnificent, gigantic 
+crystal. It filled your soul with contentment and satisfaction. This is what you 
+were meant to find! The crystal consumed your thoughts even as your team 
+screamed out in terror and tried to flee the temple. Slowly, the chamber filled with 
+s and the outer doors sealed themselves. As the others struggled to escape, 
+you laughed with abandon, the secrets of the cosmos finally revealed to you.
+ 
+ 
+ = LEGENDARY 
+While the pirating life proved to be a bit too much for you, it awakened your 
+wanderlust like nothing before. After your time on the ship you decided to collect 
+the maps, journals, and other adventurer’s ephemera that Captain 
+ 
+had left behind to try to follow in his footsteps. You found great fulfilment in 
+continuing his life’s work. Eventually it led you to build a library in his name 
+where pirates and explorers of the world at large could sell and share hand-drawn 
+maps of newly discovered locations in Sunset. This provided a greatly needed 
+service to the community, and gave you access to the most interesting locations 
+the world had to offer. You even developed a great friendship with 
+, whose 
+smell you eventually grew quite fond of.
+BACKSTORY of the Seeker PIRATE
+Exploring the world has always been my passion. In my youth I was a(n) 
+(1)
+ and volunteered for every exploratory expedition I could find. After 
+a time I found myself  aboard the ship of Captain 
+, the fearless royal 
+explorer who became my mentor. I learned much on his vessel as we travelled 
+the seas, but eventually luck ran out, and our vessel was sunk by a giant 
+. The captain perished, and it was time to find a new vessel to sign up 
+with. When I heard a pirate captain was going to sail past the Ocean’s Edge, 
+I realized the world was about to become an even more interesting place, and 
+pirates might very well hold the key to the thrills of exploration. Now I find 
+myself on a pirate ship and am forced to confront the fact that I hate pirates. 
+I hate their unwashed bodies, their complete disregard for the King’s Tongue, 
+not to mention their ridiculous obsession with 
+(s). Their very presence 
+soils what should be a transformative journey of self-discovery. Take 
+, 
+for example. Who could stand to be around this lout for even five minutes?! 
+Gods-damned pirates.
+When instructed to resolve constellation events, discard all of 
+your constellation event tokens. For each token discarded fill 
+in the next unfilled 
+ below and read its corresponding text.
+ I squirmed as it slid down my mouth. It wasn’t the worst thing I’ve eaten, 
+but the thought of eating a live, miniature 
+ made my stomach do 
+cartwheels. Pirates sure do have quite an expansive array of things they 
+qualify as food. Supplies 
++3.
+ I buried the 
+ just as they told me to, marking the spot with an 
+‘X’ so I’d remember where. I’m not quite sure what the point of it was. It 
+doesn’t seem to make much sense to collect it just to throw it in a hole on 
+a random island I doubt I’ll ever visit again. Oh well, it doesn’t matter 
+much anyway. Numerous possessions will likely get me stabbed and/or 
+robbed on this ship. Gain 1 skill of your choice. Re-roll 
+ I finally found something that seems well suited for me. It reminds me of 
+the one Captain 
+ used to have on his ship. Oh how I miss being 
+with him. Him and his big, strong hands... Retrieve card 25 Superior 
+Spyglass from the story deck.
+ Maybe if I trade this to 
+ they will agree to move to another 
+hammock. I am so tired of them stinking up the place. It’s bad enough that 
+most of the crew doesn’t bathe. Treasure 
++1. You may immediately 
+discard 1 treasure for discontent 
+-2. 
+ I seem to have attracted two new pirate fledglings. They think it’s “cool” 
+that I still have all of my teeth - a rare thing among the rest of the riff-raff 
+on this vessel. Only the best for this ship, I suppose. Crew 
++2. 
+1. A profession that involves travel: 
+2. A dumb name: 
+3. An animal: 
+4. A collector’s item: 
+5. The pirate name of another player: 
+Story blanks
+Fill in the blanks next to each prompt. When you come across a blank 
+in your character’s story, read your corresponding answer in its place.
+NAVIGATION TOKENS
+Sun: Clear seas likely.
+Storm: Rough seas likely
+Ship: Another ship likely. 
+Fog: Mystery likely.
+Island: Land likely.
+Entry Number
+Stop Symbol
+OTHER COMPONENTS
+First Mate Board
+	
+a.	 Crew/Discontent Track
+	
+b.	 Crew Hunger Track
+Boatswain Board
+	
+a.	 Hull Track
+Cooper Board
+	
+a.	 Supplies Track
+Lookout Board
+	
+a.	 Objective Card Slot
+	
+b.	 Threat Track
+Quartermaster Board
+	
+a.	 Infamy Track
+Gunner Board
+	
+a.	 Location Dials
+	
+b.	 Cannon Slots
+Ship Stat Markers
+Special Location Tokens
+Treasure Chest Card
+10.	 Ship Standee
+11.	 Pirate Standees
+12.	 Re-roll Token
+13.	 Misfortune Token
+14.	 Constellation Event Token
+15.	 Threat Token
+16.	 Lock Token
+17.	 Player Infamy Markers
+If the discontent token and crew token meet all players lose the game. Read entry 951.
+first mate
+discontent & crew track
+lookout
+objective
+threat track
+If the hull token reaches 0 all players lose the game. Read entry 952.
+boatswain
+hull track
+cooper
+supplies track
+Gunner
+cannons
+B
+c
+d
+e
+location dials & cannons
+
+Gunner
+location dials & cannons
+lookout
+objective
+threat track
+If the hull marker reaches 0, all players lose the game. Read entry 952.
+boatswain
+hull track
+cooper
+supplies track
+If the discontent token and crew marker meet, all players lose the game. Read entry 951.
+first mate
+discontent & crew track
+The SEEKER Pirate
+The ORPHAN Pirate
+The DUELIST Pirate
+The ALL-SEEING Pirate
+THREAT EVENT
+ Read entry 791
+ Read entry 792
+ Read entry 793
+ Read entry 794
+ You Lose! Read entry 795
+Captain’s quarters
+ Read entry 043
+ Read entry 044
+ Read entry 045
+ Read entry 046
+ Read entry 047
+captain’s mission
+ Read entry 048
+ Read entry 049
+ Read entry 050
+ Read entry 051
+ Read entry 052
+SHIP SCRIBE
+SHIP LOG
+SHIP NAME: 
+SCENARIO: 
+port
+ 
+ LAND 
+“Admiral” Cookie
+The Sea Princess
+Beyond the Ocean’s Edge
+Stumpy Britches
+Wise Old Wilma
+Gummy Greta
+Decipher the map
+Goal: Reach Precipice Island (963)
+Vance - 1/4
+cannons
+B
+c
+d
+e
+Launch the Forgotten Waters app (fwcrossroads.com) and select 
+a scenario. For your first game, select Beyond the Ocean’s Edge. 
+You should complete the Beyond the Ocean’s Edge scenario 
+successfully before moving on to any other scenarios.
+Note: If Beyond the Ocean’s Edge is completed, any scenario can be chosen.
+2.	 If playing with 4 or fewer players, put the Hungry Pirates special 
+rules card into play. If playing with 3 players, also put the Masked 
+Pirate special rules card into play. 
+Place the location book in the center of the table within reach of 
+everyone. Leave room for it to be opened and laid flat. The app 
+will guide you when to turn to a page in the location book.
+Place the map board in the middle of the play area next to the 
+location book and place the ship standee and special location 
+tokens on the map board as indicated in the scenario setup.
+Note: The scenario setup can be found by clicking the ‘View Setup’ 
+button in the Forgotten Waters App. 
+Shuffle the treasure cards and form a face down treasure deck.
+Place the navigation tokens face down in a pile.
+Place all the re-roll 
+ tokens, misfortune 
+ tokens, lock tokens, 
+constellation tokens and story cards in separate piles.
+Each player selects a pirate standee and collects its matching 
+color 12-sided die, treasure chest card and infamy 
+ marker. 
+Note: If playing with 3 players, no player may choose the masked 
+pirate (orange) as their pirate standee. 
+Give each player a pencil and a player sheet, making sure each 
+sheet has a different title. Each player invents a name for their 
+pirate and writes it on their player sheet. If you like, you may use 
+the pirate name generator on page 8. 
+10.	 Each player fills out the story blanks section on their player sheet.
+11.	 Assign each of the following roles/responsibilities to the players. 
+Each player must have at least 1 role. If playing with fewer than 7 
+players, some players will need to take on multiple roles.
+12.	 Ship Scribe: Writes and references info on the ship’s log.
+	 Collect a ship scribe sheet. Ask your fellow players to help 
+you name the ship and write that name and the name of your 
+scenario on the ship’s log. 
+13.	 Quartermaster: Keeps track of infamy 
+ and times the 
+Planning Phase.
+	 Collect the Quartermaster board and each player’s infamy 
+marker. Place the infamy markers on the infamy track in 
+random order. 
+14.	 First Mate: Keeps track of the crew 
+ and their discontent 
+	 Collect the First Mate board and place the crew and discontent 
+markers on the values indicated in the scenario setup.
+15.	 Boatswain: Keeps track of the ship’s hull 
+	 Collect the Boatswain board and place the hull marker on the 
+value indicated in the scenario setup.
+16.	 Cooper: Keeps track of the ship’s supplies .
+	 Collect the Cooper board and place the supplies marker on 
+the value indicated in the scenario setup.
+17.	 Gunner: Keeps track of the ship’s cannons.
+	 Collect the Gunner board and place cannon tokens on it as 
+indicated in the scenario setup.
+18.	 Lookout: Keeps track of threat 
+ and the current objective.
+	 Collect the Lookout board and create a supply of threat 
+tokens nearby it. Find the objective card indicated in the 
+scenario setup and place it on the objective card slot.
+19.	 Follow any other setup instructions in the scenario setup.
+20.	 All other components may be left in the game box for now. After 
+completing setup, click the continue button at the bottom of the 
+scenario instructions page of the app.
+GAME SETUP
+unloaded
++3
+loaded
+
+PLAYING A ROUND
+Forgotten Waters is played over a series of rounds. Each round takes 
+place on a page of the location book. Each round consists of 3 phases 
+that must be completed in order:
+1. PLANNING PHASE
+During this phase players will have a limited amount of time to 
+choose, but not yet resolve, their actions for the round.
+At the start of the planning phase, the Quartermaster immediately 
+starts the timer by clicking the ‘Start Round Timer’ button on the 
+app. Then, in order from highest to lowest infamy 
+ , each player 
+must choose an action by placing their pirate standee on an available 
+action. If the timer runs out before the last player has placed their 
+standee, raise discontent 
+ by 1 and then continue selecting actions 
+until all players are finished.
+Tip: Players should NOT spend time reading exactly what the actions 
+do before selecting them. Instead, they should use only the names and 
+guide symbols of each action to help them determine which action to choose. 
+TYPES OF ACTIONS:
+Unlimited Action: Any number of players may choose this 
+action.
+Limited Action: Once 1 player chooses this action it is no 
+longer available to other players during that round.
+Locked Action: Locked actions cannot be chosen. Actions are 
+locked by placing a lock token over that action when directed 
+by a game effect.
+Required Actions: Required actions MUST be chosen by 
+exactly 1 player. If 1 or more required actions are still 
+available before the last player(s) have chosen an action for 
+the round, those players must choose a required action. 
+TYPES OF GUIDE SYMBOLS:
+	 White guide symbols mean a player might gain the represented 
+skill AND may have to perform a check using that skill.
+ 
+	Black guide symbols mean a player might gain the represented 
+skill/resource or reduce/increase the represented location dial.
+2. ACTION PHASE
+During this phase players will resolve the actions they chose in the 
+planning phase. Actions are resolved in number order.
+First, all players who chose action 1 resolve that action one at a time 
+in order from most infamy 
+ to least infamy. After all players 
+who chose action 1 have resolved the action, the players who chose 
+action 2 resolve that action in infamy order and so on until all 
+chosen actions have been resolved. To resolve an action, follow the 
+instructions listed under that action. After a player has resolved 
+their action, they remove their standee from the page.
+3. END OF ROUND PHASE
+Read the entry listed under the current page’s Round End section.
+TURNING TO A NEW PAGE
+When turning to a new page in the location book, first remove all 
+tokens from the current page. If there is a location warning section 
+read that section aloud, as it may help players decide which actions 
+to choose and it gives clues about negative effects that may come at 
+the end of the round.
+“A cornered crew is a dangerous crew. We gotta take 
+out their crew before they do the same to us.”
+LOCATION WARNING
+After reading the location warning section, do NOT pause to 
+review all of the action resolution text on the new page. Instead, 
+go immediately into a new round by starting the planning phase 
+(starting the timer and selecting actions in infamy 
+ order). 
+Note: If directed to “begin a new round on this page,” immediately go into a 
+new round without removing tokens. However, if directed to turn to a page 
+you are already on, do remove the tokens.
+WINNING AND LOSING
+There are 4 ways the game can end:
+	 Drowned: If the ship’s hull 
+ reaches 0, every player loses.
+	 Mutiny: If the discontent 
+ is ever equal to or higher than its 
+crew 
+, every player loses.
+	 Threat: If the last threat event is reached, every player loses.
+	 Scenario Goal Reached: If a scenario entry instructs that 
+players have reached the scenario goal then all players that 
+have completed at least 4 constellation events win the game. 
+If a player has completed all 5 of their constellation events, 
+they have achieved a superior victory. Starting with the player 
+with the highest infamy 
+, and proceeding clockwise, each 
+player consults the Endings chart on their player sheet and 
+reads their indicated ending.
+SAVING YOUR GAME
+When players reach part 2 of a scenario, they will be given the option 
+to save the game and return to it later. When saving the game, 
+players will be instructed to write ‘Part 1 Complete’ on the ship’s log 
+and will be instructed on how to record the current game state on 
+the back of the ship’s log.
+When returning to a saved game, go to the appropriate scenario in 
+the app, click the ‘View Setup’ button, and follow the instructions 
+there to set up the game.
+
+RESOLVING GAME EFFECTS
+PERFORMING SKILL CHECKS
+Decorative 
+Holster
+“Blimey, that’s a fine 
+holster! Now you should 
+get a gun fer that thing.”
+Samantha is instructed to perform a hunting 
+ check. She rolls a 12, 
+adds 3 for the filled in hunting boxes on her player sheet, and adds 
+1 for the bonus on her Decorative Holster treasure card. Since her 
+total is 16, she resolves the corresponding option, gaining 3 supplies, 
+2 treasures, and 3 infamy. 
+3. FISH
+Hunting +1 Then perform a hunting check 
+1-4     Crew 
+-1 Supplies 
++1 Infamy 
+-2 
+5-8     Supplies 
+9-11    Supplies 
++2 Treasure 
+12-15   Supplies 
++3 Treasure 
+16+     Supplies 
++3 Treasure 
++2 Infamy 
++3 
+=16
+EXAMPLE: SKILL CHECK
+When a player is directed to perform a skill check, that player must 
+follow these steps in order:
+Roll a 12-sided die.
+2.	 Add 1 for each filled-in box for that skill on your player sheet.
+Add the number under each icon matching that skill on your 
+treasure and story cards.
+Consult the text associated with the skill check and resolve the 
+option corresponding to your total.
+MISFORTUNE TOKENS 
+If you have 1 or more misfortune tokens, when 
+rolling (not setting) your die for a skill check, also 
+roll a second die and keep the lower die roll. Then, 
+discard 1 misfortune token.
+RE-ROLL TOKENS 
+If you have 1 or more re-roll tokens, after rolling a die 
+(or dice) for a skill check, you may discard a re-roll 
+token to re-roll 1 die. You may do this multiple times on 
+a single skill check. 
+Note: Misfortune and re-roll only apply to skill checks and not any other 
+die rolls.
+GAINING SKILLS 
+ 
+ 
+ 
+ 
+ 
+When a player gains a skill (example: hunting +1), that player fills 
+in the left-most unfilled box for that skill on their player sheet. 
+If that box has a 
+ in it, that player also fills in a star 
+ on their 
+constellation.
+Note: Boxes with 
+ symbols printed on them cannot be filled in. A player 
+does not gain a skill if all of that skill’s available boxes are already filled in.
+HIGHEST/LOWEST SKILL
+When determining who has the highest or lowest amount of a 
+particular skill, count only boxes filled in on player sheets. Do not 
+count skill gained from treasure or story cards.
+FILLING IN STARS ON CONSTELLATIONS 
+ 
+Each player has a constellation on their player sheet. The more 
+stars 
+, especially those containing a , a player is able to fill in on 
+their constellation during a game, the better pirate they are.
+Whenever a player is directed to fill in a star on their constellation, the 
+player must choose and fill in a star 
+ that is connected to the start 
+star 
+ or connected to a previously filled-in star. If the star the player 
+filled contains an , that player receives a constellation event token.
+There are 2 main ways for players to fill in stars:
+	 Gaining Skills. Each time a player fills in a skill box that 
+contains a 
+ they also fill in a star 
+ on their constellation.
+	 Burying Treasure. Some location actions allow a player to bury 
+(discard) treasure 
+, filling in a star 
+ for each treasure buried.
+RESOLVING CONSTELLATION EVENTS 
+When a player is directed to resolve their constellation events, that 
+player must go to the Constellation Events section on their player 
+sheet and discard all of their constellation event tokens. For each 
+token discarded, they check off their next unchecked constellation 
+event and read it aloud, filling in any blanks as they read with the 
+corresponding words from the story blanks section of their sheet.
+When instructed to resolve constellation events, discard all of 
+your constellation event tokens. For each token discarded fill 
+in the next unfilled 
+ below and read its corresponding text.
+ I squirmed as it slid down my mouth. It wasn’t the worst thing I’ve eaten, 
+but the thought of eating a live, miniature 
+ made my stomach do 
+cartwheels. Pirates sure do have quite an expansive array of things they 
+qualify as food. Supplies 
++3.
+
+ROCKY WATERS
+GAINING/LOSING/CHECKING THREAT 
+When a game effect causes a player to gain or lose 1 or more threat 
+, the Lookout adds or removes the corresponding number of 
+threat tokens from the threat track. 
+When directed to check threat (and only when 
+directed) if the number of threat tokens on the 
+threat track meets or exceeds the current 
+objective card’s threat limit, check off the next 
+unchecked Threat Event box on the ship’s log and 
+read the entry.
+GAINING/LOSING SHIP STATS 
+ 
+ 
+When a game effect causes players to gain or lose a ship stat, the 
+appropriate player (First Mate, Boatswain or Cooper) must move the 
+corresponding ship stat marker up or down its track accordingly. A 
+ship stat cannot go above its maximum value or below 0.
+MOVING THE SHIP
+When a game effect instructs a player to move the ship, that player 
+moves the ship to an adjacent space. Each time the ship would 
+move onto an empty space (a space without a navigation or special 
+location token on it) draw a navigation token and place it face up on 
+that space before moving onto it.
+When moving the ship do NOT go to the entry listed on the new 
+space until directed to.
+If the ship moves onto a navigation token or 
+special location token with a 
+ symbol on it, the 
+ship cannot be moved any farther during that 
+round.
+The ship cannot be moved onto a rocky waters 
+special location token.
+SCOUTING
+When a player is directed to scout one or more spaces, that player 
+does the following in order:
+Draw a navigation token from the face down supply and place 
+it face down on an empty space on the map board that is 
+either adjacent to the ship’s space or adjacent to a previously 
+placed navigation token. Repeat this for however many spaces 
+the player is directed to scout.
+2.	 Once all newly drawn navigation tokens are placed, flip them 
+face up. 
+CANNONS
+When directed to upgrade a cannon, the Gunner may remove a 
+cannon token from the Gunner board and replace it with a cannon 
+from the supply whose level value is 1 higher. If the replaced cannon 
+was unloaded, then the new cannon is also unloaded, and vice versa.
+The ship can have a maximum of 4 cannons, and cannons can be 
+discarded at any time to make room for new ones.
+GAINING/LOSING INFAMY 
+ 
+When a game effect causes a player to gain or lose 1 or more 
+infamy 
+, the Quartermaster must move that player’s infamy 
+marker higher or lower on the infamy track accordingly, shifting 
+other players’ markers to make room. Infamy markers should never 
+share spaces or have spaces between them.
+EXAMPLE: BLUE GAINS 2 INFAMY
+BREAKING TIES
+If 2 or more players are ever tied for the purposes of evaluating 
+a game effect, break the tie in infamy 
+ order, with the higher 
+infamy player having the higher result.
+OBJECTIVE CARDS
+The purpose of the objective card is to remind players what their 
+current goal is. At all times, exactly 1 objective card will be in play. 
+When the players are directed to discard the objective card they will 
+also be given direction on which new objective card to replace it with. 
+TREASURE CARDS
+When a player gains 1 or more treasure 
+ that player draws and puts 
+into play 1 treasure card for each treasure gained. If the treasure 
+deck runs out of cards, shuffle its discard pile to form a new deck. 
+Treasure cards are played face up and have an effect that benefits 
+the player that gained them. Treasure can also be gained by stealing 
+from another player.
+A player can never have more than 4 treasure cards in play at a time. 
+If a player would ever put a 5th card into play, they must first discard 
+an existing treasure or they may choose to discard the new treasure. 
+Supplies 
++1 for each card discarded in this way.
+A player does NOT fill in a box on their player sheet when gaining 
+a treasure with skill icons on it. These bonuses are added to skill 
+checks separately from the player’s gained skills.
+Some cards have an effect that activates when discarded. These 
+effects only resolve when players discard specifically for it. When a 
+player discards for any other reason (e.g. when burying treasure or 
+discarding down to 4), do not resolve “discard” effects. Players can 
+only use discard effects during their turn (when resolving an action 
+during the action phase) unless otherwise instructed on the card.
+STORY CARDS
+Story cards function similarly to treasure cards, but are not 
+treasure cards and cannot be buried, discarded, stolen or used to 
+pay a treasure cost. There is no limit to the number of story cards a 
+player can have. Story cards should be taken from the story deck, if 
+possible, or else from the player that has it.
+
+She/He-Beast
+Skeet
+Hsu
+Mackey
+Snoopy
+CREDITS
+GAME DESIGNERS
+Isaac Vega, J. Arthur Ellis, Mr. Bistro
+ILLUSTRATORS
+Nadezhda Tikhomirova, Anton Fadeev
+WRITERS
+Mr. Bistro, Isaac Vega, J. Arthur Ellis
+PRODUCER
+Colby Dauch
+GRAPHIC DESIGNERS
+Kendall Wilkerson, David Richards
+EDITOR
+Jonathan Liu
+GAME DEVELOPER
+Callin Flores
+ART DIRECTOR
+Samuel J. Vega
+PLAYTESTERS
+Playtester credits can be found 
+in the Forgotten Waters App
+WWW.PLAIDHATGAMES.COM
+© 2020 Plaid Hat Games. Forgotten Waters, A Crossroads Game, Plaid Hat 
+Games, and the Plaid Hat Games logo are trademarks of Plaid Hat Games. Plaid 
+Hat Games is a division of Asmodee North America, Inc. 1995 W County 
+Rd B2, Roseville, MN 55113. 651-639-1905. Actual components may vary 
+from those shown. Made in China. THIS PRODUCT IS NOT A TOY. NOT 
+INTENDED FOR USE BY PERSONS 13 YEARS OF AGE OR YOUNGER.
+PIRATE NAME GENERATOR
+Roll two 12-sided dice, multiply them together and consult the 
+moniker chart to determine your moniker. Then roll two 12-sided dice, 
+multiply them together and consult the name chart to determine your 
+name. Combine the two together to form your pirate name.
+Jellyroll...
+Pinkeye...
+Snaggletooth...
+Cottonmouth...
+...the Toothsome
+Potty-mouth...
+Rich Aunt/Uncle...
+...the Carnivore
+Corpse-faced...
+Switchback...
+Wee...
+Stink-eye...
+Ornery...
+Wise Old...
+Shooty...
+Sleepy...
+...the Clown
+Hot Buns...
+Gummy...
+...Blood-guzzler
+Creepy...
+Fancy...
+...el Burro
+Firebug...
+...the Schnozz
+Landlubber...
+...the Chaste
+Stabbity...
+Padfoot...
+“Admiral”...
+“Saint”...
+Brown-nose...
+Handsome...
+...the Swole
+Coconut...
+Murderbones...
+...el Pollo
+Comrade...
+Bilgewater...
+Calico...
+Sharty...
+Chicken-legged...
+Gov’ner...
+New...
+Sandbag...
+...the Poet
+Chum-gullet...
+...Pow-Pow
+Swordfish...
+Gold Crown...
+...Giblets
+Groggy...
+...the Needle
+Scallywag...
+Tick-Tock...
+...the Walrus
+Stumpy...
+Duckface...
+Memaw/Pepaw...
+O’Dell
+McHale
+Jeanne/Jean
+Helga/Hugo
+Jackie/Jacques
+Irma/Ernie
+Carla/Carl
+Marley
+Isabelle/Ismael
+Zhu Zhu/Zebulon
+Bobbie/Bob
+Wilma/Wally
+Jones
+Kate/Kev
+Greta/Hans
+Watanabe
+Alice/Al
+McMuffins
+Hawkins
+Paola/Pablo
+Britches
+Birdy/Burt
+Basilfinger
+Mao
+Olive/Otis
+Zheng
+Coco/Carl
+Freida/Fred
+Louise/Louis
+Maude/Mac
+McGillicuddy
+Packo
+Smith
+Edna/Ed
+Cookie
+Van Der Veer
+Miller
+Checkers
+Charlotte/Chuck
+Turner
+Ditty/Jakobe
+Flores
+Sally/Sal
+Jojo
+McGee
+Shandy
+Jill/Jack
+Petunia/Pete
+Rachel/Ross
+Flo/Phil
+Ramirez
+Frannie/Frank
+Rora/Rory
+Goose
+MONIKER
+NAME

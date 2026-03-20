@@ -1,0 +1,2398 @@
+Log of Important Changes . . . . . . . . . . . . . . . . . . . . . . . 2
+1. 0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2. 0 Key Words & Concepts . . . . . . . . . . . . . . . . . . . . . . 2
+3. 0 Sequence of Play . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4. 0 Reinforcement & Admin Phases . . . . . . . . . . . . . . . 4
+5. 0 Stacking & Movement . . . . . . . . . . . . . . . . . . . . . . . 5
+6. 0 Combat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+7. 0 Reaction & Breakthrough Phases . . . . . . . . . . . . . 9
+8. 0 Special Actions & Staff Functions . . . . . . . . . . . . 10
+9. 0 Supply Phase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+10. 0 Designer’s Notes . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+11. 0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+12. 0 Game Components . . . . . . . . . . . . . . . . . . . . . . . . . 13
+13. 0 Definition of Standard Terms . . . . . . . . . . . . . . . 13
+14. 0 General Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+15. 0 Unit Rules Specific to this Game . . . . . . . . . . . . 17
+16. 0 Asset Rules Specific to this Game . . . . . . . . . . . 18
+17. 0 Event Descriptions . . . . . . . . . . . . . . . . . . . . . . . . 20
+18. 0 Optional Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+19. 0 Determining Victory . . . . . . . . . . . . . . . . . . . . . . 22
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+Series Design by Rick Young
+Golan ’73 Design by Michael Gustavsson and Rick Young
+TABLE OF CONTENTS
+Series Rule Book
+
+Page 2
+1.0 INTRODUCTION
+The Fast Action Battles (FAB) series of games are designed 
+to recreate important battles of the early to mid 20th Century, 
+using wooden blocks to represent the major combat formations 
+(units) and die-cut counters to represent the supporting ele-
+ments (assets).
+As the field commander for your chosen side, you must decide 
+how to make the best use of your units, reserves, assets, and 
+Special Actions towards fulfilling your assigned objectives.
+These games are designed to impart a good sense of the his-
+tory and to play fast (compared to other wargames on the same 
+topic), while being both fun and challenging. Enjoy the games!
+There are references to other rules – e.g. (4.3) – throughout 
+these booklets. These references may be ignored when reading 
+through the rules for the first time. They are provided to help 
+you find a rule that you might be seeking during play.
+Log of Important Changes (Volume 2)
+Log of Important Changes (Volume 3)
+Series Rules
+For continuity of understanding, we note 
+the previous important updates made to the 
+Series Rules as published in Volume 2.
+●4.34 – Delete “when a friendly unit 
+enters the area”.
+●4.34 – The following change in the 
+Official FAQ was not included but see 
+the update to 5.32: Change “one ad-
+ditional movement point to enter” to 
+read “one additional movement point 
+to enter (but not in addition to the +1 
+paid if friendly forces are present)”.
+●5.1 – Add a new sentence after “two 
+units of each side.” as follows: “No 
+unit may voluntarily end its move 
+overstacked.”
+●5.32 – Insert “and/or asset(s)” to read 
+“Entering an area that already con-
+tains unit(s) and/or assets(s), friendly 
+and/or enemy, costs one additional 
+movement point (total).”
+●5.35c – Change “into a contested area 
+each Movement Phase.” to read “into 
+an enemy-occupied area each Move-
+ment Phase.”
+●6.22 – New limit added: up to eight 
+available battle assets.
+●6.23 – New limit added: up to five 
+available battle assets.
+●6.6 – Insert the following: “If there is 
+a choice, the area chosen must contain 
+one or fewer units. If all such adjoin-
+ing areas contain two friendly units, 
+the unit must continue to retreat as 
+above and continue to do so, moving 
+toward (until reaching) the nearest 
+uncontested, friendly-controlled area 
+that contains one or fewer units.”
+●9.31c – Delete “A supply path can-
+not pass through a vacant area that is 
+adjacent to an enemy-controlled area 
+with one or more uncontested enemy 
+units.”
+Aside from minor editorial changes and 
+clarifications, the following important up-
+dates have been made to the Series Rules 
+as previously published in both volumes 1 
+and 2.
+●3.24 – Change “are resolved,” to read 
+“are resolved, one combat round per 
+selected area,”.
+●6.1 – Append “Only one combat 
+round per selected area is resolved per 
+Combat Phase.”
+●6.24 – Change “Each firing unit (and 
+asset) compares” to read “Each firing 
+unit (and asset) will compare during 
+each subsequent firing step”.
+●6.42c – Append “Any asset that is not 
+allowed to retreat per the Exclusive 
+Rules is destroyed and its loss counts 
+as a hit taken for each such asset 
+destroyed.”
+2.0 KEY WORDS & CONCEPTS
+2.1 GENERAL
+10-sided Dice—Regardless of any modifiers and the purpose 
+of the die roll, a roll of 1 will always result in success and a 
+roll of 10 will always result in failure. The dice included with 
+each FAB game are numbered from 1 to 10. If you are using 
+ten-sided dice that are numbered from 0 to 9, treat each roll of 
+a 0 as a roll of 10.
+Exclusive Rules—The Exclusive Rules (those beginning with 
+section 11.0) represent rules that are specific to the battle being 
+portrayed. If they contradict the Series Rules (sections 1-10), 
+the Exclusive Rules take precedence.
+First Player—This is the player that moves first each turn 
+(13.1).
+Selection Cup—This is an opaque container, such as a coffee 
+cup, from which assets and events are drawn at random. Each 
+player needs a selection cup (not included in the game).
+Status Boxes—Each player has his own set of Status Boxes 
+on the map sheet. The Available Box holds the assets/events 
+that are playable; the Used Box holds the assets that have been 
+used in the current game turn; and the Eliminated Box holds 
+all used events and units/assets that have been eliminated.
+
+Page 3
+Success Number—This is the number needed (or less) on a 
+10-sided die to succeed in what you are attempting. The ba-
+sic Success Number is always 5. This can be modified up or 
+down by applicable modifiers. These modifiers are listed in the 
+Combat Table on the Player-Aid Card and in the appropriate 
+rule sections.
+2.2 UNITS, ASSETS, EVENTS, & MARKERS
+Units—These are the main combat and maneu-
+ver elements. Each unit’s size depends on the 
+battle portrayed, but is usually a Regiment or 
+larger, and it is represented by a wood block with 
+a label that has been applied according to sec-
+tion 13.2. Blocks are normally placed on edge, with the labels 
+facing away from your opponent, providing a built-in limited 
+intelligence system. The current step value should be along the 
+topmost edge of the playing piece. The highest value on each 
+label represents that unit at full-strength.
+Assets—These die-cut counters represent small formations 
+which you can assign to the battles that you deem most crucial. 
+There are two types of combat assets for game pur-
+poses; indirect-support (artillery, naval gunfire, 
+etc.), and direct-support (independent formations of 
+engineers, infantry, armor, etc.). For brevity, these 
+asset types shall hereafter be called artillery assets 
+and battle assets, respectively. Various non-combat 
+assets may also be included, depending on the bat-
+tle portrayed (command staff, fuel, etc.).
+Events—Each die-cut event contains the title of the event that 
+it represents and the game turn that the chit gets added to the 
+selection cup. Events include replacements, Special 
+Actions, and other events that did or likely could 
+have occurred in the battle. The use of each event is 
+explained in section 17.0. 
+Special Actions—Special Actions represent an ex-
+tra effort of command and supplies used to prompt 
+units to perform above and beyond the normal 
+course of duty (8.0).
+Game Markers—These die-cut counters are used 
+to track game information, unit status, and to de-
+note such things as field works, blown bridges, and 
+river assaults on the map sheet.
+2.3 UNIT DETAILS
+Armor & Infantry Class—Units and assets that are armor class 
+represent formations with significant armor components. Units 
+and assets that are infantry class represent formations without 
+significant armor components. Rule 13.3 shows which unit and 
+battle asset types are in each class and rule 13.4 (if defined) 
+identifies information and symbols on the units and markers.
+Good Order—Units without either a disordered or a recovering 
+marker are said to be in good order and they operate with nor-
+mal capabilities. 
+Disordered—Units (not assets) can become disordered, which 
+affects their capabilities until they recover (6.5). Such units are 
+marked with either a disordered or a recovering marker.
+Higher Echelons—Rule 13.2 identifies the 
+Higher Echelons (Corps or Army HQ’s) 
+and their identifying colors. These Higher 
+Echelons are an administrative concept and 
+are not represented by actual game pieces, but 
+all the units, assets, and events in the game will show which 
+Higher Echelon they belong to by the colors on their labels and 
+counters (shown as the background of the counters for events 
+and within the unit symbols for units and assets).
+Morale Checks—At certain times the rules will call for a unit 
+to make a morale check against its troop quality to see if it is 
+able to endure the stress of the task requested of it (6.7).
+Point Unit—This is the unit that leads the attack for the 
+Attacker or defends the key approaches for the Defender. Both 
+sides designate a point unit for each combat (6.24).
+Reserve Units—These are units that have been 
+marked with a reserve marker, which are limited by 
+the counter-mix. Reserve units may move during a 
+future Movement Phase (5.21).
+Steps/Step-Losses—Steps are the increments by which units 
+are built-up by certain events (or Special Action usage) and 
+depleted by step-losses. Steps are represented by the number of 
+pips on the outside edge of the unit labels, with the current step 
+value being on the uppermost edge. If a multi-step unit suffers 
+a step-loss, reduce its current step value by rotating the block 
+90 degrees counter-clockwise. If a unit with only one step re-
+maining suffers a step-loss, it is eliminated.
+Troop Quality—This represents the skill, equipment, training, 
+and motivation of the units/assets, and is shown by 
+the color of the pips on the edge of the piece. Red 
+pips represent elite quality troops, black pips repre-
+sent veteran quality troops, and white pips represent 
+green quality troops. Current troop quality may 
+change as the unit’s current step value changes. A 
+unit’s current troop quality may provide Success 
+Number modifiers for combat and morale checks.
+Unit Status—This refers to a unit’s current condition (good 
+order or disordered; supplied or unsupplied; marked as a re-
+serve or not).
+2.4 AREAS
+Area—Each numbered and named playing space on the map is 
+called an area. Units in play should always be within an area.
+Contested & Uncontested Areas—An area containing forces 
+from both sides is said to be contested. An area containing no 
+forces or forces of only one side is said to be uncontested.
+Controlled Areas (friendly and enemy)—Each area is con-
+trolled by one side or the other, whether contested or not. An 
+area is controlled by the side that was the last sole-occupant. 
+Players begin each scenario controlling all areas identified 
+by the scenario rules (22.0). Change of an area’s control oc-
+curs at the instant one or more of the other side’s units are the 
+sole-occupants. Assets may retain, but do not change an area’s 
+control. Use control markers for areas where the controlling 
+side is not obvious (9.2).
+VETERAN
+ELITE
+GREEN
+
+Page 4
+Terrain—Apart from certain boundaries and blown bridges, 
+terrain has no effect on movement. The terrain difficulty 
+symbol shown within each area matches a Terrain Difficulty 
+Number on the Map Legend which is a modifier that is applied 
+against the Attacker’s ground fire (6.28).
+Newly Contested Area—A newly contested area is an area 
+containing units of both sides, where the area was uncontested 
+prior to the just completed Movement Phase. Newly contested 
+areas are recognizable at the start of the Combat Phase by the 
+units within them not yet being displayed face-up. 
+3.0 SEQUENCE OF PLAY
+3.1 REINFORCEMENT PHASE
+Both players receive new units, assets, and events, and also 
+relocate assets from the Used Box (4.1).
+3.2 FIRST PLAYER TURN
+The First Player moves first in each game turn and is the 
+Phasing Player for steps 3.21 through 3.28 below. The Second 
+Player is the Non-phasing Player.
+3.21 Admin Phase
+Assets and events are added to the Available Box (4.2a). Events 
+and engineering assets may then be played by both players 
+(4.2b & 4.2c).
+3.22 Operational Movement Phase
+Each of the Phasing Player’s units may move, build field works, 
+hold its position, or be marked as a reserve (5.21 – 5.24).
+3.23 Strategic Movement Phase
+The Phasing Player may move units marked with a reserve 
+marker via strategic movement (5.4). Restrictions that apply 
+are found in 14.8. 
+3.24 Combat Phase
+All combats required or desired by the Phasing Player are re-
+solved, one combat round per selected area, in any order the 
+Phasing Player determines, per the combat rules (6.0).
+3.25 Reaction Phase
+The Non-phasing Player moves any reserve units that he wish-
+es to move, up to their full movement allowance, removing the 
+reserve marker from the units that have moved (7.2).
+3.26 Breakthrough Movement Phase
+The Phasing Player moves any units marked with an exploita-
+tion marker (6.8), any reserve units (5.21), and any other units 
+he activates via Special Action (8.21) as desired, in any order 
+desired (7.3). 
+3.27 Breakthrough Combat Phase
+A round of combat must be fought in newly contested areas, 
+and may be fought elsewhere by spending a Special Action 
+(8.22). Once this Combat Phase begins, there is no more move-
+ment allowed for the current player turn.
+3.28 Supply Phase
+Both players verify the control of areas, check supply for 
+friendly units, and adjust disordered markers; then the Phasing 
+Player makes unsupplied morale checks; and then both players 
+remove all appropriate markers (9.0). 
+3.3 SECOND PLAYER TURN
+The Second Player now performs Phases 3.21 through 3.28 as 
+the Phasing Player, with the First Player becoming the Non-
+phasing Player.
+3.4 VICTORY CHECK
+Victory Points are calculated (19.0) and a check is made for a 
+sudden death victory (19.4).
+3.5 GAME TURN ADVANCEMENT
+If a sudden death victory was not achieved, advance the Game 
+Turn marker to the next turn unless the last turn of the game 
+was just played. In that case, check the scenario’s victory con-
+ditions to determine which side has won the game. 
+4.0 REINFORCEMENT & ADMIN PHASES
+4.1 REINFORCEMENT PHASE
+Both players perform each of the following actions in the se-
+quence listed below:
+a)	 If a player’s reusable Special Action was available to him 
+last turn and he did not use it (it’s still in the Available Box), 
+the player may move any one asset of his choice directly 
+from the Used Box into the Available Box, while also keep-
+ing the reusable Special Action in the Available Box for the 
+current turn. Move any reusable Special Action(s) in each 
+player’s Used Box into their respective Available Box.
+b)	 Both players move any and all assets that remain in their 
+Used Box into their respective selection cup. 
+c)	 Place reinforcing units on their respective entry area(s) 
+as shown on the unit label. There is no movement cost in 
+placing these units in their starting areas. In games with 
+multiple entry areas, the entry area letters on the map are 
+labels identifying the adjoining entry areas, and are not 
+areas themselves. Placement may not violate stacking, nor 
+may units be placed in an enemy-controlled area unless the 
+area is currently vacant. If the unit’s label lists two areas, 
+the listed areas indicate a range of allowable entry areas 
+(e.g. AC means the unit can be placed in Entry Area A, B, 
+or C). If all indicated entry areas are currently blocked per 
+the above, the unit’s arrival is delayed by one turn and it 
+then arrives at the nearest allowed appropriate entry area 
+(14.2). Another option would be to spend a Special Action 
+to reroute the reinforcement on its indicated turn (8.27). 
+Units arrive at full-strength unless otherwise indicated by 
+the scenario.
+d) Place reinforcing assets/events in the selection cup.
+
+Page 5
+4.2 ADMIN PHASE
+This Phase occurs at the start of each player turn and is per-
+formed in the following sequence:
+a)	 Both players randomly draw a number of assets/events 
+from their selection cup as indicated on the Turn Track (see 
+example below), placing the drawn chits in the Available 
+Box.
+b)	 The Phasing Player may play events currently in the Avail-
+able Box, and use engineer assets currently in the Available 
+Box to perform engineering functions (4.3). The Phasing 
+Player may also perform Staff Functions (8.3) and certain 
+Special Action uses (8.25 & 8.26) at this time.
+c)	 The Non-phasing Player may then play events, Staff Func-
+tions, Special Actions, and engineer assets as above.
+4.21 Alternate Event Use
+Either player may elect to use an event to move two assets 
+(not units or other events) of the owning player’s choice from 
+the Eliminated Box into the selection cup, rather than for its 
+printed (17.0) purpose.
+4.22 Used Events
+Whether used for its printed purpose or the alternative use 
+above, events are single-use only and each is placed in the 
+Eliminated Box after being used.
+4.3 ENGINEERING FUNCTIONS
+Each engineer asset in the Available Box may be used to per-
+form one of the functions defined in 4.31 through 4.35 below, 
+a function specified in the Exclusive Rules (14.5), or may be 
+used as a battle asset during combat (6.32 & 6.33).
+4.31 Blow up Bridge(s)
+Bridges may be demolished (blown) where the en-
+gineering player has a supplied, friendly-controlled, 
+and uncontested area adjacent to the river boundary. 
+Each engineer asset may blow up to two bridges 
+in an Admin Phase, provided both bridges are adjacent to the 
+same eligible area. Place a blown bridge marker on the affected 
+river boundaries and place the engineer asset in the Used Box.
+4.32 Repair a Bridge
+To repair a blown bridge, the engineering player must either 
+control both areas adjoining the blown bridge or control one 
+area and contest the enemy-controlled one. Each engineer 
+asset may repair one bridge in an Admin Phase. The friendly-
+controlled area that the repair is originating from must be both 
+supplied and uncontested. Remove the blown bridge marker 
+and place the engineer asset in the Used Box.
+4.33 Construct Field Works
+Place a field works marker on any supplied, friend-
+ly-controlled, uncontested area containing at least 
+one friendly unit of the same Higher Echelon as the 
+engineer, and then place the engineer asset in the 
+Used Box.
+4.34 Construct a Roadblock
+Place a roadblock marker on any supplied, friend-
+ly-controlled, and vacant area that has a Terrain 
+Difficulty Number of one or higher, and then place 
+the engineer asset in the Used Box. The effect of the 
+roadblock is that for the current player turn, the first enemy unit 
+that enters the area must pay one additional movement point to 
+enter, and then it ends its movement in that area. The roadblock 
+marker is removed when an enemy unit pays this penalty or 
+during the Supply Phase of the same player turn (9.5).
+4.35 Create a Defended Roadblock
+Place the engineer asset itself instead of a road-
+block marker in a supplied, friendly-controlled, 
+and vacant area that has a Terrain Difficulty 
+Number of one or higher. The defended roadblock 
+is identical to the roadblock above, except that the engineer 
+asset is not removed by an enemy unit entering the area, acting 
+partly as a unit instead, in that it may attempt to blow bridges 
+by following rule 5.35d, and it causes all enemy units to stop in 
+the area, forcing them to resolve combat. During the Combat 
+Round, the Defender may not use a Special Action to reinforce 
+or retreat before combat and one artillery asset from the same 
+Higher Echelon is the only asset that may be assigned to help 
+the defending engineer (no events). If the defending engineer 
+survives until the Supply Phase (with or without combat), it is 
+placed in the Used Box.
+Note: Only use defended roadblocks to avert a crisis, as they 
+will often result in the destruction of a valuable engineer asset.
+5.0 STACKING AND MOVEMENT
+5.1 STACKING LIMITS
+Each area may hold up to two units of each side. No unit may 
+voluntarily end its move overstacked. Stacking limits are en-
+forced at the end of each Phase and throughout each Combat 
+Phase by retreating (6.6) any units in excess at those times. 
+Units unable to legally retreat to correct overstacking are 
+eliminated instead. There is no stacking limit for assets.
+5.2 OPERATIONAL MOVEMENT PHASE OPTIONS
+During an Operational Movement Phase, each eligible unit 
+may be placed in reserve, move to another area within range of 
+its movement allowance, build field works, or hold its position. 
+5.21 Placing Units in Reserve
+Reserve markers may be placed on eligible (14.7) units dur-
+ing the Operational Movement Phase, up to the limit of the 
+counter-mix. A unit that is in reserve may move either in 
+the same Operational Movement Phase, in the Strategic 
+Movement Phase, during a Reaction Phase, or a Breakthrough 
+Operational Movement Phase. The reserve marker is removed 
+
+Page 6
+when the unit moves, when the area containing the reserve 
+becomes contested, or during the enemy player’s next Supply 
+Phase (9.5).
+5.22 Moving to Another Area
+During a friendly Operational Movement Phase, each infantry 
+class unit has a movement allowance of three movement points, 
+and each armor class unit has a movement allowance of six 
+movement points. No unit may exceed its movement allow-
+ance unless moving only one area (5.33). Units are revealed 
+(placed face-up) when entering a contested area if the other 
+forces within that area are already face-up from a prior Combat 
+Round, even if the existing units leave to allow new units to en-
+ter. Otherwise the area containing enemy units becomes newly 
+contested and the units remain upright until the Combat Phase.
+5.23 Building Field Works
+A unit may expend its entire movement allowance in an un-
+contested area to place a field works marker in that area. Only 
+supplied units in good order may build field works. No area 
+can contain more than one field works marker. All units 
+friendly to the unit that built the field works benefit from it in 
+that area. A field works marker is removed when it absorbs the 
+first hit in combat, when the area does not contain a friendly 
+unit at the end of any Phase, by an enemy engineer in combat 
+(6.33), or when the area is contested during any Supply Phase. 
+Field works never benefit enemy units. Enemy units have a –1 
+Success Number modifier when firing at friendly infantry units 
+that are in field works at the time the attacking dice are rolled.
+5.24 Hold Position
+The unit neither moves nor changes its status.
+5.3 OPERATIONAL MOVEMENT
+5.31 Boundaries & Connections
+Each area is separated from other areas by its boundaries. 
+Units use connections to cross those boundaries, which costs 
+movement points. The Exclusive Rules may introduce other 
+boundary and/or connection types (14.1).
+Boundary Types—The standard boundary types are as follows:
+●Open boundary→
+●River boundary→
+A bridge always exists on each 
+river boundary unless a blown 
+bridge marker is present
+Blown bridges affect movement 
+Connection Types—The standard connection types are as follows:
+●Road connection→
+Basic movement cost: 1 MP 
+Where a primary road con-
+nects two adjacent areas
+Primary roads connecting to 
+adjacent areas do not have to 
+be connected to each other in-
+side an area
+●Field connection→
+Basic movement cost: 2 MP 
+Where no primary road con-
+nects two adjacent areas 
+5.32 Movement Point Costs Between Areas
+Units may move between adjoining areas. Units may not move 
+diagonally across the point where boundaries intersect. The 
+movement costs are as follows:
+●If a road connects two areas (whether crossing over an open 
+or a river boundary), the crossing costs one movement point.
+●Otherwise, it is a field connection (whether crossing over an 
+open or river boundary) and the crossing costs two move-
+ment points.
+●A river boundary where the bridge has been blown costs a 
+unit its entire movement allowance to cross. This supersedes 
+the two previous bullet points.
+●Entering an area that already contains unit(s) and/or assets(s), 
+friendly and/or enemy, costs one additional movement point 
+(total).
+●Units exiting a contested area pay one additional movement 
+point (5.34).
+●Unsupplied and/or disordered units are only permitted to 
+move into an adjacent area (5.33).
+5.33 Guaranteed Minimum Movement
+A unit may always move from its starting point to a non-pro-
+hibited adjacent area, even if such a move would exceed its 
+movement allowance.
+5.34 Exiting a Contested Area
+If exiting a contested area, the first area entered must be both 
+friendly-controlled and uncontested. From that first allowed 
+area the unit may continue moving, up to the limit of its move-
+ment allowance, but that unit may neither enter nor create 
+another contested area during that same Movement Phase.
+5.35 Other Movement Restrictions:
+a)	 Units are always moved one at a time, with one unit com-
+pleting its move before the next unit begins its move.
+b)	 Units must stop when entering either an area containing 
+enemy unit(s), asset(s) or a roadblock (4.34 & 4.35).
+c)	 Only one unit may cross each river boundary (whether the 
+bridge is blown or not) into an enemy-occupied area each 
+Movement Phase. There is no limit on the number of units 
+crossing a river boundary into uncontested areas, even if 
+leaving a contested area.
+d)	 A unit that attempts to cross a River boundary into a newly 
+contested area triggers an opportunity for the opposing side 
+to attempt to blow that bridge. This attempt is optional, and 
+succeeds on a 1-5. If the bridge is blown, the unit that trig-
+gered the attempt may still cross the river if it began the 
+Phase adjacent to the targeted area. If the unit does not or 
+cannot cross, it does not pay the movement cost for the area 
+it was to have entered. It instead loses one movement point, 
+but may continue moving.
+
+Page 7
+e)	 A river assault marker is placed for newly con-
+tested areas where all attacking units crossed 
+river boundaries into the area and at least one 
+of the attacking units crossed a blown bridge 
+into the area.
+5.4 STRATEGIC MOVEMENT (STRAT-MOVES)
+Only supplied units that are marked with a reserve marker 
+may strat-move. See rule 14.8 for applicable restrictions. To 
+strat-move, the unit is moved from its starting area to any other 
+friendly-controlled and supplied area that it can trace a con-
+tinuous path of road and field connections to, without crossing 
+a blown bridge or moving into or through an enemy-controlled 
+or a contested area. Remove the reserve marker from any units 
+that strat-move.
+6.0 COMBAT
+6.1 GENERAL RULES
+Combat is required for newly contested areas. Combat is op-
+tional (Phasing Player’s option) where an area was already 
+contested, signified by the units already being face-up at the 
+start of the Combat Phase. Combats are resolved in any order 
+chosen by the Attacker. Only one combat round per selected 
+area is resolved per Combat Phase.
+6.2 THE COMBAT ROUND
+The following sequence must be followed each time there is 
+a Combat Round fought within an area. For combat purposes, 
+the Phasing Player is always the Attacker, and the Non-phasing 
+Player is always the Defender. Disordered units may not partic-
+ipate for the Attacker nor be assigned losses but do participate 
+for the Defender normally (with the −1 Success Number modi-
+fier for being disordered).
+6.21 Defender’s Special Action Decision
+The Defender may use a Special Action to reinforce or retreat 
+from this battle (8.23 & 8.24). If the Defender retreats, an ex-
+ploitation opportunity arises (6.8), and this Combat Round is 
+over (proceed to 6.29), otherwise continue to 6.22 below.
+6.22 Attacker Assigns Assets
+Provided his forces present are both in supply (from the Supply 
+Phase) and can currently trace a valid supply path (9.31), the 
+Attacker may assign assets to this battle from his Available Box 
+by placing them in the contested area. If all attacking units are 
+from the same Higher Echelon, then up to two artillery assets 
+and/or one event from that Echelon may be assigned for the 
+Attacker, plus up to eight available battle assets from the same 
+Higher Echelon as the attacking units. If units from different 
+Higher Echelons are involved, then no battle assets (or events) 
+may be assigned; only the artillery assets are allowed (up to 
+one from each involved Higher Echelon).
+6.23 Defender Assigns Assets
+Provided his forces present can currently trace a valid supply 
+path (9.31), the Defender may assign assets to this battle from 
+his Available Box by placing them in the contested area. If all 
+defending units are from the same Higher Echelon, no more 
+than one artillery asset and/or one event may be assigned for 
+the Defender, plus up to five battle assets from the same Higher 
+Echelon as the defending units. If units from different Higher 
+Echelons are involved, only one artillery asset may be assigned 
+from either involved echelon (no battle assets or events chits). 
+This also applies if the only defender is an asset (4.35). 
+6.24 Point Units Designated, then Units Revealed
+Both sides designate their point unit, Defender first. For a new-
+ly contested area, the Defender designates, but does not reveal 
+the point unit until the Attacker also designates his point unit. 
+After both sides have designated their point units, unrevealed 
+units of both sides are revealed in opposing lines, with their 
+current step value facing the line of enemy units. Each firing 
+unit (and asset) will compare during each subsequent firing 
+step its own unit type and troop quality against the opposing 
+side’s point unit to determine applicable modifiers for its own 
+Success Number. The point unit for both sides will also be the 
+first unit to suffer a step-loss during the Combat Round (battle 
+assets may suffer losses before the point unit). The point unit 
+cannot be an asset unless there is no unit present.
+6.25 Attacking Artillery Fires
+The Attacker rolls one die per assigned artillery asset, modi-
+fying the Success Number as indicated by the Combat Table. 
+All hits are then applied to the Defender per rule 6.42. If the 
+point unit is eliminated, a new one must be chosen following 
+rule 6.24 if any defenders remain. If all non-artillery defend-
+ers are eliminated, an exploitation opportunity (6.8) arises for 
+the Attacker and the Combat Round ends after any defending 
+artillery fires (6.26).
+6.26 Defending Artillery Fires
+The Defender rolls one die per assigned artillery asset (some of 
+the FAB games allow more than one for certain Defenders—
+see 16.0), modifying the Success Number as indicated by the 
+Combat Table. All hits are then applied to the Attacker per rule 
+6.41. If the point unit is eliminated, a new one must be chosen 
+as in rule 6.24 if any attackers remain. If the Attacker aborts 
+the attack (6.41b), the Combat Round is over (proceed to 6.29), 
+otherwise continue to rule 6.27 below. 
+6.27 Defensive Ground Fire
+The Defender fires his remaining units and battle assets, roll-
+ing one die per firing step, modifying the Success Number as 
+indicated by the Combat Table. After all dice are rolled, any 
+hits are applied to the Attacker per rule 6.41, starting again 
+with priority ‘a’. If the Attacker aborts the attack (6.41b), the 
+Combat Round is over (proceed to rule 6.29), otherwise con-
+tinue to 6.28 below. 
+6.28 Offensive Ground Fire
+The Attacker fires his remaining units and battle assets, roll-
+ing one die per firing step, modifying the Success Number as 
+indicated by the Combat Table. After all dice are rolled, any 
+hits are applied per rule 6.42, starting again with priority ‘a’. If 
+all defending units and battle assets are eliminated with at least 
+one unapplied hit remaining, an exploitation opportunity (6.8) 
+arises for the Attacker.
+
+Page 8
+6.29 End of the Combat Round
+Both sides move surviving assets (artillery and battle) from the 
+contested area to their own Used Box. If both sides have units 
+remaining in the area, the units remain face-up in opposing 
+lines within the area, otherwise the remaining units (plus any 
+units that retreated) are now tipped up and faced away from 
+the enemy.
+6.3 ASSETS IN COMBAT
+Assets are used in combat by assigning them to a battle, 
+Attacker first, after the Defender decides on his retreat or rein-
+force options (6.21 – 6.23). 
+6.31 Artillery Assets
+The Attacker may assign one or two artillery assets per battle 
+while the Defender may only assign one. Artillery 
+fires during the Combat Round (6.25 & 6.26). 
+Artillery assets may not be assigned step-losses 
+(6.43).
+6.32 Battle Assets
+Battle assets may be assigned to each battle if the appropriate 
+conditions are met (6.22 & 6.23). Battle assets do not modify 
+the current troop quality of any unit in the battle, 
+nor vice-versa. Battle assets are fired with friendly 
+units (6.27 & 6.28). Each battle asset that suffers a 
+step-loss is eliminated.
+6.33 Engineer Assets in Combat
+An assigned engineer asset may automatically eliminate the 
+enemy field works marker, if one exists, instead of firing as a 
+battle asset (it still counts as one of your allowed battle assets 
+either way). To do this the engineer asset must have survived 
+artillery and defensive ground fire, and the Attacker must not 
+have aborted the attack. The enemy field works 
+marker is removed prior to other friendly units fir-
+ing, thus negating the field works’ –1 Success 
+Number modifier.
+6.4 HIT DISTRIBUTION AND PRIORITIES
+Hits are applied according to the following rules. All hits are 
+distributed by a combination of absorbing the hits (due to abort-
+ing the attack, removing field works, becoming disordered and/
+or retreating from battle) and taking the hits by applying step-
+losses. Players use the appropriate hit-priority sequence (6.41 
+or 6.42) to apply hits against their own units and battle as-
+sets. Players move eliminated units, assets and events to their 
+respective Eliminated Boxes and place any large eliminated 
+units on the Large Eliminated Units Track (19.2).
+6.41 Hit Priorities for hits against the Attacker
+a)	 Mandatory Step-Loss: The first hit is always taken either 
+by having a step-loss inflicted upon the point unit or by 
+eliminating any one assigned battle asset.
+b)	 If more hits were scored, the Attacker must choose to either:
+●Abort the Attack: Ignore all remaining hits by abort-
+ing the attack. Units that abort the attack remain in the 
+contested area and become disordered. For river assaults 
+(5.35e), aborting unit(s) cannot remain in place; they be-
+come disordered and retreat (6.6) back across the river(s) 
+that they moved across. Any assets remaining that were 
+assigned are sent to the Used Box.
+●Apply Step-Losses: Take the remaining hits by applying 
+step-losses. Follow the step-loss allocation rules of 6.43. 
+6.42 Hit Priorities for hits against the Defender
+a)	 Loss of Field Works if Present: The first hit in the Combat 
+Round from any firing source is absorbed by removing the 
+field works marker, if present.
+b)	 Disorder Option due to Artillery Fire: When hits from artil-
+lery are applied, one hit may be absorbed (after any field 
+works marker has been removed) by placing a disordered 
+marker on all defending units (not assets) that are in good 
+order or recovering (6.5). If all defending units are already 
+disordered or there are only defending assets present (4.35), 
+this option may not be taken.
+c)	 Retreat Option due to Ground Fire: When hits from offen-
+sive ground fire are applied, one hit may be absorbed (after 
+any field works marker has been removed) by retreating all 
+units present (6.6—note that retreating units not already 
+disordered become disordered). Assets are not physically 
+retreated; instead, surviving assets are placed in the Used 
+Box after the battle. Retreat is not possible for areas defended 
+only by assets (4.35). Retreating units/assets remain suscep-
+tible to priority (d) below for remaining unapplied hits. Any 
+asset that is not allowed to retreat per the Exclusive Rules is 
+destroyed and its loss counts as a hit taken for each such asset 
+destroyed.
+d)	 Apply Step-Losses: Any remaining hits (after any field 
+works marker has been removed and any disorder/retreat 
+option taken above) are taken by applying step-losses, us-
+ing the step-loss allocation rules of 6.43. If the Attacker 
+inflicts more hits than the Defender can absorb/take, an 
+exploitation opportunity (6.8) arises for the Attacker.
+6.43 Step-Loss Allocation
+Step-losses are allocated at the discretion of each player to 
+his own units and battle assets according to the following 
+restrictions:
+●The first unit to suffer a step-loss must be the point unit 
+(battle assets may suffer losses before the point unit).
+●Each friendly unit and battle asset present must receive one 
+step-loss before any unit receives a second step-loss.
+●After all friendly units present have taken a step-loss and 
+all friendly battle assets have been eliminated by taking a 
+single step-loss each, there is no further restriction on how 
+the owning player distributes any remaining step-losses.
+
+Page 9
+6.5 DISORDER RESULTS & RECOVERY
+Units (not assets) can become disordered (see 9.33 for effects of 
+being disordered) during a Combat Phase. When this happens, 
+place a disordered marker on the affected unit(s). Recovery is 
+a two-step process for eligible units (see 9.35 for the proce-
+dure to follow during Supply Phases). Units with a recovering 
+marker suffer all the effects of being 
+disordered. Units that suffer a disor-
+der result while they are ‘recovering’ 
+have the marker again flipped to its 
+disordered side. There is no addi-
+tional effect when a disorder result 
+is applied to units that are already 
+disordered.
+6.6 RETREATS
+Any time a retreat is called for, the owning player moves the 
+retreating units one at a time from the retreat’s origination area 
+to an adjoining, uncontested, friendly-controlled area (two re-
+treating units may retreat to different areas), even if a retreat is 
+across a blown bridge. If there is a choice, the area chosen must 
+contain one or fewer units. If all such adjoining areas contain 
+two friendly units, the unit must continue to retreat as above 
+and continue to do so, moving toward (until reaching) the near-
+est uncontested, friendly-controlled area that contains one or 
+fewer units. If the unit cannot retreat, it must take step-loss(es) 
+instead. Retreats do not require movement points. Units that 
+retreat are marked with a disordered marker after retreating un-
+less they retreated via Special Action (8.24). Surviving assets 
+do not retreat, and are instead placed in the Used Box after the 
+battle is fully resolved.
+6.7 MORALE CHECKS
+At certain times the rules will call for a unit/asset to make a 
+morale check to determine whether it can accomplish a goal 
+or sustain a challenge in game terms. A morale check is per-
+formed by rolling a single 10-sided die for each affected unit/
+asset, with the Success Number of 5 being modified by troop 
+quality (–2 Green, +2 Elite) and/or being disordered or unsup-
+plied (–1 each). A hidden unit making a morale check must be 
+revealed for the duration of the roll. The penalty for failing a 
+morale check varies depending on the situation and is outlined 
+in the appropriate rules.
+6.8 EXPLOITATION OPPORTUNITIES
+If the Defender of a battle is completely eliminated 
+(excluding artillery assets) by artillery fire, retreats 
+via Special Action, or is eliminated by ground fire 
+with at least one hit that remains unresolved, an 
+exploitation opportunity results, and all attacking armor-class 
+unit(s) in that area make a morale check (exception—out of 
+supply units may not receive an exploitation marker and exploi-
+tations never arise from river assaults or Breakthrough Combat 
+Phases). A hidden unit may decline the opportunity and remain 
+hidden (6.7). Armor-class units that pass this morale check have 
+an exploitation marker placed on them. This allows the marked 
+unit(s) to move in the Breakthrough Movement Phase (7.3).
+7.0 REACTION & BREAKTHROUGH PHASES
+7.1 ELIGIBILITY
+The Non-phasing Player’s units that are marked with a reserve 
+marker may participate in the Reaction Phase. The Phasing 
+Player’s units that are marked with a reserve marker, plus 
+armor-class units that are either marked with an exploitation 
+marker or that have been activated by a Special Action may 
+participate in the Breakthrough Phase.
+7.2 REACTION PHASE
+The Non-phasing Player may move friendly units marked with 
+a reserve marker up to their full movement allowance, either to 
+an uncontested area or to reinforce a contested area, but may 
+not use them to create a newly contested area. There is no com-
+bat during the Reaction Phase. Reserve units may opt to build 
+field works rather than move. The reserve marker is removed 
+from each unit after it moves or builds field works.
+7.3 BREAKTHROUGH MOVEMENT PHASE
+The Phasing Player may move units marked with reserve mark-
+ers and those marked with exploitation markers, and may also 
+use Special Actions to move other armor-class units as exploi-
+tation units (8.21). Once breakthrough combat (7.4) begins, no 
+more breakthrough movement is allowed.
+7.31 Movement Restrictions
+Reserve-marked units may make a normal operational move 
+with their full movement allowance. Exploitation-marked units 
+may only move one area and may not cross a blown bridge 
+even if blown by the unit’s attempted move, in which case the 
+unit cannot move at all. Either type of unit may enter contested 
+areas and may build field works rather than move. Reserve 
+and exploitation units are moved one at a time, in any order, 
+intermingled as the Phasing Player desires. After each unit 
+moves or builds field works, its reserve or exploitation marker 
+is removed. Reserve units that do neither retain their reserve 
+markers for use in the next player-turn’s Reaction Phase.
+7.32 Newly Contested Areas
+Creating newly contested areas is allowed for both reserve 
+and exploitation units. A mandatory round of combat must be 
+fought during the Breakthrough Combat Phase for these areas. 
+Non-phasing units in these areas may attempt to blow bridges 
+that the Phasing Player attempts to cross (5.35d). 
+7.4 BREAKTHROUGH COMBAT PHASE
+Mandatory and optional combats as described below may be 
+fought in any order desired by the Phasing Player.
+7.41 Mandatory Combats
+One round of combat is fought in newly contested areas that 
+resulted from the Breakthrough Movement Phase. This com-
+bat round is fought according to the combat procedure (6.2) 
+without requiring a Special Action.
+7.42 Optional Combats
+Additionally, already contested areas may have one round of 
+combat fought in them, using the combat procedure (6.2), if 
+the Phasing Player spends a Special Action to re-engage the 
+area (8.22).
+
+Page 10
+8.0 SPECIAL ACTIONS & STAFF FUNCTIONS
+8.1 GENERAL RULES
+Special Actions come in two types, reusable and single-use. 
+There is also a command staff asset which may be used to per-
+form Staff Functions (8.3).
+●Reusable Special Actions represent your personal com-
+mand influence and may affect unit(s) of any 
+friendly Higher Echelon(s). They are represented 
+in the game as wood blocks that have a Special 
+Action label affixed. They are moved to the Used 
+Box after use, and automatically returned to the Available 
+Box during the Reinforcement Phase, bypassing the selec-
+tion cup process. 
+●Single-use Special Actions represent the command influ-
+ence of your Higher Echelon commanders and 
+may only affect units of the matching Higher 
+Echelon. They are represented in the game as 
+events, which are placed in the Eliminated Box 
+after use. Either type may be used to perform any one func-
+tion described in rules section 8.2. A single-use Special 
+Action does not count against the one event allowed per 
+battle.
+●The Command Staff Asset represents your HQ staff work-
+ing in the background in an ongoing effort to 
+uncover additional resources for you and when 
+available it may be used for any Staff Function 
+listed in section 8.3. 
+8.2 SPECIAL ACTION USES (see also 14.61)
+8.21 Conduct Breakthrough Movement (Breakthrough Phase)
+Each Special Action spent allows one supplied armor-class unit 
+in good order that has not yet moved this phase to move in the 
+Breakthrough Movement Phase, moving as an exploitation-
+marked unit (one area only—see 7.31). 
+8.22 Conduct Breakthrough Combat (Breakthrough Phase)
+Each Special Action spent allows one already contested area 
+to have a round of combat fought in it during the friendly 
+Breakthrough Combat Phase. This area may not have already 
+fought a round of combat during this same Breakthrough 
+Combat Phase.
+8.23 Reinforce a Battle (Combat or Breakthrough Phase)
+Each Special Action spent allows one unit in good order from 
+an adjacent uncontested area to reinforce a declared combat 
+(Defender only). This reinforcing unit may not violate stacking, 
+may not reinforce a battle involving only assets (4.35), and may 
+not be designated as the point unit unless the original point 
+unit is eliminated (6.25).
+8.24 Retreat before Combat (Combat or Breakthrough Phase)
+Each Special Action spent allows the Defender (only) in a de-
+clared combat to retreat all units as per rule 6.6, except that 
+the retreating units do not become disordered. The Attacker 
+should await the Defender’s decision before assigning assets. 
+The Attacker is awarded an exploitation opportunity (6.8) if 
+this retreat is conducted. 
+8.25 Rally the troops (Admin Phase)
+Each Special Action spent in an Admin Phase allows the player 
+to designate any one supplied area. All friendly units marked 
+as disordered or recovering within the designated area and all 
+adjacent areas recover fully and have their disordered and re-
+covering markers removed. 
+8.26 Acquire Quality Replacements (Admin Phase)
+Each Special Action spent in an Admin Phase allows the own-
+ing player to select a supplied reduced unit (either unit class) 
+to receive one step of replacements, even if the replacement 
+step is elite.
+8.27 Reroute a Reinforcing Unit (Reinforcement Phase)
+Each Special Action spent in the Reinforcement Phase allows 
+one reinforcing unit to be placed in any friendly-controlled or 
+vacant enemy-controlled appropriate entry area (14.2) outside 
+its listed entry area(s).
+8.3 STAFF FUNCTIONS (see also 14.62)
+The command staff asset, when in the Available Box, may be 
+used to perform any one of the below Staff Functions during 
+an Admin Phase, with no Higher Echelon restrictions, after 
+which it is placed in the Used Box and recycled like any other 
+asset.
+8.31 Replacements
+One step of non-elite replacements may be added to any sup-
+plied infantry-class unit.
+8.32 Intelligence Gathering
+Choose any one enemy unit, anywhere on the map and in any 
+supply status, which is then revealed to you until the end of the 
+Admin Phase.
+8.33 Reserves Made Available
+Mark any eligible unit (14.7) with an appropriate and available 
+reserve marker.
+
+Page 11
+9.0 SUPPLY PHASE
+9.1 SEQUENCE
+The following steps occur during this Phase, in the order listed. 
+Both players are involved in each of these steps and they may 
+resolve their portions simultaneously.
+a)	 Verify control of areas.
+b)	 Determine supply status and adjust disordered markers.
+c)	 Perform morale checks for Phasing Player’s unsupplied 
+units and remove appropriate markers.
+9.2 VERIFY CONTROL OF AREAS
+Both players check each area to verify that 
+control is intuitively clear to them; other-
+wise the area is marked by a control marker 
+from the appropriate side (the last 
+sole-occupant).
+9.3 DETERMINE SUPPLY STATUS & ADJUST 
+DISORDERED MARKERS
+9.31 Tracing a Supply Path
+Supply is checked for both players during each player’s Supply 
+Phase. A unit’s or area’s supply status remains valid until the 
+next Supply Phase. A supply path is traced from any given 
+friendly unit or friendly-controlled area towards any valid sup-
+ply source (14.9). 
+a)	 The supply path is traced through friendly-controlled areas, 
+and it may only trace over a blown bridge if the tracing unit/
+area is adjacent to that blown bridge. 
+b)	 A supply path may be traced out of enemy-controlled areas, 
+but never into or through them. 
+c)	 	Supply may be traced into or through contested friendly-
+controlled areas.
+9.32 Marking Supply Status
+Units and areas that cannot trace a valid supply path are un-
+supplied and have an unsupplied marker placed on 
+them. Unsupplied markers are removed from units 
+and areas that were previously marked as unsup-
+plied that can now trace a valid supply path.
+9.33 Effects on Units that are Unsupplied and/or Disordered:
+a)	 Units may only move one area during a Movement Phase, 
+complying with rule 5.34 when appropriate.
+b)	 Units may not build field works or be placed in reserve.
+c)	 Units have a –1 Success Number modifier when firing and 
+when making a morale check. These modifiers are cumula-
+tive when a unit is both unsupplied and disordered.
+d)	 Disordered units (only) may not attack, nor may they enter 
+an area containing enemy units/assets (they may remain in 
+such an area if already there). They may defend with the 
+Success Number modifier specified in (c) above.
+9.34 Additional Unsupplied Effects
+a)	 Units may not have any assets assigned.
+b)	 Units must make a morale check at the end of the friendly 
+Supply Phase, with failure causing a unit to either become 
+disordered, lose one step, or surrender (9.4).
+c)	 Disordered markers may not be favorably adjusted (9.35).
+d)	 Areas and units may not be affected by friendly events, 
+Special Actions, Staff Functions, or engineering functions.
+9.35 Adjusting Disordered Markers
+For all their disordered and recovering units that are able to 
+trace a supply path (9.31), both players remove all recovering 
+markers and then flip 
+disordered 
+markers 
+over to the ‘recovering’ 
+side.
+9.4 MORALE CHECKS FOR UNSUPPLIED UNITS
+The Phasing Player (only) performs a morale check (with –1 
+unsupplied Success Number modifier) for his units that are 
+unsupplied. Units that fail this check either in good order or 
+recovering become disordered. Units that fail this check that 
+are already disordered suffer a step-loss. Veteran disordered 
+units that roll a 10 or green disordered units that roll an 8-10 
+surrender and are eliminated regardless of remaining steps. 
+Disordered units with a current troop quality of elite do not 
+surrender, though they still suffer a step-loss with a failed mo-
+rale check if disordered.
+9.5 REMOVING APPROPRIATE MARKERS
+Both players remove from the map all field works markers that 
+are in contested areas, all roadblocks and all defended road-
+blocks; all river assault markers and all exploitation markers, 
+plus all of the Non-phasing Player’s reserve markers.
+
+Page 12
+10.0 DESIGNER’S NOTES
+Wargamers need more games that are easy to get into, fun to 
+play, shorter in duration, and with a good feel for the history, 
+while also being challenging enough to warrant repeated play.
+The above describes both my feelings as a player and the objec-
+tives that I laid out for the FAB series as its designer. I aim my 
+designs towards fun, effect, and proper feel, since these are the 
+qualities I want when I play wargames. Much of the underly-
+ing details of war have been abstracted out of FAB, but they 
+were taken into account in the game’s systems to preserve the 
+proper feel. Decisions on multiple levels, with consequences to 
+each decision, are the things that make a game fun for me. The 
+players will be faced with plenty of these decisions each turn.
+My focus was to put you in the role of the field commander, 
+and have you decide where to direct your main effort. You 
+must prioritize and assign the precious few assets and Special 
+Actions to the units and battles that you deem most crucial, 
+though all your units are begging for these limited resources.
+A major hurdle for this series was luck mitigation. Because of 
+the low block count, combat effects had to change from the 
+standard block game system of each hit scored reduces a unit. 
+By allowing the attacker to abort an attack if more than one hit 
+is inflicted, and allowing the defender to deflect hits through 
+the loss of field works and retreating, and by allowing both 
+sides the option to take hits by eliminating assigned assets, 
+success was achieved in that the units more gradually disinte-
+grated. It is still possible for the attacker to inflict multiple hits 
+on the defender, but this is mitigated by the number of times he 
+inflicts no damage at all on the defending units because they 
+retreated and/or were protected by the loss of their field works 
+marker.
+Field works represent a higher quality of defensive works than 
+the simple foxhole dug by each soldier before he slept at night. 
+They represent defending troops using sandbags, barbed wire, 
+mines, and the natural resources at hand to fortify a defen-
+sive position, and were often rapidly constructed by combat 
+engineers attached for such a purpose. These positions were 
+most beneficial for the initial contact with the enemy. After the 
+defensive positions were revealed they were of less value.
+One decision that went against the grain of the design was hav-
+ing the assets and events displayed face-up. The necessity for 
+this decision was quite simply speed of play. If the assets were 
+inverted, then limited intelligence would work against both 
+sides, and delays in the game would occur as the owner of the 
+assets and events had to reveal them to himself, trying to find 
+the one he wants to play. You are welcome to play with these 
+inverted, if both players agree, but do not expect the game to 
+play as quickly.
+I hope that you will enjoy playing this game as much as I have 
+enjoyed refining its various systems. If you have an idea for 
+another battle that you would like to see given the FAB treat-
+ment, or if you have rules questions, please write me at:
+Rick27707@aol.com
+Also join us in discussions concerning the FAB series either 
+on:
+www.consimworld.com
+or
+www.boardgamegeek.com
+
+Page 13
+11.0 INTRODUCTION
+On October 6, 1973, during the holiday of Yom Kippur, silence 
+on the Golan Heights was disrupted by the thunder of hun-
+dreds of guns and aircraft when a Syrian assault was launched. 
+The operation, known as Badr, was aimed to retake the Israeli 
+occupied Golan Heights, which the Syrians lost in the 1967 
+Six-day war.
+12.0 GAME COMPONENTS
+FAB: Golan ’73 includes:
+●63 wooden blocks
+Syrian & Arab = green
+◦◦Israeli = blue
+●One sheet of die-cut labels for the blocks
+●One sheet of 228 die-cut 9/16” counters
+●One combined Rule Book of Series Rules and Exclusive 
+Rules 
+●One Play Book
+●One 22” x 32” Mapsheet
+●Two Player-Aid Cards
+●Two Setup Cards
+●Four 10-sided Dice*
+* Regardless of any modifiers, a roll of 1 will always result in 
+success and a roll of 10 will always result in failure. The dice 
+included with each FAB game are numbered from one to ten. If 
+you should find yourself using ten-sided dice that are numbered 
+from zero to nine, treat each roll of zero as a ten.
+13.0 DEFINITION OF STANDARD TERMS
+13.1 FIRST PLAYER
+For FAB: Golan ’73, the Syrian player is always the First 
+Player and the Israeli player is the Second Player. 
+13.2 HIGHER ECHELONS
+The Higher Echelons, along with their associated unit symbol 
+colors on the labels and counters, are as follows:
+tan field
+apply to 34 blue
+blocks
+Israeli Units
+Northern Command
+orange field
+apply to 29 green 
+blocks
+Syrian Units
+Golan Front & Reserve
+Note that both Syrian and Israeli forces have a unified com-
+mand structure (14.3) which means that assets and events for 
+each side are not constrained by higher echelon rules.
+Exclusive Rules
+13.3 ASSETS & UNITS BY CLASS
+Artillery Assets Include:
+	
+	
+Rocket
+	
+	
+Armor Assets & Units Include:
+	
+	
+	
+	
+	 Armor	
+Mechanized	
+Armored
+	
+	
+Infantry	
+Recon
+Infantry Battle Assets & Units Include:
+	
+	
+	
+	
+	
+	 Infantry	
+Paratroop	
+Special	
+Engineer	
+Anti-tank
+	
+	
+	
+Forces
+13.4 GAME PIECE NOTATION
+The following defines special notation and visuals used on 
+the units, assets and events in this volume. Note that assets all 
+use a unit symbol or similarly-sized depiction and that events 
+all have a distinct white rectangular border. In general, units, 
+markers and counters (assets and events) are visually depicted 
+in the appropriate rules sections.
+
+Page 14
+14.0 GENERAL RULES
+14.01 ASSAULTS
+There are three forms of assaults that can arise in 
+combat situations: River Assault (5.35e), Crossing 
+Assault and Air Assault. If one or more of these 
+assault conditions applies in a newly contested area 
+(only), a River Assault marker is placed to indicate that the as-
+sault penalties apply in combat. Exploitation opportunities do 
+not occur for any type of assault.
+Note that the River Assault penalties on the Ground Combat 
+Fire Table apply to all three forms of assault, but if more than 
+one type of assault occurs in an area (such as Air Assault and 
+River Assault), resolve the combat as follows:
+Given this combination of assaults… Resolve as…
+Air Assault and any others Air Assault
+Crossing Assault and River Assault
+Crossing Assault
+Any one type of assault That type
+a)	 Crossing Assault—This occurs in a newly contested area 
+where all attacking units crossed rugged, escarpment and/
+or anti-tank ditch boundaries. Units aborting combat (6.41b) 
+when using a Crossing Assault may not remain in place; 
+they become disordered and retreat (6.6) back across the 
+boundary that they moved across. Any assets remaining 
+that were assigned are sent to the Used Box.
+b)	 Air Assaults—The Syrian 82nd Para Battalion 
+may conduct one Air Assault during the game 
+according to the Air Assault procedure (15.3). 
+14.02 MINEFIELDS
+At the start of a scenario, the Israeli player places 
+the six Minefield markers on boundaries as follows:
+●First place the three that are already marked on the map.
+●Then place the remaining three on any boundary desired, but 
+not on AT ditch, escarpment, river, Mt. Hermon, or rugged 
+boundaries.
+●Only one minefield may be placed per boundary, and no area 
+may have more than one mined boundary.
+A Syrian unit starting its move next to a mined boundary may 
+attempt to cross by paying pay one additional movement point 
+and making a morale check. If the unit fails its check, it cannot 
+move across any minefield this turn, but may still continue its 
+move by moving into a different non-mined area if sufficient 
+movement points remain. If the check is successful, the unit 
+moves across the mined boundary. Minefields may only be 
+removed by an engineering function (14.52). If a Syrian unit 
+retreats across a mined boundary, it must also make a morale 
+check. If this fails, it loses one additional step beyond those 
+inflicted by combat. These six minefields are the only ones that 
+will ever be placed; more cannot be created during the game.
+14.03 NIGHT TURN
+Game turn two is a night turn, and is the only night turn in the 
+game. It has the following effects:
+●All Israeli units move as normal. Syrian infantry-class units 
+can move one area. Syrian armor-class units can move up to 
+two areas to a maximum of 4 MP’s. No unit can move across 
+a boundary that would normally not be allowed, nor may 
+they move to or from area 83 (Mt. Hermon).
+●Morale checks for exploitation opportunities have a –2 SN 
+modifier.
+●The Israeli player may only have two units using strat-
+move and the Syrian player may only have one unit using 
+strat-move.
+●The Syrian 82nd Para Battalion may not conduct an Air As-
+sault on this turn.
+●All units and assets (including artillery) of both sides have 
+a –1 SN modifier to any and all fire rolls. Exception: Syrian 
+armor units (not assets) are exempt from this SN modifier.
+●Air support assets may not be used on either side.
+14.1 BOUNDARY & CONNECTION TYPES
+14.11 Escarpment Boundary
+The escarpment boundary is an additional 
+boundary type in this game with the fol-
+lowing effects:
+●No unit may cross an escarpment boundary, unless there is a 
+road connecting the two areas.
+●Units must pay one additional MP to cross an escarpment 
+boundary by road.
+●Only one unit may cross an escarpment boundary each 
+Movement Phase. 
+
+Page 15
+14.12 Anti-Tank (AT) Ditch Boundary
+The Purple Line that runs across the map separates the 
+Israel-occupied Golan Heights from Syria. Its path runs 
+along the ceasefire line established in 1967. Along its entire 
+length, the Israelis dug an anti-tank ditch as a defensive 
+barrier from a Syrian attack. Extensive minefields were 
+also emplaced along this line by the Israelis.
+The anti-tank (AT) ditch boundary is an 
+additional boundary type in this game 
+with the following effects:
+●It costs a unit its entire movement allowance to cross an un-
+bridged AT ditch boundary.
+●Only one unit may cross each AT ditch boundary (whether it 
+is bridged or not) into an enemy-occupied area each Move-
+ment Phase.
+●In combat where all units crossed the AT ditch boundary 
+into newly-contested areas, an assault marker is placed in 
+those areas.
+●Bridges may be constructed across AT ditch boundaries (see 
+14.51).
+●The connection across a bridged AT ditch boundary becomes 
+either a road or a field connection, as shown on the map, if a 
+bridged marker is placed on the boundary.
+See 14.43, 15.2 and 15.4 for additional effects.
+14.13 Wadi Boundary
+The wadi boundary is an additional 
+boundary type in this game. Only one 
+unit may cross a wadi boundary each 
+Movement Phase into an enemy-occupied area. It costs a unit 
+3 MP to cross a wadi boundary via field connection (cost of 2 
+MP plus 1 MP additional), otherwise it costs the normal 1 MP 
+if there is a road connection across the boundary.
+14.14 Rugged Boundary 
+The rugged boundary is an additional 
+boundary type in this game. Only one 
+unit may cross a rugged boundary each 
+Movement Phase. The connection crossing these boundaries 
+is also restricted. The movement cost is all MP, but armor-
+class units may not cross rugged boundaries in either direction. 
+Exception: The connection between areas 18 (Mevo Hama) 
+and 19 (Givat Yoav), allows armor units to cross since it has a 
+road connection, but only one unit may cross each Movement 
+Phase in either direction and the movement cost is 1 MP as per 
+a standard road connection.
+14.15 Syrian SAM Barrier 
+The Syrian SAM Barrier is a continuous 
+line of marked boundaries, east of which, 
+the Syrian player may challenge an Israeli 
+air mission in an area by the use of a SAM air defense asset 
+(16.12). There is no effect on movement.
+14.16 Mount Hermon
+Area 83 (Mt. Hermon) is a special area in this game. It is only 
+adjacent to one area: area 59 (Majdal Shams). An infantry-class 
+unit may enter Mt. Hermon by starting the Movement Phase in 
+area 59 and then expending its entire movement allowance. To 
+exit Mt. Hermon into area 59, that unit must also expend its 
+entire movement allowance. Note: Only infantry-class battle 
+assets and air support assets may be assigned in combat in this 
+area. The Syrian 82nd Para Battalion may elect to conduct an 
+air assault into Mt. Hermon, if it has not yet used its one al-
+lowable air assault (15.3). In addition, units of both sides are 
+always in supply in Mt. Hermon (14.94).
+14.17 The Jordan River 
+The Jordan River runs from north to south 
+along the west side of the map area. Any 
+unit that occupies area 6 (Gadot), area 7 
+(Kfar Hanasi) or area 8 (Almagor) is said to be “west of the 
+Jordan River”. A supplied Syrian unit west of the Jordan River 
+triggers an automatic Syrian victory at the conclusion of any 
+Game Turn (19.5).
+14.18 The Purple Line
+See 14.12, 14.43, 15.2, and 15.4 for effects.
+14.19 The Sea of Galilee
+The Sea of Galilee cannot be operated in by any unit or any 
+means. The Assembly areas (14.22) and the interconnection 
+between them provide a way to represent movement off map 
+for Israeli units.
+14.2 APPROPRIATE ENTRY AREAS
+These are areas that units may arrive in when they arrive as 
+reinforcements, when released by an event, or when a Special 
+Action is used to reroute a reinforcing unit. Entry areas are 
+shown in the upper left corner of the blocks with their listed 
+turn of entry.
+14.21 Syrian Entry Areas
+The Syrian entry areas are labeled V, W, X, Y and Z. 
+Units of the 1st Tank Division use entry areas in the 
+range V-W, while units of the 3rd Tank Division 
+(starting in the Operational Reserve Holding Box) use entry 
+areas in the range X-Z. Units of the Strategic Reserve (starting 
+in the Strategic Reserve Holding Box) may use entry areas V-Z.
+14.22 Israeli Assembly Areas
+All Israeli units enter play via the two Assembly areas 
+(Northern and Southern) labeled A and B. Place units 
+arriving in one of these boxes and move as dictated on 
+the map. Specifically (i) units in the Northern Assembly area 
+(A) may directly enter area 6 (Gadot) or area 8 (Almagor) and 
+(ii) units in the Southern Assembly area (B) may directly enter 
+area 17 (Ma’agan), in these cases at a movement cost of 1 MP. 
+Each Assembly area may hold any number of units at any time. 
+Units in an Assembly area may be marked with a reserve mark-
+er to make them eligible for strat-moves (14.72). Units cannot 
+enter an Assembly area once they are on the map. Units may 
+move (transfer) between either Assembly area at the movement 
+cost of all MP. Units that begin in one Assembly area may 
+strat-move into or through the other Assembly area.
+
+Page 16
+14.3 OPERATIONAL BOUNDARIES & SECTORS 
+The operational boundaries on the map indicate the areas that 
+the Syrian divisions operated in. The areas within these bound-
+aries are collectively called a sector. Syrian units are affected 
+by the operational boundaries for the first four turns. Israeli 
+units are not affected in any way by operational boundaries.
+14.31 Syrian Operational Boundaries 
+The Syrians have a single unified com-
+mand, but their units (only) are affected by 
+boundaries on the map, whereas Syrian 
+assets are not affected by those boundaries. Syrian operational 
+boundaries are shown in dark gray. The two boundaries di-
+vide the map into three distinct sectors, Northern, Central and 
+Southern. These boundaries start on the eastern map edge and 
+proceed westward across the Purple Line. These impose move-
+ment restrictions for the first four turns (14.42).
+14.32 Israeli Operational Boundaries
+The Israelis have a single unified command and neither their 
+units nor their assets are affected by operational boundaries 
+on the map.
+14.4 MOVEMENT RESTRICTIONS
+14.41 Movement Restrictions To Both Sides
+Bridges only exist and can only be constructed on a river 
+boundary if there is a road crossing the boundary. A river 
+boundary with a field connection costs a unit its entire move-
+ment allowance.
+14.42 Syrian Movement Restrictions
+Syrian units may not voluntarily move or retreat across the 
+operational boundaries, on either side of the Purple Line, on 
+Game Turns 1 through 4. The operational boundaries have no 
+effect beginning with the Syrian Operational Movement Phase 
+of Game Turn 5. Note that boundaries do not extend further 
+west than the areas marked on the map, so Syrian units that 
+move west of the boundaries may move in any direction. 
+Prior to the Syrian Operational Movement Phase of Game Turn 
+5, a Syrian unit cannot retreat across an operational bound-
+ary unless it is the only path of retreat available per 6.6. If a 
+valid retreat path exists in the unit’s current sector, it must be 
+used before any retreat path crossing an operational boundary 
+can be used. The unit must leave the prohibited sector at the 
+first opportunity and it may not enter an enemy-occupied or 
+enemy-controlled area as it attempts to do so. This requirement 
+to leave is lifted beginning with Game Turn 5.
+14.43 Israeli Movement Restrictions
+Israeli units may only cross the Purple Line into Syria if the 
+area entered is undefended. See 15.2 and 15.4a for the impact 
+of such a move.
+14.5 ENGINEERING FUNCTIONS 
+Note: Blown bridge markers may only be placed if 
+there is a road connection across a river boundary.
+14.51 Bridging the AT Ditch
+This may be done in two different ways, both of which require 
+the engineer asset to then be placed in the Used Box:
+a)	
+Admin Phase—During the Admin Phase each 
+engineering asset may be used to construct a 
+bridge over any AT ditch boundary. To bridge 
+an AT ditch boundary, the engineering player 
+must either control both areas adjoining the AT ditch or 
+control one area and contest the enemy-controlled one. 
+Each engineer asset may bridge one AT ditch boundary in 
+an Admin Phase. The friendly-controlled area that the engi-
+neering bridge is originating from must be both supplied 
+and uncontested. Place an AT Ditch Bridged marker on the 
+boundary to show successful placement. The Syrian player 
+may construct up to eight AT ditch bridges, limited by the 
+counter mix. 
+b)	 Combat Phase (Syrian Only)—Each engineering asset as-
+signed in combat in an area on the Israeli side of the Purple 
+Line may bridge one adjoining AT ditch boundary in its 
+area instead of firing. To do this, the engineering asset must 
+have survived both artillery and defensive ground fire and 
+the Syrian player must not have aborted the attack. Place an 
+AT Ditch Bridged marker on the boundary to show success-
+ful placement.
+14.52 Admin Phase - Removing Minefields (Syrian only)
+A minefield marker may be removed where the engineering 
+player has a supplied, friendly-controlled, and uncontested 
+area adjacent to the mined boundary. Remove the minefield 
+marker and place the engineer asset in the Used Box.
+14.6 ADDITIONAL SPECIAL ACTION USES & STAFF 
+FUNCTIONS
+14.61 Additional Special Action Uses
+a)	 Merging Units (Israeli Only)—In the Admin Phase of a 
+turn, a special action may be used to eliminate one unit 
+and transfer its remaining steps to another unit with an 
+identical unit symbol (armor to armor, mech to mech, etc.). 
+The two units must be in the same or adjacent, uncontested, 
+friendly-controlled area(s) and in good order. Remove the 
+merged unit to the Eliminated Box (no VP for the Syrians) 
+and increase the receiving unit by the same number of steps 
+(Both units must be revealed as the procedure is followed 
+and the resulting troop quality may be elite regardless of 
+the troop quality of the removed unit).
+b)	 Operational Reserve Released (Syrian Only)—Starting 
+Game Turn 3 and going forward, each special action spent 
+in the Admin Phase allows the player to release one 3rd 
+Tank Division unit (15.4a) from the Operational Reserve 
+Holding Box. The units must be released in the following 
+order: 15th Mechanized, 81st Tank and 65th Tank brigades. 
+Place the released unit in its designated Entry area(s), which 
+must be friendly-controlled for the release to occur.
+c)	 SAM Asset Replaced (Syrian Only)—In the Admin Phase 
+of a turn, a special action may be used to move one SAM 
+asset from the Eliminated Box and place it in the Selection 
+Cup.
+d)	 Air Asset Replaced (Israeli Only)—In the Admin Phase of 
+a turn, a special action may be used to move one air support 
+asset from the Eliminated Box and place it in the Selection 
+Cup.
+
+Page 17
+14.62 Additional Command Staff Functions
+None for this game.
+14.7 RESERVE MARKER ELIGIBILITY
+For all players, units are only eligible to receive a reserve 
+marker if they are supplied, in good order, and in an uncon-
+tested area.
+14.71 Syrian Reserve Marker Eligibility
+A Syrian reserve marker may be placed on any eli-
+gible Syrian unit in any sector.
+14.72 Israeli Reserve Marker Eligibility
+An Israeli reserve marker may be placed on any eli-
+gible Israeli unit, including a unit in an Assembly 
+area.
+14.8 STRATEGIC MOVEMENT LIMITS
+14.81 Strat-move Limits To Both Sides
+●Strat-move may only be made along road connections.
+●A unit using Strat-move may not cross an unbridged AT 
+ditch boundary or a blown bridge elsewhere.
+●Strat-moves are not otherwise limited, except by the quan-
+tity of reserve markers available to each side, and during the 
+night turn (14.03).
+14.9 SUPPLY SOURCES & SPECIAL RULES
+14.91 Syrian Supply Sources
+Syrian-controlled areas and Syrian units trace supply to any 
+friendly-controlled Entry area (V-Z) – there are five such areas.
+14.92 Israeli Supply Sources
+Israeli-controlled areas and Israeli units and assets trace 
+supply to any friendly-controlled Israeli areas containing 
+a Supply symbol – there are three such areas.
+14.93 Tracing a Supply Path
+In addition to the standard requirements (9.31), a supply path 
+may:
+●only trace across an unbridged AT ditch boundary if the 
+tracing unit/area is adjacent to that boundary.
+●only be traced across escarpment boundaries if a road exists.
+●not be traced across a mined boundary (affects Syrian units 
+only).
+14.94 Special Supply Source – Mount Hermon
+Units of either side in area 83 (Mt. Hermon) are always con-
+sidered in supply.
+14.95 Special Supply Source – Israeli Assembly Areas
+Israeli units in the two Israeli Assembly areas are always con-
+sidered in supply.
+15.0 UNIT RULES SPECIFIC TO THIS 
+GAME
+15.1 SYRIAN DIVISIONS
+15.11 Unit Representation
+Syrian units are brigade size, except for the four Recon units 
+and the 82nd Para unit, which are battalion size. The Syrian 
+Golan Front is made up of multi-unit divisions and indepen-
+dent units. There are five multi-unit divisions. Units of the 
+same division are denoted by using the same divisional color 
+stripe. The divisions incorporate three to six units, each one 
+representing a brigade or a battalion. Units without a divisional 
+stripe are independent.
+15.12 Penalty for Mixing Formations
+The restrictions on assigning assets to units of different Higher 
+Echelons (6.22 & 6.23) also apply to Syrian units of different 
+divisions (having a different color stripe) in the same area: 
+in combat (i) only one artillery asset can be assigned, (ii) no 
+battle assets can be assigned but (iii) other assets defined for 
+this game (16.1 & 16.3) can be assigned for a non-battle asset 
+capability. Independent units (15.11) may be mixed with divi-
+sional or other independent units without penalty. 
+15.2 SYRIAN STRATEGIC RESERVE
+Historically, the Assad Guard was the only unit to be 
+committed during the assault on Golan. The other two units 
+are “what ifs” and saw action later in the war.
+Each of the three Syrian reserve units (units with a 
+yellow unit type marked as SR, starting in the 
+Strategic Reserve Holding Box) arrives under the 
+following conditions:
+●When a Strategic Reserve Released event is played (17.11).
+●When an Israeli unit crosses the Purple Line into Syria 
+for the first time, two strategic reserve units of the Syrian 
+player’s choice are immediately released.
+When released, these unit(s) are placed in any friendly-con-
+trolled Entry area.
+15.3 SYRIAN PARATROOPS
+The Syrian 82nd Para Battalion may conduct an 
+Air Assault (14.01b) once during the game. The unit 
+is placed in the Air Assault Holding Box at the start 
+of the game.
+Conduct the Air Assault with the Syrian 82nd Para Battalion 
+as follows:
+●Place the unit in any area east of the SAM Barrier, as the 
+first action of a Combat Phase, before any other combats are 
+resolved. 
+●If that area is now contested, the Syrian player must imme-
+diately resolve combat in that area.
+●If the assaulting unit can trace a valid supply line at the 
+moment of combat, assets may be assigned as normal. Oth-
+erwise only a single air support asset may be assigned.
+
+Page 18
+Strongpoints may not retreat, but they are evacuated if a 
+regular unit either (a) leaves a contested area occupied by a 
+Strongpoint during the Movement Phase or (b) retreats from 
+the same area during the Combat Phase.
+◦◦Evacuation: The Israeli player has eight conditional Task 
+Force assets (marked with a C as their turn of arrival). 
+Immediately after a regular unit leaves or retreats from 
+a contested area occupied by a Strongpoint, remove the 
+Strongpoint from the map and place it in the Evacuated 
+Strongpoints Holding Box. Take one Task Force asset 
+of the matching type (armor or infantry supported) and 
+place the asset in the Selection Cup. These assets later 
+function as battle assets. 
+Otherwise Strongpoints are treated as other units except below:
+●They act as a field works in terms of modifying the attacker’s 
+SN.
+●A field works marker may not be placed in an area currently 
+containing a Strongpoint.
+●Strongpoints are always in supply, but a Strongpoint does 
+not provide supply for another unit in its area.
+15.7 ISRAELI GHOST UNITS
+Ghost units represent uncertain Syrian intelligence 
+regarding actual Israeli positions.
+Ghost units are placed during scenario deployment 
+into areas that are adjacent to the Purple Line at the 
+same time that the strongpoint units are placed, 
+such that each area next to the Purple Line will 
+have one Ghost unit or one strongpoint unit within. A Ghost 
+unit cannot move, neither can it attack or defend. During com-
+bat resolution, when units of both sides are revealed (6.24), 
+reveal and then remove a Ghost unit and place it in the 
+Eliminated Box.
+16.0 ASSET RULES SPECIFIC TO THIS 
+GAME
+16.1 SYRIAN ASSET GENERAL RULES
+Syrian assets may be played in any area or sector and support 
+all deployed units on the map.
+16.11 Commando Assets
+These troops were airlifted by helicopters to raid behind 
+Israeli lines.
+The Syrian player may use a Commando asset in 
+one of the following two ways:
+a)	 Commando Raid—During an Admin Phase (4.2b), place 
+it in a vacant and Israeli-controlled area adjacent to a 
+friendly-occupied area. The Israelis may not strat-move or 
+retreat into the area currently occupied by the asset and the 
+first Israeli unit to move into the space must pay one extra 
+movement point (+1 MP), causing the Syrian player to roll 
+a die and resolve the raid as follows:
+●The 82nd Para Battalion is always considered in supply 
+(except for asset allocation) and so need never make morale 
+checks for being unsupplied.
+15.4 SYRIAN TANK DIVISIONS
+Two Syrian tank divisions of the Golan Front enter the game as 
+reinforcements as outlined below. 
+a)	 3rd Tank Division—All units of this formation 
+(the 81st Tank, 65th Tank and 15th Mechanized 
+Brigades, all marked with a beige color stripe) 
+start the game in the Operational Reserve Hold-
+ing Box. They must be released in order to be committed to 
+battle (14.61b). Alternatively, when an Israeli unit crosses 
+the Purple Line into Syria for the first time, all units of the 
+3rd Tank Division are immediately released from the Op-
+erational Reserve Holding Box (if not already released).
+b)	 1st Tank Division—All units of this formation 
+(the 91st Tank, 76th Tank and 58th Mechanized 
+Brigades as well as the 1st Recon Battalion, all 
+marked with a green color stripe) enter the game 
+as reinforcements on Game Turns 3 and 4.
+15.5 ISRAELI BRIGADES
+Although not larger than their Syrian counterparts, Israeli 
+brigades proved to be superior on the battlefield and much 
+more flexible in combat.
+15.51 Unit Representation
+Israeli units are single or multi-unit brigades or are indepen-
+dent battalions and companies. Eight Israeli brigades (the 205th 
+Armored, 179th Armored, 679th Armored, 4th Mechanized, 
+9th Mechanized, 670th Mechanized, 317th Para and Golani 
+Infantry) are represented by two units each, having the same 
+color stripe. Both units of a brigade are identically marked.
+Brigade Integrity—If two units of the same brigade, denoted 
+by the color strip on the unit, are both actively participating in 
+the same combat, they receive an extra die in combat (whether 
+attacking or defending). This extra die is given the least effec-
+tive SN between the units at the time the dice are rolled.
+15.52 Reduced Units
+The 4th Mechanized, 179th Armored and 679th Armored 
+Brigades arrive at reduced strength, indicated by a yellow ar-
+row mark pointing to the initial starting strength. These units 
+have corresponding events that signify the arrival of the miss-
+ing battalions (17.21).
+15.6 ISRAELI STRONGPOINTS
+Strongpoints are special units that cannot move. 
+They may only defend (they may not attack). 
+Strongpoints are one-step units with the stars 
+around the symbol showing their ability to sustain 
+damage in combat. Thus, they always fire with one die, regard-
+less of defensive strength. When firing, Strongpoints depicted 
+with a rifle symbol have a –1 SN modifier; those depicted with 
+a tank symbol have a +1 SN modifier.
+
+Page 19
+1-2 = Raid successful: The Israelis must engage the asset as if 
+it were a defended roadblock (4.35) in the ensuing Combat 
+Phase with the exception that it may be placed regardless 
+of the TDN value. If the asset is not eliminated by the Sup-
+ply Phase, it remains in the area instead of being placed 
+in the Used Box. The asset may not be removed until it is 
+eliminated or relieved.
+◦◦The asset never needs to trace supply, it is always consid-
+ered in supply.
+◦◦If the asset is still in its target area when a Syrian unit 
+enters that area, the commando asset is relieved and is 
+sent to the Used Box.
+◦◦If the area was contested when the Syrian unit enters, the 
+relieving Syrian unit is revealed upon entry.
+3-5 = Raid partly successful: Treat this result in all ways as 
+a successful raid above, with the exception that the asset 
+does not fire back when attacked (it only interferes with 
+movement and retreat until eliminated or relieved).
+6-10 = Raid failure: The helicopters carrying the commandos 
+have been shot down. Place the asset in the Eliminated Box. 
+The unit that triggered the die roll may continue moving if 
+it has movement points remaining.
+b)	 Battle Asset—During a Combat Phase, use the asset as a 
+battle asset (losing its commando raid opportunity until the 
+next time it is drawn from the Selection cup).
+Commando assets may not be returned by the alternate 
+event use (4.21).
+16.12 SAM Air Defense Fire
+Use during the Admin Phase or the Combat Phase.
+●How to Use—Overruling the usual sequence 
+of play, whenever an Israeli air supoort asset is 
+placed in an area that is east of the Syrian SAM 
+Barrier, the Syrian player may respond by play-
+ing an available SAM asset in an attempt to cancel the stated 
+mission, rolling a D10 (SAM Air Defense Fire) as follows:
+	
+1-3	
+4-6	
+7-9	
+Effect
+	
+Israeli Air Asset Eliminated
+	
+2-7	
+2-5	
+2-3	
+Air Asset to Used Box
+	 8-10	
+6-10	
+4-10	
+No effect
+After making the roll, the SAM asset is sent to the Used Box. 
+Note that if the SAM asset successfully cancels an Israeli 
+air mission, the Israeli player may not replace the cancelled 
+asset with another attempt.
+●Reduction of Syrian SAM Barrier—This represents the ex-
+haustion of Syrian stockpiles and Israeli SAM suppression 
+efforts. During the Reinforcement Phase of each turn, the 
+Syrian player must roll one die for each SAM asset in the 
+Used Box. If one or more of these rolls results is a 6 or higher, 
+one (only) SAM asset is sent immediately to the Eliminated 
+Box at the time step 4.1b of the Reinforcement Phase is per-
+formed, before actually moving the assets from the Used 
+Box to the Selection Cup.
+SAM assets may not be returned by the alternate event use 
+(4.21).
+16.2 ISRAELI ASSET GENERAL RULES
+Israeli assets may be played in any area or sector and support 
+all deployed units on the map.
+16.21 Initial Artillery Advantage
+While area 83 (Mt. Hermon) is in Israeli control 
+and occupied by an Israeli garrison and/or unit(s), 
+the Israeli player may use one artillery asset above 
+the normal limit (i.e., three when attacking and two 
+when defending). If the Syrian player takes control of Mt. 
+Hermon, the Israeli player loses this benefit for the rest of the 
+game.
+16.22 Air-to-Ground Advantage
+The Israeli player may use two air support assets to 
+support a battle instead of the usual one, but if the 
+intended use is east of the SAM Defense Barrier, 
+they may only do so if there are currently no SAM 
+assets in the Syrian Available Box. When using two, one must 
+be used as artillery while the other provides support to one 
+involved Israeli unit.
+16.23 Increasing Air Support – Conditional Assets
+The Israeli player has three conditional air support 
+assets (marked with a C as their turn of arrival). 
+These are placed, one each, in the three holding 
+boxes of the Air Support Assets Holding Box. For 
+the first three times (only), when one Syrian SAM asset is 
+placed in the Eliminated Box, one Israeli conditional air sup-
+port asset is moved immediately from the Air Support Assets 
+Holding Box to the Selection Cup.
+16.24 Garrisons
+The five Israeli garrison assets start a scenario 
+placed in the area indicated on the counter: Ramat 
+Magshimim (22), Tel Faris (30), Nafakh (42), Tel 
+Abu Nida (46), and Mt Hermon (83).
+Garrisons do not move from their area of placement until elim-
+inated. If fought alone, they act as a defended roadblock (4.35) 
+except that they are never sent to the Used Box. If friendly 
+unit(s) are present, the garrison asset acts as a battle asset for 
+the unit(s). Garrison assets cannot retreat from combat; units 
+in the area with the garrison can absorb a hit by retreating, 
+though this will destroy the garrison (this only makes sense 
+to avoid encirclement when only one hit is scored against the 
+Defender). Garrisons are eliminated by taking a hit, by re-
+maining behind during a retreat from combat, or by failing an 
+unsupplied morale check. Garrison Assets may not be returned 
+by the alternate event use (4.21).
+
+Page 20
+16.3 AIR SUPPORT ASSETS (BOTH SIDES)
+The Israeli high command committed aircraft against the 
+Syrian ground forces, even though the enemy had defacto 
+defensive air superiority over his own lines by virtue of 
+his surface-to-air missile systems. As desperate as the 
+ground situation was, the Israelis quickly realized that they 
+could not continue to use their air force against the Syrian 
+tanks in the absence of air superiority. Consequently, they 
+made the missile fields the primary target, won back air 
+superiority, and then brought the full brunt of their air 
+force against all elements of the Syrian offensive.
+The Yom Kippur War, pp. 161-204.
+Air support assets are flexible and can be used in 
+the following ways regardless of the supply status 
+of the area to which they are committed. Unlike 
+FAB: Sicily, there are no dogfighting missions in 
+FAB: Golan ’73. Syrian air forces had no desire to engage with 
+the Israelis. They had SAM’s for that job, and the Israelis could 
+not be distracted from the primary targets.
+16.31 Air Missions
+Air support assets may be placed on areas (but not Assembly 
+areas) that are either supplied or unsupplied (as an exception 
+to rule 9.34d). Each available air support asset may be used to 
+perform one of the following three missions, and is then placed 
+in the Used Box:
+a)	 Close Air Support Missions—During a Combat Round, 
+one air support asset per side may be commited to each 
+battle as a Close Air Support mission. It may be played 
+even if mixed Syrian Divisions are present. The Syrian 
+player may use SAM Air Defense Fire if allowed (16.12). 
+The air support asset is used in one of the following two 
+ways, and afterwards is placed in the Used Box (even if the 
+attacker chose to abort the attack):
+◦◦As an artillery asset, it fires when friendly artillery fire 
+is resolved, and it does not count against the limit of us-
+able artillery assets for the combat. The choice to use 
+the air support asset as an artillery asset must be made 
+before friendly artillery fire is rolled.
+◦◦As a battle asset, it gives direct support to one unit pres-
+ent, player’s choice, providing a modifier of +2 (Israelis) 
+or +1 (Syrians) to that unit’s SN. A step-loss may not be 
+assigned to the air support asset.
+b)	 Interdiction Mission—Place the air support asset in an area 
+during the Admin Phase. The Syrian player may use SAM 
+Air Defense Fire if allowed (16.12). The enemy player must 
+pay one additional movement point (+1 MP) to enter and 
+to leave the affected area. The enemy player may not strat-
+move into or out of the interdicted area. The air support 
+asset remains in the affected area until the Supply Phase 
+of the Second Player Turn, when it is removed to the Used 
+Box.
+c)	 Aerial Reconnaissance Mission—Place the air support 
+asset in an enemy-occupied area during the Admin Phase. 
+The Syrian player may use SAM Air Defense Fire if al-
+lowed (16.12). If the mission is not cancelled, reveal all 
+enemy units in that area. At the end of the phase, place the 
+air support asset in the Used Box.
+Air support assets may not be returned by the alternate 
+event use (4.21).
+16.4 ROCKET ARTILLERY ASSETS (BOTH SIDES)
+Each rocket artillery asset allocated to a combat 
+and resolved during artillery fire receives a +1 SN 
+modifier. 
+17.0 EVENT DESCRIPTIONS
+17.1 SYRIAN EVENTS
+Syrian events may be played in any sector in support of any 
+Syrian units regardless of division.
+17.11 Strategic Reserve Units Released
+There is one event each for the Assad Guard Armored Brigade, 
+the 141st Tank Brigade and the 90th Mech Brigade. Playing 
+each of these events in the Admin Phase immediately allows 
+the indicated unit to enter the game from the Stategic Reserve 
+Holding Box and be placed in any friendly-controlled Entry 
+area.
+17.12 Syrian SSM Attack
+This event represent the FROG-7 Surface-to-Surface 
+Missiles (SSM) fired by the Syrians at Ramat David airfield. 
+The attack failed and struck nearby civilian settlements.
+When this event is played in the Admin Phase, the Syrian 
+player rolls one D10 for each Israeli air support asset currently 
+in the Available Box and applies results as follows:
+	1-2	 The air support asset is returned to the Selection Cup.
+	3-10	 The air support asset is unaffected.
+17.2 ISRAELI EVENTS
+Israeli events may be played in any sector in support of any 
+Israeli units regardless of division.
+17.21 Arriving Battalions
+These events represent reinforcing battalions be-
+longing to those brigades that arrived later in the 
+battle. When one of these events is played in the 
+Admin Phase two steps of replacements must go to 
+the supplied Brigade specified. For the 4th Mech, 179th 
+Armored and 679th Armored Brigades, three options are avail-
+able to the Israeli player: (i) add two steps to one of the two 
+units that represent the brigade (if available); (ii) add one step 
+to both of the two units that represent the brigade (if available); 
+alternatively (iii) if any of the specified brigade units has been 
+eliminated (meaning one or both units removed), the event 
+may bring one unit of the brigade (one block only) back into 
+play, placing it in an appropriate Assembly area (14.22) with a 
+strength of two steps.
+
+Page 21
+17.22 Operation Dugman 5
+This operation by the IAF was targeted to destroy Syrian 
+SAM batteries on the Golan front. Historically, the operation 
+was a failure and the Israelis lost several aircraft.
+This event must be played in the Admin Phase 
+when drawn. The Israeli player rolls a D10 for each 
+Syrian SAM asset in the Available Box and applies 
+results as follows:
+Great success: move the SAM asset to the 
+Eliminated Box
+	2-3	
+Limited success: move the SAM asset to the 
+Selection Cup
+	4-9	
+Failure: no effect
+Really Bad Idea: Move an Israeli air support 
+asset from the Available Box to the Eliminated 
+Box. Remove from the Selection Cup if none are 
+currently available.
+17.23 Lt. Zvicka Greengold
+This event is played in the Admin Phase in an unoc-
+cupied friendly-controlled area and acts as a 
+defended roadblock (4.35) with these exceptions: (i) 
+it may be placed regardless of the TDN value and 
+(ii) the player may use a Special Action to reinforce before 
+combat into the area, and (iii) if the event is not eliminated by 
+the Supply Phase, it remains in the area instead of being placed 
+in the Used Box. It may not be removed until it is eliminated.
+17.24 King Hassan’s Troublemakers
+Place the event marker on the Moroccan unit in the 
+Admin Phase. It may only fire in defense and may 
+not move into an enemy-controlled area, whether 
+contested or not. The event remains in effect for the 
+rest of the game.
+17.3 EVENTS AVAILABLE TO BOTH SIDES
+17.31 Armor Replacement (for Armor Class)
+This event may be used in the Admin Phase to in-
+crease the current strength of any supplied, reduced 
+armor-class unit (which includes armor, mech and 
+recon units), even in a contested area, by one step. 
+Eliminated units may not be returned from the Eliminated Box 
+by use of a replacement event. Units may receive elite replace-
+ments by use of this event.
+17.32 Mechanized Replacement (for Mech Units & Infantry 
+Class)
+This event may be used in the Admin Phase to in-
+crease the current strength of any supplied, reduced 
+mech unit or infantry-class unit, even in a con-
+tested area, by one step. Eliminated units may not 
+be returned from the Eliminated Box by use of a replacement 
+event. Units may receive elite replacements by use of this event.
+17.33 Electronic Warfare (EW)
+This event has one of the two following uses (EW 
+player’s choice). The two uses (Command 
+Disruption and Countermeasures) are played as the 
+one allowable event per player in combat.
+●Command Disruption (Jamming)—Only the Attacker may 
+play this event as part of the one allowable event in 6.22. 
+Then, prior to the Defender assigning any assets (6.23), each 
+defending unit rolls a die and if the result is 5 or less that 
+unit is immediately disordered. If all the defending units are 
+disordered, no artillery, air support, SAM or battle assets 
+may be assigned by the defending player.
+●Countermeasures (Protection)—The event is played by the 
+Defender as an immediate reaction to the attacker’s play of 
+Command Disruption above. This modifies each command 
+disruption roll by +2. 
+17.34 Counterbattery Strike
+This event may be used as the one allowable event 
+in a combat. If used, the player rolls a single die 
+after his opponent fires his artillery (including the 
+application of any hits from the fire). On a result of 
+1-5, place the artillery asset on the Turn Track that many turns 
+ahead as the result of the die. The asset arrives as a reinforce-
+ment during that turn, not counting the total asset/event draw 
+for the affected player. This event may be played out of se-
+quence by the attacker in response to the defender commiting 
+artillery.
+17.35 Special Action
+These events are single-use Special Actions (8.1) 
+which may be used for any purpose outlined in the 
+Special Action rules (8.2).
+17.4 EXCEPTIONS TO ALTERNATE EVENT USE
+The following assets may not be returned to play by the alter-
+nate event use (4.21):
+●Syrian Commando assets (16.11).
+●Syrian SAM Air Defense Fire assets (16.12).
+●Air Support assets (16.3) for either side.
+18.0 OPTIONAL RULES
+18.1 MAINTAINING FIELD WORKS
+Instead of removing field works from a contested area automat-
+ically during the Supply Phase, the controlling player makes a 
+morale check for one unit of his choice within the area during 
+friendly Supply Phases (only). The field works marker is only 
+removed by failure of this morale check (or otherwise by nor-
+mally absorbing a hit during combat).
+18.2 WITHDRAWAL
+If a unit exits a contested area during the Movement Phase and 
+no friendly unit remains in the contested area, make a morale 
+check. If the exiting unit fails the check, place a disordered 
+marker on the unit, and it immediately ends its movement.
+
+Page 22
+18.3 ADVANCED ARTILLERY USE
+18.31 Artillery Interdiction
+Once per Admin Phase, each player may place one 
+artillery asset from the Available Box into an area 
+that is adjacent to an area already containing one or 
+more friendly units or a Strongpoint. The enemy 
+player must spend one additional MP to enter and to leave the 
+area. The enemy player may not strat-move into or out of the 
+interdicted area. The asset remains in the affected area until 
+the Supply Phase of the second Player Turn, when it is removed 
+to the Used Box.
+18.32 Direct Combat Support (Israeli only)
+This optional rule reflects the Israeli use of self-propelled 
+guns.
+Artillery assets may be used in a combat support 
+role instead of normal firing (in effect, it acts like a 
+battle asset). In the Combat Phase, each artillery 
+asset designated for combat support gives direct 
+support to the point unit, providing a +1 modifier to that unit’s 
+SN. If used in this manner, a step-loss may be assigned to the 
+artillery asset.
+18.4 SYRIAN AIR SUPPORT USE
+Syrian air support assets may only conduct close air 
+support missions if the Syrian player is the Attacker 
+(doctrinal restriction).
+18.5 ISRAELI DIVISIONAL ORGANIZATION
+Israeli units did not have the same degree of divisional 
+segregation as the Syrians, but if needed to balance play for 
+an inexperienced Syrian player, the following rule may be 
+used.
+The restrictions on assigning assets to units of different Higher 
+Echelons (6.22 & 6.23) now apply to Israeli units of different 
+divisions (having a different unit color symbol) being in the 
+same area: in combat (i) only one artillery asset can be as-
+signed; (ii) no battle assets can be assigned; (iii) other assets 
+defined for this game (16.2 & 16.3) can be assigned for a non-
+battle asset capability. When using rule 14.61a, merging units 
+must have the same color symbol.
+For reference:
+●36th Armored Division (green)
+●240th Armored Division (beige)
+●146th Armored Division* (blue)
+*This division was also the Israeli Strategic Reserve.
+19.0 DETERMINING VICTORY
+19.1 OBJECTIVE AREAS VICTORY POINTS
+An Objective Area must be both friendly-controlled and be 
+able to trace a valid supply path (9.31 & 14.93) for a player 
+to be awarded its VP value during the Victory Check Phase. 
+Objective Area symbols show who is awarded VPs for control 
+of them as follows:
+●Syrian Objective Areas—These areas have Israeli blue stars 
+marking them. Only the Syrian player is awarded VPs for 
+control of these areas and only if currently occupied by at 
+least one Syrian unit.
+●Areas in Syria—The Israeli player is awarded one VP for 
+each area he controls east of the Purple Line (14.43).
+●Areas of Battlefield Importance—These areas have yel-
+low stars marking them. Both players are awarded VPs for 
+control of these areas. The Syrians are only awarded VPs 
+for these areas if they are currently occupied by at least one 
+Syrian unit.
+19.2 ELIMINATED UNITS
+Each eliminated unit with three or more steps on the unit la-
+bel is worth one VP to the opposing player. Such units should 
+be placed on the Eliminated Large Units Track as they are 
+eliminated. Smaller units and assets do not have a VP value. 
+Note that the Israeli 4th Mech Brigade and units of the 179th 
+Armored and 679th Armored Brigades might later be removed 
+from this track by the Israeli player by using a Reinforcing 
+event specific to those brigades/units (17.21). If the Israeli play-
+er uses the special action Merging Units (14.61a), no VPs are 
+awarded to the Syrian player for units removed by this process.
+19.3 CALCULATING VICTORY POINTS
+During the Victory Check Phase of each turn, both players 
+sum the VPs they are awarded for Objective Areas they con-
+trol per 19.1 above, then add the number of eliminated enemy 
+large units, and then compare these totals. The difference be-
+tween those totals is the current VP advantage, with the player 
+having the higher total being the advantaged player. Use the 
+VP marker provided, which has a Syrian side and an Israeli 
+side, placing it on the General Information Track to reflect the 
+advantaged player and the current VP advantage.
+19.4 SUDDEN DEATH VICTORY
+Beginning with Turn 4, the Turn Record Chart shows what is 
+needed in terms of net Victory Points (yours minus theirs) to 
+end the game in a Sudden Death Victory during the Victory 
+Check Phase. If neither player has achieved the net Victory 
+Points needed to end the game, play proceeds to the next Game 
+Turn.
+19.5 SYRIAN AUTOMATIC VICTORY
+Regardless of the current VP Count, the Syrian player wins 
+an automatic and decisive victory if he has at least one Syrian 
+unit that can trace a valid supply line from the west side of the 
+Jordan River at the end of any Israeli player turn.
+
+Page 23
+Abort Attack: 6.41b
+Admin Phase
+Definition: 3.21; Phase Procedure: 4.2
+Alternate Event Use
+Definition: 4.21; Exceptions: 16.11; 16.12; 
+16.31; 17.4
+Areas
+Definition: 2.4; Exiting: 5.34; Newly Con-
+tested, Combat required: 6.1, 7.32; Point 
+Unit Designation: 6.24; Verify Control: 9.2; 
+Mount Hermon: 14.16, 14.94; Sea of Galilee: 
+14.19; see Entry Areas
+Area Boundaries: see Boundaries
+Armor Class
+Definition: 2.3; Movement Allowance: 5.22; 
+Exploitation: 6.8; Units by Class: 13.3
+Firing: 6.25, 6.26; Artillery Assets use: 6.31; 
+Hit Priority, Disorder Option: 6.42b; Night: 
+14.03; Rocket: 16.4; Opt – Advanced Use: 
+18.3
+Artillery Assets: 6.31; see Assets
+Assaults
+River Assaults: 5.35e; Assaults – Resolu-
+tion: 14.01; Crossing Assault: 14.01a; Air 
+Assault: 14.01b, 15.3
+Assets
+Definition: 2.2; in Reinforcement Phase: 
+4.1b, 4.1d; in Admin Phase: 4.2; Assigned 
+in Combat: 6.22, 6.23; after Combat: 6.29; 
+uses in Combat: 6.3 
+Assets—Exclusive Rules
+Night: 14.03; Syrian Commando: 16.11; 
+Syrian SAM Air Defense Fire: 16.12; Israeli 
+Initial Artillery Advantage: 16.21; Israeli 
+Air-to-Ground Advantage: 16.22; Israeli 
+Increasing Air Support: 16.23; Israeli Gar-
+risons: 16.24; Air Support: 16.3; Rocket 
+Artillery: 16.4
+Battle Assets: 6.32; see Assets
+Boundaries
+Open & River: 5.31; Minefields: 14.02; 
+Escarpment: 14.11; Anti-Tank Ditch: 14.12; 
+Wadi: 14.13; Rugged: 14.14; Syrian SAM 
+Barrier: 14.15; Jordan River: 14.17; Purple 
+Line: 14.18; see Connections; see Opera-
+tional Boundaries
+Breakthrough Phases 
+see Movement; see Combat
+Bridges
+Blow Up: 4.31; Repair: 4.32; Defended 
+Roadblock: 4.35; Movement Costs: 5.31, 5.32; 
+Movement Restrictions: 5.35c, 5.35d; Newly 
+Contested Areas: 7.32; Construction Restric-
+tion: 14.41; see Boundaries; see Connections
+Combat
+Definition: 3.24; General Rules: 6.1; Combat 
+Round: 6.2; Defender’s Special Action: 6.21; 
+Assets Assigned: 6.22, 6.23; Point Units: 
+6.24; Artillery Fire: 6.25, 6.26; Ground Fire: 
+6.27, 6.28; End of Round: 6.29; Night: 14.03; 
+Ghost Units revealed in step 6.24: 15.7; see 
+Hit Distribution and Priorities
+Combat—Breakthrough
+Definition: 3.27; Mandatory: 7.41; Optional: 
+7.42; via Special Action: 8.22; Night: 14.03
+Conditional Assets & Units:15.6, 16.23; 
+see Assets – Exclusive Rules; see Strong-
+points
+Connections
+Road & Field: 5.31; see Boundaries
+Control
+Definition of Control: 2.4; see Areas
+Defended Roadblock: see Engineer Assets
+Disordered
+Definition: 2.3; cannot Attack: 6.2; Disorder 
+Options: 6.42b, 6.42c; Combat Results: 6.5; 
+Retreats: 6.6; Effects: 9.33
+Disordered—Recovery
+Disorder Option: 6.42b; Recovery: 6.5; 
+Rally: 8.25; Adjusting Markers: 9.35
+Engineer Assets
+Admin Phase: 4.2; Roadblocks: 4.34, 4.35; 
+in Combat: 6.33; AT Ditch Bridging: 14.51; 
+Removing Minefields: 14.52; Areas and 
+Sectors, use in: 16.1, 16.2; see Assets
+Entry Areas
+Definition: 14.2; Reinforcements, Blocked 
+Entry: 4.1c; Reroute Reinforcement: 8.27; 
+Syrian Entry Areas: 14.21; Israeli Assembly 
+Areas: 14.22, 14.95; see Areas
+Events
+Definition: 2.2; Admin Phase: 4.2; Alternate 
+Use: 4.21; Single-Use: 4.22; Exclusive Event 
+Rules: 17.0
+Events—Israeli
+Arriving Battalions: 17.21; Operation Dug-
+man 5: 17.22; Lt. Zvicka Greengold: 17.23; 
+King Hassan’s Troublemakers: 17.24
+Events—Syrian
+Strategic Reserve Units Released: 17.11; 
+Syrian SSM Attack: 17.12 
+Events—Both
+Armor Replacement: 17.31; Mechanized 
+Replacement: 17.32; Electronic Warfare: 
+17.33; Counterbattery Strike: 17.34; Special 
+Action: 17.35 
+Exploitation
+Definition: 6.8; Due to Retreat: 6.21; Due to 
+Elimination: 6.25, 6.42d; Eligibility: 7.1; see 
+Breakthrough Phases
+Field Works
+by Engineer: 4.33; by Unit: 5.23; in Hit 
+Priority: 6.42a; by Reserve: 7.2; in Break-
+through: 7.31; Opt – Maintenance: 18.1
+First Player: 2.1, 3.2, 13.1
+Formations & Organization
+Syrian Penalty for Mixing Formations: 
+15.12; Israeli Brigade Integrity: 15.51; Opt 
+– Israeli Divisional Organization: 18.5; see 
+Game Components
+List of Components: 12.0; Higher Echelons: 
+13.2; Assets & Units by Class: 13.3; Game 
+Piece Notation: 13.4
+Ghost Units
+Definition: 15.7; see Combat
+Good Order
+Definition: 2.3; see Disordered
+Higher Echelons
+Definition: 2.3; Asset Restrictions: 6.22, 
+6.23; Israeli, Syrian: 13.2; see Zones
+Hit Distribution and Priorities
+General: 6.4; Priorities vs Attacker: 6.41; 
+Priorities vs Defender: 6.42; Step-Loss Al-
+location: 6.43; see Combat
+Infantry Class
+Definition: 2.3; Movement Allowance: 5.22; 
+Units by Class: 13.3
+Large Units
+Eliminated Adjustment: 19.2; see Units
+Markers
+Definition: 2.2; for Control: 9.2; for Supply 
+Status: 9.32; for Disorder: 6.5, 9.35; end-of-
+turn Removal: 9.5
+Minefields
+Definition: 14.02; see Morale Checks
+Morale Checks
+Definition: 2.3; General Procedure: 6.7; 
+Armor Class, Exploitation: 6.8; Unsup-
+plied Units: 9.4; Mined Boundary Crossing: 
+14.02; Night Exploitation: 14.03; Garrison 
+Out of Supply: 16.24; Opt – Field Works 
+Maintenance: 18.1; Opt – Withdrawal: 18.2 
+Movement
+Allowances: 5.22; Minimum Move: 5.33; 
+Costs: 5.31, 5.32, 14.42, 14.43
+Movement—Breakthrough
+Definition: 3.26; Exploitation: 6.8; Break-
+through Rules: 7.3; Restrictions: 7.31; in 
+Newly Contested Areas: 7.32; Night: 14.03
+Movement—Operational
+Definition: 3.22; Movement Options: 5.2; 
+Movement Rules: 5.3; Syrian Movement 
+Restrictions: 14.42; Israeli Movement Re-
+strictions: 14.43
+Movement—Reaction
+Definition: 3.25; Reaction Phase: 7.2
+Index
+
+Page 24
+Movement—Strategic
+Definition: 3.23; Strat-Move: 5.4; Limits: 
+14.8
+Night
+Definition: 14.03; see Morale Checks; See 
+Movement; See Combat
+Operational Boundaries
+Definition: 14.3; Unified Commands (no 
+asset or event restrictions): 14.31, 14.32; 
+Movement Restrictions: 14.4; see Sectors
+Optional Rules: 18.0
+Maintaining Field Works: 18.1; Withdrawal: 
+18.2; Advanced Artillery Use: 18.3; Syrian 
+Air Support Use: 18.4; Israeli Divisional 
+Organization: 18.5 
+Out of Supply: see Unsupplied Effects
+Point Unit
+Definition: 2.3; in Combat: 6.24; Mandatory 
+Step Loss: 6.41a; Step Loss Allocation: 6.43
+Reaction Phase: see Movement—Reac-
+tion
+Recovery: see Disordered—Recovery
+Reinforce Battle: 8.23
+Reinforcement Phase: 3.1, 4.1
+Reinforcements
+Units, in Entry Areas: 4.1c; Events & Assets, 
+in Selection Cup: 4.1d; Reroute Unit: 8.27; 
+See Entry Areas
+Replacements
+Quality, via Special Action: 8.26; Non-Elite, 
+via Staff Function: 8.31; see Events – Both
+Reserve Markers
+Eligibility: 14.7
+Reserve Units
+Definition: 2.3; Placing into: 5.21; Break-
+through: 7.1; Reaction, Defender: 7.2; via 
+Staff Function: 8.33; Unit Arrival: 14.2; 
+Eligibility: 14.7; see Reserve Markers; see 
+Retreats
+Stacking: 5.1; Hit Priority, Retreat Option: 
+6.42c; Procedure in Combat: 6.6; via Special 
+Action: 8.24
+River Assaults: 5.35e; see Assaults; see 
+Bridges
+Roadblock
+Construction, via Engineer: 4.34; Unit 
+Stops upon Entry: 5.35b
+Scenarios: 22.0
+Second Player: 3.3, 13.1
+Sectors
+Northern, Central and Southern: 14.31; see 
+Operational Boundaries
+Selection Cup
+Definition: 2.1; place into: 4.1b, 4.1d; draw 
+from: 4.2a
+Special Actions
+Definition: 2.2; Defender Decision: 6.21; 
+Breakthrough Activation: 7.1; Optional 
+Combat: 7.42; Standard Uses: 8.1, 8.2
+Special Actions—Reusable: 4.1a, 8.1
+Special Actions—Single-Use: 8.1, 17.35
+Special Actions—Standard Uses
+Breakthrough Movement & Combat: 8.21, 
+8.22; Reinforce Battle: 8.23; Retreat before 
+Combat: 8.24; Rally the Troops: 8.25; Qual-
+ity Replacements: 8.26; Reroute Reinforce-
+ment: 8.27
+Special Actions—Additional Uses
+Merging Israeli Units: 14.61a; Syrian Op-
+erational Reserve Released: 14.61b; Syrian 
+SAM Asset Replaced: 14.61c; Israeli Air 
+Asset Replaced: 14.61d 
+Stacking Limits: 5.1
+Staff Functions
+in Admin Phase: 4.2; General: 8.1; Replace-
+ments: 8.31; Intelligence Gathering: 8.32; 
+Reserves Made Available: 8.33
+Staff Functions—Exclusive Rules
+No Additional Functions: 14.62 
+Status Boxes & Tracks
+Definition: 2.1 and map sheet; Available 
+Box: 4.1, 4.2, 6.22, 6.23; Eliminated Box: 
+4.22, 6.4; Used Box: 4.1, 6.29; Syrian Stra-
+tegic Reserve Holding Box: 15.2; Syrian Air 
+Assault Holding Box: 15.3; Syrian Opera-
+tional Reserve Holding Box: 15.4; Israeli 
+Air Support Assets Holding Box: 16.23
+Steps/Step Losses
+Definition: 2.3; Point Unit: 6.24; Step Loss 
+Allocation: 6.43; due to Retreats: 6.6
+Stongpoints
+Definition, Symbols and Modifiers: 15.6; 
+Evacuation Procedure: 15.6; Task Force 
+creation: 15.6
+Success Number (SN): 2.1
+Sudden Death Victory: 19.4
+Supply Path
+Assigning Assets, Required: 6.22, 6.23; Dis-
+order & Recovery: 6.5; Tracing: 9.31, 14.93
+Supply Phase
+Definition: 3.28; Procedures: 9.0
+Supply Sources
+Tracing to: 9.31; Definition of: 14.91, 14.92; 
+Boundary Restrictions – tracing across: 
+14.93; Mount Hermon: 14.94; Israeli Assem-
+bly Areas: 14.95
+Task Force: see Strongpoints
+Terrain & TDN
+Definition & Terrain Difficulty Number 
+(TDN): 2.4, Map Legend, Combat Tables; 
+see Boundaries
+Troop Quality (TQ)
+Definition: 2.3; in Combat, per Point Unit: 
+6.24; Battle Assets, do not effect: 6.32; 
+Morale Checks: 6.7
+Definition: 2.2; Status: 2.3; Units by 
+Class: 13.3; Syrian Divisions: 15.1; Syrian 
+Strategic Reserve: 15.2; Syrian Paratroops: 
+15.3; Syrian Tank Divisions (Operational 
+Reserve): 15.4; Israeli Brigades: 15.5; Israeli 
+Strongpoints: 15.6; Israeli Ghost Units: 15.7; 
+see Formations & Organization
+Unsupplied Effects
+Unsupplied & Disordered: 9.33; Additional 
+Effects: 9.34; Morale Check: 9.4
+Victory Check Phase
+Definition: 3.4; Procedures: 19.0
+Victory Points & Objective Areas
+Objective VP: 19.1; Eliminated Large Unit 
+VP: 19.2; Calculating VP: 19.3
+GMT Games, LLC ▪ P.O. Box 1308, Hanford, CA 93232-1308 ▪ www.GMTGames.com
