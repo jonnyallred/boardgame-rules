@@ -1,0 +1,239 @@
+For 2 players
+ 8 years old - Adult
+ 10 to 30 minutes
+ http://gounki.org
+Starting position
+White victory
+After they put a double circle beyond
+the opposite side of the board
+for a simple piece
+Gounki
+A game by Christophe Malavasi
+Objective
+Using strategy and careful thinking, be the first to get through your opponent’s
+lines and place one of your pieces beyond the other side of the board.
+Material
+ An 8x8 board
+ 16 white pieces (8 circles and 8 squares)
+ 16 black pieces (8 circles and 8 squares)
+Preparation
+Each player chooses one colour and places his pieces as illustrated: squares on
+dark spaces and circles on light ones.
+The player with the colour white begins.
+Game description
+During each turn, players choose a piece and play it according to the rules
+specific to that piece.
+He has the choice to move or to deploy that piece (i.e. separate it into several
+pieces if it was a compound piece). During that move, he may have the
+opportunity to stack his own pieces or to capture one of his opponent's pieces.
+In any case :
+ you cannot move backward, toward your own side,
+ you cannot jump over other pieces.
+The winner is the first player who places a piece beyond the opposite side of the
+board.
+Movements
+Simple pieces
+Simple circles move one step diagonally, always forward.
+Simple squares move one step on the side or forward.
+Stacks
+During a movement, the player may choose to stack his pieces to form a
+compound piece. For instance:
+ Stacking a square with a square gives a double square ;
+ Stacking a double circle with a square gives the compound
+piece circle-circle-square.
+Pieces are composed of a maximum of 3 simple pieces.
+The stacking order of squares and circles has no impact on the compound piece’s
+movement possibilities.
+ These three compound pieces are equivalent.
+
+of double pieces
+of triple pieces
+Movements of compound pieces
+Important: during a movement, a compound piece is always taken as a whole,
+like one "big piece". To separate that piece again into 2 or 3 simple pieces, you
+must deploy it (see below).
+A double circle moves like a simple circle in 1 or 2 steps.
+A double square moves like a simple square in 1 or 2 steps.
+A square-circle moves either like a square, or like a circle.
+A triple circle moves like a simple circle in 1, 2 or 3 steps.
+A triple square moves like a simple square in 1, 2 or 3 steps.
+A square-square-circle moves either as a double square, or as a simple circle.
+A circle-circle-square moves either as a double circle, or as a simple square.
+During a movement, a compound piece cannot :
+ be split into several pieces,
+ change direction,
+ jump over other pieces.
+Deployments
+To split a compound piece into 2 or 3 simple pieces, you must deploy it.
+To do so, the player takes the compound piece in his hand. He places his hand above a neighbouring space, drops a
+simple piece on that space, then continues this way until all the simple pieces of the compound piece have been
+placed (or deployed).
+Some possible deployments before…
+… and after : deployment results.
+Rules concerning the order of deployments and the choice of destination spaces are the following:
+ If a compound piece includes both circles and squares, you deploy all circles first, or all squares first. One
+cannot, for instance, deploy in the order 1-circle, 2-square, 3-circle again.
+ The destination space of a simple piece is always chosen according to its normal possible movements:
+forward diagonal for a circle, on the side or forward for a square.
+ If one deploys 2 or 3 circles, he has to deploy them in the same direction: one cannot slalom during
+deployments. In the same idea, 2 or 3 squares are always deployed in the same direction.
+
+Example 1: Regardless of the real order in which the simple pieces of a circle-circle-square are stacked, the player
+may deploy:
+ Either a square (one step forward or on the side), then two circles (two steps one after the other in the same
+diagonal)
+ Or two circles (two steps one after the other in the same diagonal), then one square (one step forward or on
+the side).
+Remember: keep in mind that these 3 compound pieces are equivalent: 
+Figures below illustrate the different ways to deploy a circle-circle-square, starting with the circles (left figure), or
+with the square (right figure).
+Possible deployments for a circle-circle-square,
+starting with the circles.
+Possible deployments for a circle-circle-square,
+starting with the square.
+Example 2: the figures below illustrate the different ways to deploy a square-square-circle,
+starting with the squares (left figure), or with the circles (right figure).
+Possible deployments of a square-square-circle
+starting with the squares
+Possible deployments of a square-square-circle
+starting with the circle
+The deployment of a square-circle works like the deployment of a square-square-circle with only one square (or
+like the deployment of a circle-circle-square with only one circle).
+Triple square and triple circle deployments follow the same principle.
+Important: During a deployment, one cannot:
+ Deploy over a space occupied by an opponent’s piece,
+ Stop the deployment before the piece has been completely deployed.
+Note: a winning deployment ends the instant a piece has been placed beyond the opposite side of the board.
+
+Deploy over your own pieces
+You can deploy a compound piece over your own pieces, as long as no piece made up of more than 3 simple pieces
+has been formed after the deployment is complete.
+Examples of deployments over other pieces, before…
+… and after: result of deployments.
+Rebounds
+Composed pieces can bounce against the sides of the
+game board during their movements or deployments.
+This is not considered as a change of direction.
+Rebound principle: if a piece cannot continue its
+movement because it meets the side of the board, it
+bounces like a tennis ball against a wall.
+Some possible movements with rebounds
+Some possible deployments with rebounds, before…
+… and after: deployment results.
+Captures
+When a player moves one of his pieces onto a space which is already occupied by an opponent’s piece (simple or
+compound), that opponent’s piece is captured and removed from the game.
+You can capture a piece during a movement, but not during a deployment.
+If a player captures all his opponent’s pieces, he wins the game, but this rarely happens. Be careful, "gluttony is a
+deadly sin!"
+
+Some strategic advice for beginners
+By Matthieu Walraet
+Before you start to read about strategy, my advice is for you to play a few games to make sure you really
+understand the rules. That’s already done? Great, let's begin!
+The fundamental aspect in Gounki is that it is a race. The goal is to be the first to place a piece beyond the other
+side of the board. Most of the time, you've got to choose position over capture, and play moves that make you
+quicker than your opponent.
+In the beginning
+A good way to start a game is to build triple-mixed-pieces: circle-circle-square or square-square-circle. These
+are the most powerful pieces of the game because of their speed and flexibility.
+The circle-circle-square is a very offensive piece. It can go sideways or forward, and can change its target side in
+only one move, thus exploiting possible weaknesses without giving the opponent time to organize his defence.
+The square-square-circle is mostly defensive in the beginning of the game: when deployed, it can turn into a wall
+of mutually-defended pieces. On the other hand, because it includes two squares, it can mostly lead straight attacks,
+which is not very efficient in the beginning when most of the defensive pieces are still in the game.
+Triple circles and triple squares are the quickest pieces but they have a lower number of possible movements or
+deployments, which makes them easier to block for the opponent. I wouldn’t advise building them at the beginning
+of a game.
+In this example, white has taken a very good start.
+He has built two circle-circle-squares and has moved
+one of them forward to control the center. Furthermore,
+he kept a solid square structure for his defence.
+Black has chosen to build two different triple pieces,
+which gives him more possibilities. Unfortunately his
+defence has big holes! He will have to keep his
+square-square-circle backward to fill in the gaps.
+Capture vs. Speed
+Because Gounki is a race, don’t waste time in capturing pieces if this does not help you cross the board before your
+opponent does!
+Here, it’s white turn to play.
+He could capture the circle in h5 with g5, then g4
+with g2 (with a rebound),
+But he prefers deploying g2 in g3, f4 and e5.
+Thus, he builds in e5 a double circle that threatens c7
+and g7 at the same time.
+After that, he can win in 3 moves.
+
+Another example: white could make an exchange by
+capturing d5 with e5. Black would then recapture
+with b7.
+Those pieces are identical, aren’t they?
+Actually, that exchange would be bad for white,
+because the action takes place in the second half of the
+board. White needs 4 moves to build a circle-circle-
+square and put it in d5, while 3 moves do the job for
+black.
+If he makes that exchange, white loses one move,
+which is the advantage he gained when playing first at
+the beginning of the game.
+Rather, he should move c1 onto c2.
+Now, if black makes the exchange, this is good for
+white.
+End of the game: some skillful moves
+Fork
+Beware of a circle-circle-square
+quietly sleeping on a black space
+in its 3rd line…
+Threatened by the black triple circle, white has
+moved is circle-circle-square from e4 to d4.
+Oh no! Now black can win the game thanks to a
+fork.
+Indeed, black moves d6 to f4.
+Doing so, he threatens both positions d2 and h2.
+If white defends on one side, black takes the other
+one.
+Most of the time, one should not make forks just to
+capture opponent pieces (again, capturing is not the
+main issue), but to win the game or to gain decisive
+advantage.
+The circle-circle-square is very good for making
+forks, especially when placed on a black space. Indeed,
+the starting position defends white spaces very well,
+but not black spaces at all.
+Winning deployment
+Black to play:
+he can win with his piece in b4.
+Solution: The black bouncing deployment (b4 * a3,
+b2, a2) creates a fork for the occupation of the a1
+position.
+
+Sacrifice
+Often, one triple piece is not enough to go though the
+opponent’s defence.
+Here, the black defence is just solid enough to prevent
+white from going through with only one circle-circle-
+square. White has thus called for some reinforcement.
+Be careful, this is a little complicated!
+White to play. He has to be quick because the black
+piece in g4 can win in two moves with the g4 * f3, e2,
+e1 deployment. The only solution for white is to be
+quicker.
+The sacrifice works for white: he captures b7 with b5,
+even if black can recapture with b8. Then white moves
+his second triple piece from a5 to a6 and wins on the
+next turn by deploying a6 on the a7 and b8 cases. He
+wins when he goes off of the board in the c column
+when he deploys a6 * a7, b8, out.
+Handicap
+The player with the least experience takes white, which is an advantage.
+Nevertheless, if the black player wins too often, you can decide to give him a handicap to balance your games.
+For instance:
+ Black has to reach the other side of the board only in the C, D, E or F columns, or
+ White can play two or three times in a row during the first turn.
+Your turn to play!
+Written and illustrated by
+Christophe Malavasi
+Romain Vassallo
+ Emilie Vitte
+Matthieu Walraet
+All rights reserved

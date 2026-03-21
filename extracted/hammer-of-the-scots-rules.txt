@@ -1,0 +1,754 @@
+Another boardgame player aid by
+Game: 	 HAMMER OF THE SCOTS
+Pub: 	
+©2002 Columbia Games
+Page 1: 	 Rules summary front	
+Page 2: 	 Rules summary back
+Page 3: 	 Scenarios
+Page 4: 	 Background Material
+v1
+Apr 2010
+Download a huge range of popular boardgame rules summaries, 
+reference sheets and player aids at www.headlesshollow.com
+Universal Head • Design That Works • www.universalhead.com
+These sheets are intended only for the personal use of existing owners of the game for 
+additional reference. Universal Head makes no claim whatsoever to the rights of the publisher 
+and copyright holder, and does not benefit financially from these player aids. Artwork from the 
+original game is copyrighted by the publisher and used without permission. This PDF may not 
+be re-posted online, sold or used in any way except for personal use. 
+Print on card (ensure you are printing at 100% scale) laminate and trim to size. 
+
+Setup
+One player plays the Scots (blue blocks), the other player 
+plays the English (red blocks). 
+The object is to control a majority of Scottish nobles 
+at the end of the game. The two scenarios, Braveheart 
+(1297–1305) and The Bruce (1306–1314) can be played 
+as separate games, or as a campaign game extending over 
+both periods.
+Setup the board according to the scenario instructions. 
+Both players start the first year with 5 cards each. 
+Armies
+Block Characteristics
+When the blocks are standing upright, blocks face their 
+owning player and their characteristics are hidden from 
+your opponent.
+The Strength of a block is the number of symbols on the 
+top edge when the block is standing upright. Strength 
+(1-4) determines how many d6 are thrown for a block 
+in combat. For each hit taken in combat, the block’s 
+strength is reduced by 1 by rotating the block.
+The Movement of a block is shown on its bottom left-hand 
+corner.
+The Combat Rating of a block is a letter and number on 
+its bottom right-hand corner. The letter determines when 
+a block attacks (all A blocks attack first, then all B blocks, 
+then all C blocks). The number indicates the maximum 
+roll on a d6 that will score a hit.
+Block Types
+The Scots have two Leaders: Wallace and the King. The 
+English have one Leader: Edward, who represents Edward 
+I until 1307 and then Edward II.
+There are 14 Nobles, each identified by their heraldic 
+arms. Nobles are either loyal to the Bruce faction or the 
+Comyn faction.
+Each noble (except Moray) has 2 blocks. Only 1 block 
+is play at a time: Red when supporting the English, and 
+Blue when supporting the Scots. 
+English infantry are named after their counties. The 
+English also have one Welsh (red dragon) and Ulster 
+(green cross) infantry.
+Scottish Infantry are namd after prominent clans.
+Other block types are Archers, Light Cavalry and Knights. 
+The French knights enter the game only under special rules.
+The Norse block represents possible intervention by 
+Norway, which at this time controlled much of the area 
+north of Ross, including the Orkney and Shetland Islands; 
+or by the warlike clans of Norse origin from the Outer 
+Hebrides. The block has special movement abilities.
+Sequence of Play
+Each Year consists of 1-5 Game Turns. Each Game Turn 
+has 4 Phases:
+1. Card Phase
+Each player plays 1 card facedown. They are revealed 
+simultaneously and the higher card has the first move. 
+Ties go to the English player. 
+2. Move Phase
+Depending on the card played, 1, 2, or 3 Group Moves 
+may be made. 
+Blocks may move up to 3 areas per Move Phase 
+depending on their move rate, but must stop upon 
+crossing a red border or entering an enemy-occupied area. 
+3. Battle Phase
+Battles occur when enemy blocks are located in the same 
+area, and are fought one by one in a sequence determined 
+by the first player. 
+After all battles are fought, repeat steps 1 to 3 until a 
+Year ends.
+After each Year ends, the Winter Turn is played. 
+Nobles return home (perhaps to switch sides), and armies 
+move into winter quarters. 
+Both players receive replacements, and 5 new cards to 
+start the new year.
+Card Phase 
+At the beginning of each year, all cards are shuffled and 
+5 are dealt out facedown to each player. Players may then 
+examine their cards before the year begins.
+Both players start a Game Turn by playing one card 
+facedown. 
+The cards are then revealed and the higher card 
+determines Player 1 for that Game Turn (English win ties).
+Players may choose to pass but effects cannot be saved 
+for future use.
+Move Cards allow 1, 2, or 3 group moves according to the 
+card value.
+Event cards allow a special action as noted on the card. 
+They are always resolved first (the player of the card is 
+Player 1).
+If both players play an Event card, both events are 
+resolved (English player first) and then the year ends.
+Initiative
+Card values determine play order each Game Turn. 
+The higher card (English win ties) is Player 1 and must 
+play first.
+Move Phase
+Players are never compelled to move. They must play a 
+card, but can do nothing. Moves cannot be saved.
+Blocks may pass freely through friendly blocks, but 
+must stop and fight a battle when they enter any area 
+containing one or more enemy blocks.
+Blocks only move once per Game Turn, except to Retreat 
+or Regroup.
+All blocks (even one) located in one area are a group. 
+Players may move as many groups as the number on the 
+card they play. A player can move any number of the blocks 
+in a group to one or more areas within their move rating.
+Border Limits
+Per Movement Phase, a maximum of 6 blocks can cross a 
+black border, and a maximum of 2 can cross a red border. 
+Border limits are applied separately to each player. Once a 
+border maximum is met, it is closed to movement by that 
+player this Game Turn.
+Blocks crossing a red border must stop. 
+Border limits are applied to each player—ie, both players 
+can move 2 blocks across the same red border.
+The Anglo-Scottish Border is a heavy red or black broken 
+line. Blocks entering England must stop. Blocks entering 
+Scotland must stop only if they cross the red broken 
+border into Teviot.
+Each point of movement allows only 1 block (not group) to 
+cross the Anglo-Scottish border. Blocks attacking across 
+the Anglo-Scottish border into the same area fight as 1 
+group (no reserves).
+Area Control
+Areas can either be friendly, neutral, or enemy controlled. 
+Changes to area control are effective immediately.
+Friendly: areas occupied by your blocks.
+Enemy: areas occupied by enemy blocks.
+Neutral: vacant areas occupied by neither player.
+Pinning
+All attacking blocks (including Reserves) prevent an equal 
+number of defending blocks from moving.
+The Defender chooses which blocks are pinned. The 
+‘unpinned’ blocks may move normally and attack, except 
+they cannot cross any border used by the enemy to start 
+the battle.
+Norse Movement
+The Norse block moves separately from other blocks. It 
+requires 1 movement point to move all by itself, and can 
+move from a coastal area to any other Scottish coastal 
+area and/or attack.
+The block may Retreat or Regroup to any friendly (but not 
+neutral) Scottish coastal area. It cannot enter England.
+Battle Phase 
+Battles are fought one by one after all movement is 
+completed; each must be completed before the next. 
+Player 1 determines which battle is fought first before 
+examining any enemy blocks. Reveal blocks by tipping 
+them forward to maintain current Strength. 
+After that battle is completed, return all blocks upright, 
+and Player 1 then selects the next battle. He need not 
+commit to any specific sequence of battles in advance.
+Celtic Unity
+Each time Ulster and Welsh (infantry and archers) blocks 
+are in battle, roll a die before combat to test the loyalty 
+of each block.
+1-4: No effect
+5-6: Block goes into the Draw Pool
+Combat Rounds
+Battles are fought for a maximum of 3 combat rounds. 
+The attacker must retreat if a battle is not concluded by 
+the end of the third round.
+Because both players move before combat, a player can 
+be a Defender in some battles, and an Attacker in others.
+Combat Turns
+Each block has 1 Combat Turn per Combat Round. In 
+its Combat Turn, a block may either Fire, Retreat, or Pass.
+The sequence of Combat Turns depends on combat 
+ratings. All A blocks go before all B blocks, which 
+go before all C blocks. Defending A blocks go before 
+Attacking A blocks, and so on.
+After all blocks have taken 1 Combat Turn, 1 Combat 
+Round has been fought. Repeat for a second or third 
+round as necessary.
+Combat Reserves
+A player may attack via different borders, or attack using 
+2 or 3 group moves. One group crossing the same border 
+must be declared the Main Attack. All other friendly 
+blocks are placed in Reserve.
+Main Attack blocks must start the turn in the same area 
+and cross the same border into battle. All other blocks 
+are in Reserve. Main Attack blocks cannot be voluntarily 
+placed in the Reserve. 
+Blocks moved by Player 2 to reinforce a battle started by 
+Player 1 are Reserves.
+Reserve blocks may not fire, retreat, or take hits in 
+Combat Round 1. They are revealed at the beginning 
+of Round 2, even if all other friendly blocks have been 
+eliminated, and thereafter take normal Combat Turns.
+Battlefield Control changes if the Attacker wins in Round 
+1 before Defending reserves arrive. The Attacker is now 
+the Defender for further combat.
+
+Combat Resolution
+Each block in its combat turn rolls as many dice as its 
+current Strength. A hit is scored for each die roll equal to 
+or lower than the block’s Combat Rating.
+Nobles fire at B3 defending their Home Area, even if they 
+move there this Game Turn or defected during battle.
+To reflect the dynamics of battles involving Scottish 
+schiltroms, all Scottish infantry fire at +1 in battles when 
+the English side has no archers. 
+Each hit is applied to the strongest enemy block. When 
+2 or more blocks share the highest Strength, the owner 
+chooses which to reduce.
+Combat is not simultaneous. All hits are applied 
+immediately.
+Retreats
+Each block may Retreat (instead of attacking) on its 
+normal Combat Turn. They need not all retreat to the 
+same area.
+Before retreating, blocks are flipped back upright (facing 
+their owner) to hide from the enemy which are retreating.
+ 	Blocks retreat to adjacent Friendly or Neutral areas.
+	 Border Limits for retreat apply to each Combat Round 	
+	
+and the attacker’s mandatory retreat after 3 rounds.
+	 Blocks may not retreat through borders used by the 		
+	
+enemy player to enter the battle. When both players 	
+	
+use the same border, only the last player entering may 	
+	
+retreat via this border during this battle.
+	 Blocks may never retreat to an area where there is 	 	
+	
+another unfought battle.
+	 Blocks that cannot retreat when required are 	
+	
+	
+eliminated.
+	 The English player may never retreat into Scotland. 		
+	
+The Scottish player may never retreat into England.
+	 The Norse block may Retreat to any Friendly (not 	
+	
+	
+Neutral) coastal area. It cannot enter England.
+Regrouping
+When a battle ends the victor may Regroup. All victorious 
+blocks (including any in Reserve) may move to any 
+adjacent Friendly or Neutral area. Blocks cannot Regroup 
+to an unfought battle.
+The Norse block can Regroup to any Friendly (not 
+Neutral) coastal area. It cannot enter England.
+Border Limits apply for Regroups. Only Scottish blocks 
+may Regroup into Scotland, and only English blocks may 
+Regroup into England.
+Capturing Nobles
+When an noble is eliminated in combat, it immediately 
+switches to the enemy side (exchange block color) at 
+Strength 1 and is placed in Reserve. Captured nobles fight 
+for their new side beginning in the next combat round. 
+The Scots noble Moray never changes allegiance. If 
+eliminated in battle his block is removed from the game.
+Eliminated Blocks
+Eliminated blocks are placed in a player’s Draw Pool and 
+may return to the game during an English Feudal Levy or 
+Scots Winter Build.
+When eliminated in Battle, blocks with a black cross are 
+permanently eliminated. 
+All blocks eliminated as a consequence of the Pillage 
+card, Border Raids, or Winter Attrition are disbanded to 
+the Draw Pool.
+Border Raids
+The Scottish player may invade England. This costs 1 
+movement point per block to cross the Border. 
+If a Scots force occupies England, the English player 
+must eliminate 1 non-Noble block at the end of every 
+Game Turn. 
+If the English player has only noble blocks on the board, 
+then no blocks are eliminated.
+Scottish blocks cannot winter in England.
+Wintering
+A game Year ends if both players play an Event card at 
+the same time, or after all 5 cards have been played. 
+Cards are never carried forward into the next year.
+When a Year ends, there is a special Winter Turn. Play 
+the Winter actions in the following order:
+1. Nobles Go Home
+All nobles, English nobles first, must return to their 
+Home Areas. If that area is enemy-occupied, the noble 
+defects at current strength.
+Moray may decline to return home and remain where 
+located or disband.
+The Bruce and Comyn blocks may return to either of their 
+Home Areas. If both Home Areas are enemy-occupied, 
+the enemy player decides the wintering Home Area.
+2. Scottish King 
+The Scottish King may withdraw to any Friendly or 
+Neutral area with a cathedral, remain where located, or 
+disband.
+3. English Disbanding
+English blocks are never forced to remain in Scotland. 
+They may disband.
+Archers, Knights, and Hobelars must disband.
+English infantry blocks (including the Welsh and Ulster 
+infantry) may remain in Scotland only if located in an 
+area with sufficient Castle Limits. The English may not 
+disband a Noble to make room for an infantry block.
+4. Edward Wintering
+If located in Scotland, Edward I may winter there or 
+Disband.
+	 Neither king may winter in England.
+	 Edward I cannot spend 2 consecutive winters in 	
+	
+	
+Scotland.
+	 Edward I cannot winter in Scotland in 1306.
+	 Edward II may not winter in Scotland.
+If Edward I winters in Scotland, all red blocks (except 
+Nobles) may winter with him regardless of Castle Limits.
+If Edward winters, there is no Feudal Levy this winter 
+and England begins the next year empty. 
+5. Scottish Disbanding
+The Wallace block may move to Selkirk (unless occupied 
+by a ‘wintering’ Edward I) where he regains two RPs.
+The Scots player now disbands all blocks that exceed an 
+area’s Castle Limit. The Scots player may choose which 
+block(s) to disband. 
+With the exception of Moray, a Noble cannot disband.
+6. Winter Builds
+Each friendly area generates Replacement Points (RPs) 
+equal to its Castle Rating. 
+Areas with a Cathedral generate an extra RP for the 
+Scottish player. 
+Players now simultaneously use their RPs to strengthen 
+their army. 
+Scottish Builds: Each RP is used to:
+	 Build one step on one existing block in the same area, 
+	
+or
+	 Draw one block and deploy in the same area at 	
+	
+	
+strength 1.
+RPs can be used in any combination. Multiple steps 
+may be added to one block. Players may Build steps on 
+blocks just drawn. 
+RPs cannot be saved and are wasted if unusable.
+When drawing blocks, Castle Limits must be obeyed.
+If the Norse or French block is drawn for an inland 
+area like Badenoch or Lanark, deploy it in any friendly, 
+adjacent coastal area. Castle Limits do not apply in this 
+special case and the new home for the Norse or French 
+may still receive replacement steps if it could do so prior 
+to the redeployment. 
+French Knights: Once the Scottish player controls 8 or 
+more nobles, the French knight is added to the Scottish 
+Draw Pool and deployed like any other block if drawn. 
+The block remains in play until eliminated in battle.
+English Builds: The English player may use RPs 
+generated by areas under his control to strengthen 
+infantry (only) or nobles under his control. The English 
+player cannot use RPs to deploy blocks from the English 
+Draw Pool.
+7. English Feudal Levy
+The English player receives new blocks by a Feudal Levy, 
+except when the English King has wintered in Scotland.
+	 Shuffle all blocks (face-down) in the Draw Pool.
+	 Draw one half (round up).
+	 Deploy blocks at full strength in the England area.
+8. New Cards
+Shuffle and deal out 5 new cards to each player. 
+The next year is now played.
+Kings
+English Kings
+The Edward block represents Edward I until killed in 
+combat, or until the end of 1306, when it then becomes 
+Edward II. The switch to Edward II has two game effects:
+	 Edward II cannot winter in Scotland.
+	 If Edward II is eliminated in combat, the Scots win a 	
+	
+Sudden Death Victory.
+Scottish Kings
+The Scots do not have a King block at the start of play. 
+Once per game the Scots may crown a king. There are 
+three candidates for the throne: Bruce, Comyn, and 
+Balliol.
+To crown either Bruce or Comyn:
+	 Wallace must be dead.
+	 The candidate must be located in Fife.
+	 The Scottish player must play any Event card, 	
+	
+	
+announcing Coronation instead of the normal event.
+The King block is then placed in Fife at full strength. 
+The candidate block remains in play, representing 
+another family member under normal noble rules.
+If Bruce becomes king, all Comyn nobles except Moray 
+immediately defect to the English. 
+If Comyn becomes king, all Bruce nobles immediately 
+defect to the English. 
+Any resulting battle is fought immediately with the 
+defecting noble(s) being the attacker.
+King Balliol, exiled in France, can return to the throne 
+starting in 1301, provided no other king has been 
+crowned.
+	 The French knight must be on the map.
+	 The Scottish player must play any Event card, 	
+	
+	
+announcing Return of the King instead of the normal 	
+	
+event.
+Wallace may be dead or alive. The king block is then 
+deployed at full strength with the French knight. All 
+Bruce nobles immediately defect to the English.
+Victory
+The object of the game is to control a majority of Nobles 
+at the end of the scenario. 
+If both players control 7 nobles (Moray in play) the 
+English win if Wallace is dead or in the Draw Pool.
+Otherwise, the Scots win.
+Sudden Death Victory
+An instant victory occurs when:
+ 	A player controls all nobles in play at the end of a 	 	
+	
+Game Turn. Moray must be dead or in the Draw Pool 	
+	
+for the English to win in this manner.
+	 The English player wins immediately if the Scottish 		
+	
+King is eliminated in battle.
+	 The Scottish player wins immediately if Edward II 	 	
+	
+is eliminated in battle.
+
+Scenario 1: Braveheart
+The Scottish nobility was reduced after the battle of 
+Dunbar to abject servitude and humiliation. But in the 
+ashes of defeat two courageous young men rose to 
+continue the fight against tremendous odds.
+William Wallace had turned brigand in 1294. His 
+murderous guerrilla war against the English culminated 
+in the sack of Lanark in 1297. Suddenly, the invincible 
+English looked invincible no longer. Meanwhile, Andrew 
+de Moray, a young knight from one of Scotland’s major 
+land-owning families in the north, launched a bloody 
+uprising in the Highlands. 
+Scotland, already smoldering with discontent and 
+sporadic resistance by the fall of 1296, flamed into open 
+rebellion by the spring of 1297. It took Longshanks 
+seven years to put out the fire lit by these two heroes.
+Duration
+1297 through 1305, unless one side achieves a Sudden 
+Death victory.
+English Deployment
+Place all red blocks in the English Draw Pool, except 
+deploy at full strength on the mapboard:
+Nobles: All nobles (except Bruce, Moray, and Galloway) 
+in home areas. Comyn is deployed in Badenoch.
+Lothian: Cumbria Infantry.
+Mentieth: Northumber Infantry.
+England: Feudal Levy of 4 blocks. 
+Edward I starts play in the English Draw Pool. 
+Historically, he was fighting in Flanders in 1297.
+Scottish Deployment
+Remove the King and French Knights and set aside. 
+Place all other blue blocks in the Scottish Draw Pool, 
+except deploy at full strength on the mapboard:
+Annan: Bruce.
+Galloway: Galloway.
+Fife: Wallace, Douglas, & Barclay.
+Moray: Moray, Fraser.
+Strathspey: Grant.
+Scenario 2: The Bruce
+After John Comyn’s negotiated surrender to Longshanks 
+in February 1304, an uneasy peace returned to Scotland. 
+Robert Bruce had not supported Comyn’s rebellion and 
+resented Edward’s betrayal of his promise to deliver him 
+the Scottish throne. Bruce conspired with sympathetic 
+nobles and the leadership of the Scottish church to seize 
+the throne and inspire his countrymen to revolt, a task 
+made easy when news spread of Wallace’s brutal 
+execution in August 1305.
+Bruce and John Comyn met alone in a Dumfries church. 
+They engaged in violent argument over the wisdom of 
+Bruce’s plans; it ended with Bruce’s knife in Comyn’s 
+heart.
+With the absolution of the Scottish clergy, Bruce was 
+crowned at Scone on March 10, 1306, the 10th 
+anniversary of the outbreak of the rebellion. Faced with 
+civil war against Comyn loyalists and imminent attack 
+from England, Bruce desperately assembled an army and 
+prepared for the worst.
+Duration
+1306 through 1314, unless one side achieves a Sudden 
+Death victory.
+English Deployment
+Place all red blocks in the English Draw Pool, except 
+deploy at full strength on the mapboard:
+Nobles: all Comyn nobles (except Moray) in their home 
+areas. Comyn is deployed in Badenoch.
+Moray: Cumbria Infantry.
+Mentieth: Mentieth, Northumber Infantry.
+Lothian: Durham Infantry.
+Lanark: Stewart, Westmor Infantry.
+England: Feudal Levy (50% blocks).
+Edward I dies at the end of 1306 and the king block 
+then becomes Edward II. Edward I cannot winter in 
+Scotland in 1306.
+Scottish Deployment
+Remove Wallace and Moray and set aside—both are 
+dead. Place all other blue blocks in the Scottish Draw 
+Pool, except deploy at full strength on the mapboard:
+Nobles: all Bruce faction nobles (except Mentieth and 
+Stewart) in their home areas. Bruce is deployed in Carrick.
+Fife: King, Douglas, Barclay.
+Lennox: Campbell.
+Carrick: Lindsay.
+
+Background Material
+Hammer of the Scots
+Edward I directed that his tomb in Westminster Abbey be 
+inscribed with the epitaph Scottorurm Malleus—
+‘Hammer of the Scots’. Edward certainly intended to 
+hammer the Scots into submission, but his blows served 
+instead to forge a proud nation.
+How the War Started
+The Scottish Wars of Independence were actually 
+triggered by events in Europe. In 1294, France managed 
+through duplicity to seize control of the Duchy of 
+Gascony, a major province nominally a part of France but 
+retained by Edward I. War ensued, and the Scottish 
+nobles, chafing under the humiliating rule of Edward I 
+through his puppet—King John Balliol of Scotland—
+eagerly agreed to make common cause with the French.
+Edward I, caught off guard by this uncharacteristic 
+display of Scottish defiance, delayed his invasion of 
+Flanders and moved to settle the rebellion north of the 
+Tweed. But King Philip failed to live up to his side of the 
+agreement—which called for an invasion of England 
+should Edward move against Scotland—and the struggle 
+did not last long. After a brutal siege and massacre of 
+half the population of Berwick—Scotland’s largest town 
+at the time—Edward moved north to Dunbar. An attempt 
+to break the siege of Dunbar ended with disaster when 
+the smaller English force routed the Scots.
+With the imprisonment of most of the Scottish nobility—
+including King John Balliol—and the complete annexation 
+of Scotland by the English crown, Edward thought the 
+affair over. He haughtily remarked upon leaving Scotland 
+in 1296 that it was “good to be rid of shit.” 
+He would not be rid of the Scots for long.
+The Black Douglas
+One of the most romanticized figures of the war was 
+James ‘The Black’ Douglas, a ferocious warrior, daring 
+guerrilla, and brilliant field commander who terrorized 
+the enemy.
+The stuff of Douglas’ character was inherited from his 
+father, the crusty Sir William Douglas. William was 
+contemptuous of King John Balliol’s supplication to the 
+English crown and one of the few Scots never to bow to 
+Edward. An early comrade of Wallace, William Douglas 
+was captured after the debacle at Irvine and died in the 
+Tower of London in 1299.
+His son was to avenge his death in spades. One of the 
+Bruce’s most trusted lieutenants, James Douglas proved 
+his worth not only on the battlefield but during sieges as 
+well. Douglas was adept at finding means of entry into 
+even the best defended castles and fortresses, and was 
+legendary for savage reprisals on garrison troops who fell 
+into his hands.
+On his deathbed Bruce asked Douglas to carry his heart 
+into battle in the Holy Land where it could witness the 
+defeat of the enemies of God. Accordingly, Douglas and 
+a large company of Scottish knights set sail for Castile in 
+1330 where King Alfonso XI was conducting a campaign 
+against the Moors of Grenada. Douglas, bearing Bruce’s 
+heart, was given command of an army at Tebas de Ardales 
+on March 25. There, he and most of his men were slain 
+after being cut-off from the main body of troops. The 
+Moors finally accomplished what the English could not.
+Schiltroms
+The schiltrom was a formation that grouped footmen 
+into a large hollow square (or oval) and armed them with 
+long spears to resist the deadly charge of heavy horse. 
+Reinforcements were often harbored in the middle of 
+the formation so that men could be rushed to crumbling 
+defensive lines when needed.
+Invented by Wallace at Falkirk as a defensive tactic, 
+Bruce improved them by employing battle-hardened 
+veterans capable of moving and attacking in formation, 
+an idea later refined by Swiss Pikemen to devastating 
+effect. Although always vulnerable to massed ranged fire 
+(whether from arrows or cannon), the schiltrom was a 
+revolutionary tactic that reduced the power of knights on 
+the battlefield.
+The Longbow
+The war was a proving ground for the English longbow, a 
+weapon soon to terrorize the French during the 100 Years 
+War. The longbow had a range of 350-400 yards, but the 
+necessary draw weight of 100-175 pounds required great 
+strength and extensive training. Edward I was the first to 
+appreciate the potential for this terrible weapon and its 
+ability to revolutionize the medieval battlefield.
+Scottish archers were few and far between—the 
+shortbowmen and slingers of Etterick Forest were no 
+match for English longbowmen.
+Edward the Longshanks
+Edward I was one of the leading monarchs of the 
+Middle Ages. He was a noted pioneer of legal reforms; 
+a great architect of administrative justice; an innovator 
+of financial administration; and one of the founders of 
+parliamentary government. European Kings and Popes 
+held him in the highest esteem, and few monarchs ever 
+dominated the English nobility like Edward.
+The Song of Lewes, however, compares Edward to a 
+brave lion—proud and fierce—but also unreliable and 
+deceitful. In his later years, Edward’s commitment 
+to justice evolved into cruelty and judicial murder. 
+He saw the Scottish war as a rebellion, not a war 
+between nations, and therefore believed that chivalry 
+did not apply. Gruesome executions and lawlessness 
+characterized the war.
+Edward’s conduct was animated by a fierce 
+determination to preserve, protect, and enhance his 
+rights as King. Yet he was more a savvy opportunist than 
+a Machiavellian strategist. It is doubtful that he had 
+any grand designs on Scotland prior to the death of his 
+cousin and ally King Alexander III of Scotland in 1286. 
+But when he was asked by the leading men of Scotland 
+to adjudicate the dispute between Bruce and Balliol 
+for the vacant throne (known to historians as ‘the Great 
+Cause’), he did not hesitate to assert a long-standing but 
+dormant claim to sovereignty over Scotland.
+A battle-hardened veteran of the Montfortian rebellions 
+of 1263-1267, Pope Urban IV’s crusade in 1270, and 
+the Welsh wars of 1277, 1282-1283, and 1294-1295, 
+Edward was a capable military commander and a brilliant 
+mobilizer of men, equipment, and victuals. Scottish 
+victories came only when Edward I was absent from 
+Scotland or dead.
+The Scottish Nobility
+The elimination of a Scottish noble block in combat does 
+not necessarily imply the death of that noble. Nobles 
+were often captured in battle and held hostage to ensure 
+the loyalty of retainers and heirs. Other times, after a 
+brief imprisonment, captured nobles would be pardoned 
+and allowed to go free upon a pledge of loyalty to their 
+captors. The death of a noble on the battlefield meant a 
+new feudal lord of the household, and newly empowered 
+lords often had different ideas about the rebellion than 
+their predecessors.
+Beneath the real-politick, however, was a smoldering 
+hatred for the English that could never be extinguished. 
+Observed the English Lanercost Chronicle, a history of 
+the war written at the time:
+“In all these aforesaid campaigns the Scots were so 
+divided among themselves that sometimes the father 
+was on the Scottish side and the son on the English, and 
+vice versa; also one brother might be with the Scots and 
+another with the English; yea, even the same individual 
+be first with one party and then with the other. But all 
+those who were with the English were merely feigning, 
+either because it was the stronger party, or in order 
+to save the lands they possessed in England; for their 
+hearts were always with their own people, although their 
+persons might not be so.”
+The English Levy
+By feudal custom, the English king would often petition 
+his major nobles to raise an army, sometimes to fight 
+in France, sometimes in Scotland, sometimes both. 
+Economic and political realities, plus the demands of 
+fighting in France (which was by far the more important 
+of the two areas to the English king) meant that a major 
+campaign into Scotland could not occur every year.
+In game terms, the English player will only be able to 
+mount a major campaign into Scotland with a high 
+movement hand. With a good movement hand, it 
+is possible to get as far north as Moray in one year. 
+However, wintering an army with Edward I at Mentieth 
+or Fife is often the only practical way to campaign in the 
+northern highlands.
+Comyn & Bruce
+The bitter struggle between the Bruce and Comyn 
+factions for control of Scotland defined the conflict. 
+Robert the Bruce was determined to win the Scottish 
+throne that was—in his mind—wrongfully denied 
+his family after King Alexander III’s death in 1286. 
+Bruce’s changing allegiances during the first conflict 
+(1297-1304) suggest that his main priority was 
+possession of the crown, not national independence.
+The Comyns, on the other hand, were the most powerful 
+members of the Scottish ‘war party’ and strong 
+supporters of the exiled King John Balliol. This made 
+them not only natural enemies of the Bruce but also 
+implacable foes of the English. They led the rebellion 
+against England after Wallace’s defeat at Falkirk in 
+1298, and made reluctant peace with Edward in 1304 
+after the English king agreed they could keep their lands. 
+Only when John ‘The Red’ Comyn, the Lord of Badenoch, 
+was murdered by Bruce in a Dumfries church in 1306 
+did the Comyns finally turn away from the cause of 
+freedom and make firm alliance with the English.
+The Auld Alliance
+The Anglo-French conflict constrained Edward’s ability 
+to prosecute the war in Scotland. French King Philip’s 
+savage naval raids against English seaports in 1295 
+caused hysteria throughout the realm and ensured 
+that England would concentrate her primary attention 
+southward. The disastrous Flemish campaign in 1297, 
+reinforced anxiety over affairs across the channel.
+By 1302, rumors reached England that the French were 
+planning to send the Count of Artois at the head of a 
+large force of knights to return the exiled King John 
+Balliol to the Scottish throne. Alarmed that the Balliol 
+dynasty might be reestablished at his expense, Robert 
+the Bruce defected from the rebellion and made common 
+cause with Edward I, who promised that, should he ever 
+reestablish English authority in Scotland, Bruce would 
+be King.
+On July 11, 1302, however, the threat of a French 
+invasion of Scotland was squashed forever. 13,000 men 
+of Flanders adopted the schiltrom tactics pioneered by 
+Wallace at Falkirk and slaughtered 7,500 French horse 
+at the battle of Courtrai. When news of the disaster 
+reached Scotland, the heart went out of the rebellion and 
+Edward confidently turned his full attention to finishing 
+off Comyn and his allies. By 1304, the war—so nearly 
+won by the rebellious Scots two years earlier—had 
+ended. Another, however, was about to begin.
+Declaration of Arbroath, April 6, 1320
+Yet if he [Robert the Bruce, King of Scotland] should 
+give up what he has begun, and agree to make us or our 
+kingdom subject to the King of England or the English, 
+we should exert ourselves at once to drive him out as 
+our enemy and a subverter of his own rights and ours, 
+and make some other man who was well able to defend 
+us our King; for, as long as but a hundred of us remain 
+alive, never will we on any conditions be brought under 
+English rule. It is in truth not for glory, nor for riches, 
+nor honors that we are fighting, but for freedom—for that 
+alone, which no honest man gives up but with life itself.

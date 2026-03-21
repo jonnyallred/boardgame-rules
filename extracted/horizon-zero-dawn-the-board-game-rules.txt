@@ -1,0 +1,2379 @@
+®®
+™
+
+CREDITS
+Steamforged Games Team
+Co-Founders
+Mat Hart (CCO)
+Rich Loxam (CEO)
+Chairman
+Simon Spalding
+Non-Executive Director
+Ian Livingstone CBE
+Product Owner
+Alex Hall
+Design & Writing
+Sherwin Matthews
+Development & QA
+Richard August
+Bryce Johnston
+Samantha Laydon
+Steve Margetson
+Fraser McFetridge
+Jamie Perkins
+Dominic Westerland
+Sculpting & Art
+Ben Charles
+Russ Charles
+Tom Lishman
+Doug Telford
+Graphic Design & Layout
+Tom Hutchings
+Abigail Thornton
+Production
+Edward Ball
+Matthew Elliott
+Charlotte Holland
+Louis Moore
+Aitch Parker
+Tom Rochford
+Paul Waters
+Finance & IT
+John Ford
+Adam King
+Marketing & 
+Community Management
+Derek Baker
+Sean Dooley
+Jamie Giblin
+Ronan Kelly
+Human Resources & 
+Operations
+Gareth Reid 
+Fulfilment & Logistics
+Mike Appleton
+David Fear
+John Hockey
+Lee Hughes
+Richard Jennings
+Steve Loxam
+Andy Lyon
+Luke Pitter
+David Pownall
+Support & Sales
+Alex Black
+Rachel Hall
+Firoz Rana
+Kieran Shiach
+Ben Taylor
+Special Thanks
+Claire and George
+Andrea, Katherine, and Tom
+Extra Special Thanks to All 
+of our Kickstarter Backers 
+and Late Pledgers!
+Guerrilla Credits
+Anne van der Zanden
+Benjamin McCaw
+Craig Stuart
+Espen Sogn
+Hermen Hulst
+Jan Bart van Beek
+Jeroen Roding
+Joel Eschler
+John Gonzalez
+Kevin Middelbos
+Lennart Franken
+Liselore Goedhart
+Luc de Haan
+Margit Meesters
+Massimo Tristano
+Miguel Martinez
+Mikail Yazbeck
+Roland Ijzermans
+Roy Postma
+Samrat Sharma
+Steven Lumpkin
+Tim Symons
+Tom Delboo
+Victor Zuylen
+SIEE Credits
+Emma Benfield
+Claire Coopland
+Cheryl Gayle
+Tim Hodges
+Ben Mellor
+Harrison Roberts
+Horizon Zero Dawn™: The Board Game
+Game Concept & Design
+Mat Hart
+Lead Design
+Sherwin Matthews
+Lead Development
+Steve Margetson
+Project Management
+Edward Ball
+Matthew Elliott
+Alex Hall
+Art
+LeAndra Dawn
+Jelle Steenhuisen
+Doug Telford
+Tim Toolen
+Sculpting
+Russ Charles
+Ben Charles
+Tom Lishman
+Graphic Design & Layout
+Tom Hutchings
+Abigail Thornton
+Editor
+Darla Kennerud
+Playtesting
+Souad Leith Bensaoud
+Jordan Connolly
+Michael Early
+Daniel Harwood
+Herman Jonas
+Matthew Stanford
+Matthew Thomas
+Kyle Wink
+Horizon Zero Dawn™ ©2017-2019 Sony Interactive Entertainment Europe. Published by Sony Interactive Entertainment Europe. 
+Developed by Guerrilla. “Horizon Zero Dawn” is a trademark of Sony Interactive Entertainment Europe. All rights reserved.
+The Steamforged Playtest Crew
+
+CONTENTS
+Contents
+Introduction. . . . . . . . . . . . . . . . . 4
+Components. . . . . . . . . . . . . . . . . . 6
+Hunters. . . . . . . . . . . . . . . . . . . . . 8
+Hunter Profile Cards. . . . . . . . . . . . . . . 8
+Equipment. . . . . . . . . . . . . . . . . . . . . . . 8
+Weapons. . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Armour . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Miscellaneous . . . . . . . . . . . . . . . . . . . . . 10
+Modifications . . . . . . . . . . . . . . . . . . . . . . 11
+Action Decks. . . . . . . . . . . . . . . . . . . . 12
+Ammunition. . . . . . . . . . . . . . . . . . . . . . . . 12
+Ability Cards. . . . . . . . . . . . . . . . . . . . . . . 12
+Interrupt Cards . . . . . . . . . . . . . . . . . . . . . 13
+Hunters And Suffering Damage. . . . . . 14
+Scrapping Cards . . . . . . . . . . . . . . . . . 14
+Fainting. . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Conditions. . . . . . . . . . . . . . . . . . . . . . 15
+Enemies. . . . . . . . . . . . . . . . . . . . 16
+Enemy Data Cards. . . . . . . . . . . . . . . . 17
+Behaviour Cards And Behaviour Decks. . . 18
+Enemies And Conditions. . . . . . . . . . . 18
+The Salvage Deck. . . . . . . . . . . . . 19
+Resources. . . . . . . . . . . . . . . . . . . . . . 19
+Fate Cards. . . . . . . . . . . . . . . . . . . . . . 19
+Setting Up. . . . . . . . . . . . . . . . . . 20
+Choosing Hunters. . . . . . . . . . . . . . . . 20
+Playing Space. . . . . . . . . . . . . . . . . . . 20
+Choosing A Quest. . . . . . . . . . . . . . . . 21
+Card Decks . . . . . . . . . . . . . . . . . . . . . 21
+Beginning The Game. . . . . . . . . . . . . . 21
+The Tracking Phase. . . . . . . . . . . 22
+Tracking Deck . . . . . . . . . . . . . . . . . . . . . . 23
+Event Deck . . . . . . . . . . . . . . . . . . . . . . . . 23
+The Encounter Phase. . . . . . . . . . 24
+Encounter Tiles . . . . . . . . . . . . . . . . . . . . . 24
+Setting Up An Encounter. . . . . . . . . . . . . . 25
+Terrain. . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Tall Grass . . . . . . . . . . . . . . . . . . . . . . . 26
+Rocky Outcrops . . . . . . . . . . . . . . . . . . . 26
+Ruins . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Machine Corpse . . . . . . . . . . . . . . . . . . . 26
+Starting An Encounter. . . . . . . . . . . . . . . . 27
+The Hunter Turn . . . . . . . . . . . . . 28
+1. Hunter Activation Step . . . . . . . . . . 28
+Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Sprint. . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Sneak. . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Craft. . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Distract . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Ranged Attack . . . . . . . . . . . . . . . . . . . . 29
+Melee Attack . . . . . . . . . . . . . . . . . . . . . 29
+Free Actions . . . . . . . . . . . . . . . . . . . . . . . 29
+Making Attacks . . . . . . . . . . . . . . . . . . . . . 29
+Performing A Ranged Attack. . . . . . . . . . . . 30
+Performing A Melee Attack. . . . . . . . . . . . . 30
+Attacking A Component. . . . . . . . . . . . . . . 32
+Trap Weapons . . . . . . . . . . . . . . . . . . . . . . 33
+Area Of Effect (AOE). . . . . . . . . . . . . . . . . 33
+2. The Enemy Step. . . . . . . . . . . . . . . . 34
+Alert And Non-Alert Enemies. . . . . . . . . . . 34
+Activating Alert Enemies . . . . . . . . . . . . . . 35
+Action Types . . . . . . . . . . . . . . . . . . . . . . . 35
+Movement Actions. . . . . . . . . . . . . . . . . . . 36
+Moving Huge Enemies. . . . . . . . . . . . . . . . 36
+Attack Actions. . . . . . . . . . . . . . . . . . . . . . 37
+Resolving Attack Actions . . . . . . . . . . . . . . 37
+Repeated Actions. . . . . . . . . . . . . . . . . . 37
+Additional Enemy Attack Effects. . . . . . . . . 38
+Special Actions . . . . . . . . . . . . . . . . . . . . . 38
+Activating Non-Alert Enemies. . . . . . . . . . . 39
+3. The Maintenance Step. . . . . . . . . . . 40
+Ending An Encounter. . . . . . . . . . . . . . . . . 40
+The Campfire Phase. . . . . . . . . . . 42
+1. Victory Step. . . . . . . . . . . . . . . . . . . 43
+Tied Rankings . . . . . . . . . . . . . . . . . . . . . . 43
+Leader Token And Fledgling Token Ties. . . . 43
+2. Level Up Step . . . . . . . . . . . . . . . . . 44
+Stamina Cards. . . . . . . . . . . . . . . . . . . . . . 45
+3. Merchant Step. . . . . . . . . . . . . . . . . 46
+Visiting A Different Level Of Merchant. . . . 47
+The Hunters’ Call 
+And The End Of The Game. . . . . . . 48
+Alternate Play Modes. . . . . . . . . 49
+Cooperative Mode. . . . . . . . . . . . . . . . . . . 49
+Trading Items Variant. . . . . . . . . . . . . . . . . 49
+Hunters. . . . . . . . . . . . . . . . . . . . 50
+Nora Marksman. . . . . . . . . . . . . . . . . . . . . 50
+Carja Warrior. . . . . . . . . . . . . . . . . . . . . . . 50
+Banuk Survivor . . . . . . . . . . . . . . . . . . . . . 51
+Oseram Forgesmith. . . . . . . . . . . . . . . . . . 51
+
+INTRODUCTION
+H
+orizon Zero Dawn™: The Board Game is set in the far future, where 
+hubris once led humanity to extinction before the dawn of a new era—the 
+age of the machines. Each player takes control of a hunter from one of the 
+tribes which exist in this new world. These novitiates band together to form 
+a hunting party for the Hunters’ Lodge, a proud and noble institution which 
+has recently opened its doors to applicants from all over the world.
+Only the most cunning and skilful hunters will rise through the ranks 
+to become a Hawk, earning eternal glory as is recorded by the Lodge’s 
+scholars and historians. For those who fail the challenge, only anonymity 
+and death await.
+Horizon Zero Dawn™: The Board Game is a semi-cooperative game for two 
+to four players, set in the magnificent wilds of a post-apocalyptic world. 
+Players take control of aspiring hunters trying to make their name with the 
+prestigious Hunters’ Lodge by tracking and defeating a powerful quarry, as 
+well as several lesser adversaries along the way.
+In order to succeed, players must level up their hunters to gain new skills and 
+abilities and upgrade their equipment by trading resources they find. If an 
+encounter is successful the whole hunting party can progress—but hunters 
+are a proud breed, and throughout the game they’ll be competing with each 
+other for the most glory, in pursuit of being named first among equals.
+Horizon Zero Dawn™: The Board Game is a detailed game which will take 
+some time to play through. It can be enjoyed in a single session if players 
+are looking for a marathon experience where they can completely immerse 
+themselves, but it has been designed so that players can also break up their 
+quest into several shorter sessions if they’d prefer.
+Now is the time to take the first step on the trail. Are you up to the challenge?
+Introduction
+
+INTRODUCTION
+
+COMPONENTS
+Components
+®®
+™
+1 Rulebook
+5 Rocky Outcrops/
+Ruins Markers
+Nora Marksman: 
+16 Action Deck Cards 
+13 Upgrade Cards
+Carja Warrior: 
+14 Action Deck Cards 
+12 Upgrade Cards
+Banuk Survivor: 
+16 Action Deck Cards 
+14 Upgrade Cards
+Oseram Forgesmith: 
+18 Action Deck Cards 
+13 Upgrade Cards
+13 Tracking Deck Cards
+36 Level 1 Merchant 
+54 Salvage Deck Cards
+17 Event Deck Cards
+20 Stamina Cards
+36 Level 2 Merchant 
+36 Level 3 Merchant 
+6 Encounter Tiles
+8 Dice (4 Orange, 3 Blue, and 1 Black)
+Carja 
+Bow
+Weak Point
+Crippled 
+System
+On The Fly
+Double 
+Shot
+Hit & Run
+Lure Shot
+Elusive
+Frostbite
+Prideful
+Overkill
+Lightbringer
+Elemental 
+Mastery
+Nerves of 
+Steel
+Deep 
+Freeze
+Greater 
+Challenge
+Intuition
+Leave it 
+for the 
+Shamans
+Insulated
+Ambush
+Winter 
+Chill
+Retaliatory 
+Strike
+Misdirection
+Frost 
+Walker
+Desperate 
+Cunning
+Ablative 
+Durable
+Fireforged
+Battering 
+Ram
+Conflagration
+Brimstone
+Resolute
+Forgemaster
+Heart of the 
+Furnace
+Testing Your Mettle
+Each time this hunter gains 1 
+or more glory points they may 
+reduce their hand size by one to 
+gain 1 glory point. A hunter cannot 
+reduce their hand size below three.
+At the end of the encounter their 
+hand size returns to normal.
+Draw a card.
+Stamina
+Resist Ranged Weave
+ranged attacks by 2.
+Nora Survivor 
+Heavy
+This hunter is immune to all 
+conditions. Reduce damage suffered 
+by this hunter from attacks that 
+inflict 
+ by 1.
+Metal Shards
+Sharpshot Bow
+Performing an attack with this 
+weapon costs two actions.
+Nimble
+When making an evade roll that 
+only contains 
+, you may roll 
+an extra 
+, then discard a 
+single die of your choice.
+Pride of the Werak
+When this hunter kills an enemy, 
+they may scrap 2 cards from the 
+bottom of their discard pile to gain 
+an additional 1 glory point.
+Tempered by Flame
+This hunter is immune to 
+Gain 1 glory point whenever an attack 
+or trap from this hunter applies 
+ 
+to one or more enemies. 
+
+COMPONENTS
+1 Leader Token
+1 Fledgling Token 6 Blazing Sun Tokens
+14 Full Sun/ 
+Half Sun Tokens
+21 Wound Tokens
+21 Glory Tokens
+8 Alert Tokens
+12 Condition Tokens
+Watchers: 
+Grazers: 
+Sawtooths: 
+2 Miniatures 
+4 Machine Behaviour Cards
+Striders: 
+Shell-Walkers: 
+2 Miniatures 
+3 Machine Behaviour Cards
+Scrappers: 
+Non-alert enemy within 2 squares?
+Move 1 towards closest 
+non-alert enemy
+Grazer
+Remove this enemy 
+from the playing area
+nearest board edge
+Sawtooth
+Move 1 towards closest hunter
+Another enemy within 2 squares?
+closest enemy
+Shell-Walker
+Warning Call 
+While this enemy is alert, any non-alert 
+enemies in an adjacent square become alert 
+at the end of its activation. Enemies alerted 
+in this way do not activate this turn. 
+Grazer
+Rotor Blades 
+Reduce damage from A 
+attacks by 2.
+Blaze Canister 
+This enemy suffers 
+Sawtooth
+Pursuit
+After this enemy damages a hunter with 
+a melee attack, move this enemy 1 square 
+towards the hunter after they have made 
+their dodge.
+Herd Instincts 
+When this enemy becomes alert it moves 1 
+square towards the closest enemy. 
+Blaze Canister 
+This enemy suffers 
+Cargo Defender 
+If its Cargo Holder has been destroyed, 
+increase all damage this enemy inflicts by 1.
+Shell-Walker
+4 Pairs of Matching 
+Trap Tokens
+24 Damaged/Destroyed 
+Component Tokens
+4 Skill Tree Tokens
+4 Machine Corpse 
+Tokens
+
+Equipment
+ach hunter also begins the game with their 
+starting equipment cards, representing the 
+gear they have with them at the start of the 
+game. As the game goes on, the players will 
+likely upgrade and replace these cards, making 
+their hunter more powerful and resilient.
+Place these equipment cards surrounding a 
+hunter’s profile card, each card in the position 
+shown by the arc printed on the card. These 
+cards are equipped. 
+If a player wishes to give their hunter a piece of 
+equipment with the same arc as a card which is 
+already equipped, they must replace the existing 
+equipment card, which is removed from the game. 
+There are three types of equipment cards.
+he hunters in Horizon Zero Dawn™: The Board Game hail 
+from wildly diverse backgrounds and cultures, and approach 
+their craft in dramatically different ways. Each offers players a 
+unique play style and customisation, setting them apart from 
+their rivals.
+Hunters
+Nora Protector Light
+Nora Spear
+If you roll a 
+, ignore the target’s 
+armour when resolving damage.
+Hunter Profile Cards
+ach hunter has their own profile card, showing an image of 
+the hunter 1 , their starting resource(s) 2 , a unique symbol 
+used to identify their cards 3 , and their trait 4 . A trait is a 
+type of special rule which is unique to that hunter. Each player 
+should read their hunter’s trait and try to remember it during 
+the game, as it will give them a big advantage! 
+
+Weapons
+Weapons are used to make attacks and are by 
+far the most varied type of equipment card. 
+A weapon’s range is the distance at which 
+it can attack. This is measured in squares. 
+If the range is listed as 0, the weapon may 
+only be used to target an enemy in the same 
+square.
+2.	 Attack Dice indicates the colour and quantity 
+of dice rolled when the weapon is used to 
+make an attack, before adding dice from 
+other sources, such as ammunition.
+3.	 The critical hit symbol 
+damage and/or effects this weapon inflicts 
+when a critical hit (a result with this symbol) 
+is rolled. 
+	
+Common effect symbols are shown below:
+	 Dodge – The hunter may move 1 square. 
+	 Push – The target may be moved into any 
+adjacent square. Players can’t push an 
+enemy out of the playing area.
+	 AOE (area of effect) – Every enemy other 
+than the target in the same or adjacent 
+squares to the target suffers the effects 
+listed in the attack profile after the AOE 
+symbol (see p.33). 
+	 Fire – The target suffers the Fire 
+	 Freeze – The target suffers the Freeze 
+	 Shock – The target suffers the Shock 
+4.	 Weapons have a modification slot entry 
+indicating how many modifications can 
+be added to it. This number can never be 
+exceeded.
+5.	 Each weapon type has a unique weapon 
+symbol. When a hunter attacks, they may add 
+ammunition to the attack only if the symbol 
+on the weapon and ammunition cards match.
+
+Armour is used to protect a hunter by absorbing 
+or deflecting damage.
+Evade Dice indicates the colour and quantity 
+of dice rolled when the hunter makes an 
+evade roll (see p.37).
+2.	 The critical hit symbol 
+effects this armour causes when a critical hit 
+(a result with this symbol) is rolled.
+3.	 Every piece of armour has a modification 
+slot entry indicating how many modifications 
+can be added to it. This number can never be 
+exceeded.
+4.	 The armour symbol 
+ identifies the 
+equipment as armour. If a piece of equipment 
+doesn’t have this symbol it can’t be used to 
+make an evade roll.
+Nora Protector Light
+Hoarder’s Satchel
+Increase this hunter’s hand size 
+by one. 
+Miscellaneous 
+Miscellaneous equipment represents items 
+which will be useful in ways other than attacking 
+or protection. The effects of these items are 
+listed in the description of the equipment.
+
+Handling Coil
+This hunter may reroll a single 
+die when performing an attack 
+with this weapon.
+Modifications
+Modifications are special items which can be 
+attached to equipment to upgrade it. In order to 
+attach a modification to a piece of equipment, 
+the equipment must be equipped and have an 
+available modification slot. A player may freely 
+attach or remove a modification at any time 
+outside of the Encounter Phase. During the 
+Encounter Phase, they may do so only at the 
+beginning of their hunter’s activation.
+To attach a modification to a piece of equipment, 
+the player slides their modification card 
+underneath the corresponding equipment card. 
+Coil modifications 
+ may be attached only 
+to weapons. Weave modifications 
+ may be 
+attached only to armour. A piece of equipment 
+can’t have more than one modification of the 
+same name attached to it.
+Modifications which aren’t currently attached to 
+a piece of equipment are kept with a player’s 
+salvage cards. If a player replaces a piece of 
+equipment during the Campfire Phase, they may 
+remove any modifications from it before doing so.
+The Carja Silks armour may have up to two 
+modifications attached to it. Because it can’t have 
+more than one card of the same name, the hunter 
+can’t attach two Resist Melee weaves, even if they 
+have different colour text boxes 
+ 
+ 
+Carja Silks Light
+Carja Silks Light
+
+Ability Cards
+Ability cards are identified by the 
+and may be added to an attack to provide 
+additional effects. Learning when to use these 
+cards is very important, as often they’ll allow 
+hunters to inflict devastating hits against their 
+adversaries!
+A player may add only one ability card to an 
+attack.
+Action Decks
+ach hunter has a unique action deck representing their skills and ammunition. This deck also 
+represents their overall health during the game. 
+There are three basic types of card in a hunter’s action deck.
+Ammunition
+Ammunition cards are identified by the 
+and are used by hunters when making attacks. 
+The ammunition symbol identifies this card 
+as an ammunition card.
+2.	 Attack dice indicates the colour and quantity 
+of dice added to the dice rolled when making 
+an attack.
+3.	 The critical hit symbol 
+effects this ammunition causes when a 
+critical hit (a result with this symbol) is 
+rolled.
+4.	 If the ammunition has special rules, they are 
+listed here.
+5.	 The weapon symbol indicates what type of 
+weapon this card may be used with. A player 
+can’t add an ammunition card to an attack if 
+it doesn’t match one of the symbols on the 
+weapon. 
+Freeze Bomb
+Discard 
+ to inflict 
+Precision Strike
+If this attack targets a 
+component, ignore the 
+target’s armour when 
+resolving damage.
+
+Interrupt Cards
+Interrupt cards are identified by the 
+and may be played by hunters when a required 
+event occurs, such as inflicting a condition on 
+an enemy or being attacked. If an interrupt card 
+doesn’t list an event, it may be played at any 
+time during the Encounter Phase.
+
+Hunters And Suffering Damage
+hunter’s action deck represents not only their 
+skills and ammunition but also their life, as 
+their stamina and supplies slowly diminish during 
+each encounter.
+Whenever a hunter suffers damage, their player 
+must discard one card from their hand or from 
+the top of the deck (player’s choice) for each 
+point of damage.
+The Carja Warrior has suffered 3 damage and 
+decides to discard a Hit and Run card from their 
+hand and two cards from the top of their deck
+Freeze Bomb
+Discard 
+ to inflict 
+Silent Strike
+This ammunition can only be used if 
+this hunter is on a square containing 
+tall grass at the start of the attack.
+Scrapping Cards
+ome abilities cause a player to scrap one or 
+more cards from their hand or discard pile. A 
+scrapped card is removed from the game for the 
+duration of that encounter and is returned to the 
+hunter’s action deck only after the encounter has 
+ended (regardless of whether it was successful 
+or not). Think carefully before scrapping cards, 
+as doing so severely weakens a hunter!
+Fainting
+If a player can’t discard a number of cards 
+equal to the damage sustained by their hunter, 
+or the hunter’s action deck runs out and they 
+can’t draw any cards at the start of their turn, 
+their hunter faints. A hunter which has fainted 
+is placed on its side, and their player discards 
+any glory points they currently have. If a hunter 
+fainted during their activation, the current step 
+ends immediately and the players proceed to the 
+enemy step. Enemies ignore a hunter which has 
+fainted when activating and won’t become alert 
+if they enter the same or an adjacent square to a 
+hunter which has fainted. 
+A hunter which has fainted must skip their 
+next turn (including the enemy step and the 
+maintenance step), and then stands up at the 
+start of their following turn. Their player shuffles 
+their action deck discard pile, then places it face 
+down to create a new draw pile. They may then 
+activate their hunter as normal.
+
+Conditions
+ome enemy attacks inflict conditions in 
+addition to physical damage. When a hunter 
+suffers damage from an attack which has the 
+ symbol, they also suffer the 
+corresponding condition, and the relevant token 
+is placed next to them unless they are already 
+suffering that condition. 
+If a hunter is immune to a condition, they can’t 
+suffer that condition. 
+	 An attack with this symbol inflicts the Fire 
+condition. At the end of their activation, a 
+hunter with a Fire token suffers 1 damage 
+and then discards the token.
+ 	An attack with this symbol inflicts the Freeze 
+condition. A hunter with a Freeze token 
+making an evade roll must discard any dice 
+which show a critical hit 
+. After the evade 
+is resolved, discard the token.
+ 	An attack with this symbol inflicts the Shock 
+condition. A hunter with a Shock token 
+can’t play interrupt cards. At the end of an 
+activation which it began with the Shock 
+token, a hunter discards the token.
+
+Enemies
+ach hunter has trained for years, not only honing their craft but also 
+learning about the wide variety of machines which roam the land. Each 
+type is wildly different from the last and offers a unique challenge. Even the 
+smallest can present a formidable foe under the right circumstances!
+
+Enemy Data Cards
+ach enemy type has a data card detailing their characteristics. Players will soon learn to pay close 
+attention to these cards, as predicting and managing enemies is crucial for efficient hunting—not to 
+mention survival!
+This is the type of enemy.
+2.	 An enemy’s hit points (HP) indicate how 
+much damage it can sustain. If an enemy has 
+damage equal to or exceeding this number at 
+any time, it has been killed and is removed 
+from the encounter area. Track enemy damage 
+by placing Wound tokens next to the enemy.
+3.	 An enemy’s armour value indicates how 
+well-protected an enemy is. When an attack 
+damages an enemy, the amount of damage 
+suffered is reduced by this number.
+4.	 An enemy’s salvage value indicates how 
+many salvage cards a player should draw if 
+they kill this enemy.
+5.	 Each enemy has a glory point value, 
+indicating the prestige gained by defeating it.
+6.	 This is the enemy’s encounter point value, 
+indicating how many points are earned if 
+this enemy is killed. Each encounter has a 
+minimum threshold of points required to 
+complete it successfully.
+7.	
+Some enemies have components which can 
+be destroyed by hunters. These component 
+locations are listed here, along with their 
+individual tear value, the amount of damage 
+inflicted if the component is destroyed, and 
+any effects which occur when the component 
+is destroyed (see p.32).
+8.	 An enemy’s special rules are listed here.
+Although destroying components isn’t required 
+in order to kill an enemy, pay close attention to 
+them. Removing these vulnerable parts typically 
+reduces the combat effectiveness of an enemy, 
+inflicts bonus damage, and generates additional 
+salvage or glory for the hunter.
+
+Enemies And Conditions
+nemies suffer conditions slightly differently 
+to hunters, due to the difference in how they 
+activate.
+When an enemy suffers damage from an attack 
+which has the 
+ symbol, they also 
+suffer the corresponding condition, and the 
+relevant token is placed next to them unless they 
+are already suffering that condition. 
+If an enemy is immune to a condition, they can’t 
+suffer that condition
+	 Fire – At the end of their activation, an 
+enemy with a Fire token suffers 1 damage 
+to their HP and then discards the token. 
+If an enemy is killed as a result of the 
+Fire condition, the players gain the listed 
+encounter points but don’t draw from the 
+salvage deck or gain glory points.
+	 Freeze – If an enemy has a Freeze token 
+at the start of a hunter’s attack, the hunter 
+ignores the enemy’s armour value when 
+resolving damage, then discards the token.
+	 Shock – The first time an enemy suffering 
+the Shock condition resolves an action on 
+their behaviour card, their activation ends 
+and the token is discarded. 
+Behaviour Cards 
+And Behaviour Decks
+lert enemies use behaviour cards to perform 
+actions during their activations, as detailed on 
+p.35. 
+Some enemies, such as the Shell-Walker and 
+Sawtooth, use behaviour decks instead of 
+behaviour cards. At the start of an encounter 
+involving one or more of these enemies, shuffle 
+the corresponding behaviour deck and place it 
+face down next to the playing area. Whenever 
+the enemy activates and is alert, draw the top 
+card from this deck to determine what actions 
+it performs. If the deck runs out, shuffle the 
+discard pile and return it face down to the side of 
+the playing area to create a new draw pile.
+If there are multiple enemies that use the same 
+deck in an encounter, draw the top card from the 
+deck when each enemy activates and perform 
+those actions only for the activating enemy.
+
+Resources
+Fate Cards
+THE SALVAGE DECK
+The Salvage Deck
+he ability to bring down an enemy isn’t the only skill a successful hunter must possess, for corpses 
+are useful for more than just trophies. Precious components and materials make up their bodies, 
+which can quickly be stripped and turned to effective tools for survival.
+The salvage deck represents valuable commodities which can be looted from defeated enemies. 
+Salvage cards aren’t added to a player’s action deck or hand but are instead kept face up next to a 
+hunter’s profile card. There’s no limit to the number of salvage cards a player may hold at any time. 
+There are two types of card in the salvage deck:
+Resource cards make up the majority of the 
+salvage deck. These include items like metal 
+shards and blaze as well as more exotic 
+materials. These cards are extremely valuable 
+and can be used to trade with merchants for 
+their wares. Some ammunition types or abilities 
+also allow players to discard these cards to 
+empower their attacks.
+Occasionally, a card from the salvage deck will 
+be a fate card, representing fortune—whether 
+good or bad—or a random event. These cards 
+should be fully resolved and then shuffled back 
+into the salvage deck.
+Metal Shards
+Trophy Shot!
+Hands aloft to the skies, 
+you present your bloody 
+trophy to the sun! 
+This hunter gains 1 glory point 
+then discards this card. If this card 
+was not drawn after killing an 
+enemy, discard it without effect.
+
+SETTING UP
+Setting Up
+Choosing Hunters
+t the start of the game each player chooses 
+a hunter and takes the corresponding hunter 
+model, profile card, and starting equipment 
+cards, laying the cards out in front of them as 
+described on p.8. Each player should search the 
+salvage deck for the resource listed on their 
+profile card as their starting resource and place 
+that card face up to one side.
+Each player should take the action deck for their 
+hunter and shuffle it, then place it face down to 
+one side of their profile and equipment cards, 
+with enough space for an adjacent discard pile. 
+They should also take the upgrade and skill tree 
+cards for their hunter and set them to one side 
+for later on, with the skill token at the starting 
+position on their skill tree card.
+The youngest player should take the Fledgling 
+token and place it in front of them. The oldest or 
+most experienced player should take the Leader 
+token and place it in front of them. Players can 
+instead randomly determine who gains the Leader 
+token and the Fledgling token if they prefer.
+Playing Space
+here are two main areas players interact with in Horizon Zero Dawn™: The Board Game. The first is 
+the exploration area, where the players select which encounters they’ll undertake, and interact with 
+merchants. The second is the encounter area, where the hunters stalk and fight machines—where the 
+action takes place!
+When setting up, allow room in the middle of the playing space for the encounter area, and set up the 
+exploration area decks to one side.
+
+SETTING UP
+Choosing A Quest
+he players now select which quest they wish 
+to begin on. Quests are identified by the 
+picture of the quarry on the back of the tracking 
+card. The quarry is the enemy which the hunters 
+have been charged to defeat by the Hunters’ 
+Lodge and will be waiting when the Hunters’ 
+Call is sounded at the end of the game.
+In Horizon Zero Dawn™: The Board Game, there 
+is only one quest and the quarry will always be 
+the Sawtooth, but expansions will add other 
+quests for the players to experience.
+Once the players have selected a quest, take the 
+corresponding tracking deck and separate out 
+the level 1, level 2, and level 3 tracking cards. 
+Shuffle the level 3 tracking cards and place them 
+face down, then shuffle the level 2 tracking cards 
+and place them face down on top of the level 3 
+cards, finally shuffling the level 1 tracking cards 
+and placing them face down on top of the stack 
+to create the deck which will be used for the 
+quest. Take the final card, the Hunters’ Call, and 
+place it face down to the right of the deck, with 
+enough space to lay four cards between them.
+Card Decks
+huffle the event deck and place it face down 
+above the tracking deck. Place the Level 1, 
+Level 2, and Level 3 merchant decks face up to 
+one side for later on (these cards don’t need to 
+be shuffled at the moment). Shuffle the salvage 
+deck and place it face down within easy reach of 
+all players
+Beginning 
+The Game
+N
+ow you’re all set up and ready 
+to begin the game!
+The players have chosen to hunt the mighty Sawtooth and have constructed their tracking deck. As they 
+stalk their prey, they’ll venture deeper into the wilderness and face increasingly difficult adversaries. 
+After four encounters, the Hunters’ Call will sound, and they’ll confront their deadly quarry at last!
+1-2
+Hunters’ Call
+5 8
+Shadow Rattler
+When performing an attack with this 
+weapon, this hunter may choose to 
+discard the top card of their action deck 
+instead of using ammunition cards.
+Hoarder’s Satchel
+Increase this hunter’s hand size 
+by one. 
+Banuk Ice 
+Hunter Light
+This hunter is immune to 
+Event deck
+Salvage deck
+Tracking deck
+Exploration area
+Encounter area
+Hunters’ Call card
+Level 3 Merchant deck
+Level 2 Merchant deck
+Level 1 Merchant deck
+
+THE TRACKING PHASE
+The Tracking Phase
+game of Horizon Zero Dawn™: The Board Game consists of five encounters. During each encounter 
+players compete to earn glory, represented by Sun tokens, which are worth victory points at the end 
+of the game. The player with the most victory points after the fifth encounter has earned the attention 
+of the Hunters’ Lodge and is declared the winner!
+Gameplay in Horizon Zero Dawn™: The Board Game is divided into three phases: 
+the Tracking Phase, the Encounter Phase, and the Campfire Phase.
+The Tracking Phase represents the hunting 
+party’s journey through the wilderness as they 
+track their quarry. Players begin with this phase 
+at the start of the game and return to it after 
+resolving the Campfire Phase.
+At the start of the Tracking Phase, the player with 
+the Leader token draws the top three cards from 
+the tracking deck. The player with the Fledgling 
+token draws the top three cards from the event 
+deck. Keep these cards hidden from the other 
+players. If this is the first Tracking Phase of the 
+game, the player with the Fledgling token skips 
+this step. 
+Both players secretly select a card and play it 
+face down in front of them. Once both cards 
+have been played (or, during the first Tracking 
+Phase of the game, after the tracking card has 
+been played), reveal both cards at the same 
+time. Place the tracking card to the right of the 
+tracking deck and previous tracking card, forming 
+a sequential row. Tuck the event card underneath 
+the tracking card, with the rules text showing. 
+The cards which weren’t chosen are discarded—
+these events and encounters have passed by and 
+won’t be available to the hunters anymore.
+Then set up the encounter chosen by the player 
+with the Leader token in the space set aside for 
+the encounter area.
+Resourceful
+This hunter may draw 
+a salvage card each time 
+they gain 1 or more 
+glory points.
+Taking The Lead
+The first time this hunter 
+kills an enemy during this 
+encounter they gain an 
+additional 2 glory points.
+1-24 6
+1-22 5
+There are three levels of tracking cards, each of 
+which increases the difficulty of the encounters. 
+Choosing how to progress is very important, as 
+it dictates the level of merchant and whether the 
+hunters will have the opportunity to level up at 
+the end of the encounter.
+Taking on a higher-level encounter offers far 
+more rewards but often is considerably more 
+dangerous. if the players rush into an encounter 
+they’re not ready for and fail, they’ll be left with 
+very little margin for error further down the trail. 
+Choose wisely! 
+
+THE TRACKING PHASE
+Tracking Deck
+The tracking deck represents the possible 
+encounters ahead of the hunting party. Because 
+the player with the Leader token is currently the 
+most successful figure in the hunting party, that 
+player is able to influence the rest of the hunters 
+to follow their recommendation and will be 
+choosing the way forward.
+Each card shows the layout for the encounter 
+and lists any special terrain as well as the 
+enemies which will appear there. It also displays 
+the number of encounter points required to 
+successfully pass through the area, and the bonus 
+salvage earned by the hunting party if they are 
+able to eliminate every enemy in the encounter.
+This is the card’s encounter level. As the 
+level increases, so does the difficulty of the 
+2.	 This displays the layout of the encounter, 
+representing the location.
+3.	 In addition to the terrain elements printed 
+on the tiles, some encounters have additional 
+terrain, which is placed in squares with the 
+corresponding symbols shown here. 
+4.	 These are the enemies which will appear in 
+this encounter and which spawn points they 
+start on.
+5.	 This is the minimum number of encounter 
+points the players must accumulate to 
+successfully complete the encounter.
+6.	 If the players are able to kill every enemy in 
+the encounter, this is the number of bonus 
+salvage cards each hunter may draw from the 
+salvage deck at the end of the encounter.
+Event Deck
+The event deck represents random occurrences, 
+quirks of fate, or even acts of treachery which 
+might befall the hunters on the trail. This deck 
+offers the player in last place a significant 
+boost, as they can choose a benefit from these 
+cards which will be advantageous to them or 
+significantly limit one or more rivals.
+Lucky Break
+This hunter may reroll 
+one die in every dice roll 
+they make during this 
+
+he Encounter Phase is where hunters stalk their prey, competing to bring down the most machines 
+in a herd, or confront a more dangerous adversary.
+Encounter Tiles 
+Encounters take place on a series of encounter 
+tiles. The combined area of these tiles is referred 
+to as the playing area. Unless a special rule 
+states otherwise, neither hunters nor enemies 
+may leave the playing area unless they are killed 
+or the encounter ends. 
+Each tile is made up of nine squares. Range 
+and movement are always measured in squares, 
+including diagonally. There’s no limit to the 
+number of models which can fit in the same 
+square unless a model has the huge symbol 
+ 
+on their card. A 
+ model can’t enter a square 
+which has another 
+ model in it.
+The Carja Warrior may 
+use a sneak action to 
+move into any adjacent 
+square. If they are 
+performing a sprint 
+action, the hunter may 
+move two squares, 
+changing direction after 
+moving the first square 
+if they so wish. Note 
+that the Carja Warrior 
+may move over a corner 
+without penalty.
+The Watcher is two 
+squares away from the 
+Carja Warrior. In order 
+to attack the Watcher 
+from their current 
+square, the Carja 
+Warrior would need to 
+use a ranged weapon 
+with range 2. 
+The Encounter Phase
+
+Here we can see the 
+players have set up the 
+playing area, following 
+the layout on the 
+encounter card (note 
+the orientation of the 
+corner markings). 
+Squares with a 
+ 
+have a rocky outcrop 
+marker placed on them; 
+because tall grass is 
+printed on the tiles, 
+no marker is needed 
+to represent it. A 
+Watcher is placed on 
+each square containing 
+a 
+, and a Strider is 
+placed on each square 
+containing a 
+which is where these 
+enemies will begin the 
+Setting Up An Encounter
+At the start of an encounter players place the tiles as shown on the tracking 
+card, taking note of the position of the corner marking on each tile. 
+Note that each tile has two sides—one displaying the 1–2 players symbol, and 
+one displaying the 3–4 players symbol. Players should ensure they set up the 
+tiles with the correct facing for how many players are in the hunting party.
+Tiles have two types of spawn points: 
+ and 
+. The tracking card details 
+which enemies begin the encounter on each. Place one enemy at each 
+spawn point as indicated by the tracking card. 
+
+Terrain
+If the encounter has any additional terrain elements, it lists the type of terrain and the symbol(s) 
+indicating where that terrain should be placed. Place a single token in each space as indicated on the 
+tracking card if required. Understanding and using terrain to the hunters’ advantage is often crucial, and 
+players must quickly learn how best to use their environment.
+The types of terrain elements are listed below. Terrain elements can be easily identified by the symbol 
+printed on the square or by token. Tall grass is printed on the encounter tiles and doesn’t require tokens. 
+Rocky Outcrops 
+Large spurs offer a natural vantage point and the perfect position to 
+launch a devastating attack—but the attention such boldness brings 
+isn’t always welcome! A hunter gains an additional 1 glory point if they 
+perform a ranged or melee attack while on the same square as a rocky 
+outcrop and either remove a component or kill their target. A hunter 
+in the same square as a rocky outcrop always counts as the most 
+recently activated hunter.
+Machine Corpse 
+Broken bodies of machines left to rust and decay in the open air, these 
+are surely the victims of previous hunts or the predations of more 
+powerful machines. Such sights are tragic but also offer opportunity 
+for additional salvage. A hunter may spend an action while in the same 
+square as a machine corpse marker to remove the marker and draw 
+three cards from the salvage deck.
+Tall Grass 
+Patches of tall grass are a common sight and have long been used 
+by hunters to hide from or stalk their prey. While a hunter is in tall 
+grass they don’t make non-alert enemies in adjacent squares alert at 
+the beginning of the enemy step. A non-alert enemy which enters the 
+same space as a hunter in tall grass becomes alert as normal. 
+Ruins 
+The strangely haunting remnants of the ancient world—strange lumps 
+of metal and rock, rusted and eroded by the weight of years—offer 
+respite from the fury of the great machines. When an enemy attacks 
+a hunter in the same square as a ruin marker, instead of making an 
+evade roll the player removes the ruin marker and ignores the attack 
+completely.
+
+Starting An Encounter
+Once the playing area has been set up, each 
+player, starting with the player with the Leader 
+token, takes turns placing their hunters onto the 
+tile marked as the starting tile. Hunters may be 
+placed in any square that is an outside edge of 
+the playing area and doesn’t contain enemies. If 
+the players wish, multiple hunters may be placed 
+in the same square at the start of an encounter.
+Each player shuffles their hunter’s action deck 
+and draws up to their maximum hand size of five. 
+Now the hunt begins—we’ll come back to the 
+Campfire Phase after the encounter is over!
+The players take turns 
+placing their hunter on the 
+starting tile, placing them 
+in any one of the squares 
+shaded in light blue.
+The starting tile is marked with a white circle
+
+eginning with the player who has the Leader token, players take turns to activate their hunter and 
+the enemies on the playing area, moving clockwise around the table. 
+A hunter’s turn is made up of three steps, which must be completed in this order: 
+hunter activation step, enemy step, and maintenance step.
+The Hunter Turn
+1. Hunter Activation Step
+F
+irst, the player performs their hunter’s 
+activation. 
+At the start of their hunter’s activation, a player 
+may discard any number of cards from their 
+hand. After deciding to discard cards or not, they 
+then draw up to their maximum hand size from 
+their action deck (this is five unless the player 
+has increased their hand size in some way). If 
+a player has more cards in their hand than their 
+maximum hand size at the start of their hunter’s 
+activation, they’re not required to discard down.
+A hunter may perform up to two actions during 
+this phase. Possible actions are:
+Sprint 
+Sneak 
+Craft
+Distract
+Ranged Attack
+Melee Attack
+A hunter can perform an action type only once 
+during their activation. A hunter may skip one 
+or more actions if their player wishes. Once a 
+hunter has performed or skipped both of their 
+actions, the hunter’s activation step ends and the 
+enemy step begins.
+
+Actions
+Sprint
+To sprint, the hunter may move up to 2 squares 
+in any direction, including diagonally. A hunter 
+may change direction during this movement. 
+Any non-alert enemy in an adjacent square to 
+the square where the hunter begins this action 
+or a square the hunter moves into as part of this 
+action becomes alert.
+Sneak
+To sneak, the hunter may move up to 1 square in 
+any direction, including diagonally. 
+Craft
+To make a craft action, the player may take the 
+bottom three cards from their hunter’s action 
+deck discard pile and shuffle them back into 
+their draw pile. A hunter may spend both actions 
+when performing a craft action to return six 
+cards to their draw pile. 
+Distract
+To distract an enemy, the player chooses a target 
+square and a non-alert enemy within 2 squares 
+of their hunter. The enemy immediately moves 1 
+square towards the target square. 
+Ranged Attack
+The hunter may resolve an attack against an 
+enemy using one of the ranged weapons they 
+have equipped.
+Melee Attack
+The hunter may resolve an attack against an 
+enemy using the melee weapon they have 
+equipped.
+Free Actions
+Some abilities allow a player to make a free action. A free action doesn’t count towards the total 
+amount of actions a hunter may perform during their activation. A player performing a free action still 
+observes the once-per-turn restriction for that action unless stated otherwise.
+Making Attacks
+In order to perform an attack, a hunter must have 
+line of sight to their target. A hunter has line 
+of sight to their target if an uninterrupted line 
+can be drawn between the centres of the two 
+squares without leaving the playing area.
+
+Performing A Ranged Attack
+A hunter performing a ranged attack follows the steps below, in order.
+The player selects an enemy which is in line of 
+sight of their hunter and range of the weapon 
+their hunter is using to make the attack.
+2.	 The player chooses whether they wish to 
+attack a component on the enemy.
+3.	 The player plays an ammunition card from 
+their hand with a symbol matching the 
+weapon which is being used in the attack. A 
+player can’t use a weapon to make an attack 
+if they don’t have a matching ammunition 
+card. The player then chooses whether to add 
+an ability card to the attack.
+4.	 The player totals up all the dice shown on 
+their weapon card, ammunition card, and 
+ability card, then rolls the dice.
+5.	 If the attack has any special rules (such as 
+rerolls or additional damage), they are applied 
+now. A player may perform a reroll only once 
+and must choose all dice they are going to 
+reroll at the same time. In other words, they 
+can’t reroll some of the dice, then choose to 
+reroll the rest after seeing the new results.
+6.	 If the player has rolled any 
+ results, they 
+can choose a critical hit from either their 
+weapon or their ammunition card for each 
+ 
+rolled, applying all damage and/or effect(s) 
+from their chosen critical hit. A player can 
+choose any combination of critical hits from 
+their weapon and their ammunition, and may 
+apply the same effect multiple times if they 
+wish (with the exception an enemy can’t 
+suffer a condition that it’s already suffering).
+7.	
+Total the number of pips rolled, and add any 
+damage from other sources (such as critical hits 
+or ability cards). If the enemy is alert, reduce 
+the total by the enemy’s armour value then 
+apply the remainder as damage to the enemy.
+	
+If the attack has additional effects (such as 
+conditions, pushes, dodges, etc.), apply 
+those at the same time as the damage.
+8.	 If the enemy has suffered damage equal to 
+or greater than its HP, it’s killed and removed 
+from the playing area. The hunter performing 
+the attack checks the enemy’s reference 
+card, draws the listed number of cards from 
+the salvage deck, and then gains the listed 
+number of glory points. 
+Performing A Melee Attack
+A hunter performing a melee attack follows the 
+same steps as for a ranged attack, with a few 
+exceptions. Unlike a ranged attack, a melee 
+attack doesn’t require ammunition to be spent in 
+order to make the attack, and when making the 
+attack use the following exception to step 1:
+The hunter selects an enemy in the same 
+or an adjacent square. If the enemy is in an 
+adjacent square, the hunter moves into the 
+same square as the enemy.
+
+The Banuk Survivor is performing 
+an attack against the Enemy 
+Watcher. First, the player declares 
+they are using their Hunter Bow 
+to make the attack and checks 
+the range 1 . They then play a 
+Hardpoint Arrow from their hand 
+as an ammunition type, which 
+matches the weapon being used 
+to make the attack 2 . Just to 
+be sure, the player also plays an 
+Intuition ability card from their 
+hand 3 . 
+The player adds the number of 
+dice shown on the Hunter Bow and 
+Hardpoint Arrow cards together  4 
+and rolls the attack, scoring 4. 
+They choose to reroll both 1s, as 
+described on the Intuition card  5 , 
+and the new result is 6. The hunter 
+subtracts the Watcher’s armour 
+value of 1 from the total, scoring 
+5 damage— enough to kill the 
+Watcher!
+Pride of the Werak
+When this hunter kills an enemy, 
+they may scrap 2 cards from the 
+bottom of their discard pile to gain 
+an additional 1 glory point.
+Intuition
+Discard this card to reroll 
+any number of dice when 
+performing an attack or 
+making an evade roll.
+Hardpoint Arrow
+
+Attacking A Component
+When performing an attack against an enemy, 
+a player may declare their hunter is targeting a 
+component location on that enemy before any 
+dice are rolled. The attack sequence is followed 
+as normal (including reducing the damage by the 
+target’s armour value), but any damage inflicted 
+by the attack is compared to the component 
+location’s tear value instead of applying damage 
+to the enemy.
+A component’s tear value indicates how robust 
+it is. If the damage inflicted is equal to or more 
+than half the tear value of the component, the 
+component is damaged, and a Damaged token 
+with a letter matching the component is placed 
+next to the enemy. The tear value of a damaged 
+component is reduced by half, making it far 
+easier to destroy with subsequent hits.
+The Nora Marksman has attacked the Scrapper’s 
+Power Cell with a melee attack and has inflicted 
+3 damage. This is over half the component’s tear 
+value, so the Power Cell is damaged. Any attacks 
+performed against the Power Cell now will be 
+against a reduced tear value of 2.
+If the damage inflicted is equal to or exceeds 
+the Tear value, the component is destroyed. 
+The hunter performing the attack gains 1 
+glory point and places a Destroyed token with 
+the corresponding letter next to the enemy. 
+Immediately resolve any rules listed on the card 
+for destroying the component and apply the 
+damage indicated on the component’s profile to 
+the enemy’s HP. 
+Any excess damage is lost and isn’t carried 
+across to the enemy HP. A destroyed component 
+can’t be attacked again. Some actions on the 
+enemy’s behaviour card are unable to be resolved 
+if a component has been destroyed, which is 
+indicated by the matching letter 
+Tear value.
+2.	 Component 
+damage value.
+3.	 Destroyed 
+component rules.
+4.	 Damaged 
+component token.
+5.	 Destroyed 
+component token.
+
+Trap Weapons
+Some hunters make use of weapons allowing 
+them to place deadly traps when performing 
+ranged or melee attacks. These weapons and 
+ammunition are indicated by the trap symbol 
+When a hunter puts a trap into play, the player 
+chooses a square within the range listed on 
+the weapon instead of following the normal 
+attack process. Place a trap token face up in the 
+square, then place the trap card face up by the 
+hunter’s profile card and a matching trap token 
+face up on the card. A trap token can’t be placed 
+in a square that already contains a trap token.
+An enemy entering the same square as a trap 
+token immediately triggers the trap. The hunter 
+that placed the trap removes the token, applies 
+any effects listed on the trap card and/or rolls the 
+dice listed on the trap card, adding any extra dice 
+listed on the weapon that placed the trap. If the 
+player that placed the trap token has an ability 
+card in their hand which may be played when 
+a trap triggers, they may play it, even if it’s not 
+their activation. 
+After the trap effects are resolved, remove the 
+token from the trap card then discard the card. 
+A trap doesn’t count as either a melee or ranged 
+attack but is still an attack. Traps can’t target 
+components.
+If a trap kills an enemy, the hunter that placed 
+the trap draws from the salvage deck and gains 
+glory and encounter points as normal.
+Area Of Effect (AOE)
+Certain attacks feature areas of effects (AOEs), 
+representing explosive attacks that blast out 
+from their target and affect those around them. 
+If an attack has the AOE symbol 
+, every 
+enemy other than the target in the same or an 
+adjacent square suffers the effects listed to 
+the right of the symbol. If dice are shown after 
+the symbol, roll separately for each enemy in 
+the AOE and apply any damage and critical hits 
+individually. AOE attacks can’t trigger further 
+AOE effects. Weapons, coils, ammunition, ability, 
+and interrupt cards never add dice or effects to 
+an AOE unless specifically stated. 
+The Oseram 
+Forgesmith has 
+performed a melee 
+attack against 
+Watcher A, and 
+played the Searing 
+Strike ability card, 
+adding 
+ to 
+the attack. Watcher 
+B is in an adjacent 
+square and is hit by 
+the AOE, suffering 
+. Watcher C is 
+further away and is 
+not hit by the AOE. 
+Searing Strike
+This ability can only be 
+used when performing 
+a melee attack.
+This attack gains
+ 
+and 
+Scrap this card after the 
+attack is resolved.
+C
+
+2. The Enemy Step
+D
+uring the enemy step enemies on each tile activate and perform actions. Alert enemies are always 
+activated before non-alert enemies. Enemies closest to the hunter that just activated always activate 
+first. If there’s a conflict for enemy activation order, the player whose turn it is chooses the order in 
+which the enemies activate. 
+Players can’t move an enemy out of the playing area during their activation unless a special rule on the 
+enemy reference card specifies otherwise.
+Alert And Non-Alert Enemies
+Players will quickly learn that enemies are far 
+easier to deal with if they’re not aware of the 
+hunters’ presence. Dispatching enemies as silently 
+and efficiently as possible is key for success.
+At the start of an encounter, all enemies begin in 
+a non-alert state. While an enemy is non-alert, it 
+doesn’t use a behaviour card to resolve its activation, 
+instead following a patrol route (see p.39). 
+When an enemy becomes alert, place an Alert 
+token next to the enemy. Once an enemy becomes 
+alert, it can’t return to a non-alert state for the 
+remainder of the encounter. An alert enemy uses 
+its behaviour card to determine how it activates. 
+An enemy becomes alert if any of the following 
+conditions are met:
+An attack is resolved against it (even if that 
+attack doesn’t inflict damage or a condition). 
+It suffers damage.
+Another alert enemy is in the same square.
+Another enemy is attacked in the same or an 
+adjacent square.
+A hunter is in the same square at the start of 
+the enemy step.
+A hunter is in an adjacent square at the start of 
+the enemy step and isn’t currently in tall grass.
+A hunter sprints in an adjacent square (see 
+p.29).
+Some enemies are also able to alert other enemies, 
+such as Watchers. These foes are best dealt with 
+as quickly as possible! 
+
+Activating Alert Enemies
+When activating an alert enemy, reference the 
+corresponding behaviour card for that enemy 
+type, starting at the top and working downwards.
+Most behaviour cards have an initial question at 
+the top that informs the players which series of 
+actions the enemy will take. Once an enemy has 
+fully resolved the actions listed on their card, their 
+activation ends and the next enemy activates. 
+Once all alert enemies have activated, non-alert 
+enemies activate.
+If an enemy has multiple targets for an attack, or 
+there are multiple hunters equidistant to it when 
+it performs a move action, the enemy prioritises 
+the most recently activated hunter from the 
+available options. If there’s still a conflict, 
+the player whose turn it is chooses from the 
+available options. 
+The Watcher’s behaviour card begins with the 
+question ‘Are there any non-alert enemies within 2 
+squares?’ If there are, the players should resolve 
+the Yes column of actions; if there are no non-alert 
+enemies within 2 squares, they should resolve the 
+No column of actions.
+Non-alert enemy within 2 squares?
+Move 1 towards closest 
+non-alert enemy
+Action Types
+There are two types of action boxes on enemy behaviour cards:
+Mandatory actions are actions the enemy 
+always performs if able. 
+Conditional actions are performed only if the 
+enemy is able to resolve the action (for example, 
+an enemy won’t perform a melee attack if a 
+hunter isn’t in range to be attacked). Conditional 
+actions are limited to one per activation, and an 
+enemy will always perform the first conditional 
+action in a sequence if it’s able to, skipping any 
+others which follow. 
+Mandatory
+Conditional
+
+Movement Actions
+When enemies move, they always try to take the shortest route to their destination. If there are 
+multiple routes available to the enemy to reach their destination, the player whose turn it is decides the 
+route for the enemy to take. The types of movement actions are listed below.
+Move towards Hunter – The enemy moves 
+towards the closest hunter by the number 
+of squares listed. If an enemy is already in 
+the same square as a hunter it can’t perform 
+this action. 
+Move towards non-alert Enemy – The enemy 
+moves towards the closest non-alert enemy 
+by the number of squares listed. If an enemy is 
+already in the same square as a non-alert enemy 
+it won’t move. If there are no non-alert enemies, 
+the enemy can’t carry out this action. 
+Move towards Enemy – The enemy moves 
+towards the closest enemy by the number of 
+squares listed. If an enemy is already in the same 
+square as an enemy it won’t move. If there are no 
+enemies, the enemy can’t carry out this action. 
+Move away – The enemy moves away from the 
+closest hunter. An enemy moving away from 
+a hunter always tries to increase the distance 
+between itself and as many hunters as possible. 
+The number listed is how many squares it moves. 
+If an enemy can’t increase the number of squares 
+between it and the target, it won’t move.
+Nearest Board Edge – The enemy moves 
+towards the edge of the playing area by the 
+number of squares listed. If the enemy begins 
+a movement already on the edge of the playing 
+area, it can’t perform this action and therefore 
+doesn’t move. if the enemy reaches the edge of 
+the playing area with movement left, it stops in 
+the square on the edge of the playing area and 
+further movement is lost.
+Moving Huge Enemies
+Certain enemies feature the huge symbol 
+Whenever a huge enemy moves it can’t move 
+into or end in a square that has another 
+ 
+model in it. If the 
+ enemy can’t reach its target 
+due to another 
+ enemy, it tries to get as close 
+to the target as it can with its movement.
+
+Attack Actions
+Attack actions represent the dangers the hunters face tackling the machines and other enemies in the 
+world of Horizon Zero Dawn™. The types of attack actions are listed below.
+The enemy performs a melee attack 
+against a hunter within range. The top 
+number listed is the range of the attack. 
+The bottom number listed is how much damage 
+the attack inflicts. 
+The enemy performs a ranged attack 
+against the closest hunter. The top 
+number listed is the range of the attack. 
+The bottom number listed is how much damage 
+the attack inflicts.
+The enemy performs a pulse attack 
+against every hunter within range. 
+The top number indicates the range of the attack; 
+the bottom number is how much damage the 
+attack inflicts. 
+Resolving Attack Actions
+In order to attack a hunter, the enemy must have 
+line of sight to the hunter they are targeting. An 
+enemy has line of sight if an uninterrupted line can 
+be drawn between the centres of the enemy’s and 
+hunter’s squares without leaving the playing area. 
+If an enemy doesn’t have line of sight to the hunter 
+it instead targets another eligible hunter if able to.
+Instead of rolling dice, enemy attacks inflict 
+a fixed amount of damage if the hunter is in 
+range. To avoid suffering this damage, the player 
+controlling the target hunter makes an evade 
+roll, rolling a number of dice equal to the number 
+shown on their hunter’s armour card. For each 
+pip rolled, reduce the damage suffered by the 
+hunter by 1. If the hunter rolls a critical hit 
+apply the listed effect(s) in the same way as an 
+attack, and reduce the damage suffered by the 
+listed 
+ number. 
+After a player has resolved how much damage 
+their hunter has suffered and has discarded any 
+cards from their hand and/or action deck, the 
+hunter must dodge by moving to an adjacent 
+square of their choice. This dodge represents 
+their desperate dive away from their opponent’s 
+attack and must be resolved even if the hunter 
+doesn’t suffer any damage or effects.
+Repeated Actions
+Actions that feature a multiplier (x2, for example) 
+are repeated the number of times listed.
+The Alert Strider activates, and the players check its 
+behaviour card. The first entry asks ‘Is there another 
+enemy within 2 squares?’ There are no other enemies 
+currently in the playing area so players proceed down 
+the ‘no’ column. The first action is a conditional action 1 . 
+There are no other enemies in the playing area, so 
+this conditional action isn’t resolved. The next action 
+is a conditional action 2 . The Strider hasn’t resolved 
+a conditional action yet so moves 2 squares towards 
+the nearest hunter. The final action in the column 
+is a mandatory action 3 . The Strider resolves the 
+mandatory attack because it is in range of a hunter.
+Another enemy within 2 squares?
+closest enemy
+
+Additional Enemy Attack Effects
+In addition to damage, enemy attacks can inflict other effects, the types of which are shown below.
+If a hunter avoids all damage from an enemy attack, any additional effects from the attack are ignored.
+	 Fire – The hunter suffers the Fire condition.
+	 Freeze – The hunter suffers the Freeze condition.
+	 Shock – The hunter suffers the Shock condition.
+	 Push – The hunter is moved 1 square away 
+from the enemy making the attack, into a 
+square chosen by the next player to activate 
+their hunter. The enemy can’t push a hunter 
+out of the playing area.
+	 AOE – Any other hunters in the same or 
+an adjacent square to the target suffer any 
+damage and/or effects listed in the attack 
+profile after the AOE symbol. Hunters can’t 
+make evade rolls to avoid suffering damage 
+and/or effects from an AOE, as the attack 
+catches them unprepared and unable to 
+defend themselves.
+Special Actions
+Special actions represent behaviour patterns that 
+are unique to certain enemies. When an enemy 
+performs one of these actions, fully resolve 
+the rules text for the action (unless the enemy 
+is unable to do so) before continuing with the 
+enemy activation.
+
+Activating Non-Alert Enemies
+At the start of an encounter, all enemies begin on 
+a patrol route. When a non-alert enemy activates, 
+it moves 1 square further along the patrol route 
+it’s currently on, following the direction of the 
+arrows printed on the tile. 
+Unlike other movement, this can cause the 
+enemy to leave the playing area—if this happens, 
+the hunters have wasted too much time waiting 
+to strike and can’t entice the enemy back. If a 
+patrol route would cause an enemy to leave one 
+tile and be placed on another, the enemy follows 
+the new patrol route. 
+If a 
+ enemy is unable to move along a patrol 
+path due to it being blocked by another 
+ 
+enemy, it won’t move when it activates.
+If a non-alert enemy isn’t on a patrol route at the 
+start of its activation, it moves 1 square towards 
+its initial patrol route, ending as far as possible 
+along the route from its original spawn point. 
+Once this movement has been resolved, the 
+enemy ends its activation and the next enemy 
+activates. When all non-alert enemies have 
+completed this activation, the enemy step ends 
+and the player moves on to the maintenance step.
+While it might seem a good idea to let a powerful 
+enemy leave an encounter on a patrol route, 
+players will soon learn that doing so actually 
+makes it harder to successfully complete 
+an encounter, as they won’t be able to earn 
+encounter points from the enemy—or gain the 
+bonus resources listed on the tracking card for 
+killing every enemy. Think carefully before letting 
+anything escape!
+
+3. The Maintenance Step
+he maintenance step is where the players check to see whether the encounter will continue. 
+They might have defeated enough enemies and gathered enough encounter points to successfully 
+complete the encounter, or they might have failed if their party is too weary to continue or too many 
+enemies have escaped.
+Ending An Encounter
+At the start of each maintenance step, each 
+player should count the total number of times 
+their hunter has fainted during the encounter. 
+If the combined total for all hunters is equal 
+to or greater than the number of hunters, the 
+encounter immediately ends in failure as the 
+hunting party retires, too exhausted and injured 
+to continue.
+If the encounter doesn’t end, total the number of 
+encounter points the players have accumulated 
+during this encounter. In order to successfully 
+complete an encounter, the players as a group 
+must accumulate a number of encounter points 
+equal to or greater than the number of encounter 
+points shown on the tracking card. Once they’ve 
+done so and the majority of players agree, they 
+may end the encounter during the current or any 
+subsequent maintenance step, as long as the 
+number of faints they’ve suffered hasn’t reached 
+or exceeded the number of hunters first.
+If the players have yet to accumulate enough 
+points or don’t have a majority agreeing to end 
+the encounter, the encounter continues and the 
+next hunter’s turn begins. 
+If the players have yet to accumulate the 
+minimum number of encounter points and at 
+least one enemy has left the encounter without 
+being killed, the players should check to see if 
+it’s still possible to successfully complete the 
+encounter. If it’s not, the encounter immediately 
+ends in failure. 
+If all enemies are killed or have left the playing 
+area, the encounter immediately ends. If the 
+players managed to kill every enemy during the 
+encounter, they each may draw as many bonus 
+cards from the salvage deck as are listed on the 
+tracking card, starting with the player who has 
+the Leader token. 
+Once an encounter ends, the Encounter Phase ends, 
+and the players proceed to the Campfire Phase.
+Note that the players may choose to end an 
+encounter only during the maintenance step—and 
+that it’s possible to fail an encounter through 
+hunters fainting, even if the required number of 
+encounter points has been reached. Continuing 
+past the point of exhaustion isn’t without its risks!
+
+I
+n the Campfire Phase, the hunters settle down 
+to rest for a brief moment, either toasting their 
+success and boasting of their great exploits or 
+licking their wounds in defeat. 
+This phase is divided into three steps, carried out in 
+the order below. If the players failed the encounter, 
+each player immediately discards any glory points 
+they have and then proceeds directly to the 
+merchant step.
+The Campfire Phase
+
+1. Victory Step
+t the end of a successful encounter, a silent observer from the Hunters’ Lodge emerges to reward 
+individual hunters who have impressed them with feats of bravery, skill, or bold cunning. 
+Each player totals the number of glory points they earned during the encounter. 
+In a two-player game, the player with the most 
+glory points is awarded a Full Sun token and 
+takes the Leader token. The other player takes 
+the Fledgling token. In the event of a tie, neither 
+player is awarded a Sun token, and the players 
+swap the Leader and Fledgling tokens.
+In a three-player game, the player with the 
+most glory points is awarded a Full Sun token 
+and takes the Leader token. The player in second 
+place is awarded a Half Sun token. The player 
+with the fewest glory points takes possession of 
+the Fledgling token. 
+In a four-player game, the player with the most 
+glory points is awarded a Blazing Sun token and 
+takes the Leader token. The player in second 
+place is awarded a Full Sun token, and the player 
+in third place is awarded a Half Sun token. The 
+player with the fewest glory tokens takes the 
+Fledgling token. 
+Once glory has been tallied, Sun tokens have 
+been distributed, and the Leader and Fledgling 
+tokens have been passed to new players (if 
+required), all glory points are discarded.
+Tied Rankings
+In the event of a tie, the tied players are awarded 
+a Sun token one step down from the rank they 
+are tied for. For example, if two players tie for 
+first place in a three-player game, each would 
+get a Half Sun token instead of a Full Sun token. 
+Any remaining players are ranked as if the tied 
+players took the tied rank and the ranks below. For 
+example, three players tied for first place in a four-
+player game would result in the remaining player 
+being ranked fourth place; each player in a four-
+player game tied for third place would earn a Half 
+Sun token, as this is the lowest-rank Sun token.
+Leader Token And 
+Fledgling Token Ties
+If there’s a tie for the Leader token, it passes 
+to the tied player that doesn’t currently have 
+it. If neither of the tied players currently has 
+the token, the tied player first in the turn order 
+gains it. If there’s a tie for the Fledgling token, it 
+passes to the tied player that doesn’t currently 
+have it. If neither of the tied players currently 
+has the token, the tied player first in the turn 
+order gains it.
+
+2. Level Up Step
+s the hunting party progresses each hunter 
+becomes increasingly more skilled with the 
+benefit of experience, better understanding 
+of their weapons, and becomes more adept at 
+bringing down their prey.
+If the players completed a higher-level encounter 
+than their current skill level, each player may 
+now level up their hunter. Players should carry 
+out this step simultaneously to save time. If the 
+players didn’t complete an encounter of a higher 
+level than their skill level, skip this step and 
+proceed directly to the merchant step.
+Each hunter has a unique skill tree, representing 
+their hunter’s specialisation. At the start of the 
+game, each player’s skill token begins on the 
+start position. When a hunter levels up, their 
+player may progress the skill token to the next 
+skill level, following one of the branches available 
+to them. The player may then take the upgrade 
+card(s) listed at the skill token’s new position. 
+Levelling up often also increases a hunter’s 
+maximum deck size, indicated by the symbol 
+ 
+next to the skill level on the skill tree, allowing 
+them to suffer more damage during encounters.
+Upgrade cards come as one of three types, 
+which players will already be familiar with. 
+Equipment cards are powerful new weapons 
+or armour for the hunter to equip. Ability and 
+interrupt cards further customise a hunter’s 
+action deck. Trait cards add a new ability to the 
+hunter, which further specialises their play style. 
+Slide trait cards under a hunter’s profile card in a 
+similar way to how modifications are attached to 
+a piece of equipment. Once attached, a trait card 
+can’t be removed. There’s no limit to the number 
+of traits a hunter may have.
+Once each player has levelled up their hunter, 
+the players move on to the merchant step.
+Whenever another hunter kills an 
+enemy, you may draw a card from 
+the salvage deck.
+Double Shot
+This hunter may play an additional 
+ammunition card when they 
+make an attack.
+Double Shot
+This hunter may ignore the once-
+per-activation restriction for ranged 
+attacks, but cannot target a single 
+enemy multiple times.
+If you’re not sure which branch to take, take a look 
+through the upgrade cards and see if anything seems 
+immediately strong to you. If you find a card or 
+combination you like, try to follow the branches on 
+your hunter’s skill tree which will unlock those cards!
+
+Draw a card.
+Stamina
+Ablative 
+Durable
+Fireforged
+Battering 
+Ram
+Conflagration
+Brimstone
+Resolute
+Forgemaster
+Heart of the 
+Furnace
+Stamina Cards
+Stamina cards are added to a hunter’s action 
+deck at the end of the merchant step if that 
+hunter has fewer cards in their deck than their 
+maximum allowance. This might be achieved 
+if the player opts to select a trait or a weapon 
+upgrade and their maximum deck size increases. 
+These cards aren’t usable as part of an attack but 
+may be discarded by a player normally when their 
+hunter suffers damage. A hunter can never have 
+more than six stamina cards in their deck.
+The players have just finished a 
+level 1 encounter, higher than their 
+starting skill level. The Oseram 
+Forgesmith looks at the two 
+options available, Ablative Armour 
+and Fireforged. They choose 
+Ablative Armour and move their 
+skill token down one level, sliding 
+the trait card underneath their 
+profile card. With this upgrade the 
+Oseram Forgesmith’s maximum 
+deck size increases to 20 cards. If 
+they don’t add any cards to their 
+deck during the merchant step, 
+they’ll need to add two stamina 
+cards to the deck to bring it up to 
+its new maximum.
+Ablative Armour
+This hunter may discard a salvage 
+card when making an evade roll to 
+add an additional 
+Ablative Armour
+
+3. Merchant Step
+M
+erchants are frequently found in the wilds, 
+risking life and limb to ply their trade and 
+keep hunters stocked up. After an encounter 
+ends, the players visit such individuals and 
+spend any resources they have gathered on 
+the trail. The level of merchant the hunters may 
+visit is dictated by the level of the encounter 
+they’ve just finished. By fighting in higher-level 
+encounters, the players will be able to visit 
+higher-level merchants with more powerful items 
+available to purchase, so there’s real incentive for 
+players to push themselves.
+Take the matching level of merchant deck to the 
+encounter the players just finished and shuffle 
+the deck. Reveal cards from the top of the deck 
+until the following cards have been revealed:
+ Weapon card
+ Armour card
+ Ammo cards
+ Modification cards
+ Miscellaneous item card
+Place these cards face up in a row, then shuffle 
+the remaining merchant cards. Discard any other 
+cards revealed during this step.
+Each card has a resource cost 1 . To purchase a 
+card, a player must spend the matching number 
+and type of resources. 
+There are two types of resource cards which 
+players use to purchase items from the 
+merchant: Metal Shards (
+) and Special 
+Resources (
+). During this step, players 
+may discard 
+ cards to 
+count as 
+ cards, one for one. Players may 
+discard two 
+ cards to count as a single special 
+resource of their choice. Cards that feature 
+ 
+can count as any resource of the player’s choice.
+Starting with the player with the Leader token 
+and moving clockwise around the table, each 
+player takes turns purchasing a single card from 
+the merchant using any resources they have 
+gained so far. The player currently in possession 
+of the Fledgling token may make their first 
+purchase during this step without paying the 
+salvage cost listed on the card. 
+Players may choose to pass their turn at the 
+merchant, allowing the next hunter to make their 
+purchase, but if all players pass in a row, the 
+merchant step ends immediately.
+Carja Tripcaster
+
+The cards available from merchants are 
+equipment, modifications, ammunition, 
+and miscellaneous items. Equipment and 
+modification cards are equipped to a hunter’s 
+profile as normal. To add ammunition and 
+miscellaneous item cards to their action deck, 
+a player may need to replace cards from within 
+their deck to ensure they don’t exceed the deck 
+limit shown on their upgrade card. Replaced 
+cards are removed from the game. Note that a 
+player doesn’t have to remove the same type 
+of card as the card they’re adding to their deck. 
+For example, when adding a new ammunition 
+card, a player isn’t required to remove another 
+ammunition card to make way for it.
+Players are free to purchase any card they wish, 
+including ammunition they can’t use.
+Once a card has been purchased, that player 
+removes it from the row. Draw cards from the 
+merchant deck until a card with the same type as 
+the purchased card is drawn, then place it in the 
+row. Discard any other cards revealed. If there 
+are no cards remaining in the merchant deck, 
+shuffle the merchant deck discard pile to form a 
+new deck. If there are no more of the required 
+card type remaining in the merchant deck, the 
+merchant step ends.
+Players continue purchasing items from the 
+merchant until either a card type is exhausted 
+or all of the players pass in a row, ending 
+the merchant step. Return any unpurchased 
+merchant cards to the merchant draw pile and 
+place it face up to one side. Each player then 
+returns any discarded or scrapped action cards 
+to their action deck, replaces cards as detailed 
+above, then shuffles their action deck and places 
+it face down, ready for the next encounter.
+Any salvage cards that have been used to buy 
+items during the merchant step are shuffled back 
+into the salvage deck.
+Once the merchant step is complete, the 
+Campfire Phase ends, and the hunters return to 
+the Tracking Phase.
+The Banuk Survivor has just purchased a 
+Hardpoint Arrow from the merchant. In order to 
+add it to their action deck, they must now replace 
+another card. The Banuk Survivor chooses to take 
+out a Hunter Arrow, removing it from the game. 
+They then add the Hardpoint Arrow to their deck.
+As the game progresses, merchants will offer 
+more advanced and powerful weapons, armour, 
+and modifications, but so too will the cost of 
+their wares rise. It’s not always wise to spend 
+all of your resources at the first merchant you 
+see—doubly so if your hunter is able to use the 
+resources to inflict powerful attacks!
+Hunter Arrow
+Hardpoint Arrow
+Visiting A Different 
+Level Of Merchant
+Certain cards allow individual hunters to visit a 
+merchant level of their choice due to the valuable 
+salvage they have obtained. When a hunter visits 
+a different level of merchant, take the merchant 
+deck of their choice, shuffle the deck, and reveal 
+and refresh cards in the same manner as the 
+other merchant deck. This hunter can purchase 
+cards only from this merchant, and the rest of 
+the party must purchase cards from the 
+original merchant.
+
+he tracking deck represents not only the trail 
+followed by the hunting party but also how 
+much time has passed since the hunters claimed 
+their quest. As the shadows grow long and 
+the sun falls behind the distant mountains, the 
+Hunters’ Call finally sounds, and at last the time 
+to face their quarry is upon the hunters.
+If there are no remaining cards in the tracking 
+deck at the start of the Tracking Phase, the 
+players have reached the final encounter of the 
+game and no longer are able to choose which 
+path to take. This is the hunting party’s last 
+encounter, which the players must successfully 
+complete. If they fail, only death or the shame of 
+defeat awaits them, with survivors left to hide in 
+the shadows of anonymity forevermore. 
+The player with the Fledgling token still draws 
+from the event deck and selects their card as 
+normal, but when it’s revealed, the players 
+must flip the Hunters’ Call card and set up the 
+encounter displayed on the card.
+During this encounter, if a player kills the quarry 
+enemy, their hunter immediately gains a Half 
+Sun token. Note that in a game for three to four 
+players there will be multiple Half Suns available 
+(one for each quarry enemy), allowing a hunter 
+multiple opportunities to prove their worth to the 
+Hunters’ Lodge.
+If the players are unsuccessful and don’t 
+complete the encounter, they collectively 
+lose the game, having been defeated by their 
+quarry and having lost all hope of ever joining 
+the Hunters’ Lodge. If the players manage to 
+successfully complete the encounter, their quest 
+is over. Immediately resolve the victory step of 
+the Campfire Phase to establish which hunters 
+are rewarded with Sun tokens. 
+Each player then totals how many victory points 
+they have based on their Sun tokens. A Blazing 
+Sun is worth 3 points, a Full Sun is worth 2 
+points, and a Half Sun is worth 1 point. 
+Although all players have won and can hold their 
+heads proudly aloft at a successful hunt, the 
+player with the most victory points has proven 
+themselves the first among equals and emerges 
+as the winner of the game. In years to come 
+history shall surely remember their tales of great 
+deeds and dedication, and their fierce warrior 
+pride will become the stuff of legend!
+If there’s a tie, the player who currently has 
+possession of the Leader token wins, if they are 
+one of the tied players. If there’s still a tie, or 
+neither tied player has the Leader token, both 
+players are crowned as victorious. Battered and 
+weary, their hunters stand side-by-side and raise 
+their hands aloft. Surely this marks the beginning 
+of a new era of cooperation and teamwork 
+among hunters… at least, until pride drives them 
+to seek individual glory once more!
+The Hunters’ Call And 
+The End Of The Game
+THE HUNTERS’ CALL AND THE END OF THE GAME
+
+Alternate Play Modes
+H
+orizon Zero Dawn™: The Board Game may be enjoyed in a variety of different ways by different 
+gaming groups, based on how the players wish to interact with each other and how long they want 
+their gaming session to last. Provided here are some alternate play modes and rules to try.
+Cooperative Mode
+In cooperative mode, the players aren’t 
+competing against each other but are working as 
+a team in order to succeed. 
+In this mode, the event deck and Fledgling token 
+aren’t used. During the Tracking Phase, the player 
+with the Leader token still draws three cards 
+from the tracking deck but shares the cards with 
+the other players, listening to their advice and 
+thoughts before selecting which encounter to play.
+During the Encounter Phase, if any player faints 
+the encounter fails, as the hunters abandon 
+the hunt to protect their fallen comrade. If 
+the players are seeking a less challenging 
+experience, they may instead play a cooperative 
+game where an encounter fails only after more 
+than one hunter has fainted.
+Players still earn glory points from their attacks 
+and abilities during cooperative mode. When a 
+player gains one or more glory points, they may 
+immediately discard them and choose a hunter. The 
+hunter shuffles an equal number of cards back into 
+the action deck from the bottom of their discard pile.
+Players playing cooperative mode discard any 
+glory they have accumulated and then skip the 
+victory step during the Campfire Phase, and the 
+player with the Leader token passes the token 
+to the next player to their left. Players may trade 
+or pass any salvage and equipment cards freely 
+among themselves during the Campfire Phase.
+At the end of the game, don’t total victory points. 
+If the players successfully completed the final 
+encounter, they all win as a team, ushering in a new 
+era of partnership and teamwork for the Hunters’ 
+Lodge unlike any which has ever been known before!
+Trading Items Variant
+If all players agree at the start of the game, 
+players may play the Trading Items variant 
+rule, allowing players to sell equipment or 
+modifications to each other in exchange for 
+resources, equipment, or modifications. Note 
+that players don’t have to adhere to the printed 
+value on the card (if any) and may barter with 
+each other accordingly. If players agree a trade, 
+they must complete it—a player can’t accept 
+payment for a card and then refuse to give the 
+card to the other player.
+Trading Items is compatible with both standard 
+and cooperative play.
+ALTERNATE PLAY MODES
+
+Hunters
+A people well known for the fury inflicted on those who trespass upon their 
+soil, the Nora are an isolationist society with little use for outsiders. It is a 
+rare instance indeed that the Nora venture forth from their own lands, and 
+into those of the other tribes. Fewer still do so with the blessing of the 
+High Matriarchs, the Seekers and Death-Seekers of legend and infamy. 
+The Nora who partake in the trials set forth by the Hunters’ Lodge are 
+mercenaries and outcasts, figures who are not welcome to return to 
+the embrace of the All-Mother. Their deeds either long forgotten or 
+dark enough to never be mentioned, they must now forge new lives for 
+themselves in a hostile land with few allies. 
+The Nora Marksman is such a figure. Their craft honed to deadly precision, 
+few targets survive this hunter’s precise aim. Taciturn and methodical, 
+their resolute nature is as well known as the excellence of the skills 
+they demonstrate on the hunt, making them a formidable rival to beat. 
+This hunter may be an exile in their own lands, yet the fierce 
+spirit of the Nora endures in them, alongside determination 
+as cold as the most bitter winter storm.
+The Carja are a varied and diverse people, with a deep culture and traditions 
+which echo across generations. Every individual from this tribe has a keen 
+appreciation of aesthetics and style, and a strong and creative passion 
+which bleeds into their everyday life.
+The Hunters’ Lodge itself is of Carja origin, and for years existed as an 
+institution open only to the nobility. But with the advent of Talanah Khane 
+Padish to the rank of Sunhawk, that regressive philosophy has now been 
+broken. For the first time, the Lodge has permitted not only those without 
+noble blood, but also hunters from other tribes to partake in its trials, and now 
+looks solely to martial prowess for individual advancement through the ranks.
+The Carja Warrior may seem a brash and arrogant upstart, more obsessed 
+with glory and fame than upholding the fine traditions of the Lodge, but 
+their skill as a hunter and duellist is without question. Disdainful of the 
+heavier armour worn by their rivals, they rely on their agility to defend 
+themselves, and their lethal skill with a blade to put down their prey 
+before it has hope of retaliation. With such dominant martial discipline, 
+surely this proud individual is earmarked for greatness ahead… 
+
+Brash and forthright, the Oseram are unusual allies for the Carja. 
+Dismissive of the religion and opulence of their neighbours, the 
+Oseram prize functionality and invention over all else. They are a hardy 
+and pragmatic breed, not shy of speaking both honestly and openly, 
+before any audience.
+Unlike other tribes, the Oseram do not have a rich hunting tradition. Their 
+people are craftsmen who sweat in the forges, creating advanced weaponry 
+and armour; or they are soldiers, marching against their foes as a unit, 
+a tradition formed when they fought during the Red Raids. But these are 
+transferable skills, and the Oseram spirit demands independence as much 
+as any other. With new alliances, so too comes new opportunities to strike 
+forth and find fortune outside of their homeland.
+There are few in the Lodge who might match the redoubtable Oseram 
+Forgesmith. Their muscles strong from long days spent beating metal, and 
+their toughened skin used to the heat of flames, they have been tempered 
+like the hardest steel. What subtlety they lack is accounted for in brute 
+strength and formidable resilience—as explosions rend the air around them, 
+they smash their prey asunder with heavy hammer.
+Born of a nomadic culture, the Banuk are individuals who find their identity, 
+their creed is taught in adversity, single-mindedly seeking triumph against 
+the many dangers of their harsh terrain. Renowned as powerful and 
+experienced hunters, their presence in the lands of the other tribes has 
+been known for many years, as their hunts draw them farther afield in their 
+search for more difficult challenges. 
+With demeanour as hard and unforgiving as the frozen wilderness of their 
+homeland, the justice of the Banuk is as harsh as one might expect of such 
+survivors. Those who transgress against the tribe are exiled and left for 
+an anonymous death to the elements, stripped of all but their most basic 
+garbs. Yet, some refuse their fate. 
+The Banuk Survivor may be counted amongst the 
+number of those with determination enough to refuse 
+death and build a new life for themselves, far from 
+the sight of those they once betrayed. In the trials 
+set forth by the Lodge, they are an unorthodox and 
+cunning aspirant, possessed of steadfast refusal 
+to accept any defeat while they still draw breath. 
+Few rivals can match this ferocity, or are willing 
+to push their bodies to such limits in the name of 
+victory—yet for this hunter, the sacrifice is merely 
+the price of success…
+
+Quick Reference
+Phase Order
+Tracking Phase
+Leader draws three tracking cards and chooses one
+Fledgling draws three event cards and chooses one
+Encounter Phase
+Turn Order (players resolve their turns moving clockwise)
+Hunter Activation Step
+Hunters may perform two actions: Sneak, Sprint, 
+Distract, Craft, Ranged Attack, Melee Attack
+Sneak – move 1 square
+Sprint – move 2 squares, alert adjacent enemies
+Distract – move target non-alert enemy 1 square 
+towards target square
+Performing ranged attacks requires matching 
+ammunition card, must be in range
+Performing melee attacks doesn’t require ammunition 
+card, may move 1 square before resolving.
+Hunters may not repeat actions
+Enemy Step
+Activate alert enemies first
+Non-alert enemies continue along patrol routes
+Maintenance Step
+Check to see if hunting party has reached as many 
+faints as there are hunters, and if so, fail encounter.
+Check to see if hunting party has achieved minimum 
+number of encounter points, and if so, discuss 
+whether players want to end encounter (requires 
+majority)
+Check to see if it is still possible to complete 
+encounter, if not, fail encounter.
+Campfire Phase
+Victory Step (if successfully completed encounter)
+Total glory points and allocate Sun tokens
+Discard Glory points
+Level Up Step (if successfully completed encounter)
+If hunters completed higher level encounter, they may 
+progress to next skill tree level, following branches 
+on cards.
+Merchant Step
+Lay out cards from level of deck matching encounter 
+just played
+Lay out 1x Weapon, 1x Armour, 2x Modification, 
+2x Ammunition, 1x Miscellaneous
+Replace card when purchased.
+2x 
+ may be traded as any 1 resource.
+ may be traded as 
+End step if all hunters pass in a row, or one card type 
+runs out.
+Push target 1 square
+Hunter moves 1 square
+AOE hits enemies in same 
+square as target and all 
+adjacent enemies with 
+effects in box
+Inflicts the Fire condition 
+(suffer 1 damage at the end 
+of activation, see p.15 or p.18)
+Inflicts the Freeze condition 
+(Hunters discard critical hits
+ 
+in their first evade roll, see p.15 
+Ignore enemy armour value 
+for first attack, see p.18)
+Inflicts the Shock condition 
+(Hunters cannot play 
+interrupt cards, see p.15 
+Enemies resolve only one 
+action, see p.18)
+Enemy melee attack, top 
+number is range, bottom 
+number is damage (p.37)
+Enemy ranged attack, top 
+number is range, bottom 
+number is damage (p.37)
+Enemy pulse attack 
+against all hunters in range, 
+top number is range, 
+bottom number is damage 
+(see p.37)
+Symbol Reference
+Mandatory
+Conditional
+Enemies only perform first 
+conditional action then skip 
+the others (see p.35)
+Enemies always perform mandatory 
+actions if able (see p.35)

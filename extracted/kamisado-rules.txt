@@ -1,0 +1,82 @@
+Object of the game: To reach your opponent's “home row” with one of your colored dragon towers. Achieving 
+this in the Single Round (Base Game) wins the game. When playing match games, your tower gets promoted to 
+a “Sumo” dragon tower and is worth one point to its owner. In later rounds the “Sumo” can became a “Double” 
+worth 3 points or “Triple Sumo” worth 7 points. A “Triple Sumo” that gets promoted again scores 15 total points.
+ The game is offered in the following matchups:
+ Single Round (Base Game): where the ﬁrst player to score 1 point is the winner.
+ Standard Match: where the ﬁrst player to score a total of 3 points is the winner.
+ Long Match: where the ﬁrst player to score a total of 7 points is the winner.
+ Marathon Match: where the ﬁrst player to score a total of 15 points is the winner.
+ 1. Setup:
+ Each player places each tower on their “home row”, matching the tower’s color to their speciﬁc square color.
+ 2. Playing the game
+ During each round, the players take turns moving a dragon tower, each attempting to be the ﬁrst to place a 
+ dragon tower on a square within their opponent’s “home row” (rear row). The dragon towers are moved 
+ according to these 2 rules:
+ Rule 1: For the ﬁrst move only in any round, the player can select any of their eight dragon towers to move.
+ Rule 2: For all subsequent moves in that round, each player must move the dragon tower that matches the 
+ color of the square on which their opponent’s previous piece has been placed. IE: Player one moves his
+ yellow tower to a purple square. Player two must then move their purple tower to a valid square.
+ 3. Valid Movement:
+ Rule 1: Towers must be moved in a straight line, vertically or diagonally forwards. Sideway or backward 
+ moves are NEVER allowed (except backward moves made as a result of a “Sumo push”).
+ Rule 2: Towers can be moved any number of squares, but may not pass through any square that already 
+ contains a tower (player or opponent). 
+ Rule 3: A tower can only move to an empty square (two towers can’t occupy the same space).
+ Rule 4: A tower can move diagonally between two towers which touch corner-to-corner.
+ Rule 5: A tower must be moved at least one square, assuming that it is possible to do so.
+ Rule 6: If unable to move the required tower in any direction forward that player loses their turn, allowing 
+ their opponent to immediately move again.
+ Rule 7: The round ends once a player moves a tower to any square within their opponent’s “home row”.
+ Rule 8: In rare circumstances, there are occasions where players can ﬁnd themselves in “deadlock 
+ situations”. These circumstance occur when both players have towers which are completely blocked and 
+ are unable to be moved OR have two towers that repeat moves indeﬁnitely. In either of these situations, the 
+ player who made that ﬁnal move (creating this occurrence) is considered to have lost the round.
+ 4. Continued Setup for Match Play: 
+ If playing more than one round, players do not immediately reset the board. The order of the “home row” will 
+ be partially determined by the ﬁnished order of the pieces from the previous game. The initial order, in which 
+ they are placed, is determined by the winner of the previous round-choosing to ﬁll from the left or from the right.
+ 
+Kamisado
+
+Kamisado
+ 4. Continued Setup for Match Play (Continued): 
+ • Rules governing ﬁlling from left or right :
+ Rule 1: The player who won the previous round (the “Defender”) chooses in which direction to ﬁll.
+ Rule 2: The player who lost the previous round (the “Challenger”) must ﬁll in the same way.
+ Rule 3: If ﬁlling from the left, ﬁll from brown to orange square; ﬁlling from the right, orange to brown square. 
+ Rule 4: Using the ﬁnal order of the towers, from the previous game, you begin ﬁlling your “home row”. The 
+ piece that is closest to “home row” and nearest to the corner the “Defender” selected is placed into this corner 
+ space. The next order of pieces are also determined by row ﬁrst, then the column that is closest to the corner 
+ space selected. IE: You choose left to right (start on brown) and your closest two towers are on row 2, one on
+ blue and the other on orange. The one on blue is ﬁrst since it’s closest to the brown corner starting space.
+ 5. Movement as “Sumo” dragon towers:
+ When a round ends, the piece that landed on their opponents “home row” receives one of the clear plastic 
+ “Dragon’s Teeth” for the top of that tower. Now referred to as a “Sumo” piece, it possesses the ability of the 
+ “Sumo Push” with the following qualities according to the number of “teeth” it holds:
+ •1 “Dragon’s Teeth”: 
+ Movement is limited to a maximum of 5 spaces 
+ Can push a regular tower
+ Landing on the “home row” gains you 3 points, and a second “Dragon Teeth”. 
+ •2 “Dragon’s Teeth”: 
+ Movement is limited to a maximum of 3 spaces 
+ Can push up to 2 towers at once (up to any combination of “Sumo” or regular tower pieces- 2 total)
+ Landing on the “home row” gains you 7 points, and a third “Dragon Teeth” 
+ •3 “Dragon’s Teeth”: 
+ Movement is now limited to 1 space 
+ Can push up to 3 towers at once (any combination of “Double Sumo”, “Sumo” or regular pieces- 3 total)
+ Landing on the “home row” gains you 15 points. 
+ 
+ Speciﬁc Rules Regarding the “Sumo Push”:
+ 1. The opponent’s tower must be on the square immediately in front of the Sumo tower
+ 2. The opponent had to end their previous move on a square color that matches the color of the Sumo tower 
+ 3. You only push the opponents piece(s) backwards one space in a vertical direction (never diagonally)
+ 4. A “Sumo Push” is an option that the player is not obliged to use, assuming there are alternative diagonally 
+ forward moves (which bypass the piece) which could be pushed.
+ 5. Immediately after the Sumo push, the opponent loses their turn, and the original player (making the Sumo 
+ push) moves again using the dragon tower whose color matches the square which the opponents piece was
+ pushed onto. IE: if you pushed your opponents pieces backwards onto the red square, move your red tower. 
+ 6. There must be an empty square behind the pushed piece (for this piece to be pushed onto) since the color
+ of this square determines what color tower will be moved next. 
+ 7. “Sumo’s” cannot push a piece if it’s on their opponents home row (cannot push a piece off the board).
+ 8. A player can only perform a “Sumo Push” on their opponent’s pieces (never their own pieces).

@@ -1,0 +1,2308 @@
+Core Rulebook
+R
+Season 4
+Version 4 .1 - updated 1st March 2019
+®
+
+Contents
+Guild Ball was designed and created by
+Mat Hart & Richard Loxam
+Published by
+Steamforged Games Ltd.
+Development Team
+David Carl, Alex Hall, Mat Hart, Bryce Johnston, 
+Steve Margetson, Jamie Perkins
+Lawyer’s Guild
+Owen Bell, Richard Ford, Andrew Massoura, 
+Tim Wyatt
+Steamforged Team
+Charles Agel, Christine Agel, Tim Akker, 
+Mike Appleton, Michael Archer, Edward Ball, 
+Sean Dooley, Matt Elliott, David Fear, 
+Helen Finney, John Ford, Tristan Freer, 
+Jamie Giblin, Rachel Hall, John Hockey, 
+Charlotte Holland, Rich Jennings, Ronan Kelly, 
+Adam King, Andrew Lyon, Louis Moore, 
+Sam Page, Aitch Parker, Luke Pitter, Greg Plail, 
+David Pownall, Firoz Rana, Gareth Reid, 
+Tom Rochford, Danni Simmonds, Zach Stein, 
+Jak Thraves, Matt Warren, Paul Waters
+Lead Writer
+Sherwin Matthews
+Illustrations
+Doug Telford & Marc Molnar
+Sculpting
+Russ Charles, Ben Charles, Tom Lishman
+Studio Painter
+Angel Giraldez, Studio Giraldez
+Graphic Design & Layout
+Tom Hutchings, Abigail Thornton
+Editing
+Darla Kennerud
+And special thanks to…
+Andrea, Tom, Katherine, 
+and Jake Claire, Steve, Lorraine, and Blue
+...& all of the amazing Pundits and the 
+rest of the Guild Ball community around 
+the world.
+Playtesting
+Joey Addison
+Zi Baxter
+Dorian Bernet
+Benedikt Bliestle
+Owen Carmichael
+Dominik de Cassan
+Henry Clark
+Stephen Easton
+Jason Enos
+William Fitzmaurice
+Tobias Ford
+Matt Graham
+Jesse Heis
+Alexander Horn
+Robert Hurlbut
+Alasdair Johnstone
+Daniel Knauss
+Martin Koch
+John Layfield
+Derek Ledbetter
+James Long
+Phil Manwaring
+Fraser McFetridge
+Richard McHale
+Anna Morley
+Amanda Morris
+Brandon Morris
+Christoph Mueckenheim
+Michael Myers
+Tom Pickard
+Jens Remane
+Daniel Schmidtke
+Werner Schosser
+Hayden Sheehan
+Tim Wischniowski
+Copyright © 2015-2018 Steamforged Games Ltd. All rights reserved. 
+No part of this book shall be reproduced or transmitted in any form or by any means, 
+electronic or mechanical, including photocopying, recording, or by any information 
+retrieval system without written permission of the publisher.
+Although every precaution has been taken in the preparation of this book, the publisher and 
+author assume no responsibility for errors or omissions. Neither is any liability assumed for 
+damages resulting from the use of this information contained herein.
+Models . . . . . . . . . . . . . . . . . . . . . . . 4
+Stats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Character Traits . . . . . . . . . . . . . . . . . . . . . 4
+Plays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Base Size . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Melee Zone . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Model Type . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Game Plans . . . . . . . . . . . . . . . . . . . 5
+Preparing for a Game . . . . . . . . . 6
+How to Win . . . . . . . . . . . . . . . . . . . . . . 6
+Pre-Game . . . . . . . . . . . . . . . . . . . . . . . . 6
+Picking a Team . . . . . . . . . . . . . . . . . . . . . . 6
+Setting Up . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Kick Off . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Pre-Game Sequence . . . . . . . . . . . . . . . . . . 8
+Playing the Game . . . . . . . . . . . . . 9
+Game Terminology . . . . . . . . . . . . . . . . 9
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Conventions of Play . . . . . . . . . . . . . . . . . 10
+Distance Measuring . . . . . . . . . . . . . . . . . 10
+Line of Sight . . . . . . . . . . . . . . . . . . . . . . . 10
+Tokens and Markers . . . . . . . . . . . . . 10
+Normal Turn Sequence . . . . . . 11
+Recovery Levels . . . . . . . . . . . . . . . . . . . . 11
+Conditions . . . . . . . . . . . . . . . . . . 12
+Influence . . . . . . . . . . . . . . . . . . . 12
+Actions . . . . . . . . . . . . . . . . . . . . . . . 13
+Movement . . . . . . . . . . . . . . . . . . . . . . 13
+Advancing . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Repositioning . . . . . . . . . . . . . . . . . . . . . . 13
+Target Number Tests . . . . . . . . . . . . 14
+TN Modifiers . . . . . . . . . . . . . . . . . . . . . . . 14
+The Ball Marker . . . . . . . . . . . . . 15
+Possession of the Ball . . . . . . . . . . . . 15
+Snap To . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Kicking . . . . . . . . . . . . . . . . . . . . . . . . 15
+Passing the Ball . . . . . . . . . . . . . . . . . . . . . 15
+Shooting at Goal . . . . . . . . . . . . . . . . . . . . 15
+Kicking Sequence . . . . . . . . . . . . . . . 16
+Goal Kicks . . . . . . . . . . . . . . . . . . . . . . 16
+Scattering the Ball . . . . . . . . . . . . . . . 17
+Interception . . . . . . . . . . . . . . . . . . . . . . . . 17
+Throw-Ins . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Making an Attack . . . . . . . . . . . 18
+Engaging . . . . . . . . . . . . . . . . . . . . . . . 18
+Attack Sequence . . . . . . . . . . . . . . . . 18
+Common Attack 
+Bonuses and Penalties . . . . . . . . . . . 18
+Playbook . . . . . . . . . . . . . . . . . . . . . . . 19
+Parting Blow . . . . . . . . . . . . . . . . . . . . 19
+Plays . . . . . . . . . . . . . . . . . . . . . . . . 20
+Character Plays . . . . . . . . . . . . . . . . . 20
+Common Character Play 
+Bonuses and Penalties . . . . . . . . . . . 21
+Area of Effect (AOE) Character Plays . . 21
+Ongoing Effects . . . . . . . . . . . . . . . . . . . . 21
+Heroic and Legendary Plays . . . . . . 22
+Momentum . . . . . . . . . . . . . . . . . . 22
+Gaining Momentum . . . . . . . . . . . . . 22
+Using Momentum . . . . . . . . . . . . . . . 23
+Terrain . . . . . . . . . . . . . . . . . . . . . 24
+Types of Terrain . . . . . . . . . . . . . . . . 25
+Comprehensive 
+Timing Sequences . . . . . . . . . . . . 26
+Index . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+Core Rules
+Welcome to Guild Ball, the dynamic and fast-paced 
+game of mob football. Set against the backdrop of 
+the Empire of the Free Cities, a cutthroat land ruled 
+by powerful mercantile guilds, Guild Ball is a game 
+of high stakes and careful strategy which rewards 
+those ready to take a risk. But be wary. There are 
+always other new coaches, young bloods just like 
+you, ready to take to the ﬁ eld and show no mercy.
+Already your players are expectantly looking to you 
+for guidance. Only you can rise to the challenge 
+and take your team to victory. Are you going to 
+take home the title for your guild this year? Are 
+you ready to hear your name echoing through the 
+stands, shouted in the roar of a thousand voices? 
+Time to lace up your boots and ﬁ nd out!
+Download Guild Ball Manager 
+from the App Store or Google Play
+
+Models
+All models in Guild Ball have a profi le card. An example of a model’s profi le card is shown 
+here, along with an explanation of the skills and stats that appear on it. During a turn, a 
+model may gain or suff er modifi ers to its stats. Apply these modifi ers immediately and 
+cumulatively.
+Stats
+i Movement [MOV]
+Shown as two distances, e.g., 6"/8" MOV.
+The fi rst distance is the base move and is the 
+distance a model may travel during a jog.
+The second distance is the max move and 
+is the distance a model may travel during 
+a sprint or charge.
+ii Tactical Ability [TAC]
+Shown as a single number, e.g., 4 TAC.
+This is the number of dice a model generates 
+and adds to the dice pool when attacking.
+iii Ball Skills and 
+Kicking Ability [KICK]
+Shown as a number and a distance, e.g., 
+3/8" KICK.
+The number is the base kick stat and is the 
+number of dice a model generates and adds 
+to the dice pool when performing a kick.
+The distance is the kick distance that a 
+model may kick the ball.
+iv Defensive Ability [DEF]
+Shown as a single number, e.g., 4+ DEF.
+This is the target number that an attacking 
+model rolls against when targeting a 
+model. The + indicates that each die rolled 
+must meet or exceed the number listed.
+v Armour Value [ARM]
+Shown as a single number, e.g., 1 ARM.
+This is the number of hits deducted from 
+a successful attack made against a model.
+vi Influence [INF]
+Shown as two numbers, e.g., 2/4 INF.
+The fi rst number is the base INF and is the 
+amount of infl uence a model generates 
+each turn during the Maintenance Phase.
+The second number is the max INF and 
+is the maximum amount of infl uence a 
+model may be allocated.
+Infl uence is spent by a model during its 
+activation to perform actions.
+vii Character Traits
+Models have a number of special abilities 
+they may use during the game, collectively 
+called character traits.
+Passive character traits simply have 
+an eff ect at all times when the defi ned 
+requirements are satisfi ed.
+Active character traits are actions and 
+are marked with the 
+ icon next to their 
+names. Active character traits are eff ects 
+that a player may choose whether to use 
+during the model’s activation or when the 
+defi ned requirements are satisfi ed. 
+3/8"
+4+
+2/4
+Melee Zone 1"
+Super Shot
+This model gains +1/+2" KICK.
+Dirty Knives
+2/
+Target enemy model suffers –1 DEF, 1 DMG, 
+and the poison condition.
+Valentian, Human, Female, 
+Striker, 
+Squaddie
+™ & © Steamforged Games LTD 2018
+Character Traits
+Above and Beyond
+Each time this model scores a goal, it gains +1/+0 INF 
+for the remainder of the game.
+Charmed [Male]
+This model gains +1 DEF against attacks and character 
+plays made against it by the named model type.
+ Unpredictable Movement
+Once per turn when an enemy model ends an advance 
+within this model’s melee zone, this model may 
+immediately make a 2" dodge.
+®
+S4
+Size 30 mm
+vii
+viii
+ix
+xii
+ii iii iv
+xi
+v vi
+Piper
+Thresher
+
+viii Health Points [HP]
+A model’s health points, or HP, represents 
+the total health of the model. This is shown 
+on its card as a number of cells also known 
+collectively as the health bar. Damage is 
+referred to in the rules as a number, e.g., 
+2 DMG. Damage is marked on the health 
+bar from right to left, and current health is 
+read from left to right. When one or more 
+cells of a model’s health bar are marked, 
+it is damaged. Once a model’s current 
+health reaches 0 HP, it suff ers the taken 
+out condition.
+The health bar also shows the model’s 
+recovery level, marked by a in one of 
+the cells. This stat is used when the model 
+recovers from being taken out and is 
+returned to play. 
+ix Plays
+Models have a number of special skills, 
+collectively called plays, they may use 
+during the game. There are three types 
+of plays: character plays, heroic plays, 
+and legendary plays. Character plays are 
+common, while heroic and legendary 
+plays are rarer.
+x Base Size
+Guild Ball uses circular bases with 
+diameters of 30 mm, 40 mm, and 50 mm.
+xi Melee Zone
+Every model has a melee zone. A model’s 
+melee zone extends from the edge of its 
+base out to the distance specifi ed by the 
+number listed, e.g., 1". A model is never 
+within its own melee zone.
+xii Model Type
+Every model has a number of types 
+that defi ne aspects of the character it 
+represents, such as nationality, playing 
+position, and, if applicable, team position.
+Some plays and character traits speciﬁ cally 
+aff ect certain model types, so pay attention 
+to them!
+Farris
+Veteran Hearne
+Lucky
+Ikaros
+Game Plans
+Game Plans represent your team’s Captain adapting to the changing fl ow of the game. 
+Game Plans are dealt out at the start of the game, and are used in deciding who has 
+initiative from Turn 2 onwards. Each Game Plan has the following parts:
+a Name
+b Text Effect
+This may either be instantly resolved, 
+or have an eff ect for the duration of the 
+whole turn.
+c Initiative Value 
+This number is added to the momentum 
+points (MP) left from last turn for each 
+player. The Player with the highest total 
+score decides who has initiative for the 
+next turn.
+d Influence Value 
+This number is either added to or 
+subtracted from the team’s infl uence pool 
+for the turn.
+Dig Deep
+The friendly team gains [2] MP each 
+time the enemy team scores a goal.
++2
++1
+d
+b
+
+Preparing for a Game
+How to Win
+In a typical game of Guild Ball, the fi rst 
+player to reach 12 victory points (VP) 
+immediately wins the game. In the unlikely 
+event of both players reaching 12 VP 
+simultaneously, the game continues until 
+one player has more VP than the other, at 
+which point that player immediately wins 
+the game. 
+Goals! – A player gains 4 VP each time 
+their team scores a goal.
+Bodycount – A player gains 2 VP each 
+time an enemy non-Mascot model suff ers 
+the taken out condition. A player gains 
+1 VP each time an enemy Mascot model 
+suff ers the taken out condition.
+Game Length
+A game takes an average of around two 
+hours to play. You may, of course, adjust the 
+target VP win condition to play a longer or 
+shorter game if you wish.
+Game Size
+Duration
+Pitch Size
+Team Size
+VP Total
+Introductory Game
+30 mins
+2' x 2'
+2 Squaddie
+6 VP
+Quick Game
+60 mins
+3' x 3'
+4 Squaddie
+1 Mascot
+8 VP
+Typical Game
+90—120 mins
+3' x 3'
+4 Squaddie
+1 Mascot
+12 VP
+Pre-Game
+Guild Ball is played between two teams of equal sizes. Players agree to a game size (based 
+on the win condition and expected duration) before picking a guild to represent. They 
+then select models from an extensive roster to make up their team for the game.
+Picking a Team
+In a typical game each team has six guild 
+models, including a Captain and a Mascot. 
+The most important member of a team is 
+the Captain, who determines the team’s 
+guild. A team may have only one model 
+with the Captain type. A team may also 
+have only one model with the Mascot type. 
+The Mascot and all other models selected 
+must be guild models; that is, they must 
+be able to play for the same guild as the 
+Captain. Each named character is unique 
+and may be taken only once per team.
+To pick a team:
+1. Pick a model with the Captain type.
+2. Pick a model with the Mascot type 
+that may play for the same guild as 
+the Captain model. Skip this step if 
+playing an Introductory Game. 
+3. Fill out the team roster with Squaddie 
+models that may play for the same 
+guild as the Captain model.
+Squeak
+Peck
+Princess
+
+Setting Up
+In a typical game of Guild Ball, players play across a 3’ x 3’ playing surface that represents 
+the pitch.
+There may be any number of pieces of terrain on the pitch. Players must agree on the 
+position and type of each piece before starting the game.
+Prior to setting up teams, each player is dealt seven game plans from a shared 
+deck. These cards are kept secret. After review, each player must discard two 
+cards, leaving them with fi ve game plans in hand. Discarded game plan cards 
+aren’t revealed.
+For the fi rst few games we recommend 
+that you don’t use any terrain pieces, in 
+order to get used to the basic rules. Once 
+you’ve mastered the basic rules, these 
+elements add new twists to keep you on 
+your toes in each and every match!
+Players each make a starting roll of 1D6. 
+Reroll any tied results. The player with 
+the higher roll chooses which player will 
+be the kicking player for the fi rst turn and 
+which one will be the receiving player. 
+Each goal is represented by a goalpost. 
+Goalposts are always positioned in the 
+centre of the deployment zone, with the 
+front edge on the goal line. The kicking 
+player decides which table edge to use for 
+deployment and positions their goalpost.
+The kicking player deploys their entire 
+team completely within 10" of their 
+chosen table edge. They declare one 
+model as the kicker, and the kicker is given 
+possession of the ball.
+The receiving player uses the opposite 
+table edge, positions their goalpost, and 
+deploys their entire team, all in the same 
+manner as the kicking player.
+Kick Off
+After 
+both 
+players 
+have 
+deployed 
+their teams, the kicker may make a jog 
+followed by a pass. These are the only 
+two actions the kicker may perform 
+during the kick off .
+The kick off pass doesn’t cost influence 
+and may not target a friendly model; 
+it may only target a target spot on 
+the pitch. See page 16 for how to kick 
+to a target spot on the pitch.
+After resolving the kick off , if the ball 
+leaves the pitch or fi nishes within the 
+kicking player’s half of the pitch, then the 
+receiving player may give possession of 
+the ball to any model on their team. After 
+the kick off scatter is resolved, the ball 
+may not snap to the kicker.
+After the kick off has been resolved, the 
+receiving player automatically has the 
+initiative for the fi rst turn and so will be 
+the fi rst player to activate a model.
+Deployment Zone
+Deployment Zone
+Goal Line
+Goal Line
+Goal
+Goal
+10"
+10"
+Furnace
+Crucible
+
+Pre-Game Sequence
+The specifi c sequence for a new game is:
+1. Defi ne and agree on terrain.
+2. Deal seven game plans to each player, 
+face down.
+3. Each player discards two game plans 
+face down and retains fi ve cards. These 
+are typically kept secret but may be 
+revealed if desired.
+4. Each player makes a starting roll of 
+1D6. The player with the higher roll 
+chooses whether to be the kicking 
+player or the receiving player.
+5. The kicking player chooses a table 
+edge and positions their goalpost.
+6. The kicking player completely deploys 
+their team.
+7. The kicking player gives possession 
+of the ball to one of their models, 
+designated as the kicker.
+8. The receiving player takes the opposite 
+table edge and deploys their goalpost 
+and team.
+9. The kicker performs a kick off . 
+Determine the fi nal landing spot of the 
+kick off and apply the results. Note that 
+the kicker may still be allocated infl uence 
+and activate as normal in the fi rst turn.
+10. The receiving player automatically has 
+the initiative for the fi rst turn. The 
+kicking player's team gains 1 MP, and 
+then the game begins.
+11. The 
+game 
+continues 
+from 
+the 
+Maintenance Phase of the Normal 
+Turn Sequence.
+
+Playing the Game
+Game Terminology
+Guild Ball uses a number of key phrases and terminology to define aspects of the game.
+Definitions
+A model, marker, or template is within a 
+given distance when any part of the base 
+or template is within that given distance, 
+including touching.
+model, 
+marker, 
+or 
+template 
+is 
+completely within a given distance when 
+the entire base or template is within that 
+given distance, including touching.
+A model, marker, or template is in base 
+contact with a model, marker, or terrain 
+piece if any part of the base or template is 
+touching the model, marker, or terrain piece. 
+A model enters when an advance, reposition, 
+or placement of that model causes it to 
+become within an aura, an ongoing effect 
+AOE, terrain, or another effect.
+Towards means that a model or marker 
+may only move in such a way that the 
+distance between the model or marker 
+and the target is always decreasing.
+Directly towards means that a model or 
+marker must move along the line between 
+the centre points of the model or marker 
+and the target. Additionally, the distance 
+between the model or marker and the 
+target must always be decreasing.
+Away means that a model or marker may 
+move in any direction, but only in such a way 
+that the distance between the origin and 
+the model or marker is always increasing.
+Directly away means that a model or 
+marker must move along the line between 
+the centre points of the model or marker 
+and the target. Additionally, the distance 
+between the model or marker and the 
+target must always be increasing.
+If a model is required to move towards, directly 
+towards, away from, or directly away from a 
+target/origin and becomes unable to do so 
+(e.g., due to a blocking model, an obstruction, 
+or a barrier), it immediately stops movement.
+When a model or marker is placed, it hasn’t 
+made an advance or reposition and isn’t 
+considered to have moved. A model or marker 
+may not be placed on a barrier or an obstruction, 
+or with its base overlapping another model 
+or marker’s base or the edge of the pitch.
+Player refers to a person playing the game.
+Controlling player refers to the person in 
+control of the active model or goal kick.
+A model’s activation occurs when that 
+model is selected during the Activation 
+Phase. A model’s activation consists of a 
+single standard advance action and as many 
+other actions as the model has resources to 
+perform. A model may perform actions in 
+any order, and, unless stated otherwise, an 
+action may be repeated.
+During a model’s activation, it’s the active 
+model unless another model is performing an 
+action. In all other instances where a model 
+becomes the active model, it isn’t considered 
+to be that model’s activation. There may be 
+only one active model at a time.
+An action is a movement, a kick, an attack, a 
+character play, a heroic play, a legendary play, an 
+active character trait, or any other ability that 
+states ‘action’ in its description. A model may 
+not interrupt an action with another action 
+unless the description of the responding action 
+includes the appropriate specific timing trigger.
+When an action is described as once per 
+turn, it may be used only once each turn 
+regardless of whether it’s successful. Each 
+individual model’s once-per-turn actions 
+may be used once per turn per player.
+A dice pool is a number of standard six-
+sided dice (D6), collected together and 
+used to determine the success of an action. 
+A dice pool may never be reduced to zero.
+An origin is a model that’s initiating an action.
+Target model or marker is the model or marker 
+targeted by an action. A model must have line 
+of sight in order to target another model or 
+marker with an action unless otherwise stated.
+An enemy model or marker is a model or 
+marker that belongs to the team opposing 
+the active model.
+A friendly model or marker is a model or 
+marker that belongs to the same team as the 
+active model. A model is friendly to itself.
+A guild model is a friendly model whose 
+guild is the same as the active model’s. 
+An aura is an effect which is constantly 
+active throughout its duration. Models 
+within an aura are immediately affected 
+by it. An aura extends from the edge of the 
+model’s base out to the distance specified 
+by the number listed. A model is affected 
+by its own aura unless otherwise stated.
+A pulse is an effect which affects only 
+models within its range at the time it is 
+triggered. A pulse has no duration. A pulse 
+extends from the edge of the model’s 
+base out to the distance specified by the 
+number listed. A model is affected by its 
+own pulse unless otherwise stated.
+The halfway line describes the line across 
+the middle of the pitch which runs parallel 
+to each player’s table edge.
+The goal line describes the line 6" from, and 
+parallel to, each player’s respective table edge.
+A goalpost is a specific piece of terrain 
+represented by a 50 mm base or equivalent-
+sized object. A goalpost is a barrier.
+The ball is represented by a ball marker, 
+which is a 30 mm base.
+A target spot is any point on the pitch 
+where the ball may be legally placed.
+The ball path is a straight line, 30 mm 
+wide, that the ball travels along.
+
+Tokens and Markers
+Tokens
+Tokens don’t have a physical presence on 
+the pitch. They’re simply put next to the 
+relevant models to show which eff ects are 
+in play on which model. 
+Markers
+Some plays and character traits require a 
+marker to represent them on the pitch. 
+Additionally, the ball is represented by a 
+ball marker.
+The location of a marker on the pitch is 
+typically represented by a 30 mm, 40 mm, 
+or 50 mm base. A model may move over a 
+marker without impediment but may not end 
+its movement overlapping a marker’s base.
+Conventions of Play
+Players are obliged to allow their opponent 
+full access to all game information (e.g., 
+specifi c model details, stats, and current 
+eff ects) at any time. This doesn’t include 
+unrevealed game plans.
+Eff ects should always be marked with a 
+suitable token next to the relevant model.
+Bonuses and penalties from the same 
+named sources aren’t cumulative. Eff ects 
+and abilities of the same name aren’t 
+cumulative. 
+Rules as written in the rulebook are 
+the default. However, rules written on 
+a model’s card supersede rules written 
+in the rulebook. Rules confl icts and 
+timing are resolved as described in 
+'Comprehensive Timing Sequences' on 
+page 26.
+Eff ects and abilities that trigger at the 
+same timing step may be resolved in any 
+order the controlling player chooses.
+The rule of least disturbance generally 
+applies only when attempting to place 
+the ball. It means players must place the 
+ball (or model, if relevant) as close to the 
+correct location as is possible without 
+moving or disturbing any other models, 
+markers, or terrain pieces on the pitch.
+When a reroll is required, all bonuses and 
+penalties which applied to the original roll 
+also apply to the reroll. Unless specifi ed, a 
+reroll may not be rerolled.
+Distance Measuring
+All distances are expressed in inches, e.g., 6".
+Distances are always measured from the 
+nearest point on the edge of a marker or 
+model’s base.
+Distances are always measured on a 
+horizontal plane.
+Players may choose to measure any ranges 
+or distances at any time.
+Line of Sight
+A model has LOS to a target spot, 
+another model, or a goalpost as long as an 
+unobstructed straight line may be drawn 
+from any point on the model’s base to the 
+target spot or to any point on the other 
+model’s or goalpost’s base.
+A line is considered obstructed if it passes 
+through terrain that blocks LOS or if it 
+passes over the base of a model.
+Locus
+
+Normal Turn Sequence
+1 . Initiative Phase
+Both players look at their chosen game 
+plans and secretly select one to play.
+Players 
+reveal 
+their 
+chosen 
+cards 
+simultaneously and compare the initiative 
+values of those cards. Each player 
+additionally adds +1 to their initiative 
+value for each of their unspent MP from 
+the previous turn.
+The player with the highest net initiative 
+decides which team has the initiative. In 
+the event of a tie, both players roll 1D6. 
+The player who rolls higher decides which 
+team has the initiative. In the event of a 
+tie, reroll until one player rolls higher.
+Then, starting with the player whose team 
+has initiative this turn, resolve any eff ects 
+of the chosen game plans. 
+MP is then reset to 0 for each player. 
+After this, the player who doesn’t have 
+initiative gains 1 MP .
+2 . Maintenance Phase
+The player with the initiative completes 
+their Maintenance Phase fi rst, and 
+then the other player completes their 
+Maintenance Phase. 
+The player returns to play any friendly 
+models which are suff ering the taken out 
+condition.
+Then generate the team’s infl uence pool. 
+Apply any infl uence modifi er listed on 
+that player’s chosen game plan to the 
+infl uence pool before allocating infl uence.
+Finally, the player allocates their infl uence 
+pool amongst friendly models.
+3 . Activation Phase
+Starting with the player who has the 
+initiative, alternate selecting a friendly model 
+currently on the pitch to take its activation.
+Each model must take an activation once 
+per turn.
+A model may choose to end its activation 
+at any time. A model isn’t required to use 
+all of its infl uence.
+4 . End Phase
+Once all models on both teams have 
+completed all possible activations, the 
+current turn ends. Players then remove 
+all current ongoing eff ects and sustain 
+eff ects, but not conditions. One model at a 
+time, resolve all damage from conditions, 
+and discard all infl uence on each model. 
+Don’t reset MP at this point.
+Both current game plans are removed 
+from the pitch and discarded. If a player 
+no longer has any game plan cards in their 
+hand, they pick up all their discarded 
+game plans to form a new hand.
+Recovery Levels 
+Models have a recovery level marked on 
+their health bars.
+During the Maintenance Phase, each 
+model currently suff ering the taken out 
+condition is returned to play. A model 
+that returns to play removes the taken out 
+condition.
+A model that returns to play retains its 
+current HP, then recovers HP up to its 
+recovery level.
+A returned model is placed in base contact 
+with an edge of the pitch that’s within the 
+friendly deployment zone and may then 
+make a jog.
+Sakana
+Salt
+
+Conditions & Condition Damage
+During a game of Guild Ball, models may suff er conditions. Conditions remain on a 
+model until removed.
+Conditions may cause damage during the End Phase. The amount of damage a model suff ers 
+from each condition is shown by the number next to the name of the condition. Any damage 
+infl icted by a condition or by a trait or play which includes the phrase ‘condition damage’ is 
+condition damage. Condition damage ignores eff ects that increase or decrease damage dealt. 
+Bleed [3]
+Remove the bleed condition after it infl icts 
+damage in the End Phase.
+Burning [1]
+A model suff ering the burning condition 
+suff ers –2"/–2" MOV.
+Knocked Down [0]
+A model suff ering the knocked down 
+condition:
+Doesn’t block LOS.
+May not engage or attack an enemy model.
+May not have possession of the ball or 
+be the target of a pass.
+May not use character plays.
+May not advance or be moved by any 
+means other than making a dodge or 
+suff ering a push.
+Suff ers –1 DEF.
+If a model in possession of the ball suff ers the 
+knocked down condition, scatter the ball using 
+the circular scatter rules, with the template 
+centred on the knocked down model.
+A model suff ering the knocked down 
+condition may forfeit its standard advance in 
+order to remove the condition (i.e., stand up).
+Poison [2]
+Snared [0]
+A model suff ering the snared condition 
+suff ers –1 DEF and –2"/–2" MOV.
+Taken Out [0]
+When a model is reduced to 0 HP, it 
+suff ers the taken out condition and is 
+removed from the pitch. Remove all other 
+conditions and eff ects from the model.
+If a model in possession of the ball suff ers 
+the taken out condition, before removing 
+the taken out model from the pitch, 
+scatter the ball using the circular scatter 
+rules with the template centred on the 
+taken out model.
+A model that’s suff ering the taken out 
+condition may not be allocated infl uence, 
+may not suff er any other conditions, and 
+may not become active for any reason.
+An active model that causes an enemy 
+model to suff er the taken out condition as 
+a result of an action has infl icted the taken 
+out condition on that model.
+Influence
+Every model on the pitch provides a measure of infl uence over the game. This is 
+represented by the model’s INF stat.
+Infl uence is a resource that a model may use in order to perform actions during each 
+activation. Learning to use infl uence wisely is crucial to winning games.
+Generating Influence
+During the Maintenance Phase, an 
+infl uence pool is generated for each team 
+using the combined total of base INF from 
+each of the team’s models. Note that all 
+models generate infl uence, even models 
+from your team which aren’t currently on 
+the pitch. 
+Each team may add 1 infl uence to the 
+infl uence pool for each goal they have 
+scored during this game that was worth 
+4 VP or more. Each team’s infl uence pool 
+may also gain or lose infl uence each turn 
+as a result of game plan cards.
+Allocating Influence
+When it’s a player’s turn to allocate 
+infl uence during the Maintenance Phase, 
+the player allocates their team’s infl uence 
+pool to their models on the pitch. A player 
+may allocate infl uence to a model up to 
+that model’s max INF.
+A model may be allocated additional 
+infl uence during the course of a turn but 
+may not exceed its max INF. 
+When a model is removed from the pitch 
+it retains any unspent infl uence until the 
+End Phase of the turn.
+Using Influence
+Most actions require spending infl uence. 
+During its activation, a model may 
+perform these actions as long as it has 
+suﬃ cient infl uence to do so.
+A model may perform actions in any 
+order. Unless stated otherwise, an action 
+may be repeated.
+Common uses of infl uence include 
+movement, attacks, kicks, and character plays.
+Benediction
+
+Actions
+An action is a movement, a kick, an attack, a play, an active character trait, or any other 
+ability that states ‘action’ in its description. A model may not interrupt an action with 
+another action unless a specifi c timing trigger is stated.
+Movement
+When a model moves, it does so in a straight 
+line. It may stop to change the direction of 
+movement at any point without penalty.
+When a model or marker is moving, 
+distance is measured from the nearest 
+point on the edge of the model or marker’s 
+base in the direction it’s moving.
+A model blocks movement. A model’s base 
+may not pass over another model’s base 
+during movement.
+Possession of the ball has no impact on 
+the distance travelled.
+If any part of a model’s base leaves the 
+pitch, immediately take the model off 
+the pitch. A controlling player may not 
+voluntarily move a friendly model to 
+cause it to leave the pitch. After the model 
+is taken off the pitch, it suff ers the taken 
+out condition. A model removed in this 
+way retains its current HP.
+A model that moves 0" doesn’t count as 
+moving. 
+Advancing
+During an advance, a model may gain or 
+suff er modifi ers to its MOV. Apply these 
+modifi ers immediately and cumulatively. 
+If a model’s MOV is reduced during an 
+advance and the distance it has already 
+moved is greater than its reduced MOV 
+stat, the advance ends immediately.
+An advance may be one of the following:
+Jog: Costs 0 infl uence. The model may 
+move up to its base move.
+Sprint: Costs 1 infl uence. The model may 
+move up to its max move.
+Charge: Costs 2 infl uence. The model 
+may make a charge if it’s able to do so.
+Standard Advance
+During its activation a model may make 
+a single standard advance. Once per 
+activation, a model may choose to forfeit 
+its standard advance; if it does so, it 
+doesn’t count as moving. 
+Additional Advance
+A model may also be aff ected by plays 
+or character traits which could cause it 
+to perform an additional advance. An 
+additional advance will be specifi ed as a jog, 
+sprint, or charge but doesn’t cost infl uence. A 
+model may make any number of additional 
+advance movements during a turn. Any 
+additional advance a model makes isn’t a 
+standard advance and may not be forfeited.
+Charging
+To perform a charge, the active model selects 
+a target enemy model that’s in its LOS and 
+pays any applicable costs (usually 2 infl uence).
+A model may not declare a charge if it’s 
+currently engaged by an enemy model. 
+A model may not target an enemy model 
+that it’s currently engaging with a charge.
+A charging model may advance up to its 
+max move. If able, it must end the advance 
+engaging the target enemy model. A 
+model may not change direction during 
+a charge. The active model then makes 
+an attack (without spending infl uence) 
+against the target enemy model. This 
+attack gains +4 TAC.
+While making a charge, if the active 
+model doesn’t end its advance engaging 
+the target enemy model, the charge has 
+been unsuccessful, and the active model’s 
+activation immediately ends.
+Repositioning
+Repositioning refers to any movement 
+that isn’t an advance. A reposition may 
+be caused by either a friendly model or an 
+enemy model.
+A dodge is a specifi c type of reposition 
+movement and is shown as a distance, 
+e.g., 2" dodge. Models may move up to the 
+distance shown.
+A push is another specifi c type of 
+reposition movement and is also shown 
+as a distance, e.g., 2" push. A model may 
+be moved up to the distance shown. A 
+model may not change direction during 
+a push. A model being moved by a push 
+stops if it contacts another model’s base, 
+an obstruction, or a barrier.
+Dodge and push movement receives no 
+penalties or bonuses from terrain unless 
+otherwise noted.
+Brisket has a base move of 6". She jogs 
+forward 4" before changing direction and 
+using her remaining 2" of movement.
+Brainpan & Memory
+
+Target Number Tests
+Many actions a model may make are 
+resolved using a target number (TN) test.
+Models use their stats and apply all 
+relevant modifi ers to gather a number of 
+six-sided dice (D6) in order to generate a 
+dice pool.
+Each relevant action confers a base 
+number of dice to the dice pool. Action-
+specifi c modifi ers are then applied. All 
+other applicable modifi ers are then 
+applied from character traits, plays, and 
+other in-game eff ects and abilities. This 
+will provide a total dice pool for the action.
+The target number is shown as a number, 
+e.g., 3+.
+When making a TN test, each individual 
+die rolled in the dice pool that equals or 
+exceeds the target number generates a 
+successful hit. Any die that rolls less than 
+the target number is unsuccessful.
+Some actions will have modifi ers that 
+aff ect the number of successful hits after 
+the dice pool has been rolled.
+A TN test is successful if it generates 
+at least 1 net hit. In many TN tests, 
+additional hits improve the overall result.
+TN Modifiers
+When making a TN test, various factors 
+may aff ect the target number or the dice 
+pool. These will be explained by the 
+relevant rules for that action.
+Modifi ers may not reduce the target 
+number to less than 2+ TN or increase the 
+target number to greater than 6+ TN.
+Instead, for each point a modifi er 
+would take the target number to 
+below 2+ TN, the dice pool gains an 
+additional one die.
+For each point a modifi er would take 
+the target number to above 6+ TN, the 
+dice pool loses one die.
+Modifi ers may not reduce the total dice 
+pool to less than one D6.
+Scum
+Pintpot
+
+The Ball Marker
+The ball is represented by a ball marker which is a 30 mm base.
+A ball that isn’t in a model’s possession is a free ball.
+Possession of the Ball
+When a model is in possession of the 
+ball, put the ball in base contact with 
+that model to ensure that the model in 
+possession of it is clearly identifi ed. While 
+a model is in possession of the ball, the ball 
+has no location on the pitch. The model in 
+possession is considered to be the current 
+location of the ball. While a model is in 
+possession, the exact physical position of 
+the ball is irrelevant; the position of the 
+ball may be freely altered as required.
+When a model in possession is moved, it 
+retains possession of the ball throughout 
+the movement.
+During its activation, an active model in 
+possession of the ball and not engaged 
+may give up possession at any point. 
+Giving up possession isn’t an action. To 
+give up possession, the model places the 
+ball within 1"; the ball then becomes a free 
+ball. A model that has given up possession 
+in this way may not Snap To the ball 
+during the same activation.
+If a model in possession of the ball suff ers 
+the knocked down condition, scatter the 
+ball using the circular scatter rules with 
+the template centred on the knocked 
+down model.
+Snap To
+A model which starts its activation or 
+moves within 1" of a free ball may choose 
+to take possession of the ball; the ball will 
+immediately snap to that model.
+If the ball is placed within 1" of a 
+model, that model may choose to take 
+possession; the ball will immediately snap 
+to that model. If each team has one or 
+more models within 1" of the ball when 
+it’s placed, each model may roll 1D6 and 
+add their base KICK to attempt to gain 
+possession. The model with the highest 
+result gains possession. When two or 
+more models have the highest result, 
+reroll for those models until one model 
+gains possession. The ball may not snap to 
+until after a scatter is resolved.
+Multiple Balls
+Some model and Guild abilities allow an 
+additional ball to be put into play. These 
+balls are treated exactly like the normal 
+ball, except where their own special 
+rules take precedence. A model may 
+have possession of multiple balls. When 
+a model in possession of multiple balls 
+makes a kick action, their player must 
+declare which ball they’re kicking. When a 
+model in possession of multiple balls loses 
+possession of the ball to an enemy model, 
+the opposing player must declare which 
+ball their model is taking possession of. 
+Additional balls do not prevent generation 
+of MP if positioned or possessed behind a 
+Player’s goal line. If a model in possession 
+of multiple balls suff ers the knocked down 
+or taken out conditions, scatter both balls 
+individually. When a ball is removed from 
+the pitch for any reason, that ball is the 
+one that is returned via a goal kick or 
+throw in.
+ Kicking
+To spread the play across the pitch, models 
+usually move the ball around using the 
+kick action. A kick action is either a pass 
+or a Shot.
+During its activation, a model in 
+possession of the ball may make a kick 
+at the cost of 1 infl uence. The kicking 
+model’s controlling player generates a dice 
+pool using the kicking model’s current 
+KICK. Apply any relevant bonuses and 
+penalties to the dice pool before rolling 
+the dice. A kick must target a target spot, 
+friendly model, or enemy goalpost but 
+doesn’t require LOS.
+When making a kick, the ball path must 
+be drawn from the kicking model directly 
+towards the target spot, friendly model, or 
+enemy goalpost.
+Passing the Ball
+A model may pass the ball to another 
+friendly model or a target spot.
+Shooting at Goal
+To score a goal, a model must target the 
+enemy goalpost with a kick action called 
+a Shot. A goal may only be scored from 
+a successful Shot — a ball that scatters 
+into the goalpost won’t count. In order to 
+make a Shot, a model must spend 1 MP in 
+addition to the infl uence cost for making 
+a kick.
+During an activation, if a friendly model 
+scores a goal, the activation immediately ends.
+Tap In
+If the target spot, friendly model, or target 
+goalpost is within half of the kicking 
+model’s kick range (rounded down), the 
+kick suff ers –1 TN.
+Veteran Harmony
+
+Goal Kicks
+After a goal, the ball is returned to play. 
+Typically, the friendly crowd behind the 
+goalpost kick the ball back into play for 
+their team via a goal kick.
+A goal kick happens after a goal is scored, 
+immediately after any end of activation 
+abilities are resolved. The player who just 
+conceded the goal resolves the goal kick.
+There’s no need to reset model positions. 
+To resolve a goal kick, simply position the 
+ball within 10" of the friendly goalpost 
+and use the kick scatter rules to determine 
+the ball’s fi nal landing spot.
+A goal kick may never be intercepted. During 
+a goal kick, the ball path may be drawn 
+through terrain pieces. If the ball would end 
+on top of a barrier or an obstruction, use the 
+rule of least disturbance to place the ball along 
+the ball path in contact with the terrain piece.
+ Kicking Sequence
+1. The active model declares a pass to a 
+target spot, a pass to another friendly 
+model, or a Shot at a goalpost and 
+pays any applicable costs. If making a 
+pass to a target spot, the active model 
+positions the ball anywhere within its 
+kick range.
+2. Generate a dice pool using the kicking 
+model’s base KICK.
+Each enemy model engaging the 
+kicking model causes the kick to 
+suff er –1 dice pool.
+Each enemy model not engaging 
+the kicking model and with any part 
+of its base on the ball path between 
+the kicking model and the target of 
+the kick is an intervening model. 
+Each intervening model causes the 
+kick to suff er –1 dice pool.
+3. A kick is resolved as a 4+ TN test.
+If the target spot, friendly model, 
+or enemy goalpost isn’t in LOS of 
+the kicking model, the kick suff ers 
+a +1 TN modifi er.
+If the target is a friendly model, the kick 
+suff ers +1 TN for each enemy model 
+engaging the target friendly model.
+4. Upon a successful kick:
+If the target is a friendly model, it 
+immediately gains possession of 
+the ball.
+If the target is a goalpost, a goal is 
+scored.
+If the target is a target spot, 
+immediately scatter using the 
+kick scatter rules. The player may 
+choose to reroll the entire kick 
+scatter once but must accept the 
+rerolled result.
+Upon an unsuccessful kick:
+If the target is a friendly model or a 
+goalpost, scatter the ball from that 
+model or goalpost using the kick 
+scatter rules.
+If the target is a target spot, 
+immediately scatter using the kick 
+scatter rules.
+Snakeskin
+
+v
+Kick Scatter
+When the ball is kicked, a kick scatter may 
+be used to determine the fi nal landing spot.
+Hold the kick scatter template over the target 
+spot, target friendly model, or target enemy 
+goalpost with the centre line pointing in the 
+direction the ball was originally travelling. 
+Roll 1D6 to determine the direction in 
+which the ball scatters. Roll another 1D6 
+to determine the distance the ball scatters. 
+The ball’s fi nal landing spot is determined 
+by measuring the scatter distance in the 
+scatter direction from the target spot, target 
+friendly model, or target enemy goalpost.
+Once you’ve determined the fi nal landing spot, 
+the ball path is centred on the line between the 
+kicking model and the fi nal landing spot. If the 
+ball scattered from a target model or goalpost, 
+measure the scatter distance from the edge 
+of the model or goalpost’s base.
+If there are barriers or obstructions along 
+the ball path, the ball is aff ected as explained 
+in 'Terrain' on page 24. Otherwise, place 
+the ball on the fi nal landing spot. 
+Interception
+When resolving a kick scatter, the closest 
+model on the ball path between the 
+kicking model and the fi nal landing spot 
+may choose to take possession of the ball. 
+If it doesn’t, the next-closest model on the 
+ball path may choose to take possession. 
+Repeat this process until there are no 
+more models on the ball path. A circular 
+scatter may not be intercepted.
+Throw-Ins
+If the ball leaves the pitch during a game 
+for any reason, the game continues as the 
+enthusiastic crowd quickly throws or boots 
+the ball back into play.
+If any part of the ball marker’s base leaves 
+the pitch, immediately take the ball off the 
+pitch. Place the ball on the centre spot of 
+the pitch and resolve a circular scatter to 
+determine its fi nal landing spot.
+The ball may not be intercepted during a 
+throw-in.
+Scattering the Ball
+Occasionally models will lose control of the ball or miss that crucial Shot or pass. 
+Regardless of how it happens, a scatter will determine where the ball ends up.
+Scatters require a template to resolve. There are two types of scatter template used in 
+Guild Ball: a circular scatter and a kick scatter.
+Circular Scatter
+A circular scatter occurs whenever 
+the ball bounces freely, such as when a 
+model in possession of the ball suff ers the 
+knocked down condition.
+To determine the ball’s fi nal landing spot, 
+hold the circular scatter template over 
+the current location of the ball with the 
+#1 pointing towards the active model’s 
+goalpost. Then resolve a scatter roll.
+Roll 1D6 to determine the direction in 
+which the ball scatters. Roll another 1D6 
+to determine the distance the ball scatters. 
+The ball’s fi nal landing spot is determined 
+by measuring the scatter distance in the 
+scatter direction from the current location 
+of the ball. Once you’ve determined the 
+fi nal landing spot, the ball path is centred 
+on the line between the original location of 
+the ball and the fi nal landing spot. If the ball 
+scattered from a model, measure the scatter 
+distance from the edge of the model’s base.
+If there are barriers or obstructions along 
+the ball path, the ball is aff ected as explained 
+in 'Terrain' on page 24. Otherwise, place 
+the ball on the fi nal landing spot. 
+Boiler slams into Shark and knocks 
+him down. Shark loses possession 
+of the ball and it scatters using 
+the circular scatter rules.
+Hold the circular scatter 
+template centred over Shark’s 
+model with the #1 pointing 
+towards the active model’s goal 
+– in this case Boiler’s goal.
+Rolling 1D6 to determine the 
+scatter direction results in a 2. 
+Rolling 1D6 to determine the 
+scatter distance results in 5".
+Measure 5" from Shark’s base, 
+and then place the ball with the 
+closest edge exactly 5" away from 
+Shark in the scatter direction. 
+Ox has tried to pass the ball to a teammate but has 
+missed. The ball scatters using the kick scatter template.
+To determine the ﬁ nal landing spot, Ox positions the kick 
+scatter template on the target friendly model with the 
+centre line pointing in the direction of the original kick.
+Ox determines the ball path to the ﬁ nal landing 
+spot and groans as he notes that Jac is cunningly 
+in the right place to intercept the miskick.
+Ball Path
+Ball Path
+Ba
+
+Making an Attack
+During its activation, a model may make 
+an attack against an enemy model at a 
+cost of 1 infl uence.
+A model may only make an attack against 
+an enemy model that it’s engaging.
+Engaging
+When a model has an enemy model within its 
+melee zone and LOS, it’s engaging that model.
+When a model is within an enemy model’s 
+melee zone and LOS, it’s engaged by that model.
+A model may engage or be engaged by any 
+number of enemy models.
+Attack Sequence
+1. The controlling player declares that 
+the active model will make an attack 
+against a target enemy model and pays 
+any relevant costs (usually 1 infl uence).
+2. Generate a dice pool using the active 
+model’s current TAC; apply any 
+3. An attack is resolved as a TN test of 
+[target model’s current DEF].
+4. Determine the net hits for the attack by 
+deducting the target model’s current 
+ARM from the number of successes on 
+the TN test, to a minimum of 0. Then 
+apply any net hit modifi ers. An attack 
+is successful (and the target model is 
+hit) if it generates at least 1 net hit.
+5. The controlling player applies the net 
+hits to the active model’s playbook to 
+determine the result(s) of the attack.
+For a more detailed attack sequence, see 
+'Comprehensive Timing Sequences' on 
+page 26.
+Common Attack Bonuses and Penalties
+Charging
+When making a charge, the active model 
+gains +4 TAC for the attack made as part 
+of the charge.
+Ganging Up
+When making an attack, the active model 
+gains +1 TAC for each friendly model, 
+other than itself, engaging the target 
+enemy model.
+Crowding Out
+When making an attack, the active model 
+suff ers –1 TAC for each enemy model, 
+other than the target enemy model, 
+engaging the active model.
+Cover
+When attacking a model that is benefi tting 
+from cover, the attacking model suff ers –1 
+TAC for the duration of the attack.
+Shark is engaging Boiler and Veteran Gutter 
+with his 2" melee zone but isn’t engaging 
+Brisket because he doesn’t have LOS to her.
+Shark isn’t engaged by Boiler’s 1" melee zone 
+but is engaged by Veteran Gutter’s 2" melee zone.
+
+Common Results and Effects
+Playbook Damage (DMG) – A playbook 
+damage result reduces the current HP on the 
+target enemy model by the number shown. After 
+applying damage modifiers to each individual 
+playbook damage result, combine all DMG results 
+from an attack into a single instance of damage.
+Push – The target model suff ers 1" of 
+push movement for each arrow shown on the 
+playbook result. Combine all push results from 
+the same attack into a single push movement.
+Dodge – The active model may make 1" of 
+dodge movement for each arrow shown on the 
+playbook result. Combine all dodge results from 
+the same attack into a single dodge movement.
+KD Knocked down – The target model 
+suff ers the knocked down condition. If the 
+target model is already suff ering the knocked 
+down condition, this eff ect is invalid and 
+therefore may not be chosen unless as part 
+of a result with additional valid eff ects.
+Tackle – If the target enemy model 
+currently has possession of the ball, 
+the active model immediately gains 
+possession. If the target model doesn’t 
+currently have possession of the ball, this 
+eff ect is invalid and therefore may not 
+be chosen unless as part of a result with 
+additional valid eff ects.
+Character play – Shown as 
+either ‘
+’ or ‘
+’, these are play icons. 
+Each time the active model selects a play 
+icon playbook result, it may trigger a single 
+character play without spending infl uence. 
+Each character play will indicate if it may 
+be triggered by play icons by showing 
+either ‘
+’ or ‘
+’ in the CST column. A 
+single character play can be triggered by 
+each result with a corresponding play icon 
+without spending infl uence.
+Playbook
+A model that makes a successful attack 
+applies the net hits to its unique playbook 
+to determine the result or results. 
+Honour’s playbook is shown to the left.
+A playbook is always read from left to 
+right. The potential results are arranged 
+in columns.
+Selecting Results
+A single net hit from an attack allows the 
+model to access the fi rst column on the 
+left of its playbook. Each additional net hit 
+allows the model to access an additional 
+column, proceeding from the left. The 
+model selects a single result from any of 
+the results in the available columns; apply 
+all the eff ects of the selected result if able. 
+Some individual playbook results deliver 
+more than one eff ect. You may select a 
+result with some invalid eff ects, provided 
+at least one eff ect is valid. The controlling 
+player must resolve all valid eff ects 
+generated but may do so in any order.
+Momentous results are highlighted with 
+a colour fi ll on the playbook, such as the 
+tackle T
+listed in the fi rst column of 
+Honour's playbook. Momentous results 
+generate 1 MP for the active model’s team 
+in addition to the eff ects of the selected 
+result. If an ability allows a model to ignore 
+or invalidate all eff ects of a momentous 
+playbook result, then no MP is generated.
+Wrapping
+Occasionally an attack is wildly successful 
+and may wrap around the playbook to 
+generate multiple results.
+If an attack generates more net hits than 
+there are columns on the active model’s 
+playbook, the model will select more than 
+a single result. In this instance, the active 
+model counts up to the last column and 
+selects a single result. The active model 
+then continues counting columns from 
+the left, selecting an additional result each 
+time it reaches the last column or runs out 
+of net hits.
+The controlling player must resolve all 
+results generated but may do so in any order.
+All results generated from a single attack 
+are considered to be simultaneous 
+events but are individually subject to any 
+applicable modifi ers.
+4/6"
+3+
+Melee Zone 1
+Quick Time
+4"
+KD
+Parting Blow
+When performing an advance, if an active 
+model leaves the melee zone or LOS of 
+an enemy model that’s engaging it, that 
+enemy model may immediately declare a 
+parting blow against the active model. A 
+model may suff er multiple parting blows if 
+leaving multiple melee zones and/or LOS.
+A parting blow is an attack which doesn’t 
+cost infl uence and is triggered and 
+resolved immediately at the point the 
+active model leaves the melee zone or 
+LOS of the enemy model.
+A parting blow attack gains +2 TAC.
+A model making a parting blow doesn’t receive 
+the ganging up or crowding out modifi ers.
+A parting blow may not generate MP from 
+momentous playbook results. Damage, knocked 
+down, and tackle are the only valid results for a 
+parting blow. A parting blow may not trigger a 
+playbook character play result. Models may not 
+be repositioned or placed during a parting blow. 
+After a parting blow is resolved, the active 
+model may continue its advance if able to do so.
+6 /8
+3+
+Ch r
+er Pl ys
+KD
+
+Plays
+Models have a number of special abilities and skills, collectively called plays, they may 
+use during the game.
+There are three types of play a model may have access to: character plays, heroic plays 
+and legendary plays.
+Character plays are the most common 
+type of plays, and most models have 
+multiple character plays to choose from.
+Character plays are used by spending 
+infl uence or triggering them with play 
+icons generated from an attack.
+All character plays have the following:
+[Name] This is the character play’s name.
+[Description] This describes the character 
+play and its eff ect. If the character play has 
+a pulse, an aura, or an AOE eff ect, that’s 
+also described here.
+Cost [CST] Shown as the amount of 
+infl uence it costs to use the character 
+play and/or the corresponding play icons 
+required to trigger the character play as a 
+playbook result.
+Range [RNG] Shown as one of three 
+values:
+[n"] The maximum range of the character 
+play.
+[S] Denotes that the character play's range 
+is Self and it may only be used on the 
+model which triggered it.
+[P] Denotes that the character play may 
+only be triggered as a playbook result 
+using play icons. This character play may 
+target only the original attack target.
+Sustain [SUS] A tick in this column shows 
+that the character play has eff ects which 
+last until the end of the current turn.
+[OPT] A tick in this column shows that 
+the character play may be used only once 
+per turn.
+Character Plays Using Influence
+During its activation a model may spend 
+infl uence to use a character play.
+A model using a character play may target 
+any valid model within range and LOS.
+A character play is resolved as a TN test 
+of [target model’s current DEF]. Use 
+the character play’s cost in infl uence to 
+generate the dice pool.
+The controlling player may choose to 
+automatically hit friendly models with 
+character plays with no TN test required.
+Character Plays from Attacks
+Additionally, it’s possible for a character 
+play to be triggered as a playbook result.
+When a model selects a play icon playbook 
+result during an attack, it may use that 
+result to trigger a single character play 
+without spending infl uence. Character 
+plays which may be triggered by play icons 
+include those icons in their CST.
+A model triggering a character play may 
+target any valid model within range and LOS.
+A character play triggered from the 
+playbook is automatically successful with 
+no TN test required.
+Sequence of a Character Play
+1. The active model declares a character 
+play against a target model within range 
+and LOS and pays the relevant cost.
+2. If required, determine the success of 
+the character play with a TN test:
+a) Generate a dice pool using the cost 
+of the character play; apply any 
+b) Resolve the character play as a TN 
+test of [target model’s current DEF].
+c) If the TN test is successful, the 
+target is hit. Apply the eff ects of the 
+character play.
+3. If a TN test isn’t required, then 
+the character play is automatically 
+successful and the target is hit.
+Brisket has just attacked Shark. She generated 
+3 net hits on her attack, which gives her 
+access to her 3rd playbook column. She 
+decides to use the play icon on her 3rd 
+playbook column to trigger her Dirty Knives 
+character play on Angel, who is nearby. Brisket 
+checks that Angel is within the 6" range of 
+her character play and conﬁ rms LOS.
+Angel is a valid target and so immediately 
+suﬀ ers the eﬀ ect of the character play as Brisket 
+launches a wicked-looking knife at her.
+3/8"
+4+
+2/4
+Melee Zone 1"
+Super Shot
+This model gains +1/+2" KICK.
+Dirty Knives
+2/
+Target enemy model suffers –1 DEF, 1 DMG, 
+and the poison condition.
+Wrecker
+Flask
+g
+
+Sequence of an 
+AOE Character Play
+1. The active model declares an AOE 
+character play and pays the applicable cost.
+2. Position a 3" AOE template with any 
+part of the template within the range 
+of the character play. This template 
+may overlap models’ bases, terrain, 
+other AOEs, or markers.
+3. If the character play includes eff ects 
+for models hit by the play, perform 
+the following steps for each model 
+currently within the AOE, in an 
+order chosen by the active model’s 
+controlling player:
+a) Generate a dice pool using the CST 
+of the character play; apply any 
+b) A character play is resolved as a 
+TN test of [model’s current DEF]. 
+The active model may choose to 
+automatically 
+succeed 
+against 
+friendly models.
+c) If the TN test is successful, the 
+model is hit. Apply the eff ect of the 
+character play immediately.
+d) If the TN test is unsuccessful, that 
+model has managed to duck out of 
+the way and is unaff ected.
+4. If the AOE character play has an 
+ongoing eff ect, mark the AOE zone 
+with a 3" AOE template.
+Ongoing Effects
+Some AOEs leave a residual ongoing 
+eff ect on the pitch (a patch of rough 
+terrain, for example). Mark the zone of 
+any ongoing eff ect on the pitch with 
+a suitable template. An AOE template 
+may overlap models’ bases, terrain, other 
+AOEs, or markers.
+Common Character Play Bonuses and Penalties
+Crowding Out
+When making a character play, the active model suff ers –1 dice pool for each enemy 
+model, other than the target enemy model, engaging the active model.
+Area of Effect (AOE) Character Plays
+Some character plays aff ect a defi ned 
+area on the pitch rather than a particular 
+target; these are called AOE (area of eff ect) 
+character plays.
+To measure the AOE of an AOE character 
+play, use a circular template that’s 3" in 
+diameter. (In rules these are simply called 
+3" AOE templates.) An AOE template 
+may overlap models’ bases, terrain, other 
+AOEs, or markers.
+All models (friendly and enemy) within 
+the AOE of an AOE character play may 
+be aff ected by it, but they aren’t targeted 
+by it.
+An AOE character play triggered from the 
+playbook is automatically successful with 
+no TN test required.
+Mercury smiles as he uses a Fire Blast; he spends 
+2 inﬂ uence, the cost of the character play.
+Looking around, he sees that Ox, Veteran Gutter, 
+and Brisket are clumped together perfectly and 
+chooses to position any part of the 3" AOE template 
+within the 6" range of the character play.
+If he were triggering this character play from a 
+playbook result (following an attack), all three 
+of the Butchers would be automatically hit 
+and suﬀ er the eﬀ ects of the character play!
+However, Mercury has paid inﬂ uence to 
+use this character play and so must test 
+to see who is aﬀ ected and who isn’t.
+For each model within the template, Mercury gathers 
+a dice pool based on the inﬂ uence cost of the character 
+play, in this instance 2. He may choose to spend 
+MP on Bonus Time to add an additional die to the 
+pool, but he must do so individually for each model.
+Each model this is hit suﬀ ers 2 damage and the 
+burning condition. After resolving the character 
+play against all three Butchers, Mercury leaves 
+the 3" template in place, as Fire Blast has an 
+ongoing eﬀ ect until the end of the turn. 
+Mercury’s Fire Blast leaves an AOE on the 
+pitch until the End Phase of the current turn. 
+Models entering or ending their activations 
+within the AOE suﬀ er the ongoing eﬀ ect of 
+the play, in this case the burning condition.
+Both Ox and Veteran Gutter move out of the 
+ongoing eﬀ ect AOE and so don’t suﬀ er the 
+burning condition. Smoke charges Brisket 
+and suﬀ ers the burning condition when 
+she enters the AOE. She then inﬂ icts the 
+knocked down condition on Brisket, who is 
+therefore unable to leave the AOE during 
+her activation. As a result, Brisket suﬀ ers the 
+burning condition at the end of her activation.
+y
+y
+m
+
+Heroic and Legendary Plays
+Heroic and legendary plays are special skills that only especially talented models have.
+Heroic Plays
+Heroic plays cost 1 MP to use. Heroic plays may be used only once per turn.
+Eff ects caused by a heroic play last until the end of the current turn unless noted 
+otherwise.
+Legendary Plays
+Legendary plays have no infl uence or MP cost. Because they’re such exceptional skills, 
+they may be used only once per game. 
+Eff ects caused by a legendary play last until the end of the current turn unless noted 
+otherwise.
+Momentum
+A Guild Ball team’s actions and play may generate impetus and drive. The growing 
+excitement, the roar of the crowd, the quickening pace — this is all called momentum, a 
+resource which allows players to capitalise on the building pressure in the game by giving 
+access to special actions not usually available.
+Momentum may never be reduced to less than 0.
+Gaining Momentum
+Guild Ball rewards positive proactive play by generating momentum. Examples include 
+a team playing to its strengths, scoring a goal, passing the ball, or even taking out enemy 
+players.
+A team won’t generate momentum while a friendly model in possession of the ball 
+is within the area behind their own goal line. Additionally, a team won’t generate 
+momentum while a free ball is within the area behind their own goal line as a result of 
+a kick, a goal kick, or placement by that team’s controlling player.
+Score a Goal
+When a model scores a goal, the friendly 
+team gains 1 MP. 
+When resolving a Shot, if two or more 6s 
+are rolled in the TN test, then the goal 
+scored is a Screamer! The friendly team 
+gains 2 MP instead.
+Pass the Ball
+When a model makes a successful pass 
+which targets a friendly model, the 
+friendly team gains 1 MP.
+Take Down
+When a model infl icts the taken out 
+condition on an enemy model as part of 
+an action, the friendly team gains 1 MP.
+Playbook
+When a model selects a momentous result 
+during an attack, the friendly team gains 
+1 MP.
+Bonesaw
+1 MP.
+
+Rest
+During its activation, a model may spend 
+1 MP to recover 4 HP or remove all 
+conditions it’s suff ering. A model may use 
+Rest only once per turn.
+Encourage
+During its activation, a model may spend 
+2 MP to target another friendly model 
+within 8". The target friendly model 
+recovers 4 HP or removes all conditions 
+it’s suff ering. A model may benefi t from 
+Encourage only once per turn.
+Bonus Time
+When resolving a TN test, a model may 
+spend 1 MP to add one die to the dice pool 
+before rolling. This may be done only once 
+per TN test and only after all other modifi ers 
+to the dice pool have been applied.
+Bonus Time isn’t an action.
+Gliding
+Once per turn an active model may 
+spend 1 MP to move across rough terrain 
+without penalty for the remainder of the 
+current turn.
+Gliding isn’t an action.
+Using Momentum
+Using momentum gives a team far more tactical options.
+A model may use any number of momentous abilities as long as it has the MP to do so. 
+All momentous abilities are actions unless otherwise stated.
+Scoring a Goal
+A model that wants to make a Shot on 
+goal must spend 1 MP in addition to any 
+infl uence cost (usually 1 infl uence).
+Pass & Move
+After a successful pass to another model, 
+either the passing model or the receiving 
+model may spend 1 MP to make a 4" dodge.
+Snap Shot
+After a successful pass, the receiving 
+model may spend 2 MP to make an out-
+of-activation Shot without spending 
+infl uence. A model may not make a Snap 
+Shot if the kicker or receiver of the pass 
+uses Pass & Move.
+A Snap Shot requires 2 net hits to score a 
+goal rather than the usual 1 net hit and is 
+subject to all of the normal kick bonuses 
+and penalties.
+It’s possible to score a Screamer! with a 
+Snap Shot.
+Run the Length!
+After scoring a goal, at the end of the 
+current activation, the scoring model may 
+spend 1 MP to make a 4" dodge.
+Counter-Attack
+After an attack or charge is declared, the 
+target model may respond by spending 1 
+MP to declare a Counter-Attack. After the 
+active model resolves its attack, the target 
+model may then make an attack against 
+the origin model, if able. A model may 
+declare a Counter-Attack only once per 
+turn against each enemy model.
+A Counter-Attack doesn’t generate MP 
+from momentous playbook results.
+A model may not declare a Counter-Attack 
+against a Counter-Attack or parting blow.
+Defensive Stance
+After a charge is declared the target model 
+may choose to spend 1 MP to respond. 
+The target model gains +1 DEF for the 
+duration of the charge.
+Defensive Stance isn’t an action.
+Cast
+
+ Terrain
+Terrain plays a big role during the course of a game of Guild Ball, aﬀ ecting things that range 
+from how the ball reacts to how models traverse the pitch.
+Amount and Placement
+There are no set rules for how much 
+terrain to use, as Guild Ball may be played 
+anywhere, from a purpose-built pitch or 
+a town square to an old battleground or 
+crumbling ruins — even in a pig fi eld! Just 
+be sure to agree with your opponent to 
+defi ne the terrain before starting the game.
+If you would like to see guidelines on the 
+amount of terrain to use during a game, 
+go to www.steamforged.com and take a 
+look at the Regional Cup Organised Play 
+Document. This document also suggests 
+appropriate game sizes for each type of 
+terrain feature.
+Definitions of Terrain
+It’s possible to use many and varied types of terrain in a game of Guild Ball. For each 
+piece of terrain, agree with your opponent what type it is.
+Terrain pieces are usually quite obvious, but some could be defi ned in multiple ways. It’s vital 
+that both players discuss and agree what each piece of terrain is before any game begins.
+Some model abilities cause an area of the pitch to be treated like a certain type of terrain. 
+This eff ect is in addition to any eff ects from already existing terrain.
+Open Ground
+Describes mostly even, clear ground free 
+of any hazards such as grassy fi elds, streets, 
+roads, tracks, desert, tundra, and so on.
+Open ground is the default for the pitch, 
+so you don’t need to declare this!
+There are no special rules for open ground.
+Rough Terrain
+Rough terrain would be something like 
+thick mud or bogs, puddles, streams, 
+ploughed fi elds, or areas with trip hazards 
+such as broken masonry.
+A model that moves within rough terrain 
+at any point during an advance suff ers 
+–2"/–2" MOV. This penalty is incurred 
+only once per advance for the duration of 
+that advance.
+Fast Terrain
+Fast terrain refers to slippery areas of the 
+pitch such as ice patches, slick mud, wet 
+cobblestones, or wet wooden decking.
+A model that moves within fast terrain at 
+any point during an advance gains +2"/+2" 
+MOV. This bonus may be gained only 
+once per advance for the duration of that 
+advance.
+Truﬄ es
+Buckwheat
+ﬄ
+
+Types of Terrain
+Cover
+When attacking a model that is benefi tting 
+from cover, the attacking model suff ers –1 
+TAC for the duration of the attack.
+Obstruction
+An obstruction is a small- or medium-
+height terrain feature such as a crate, 
+statue, platform, wagon, boulder, or bale 
+of hay.
+A model in an obstruction or within 1" of the 
+edge of an obstruction benefi ts from cover.
+A model may move over an obstruction. 
+Models may not end their movement 
+on top of an obstruction or be placed on 
+one. Models may not advance over an 
+obstruction during a sprint or charge.
+While a player is in control of another 
+player’s model, that model may not move 
+over obstructions.
+When a ball makes contact with an 
+obstruction during a scatter, use the rule 
+of least disturbance to place the ball in 
+base contact with the obstruction along 
+the ball path.
+A marker may not be placed on an 
+obstruction.
+Barrier
+A barrier is an impassable terrain feature, 
+usually due to height. This category of 
+terrain includes things such as cliff s, 
+buildings, and boulders.
+A model within 1" of the edge of a barrier 
+benefi ts from cover.
+A barrier blocks LOS. A model or marker may 
+not move into or be placed onto a barrier.
+The ball may not be placed on a barrier. If 
+the fi nal landing spot is within a barrier or 
+the ball contacts a barrier during a scatter, 
+use the rule of least disturbance to place 
+the ball in base contact with the barrier 
+along the ball path.
+Forest
+A forest is often represented by a number 
+of trees on a base.
+A forest is rough terrain. A model within a 
+forest benefi ts from cover.
+A model making a kick while within a 
+forest, or one making a kick to a target 
+spot or target model that’s within a 
+forest, suff ers –1 dice pool. This penalty is 
+incurred only once per kick.
+A model may draw LOS into or out of a 
+forest but not through a forest.
+
+Sequence of a 
+Jog or Sprint
+A player states intention to jog 
+or sprint and calculates bonuses, 
+penalties, and restrictions
+2 . During Advance
+Eﬀ ects, abilities, bonuses, and 
+penalties that trigger while advancing.
+3 . End Advance
+when an advance ends.
+ Comprehensive Timing Sequences
+The timing sequences are a series of steps 
+that allow a player to pinpoint exactly 
+when an ability or eff ect triggers during 
+the game. These steps are designed to 
+assist in the accurate resolution of timing 
+questions that may arise when multiple 
+abilities or eff ects trigger. Whilst some 
+simplifi ed timing sequences appear earlier 
+in this rulebook, the sequences listed here 
+are more detailed versions.
+When an ability or eff ect references a 
+timing step resolving from that point 
+onwards, don’t resolve any precursor steps.
+For example, Compound’s character trait, 
+Noxious Death, states:
+‘When this model suﬀ ers the taken out 
+condition during the Activation Phase, 
+enemy models within this pulse suﬀ er 3 
+DMG and the poison condition.'
+Noxious Death identifi es the step ‘suff er 
+the taken out condition’, indicating that 
+Noxious Death triggers at step 2 in the 
+‘Sequence of Taking a Model Out’.
+an Activation
+2 . During Activation
+A model may make actions.
+3 . End of 
+Activation
+when an activation ends.
+1 .1 Resolution
+Resolve any effects that triggered 
+at the start of the model’s 
+activation, in any order the 
+controlling player chooses.
+1 . Start of 
+Activation
+Check for any eﬀ ects that trigger at 
+the start of the model’s activation.
+a Charge
+4 . Make Attack
+Refer to step 2, ‘Attack process’, 
+of ‘Sequence of an Attack’.
+A player states intention to 
+charge and calculates bonuses, 
+penalties, and restrictions.
+1 .1 Response
+Opponent’s opportunity 
+to declare reactions.
+2 . During Advance
+Eﬀ ects, abilities, bonuses, and 
+penalties that trigger while advancing.
+2 .1 Response
+Is the charging model 
+engaging the target model?
+3 . End Advance
+when an advance ends.
+Taking a Model Out
+4 . Generate 
+Momentum and VP
+Gain any MP for inﬂ icting the 
+taken out condition. Gain any VP 
+for inﬂ icting the taken out condition.
+3 . Remove Model 
+from the Pitch
+2 . Suffer the 
+Taken Out Condition
+Eﬀ ects and abilities that trigger when a 
+model suﬀ ers the taken out condition.
+1 . A model Has Been 
+Reduced to 0 HP
+when a model is reduced to 0 HP.
+Tater
+Mist
+
+an Attack
+A player states their intention 
+to attack with a model.
+3 . Check for Taken Out
+Has a model been reduced to 0 HP?
+4 . After the Attack 
+is Resolved
+when an attack ends.
+1 .1 Response
+Opponent’s opportunity 
+to declare reactions.
+2 .1 Generate Dice Pool
+The dice pool may not 
+be reduced to 0.
+2 .2 Bonus Time
+Player may use Bonus Time.
+2 .3 Roll dice
+2 .4 Calculate 
+damage modifiers
+2 .5 Select and apply 
+playbook results
+2 .3 .1 Net Hits
+2 .5 .1 Apply any 
+additional effects 
+of the attack
+2 . Attack Process
+Sequence of a 
+Character Play
+A player states their intention to use 
+a character play with a model.
+3 . Check for Taken Out
+Has a model been reduced to 0 HP?
+4 . After the 
+Character Play 
+is Resolved
+Resolve eﬀ ects and abilities that 
+trigger when a character play ends.
+2 .1 Generate Dice Pool
+The dice pool may not 
+be reduced to 0.
+2 .2 Bonus Time
+Player may use Bonus Time.
+2 .3 Roll dice
+2 .4 Calculate 
+damage modifiers
+2 .5 Apply results of the 
+character play
+2 .3 .1 Determine 
+hit or miss
+2 . Attack Process
+
+Index
+Action . . . . . . . . . . . . . . . . . . . . 9, 13
+Activation . . . . . . . . . . . . . . . . . 9, 11
+Activation Phase . . . . . . . . . . . . . 11
+Active Character Traits . . . . . . . . 4
+Active Model . . . . . . . . . . . . . . . . . 9
+Additional Advance . . . . . . . . . . 13
+Advancing . . . . . . . . . . . . . . . . . . 13
+Allocating Influence . . . . . . . . . . 12
+ARM . . . . . . . . . . . . . . . . . . . . . . . 18
+Armour Value [ARM] . . . . . . . . . . 4
+Attack . . . . . . . . . . . . . . . . . . . . . . 18
+Attack Sequence . . . . . . . . . . . . . 18
+Aura . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Away . . . . . . . . . . . . . . . . . . . . . . . . 9
+Ball . . . . . . . . . . . . . . . . . . . . . . . 9, 15
+Ball Path . . . . . . . . . . . . . . . . . . 9, 15
+Ball Skills and 
+Kicking Ability [KICK] . . . . . . . . . 4
+Base Contact . . . . . . . . . . . . . . . . . 9
+Base Size . . . . . . . . . . . . . . . . . . . . . 5
+Bleed . . . . . . . . . . . . . . . . . . . . . . . 12
+Bodycount . . . . . . . . . . . . . . . . . . . 6
+Burning . . . . . . . . . . . . . . . . . . . . . 12
+C
+Captain . . . . . . . . . . . . . . . . . . . . . . 6
+Character Play . . . . . . . . . . . . . . . 19
+Character Plays . . . . . . . . . . . . 5, 20
+Character Plays from Attacks . . 20
+Character Plays Using Influence . 20
+Character Traits . . . . . . . . . . . . . . 4
+Charge . . . . . . . . . . . . . . . . . . . . 4, 13
+Charging . . . . . . . . . . . . . . . . . 13, 18
+Circular Scatter . . . . . . . . . . . . . . 17
+Common Attack 
+Bonuses and Penalties . . . . . . . . 18
+Completely Within . . . . . . . . . . . . 9
+Comprehensive 
+Timing Sequences . . . . . . . . . . . 26
+Condition Damage . . . . . . . . . . . 12
+Conditions & 
+Condition Damage . . . . . . . . . . . 12
+Controlling Player . . . . . . . . . . . . . 9
+Conventions of Play . . . . . . . . . . 10
+Cost [CST] . . . . . . . . . . . . . . . . . . 20
+Cover . . . . . . . . . . . . . . . . . . . . . . . 18
+Crowding Out . . . . . . . . . . . . . . . 18
+D
+Damaged . . . . . . . . . . . . . . . . . . . . 5
+Defensive Ability [DEF] . . . . . . . . 4
+Definitions . . . . . . . . . . . . . . . . . . . 9
+Deployment Zone . . . . . . . . . . . . . 7
+Dice Pool . . . . . . . . . . . . . . . . . . . . 9
+Directly Away . . . . . . . . . . . . . . . . 9
+Directly Towards . . . . . . . . . . . . . . 9
+Distance Measuring . . . . . . . . . . 10
+Dodge . . . . . . . . . . . . . . . . . . . 13, 19
+E
+End Phase . . . . . . . . . . . . . . . . . . . 11
+Enemy Model or Marker . . . . . . . 9
+Engaged . . . . . . . . . . . . . . . . . . . . 18
+Engaging . . . . . . . . . . . . . . . . . . . . 18
+Enters . . . . . . . . . . . . . . . . . . . . . . . 9
+F
+Final Landing Spot . . . . . . . . . . . 17
+Free Ball . . . . . . . . . . . . . . . . . . . . 15
+Friendly Model or Marker . . . . . . 9
+Game Length . . . . . . . . . . . . . . . . . 6
+Game Plans . . . . . . . . . . 5, 7, 11, 12
+Game Terminology . . . . . . . . . . . . 9
+Ganging Up . . . . . . . . . . . . . . . . . 18
+Generating Influence . . . . . . . . . 12
+Goal . . . . . . . . . . . . . . . . . . . . . . . . 15
+Goal Kicks . . . . . . . . . . . . . . . . . . 16
+Goal Line . . . . . . . . . . . . . . . . . . 7, 9
+Goalpost . . . . . . . . . . . . . . . . . . . 7, 9
+Goals! . . . . . . . . . . . . . . . . . . . . . . . 6
+Guild Model . . . . . . . . . . . . . . . . . . 9
+H
+Halfway Line . . . . . . . . . . . . . . . . . 9
+Health Points [HP] . . . . . . . . . . . . 5
+Heroic Plays . . . . . . . . . . . . . . . . . . 5
+Hit . . . . . . . . . . . . . . . . . . . . . . . . . 14
+How to Win . . . . . . . . . . . . . . . . . . 6
+I
+Influence . . . . . . . . . . . . . . . . . . . 12
+Influence [INF] . . . . . . . . . . . . . . . 4
+Influence Value . . . . . . . . . . . . . . . 5
+Initiative . . . . . . . . . . . . . . . . . . . . 11
+Initiative Phase . . . . . . . . . . . . . . 11
+Initiative Value . . . . . . . . . . . . . . . 5
+Interception . . . . . . . . . . . . . . . . . 17
+Intervening Model . . . . . . . . . . . 16
+Jog . . . . . . . . . . . . . . . . . . . . . . . 4, 13
+K
+Kicking . . . . . . . . . . . . . . . . . . . . . 15
+Kicking Player . . . . . . . . . . . . . . . . 7
+Kicking Sequence . . . . . . . . . . . . 16
+Kick Off . . . . . . . . . . . . . . . . . . . . . 7
+Kick Scatter . . . . . . . . . . . . . . . . . 17
+Knocked Down . . . . . . . . . . . 12, 19
+L
+Least Disturbance . . . . . . . . . . . . 10
+Line of Sight . . . . . . . . . . . . . . . . 10
+LOS . . . . . . . . . . . . . . . . . . . . . . . . 10
+Maintenance Phase . . . . . . . . . . 11
+Making an Attack . . . . . . . . . . . . 18
+Markers . . . . . . . . . . . . . . . . . . . . . 10
+Mascot . . . . . . . . . . . . . . . . . . . . . . 6
+Melee Zone . . . . . . . . . . . . . . . 5, 18
+Models . . . . . . . . . . . . . . . . . . . . . . 4
+Model Type . . . . . . . . . . . . . . . . . . 5
+Movement . . . . . . . . . . . . . . . . . . 13
+Movement [MOV] . . . . . . . . . . . . 4
+N
+Normal Turn Sequence . . . . . . . 11
+Origin . . . . . . . . . . . . . . . . . . . . . . . 9
+P
+Parting Blow . . . . . . . . . . . . . . . . 19
+Passing the Ball . . . . . . . . . . . . . . 15
+Passive Character Traits . . . . . . . 4
+Picking a Team . . . . . . . . . . . . . . . 6
+Pitch . . . . . . . . . . . . . . . . . . . . . . . . 7
+Placed . . . . . . . . . . . . . . . . . . . . . . . 9
+Playbook . . . . . . . . . . . . . . . . . . . . 19
+Playbook Damage (DMG) . . . . . 19
+Player . . . . . . . . . . . . . . . . . . . . . . . . 9
+Playing the Game . . . . . . . . . . . . . 9
+Plays . . . . . . . . . . . . . . . . . . . . . 5, 20
+Poison . . . . . . . . . . . . . . . . . . . . . . 12
+Possession of the Ball . . . . . . . . . 15
+Pre-Game . . . . . . . . . . . . . . . . . . . . 6
+Pre-Game Sequence . . . . . . . . . . . 8
+Preparing for a Game . . . . . . . . . . 6
+Profile Card . . . . . . . . . . . . . . . . . . 4
+Pulse . . . . . . . . . . . . . . . . . . . . . . . . 9
+Push . . . . . . . . . . . . . . . . . . . . . 13, 19
+
+R
+Receiving Player. . . . . . . . . . . . . . . 7
+Recovery Levels . . . . . . . . . . . . . .11
+Repositioning . . . . . . . . . . . . . . . .13
+Reroll . . . . . . . . . . . . . . . . . . . . . . .10
+Rules Confl icts . . . . . . . . . . . . . . .10
+Scattering the Ball . . . . . . . . . . . .17
+Selecting Results . . . . . . . . . . . . .19
+Sequence of a Character 
+Play. . . . . . . . . . . . . . . . . . . . . 20, 27
+Sequence of a Charge . . . . . . . . .26
+Sequence of a Jog or Sprint . . . .26
+Sequence of an Activation . . . . .26
+Sequence of an Attack . . . . . . . .27
+Taking a Model Out . . . . . . . . . .26
+Setting Up . . . . . . . . . . . . . . . . . . . . 7
+Shooting at Goal . . . . . . . . . . . . .15
+Snap To . . . . . . . . . . . . . . . . . . . . .15
+Snared . . . . . . . . . . . . . . . . . . . . . .12
+Sprint . . . . . . . . . . . . . . . . . . . . .4, 13
+Standard Advance . . . . . . . . . . . .13
+Starting Roll . . . . . . . . . . . . . . . . . . 7
+Stats . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Tackle. . . . . . . . . . . . . . . . . . . . . . .19
+Tactical Ability [TAC] . . . . . . . . . . 4
+Taken Out. . . . . . . . . . . . . . . . . . .12
+Tap In. . . . . . . . . . . . . . . . . . . . . . .15
+Target Model or Marker . . . . . . . . 9
+Target Number Tests . . . . . . . . .14
+Target Spot . . . . . . . . . . . . . . . . . . . 9
+Team Size . . . . . . . . . . . . . . . . . . . . 6
+Throw-Ins . . . . . . . . . . . . . . . . . . .17
+TN Modifi ers . . . . . . . . . . . . . . . .14
+TN Test . . . . . . . . . . . . . . . . . . . . .14
+Tokens . . . . . . . . . . . . . . . . . . . . . .10
+Tokens and Markers . . . . . . . . . .10
+Towards. . . . . . . . . . . . . . . . . . . . . . 9
+U
+Using Infl uence . . . . . . . . . . . . . .12
+Victory Points (VP) . . . . . . . . . . . . 6
+W
+Within . . . . . . . . . . . . . . . . . . . . . . . 9
+Wrapping. . . . . . . . . . . . . . . . . . . .19
+Harry ‘the Hat’
+Ulfr
