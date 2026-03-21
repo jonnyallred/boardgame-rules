@@ -157,12 +157,12 @@ Verify the download: check the file exists and is >10KB. If download fails, reco
 #### 3. Extract Text
 
 ```bash
-source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf
+source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --no-registry
 ```
 
 If extraction produces very little text (<500 chars), try with pdfplumber:
 ```bash
-source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --method pdfplumber
+source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --no-registry --method pdfplumber
 ```
 
 Read the extracted file at `extracted/<slug>-rules.txt`. If it's still inadequate (<500 chars), record as `flagged` with note "extraction produced insufficient text".
