@@ -1,0 +1,971 @@
+RULE BOOKLET
+AN INTRODUCTION
+Each player is an Italian prince and begins the game with two
+cities. The first building in each city is the castle. Each castle is
+home to 3,000 people at the beginning of the game. These
+people are represented by 3 small figures called citizens. 
+During the game, each player’s goal is to increase the
+population of his starting cities and to establish and expand
+new cities. The basis for expansion is population: each new city
+building must be occupied by a citizen figure representing
+1,000 people.
+A player’s first task is to obtain food for his people. As the
+population of a player’s cities grows, so must the food supply.
+Food is produced by castles and farm houses when they are
+built adjacent to farm land. But the growth of a city has other
+limits. A city’s population may not exceed 5,000 (5 citizen
+figures) until it has a market place. A city’s population may not
+exceed 8,000 (8 citizen figures) until it has a fountain or a
+public bath, which must be built next to a lake. With both a
+market place and a water supply, a city’s population may grow
+without limit. With their basic needs met, people feel secure
+and look beyond their basic needs for the services the city can
+provide.
+As the cities grow and seek to provide the services their people
+want, the players build new buildings like statues (for culture),
+schools (for education), and public baths (for health). Once
+each year, the people express their feelings for which of the three
+services is most important to them. If they choose culture, the
+buildings with the white arches are the most important, if they
+choose education, the buildings with the black arches are the
+most important, and if they choose health, the buildings with
+the blue arches are the most important.
+For example, if the people choose culture, the people in each city
+compare the culture of their city (the number of white arches
+on the buildings in the city) with that of all neighboring cities.
+When they find a neighboring city with greater culture, 1,000
+people (1 citizen figure) move to that city. It is possible for a
+city to lose several citizen figures if several neighboring cities
+offer better services. If, due to such defections, a city does not
+have enough citizen figures to support the buildings (one figure
+per building), the excess buildings must be demolished. When,
+for example, a farm house is demolished, the city loses the food
+production that the farm house provided. This loss of food can
+result in further defections if the people do not have enough to
+eat. Thus, in a single year, a city that has not kept pace with
+its neighbors can suffer a catastrophe that can end its expansion
+for the rest of the game.
+This competition among the cities keeps players on their toes
+throughout the game. Early in the game, when cities are
+somewhat isolated, players have time to plan and build their
+cities with an eye toward the future. But, when cities grow to
+less than three hexagonal spaces apart, the competition begins
+and players must build to satisfy the people’s immediate needs
+or their citizens will vote with their feet for the city that offers
+the services they desire. Thus, a wise player will be ever
+watchful of the growth of neighboring cities. When cities
+become neighbors, it is an opportunity for both cities to attract
+citizens from the other.
+In the end, the player who can best manage the growth of his
+cities, giving his people the food they always need and the health,
+education, and culture they sometimes desire, will be the winner.
+Contents
+1 board
+141 building tokens
+22 terrain tiles
+130 citizen figures (dark gray)
+20 citizen figures (4 per player color) 
+32 gold coins
+65 food tokens (30 large and 35 small)
+74 cards
+27 voice of the people cards
+15 actions cards
+32 politics cards
+5 summary cards
+1 starting player token
+The author:
+Gerd Fenchel, born in 1968, is a technical engineer and
+lives in the Black Forest. He worked on the game for more
+than 5 years. La Città is Gerd Fenchel’s second published
+game.
+Development: TM-Spiele
+Graphics: Claus Stephan (Grafikstudio Krüger)
+DTP: Pohl & Rick
+Photo: Dirk Hoffmann (Fotostudio Bauer)
+English translation/editing: Jay Tummelson
+The author and publisher thank all those who helped with
+the testing and reading of the rules. The author gives
+special thanks to Gernot Köpke, Enrico Marchio, Markus
+Caspari, Anna, and Christofero.
+Note: The Latin expression on the starting player token
+and the sides of the box means, “The master was richly
+honored and rewarded”.
+Art.-Nr.: 68 25 14
+© 2000 KOSMOS Verlag
+Rio Grande Games
+PO Box 45715
+Rio Rancho, NM 87174
+RioGames@aol.com
+www.riograndegames.com
+MADE IN GERMANY
+ALL RIGHTS RESERVED
+TABLE OF CONTENTS
+Preparation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+– Initial board setup for beginners for 5 players . . . . . 3
+– Setup for experienced players . . . . . . . . . . . . . . . . . 3
+Playing the game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+The goal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1 change the starting player . . . . . . . . . . . . . . . . . . . . 4
+2 layout the voice of the people cards . . . . . . . . . . . . 4
+3 quarry earnings (in gold coins) . . . . . . . . . . . . . . . . 4
+4 population growth . . . . . . . . . . . . . . . . . . . . . . . . . 4
+5 five political rounds . . . . . . . . . . . . . . . . . . . . . . . . 4
+overview
+A Action cards . . . . . . . . . . . . . . . . . . . . . . . . . 4
+How to build a building. . . . . . . . . . . . . . . . 5
+Important building rules. . . . . . . . . . . . . . . . 5
+Tips for building. . . . . . . . . . . . . . . . . . . . . . 5
+B Politics cards. . . . . . . . . . . . . . . . . . . . . . . . . 5
+Politics cards for building buildings . . . . . . . 5
+Politics cards with other actions . . . . . . . . . . 5
+6 tally the voice of the people . . . . . . . . . . . . . . . . . . 6
+7 citizen relocation. . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+8 feeding the citizens . . . . . . . . . . . . . . . . . . . . . . . . . 7
+End of a game year . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+End of the game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+example development of a city. . . . . . . . . . . . . . . . . . . . . 7
+Strategy tips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Initial setups for beginners
+The game for 2 players . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+The game for 3 players . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+The game for 4 players . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Contents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+The game for 2 players
+With two players, the players may
+only build on the light green
+hexagons. The brownish and yellow-
+green hexagons are not in the game.
+INITIAL SETUPS FOR BEGINNERS
+The game for 3 players
+With three players, the players may
+only build on the light green and
+brownish hexagons. The yellow-
+green hexagons are not in the game.
+For example, a quarry built on space 1
+provides 1 gold coin, on space 2 a
+quarry provides nothing, and quarries
+on the 3 spaces provide 2 gold coins
+each.
+The game for 4 players 
+With four players, the players use the
+entire board, just as in the game with
+five players.
+For example, a farm house built on
+space 1 provides 4 food tokens, and a
+farm house built on space 2 provides
+only 2 food tokens.
+3 3
+a renaissance game of city building
+Gerd Fenchel
+®
+RIO
+GRANDE
+GAMES
+RULE BOOKLET
+
+PREPARATION
+Before the first game, carefully remove all tiles and tokens
+from their frames.
+Place the board in the middle of the table.
+Note: the board has several large triangular land areas,
+separated by the hexagonal paths on which the players will start
+and expand their cities. The large land areas have different
+terrain characteristics, randomly determined at the start of each
+game, except for the areas at the edges of the board. Each
+terrain type offers neighboring buildings different resources.
+The area in front of each player is his play area.
+Sort the hexagonal building tokens.
+Some building tokens are the same on both sides and some
+have different buildings on each side. Stack the tokens by
+type next to the board in easy reach of all players. Where
+tokens have differing sides, create two stacks, one for each
+side. The arches on the tokens indicate that the building
+provides services in health, education, or culture.
+• farm house/quarry (40)
+Create twin stacks, one with the farm house face up and
+the other with the quarry face up.
+FARM HOUSE QUARRY
+• market place (16)
+Create a single stack.
+• palace/hospital (20)
+Create twin stacks, one with the palace face up and one
+with the hospital face up.
+PALACE HOSPITAL
+• statue/cathedral (15)
+Create twin stacks, one with the statue face up and one
+with the cathedral face up.
+STATUE CATHEDRAL
+• school/university (15)
+Create twin stacks, one with the school face up and the
+other with the university face up.
+SCHOOL UNIVERSITY
+• fountain/public bath (15)
+Create twin stacks, one with the fountain face up and the
+other with the public bath face up.
+FOUNTAIN PUBLIC BATH
+Place all the terrain tiles in a single face-up stack.
+There are three different types of terrain tiles with the
+following characteristics:
+• farm land (14)
+Farm lands provide food, which citizens need to live. 
+Each farm land terrain tile has 1, 2, or 3 food symbols 
+(wheat).
+Note: a farm land terrain tile with 1 food symbol can provide
+one unit of food, a farm land terrain tile with 2 food symbols
+can provide 2 units of food, and a farmland terrain tile with 3
+food symbols can provide 3 units of food. A player can only
+harvest the food and feed his people if he has built a castle or
+farm house next to the farm land.
+• mountain range (3)
+The mountain ranges provide 
+marble to be used in building. 
+When a player builds a quarry
+next to a mountain range, he 
+can earn gold.
+• lake (5)
+Water is necessary to the health of 
+a city’s population. When a player 
+builds a fountain or public bath 
+next to a lake, the population 
+limit of 8 citizen figures for the
+city is eliminated.
+Each player chooses a color, takes 4 castles in that
+color, and places them in his play area
+Here are the castles in the five colors.
+Note: the castle is always the building that a player uses to start
+a city. When a player starts a new city, he places 3 citizen figures
+on the castle.
+Place the small gray citizen figures next to the board
+as the general citizen supply. 
+All players use the same gray citizen figures in their cities.
+The color of the castle determines which player owns the
+city. When a citizen changes cities, it changes alliances.
+Each player takes the 4 small citizen figures in his 
+color. The use of these figures is explained later.
+Sort the cards into three stacks: 
+BACK FRONT
+• 15 actions cards
+FRONT
+BACK
+• 32 politics cards
+FRONT
+BACK
+• 27 voice of the
+people cards
+Each player takes the 3 action cards in his color
+(frame on-the back) and places them face up on the
+table in his play area. 
+The 3 player action cards are the same for each player,
+except for the color of the frame on their backs. Place the
+unused player action cards back in the box. 
+Prepare the 32 politics cards.
+Shuffle the politics cards thoroughly and place 7 face up in
+the spaces provided at the edge of the board. Place the
+remaining politics cards face down in a stack next to the 7
+face up cards in the space provided (see figure below). Used
+cards are discarded in the space next to the face down stack.
+feeding the citizens
+player counts his food units and the citizen figures in all
+his cities.
+If the player has at least as many food units as citizen
+figures, all are fed and his turn in this phase ends.
+Note: a player shares all his food among all his cities. 
+Thus, the city where food is produced is not important in
+terms of where the citizens who use it live.
+If a player has more citizen figures than food units, he
+must remove the excess citizen figures from his cities
+and return them to the common supply. They have
+wondered off searching for food and do not relocate to
+other cities.
+Note: after the players have removed their excess citizen
+figures, they may have to demolish unsupported buildings.
+This is done as explained above in “Demolishing
+unsupported buildings”. The colored citizen figures are not
+counted as citizen figures. Please note that colored citizen
+figures may indicate the presence of a rich harvest and
+make the appropriate food unit adjustments.
+Penalty for having unfed citizens
+Normally, a player plays 1 action or politics card in each of
+the 5 political rounds.
+If a player has lost citizen figures because he could not
+feed them, he will only play 4 action or political cards
+in the next game year.
+On his first turn in the political rounds in the next game
+year, the player turns one of his action cards face down,
+but takes no action. This is his penalty for not feeding
+all his people in the previous year. Thus, he will have,
+at most, only 2 action cards to play in this game year.
+End of a game year
+The game year has now ended. Place the 4 face up “voice of
+the people” cards face up on the voice of the people discard
+pile. Players may want to place the groups of 4 at right
+angles to each other to help them count game years. 
+The players place the politics cards they played face up on
+the politics discard pile.
+Players take their 3 action cards and place them face up in
+their play areas. They are available to be used in the next
+game year.. 
+Players who used their colored citizen figures during the
+game year, return them to their play areas. They are
+available to be used in the next game year.
+The next game year begins.
+Special rule for the 6th game year
+In the last (6th) game year, players may not use the “rich
+harvest” politics card to help feed their citizens.
+END OF THE GAME
+The game ends after 6 game years.
+Note: at the end of the game, there are 3 face down, unused
+“voice of the people” cards. Players can use the voice of the
+people cards to help them count game years by placing groups
+from successive years at right angles to each other. Of course,
+when there are only three left, the game is in its sixth and last
+year.
+Scoring: 
+Each citizen figure is worth 1 victory point.
+Each city that has at least one arch of each of the 3
+services (culture, education, and health), is worth 3
+victory points.
+Note: As a hospital has arches for both education and
+health, it can be especially important to a city.
+Each player who lost one or more citizen figures in the
+last round because he could not feed them, loses 5
+victory points.
+The winner is the player with the most victory points. If two
+or more players tie with the most victory points, the player
+among them who has the most gold, is the winner..
+example: development of a city
+Starting a city
+What a beautiful place for a castle!
+It sits between two farm lands,
+which will enable it to produce 4
+food units each year! That is
+enough to feed 4 citizens!
+In addition, there is a lake (for
+water) and a mountain range (for a
+quarry and the gold it earns)
+nearby.
+First game year
+In phase 4, a new citizen figure is
+added to the castle, giving the city 4
+citizen figures. Of the 4, one must
+stay in the castle, but the other 3
+may move out to occupy new
+buildings as they are built.
+First political round
+You play an action card to build a
+farm house next to the castle and
+two farm lands. You move a citizen
+figure from your castle to the farm
+house. This gives you an additional
+4 food units per year. Now you can
+feed 8 citizens!
+Second political round
+You play a second action card to
+build a quarry next to the farm
+house and a mountain range. You
+move a citizen figure from your
+castle to the quarry. In subsequent
+years, the quarry will earn you 1
+gold coin each year. 
+Third political round
+You play your third action card
+(your last) to build a market place
+next to your castle. You place a
+citizen figure from the common
+supply (not your castle) on the
+market place. Now your city can
+accommodate up to 8 citizen
+figures instead of only 5.
+Fourth political round
+You take the face up politics card
+“public bath”, play it, and pay 1
+gold to build a public bath next to
+your castle, market place, and a
+lake.
+Now 
+your 
+city 
+can
+accommodate an unlimited number
+of citizen figures, as it has a market
+place and a public bath.
+Fifth political round
+In your fifth political round, you can build no more buildings as you have
+no available citizen figures. Also, you have played all three action cards and
+have no gold to play a building politics card. As all 7 face up politics cards
+require you to spend gold, you take the topmost face down politics card
+and place it face down as your action (as you have no action you can legally
+take).
+What happens next?
+The rest of this year is uneventful as you have plenty of food and no
+neighbors. In phase 3 of the next game year, you earn 1 gold coin for your
+quarry and in phase 4, you add one citizen figure to your castle.
+Strategy tips
+Placing a castle next to two rich farm land tiles gives you
+plenty of food to feed your people. Starting a castle next to
+a single poor farm land tile can doom your city to failure. 
+With an optimal castle placement, you can leave room to
+build an adjacent farm house (as in the above example) to
+give you twice the food from your rich farm lands.
+Try to build your quarries in the first two rounds. This will
+maximize your gold earnings. Building quarries in later
+rounds gives too little gold for the effort.
+Try to start your cities near lakes. Cities without access to
+water may not grow beyond 8 citizen figures and, thus, 8
+buildings.
+The 3 bonus points you receive for having all 3 services in
+a city can be the difference between winning and losing. Try
+to get this bonus in each of your cities.
+A city may attract a citizen figure on its player’s turn, but
+have no room for it and then lose a citizen figure on another
+player’s turn; thus, the city has a net loss of a citizen figure.
+HEALTH
+EDUCATION
+CULTURE
+
+PLAYING THE GAME
+The goal
+The winner is the player with the most victory points
+(citizen figures and cities with 3 colors of arches) at the end
+of the game (after 6 game years).
+Each year is played in 8 phases:
+the sequence of the phases in a game year
+1 change the starting player
+2 lay out the voice of the people cards
+3 quarry earnings (in gold coins)
+4 population growth
+5 five political rounds: players take turns in clockwise 
+order playing 1 political or action card and 
+executing the action on the card 
+6 tally the voice of the people
+7 citizen relocation
+8 feeding the citizens
+1 change the starting player
+The starting player for the first year is chosen in the setup.
+After the first year, the starting player gives the starting
+player token to the player on his left who becomes the new
+starting player.
+2 lay out the voice of the people cards
+The starting player draws four new voice of the people cards
+from the stack. He draws the 4 topmost cards, places 1 face
+up on the dark circle, and the other 3 face down on the
+other circles. 
+Note: the four cards are the voice of the people for this year.
+There are nine cards each of the three services: health,
+education, and culture. The cards indicate which of the three
+services the people desire: health (buildings with blue arches),
+culture (buildings with white arches) or education (buildings
+with black arches). 
+3 quarry earnings (in gold coins) 
+player takes their earnings for the quarries they have built
+next to mountain ranges. For each quarry a player has that
+is next to a mountain range, he takes 1 gold coin. If a quarry
+is next to 2 mountain ranges, the player takes 2 gold coins
+for that quarry
+4 population growth
+player adds 1 citizen figure to each of his cities. He places
+the new citizen figure for each city on the castle in that city. 
+If a city already has 5 citizen figures, a player may not
+add a citizen figure to the city unless it has a market
+place. Only cities with market places may have more
+than 5 citizen figures.
+If a city already has 8 citizen figures (and, therefore, a
+market place), a player may not add a citizen figure to
+the city unless it has a fountain or a public bath. Only
+cities with a fountain or a public bath (and a market
+place) may have more than 8 citizen figures. There are
+no further limits to adding citizen figures. 
+Note: when counting citizen figures in a city, count all citizen
+figures in the castle and all connected buildings. 
+5 five political rounds
+Overview
+There are 5 consecutive political rounds. In each round, the
+players take turns playing cards, one at a time, in clockwise
+order, starting with the starting player. On a player’s turn,
+he plays one card and executes the action shown on it. A
+political round is over when all players have played one
+card. The next political round follows immediately.
+Note: players may expand their cities in the political
+rounds.The expansion of a city is about food, gold, and the
+services a city offers its citizens. The services offered by a city are
+measured by the arches present on many of the building tokens.
+The arches come in 3 colors: white for culture, black for
+education, and blue for health. The more arches that a city has
+of a given color, the more it will appeal to people looking for
+those kinds of services in a city: culture, education, or health.
+In each political round, the player may play one of the two
+different kinds of cards:
+• Action cards
+Each player has 3 action cards of his own that he may
+play in the 5 political rounds. To play an action card, he
+announces the action, executes the action, and places the
+card face down on the table.
+Note: at the end of each year, the players take back any
+action cards they have played by placing them face up in
+their play areas. Thus, a player has his 3 action cards
+available for each set of political rounds. 
+• Politics cards
+Instead of playing an action card, a player may take one
+of the face up politics cards and play it immediately.
+When playing a politics card, a player takes one of the
+7 face up politics cards, places it face up on the table,
+executes the action shown on the card, and then turns
+the card face down. At the end of the 5 political rounds,
+players place all politics cards played in the politics card
+discard pile.
+A player is not required to play a minimum number of
+action cards in a set of political rounds. So, for example, a
+player may play no action cards and 5 politics cards if he
+chooses.
+Action cards
+When a player wants to play one of his action cards, he
+selects which of the possible actions he wants to execute,
+announces that to the other players, and then places the
+card face down to show it has been used.
+Possible actions on the action cards:
+• Take 2 gold coins.
+Or
+• Start a new city.
+The player takes one of his castle tokens and places it
+on an empty hexagonal space on the board. 
+Note: players place their castles so there are at least 3 empty
+hexagons between the castle, along a path, and all other
+cities (whether the city belongs to the player or to an
+opponent). 
+The player moves one spare citizen figure from one of
+his castles to the new castle. He then puts two citizen
+figures on the new castle from the general citizen supply.
+If the new castle is next to one or more farm lands, he
+takes the appropriate number of food tokens from the
+supply to represent this added food production.
+Note: a player may only start 1 new city each game year.
+Or
+• Build a small building.
+Small, in this case, means a building that has no more
+than one arch. The possible small buildings are:
+– Farm house (no arch)
+A farm house (like a castle) produces food when built
+next to farm land terrain. Thus, a farm house is best 
+built next to farm land as that gives a player the 
+greatest value for the building.
+– Quarry (no arch)
+A quarry produces 1 gold coin each game year when
+built next to a mountain range. If a quarry is next to
+two mountain ranges, it produces 2 gold coins.
+– School (black arch)
+A school gives a city one service point in education.
+– Statue (white arch)
+A statue gives a city one service point in culture.
+– Market place (no arch)
+A market place enables a city to grow beyond 5 citizen
+figures (to a maximum of 8 without a fountain or 
+public bath). Each city may have just one market 
+place.
+– Fountain (blue arch)
+A fountain gives a city one service point in health. A
+fountain may only be built on a space that is next
+to lake terran. To use the ability of a fountain to
+allow a city to grow beyond 8 citizen figures, the city
+must also have a market place.
+How to build a building
+Building a new building is very simple: the player plays the
+card that allows the building to be built, takes the building
+token from the supply, and places it on an empty hexagon
+next to the castle or any other building in the city.
+The player then takes a spare citizen figure from the
+castle in this city and moves it to the new building. To
+be spare, the citizen figure must not be the last citizen
+figure in the castle.
+When there are no more building tokens of the type
+wanted, the building cannot be built. If the building
+being built is one of those with a different building on
+its back side and there are still tokens in the building’s
+twin stack, the player may use one of these by flipping
+it over. 
+Important building rules
+Available citizens: A player may only build a new
+building in a city if he has a spare citizen figure in the
+city’s castle to place on the building. That is, a player
+can only add a building to a city when he has at least
+two citizen figures in his castle.
+Exception: when building a market place, the player takes
+a citizen figure from the general supply and places it on
+the market place. He does not move a citizen figure from
+elsewhere in the city as with other new buildings.
+Building place: A new building must be placed on an
+empty space next to a building already in the city.
+Limitation: A player may not build a building that
+connects one city to another, even if both cities are his.
+There must always be at least one empty space, along a
+path, separating two cities.
+Fountains and public baths must be built next to lake
+terrain! To emphasize this, the tokens are marked with
+blue waves.
+A player may not voluntarily demolish a building in
+one of his cities for any reason. However, a player may
+be forced to demolish a building if he does not have the
+population to support it.
+Tips for building:
+The costs
+Small buildings do not cost anything! A player need only play
+an action card to build a small building. When a player wants
+to build using a politics card, he must pay gold based on the
+value of the building (the more valuable the building, the more
+gold it costs). When the card, “master builder” is played, the
+player must pay to build even small buildings.
+Adjacent terrain
+Many buildings have value or increased value when they are
+built next to specific terrain. So, for example, building a farm
+house next to two farm lands with 2 and 3 food symbols is
+much more valuable than building it next to a farm land with
+1 food symbol and a lake. 
+Defection
+As long as adjacent cities are separated by greater than two
+empty hexagons, along the path, the people in those cities are
+content and will not defect. However, when cities are separated
+by less than three empty spaces, they become neighbors and the
+people living in the cities will compare services (health,
+education, or culture) in the two and may choose to defect to
+the other city. 
+Politics cards
+Instead of playing an action card in a political round, a
+player may take one of the face up politics cards and play it,
+but he must play it immediately.
+Note: some politics cards require gold payments to be played. A
+player taking such a card must have the gold to play the card
+and must pay it immediately. A player may not take a politics
+card and save it for later when he has the gold or desire to play
+it.
+When a player takes a politics card, he must play it
+immediately. To play the card, the player places it face
+up and executes the instructions on the card. Then he
+places the card face down.
+The players place the action and political cards they play
+face down to track the number of political rounds they
+have played. When a player has 5 face down cards, he
+has played 5 political rounds. 
+There will always be 7 face up political cards for a player
+to choose from: when a player takes a face up politics
+card, he draws the topmost card from the politics stack
+and places it face up in the empty space. 
+When the politics card stack is exhausted, shuffle the
+politics cards in the discard pile and turn them face down
+to create a new politics card stack.
+If a player is unable or unwilling to use any of the face up
+politics cards and has used all his action cards in this set of
+political rounds, he draws the topmost card from the face
+down politics stack and places it face down in his play area
+as his turn in that political round.
+There are two kinds of politics cards:
+• politics cards for building buildings and
+• politics cards with other actions.
+Politics cards for building buildings
+Players use politics cards to build the more valuable
+buildings. Such buildings are built using the same rules as
+for the small buildings, but offer more service points and
+also cost more gold coins.
+Note: The higher-valued buildings are only built using certain
+politics cards. They are not built as small buildings are with
+action cards. As with the small buildings, when building tokens
+of one type are exhausted, no more buildings of that type may
+be built (unless, of course, one becomes available when a player
+must demolish a building). 
+Palace:
+A palace costs 1 gold coin to build and
+provides 2 service points of culture.
+Cathedral:
+A cathedral costs 3 gold coins to build and provides 
+3 service points of culture.
+University:
+A university costs 3 gold coins to build
+and provides 3 service points of education.
+Hospital:
+A hospital costs 1 gold coin to build and provides 1
+service point of health and 1 service point of education.
+Note: although the hospital provides a service point of health,
+it does not need to be placed next to a lake. With two services
+(arches), building a hospital makes it easier to have all three
+services in a city.
+A hospital does not substitute for the requirement to have a
+fountain or public bath to grow a city beyond 8 citizen
+figures.
+Public bath:
+A public bath costs 1 gold coin to build and provides 
+2 service points of health. A public bath must be built
+next to lake terrain.
+Politics cards with other actions
+Master builder
+When this card is played, the player pays the indicated
+amount of gold to build one building of his choice:
+For 1 gold, any small building (farm house, quarry, school,
+statue, market place, and fountain).
+For 2 gold, any medium building (palace, hospital, and
+public bath). 
+For 4 gold, any large building (cathedral and university).
+Bread and games
+A player can use this card to increase the value of one of
+his cities in one of the services. He places one of his
+colored citizen figures on one arch on a building in this
+city, This adds 1 service point of the kind represented by
+that arch. 
+For 0 gold, place one of your colored citizen figures on one
+arch in one building in one of your cities.
+For 2 gold, place two of your colored citizen figures on one
+arch in one building in one of your cities.
+For 5 gold, place three of your colored citizen figures on
+one arch in one building in one of your cities.
+Each colored citizen figure counts as 1 service point of the
+kind represented by the arch.
+
+Prepare the 27 voice of the people cards
+Shuffle the voice of the people cards thoroughly and place
+them face down on the board next the the four brown
+circles. There are 3 extra cards so that players cannot count
+cards for the last year.
+Place the food tokens and the gold coins next to the 
+board.
+• Gold coins
+Each player takes 1 gold coin at
+the beginning of the game. Players 
+may earn gold coins during the 
+game with the help of quarries and 
+the use of action cards. 
+• Food tokens
+A player’s food tokens represent the amount of food his
+cities can produce in a year. They are not a food supply. 
+Players take food tokens when they build castles
+and farm houses next to farm land.
+small token ‘1 food unit
+large token ‘5 food units
+Each player takes a summary card.
+Place the starting player token 
+next to the board.
+Initial board setup for beginners 
+for 5 players
+We recommend players use the initial board setup for their
+first game. The initial board setups for 2, 3, and 4 players
+are shown on the last page of these rules.
+I
+Place the terrain tiles on the board as shown in the
+figure. 
+II Each player takes two of his castle tokens and places
+them on the board as shown in the initial setup figure.
+After that, each player takes six citizens and places three
+on each of his castles on the board.
+III Take food tokens
+Note: castles produce food when placed next to farm land. 
+When a castle is next to farm land, it produces as many
+units of food as there are food symbols on the farm land. 
+There are farm lands with 1, 2, and 3 food symbols.
+Each symbol allows a neighboring castle (or farm house) to
+produce one food unit. If a castle is next to two farm lands, 
+the castle produces food from both farm lands.
+Each player counts the food symbols on the farm lands
+next to his castles, takes a corresponding number of
+food tokens from the supply, and places them on the
+table in his play area.
+A player’s food tokens are not a food supply or means
+of payment. They only represent the number of
+citizens the player can support in his cities. 
+example:
+The blue player’s castle is
+next to two terrain areas
+with farm land
+(3 food symbols and 
+1 food symbol). 
+‘ The blue player takes 
+4 small food tokens. 
+IV Choose a starting player using any method you prefer:.
+perhaps the player who most recently visited Italy. He
+takes the starting player token and begins the first year.
+Setup for experienced players
+I
+One player shuffles the terrain tiles face down and then
+places the tiles face down on all the empty triangular
+spaces on the board. After all have been placed face
+down, he turns them all face up.
+The different colored paths have special meaning when
+playing with fewer than four players. For details on this,
+please see page 8.
+II Choose a starting player. The starting player begins the
+game with the initial placing of castles. He takes one of
+his castles, places it on the hexagon of his choice (on one
+of the paths on the board), and places 3 citizen figures
+on it. If it is next to farm land, he takes food tokens
+equal in number to the number of food symbols on the
+farm land areas. 
+III Then the player to his right takes a turn, and then the
+player to his right, and so on (in counter-clockwise
+order around the table). Each player places a castle, puts
+3 citizens on it, and takes food tokens, if appropriate.
+Note: players place their castles so there are at least 3 empty
+hexagons between the castle, along a path, and all other
+castles (whether the castle belongs to the player or to an
+opponent). 
+IV When all players have placed their first castle on the
+board, the last player places a second castle on the
+board, puts 3 citizens on it, and takes any appropriate
+food tokens. He is followed by the player to his left,
+then the player to his left, and so on around the table (in
+clockwise order). 
+V The initial placing of castles is complete when all
+players have placed two castles. The player to the left of
+the player who placed the last castle becomes the new
+starting player and starts the first year. 
+When a player places one of his colored citizen figures on a
+small building, he increases its service value from 1 to 2. For
+example, if he places one of his colored citizen figures on a
+school, he increases its education service value from 1 to 2.
+Similarly, if a player places a colored citizen figure on a
+Palace, he increases its cultural service value from 2 to 3.
+As a hospital has 2 different colored arches, a player must be
+careful to place his colored citizen figure on the arch he
+wants to add value to. He cannot choose later.
+If a player places 2 or more colored citizen figures on a
+building, he adds 1 service point for each figure. If a player
+plays another “bread and games” card, he may add colored
+citizen figures to this building or to another building in the
+same city or to a building in one of his other cities.
+Note: The colored citizen figures are not citizens. They need
+not be fed and do not count as population. Each player has just
+4 colored citizen markers and is limited to these 4 each year for
+use with “bread and games” and “rich harvest”. The impact
+lasts for just the current year. After the year is over and scored,
+the player must return his colored citizen figures to his supply.
+Golden times
+A player uses this card to add citizens to one of his cities: 
+For 0 gold, place one citizen in one of your cities.
+For 2 gold, place two citizens in one of your cities.
+For 5 gold, place three citizens in one of your cities.
+Note: with more citizens, a player may add more buildings to
+a city, but he must also have enough food to feed them or they
+will leave. A player may not add citizens to 2 cities when he
+plays this card.
+Rich harvest
+A player uses this card to double the food production
+of one of his farm houses for one game year.
+The player places one of his colored citizen figures
+on the farm house (not castle) of his choice: usually,
+the one that produces the most food. For example, a player
+who uses this card to add a colored citizen figure to a farm
+house that produces 4 food in a year, will get an additional
+harvest of 4 food in the “feeding the people” phase. A
+player may not play 2 “rich harvest” cards on the same farm
+house in a game year.
+Note: each player has just 4 colored citizen markers and is
+limited to these 4 each year for use with “bread and games” and
+“rich harvest”. The impact lasts for just the current year. After
+the year is over and scored, the player must return his colored
+citizen figures to his supply.
+Polling the people
+A player uses this card to learn more about the
+desires of the people for the current game year.
+The player looks (without showing or telling other
+players) at two of the face-down “voice of the
+people” cards. After looking, he replaces the cards 
+where they were face down.
+For 2 gold, a player may look at all 3 face down “voice of
+the people” cards. The player must decide before looking at
+any cards, whether to pay to look at all 3 or not.
+Note: by using this card, a player knows 3 or 4 of the 4 “voice
+of the people” cards and can use this knowledge to add
+buildings with the desired services to his cities.
+End of a player’s turn in a political round
+When a player, on his turn, has played a political or action
+card, his turn ends. The player to his left now takes his turn.
+and so on around the table.
+End of a political round
+When all players have played a card, the round ends and
+another begins. When all players have played 5 cards, the
+phase ends.
+6 tally the voice of the people
+Turn over the 3 face down “voice of the people” cards. The
+4 cards together express the wishes of the people for this
+game year. This can be for any of the three services:
+education, culture, or health.
+If there are more cards of one of the services than either
+of the other two, that service is the voice of the people
+for this year..
+If two services tie with 2 cards each, either of the two
+may be used by players as the voice of the people for this
+year.
+In the next phase, some citizens may choose to relocate to
+neighboring cities if those cities offer better services
+matching the service chosen as the voice of the people.
+citizen relocation
+player checks all his cities, one at a time in the order he
+chooses, for relocating citizens.
+There is no citizen relocation between the cities of a
+player.
+Citizens will not relocate if the distance between two
+cities, along the path, is greater than 2 hexagons. Cities
+greater than 2 hexagons apart are not neighbors.
+When the distance between two cities, along the path,
+is 1 or 2 hexagons, relocation is possible between cities
+of opposing players.
+When a player finds one of his cities that has one or more
+neighbors, he checks to see if his city has more service points
+than each neighboring city in the service chosen as the “voice
+of the people” this year.
+If the player’s city has more service points, he gets one
+citizen figure from the opposing city, which he places on
+the castle of his city.
+If a player’s city has more service points then several
+neighboring cities, the city gets 1 citizen figure from
+each.
+Note: if the player’s city has no room for the new citizen
+figures because it has reached a limit, the citizen figures are
+immediately placed in the common supply.
+When a city loses a citizen figure, the owner of the city
+decides which citizen figure to give up. If the city has
+extra citizen figures on the castle, the decision is easy
+and the player gives up one of these. If the city has no
+extra citizen figures on the castle, the player chooses
+which building to take the citizen figure from. 
+Two services tie for voice of the people
+When two services tie with 2 cards each for the “voice of the
+people”, both services may attract relocating citizens.
+On a player’s turn, he decides for each of his cities
+separately, which of the two services applies. This service
+(education, culture, or health) applies in all neighboring
+cities to this city for this player’s turn.
+For example, a player with 3 cities in a year when culture
+and health are chosen, can choose culture for 2 of his cities
+and health for the third.
+On each player’s turn, he decides for each of his cities which
+of the 2 services will be used. 
+example: The voice of the people is culture and health. On her
+turn, Anna chooses health for her city next to Bob’s as her city
+is stronger in health than Bob’s. Bob gives her a citizen from his
+city and she places it on her castle. Then, on Bob’s turn, he
+chooses culture for his city next to Anna’s, as his city is stronger
+in culture than hers. Anna gives him a citizen from her city
+and he places it on his castle. Thus, in this case, the result is
+null.
+Note: It is possible for a player to have a city that attracts a
+citizen figure from one neighbor and loses a citizen figure to
+another neighbor.
+Demolishing unsupported buildings
+After all players have taken their turns at relocating citizens,
+players look for buildings without a citizen figure. All such
+buildings are removed (unless there are spare citizen figures
+on the city’s castle) and returned to the supply stacks.
+Demolished buildings must come from the edges of the
+cities. A player may not demolish a building within the city
+and, thus, separate the city into two or more parts. A castle
+must be the last building demolished in a city.
+If a city has only a castle and the last citizen figure has
+been removed from the castle, the castle is demolished
+and the castle token returned to the “owning” player..
+When a player demolishes a farm house or a castle, he
+must return a number of food tokens equal to the
+amount of food that building could produce in a year.
+Before demolishing buildings, a player may move the
+citizen figures within a city to other buildings. This allows
+him to “save” more valuable buildings and to make sure the
+demolished buildings are at the edges of the city. Players
+may never move buildings within or among cities.
+WASTELAND*
+WASTELAND*
+* THE WASTELAND AT THE EDGE OF THE BOARD PROVIDES NO RESOURCES
+= BORDERS WHERE RESOURCES CHANGE OR END (SEE PAGE 8)

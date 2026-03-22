@@ -1,0 +1,1563 @@
+R U L E S O F P L AY
+2 N D E D I T I O N , 2 0 1 1
+© 2011 GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308 • www.GMTGames.com
+1.	Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 2
+2. How to Win. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 2
+3. Setup. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 2
+4. Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 3
+5. Sequence of Play. . . . . . . . . . . . . . . . . . . . . . . . . . 	 7
+6. Card Play. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 7
+T A B L E O F C O N T E N T S
+7. US Operations. . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 8
+8. Jihadist Operations. . . . . . . . . . . . . . . . . . . . . . . . 	 10
+9. Jihadist Activities (1-Player). . . . . . . . . . . . . . . . . 	 12
+Glossary and Index. . . . . . . . . . . . . . . . . . . . . . . . . . 	 14
+Scenarios. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 16
+
+1.0 INTRODUCTION
+LABYRINTH is a 1-2 player card-driven boardgame simulating at 
+the strategic level the ongoing bid by Islamic extremists to impose 
+their brand of religious rule on the Muslim world. 
+•	 In a 1-player game (9.0), the player portrays the United States 
+(US) and its allies battling the extremist jihad (“struggle”, i.e., 
+holy war). 
+•	 In a 2-player game, the second player takes on the role of the 
+Jihadist. 
+The US side seeks to improve governance in Muslim countries so 
+that Jihadism is cut off at its roots, or at least to eliminate the extrem-
+ist fighters that pose the immediate threat. The Jihadist side seeks 
+to reestablish the Islamic Caliphate of old or to damage the US so 
+severely that it withdraws from the Muslim world. 
+In pursuit of these goals in the game, players use strategy cards to 
+undertake operations or cause events to happen. A hand of cards 
+in LABYRINTH simulates roughly a year.
+Specific game terms found in the glossary on pages 14-15 are 
+shown in bold the first few times they appear in this rule book. Note 
+that the game uses the term “Jihadists” to refer to violent Islamic 
+extremist militants (as Westerners and the militants themselves 
+commonly do) and not to the world’s many millions of peaceful, 
+devout Muslims.
+The rules are organized into numbered sections. For a 2-player game, 
+read rules sections 2 through 8. For a 1-player game, also read rules 
+section 9, “Jihadist Activities”, which modifies the preceding rules 
+to enable solitaire play.
+NOTE: The outside of the Player Aid Cards summarize rules used 
+in 2-player games, including US and Jihadist Operations (rules 7 
+and 8) and How to Win (rule 2). The inside of the Player Aid Cards 
+are used only in 1-player games.
+2.0 HOW TO WIN
+2.1 Three Ways to Win
+Each side can win in three different ways:
+2.1.1 US Victory
+•	 The US wins the instant that Muslim countries with a total of at 
+least 12 Resources have Good Governance (4.2.1), OR
+•	 at least 15 (of 18) Muslim countries have Fair or Good 
+Governance, OR
+•	 there are no Jihadist cells in any countries on the map.
+2.1.2 Jihadist Victory
+•	 The Jihadists win the instant Islamist Rule governs countries 
+totaling at least six Resources that include at least two adjacent 
+countries, OR
+•	 US Prestige is “1” and at least 15 Muslim countries have Poor 
+or Islamist Rule Governance, OR
+•	 a weapon of mass destruction (WMD) Plot (8.5.5-6) is resolved 
+in the United States without being countered (such as by an Alert, 
+7.5). 
+2.2 Oil Price Spike
+In the unlikely event that play of an Oil Price Spike event causes 
+both sides to achieve their victory conditions simultaneously, the 
+side that played the event wins.
+2.3 End of Game Victory
+Labyrinth can be played in three different lengths of game. If none 
+of the conditions of 2.1 have occurred by the selected game-end 
+reshuffle of the card deck (1st, 2nd, or 3rd -see 3.3, 5.1, & 5.3.1), 
+the US wins if more than twice as many Resources are under Good 
+Governance as are under Islamist Rule; otherwise, the Jihadists 
+win. For this game-end calculation only, count any Regime Change 
+placed this turn (green marker, 4.8.2) as Islamist Rule.
+3.0 SETUP
+3.1 In General
+Choose a scenario from the back of this rule book. Players should 
+choose sides and sit side by side, facing the map along its south 
+edge, with the US player on the left and Jihadist on the right. The 
+US player takes the “US Operations” player aid sheet and the tan die, 
+the Jihadist the “Jihadist Operations” sheet and three black dice. 
+NOTE: You may wish to set up and work through the extended ex-
+amples in the Playbook before you begin your first game.
+3.2 Set Up
+Set up markers, troops, and sleeper cells as listed in the scenario. 
+(Many countries start unmarked until tested during play, 4.9.4.)
+•	 Arrange remaining troops (tan cubes) and cells (black cylinders) 
+on the Troops and Funding tracks, respectively, filling five per 
+box from right to left (4.7.3-4).
+•	 Place three WMD Plot markers in each of the two WMD Plot 
+holding boxes (4.7.8.1).
+•	 Place the “Card” marker on the Action Phase track at Jihadist 
+Card 1 (4.7.5). Set both Reserves to “0” (6.3.3).
+•	 Place the numbered Plot markers face down in the Available Plots 
+box (4.7.8). Place spare Regime Change, Aid/Besieged Regime, 
+cadre, event, and 1st Plot markers aside.
+•	 Remove any cards that are specified by the scenario, then shuffle 
+the remainder to create a face-down Draw Deck. Place it near the 
+map with room for a Discard Pile next to it.
+•	 Deal players the numbers of cards indicated by the Troops and 
+Funding tracks, respectively (5.2.8), and begin play with the 
+Jihadist Action Phase (see Sequence of Play, 5.0).
+NOTE: By mutual agreement players may use spare markers to 
+alter beginning Muslim or non-Muslim governance or posture as 
+they deem historical.
+3.3 Select Length of Play
+Players select one of the three game lengths below. Selection is 
+entirely up to the players:
+•	 STANDARD: Place the “Deck” marker on the Reshuffle track at 
+1 Deck—end play (2.3) when a card is to be drawn but the deck 
+is exhausted.
+•	 TOURNAMENT FINAL: Place the “Deck” marker at 2 Decks—
+end play upon the 2nd reshuffle (5.3.1).
+•	 CAMPAIGN: Place the “Deck” marker at 3 Decks—end play 
+upon the 3rd reshuffle.
+
+4.0 COMPONENTS
+A complete set of LABYRINTH includes:
+•	 One 22” by 34” mounted map
+•	 One sheet of 156 counters
+•	 This Rule book
+•	 A Playbook
+•	 A US foldout player aid sheet
+•	 A Jihadist foldout player aid sheet
+•	 120 cards
+•	 15 tan wooden cubes (to keep record of troops)
+•	 15 black wooden cylinders (to keep track of terrorist cells)
+•	 Four 6-sided dice (1 tan, three black)
+4.1 THE MAP
+4.1.1 Countries and Connection Lines. The map shows most 
+of the Muslim world, plus several other regions where extremists 
+might operate. Each space on the map represents a country or block 
+of countries. Spaces differ, depending on the country’s dominant 
+religion. Country spaces connected by lines are adjacent. Adjacency 
+affects cell Travel (8.3), US War of Ideas (7.2), Jihadist Victory 
+(2.1), and some events (see also 4.5). 
+4.1.2 Religion. All countries are marked for their degree and nature 
+of Muslim affiliation. Sunni and Shia-Mix countries together are 
+called “Muslim” in the game (4.2). Non-Muslim countries are those 
+in which Muslims are in the minority (4.3). Shia-dominated Iran is 
+a separate type of country (in game terms, neither “Shia-Mix” nor 
+“Muslim”, 4.4). 
+	
+Sunni	
+Shia-Mix	
+Iran	
+Non-Muslim
+	 (Muslim country)	
+(Muslim country)	
+(special case)
+DESIGN NOTE: “Shia-Mix” countries include several ruled by 
+Sunnis or other non-Shia but with substantial or particularly active 
+Shia populations.
+4.2 Muslim Countries
+4.2.1 Governance. Muslim countries are marked for the quality of 
+their Governance which is established at set-up and can change dur-
+ing the course of the game. Governance in game terms is depicted 
+by a descending scale (in terms of effectiveness and accountability) 
+of four ratings: Good (best), Fair, Poor, and Islamist Rule (worst). 
+Good, Fair, and Poor Governance have associated values (1, 2, and 
+3, respectively) that affect a variety of game functions, particularly 
+operations in the country.
+Governance markers
+ 
+4.2.2 Denote a country’s Governance with the appropriate marker, 
+flipping or replacing the marker as Governance improves or wors-
+ens. 
+EXAMPLE: If the Governance of Saudi Arabia improves one 
+level from Poor to Fair, replace the country’s “Poor-3” marker 
+with a “Fair-2” in the same Alignment box. If it improves again, 
+flip “Fair-2” to “Good-1.”
+4.2.3 Alignment. A three-space track in each Muslim country space 
+depicts the country’s Alignment with respect to the US-either Ally, 
+Neutral, or Adversary. 
+NOTE: Only Muslim countries are rated for Alignment. Thus, in 
+game terms, a Non-Muslim country is never an “Ally”. Non-Muslim 
+countries instead are rated for their “Posture” (4.3.2)
+4.2.4 Place a country’s Governance marker in the appropriate box 
+of the country’s Alignment track. 
+EXAMPLE: Saudi Arabia sets up as a US Ally with Poor Gov-
+ernance (“Poor Ally”).
+ 
+NOTE: The first time a country’s Governance is tested, its Alignment 
+typically is Neutral (4.9.4)
+4.2.5 Resources. Each Muslim country shows 
+a Resource value of 1, 2, or 3. Governance 
+over Resources in part determines victory. 
+Resources also affect a few events.
+4.2.6 Oil. Some Muslim countries show an Oil Exporter 
+symbol next to their Resource value. Each of these coun-
+tries’ Resource value is one higher for each Oil Price 
+Spike event in play.
+4.3 Non-Muslim Countries
+4.3.1 Governance. Non-Muslim countries show permanent Gover-
+nance of either Good-1 or Fair-2.
+NOTE: Governance in Non-Muslim countries never changes but 
+still affects play.
+4.3.2 Posture. Non-Muslim countries (except 
+the United States and Iran) have marker 
+boxes for Posture, representing their reigning 
+political preference for the use of either “Hard 
+power” or “Soft power” in the struggle against extremism. Scenarios 
+explain how to mark each Non-Muslim country’s Posture with the 
+Religion 
+(4.1.2)
+Oil Exporter 
+(4.2.6)
+Alignment
+Track (4.2.3)
+Resources
+(4.2.5)
+Area for 
+cells, troops, 
+and markers
+
+appropriate marker. The United States also has a Posture—mark it 
+on the GWOT Relations Track (4.7.2). 
+4.3.3 Israel. Israel’s posture is always “Hard”, as indicated by its 
+map space Posture box.
+4.3.4 Recruitment. A few non-Muslim countries show Recruit 
+Numbers that set the ability of Jihadists to add people to their cause 
+in that country (8.2.4). (EXAMPLE: Philippines has a Recruit 
+Number of “REC 3”.) 
+4.4 Iran
+IRAN is a special type of country (in game terms, neither “Muslim” 
+nor “non-Muslim”). It has unchanging Governance like a non-Mus-
+lim country but no Posture.
+4.5 Schengen Countries 
+A country connected to a Schengen symbol is adjacent 
+to all Schengen countries, and all Schengen countries are 
+adjacent to one another. (Thus, when a cell moves to a 
+Schengen connection symbol, the Jihadist side may place 
+that cell into any of the seven “SCHENGEN” country spaces that 
+make up the Schengen area.)
+4.6 Cells and Troops
+4.6.1 Each of the 15 black cylinders in the game represents a cell 
+of Jihadist plotters or fighters. Each of the 15 tan cubes represents 
+a major unit of Western troops.
+ 
+4.6.2 Cells and troops set up on respective tracks that serve as holding 
+boxes for the cylinders and cubes when not in a country (4.7.3-4). 
+Each country space has an area for any cells or troops there. 
+4.6.3 The cylinders and cubes in the game are a limit on cells and 
+troops that can be in play. 
+EXAMPLE: The Jihadist may not place any cells via events or re-
+cruiting if 15 are already in countries, leaving none on the Funding 
+Track (4.7.4.).
+4.6.4 Sleeper and Active Cells. Cells are either Sleeper or Active. 
+(Place Sleeper cells crescent side down, Active cells crescent side 
+up.) Cells are Sleeper or Active according to the following:
+•	 Cells placed from the Funding Track (4.7.4) onto the map begin 
+as Sleepers. 
+•	 Sleeper cells used for Jihad (8.4) or Plot (8.5.1), that are 
+Disrupted (7.4), or that are in a country at the moment of a 
+Regime Change Deployment there (7.3.4) go Active. 
+•	 Active cells that Travel (either between or within countries, 8.3.1) 
+become Sleepers.
+4.7 TRACKS AND BOXES
+Several tracks and holding boxes regulate play. The tracks do limit 
+game values. (EXAMPLE: Jihadist Funding never falls below 1 or 
+exceeds 9; World Posture never exceeds Soft 3 or Hard 3.) Tracks 
+and boxes and their uses include:
+4.7.1 US Prestige Track. As Prestige changes, move 
+the “US Prestige” marker between 1 and 12 to indicate 
+corresponding Low, Medium, High, or Very High 
+Prestige. Prestige can change for a variety of reasons 
+(see Playbook for a summary). If a Prestige Roll is required, first 
+roll to determine whether it will shift up or down (see the “Prestige” 
+table on the Player Aid Card). Then roll two dice and shift Prestige 
+by the lower roll.
+DESIGN NOTE: Prestige represents the world’s (especially Mus-
+lims’) overall affinity toward the United States, which affects US 
+War of Ideas operations (4.9.2, 7.2.1) and some events. 
+4.7.2 US GWOT (Global War on Terror) Relations Track. 
+Determine World Posture by separately counting non-US Soft 
+and Hard Posture markers on the map (always count Israel as 
+holding a Hard marker) and subtracting the lower from the higher 
+total for the value, with the higher total determining the side of 
+the scale used. As Postures change, move (and flip) the “World 
+Hard/Soft” marker along the Soft 3 to Hard 3 Posture scale and 
+the “US Hard/Soft” marker between Soft and Hard. 
+EXAMPLE: Three non-US countries at Soft and five at Hard would 
+yield a World Posture of Hard 2. 
+NOTE: Because US Posture is marked on the GWOT Relations 
+track, the US space unlike other non-Muslim countries does not 
+have a Posture box. 
+4.7.2.1 GWOT Relations Penalty. If World and US Postures are 
+different (one Hard, one Soft), the GWOT Relations Penalty equals 
+the World Posture value (either “1”, “2”, or “3”); if Postures are the 
+same (both Hard or both Soft) or World Posture is “0”, the Penalty 
+is 0.
+DESIGN NOTE: GWOT Relations represent non-Muslim unity or 
+discord over tactics against extremism, affecting US War of Ideas 
+operations (4.9.2 & 7.2), Prestige (5.2.5), and some events. 
+4.7.3 Troops Track. Place any troops not in countries onto the 
+Troops Track, five cubes per box, filling boxes from the right toward 
+the left. Whenever troops Deploy from the track to countries, draw 
+cubes from the left toward the right. Place and move the “Troops” 
+marker into the right-most box with fewer than five troop cubes. 
+Cells
+Troops
+
+EXAMPLE: If seven of the 15 troop cubes were deployed in various 
+countries, the eight remaining troop cubes would be on the Troops 
+track—five cubes in the “Overstretch” box and three cubes in the 
+“War” box. The “Troops” marker would be in the “War” box with 
+the three cubes, indicating that the US was at War rather than at 
+Low Intensity or Overstretch.
+DESIGN NOTE: The level of troop commitment influences other 
+resources available for the struggle with extremism. In the game, 
+that level influences US hand draw size (5.2.8) and some events.
+4.7.4 Jihadist Funding Track. When cells are Recruited or placed 
+by event into a country, draw them from the Funding Track, starting 
+from the left and working toward the right. When cells are removed 
+from countries, place them onto the Funding track, five cubes per 
+box, filling boxes from the right toward the left.
+4.7.4.1 Funding. As Funding changes, move the “Jihadist Funding” 
+marker between 1 and 9 to indicate corresponding Tight, Moderate, 
+or Ample Funding. 
+DESIGN NOTE: Funding represents the rate of financial contri-
+butions to extremist organizations from religious donors and other 
+sources. It affects Jihadist recruitment and hand draw size. 
+4.7.4.2 Available Cells. Only cells in a box below or to the left of the 
+“Jihadist Funding” marker are Available to be Recruited (8.2.1). 
+EXAMPLE: Funding is currently 6, and only three of 15 cells are 
+active in various countries. The “Ample” box holds five unrecruited 
+cells, the “Moderate” box another five, and the “Tight” box the re-
+maining two. The seven cells in the “Tight” and “Moderate” boxes 
+are Available and could be Recruited; the five in the “Ample” box 
+are not. The first cells to be Recruited or placed into countries by 
+events would come from the “Tight” box.
+Unless otherwise specified, Funding affects cell placement only for 
+Recruit operations. Event-driven placement occurs so long as cells 
+remain on the Funding Track. Also, drops in Funding do not affect 
+cells already present in countries.
+4.7.5 Play Sequence Tracks. Move the “Card” marker along the 
+Action Phases track as players play cards (5.2.2, 6.0). After each US 
+Action Phase is completed and any Plots resolved, return the “Card” 
+marker to the Jihadist “Card 1” space. Move the “Deck” marker one 
+box to the right as each Reshuffle occurs (5.3.1).
+4.7.6 Victory Tracks. Move the “Good Resources”, “Islamist 
+Resources”, “Fair/Good”, and “Poor/Islamist” markers along the 
+Victory track to record the respective Resource totals under Good 
+Governance and Islamist Rule (2.1, 4.2.1, 4.2.5) and the numbers 
+of countries at either Fair or Good and at either Poor or Islamist 
+Rule.
+4.7.7 Event Box. Place markers for Lingering events in effect (6.2.7) 
+in the Event Box. 
+Event Markers
+PLAY NOTE: Many events affect a single country only, and play-
+ers may wish for convenience to place such event markers in that 
+country’s space instead of the Event Box. Similarly, some event 
+markers have marker holding boxes near the multiple countries 
+they affect.
+4.7.7.1 Lapsing Event Boxes. When a LAPSING event occurs 
+(6.2.7), place its card in a Lapsing Event box (if more than two 
+LAPSING events are in play, double up or use their markers).
+4.7.7.2 1st Plot Box. When the Jihadist side conducts its first Plot 
+operation of a turn (8.5.3), place the card used into the 1st Plot box 
+(as a reminder that subsequent cards for Plot operations trigger US 
+events normally, 6.3.2 ). 
+4.7.7.3 If a LAPSING or 1st Plot card is removed from a box 
+before the end of a Turn (Example: Oil Price Spike or a mid-Turn 
+reshuffle), replace it with the event’s marker or the “1st Plot” marker, 
+respectively.
+4.7.8 Available Plots. Place Available Plot markers (4.8.1, 7.5.3, 
+8.5.2, 8.5.4) in the Available Plots box-any Plot markers in this box 
+are Available to be placed into countries via Plot operations (8.5.2) 
+or events. 
+4.7.8.1 WMD Plot Boxes. Keep WMD Plot markers that are not yet 
+Available (8.5.5) in the “Loose Nuke, HEU, & Kazakh Strain” and 
+“Pakistan Arsenal” holding boxes, three markers per box.
+•	 WMD Events: When an event makes a WMD Plot marker 
+Available, place a marker from the “Loose Nuke, HEU, & Kazakh 
+Strain” box into the Available Plots box, face down. 
+•	 Pakistan: When PAKISTAN first comes under Islamist Rule 
+(8.4.5), place the three WMD Plot markers from the “Pakistan 
+Arsenal” box into the Available Plots box, face down.
+NOTE: WMD Plot markers never return to the WMD or Available 
+Plots boxes—once used in a Plot (8.5), they are removed from 
+play.
+4.7.9 Reserves Tracks. Each side records 
+Reserves (6.3.3) on a Reserves Track. At the 
+end of each turn, reset all Reserves to “0”. 
+Blocked
+Event
+Effect
+counts as 
+two troops
+
+4.8 OTHER MARKERS
+4.8.1 Plot Markers. Six non-WMD Plot markers are numbered 
+either “1”, “2”, or “3”. Keep them face down in the Available Plots 
+box (4.7.8)—only the Jihadist side may inspect them (8.5.4). They 
+may be reused. Higher value plots require higher-value operations 
+cards to place.
+	
+4.8.2 Regime Change Markers. Keep Regime Change markers near 
+the map. When a Regime Change operation occurs (7.3.4), place a 
+green Regime Change marker on top of the troop cubes to indicate 
+that they may not Deploy out of the country (7.3.1). After dealing 
+new card hands (5.2.8), flip any green Regime Change markers to 
+tan (5.2.9). Any country containing a Regime Change marker is a 
+“Regime Change country” (7.3.4.1).
+Clarification: “Withdrawal” (7.3.5) is another means by which the 
+restriction on troop deployment from a Regime Change country is 
+lifted.
+NOTE: Via 2.3, green Regime Change markers prevent an easy 
+last-turn reversal of Islamist victory. If the current turn is unlikely 
+to be the last (3.3) and you wish to avoid the step of flipping the 
+marker (5.2.9), place it tan side up. 
+4.8.3 Aid/Besieged Regime Markers. Keep 
+Aid/Besieged Regime markers near the map. 
+Use them to mark countries strengthened by 
+War of Ideas (7.2.2.1) or weakened by Jihad 
+(8.4.3.1). They affect War of Ideas Table rolls (7.2.3) and Major 
+Jihad success (8.4.3.2), respectively.
+4.8.4 Cadre Markers. Keep cadre markers near the 
+map. Whenever the last cell in a country without a 
+cadre is removed by Disrupt (7.4) or event (not Jihad 
+or Travel, 8.3-8.4), place a cadre there. Cadres enable 
+Recruiting (8.2.2). Whenever a cell is placed from the Funding track 
+into a country with a cadre, remove the cadre. The Jihadist player 
+may remove any cadres during any Jihadist Action Phase.
+4.9 TABLES
+4.9.1 The outside of the player aid sheet has several die-roll tables 
+used in the game: the “Governance”, “Posture”, “Prestige”, and 
+“War of Ideas” tables.
+4.9.2 War of Ideas Table. When the US side conducts a War of Ideas 
+operation in a Muslim country (7.2.1), it must roll a 5 or more to 
+succeed. Refer to the War of Ideas Table (on both Player Aid Cards) 
+for modifiers to the roll. (War of Ideas in non-Muslim countries 
+instead uses the Posture table, 4.9.3 & 7.2.3). 
+4.9.3 Country Tables. Whenever rolling a country’s Governance 
+(4.2.1-2) or Posture (4.3.2) or US Prestige (4.7.1), refer to the cor-
+respondingly named table (found on both Player Aid Cards).
+EXAMPLE: Event text “Roll US Posture” causes a roll on the Pos-
+ture table. Modify the die roll by +1 if rolling for US’s Posture.
+4.9.4 Initial Tests. Roll for Governance (if a Muslim country) 
+or Posture (if a non-Muslim country) whenever a country whose 
+Governance or Posture is not yet marked (an “unmarked” country) 
+is selected as:
+•	 the locale or target of an operation (including a failed Travel 
+operation, 8.3.2), or
+•	 has a cell or plot placed in it by an event, or
+•	 is subject to “test” by event text.
+An Initial Test of Governance always results in an Alignment of Neu-
+tral. (A Regime Change Governance roll results in an Ally, 7.3.4.)
+Important: Event instructions to “test” a country have no effect if 
+the country is already marked with a Governance level or Posture. 
+Also, note that “test” (roll only if unmarked) is different than “se-
+lect” (player’s choice and a marked or unmarked country may be 
+selected).
+4.9.5 Mandatory Follow Through. The side triggering a test must 
+carry out the action regardless of the outcome of the test. If the US 
+side attempts a War of Ideas operation in a Muslim country with a 
+card of insufficient value for the Governance resulting from a test 
+(7.1, 7.2.1), the War of Ideas operation automatically fails.
+EXAMPLE: The Jihadist side attempts to Travel (8.3) a cell from 
+Iraq to Sudan when Sudan is unmarked. The triggered Initial Test 
+roll of “5” marks Sudan as a Fair Neutral. The Jihadist side must 
+roll Travel: a roll of “2” or less would place the cell in Sudan; a roll 
+of “3” or higher would remove it to the Funding Track.
+4.9.6 Jihadist Activities. A separate Jihadist Activities sheet (on the 
+inside of both Player Aid Cards) is used only in a 1-player game, to 
+help determine how and where Jihadists operate (9.4). 
+4.10 CARDS
+4.10.1 Each of the game’s 120 cards has an operations value; a sym-
+bol if its event is associated with a side; an event name; flavor text; 
+game text (often with a precondition, 6.2.6); and an event number. 
+Some cards show that they are used only in scenarios that begin in 
+certain years. Some show that the events have markers for linger-
+ing or lapsing effects (6.2.7) or that the event occurs only once and 
+then is removed (6.2.9). The US Election card is an automatically 
+triggered event (6.3.1).
+4.10.2 Flavor Text. Flavor text has no impact on play (it merely 
+provides historical description). 
+4.10.3 Event Number. Cards are numbered from 1-120 for identi-
+fication purposes only. 
+Plot number
+Alert to remove
+takes a 3-card 
+(7.5.1)
+green
+tan
+Scenarios used
+Jihadist-associated (4.10.4)
+Operations value (6.3)
+Flavor text (4.10.2)
+One-time
+event (6.2.9)
+Lingering
+event (6.2.7) 
+Game text (6.2.6)
+Event number (4.10.3)
+
+4.10.4 Association. All card events are associated with either the 
+US or Jihadist sides or are Unassociated (6.2.5).
+5.0 SEQUENCE OF PLAY
+5.1 IN GENERAL
+LABYRINTH continues until the instant that one side achieves one of 
+its victory conditions (2.1) or the instant of the Reshuffle (1st, 2nd, 
+or 3rd) that corresponds to the selected length of play (3.3). 
+5.2 TURNS
+5.2.1 In General. Play proceeds through a series of Turns compris-
+ing alternating Action Phases. A Turn ends and a new Turn begins 
+when each side has expended the cards it was dealt, or when the 
+Jihadists have expended their cards and the US player then opts to 
+hold a card (5.2.4). Each Turn follows this sequence:
+5.2.2 Action Phases. In the first Action Phase, the Jihadist side plays 
+two cards in succession from its hand. Then the US side does the 
+same during its Action Phase, then the Jihadists, and so on. Place 
+played cards in the Discard Pile. (EXCEPTION: LAPSING or 1st 
+Plot, 4.7.7.1-2; REMOVE, 6.2.9.) A side with no cards remaining 
+during its Action Phase does nothing (the Jihadist side may remove 
+cadres, 4.8.4). In its action phase, the US side may discard or hold 
+the last card remaining in its hand (5.2.4). 
+NOTE: The card text “last Action Phase” during the US phase 
+refers to the preceding Jihadist phase, and vice versa, even if in 
+the previous Turn.
+5.2.2.1 As each card is played, it must be used to carry out either its 
+event (6.2) or operations (6.3).
+5.2.2.2 Mark the play of cards on the Action Phase track. 
+5.2.3 Unblocked Plots. At the end of each US Action Phase (whether 
+or not the US played any cards), resolve all Plots in any countries 
+(8.5.6).
+5.2.4 Final US Card. In any US Action Phase that the US side is 
+holding only one card, it may play it, discard it (without effect), or 
+hold it. If the Jihadist side has expended its cards and the US side 
+holds its final card, resolve any plots and end the turn.
+5.2.5 Expenditures & Diplomacy. At the end of each turn, drop 
+Funding by one (shift the “Jihadist Funding” marker one box 
+leftward on the Funding Track). Drop Prestige by one (shift the 
+“Prestige” marker leftward) if any country is under Islamist Rule. 
+Then, if Net World Posture is “3” and the same as US Posture, add 
++1 Prestige (rightward). 
+NOTE: Remember that a marker on a track may never fall below 
+the lowest value on the track or exceed the highest value on the 
+track. For example, if US Prestige is at “1” and is subject to a –1, 
+it would remain “1”. Prestige of “1” subject to –1 and then +1 for 
+Diplomacy would result in Prestige of “2”.
+5.2.6 Event Lapse and 1st Plot Reset. After Diplomacy (5.2.5), 
+place any cards in the Lapsing and 1st Plot boxes (4.7.7.1-2) onto 
+the Discard Pile and set any markers there aside. All Lapsing event 
+effects end at this moment.
+5.2.7 Reserves. Then, set all Reserves to “0” (6.3.3.1).
+5.2.8 Deal. Next, deal the Jihadist and the US sides alternate cards, 
+up to the numbers indicated by the Funding and Troops tracks, and 
+begin a new Turn. (Deal the indicated number of cards to the US 
+player regardless of whether the player is holding a final card per 
+5.2.4. There is no maximum hand size.) 	
+	
+5.2.9 Flip Regime Change. Finally, flip any green Regime Change 
+markers to their tan side (4.8.2).
+5.3 DRAW AND DISCARD PILES
+5.3.1 Whenever a card is to be drawn but the Draw Deck is ex-
+hausted, reshuffle the cards in the Discard Pile and Lapsing and 1st 
+Plot boxes (4.7.7.1-2) to create a new Draw Deck and advance the 
+“Deck” marker one box to the right. If it is the game-end reshuffle 
+(3.3, 5.1), the game immediately ends: determine victory (2.3). 
+5.3.2 Discarded and removed cards, cards in boxes, and the num-
+bers of cards in each side’s hand and in the Draw Deck are open 
+to inspection.
+6.0 CARD PLAY
+6.1 IN GENERAL
+Cards may be played in one of two ways: as events or operations.
+6.2 PLAYING CARDS AS EVENTS
+6.2.1 When a side elects to play a card for the event, the operations 
+value of the card is ignored (unless otherwise specified by the event 
+itself), and the side immediately implements the event according to 
+the game text on the card. 
+6.2.2 Whenever event text conflicts with game rules, the event 
+governs: follow the event text instead of any conflicting rules while 
+implementing the event and, if lingering (6.2.7), as long as the event 
+remains in effect (not blocked or lapsed).
+EXAMPLE: Play of the UN Nation Building event could allow a 
+War of Ideas roll in a Regime Change country, even if troops did 
+not exceed cells by five, because the card text “Play if a country is 
+marked with Regime Change…roll a War of Ideas…” trumps the 
+restrictions in rule 7.2.1.
+6.2.3 Conflicts. Should one event’s text conflict with another, the 
+last-played event supersedes for as long as it remains in effect. 
+6.2.4 When an event occurs, implement whatever aspects apply, 
+including MARK (6.2.7) and REMOVE (6.2.9), even if other 
+aspects do not.
+EXAMPLE: US play of the Ansar Al-Islam card for operations trig-
+gers the event (6.3.2), but there are no cells on the Funding Track. 
+No cell is placed (4.6.2 & 4.7.4), but the card is removed from the 
+game (6.2.9).
+6.2.5 Associated. A card with an event associated with a side may 
+be played for its event only by that side (either side may play the 
+card for operations, 6.3.1-2.). 
+6.2.6 Playable. Many cards have events with preconditions for play 
+(in gray text): if the preconditions are not met, these cards cannot 
+be played as events (only for operations). Similarly, blocked events 
+are not playable (6.2.8). 
+US-associated
+ Jihadist-associated
+ 	 	
+ Unassociated
+
+6.2.7 Lingering and Lapsing.
+•	 Lingering: A card that says MARK has an event with lingering 
+effects. When playing such an event, place its marker into the 
+Event Box or at the appropriate country space as a reminder 
+(4.7.7).
+•	 Lapsing: An event that says LAPSING has effects that linger only 
+for the remainder of the Turn. When playing the event, place the 
+card in a LAPSING card holding box as a reminder (4.7.7.1). 
+6.2.8 Blocking. Certain events block other events: a card with a 
+blocked event can be played only for operations; the effects of a 
+lingering event (6.2.7) end (flip or remove its marker) if a new event 
+is played that blocks it.
+NOTE: The markers of lingering events that block other events list 
+the blocked events in brackets (see illustration 4.7.7).
+6.2.9 One-Time Events. The event of a card that says REMOVE can 
+occur only once per game. When played as an event (only—NOT 
+when the card is used for operations or discarded!), permanently 
+remove it from play.
+6.3 PLAYING CARDS FOR OPERATIONS
+6.3.1 A side can play a card for its operations value regardless of 
+the event or association on it. The player selects a type of operation 
+and uses the value of the card to implement it (7.0 or 8.0). EXCEP-
+TION: Play of US Election always triggers the event; the playing 
+side chooses whether the operations or the event occur first. 
+6.3.2 Triggering the Other Side’s Events. Play of a card for opera-
+tions that has an event associated with the opposing side immediately 
+causes the event to occur. EXCEPTION: The first Jihadist card used 
+for Plot operations each turn does not trigger any US event, 8.5.3.
+6.3.2.1 The side playing the triggering card chooses whether the 
+event or the operation(s) occurs first. If—at the moment that the 
+event is to occur—the event is blocked or has a precondition that is 
+not met (6.2.6), the event does not occur. 
+6.3.2.2 Implement the event as if the side that it is associated with 
+played it, with the associated player making any decisions involved. 
+MARK (6.2.7) or REMOVE (6.2.9) normally. 
+6.3.2.3 Use of a card with a friendly or unassociated event for 
+operations—or discard of any card—does not trigger the event 
+(EXCEPTION: US Election).
+6.3.3 Reserves. Both sides may play 1- or 2-value cards for Reserves 
+operations. A Reserves operation adds the card’s value to that side’s 
+Reserves Track, to a maximum of “2”. If the card has a playable 
+event associated with the opposing side, the event immediately 
+occurs (6.3.2). 
+6.3.3.1 A side may expend all its Reserves (back to “0”) to add that 
+value (1 or 2) to a card it plays that turn for other operations (only, 
+not for events such as Back Channel), to a maximum card value of 
+“3”. EXCEPTION: The US may not use Reserves for Reassess-
+ment (7.6).
+EXAMPLE: The US side has two Reserves and wishes to Alert a 
+Plot, which requires a 3-value card play (7.5.1). By expending all 
+Reserves, the US may play a 1- or 2-value card as though it were a 
+3-value card (Reserves bring a card’s value up to a maximum of 3) 
+to perform the Alert Operation.
+6.3.3.2 Reserves not expended by the end of the turn are lost 
+(5.2.7). 
+7.0 US OPERATIONS
+Each US card play for operations conducts a single operation 
+(EXCEPTION: Reassessment, 7.6.2). The US player aid sheet sum-
+marizes this section.
+7.1 IN GENERAL
+7.1.1 Operations Value Requirement. The operations value re-
+quired depends on Governance in the target country: 
+•	 Good: 1 or higher (i.e., any card—1, 2, or 3)
+•	 Fair: 2 or higher (i.e., a 2- or 3-value card)
+•	 Poor: 3 only
+•	 Islamist Rule: Regime Change only (using a 3-card, 7.1.3 & 
+7.3.4).
+EXCEPTION: Alert always costs a 3-value card (7.5.1)
+EXAMPLE: The US player wishes to conduct War of Ideas in the 
+Gulf States to improve Governance there. Governance there cur-
+rently is “Fair-2”, so the US player will have to play either a 2- or 
+3-value card to carry out the operation.
+7.1.2 US Options. Beyond Reserves (6.3.3), the US operations 
+options are:
+•	 War of Ideas to improve alignment or governance or alter posture 
+to boost world relations and prestige.
+•	 Deploy troops to a country, possibly to change a regime (or bring 
+them home to the Troops track).
+•	 Disrupt Jihadist cells or cadre (and raise US prestige).
+•	 Alert to thwart or mitigate a terrorist plot.
+•	 Reassessment of US Posture.
+7.1.3 US Operations in an Islamist Country: The only US opera-
+tion allowed in an Islamist Rule country is a special form of Deploy 
+called Regime Change (7.3.4).
+7.2 WAR OF IDEAS
+Unlike other US operations, War of Ideas requires a die roll for 
+success. War of Ideas operations targeting Muslim countries (7.2.1) 
+use the War of Ideas table (4.9.2) and die roll modifiers found there, 
+while those targeting non-Muslim countries (7.2.3) use the Posture 
+table (4.9.3).
+7.2.1 War of Ideas in a Muslim Country
+7.2.1.1 A War of Ideas operation in a Muslim country allows the 
+US side to roll once on the War of Ideas Table to improve a Neutral 
+or untested country’s Alignment or an Ally country’s Governance. 
+The target Muslim country may not be an Adversary. A successful 
+roll shifts a Neutral country to Ally (4.2.3) or improves an Ally 
+country’s Governance by one level—from Poor to Fair or from Fair 
+to Good (4.2.1-2). 
+NOTE: A shift to Good removes any Regime Change, Besieged 
+Regime, or Aid markers. 
+7.2.1.2 Procedure: Roll one 6-sided die. A modified roll of “5” or 
+more is needed to succeed. Modifiers depend on whether attempting 
+a shift from Fair to Good, Prestige, GWOT Relations, Aid markers, 
+and any adjacent Good Ally. (See 4.9.2 and the War of Ideas Table 
+on both Player Aid Cards. Note that negative modifiers may make 
+success impossible.) 
+7.2.1.3 Regime Change. War of Ideas may occur in a country marked 
+with Regime Change (7.3.4, 7.3.4.1) only if the number of troops 
+there exceeds the number of cells by at least five. 
+
+7.2.2 Aid Markers
+7.2.2.1 The First Aid Marker. When making a War of 
+Ideas die roll in a Muslim Country, if the success die roll 
+fails by one pip (examples: a roll of “4” when 5+ was 
+needed for success, or a roll of “6” when a theoretical 
+7+ was needed) in a country without Aid, then place an Aid marker 
+there. (Events also may place the first Aid marker in a country.)
+7.2.2.2 Additional Aid Markers. War of Ideas can place only the 
+first Aid marker in a country—only events can add additional Aid. 
+Aid markers accumulate until removed.
+7.2.2.3 Removal of Aid Markers. A shift to Good Governance or 
+Islamist Rule removes all Aid from a country. A successful Jihad or 
+Plot resolution roll removes one Aid (8.4.1-2, 8.5.6).
+7.2.3 War of Ideas in a Non-Muslim Country
+A War of Ideas operation in a Non-Muslim country other than the 
+United States or Israel allows the US side to roll once on the Posture 
+table to determine (or change) the country’s Posture (4.3.2, 4.9.3-4). 
+(Make one roll, whether or not Posture has already been marked.) A 
+roll of 1-4 results in Soft Posture, 5-6 in Hard. If a target country’s 
+Posture after a War of Ideas operation is the same as that of the US, 
+add +1 to Prestige.
+7.3 DEPLOY
+7.3.1 A Deploy operation allows the US side to move any number 
+of troops from any one location (including the Troops Track) to 
+another. 
+EXCEPTION: Troops may not Deploy from a Regime Change 
+country (7.3.4.1) if it would leave fewer than five more troops there 
+than cells (see also Withdraw, 7.3.5). 
+DESIGN NOTE: Troops in Regime Change countries are participat-
+ing in reconstruction and securing the new government against en-
+emies beyond the Jihadists, such as secular insurgents or bandits.
+7.3.2 The Governance of the destination country determines the 
+minimum operations value needed. Use any card to Deploy to the 
+Troops Track (i.e., treat the Troops Track as “Good-1”). 
+7.3.3 A destination country at the moment of the Deploy operation 
+must be an Ally and thus must be a Muslim country (Exception: 
+Regime Change, 7.3.4).
+7.3.4 Regime Change. Regime Change is a special type of Deploy 
+operation. It requires the US to be at Hard Posture and have at least 
+six troops able to Deploy (from a single location and not committed 
+to other Regime Change countries per 7.3.1). The destination must 
+be a country under Islamist Rule (unlike normal Deploy per 7.3.3, 
+the country need not be an Ally). Play a 3-value card (may include 
+Reserves, 6.3.3.1) and:
+•	 Deploy at least six troops into the country.
+•	 Place a green Regime Change marker on them (4.8.2).
+•	 Roll its Governance on the Country Tests table. 
+•	 Shift its Alignment to Ally.
+•	 Shift any Sleeper cells there to Active (4.7.4.1).
+•	 Roll Prestige
+NOTE: The Regime Change marker on the 
+troops acts as a reminder that some or all 
+may not Deploy out (7.3.1) unless With-
+drawing (7.3.5). 
+7.3.4.1 Regime Change Countries. Any country with a Regime 
+Change marker is a “Regime Change country.” Only Poor or Fair 
+countries can be Regime Change countries. Immediately remove any 
+Regime Change marker from a country whose Governance shifts to 
+either Good or Islamist Rule.
+7.3.5 Withdraw. Withdraw is a second special type of Deploy opera-
+tion. It requires the US to be at Soft Posture and to have troops in a 
+Regime Change country (7.3.4.1). Play a 3-value card (may include 
+Reserves, 6.3.3.1) and:
+•	 Deploy any number troops out of the Regime Change country 
+(regardless of cells present).
+•	 Remove any Aid markers there.
+•	 Place a Besieged Regime marker there (if there is not one 
+already).
+•	 Roll Prestige.
+NOTE: The Regime Change marker remains.
+7.4 DISRUPT
+Disrupt operations allow the US side to:
+•	 Remove Active cells.
+•	 Make Sleeper cells Active.
+•	 Remove cadre.
+7.4.1 A Disrupt operation requires a target country that has at least 
+one cell or cadre in it and:
+•	 Is an Ally, or
+•	 Has at least two troops in it, or
+•	 Is non-Muslim (not IRAN).
+7.4.2 A Disrupt operation in a country with at least two troops or 
+whose Posture is Hard affects two cells selected by the US side. 
+Otherwise, it affects one US-selected cell. Disrupt of an Active 
+cell removes it to the Funding Track. Disrupt of a Sleeper cell shifts 
+it to Active. Alternatively, if there are no cells present, Disrupt 
+removes a cadre. 
+NOTE: A single Disrupt of two cells—one Active, one Sleeper—
+would remove the first and make the second Active. A single Disrupt 
+operation could NOT first make Active and then remove a single 
+Sleeper cell, nor could it remove both cells and cadre.
+7.4.3 If a Disrupt operation removes the last cell in a country, place 
+a cadre marker (4.8.4). 
+7.4.4 If a Disrupt operation occurs in a country with at least two 
+troops, raise Prestige by +1 (even if it only shifted cells to Active 
+or removed a cadre).
+7.5 ALERT
+7.5.1 An Alert operation requires a 3-value card, regardless of Gov-
+ernance (may include Reserves, 6.3.3.1).
+7.5.2 An Alert operation allows the US side to select, reveal, and 
+block (remove) one Plot marker from any country (including an 
+Adversary or IRAN). 
+7.5.3 The US player may inspect the Plot marker only after selecting 
+it (8.5.4). If a WMD Plot, remove it from the game (8.5.5); otherwise, 
+return it face down to the Available Plots box.
+NOTE: All unblocked Plots are resolved at the end of each US Action 
+Phase (5.2.3), so there is a limited window for Alert.
+
+7.6 REASSESSMENT
+7.6.1 A Reassessment operation allows the US side to change US 
+Posture from Hard to Soft or Soft to Hard.
+7.6.2 Unlike other US operations, a Reassessment requires play 
+of two cards, each of 3 value (no Reserves, 6.3.3.1), taking up an 
+entire US Action Phase.
+7.6.3 The US player decides what order the Posture switch and any 
+triggered Jihadist events occur (6.3.2). The posture switch must be 
+carried out. 
+NOTE: Certain events or resolution of a plot in the United States 
+(8.5.6) also can change US Posture.
+Clarification: The Posture switch must be carried out.
+8.0 JIHADIST OPERATIONS
+The Jihadist player aid sheet summarizes this section.
+8.1 IN GENERAL
+8.1.1 Operations Value. Unlike US operations, Jihadist operations 
+can use any card, regardless of a target country’s Governance. 
+However, almost all Jihadist operations require die rolls. Card value 
+determines the number of dice rolled (8.1.2). Governance determines 
+the success range of rolls:
+•	 Good: 1 (1 only)
+•	 Fair: 2 or less (1 or 2)
+•	 Poor: 3 or less (1, 2, or 3)
+•	 Islamist Rule: Automatic (all rolls succeed).
+EXCEPTIONS: Recruiting in Regime Change countries (8.2.3) and 
+Travel to adjacent or within the same countries (8.3.1) is automatic.
+8.1.2 Procedure: For each card played for operations, select and 
+announce one type of operation and where the operation(s) will oc-
+cur. (Multiple locales may be involved.) Then roll a number of dice 
+equal to the card’s value to determine how many of the operations 
+succeed. (If more than one country is involved, specify before roll-
+ing which dice are being rolled for which locales. All rolls from a 
+given card are considered simultaneous.) 
+EXAMPLE: The Jihadist side plays a 3-value card for operations 
+and announces that the operations type will be Recruit and that two 
+attempts will occur in AFGHANISTAN and one in Central Asia, 
+both currently at Fair Ally. The player rolls two dice and one die, 
+respectively, and places a cell for each roll of 1 or 2. If the player 
+rolled three successes but only two cells were Available (4.7.4.2 & 
+8.2.1), the player would then select how to distribute the two cells 
+between the two countries.
+The Jihadist side then plays a 
+second 3-value card and an-
+nounces it will be for Travel. 
+The player specifies that one 
+cell in AFGHANISTAN will 
+attempt Travel to the United 
+States and a second in AF-
+GHANISTAN plus a third in 
+PAKISTAN will attempt Travel 
+to Iraq, currently a Poor Ad-
+versary. The player then makes 
+three separate rolls, the Travel to the US succeeding only on a 1, 
+those to Iraq on 1-3. 
+8.1.3 Jihadist Options
+Beyond Reserves (6.3.3), the Jihadist operations options are:
+•	 Recruit to raise new cells in countries.
+•	 Travel cells between countries, or within a country to go to ground 
+(sleep).
+•	 Jihad (guerrilla warfare) to strike at Governance and foment 
+Islamist revolution.
+•	 Plot terror attacks to increase funding, harm US prestige, provoke 
+security reactions that worsen Governance, cancel aid programs, 
+alter a country’s Posture to disorder the West’s relations, or dev-
+astate the US Homeland.
+8.2 RECRUIT
+8.2.1 For each successful roll, a Recruit operation places one Avail-
+able Sleeper cell into a country. (“Available” means that the cell must 
+be taken from a box on the Funding Track below or to the left of the 
+Funding marker, 4.7.4.2.) A failed Recruit roll has no effect.
+8.2.2 The country must already have a cell or cadre present. If a cadre 
+is present, it is removed as soon as the first cell is placed (4.8.4).
+8.2.3 Regime Change Recruiting. Recruit rolls in Regime Change 
+countries (7.3.4.1) automatically succeed.
+8.2.4 Recruit Numbers. A few non-Muslim countries have printed 
+“REC” die-roll numbers (4.3.4). Recruit operations there ignore 
+Governance and instead must roll less than or equal to the printed 
+“REC” number to succeed.
+EXAMPLE: Recruit operations in the PHILIPPINES succeed on 
+rolls of 3 or less, not 2 or less.
+8.3 TRAVEL
+8.3.1 Each point of card value used for Travel enables a cell to move 
+from country to country and, if Active, shifts it to Sleeper. Non-adja-
+cent Travel must roll the destination country’s Governance number 
+or less to succeed. Travel between adjacent countries or within a 
+country (in order to recover Sleep status) automatically succeeds. 
+8.3.2 Failed Travel Rolls. A failed Travel roll removes the cell to 
+the Funding Track (do not place a cadre, 4.8.4). 
+8.3.3 Designate all origin and destination countries for a card play be-
+fore rolling. A cell may only Travel once on play of a given card.
+Note that a Travel attempt to an unmarked country would result in 
+a Test of the country’s Governance or Posture before executing the 
+Travel (4.9.4).
+8.4 JIHAD
+A Jihad operation targets Governance and Aid. The target countries 
+must be Muslim (not IRAN) and not under Islamist Rule. At least 
+one cell must be present in each target country for each roll made 
+there. Any Sleeper cell used to support this roll shifts to Active. 
+8.4.1 Minor Jihad. Each successful roll worsens Governance in 
+that roll’s target country by one level toward Poor (Good to Fair, 
+Fair to Poor) and removes one Aid marker. Note that, unless condi-
+tions for Major Jihad are met (8.4.2), a Jihad operation cannot shift 
+a country to Islamist Rule.
+8.4.2 Major Jihad. If the number of cells in the country exceeds 
+the number of troops by five or more at the operation’s outset and 
+the Jihadist side chooses in advance to shift all Sleeper cells there to 
+Active, then two successful rolls on a single card worsen Governance 
+from Poor to Islamist Rule (see 8.4.4). Each successful roll removes 
+one Aid. Note that, with the exception of Besieged Regime (8.4.3.2), 
+
+a 2- or 3-value card is needed to get to Islamist Rule.
+8.4.3 Failed Jihad. Each failed Jihad roll removes a cell to the 
+Funding Track (do not place a cadre, 4.8.4). 
+8.4.3.1 Major Jihad Failure. Whenever the Jihadists roll three dice 
+for Jihad in a country already at Poor and fail to shift it to Islamist Rule, 
+place a “Besieged Regime” marker in the country (if one is not already 
+there) and shift the country’s Alignment one box toward Ally.
+8.4.3.2 Besieged Regime. A country with a Besieged Re-
+gime marker requires only one successful Jihad roll (rather 
+than two) to shift it from Poor Governance to Islamist Rule. 
+A country may have at most one Besieged Regime marker. 
+Remove the marker if Governance shifts to Good or Islamist Rule.
+8.4.4 Islamist Revolution. Whenever Governance shifts to Islamist 
+Rule, mark Alignment as Adversary (regardless of any failure roll) 
+and remove any Regime Change, Besieged Regime, or Aid markers. 
+Increase Funding by that country’s Resources. If troops are present, 
+set Prestige to “1”. (The troops remain.)
+8.4.5 Pakistani Arsenal. The first time PAKISTAN shifts to Islamist 
+Rule, place the three WMD Plot markers from the Pakistani Arsenal 
+Box into the Available Plots box (4.7.8.1). They are Available for 
+later Plots.
+JIHAD EXAMPLE A: There are two cells in a country at Good, and all 
+other cells are in non-Muslim or Islamist Rule countries. The Jihadists 
+play a 3-card for Jihad, but can only use 2 of the 3 operations value. 
+Both cells go Active. The rolls are a “1” and a “4”. The die roll of 
+“1” is a success and worsens Governance to Fair, while the die roll 
+of “4” is a failure and causes one cell to be removed.
+JIHAD EXAMPLE B: Jihadists have six Sleeper cells in a Neutral 
+country under Fair-2 Governance and use three operations for 
+Major Jihad there, rolling “1”, “2”, and “3”. The cells shift to Ac-
+tive. The first success (the “1”) shifts Governance to Poor. Because 
+there is only one additional success (the “2”), there is no further 
+shift from Poor to Islamist Rule (8.4.2), even though there were five 
+more cells than troops. The single failure (the “3”) removes one cell 
+(8.4.3). The “3” fails because the simultaneous rolls were against 
+“Fair-2” (8.1.2). No Besieged Regime marker is placed, nor does 
+Alignment shift to Ally, because the target was not at Poor at the 
+commencement of the operation (8.4.3.1). Note that a single 3-card 
+play can be both a Minor and Major Jihad at the same time if played 
+on a Fair country and all three rolls succeed.
+JIHAD EXAMPLE C: The Jihadist side plays a 3-card and announc-
+es Major Jihad in PAKISTAN, a Poor Ally where there currently are 
+seven cells, two troops, and an Aid marker. After shifting all seven 
+cells to Active, the Jihadist player picks up and rolls three dice, 
+obtaining rolls of “2”, “3”, and “4”. The “4”—a failure—causes 
+removal of a cell from PAKISTAN, leaving six cells there, while the 
+“2” and “3”—the two successful rolls needed for Islamist Revolu-
+tion—worsen Pakistan’s Governance from Poor to Islamist Rule. The 
+player shifts PAKISTAN from Poor Ally to Islamist Rule Adversary, 
+removes the Aid, shifts Funding up by two (+2), and places the three 
+WMD Plot markers from the Pakistani Arsenal box into the Event 
+Box for later Jihadist use. US Prestige drops to “1”; the two troops 
+remain in Islamist Rule PAKISTAN.
+8.5 PLOT
+8.5.1 In General. A Plot operation may target any coun-
+try (including IRAN) not under Islamist Rule. At least 
+one cell must be present in each target country for each 
+roll made there, and any Sleeper cell used to allow a roll 
+shifts to Active. At least one Plot roll must be made for a card to be 
+used as a Plot operation to avoid a US-associated event (8.5.3).
+8.5.2 Procedure. Roll the appropriate number of dice (8.1.1). Each 
+successful roll places into the target country an Available Plot 
+marker with a number equal to or less than the card value used, or 
+an available WMD marker, face down (8.5.4). A failed Plot roll has 
+no further effect.
+NOTE: The Plot markers in the game limit the number and types of 
+Plots that can be placed at a time (4.8.1). “Available Plots” are those 
+markers currently in the Available Plots box (4.7.8 & 8.5.5.). 
+8.5.3 First Plot. The first use each turn of a card for Plot operations 
+ignores rather than triggers any US-associated event (6.3.2). (Place 
+the card in the 1st Plot box as a reminder, 4.7.7.2.).
+Tip: Always place the first card you execute a Plot Operation with 
+in the 1st Plot box on the map as a reminder that the Jihadists have 
+conducted their 1st Plot Operation.
+NOTE: This allows the Jihadist player the ability to ignore one US-
+associated event in his hand each turn. The card does not have to be 
+the first card he plays, just the first Plot operation he conducts. Also 
+note that the Jihadist side could not avoid a US-associated event with 
+a 1st Plot if only Islamist Rule countries had cells (8.5.1).
+8.5.4 Hidden Plots. Keep placed Plot markers face down (showing 
+just “Terror Plot”, 4.8.1)—only the Jihadist side may inspect them. 
+Reveal their values (or WMD) to the US only as they are blocked 
+by Alert or resolved. 
+8.5.5 WMD Plots. Any WMD Plot markers in the Available Plots 
+box may be placed upon any successful Plot operation roll (8.5.2). 
+When a WMD Plot is either blocked (7.5.2-3) or resolved, remove 
+the WMD Plot marker from the game.
+8.5.6 Unblocked Plots. At the end of each US Action Phase, the 
+Jihadist player must reveal and resolve any Plot markers that remain 
+in any countries. He chooses the order. Resolution is as follows:
+VICTORY
+•	 If a WMD Plot in the US, the Jihadists win.
+FUNDING
+•	 For any Plot in a Muslim country or IRAN, add +1 to Funding 
+if Governance is worse than Good; or +2 if the country is at 
+Good.
+•	 For a non-WMD Plot in a non-Muslim country outside the US, 
+increase Funding by the Plot number or, if at Good, by twice that 
+number.
+•	 For a WMD Plot in a non-Muslim country, or any Plot in the US, 
+set Funding to “9”.
+POSTURE
+•	 If the plot is in a non-Muslim country (including the US), roll the 
+country’s Posture. If WMD in a 2-player game, the Jihadist side 
+may reroll this result once.
+•	 If in the Schengen area, the Jihadist side selects two other Schen-
+gen countries and rolls their Postures.
+
+PRESTIGE
+•	 If the target country has troops, lower Prestige by one (–1) or set 
+Prestige to “1” if the Plot is WMD.
+•	 If in the US, make a Prestige roll. 
+GOVERNANCE AND AID
+•	 If the plot is in a Muslim country, roll a number of dice equal to 
+the Plot number (3 dice if WMD) as if attempting a Jihadist opera-
+tion in the country (8.1). Each success removes one Aid marker 
+and worsens Governance by one level, but not to Islamist Rule. 
+Failure has no effect. 
+MARKER
+•	 Return the Plot marker to the Available Plots box (or remove it 
+from the game if WMD).
+NOTE: Both Player Aid Cards summarize how to resolve Unblocked 
+Plots.
+STOP!! 
+You have read all the 2-player rules.
+The remaining rules apply only to solitaire.
+9.0 JIHADIST ACTIVITIES
+(1-PLAYER)
+This section contains rules for playing the game solitaire and modi-
+fies previous sections. When in conflict, the rules in this section take 
+precedence for solitaire play. To play the game solitaire, the player 
+takes the US side. This rules section and the Jihadist Activities chart 
+govern the Jihadists.
+9.1 HOW TO WIN
+Elimination of the last cell does not cause a US win (continue play). 
+Islamist Rule over 6 or more Resources results in a Jihadist win, 
+regardless of adjacency (modifies 2.1). If the game ends via Reshuffle 
+(3.3), the US loses a 1-deck game if fewer than 6 Resources are 
+Good, loses a 2-deck game if fewer than 9, and a 3-deck game if 
+fewer than 12 (modifies 2.3; other conditions still apply).
+9.2 SEQUENCE OF PLAY 
+Deal the Jihadists’ cards (5.2.8) as a face-down pile, playing, remov-
+ing, or adding cards from or to the top. Inspect them (5.3.2) only 
+to implement the Intel Community or FSB events. After resolving 
+FSB, shuffle the Jihadist hand. 
+EXAMPLE: Event instructions to take a “random” Jihadist card 
+would take the top Jihadist card.
+OPTIONAL 
+For less variability in difficulty, divide the deck at set up and after 
+each Reshuffle into three face-down, shuffled “mini-decks”:
+•	 Unassociated events, 
+•	 Jihadist-associated events, 
+•	 US-associated events. 
+Deal and shuffle the entire Jihadist hand, then deal the US hand. 
+For each deal or event-driven draw from the deck, draw one 
+card from each mini-deck that still has cards, in the above order, 
+returning to Unassociated after US-associated. Exhaustion of all 
+three mini-decks triggers Reshuffle (5.3.1).
+9.3 OPERATIONS
+9.3.1 Choosing Cells. For operations or events from Jihadist card 
+play, choose any Active cells within a country before Sleeper cells. 
+EXCEPTION: Choose Sadr last.
+9.3.2 Placing Plots. Plot success or event places a random Plot 
+marker from Available Plots (modifies 8.5.2—note that card value 
+does not restrict Plot value; Danish Cartoons and Zarqawi still place 
+a specific numbered Plot if indicated).
+9.3.3 Acquiring WMD. Each WMD Plot marker added to the Event 
+Box replaces one of the lowest available numbered Plot markers. 
+(Set replaced Plot markers aside so that there are always exactly 6 
+Plot markers in play.) When a WMD Plot marker is used, return the 
+highest set-aside numbered Plot marker to the Event Box (modifies 
+4.7.8.1).
+9.4 JIHADIST CARD PLAY 
+Implement each Jihadist card play (6.0) as follows. 
+NOTE: The Jihadist Activities charts on the inside of both Player 
+Aid Cards summarize this section.
+9.4.1 Event or OPS? 
+First, follow the “Event or OPS?” flow chart to determine whether 
+the card’s event occurs and what, if any, operations the Jihadist side 
+will perform:
+•	 If the card is a playable (6.2.6) Jihadist or Unassociated event, 
+play the event (even if it provides no effect or to US advantage). 
+EXCEPTION: When there are no cells on the Funding track, 
+an event that would Recruit or place a cell instead triggers 
+Radicalization (9.4.3).
+•	 If the card drawn is a playable US event, Plot; no event occurs.
+•	 If the Jihadists played an Unassociated event or the event is not 
+playable, roll Major Jihad if a successful Major Jihad (one that 
+could result in Islamist Rule, 8.4.2) is possible. 
+•	 If Major Jihad success is not possible, roll Minor Jihad if possible 
+in a Good or Fair country.
+•	 If Jihad is not possible in a Good or Fair country, Recruit if 
+any cells are Available (4.7.4.2) and the GTMO event is not in 
+effect.
+•	 If no cells are Available or GTMO is in effect, Travel.
+For any unusable operations value left over, see Radicalization 
+(9.4.3).
+Note that Jihadist card play never triggers US events (6.3.2; ignore 
+“1st Plot”, 4.7.7.2) nor uses Reserves (6.3.3) and, for playable 
+Unassociated events, yields the event before the operations.
+9.4.2 Where? 
+Second, use the appropriate “Where?” flow chart or Random Country 
+die roll tables (9.5) to determine where Jihadist operations or events 
+occur. Within each green flow chart box, apply the “Priorities” listed 
+in the appropriate white box, as needed, to select a country. To the 
+degree possible with cells present in a given country, and unless 
+otherwise noted (such as Travel, 9.4.2.6-6.1; Radicalization, 9.4.3), 
+conduct Jihadist operations from a given card within a selected 
+country before moving on to another.
+9.4.2.1 For event-driven activities, use Jihadist Activities charts as 
+follows:
+•	 For Plot placement, use “Plot”. If Radicalization results, use the 
+card’s value for Radicalization (9.4.3) and ignore the event. (For 
+
+Zarqawi cell and plot placement follow cell placement, below.)
+•	 For Governance or Alignment shifts, use “Minor Jihad”. For Iran 
+and Jaysh Al-Mahdi, roll on the “Shia-Mix” table (9.5), test the 
+resulting country if Unmarked, then find the closest applicable 
+country at Good then Fair.
+•	 For cell placement, select randomly among potential countries 
+(9.5). For Lebanon War, roll on the “Shia-Mix” table. For Jihadist 
+Videos and Madrassas Recruitment (including the subsequent 
+card), roll on the “Global” table (9.5) and find the closest 
+applicable country.
+•	 For Schengen Visas Travel, begin at the indicated “To” box to 
+select destinations, rolling on the “Schengen” table if there are 
+several possibilities. For Clean Operatives, the 2 cells’ destina-
+tion is the UNITED STATES. For either event, use “From” for 
+origin.
+Note that a handful of events have additional solitaire implementa-
+tion instructions (9.6).
+9.4.2.2 Roll for or place Plots as much as possible in the United 
+States, then:
+•	 If Prestige is above Low, first in the PHILIPPINES if Abu Sayyaf 
+is in effect and the PHILIPPINES hosts at least as many cells as 
+troops, then in countries with troops.
+•	 Then, if the GWOT Penalty is 0 (4.7.2.1), in countries with the 
+same Posture as the US.
+•	 Then in countries with Aid markers.
+•	 Then, if Funding is less than 9, in any non-Muslim, and then 
+Muslim countries or IRAN.
+•	 Then use any remaining operations for Radicalization (9.4.3).
+Within the sequence above, give priority to Fair countries over Good 
+then Poor if conducting Plot operations; Good over Fair then Poor 
+if placing plots via event.
+9.4.2.3 If Major Jihad is possible in more than one country, select 
+PAKISTAN, then the country with the highest Resources.
+9.4.2.4 Roll Minor Jihad or shift Governance or Alignment first in 
+countries at Good, then Fair. Then, if shifting Alignment, do so in a 
+country at Poor. Within this sequence, target PAKISTAN first, then 
+countries with Aid, then Besieged Regimes, then the highest Re-
+sources. Use any remaining operations for Radicalization (9.4.3).
+9.4.2.5 In descending order of priority, Recruit in:
+•	 A Regime Change country where troops outnumber cells by five 
+or more, 
+•	 An Islamist Rule country with fewer cells than twice the operations 
+value of the card, 
+•	 A non-Islamist Rule and non-Regime Change country with 
+the highest required roll for Recruit success (whether due to 
+Governance, 8.1.1, or Recruit Number). 
+Within this sequence, select a Besieged Regime, if any, then the 
+country with the highest sum of troops plus cells, then (if the choice 
+is only among Muslim countries) the country with the highest Re-
+sources. Roll one Recruit operation at a time. If there is no suitable 
+location, or if Available cells on the Funding Track run out while 
+operations value remains, conduct Radicalization (9.4.3). 
+NOTE: For cell placement by event, Jihadist Videos, and Madras-
+sas, use 9.5 to select randomly rather than using this sequence 
+(9.4.2.1).
+9.4.2.6 For Travel, first select all destinations, in descending order, 
+for one cell each (maximum per category or flowchart box): 
+•	 A non-Islamist Rule country with Besieged Regime, then Regime 
+Change, then Aid, if any.
+•	 A Poor country where Major Jihad would be possible if two (or 
+fewer) cells were added.
+•	 A Good or Fair Muslim country with at least one cell adjacent.
+•	 An unmarked non-Muslim country if US Posture is Hard, or a 
+Soft non-Muslim country if US Posture is Soft. 
+If operations remain, select a destination randomly (9.5) for Travel 
+with that number of cells. Within the bulleted categories above, select 
+PAKISTAN first, then (if all possibilities are Muslim), from among 
+those with the highest Resources. If the Biometrics event is in play 
+and no cells are adjacent to the selected destination, use the card’s 
+operations value for Radicalization instead (9.4.3). 
+9.4.2.6.1 Next, separately select the origin for each destination, in 
+descending order:
+•	 An Islamist Rule country with more cells than the card’s operations 
+value.
+•	 Regime Change country with more than 5 cells.
+•	 An adjacent country.
+•	 Randomly among countries with cells, including the destination 
+country itself (resulting, if selected, in any Active cell used be-
+coming a Sleeper, 4.6.4).
+Within the bulleted categories above, first select countries with at 
+least one Active cell not yet committed to Travel. If possible, avoid 
+selecting any separate destination country as an origin on the same 
+card play. If the last cell in an Islamist Rule or Regime Change coun-
+try travels, it travels within the country (becomes or stays a Sleeper, 
+4.6.4) rather than to the destination selected per 9.4.2.6.
+9.4.2.6.2 Finally, conduct all Travel (one attempt per cell).
+9.4.3 Radicalization
+When the flowcharts set up a situation where the Jihadists cannot 
+use any operations value received from a card, instead:
+•	 If the Funding track has a cell, the 1st operations value remaining 
+automatically places one cell into a random country.
+•	 The next operations value Travels one cell (determine destination 
+and origin using the flowcharts, 9.4.2.6, starting at the second “To” 
+box); the Travel automatically succeeds (ignore Biometrics). 
+•	 If Funding is less than 9, the next operations value automatically 
+places a Plot (9.3.2) into a random non-Islamist Rule country with 
+a cell.
+•	 Each operations value that remains automatically worsens the 
+Governance of a randomly selected Good or Fair Muslim country 
+by one level.
+EXAMPLE: The Jihadist card is a 3-value playable US event, but 
+there is only one cell on the map. Conduct one Plot operation with 
+the cell (9.4.1), then place one cell from the track (regardless of 
+Funding) into a randomly-selected country (9.5), then automatically 
+Travel with one cell.
+9.5 RANDOM COUNTRY
+Whenever the “Where?” flow charts (9.4.2), scenario set up, Jihadist 
+event, or other instructions yield multiple, equal-priority country 
+options on the map, or specify “random” or “randomly”, select 
+randomly, as follows:
+
+•	 If there are 6 or fewer options and neither Schengen nor Shia-Mix 
+is specified, assign each candidate country a die roll number (or 
+equal die-roll range) and roll a die.
+•	 If more than 6 options, roll one tan and one black die on the 
+“Global” table. If non-Muslim or Muslim is specified, roll the 
+tan die until an appropriate column (blue or green, respectively) 
+results (reroll a result of “IRAN”, if appropriate). 
+•	 If Schengen is specified (such as for extra Posture rolls after a 
+Plot in the Schengen area, 8.5.6), roll one die on the “Schengen” 
+table (note the table for convenience omits EASTERN EUROPE, 
+even though it counts as a Schengen country.)
+•	 If Shia-Mix is specified, sum together a roll of three dice on the 
+“Shia-Mix” table.
+9.5.1 Closest Country
+If a Random Country table roll results in an ineligible locale, find 
+the closest eligible countries to it (counting by adjacent countries) 
+and select among them by die roll (per 9.5, first bullet).
+EXAMPLE: The Jihadists are to use two operations to Plot. No cells 
+are in the United States, and Abu Sayyaf is not in effect. Prestige is 
+High, there are US troops and two cells each in AFGHANISTAN and 
+Gulf States, and both countries are at Fair. Because the Jihadist Ac-
+tivities “Where?” chart gives both countries an equal priority as the 
+locale of the Plot operations, the player designates AFGHANISTAN 
+“1-3” and Gulf States “4-6” and rolls a die to determine where the 
+two operations occur.
+9.6 INDIVIDUAL EVENT INSTRUCTIONS 
+•	 Ex-KGB: Target Caucasus if that would shift the World Posture 
+marker (4.7.2), otherwise target CENTRAL ASIA.
+•	 Leak: Randomly select among Enhanced Measures, Renditions, 
+and Wiretapping markers in the Event Box.
+•	 Oil Price Spike: Draw from the Discard Pile randomly among the 
+highest-value Jihadist-associated event cards. If none is available, 
+use Oil Price Spike for operations (only).
+PLAY NOTE: Keeping discarded Jihadist-associated 3-cards in a 
+separate stack eases implementation of Oil Price Spike.
+9.7 JIHADIST IDEOLOGY
+The above rules provide a level of play suitable for learning the 
+game. Once familiar—or if you prefer to dive straight into a greater 
+challenge—take on one of these ascending levels of US difficulty, 
+representing the receptivity of Muslims to Jihadism: 
+•	 Coherent: Each Plot success places two Available Plot markers 
+(modifies 8.5.2).
+•	 Attractive: Each Recruit success places two available cells 
+(modifies 8.2.1).
+•	 Potent: The above, plus just three more cells than troops allows 
+Major Jihad (modifies 8.4.2).
+•	 Infectious: The above, plus the US must play all its cards 
+(modifies 5.2.4).
+•	 Virulent: The above, plus failed Jihad rolls do not remove cells 
+(modifies 8.4.3).
+GLOSSARY AND INDEX
+Adjacent: Countries geographically, culturally, or politically 
+close enough to permit ready movement between them by any-
+one. (4.1.1, 4.5)
+Action Phase: Alternating game segment in which a side (typi-
+cally) plays two cards. (5.2.2) 
+Active: A cell gone operational or flushed from hiding. (4.6.4)
+Adversary: An anti-US Muslim country. (4.2.3)
+Aid: The gradual effect on governance of outside material and 
+advisory assistance. (4.8.3, 7.2.2)
+Alert: A US operation that prepares a country’s security forces 
+and first responders to thwart or mitigate the effects of an im-
+minent terror plot. (7.5)
+Alignment: A rough characterization of how closely a country’s 
+government is apt to work with the US in the struggle against 
+jihadism. (4.2.3)
+Ally: A Muslim country actively working with the US in the 
+struggle with Islamic extremists. (4.2.3)
+Available: A cell for which Jihadist Funding suffices to be Re-
+cruitable or a Plot marker (possibly WMD) that is eligible to be 
+placed in a country upon a successful Plot roll. (4.7.4.2, 4.7.8)
+Besieged Regime: A country weakened by jihad operations. 
+(4.8.3, 8.4.3.2)
+Block: Prevent play or end the effects of an event via another 
+event or a Plot via an Alert. (6.2.8, 7.5.2)
+Cadre: A Jihadist network’s vestigial (and embryonic) core. 
+(4.8.4)
+Cell: The standard Jihadist unit: a small group of operatives 
+working covertly. Cells in the game also represent units of 
+Jihadist guerrillas. (4.6)
+Deploy: A US operation that sends or repositions troops over-
+seas. (7.3)
+Diplomacy: Gradual global change in perceptions of US policy 
+from overall agreement or disagreement over anti-extremist 
+tactics. (5.2.5)
+Disrupt: A US operation that uncovers, disperses, detains, or 
+kills a cell’s operatives. (7.4)
+Event: Use of a strategy card for the special happening that it 
+depicts instead of for the standard menu of operations. (6.2)
+Expenditures: The tendency of Jihadist financial contributions 
+to trail off in the absence of successful terrorist plots. (5.2.5)
+Funding: A rough characterization of the flow of finances to 
+extremists from wealthy donors, radical imams, Jihadist busi-
+nesses, and such. (4.7.4.1)
+Governance: A rough characterization of the representativeness 
+and efficiency of a government as Good, Fair, Poor, or Islamist 
+Rule. (4.2.1)
+GWOT: Global War on Terror, a US term for the struggle against 
+Islamist extremism. (4.7.2)
+
+GWOT Relations: A rough characterization of consensus or split 
+between the US and its non-Muslim partners regarding tactics in 
+the struggle against extremism. (4.7.2)
+Hard: A non-Muslim country’s preference for “hard power”, such 
+as military force. (4.3.2)
+Ideology: The Jihadists’ system of ideas about how humanity 
+should live. In the game, the general appeal of these ideas to 
+Muslims. (9.7)
+Iran: In the game, a country type unto itself: a Shia-run power 
+(in contrast to Shia-Mix). (4.4)
+Islamist Rule (IR): Governance by the vision of the Jihadist 
+extremists, a historical example being Afghanistan under the 
+Taliban. (4.2.1)
+Jihad: Struggle or war in the cause of Allah, in the game repre-
+senting either guerrilla attacks against or infiltration of a country’s 
+government to weaken it (Minor Jihad) or the attempt to replace 
+it with Islamist rule (Major Jihad). (8.4)
+Lapsing: Event effects lasting a Turn. (6.2.7)
+Lingering: Events effects that remain. (6.2.7)
+Low Intensity: Deployment of modest numbers of US and allied 
+troops overseas, yielding savings that can be used elsewhere in the 
+struggle against extremists (in the game, more cards). (4.7.3)
+Muslim: Countries with Muslim majorities, either Sunni or Shia-
+Mix (in the game, excepting Iran). (4.1.2, 4.2)
+Neutral: A Muslim country neither aiding nor opposing the US 
+in the fight against Jihadists. (4.2.3)
+Non-Muslim: Countries with Muslim minorities only. (4.1.2, 
+4.3)
+Operations (OPS): Use of the capabilities represented by a card 
+(“value”) for one from a menu of activities. (6.3, 7.0, 8.0)
+Overstretch: US and allied deployment beyond the maximum 
+politically sustainable number of troops in warzones, weakening 
+other activities in the struggle with extremists. (4.7.3)
+Playable: An event whose preconditions are met and which is 
+not Blocked. (6.2.6)
+Plot: A Jihadist operation to launch a major terrorist attack in order 
+to attract funding, degrade US Prestige, deter aid workers, goad a 
+government into overreaction, or shift its Posture. (4.8.1, 8.5)
+Posture: A non-Muslim country’s reigning preference for “hard 
+power” or “soft power”. (4.3.2)
+Prestige: A rough characterization of the standing of US policy 
+in the eyes of world and especially Muslim populations and 
+leaders. (4.7.1)
+Radicalization: In a 1-player game, special Jihadist activity 
+with unused operations, representing frustrations on the part of 
+individual Muslims turning them to Jihadism. (9.4.3)
+Reassessment: A US operation that switches US Posture, rep-
+resenting a concerted national dialogue to shift approach in the 
+“war on terror”. (7.6)
+Recruit: A Jihadist operation to add cells to a country. (8.2)
+Recruit Number: A die-roll number printed in a few countries 
+and used instead of Governance to determine success at recruit-
+ing. (4.3.4, 8.2.4)
+Regime Change (RC): A special US Deploy operation that 
+changes a country’s Alignment and (typically) Governance by 
+military force, making it a “Regime Change country” until its 
+Governance becomes Good or Islamist Rule. (7.3.4)
+Reserves: An operation to invest effort toward another, near-future 
+operation. (6.3.3)
+Resources: A rough characterization of the material, human, 
+military, cultural, and other assets of a Muslim country. (4.2.5)
+Schengen: An area of countries with open borders to one another 
+and thus all adjacent in the game. Also, successful Plots in one of 
+them may affect the Posture of others. (Some Schengen countries 
+in the game joined the area after 2001.) (4.5)
+Shia-Mix: A Muslim country (typically) governed by Sunnis but 
+with a substantial population of the Shia sect. (The game treats 
+Shia-ruled Iran as a distinct type.) (4.1.2)
+Sleeper: A cell laying low to avoid disruption. (4.6.4)
+Soft: A non-Muslim country’s preference for “soft power”, such 
+as diplomacy. (4.3.2)
+Sunni: A Muslim country with a large and (typically) ruling 
+majority of the Sunni sect. (Syria—a Sunni majority ruled by 
+Alawis, a Shia subsect—is an exception; the game treats it as 
+Sunni.) (4.1.2)
+Test: The procedure used to find an Unmarked country’s Gover-
+nance or Posture toward the GWOT. (4.9.4)
+Turn: A segment of play in which both sides expend the cards they 
+were dealt (though the US side may hold its last card). (5.2)
+Travel: A Jihadist operation to relocate a cell to another country 
+or lay low within a country. (8.3)
+Troops: US or other Western armed forces. (4.6)
+Unassociated: An event neither exclusively US nor Jihadist, 
+playable by either side. (4.10.4)
+Unmarked: In the game, a country whose Governance or Posture 
+has not yet been Tested in the struggle with extremism. (4.9.4)
+War: US and allied deployment of close to the maximum sustain-
+able number of troops overseas to battle extremism. (4.7.3)
+War of Ideas (WoI): A US operation aimed through diplomacy, 
+public affairs, aid, advisors, and the like to influence Governance, 
+Alignment, Posture, or US Prestige. (7.2)
+Withdrawal: A special US Deploy operation: precipitate US 
+removal of troops from a country in the aftermath of Regime 
+Change. (7.3.5)
+WMD Plot: A plot involving a weapon of mass destruction (in the 
+game, either nuclear fission or biological) able to cause thousands 
+of casualties in a single terrorist attack. (4.7.8.1, 8.5.5)
+World Posture: The degree to which the non-Muslim world 
+favors US exercise of either Hard or Soft power against extrem-
+ism. (4.7.2)
+
+GMT Games, LLC
+ P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+Let’s Roll!
+(Post-9/11: 2001-?)
+It is September 12th, 2001. Al-Qaeda has 
+pulled off a devastating “martyrdom opera-
+tion” in the United States that it hopes will 
+light the fires of Islamist revolution. The 
+US—caught off guard—has awaken and is 
+about to respond…
+•	 Prestige: 7
+•	 GWOT: US Hard; World Hard 1
+•	 Troops: Low Intensity
+•	 Funding: 9
+•	 Islamist Rule Resources: 1
+•	 Fair/Good Countries: 3
+•	 Poor/Islamist Rule Countries: 4
+•	 Syria: Fair Adversary
+•	 Iraq: Poor Adversary
+•	 Saudi Arabia: Poor Ally, 2 Troops
+•	 Gulf States: Fair Ally, 2 Troops
+•	 Pakistan: Fair Neutral
+•	 Afghanistan: Islamist Rule Adversary, 4 
+Cells
+You Can Call Me Al
+(Alternative History)
+2001: After months of ballot recounts in 
+Florida, Democrats retain the White House. 
+US diplomatic machinery is focused on 
+global environmentalism and pursuit of US 
+“humanitarian interests.” It is September 
+12th, and the Towers have fallen…
+Set up per 2001 scenario, except:
+GWOT: US Soft
+Remove Card: Axis of Evil.
+Anaconda
+(Post-Operation Enduring 
+Freedom: 2002-?)
+It is early 2002. The United States has carried 
+out a swift military operation to remove the 
+Taliban regime of Afghanistan and scatter al-
+Qaeda. Jihadist losses have been heavy, but 
+al-Qaeda’s leadership has escaped…
+•	 Prestige: 8
+•	 GWOT: US Hard; World ??
+•	 Troops: War
+•	 Funding: 6
+•	 Islamist Rule Resources: 0
+•	 Fair/Good Countries: 2
+•	 Poor/Islamist Rule Countries: 6
+•	 Syria: Fair Adversary
+•	 Iraq: Poor Adversary
+•	 Saudi Arabia: Poor Ally, 2 Troops
+•	 Gulf States: Fair Ally, 2 Troops
+•	 Pakistan: Poor Ally, 1 cell, FATA
+•	 Afghanistan: Poor Ally, 6 troops, 1 cell, 
+Regime Change (tan)
+•	 Central Asia: Poor Ally
+•	 United States: Patriot Act
+•	 Jihadist: Place a cell each in three non-US 
+countries, then test any unmarked.
+Remove Cards: Patriot Act, Tora Bora.
+Mission Accomplished?
+(Post-Operation Iraqi Freedom: 
+2003-?)
+It is mid-2003. The United States has gambled 
+on pre-emptive war in Iraq in hopes of forg-
+ing democracy in the heart of the Muslim 
+world. But US overstretch, European doubts, 
+and Iraqi resistance offer the Jihadists an 
+opening…
+•	 Prestige: 3
+•	 GWOT: US Hard; World ??
+•	 Troops: Overstretch 
+•	 Funding: 5
+•	 Islamist Rule Resources: 0
+•	 Fair/Good Countries: 5
+•	 Poor/Islamist Rule Countries: 4
+•	 Event Box: Enhanced Measures, Renditions, 
+Wiretapping
+•	 Syria: Fair Adversary, 1 cell
+•	 Iraq: Poor Ally, 6 troops, 3 cells, Regime 
+Change (tan)
+•	 Iran: 1 cell
+•	 Saudi Arabia: Poor Ally, 1 cell
+•	 Gulf States: Fair Ally, 2 troops
+•	 Pakistan: Fair Ally, 1 cell, FATA
+•	 Afghanistan: Poor Ally, 5 troops, 1 cell, 
+Regime Change (tan)
+•	 Central Asia: Fair Neutral
+•	 Indonesia/Malaysia: Fair Neutral, 1 cell
+•	 Philippines: Soft, 2 troops, 1 cell, Abu 
+Sayyaf
+•	 United Kingdom: Hard
+•	 United States: Patriot Act, NEST
+•	 Jihadist: Roll Posture for each Schengen 
+country, then, if a 2-player game, reroll 1 
+of them.
+Remove Cards: Patriot Act, Tora Bora, 
+NEST, Abu Sayyaf, KSM, Iraqi WMD.
+NOTE: This scenario can be more challeng-
+ing for the US side and with 2 players is best 
+for 2- or 3-deck play.
+SCENARIOS
+Note: All cells set up as Sleepers.

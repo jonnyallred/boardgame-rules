@@ -1,0 +1,489 @@
+A game by Matthias Cramer for 2 - 5 players aged 12 years and up
+The players want to proceed from simply being a Lord 
+to the most powerful ally of the king. They may achieve 
+this by developing their own knighthood as well as by 
+clever deployment of individual knights in the counties 
+of England, at their own castle and to conflicts with 
+France. In parliament, they try to push laws from which 
+they will benefit themselves most. The player with the 
+most power points at the end of the game is the winner.
+In the year of 1413 - the new King of England, Henry V of 
+Lancaster, pursues ambitious plans: the unification of Eng-
+land and the conquest of the French Crown!
+Each player is the leader of their own aspiring noble family. 
+Who will become a true supporter of the young King and 
+thus the most powerful Lord of their time?
+Object of the game
+
+ Sequence of play
+Randomly determine a start player, give them the start 
+player marker. The players take their turns in clockwise 
+direction.
+The game is played over five game rounds. 
+Each round consists of 3 Phases:
+ 1: Place knights
+ 2: Parliament
+ 3: Rewards
+ Phase 1: Place knights
+The active player takes one of their own knights from 
+their court and places him on a knight’s space. Then, 
+the next player does likewise, etc., until the players have 
+placed all their knights. If a player has no more knights 
+at their court, their turn is skipped. If only one player 
+remains with knights at their court, they place them 
+successively one after another.
+There are possible 3 locations for placing knights:
+• County
+• Castle
+• Conflict
+County
+In counties, a knight can be placed on an empty or an 
+occupied space. In both cases, the knight himself must 
+match or exceed the demanded minimum strength.
+Additionally, the player may place as many squires as 
+they wish along with their knight.
+Each squire adds 1 strength point, which does not count 
+against the demanded minimum strength.
+In case the space is occupied by another player’s knight, 
+that knight can be expelled if the strength of the active 
+player’s knight or the combined strength of the knight 
+and his squires exceeds the former occupant’s strength. 
+A player can never expel their own knight. 
+The expelled knight goes back to the court of his owner 
+and is placed again on the board in turn order; put any 
+accompanying squires back to the general supply.
+Please note: There are special rules for a 2-player-game, please see page 7. 
+Please note: A knight and his squires must be placed at the same 
+time, later reinforcements are not allowed.
+Please note: The knights gain various kinds of rewards for their 
+players, either immediately or later during phase 3.
+Knight’s spaces in Castle
+Noble-
+man tile
+Minimum strength
+Example: Empty knight’s 
+Blue places a knight with 
+strength 2 at Stafford.
+Example: Occupied knight’s 
+The blue knight (2) is 
+expelled by Yellow’s knight 
+with strength 1, supported 
+by two squires (3:2). Blue 
+takes his knight back to 
+his court.
+Knight’s space in County
+Knight’s spaces in Conflict
+
+Castle
+The player places their knight on an empty knight’s 
+space in their own castle. Each space can hold only one 
+knight.
+Conflict
+A player may engage in as many conflicts as they wish. 
+The player selects a conflict and places their knight on 
+the topmost empty knight’s space. Each player may oc-
+cupy only one of the three spaces of each single conflict. 
+A player already engaged in a certain conflict may rein-
+force their strength by stacking their knights.
+Immediate reward:
+The first 6 knights earn the “king’s favor” for their 
+players. The player selects one favor tile from the open 
+display and receives the shown reward. Next, reverse 
+the tile; it cannot be selected during this round again.
+Please see the extra sheet for a detailed summary of 
+rewards.
+ Phase 2: Parliament
+After the last knight has been placed, the English Parlia-
+ment is gathering. The players must vote on the 3 new 
+laws, one after the other. They begin with the law of 
+space 1, bottom row left.
+Voting procedure
+All players vote simultaneously and secretly. They 
+decide for or against the law and place the appropriate 
+voting tile face down in front of themselves.
+Next, all players may enforce their decision secretly by 
+using as many voting markers as they like.
+After all players have taken their enforcements in their 
+hand, they simultaneously put the markers on the table 
+and reveal their voting tiles.
+Voting result
+The players now tally all votes for and against the law. 
+Each voting tile and each voting marker counts as 1 vote.
+The majority wins. In case of a draw, the law is appro-
+ved.
+Put all used voting markers back to the general supply.
+Please note: Knights may be stacked upon each other only at a 
+conflict. No squires are used in a conflict
+Voting tile: Yes, I approve 
+the new law.
+Voting tile: No, I reject 
+the new law. 
+Current laws
+Draw pile
+Laws to be voted on
+1st	 	
+ 2nd	
+ 3rd 
+Vote
+Example:
+Green places a knight with strength 
+1. He must place him on the empty 
+space below the blue knight. Then, 
+he chooses a favor tile and receives 
+the reward immediately, a nobleman 
+tile in this case. 
+If Green wants to reinforce his knight 
+later, he stacks the new knight on top 
+of his existing one. Neither blue nor 
+green knights may be placed on the 
+lowest space.
+Extension tile
+Knight’s 
+There are spaces for 3 knights on each conflict card.
+
+The new law is approved
+Remove the former law (top left, upper row) from the 
+Parliament display. Then, slide both other laws one 
+position from left to right and place the new law on the 
+empty space to the right.
+The new law is rejected
+Remove the rejected law from the game and leave the 
+former laws unchanged.
+Use the same procedure for voting on the 2nd and 3rd new law.
+Players still holding voting markers after the completion 
+of all three votes return them to the general supply.
+Implementation of the 3 applicable laws
+After all voting has been done, there are always three 
+applicable laws. They are applied from left to right and 
+the players gain rewards.
+Please see page 8 for a 
+detailed summary of laws.
+Precondition for 
+a reward
+The reward
+The voting result is 3:3. That is sufficient for the new law to be 
+approved. The former law, top left, is removed from the game. 
+The new law is placed on the rightmost space.
+The voting result is 2:3. The new law is rejected and removed 
+from the game.
+ Phase 3: Rewards
+Counties, castles and conflicts are evaluated in this order.
+Counties
+All 9 counties yield their rewards from A to I, in this 
+order. The concerned player always must choose one of 
+three options:
+• Take one nobleman tile from that county.
+• Take the other shown reward of that county. 
+• Pay 3 gold (into the general supply) and take both – 
+first the nobleman tile, then the other reward shown.
+After the player has collected their reward, they take 
+their knight back to their court. If the knight was sup-
+ported by squires, put them back to the general supply.
+Special in Surrey (I): Determine the start player
+In Surrey, the player additionally determines the start 
+player, besides collecting their reward. They may deter-
+mine any player, including themselves. The start player 
+takes the start player marker (or retains it) and the new 
+(or former) player order is effective immediately. If no 
+knight was placed in Surrey, the current start player 
+retains the marker.
+Please see extra sheet for a detailed summary of rewards.
+Example: Yellow scores Stafford and pays 3 gold in order to receive 
+both rewards.
+1. She places the nobleman tile on the first empty seat at her company 
+at table.
+2. She upgrades one of her knights, who is not part of her reserve, by 
+one level of strength.
+Example: Red scores Surrey and assigns the new start player. As his 
+reward, he chooses 2 squires and 2 gold.
+Squires go back to the 
+general supply.
+The knight goes back to his court. 
+
+Castles
+First, the start player scores their complete castle, follo-
+wed by the other players in clockwise direction.
+Each player receives the shown rewards for
+• Knights placed in their castle
+• Existing extensions
+• Company at table
+The player decides about the order to evaluate their 
+knights and extensions any way they like.
+After scoring a knight, the player takes the knight back 
+to their court, scored extension tiles remain at the castle.
+Next, the player scores their company at table. For each 
+present nobleman, including themselves, the player 
+receives 1 voting marker. Voting markers are placed 
+on the player’s castle tableau visible for all players. The 
+players do not receive voting markers in the fifth, final 
+game round.
+Conflicts
+Finally, the conflicts in France are resolved one after the 
+other and the players gain power points.
+Resolving a conflict is done in 2 steps:
+1. Winner of conflict: England or France
+Add the strength of all knights involved in this conflict. 
+If their combined strength is equal to or exceeds the 
+strength of France, the winner is England. If their com-
+bined strength is less than the strength of France, the 
+winner is France.
+2. Each player’s contribution: Determine a player ranking 
+by totaling the strength of each player’s knights invol-
+ved in this conflict. In case of a draw, that player who 
+entered the conflict later ranks higher, i. e. the player 
+whose knights are at a lower position of the 3 knight’s 
+spaces.
+Assigning power points:
+• England wins the conflict: The three power point 
+scores are awarded to the players. The highest-ranking 
+player receives the highest score, the second highest-
+ranking player receives the next score and the lowest 
+ranking player receives the lowest score. Remove the 
+conflict card and the players take their knights back to 
+their courts.
+Please note: If there are any conflict cards in the lower row these 
+should be scored first, followed by the conflict cards in the upper row. 
+Please note: If no player occupies rank 2 or 3, nobody gains the 
+corresponding power points.
+Blue: Knight with strength 2
+Green: Knight with strength 1
+Red: Knight with strength 2
+Conflict card
+Power points for 
+rank 1, 2 & 3
+Strength of France
+Front
+Back
+Example:
+Blue scores a knight and an extension tile in his castle:
+He recruits two squires for his knight.
+He recruits a new knight with strength 1 because of his extension 
+tile, but must return 3 squires to the general supply. 
+Example: Blue scores the company of table, which earns him 5 vo-
+ting markers: 4 for the nobleman tiles, 1 for the Lord of the Castle 
+(himself). 
+Example 1:
+The winner of this conflict is England (5:5).
+The raking of the involved players is as follows:
+Rank 1: Red, total strength 2
+Rank 2: Blue, total strength 2
+Rank 3: Green, total strength 1
+Red gains 4 power points, Blue gains 2 and Green gains 1 power 
+point. 
+} Red ranks first, because he 
+entered the conflict later. 
+Please note: The nobleman tiles are worth additional power 
+points during final scoring.
+Extensi-
+on tile
+Knight
+
+ End of the game and final scoring
+• France wins the conflict: Even if France wins the con-
+flict, the players score power points. The highest score 
+is not awarded; the second score is awarded for rank 1 
+and the lowest score for rank 2. All knights remain on 
+their spaces. 
+This conflict lingers on and there will be a second 
+battle. Move the conflict card and the associated 
+knights down to the lower row, without changing the 
+order of the knights.
+• England wins the second battle: 
+The same rules apply as for the first battle.
+• France wins the second battle: 
+Again, power points are awarded as for the first battle, 
+but the involved knights are being captured. The 
+players may ransom their knights by paying 1 gold per 
+strength level; this is done in given player order. If a 
+player pays for their knights, they return home to their 
+court, otherwise they are placed on the corresponding 
+reserve area of the game board. Remove the conflict 
+card from the game.
+Please note: If no knights were deployed to a conflict, this conflict 
+is lost for England and the card is moved down to the lower row.
+Please note: Knights in the reserve area do not belong to the 
+knighthood.
+Parliament:
+Reveal 3 new laws from the top of the draw pile, one after 
+the other, and place them on the 3 spaces for new laws, 
+from left to right.
+A final scoring takes place after the fifth game round. 
+Power points are awarded as follows:
+• 8 power points for the player with the highest strength 
+total of their knighthood. The runner-up gains 4 power 
+points. In case of a draw the player with more squires 
+wins the power points.
+• 8 power points for the player with the most extension 
+tiles in their castle. The runner-up gains 4 power points. 
+In case of a draw the player with more gold wins the 
+power points.
+• Power points are awarded to all players with more than 
+1 nobleman tile attending their company of table.
+The game ends now. The player with the most power 
+points is the winner of the game.
+In case of a draw, the concerned players share the victory.
+Preparing the next game round:
+Prepare the next game round after scoring of all conflicts is complete.
+Conflict:
+Reveal two new conflict cards and place them in the 
+upper row. All face down tiles “king’s favor” are flipped 
+face open.
+Noblemen
+Power points
+Example 2:
+The winner of this conflict is France (3:5). No player gains 4 power 
+points. The raking of the involved players is as follows:
+Rank 1: Blue, total strength 2 = 2 power points
+Rank 2: Green, total strength 1 = 1 power point
+All knights continue their engagement in this conflict and a second 
+battle will follow.
+Blue: Knight with strength 2
+Green: Knight with strength 1
+Hint: If a there is still a draw for the first position after considering 
+the number of squires, divide the 12 power points (8 + 4) by the 
+number of tied players and award them accordingly.
+If 1 player holds the first position and several players tie for second 
+position, divide the 4 power points by the number of tied players 
+and award them accordingly. Any indivisible points are lost. 
+
+ Rules for a 2-player-game
+Both players have an ally. The allies have a small castle 
+of their own, which cannot be extended. Each pla-
+yer takes the decisions for their ally and places their 
+They do not receive power points, voting markers, 
+gold, or squires. Special rules concerning other rewards 
+are explained below. The players may not use their gold 
+or their squires for their ally’s knights. 
+Setup
+Leave the screens in the box, they are not used. A 
+player’s gold and squires are visible for their opponent. 
+Place 2 nobleman tiles in each county.
+Each player selects the color of their ally and receives 
+additionally:
+• 2 ally boards (1 x front “castle”/ 1 x back court)
+• 7 knights of their ally. Place 1 knight with strength 2 at 
+the court, the 6 remaining knights go to the reserve.
+ 
+Spielablauf
+ Phase 1: Place knights
+The active player places either one of their own knights 
+or one of their ally’s knight.
+The players may deploy their ally’s knights to all counties, all 
+conflicts and to the ally’s own castle.
+County: The ally’s knights cannot be supported by 
+squires. A player may not expel any knights of their 
+own or of their ally.
+Castle: A player may not place their own knights in the 
+castle of their ally and vice versa.
+Use the rules for 4 players, with following amendments:
+Conflict: A player may place their own knights and those 
+of their ally on the same conflict card, but they may not 
+share the same knight’s space.
+If an ally gains the king’s favor, the reward is handled as 
+follows:
+• Gold/squires: The reward is obsolete.
+• Upgrade: Upgrade the level of one ally’s knight by 1.
+• Nobleman tile: Any nobleman tile of the player’s choice 
+is removed from the game. 
+ Phase 2: Parliament
+Allies are not allowed to vote. Regarding the laws, 
+the ally’s knights are not considered the player’s own 
+knights. Allies do not receive any rewards from laws.
+ Phase 3: Rewards
+County: An ally may make use of the following rewards:
+• A new knight with strength 1 for themselves
+• Upgrade one of their own knights
+• Nobleman tile – remove from the game
+• Passage to France
+Any other rewards are obsolete.
+Special Surrey: If an ally is placed in Surrey, the allied pla-
+yer determines the start player.
+The ally’s castle: No squires must be expended for new 
+knights and upgrades.
+Conflict: When checking the contribution of each player, 
+the allies are considered players of their own. Accor-
+ding to their strength, each player and ally has their 
+own rank. Forfeit any power points for an ally. An ally’s 
+captured knights cannot be ransomed, place them in the 
+reserve.
+End of the game for 2 players
+The allies are not considered during the final scoring.
+Only the 8 power points for the first position are award­
+ed when evaluating the strength of the knighthood and 
+the amount of extensions. 
+© Copyright 2011 Queen Games, D-53842 Troisdorf, Germany. All rights reserved. 
+Example: Blue has selected Yellow as his ally.
+The ally’s castle:
+• A new knight with 
+strength 1 
+• Upgrade of a knight’s 
+level
+The ally’s court:
+
+ Summary of laws
+The player employing the 
+most squires recruits a new 
+knight with strength 1 from 
+the reserve for their own 
+supply. In case of a tie, all 
+tied players are granted this 
+reward.
+The player owning the 
+most gold may upgrade 
+one of their own deployed 
+knights. In case of a tie, 
+all tied players are granted 
+this reward.
+All players gain 3 
+power points for every 
+2 counties occupied by 
+their own knight.
+Players may buy 1 voting marker for 1 gold each. 
+In player order and beginning with the start player, 
+each player decides how many voting markers they 
+want to buy.
+Players may take 1 extension tile and place it at 
+their castle for every 2 conflicts they are involved in 
+with their own knights.
+Players receive 1 squire, 1 voting marker, and 1 
+gold from the general supply for every 2 conflicts 
+to which they have deployed at least 1 of their own 
+Players may expend 1 squire and 1 gold for 3 power 
+points each. In player order, beginning with the 
+start player, each player decides how many gold/
+squires they want to expend.
+Players recruit 1 squire from the general supply for 
+each of their own deployed knights with strength 2.
+Players gain 5 power points for every 3 extension 
+tiles in their castle.
+All players who have deployed their knight with 
+strength 3 may swap him against their knight with 
+strength 4, if still available from the reserve.
+Players who have no deployed knight with strength 
+2 may upgrade 1 of their knights.
+Players gain 8 power points for every 3 counties in 
+which they have deployed at least 1 of their own 
+Players gain 3 power points for each conflict to 
+which they have deployed at least 1 of their own 
+Players recruit 1 new knight from the reserve to 
+their court for every 3 nobleman tiles at their 
+company at table.
+Players who currently have deployed all their 3 
+knights with strength 1 gain 5 power points.
+Players may buy 1 power 
+point for 1 gold each. In pla-
+yer order and beginning with 
+the start player, each player 
+decides how many power 
+points they want to buy.
+Players may expend 1 squire 
+for 1 power point each. In 
+player order, beginning with 
+the start player, each player 
+decides how many squires they 
+want to expend.
+Players who currently 
+have deployed knights 
+of all four strength 
+levels gain 6 power 
+points.

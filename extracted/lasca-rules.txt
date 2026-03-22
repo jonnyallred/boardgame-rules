@@ -1,0 +1,51 @@
+A strategy game for 2 players by
+Emanuel Lasker
+INTRODUCTION
+World Chess Champion Emanuel Lasker developed
+Laska (a.k.a. Lasca), a variant of the Checkers
+Family, in 1911. The game board and play resembles
+that of Checkers, but captured pieces remain on the
+board and can possibly be freed later in the game.
+MATERIAL
+- board (7x7)
+- 11 white discs with a spot on one side (soldiers)
+- 11 black discs with a spot on one side (soldiers)
+- carrying case
+SETUP
+Each player starts the game on the 7x7 board with
+eleven soldiers as show in the image (with the spots
+not showing):
+Play takes place only on alternating squares, so that
+only 25 of the 49 squares are actually used. The
+nestorgames edition shows only the usable spaces,
+for clarity.
+HOW TO PLAY
+White starts. On a turn, a player moves one soldier or
+stack of soldiers she controls (topmost soldier is of her
+colour) diagonally forward one space. Stacks cannot
+be split as a result of a move.
+If a capture is available (by jumping over, as in
+checkers), then the player must make that capture,
+trapping the captured piece (just the topmost one, in
+case of a stack) underneath the capturing one; if the
+newly captured piece had previously had one or more
+pieces underneath it, then those pieces are now free
+to move in future turns.
+ 
+Example: the black soldier captures the white soldier
+by jumping over it and trapping it underneath.
+ 
+Example: a stack owned by Black jumps over a stack
+owned by White, capturing its topmost soldier and
+liberating a black soldier.
+If a soldier or stack reaches the opponent's back row,
+it's topmost piece is flipped and promoted to an officer
+(spot visible). Officers (and stacks with officers on top)
+can move one space diagonally in all directions and
+make several captures on the same turn, but not
+jumping over the same space more than once.
+Remember that captures are compulsory.
+The game continues until either a player can't move or
+a player has no pieces remaining on the board. In
+both cases, this player loses the game.
+Art and rulebook © Néstor Romeral Andrés 2018

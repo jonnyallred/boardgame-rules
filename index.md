@@ -38,6 +38,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 
 ## Available Games
 
+
+[#](#0-9) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [W](#w)
+
+### 0-9 {#0-9}
+
 | Game | Players | Time | Designer |
 |------|---------|------|----------|
 | [10 Days in Europe](rules/10-days-in-europe/) | 2-4 | 20-30 min | Alan R. Moon, Aaron Weissblum |
@@ -61,6 +66,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [7 Ages](rules/7-ages/) | 2-7 | 120-600 min | Harry Rowland |
 | [7 Wonders](rules/7-wonders/) | 3-7 | 30 min | Antoine Bauza |
 | [7 Wonders: Architects](rules/7-wonders-architects/) | 2-7 | 25 min | Antoine Bauza |
+
+### A
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [A Castle for All Seasons](rules/a-castle-for-all-seasons/) | 2-4 | 45-60 min | Inka Brand, Markus Brand |
 | [A Column of Fire](rules/a-column-of-fire/) | 2-4 | 60-90 min | Michael Rieneck |
 | [A Distant Plain](rules/a-distant-plain/) | 1-4 | 120-360 min | Brian Train, Volko Ruhnke |
@@ -69,6 +79,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [A Game of Thrones: Catan - Brotherhood of the Watch](rules/a-game-of-thrones-catan-brotherhood-of-the-watch/) | 3-4 | 60-90 min | Klaus Teuber |
 | [A Game of Thrones: The Board Game](rules/a-game-of-thrones-the-board-game/) | 3-6 | 120-240 min | Christian T. Petersen |
 | [A Game of Thrones: The Card Game](rules/a-game-of-thrones-the-card-game/) | 2-4 | 60-120 min | Eric M. Lang, Nate French, Christian T. Petersen |
+| [A Game of Thrones: The Card Game (Second Edition)](rules/game-of-thrones-the-card-game/) | 2-6 | 60-120 min | Nate French, Eric M. Lang |
 | [A House Divided: War Between the States 1861-65](rules/a-house-divided-war-between-the-states-1861-65/) | 2 | 60-120 min | Frank Chadwick |
 | [A la Carte](rules/a-la-carte/) | 2-4 | 30-40 min | Karl-Heinz Schmiel |
 | [A Study in Emerald](rules/a-study-in-emerald/) | 2-5 | 60-90 min | Martin Wallace |
@@ -102,10 +113,12 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [AeroTech](rules/aerotech/) | 2-6 | 120-240 min | FASA Corporation |
 | [Aether](rules/aether/) | 2 | 15-30 min | Unknown |
 | [Aether Captains](rules/aether-captains/) | 1 | 20-30 min | Todd Sanders |
+| ↳ [Aether Captains: Clockwork Cabal](rules/aether-captains-clockwork-cabal/) | 1 | 20 min | Todd Sanders |
 | [Affenstark](rules/affenstark/) | 2-4 | 15-20 min | Unknown |
 | [Aficionado](rules/aficionado/) | 3-8 | 30-45 min | Unknown |
 | [Afrika Korps](rules/afrika-korps/) | 2 | 120-240 min | Charles S. Roberts |
 | [Afrikan tähti](rules/afrikan-t-hti/) | 2-6 | 30-60 min | Kari Mannerla |
+| ↳ [Afrikan tähti: Retkikunnat](rules/afrikan-t-hti-retkikunnat/) | 2-4 | 45-60 min | Unknown |
 | [After the Holocaust](rules/after-the-holocaust/) | 2-6 | 180-360 min | Irad B. Hardy, Redmond A. Simonsen |
 | [Aftermath](rules/aftermath/) | 1-4 | 90 min | Jerry Hawthorne |
 | [Age of Discovery](rules/age-of-discovery/) | 2-4 | 45 min | Alfred Viktor Schulz |
@@ -263,6 +276,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Ayoayo](rules/ayoayo/) | 2 | 15-30 min | Traditional (Yoruba) |
 | [Aztec](rules/aztec/) | 2-4 | 45-60 min | Victor Melo Barbero |
 | [Azul](rules/azul/) | 2-4 | 30-45 min | Michael Kiesling |
+
+### B
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [B-17, Queen of the Skies](rules/b-17-queen-of-the-skies/) | 1 | 60-120 min | Glen Frank |
 | [Babel](rules/babel/) | 2 | 30-60 min | Uwe Rosenberg, Hagen Dorgathen |
 | [Babylon 5: A Call to Arms](rules/babylon-5-a-call-to-arms/) | 2+ | 60-180 min | Matthew Sprange |
@@ -318,6 +336,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [BattleTech](rules/battletech/) | 2+ | 60-180 min | Jordan Weisman, L. Ross Babcock III |
 | [BattleTech Collectible Card Game](rules/battletech-collectible-card-game/) | 2 | 30-60 min | Richard Garfield |
 | [BattleTech: BattleTroops](rules/battletroops/) | 2+ | 60-180 min | FASA Corporation |
+| [BattleTech: CityTech](rules/citytech/) | 2-6 | 60-180 min | FASA Corporation |
 | [Battling Tops](rules/battling-tops/) | 2-4 | 15 min | Richard C. Levy |
 | [Bau Cua Ca Cop](rules/bau-cua-ca-cop/) | 2+ | 15-30 min |  |
 | [Bauernhof-Bande](rules/bauernhof-bande/) | 2-4 | 15 min | Unknown |
@@ -446,6 +465,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [BuyWord](rules/buyword/) | 1-4 | 30+ min | Sid Sackson |
 | [By the Sword!](rules/by-the-sword/) | 2 | 120-240 min | Uncredited |
 | [Byzanz](rules/byzanz/) | 3-6 | 30 min | Emanuele Ornella |
+
+### C
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Cacao](rules/cacao/) | 2-4 | 45 min | Phil Walker-Harding |
 | [Caesar](rules/caesar/) | 2 | 120-180 min | Robert Bradley |
 | [Caesar & Cleopatra](rules/caesar-cleopatra/) | 2 | 30-40 min | Wolfgang Lüdtke |
@@ -490,6 +514,9 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Castle Risk](rules/castle-risk/) | 2-6 | 90-120 minutes | Uncredited (Parker Brothers) |
 | [Cat in the Box: Deluxe Edition](rules/cat-in-the-box-deluxe-edition/) | 2-5 | 30 minutes | Muneyuki Yokouchi |
 | [Catan](rules/catan/) | 3-4 | 60-120 min | Klaus Teuber |
+| ↳ [Catan Geographies: Settlers of Hesse](rules/catan-geographies-settlers-of-hesse/) | 3-4 | 60-90 min | Klaus Teuber |
+| ↳ [Catan Scenarios: Frenemies](rules/catan-scenarios-frenemies/) | 3-6 | 45-90 min | Benjamin Teuber |
+| ↳ [Catan: Crop Trust](rules/catan-scenario-crop-trust/) | 3-4 | 75 minutes | Klaus Teuber, Benjamin Teuber |
 | [Catan Card Game (Event Cards Edition)](rules/catan-event-cards/) | 2 | 60-120 minutes | Klaus Teuber |
 | [Catan Dice Game](rules/catan-dice-game/) | 1-4 | 15-30 minutes | Klaus Teuber |
 | [Catan Geographies: Germany](rules/catan-geographies-germany/) | 3-4 | 60-90 minutes | Klaus Teuber, Benjamin Teuber |
@@ -538,11 +565,9 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [City of Sorcerers](rules/city-of-sorcerers/) | 2-6 | 120-180 min | Steve Peek |
 | [City of the Great Machine](rules/city-of-the-great-machine/) | 1-4 | 45-90 min | German Tikhomirov |
 | [City States of Arklyrell](rules/city-states-of-arklyrell/) | 2-6 | 90-120 min | Lance Gutteridge |
-| [CityTech](rules/citytech/) | 2-6 | 60-180 min | FASA Corporation |
 | [Civil War](rules/civil-war/) | 2 | 120-240 min | Eric Lee Smith |
 | [Civilization](rules/civilization/) | 2-4 | 120-240 min | Kevin Wilson |
 | [Civilization: The Boardgame](rules/civilization-the-boardgame/) | 2-6 | 120-240 min | Glenn Drover |
-| [Civilization: The Card Game](rules/civilization-the-card-game/) | 2-4 | 30-60 min | Uncredited |
 | [Claim It!](rules/claim-it/) | 2-5 | 30-45 min | Günter Burkhardt |
 | [Clan War](rules/clan-war/) | 2 | 60-120 min | Alderac Entertainment Group |
 | [Clank!: A Deck-Building Adventure](rules/clank-a-deck-building-adventure/) | 2-4 | 30-60 min | Paul Dennen |
@@ -557,7 +582,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Clobber](rules/clobber/) | 2 | 15 min | Michael H. Albert, J.P. Grossman, Richard Nowakowski |
 | [Clomping Creatures](rules/clomping-creatures/) | 2-4 | 15-30 min | Uncredited |
 | [Cloomba](rules/cloomba/) | 2-4 | 30-45 min | Darren Kisgen |
-| [Close Action](rules/close-action/) | 2-10 | 120-360 min | Mark A. Campbell |
+| [Close Action: The Age of Fighting Sail Vol. 1](rules/close-action/) | 2-10 | 120-360 min | Mark A. Campbell |
 | [Close to the Border](rules/close-to-the-border/) | 2-4 | 30-45 min | Uncredited |
 | [CLOWN](rules/clown/) | 2-6 | 15 min | Haim Shafir |
 | [Clue: The Great Museum Caper](rules/clue-the-great-museum-caper/) | 2-4 | 30-45 min |  |
@@ -568,7 +593,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Cobra: Game of the Normandy Breakout](rules/cobra-game-of-the-normandy-breakout/) | 2 | 120-240 min | James Dunnigan |
 | [Cockroach Duel](rules/cockroach-duel/) | 2 | 15-20 min | Jacques Zeimet |
 | [Coda](rules/coda/) | 2-4 | 15-30 min | Alex Randolph, Susumu Kawasaki |
-| [Codename: Kids Next Door Trading Card Game](rules/codename-kids-next-door-tcg/) | 2 | 20-40 min | Uncredited |
+| [Codename: Kids Next Door TCG](rules/codename-kids-next-door-tcg/) | 2 | 20-40 min | Uncredited |
 | [Codenames](rules/codenames/) | 4-8+ | 15 min | Vlaada Chvátil |
 | [Coerceo](rules/coerceo/) | 2 | 20-40 min | Mark Steere |
 | [Coffee Rush](rules/coffee-rush/) | 2-4 | 15-30 min |  |
@@ -577,7 +602,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Colonial Diplomacy](rules/colonial-diplomacy/) | 2-7 | 240-360 min | Avalon Hill |
 | [Colonial Twilight: The French-Algerian War, 1954-62](rules/colonial-twilight-the-french-algerian-war-1954-62/) | 1-2 | 120-180 min | Brian Train |
 | [Colony](rules/colony/) | 1-4 | 45-60 min | Ted Alspach, Toryo Hojo, Yoshihisa Nakatsu |
-| [Colony Delta](rules/colony-delta/) | 2 | 60-120 min | Uncredited |
+| [Colony Delta: Earth vs. Sigma Draconis](rules/colony-delta/) | 2 | 60-120 min | Uncredited |
 | [Coloretto](rules/coloretto/) | 3-5 | 30 min | Michael Schacht |
 | [Colorito](rules/colorito/) | 2 | 30 min |  |
 | [Colosseum](rules/colosseum/) | 3-5 | 60-90 min | Wolfgang Kramer, Markus Lübke |
@@ -636,10 +661,14 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Cutthroat Caverns](rules/cutthroat-caverns/) | 3-6 | 90 min | Curt Covert |
 | [Cyclades](rules/cyclades/) | 2-5 | 90 min | Bruno Cathala, Ludovic Maublanc |
 | [Cytosis: A Cell Biology Board Game](rules/cytosis/) | 2-5 | 60-90 min | John J. Coveyou |
+
+### D
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [D-Day](rules/d-day/) | 2 | 60-240 min | Charles S. Roberts |
 | [D-Day at Omaha Beach](rules/d-day-at-omaha-beach/) | 1-2 | 240-480 min | John H. Butterfield |
 | [D-Day Dice](rules/d-day-dice/) | 1-4 | 45-90 min | Emmanuel Aquin |
-| [D-Day Dice: Free Trial Version](rules/d-day-dice/) | 1-4 | 45-90 min | Emmanuel Aquin |
 | [D-Day: The Great Crusade](rules/d-day-the-great-crusade/) | 2-4 | 120-480 min | Danny Holte |
 | [D.A.K.](rules/d-a-k/) | 2 | 120-360 min | Unknown |
 | [Da Vinci's Challenge](rules/da-vinci-s-challenge/) | 2 | 20 min | unknown |
@@ -661,7 +690,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Darwin's Journey](rules/darwin-s-journey/) | 1-4 | 60-120 min | Simone Luciani, Nestore Mangone |
 | [Das Amulett](rules/das-amulett/) | 3-5 | 90-120 min | Reinhard Staupe |
 | [Das Bohnenspiel](rules/das-bohnenspiel/) | 2 | 15-30 min | Traditional |
-| [Das kaufmännische Talent](rules/das-kaufmannische-talent/) | 3-6 | 60-120 min | Unknown |
+| [Das kaufmannische Talent](rules/das-kaufmannische-talent/) | 3-6 | 60-120 min | Unknown |
 | [Das Kleine Gespenst](rules/das-kleine-gespenst/) | 2-4 | 15-25 min | Kai Haferkamp |
 | [Dawn of the Dead](rules/dawn-of-the-dead/) | 2 | 60-120 min | John H. Butterfield |
 | [Daybreak](rules/daybreak/) | 1-4 | 60-90 min | Matt Leacock, Matteo Menapace |
@@ -681,20 +710,23 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Deckscape: Dracula's Castle](rules/deckscape-dracula-s-castle/) | 1-6 | 60 min | Martino Chiacchiera, Silvano Sorrentino |
 | [Deckscape: Escape from Alcatraz](rules/deckscape-escape-from-alcatraz/) | 1-6 | 60 min | Martino Chiacchiera, Silvano Sorrentino |
 | [Decktet](rules/decktet/) | 1-4 | 15-60 min | P.D. Magnus |
+| [Deconnaissance](rules/deconnaissance/) | 2-6 | 30-60 min | Unknown |
 | [Deep Sea Adventure](rules/deep-sea-adventure/) | 2-6 | 30 min | Jun Sasaki, Goro Sasaki |
 | [Deep Space Navigator](rules/deep-space-navigator/) | 2+ | 60 min | Unknown |
 | [Defenders of the Realm](rules/defenders-of-the-realm/) | 1-4 | 90-150 min | Richard Launius |
 | [Defenders of the Wild](rules/defenders-of-the-wild/) | 1-4 | 60-120 min | T. Alex Davis |
+| [Defifoo](rules/defifoo/) | 3-18 | 20 min | Unknown |
+| [Delir'phone](rules/delir-phone/) | 4-10 | 30-45 min | Unknown |
 | [Delve: The Dice Game](rules/delve-the-dice-game/) | 1 | 20 min | Drew Chamberlain |
 | [Demon's Run](rules/demon-s-run/) | 2-4 | 60-120 min | Michael S. Matheny |
 | [Demonlord](rules/demonlord/) | 2 | 120 min | Tom Moldvay |
-| [Demons](rules/demons/) | 2-4 | 60-120 min | Jim Dunnigan |
+| [Demons: The Game of Evil Spirits](rules/demons/) | 2-4 | 60-120 min | Jim Dunnigan |
 | [Der wahre Walter](rules/der-wahre-walter/) | 4-10 | 45 min | Urs Hostettler |
 | [Descent: Journeys in the Dark](rules/descent-journeys-in-the-dark/) | 2-5 | 120-240 min | Kevin Wilson |
 | [Descent: Journeys in the Dark (Second Edition)](rules/descent-journeys-in-the-dark-second-edition/) | 2-5 | 120-180 min | Daniel Clark, Corey Konieczka, Adam Sadler, Kevin Wilson |
 | [Descent: Legends of the Dark](rules/descent-legends-of-the-dark/) | 1-4 | 120-180 min | Kara Centell-Dunk, Nathan I. Hajek |
-| [Descent: Legends of the Dark – The Betrayer's War](rules/descent-legends-of-the-dark-the-betrayer-s-war/) | 1-4 | 180-240 min | Kara Centell-Dunk |
-| [Destination](rules/destination/) | 2-4 | 30-60 min | Rachel Lowe |
+| ↳ [Descent: Legends of the Dark -- The Betrayer's War](rules/descent-legends-of-the-dark-the-betrayer-s-war/) | 1-4 | 180-240 min | Kara Centell-Dunk |
+| [Destination London](rules/destination/) | 2-4 | 30-60 min | Rachel Lowe |
 | [Destinies](rules/destinies/) | 1-3 | 90-150 min | Michal Golebiowski, Filip Milunski |
 | [Detective](rules/detective/) | 1-5 | 120-180 min | Ignacy Trzewiczek, Przemysław Rymer, Jakub Łapot |
 | [Detective Charlie](rules/detective-charlie/) | 1-5 | 20 min | Théo Rivière |
@@ -716,8 +748,9 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Dirtside II](rules/dirtside-ii/) | 2+ | 120-240 min | Jon Tuffley |
 | [Discworld: Ankh-Morpork](rules/discworld-ankh-morpork/) | 2-4 | 60 min | Martin Wallace |
 | [Distilled](rules/distilled/) | 1-5 | 60-90 min | Dave Beck |
-| [Dixit: Journey](rules/dixit-journey/) | 3-8 | 30 min | Jean-Louis Roubira |
+| [Dixit Journey](rules/dixit-journey/) | 3-8 | 30 min | Jean-Louis Roubira |
 | [Djambi](rules/djambi/) | 3-4 | 60 min | Jean Anesto |
+| [Dobutsu shogi](rules/d-butsu-sh-gi/) | 2 | 5-15 min |  |
 | [DOG](rules/dog/) | 2-6 | 45 min |  |
 | [Dominant Species](rules/dominant-species/) | 2-6 | 120-240 min | Chad Jensen |
 | [Domination](rules/domination/) | 2-4 |  |  |
@@ -736,7 +769,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Dragon Eclipse](rules/dragon-eclipse/) | 1-2 | 120-150 min | Kamil Ciesla |
 | [Dragon Rage](rules/dragon-rage/) | 2 | 60-120 min | Lewis Pulsipher |
 | [Dragon's Breath](rules/dragon-s-breath/) | 2-4 | 10 min | Lena Burkhardt, Günter Burkhardt |
-| [Dragonlance](rules/dragonlance/) | 2-6 | 60 min | Michael S. Dobson, Scott Haring, Warren Spector |
+| [DragonLance](rules/dragonlance/) | 2-6 | 60 min | Michael S. Dobson, Scott Haring, Warren Spector |
 | [DragonStrike](rules/dragonstrike/) | 2-6 | 60-90 min | Bruce Nesmith, Andria Hayday |
 | [Dragonwood](rules/dragonwood/) | 2-4 | 20 min | Darren Kisgen |
 | [Drako: Dragon & Dwarves](rules/drako-dragon-dwarves/) | 2 | 30 min | Adam Kaluza |
@@ -762,10 +795,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [DVONN](rules/dvonn/) | 2 | 30 min | Kris Burm |
 | [Dweebies](rules/dweebies/) | 2-6 | 20 min | Tim Roediger |
 | [Dynasty League Baseball](rules/dynasty-league-baseball/) | 1-2 | 60-120 min | Michael Cieslinski |
-| [Déconnaissance](rules/deconnaissance/) | 2-6 | 30-60 min | Unknown |
-| [Défifoo](rules/defifoo/) | 3-18 | 20 min | Unknown |
-| [Délir'phone](rules/delir-phone/) | 4-10 | 30-45 min | Unknown |
-| [Dōbutsu shōgi](rules/d-butsu-sh-gi/) | 2 | 5-15 min |  |
+
+### E
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Earth](rules/earth/) | 1-5 | 45-90 min | Maxime Tardif |
 | [Earth Reborn](rules/earth-reborn/) | 2-4 | 120-180 min | Christophe Boelinger |
 | [EastFront: The War in Russia 1941-45](rules/eastfront-the-war-in-russia-1941-45/) | 2 | 120-480 min | Tom Dalgliesh, Craig Besinque |
@@ -777,7 +811,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Eila and Something Shiny](rules/eila-and-something-shiny/) | 1 | 30-60 min | Aron Murch, JonGo |
 | [Eile mit Weile](rules/eile-mit-weile/) | 2-4 | 30-60 min | Traditional |
 | [EinStein wurfelt nicht!](rules/einstein-wurfelt-nicht/) | 2 | 15-30 min | Ingo Althofer |
-| [El Capitán](rules/el-capit-n/) | 2-5 | 60-120 min | Wolfgang Kramer, Horst-Rainer Rösner |
+| [El Capitan](rules/el-capit-n/) | 2-5 | 60-120 min | Wolfgang Kramer, Horst-Rainer Rösner |
 | [El Grande](rules/el-grande/) | 2-5 | 60-120 min | Wolfgang Kramer, Richard Ulrich |
 | [Elasund: The First City](rules/elasund-the-first-city/) | 2-4 | 60-90 min | Klaus Teuber |
 | [Elder Sign](rules/elder-sign/) | 1-8 | 60-120 min | Richard Launius, Kevin Wilson |
@@ -825,6 +859,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Exit: The Game – The Secret Lab](rules/exit-the-game-the-secret-lab/) | 1-6 | 45-90 min | Inka Brand, Markus Brand |
 | [Exit: The Game – The Sunken Treasure](rules/exit-the-game-the-sunken-treasure/) | 1-4 | 45-90 min | Inka Brand, Markus Brand |
 | [Eye Know](rules/eye-know/) | 2+ | 30 min | Uncredited |
+
+### F
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [FAB: The Bulge](rules/fab-the-bulge/) | 2 | 120-480 min | Rick Young |
 | [Fabulantica](rules/fabulantica/) | 2-5 | 20-30 min | Marco Teubner |
 | [Factory Fun](rules/factory-fun/) | 2-5 | 30-60 min | Corné van Moorsel |
@@ -904,6 +943,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Funny Friends](rules/funny-friends/) | 2-6 | 60-90 min | Friedemann Friese |
 | [Fury in the West](rules/fury-in-the-west/) | 2 | 120-240 min | Stephen Peek |
 | [Fury of Dracula (Third Edition)](rules/fury-of-dracula-third-edition/) | 2-5 | 120-180 min | Stephen Hand, Frank Brooks |
+
+### G
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [G.O.O.T.M.U.](rules/gootmu/) | 2-6 | 30-60 min | Andrew Mayfield |
 | [Gaia Project](rules/gaia-project/) | 1-4 | 60-150 min | Helge Ostertag, Jens Drogemuller |
 | [Galacta: Star Commandos](rules/galacta-star-commandos/) | 2 | 60-120 min | Uncredited |
@@ -916,7 +960,6 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Game of the Generals](rules/game-of-the-generals/) | 2 | 20-30 min | Sofronio H. Pasola Jr. |
 | [Game of the Goose](rules/game-of-the-goose/) | 2-6 | 30 min | Uncredited |
 | [Game of Thrones Risk](rules/game-of-thrones-risk/) | 2-7 | 120-180 min | Rob Daviau |
-| [Game of Thrones: The Card Game](rules/game-of-thrones-the-card-game/) | 2-6 | 60-120 min | Nate French, Eric M. Lang |
 | [Gammarauders](rules/gammarauders/) | 2-6 | 90 min | Jeff Grubb |
 | [Gang of Four](rules/gang-of-four/) | 3-4 | 45-60 min | Lee F. Yih |
 | [Gangsters](rules/gangsters/) | 2-5 | 120 min | Adrian Kuhn |
@@ -951,6 +994,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Glik](rules/glik/) | 2-4 | 20-30 min | Uncredited |
 | [Globalissimo](rules/globalissimo/) | 2-6 | 45 min | Günter Burkhardt |
 | [Globbo!](rules/globbo/) | 2 | 30-60 min | Steve Jackson |
+| [Gloomhaven](rules/gloomhaven/) | 1-4 | 60-120 min | Isaac Childres |
 | [Gloomhaven: Jaws of the Lion](rules/gloomhaven-jaws-of-the-lion/) | 1-4 | 30-120 min | Isaac Childres |
 | [Glory to Rome](rules/glory-to-rome/) | 2-5 | 60 min | Carl Chudyk |
 | [Go Cuckoo!](rules/go-cuckoo/) | 2-5 | 15 min | Josep M. Allue, Viktor Bautista i Roca |
@@ -996,6 +1040,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Gunfight in the Valley of Tears, October 9, 1973](rules/gunfight-in-the-valley-of-tears/) | 2 | 120-240 min | Perry Moore |
 | [Gute Freunde](rules/gute-freunde/) | 2-4 | 20 min | Virginia Charves |
 | [Gwyddbwyll](rules/gwyddbwyll/) | 2 | 30-60 min |  |
+
+### H
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Habana Taxi](rules/habana-taxi/) | 2-4 | 45-60 min | Roberto Fraga |
 | [Hacienda](rules/hacienda/) | 2-5 | 45-60 min | Wolfgang Kramer |
 | [Haggis](rules/haggis/) | 2-3 | 30-45 min | Sean Ross |
@@ -1060,6 +1109,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Hype](rules/hype/) | 2-6 | 60 min | Steve Fairnie, Willie Williams |
 | [Hyper Battle](rules/hyper-battle/) | 2 | 60 min | Uncredited |
 | [HysteriCoach](rules/hystericoach/) | 4-14 | 45 min | Andrea Chiarvesio, Luca Iennaco |
+
+### I
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [I Am, I Do](rules/i-am-i-do/) | 3-8 | 30 min | Uncredited |
 | [I Vant to Bite Your Finger](rules/i-vant-to-bite-your-finger/) | 2-4 | 15 min | Uncredited |
 | [I'm the Boss!](rules/i-m-the-boss/) | 3-6 | 60 min | Sid Sackson |
@@ -1096,6 +1150,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Isla Dorada](rules/isla-dorada/) | 3-6 | 60-90 min | Bruno Faidutti, Alan R. Moon, Andrea Angiolino, Piergiorgio Paglia |
 | [Isle of Skye: From Chieftain to King](rules/isle-of-skye-from-chieftain-to-king/) | 2-5 | 30-50 min | Andreas Pelikan, Alexander Pfister |
 | [Istanbul](rules/istanbul/) | 2-5 | 40-60 min | Rudiger Dorn |
+
+### J
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Jamaica](rules/jamaica/) | 2-6 | 30-60 min | Malcolm Braff, Bruno Cathala, Sébastien Pauchon |
 | [Jambo](rules/jambo/) | 2 | 45 min | Rüdiger Dorn |
 | [James Clavell's Tai-Pan](rules/james-clavells-tai-pan/) | 2-4 | 90 min | Ian Bailey, Albie Fiore |
@@ -1122,6 +1181,11 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Jurassic World: The Legacy of Isla Nublar](rules/jurassic-world-legacy-of-isla-nublar/) | 2-4 | 90 min per session | Prospero Hall |
 | [Just4Fun](rules/just-4-fun/) | 2-4 | 30 min | Jürgen P. K. Grunau |
 | [Just4Fun Colours](rules/just4fun-colours/) | 2-4 | 30 min | Jürgen P. K. Grunau |
+
+### K
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [K2](rules/k2/) | 1-5 | 60 min | Adam Kaluza |
 | [Kahuna](rules/kahuna/) | 2 | 30 min | Günter Cornett |
 | [Kalah](rules/kalah/) | 2 | 15 min | William Julius Champion Jr. |
@@ -1168,23 +1232,138 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Kulami](rules/kulami/) | 2 | 30 min | Andreas Kuhnekath |
 | [Kutná Hora: The City of Silver](rules/kutn-hora-the-city-of-silver/) | 2-4 | 120 min | Ondřej Bystroň, Petr Čáslava, Pavel Jarosch |
 | [KuZOOkA](rules/kuzooka/) | 2-6 | 30-45 min | Leo Colovini |
+
+### L
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [L'Attaque](rules/lattaque/) | 2 | 45 min | Hermance Edan |
+| [La Boca](rules/la-boca/) | 3-6 | 40 min | Inka Brand, Markus Brand |
+| [La Citta](rules/la-citt/) | 2-5 | 90-120 min | Gerd Fenchel |
+| [La Grande Armee](rules/la-grande-arm-e/) | 2 | 180-360 min | Richard Berg |
+| [La Granja](rules/la-granja/) | 1-4 | 90-120 min | Andreas Odendahl, Michael Keller |
+| [La-Trel](rules/la-trel/) | 2 | 30-45 min | Richard Morgan |
+| [Laborigines](rules/laborigines/) | 2-6 | 45-90 min | Tomas Uhlir, Jakub Uhlir |
+| [Labyrinth](rules/labyrinth/) | 1-2 | 120-180 min | Volko Ruhnke |
+| [Lamlameta](rules/lamlameta/) | 2 | 15-30 min |  |
+| [Lancaster](rules/lancaster/) | 2-5 | 60 min | Matthias Cramer |
+| [Landslide](rules/landslide/) | 2-4 | 60 min | Uncredited |
+| [Las Vegas](rules/las-vegas/) | 2-5 | 30 min | Rudiger Dorn |
+| [Lasca](rules/lasca/) | 2 | 20 min | Emanuel Lasker |
+| [Last Message](rules/last-message/) | 3-8 | 15 min | Juhwa Lee, Giung Kim |
+| [Last Night on Earth: The Zombie Game](rules/last-night-on-earth-the-zombie-game/) | 2-6 | 60-90 min | Jason C. Hill |
+| [Last Will](rules/last-will/) | 2-5 | 45-75 min | Vladimir Suchy |
+| [Layli Goobalay](rules/layli-goobalay/) | 2 | 15-30 min |  |
+| [Le Cochon qui rit](rules/le-cochon-qui-rit/) | 2-4 | 15 min | Uncredited |
+| [Le Havre](rules/le-havre/) | 1-5 | 100-200 min | Uwe Rosenberg |
+| [LEADERS: The Combined Strategy Game](rules/leaders-the-combined-strategy-game/) | 2-6 | 60-90 min | Manfred Lamplmair, Reinhard Kern |
+| [League of Six](rules/league-of-six/) | 3-5 | 60 min | Vladimir Suchy |
+| [Leap Frog](rules/leap-frog/) | 2-4 | 20 min | Uncredited |
+| [Legend of the Burning Sands](rules/legend-of-the-burning-sands/) | 2 | 60-90 min | Dave Williams, John Zinser |
+| [Legend of the Five Rings: The Card Game](rules/legend-of-the-five-rings-the-card-game/) | 2 | 45-90 min | Brad Andres, Erik Dahlman, Nate French |
+| [Legendary: A Marvel Deck Building Game](rules/legendary-a-marvel-deck-building-game/) | 1-5 | 30-60 min | Devin Low |
+| [Lego Heroica](rules/lego-heroica/) | 2-4 | 10-20 min | Cephas Howard |
+| [Leonardo da Vinci](rules/leonardo-da-vinci/) | 2-5 | 60-90 min | Flaminia Brasini, Virginio Gigli, Stefano Luperto, Antonio Tinto |
+| [Letters from Whitechapel](rules/letters-from-whitechapel/) | 2-6 | 120 min | Gabriele Mari, Gianluca Santopietro |
+| [Lewis & Clark: The Expedition](rules/lewis-clark-the-expedition/) | 1-5 | 120 min | Cédrick Chaboussit |
+| [Liar's Dice](rules/liar-s-dice/) | 2+ | 15-30 min |  |
+| [Libertalia: Winds of Galecrest](rules/libertalia-winds-of-galecrest/) | 1-6 | 45-60 min | Paolo Mori |
+| [Life as a BlackMan](rules/life-as-a-blackman/) | 2-6 | 15-45 min |  |
+| [Lifeboats](rules/lifeboats/) | 3-6 | 60 min |  |
+| [Linq](rules/linq/) | 4-8 | 30-45 min | Erik Nielsen |
+| [Little Town](rules/little-town/) | 2-4 | 45 min | Shun Taguchi, Aya Taguchi |
+| [Living Forest](rules/living-forest/) | 2-4 | 40 min | Aske Christiansen |
+| [London](rules/london/) | 2-4 | 60-90 min | Martin Wallace |
+| [Long Shot](rules/long-shot/) | 2-6 | 30-45 min |  |
+| [Loony Quest](rules/loony-quest/) | 2-5 | 20 min | Laurent Escoffier, David Franck |
+| [Looot](rules/looot/) | 2-4 | 30-45 min | Charles Chevallier, Laurent Escoffier |
+| [Loopin' Louie](rules/loopin-louie/) | 2-4 | 10 min |  |
+| [Lord of the Fries](rules/lord-of-the-fries/) | 3-8 | 30 min | James Ernest |
+| [Lord of the Rings: The Confrontation](rules/lord-of-the-rings-the-confrontation/) | 2 | 30 min | Reiner Knizia |
+| [Lords of Waterdeep](rules/lords-of-waterdeep/) | 2-5 | 60-120 min | Peter Lee, Rodney Thompson |
+| [Lost Ruins of Arnak](rules/lost-ruins-of-arnak/) | 1-4 | 30-120 min | Min, Elwen |
+| [Lost Treasure](rules/lost-treasure/) | 2-4 | 30-60 min |  |
+| [Lost Worlds](rules/lost-worlds/) | 2 | 15-30 min | Alfred Leonardi |
+| [Lotus](rules/lotus/) | 2-4 | 20-30 min | Jordan Goddard, Mandy Goddard |
+| [Louis XIV](rules/louis-xiv/) | 2-4 | 75-100 min | Rudiger Dorn |
+| [Lowenherz](rules/l-wenherz/) | 3-4 | 60-80 min | Klaus Teuber |
+| [Lowlands](rules/lowlands/) | 2-4 | 50-100 min | Claudia Partenheimer, Ralf Partenheimer |
+| [Luck of the Draw](rules/luck-of-the-draw/) | 4-8 | 30 min | Garrett J. Donner, Michael S. Steer |
+| [Lucky Numbers](rules/lucky-numbers/) | 2-4 | 20 min | Michael Schacht |
+| [ludus duodecim scriptorum](rules/ludus-duodecim-scriptorum/) | 2 | 30-60 min |  |
+| [Ludus latrunculorum](rules/ludus-latrunculorum/) | 2 | 30-60 min |  |
+| [Luftwaffe](rules/luftwaffe/) | 2 | 120-240 min |  |
+| [Lunch Money](rules/lunch-money/) | 2+ | 30 min | John Yates |
+| [Luxor](rules/luxor/) | 2-4 | 45 min | Rüdiger Dorn |
+
+### M
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
+| [Medici](rules/medici/) | 2-6 | 60 min | Reiner Knizia |
+| [Medina](rules/medina/) | 2-4 | 60 min | Stefan Dorra |
+| [Memoir '44](rules/memoir-44/) | 2 | 30-60 min | Richard Borg |
+| [Menara](rules/menara/) | 1-4 | 45 min | Oliver Richtberg |
+| [Metropolys](rules/metropolys/) | 2-4 | 30 min | Sebastien Pauchon |
+| [Moeraki: Kemu](rules/moeraki-kemu/) | 2 | 3-25 min | Stefan Kiehl |
+| [Mole Rats in Space](rules/mole-rats-in-space/) | 2-4 | 20 min | Matt Leacock |
+| [Monopoly](rules/monopoly/) | 2-8 | 60-180 min | Charles Darrow, Elizabeth Magie |
+| [Monopoly Junior](rules/monopoly-junior/) | 2-4 | 30 min | Uncredited (Hasbro) |
+| [Monster My Neighbor](rules/monster-my-neighbor/) | 3-8 | 20 min | Pesu Nabeno |
+| [Monster Trap](rules/monster-trap/) | 2-4 | 15 min | Inka Brand, Markus Brand |
+| [Mow](rules/mow/) | 2-10 | 15 min | Bruno Cathala |
+| [Mr. Jack Pocket](rules/mr-jack-pocket/) | 2 | 15 min | Bruno Cathala, Ludovic Maublanc |
+
+### N
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
+| [Nanuk](rules/nanuk/) | 5-8 | 45 min | Mark Goadrich, Brett Myers |
 | [Nemesis](rules/nemesis/) | 1-5 | 90-180 min | Adam Kwapinski |
+| [Njet!](rules/njet/) | 2-5 | 30 min | Stefan Dorra |
+| [No Thanks!](rules/no-thanks/) | 3-7 | 20 min | Thorsten Gimmler |
+
+### P
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Pandemic](rules/pandemic/) | 2-4 | 45 min | Matt Leacock |
 | [Pax Pamir: Second Edition](rules/pax-pamir-second-edition/) | 1-5 | 45-120 min | Cole Wehrle |
+
+### Q
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [QE](rules/qe/) | 3-5 | 45 min | Gavin Birnbaum |
+
+### R
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [Ready Set Bet](rules/ready-set-bet/) | 2-9 | 45-60 min | John D. Clair |
 | [Rhino Hero](rules/rhino-hero/) | 2-5 | 5-15 min | Scott Frisco, Steven Strumpf |
+
+### S
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
+| [Sid Meier's Civilization: The Card Game](rules/civilization-the-card-game/) | 2-4 | 30-60 min | Uncredited |
 | [Splendor](rules/splendor/) | 2-4 | 30 min | Marc Andre |
 | [Star Wars: The Deckbuilding Game](rules/star-wars-the-deckbuilding-game/) | 2 | 30 min | Caleb Grace |
+
+### T
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
 | [The Quacks of Quedlinburg](rules/quacks-of-quedlinburg/) | 2-4 | 45 min | Wolfgang Warsch |
-| [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
-| [Watergate](rules/watergate/) | 2 | 30-60 min | Matthias Cramer |
-| ↳ [Aether Captains: Clockwork Cabal](rules/aether-captains-clockwork-cabal/) | 1 | 20 min | Todd Sanders |
-| ↳ [Afrikan tähti: Retkikunnat](rules/afrikan-t-hti-retkikunnat/) | 2-4 | 45-60 min | Unknown |
-| ↳ [Catan Geographies: Settlers of Hesse](rules/catan-geographies-settlers-of-hesse/) | 3-4 | 60-90 min | Klaus Teuber |
-| ↳ [Catan Scenarios: Frenemies](rules/catan-scenarios-frenemies/) | 3-6 | 45-90 min | Benjamin Teuber |
-| ↳ [Catan: Crop Trust](rules/catan-scenario-crop-trust/) | 3-4 | 75 minutes | Klaus Teuber, Benjamin Teuber |
 | ↳ [The Quacks of Quedlinburg: The Alchemists](rules/quacks-of-quedlinburg-the-alchemists/) | 2-4 | 45 min | Wolfgang Warsch |
 | ↳ [The Quacks of Quedlinburg: The Herb Witches](rules/quacks-of-quedlinburg-the-herb-witches/) | 2-5 | 45 min | Wolfgang Warsch |
+| [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
+
+### W
+
+| Game | Players | Time | Designer |
+|------|---------|------|----------|
+| [Watergate](rules/watergate/) | 2 | 30-60 min | Matthias Cramer |
+
 *{{ site.time | date: "%B %Y" }} · {{ site.pages | where_exp: "p", "p.path contains 'rules/'" | size }} games available*
