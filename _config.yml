@@ -3,7 +3,7 @@ description: AI-friendly board game rules summaries — use with Claude, ChatGPT
 url: "https://jonnyallred.github.io"
 baseurl: "/boardgame-rules"
 
-theme: minima
+theme: jekyll-theme-leap-day
 
 # Only process these directories
 include:
@@ -32,9 +32,9 @@ defaults:
       path: "rules"
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
