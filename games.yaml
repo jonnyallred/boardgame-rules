@@ -4691,3 +4691,346 @@ games:
 - name: L'Attaque
   bgg_id: 9246
   status: summarized
+- name: L'Enclos
+  bgg_id: 24498
+  status: not_found
+  notes: No English rulebook PDF found
+- name: 'La Bataille d''Albuera: Espagnol'
+  bgg_id: 13520
+  status: not_found
+  notes: Niche La Bataille series wargame, no specific game PDF freely downloadable
+- name: "La Bataille d'Auerst\xE6dt"
+  bgg_id: 12898
+  status: not_found
+  notes: Niche La Bataille series wargame, no specific game PDF freely downloadable
+- name: 'La Belle Alliance: The Battle of Waterloo'
+  bgg_id: 30020
+  status: not_found
+  notes: SPI quadrigame, no free rulebook PDF found
+- name: La Boca
+  bgg_id: 136280
+  status: summarized
+- name: "La Citt\xE0"
+  bgg_id: 554
+  status: summarized
+- name: La Foi et le Glaive
+  bgg_id: 10013
+  status: not_found
+  notes: Obscure French game, no English rulebook PDF found
+- name: "La Grande Arm\xE9e"
+  bgg_id: 9077
+  status: summarized
+- name: La Granja
+  bgg_id: 146886
+  status: summarized
+- name: La-Trel
+  bgg_id: 821
+  status: summarized
+- name: La Vache Amoureuse
+  bgg_id: 19284
+  status: not_found
+  notes: French children's game, no English rulebook PDF found
+- name: Laborigines
+  bgg_id: 31360
+  status: summarized
+- name: Labyrinth
+  bgg_id: 62227
+  status: summarized
+- name: Labyrinthine
+  bgg_id: 68224
+  status: not_found
+  notes: No rulebook PDF found
+- name: Lagoonis
+  bgg_id: 191681
+  status: not_found
+  notes: Very obscure, no rulebook PDF found
+- name: Lamlameta
+  bgg_id: 39488
+  status: summarized
+- name: Lancaster
+  bgg_id: 96913
+  status: summarized
+- name: Landslide
+  bgg_id: 865
+  status: summarized
+- name: Lankhmar
+  bgg_id: 4025
+  status: not_found
+  notes: 1976 TSR boardgame, extremely rare, no free PDF found
+- name: Las Vegas
+  bgg_id: 117959
+  status: summarized
+- name: Lasca
+  bgg_id: 6862
+  status: summarized
+- name: Laser Tank
+  bgg_id: 7776
+  status: not_found
+  notes: 1980 Judges Guild miniatures rules, no free PDF found
+- name: 'Last Battle: Twilight 2000'
+  bgg_id: 5875
+  status: not_found
+  notes: GDW wargame, available for purchase but no free PDF
+- name: 'Last Frontier: The Vesuvius Incident'
+  bgg_id: 2324
+  status: not_found
+  notes: No freely downloadable PDF found
+- name: Last Message
+  bgg_id: 331059
+  status: summarized
+- name: 'Last Night on Earth: The Zombie Game'
+  bgg_id: 29368
+  status: summarized
+- name: Last Will
+  bgg_id: 97842
+  status: summarized
+- name: Layli Goobalay
+  bgg_id: 39489
+  status: summarized
+- name: Le Cochon qui rit
+  bgg_id: 37698
+  status: summarized
+- name: Le Havre
+  bgg_id: 35677
+  status: summarized
+- name: Le jeu aux mille titres
+  bgg_id: 246564
+  status: not_found
+  notes: French memory game, no English rulebook PDF found
+- name: Le Magistral
+  bgg_id: 41126
+  status: not_found
+  notes: French trivia game, no English rulebook PDF found
+- name: Le Paresseux
+  bgg_id: 10855
+  status: not_found
+  notes: French racing game, no English rulebook PDF found
+- name: Leader Foot
+  bgg_id: 225460
+  status: not_found
+  notes: Very obscure, no rulebook PDF found
+- name: 'LEADERS: The Combined Strategy Game'
+  bgg_id: 141418
+  status: summarized
+- name: League of Six
+  bgg_id: 31624
+  status: summarized
+- name: Leap Frog
+  bgg_id: 35722
+  status: summarized
+- name: 'Lee vs. Grant: The Wilderness Campaign of 1864'
+  bgg_id: 5680
+  status: not_found
+  notes: Victory Games wargame, no free downloadable PDF
+- name: Legend of the Burning Sands
+  bgg_id: 3836
+  status: summarized
+- name: 'Legend of the Five Rings: The Card Game'
+  bgg_id: 184151
+  status: summarized
+- name: Legend of Zagor
+  bgg_id: 3794
+  status: not_found
+  notes: Electronic boardgame (1993), no freely downloadable PDF
+- name: 'Legendary: A Marvel Deck Building Game'
+  bgg_id: 129437
+  status: summarized
+- name: Lego Heroica
+  bgg_id: 94732
+  status: summarized
+- name: Leinen los!
+  bgg_id: 10508
+  status: not_found
+  notes: German game, no English rulebook PDF found
+- name: Lemming
+  bgg_id: 153004
+  status: not_found
+  notes: German game, no English rulebook PDF found
+- name: Lensman
+  bgg_id: 18144
+  status: not_found
+  notes: Extremely rare 1969 wargame, no free PDF found
+- name: Leonardo da Vinci
+  bgg_id: 21920
+  status: summarized
+- name: 'Leros: The Island Prize'
+  bgg_id: 7502
+  status: not_found
+  notes: Tactical Combat Series wargame, no free PDF found
+- name: Letra-Mix
+  bgg_id: 6873
+  status: not_found
+  notes: German word game, only German PDF available
+- name: Letters from Whitechapel
+  bgg_id: 59959
+  status: summarized
+- name: 'Lewis & Clark: The Expedition'
+  bgg_id: 140620
+  status: summarized
+- name: Liar's Dice
+  bgg_id: 45
+  status: summarized
+- name: 'Libertalia: Winds of Galecrest'
+  bgg_id: 356033
+  status: summarized
+- name: Life as a BlackMan
+  bgg_id: 3988
+  status: summarized
+- name: Life Style
+  bgg_id: 6383
+  status: not_found
+  notes: No English rulebook PDF found; obscure German game
+- name: Lifeboats
+  bgg_id: 249
+  status: summarized
+- name: Liftoff!
+  bgg_id: 2853
+  status: not_found
+  notes: Original 1989 Task Force Games edition rules not available online
+- name: Light Division
+  bgg_id: 8382
+  status: not_found
+  notes: Obscure wargame, files only on BGG behind login
+- name: 'Ligny: Incomplete Victory'
+  bgg_id: 30023
+  status: not_found
+  notes: Classic 1976 SPI wargame, no rulebook PDF found
+- name: Lingua
+  bgg_id: 5174
+  status: not_found
+  notes: Word game with limited online presence
+- name: Linq
+  bgg_id: 11945
+  status: summarized
+- name: Little Town
+  bgg_id: 241266
+  status: summarized
+- name: Livequiz
+  bgg_id: 31845
+  status: not_found
+  notes: Internet-dependent trivia game, no rulebook PDF found
+- name: Living Forest
+  bgg_id: 328479
+  status: summarized
+- name: Living Landscapes
+  bgg_id: 27368
+  status: not_found
+  notes: Obscure permaculture card game
+- name: 'Lock ''n Load: Band of Heroes'
+  bgg_id: 18460
+  status: not_found
+  notes: Rulebook only available behind BGG login or via purchase
+- name: Loco Motive
+  bgg_id: 41052
+  status: not_found
+  notes: No board game rulebook found
+- name: London Cabbie
+  bgg_id: 1581
+  status: not_found
+  notes: 1971 Intellect Games title, no rulebook PDF found
+- name: London
+  bgg_id: 236191
+  status: summarized
+- name: London's Burning
+  bgg_id: 2150
+  status: not_found
+  notes: Rulebook not directly downloadable without BGG login
+- name: Long Shot
+  bgg_id: 40237
+  status: summarized
+- name: Loony Quest
+  bgg_id: 136991
+  status: summarized
+- name: Looot
+  bgg_id: 410991
+  status: summarized
+- name: Loopin' Louie
+  bgg_id: 327
+  status: summarized
+- name: Lord of the Fries
+  bgg_id: 1536
+  status: summarized
+- name: 'Lord of the Rings: The Adventure Deck Game'
+  bgg_id: 102275
+  status: not_found
+  notes: Files only available on BGG behind login
+- name: 'Lord of the Rings: The Confrontation'
+  bgg_id: 18833
+  status: summarized
+- name: Lords of the Middle Sea
+  bgg_id: 6687
+  status: not_found
+  notes: Rare 1978 Chaosium wargame
+- name: Lords of Waterdeep
+  bgg_id: 110327
+  status: summarized
+- name: Los Mampfos
+  bgg_id: 21854
+  status: not_found
+  notes: Rulebook not directly downloadable without BGG login
+- name: Lose Your Shirt
+  bgg_id: 2277
+  status: not_found
+  notes: 1976 Waddingtons game, no rulebook PDF found
+- name: Lost & Found
+  bgg_id: 185221
+  status: not_found
+  notes: Memory game with minimal online presence
+- name: 'Lost Battles: Operational Combat in Russia'
+  bgg_id: 8360
+  status: not_found
+  notes: 1971 SPI wargame, no rulebook PDF found
+- name: Lost Patrol
+  bgg_id: 2268
+  status: not_found
+  notes: Games Workshop title, no freely available rulebook
+- name: Lost Ruins of Arnak
+  bgg_id: 312484
+  status: summarized
+- name: Lost Treasure
+  bgg_id: 4668
+  status: summarized
+- name: Lost Worlds
+  bgg_id: 1421
+  status: summarized
+- name: Lotus
+  bgg_id: 2348
+  status: summarized
+- name: Louis XIV
+  bgg_id: 13642
+  status: summarized
+- name: "L\xF6wenherz"
+  bgg_id: 66
+  status: summarized
+- name: Lowlands
+  bgg_id: 242804
+  status: summarized
+- name: Luck of the Draw
+  bgg_id: 22863
+  status: summarized
+- name: Lucky 13
+  bgg_id: 145429
+  status: not_found
+  notes: Search results show different games with same name
+- name: Lucky Numbers
+  bgg_id: 118247
+  status: summarized
+- name: ludus duodecim scriptorum
+  bgg_id: 33690
+  status: summarized
+- name: Ludus latrunculorum
+  bgg_id: 21488
+  status: summarized
+- name: Luftwaffe
+  bgg_id: 3646
+  status: summarized
+- name: Lunch Money
+  bgg_id: 228
+  status: summarized
+- name: 'Luther: Das Spiel'
+  bgg_id: 203401
+  status: not_found
+  notes: German-only game, no English rulebook available
+- name: Luxor
+  bgg_id: 245643
+  status: summarized

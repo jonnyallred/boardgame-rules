@@ -102,10 +102,12 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [AeroTech](rules/aerotech/) | 2-6 | 120-240 min | FASA Corporation |
 | [Aether](rules/aether/) | 2 | 15-30 min | Unknown |
 | [Aether Captains](rules/aether-captains/) | 1 | 20-30 min | Todd Sanders |
+| ↳ [Aether Captains: Clockwork Cabal](rules/aether-captains-clockwork-cabal/) | 1 | 20 min | Todd Sanders |
 | [Affenstark](rules/affenstark/) | 2-4 | 15-20 min | Unknown |
 | [Aficionado](rules/aficionado/) | 3-8 | 30-45 min | Unknown |
 | [Afrika Korps](rules/afrika-korps/) | 2 | 120-240 min | Charles S. Roberts |
 | [Afrikan tähti](rules/afrikan-t-hti/) | 2-6 | 30-60 min | Kari Mannerla |
+| ↳ [Afrikan tähti: Retkikunnat](rules/afrikan-t-hti-retkikunnat/) | 2-4 | 45-60 min | Unknown |
 | [After the Holocaust](rules/after-the-holocaust/) | 2-6 | 180-360 min | Irad B. Hardy, Redmond A. Simonsen |
 | [Aftermath](rules/aftermath/) | 1-4 | 90 min | Jerry Hawthorne |
 | [Age of Discovery](rules/age-of-discovery/) | 2-4 | 45 min | Alfred Viktor Schulz |
@@ -493,11 +495,14 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Catan Card Game (Event Cards Edition)](rules/catan-event-cards/) | 2 | 60-120 minutes | Klaus Teuber |
 | [Catan Dice Game](rules/catan-dice-game/) | 1-4 | 15-30 minutes | Klaus Teuber |
 | [Catan Geographies: Germany](rules/catan-geographies-germany/) | 3-4 | 60-90 minutes | Klaus Teuber, Benjamin Teuber |
+| ↳ [Catan Geographies: Settlers of Hesse](rules/catan-geographies-settlers-of-hesse/) | 3-4 | 60-90 min | Klaus Teuber |
 | [Catan Histories: Merchants of Europe](rules/catan-histories-merchants-of-europe/) | 3-4 | 90-120 minutes | Klaus Teuber |
 | [Catan Histories: Rise of the Inkas](rules/catan-histories-rise-of-the-inka/) | 3-4 | 90 minutes | Klaus Teuber, Benjamin Teuber |
 | [Catan Junior](rules/catan-junior/) | 2-4 | 30 minutes | Klaus Teuber |
+| ↳ [Catan Scenarios: Frenemies](rules/catan-scenarios-frenemies/) | 3-6 | 45-90 min | Benjamin Teuber |
 | [Catan: 3D Collector's Edition](rules/catan-3d-collector-s-edition/) | 3-4 | 60-90 minutes | Klaus Teuber |
 | [Catan: Ancient Egypt](rules/catan-ancient-egypt/) | 3-4 | 60-90 minutes | Klaus Teuber |
+| ↳ [Catan: Crop Trust](rules/catan-scenario-crop-trust/) | 3-4 | 75 minutes | Klaus Teuber, Benjamin Teuber |
 | [Catan: Portable Edition](rules/catan-portable-edition/) | 3-4 | 60-90 minutes | Klaus Teuber |
 | [Catapult Feud](rules/catapult-feud/) | 2 | 20 min | Kristian Fosh |
 | [Cathedral](rules/cathedral/) | 2 | 20 min |  |
@@ -639,7 +644,6 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [D-Day](rules/d-day/) | 2 | 60-240 min | Charles S. Roberts |
 | [D-Day at Omaha Beach](rules/d-day-at-omaha-beach/) | 1-2 | 240-480 min | John H. Butterfield |
 | [D-Day Dice](rules/d-day-dice/) | 1-4 | 45-90 min | Emmanuel Aquin |
-| [D-Day Dice: Free Trial Version](rules/d-day-dice/) | 1-4 | 45-90 min | Emmanuel Aquin |
 | [D-Day: The Great Crusade](rules/d-day-the-great-crusade/) | 2-4 | 120-480 min | Danny Holte |
 | [D.A.K.](rules/d-a-k/) | 2 | 120-360 min | Unknown |
 | [Da Vinci's Challenge](rules/da-vinci-s-challenge/) | 2 | 20 min | unknown |
@@ -1169,6 +1173,63 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Kutná Hora: The City of Silver](rules/kutn-hora-the-city-of-silver/) | 2-4 | 120 min | Ondřej Bystroň, Petr Čáslava, Pavel Jarosch |
 | [KuZOOkA](rules/kuzooka/) | 2-6 | 30-45 min | Leo Colovini |
 | [L'Attaque](rules/lattaque/) | 2 | 45 min | Hermance Edan |
+| [La Boca](rules/la-boca/) | 3-6 | 40 min | Inka Brand, Markus Brand |
+| [La Citta](rules/la-citt/) | 2-5 | 90-120 min | Gerd Fenchel |
+| [La Grande Armee](rules/la-grande-arm-e/) | 2 | 180-360 min | Richard Berg |
+| [La Granja](rules/la-granja/) | 1-4 | 90-120 min | Andreas Odendahl, Michael Keller |
+| [La-Trel](rules/la-trel/) | 2 | 30-45 min | Richard Morgan |
+| [Laborigines](rules/laborigines/) | 2-6 | 45-90 min | Tomas Uhlir, Jakub Uhlir |
+| [Labyrinth](rules/labyrinth/) | 1-2 | 120-180 min | Volko Ruhnke |
+| [Lamlameta](rules/lamlameta/) | 2 | 15-30 min |  |
+| [Lancaster](rules/lancaster/) | 2-5 | 60 min | Matthias Cramer |
+| [Landslide](rules/landslide/) | 2-4 | 60 min | Uncredited |
+| [Las Vegas](rules/las-vegas/) | 2-5 | 30 min | Rudiger Dorn |
+| [Lasca](rules/lasca/) | 2 | 20 min | Emanuel Lasker |
+| [Last Message](rules/last-message/) | 3-8 | 15 min | Juhwa Lee, Giung Kim |
+| [Last Night on Earth: The Zombie Game](rules/last-night-on-earth-the-zombie-game/) | 2-6 | 60-90 min | Jason C. Hill |
+| [Last Will](rules/last-will/) | 2-5 | 45-75 min | Vladimir Suchy |
+| [Layli Goobalay](rules/layli-goobalay/) | 2 | 15-30 min |  |
+| [Le Cochon qui rit](rules/le-cochon-qui-rit/) | 2-4 | 15 min | Uncredited |
+| [Le Havre](rules/le-havre/) | 1-5 | 100-200 min | Uwe Rosenberg |
+| [LEADERS: The Combined Strategy Game](rules/leaders-the-combined-strategy-game/) | 2-6 | 60-90 min | Manfred Lamplmair, Reinhard Kern |
+| [League of Six](rules/league-of-six/) | 3-5 | 60 min | Vladimir Suchy |
+| [Leap Frog](rules/leap-frog/) | 2-4 | 20 min | Uncredited |
+| [Legend of the Burning Sands](rules/legend-of-the-burning-sands/) | 2 | 60-90 min | Dave Williams, John Zinser |
+| [Legend of the Five Rings: The Card Game](rules/legend-of-the-five-rings-the-card-game/) | 2 | 45-90 min | Brad Andres, Erik Dahlman, Nate French |
+| [Legendary: A Marvel Deck Building Game](rules/legendary-a-marvel-deck-building-game/) | 1-5 | 30-60 min | Devin Low |
+| [Lego Heroica](rules/lego-heroica/) | 2-4 | 10-20 min | Cephas Howard |
+| [Leonardo da Vinci](rules/leonardo-da-vinci/) | 2-5 | 60-90 min | Flaminia Brasini, Virginio Gigli, Stefano Luperto, Antonio Tinto |
+| [Letters from Whitechapel](rules/letters-from-whitechapel/) | 2-6 | 120 min | Gabriele Mari, Gianluca Santopietro |
+| [Lewis & Clark: The Expedition](rules/lewis-clark-the-expedition/) | 1-5 | 120 min | Cédrick Chaboussit |
+| [Liar's Dice](rules/liar-s-dice/) | 2+ | 15-30 min |  |
+| [Libertalia: Winds of Galecrest](rules/libertalia-winds-of-galecrest/) | 1-6 | 45-60 min | Paolo Mori |
+| [Life as a BlackMan](rules/life-as-a-blackman/) | 2-6 | 15-45 min |  |
+| [Lifeboats](rules/lifeboats/) | 3-6 | 60 min |  |
+| [Linq](rules/linq/) | 4-8 | 30-45 min | Erik Nielsen |
+| [Little Town](rules/little-town/) | 2-4 | 45 min | Shun Taguchi, Aya Taguchi |
+| [Living Forest](rules/living-forest/) | 2-4 | 40 min | Aske Christiansen |
+| [London](rules/london/) | 2-4 | 60-90 min | Martin Wallace |
+| [Long Shot](rules/long-shot/) | 2-6 | 30-45 min |  |
+| [Loony Quest](rules/loony-quest/) | 2-5 | 20 min | Laurent Escoffier, David Franck |
+| [Looot](rules/looot/) | 2-4 | 30-45 min | Charles Chevallier, Laurent Escoffier |
+| [Loopin' Louie](rules/loopin-louie/) | 2-4 | 10 min |  |
+| [Lord of the Fries](rules/lord-of-the-fries/) | 3-8 | 30 min | James Ernest |
+| [Lord of the Rings: The Confrontation](rules/lord-of-the-rings-the-confrontation/) | 2 | 30 min | Reiner Knizia |
+| [Lords of Waterdeep](rules/lords-of-waterdeep/) | 2-5 | 60-120 min | Peter Lee, Rodney Thompson |
+| [Lost Ruins of Arnak](rules/lost-ruins-of-arnak/) | 1-4 | 30-120 min | Min, Elwen |
+| [Lost Treasure](rules/lost-treasure/) | 2-4 | 30-60 min |  |
+| [Lost Worlds](rules/lost-worlds/) | 2 | 15-30 min | Alfred Leonardi |
+| [Lotus](rules/lotus/) | 2-4 | 20-30 min | Jordan Goddard, Mandy Goddard |
+| [Louis XIV](rules/louis-xiv/) | 2-4 | 75-100 min | Rudiger Dorn |
+| [Lowenherz](rules/l-wenherz/) | 3-4 | 60-80 min | Klaus Teuber |
+| [Lowlands](rules/lowlands/) | 2-4 | 50-100 min | Claudia Partenheimer, Ralf Partenheimer |
+| [Luck of the Draw](rules/luck-of-the-draw/) | 4-8 | 30 min | Garrett J. Donner, Michael S. Steer |
+| [Lucky Numbers](rules/lucky-numbers/) | 2-4 | 20 min | Michael Schacht |
+| [ludus duodecim scriptorum](rules/ludus-duodecim-scriptorum/) | 2 | 30-60 min |  |
+| [Ludus latrunculorum](rules/ludus-latrunculorum/) | 2 | 30-60 min |  |
+| [Luftwaffe](rules/luftwaffe/) | 2 | 120-240 min |  |
+| [Lunch Money](rules/lunch-money/) | 2+ | 30 min | John Yates |
+| [Luxor](rules/luxor/) | 2-4 | 45 min | Rüdiger Dorn |
 | [Nemesis](rules/nemesis/) | 1-5 | 90-180 min | Adam Kwapinski |
 | [Pandemic](rules/pandemic/) | 2-4 | 45 min | Matt Leacock |
 | [Pax Pamir: Second Edition](rules/pax-pamir-second-edition/) | 1-5 | 45-120 min | Cole Wehrle |
@@ -1178,13 +1239,8 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Splendor](rules/splendor/) | 2-4 | 30 min | Marc Andre |
 | [Star Wars: The Deckbuilding Game](rules/star-wars-the-deckbuilding-game/) | 2 | 30 min | Caleb Grace |
 | [The Quacks of Quedlinburg](rules/quacks-of-quedlinburg/) | 2-4 | 45 min | Wolfgang Warsch |
-| [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
-| [Watergate](rules/watergate/) | 2 | 30-60 min | Matthias Cramer |
-| ↳ [Aether Captains: Clockwork Cabal](rules/aether-captains-clockwork-cabal/) | 1 | 20 min | Todd Sanders |
-| ↳ [Afrikan tähti: Retkikunnat](rules/afrikan-t-hti-retkikunnat/) | 2-4 | 45-60 min | Unknown |
-| ↳ [Catan Geographies: Settlers of Hesse](rules/catan-geographies-settlers-of-hesse/) | 3-4 | 60-90 min | Klaus Teuber |
-| ↳ [Catan Scenarios: Frenemies](rules/catan-scenarios-frenemies/) | 3-6 | 45-90 min | Benjamin Teuber |
-| ↳ [Catan: Crop Trust](rules/catan-scenario-crop-trust/) | 3-4 | 75 minutes | Klaus Teuber, Benjamin Teuber |
 | ↳ [The Quacks of Quedlinburg: The Alchemists](rules/quacks-of-quedlinburg-the-alchemists/) | 2-4 | 45 min | Wolfgang Warsch |
 | ↳ [The Quacks of Quedlinburg: The Herb Witches](rules/quacks-of-quedlinburg-the-herb-witches/) | 2-5 | 45 min | Wolfgang Warsch |
+| [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
+| [Watergate](rules/watergate/) | 2 | 30-60 min | Matthias Cramer |
 *{{ site.time | date: "%B %Y" }} · {{ site.pages | where_exp: "p", "p.path contains 'rules/'" | size }} games available*

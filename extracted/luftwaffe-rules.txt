@@ -1,0 +1,1806 @@
+Game Title: Luftwaffe, Decision Games Edition 
+ 
+Date of Publication: June 2007 
+ 
+Decision Games, PO Box 21598, Bakersfield, CA 93390 
+ 
+Decision Games hereby grants permission for its customers to download and/or print copies of this file for 
+their personal use. Discussion folders for this game are located on Consimworld.com's discussion board. 
+ 
+These “eRules” were first posted on 4 May 2007. They contain 24,097 words. 
+ 
+LUFTWAFFE 
+CONTENTS 
+1.0 Introduction 
+2.0 Components 
+3.0 Preparation for Play (Basic Game) 
+4.0 How to Win (Basic Game) 
+5.0 Sequence of Play 
+6.0 Airfields & Basing 
+7.0 How to Move 
+8.0 Time Record & Aircraft Endurance 
+9.0 Stacking & Mission Groups 
+10.0 Bombing Missions 
+11.0 Sneak Raids 
+12.0 Fighter Missions 
+13.0 Aerial Combat 
+14.0 Strafing Airbases 
+15.0 Anti-Aircraft (AA) Fire 
+16.0 Formation Markers 
+17.0 Basic Game Victory Condition Variant 
+ 
+TOURNAMENT GAME RULES 
+18.0 Preparation for Play 
+(Tournament Game) 
+19.0 Tournament Game Victory Conditions 
+20.0 Recovery Lines (R Lines) 
+21.0 Reinforcements & Withdrawals 
+22.0 Replacements 
+23.0 Shuttle Raids 
+24.0 Jet & Rocket Fighters 
+ 
+ADVANCED GAME RULES 
+25.0 Preparation for Play 
+(Advanced Game) 
+26.0 Advanced Game Victory Conditions 
+
+27.0 Reinforcements (Advanced Game) 
+28.0 Replacements (Advanced Game) 
+29.0 Intensive Operations 
+30.0 German Oil & Fuel Expenditures 
+31.0 German Stacking 
+32.0 Ploesti 
+33.0 Royal Air Force (RAF) 
+34.0 Movement 
+35.0 Fighter Shuttles 
+36.0 Repair of Bombed Targets 
+37.0 Critical Industries 
+38.0 Power Generation & Transportation 
+39.0 Alternatice Aircraft Reinforcements 
+ 
+OPTIONAL RULES 
+40.0 Individual Unit Endurance 
+41.0 Combined Attack 
+42.0 Attacking Bombers 
+43.0 Bomber Stacking 
+44.0 Engaging & Fuel Expenditure 
+45.0 Goering 
+46.0 ME-109 Variants 
+47.0 Advanced Bombers 
+48.0 Staging 
+49.0 German AA Reinforcements 
+50.0 Peripheral Operations 
+51.0 Key Industrial Complexes 
+52.0 Extended War 
+53.0 Play Balance 
+54.0 Solo Games 
+55.0 
+Short Game: Operation 
+Gotterdammerung 
+Original Design: Lou Zocchi 
+Additional Design & Optional Rules: Joseph Miranda 
+Developer: Christopher Cummins 
+Playtesters: Bob Hasser, F.K. Bauer, Joseph Geistwhite, Bob Hasser, Donn Kreutz, Joseph Miranda & Lou Zocchi 
+Special Thanks: Bob Hasser, Greg Smith, Lou Zocchi, and the gamers on Consimworld.com. 
+Map Graphics: Joe Youst 
+Counter Graphics: Nicolas Eskubi 
+Production: Callie Cummins 
+Box cover art: Robert Taylor 
+© 2007 Decision Games, Bakersfield CA. Made & printed in the USA. 
+ 
+1.0 INTRODUCTION 
+ 
+Luftwaffe is a wargame of the American strategic bombing campaign against the Third Reich in 1943-45. The 
+
+game has two players: the American (who controls all United States Army Air Force and Allied air operations) and 
+the German (who controls the Luftwaffe). 
+ 
+The game map shows targets in the Third Reich that were bombed historically, or could have been bombed had 
+the US implemented alternative air strategies. The American objective is to destroy sufficient German targets to 
+cause the economic collapse of the Third Reich. The German objective is to prevent this from happening. 
+ 
+Luftwaffe is played in a series of “quarters,” each representing three months of real aerial warfare. Quarters are 
+broken down into turns, each representing 20 minutes. Units represent Geschwader (wings) for the Luftwaffe, and 
+groupings of three USAAF air groups for American forces or, in some cases, wings. 
+ 
+Both players have the historic forces involved in the air war over Europe in 1943-45. Additionally, they have the 
+option to produce and deploy various “what if” aircraft, including jets. 
+ 
+Luftwaffe includes several different levels of ‘games’ within it, each in increasing levels of complexity. There is 
+the “Basic Game,” covering the situation at the time of D-Day in 1944. Then there is the “Tournament Game,” which 
+covers the entire 1943-45 air war. That’s followed by the “Advanced Game,” which adds options for targeting and 
+aircraft reinforcement. Finally, there is “Operation Gotterdammerung,” covering the final phase of the air war. 
+Unless otherwise stated, all Basic Game rules apply to the Tournament and Advanced Games, and all Tournament 
+Game rules apply to the Advanced Game. 
+ 
+This edition of Luftwaffe is based on the original game produced by the Avalon Hill Game Company decades 
+ago. It contains additional optional rules, as well as modifications to some of the original game systems, to provide a 
+more realistic and more challenging simulation of aerial warfare. It also employs a victory point system for 
+determining who wins instead of the “all or nothing” victory conditions of the original design. 
+2.0 COMPONENTS 
+2.1 Rules 
+ 
+The rules are written using a case numbering system. Each major rules section is indicated by the number before 
+the decimal point, and subsections of each rule are indicated by numbers or letters after the decimal. Rules will 
+sometimes refer to other rules, in which case the specific rules section is indicated within brackets. For example, 
+[2.2] would indicate section [2.2] Game Map. 
+2.11 Important Definition. Throughout the rules, the word “force” is used as follows: a single unit, or stack of units, 
+which are conducting some action together, such as movement or combat. 
+2.2 Game Map 
+ 
+The map shows the Third Reich as it appeared in mid-World War II. The geographic boundaries represent those 
+imposed on Europe by the Nazis. 
+2.21 A hexagonal grid has been overlaid on the map. The individual hexagons (or “hexes”) are used to regulate the 
+placement and movement of units, as well as to organize the different target types found in various hexes. A playing 
+piece is always placed inside a hex, never along a hexside. 
+2.22 Targets. Numerous hexes on the map have targets or other information inside them. Those data may include the 
+name of a city located in the hex, as well as symbols indicating targets in the hex. The following are the target types. 
+Aircraft Factories represents center for the manufacture of aircrafts or aircraft components. 
+Industrial Complexes represent centers of manufacturing and war industry. 
+Oil represent petroleum production, crude or artificial. 
+Power Generation represents primary electrical power centers. 
+Transportation represents critical transportation nodes. They’re represented by rail lines running between named 
+cities. The rail lines between the cities aren’t targets; only the connected cities are. They’re sometimes referred to as 
+“rail centers.” 
+V-Weapons represent launch sites for V-1 and V-2 missiles or their research facilities. 
+
+Airfields on the map are all German. Allied airbases aren’t shown. Allied units base off-map in Britain, Italy and the 
+USSR. Airfields may be targets. 
+2.23 Ploesti. The Romanian petroleum complex at Ploesti is depicted as an inset box. In the Tournament and 
+Advanced Games, the Americans may attack Ploesti. 
+2.24 “R” Lines, or Recovery Lines, are the orange lines on the map. They mark the boundaries of Allied air cover in 
+1943, 1944 and 1945. They’re the points from which American air missions enter play or return to their home bases. 
+The year on each line indicates which game years that line is in effect. Britain is off the northwest R Line in 1943-45. 
+In 1945 it is also off the west R Line, which comes into play only in 1945. Italy is off of the south R Line in 1944-45. 
+The USSR is off the east map edge. 
+2.25 Numbered Squares in the Baltic Sea, off northern Germany, are used as starting locations for “Sneak Raiders.” 
+Numbered squares along the east edge of the map are used for “Shuttle Raids” to the USSR, which are used in the 
+Tournament and Advanced Games. 
+2.26 National Borders. The national borders shown on the map have no effect on play except for Switzerland 
+(unplayable). 
+2.3 Playing Pieces 
+ 
+ There are two general types of playing pieces: 1) units, which represent the various air forces engaged in the 
+campaign and have aircraft icons on them; and 2) markers, which are used to record various game functions. 
+2.31 Units. German counters are green. American counters are blue. Each unit has the following items of 
+information on them. 
+Aircraft Type: this is used to determine on which column the unit will fire when using the Combat Results Table, 
+and for determining time in the air. 
+“E” Rating (or Evaluation Rating): this is the large number in the upper left corner of each fighter unit. It indicates 
+the relative efficiency of fighter aircraft in engaging enemy fighters. Bombers have a bomb rating (the asterisk is 
+there to remind players). 
+Speed (or “movement factor”): this is the large number in the lower left corner of fighter units. It indicates the 
+maximum number of hexes the unit may move in a single game turn. 
+Identification: this is the small number. For German units it identifies the Geschwader (wing). For American units it 
+represents one of the three groups that composed the unit or, in some cases, it may also represent a wing. 
+Bomb Points: this is the number with the asterisk in the upper left. It indicates how many targets within a single hex 
+the bomber can attack at one time. Bomb ratings are not used in engaging fighters.Fighters have no bomb points. 
+Rocket Fighter Symbol  
+Jet Fighter Symbol  
+Fighters & Bombers: there are two general types of aircraft in the game, fighters and bombers. Fighters have an E 
+Rating (or a “G” in the case of Me-163s). Bombers have Bomb Points. Only the American player has bombers for 
+purposes of the game. While several Luftwaffe unit types, such as the Ju-88, had a dual role as bombers, for purposes 
+of the game all Luftwaffe aircraft types are fighters. 
+P-38D: The P-38 “Droop-Snoots” were P-38s converted into light bombers. For all game purposes they’re treated as 
+bombers. They may never fire, offensively or defensively. 
+2.32 Veteran/Fatigued. Each unit is back-printed. The front side is its “veteran” side; the reverse side is its 
+“fatigued” side. Units can alternate between veteran and fatigued as a result of combat or other game actions. In 
+general, veteran units are treated exactly as fatigued units, but with the following exception. In combat, a veteran unit 
+counts as two combat factors, while a fatigued unit counts as one combat factor. 
+2.33 Abbreviation 
+Kdo Bonow: Kommando Bonow (ad hoc formation of Ar-234s) 
+
+2.34 Markers 
+Endurance. Each player has a set of endurance markers corresponding to each type of aircraft he possesses. They’re 
+used to record the number of turns that aircraft has remaining in the air. The number before the slash indicates the 
+number of turns in the air without auxiliary fuel tanks. The number after the slash indicates the number of turns in 
+the air after auxiliary fuel tanks have been dropped. “Aircraft Time” pieces indicate the length of time a given 
+type of aircraft can stay in the air. For example, P-47s can stay in the air for 10 turns with auxiliary fuel tanks, and 
+three without auxiliary fuel tanks. Not all types of aircraft have auxiliary fuel tanks. Also, some bombers don’t 
+have corresponding endurance markers, since they can remain in the air throughout an entire quarter (for 
+example: B-17s). 
+Formation Markers. Both players use them to conceal the strengths of their air formations. 
+Intensive Operations. Each player uses them to indicate whether he will be conducting intensive operations that 
+turn. 
+Quarter Marker. This indicates which three-month period is in progress. For example: “Jan ‘44” means the quarter 
+of January through March 1944 is in progress. 
+RAF Bomber Commands 1 & 2. The American player uses these to make area attacks on enemy cities. 
+Sneak Raiders. The American player uses these to indicate forces making sneak raids. Two kinds of pieces are used 
+in conjunction with sneak raids. This piece indicates the number of bomber counters participating in a sneak raid. 
+The number of such bomber counters may never exceed five. The other piece indicates the turn during which 
+sneak raid counters are placed on the numbered Baltic Sea squares. Sneak raiders may appear from turn number 
+three through turn number 10, inclusive. 
+Time Now. Each player uses this to indicate the current turn in a quarter. Numbers from “1” to “20” are printed on 
+the “Order of Battle” cards. There are 20 turns in a quarter. 
+Up-Gunned Me-109 markers are used to indicate Me-109s retaining their under-wing 20mm gun pods. 
+2.4 Combat Results Table 
+ 
+The Combat Results Table (CRT) is used to resolve attacks by aircraft against other aircraft. 
+2.5 Reinforcement Chart 
+ 
+ Each player has a reinforcement chart that shows which units will appear during which quarters. The 
+reinforcement charts also indicate which turn is in progress. 
+2.6 Planning Pads 
+ 
+The sheets with the miniature version of the map are planning pads. Players use them to plot raids and other 
+actions, as well as to record destroyed targets. 
+2.7 Dice 
+ 
+One six-sided die is included with the game. It’s used to generate random results on the Combat Results Table 
+and for other game actions. 
+3.0 PREPARE FOR PLAY (BASIC GAME) 
+3.1 The Basic Game represents the situation on D-Day, 6 June 1944. It consists of only one quarter with 20 turns. 
+3.11 Basic Game rules include sections 3.0 to 22.0. Use only those rules when playing the Basic Game. 
+3.2 Players determine who will command the Americans and who will command the Germans. 
+3.3 Each player punches out the units required for the scenario. 
+3.31 German Order of Battle 
+5 x FW-190 
+2 x Me-410 
+8 x Me-109 
+1 x Ju-88 
+6 x Me-110 
+3.32 American Order of Battle 
+
+9 x B-17 
+3 x P-47 
+3 x P-38 
+12 x B-24 
+6 x P-51 
+3.33 Players can use any units of the indicated types; the historic unit identification number doesn’t make a 
+difference; those number are there only for historical interest. 
+3.4 The German player places his aircraft counters on any hexes on the map containing airbases. No more than one 
+counter may be placed on each airbase at the start of play. 
+3.5 The American player determines his sneak raid strategy. He picks two sneak raid pieces—one indicates the 
+number of raiding counters; the other indicates the turn of the raid—and places them face down in the designated 
+place in the Baltic Sea. The actual counters that will participate in the sneak raid are temporarily kept off the map 
+and out of sight. If no sneak raid is planned, invert blank counters. 
+3.6 The American player plans his bombing missions on a planning sheet. He doesn’t show that plan to the German 
+player until the end of the game. He will show the sheet to the German player at the end of the game to confirm the 
+various bomber units sent out actually went to the targets they were to have bombed. 
+3.7 The American player selects which units, if any, he will move on turn one and places them in any hexes on his 
+side of the R Lines, within the constraints of the Mission Group rule (see section 9.0). American units may begin in 
+Britain or Italy or any combination of the two, but not in the USSR. 
+3.8 American units that won’t cross the R Line during turn one are kept off map. They may not be examined by the 
+German player. Up to 10 unused counters may be used in dummy stacks to keep the German player from anticipating 
+how much force has actually been committed to each front. The American player can use the “Formation” markers 
+for that purpose. 
+3.9 For the Basic Game, use the 1944 R Line. 
+4.0 HOW TO WIN 
+(BASIC GAME) 
+4.1 The German player wins if the American player bombs eight or fewer cities that have aircraft factories by the end 
+of play. 
+4.2 If the American player bombs nine, 10 or 11 cities that have aircraft factories, the game is a draw. 
+4.3 The American player wins if he bombs 12 or more cities that have aircraft factories by the time the game is over. 
+4.4 There is a penalty for losing planes due to fuel shortages. For each American unit that fails to re-cross the R Line 
+due to fuel shortage, the German player “saves” one bombed city at the end of the game. For each German unit that 
+fails to land before its fuel runs out, the American player “bombs” one target for free at the end of the game. For 
+example, if the American player bombed 12 cities, but two US fighter units ran out of fuel before the turn 20 
+deadline, the American player could count only 10 cities as actually having been bombed. 
+5.0 SEQUENCE OF PLAY 
+5.1 Luftwaffe 2 is played in a series of “Quarters,” each of which represent three months. Each quarter is further 
+broken down into “phases.” Players must follow the phased sequence of play for each quarter until the game comes 
+to an end. The term “turn” refers to the operational phase of an individual player turn during which that player is 
+moving his units and initiating combat. 
+5.11 Basic Game: in the Basic Game only one quarter is played. 
+5.2 All actions must take place within this strict sequence. For example, since the German player takes his aircraft 
+replacements prior to his Repair Phase, he may not use repaired aircraft factories to generate replacements in the 
+same turn, though they would do so in the following turns (assuming they weren’t bombed again). 
+5.21 Those parts of the sequence of play that apply only to the Basic Game are indicated below. Others may be 
+skipped when playing the Tournament and Advanced Games. 
+5.3 Sequence of Play Outline 
+1) Reinforcement Phase (Tournament & Advanced Games): Each player takes any reinforcements for the quarter 
+
+and simultaneously places them as follows. 
+1a) American places reinforcements in Britain and/or Italy. 
+1b) German places reinforcements on any airbases on his side of the R Line. 
+2) Redeployment Phase (Tournament & Advanced Games) 
+2a) The German player must move his aircraft in such a way he has no more than one unit per base. He may also 
+redeploy jet and rocket fighters that aren’t on jet/rocket bases to jet/rocket bases. 
+2b) If it’s 1944 or 1945, the American player may move any and all of his air units from Britain to Italy and vice 
+versa. 
+3) Planning Phase 
+3a) American Target Planning (Basic, Tournament & Advanced Games): the American player uses his target 
+pad to designate his mission groups, to indicate which bombers will be attacking which targets, and any sneak and 
+shuttle raids if playing the Tournament or Advanced Games. 
+3b) Intensive Operations Determination Phase (Advanced Game): both players, simultaneously and without 
+informing the other, determine whether this will be a turn of intensive operations for his forces. 
+4) Economic Phase (Advanced Game) 
+4a) Industrial Support: the German player determines which industries, if any, will support other industries. See 
+section 36.0. 
+4b) Oil: the German player determines how many fuel (oil) points he will have available for the turn. He may then 
+expend them to provide fuel to fly aircraft units. The German player also decides if he wants to expend oil in 
+order to increase his unit-per-hex stacking limit. 
+5) RAF & Ploesti Phase (Tournament & Advanced Games): the American player does the following. 
+5a) Conducts any RAF attacks to destroy German targets. 
+5b) Commits any bombers to attacking Ploesti and resolves that attack. 
+6) Operational Turns (Basic, Tournament & Advanced Games) 
+6a) First German Turn: the German player moves first in each turn. He first moves his “Time Now” piece to 
+indicate the number of the turn in progress. See section 12.0. 
+6a1) The German player moves none, some, or all of his aircraft counters that he wants to move. If a type of aircraft 
+takes off, the “Aircraft Time” piece for that type is placed on the appropriate turn number. No American units 
+may move during German player turns. 
+6a2) The German player resolves all combat caused by his moves. That’s done for each stack that engages enemy 
+aircraft by entering their hexes, and is conducted immediately as each German force enters a hex containing 
+American air units and before the next German force moves. If American bombers with defensive guns are 
+attacked, they fire back. 
+6a3) The German player announces he’s finished his player turn and the American player should therefore begin that 
+side’s player turn. 
+6b) First American Turn: the American player moves his “Time Now” piece to indicate the number of the turn in 
+progress. At that moment both the German and American “Time Now” pieces should cover the same turn 
+number. 
+6b1) The American player takes any action concerning sneak raids. 
+6b2) New American units that will cross the R Line on the next turn are placed in their starting hexes behind the R 
+Line. All American planes must spend at least one turn on the Allied side of the R Line before crossing it. The 
+German player may examine the stacks in those hexes. 
+6b3) The American player moves none, some, or all of his aircraft counters he wants to move (or, in the case of 
+bombers, that must move). The “Aircraft Time” piece for the newly placed units is placed on the appropriate turn 
+
+number. No German units may move during the American portion of the game turn 
+6b4) The German player fires his anti-aircraft guns at any American units, bombers or fighters, which enter or end 
+their move in a city hex during their movement. 
+6b5) The American player resolves all combat caused by his moves. That’s done for each stack that engages enemy 
+aircraft by entering their hexes, and is conducted immediately as each American force enters a hex containing 
+German air units, and before the next American force moves. American fighters may also strafe German airbases, 
+but first must receive any antiaircraft fire from those bases. 
+6b6) Surviving bombers over their targets bomb those targets; bombed targets are crossed off the target sheet. 
+6b7) The American player announces he’s finished with his player turn and the German player should therefore 
+begin the next turn. 
+6c) Subsequent Turns: repeat the steps of the German and American turns until the 20th turn has been completed, or 
+until all American units leave the map, whichever occurs first. That means that there’s a maximum of 20 German 
+turns and 20 American turns. 
+7) Replacement Phase (Tournament & Advanced Games): both players simultaneously expend replacement 
+points to rebuild eliminated and/or reduced air units and place them in the same manner as reinforcements. 
+7a) American deducts the number of replacement points from his total available. 
+7b) German receives replacements according to the number of unbombed aircraft factories he has. 
+8) Repair Phase 
+8a) Airfield Repair Phase (Tournament & Advanced Games): German restores all bombed airfields to functional 
+status. 
+8b) Industrial Repair Phase (Advanced Game): the German player may expend repair points from unbombed 
+industrial complexes to repair certain bombed targets. 
+6.0 AIRFIELDS & BASING 
+6.1 Aircraft are always in one of two states: either “flying” or “based.” An air unit is flying if it’s in the air and 
+expending endurance. An air unit is based if it’s on the ground. 
+6.2 German Basing 
+ 
+German air units are based if they’re located on an airfield hex and not flying. That can be noted by placing a 
+blank marker on top of based units. 
+6.21 The German player may base an unlimited number of air units on each base. But see rule 6.22 for restrictions on 
+taking off and landing. 
+6.22 Restrictions. A maximum of one German air unit may take off or land from any single airbase during any 
+single turn. For example, it is Turn 3 of the January 1944 quarter, the German player could land a maximum of one 
+air unit on the Berlin airfield, or have one unit take off from it, in that turn. Remember, a turn is one of the 20 periods 
+into which each quarter is divided; so you could have a grand total of 20 different units either take off or land on 
+each single airfield in the course of a turn. 
+6.3 American Basing 
+ 
+American air units base in the Britain, Italy and—if using the shuttle rule—USSR off-map areas. That’s indicated 
+by placing based units in the appropriate areas. There’s no limit to the number of American air units that may base in 
+an off-map area. An unlimited number of American air units may take off or land in any off-map area on any turn. 
+6.31 An American unit may land during any American turn as follows. 
+1) All games: it’s on the friendly side of the R Line for Britain or Italy and the American player declares the unit has 
+landed. In that case, the unit doesn’t have to move off the map; it simply has to be on the American side of the R 
+2) Tournament & Advanced Games: it exits the east map edge into the USSR and has sufficient turns of fuel 
+
+remaining to land (see rules 23.0 & 35.0). Note that to land in the USSR, a unit must exit the map and not simply 
+cross the eastern R Line. 
+6.32 When an American air unit is based or lands, place it in the appropriate off-map box. It isn’t kept on the 
+hexagonal portion of the map. Once on the hexagonal portion of the map, American air units are always considered 
+to be flying. American units may never base on German airfields. 
+6.4 Basing & Combat 
+ 
+Based German units may not attack or be attacked via air-to-air combat. They may be attacked if their airbase is 
+bombed (see 10.5) or strafed (see 14.0). Based American aircraft may not be attacked by the Germans, since the 
+Germans may not enter off-map areas. 
+7.0 HOW TO MOVE 
+7.1 During his turn, a player may some, none, or all of his air units within the constraints of endurance (rule 8.0), 
+airbase take-off limits (rule 6.2), and fuel (optional rule 28.0). You may move your side’s units only during your own 
+turns. You may never move in the enemy player’s turn. The die has no effect on movement; it’s used only to resolve 
+combat. 
+7.2 Each unit may move a number of hexes up to its printed movement factor. Each hex always costs one movement 
+factor to enter, regardless of any terrain in it. 
+7.3 Unused movement factors may not be transferred from one unit to another, nor may they be accumulated from 
+one turn to the next. 
+7.4 Bombers must always move to their assigned targets by the most direct course. They must travel their full 
+movement factor each turn until they arrive at their target. For example: a B-17 would generally always have to 
+move three hexes per turn (exception: see 7.41). Remember, only the US player has bombers. 
+7.41 When a bomber unit reaches its target hex it may cease movement even if it has unexpended movement points. 
+That is, the turn they bomb a target hex, bombers are exempted from the requirement they have to move a maximum 
+number of hexes. For example: a B-17 assigned to bomb Berlin starts its turn adjacent to the Berlin city hex. The 
+American player moves it one hex into Berlin and then stops. At the end of the turn it bombs Berlin. It could not 
+move farther that turn, since bombing takes place after all movement has been completed. 
+7.42 After bombing their assigned targets, bombers must return to cross the R Line from which they started. They 
+don’t have to re-cross by the same hex from which they entered the map, just the same R Line. For example: 
+bombers that started in Britain must return to Britain. (The Tournament Game Recovery Line and Shuttle Bombing 
+rules may be used to change this requirement.) 
+7.43 Returning bombers must travel at their full movement factor each turn. 
+7.44 See also the Mission Groups and Bomber Missions rules, sections 9.0 & 10.0. 
+7.5 Fighters may move less than their full movement factor each turn. Fighters may move in any direction or 
+combination of directions each turn. For example, the movement factor of the Fw-190 is 7. An Fw-190 unit could 
+therefore move anywhere from zero to seven hexes in any one turn. 
+7.6 Combat is executed during movement. See section 13.0. 
+7.7 Restrictions 
+7.71 Neither player may ever move units into or through Switzerland. 
+7.72 German units may never cross the R Lines to the Allied side of the map, nor may German units ever exit the 
+map. 
+8.0 TIME RECORD & 
+AIRCRAFT ENDURANCE 
+8.1 Players keep track of turns using the track on the Order of Battle cards where turn numbers from “1” through 
+“20” are printed. 
+8.11 The Basic Game lasts one quarter (20 turns). It may end sooner if all American bombers have re-crossed an R 
+
+8.12 A player moves his “Time Now” piece to cover the number of the turn currently in play. Players should keep 
+each other informed about which turn of the game is being played. 
+8.2 Endurance 
+8.21 Each player has a set of endurance markers that give the time remaining in the air for each of their aircraft 
+types. When one aircraft of a type takes off, all of that type are considered launched, and all expend fuel 
+simultaneously. A player may have different types of aircraft flying in a particular turn, and each type is recorded 
+separately. Air units are considered to be launched and therefore expending fuel even if they’re sitting on airbases 
+(German) or have yet to deploy onto the map (American). 
+8.22 The aircraft-type endurance marker is placed on the turn number on the turn record track in the numbered box 
+equal to the number of the current turn plus the number on the endurance marker. If there are two numbers on the 
+marker, use the number to the left of the slash. For example: an American P-47 enters play on Turn 2. A P-47’s 
+maximum endurance is 10. The American player places the P-47 endurance marker in the Turn 12 box to indicate the 
+maximum number of turns it may remain in the air. All P-47s that enter play, even on later turns, would have to re-
+cross the R Line by the end of Turn 12 or they’re lost owing to running out of fuel. Note that also means no P-47 
+could enter play on Turns 13 or later, since by that time all P-47s must land. This rule is intended to maximize 
+simplicity. See the optional rules for a more realistic way to record fuel. 
+8.23 When the “Time Now” piece moves into a turn number box covered by an aircraft time piece, all planes of that 
+type must land. If they’re German, they must land on an airbase that hasn’t been bombed. If they’re American, they 
+must re-cross the R Line. Units that don’t land or re-cross the R Line when required to do so are eliminated. 
+8.24 A player doesn’t have to launch his aircraft on any particular turn. Regardless of all other considerations, 
+though, all aircraft must land by the end of the 20th turn or they’re considered lost due to lack of fuel. For example, 
+P-47s could be launched on Turn 18, but if they didn’t re-cross the R Line by the end of Turn 20 they’d be lost. 
+8.25 Players may keep their aircraft endurance markers hidden from each other, though players may also, through 
+some elementary “intelligence” work, figure out enemy aircraft endurance times. 
+8.26 No unit may initiate combat on the turn it has to land. That includes fighters attacking enemy aircraft, and 
+bombers bombing targets on the ground. A unit may be attacked, and defends normally, on any turn it’s in the air. 
+8.27 Units may land prior to the end of their endurance. If one unit lands, others of the same type may continue 
+fighting as long as they have fuel. For example: P-47s that can fly until Turn 11 could all land (cross the R Line) on 
+Turn 3 if the American player decided to bring them home. 
+8.3 Auxiliary Fuel Tanks 
+8.31 Aircraft types that have numbers before and after the slashes on their endurance markers have auxiliary fuel 
+tanks. 
+8.32 The number to the left of the slash indicates how many turns a type has if its tanks aren’t dropped early. The 
+number on the right indicates the number of turns once tanks have been dropped. For example, if P-47s holds their 
+tanks, they have a maximum of 10 turns in the air; without tanks they have only three turns in the air. 
+8.33 Players have the option of dropping their tanks during any portion of any turn. If any planes of a certain type 
+drop their tanks, all planes of that type are considered to have dropped their tanks. This doesn’t cause other aircraft 
+types to drop their tanks. 
+8.34 Dropping tanks forces an adjustment of that type’s “Aircraft Time” counter on the time record. Subtract the 
+number on the right of the “Aircraft Time” counters from the number on the left to find the number of turns external 
+fuel tanks keep a plane in the air. Fuel is first taken from external tanks and, when they’re empty, those tanks are 
+automatically dropped. For example, auxiliary fuel tanks keep P-47s airborne for seven turns (10-3=7). After P-47s 
+have been in the air seven turns, their tanks are dropped automatically. As a further example, P-47s that arrive on the 
+R Line during Turn 2 must put their time counter on Turn 12. If they drop tanks during Turn 5, their time counter is 
+
+moved to Turn 8 because they have only three turns in the air remaining once their external fuel tanks have been 
+dropped. Therefore all P-47s must re-cross the R Line before Turn 8 ends. Tanks dropped on Turn 9 or later 
+wouldn’t alter recovery time. 
+8.35 All planes that have auxiliary fuel tanks carry them each time they take off even if they were dropped on earlier 
+flights. This applies only to the Germans since only their fighters can land and take off again in the same quarter. 
+8.36 If air units drop their tanks during an enemy player turn, readjust the marker based on the current enemy player 
+turn. For example: it’s the German third turn and a German force attacks an American force. The American force 
+drops tanks. Readjust the marker for the American units based on the third turn. 
+8.4 Americans 
+8.41 All American air units may fly only one mission per turn. Once they land, they may not return to play that 
+quarter. They’re available on future quarters. 
+8.42 All American units must spend their first turn in a quarter on the map behind an R Line. They must re-cross the 
+R Line before the 20th turn ends 
+8.43 Heavy Bombers. B-17s, B-24s, B-29s, B-32s and B-35s don’t have endurance markers because they have 
+sufficient fuel to fly 20 turns. Note that other American bomber types have endurance markers and are subject to all 
+fuel restrictions. 
+8.44 Fighters. As all fighters of the same type start behind the R Line the same turn, their “Aircraft Time” counter is 
+put on the time record on the proper turn number. American fighters may stay on their side of the R Line without 
+necessarily having to land, though they may do so. They may simply patrol there, hoping to attack an unwary 
+German air unit that ventures too close. 
+8.45 American fighters may re-cross an R-line and remain airborne, fuel permitting, behind the R-line to attack an 
+unwary German air unit that ventures too close. For example, as P-47s arrive on the R Line in Turn 2, the P-47 time 
+counter is put on Turn 12. The P-47s aren’t required to cross the R Line on the next or later turns, but all must re-
+cross the R Line for good no later than Turn 12. If they don’t, they’re eliminated. 
+8.5 Germans 
+ 
+German fighters are subject to all fuel restrictions; however, they may fly more than one mission per quarter if 
+they refuel at an airbase. 
+8.51 Only German planes may refuel. Refueling may occur only at airbases, and those airbases may not have been 
+bombed. No more than one unit, veteran or fatigued, may be refueled at any one airbase during any one turn. 
+8.52 It takes one complete turn on the ground for a German unit to refuel. During that turn no units of its type may 
+fly. For example: a German Me-109 lands at an airbase during Turn 5. It refuels on Turn 6. It may fly again during 
+Turn 7, providing all other units of that same type are ready to go. 
+8.53 No more than one air unit may be refueled per turn per base. For example: two Me-109s are on a base. One 
+refuels on Turn 8. The second refuels on Turn 9. 
+8.6 Regardless of all other considerations, air units may not drop tanks in a situation in which doing so would cause 
+them to run out of fuel before reaching a friendly base or R Line. 
+8.7 German units that can’t reach a base, and American units that can’t re-cross an R Line, before their fuel is 
+exhausted must be removed from the map as soon as that situation is discovered. Those units are eliminated and may 
+not make suicide attacks. That situation may also cause other penalties as noted throughout the rules. 
+8.8 School Units 
+ 
+In the Advanced Game the Germans have several “school units.” They count the same as other units of the same 
+type for endurance. For example: the Me-109 endurance marker applies to both regular and school unit Me-109s. 
+9.0 STACKING & MISSION GROUPS 
+9.1 Stacking is the word used to describe having more than one unit in a hex at the same time. Stacking works 
+differently for the Americans and Germans. 
+
+9.11 Stacking is always described in terms of units, not steps. A fatigued unit counts the same as a veteran unit for all 
+stacking purposes. Air units on the ground never count against the stacking of units in the air and vice versa. 
+9.12 Units may move through each other in excess of stacking limits. Stacking applies only at the end of movement 
+and combat. 
+9.13 Friendly and enemy units may stack in the same hex with no additional stacking limits. 
+9.14 Stacks must be moved one stack at a time. 
+9.15 Units in the same “mission group” must move as a stack; that is, move together all units in a single mission 
+group. Each stack is moved separate and apart from all other stacks. All units in a mission group must move together, 
+and at the speed of the slowest unit in the mission group. Additionally, each stack attacks separately for air-to-air 
+combat. See the bombing rules for the impact of mission groups on bombing. 
+9.151 Units in a mission group will move with the speed of the slowest unit in that stack. A mission group may break 
+up at any time, and its former units may move up to their full speeds, but are then no longer part of the same mission 
+group. 
+9.16 A player may not combine two different stacks into a single attack. They would first have to spend a turn in 
+which they combined and then could attack together (though only the Germans can combine stacks; see below). 
+9.17 Units on the ground (based) and units flying above them are never part of the same mission group. The units on 
+the ground may join the units in the air by flying up to join them on a subsequent turn. 
+9.2 American Mission Groups 
+ 
+American mission groups are formed during the planning stage. Indicate on the pad which air units will be 
+forming a mission group. That’s done within the following limits. 
+1) Only one type of bomber may be in any given mission group. For example: only B-17s or only B-26s, never a 
+combination of the two types. 
+2) Any and all types of fighters may be in a mission group as escorts. 
+3) An American mission group may never exceed 12 units of any types, bombers and fighters. 
+4) Targeting: each bomber mission group is assigned one “primary” and any number of “secondary” targets. The 
+primary target must be the target among those in the mission group that’s the farthest number of hexes from the 
+R-line of the mission group starting hex. At least one unit within the mission group must be assigned to that 
+primary target. Other units in the mission group may be assigned to other targets within one turn’s move of their 
+mission group’s flight path. For example: the American player assigns six B-17s to a mission group in 1943 
+operating from England. The mission group’s primary target is Mannheim. Its secondary targets include Aachen 
+and Trier. The American player could assign two B-17s to attack Mannheim, one to attack Aachen and three to 
+attack Trier. 
+5) The terms “primary” and “secondary” refer only to the target positions relative to the R Line; they have nothing to 
+do with the number of bombers assigned to each. That is, the primary target might have only one bomber 
+assigned to it, while a secondary target might have five bombers assigned to it. A mission must have a primary 
+target, but doesn’t necessarily need to have any secondary target. Once assigned to a target, no bomber may 
+switch targets even if all the primary mission bombers are shot down. 
+6) More than one mission group may be assigned to attack the same target in the same quarter, traveling as separate 
+stacks. 
+7) Fighters assigned as escorts aren’t assigned targets to be bombed; they travel along with the bombers they’re 
+escorting. Mission groups that contain only fighters don’t need to have targets assigned; just write “Fighter 
+Sweep” next to them. 
+8) All secondary targets must be reachable in one Movement from the flight path toward the primary target (see 
+9.24). 
+9.21 When initially placed on the map, all units in an American mission group must be placed in the same hex, and 
+
+no more than one mission group may be placed in a hex when initially placed. The American player may not stack 
+more than one mission group in the same hex at the end of any Movement Phase. 
+9.22 American mission groups may move through each other, but at the end of a movement phase, the following 
+limits must be met: 1) No more than one mission group per hex; and 2) no more than 12 units per hex. 
+9.221 Since bombers must move toward their targets in the shortest number of turns, sometimes there will be cases 
+where more than one bomber mission group will have to be stacked in the same hex. For example, two mission 
+groups of bombers are approaching Berlin, one from the north and one from the south. In that case the American 
+player must end their moves in such a manner no more than one mission group will end up in the same hex. In that 
+case only, the American player may have bombers move less than their full number of hexes; though they would 
+have to move the maximum number of hexes they could move and still not be stacked together. 
+9.23 Releasing Escorts From Mission Groups. At the start of any American Movement Phase (step 6b3), the 
+American player may “release” any or all escorts from a mission group. Such fighters must end their movement in 
+such a way as not to exceed the stacking limit. Released fighters may not stack with other mission groups at the end 
+of their movement. 
+9.24 Releasing Bombers From Mission Groups. At the start of any American movement phase (step 6b3), the 
+American player may “release” any or all bombers from a mission group. They may then move to their designated 
+targets. 
+1) When bombers get within one move’s range of their target, the American player may release them from the 
+formation. They then attack their target. Once released, they may not rejoin the mission group. 
+2) When bombers are released from a mission group to attack their targets, any fighters in the mission group may 
+also go along with them, remaining as escorts, which might or might not be released later. 
+9.25 Units may be released individually or in groups. If in groups, the units may remain stacked together; however, 
+they may not end their movement in such a way as to be stacked with other mission groups. That means once the 
+American breaks up a stack, its component units may not re-stack. 
+9.26 Fighter Sweep Groups. An American force may begin as all fighters, in which case the units may be released 
+as described above. For example: an American mission group consists of 6xB-17s, 2xP-51s and 4xP-47s. It’s target 
+is Berlin. At the end of the first turn of movement the American player releases the P-47s so they can hunt German 
+air units. The remaining B-17s and P-51s continue on to Berlin. 
+9.3 German Mission Groups 
+9.31 Stacking for German units is six units in the air. (In the Tournament Game that can be increased.) 
+9.32 The German player may initially stack only one unit on an airbase during initial set up. During his player turns, 
+the German player may move additional air units to air bases, up to six units in each. Stacking is unlimited on 
+airbases once the player turns begin. The German player may end a quarter with up to six air units on any single 
+base. In the Tournament and Advanced Games, those units would be automatically be redeployed during the 
+following Redeployment Phase, such that no more than one unit is deployed per base. 
+10.0 BOMBING MISSIONS 
+10.1 Mission Planning 
+ 
+Only the American side (including the Royal Air Force) can bomb targets. Mission planning for bombing is done 
+on the target sheets. The American player draws a line between the identification number of a bomber unit and the 
+city it will bomb, or to “air base attack.” A bomber unit may not be assigned to attack more than one hex in a single 
+quarter. Any number of bombers may be assigned to bomb the same target. Players may also choose to use other 
+methods for target planning if they find them more convenient, such as writing the name of the target next to the 
+individual bomber group number. 
+10.11 Each bomber unit is assigned to attack one city. It may attack a number of targets within that city equal to its 
+bomb points. If a city has more than one target within its hex, the American player must indicate which air units will 
+
+attack which individual targets. 
+10.12 A “target” is defined as one airbase or aircraft factory or industrial complex or oil or power generation or 
+transportation or V-weapon symbol in a given hex. 
+Old Hand’s Note: Unlike original Luftwaffe, where a single bomber could destroy all targets within a hex, target destruction is 
+now determined by bomb points (see 10.2). 
+10.13 Optionally, to make the game simpler, the American player need only indicate which city will be targeted by a 
+mission group and, once the bombers arrive there, he can decide who will bomb what within the hex. 
+10.2 Bombing Points 
+ 
+Each bomber unit has a number of bombing points. Each bombing point can destroy one target within a hex. If a 
+player has excess bombing points, he may not use that excess to destroy targets in other hexes. 
+1) Veteran unit bombing points. 
+A-20s, A-26s, B-25s, B-26s, P-38DS = 1 bombing point 
+B-17s, B-24s = 2 bombing points 
+B-29s, B-32s, B-35 = 4 bombing points 
+2) Fatigued unit bombing points. 
+A-20s, A-26s, B-25s, B-26s, P-38DS = ½ bombing point 
+B-17s, B-24s = 1 bombing point 
+B-29s, B-32s, B-35 = 2 bombing points 
+ 
+For example: there are four targets within a city. A single B-17 unit (two bombing points) could be assigned to 
+bomb any two of the four targets. Another B-17 could attack the other two. 
+10.21 If a veteran unit is reduced to its fatigued state as a result of combat during a raid, and it was assigned multiple 
+targets, the American player decides which targets it will bomb when it reaches the target hex. It may not bomb more 
+targets than its reduced bomb points allow. 
+10.22 An air unit with a half (1/2) bombing point may not bomb a target by itself. It may be combined with another 
+half bomb point unit to create one bomb point of target destruction. That presumes the combined units were 
+originally assigned the same target and arrive at the hex in the same turn. 
+10.3 Organization 
+ 
+Only bombers of the same type may fly together in the same mission group. 
+10.31 Bombers must fly to their target by following the most direct route to the target of each unit within it. The 
+“most direct route” is defined as the route that takes the least number of air turns from departure hex to the target and 
+back from that hex to an R Line. Minor deviations that increase the distance by a number of hexes less than the 
+bomber’s movement factor are permissible if they don’t increase the number of turns in the air needed to reach the 
+target or, when returning, re-cross the R Line. 
+10.32 Units that have bombed their targets must return toward their R Line by the most direct route. 
+10.33 No Aborts. Bombers attacking cities may never abort (end) a mission prior to bombing it, regardless of 
+casualties. 
+10.4 Target Destruction. A bombed industry is considered to have been destroyed, and thereby counts for victory 
+points. Note that under certain conditions the German may rebuild bombed targets. 
+10.5 Bombing Airfields 
+ 
+All the rules given above in “Bombing Cities” also apply below, except as noted. 
+10.51 The American player assigns bombers to bomb bases simply by writing that next to the unit’s identification 
+number. Unlike bombing other targets, a bomber may attack any airbase within range. The American player may 
+choose which one on a turn by turn basis. 
+10.52 Since the American player may decide to attack any particular base at any time, such bomber units don’t have 
+
+to travel by the most direct route to any such target. Such bombers must, however, still travel by the most direct route 
+when returning to their R Line. Bombers assigned to airfield attack may also “loiter” behind their R Line, waiting for 
+an opportunistic target to be created on the German side. 
+10.53 No single bomber unit may make more than one airbase attack per turn. Also, bombers assigned to attack 
+airbases may not attack other targets within the hex of the airbase they end up attacking. So, for example, a B-17 
+with two bomb points could attack one airbase per turn at most. 
+10.54 When an airbase is bombed, all aircraft based in it are eliminated. That base may not be used for the rest of 
+that quarter for anything. 
+10.55 Bombers don’t have to endure any anti-aircraft (AA) fire from airbases they are bombing. If, however, a base 
+being bombed is in the same hex as a city, the heavy city AA guns fire at those bombers before they attack the 
+airbase. 
+10.6 Bombers assigned to attack airbases may abort at any time simply by re-crossing the R Line. Also note that 
+strafing fighters are affected by base AA fire. The reason is bases were guarded by light AA weapons that would 
+have had little effect on high-flying bombers. 
+11.0 SNEAK RAIDS 
+11.1 Sneak raids are conducted via the Baltic Sea. On the US side, only sneak raiders may fly in Baltic Sea hexes. 
+During his planning phase the American player commits himself to the number of bomber units he wants to launch 
+as sneak raiders and the turn during which they appear on the map. That’s done by using the markers. Indicate the 
+turn when, and hex number in the where, they will appear. 
+11.11 The American player picks two sneak raid markers—one indicates the number of raiding counters; the other 
+indicates the turn of the raid—and places them face-down on the designated area in the Baltic Sea. The actual 
+counters that will participate in the sneak raid are temporarily kept off the map and out of sight. If no sneak raid is 
+planned, invert blank counters in the Baltic Sea to confuse the German player. 
+11.12 A maximum of five bomber units may participate in a sneak raid during any given quarter. 
+11.2 Entry 
+11.21 All sneak raiders for a given quarter must enter through the same hex at the same time. 
+11.22 Two turns before sneak raiders appear, the German player must be warned to expect a sneak raid. 
+11.23 One turn before they appear, the German player must be told the hex number area through which they will 
+appear. 
+11.24 On the turn they appear, the American player places the sneak raid bomber counters on one of the hexes 
+designated in the previous turn, and he also turns those pieces right-side-up to corroborate the number of sneak 
+raiders and their turn of appearance. 
+11.25 Sneak raiders must spend their turn of entry turn sitting on the numbered Baltic Sea hex in which they’ve been 
+placed. They may be attacked there by German units during the German player’s next turn. 
+11.3 Sneak raiders must reach their targets and re-cross the R Line, or land in the USSR via shuttle (see section 21.0, 
+prior to the end of the 20th turn. 
+11.4 Only one sneak raid per quarter is permitted. Only B-17, B-24, B-29, B-32 and B-35 bombers may participate. 
+11.5 No aircraft are permitted to leave the map via Baltic Sea hexes. That includes sneak raiders as well as other 
+missions. Units entering through Baltic Sea hexes may exit from the map to Britain, or Italy or the USSR if using the 
+Shuttle Raid rule, but they may never reverse course in order to exit through a Baltic Sea hex. 
+12.0 FIGHTER MISSIONS 
+12.1 Fighter Sorties 
+12.11 American fighters may fly only once in each quarter. 
+12.12 German fighters may fly as many times in each quarter as refueling permits. 
+
+12.13 Though all planes of the same type must take off at the same time (if German), or be placed behind the R Line 
+at the same time (if American), they may operate independently and may land or re-cross the R Line (for the 
+Americans) individually any time prior to fuel exhaustion. American fighters may patrol behind the R Line waiting 
+for a chance to strafe or otherwise attack the enemy. They may cross and re-cross the R Line as often as their fuel 
+situation permits. 
+12.14 American fighters that enter via one R Line can exit via another R Line. They may not exit via the Baltic Sea 
+or into the USSR. In the Tournament and Advanced games, fighters may fly to the USSR via shuttle raids. 
+12.15 American fighters may not enter the map from Baltic Sea hexes. 
+12.2 Close Escort 
+ 
+American fighters may provide close escort to protect bombers. 
+12.21 Fighters providing close escort must start behind the R Line with the bombers in their mission group. They 
+must stay with those bombers until: 
+1) they reach the limits of their fuel; or 2) until attacked by Germans, whichever comes first. 
+12.22 If they reach the limits of their fuel, they must turn back to a friendly R Line. That happens on the turn on 
+which their endurance marker indicates they have to turn back; they may not fly any deeper into the Reich’s skies. 
+12.23 Once any force of escorts is attacked by German fighters, the American player can decide if they will remain 
+with their bombers or will be “released.” If they’re released, they no longer provide protection to bombers (see 
+below), but may initiate combat with German fighters (and/or strafe). Released fighters may not provide further close 
+escort for their mission group bombers (or any others). If more than one fighter unit is providing close escort to a 
+mission group, some may be released while others remain on close escort. 
+12.24 Close escorts that must discontinue their mission because of their fuel situation may not strafe or dogfight on 
+their way back to the R Line. 
+12.25 If the close escort is not released, the units in the close escort leave the map (and land) when bombers in their 
+mission group re-cross the R Line. 
+12.26 Close escorts may not fire on attacking Germans. They may attack them only once they’ve been released, and 
+only during the American turn. 
+12.27 If all the bombers in a mission group are shot down (say by AA fire), then any escorts are automatically 
+released. 
+12.3 Fighters don’t have to use all their movement points in a turn. For example: an Me-109 with a movement factor 
+of “6” could move from “0” to “6” hexes per turn. 
+13.0 AERIAL COMBAT 
+13.1 A player initiates aerial combat by moving a fighter unit or stack of fighters into a hex containing flying enemy 
+units. Combat is executed during movement, and each moving force attacks before the next moving force does the 
+same. The player moving his units is “the attacker”; his opponent is “the defender.” Thus, during an American turn, 
+American units will be the attackers, while during the German turn, German units will be the attackers. 
+13.11 American fighters may attack German fighters on airbases using strafing. 
+13.2 Attack Situations 
+13.21 Fighter vs. Fighter. The following procedure is used when fighters are attacking a defending force containing 
+only fighters. 
+1) The attacking fighter force moves into the defending fighter force’s hex. 
+2) Attacking fighters engage the defending fighters, using the “best against the best” provision. 
+3) The attacking fighters fire using the appropriate column on the CRT. 
+4) Extract any losses on the defender inflicted by the attacker. 
+5) The attacking force may continue moving. 
+
+13.211 Note that defending fighters don’t fire back. If the defending player wants to attack the enemy force that just 
+attacked his force, he would have to wait until his own turn and then move into the former attacking force’s hex. 
+13.22 Fighter vs. Bomber (but no escorting fighters). The following procedure is used when fighters attack a 
+defending force containing only bombers. 
+1) The attacking force moves into the defending force’s hex. 
+2) Attacking fighters fire on the defending bombers using the appropriate column on the CRT. They don’t engage 
+using the “best against the best” provision. 
+3) Defending bombers conduct defensive fire against the attacking fighters. 
+4) Extract losses from both the attacking fighters and the defending bombers. That is, defensive bomber fire is 
+simultaneous with attacking fighter fire, and both results are applied only after both players have finished rolling 
+the die. 
+5) The attacking force may continue moving. 
+13.23 Fighter vs. Bomber & Escorts. 
+ 
+The following procedure is used when fighters attack a defending force containing bombers with a fighter escort. 
+1) The attacking force moves into the defending force’s hex. 
+2) Attacking fighters engage the defending fighters, using the “best against the best” provision. 
+3) Extract any losses inflicted by the attacking fighters on the defending escorts. 
+4) If all escort fighters have been eliminated, any excess losses are applied to the bombers (see 13.232). 
+5) If bombers have taken losses, surviving defending bombers conduct defensive fire on the attacking fighters. If 
+only escort fighters were lost, there is no return fire (see 13.231). 
+6) The attacking force may continue moving. 
+13.231 Note that escorting fighters don’t fire back. If they are to attack the force that attacked them, they have to 
+wait until their side’s turn, when the American player could release them and move them into the former attacking 
+force’s hex. 
+13.232 German fighters must eliminate all escort fighters before any bomber losses occur; however, any excess 
+losses scored against escort fighters is automatically applied to the bombers. For example, if Me-109s attack 
+bombers with a close escort of two P-47 factors, and that attack results in a loss of five factors, the two fighter factors 
+are eliminated and the overkill of three factors is taken from the bombers. If both FW-190 and Me-109 fighters 
+attacked, and if the FW-190s eliminated the P-47s, the Me-109s could then attack the bombers. 
+13.233 Germans attacking a close escort may be fired on by the bombers if any bomber factors are lost due to 
+overkill against their close escort fighters. If any bomber losses occur, all bomber factors in that hex fire before any 
+bomber losses are taken. For example: three FW-190s attack a stack of one veteran P-47s and four B-17s. The FW-
+190s inflict three losses. The American player must eliminate the P-47 and then must also reduce one B-17. At that 
+time, all the B-17s may conduct defensive fire. Say they inflict one loss, then one FW-190 is reduced. If the German 
+also had one Me-109, it could also fire on the B-17s after the FW-190s had done so, and the one loss owing to the 
+bombers’ defensive fire could be applied against the Me-109 instead of the FW-190. (German player’s choice.) 
+13.24 Owing to the stacking and mission group rules, all bombers and fighters in the same square must be part of the 
+same mission group. So there will be no situations in which more than one mission group could be attacked in a 
+single square at the same time. 
+13.3 General Aerial Combat Strictures 
+13.31 Combat occurs during movement. As an attacking force enters an enemy occupied hex, it executes its attack. 
+The attacking force may continue moving. Attacking does not cost any movement points. The attacker may even 
+have begun his move in the defending force’s hex. 
+13.32 Each attack is resolved as soon as the moving force enters the enemy hex. On completion of that combat, and 
+
+any subsequent movement by the attacking force, the phasing player may move another of his forces and conduct 
+another attack. More than one friendly fighter stack may attack the same enemy stack during the same player turn. 
+Such multiple attacks are executed one at a time; they may not be combined and by definition are separate attacks. 
+Note that means, unless units begin a turn stacked together, they will not be able to combine for a single attack. 
+13.33 Attacking is entirely at the moving player’s option. Units may enter and pass through enemy occupied hexes 
+without attacking. 
+13.34 Each type of attacking fighter combines its attack with all the units of its same type in its force. Different types 
+of fighters may not combine their fire. If there are different types of fighters in the same stack, each type attacks as a 
+group in the order of the “best against the best (see 13.6). For example: a stack containing three FW-190s, two Me-
+109s and one Me-110 attack. The three FW-190s conduct one fire, then the two Me-109s, then the Me-110. 
+13.35 Each unit may attack only once per turn. That’s true even if it moves through more than one enemy occupied 
+hex in a single turn. If a stack of units is moving together, the moving player must decide if all or none will attack. 
+You may not have just some of the units in a stack attack. 
+13.36 Defending bombers may fire defensively each time they’re attacked by a mission group. That’s one defensive 
+fire per attack by an enemy mission group, not one defensive fire against each type of fighter within an attacking 
+mission group. So, for example, if a stack of German fighters containing FW-190s and Me-109s attack an American 
+bomber mission group, the FW-190s and Me-109s would fire separately, but the American bombers would fire only 
+once defensively and that one result would be applied against all the interceptors. 
+13.36 Only fighters may attack; bombers may not attack. Both fighters and bombers may defend in the sense that 
+they can be fired on; however, only bombers may conduct defensive fire, which is a special sub-type of combat. 
+Also, fighters flying close escort may not attack, though they could if they were released from their escort mission. 
+13.37 Combat takes place only within hexes. Units in adjacent hexes may not attack each other. 
+13.4 Restrictions 
+13.41 Units may not attack on a turn they’re to land. They may attack on the turns they take off. For example: An 
+He-162 has an endurance of “1.” It takes off on Turn 2. It could attack an enemy unit on Turn 2, but since it must 
+land on Turn 3, it couldn’t attack enemy units on Turn 3. Effectively, the number of turns a unit may remain in the 
+air is equal to the number on its endurance marker plus one. That’s owing to the fact the endurance markers are 
+placed on the Turn Record Track in the numbered box equal to the current turn plus the number on the endurance 
+marker. For example, an air unit with an endurance of “2” could take off on Turn 1, continue flying on Turn 2, and 
+land on Turn 3. Note, though, on the final turn of movement, when it must land, it may not attack. 
+13.42 Since German units may never cross the R Line, no combat will take place on the Allied side of any R Line. 
+Combat may otherwise potentially take place anywhere on the map except Switzerland. 
+13.5 Aerial Combat Results Table (CRT) 
+ 
+All air to air combat is resolved on the Aerial Combat Results Table (CRT). That’s done by attacking fighters or 
+defending bombers “firing.” Each type of aircraft has a designated column on the CRT that determines the results of 
+the attacks it makes. 
+13.51 Procedure 
+1) Each type of aircraft in a force fires as a single combined group. All units of the same type must fire together. If 
+more than one type of aircraft is listed in the same column (for example, P-40s and P-51s), they still fire as 
+separate groups. For example: P-40s and P-51s are listed on the same column. However, if P-40s and P-51s were 
+in the same attacking force, the two types would fire separately. 
+2) Add up the total number of factors of firing units. Each veteran unit is worth two fire factors. Every fatigued unit 
+is worth one fire factor. 
+3) Use the number of firing factors to determine which line will be used on the CRT. 
+4) The firing player rolls a die. Cross index the die roll with the line being used to get a numeric result. 
+
+5) The numeric result is applied immediately, prior to any other firing. See below for details on inflicting losses. 
+6) Proceed to the next group of firing units. If no more units are to fire, that combat comes to an end. For example: 
+the German player has an attacking force containing five veteran Me-109s and four fatigued Me-109s. It would be 
+worth 14 combat factors, since each veteran unit is worth two fire factors and each fatigued unit is worth one. Say 
+they attack an American force and roll a “6.” That causes the loss of 11 enemy factors. Also note that if 23 B-24 
+factors fire, a roll of a “6” achieves the same result. 
+13.52 If the exact number of firing factors doesn’t appear in the column, use the next lower number. For example, 
+the number “12” doesn’t appear in the B-17 column; therefore the number “11” is used for the fire of 12 B-17 
+factors. 
+13.53 Casualty Extraction. Each point of loss called for by the CRT causes the loss of one step of a unit. If a 
+veteran unit loses a factor, it’s flipped over so its fatigued side show upward. If a fatigued unit loses a factor, it’s 
+eliminated and removed from the map. A veteran unit may also be completely eliminated if it loses two factors. 
+13.54 When there’s a choice of units to be taken as losses, the targeted player chooses which of his units will be 
+reduced and/or eliminated. Casualties may be taken only from units that participate in each particular battle. 
+13.56 If the CRT calls for the loss of more factors than the enemy has in a particular battle, only those actually 
+present in the hex may be lost. The overkill may not be taken from uninvolved units. That is, if you wipe out an 
+entire enemy stack, losses may not be extracted from stacks in other hexes. 
+13.6 Best Against the Best & E Ratings 
+ 
+When fighters are attacking an enemy force of fighters, or bombers and escort fighters, the best of the attackers 
+must first fight the best of the defenders. The best fighter is the type with the highest E Rating. If the best attackers 
+don’t succeed in fully eliminating the enemy, the second-best attackers must fight the best surviving enemy fighters. 
+That process continues until all the attackers have fired once. For example, FW-190s (E Rating = 4) and Me-109s (E 
+Rating = 3) attack a force of P-51s (E Rating = 4) and P-38s (E Rating = 2). The FW-190s will fight the P-51s first, 
+because both those types have the highest E Ratings. If any P-51s survive that attack, the Me-109s must attack them 
+and apply any overkill against the P-38s. The lower E Rating planes may not be attacked until the best in the stack 
+are eliminated. 
+13.61 To resolve combat, compare the attacker’s E Rating to the defender’s E Rating. If the attacker’s rating equals 
+or exceeds that of the defender, the die roll result isn’t modified. If the attacker’s E Rating is lower that that of the 
+defender, subtract that difference in ratings from the die roll. For example, Me-109s (E Rating = 3) attack P-51s (E 
+Rating = 4). The difference in the E Ratings (“1”) is subtracted from the die roll before losses are determined. If a 
+“4” were rolled, losses would actually be taken by looking at the “3” column. If a “1” were rolled, there would be no 
+losses. Another example, P-51s (E Rating = 4) attack Me-109s (E Rating = 3). Since the P-51 E rating is higher than 
+that of the Me-109, there’s no modification to the die roll. A die roll of “4” would remain a “4.” 
+13.62 A die roll reduced to less than “1” causes no losses. 
+13.63 If more than one type of aircraft has the “best” E Rating, the owning player decides which type will be the 
+best. Different types may not be combined to determine best versus best. 
+13.64 IMPORTANT: what is reduced is the die roll, not the actual losses. For example: four factors of P-38s fire on 
+FW-190s and roll a “5.” Because of the E Rating difference, they have a minus-two die roll modifier. That reduces 
+the rolled “5” to a “3,” which causes a loss of one enemy step. 
+13.65 Some aircraft types have a negative E Rating. Use standard math to determine the difference. For example: a 
+Ju-88 school unit (E Rating = -1) attacks a P-38 (E Rating = 2). The difference in E ratings is “3” (remember the old 
+school number line and count two spots from two to zero, and then one more to the left to get to negative-one). 
+13.66 Best against the best is determined both by E Rating and unit type. For example, two fighter units with the 
+same E Rating (such as P-47s and Spitfires) could not be combined into one firing group. 
+13.67 School Units. In the Advanced Game the German player receives “school units.” Several are of the same type 
+
+as other German fighters, but have lower E Ratings. School units may not be combined with non-school units of the 
+same type for purposes of E Rating determination. They may be combined for purposes of attacking bombers, since 
+that process doesn’t use E Ratings. 
+13.7 Auxiliary Fuel Tanks 
+13.71 A player may decide to drop auxiliary fuel tanks at any time in a turn. Once that’s has been declared, all 
+aircraft of that type drop their fuel tanks. In combat situations, players decide to drop tanks at the initiation of combat 
+for each type of aircraft involved and, once that decision has been made it remains in effect for the remainder of that 
+combat. For example: the German player is attacking with a force of FW-190s and Me-109s. He decides the FW-
+190s will drop their tanks while the Me-109s won’t. After the FW-190s fire, he may not reconsider and have the Me-
+109s drop their tanks. 
+13.711 Players should decide, on a combat by combat basis, who will drop tanks first by rolling a die, and the low 
+roller has to make the decision first. 
+13.72 Effects. The E Rating of an aircraft being attacked is reduced by two if it holds onto its auxiliary fuel tanks. 
+The E Rating of an attacking aircraft with auxiliary fuel tanks is also reduced by two. For example, the E Rating of 
+P-51s is “4.” If they attack while carrying auxiliary fuel tanks, their E Rating is reduced to “2.” 
+13.73 In some cases, holding onto auxiliary fuel tanks will cause an aircraft to have a negative E Rating. For 
+example: an air unit with a “1” E Rating would have a “-1” E Rating if holding its drop tanks. If it were to attack an 
+enemy air unit with an E Rating of “1,” it would shift two columns to the left when firing on the CRT. 
+13.74 When auxiliary fuel tanks make otherwise unequal aircraft equals, the one with the best ‘natural’ E Rating is 
+considered the best. For example: A P-51 (E Rating = 4) is attacking alongside a P-38 (E Rating = 2). The P-51 
+keeps its tanks, the P-38 drops them. The P-51 would still be considered “best.” 
+14.0 STRAFING AIRBASES 
+14.1 Any qualified American fighter units may strafe German fighters on the ground on an airbase. 
+14.11 Strafing Qualifications 
+14.12 All American fighters are considered qualified to strafe, with the following exceptions: 1) fighters escorting 
+bombers; 2) fighters that must land this turn; and 3) fighters discovered to be out of fuel. 
+14.13 If there are German fighters airborne over an airbase, they must be eliminated before the American fighters 
+can strafe that airbase. American fighters engaging German fighters in the air may not strafe in the same turn. Excess 
+losses inflicted on airborne German fighters may not be applied as strafing losses against planes on the ground. 
+14.2 Prior to the execution of a strafing attack, American fighters must endure any AA fire (see section 15.0). 
+14.3 Strafing attacks are executed exactly as regular air to air combat, except: 1) the E Ratings of the attacking and 
+defending units are ignored; and 2) always add one to the die roll of the strafing fighters. 
+15.0 ANTI-AIRCRAFT (AA) FIRE 
+15.1 There are two types of anti-aircraft (AA) fire in the game: “heavy” city AA and “light” airbase AA. 
+15.2 City AA. Every city on the map (red triangles) has heavy AA guns defending it. The instant any American 
+mission group enters a hex containing such a German city, that city’s AA guns fire at it. In each case, that AA fire is 
+resolved instantaneously, before any further movement. Heavy AA fire is resolved on the City AA fire column of the 
+CRT. Both fighters and bombers may be subjected to it. 
+15.21 Each city can fire only once at each mission group as it enters its hex in a particular turn. If more than one 
+mission group enters its hex, each is fired at separately. 
+15.22 Note that it doesn’t make a difference if a passing mission group is planning to bomb the city; the AA fire still 
+has the same effect. 
+15.23 Losses are extracted immediately, and the German player chooses which units will be affected (but he doesn’t 
+get to know target assignments when making that decision). Since AA fire occurs during movement, any bombers 
+shot down don’t count for bombing targets on the ground in that hex. 
+
+15.3 Airbase Light AA. Every airbase on the map has light AA guns. Light AA may fire only at strafing fighters. 
+They may not assist friendly airborne fighters that dogfight in their hex, nor may they fire on bombers. 
+15.31 Light AA fire is resolved on the Airbase AA fire column of the CRT. It’s resolved after the American player 
+declares which fighters will strafe a base. Extract any losses to the strafing fighters, then resolve the strafing attack. 
+If all strafing fighters are shot down, no strafing attack occurs. The German player chooses which strafing units will 
+be affected in the case of losses. 
+15.32 If more than one American fighter mission group strafes a German airbase, each is fired on separately as it 
+attacks. 
+15.4 American fighters that attempt to strafe an airbase in a city hex are first fired on by the heavy city AA, then by 
+the light airbase AA. 
+15.5 AA guns are never destroyed, even if all targets in their hexes are destroyed. 
+16.0 FORMATION MARKERS 
+16.1 Players may use formation markers to reduce clutter on map clutter. At any time during planning, or during 
+your own turn, you may replace any stack of units with a formation marker. Those units are placed in the box 
+corresponding to the formation. Units in a formation box are treated as if they’re on the map itself for all purposes. 
+16.2 Revealing Units 
+ 
+You must reveal the exact units in a formation box whenever an enemy unit enters that hex or when they bomb or 
+strafe a hex. 
+16.3 Whenever an American formation marker is on the German side of the R Line, the American player must tell 
+the Germans which air units are in it. 
+17.0 BASIC GAME VICTORY CONDITION (VARIANT) 
+17.1 Prior to start of play, the American player secretly writes down which target complex he will seek to destroy. 
+He can choose aircraft factories, oil refineries or transportation centers. At the end of the game the American player 
+reveals which target complex he chose, totals the number of those targets he bombed, and determines who won the 
+game. 
+17.2 Aircraft Factories 
+ 
+ If the American player chose this target complex, victory is determined as described in section 4.0. 
+17.3 Oil Refineries 
+ 
+ If the American player chose this target complex: 1) he wins if he bombs eight or more cities containing oil 
+refineries; 2) the German player wins if five or fewer such cities are bombed; and 3) a draw results when six or seven 
+such cities are bombed. 
+17.4 Transportation Centers 
+ 
+ If the American player chose this target complex: 1) he wins if he bombs 14 or more cities containing 
+transportation centers; 2) the German player wins if 11 or fewer such cities are bombed; and 3) a draw results when 
+12 or 13 such cities are bombed. 
+18.0 PREPARE FOR PLAY (TOURNAMENT GAME) 
+18.1 The Tournament Game consists of 10 quarters, each with 20 turns. Prior to start of the game, the players 
+determine who will play the Americans and who will play the Germans. 
+18.2 Time 
+18.21 The first quarter is “January ’43,” the second is “April ’43,” etc., until the 10th and last quarter, which is “April 
+’45.” Those dates are printed on the Tournament Game Order of Battle Card. Each quarter represents the results of 
+three months of bombing. 
+18.22 Each quarter ends when 20 complete turns have been played or when all American units have left the map, 
+whichever occurs first. 
+
+18.23 The game is over at the end of the 10th quarter (April 1945). 
+18.24 The American player isn’t required to attack each quarter. Attacking quarterly provides the greatest number of 
+opportunities to bomb targets, but it may also lead to heavy American losses. The American player may announce, at 
+the start of any quarter, that he will skip operations that turn. In that case, skip step six of the turn sequence. Skipping 
+one or more quarters cuts losses but also limits the number of raids that can be launched during a game. 
+18.3 Deployment 
+18.31 The German sets up first by taking all that side’s units listed on the Tournament Game Reinforcement Chart 
+for January 1943 and placing them on airbases on the map. No more than one counter may be placed on each airbase. 
+18.32 The American player takes all American units listed on the Tournament Game Reinforcement Chart for 
+January 1943 and places them in Britain. 
+18.4 Begin play of the game using the sequence given in section 5.0. 
+19.0 TOURNAMENT GAME VICTORY CONDITIONS 
+19.1 Prior to start of play, the American player secretly writes down one of the following target complexes: 1) 
+aircraft factories; 2) industrial complexes; 3) oil refineries; 4) power generation; or 5) transportation. 
+19.2 The American player wins by bombing all targets of the designated type before the end of the game. 
+19.3 The German player wins by avoiding the American victory condition. 
+19.4 The American player doesn’t have to tell the German player which target complex he has chosen until the end 
+of the game, or whenever he has destroyed all the targets in the chosen complex. 
+19.5 There’s a penalty for losing planes due to fuel shortages. For each American unit that fails to re-cross the R Line 
+because of fuel shortage, the German player saves one target at the end of the game. For each German unit that fails 
+to land before its fuel runs out, the American player gets credit for one additional target at the end of the game. 
+20.0 RECOVERY LINES 
+(R LINES) 
+20.1 There are three sets of R Lines. Each goes into effect with the start of the year listed. 
+1) All raids flown in 1943 must start behind the 1943 R Line or Baltic Sea hexes. 
+2) Raids flown in 1944 may begin behind the 1943 and/or 1944 R Lines as well as Baltic Sea hexes. 
+3) Raids flown in 1945 may begin behind 1943 and/or 1944 and/or 1945 R Lines as well as Baltic Sea hexes. 
+4) Also see the Shuttle Rule (21.0) for raids going into and out of the USSR. 
+20.2 1943 Operations 
+ 
+In 1943, American air units may be based only in Britain. 
+20.3 1944 Operations 
+ 
+In 1944, American air units may be based in Britain or Italy. 
+20.31 Units may fly from Britain to Italy, and vice versa. They are not shuttle raids per se. Simply indicate that 
+intention on the planning sheet. The only restriction, if the unit in question is a bomber, it must have sufficient fuel 
+for the entire raid. Fighters have the option to land in either Britain or Italy; that doesn’t have to be pre-planned. For 
+example: a B-17 raid is based in Britain. It targets Schweinfurt and then flies on to Italy to land. 
+20.32 During the Planning Phase, the American player may shift any and all units from Britain to Italy, and vice 
+versa. That’s not considered movement, and the Germans may not intercept such transfers, since the units would be 
+flown or shipped via the Atlantic. 
+20.4 1945 Operations 
+20.41 At the start of the January 1945 turn, any German air units on airbases on the Allied side of that year’s R Line 
+are eliminated. They may never be replaced. For example: the German player leaves an Me-109 on the Budapest 
+airbase at the end of December 1944. At the start of January 1945, that Me-109 is eliminated. 
+20.42 The American player may not bomb targets on the Allied side of the R Line in 1945, and hence never receives 
+
+victory points for such unbombed targets. Any points the American received previously for bombing them are 
+retained and count toward fulfilling the American victory conditions. Similarly, such targets, if un-bombed, don’t 
+provide any benefits to the German player for oil, aircraft replacements, etc. 
+20.43 The German player may not use airbases on the Allied side of the R Line in 1945. Cities on the Allied side of 
+the R line in 1945 may not fire AA at American units. 
+20.44 The American player may not land units on German bases on the Allied side of the 1945 R Line. 
+21.0 REINFORCEMENTS & WITHDRAWALS 
+21.1 Reinforcements are new units introduced into play each quarter. Reinforcements available for each quarter are 
+listed on the Tournament Game Order of Battle Card. Reinforcements are added almost every quarter. A player takes 
+reinforcements during his Reinforcement Phases. 
+21.11 The American places reinforcements in Britain or Italy. There’s no limit to the number of units that may be 
+placed in Britain or Italy. 
+21.12 The German places reinforcements on any airbase on his side of the R Line. No more than one reinforcement 
+unit may be placed on any airbase during a Reinforcement Phase, and a reinforcement may not be placed in an 
+airbase that already has an air unit in it. 
+21.2 Withdrawals. The order of battle cards also show units that must be removed from play. They’re withdrawn 
+during the Reinforcement Phase. Simply remove them from the map. Withdrawn units may not re-enter play, unless 
+some specific rule states they may. Withdrawn units may not be taken as replacements (see section 22.0). 
+21.21 A player must withdraw the type of unit indicated. He may withdraw one veteran unit of that type. If no 
+veteran unit of the type is available, he must do one of the following, in this order. 
+1) For fighters, withdraw a veteran unit of the same or higher E Rating (veteran or fatigued). For the Americans, 
+bombers must have equal or greater bomb points. If a German school unit is to be withdrawn, that player must 
+withdraw a school unit in its place with an equal or higher E Rating. 
+2) Withdraw a fatigued unit of the same type, or higher E Rating if none of the same type are available, and deduct a 
+replacement point. (For the American, it must be of the appropriate type, fighter or bomber.) This is done during 
+that turn’s Replacement Phase. 
+3) Deduct two replacement points. (For the American, it must be of the appropriate type, fighter or bomber.) This is 
+done during that turn’s Replacement Phase. 
+4) Give the enemy two victory points. 
+22.0 REPLACEMENTS 
+22.1 Replacements is the term used to describe the reconstituting of reduced and/or eliminated units. Each player 
+receives replacement points (RP). During the Replacement Phase, both players may expend those RP to either: 1) flip 
+fatigued units to their veteran side; and/or 2) return completely eliminated units to play as fatigued units. 
+22.11 A player expends one replacement factor to do either one of the above, within the restrictions below. 
+22.2 German 
+22.21 In 1943, the German player receives one replacement factor per quarter for every six unbombed aircraft 
+factories. Since there are 43 aircraft factories, he may earn a maximum of seven replacement factors per quarter in 
+1943. 
+22.22 In 1944 and 1945, the German receives one replacement factor per quarter for every four unbombed aircraft 
+factories. Since there are 43 aircraft factories, he may earn a maximum of 10 replacement factors per quarter in 1944 
+and 1945. For example: it’s January 1944 and the German player has nine unbombed aircraft factories. That would 
+give him two RP. He could use them to, say, flip one fatigued Me-109 to its veteran side and bring back into play an 
+eliminated Fw-190 as a fatigued unit. Suppose, however, the German player had no losses that turn. He could then 
+accumulate two RP, which would be added to his total in the following Replacement Phase. 
+22.23 Replacement factors are awarded at the start of each Replacement Phase for surviving aircraft factories. 
+
+22.24 Unused replacements may be accumulated from quarter to quarter 
+22.3 American. The American player has 104 bomber and 52 fighter replacement factors available for the entire 
+game. 
+22.31 Replacements may be applied only to units in Britain and Italy. They may not be used for units operating out 
+of the USSR (see section 23.0). Units that operate in the USSR and are fatigued may not receive replacements there. 
+Units that operated from the USSR and are completely eliminated while doing so may be replaced using normal 
+procedures, but they are replaced in Britain or Italy. 
+22.4 Both players are required to replace all units as long as their replacement factors hold out. 
+22.5 Completely eliminated units restored to play via replacements are placed on the map the same way as 
+reinforcements. Fatigued units are flipped to their veteran side on whatever base (for the Germans) or Italian or 
+British off-map area (for the Americans) they occupy. 
+22.6 Restrictions 
+22.61 An eliminated unit may only be brought back into play as a fatigued unit at the normal cost of one replacement 
+point. If it survives that replacement turn, on the following turn the owning player may decide to expend another 
+replacement point to flip it to its veteran side. That is, a fatigued unit may be increased to its veteran side only if: 1) 
+It began that turn already in play on the map; and 2) the owning player expends a replacement point. Effectively, 
+replacement of eliminated units is a two-turn process to bring back an eliminated unit to its veteran strength side. A 
+unit that’s replaced may conduct operations normally during the turn it’s placed on the map or is flipped from 
+fatigued to veteran status. 
+22.7 Out of Fuel 
+ 
+Air units eliminated due to running out of fuel before they could reach a friendly base or recross an R Line are 
+permanently eliminated and may never be replaced. Units may otherwise be replaced any number of times regardless 
+of how they were destroyed. 
+23.0 SHUTTLE RAIDS 
+23.1 Shuttle raids are bomber missions flown from Britain or Italy to the USSR, or from the USSR to Britain or Italy. 
+They bomb a target on the map and then continue on to their landing area. 
+23.11 In the Tournament Game only bombers may shuttle. 
+23.12 Shuttling bombers must be assigned a target on the map. That can be to either bomb a target or attack airfields. 
+Note: The American player may routinely and without declaring a shuttle raid have air units take off from Britain 
+and land in Italy, and vice versa. Shuttle raids represent the extraordinary planning procedures required to gain the 
+cooperation of the Soviets. 
+23.2 Planning Shuttle Raids 
+23.21 The American player plans shuttle raids during the Planning Phase by indicating those units’ starting area 
+(Britain or Italy) and destination (USSR). The American player circles those bomber units’ identification numbers on 
+his target pad. A maximum of one shuttle raid mission group per quarter may be planned and executed. 
+23.22 The inverted counter that has “Shuttle to Russia,” and the target pad, are shown to the German player after the 
+shuttle turn is completed. The American player may use a blank counter to deceive the German into thinking a 
+shuttle is being planned, though that would also have to be revealed at the end of the turn. 
+23.23 Shuttle raiders may start from their start lines at any time, just like other bombers, but they must bomb and be 
+off the map into the USSR by the end of the 20th turn. 
+23.24 Shuttle bombers may attack targets normally on the turn they shuttle. 
+23.25 Sneak Raiders may be designated as shuttle raiders and fly via the Baltic to the USSR. In that case, there can 
+only be one combined sneak/shuttle raid per quarter. 
+23.26 Bombers on a shuttle mission don’t all have to bomb the same target, just as long as the provisions of 8.24 are 
+followed. 
+
+23.27 Shuttle bombers assigned to attack airbases may abort the airbase attack mission and then continue on to the 
+USSR (if flying from Britain or Italy) or vice versa (see 9.6). 
+23.3 Operating From The USSR 
+23.31 Shuttle raiders may be based in the USSR as long as the American player wants. The USSR becomes their 
+home base and they may fly all normal missions from the USSR. 
+23.32 Such units may return to Britain or Italy during any quarter after they arrive in the USSR. Some, none, or all of 
+such units may fly missions and/or return to Britain or Italy, or they may fly back to the USSR; however, the 
+maximum of one shuttle raid per quarter still applies. If shuttling bombers return from the USSR to Britain or Italy, 
+they can not fly to the USSR that Quarter. 
+23.321 This does not impede bomber operations based in the USSR but which also return to the USSR in the same 
+quarter. For example: the American player could have one bomber mission group shuttle from Britain to the USSR 
+while other bomber mission groups based in the USSR conduct raids against different targets. 
+23.33 Aircraft operating with the USSR as both their launch and landing area are not considered to be shuttle raiders. 
+23.4 Return Shuttles 
+23.41 Units based in the USSR may be flown back to Britain or Italy via shuttle missions. Follow the same 
+procedure as above, but with the USSR as the starting base and either Britain or Italy as the destination. Write the 
+turn they’re to appear and the number of the hex on the target pad. For example: if “Turn 8, Hex 7” were written, the 
+units must appear on Turn 8 any hex numbered 7. 
+23.42 Two turns before shuttle units are to appear on the map, the German player must be warned to expect them. On 
+the turn prior to their appearance, the German player must be told the numbered area they will use. Shuttle planes 
+must spend the turn of their appearance on a numbered hex. They may be attacked there by any German fighters 
+within range. 
+23.43 Shuttle units based in the USSR don’t have to return to their original base area. For example: a shuttle that 
+originated in Italy could shuttle to the USSR and then later shuttle back to Britain. 
+23.44 Shuttle raiders may not return to Britain via the Baltic. 
+23.5 1943 Raids 
+23.51 In 1943, shuttle raids may be conducted only between Britain and the USSR. The raiders leave or re-enter the 
+map via the numbered land hexes on the east map hedge designated “3,” “4” or “5.” They may not use any others. 
+23.6 1944 Raids 
+23.61 In 1944, shuttles may be flown between Britain or Italy and the USSR. 
+23.7 1945 R Line. The 1945 R Line on the eastern part of the map goes into effect at the start of January 1945. 
+Shuttling air units must still enter and exit the map from numbered squares on the east map edge, not via the 1945 R 
+The 1945 R Line delineates an area into which no German units may move, in any way, in 1945. 
+23.8 Ending Shuttle Raids 
+23.81 If a shuttle mission between Britain and the USSR (or vice versa) is entirely shot down, starting with the next 
+quarter the American player may plan no more shuttle missions from Britain to the USSR (or vice versa). 
+23.82 If a shuttle mission between Italy and the USSR (or vice versa) is entirely shot down, starting with the next 
+quarter the American player may plan no more shuttle missions from Italy to the USSR (or vice versa). 
+23.83 Regardless of the rules above: 1) American units in the USSR may always shuttle back to Britain and/or Italy; 
+and 2) units already in the USSR may continue conducting operations normally. 
+23.84 If all aircraft operating from the USSR are shot down or otherwise destroyed on missions that were planned to 
+both start and end with them landing in the USSR, that doesn’t stop future shuttle raids. Rules 22.81 and 22.82 apply 
+only to situations in which units are shuttling from/to Britain/Italy and the USSR. 
+
+23.85 While shuttle raids are stopped if an entire mission is shot down as described above, that doesn’t affect sneak 
+raids (see section 11.0). Sneak raids may always be conducted regardless of losses. 
+24.0 JET & ROCKET FIGHTERS 
+24.1 In the Tournament Game, the German player receives as reinforcements jet fighters and rocket fighters (Me-
+262s and Me-163s, respectively). They operate as fighters, with the following additional rules. 
+24.2 Jet and rocket fighters are immune to bomber defensive fire. 
+24.3 Combat. Jet and rocket fighters may attack prior to any non-jet/non-rocket fighters. They inflict losses prior to 
+any non-jet/non-rocket fighters attacking. Bombers destroyed by jet and/or rocket fighters are removed before 
+conventional fighters attack. Only bombers that survive the jet/rocket attack may fire defensively at the conventional 
+fighters that may attack later during that combat. 
+24.4 E Ratings 
+ 
+Jet fighters (Me-262s in the Tournament Game) have E ratings, which are used as a normal E Rating for fighter 
+vs. fighter combat. 
+24.41 Me-163s. The Me-163 must take off, attack, and land all in the same turn. The entire flight, from take-off to 
+landing, may not exceed four hexes (as per its printed speed). This is an exception to the normal rule that doesn’t 
+allow a unit to attack in the same turn it lands. 
+24.42 When an Me-163 attacks American fighters, those American planes’ E Ratings are ignored. 
+24.5 Basing 
+24.51 The German player designates as “jet” or “rocket” fighter bases the airbases on which jet or rocket fighters 
+were placed during the turn’s Reinforcement Phase. That’s done on the mission planning pad. The German player 
+will therefore have one jet base for every operational jet/rocket unit. Once a base is designated as a jet/rocket base, it 
+remains so for the remainder of the game. A jet/rocket fighter isn’t restricted to operating from the base at which it 
+was originally deployed. It may use any other jet/rocket base. 
+24.52 Jet fighters may only refuel at jet bases. Rocket fighters may only refuel at rocket bases. If they land at an 
+inappropriate airbase, they may not take off again that quarter. That doesn’t prevent other jets/rockets from refueling 
+and taking off from other jet/rocket airbases. Effectively, if a jet or rocket fighter lands at a non jet or rocket base, 
+respectively, it’s out of play for the quarter. It may still be strafed and bombed by the Americans. 
+24.53 A jet or rocket fighter that landed at an inappropriate base may be moved by the German player during his 
+following Redeployment Phase to any functioning, appropriate base. 
+24.54 Conventional fighters may refuel at jet or rocket bases, but not vice versa. 
+25.0 PREPARE FOR PLAY (ADVANCED GAME) 
+25.1 Set up for the Advanced Game is generally the same as that the Tournament Game, with the following changes. 
+25.3 Deployment 
+25.31 German. The German player sets up first. He takes all German units listed on the Advanced Game 
+Reinforcement Chart for January 1943 and places them on airbases on the map. No more than one counter may be 
+placed on each airbase. 
+25.311 Critical Industry Determination. The German player places all the “Critical Industry” markers in an a 
+large-mouth opaque container, such as a coffee mug or cereal bowl. He then picks at random one of them. That pick 
+is the German critical industry. He notes which one it is on a piece of paper that’s then set aside, out of sight. That 
+information is kept secret from the American player until the end of the game. 
+25.32 American. The American player takes all American units listed on the Advanced Game Reinforcement Chart 
+for January 1943 and places them in Britain. 
+25.4 Begin play of the game, using the sequence given in section 5.0. 
+26.0 ADVANCED GAME VICTORY CONDITIONS 
+26.1 The American player scores points for bombing targets. The number of points received will vary depending on 
+
+the year in which they’re scored. Those points are as follows. 
+1943: three points per target bombed. 
+1944: two points per target bombed. 
+1945: one point per target bombed. 
+26.11 Critical Industry. When playing the Advanced Game and a bombed target turns out to have been within the 
+“critical industry,” the American player receives twice the normal amount of points for each such target. The critical 
+industry is revealed only at the end of the game by the German player (or at whatever time in the game it’s otherwise 
+revealed), and the true points are then scored. For example: oil is the critical industry. The American player would 
+receive six points for bombing an Oil target in 1943, four in 1944 and two in 1945. 
+26.12 V-Weapons always generate twice the points listed in 26.1, but they may generally only be bombed only in 
+1944 and 1945. The exception is Peenemunde, which may be bombed in any year. V-Weapons are never the critical 
+industry. 
+26.13 Airfields don’t count for points when bombed. 
+26.14 If a target city hasn’t been bombed, and ends up—still unbombed—on the American side of the 1945 line, it 
+yields zero points; however, cities bombed prior to 1945, and then end up on the Allied side of the 1945 line, still do 
+count for their points. 
+26.15 RAF. Targets destroyed by RAF attacks count normally for victory points. 
+26.16 The German player doesn’t receive victory points. Essentially, the German player wins by successfully 
+defending the Reich’s industrial infrastructure. 
+26.2 Levels of Victory 
+ 
+At the end of the game, the American player totals the true number of victory points he scored. That total 
+determines which player, if any, has won the game. In the list below, “Strategic” is the best (highest-level) kind of 
+victory, and “Tactical” is the least-best (lowest-level). 
+ 
+241+ = American Strategic Victory 
+201-240+ = American Tactical Victory 
+161-200+ = American Marginal Victory 
+121-160+ = Draw 
+ 81-120+ = German Marginal Victory 
+ 41-80+ = German Tactical Victory 
+ 
+0-40+ = German Strategic Victory 
+26.3 Sudden Death Victory 
+ 
+The game instantly comes to an end if either of the following conditions are met at any time. 
+26.31 American Sudden Death Victory: the American player has bombed all aircraft factory, industrial complex, 
+oil, power generation, transportation and V-weapons targets on the map, including all targets in Ploesti. The US 
+Army Air Force has thereby won the war with a strategic victory. Note that means, for targets that will end up behind 
+the 1945 line, the American player must have bombed them in 1943 or 1944. 
+26.32 German Sudden Death Victory: if all American aircraft have been shot down at the same time, and there are 
+no more American replacement points available, the German player wins a strategic victory. The Luftwaffe has 
+achieved air supremacy. 
+26.33 A sudden death victory may not occur during the last quarter of the game, April ’45. 
+26.4 Out of Fuel Penalty 
+ 
+Each German air unit eliminated because it ran out of fuel before it could land at an airbase gives the American 
+player one victory point. Each American air unit eliminated because it ran out of fuel before it could cross an R Line 
+deducts one victory point from the American total (and that may go lower than zero). 
+
+27.0 REINFORCEMENTS 
+27.1 American Reinforcements 
+27.11 The Advanced Game Order of Battle is used, which adds more new units to the American side. The American 
+units in the Tournament Game represent the Eighth and Fifteenth Air Forces. The extra units added in the Advanced 
+Game represent the Ninth and Twelfth Tactical Air Forces. 
+27.2 American B-25, B-26, A-20 and A-26 bombers may not make sneak raids, nor may they shuttle to the USSR. 
+They may fly between Britain and Italy. 
+27.21 B-25, B-26, A-20 and A-26 bombers have “Aircraft Time” pieces. They must cross the R Line prior to their 
+running out of fuel or they’re lost. 
+27.22 P-38DS bombers may not make sneak raids. They may shuttle to the USSR. 
+27.23 Bombers of different types may still not stack together. 
+27.3 German Reinforcements 
+27.31 Railroad Units. On the Advanced Game Order of Battle card, 10 German units are designated “Railroad 
+Units.” Two are listed in July ’44, and the others in January ’45. It takes three unbombed rail (transportation) centers 
+to ‘free’ one such unit. Calculations are made during the Reinforcement Phase of the listed turn. The German player 
+must state which transportation centers will be used to ‘free’ which units. Each rail center may be used only once per 
+game, and rail centers used to free July ’44 units may not be used to free January ’45 units. For example: in July ’44, 
+owing to an extraordinary American bombing campaign, the German player has only four remaining un-bombed rail 
+centers. He could, therefore, receive one railroad unit that turn. In January ’45 he could not ‘free’ any more railroad 
+units. 
+27.32 School Units. Ten of the units on the Order of Battle card are “School Units” (Schl). The E Ratings on those 
+units are lower because their pilots aren’t experienced. The German player uses school units to: 1) activate 
+replacement points as described in 28.3; and 2) to trade for certain units in the Alternative Orders of Battle, as 
+described in section 39.0. 
+27.33 School units may not be held off-map to preclude losses. 
+27.4 Alternative Orders of Battle 
+ 
+Both players have units on the Reinforcement Chart with double squares. Those are units that may be deployed 
+only when using the Alternative Order of Battle optional rule section (39.0). 
+28.0 REPLACEMENTS 
+(ADVANCED GAME) 
+28.1 American 
+ 
+The American player gets 124 bomber and 102 fighter replacement factors. They’re used as described in the 
+Tournament Game rules. 
+28.2 German 
+28.21 In 1943, the German player receives one replacement factor for every five unbombed aircraft factories. 
+28.21 In 1944 and 1945, the German player receives one replacement factor for every three unbombed aircraft 
+factories. 
+28.3 German Pilot Training 
+ 
+In addition to 22.6, the German player must also have fueled school units in order to expend replacement points. 
+Each fueled veteran school unit allows the expenditure of up to four replacement points, and each fatigued school 
+unit allows for the expenditure of two replacement points. For a school unit to be used for this purpose, the German 
+player must also have expended fuel to allow it to fly during that turn. The school unit doesn’t have to actually fly a 
+mission, but the fuel must still be expended for it. There are no similar restrictions on the American player. 
+28.4 German school units may be replaced, but they’re subject to all replacement requirements. 
+
+29.0 INTENSIVE 
+OPERATIONS 
+29.1 Both players may declare “intensive operations” during the Planning Phase. If both players are eligible to for 
+intensive operations in the same quarter, each player selects a formation marker and places it face down, then reveal 
+them simultaneously. If a player reveals a #10 marker, that player must conduct intensive operations for that quarter. 
+Note that if the American player declares intensive operations, the Germans would not have to do so, and vice versa. 
+29.11 A player may declare intensive operations a maximum of one quarter per calendar year. So each player can 
+conduct one intensive operation in 1943, one in 1944 and one in 1945. 
+29.2 A player who has declared intensive operations conducts his turn normally, except as follows. 
+1) The bomb points of all American bomber units are doubled. 
+2) Add one to the die roll of all fighter fire and bomber defensive fire for the side that declared intensive operations; 
+however, a die roll of six always remains a six. If both sides declared intensive operations, both gain the fire 
+modifier. 
+3) Add one to all German AA fire die rolls if the American player declared intensive operations. 
+4) At the completion of the 20th turn of the quarter, all veteran units on a side that declared intensive operations, and 
+that flew at any time during that quarter, are flipped to their fatigued side. Fatigued units remain fatigued. 
+29.21 The die roll modifier described in point two above is cumulative with any other die roll modifiers. For 
+example: say a fighter is attacking with a “-2” modifier owing to E Ratings. If it gained a “+1” shift owing to 
+intensive operations, the final modifier would be “-1.” 
+29.22 Point four above applies only to individual units that flew. Units that didn’t fly aren’t affected. For example, if 
+the American player declares intensive operations and flies three out of four P-51s, the fourth P-51, which didn’t fly, 
+wouldn’t be affected, but the three that did fly would be affected. 
+29.23 Units flipped to their fatigued side owing to intensive operations may be increased to veteran strength using 
+normal replacement procedures. 
+29.3 Further Restrictions 
+29.31 Neither player may declare intensive operations during two immediately consecutive quarters, no matter what 
+calendar years are involved. 
+29.32 Intensive operations may never be declared by either player during the April 1944 and January 1945 quarters, 
+due to D-Day and the Battle of the Bulge. 
+30.0 GERMAN OIL & FUEL EXPENDITURES 
+30.1 The German player receives fuel points from unbombed oil targets. One unbombed oil target provides one fuel 
+point. Fuel points are expended for the following functions, 
+1) To allow German units to fly. Normally, expending one fuel point will allow 20 German air units to fly. If oil is 
+the critical industry, expending one fuel point will allow only 10 German air units to fly. 
+2) To allow the Germans to stack his units 12 high. See section 31.0 for more details. 
+30.11 Both veteran and fatigued units count as a full units for purposes of fuel point expenditure. 
+30.2 Fuel points may not be accumulated from quarter to quarter. Any unused points have gone to other uses outside 
+the scope of air operations. 
+30.3 As oil targets are eliminated, lack of fuel may force the German player to “ground” aircraft. Units grounded for 
+lack of fuel may not fly during that quarter, even if some or all of the fueled-and-flying units are destroyed in 
+combat. Grounded units must still be placed on the map at the start of the quarter, and they may be strafed. The 
+German player may change which units will be fueled from quarter to quarter. 
+30.31 Determining the number of fuel points is done only during the designated part of the Planning Phase. The 
+destruction of oil targets during a turn has no impact until the following turn. 
+
+30.32 Jet and rocket fighters count for this rule; however, a jet or rocket fighter that lands at a non-jet/rocket base and 
+is redeployed to a jet/rocket base doesn’t expend fuel in doing that. 
+30.4 In the quarter after all oil targets are bombed, the entire Luftwaffe is grounded. The American player must still 
+bomb targets to win but, except for AA fire, the German player has nothing to oppose the American effort (though 
+rule section 36.0, Repair of Bombed Targets, may allow for the rebuilding of oil capacity). 
+30.5 The German player doesn’t have to expend oil to redeploy aircraft units on bases during the Redeployment 
+Phase. 
+30.6 Example: oil isn’t the critical industry. If the German player starts a quarter with two oil targets unbombed, 40 
+units may fly during that quarter, because each oil facility can fuel 20 air units. If another oil target were bombed 
+during that quarter, 20 units wouldn’t have to land immediately; they could fly for the rest of that quarter. During the 
+following quarter, however, only 20 units could fly. 
+31.0 GERMAN STACKING 
+31.1 Normally, the German player may stack a maximum of six units per hex in the air; however, German units may 
+stack up to 12 units per hex in the air if he expends eight fuel points during the Planning Phase. 
+31.2 The German only expends eight fuel points once per quarter, in order to be allowed an unlimited number of 12-
+high stacks during all of that quarter. 
+31.3 The German player decides on a quarter by quarter basis whether he will expend the eight fuel points to enable 
+the 12-high stacking limit. That remains true whether oil is or isn’t the critical industry. 
+31.4 Fuel points expended for stacking are in addition to any expended to fly units. 
+31.5 The German player may not choose to expend fewer than eight fuel points in order to enable some increase in 
+stacking below 12. 
+32.0 PLOESTI 
+32.1 The complex of petroleum refineries at Ploesti, Romania, provided the Germans with a substantial part of their 
+petroleum. In the game, Ploesti is represented by an inset box the American player may attack using a special 
+procedure. The oil symbols count in the same manner as other oil symbols for victory, aircraft fueling, and so forth. 
+There are eight oil symbols in the Ploesti box. 
+32.2 The American player may attack Ploesti on any turn starting in July 1943 and ending in July 1944, inclusive. 
+Starting in October 1944, Ploesti is considered to be behind Allied lines. 
+32.21 Allied bombers may be based in Britain, Italy or the USSR and attack Ploesti. They’re combined into one 
+mission group for Ploesti. Such bombers are not placed on the hexagonal portion of the map during the turn in they 
+bomb Ploesti. 
+32.3 Procedure 
+1) During the Planning Phase, the American player can decide he will attack Ploesti that turn. He may allocate any 
+number and types of bombers to that mission. These may be combined into a single mission group, which is an 
+exception to the normal rule about combining bombers and reflects the different scale of the Ploesti operation. No 
+other aircraft types may be assigned. Any bombers assigned to attack Ploesti don’t take part in operations on the 
+hexagonal portion of the game map that quarter. 
+2) Place any bombers assigned to attack Ploesti in the Ploesti Box. During the RAF/Ploesti Phase, resolve that attack 
+as follows. 
+2a) The German player rolls a die. That result is the total number of bomber factors the American player must 
+eliminate from the Ploesti raiders before they attack the target. 
+2b) All surviving bombers attack Ploesti. Each bomb point destroys one oil target. 
+2c) The German player rolls a second die. That result is the total number of bomber factors the American player must 
+eliminate from among the Ploesti raiders before they return to base. That is, the American player can potentially 
+lose from two to 12 factors of bombers in any air raid on Ploesti: one to six going in and one to six coming out. 
+
+30.4 If the American player declares “intensive operations” during the turn of a Ploesti mission: 1) the German rolls 
+two dice and totals their results to inflict both the incoming and outgoing raider casualties; and 2) double the 
+surviving bombers’ bomb points against Ploesti. 
+30.5 Shuttle Raiders may attack Ploesti, and they may even be combined with non-shuttlers when doing so. 
+30.6 RAF 
+ 
+Up to one RAF attack per quarter may be made against Ploesti and, if successful, it destroys one Oil target. The 
+RAF takes no losses when attacking Ploesti, at least not in game terms. This is resolved before any American 
+bombers attack the target. See section 33.0. 
+30.7 The German player may not place or move any units in the Ploesti box. The effects of Axis fighter defenses in 
+the Balkans, and AA, are accounted for by the rules above. 
+33.0 ROYAL AIR FORCE (RAF) 
+33.1 During the RAF Phase, the American player may utilize the Royal Air Force to attack a number of German 
+cities. 
+33.11 The American player may make the following number of RAF strategic bombing attacks per quarter. 
+1) January ‘43 through April ’44, inclusive: one attack. 
+2) July ‘44 through April ’45, inclusive: two attacks. 
+33.12 If two RAF attacks may be made in a quarter, each must be made against a different city. 
+33.2 To execute an RAF attack, the American player designates a German city or airfield and rolls a die. That city 
+(or airfield) is successfully bombed on a die roll of one, two or three; four, five or six has no effect. A successful 
+attack destroys all the targets in the selected hex. That includes airbases as well as all other targets. 
+33.21 Destroyed targets remain destroyed for the remainder of the game, unless repaired. 
+33.22 If a successful RAF attack is made against an airbase, the base may not be used that quarter. 
+33.3 Battle of Berlin 
+ 
+The RAF successfully bombs Berlin on a die roll of one instead of one through three. That’s owing to the greater 
+air defenses of the Reich’s capital. 
+33.4 The RAF may only attack targets in Greater Germany. The RAF may attack regardless of whether American 
+units conduct any raids that quarter. 
+33.5 Use the Bomber Command markers to indicate which cities will be bombed by the RAF during a quarter. 
+33.6 If the RAF destroys an airfield with German aircraft on it, those aircraft may not fly during the quarter, but 
+those units are otherwise not effected. 
+33.7 Other than the Berlin effect described above, AA fire has no effect on the RAF, nor may German fighters 
+otherwise impede RAF attacks. The effects of German air defenses against the RAF are built into the die roll. 
+34.0 MOVEMENT 
+34.1 Fighters 
+ 
+In order to conduct an attack, a fighter must have at least one extra movement point beyond that which it took to 
+reach the hex in which the combat is to take place. The unit doesn’t lose any movement points to attack, it simply has 
+to have one available. That applies to attacking enemy units as well as strafing. For example, an Me-109 (movement 
+factor = 6) could attack a unit five hexes away, but it couldn’t attack a unit six hexes away. If it attacked an 
+American stack five hexes away, it could still move a sixth hex. That represents the time needed to engage enemy 
+forces. 
+34.2 Bombers don’t have to stop in their target hex, but may bomb during the Movement Phase and then start the 
+homeward leg of their trip that same move. They may still also stop above their target city. They may bomb a target 
+even if they don’t have movement factors remaining to allow them to move farther that turn. Whether bombers stop 
+on, or pass over, their target, that city’s AA guns still always fire before the bombs are dropped. 
+
+35.0 FIGHTER SHUTTLES 
+35.1 Fighters may shuttle to Russia. Fighter shuttles are fighter missions in which American fighters begin a quarter 
+in Britain or Italy and then fly to the USSR, or that begin in the USSR and fly to either Britain or Italy. Note the 
+American player may have fighter units that base in Britain fly to Italy in the course of a turn, and vice versa. That 
+isn’t considered a fighter shuttle, and the following rules don’t apply to normal missions. 
+35.11 American fighters may shuttle from Britain or Italy to the USSR, or vice versa, if they have sufficient fuel. 
+Fighter shuttles are planned the same way as bomber shuttles. They exit or return via the numbered hexes on the east 
+map edge in Greater Germany and the General Government. 
+35.12 Unlike bombers, no fighter may shuttle via the Baltic Sea. 
+35.13 Fighter shuttles apply against the one shuttle mission per quarter restriction. The American player could have 
+only one bomber shuttle mission, or one fighter shuttle mission, or one combined bomber-escort shuttle mission per 
+turn. Fighters escorting bombers may be released, but they must land in the USSR by the end of the quarter or are 
+considered lost for lack of fuel. They may not turn back to Britain or Italy. 
+35.14 While shuttling fighters have to enter the map as a single mission group, they may break down into smaller 
+mission groups. 
+35.15 Fighters may use the USSR as a home base in the same way as bombers. 
+35.2 When a fighter unit exits the map, it moves into a numbered hex and then expends one more movement point. 
+35.21 When a fighter unit exits the map, it must have the number of turns of fuel remaining equal to the number in 
+the box. If not, it’s lost due to lack of fuel. For example: when exiting through the hexes numbered “3,” a fighter 
+must have at least three turns remaining in the air. 
+35.3 Return shuttles are also planned in the same way as bomber return shuttles. 
+35.31 When a fighter unit appears on a numbered hex in order to return, it’s considered to have been in the air that 
+many turns. For example, a fighter entering in a hex numbered “5” is considered to have been in the air five turns in 
+order to get there, and its “Aircraft Time” piece must be placed accordingly. 
+35.4 Entry or exit may occur any time after Turn 2, but the amount of fuel used to reach those hexes must still be 
+accounted for when placing the “Aircraft Time” marker on the time record. For example: the hexes numbered “9,” 
+near Kiel and Rostock, cost nine air turns. A unit could enter one of those hexes from the USSR on Turn 2, though 
+it’s considered to have expended nine turns of fuel to get there. Similarly, an air unit can exit from a “9” hex on Turn 
+20 and still be considered to have landed safely. 
+35.5 Fighter Missions 
+35.51 Shuttling fighters may provide escort to bombers shuttling to or returning from the USSR; however, they must 
+start in the same area—Britain, Italy or the USSR—and on the same turn, and must have sufficient fuel. They enter 
+the map in the same mission group stack. 
+35.52 American fighters based in the USSR may provide escort to USSR-based bombers conducting raids onto the 
+map and then returning to the USSR. 
+35.53 Shuttle fighters may conduct fighter sweeps. 
+35.54 Fighters conducting shuttles otherwise perform normally, except they land in the area the American player 
+designated. 
+35.55 Fighter units assigned to shuttle may not drop tanks if in so doing they would be unable to reach their 
+designated landing area. 
+35.6 Ending Fighter Shuttles 
+ 
+If all shuttling fighters are eliminated, no more fighters may be shuttled for the remainder of the game; however, 
+bomber shuttles may continue, and vice versa. 
+35.7 Bombers with endurance markers may not conduct shuttle operations. The reason is they have to be retained in 
+the west to conduct their normal tactical support of ground forces. 
+
+35.8 If the reinforcement chart calls for air units to be withdrawn, the US player may withdraw a unit based in the 
+USSR only if there no other units available in Britain or Italy. 
+36.0 REPAIR OF BOMBED TARGETS 
+36.1 During the Repair Phase of each turn in 1944 and 1945, the German player receives a designated number of 
+repair points. He may expend those points to repair certain bombed targets. Targets may not be repaired in 1943. 
+36.11 Repair points may not be accumulated from turn to turn. If the German player doesn’t use them they’re lost. 
+36.2 The German player receives one repair point for every eight unbombed industrial hexes. For example: if the 
+German player has 21 unbombed industrial hexes, he would get two repair points. If he has three unbombed targets, 
+he would get no repair points. 
+36.3 Only the following bombed targets may be repaired: aircraft factories, industrial complexes, oil, power 
+generation and transportation (railroads). Note: bombed airfield are automatically repaired at the end of each quarter. 
+36.4 To repair a bombed target, expend one repair point. A repaired target is restored to full functionality; however, 
+the American player still keeps any victory points he got for it. If a repaired facility is bombed and destroyed again, 
+no additional victory points are received for it, but it’s again out of action for all other purposes. 
+36.5 A target may be bombed and repaired any number of times as long as a repair point is expended each time. 
+36.6 The German player must inform the American player of targets that have been repaired. 
+37.0 CRITICAL 
+INDUSTRIES 
+37.1 The German player has five types of potential critical industry targets: aircraft factories, industrial complexes, 
+oil, power generation and transportation (railroads). V-Weapons don’t constitute a critical industry. 
+37.2 At the start of each game, the German player places the five Strategic Target markers in a large-mouth opaque 
+container. He then picks one at random. The marker picked is the critical industry for that game. 
+37.3 The German player doesn’t reveal the marker to the American player until the end of the game. The American 
+player may try, of course, to infer what the marker may be as targets are bombed and the German player implements 
+the effects of losing the critical industry. The German player may also attempt to deceive the Allied player by 
+drawing less than the maximum support for any industry. 
+37.4 Effects 
+ 
+The effects of the critical industry are listed below. 
+37.5 Play Balance 
+ 
+ If the German player is better than the American player, the German player picks two Strategic Target markers, 
+and applies both. If the American player is better than the German player, the German player places one or two blank 
+markers in the container. If a Blank marker is picked, there is no critical industry and this rule is ignored, though the 
+American player is not informed of that until the end of the game. 
+37.51 If picking two critical industries, the effects of both apply. For example, if both power and transportation are 
+picked, both would be required to run an aircraft factory. If a player had sufficient power to run aircraft factories, but 
+all transportation targets were bombed, the aircraft factory could not run. 
+37.52 Historically, oil and power generation were critical industries. 
+38.0 POWER GENERATION & TRANSPORTATION 
+38.1 If either power generation or transportation are critical industries they must provide support to other industries. 
+That means the German player needs the designated number of that type of supporting industry in order to make the 
+supported industries function. Only unbombed targets provide support for other industries (and the supported 
+industries must also be un-bombed). For example, if transportation is a critical industry, a single unbombed 
+transportation target could provide support to three aircraft, one oil and one industrial complex for a turn, or to five 
+aircraft factories, etc. 
+38.11 Industry support is checked during the Planning Phase. 
+
+38.2 If there are insufficient supporting industries to support a designated type of other industry, the supported 
+industries don’t generate their special bonuses. 
+1) Aircraft factories don’t produce replacements. 
+2) Industrial complexes don’t provide repair points. 
+3) Oil doesn’t provide fuel. 
+38.3 The German player chooses which industries will be supported. The German player can support some, none or 
+all of any industry. For example: Power generation is the critical industry. The American player bombs all power 
+generation targets except one. The German player could support up to six aircraft/oil/industrial centers and no more. 
+38.4 The German player may change which industries will be supported from quarter to quarter. 
+38.5 Industries that end up behind the Allied front line may no longer be used to provide support, oil, repair points or 
+aircraft replacements. 
+38.6 In summary, the German player doesn’t actually announce what industries he’s supporting. He should write 
+down the support instructions for later verification by the American player. 
+39.0 ALTERNATIVE 
+AIRCRAFT REINFORCEMENTS 
+39.1 Both players may decide on reinforcement options. That’s done prior to the start of play. Each player chooses 
+his options in secret and in writing. They are revealed only when the units are actually deployed or some other action 
+would cause them to be revealed. Players may agree prior to the start of play on the number of options each will take. 
+39.2 Once a player has chosen an option, he must implement it during the game to the best of his ability. 
+39.3 Chart Explanation 
+39.31 Reinforcements: they are the units received. They’re received in addition to any other aircraft received that 
+turn. 
+39.32 Substitutions 
+1) Substitutions are units that must be removed from play in order to receive the optional reinforcements. The player 
+may withdraw either units in play or scheduled to appear that turn. Fatigued units count as a full unit for this kind 
+of withdrawal. School units may also be withdrawn. 
+2) The US player may in some cases substitute replacement points for alternative units instead of withdrawing units. 
+In those cases, reinforcements are brought in at full strength, unlike normal replacement point expenditure. 
+3) Withdrawn units may never be returned to play; that is, you may not bring them back by expending replacement 
+points. 
+4) If an option calls for units to be withdrawn and none are available, any reinforcement otherwise received for that 
+option is forfeit. 
+5) In some cases a player must withdraw a unit on a turn prior to the substitute reinforcement being brought into 
+play. In those cases, the player keeps track of the withdrawn units in order to trigger the alternative reinforcement. 
+6) Requirements for withdrawals apply only to the units specifically called for by the options. They don’t apply to 
+reinforcements received normally. For example: jets received via the jet fighter option require school units to be 
+withdrawn, but that doesn’t apply to Me-262s and Me-163s that are normally received in the last two quarters of 
+the game. 
+OPTIONAL RULES 
+40.0 INDIVIDUAL UNIT ENDURANCE 
+40.1 It’s unrealistic to require all planes of a certain type to drop their auxiliary fuel tanks just because one plane of 
+the same type did so. That requirement, as well as the one that says all planes of the same type must depart and 
+recover at the same time, were written in order to minimize the detail players must confront when first learning the 
+game. Using this rule, players may choose to record the departure time of each individual air unit by using the list 
+printed on the target sheets or any convenient piece of paper. 
+
+40.2 Also account individually for each unit that drops its auxiliary fuel tanks, not by aircraft type. For example: if 
+one Me-109 drops its fuel tanks, that doesn’t require other Me-109s to do the same. 
+41.0 COMBINED ATTACKS 
+41.1 As an exception to rule that prohibits different types of fighters from firing together using the same die roll, use 
+the following: when several different types of fighters have taken losses to the point they can’t fire on the table, they 
+may combine with other remnant units and fire by using the column of the least effective of the combined types. 
+They use the E Rating of the lowest E Rated unit in the combined force. All other normal fighter rules apply. For 
+example, one Me-109 factor and one Ju-88 factor in the same hex could fire as two Ju-88 factors. 
+42.0 ATTACKING 
+BOMBERS 
+42.1 Normally, bomber defensive fire is simultaneous with interceptor offensive fire. If, however, any of the 
+attacking fighters haven’t dropped their auxiliary tanks (assuming they have drop tanks), the bombers fire first 
+against them. Units that have no drop tanks are treated as if they had dropped tanks for purposes of this rule. 
+42.2 If there’s an escort and the German player attacks that escort without dropping his tanks, and if all American 
+fighters are destroyed, excess losses are applied against the bombers. The bombers fire defensively simultaneously at 
+this group of fighters. 
+43.0 BOMBER STACKING 
+43.1 Bomber units that have completed their bombing attacks may combine in stacks with other bomber units that 
+have also completed their bomb runs. They simply move into the same hex and form a single new stack. They may 
+re-stack only if it will not cost the units extra turns on the map. Within that restriction, bombers don’t have to expend 
+all of their movement points on the turn they re-stack. 
+43.2 Bombers must be of the same type to re-stack in this way. They don’t necessarily have to have been from the 
+same starting mission group. 
+43.3 Any fighter escorts with bombers that re-stack may also re-stack. Fighters conducting independent operations, 
+and escort fighters released from their mission groups, may never re-stack. 
+44.0 ENGAGING & FUEL EXPENDITURE 
+44.1 Any fighters that fire on enemy units automatically lose one turn of endurance. That represents the extra fuel 
+expenditures required for dog fighting. 
+44.2 When using this rule, don’t use the rule that requires fighters to have one remaining movement point in order to 
+engage. 
+44.3 Fighters may now land in a turn in which they fire. 
+44.4 Jet and rocket fighters aren’t affected by this rule. They engage without losing a turn of endurance. 
+45.0 GOERING 
+45.1 On orders from Luftwaffe chief Hermann Goering, German fighters may ignore American fighters escorting 
+bombers and instead attack the bombers directly. In that case, the American escort fighters may fire at the German 
+fighters and inflict casualties before the latter fire at the bombers. This is the only way fighters can “fire 
+defensively.” 
+45.2 The German player may choose to use this rule on an attack by attack basis; however, if he chooses to use this 
+rule for an individual attack, all units in that mission group must use it. 
+46.0 ME-109 VARIANTS 
+46.1 At the start of each quarter the German player decides whether he wants to use “up-gunned” Me-109s. Once 
+that decision is made, it remains in effect for the entire quarter. 
+46.2 If the German player chooses to use the up-gunned Me-109s: use the FW-109 CRT line for the Me-109s and 
+reduce the “E” rating of all Me-109 units by one. For example: a “3” would become a “2.” 
+46.3 If the German player decides not to up-gun his Me-109s, all Me-109 units retain their normal E Ratings, but 
+
+they use the same CRT column as the Ta-152. 
+46.3 The German player picks the up-gunned Me-109s marker if he chooses to use up-gunned Me-109s. He must 
+show the marker to the American player the first time Me-109s fire in a Quarter. 
+46.4 This rule also affects Me-109 school units. 
+47.0 ADVANCED BOMBERS 
+47.1 Whenever German fighters fire at B-29s, B-32s or B-35s, subtract one from the die roll. A roll of one remains a 
+one. 
+47.2 If firing at escort fighters and there are excess losses that can be inflicted on bombers, in that case don’t subtract 
+one. 
+47.3 AA fire is not affected. 
+48.0 STAGING 
+48.1 Staging takes place when the German player moves aircraft from one airbase to another airbase without having 
+to account for endurance. 
+48.2 All aircraft of a type take off and then land in the same turn. There is no need to place the endurance marker. 
+Units that stage don’t require an extra turn in which to refuel. For example: Me-109s stage on Turn 1, taking off and 
+landing during Turn 1. They may fly missions on Turn 2. 
+48.3 Restriction 
+ 
+Staging aircraft may not engage in any combat during the turn in which they stage. Staging units count towards 
+fuel normally. 
+48.4 There’s no limit on the number of turns in which units may stage. 
+48.5 When using the Individual Unit Endurance rule (40.0), each unit may stage individually rather than by type. 
+Old Hands Note: Unlike the original, staging to create stacks on the ground doesn’t work (see 6.22). Units now have 
+to use their first turn in the air to form a stack. 
+49.0 GERMAN AA 
+REINFORCEMENTS 
+49.1 The German player receives additional AA points as reinforcements. 
+49.11 On each turn of the game starting with April 1943, the German player receives one AA point of reinforcement. 
+He assigns each AA reinforcement point to any city on the map. That’s done by noting the location of the AA points 
+on the Mission Planning pad or a piece of paper. 
+49.12 AA Points may be assigned only to hexes with cities. 
+49.13 The German player may never assign more than two AA points per city. That’s in addition to the city’s 
+inherent AA points, so any given city could have up to a maximum of three AA. 
+49.14 AA points may not be assigned to Ploesti. 
+49.15 AA points in cities caught behind the 1945 R Line in January 1945 are lost permanently. 
+49.2 The German player may, during any Reinforcement Phase, change the location of AA points from any cities to 
+any other cities. Inherent AA may not be so transferred. 
+49.3 Effects 
+ 
+Each AA point acts as one additional heavy city AA point for purposes of firing AA. The German player rolls 
+once for each AA point against intruders in addition to any inherent city AA. AA points in all respects act as regular 
+city AA. For example: Berlin has two AA points assigned to it. A stack of American bombers attacks Berlin. The 
+German player would roll three times on the City AA Table against those bombers, once for Berlin’s inherent AA 
+and once each for each of the two AA points. 
+49.31 AA Points act in all other regards as regular city AA. They may not be destroyed. 
+50.0 PERIPHERAL 
+
+OPERATIONS 
+50.1 D-Day 
+50.11 During the July 1944 quarter, after the Planning Phase but before any operational turns, the German player 
+must roll a die. He immediately inflicts that number of losses on his units. That represents the Luftwaffe’s abortive 
+attempt to counterattack against the Normandy beachhead. 
+50.12 The Allied player may not declare intensive operations in the April 1944 turn. 
+50.2 Bulge & Bodenplatte 
+50.21 During the January 1945 quarter, after the Planning Phase but before any operational turns, the German player 
+must roll a die. He immediately inflicts that number of losses on his units. 
+50.22 The American player then rolls a die and inflicts that number of losses on his units. 
+50.23 The Allied player may not declare intensive operations in the January 1945 quarter. 
+50.24 At his option, the German player may cancel the Bulge and Bodenplatte operations, but he must declare that in 
+October 1945. Such a cancellation has the following effects. 
+1) Don’t roll for losses as described above. 
+2) The American may now declare intensive operations in January 1945. 
+3) The 1945 R Line in Belgium and France goes into effect at the start of the October 1944 turn. 
+50.3 Bombing USAAF Bases in the USSR 
+50.31 During any one Planning Phase in 1943 or 1944, the German player may declare he will have the Luftwaffe 
+bomb American bases in the USSR. That may be declared only if the Americans currently have one or more units in 
+the USSR. It occurs after the Planning Phase but before any operational turns. 
+50.32 The German player rolls a die, divides the result by two and rounds up any remainder. That’s the number of 
+losses inflicted on American units currently based in the USSR, which will be a number from one to three. 
+50.33 The German may declare an attack on the USSR only once per game, and then only in 1943 or 1944. No 
+German losses are taken, nor does this involve German units on the map. 
+50.34 If all American air units, fighters and bombers, are destroyed by the air raid, no more American shuttles to the 
+USSR may be made for the remainder of the game. 
+51.0 KEY INDUSTRIAL COMPLEXES 
+51.1 Each industrial complex has a specific type of production listed on the mission pads (for example, “Ball 
+Bearings,” “Steel,” etc.). At the start of play, the German player makes up a set of eight markers. Write the name of 
+one type of industrial complex production on it. For example: “Armaments” on one counter, “Ball Bearings” on 
+another, etc. The German player draws one (without first looking) at the beginning of the game and keeps it secret 
+until all targets within that complex have been bombed. 
+51.2 In the quarters following the destruction of all the targets within the critical complex, the German player may 
+not take aircraft replacement points. Accumulated replacement points may be retained and expended, but once 
+they’re used up, no more are received. 
+51.3 At the end of each quarter, the American player rolls a die and a result of one or two forces the German to 
+reveal one of the complexes that isn’t the key complex. The die is rolled after each quarter, even those in which 
+there’s no American activity, and the German player decides which of the remaining complexes to name as not being 
+the key industry. 
+51.4 This rule is in addition to any effects of the Advanced Game Critical Industries Rule. 
+52.0 EXTENDED WAR 
+52.1 By mutual consent, players may extend the game into July 1945. The following rules apply during the July 1945 
+Quarter. 
+52.2 Neither side receives any reinforcements or replacements. 
+
+52.3 The American player gains 50 victory points if he has a B-29, B-32 or B-35 complete a bombing mission 
+against Berlin. No individual target within the hex needs to be indicated, and this may be done even if Berlin was 
+already bombed and all targets in that hex were destroyed. If the American player fails to have any B-29, B-32 or B-
+35 complete a mission to Berlin, subtract 50 victory points from the American total. (Yes, this represents the atomic 
+bomb.) 
+53.0 PLAY BALANCE 
+53.1 When playing with opponents of unequal skill or experience, by mutual consent they may do any of the 
+following in order to even things up. 
+53.2 RAF Attacks 
+ 
+Increase the number of RAF attacks per turn by one, or don’t allow them at all. 
+53.3 Critical industries & Key Industrial Complexes 
+ 
+Add extra blank counters to the pool of markers from which they’re initially picked if the American player is 
+better, or the German player has to pick an extra industry at random if the he’s better. 
+53.4 Experimental Reinforcements 
+ 
+Players may vary the reinforcement schedules to represent various “what if” production schedules. Extra He-162 
+and Me-163 counters have been included so players can try games in which the Germans are considered to have 
+developed the Me-163 first in place of the Me-262. You may also try using the He-162s in place of the Me-262s for 
+another option. There is also an extra P-80 for the American player. Players may agree on various experimental 
+reinforcements based on their own research or play balance issues. 
+54.0 SOLO GAMES 
+54.1 Mission Planning 
+ 
+Use colored pencils or pens to draw out the bomber movements for the first turn of the game and to show when 
+fighters are flying escort or are to appear on the start line. Each succeeding move of the game is drawn on a separate 
+sheet. When the entire mission has been plotted in that manner, put the sheets into an envelope and draw up a 
+second, third and fourth raid. Then shuffle the envelopes and play the Germans ‘live’ against one of the plans, which 
+you select at random. Once American fighters appear on the start line, move them to those areas where they can be 
+most effective; make decisions for the American fighters so they will give the best account of themselves. 
+54.11 To increase the number of American operations against which you may play, record the movements made 
+during live games and file them away for later study and reuse in solo games. 
+54.2 Critical Industries & Key Industries 
+ 
+The German player picks the Critical Industry and/or Key Industry marker but doesn’t look at it. Instead, when 
+American forces have bombed sufficient targets in any one of the potential critical or key industries to cause a 
+potential effect on the game, the German player turns over one of the un-picked markers. 
+54.21 If that’s the critical or key industry, then implement any effects for it. If not, there is no effect, but continue 
+doing this for each target complex until there is only one unpicked marker remaining, at which time the player will 
+know which industry is the critical industry, and this can be turned face up. 
+55.0 SHORT GAME: 
+OPERATION GOTTERDAMMERUNG 
+55.1 Operation Gotterdammerung is a short scenario covering the “last stand” of the Luftwaffe. Basic Game rules 
+are in effect for this game. 
+55.2 How to Win 
+55.21 The American player wins by bombing at least 14 oil targets and keeping his losses at less than double those of 
+the German player (computed based on number of factors lost). 
+55.22 The German player wins if 13 or fewer oil targets are bombed and American losses are at least double the 
+German losses. 
+
+55.23 The game is a draw on any other results. 
+55.3 Game length is one quarter (April ’45, 20 turns). 
+55.4 Luftwaffe Order of Battle 
+5 x Ju-88 7 x FW-190 
+11 x Me-109 
+1 x He-219 
+1 x Me-163 
+1 x Me-110 
+2 x Me-262 
+55.4 The Germans have sufficient fuel for all aircraft. 
+55.5 American Order of Battle 
+ 
+The American player uses all the forces he would have available for the April ’45 quarter, which includes all the 
+units from previous quarters. 
+55.51 Sneak raids may be made. 
+55.6 Use the 1945 R Line.

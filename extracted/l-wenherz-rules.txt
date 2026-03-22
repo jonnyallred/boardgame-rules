@@ -1,0 +1,112 @@
+Löwenherz 
+A game for 2-4 players by Klaus Teuber. Condensed rules for 3-4 players by Eric Postpischil, https://edp.org. 
+Introduction 
+Players are princes who gain power by controlling territory. Points come from: 
+Gaining territory (especially towns), mines (when mining cards come up), and parchment cards. 
+A space is one square on the board. 
+A region is an area enclosed by walls (including walls printed at the board edge) containing exactly 1 castle. 
+An enclosed area without a castle is a neutral zone, not a region. 
+Tip: Enclose a large area. Size, towns, and hills increase power points. 
+Setup 
+Lay out the board frame. 
+Put the first-player castle (black) in front of a player (recommended: youngest player). Player order is clockwise. 
+Put each player’s power marker on the lion at the start of the power track. 
+Give each player a summary card, a set of 3 decision cards, 3 castles and 12 knights of a color. 
+Sort money by value and put on the red spaces on the board frame. Give 12 ducats to each player (2 each of 1, 2, 3). 
+Money is kept private. 
+Shuffle the 13 politics cards. Place facedown in piles of 6 and 7 cards on the purple spaces on the board frame. 
+Basic Setup 
+Arrange the 6 map tiles in alphabetical order (A-C in top row) with their letters at their top lefts. 
+Place 3 castles and 3 knights of each color (for all 4 colors) as shown on the layout sheet for the basic game. 
+Place the boundary walls as shown on the layout sheet. 
+Remove A action cards from game and set up the remaining action cards: 
+Shuffle each letter group. Stack facedown in order, B on top, on a blue space on board frame. 
+Variable Setup 
+Arrange the 6 map tiles in random positions and orientations. 
+Repeat 3 times: In player order, each player puts a castle and a knight on 2 adjacent free plain spaces. 
+Knights and castles may not be put on towns or hills. 
+Knights may not be placed on wooded spaces during setup. 
+Castles of the same prince (player) must have 6 spaces between them (exclusive) on an orthogonal path. 
+With 3 players: In player order, each places a castle and a knight of the fourth color according to the above rules. 
+Set up the action cards: 
+Shuffle each letter group. Stack facedown in order, A on top, on a blue space on board frame. 
+Play 
+Play turns until the The King is dead! action card is revealed, which ends the game immediately. 
+Reveal Action Card 
+Turn over the top action card, putting it on the adjacent discard space. 
+If the card shows a silver mine (there are 3, 1 each in groups B, C, and D): 
+Each player advances their power marker 1 space for each hill space they have enclosed in their regions. 
+Turn over the next action card, repeating if necessary. 
+If the card shows 3 actions: 
+In a 3/4 player game, the first player puts 2/1 of their decision cards on the table. 
+In player order, each other player puts 1 decision card on the table. 
+Resolve the actions in order from top to bottom, as described below. 
+If multiple players choose any action except Money Bag, resolve who performs it by a Power Trial or Duel. 
+Power Trial or Duel 
+If exactly 2 players choose an action, they attempt to negotiate by offering each other ducats. 
+If they agree, one pays the other and performs the action. 
+If the players cannot agree or more than 2 players chose an action, they duel. 
+To duel: 
+Players secretly select any number (may be 0) of money cards (including treasure cards) from their hands and 
+reveal them simultaneously. 
+The winner pays the bank and takes the action. The other players keep their money. 
+If there is a tie, the tied players duel again. If there is a second tie, nobody pays and nobody performs the action. 
+
+Löwenherz
+Take Actions 
+Money Bag Action 
+Take ducats as shown. If 2 or more players chose this, divide the ducats between them, discarding fractions. 
+Boundary Walls Action 
+Take as many boundary walls as shown. Put them on the board following these rules: 
+Each wall goes on the line segment between two spaces. 
+A wall may not go between a knight and a knight or castle of the same prince (color). 
+A wall may not be placed inside a region. 
+When a wall creates one or more regions, score them immediately. 
+Score 3/5/7/9/12 points for a region of 1-4 / 5-10 / 11-20 / 21-30 / more spaces plus 5 per contained town. 
+When a player has 3 regions, they may not place any more walls but may nonetheless select the wall action. 
+Single Sword and Shield Action 
+Either place a knight (if you have any left in stock) or expand a region. 
+Place a knight: 
+Place a knight in a blank (for free) or wooded (for 5 ducats) space that is empty (has no pieces). 
+The knight must be orthogonally adjacent to one of your own knights or castles. 
+Expand a region: 
+Move and/or add border walls to add one or two spaces to one of your regions. 
+Score 1 power point for each space taken over plus 5 power points for each town gained. 
+The first space must be orthogonally adjacent to your region. 
+The second space must be orthogonally adjacent to the region as expanded by the first space. 
+You may not expand into spaces with other player’s pieces or into your own regions. 
+You may expand into another player’s region only if your region has more knights than the other region. 
+The other player loses 1 power point for each space lost into the expanding region. 
+If the extension cuts another player’s region, creating 1 or more neutral zones from spaces that were in their 
+region, deduct 3/5/7/9/12 points for each neutral zone of 1-4 / 5-10 / 11-20 / 21-30 / more spaces. 
+Deduct 5 power points for each town lost, whether by direct expansion or by severing the region. 
+Two Swords and Two Shields Action 
+Either place 2 knights or place 1 knight and expand 1 region, in either order. (Do not perform 2 expand actions.) 
+Crown and Scepter Action 
+Look through either pile of politics cards and take 1 card from it, keeping it concealed. 
+Alliances Card—Play an alliance card when playing a decision card and create an alliance immediately: 
+Choose two orthogonally neighboring regions, one of yours and one of another player. 
+Mark the alliance by rotating a shared wall 90º around its center. 
+If either space bordering the wall is taken over, the alliance continues for the regions of those 2 spaces. 
+Neither region in an alliance may expand into the other. 
+Either player in an alliance may end it at any time by paying 10 ducats to the bank. 
+Renegades Card—Play a renegade card when playing a decision card and carry it out immediately: 
+Return a knight from another player’s region orthogonally bordering one of your regions to their stock. 
+If you remove a knight from a wooded space, pay 5 ducats to the bank. 
+You may not remove a knight that disconnects the other player’s knight(s) from their castle. 
+Place a knight from your stock into your region, conforming to the usual rules and payment for placing a knight. 
+Adding a knight is required; if you cannot place a knight, you may not play a renegade card. 
+Treasure Card—Use a treasury card as monetary value when paying in duels or for knight fees. 
+No change is given for treasury cards, but they can pay multiple fees incurred when placing two knights. 
+Parchment Card—Parchment cards show power points that are scored at the end of the game. 
+Bureaucracy 
+All players retrieve their decision cards. 
+Move the first-player castle to the player on the left and start the next turn. 
+Game End 
+Give each player 1 power point for each hill space in their regions. 
+Score points for parchment cards. 
+The player with the most power points is the new king and wins the game. 
+Ties are broken by ducats, including treasure cards.
+	
+	
+Version 1.1, January 12, 2025
