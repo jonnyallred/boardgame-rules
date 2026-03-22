@@ -1,0 +1,1649 @@
+1. Parts List .................................................................................. 2
+2. Introduction ............................................................................. 2
+3. Playing Pieces ..........................................................................2
+4. The Game Board ..................................................................... 2
+5. Scenarios .................................................................................. 3
+6. Setting up the Game................................................................ 3
+7. Order of Play ........................................................................... 3
+8. Corps ........................................................................................ 3
+9. Commands ............................................................................... 4
+10. Movement .............................................................................. 4
+11. Attacks .................................................................................... 5
+12. Retreats ..................................................................................8
+13. Morale ....................................................................................9
+14. Night ....................................................................................... 9
+15. Elite Units .............................................................................. 9
+16. Winning the Game ................................................................9
+17. Game Balance (optional) ......................................................9
+18. The Santon (optional) ......................................................... 10
+19. Team Play (optional) ........................................................... 10
+Design Notes ............................................................................end
+Table of Contents
+Rules of Play
+
+2 Napoleon’s Triumph
+1. Parts List
+The game includes:
+• 140 wooden playing pieces.
+• 18 metal leader pieces.
+• Two copies of a sheet of stickers.
+• 15 wooden markers.
+• Two game boards.
+• Two copies of this rules booklet.
+Note: Extra pieces and stickers are provided to 
+replace any lost or damaged components.
+2. Introduction
+Napoleon’s Triumph is a game based on the 
+battle of Austerlitz. It is a game for two players: 
+one player controls the French army and the 
+other the Allied army. In the game, the players 
+take turns moving their pieces and attacking 
+enemy pieces. A player wins by either inﬂ ict-
+ing losses on the enemy army or by controlling 
+territory.
+3. Playing Pieces
+The pieces in the game represent the oppos-
+ing French and Allied armies. Blue pieces are 
+French, red are Allied.
+There are two classes of pieces: commanders 
+and units. Commanders represent individual 
+leaders and their staffs. Units represent bodies 
+of infantry, cavalry, and artillery.
+Commanders are identiﬁ ed by name. A sam-
+ple commander is shown below:
+Before starting play for the ﬁ rst time, stick-
+ers must be applied to the commanders.
+Three sample units are shown below:
+One side of each unit is marked with sym-
+bols. That side is called the face.
+ The type of symbol indicates the type of 
+unit. There are four types of symbols:
+guard infantry
+infantry
+cavalry
+artillery
+The number of symbols on a unit indicates 
+its strength. The sample units above are a three-
+strength infantry unit, a two-strength cavalry 
+unit, and a one-strength artillery unit.
+Usually, a player keeps his units turned so 
+that his opponent cannot see their faces. This 
+normal state is called face-down. Note: in gen-
+eral, this is not literally face down – players who 
+sit on opposite sides of the board will usually 
+prefer to keep their units’ faces towards them-
+selves, which is convenient and sufﬁ ces to hide 
+them from their opponent.
+Sometimes a player must show the face of 
+one of his units to his opponent. In those situa-
+tions the face is turned upwards. This is called 
+face-up.
+A commander does not have a face-down 
+state. The name of a commander is always vis-
+ible to both sides.
+When a unit has to be reduced in strength 
+as a result of an attack or retreat, it is removed 
+and another unit of the same type – but a lower 
+strength – is put in its place. Extra units are pro-
+vided with the game for this purpose.
+At full strength, an infantry unit represents 
+about 2000 men, a cavalry unit represents about 
+1400 troopers, and an artillery unit represents 
+about 30 massed guns and their crews.
+Commanders in the game represent the his-
+torical commanders of corps or their functional 
+equivalents.
+4. The Game Board
+The game board consists of two sections, 
+which are joined together. Most of the game 
+board depicts a map of the battleﬁ eld. Some 
+space on the edges is devoted to play aids.
+The play aids are explained in the rules sec-
+tions appropriate to them. This section explains 
+how to read the map.
+The map is divided into polygons. These 
+polygons are called locales. The sides of the 
+polygons are called approaches, and the middle 
+is called the reserve area.
+An example of a locale with three approaches 
+is shown below:
+The symbols that deﬁ ne locales are as fol-
+lows:
+is an approach. Approaches can 
+be either narrow (as wide as 
+one piece) or wide (as wide as 
+two pieces). Penalty symbols can 
+be on either side of an approach 
+to show the effects of terrain on 
+movement and attacks across it. 
+Penalties are directional: the 
+symbols inside a locale show the 
+penalties for moving and attack-
+ing into (not out of) the locale.
+is an infantry penalty.
+is a cavalry penalty.
+is an artillery penalty.
+is obstructed.
+is impassable.
+is the locale capacity.
+is a hill (the elevation number is 
+cosmetic: it has no effect on play).
+The example locale above is a hill, has a 
+capacity limit of four and has three approaches. 
+The top approach has penalties for infantry and 
+artillery attacks into the locale, as well as an 
+obstructed penalty. The right approach has a 
+penalty for cavalry attacks into the locale. The 
+left approach is impassable.
+In some locales, a few special symbols are 
+present. These are as follows:
+set-up locale.
+game objective locale.
+reinforcement entry locale.
+A piece in play must be in a position within 
+a locale. A piece can be in position next to 
+an approach (which is called blocking that 
+approach) or it can be in position in the reserve 
+area (which is called being in reserve). The 
+example below shows how this is physically 
+represented:
+(Pieces are face-up for illustration only.)
+In this example, the infantry and cavalry 
+piece are blocking the top approach together, 
+while the artillery piece in the middle is in 
+reserve by itself. Pieces blocking approaches 
+should be oriented the same way as the 
+approach. Pieces in reserve may be oriented 
+sections 1-4 • parts list, introduction, playing pieces, game board
+
+any way that is convenient – their orientation 
+has no effect on play.
+Important: pieces are deﬁned as being 
+in the same position when they are in the same 
+locale and in the same position in that locale. A 
+piece blocking an approach in a locale is not in 
+the same position as a piece blocking a differ-
+ent approach in that locale, nor is it in the same 
+position as a piece in reserve in that locale.
+A player may not put more of his units (not 
+counting commanders) into a locale than the 
+locale’s capacity limit. Note: there is a special 
+case related to this limit in the corps rules (see 
+section 8).
+ The capacity limit is for the entire locale. 
+There are no sub-limits for the reserve area or 
+individual approaches.
+Locales are adjacent if they are on opposite 
+sides of the same approach. Locales that share 
+only a corner are not adjacent.
+The red lines on the map are main roads. 
+The brown lines are local roads. Roads affect 
+movement: pieces can be moved farther in a 
+turn if they are moving along a road.
+Other markings on the map show elevation, 
+woods, marshes, rivers, streams and towns. 
+These are cosmetic and do not affect play. (Their 
+effects are simulated by approach penalties and 
+the sizes and shapes of the locales.)
+5. Scenarios
+7:00AM
+1 December
+Scenario
+Start
+7:00AM
+2 December
+Scenario
+Start
+Napoleon’s Triumph has two scenarios, 
+identiﬁed by their start date:
+2 December Scenario
+• Description: Historical day of battle. 
+This is the game’s main scenario.
+• Allied Set-up. All Allied pieces are in 
+play at start.
+• Estimated playing time: 2 hours.
+1 December Scenario
+• Description: Historical Allied advance. 
+More lines of play, longer playing time.
+• Allied Set-up: Two Allied corps (Allied 
+player’s choice) start in play. All others 
+enter as reinforcements.
+• Estimated playing time: 3 hours.
+6. Setting up the Game
+Game set-up is as follows: 
+(1) Select a scenario to play.
+(2) Agree on who will play which side.
+(3) Get out the game board.
+(4) Get out the markers. One black marker 
+is for the Time Track. The red and blue markers 
+are for the Morale Track. The other black mark-
+ers are for the Command Tracks.
+(5) Inventory the armies. The pieces that 
+make up the armies’ initial strength should be 
+placed face-up on the French and Allied Army 
+displays.
+(6) The Allies set up. The Allied player orga-
+nizes his army into corps by secretly assign-
+ing units (face-down) to commanders. The 
+minimum number of units that must be initially 
+assigned to each commander is printed next to 
+the commander’s name in the Allied Army dis-
+play; the maximum number of units that can be 
+assigned to each commander is eight. In the 2 
+December scenario, all of the Allied corps begin 
+the game in play. In the 1 December scenario, 
+the Allied player selects any two corps to start 
+the game in play, and the others start the game 
+off-map and will enter as reinforcements (see 
+the reinforcement rules in section 10). The corps 
+that start the game in-play must be placed in the 
+set-up locale bearing the commander’s name. 
+The pieces in a given corps may be in reserve 
+or blocking any approach in that locale, but all 
+the pieces in each corps must be together in the 
+same position.
+(7) The French set up. The French player 
+organizes and sets up his army as the Allied 
+player did in the previous step. The French 
+corps (except Bernadotte’s and Davout’s) start 
+on the map in both scenarios. Bernadotte’s and 
+Davout’s corps start off-map and enter as rein-
+forcements. Bernadotte and Davout must each 
+be initially assigned at least one unit that is not 
+a two-strength infantry unit. Suggestion: set-up 
+goes faster if the French player begins to orga-
+nize his pieces while the Allied player is orga-
+nizing his. Doing so does not commit the French 
+player to anything: he can still make changes 
+after the Allied player ﬁnishes.
+(8) The French player may detach up to six 
+units from any of his on-map commanders and 
+re-position them. They may not be more than 
+two locales distant from their former command-
+ers and may not be positioned in or adjacent 
+to a red, green or black objective locale. The 
+detached units may be placed either in reserve 
+or blocking an approach. Note: a corps can be 
+assigned more units than the capacity of the set-
+up locale, provided that after detachments the 
+capacity limits are not violated.
+(9) The French player turns one of his 
+artillery batteries face-up and names it as his 
+ﬁxed battery. If it is in reserve, he should 
+immediately reposition it to block an approach 
+in its set-up locale. It may not move during the 
+game. In all other respects it is a normal artillery 
+unit, and may lead attacks and defenses.
+7. Order of Play
+The game is played as a series of rounds. 
+Each space in the Time Track represents a round. 
+The marker location tracks the current round.
+A round is divided into two turns. The ﬁrst 
+turn is the Allied player’s, and the second is the 
+French player’s.
+In a player’s turn, he may move his pieces 
+and use them to attack enemy pieces.
+At the end of each turn, to restore secrecy for 
+any units that may have been revealed during 
+that turn, both players are permitted to do out-
+of-sight “shufﬂes” of their units. Units shufﬂed 
+together must be in the same position. Units in 
+a corps may not be shufﬂed together with units 
+that are not in that corps.
+8. Corps
+A corps consists of one commander and one 
+to eight units. Corps are created during set-up.
+Corps membership can be indicated by plac-
+ing the commander on top of one of the units in 
+its corps and arranging the others next to it or 
+behind it, as shown in the example below:
+Note: this is just a convention to help players 
+keep track of which units belong to which corps. 
+Apart from this use, the physical arrangement of 
+the pieces in a corps has no effect on play.
+A unit can leave a corps by being 
+detached from it. Once detached, a unit can 
+remain detached indeﬁnitely, or it can be later 
+re-attached to a corps (either the corps it left or 
+a different corps) by means of an Attach com-
+mand (see section 9 for details).
+Players can voluntarily detach units from 
+corps when speciﬁcally allowed to do so by the 
+rules. Also, units can be involuntarily detached 
+from their corps during attacks (see section 11) 
+and retreats (see section 12).
+The maximum number of units in a corps is 
+eight. The minimum number of units is one. (The 
+minimum number of units that must be assigned 
+to a corps during set-up applies only during set-
+up; it does not apply once play begins.)
+A commander cannot detach its last unit. 
+If all of the units in a corps are eliminated, the 
+corps commander is eliminated. A corps can 
+never be just a commander.
+The pieces in a corps must always be in the 
+same position at all times.
+sections 4-9 • game board, scenarios, setting up the game, order of play, corps
+
+4 Napoleon’s Triumph
+When multiple corps or detached units are in 
+the same position, the pieces should be grouped 
+and arranged to make it clear which pieces are 
+in which corps and which pieces are detached.
+Normally, the number of units allowed in 
+a locale is limited by its capacity. However, a 
+corps may move by road through a locale with 
+a capacity that is less than the number of units 
+in the corps, provided it does not end its move 
+there.
+9. Commands
+A player takes his turn by executing 
+commands. Commands are carried out in any 
+order the player chooses, but one command must 
+be completed before another can be begun.
+There are two classes of commands: corps
+commands and independent commands. 
+A corps command is a command given by 
+a commander to some or all of the units in its 
+corps. Each commander can give only one corps 
+command per turn. In addition, the Allied player 
+is limited to a total of ﬁ ve corps commands per 
+turn (note: the French player has no correspond-
+ing limit).
+An independent command is a command 
+given to a single detached unit. The Allied 
+player is limited to three independent commands 
+per turn and the French player is limited to four 
+independent commands per turn.
+The types of commands are as follows:
+• Corps Move (corps command). The 
+commander and all of the units in its 
+corps move together. Immediately prior 
+to the move, a player is permitted to 
+detach units from the corps: the detached 
+units are not moved by the command.
+• Detach Move (corps command). A 
+commander detaches one or more units 
+from its corps and moves them together. 
+The commander and the remaining 
+units in the corps are not moved by the 
+command. Units moved by this type of 
+command cannot move by road.
+• Attach (corps command). A commander 
+can attach a single unit to its corps. The 
+commander and the unit must both be in 
+the same position at the time the com-
+mand is given. The command may be 
+given to a detached unit or a unit in a 
+different corps; if given to a unit in a dif-
+ferent corps, the command detaches the 
+unit from its old corps as part of attach-
+ing it to its new corps.
+• Unit Move (independent command). 
+A single detached unit is moved. If the 
+unit is not already detached, it can be 
+detached as part of this command.
+A unit cannot be moved by two commands 
+in the same turn. Players should note, however, 
+that an Attach command does not move a unit, 
+so a unit can be given a move command and 
+then an Attach command in the same turn.
+The following example shows some com-
+mands in action:
+In this example, Kienmayer uses a Detach 
+Move command (1) to detach a unit and move 
+it out of the locale to the left. Dokhturov uses 
+an Attach command (2) to detach a unit from 
+Kienmayer’s corps and attach it to its own 
+corps. Langeron uses a Corps Move command 
+(3) to move its entire corps out of the locale to 
+the right, but before it does, it detaches the top-
+rear unit in the corps. A Unit Move command 
+(4) is then used to move that detached unit back 
+into reserve. 
+The Command Track helps players keep 
+track of commands. When a player carries out 
+a command, his opponent puts a marker on the 
+corresponding space on the track. Players should 
+state their commands aloud as needed to ensure 
+that they are correctly tracked.
+10. Movement
+Pieces only move by command. Multiple 
+pieces moving by a single command must move 
+together: at the same time and from the same 
+position to the same position.
+Pieces may not cross or block an impassable 
+approach.
+Pieces may attempt to move into an enemy-
+occupied locale during their move; such a move 
+is an attack: see section 11 for details.
+A piece in reserve at the start of the turn 
+(and which is not moving by road) has the fol-
+lowing movement choices:
+• into reserve in an adjacent locale.
+• to block an approach of the locale it 
+occupies.
+ The following example demonstrates these 
+choices:
+In this example, the unit can move to block 
+the approaches to the left or the right in the 
+locale it occupies, or could move into reserve in 
+the locales to the left or the right. It cannot move 
+to the top or bottom because the approaches on 
+those sides are impassable.
+A piece blocking an approach at the start of 
+a turn has the following movement choices:
+• into reserve in the locale it occupies.
+• into reserve in the locale on the other 
+side of the approach it is blocking.
+The following example demonstrates these 
+choices:
+In this example, the unit can move to the left, 
+into reserve in the locale it occupies, or it can 
+move to the right, into reserve in the adjacent 
+A piece moving by road can move farther 
+than it could otherwise. Along a main road a 
+piece can move up to three locales. Along a 
+local road or a combination of main and local 
+roads a piece can move up to two locales.
+In a single turn, a piece can only move along 
+connected roads. Roads in the same locale are 
+not necessarily connected, as shown below:
+There are two unconnected roads in this 
+locale. A piece moving by road could not switch 
+from one road to the other in a single turn.
+A piece that begins the turn in a locale con-
+taining multiple unconnected roads can leave 
+the locale by any of those roads.
+Pieces moving by road must start their move 
+in reserve. They must also end their move in 
+reserve, unless all of them are cavalry (the move 
+can include a commander). Cavalry moving by 
+road can end their move blocking an approach, 
+but the approach must be crossed by a road that 
+is connected to the road on which they moved. 
+The units must be brieﬂ y turned face-up to 
+conﬁ rm that they are cavalry.
+Historically, moving large formations of men 
+by road was complex and difﬁ cult if there were 
+other friendly units moving in the same area at 
+the same time, or if there were large numbers 
+sections 8-10 • corps, commands, movement
+
+of the enemy nearby. To simulate this, when a 
+corps with two or more units moves by road, the 
+following rules apply:
+• The corps cannot enter a locale if the 
+reserve area of that locale contains units 
+that moved into it earlier in that same 
+• After the corps enters a locale (even if 
+just to pass through it), no other units 
+can move into or through the reserve 
+area of the locale for the rest of the turn.
+• The corps must stop its move on enter-
+ing a locale if there is an adjacent locale 
+that contains an enemy corps of two or 
+more units.
+The example below illustrates road move-
+ment:
+In this example, Legrand’s corps of four units 
+moves two locales by road. It begins its move 
+in the top locale, enters and passes through the 
+middle locale, and enters and ends its move in 
+the bottom locale.
+Reinforcements are pieces that start the 
+game off-map and enter the map during play. 
+The rules in this section govern when, where, 
+and how they enter. Once in play, they behave 
+like other pieces.
+French reinforcements are eligible to enter as 
+shown on the Time Track; if that time is prior to 
+the start of the scenario, the reinforcements are 
+eligible to enter from the scenario’s ﬁ rst round 
+on. In the 1 December scenario, Allied rein-
+forcements are eligible to enter on the scenario’s 
+ﬁ rst round.
+A player may voluntarily delay reinforce-
+ment entry. Important note: the French army’s 
+victory conditions are much easier to achieve if 
+they can avoid bringing on any reinforcements 
+during the game (see section 16).
+Reinforcements enter play on reinforcement 
+entry locales (blue for French, red for Allied). A 
+player chooses which entry locales will be used 
+by which pieces at the time he brings them on. 
+Different pieces may use different locales.
+Reinforcements may not use an entry locale 
+if it is enemy-occupied.
+Reinforcements must use road movement to 
+enter play.
+Reinforcements require commands to enter 
+play. They may be detached prior to entry and 
+enter by Unit Move commands, or they can 
+enter as corps by Corps Move commands. Pieces 
+entering as a corps must come on together at the 
+same entry locale by the same road.
+The Allies were historically deceived about 
+the French reinforcements. To simulate this, 
+French reinforcement units may be given two 
+move commands in their turn of entry, and 
+French reinforcement commanders can give 
+two commands in their turn of entry. The second 
+command cannot be issued until after the ﬁ rst 
+has been completed, but it need not be consecu-
+tive with it (i.e. – Davout could enter by a Corps 
+Move command, then other French commands 
+could be executed, and then Davout’s corps 
+could move again by a second Corps Move 
+command). Note: French reinforcements have 
+to move by road on the ﬁ rst command, but not 
+the second.
+11. Attacks
+An attack is when pieces attempt to move 
+into an enemy-occupied locale. Attacks occur 
+during movement and are part of movement.
+The move command which causes the attack 
+is called the attack command. The locale into 
+which the attack is made is the defense locale. 
+The adjacent locale from which the attack is being 
+made is the attack locale. The defender’s side of 
+the approach between the two locales is called 
+the defense approach, and the attacker’s side of 
+that same approach is the attack approach. The 
+reserve area of the defense locale is the defense 
+reserve. The reserve area of the attack locale is 
+the attack reserve.
+Normally pieces are moved one command at 
+a time. In the following cases, however, multiple 
+commands can be carried out at the same time to 
+make a single combined attack move:
+• Two or more Corps Moves may be com-
+bined if the corps start their move in the 
+same position and are attacking across 
+the same attack approach.
+• Two Unit Moves may be combined if 
+both units are artillery and block the 
+same attack approach. The units must 
+be brieﬂ y turned face-up to conﬁ rm that 
+they are artillery.
+Each command in a combined move still counts 
+separately against applicable command limits.
+The defender does not expend commands in 
+an attack.
+An attack can be made by road movement 
+if all the attacking units are cavalry (the attack 
+can include a commander). The units must be 
+brieﬂ y turned face-up after their move is over to 
+conﬁ rm that they are cavalry.
+Cavalry units cannot lead an attack, lead 
+a defense, or counter-attack if the defense 
+approach is obstructed. (Leading units and 
+counter-attacks are explained in the attack pro-
+cedure below.)
+An attack is resolved according to the fol-
+lowing procedure:
+(1) Attack Threat. The attacker names the 
+attack approach. He does not yet announce the 
+command and pieces he will use to make the 
+attack. That announcement comes later in this 
+procedure and is called the attack declaration.
+(2) Retreat Option. The defender may 
+defend or retreat. He defends if he names one or 
+more defending pieces for the locale. If he has 
+no defending pieces, he retreats.
+Pieces blocking the defense approach must 
+all be named as defending pieces. Pieces block-
+ing approaches other than the defense approach 
+cannot be named as defending pieces. Any or all 
+of the pieces in defense reserve may be named 
+as defending pieces by the defending player, 
+within the following restrictions:
+• Pieces in reserve cannot be named as 
+defending pieces if there are any pieces 
+blocking the defense approach.
+• Defending pieces in reserve can include 
+any number of pieces from any number 
+of corps, but can include no more than 
+one detached unit.
+• A commander cannot be a defending 
+piece by itself; it can only be named 
+along with at least one unit in its corps.
+• Pieces cannot be named as defending 
+pieces if they were previously named as 
+defending pieces against an attack from 
+a different approach earlier that same 
+• Pieces cannot be named as defending 
+pieces if they retreated after combat ear-
+lier that same turn (they may be named if 
+they retreated before combat earlier that 
+same turn).
+The act of declaring pieces as defending 
+pieces neither changes their position nor turns 
+them face-up.
+If no defending pieces are named, then the 
+defender must retreat (see section 12). The 
+attacking player then makes his attack decla-
+ration, and moves his pieces into the defense 
+locale. (Exception: if the attacker reveals that 
+the attack is by an artillery unit that could have 
+led the attack as per step 5 of this procedure 
+had the defender not retreated, the artillery unit 
+does not have to move.) A retreat before com-
+bat ends the attack: the remaining steps in the 
+attack procedure are ignored.
+(3) Feint Option. If he so chooses, the 
+attacker may declare his attack a feint. (Note: if 
+the attack is by road move, it must be declared a 
+feint). If a feint is declared:
+sections 10,11 • movement, attacks
+
+6 Napoleon’s Triumph
+• The attacking player makes his attack 
+declaration, but the attacking pieces do 
+not enter the defense locale and will end 
+their move in the attack locale instead. 
+If the attacking pieces start their move 
+blocking the attack approach, they must 
+end it in place. If the attacking pieces 
+start their move in reserve (or, in the 
+case of pieces moving by road, in a dif-
+ferent locale), they may end it either in 
+the attack reserve or blocking the attack 
+approach. It is not permitted to split 
+the pieces making the attack move and 
+have some blocking while others are in 
+reserve.
+• If the defending pieces are in reserve, 
+the defending player may choose to 
+advance any or all of them to block the 
+defense approach, but must advance at 
+least one unit. If a corps is split up by the 
+advance, the units that are not with their 
+corps commander are detached.
+Declaring an attack a feint ends the attack: 
+the remaining steps in the attack procedure are 
+ignored.
+(4) Defense Declaration. The defending 
+player names the defense leading units. The 
+choice of leading units is restricted as follows:
+• The units must come from the defend-
+ing pieces named in step 2 of this proce-
+dure.
+• Zero, one, or two units can be named if 
+the defense approach is wide; zero or 
+one if it is narrow.
+• Units in reserve cannot be paired as 
+leading units unless they are of the same 
+type and in the same corps.
+• A unit in reserve with a strength of one 
+cannot be named a leading unit.
+As they are named, the leading units are 
+turned face-up.
+(5) Attack Declaration. The attacking 
+player must name the attack command, the 
+attack width and the attack leading units.
+The attacking player declares the attack 
+command (or commands, where permitted). 
+The attacking pieces are the pieces moved by 
+these commands. The attacking pieces remain in 
+place until the attack is resolved.
+The attack width determines the number of 
+leading units that can be named (for both sides). 
+If the attack approach is narrow, the attack is nar-
+row. If the attack approach is wide, the attacking 
+player can choose to declare the attack as wide 
+or narrow. If the attacking player declares it 
+narrow and there are two defense leading units, 
+the attacking player chooses which one will be 
+attacked: the other defense leading unit is no 
+longer considered a leading unit and is turned 
+face-down again.
+The choice of leading units is restricted as 
+follows:
+• The units must come from the attacking 
+pieces named earlier.
+• Zero, one, or two units can be named if 
+the attack is wide; zero or one if it is nar-
+row.
+• Units cannot be paired unless they are of 
+the same type.
+• A one-strength infantry or cavalry unit 
+cannot be named a leading unit.
+• A Corps Move attack cannot be led by 
+artillery.
+• An artillery unit cannot lead an attack if 
+it is in reserve; it must be blocking the 
+attack approach.
+• Attacks resolved as feints or retreats 
+before combat excepted (which don’t 
+count because there are no leading units 
+in such attacks), artillery-led attacks 
+cannot be made from the same attack 
+approach on consecutive rounds unless 
+the attack locale is a hill and the defense 
+locale is not.
+As they are named, the leading units are 
+turned face-up.
+(6) Initial Result. The initial result is calcu-
+lated as follows:
+• Add together the strengths of the attack 
+leading units.
+• If the attack leading units are infantry 
+and the defending pieces are blocking 
+the defense approach subtract one.
+• If there is a penalty in the defense 
+approach that matches the type of the 
+attack leading units and the defend-
+ing pieces are blocking the defense 
+approach, subtract one.
+• Unless the attack leading units are artil-
+lery, subtract the total strength of the 
+defense leading units.
+The initital winner is determined as follows:
+• If the result is greater than zero, the 
+attacker wins.
+• If the result is less than zero, the defender 
+wins.
+• If the result is zero and the defend-
+ing pieces are blocking the defense 
+approach, the defender wins.
+• If the result is zero and the defending 
+pieces are in reserve, the side with more 
+units in the attack (attacking pieces vs. 
+defending pieces) wins. If both sides 
+have the same number of units, the 
+French win.
+(7) Counter-Attack. If the attack leading 
+units are not artillery, the defending player has 
+the option to name units to counter-attack. The 
+choice of units for a counter-attack is restricted 
+as follows:
+• The units must come from the defending 
+pieces named in step 2 of this procedure 
+and cannot be any of the leading units 
+(note that a leading unit turned face-
+down in step 5 is no longer considered a 
+leading unit and can counter-attack if it 
+is otherwise eligible).
+• One or two units can be named, but 
+two can be named only if both are of 
+the same type and from the same corps. 
+Note that two units can be named even if 
+the attack is narrow.
+• Infantry units may counter-attack only 
+if the attacker won in the initial result 
+calculation. Cavalry units can counter-
+attack regardless of the initial result. 
+Artillery units cannot counter-attack.
+As they are named, the counter-attacking 
+units are turned face-up. Each counter-attacking 
+unit takes an immediate one-strength point loss.
+(8) Final Result. The (reduced) strengths of 
+the counter-attacking units are subtracted from 
+the initial result calculated in step 6 to produce 
+the ﬁnal result, and then the same tests that were 
+applied to the initial result to determine the ini-
+tial winner are re-applied to the ﬁnal result to 
+determine the ﬁnal winner.
+(9) Attacker Losses. If the attack leading 
+units are artillery, the attacker does not take 
+losses. Otherwise, the attacker losses are calcu-
+lated as follows:
+• Add one point for each defense leading 
+unit.
+• Add the number of points the ﬁnal result 
+is below zero (i.e. - if the ﬁnal result is 
+-2, then add two). Do not subtract any-
+thing if the result is above zero.
+The calculated losses should be applied to 
+the attacking units in the following order:
+• Losses are ﬁrst applied as evenly as pos-
+sible to the leading units. The defending 
+player chooses how to apply odd losses.
+• If the leading units are eliminated, any 
+excess losses are applied to other attack-
+ing units named in step 5, with the choice 
+going to the attacking player.
+• If all the attacking units named in step 5 
+are eliminated, any other excess losses 
+are ignored.
+(10) Defender Losses. The defender losses 
+are calculated as follows:
+• Add one point for each cavalry or infan-
+try (but not artillery) attack leading unit 
+named in step 5. (Note: this applies even 
+if the units were eliminated in step 9.)
+• Add the number of points the ﬁnal result 
+is above zero (i.e. - if the ﬁnal result is 
++2, then add two). Do not subtract any-
+thing if the result is below zero.
+• If the attack leading units are cavalry 
+or infantry, subtract one point for each 
+defense leading artillery unit.
+The calculated losses should be applied to 
+the defending units in the following order:
+section 11 • attacks
+
+• Losses are ﬁ rst applied as evenly as pos-
+sible to leading infantry and cavalry (but 
+not artillery) units. The attacking player 
+chooses how to apply odd losses.
+• If the leading infantry and cavalry units 
+are eliminated, any excess losses are 
+applied as evenly as possible to coun-
+ter-attacking units. The attacking player 
+chooses how to apply odd losses.
+• If the leading infantry and cavalry and 
+counter-attacking units are eliminated, 
+any excess losses are applied to other 
+defending units named in step 2, with the 
+choice going to the defending player.
+• If all the defending units named in step 
+2 are eliminated, any other excess losses 
+are ignored.
+(11) Completion. How the attack is com-
+pleted depends on the ﬁ nal result:
+• If the attack leading units are artillery, 
+then all pieces for both sides remain in 
+place. The attacking pieces do not move 
+and the defending pieces do not retreat.
+• If the attacker wins and the attack lead-
+ing units are not artillery, then all the 
+defending player’s pieces in the defense 
+locale must retreat (see section 12) and 
+the attacking pieces complete their move 
+into the reserve position in the defense 
+locale (the attacking pieces do not have 
+the option to remain in place).
+• If the defender wins, any attacking 
+pieces blocking the attack approach 
+must withdraw into reserve in the attack 
+locale (this is not technically considered 
+either a move or a retreat and is not gov-
+erned by the movement or retreat rules). 
+All attacking units are detached from 
+their corps, except for one unit per corps 
+named by the attacking player. Other 
+units in the attack locale belonging to the 
+attacking player do not withdraw and are 
+not affected by this result. If the defend-
+ing pieces are in reserve, the defending 
+player may choose to advance any or all 
+of them to block the defense approach, 
+but must advance at least one unit. If a 
+corps is split up by the advance, the units 
+that are not with their corps commander 
+are detached. 
+Finally, any units turned face-up during 
+the course of the attack are turned face-down 
+again.
+This completes the attack procedure.
+After an attack, the following rules apply:
+If an attack ended with the attacking pieces 
+still in the attack locale, the command(s) are still 
+expended for the attack, and the pieces are con-
+sidered to have moved during the turn (i.e. – the 
+pieces are not eligible to receive another move 
+command that turn).
+Attacking pieces moving by road may con-
+tinue their move (and make additional attacks) 
+if the defender retreated, but may not continue 
+their move if the defender did not retreat.
+If an attack was led by artillery, a second 
+attack move may be made across that same 
+attack approach that same turn, but the second 
+attack move may not be led by artillery. Note: 
+The attacker cannot use any of the same pieces 
+in both attacks. This is because the same pieces 
+cannot be moved by two different commands 
+in the same turn. The defender can use the 
+same pieces in both attacks: the rule prohibit-
+ing the same pieces from defending different 
+approaches in the same turn does not apply 
+here because both attacks are against the same 
+approach.
+If an attack was resolved as a feint or as a 
+loss for the attacker, no other attack move may 
+be made across that same approach that same 
+If an attack was won by the attacker (exclud-
+ing retreats before combat and attacks where the 
+attack leading units were artillery), no pieces 
+other than the attacking pieces may enter the 
+defense locale that turn.
+Attack Example 1:
+In this example, the top locale is occupied by 
+a French unit in reserve and another blocking 
+the approach. The bottom locale is occupied by 
+an Allied unit in reserve. In step 1, the French 
+player declares the attack threat. In step 2, the 
+Allied player opts not to declare any defend-
+ing pieces and retreats (see section 12 for the 
+rules governing retreats). The French player 
+then makes his attack declaration: to move the 
+reserve unit by road using a Unit Move com-
+mand. The unit is brieﬂ y turned face-up to 
+conﬁ rm that it is cavalry, and is moved into the 
+defense reserve. Because the defender retreated 
+before combat, the attacking unit can continue 
+moving by road after the attack.
+Attack Example 2:
+before.
+ 
+ 
+In this example, before the attack the top 
+locale is empty and the bottom locale is occu-
+pied by an Allied unit in reserve. In step 1, the 
+French player declares the attack threat.
+ 
+3.
+In step 2, the Allied player opts to defend, 
+and declares the piece in reserve as the defend-
+ing piece. In step 3, the French player declares 
+his attack a feint and makes his attack move: a 
+Unit Move attack by road, and moves his attack-
+ing piece into the attack locale, opting to end his 
+move blocking the attack approach. His unit is 
+brieﬂ y turned face-up to conﬁ rm that it is cav-
+alry before being turned face-down again. The 
+defender then must move a unit up to block the 
+defense approach and does so.
+Attack Example 3:
+In this example, the top locale is occupied by 
+one French unit blocking the approach, and the 
+bottom locale is occupied by two Allied units 
+blocking the opposite approach. In step 1, the 
+French player declares the attack threat. In step 
+2, the Allied player must defend with the units 
+blocking the approach as his defending pieces.
+4.
+5.
+In step 3 (not shown), the attacker declares 
+that the attack is not a feint. In step 4, the Allied 
+player declares his leading unit and turns it 
+face-up, revealing it to be an artillery unit. In 
+step 5, the French player declares his leading 
+unit and turns it face-up, revealing it as an 
+artillery unit as well.
+6.
+initial result = +1
+8.
+ﬁ nal result = +1
+In step 6, the initial result is calculated as 
++1, which is the unmodiﬁ ed strength of the 
+attack leading unit, as there is no artillery ter-
+rain penalty, and the strength of the defense 
+leading unit is not subtracted from the result 
+section 11 • attacks
+
+8 Napoleon’s Triumph
+because the attack leading unit is artillery. In 
+step 7 (not shown), the defender cannot counter-
+attack because the attack is led by artillery. In 
+step 8, the initial result becomes ﬁ nal. 
+10.
+11.
+In step 9 (not shown) the attacker takes no 
+losses because the attack is led by artillery. 
+In step 10, the defender losses are calculated: 
+the defender takes a loss of one for the amount 
+the attack result is above zero, and chooses to 
+assess the loss against the non-leading unit 
+(he does not have to assess it against the lead-
+ing unit because that unit is artillery), which 
+is revealed as a two-strength infantry unit and 
+then reduced by one. In step 11, all units remain 
+in place because the attack was led by artillery, 
+and all units turned face-up are turned face-
+down again.
+Attack Example 4:
+In this example, the top locale is occupied 
+by one French unit blocking the approach and 
+another in reserve, and the bottom locale 
+is occupied by two Allied units blocking the 
+approach. In step 1, the French player declares 
+the attack threat. In step 2, the Allied player must 
+defend with the units blocking the approach as 
+his defending pieces.
+4.
+5.
+In step 3 (not shown) the French player 
+declares that the attack will not be a feint. In 
+step 4, the Allied player declares his leading 
+unit and turns it face-up, revealing it to be a 
+one-strength infantry unit. In step 5, the French 
+player declares that his attack will be a Unit 
+Move command by his reserve unit. He declares 
+the leading unit in the attack and turns it face-
+up, revealing it to be a three-strength infantry 
+unit.
+6.
+initial result = +1
+7.
+In step 6, the initial result is calculated: the 
+strength of the leading unit (3), minus a penalty 
+for infantry attacking an approach blocked 
+by the enemy (-1), and minus the strength of 
+the defense leading unit (-1), yields a result of 
++1, which is a win for the attacker. In step 7, 
+the Allied player declares a counter-attack by 
+his non-leading unit, which is turned face-up, 
+revealing a three-strength cavalry unit, which is 
+immediately reduced by one.
+8.
+ﬁ nal result = -1
+9.
+ 
+In step 8, the ﬁ nal result is calculated: the 
+initial result (+1) is reduced by the strength of 
+the counter-attacking unit (2), for a ﬁ nal result 
+of -1, which is a win for the defender. In step 
+9, the attacker loss is calculated: the number 
+of defense leading units (1) plus the amount the 
+result is below zero (1) yields a total loss of two. 
+The loss is applied to the attack leading unit, 
+reducing it to a strength of one.
+10.
+11.
+In step 10, the defender loss is calculated 
+as the number of attack leading units (1). No 
+other modiﬁ ers apply. The loss is applied to the 
+defense leading unit, eliminating it. In step 11, 
+all units remain in place (the attacking unit does 
+not withdraw to reserve because it already is in 
+reserve), and all units turned face-up during the 
+attack are turned face-down again.
+12. Retreats
+A retreat occurs when defending pieces 
+are forced out of the locale they occupy by an 
+enemy attack. 
+A retreat is technically not a move; it does 
+not require the expenditure of commands.
+When a player’s pieces in a locale retreat, all
+of that player’s pieces in the locale must retreat: 
+none can remain behind.
+Retreating units are turned face-up at the 
+start of a retreat and face-down at the end.
+Retreating units take losses as follows:
+• Artillery units are eliminated.
+• For each approach (other than the 
+defense approach) occupied by infantry 
+or cavalry units, a one-strength point loss 
+is assessed if the approach is narrow, or 
+two if it is wide. The retreating player 
+chooses which infantry and/or cavalry 
+units from the approach will take the 
+losses.
+• If there are infantry units in reserve that 
+were not declared as defending pieces, a 
+one-point loss is assessed if the defense 
+approach was narrow, and two if wide. 
+The retreating player chooses the reserve 
+infantry unit or units that will take the 
+loss. Important note: cavalry units in 
+reserve do not take a loss when they 
+retreat.
+Pieces forced to retreat go into reserve in one 
+or more adjacent locales. The retreating player 
+gets to choose which of his pieces will retreat to 
+which locales, with the following restrictions:
+• The retreat may not be into the attack 
+• The retreat may not be across an impass-
+able approach.
+• The retreat may not be into an enemy-
+occupied locale.
+• The retreat may not cause the total num-
+ber of the player’s units in a locale to 
+exceed the locale’s capacity. If the avail-
+able retreat locales can hold some, but 
+not all of the retreating units, the retreat-
+ing player may put as many units into 
+them (his choice of units) as will ﬁ t.
+Pieces unable to retreat within the above restric-
+tions are eliminated.
+When a corps retreats, all units except one 
+are detached from the corps. The retreating 
+player may choose the unit that remains in the 
+corps.
+An example of a retreat is shown below:
+In this example, the infantry piece at top 
+was defeated in an attack by Vandamme’s corps 
+opposite it, which forces all the defender’s pieces 
+section 11-12 • attacks, retreats
+
+in the locale to retreat. No losses are taken from 
+the unit blocking the top approach because it is 
+the defense approach. A one-point loss is taken 
+from the left approach, eliminating one of the 
+two infantry units there. The piece in reserve 
+was cavalry and therefore takes no losses. The 
+retreating pieces retreat to the right, which is 
+the only direction legally available to them. The 
+retreating pieces are turned face-up at the start 
+of the retreat and face-down at the end.
+13. Morale
+French
+Start Level
+Allied
+Start Level
+Each army has a morale level which is indi-
+cated by a marker on the Morale Track.
+The losing army in an attack (as either the 
+attacker or defender) loses one morale point for 
+each strength point it lost in that attack. An army 
+also loses one morale point for each strength 
+point it loses in a retreat.
+Example: If the attacking army wins in an 
+attack, and loses two strength points while the 
+defending army loses three, the attacking army’s 
+morale would be unchanged and the defending 
+army’s morale would be reduced by three. If the 
+defending army lost an additional strength point 
+in the subsequent retreat, it would lose an addi-
+tional morale point as well.
+When an army’s morale is at one, the next 
+morale loss will result in demoralization, 
+unless that loss is from an attack in which the 
+attack leading units were artillery. (The ﬁnal 
+demoralizing loss cannot come from an artillery 
+attack.)
+The French army gets four (4) morale points 
+added to its current morale level when its ﬁrst 
+reinforcement unit enters play.
+14. Night
+Night
+1 December
+to
+2 December
+There is a Night round between 1 and 2 
+December.
+In the night round, pieces cannot attack.
+At the start of the night round, each side 
+regains half (fractions rounded down) of its 
+morale losses, up to a maximum of four points 
+regained.
+15. Elite Units
+There are two kinds of elite units: 
+heavy cavalry and Guard infantry.
+Heavy cavalry are three-strength cavalry 
+units.
+An army takes a two-point morale penalty the 
+ﬁrst time in the game it commits its heavy cav-
+alry. Heavy cavalry is committed if: it is used to 
+lead an attack or defense, counter-attack, retreat, 
+or take a loss. This penalty is applied before and 
+in addition to any normal morale reduction for 
+losses. The penalty can reduce an army’s morale 
+to one but cannot demoralize it.
+Guard infantry are three-strength infantry 
+units marked with the guard infantry symbol. 
+Guard infantry is infantry and all rules that apply 
+to infantry units apply to Guard infantry units, 
+except where speciﬁcally noted otherwise.
+An army takes a four-point morale penalty 
+the ﬁrst time in the game it commits its Guard 
+infantry. Guard infantry is committed if: it is 
+used to lead an attack or defense, counter-attack, 
+retreat, or take a loss. This penalty is applied 
+before and in addition to any normal morale 
+reduction for losses. The penalty can reduce an 
+army’s morale to one but cannot demoralize it.
+Guard infantry units cannot be paired with 
+non-Guard infantry units in leading an attack or 
+counter-attack.
+If an attack includes Guard infantry, in step 1 
+of the attack procedure the attacking player may 
+declare an attack a Guard Attack. At that time, 
+the attacking player must demonstrate that there 
+is at least one Guard infantry unit among the 
+potential attacking pieces by turning it face-up 
+(the unit is turned face-down again immediately 
+afterwards).
+ A Guard Attack cannot be declared if the 
+attack approach is obstructed, it cannot be 
+declared a feint, and the attack leading units 
+must be Guard infantry units. 
+In a Guard Attack, one is subtracted from 
+the strength of each one or two-strength defense 
+leading units. Guard infantry units may lead 
+attacks that were not declared as Guard Attacks 
+(and may also lead a defense and counter-
+attack), but there is no penalty for enemy units 
+in those situations.
+If a Guard Attack is defeated, the attacking 
+army loses three additional morale points, above 
+and beyond any morale reductions for losses, 
+and cannot declare any more Guard Attacks for 
+the rest of the game.
+16. Winning the Game
+If either army becomes demoralized, the 
+game ends immediately. The undemoralized 
+army wins a decisive victory. 
+If neither army wins a decisive victory, an 
+marginal victory is awarded after the last round 
+is completed. This is based on control of objec-
+tive locales, which are the locales marked with 
+red, black, green, and blue stars. Note that some 
+locales have more than one star and control of 
+one of these locales gives control of two differ-
+ent objective colors.
+An army is considered to control an objec-
+tive locale if both of the following requirements 
+are met:
+• It is occupied by a corps of that army 
+with at least one infantry and/or artillery 
+unit. Units are turned face-up after the 
+game for veriﬁcation purposes.
+• A path by road can be traced from the 
+locale to a main road reinforcement 
+entry locale for that army (the Allies 
+have two such locales, the French one). 
+The entry locale cannot be enemy-occu-
+pied and the path cannot pass through an 
+enemy-occupied locale.
+The terms for a marginal victory depend on 
+whether the French player brought any of his 
+reinforcements into play. These are as follows:
+Without French Reinforcements: the 
+Allied player wins a marginal victory if:
+• the Allies control at least one blue star 
+objective, and
+• the French do not control any green, red 
+or black star objectives.
+The French player wins a marginal victory if the 
+Allied player does not.
+With French Reinforcements: the French 
+player wins a marginal victory if:
+• the Allies do not control any blue star 
+objectives, and
+• the French control at least one green, 
+one red, and one black star objective.
+The Allied player wins a marginal victory if the 
+French player does not.
+17. Game Balance (optional)
+This option allows players to change the bal-
+ance of the game by reducing the initial morale 
+level of one side. This can be done arbitrarily by 
+mutual agreement between the players, or it can 
+be done by a morale auction. A morale auction 
+works as follows:
+• The auction is held during step 2 of set-
+up.
+• The players take turns bidding. A valid 
+bid is a number greater than or equal to 
+zero, and greater than any previous bid. 
+The number bid is the morale penalty the 
+player is willing to accept in exchange 
+for the right to choose which side he will 
+play. Who bids ﬁrst is randomly deter-
+mined.
+• When it is his turn to bid, a player may 
+choose to pass, in which case his oppo-
+nent wins and the auction ends. The 
+auction winner then chooses the side 
+he wants to play and reduces its initial 
+morale by his ﬁnal bid. The auction loser 
+sections 12-17 • retreats, morale, night, elite units, winning the game, game balance
+
+10 Napoleon’s Triumph
+takes the other side at its normal initial 
+morale.
+18. The Santon (optional)
+The Santon was a tall hill on the left ﬂank of 
+the French army. Historically, the French ﬁxed 
+battery was deployed there. The sides of the 
+hill were so steep that work crews had to haul 
+the guns to the top with ropes. The rules in this 
+section permit a better simulation of this unique 
+terrain feature.
+Other than the French ﬁxed battery, artillery 
+units occupying the Santon locale cannot lead 
+an attack or defense.
+If the French ﬁxed battery is set up in the 
+Santon, the following special rules apply:
+• The unit must set up in reserve.
+• The unit is allowed to lead an attack 
+or defense from reserve. It can do this 
+across any of the three approaches in the 
+• Approach penalties apply to attacks 
+into the locale even when the defending 
+pieces are in reserve.
+19. Team Play (optional)
+Although Napoleon’s Triumph is normally 
+a two player game, it is possible to play with 
+teams of two to four players per side.
+Teams are formed prior to set-up by mutual 
+agreement. Teams do not have to have the same 
+number of players, and it is permitted for one 
+side to be played by an individual while the 
+other is played by a team.
+After step 2 of set-up, each team holds a con-
+ference away from the board. This conference is 
+private: players on the other side may not listen 
+in. In that conference, players should:
+• Mutually agree on a rank order: the play-
+ers on a team are ranked from most senior 
+to most junior. The most senior player 
+on a team is its commander-in-chief.
+• Make plans. Players may freely discuss 
+what they intend to do.
+• Make corps assignments. The com-
+mander-in-chief assigns each player, 
+including himself, one or more corps.
+Rank order and corps assignments must be 
+revealed to the other side after the conference is 
+over, but plans do not.
+In the 1 December scenario, players may 
+hold a second conference prior to the start of 
+their own turn in the Night round. In that confer-
+ence, the rank order may not be changed, but 
+plans can be freely discussed and corps assign-
+ments can be changed. Any corps assignment 
+changes must be revealed to the other side after 
+the conference. While conferring, players are 
+away from the board.
+Players from both teams should mutually 
+agree whether or not to permit note-taking dur-
+ing conferences.
+While not in conference, the only game-
+related communication players are permitted is 
+order-passing. (Note: this should not be con-
+strued as preventing players from making the 
+various declarations required to play the game.)
+Order-passing is done at the start of each 
+turn before any moves are made. The com-
+mander-in-chief for the team may write one 
+order for each of the other players on his team. 
+An order consists of a verb and zero or more 
+nouns. Permitted verbs are: attack and defend. 
+Permitted nouns are any named terrain features 
+on the map. Examples of valid orders would be 
+“attack”, “attack Telnitz”, “defend”, or “defend 
+Pratze, Pratzeberg, Aujezd”. The recipient of the 
+order cannot read it until the start of their team’s 
+next turn. Other players cannot read the order 
+at all.
+The team play rules do not require the recipi-
+ent of an order to obey it.
+Orders must mean what they seem to mean: 
+they may not be used to encode secret messages 
+agreed upon in conference.
+Orders should be saved until the end of the 
+game so that their legality can be veriﬁed by the 
+opposing side.
+Players on a team should take care not to 
+inadvertently give signals to each other through 
+facial expressions, body language, etc.
+The set-up procedure is altered for team play 
+as follows:
+• Assignment of units to corps is done by 
+the commander-in-chief of the team.
+• In the 1 December scenario, the Allied 
+commander-in-chief 
+decides 
+which 
+Allied corps will be in-play at start.
+• Each player puts his own corps on 
+the map. The player order is based on 
+seniority: the most-senior player ﬁrst, 
+the most-junior last.
+• For French unit detachments, players 
+may only detach units from their own 
+corps. The player order is based on 
+seniority: the most senior-ﬁrst, the most-
+junior last. The detachment limit is for 
+the team as a whole: each detachment 
+made by a player reduces the number 
+of detachments available for his more 
+junior teammates to use.
+• The French ﬁxed battery is selected by 
+the French commander-in-chief.
+In a friendly turn, play is in order of senior-
+ity: the most senior player goes ﬁrst, the most-
+junior player goes last. Each player must make 
+all of his moves before the next player can make 
+any of his. The independent command limit and 
+Allied corps command limit are for the team 
+as a whole: each command given by a player 
+against these limits reduces the number of these 
+commands available for his more junior team-
+mates, even to the point of leaving them with 
+none at all.
+A player may issue a corps command only 
+for his own corps. A player can give an indepen-
+dent command to a unit only if, at the moment 
+the command is given, he has the corps com-
+mander closest to that unit (in the event of a tie, 
+the more senior player wins).
+For command purposes, distance between 
+pieces is determined by ﬁnding the path between 
+them that passes through the fewest locales. This 
+path may cross enemy-occupied locales but may 
+not cross impassable approaches. If pieces are in 
+the same locale, the distance is zero; if they are 
+in adjacent locales (not separated by an impass-
+able approach) the distance is one, and so on.
+A player can use an Attach Command to 
+detach a unit from the corps of a different player 
+and attach it to his own corps only if he is senior 
+to that other player.
+In an attack, the player for defending side 
+who gets to make the retreat option decision is 
+the player with the corps commander nearest to 
+the defense locale (in the event of a tie, the more 
+senior player gets control). If the decision is to 
+defend, that player also decides which pieces 
+will be the defending pieces. After the defend-
+ing pieces are declared, control may change 
+hands, as per the following:
+• If there are no corps commanders among 
+the defending pieces, control does not 
+change hands.
+• If there are corps commanders among 
+the defending pieces, control passes 
+to the senior player with a corps com-
+mander among those pieces.
+Corps controlled by different players cannot 
+combine and make their moves together in an 
+attack.
+There are no individual victory conditions 
+for members of a team. A team wins or loses 
+together.
+If the morale auction and team play options 
+are both in use, the members of each team should 
+agree on a representative to bid for them.
+•
+Contact information:
+web: http://www.simmonsgames.com
+support: support@simmonsgames.com
+sales: sales@simmonsgames.com
+sections 17-19 • game balance, the santon, team play 
+
+Napoleon’s Triumph is a sequel to Bonaparte 
+at Marengo. The basic design of the pieces, 
+map, and the game mechanics all come from 
+that earlier game.
+Bonaparte at Marengo was a successful 
+design, and a sequel was an obvious thing to do. 
+The choice of Austerlitz as a subject was driven 
+by the attraction of designing a wargame that 
+was simple, large, and fast-playing, attributes 
+that I didn’t think had ever been successfully 
+combined in a wargame. Austerlitz may have 
+been a larger battle than Marengo, but it was 
+also a shorter one. Even if the new game would 
+need double the number of pieces, it would need 
+only half the number of turns. These two dif-
+ferences seemed likely to cancel each other out, 
+resulting in a game that was twice the size of its 
+predecessor, but with roughly the same playing 
+time.
+While combining a large size and a short 
+playing time was the main design goal, it was not 
+the only one. Any craftsman hopes to improve 
+on his previous work, and so did I here.
+One particular area targeted for improve-
+ment was command and control. Bonaparte at 
+Marengo had only very abstracted command 
+rules; the goal for the new game was to make 
+changes that would result in a richer simulation 
+of this aspect of Napoleonic warfare. The initial 
+plan was to put corps designations on the pieces 
+and add a few corps integrity rules to the game. 
+This idea was attractive from a complexity point 
+of view, but unfortunately, it didn’t work. The 
+corps designations slowed down setting up the 
+game, screwed up limited intelligence by giv-
+ing away too much information when revealed, 
+and most importantly didn’t give any real sense 
+that the armies were made of eight or nine corps 
+instead of ﬁfty or sixty brigades and regiments.
+After a long period of deliberation and sulk-
+ing, I ﬁnally decided to add command pieces to 
+the game. This worked very well and gave the 
+game a strong “two-level command” feel: when 
+looking at the entire battleﬁeld, players think 
+like army commanders and make decisions 
+about corps; when looking at local situations, 
+players think like corps commanders and make 
+decisions about regiments and brigades (which 
+generally correspond to pieces).
+Although this approach solved the problem 
+it was supposed to solve (and I think that players 
+of Bonaparte at Marengo will ﬁnd it the most 
+striking and pervasive difference in how the two 
+games play), it was not a decision without cost. 
+First, the amount of time it took to work out 
+the command rules and do the physical design, 
+prototyping, and costing of the command pieces 
+blew the game’s production schedule. Second, 
+adding commanders required two full sections 
+of rules and blew the game’s complexity bud-
+get.
+On top of this, command was not the only 
+problem encountered in adapting the rules for 
+Bonaparte at Marengo to Austerlitz. A second 
+major problem was the way combat worked. 
+Marengo did not have the clashes of large forces 
+that characterized Austerlitz, and the assault 
+rules proved too lightweight. They resolved 
+assaults quickly, but for high unit densities they 
+worked poorly: they tilted the advantage too 
+heavily to the defense, were not violent enough, 
+and had too few decision points to be interest-
+ing.
+The obvious solution was to beef up the 
+assault rules, but the complexity budget was 
+already under severe stress from the command 
+problem, and it was clear that something had to 
+give: I either needed to give up altogether on the 
+complexity goals for the game or I needed to 
+make deep cuts in complexity elsewhere.
+As a general observation, it is easy to ﬁx 
+design problems by adding rules, but cutting 
+rules is very hard work; the old comment “I’m 
+sorry this letter is so long, but I did not have time 
+to write a short one” applies even more strongly 
+to rules writing than to writing in general. Game 
+rules hang together as an interlocking system: 
+cuts send ripples through the rest of the game, 
+requiring changes elsewhere. Making a lot of 
+cuts sends ripples everywhere and it becomes 
+very hard to even see what you’re doing any-
+more; cuts to reduce complexity can often create 
+so many problems in other areas that the rules to 
+ﬁx them can actually add more complexity back 
+than the original cuts saved.
+It took a long time, but ﬁnally a new combat 
+system was devised. The new system reduced 
+complexity by collapsing the three forms of 
+attack in Bonaparte at Marengo (maneuver, 
+bombardment, and assault) together to form a 
+uniﬁed combat system. While anyone who has 
+played Bonaparte at Marengo will recognize 
+the relatedness of the systems, the changes are 
+too extensive to be considered a mere modiﬁca-
+tion of the old system and amount to a whole 
+new system of combat resolution.
+While the new system does cut enough com-
+plexity from the game to bring the design as a 
+whole back within its complexity budget, what 
+particularly pleases me about it is that it adds a 
+new quality that I really wanted for the game. 
+An early design mantra for the new game was 
+“Less Chess, more Poker.” One thing I like about 
+Bonaparte at Marengo is that it is an intensely 
+cerebral game, but I really wanted Napoleon’s 
+Triumph to test players’ nerves as well as their 
+intellects. The new combat system has this char-
+acter because it is extremely violent: defeat in 
+a single attack can cripple an entire corps. To 
+increase your chance of winning in combat, 
+you can commit more forces, but the more you 
+commit in order to win, the greater the disaster 
+if you lose. In Bonaparte at Marengo, a care-
+ful and calculating approach could eliminate 
+most risk, but in Napoleon’s Triumph, players 
+will often just have to steady their nerves and 
+commit, knowing full well that the results can 
+be calamitous.
+While the changes to the command and com-
+bat rules might have been made adapting the 
+game system for any large Napoleonic battle, 
+there was also a major design problem speciﬁc 
+to the battle of Austerlitz.
+The essential core of the historical battle 
+of Austerlitz is that it was a trap sprung by 
+Napoleon. He concealed his strength and inten-
+tions and lured the Allied army into attacking 
+him. Simulating this in a game, however, is 
+very difﬁcult. While victory conditions can be 
+made that force the Allies to attack, it is highly 
+unlikely that such an attack will succeed and 
+therefore highly unlikely that the Allied player 
+will win. At the same time, if the victory condi-
+tions do not force the Allies to attack and allow 
+them to win by standing on the defensive, the 
+result just doesn’t feel like Austerlitz.
+This problem puzzled me for a long time. A 
+seeming endless series of ideas (variable victory 
+conditions, secret victory conditions, random 
+victory conditions, etc.) were tried, but they 
+all failed. It was only through the development 
+of victory conditions that changed when the 
+French reinforcements arrived that the prob-
+lem was ﬁnally solved. This system forces the 
+Allies to attempt an attack, but once the French 
+bring on their reinforcements (thereby springing 
+Napoleon’s trap), the Allies get much easier vic-
+tory conditions and just have to hang on to win.
+Before closing there are two last things I 
+want to discuss – the 1 December scenario and 
+the team play option.
+The 1 December scenario allows players 
+to start the game on the day before the battle. 
+Although it can take longer to play, I think the 
+1 December scenario is in many ways more 
+interesting than the 2 December scenario: it has 
+more maneuver and there are more lines of play 
+available for both sides. In pre-publication feed-
+back, I have seen a certain prejudice against the 
+1 December scenario on the grounds that it is 
+“hypothetical” while the 2 December scenario 
+is “historical”, but I think this is unfounded: both 
+are equally historical and equally hypothetical. 
+They both take a historical situation as it existed 
+at a particular time and let players explore the 
+hypothetical might-have-beens from there.
+The team play option was never a part of the 
+original design conception, and was only added 
+at the very end of the design process. Part of the 
+motive was that while Bonaparte at Marengo 
+had a good solitaire version, a solitaire solution 
+for Napoleon’s Triumph has been elusive. On 
+the other hand, I think that Napoleon’s Triumph 
+adapts well to team play. While I know that 
+many gamers have difﬁculty in ﬁnding even 
+one opponent, I do hope that folks will be able 
+at some point to give this entertaining option a 
+try.
+Design Notes

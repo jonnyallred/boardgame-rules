@@ -5034,3 +5034,648 @@ games:
 - name: Luxor
   bgg_id: 245643
   status: summarized
+- name: Luzhanqi
+  bgg_id: 8909
+  status: summarized
+- name: LYNGK
+  bgg_id: 217083
+  status: summarized
+- name: Macao
+  bgg_id: 55670
+  status: summarized
+- name: Machi Koro
+  bgg_id: 143884
+  status: summarized
+- name: Macroscope
+  bgg_id: 193164
+  status: summarized
+- name: Mad Gab
+  bgg_id: 764
+  status: summarized
+- name: Maestro
+  bgg_id: 569
+  status: summarized
+- name: Mafia de Cuba
+  bgg_id: 176558
+  status: summarized
+- name: "Mag\xB7Blast: Third Edition"
+  bgg_id: 23142
+  status: summarized
+- name: Mage Knight Board Game
+  bgg_id: 96848
+  status: summarized
+- name: Mage Knight Dungeons
+  bgg_id: 2876
+  status: summarized
+- name: Mage Knight
+  bgg_id: 864
+  status: summarized
+- name: Mage Wars Arena
+  bgg_id: 101721
+  status: summarized
+- name: 'Magic Labyrinth: Card Game'
+  bgg_id: 65333
+  status: summarized
+- name: Magic Maze
+  bgg_id: 209778
+  status: summarized
+- name: Magic Realm
+  bgg_id: 22
+  status: summarized
+- name: 'Maharaja: The Game of Palace Building in India'
+  bgg_id: 9440
+  status: summarized
+- name: Mahjong
+  bgg_id: 2093
+  status: summarized
+- name: Malefiz
+  bgg_id: 2322
+  status: summarized
+- name: Mall Madness
+  bgg_id: 15162
+  status: summarized
+- name: Mall of Horror
+  bgg_id: 16772
+  status: summarized
+- name: Mamma Mia!
+  bgg_id: 49
+  status: summarized
+- name: Man O' War
+  bgg_id: 2516
+  status: summarized
+- name: Mangala
+  bgg_id: 39492
+  status: summarized
+- name: Manhattan
+  bgg_id: 199
+  status: summarized
+- name: Manila
+  bgg_id: 15817
+  status: summarized
+- name: Manoeuvre
+  bgg_id: 17396
+  status: summarized
+- name: 'Mansions of Madness: First Edition'
+  bgg_id: 83330
+  status: summarized
+- name: 'Mansions of Madness: Second Edition'
+  bgg_id: 205059
+  status: summarized
+- name: Maple Valley
+  bgg_id: 361958
+  status: summarized
+- name: March Madness
+  bgg_id: 3063
+  status: summarized
+- name: Mare Balticum
+  bgg_id: 99479
+  status: summarized
+- name: Mare Nostrum
+  bgg_id: 3931
+  status: summarized
+- name: 'Marengo: Napoleon in Italy, 14 June 1800'
+  bgg_id: 13881
+  status: summarized
+- name: Maria
+  bgg_id: 40354
+  status: summarized
+- name: Marrakech
+  bgg_id: 29223
+  status: summarized
+- name: Marrakesh
+  bgg_id: 342810
+  status: summarized
+- name: Martian Dice
+  bgg_id: 99875
+  status: summarized
+- name: 'Marvel HeroClix: Infinity Challenge'
+  bgg_id: 182276
+  status: summarized
+- name: Marvel Heroes
+  bgg_id: 14808
+  status: summarized
+- name: Mascarade
+  bgg_id: 139030
+  status: summarized
+- name: Masons
+  bgg_id: 21791
+  status: summarized
+- name: Master Fox
+  bgg_id: 172358
+  status: summarized
+- name: Master Labyrinth
+  bgg_id: 437
+  status: summarized
+- name: 'Master of Orion: The Board Game'
+  bgg_id: 193322
+  status: summarized
+- name: Mastermind
+  bgg_id: 2392
+  status: summarized
+- name: Masterpiece
+  bgg_id: 1501
+  status: summarized
+- name: Match of the Penguins
+  bgg_id: 6979
+  status: summarized
+- name: Mechs vs. Minions
+  bgg_id: 209010
+  status: summarized
+- name: MechWar '77
+  bgg_id: 5383
+  status: summarized
+- name: Medici vs Strozzi
+  bgg_id: 24762
+  status: summarized
+- name: Medici
+  bgg_id: 46
+  status: summarized
+- name: Medina
+  bgg_id: 1261
+  status: summarized
+- name: Mega-Mania
+  bgg_id: 1541
+  status: summarized
+- name: Mehen
+  bgg_id: 4148
+  status: summarized
+- name: Melee
+  bgg_id: 165657
+  status: summarized
+- name: Memoir '44
+  bgg_id: 10630
+  status: summarized
+- name: Menara
+  bgg_id: 244608
+  status: summarized
+- name: Merchant of Venus
+  bgg_id: 230
+  status: summarized
+- name: Merchants & Marauders
+  bgg_id: 25292
+  status: summarized
+- name: Merchants of Amsterdam
+  bgg_id: 531
+  status: summarized
+- name: Mertwig's Maze
+  bgg_id: 1965
+  status: summarized
+- name: 'Merv: The Heart of the Silk Road'
+  bgg_id: 306040
+  status: summarized
+- name: Meschugge
+  bgg_id: 5885
+  status: summarized
+- name: Mesopotamia
+  bgg_id: 19301
+  status: summarized
+- name: Message in a Bottle
+  bgg_id: 411420
+  status: summarized
+- name: Metro
+  bgg_id: 559
+  status: summarized
+- name: Metropolis
+  bgg_id: 145
+  status: summarized
+- name: Metropolys
+  bgg_id: 25568
+  status: summarized
+- name: Mexica
+  bgg_id: 2955
+  status: summarized
+- name: Mexican Train
+  bgg_id: 11634
+  status: summarized
+- name: Mhing
+  bgg_id: 1452
+  status: summarized
+- name: Mice and Mystics
+  bgg_id: 124708
+  status: summarized
+- name: "Micro Armour: The Game \u2013 WWII"
+  bgg_id: 17379
+  status: summarized
+- name: Micropul
+  bgg_id: 10660
+  status: summarized
+- name: Microworld
+  bgg_id: 203042
+  status: summarized
+- name: Middle-earth Collectible Card Game
+  bgg_id: 1915
+  status: summarized
+- name: Middle-Earth Quest
+  bgg_id: 31563
+  status: summarized
+- name: Middle Earth
+  bgg_id: 144845
+  status: summarized
+- name: Midway
+  bgg_id: 2250
+  status: summarized
+- name: Mighty Warriors
+  bgg_id: 6333
+  status: summarized
+- name: Mijnlieff
+  bgg_id: 72667
+  status: summarized
+- name: MindTrap
+  bgg_id: 1923
+  status: summarized
+- name: Mine a Million
+  bgg_id: 1920
+  status: summarized
+- name: 'Minecraft: Builders & Biomes'
+  bgg_id: 269603
+  status: summarized
+- name: Minion Hunter
+  bgg_id: 679
+  status: summarized
+- name: "Miss\xE4 lahjat herra Hakkarainen?"
+  bgg_id: 21541
+  status: not_found
+  notes: Finnish children's game, no English rulebook
+- name: Missing Words
+  bgg_id: 116463
+  status: not_found
+  notes: Obscure British party game
+- name: 'Mission: Red Planet'
+  bgg_id: 18258
+  status: summarized
+- name: Mississippi Queen
+  bgg_id: 256
+  status: summarized
+- name: Mississippi
+  bgg_id: 1816
+  status: summarized
+- name: "Miss\xFAm!"
+  bgg_id: 24004
+  status: not_found
+  notes: Rare 1978 Tekumel miniatures rules
+- name: Mister X
+  bgg_id: 55763
+  status: summarized
+- name: Mister Zero
+  bgg_id: 17724
+  status: summarized
+- name: Mixmo
+  bgg_id: 42105
+  status: summarized
+- name: Mixtour
+  bgg_id: 90942
+  status: summarized
+- name: MLB Showdown
+  bgg_id: 618
+  status: summarized
+- name: Mmm!
+  bgg_id: 172507
+  status: summarized
+- name: Modern Art
+  bgg_id: 40381
+  status: summarized
+- name: Modern Naval Battles
+  bgg_id: 1668
+  status: summarized
+- name: 'Moeraki: Kemu'
+  bgg_id: 104553
+  status: summarized
+- name: Mole in the Hole
+  bgg_id: 321
+  status: not_found
+  notes: No English rulebook PDF found
+- name: Mole Rats in Space
+  bgg_id: 213882
+  status: summarized
+- name: Mombasa
+  bgg_id: 172386
+  status: summarized
+- name: Momentum
+  bgg_id: 73091
+  status: summarized
+- name: Mondo
+  bgg_id: 91523
+  status: summarized
+- name: Monopoly Gamer
+  bgg_id: 230408
+  status: summarized
+- name: 'Monopoly: Here and Now'
+  bgg_id: 18901
+  status: summarized
+- name: Monopoly Junior
+  bgg_id: 5339
+  status: summarized
+- name: 'Monopoly: The Simpsons'
+  bgg_id: 3394
+  status: summarized
+- name: Monopoly
+  bgg_id: 1406
+  status: summarized
+- name: Monster My Neighbor
+  bgg_id: 172596
+  status: summarized
+- name: Monster-Pups
+  bgg_id: 220256
+  status: not_found
+  notes: Children's game by Ravensburger, limited online presence
+- name: Monster Trap
+  bgg_id: 98122
+  status: summarized
+- name: Monsterpocalypse
+  bgg_id: 32674
+  status: summarized
+- name: Monsters Menace America
+  bgg_id: 17835
+  status: not_found
+  notes: No complete official rulebook PDF available freely
+- name: Monte Rolla
+  bgg_id: 11972
+  status: not_found
+  notes: Children's game by Selecta, limited online presence
+- name: "Montgolfi\xE8re"
+  bgg_id: 704
+  status: not_found
+  notes: Out-of-print 1991 French game
+- name: Monty Plays Scrabble
+  bgg_id: 19629
+  status: not_found
+  notes: Computer game, not a physical board game
+- name: Monty Python Fluxx
+  bgg_id: 36345
+  status: summarized
+- name: Mooki Island
+  bgg_id: 435346
+  status: not_found
+  notes: Very new game, no rulebook PDF available yet
+- name: Moon Base Clavius
+  bgg_id: 3669
+  status: not_found
+  notes: Out-of-print 1981 wargame
+- name: Mord im Arosa
+  bgg_id: 80006
+  status: summarized
+- name: Mordheim
+  bgg_id: 3565
+  status: summarized
+- name: Morris the Dodo
+  bgg_id: 377836
+  status: summarized
+- name: Moruba
+  bgg_id: 39602
+  status: not_found
+  notes: Traditional South African mancala game, no formal rulebook PDF
+- name: 'Mosaic: A Story of Civilization'
+  bgg_id: 329551
+  status: summarized
+- name: Mosaix
+  bgg_id: 55834
+  status: not_found
+  notes: Schmidt Spiele game, minimal English online presence
+- name: Mosby's Raiders
+  bgg_id: 1669
+  status: not_found
+  notes: Out-of-print Victory Games wargame
+- name: Mountain Goats
+  bgg_id: 63975
+  status: summarized
+- name: Mountains of Madness
+  bgg_id: 214293
+  status: summarized
+- name: Mouse Trap
+  bgg_id: 2679
+  status: summarized
+- name: Mow
+  bgg_id: 38984
+  status: summarized
+- name: Mr. Jack in New York
+  bgg_id: 55427
+  status: summarized
+- name: Mr. Jack Pocket
+  bgg_id: 72287
+  status: summarized
+- name: Mr. Jack
+  bgg_id: 21763
+  status: summarized
+- name: Mr. President
+  bgg_id: 476
+  status: summarized
+- name: Ms. Monopoly
+  bgg_id: 289363
+  status: summarized
+- name: Mu and Lots More
+  bgg_id: 32928
+  status: summarized
+- name: Mucca Pazza
+  bgg_id: 137152
+  status: not_found
+  notes: Zoch Verlag game, rules only in German
+- name: My City
+  bgg_id: 295486
+  status: summarized
+- name: My First Castle Panic
+  bgg_id: 267314
+  status: summarized
+- name: My First Stone Age
+  bgg_id: 191004
+  status: summarized
+- name: Mycelia
+  bgg_id: 378476
+  status: summarized
+- name: Mykerinos
+  bgg_id: 21441
+  status: summarized
+- name: Myrmes
+  bgg_id: 126792
+  status: summarized
+- name: 'Mysterium Kids: Captain Echo''s Treasure'
+  bgg_id: 367206
+  status: summarized
+- name: Mysterium
+  bgg_id: 181304
+  status: summarized
+- name: Mystery Date
+  bgg_id: 7314
+  status: summarized
+- name: Mystery of the Abbey
+  bgg_id: 915
+  status: summarized
+- name: Mythos Tales
+  bgg_id: 126100
+  status: summarized
+- name: Nanuk
+  bgg_id: 54433
+  status: summarized
+- name: 'Napoleon at War: Four Battles'
+  bgg_id: 12947
+  status: flagged
+  notes: PDF was promotional overview, not actual rules
+- name: Napoleon in Europe
+  bgg_id: 3518
+  status: flagged
+  notes: Complex wargame, extracted but too large to summarize in batch
+- name: 'Napoleon: The Waterloo Campaign, 1815'
+  bgg_id: 1662
+  status: flagged
+  notes: Complex wargame, extracted but too large to summarize
+- name: Napoleon's Last Battles
+  bgg_id: 4230
+  status: flagged
+  notes: Image-based PDF, text extraction failed
+- name: Napoleon's Triumph
+  bgg_id: 18098
+  status: flagged
+  notes: Complex wargame, extracted but too large to summarize
+- name: Nations
+  bgg_id: 126042
+  status: flagged
+  notes: Complex civ game, extracted but too large to summarize
+- name: Nauticus
+  bgg_id: 144415
+  status: not_found
+  notes: No direct English rulebook PDF found
+- name: Navegador
+  bgg_id: 66589
+  status: summarized
+- name: Neopets Trading Card Game
+  bgg_id: 9160
+  status: flagged
+  notes: PDF was card list, not complete rules
+- name: Neuroshima Hex!
+  bgg_id: 21241
+  status: summarized
+- name: 'New World: A Carcassonne Game'
+  bgg_id: 34615
+  status: not_found
+  notes: Rules on WikiCarpedia but no downloadable PDF
+- name: Newton
+  bgg_id: 244711
+  status: summarized
+- name: 'Next Station: London'
+  bgg_id: 353545
+  status: summarized
+- name: Nexus Ops
+  bgg_id: 15363
+  status: summarized
+- name: Niagara
+  bgg_id: 13308
+  status: flagged
+  notes: Image-based PDF, text extraction failed
+- name: Nightfall
+  bgg_id: 88408
+  status: flagged
+  notes: Downloaded file was webpage, not rules PDF
+- name: Nightmare
+  bgg_id: 5641
+  status: not_found
+  notes: VHS board game, no direct PDF found
+- name: "N\xEEn-Gonost"
+  bgg_id: 14077
+  status: not_found
+  notes: Rules in ZIP format, no direct PDF
+- name: Njet!
+  bgg_id: 1107
+  status: summarized
+- name: No Retreat! The Russian Front
+  bgg_id: 68264
+  status: flagged
+  notes: Complex GMT wargame, too large to summarize
+- name: No Thanks!
+  bgg_id: 12942
+  status: summarized
+- name: Nobody is Perfect
+  bgg_id: 8829
+  status: not_found
+  notes: German-language Ravensburger game
+- name: Notre Dame
+  bgg_id: 25554
+  status: summarized
+- name: Nova Luna
+  bgg_id: 284435
+  status: summarized
+- name: Novem
+  bgg_id: 38678
+  status: not_found
+  notes: Obscure abstract game
+- name: Nuclear Destruction
+  bgg_id: 19907
+  status: not_found
+  notes: Rules PDF link returned 404
+- name: Nuclear War
+  bgg_id: 713
+  status: summarized
+- name: Null & Nichtig
+  bgg_id: 24771
+  status: not_found
+  notes: German Amigo card game, no English rules
+- name: Numble
+  bgg_id: 4737
+  status: not_found
+  notes: 1968 game, no PDF found
+- name: Nuns on the Run
+  bgg_id: 65515
+  status: summarized
+- name: Nyctophobia
+  bgg_id: 249505
+  status: summarized
+- name: 'Oath: Chronicles of Empire and Exile'
+  bgg_id: 291572
+  status: flagged
+  notes: Complex rules, too large to summarize in batch
+- name: 'Oathsworn: Into the Deepwood'
+  bgg_id: 251661
+  status: flagged
+  notes: Google Drive auth required for download
+- name: "Ob\xE9lix contre Hattack"
+  bgg_id: 42795
+  status: not_found
+  notes: French-language only
+- name: Obridjie
+  bgg_id: 39610
+  status: not_found
+  notes: Extremely obscure, no info found
+- name: Obsession
+  bgg_id: 12568
+  status: summarized
+- name: Occhio!
+  bgg_id: 26507
+  status: not_found
+  notes: Obscure, no PDF found
+- name: Ocean Trader
+  bgg_id: 14196
+  status: not_found
+  notes: 1988 game, no PDF found
+- name: Oceania
+  bgg_id: 14017
+  status: not_found
+  notes: Obscure, no PDF found
+- name: Oceans
+  bgg_id: 232414
+  status: summarized
+- name: Octi
+  bgg_id: 450
+  status: summarized
+- name: Octoverso
+  bgg_id: 94625
+  status: not_found
+  notes: Obscure word game
+- name: Odin's Ravens
+  bgg_id: 4396
+  status: summarized
+- name: Odysseus
+  bgg_id: 1378
+  status: summarized
+- name: Ogre
+  bgg_id: 5206
+  status: summarized
+- name: Oh ! les nains
+  bgg_id: 3435
+  status: not_found
+  notes: French-language only
+- name: Oh-Wah-Ree
+  bgg_id: 1970
+  status: not_found
+  notes: 1962 game, no PDF found
+- name: Okey
+  bgg_id: 29146
+  status: not_found
+  notes: Traditional game, rules on web but no PDF

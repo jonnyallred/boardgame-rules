@@ -1,0 +1,2408 @@
+Game Design by Steve Jackson
+Ogre Line Editor: Daniel Jew
+Chief Operating Officer and Print Buyer: Phil Reed
+Rulebook graphic design by Richard Meaden • Box graphic design by Alex Fernandez
+Original Ogre image created by Winchell Chung
+Map graphics by Alex Fernandez, Gabby Ruenes, and Ben Williams, based on original paintings by Denis Loubet
+Rules illustrated by Winchell Chung, Richard Meaden, Brandon Moore, Alvin Helms, Cundo Rabaudi, and John Zeleznik
+3-D units created by Richard Kerr, Paul Chapman, Will Schoonover, Gabby Ruenes, Ben Williams, and Sam Mitschke
+Counter art by Gabby Ruenes, Ben Williams, Alex Fernandez, Alvin Helms, J. Kira Hamilton, Marc Beaudette, Matt Doughty, and Alex Kosarek
+Counter design by Phil Reed and Gabby Ruenes
+Production by Alex Fernandez, Alex Kosarek, Gabby Ruenes, and Ben Williams
+Production Manager: Sam Mitschke • Production Assistant: Bridget Westerman • Insert tray design by Sam Mitschke
+2009-2011 Development: Fox Barrett, Randy Scheunemann, and Will Schoonover
+Prepress and Proofing: Monica Stephens • Videography: Sam Mitschke, Phil Reed, and Alex Kosarek • Photography: Alex Kosarek
+Ogre Theme: Tom Smith • Speakers-to-Kickstarter: Fox Barrett and Brandon McClelland • Director of Sales: Ross Jepson
+Rulebook/Scenario Book Art Sponsors: Brett Bozeman, Ian Finn, Keith Holkins, Dan Massey, and Magnus Karlsson
+Extra Counter Sheet Sponsors: Robert Gurskey, Thomas Heysek, Michael Johnston, 
+and over 100 Black Rose Mercenary supporters organized by Daniel Jew and Chris Tham
+Copyright © 1977-2013 by Steve Jackson Games Incorporated. Ogre, the distinctive likeness of the Ogre, and the all-seeing 
+pyramid are registered trademarks of Steve Jackson Games Incorporated. All rights reserved. Rules version 6.0 (April 2013).
+This edition of Ogre includes the rules and map originally released as G.E.V., plus 
+some material first introduced in the supplements Shockwave, Battlefields, and Ogre 
+Reinforcement Pack.
+If you first enjoyed these games 20 or 30 years ago . . . I’m glad to see you back. If 
+they’re new to you, welcome to the world of Ogre!
+This edition has been completely revised and reorganized. We have retained the 
+case numbering system, medieval though it is, because it makes cross-referencing so 
+easy. This rulebook is also available as a searchable PDF. (See ogre.sjgames.com for 
+this and other support material.)
+Ogre was the first game I designed; it was released in 1977. Now, 36 years later, the 
+6th Edition is intended to be the definitive Ogre/G.E.V. set. I don’t expect that it will 
+ever be reprinted. This isn’t the kind of thing you can repeat. But I wanted to do this, 
+and a lot of you have told me you wanted to see it. I hope you enjoy it.
+– Steve Jackson
+NOTES ON THE SIXTH EDITION
+The cover of the first (1977) edition 
+of Ogre, drawn by Winchell Chung. 
+The game came in a sandwich bag 
+and cost $2.95. Both the map and 
+counters were black and white.
+STEVE JACKSON GAMES
+VE JACKSON GA
+ogre.sjgames.com
+G
+i
+b S
+J
+k
+®
+
+GAME COMPONENTS
+ 
+►Read This First sheet. We hope you read that first.
+ 
+►Rulebook. You’re reading it.
+ 
+►Scenario book. Lots of scenarios for one or more maps.
+ 
+►Reference sheets. Two sheets, one for each player, with the most important charts 
+and tables.
+ 
+►Counters. The red units represent the North American Combine; the blue units 
+represent the Paneuropean Federation. Other colors, sponsored by various 
+supporters, provide “third force” units. The Ogre counters are in several different 
+colors to make it easier to tell them apart in a multi-Ogre scenario. 
+ 
+►3-D Counters. Constructible miniatures for Ogres, Command Posts, and large 
+buildings. Assembly directions are on the Read This First sheet. The 3-D counters 
+can be disassembled again, but we suggest you leave them set up.
+ 
+►Counter Tray (the Ogre Garage) to hold 3-D counters. Note: We recommend always 
+keeping this on top when you store the game!
+ 
+►Maps. There are five different maps in this set, each in two pieces. The orange map 
+is for the original Ogre scenarios. The four green G.E.V. maps (so called because 
+they first appeared in G.E.V. and its supplements) are geomorphic and can be 
+combined to create even larger gameboards.
+ 
+►Map overlays. These are die-cut pieces which can be used to change the map terrain.
+ 
+►Ogre Record Sheets. These are used to record damage to the Ogres. They are 
+laminated, and can be used with many sorts of erasable marker, but always test 
+on the edge of the sheet before you start checking off the boxes. You may prefer to 
+copy them (or download the free PDF from ogre.sjgames.com).
+ 
+►Two custom six-sided dice. Which, thanks to Kickstarter support, are 19mm and 
+acrylic!
+1 – Introduction and 
+ 
+Starting Scenarios ...4
+2 – Maps ......................5
+3 – Units ......................6
+4 – Turn Sequencing ...10
+5 – Movement .............11
+6 – Ramming .............13
+7 – Combat .................14
+8 – Overrun Combat ....18
+9 – The Train ..............19
+10 – Cruise Missiles ....20
+11 – Buildings ............22
+12 – Lasers ................22
+13 – Optional Rules .....23
+ACKNOWLEDGEMENTS
+The designer would like to acknowledge 
+the following sources of inspiration and/or 
+data: Keith Laumer’s “Bolo” series, Colin Kapp’s 
+“Gottlos,” Robert Heinlein’s Starship Troopers, Joe 
+Haldeman’s The Forever War, and Tanks, by Armin 
+Halle and Carlo Demand.
+Original Ogre playtesters: Howard Thompson, 
+Elton Fewell, Ben Ostrander, Robert Taylor, Mark 
+Huffman, Frank Blazek, Stewart Norris, Nick 
+Schuessler, Susan Tunnell, and many others.
+Original G.E.V. playtesters: Elton Fewell, Ben 
+Ostrander, Robert Taylor, Howard Thompson, 
+Joe Vail, and Bill Williams, as well as blindtesters 
+Alexander Epstein, Ron Fisher, Robert A. Mitchell, 
+Lorent West, Dave Mohr, Mike Easterday, Steve 
+Wijinberg, Richard Barnhart, Gary Huska, Ben 
+V. Kloepper, Roger Cooper, Dusty R. Brown, Jim 
+Behringer, and Steve Rabin.
+Original 
+Shockwave 
+playtesters: 
+Warren 
+Spector, Allen Varney, Jim Gould, Keith E. Carter, 
+Graham Chaffee, Dave Grenfell, David Dunham, 
+Chris Frink, Rob McCarter, Lawrence Person, Creede 
+Lambard, David Noel, and Geff Underwood. Special 
+thanks to Craig York for his suggestions.
+Original Ogre Reinforcement Pack playtesters: 
+Stephen Beeman, Heath Culp, Ben Ellinger, Bob 
+Faulkner, Scott Haring, Bing Hsu, Bob Marrinan, 
+Michael Moe, Ray Morriss, Lee Nichols, John Phelps, 
+Tim Robinson, Ian Straus, Gale Turner, Mike Vragel, 
+Jon Wolfe, and Neil Woodward.
+Original Battlefields playtesters: Henry Cobb, 
+Paul Grogan, Ben Kimball, Richard Meaden, Phil 
+Reed, Jonathan Woodward, and the members of the 
+Ogre Mailing List.
+Valuable rules-checking assistance came from 
+many supporters on the Kickstarter list, with special 
+thanks to Daniel Jew, Joshua Megerman, Kevin 
+Roust, David Rock, Jeff Vandine, and David Walend. 
+Thanks also go to the many gamers whose 
+constructive criticism of early editions made later 
+ones possible – and much better. They included 
+Keith Gross, Robert Schultz, Kenneth Schultz, 
+A. Mark Ratner, J. Richard Jarvinen, Lawrence 
+Duffield, Tracy Harms, Henry Cobb, Greg Costikyan, 
+Ron Manns, Steve Perrin, Mark Schulzinger, Ben 
+V. Kloepper, Gregory F. Hogg, Ronald Artigues, 
+Jim Behringer, Steve Rabin, Edward A. Villareal, 
+Mark Marmor, Robert A. Mitchell, Gary M. Huska, 
+Alexander M. Epstein, Ron Fisher, Jay S. Michael, 
+and many, many others.
+Thanks to an amazingly successful 
+Kickstarter project (www.kickstarter.com), 
+we were able to print more than three times 
+as many copies of this edition as originally 
+planned. Supporters pledged $923,680 in 
+advance orders, shattering the record for 
+boardgaming support on Kickstarter. This 
+made it possible to print four single-sided 
+G.E.V. maps instead of two double-sided 
+ones, to add the blueprint poster, to create 
+the free recordkeeping app (apps.sjgames.
+com), and to add many more counters. Five 
+supporters pledged $3,000 each to sponsor 
+sheets of counters that otherwise would not 
+have been in the set! Several special counter 
+sheets have been sponsored by individuals 
+or companies who will offer them for sale 
+as mini-supplements. And thanks to stretch 
+goals made during the Kickstarter campaign, 
+we have committed to release a supplement, 
+re-release the miniatures, make a computer 
+game happen, and more.
+If your game box has a special seal, 
+you have the Kickstarter edition, which 
+includes six exclusive sheets of counters, 
+including some units that were only added 
+as Kickstarter stretch goals, such as the 
+Vulcan, the Combat Engineers, and the 
+Heavy Weapons Teams. See ogre.sjgames.
+com for rules for these units, which must be 
+considered preliminary until they are shaken 
+out by use . . .
+Our supporters at $100 and above are 
+listed on the box. Thank you all!
+RULES SECTIONS
+
+Technology governs strategy. The tank-type vehicle, written off 
+by many at the end of the 20th century, ruled the battlefields of the 
+21st.
+Several factors led to the reappearance of mechanized warfare. 
+The first, of course, was the development of biphase carbide (BPC) 
+armor. Stronger than any steel, it was also so light that even an air-
+cushion vehicle could carry several centimeters of protection. The 
+equivalent of a ton of TNT was needed to breach even this much BPC 
+armor – which meant that, in practice, nothing less than a tactical 
+nuclear device was likely to be effective.
+Infantry, which had for a time eclipsed the tank, declined in 
+importance. Although an infantryman could carry and direct a 
+tactical nuclear missile, he had to be extensively (and expensively) 
+protected to survive the nuclear battlefield. Thus, the “powered 
+suit” was developed. Four cm of BPC, jet-equipped, it could guard 
+a man for about a week (in increasing discomfort) from shrapnel, 
+background radiation, and biochem agents. However, the cost of 
+equipping infantry reduced their value. They were still more flexible 
+and maneuverable than armor, and now they were almost as fast – 
+but they were no longer cheaper.
+Long-range nuclear missiles, which had been expected to make 
+a mockery of “conventional” operations, likewise declined in value 
+as jamming technology and laser countermeasures improved. 
+Without satellite guidance, no missile could hit a less-than-city-
+sized target at more than 30 km . . . and no combatant could keep 
+a spy satellite operational for over an hour. Missiles big enough to 
+carry jam-proof guidance systems were sitting ducks for the big 
+laser batteries – for, although lasers had proved too temperamental 
+and fragile for battlefield use, they were fine as permanent AA 
+units, defending rear areas.
+Thus, the tank-type vehicle – fast, heavily armed and armored, 
+able to break through enemy positions and exploit disorganization 
+– returned to wide use. And, once again, planners fretted over 
+priorities. More guns? More armor? More speed? Increase one, and 
+lose on the others? Increase all, and build fewer units?
+Some interesting compromises appeared. The 21st-century 
+infantryman, especially with the later “heavy powered suit,” was 
+a tank in his own right, at least by 20th-century standards. The 
+armed hovercraft or ground effect vehicle (GEV), equipped with 
+multileaf spring skirts for broken ground, could make 150 km/h on 
+any decent terrain, and nearly 200 on desert or water. Conventional 
+tanks were slower but tougher. All fired tactical nuclear shells.
+The ultimate development of the tank-type weapon, though, 
+was the cybernetic attack vehicle. The original tanks had terrorized 
+unsophisticated infantry. The cybertanks terrorized everyone,
+and with good reason. They were bigger (up to 30 meters), faster 
+(hovercraft models proved too vulnerable, but atomic-powered 
+treads moved standard units at 90 km/h or better), and more heavily 
+armed (some had firepower equal to an armor company). And two 
+to three meters of BPC armor made them nearly unstoppable. What 
+made the cybertank horrifying, though, was its literal inhumanity. 
+No crew was carried; each unit was wholly computer-controlled. 
+Although true artificial intelligence had existed (in deep secrecy) 
+as early as 2010, and fully autonomous factories and military 
+installations were in wide use by the middle of the century, the 
+cybertanks were the earliest independent mobile units – the first 
+true “robots.”
+Once the first cybertanks had proved their worth, development 
+was rapid. The great war machines aroused a terrified sort of 
+fascination. Human warriors devoutly hoped never to confront 
+them, and preferred to keep a respectful distance – like several 
+kilometers – even from friendly ones. They were just too big.
+One fact, more than anything, shows the troops’ attitude toward 
+the cybertank. Unlike other war vehicles, they were never called 
+“she.” Friendly units of the speaker’s acquaintance were “he”; 
+others were “it.” And the term “cybertank” was rarely used. People 
+had another name for the big war machines – one drawn from the 
+early Combine units and, before that, from dark myth.
+They called them Ogres . . .
+
+In its basic version, Ogre is a two-player game representing 
+an attack by a cybernetic fighting unit – the Ogre – on a strategic 
+command post guarded by an armor battalion. Playing time is 
+between 30 minutes and 1 hour. Other scenarios (see the Scenario 
+Book) may involve the larger (G.E.V.) maps, more types of units, 
+and/or several Ogres, and may take as long as desired.
+1.01 Learning. Before playing for the first time, skim Sections 
+1 through 7 to get the feel of the game. Those are the only rules used 
+for these starting scenarios. “Ramming” rules are used. Only one unit 
+can occupy each hex except during ramming. Then set up the map 
+and counters for the Mark III Attack (below) and begin play.
+You can download a “quick start” version of the rules, with 
+only the relevant parts of Sections 1-7, from ogre.sjgames.com/
+quickstart.
+1.02 Objectives. Each scenario gives its own conditions for 
+ending the game, and objectives for each player. Unless specified 
+otherwise, a scenario continues until one force is entirely gone 
+from the map, through destruction, withdrawal, or both.
+1.03 Solo play. Because relatively few units are involved, the 
+scenarios in this section are good for solo play – that is, one person 
+can play both sides. Try different tactics. For example, “program” 
+the Ogre to charge straight in, and reduce the size of the defensive 
+forces for balance. Alternatively, commit the defense to fairly static 
+positions and make hit-and-run attacks with the Ogre, in which case 
+the defensive forces should be much larger. On the G.E.V. maps, the 
+Breakthrough and Raid scenarios are good for solitaire play.
+1.04 Play balance. Most players find Ogre tactics are easier to 
+learn than defense tactics. The balance on the starting scenarios 
+takes this into account. In particular, the Mark III Attack scenario 
+assumes that both players are new to the game. If both players are 
+experienced, the defender will usually win with the forces given; 
+removing two armor units will make the Mark III scenario about 
+even for experienced players.
+In a perfect setup, victory should go to the more skillful player, 
+regardless of who takes which side. By adjusting the number of 
+defending armor units, it is easy to handicap the game to make up 
+for different levels of experience. In a tournament, it is suggested 
+that every round consist of two games, with each player attacking 
+once and defending once.
+1.05 Unit choice. While learning, things will move faster if 
+the defense uses only infantry and the 
+four types of armor units in the original 
+game: Heavy Tank, Missile Tank, GEV, 
+and (at double cost) Howitzer. 
+MARK III ATTACK
+This represents an Ogre attack on 
+a heavily guarded command post. Use 
+the original Ogre map, which is orange. 
+The defense sets up first. The defending 
+player gets 20 squads of infantry (that 
+is, infantry counters totaling 20 points 
+of attack strength, in any combination 
+of counters), and 12 armor units. Note: 
+Light Tanks and Light GEVs count as 
+only half an armor unit. Howitzers, 
+Mobile Howitzers, and Superheavies 
+cost double. No Cruise Missiles allowed!
+There are four gray arrows on the 
+edges of the Ogre map. They define two 
+lines which divide the map into North, 
+Central, and South areas. Hexes on a 
+line are considered north of that line.
+The area between the lines is the 
+Central Area. No more than 20 attack 
+strength points (see p. 7, first counter 
+diagram) may be set up in this area.
+The rest of the defending force 
+must be set up in the North Area, which 
+comprises all hexes on or north of the 
+north line.
+No defenders may set up in the South 
+Area (that is, in any hex whose number 
+ends in 17 or higher). 
+SCENARIOS
+SCENARIOS
+SCENARIOS 1.00
+DEFENSIVE SETUP
+This is an example of a reasonably good defensive setup for the basic scenario. 
+This is an example to be used while learning the game, NOT the only legal setup!
+
+This set has five map boards, each in two sections. Maps are 
+divided into hexagons, or “hexes.” Each hex represents an area 
+1,500 meters across. Hexes are numbered to aid in scenario setup.
+The original Ogre map (orange) represents devastated, cratered 
+terrain, and gives smaller, faster games. The green maps are the 
+“G.E.V.” maps, because they were originally released with the game 
+of that name. They show undamaged terrain with towns and forests. 
+The G.E.V. maps in this set are designated G1, G2, S1, and S2.
+2.00.1 Geomorphing maps. Any S map may be connected to 
+any side of any G map. A board of any 
+size may be assembled by alternating 
+G and S maps. When multiple maps are 
+used, a hex is designated by the map 
+number and then the hex number – for 
+instance, G2-1401.
+2.00.2 Partial hexes. To allow 
+the G and S maps to geomorph, the 
+maps are cut down the middle of rows 
+of hexes. Hexes that fall between 
+maps will contain two 
+numbers (four at the 
+corners!). Such hexes 
+can be referred to by 
+either number. Hexes 
+that fall between maps 
+are still considered 
+a single hex, and a 
+partial hex at the edge 
+of the map is treated 
+as a full hex for all 
+purposes. 
+2.00.3 Map overlays. These pieces may be placed on top of 
+the map to change terrain. Overlays are two-sided. They range in 
+size from multi-hex pieces to small ovals that change a single map 
+hexside. Overlays may be placed at the start of a scenario, or used 
+to represent damage (craters, bridge out, rubbled towns, and so on) 
+during play.
+Overlays, especially small or thin ones, can move accidentally. 
+A small amount of poster putty or rubber cement can be used to 
+hold an overlay in place. Peel it off carefully after the game.
+2.01 Terrain types. Each map hex has a single basic terrain 
+type, which governs entry into (and sometimes exit from) the hex, 
+and may give bonuses to defense. The edges of hexes often depict 
+bits of adjoining terrain types, but this is only to make the map look 
+more realistic; these small overlaps have no effect on play. Details 
+of terrain effects on movement and combat are found in Sections 5 
+and 7, respectively.
+The Player Reference Sheets include terrain effect charts.
+2.01.1 Clear terrain. Light green hexes (on 
+the G.E.V. maps) and orange-brown hexes (on 
+the original Ogre map) represent “clear” areas. All 
+units have their normal movement and combat 
+abilities in clear terrain.
+2.01.2 Craters. Hexes containing craters 
+are impassable. No unit may move into or over a 
+crater. Units may fire over craters. 
+The small cracks around craters 
+do not affect movement.
+Crater overlays may be added to the map. They 
+have the same effect as printed craters. A crater is 
+immediately placed on the map in any non-water 
+hex where a Cruise Missile strikes (see Section 10, 
+below).
+2.00
+No units may start in, or enter, a crater hex.
+The Command Post may be placed anywhere, but the farther 
+north it is, the safer it is!
+The attacking player takes a single Ogre Mark III and moves 
+first, entering anywhere on the south end of the map. It spends one 
+movement point to enter its starting hex.
+Victory conditions are as follows:
+ 
+►All defending units destroyed: complete Ogre victory.
+ 
+►Command post destroyed and Ogre escapes from the south end of 
+the map: Ogre victory.
+ 
+►Command post and Ogre destroyed: marginal Ogre victory.
+ 
+►Command post survives, but Ogre escapes: marginal defense 
+victory.
+ 
+►Command post survives, Ogre destroyed: defense victory.
+ 
+►Command post and at least 30 points of attack strength survive, 
+Ogre destroyed: complete defense victory.
+MARK V ATTACK
+Play is identical to Mark III Attack, except:
+ 
+►The defense gets 30 squads of infantry (e.g., ten 3-squad 
+counters) and 20 armor units.
+ 
+►No more than 40 points of attack strength may set up in the 
+Central Area.
+ 
+►The attacking Ogre is a Mark V.
+ 
+►For a complete victory, the defender must destroy the Ogre 
+while preserving his CP and at least 50 points of attack strength.
+The quarter hex counts 
+as one full hex
+The half hex counts 
+as one full hex
+Ridge Overlays
+
+2.01.3 Towns. Urban areas, which slow all units 
+except infantry and protect all units.
+2.01.4 Forests. Wooded areas, which slow the 
+movement of armor units and protect infantry.
+2.01.5 Swamps. Marshy wooded areas, which 
+drastically reduce armor movement and protect 
+infantry.
+2.01.6 Water. River or lake areas. Water hexes are 
+impassable to all units except infantry, GEV-type 
+units, Ogres, and Superheavy Tanks.
+2.01.7 Damaged town and forest. Hexes showing 
+town and forest with scattered fires are provided 
+as overlays. If a town or forest hex is damaged 
+(see Section 13.01), it is replaced by one of these 
+overlays, which cuts roads and railroads but has no 
+other effect.
+2.01.8 Rubble. The “damaged” overlays are backed 
+by “rubble.” If a town or forest hex is destroyed 
+(see 13.01), it is replaced by rubble, which most 
+units treat as swamp.
+2.01.9 Beach. A beach hex is a clear hex which 
+borders a water hex, and includes at least one 
+hexside which is hard, flat, and gently sloped from 
+water to land. These “beach hexsides” are shown in 
+tan. Beach hexes appear only on overlays, for use 
+in scenarios.
+Beach is treated as ordinary clear terrain for all purposes. 
+Exception: GEVs may move through a beach hexside from land to 
+water, or vice versa, without ending the turn at the edge of the 
+water. If a road or railroad passes through the beach hex, a GEV may 
+move from road/RR to water or vice versa and get a road bonus for 
+that phase, if and only if it passes through the beach hexside.
+2.02 Hexside terrain. Some terrain features are drawn along 
+the sides of hexes. These affect movement between hexes, but do 
+not affect units in the adjoining hexes.
+2.02.1 Ridge hexsides. Heavy black markings 
+along hexsides indicate ridges of loose debris that 
+block movement. Only Ogres, Superheavy Tanks, 
+and infantry may cross ridge hexsides. Units may 
+fire over ridges.
+2.02.2 Stream hexsides. Wavy blue lines along 
+hexsides represent streams. Streams delay the 
+movement of most armor units, but do not affect 
+fire.
+2.03 Roads and railroads. These features always run through 
+the center of hexes. They do not change the underlying terrain 
+type, but units on the road/railroad ignore all movement penalties 
+for terrain.
+2.03.1 Roads. Hexes containing a gray line with a 
+dashed yellow center are road hexes. Units which 
+enter a hex on the road may ignore any movement 
+penalties for the underlying terrain. A unit which 
+stays on the road for its entire movement phase 
+gets a “road bonus” to movement (see Section 
+5.07.1). Roads do not affect combat.
+If a road leads straight into a water hex, it is a GEV ramp, 
+specifically made to allow GEVs to move between land and water 
+without losing the road bonus.
+2.03.2 Railroads. Hexes containing track marks 
+are rail hexes, used by trains (see Section 9). GEVs 
+and infantry treat railroads as roads.
+2.03.3 Bridges. A bridge image 
+indicates a place where a road or 
+railroad crosses a stream or river. 
+Bridges may be destroyed (see 
+Section 13.02), cutting the road 
+or railroad. 
+Indicate this by placing a “Bridge Out” overlay. 
+Note that any unit can cross a railroad bridge.
+3.00
+Red counters on black represent the forces of the North 
+American Combine. Blue counters on white are forces of the 
+Paneuropean Federation. The green units on white represent the 
+“Black Rose” mercenary company. Other sponsored counter sets 
+are various colors and may be treated as separate commands, as 
+mercenaries, or as any other force a scenario calls for.
+Ogres are painted whatever color they like. Some Ogres in this 
+set are painted to match factions; others are unique.
+The Combine counter mix leans toward offense, with more tanks 
+and GEVs, and the Paneuropean force has more defensive Howitzers 
+and more “target” units like Trucks. However, unless a scenario 
+specifically limits availability of a unit type, players may build 
+Stream Bridge
+River Bridge
+
+whatever forces they like, using substitute counters, miniatures, 
+and so on, as required.
+There are two types of unit counters:
+2-D (flat) counters represent most units. Each counter carries 
+an image, a name, and the unit’s stats. The reverse side of an armor 
+counter shows that unit in a disabled state. Infantry counters have 
+different unit sizes on front and back. 2-D Ogre counters simply 
+have different colors on the front and back.
+3-D counters are provided for Ogres, Command Posts, Laser 
+Turrets, Laser Towers, and assorted buildings. The 3-D effect makes 
+these key units easier to spot on the board, but has no effect on the 
+game stats.
+3.01 Armor units. Each of these counters is a single manned 
+gun or vehicle. It has four stats which give its capabilities: attack 
+strength and range (see Section 7.02), defense strength (see 
+Section 7.03), and movement points. Most units have a single 
+number for movement (see Section 5.01). GEV units have two 
+numbers separated by a dash (see Section 5.05) because they may 
+move twice per turn.
+In scenarios which define units in terms of “victory points,” one 
+standard armor unit is worth 6 VP, a half unit is 3 VP, and so on.
+Heavy Tank (HVY). A Main Battle Tank, with a good balance of 
+offense, defense, and speed.
+Missile Tank (MSL). A lightly armored tracked missile launcher.
+Light Tank (LT). A lightly armored scout-type tank. Because 
+this is an inexpensive vehicle, a Light Tank counts as only half an 
+armor unit in scenario setups.
+Superheavy Tank (SHVY). A heavy tracked vehicle mounting 
+twin weapons . . . a “tank destroyer.” It is affected by terrain 
+as though it were an Ogre! When a player chooses units at the 
+beginning of a scenario, each Superheavy is worth two armor units.
+The Superheavy has two main guns. Its total attack strength is 
+6, but it may divide this into two attacks of 3 each (The * on the 
+counter indicates this split attack ability – see 7.02.) But, unlike 
+an Ogre, the Superheavy may not lose one gun and continue to 
+function. When it is hit, it is disabled or destroyed as a unit.
+The Superheavy also has two antipersonnel weapons. These 
+function exactly like Ogre AP weapons (see Section 7.05.1). Like 
+Ogre AP, they are doubled in an overrun attack.
+Optional rule 13.07 allows Superheavies to take partial damage, 
+using Ogre-style record sheets.
+Howitzer (HWZ). A non-self-propelled heavy missile cannon. 
+Because this is an expensive unit, a player must count each 
+Howitzer as two armor units in scenario setup.
+Mobile Howitzer (MHWZ). A missile cannon mounted on 
+a tracked chassis. It is also an expensive unit, and counts as two 
+armor units in scenario setup.
+Ground Effect Vehicle (GEV). A highly mobile hovercraft, 
+lightly armed and armored. GEVs may move twice per turn. Terrain 
+affects GEVs differently from other units; in particular, they can 
+cross water.
+Light GEV (LGEV). A lightly armed one-man hovercraft. It uses 
+GEV movement and terrain rules.
+When a player chooses units at the beginning of a scenario, each 
+LGEV is worth half an armor unit.
+GEV-PC. A hovercraft personnel carrier. It uses GEV movement 
+and terrain rules. 
+A GEV-PC can carry up to three squads of infantry. See Section 
+5.11 for movement and combat rules used when infantry ride 
+vehicles.
+Defense
+strength
+Movement
+points
+range
+attack
+strength
+unit name
+
+Missile Crawler (MCRL). A heavy tracked vehicle carrying a 
+Cruise Missile (see Section 10). It has no attack strength of its own; 
+it attacks by firing the missile. It is affected by terrain as though it 
+were a Heavy Tank. When a player chooses units at the beginning of 
+a scenario, each Missile Crawler is worth three armor units.
+Crawler (CRL). A Missile Crawler that has fired its missile. 
+It is affected by terrain as though it were a Heavy Tank. Crawlers 
+cannot be chosen in the initial setup; when a Missile Crawler fires its 
+missile, it is replaced by a Crawler, which can do no further damage, 
+but is worth victory points to the enemy if destroyed.
+3.02 Infantry (INF). Infantry wear powered “battlesuits” which 
+greatly increase their mobility and provide some radiation and 
+shrapnel protection. The scenario setups refer to infantry in terms 
+of “squads.” Each squad is 1 attack strength point, so a 3/1 infantry 
+counter represents three squads. Infantry counters are 2/1 on one 
+side, and either 1/1 or 3/1 on the other, for ease in splitting or 
+recombining squads.
+A 3-squad counter is the equivalent of one armor unit for both 
+stacking and victory points. In the starting scenarios, no more than 
+three squads of infantry (a 3/1 counter) can occupy one hex.
+Note that the defense strength of each infantry counter is equal 
+to the number of squads. Safety in numbers!
+Most infantry are “regular” INF units. Specialist infantry, as 
+described below, have extra cost and capabilities but otherwise 
+perform as regular infantry.
+All types of infantry can combine in groups of up to three squads 
+for defensive purposes. Any two squads can defend together at D2, 
+and any three squads can defend at D3. If an attacker gets a D result 
+against a mixed stack of infantry, roll randomly to see which squad 
+is lost.
+3.02.1 Marine Battlesuits (MAR). Marines are treated for all 
+purposes like regular infantry, except that they move and attack 
+equally well on land and water, and have double defense in water 
+hexes.
+When a player chooses units 
+at the beginning of a scenario, 
+he may trade regular infantry 
+for Marines at a 2 to 1 ratio; for 
+instance, 20 regular infantry 
+could be traded for 10 Marines.
+3.02.2 Heavy Weapons Teams (HWT). Specialist battlesuit 
+squads, with rules to be added as an online bonus.
+3.02.3 Combat Engineers (CENG). Specialist battlesuit 
+squads, with rules to be added as an online bonus.
+3.03 Transport Units. These have no combat strength, and are 
+only available if specified in a scenario. Cost also depends on the 
+scenario. In game terms, they are usually just targets.
+Truck (TK). A large truck, unarmed and nearly unarmored. It 
+has no attack strength, and a defense strength of 0 – if attacked, 
+it is automatically destroyed. In a town hex, and/or undergoing a 
+spillover attack, has a defense strength of 1. It can carry two squads 
+of infantry.
+As a wheeled vehicle, it has its own set of terrain effects. See 
+5.08.5.
+Hovertruck (HT). A cargo-carrying hovercraft. It uses GEV 
+movement and terrain rules. It can carry two squads of infantry.
+Train. The train is described in Section 9. A train is two hexes 
+long, and is made up of two counters. A separate marker is used to 
+show its speed. The train moves only on the railroad tracks.
+3.04 Ogres. There are several types of Ogre. Each counter 
+represents a single cybernetic fighting machine, equipped with 
+guns, missiles, antipersonnel weapons, and heavy armor. See the 
+box for more about the different Ogres.
+Most Ogre counters are two hexes long. Always treat the Ogre as 
+occupying only the front hex of its counter or miniature.
+3.04.1 Ogre Record 
+Sheets. The capabilities of 
+the Ogres are not shown on 
+the counters. They change 
+throughout the game as the 
+Ogre is damaged. Keep track of 
+damage with the Ogre Record 
+Sheets (see p. 17). You may 
+copy these sheets freely or 
+download blank record sheets 
+from ogre.sjgames.com.
+3.04.2 Ogre components. Each Ogre has some combination of 
+these components:
+ 
+►Main Battery (MB). A large railgun firing tactical nuclear shells.
+ 
+►Secondary Battery (2B). A lighter railgun.
+ 
+►Antipersonnel (AP). A variety of weapons effective only against 
+battlesuit armor and thin-skinned (zero defense) targets.
+ 
+►Missile (M). A tactical nuclear missile. Once fired, it is expended 
+and marked off the Ogre’s record sheet. Most missiles are 
+mounted externally, and can be attacked before they are fired. 
+However, some Ogres mount the . . .
+ 
+►Missile Rack (MR). Each missile rack can fire one internal
+missile (see below) per turn. Its missiles are stored inside 
+
+the Ogre and can only be fired through a missile rack. So, for 
+instance, an undamaged Mark IV, which has three missile racks, 
+can fire three missiles per turn.
+ 
+►Internal Missiles (IM). These are fired by a missile rack. They 
+have no defense strength; they cannot be targeted while inside 
+the Ogre. Destruction of a missile rack destroys one IM at the 
+same time; this is the only way internal missiles can be destroyed 
+before firing. If all missile racks are destroyed, remaining IM do 
+not count as destroyed, but cannot be fired.
+ 
+►Tread Units. This represents the integrity of the Ogre’s treads 
+and motors. Loss of tread units slows the Ogre as shown on the 
+record sheet. For instance, when a Mark V is reduced to 40 tread 
+units, its movement is reduced from 3 to 2. When the Ogre’s 
+tread units are all gone, the Ogre can no longer move at all. It 
+can still fire at anything within range.
+The Ogre does not expend tread units simply by moving.
+3.05 Command Post (CP). “Command post” units represent 
+small, unarmored structures. In most scenarios, they are simply 
+targets. A basic CP has a defense of 0, and will be destroyed by 
+any attack. (In a town hex, count a standard CP’s defense as 1.) 
+CPs have no attack strength except when overrun; then they have 
+a strength of 1.
+Unless specified otherwise in a scenario, loss of a CP does not 
+affect a player’s ability to fight. 
+In some scenarios, CPs may be tougher:
+3.05.1 Mobile CP (MCP). A tracked “command crawler” with a 
+movement of M1. It may be able to flee from a weakened Ogre . . . if 
+it has anywhere to go. It may be D0 or greater (see below). This set 
+includes 3-D counters for mobile CPs.
+3.05.2 Hardened CP (HCP). Giving the CP any defense at all 
+makes the Ogre’s mission harder! A scenario may give a regular or 
+mobile CP a defense strength of up to 3. A D result has no effect on 
+a hardened CP except to keep it from moving for a turn if it is also 
+mobile, but a second D before it recovers will destroy it.
+The defense strength of a hardened CP is doubled in town or 
+forest.
+3.06 Buildings. These are large, permanent buildings, as 
+opposed to the flimsy Command Posts. Each building has an SP 
+(Structure Point) value, representing its durability. See Section 11 
+for combat rules.
+A number of 3-D miniatures are included for various buildings.
+2-D building counters are also provided for “fog of war” 
+scenarios. The front of each counter gives its type; the back says 
+only “Building.” If these are used, an invading force may enter the 
+map without knowing which building is which. Once revealed, a 
+Ogre types playable in this game include:
+ 
+►Mark I. An oversized heavy tank controlled by a robot 
+brain instead of a crew. It was a proof-of-concept design, 
+and turned out to be hard to kill, but it was too expensive! 
+However, the Mark I remained in production as long as the 
+Combine lasted, simply because it was the only Ogre small 
+enough to be transported by conventional means. It was 
+effective in terrain where human troops didn’t perform well, 
+such as jungle and tundra.
+In 2080, the Paneuropeans fielded a physically near-identical 
+unit, calling it the Pikeman. It is assumed that the templates 
+were acquired by espionage.
+ 
+►Mark II. The first Ogre to be mass-produced by the Combine. 
+It worked well, but demand for still heavier armament soon 
+led to its replacement by the Mark III for most purposes. 
+However, the Mark II remained in limited production for 
+many years and was sold to client states.
+ 
+►Mark III. The first really capable line-of-battle Ogre, designed 
+by the Combine, but produced in quantity by Paneurope after 
+it captured the British facility that built them. They called 
+it the Legionnaire. The Mark III-B was a Combine-only 
+variant with a heavier chassis and two main batteries 
+instead of one.
+ 
+►Mark IV. A large but lightly built “raider” 
+unit – as expensive to build as a Mark V, 
+but faster and specialized for hit-and-run 
+attacks. It could demolish a Mark III, and 
+make a good showing against a Mark V – but 
+its real purpose was to penetrate an enemy 
+position, wreak long-range havoc with its 
+missiles, and withdraw.
+ 
+►Mark V. A very formidable all-around line-of-
+battle unit. This was the biggest cybertank to 
+be built in quantity. Paneurope also built large 
+numbers of Mark V units, calling them Huscarl, 
+after the occupation of Great Britain.
+ 
+►Mark VI. The biggest Ogre ever to go into regular production, 
+with three main batteries and three missile racks. 
+Comparatively few were built.
+ 
+►Fencer. The first original Paneuropean cybertank design. 
+It was no faster than a Mark V, but, with four missile racks, 
+was designed for a hit-and-run tactical role. Mounting only 
+two light railguns, it was weak in close-range combat; the 
+upgunned Fencer-B turret was an attempt to address this.
+ 
+►Doppelsoldner. The biggest Paneuropean cybertank, generally 
+comparable to a Mark VI.
+Record sheets for the Ogre Vulcan (an engineering 
+unit) and Ogre Ninja (a stealth cybertank) are 
+included with this box; the rules will appear as 
+an online bonus.
+A free Ogre app for iOS, Android, 
+and Windows Phone is available 
+through apps.sjgames.com. It 
+includes multiple Ogre records, 
+a combat calculator with die 
+roller, printable record sheet 
+PDFs, wallpapers, quick links to our Ogre pages, and more.
+PDFs, wallpapers, quick link
+A
+a
+i
+ks to
+PDFs, wallpapers, quick link
+y 
+of-
+to 
+rge 
+carl,
+t them. They called 
+a Combine-only 
+n batteries
+” 
+,
+►Doppelsoldner. Th
+comparable to a M
+Recor
+unit) a
+inclu
+an o
+
+building counter may be replaced by its 3-D equivalent. Otherwise, it 
+does not matter for play purposes whether a building is represented 
+by a 2-D or 3-D counter.
+Admin. A generic building which may represent an office, 
+laboratory, hardened communication site, etc. Admin buildings 
+have SP values of 10 to 30.
+Strongpoint. A very heavily armored bunker, command center, 
+or other fortification, with SP 60 or more.
+Reactor. A nuclear reactor, 
+with 60 SP. It is intended for 
+use as a very-high-value target. 
+Depending on the scenario, 
+destruction 
+of 
+the 
+reactor 
+might temporarily cut power, 
+giving the attacker a tactical 
+advantage . . . or pollute the 
+whole area.
+Only the Kickstarter edition 
+includes 3-D Reactor minis. 
+All sets include 2-D Reactor 
+counters.
+Laser. A heavy laser for use 
+against Cruise Missiles and Ogre 
+missiles, with 20 to 40 SP. See 
+Section 12.
+Laser Tower. A heavy laser 
+mounted in a tower, giving it 
+increased range; it has 20 SP. 
+See Section 12.
+3.06.1 Structure Point markers. These are round markers with 
+numbers from 10 to 60. When a building is used in a scenario, one 
+or more Structure Point markers are placed beside it to indicate its 
+strength.
+3.07 Status markers and overlays. 
+These show permanent changes to units 
+or terrain.
+ 
+►“Stuck” markers indicate that the unit 
+is stuck in swamp and cannot move. 
+See Section 5.08.3.
+ 
+►“Road Cut” markers, and “Bridge Out,” 
+rubble, and crater overlays are used 
+to indicate terrain damaged before a 
+scenario starts or during play.
+4.01 Turns. Ogre is played in turns. During his own turn, 
+a player may move any or all of his units, and fire with any or all 
+of them, as long as each unit fires only once (except in overrun 
+situations) and moves only once (twice for GEVs). 
+4.02 Phases of a turn. The turn sequence for each player in a 
+two-player game is:
+1. Recovery.
+(a) All the player’s units which were disabled before the 
+last enemy turn by ramming or enemy fire now recover 
+automatically. Turn the counters right-side-up. 
+(b) Roll one die for each of his units disabled by forest, rubble, 
+or swamp, regardless of how long it has been disabled, to 
+see if it recovers. On a roll of 1 to 4, the unit recovers and 
+is turned right-side-up. See 5.08.2, 5.08.4. 
+2. Movement phase. Any or all units may move up to their full 
+number of movement points (see Section 5). Units which 
+move into terrain that may disable them must stop! If any 
+unit(s) enter an enemy-occupied hex, creating a ram/overrun 
+situation, immediately:
+(a) roll to see whether any attacking units entering swamp/
+rubble, or attacking GEVs entering swamp/rubble/forest, 
+are disabled;
+(b) resolve the ram/overrun attack and move surviving units 
+(if any) the remainder of their movement.
+3. Disable check. Roll for each armor unit which entered swamp or 
+rubble, and each GEV which entered swamp/rubble/forest, to 
+check whether it is disabled. Units which rolled for disabling in 
+step 2 do not roll again.
+4. Fire phase. All units which are not disabled may fire (see Section 
+7). Units which made an overrun attack may fire in the fire 
+phase as well.
+5. Second (GEV) movement phase. Move any or all GEVs 
+again, except for those which are disabled or those which 
+entered town or swamp/rubble/forest on the first movement 
+phase. Resolve any ram/overrun attacks. Roll for disabling on 
+each GEV which entered swamp/rubble/forest on its second 
+movement phase.
+It is now the other player’s turn.
+Notes:
+ 
+►It is necessary to keep track of when and how a 
+unit becomes disabled. Disabled units are flipped 
+over. Normally, there will not be enough disabled 
+units on the board at one time to create difficulty.
+ 
+►A ramming or overrun attack always takes place immediately, 
+interrupting the movement phase, when one or more units 
+enter an enemy-occupied hex. The movement phase resumes 
+after the ram/overrun is resolved. See Section 5.04.
+on its second
+ed 
+SEQUENCING
+SEQUENCING
+SEQUENCING4.00
+
+Game scale is 4 minutes per turn, and hexes are 1,500 meters, or 
+a little less than a mile, from side to side.
+5.01 Movement points. The right side of each armor and 
+infantry counter shows its “movement points” – the maximum 
+number of hexes it can move per 
+turn in clear terrain. For example, 
+an M2 counter can move up to two 
+hexes per turn. The terrain shown 
+on the map can increase or decrease 
+movement. Movement points may not 
+be accumulated from turn to turn.
+A unit never has to move. (Exception: the train has to move 
+once it picks up speed. See Section 9.)
+A disabled unit (see Combat Results Table) may not move until 
+it recovers. Recovery from combat damage is generally automatic; 
+recovery from terrain-related disablement requires a die roll.
+5.02 Stacking. The stacking limit depends on the scenario. 
+Obviously, a hex 1.5 km across could hold thousands of units. The 
+stacking limit is arbitrary: it makes play faster and represents a 
+reasonable doctrine in a situation where weapons can devastate 
+a whole hex at once. By agreement, players can change or ignore 
+stacking limits and take the consequences of Cruise Missile and 
+spillover fire (7.12) attacks. 
+5.02.1 Original map scenarios. In scenarios on the original 
+Ogre map, units may not be stacked; that is, only one vehicle at a 
+time, or a maximum of three squads of infantry, may occupy each 
+hex. (This limitation is for speed of play. If you try an Ogre map 
+scenario with stacking, be sure to use the spillover fire rules in 
+Section 7.12, too.)
+5.02.2 G.E.V. map scenarios. When playing on the G.E.V. 
+(green) maps, up to five vehicles on each side may occupy any hex 
+at the end of any movement phase. Each single squad of infantry 
+counts as 1/3 of a vehicle for stacking purposes; that is, a hex may 
+hold 15 squads of infantry, or 12 squads of infantry and one vehicle, 
+etc.
+Ogres and CPs count as individual vehicles for stacking. The 
+train and its contents do not count for stacking, nor do buildings.
+5.02.3 Combining infantry. Infantry are represented by 
+counters for 1, 2, and 3 squads. For convenience, a larger infantry 
+counter may be built up from smaller counters, or broken down 
+into squads, at any time during the owning player’s movement 
+phase. These counters may move together or separately as long 
+as no individual squad exceeds its movement allowance. Infantry 
+counters have different values on the front and back, for ease in 
+“making change.”
+5.03 Movement through other units. Any unit may move 
+through a hex occupied by friendly units, as long as it does not end 
+the movement phase in violation of stacking limits (5.02). Units 
+may move through a hex occupied by an enemy unit only if that 
+enemy has no attack strength (for instance, a CP, or the train). 
+Otherwise, no unit may move through or into an enemy-occupied 
+hex except to ram or overrun (see below).
+5.04 Ram and overrun attacks. When a player moves one or 
+more units into a hex containing enemy units, a ram (Section 6) 
+or overrun (Section 8) occurs immediately. If you are using the 
+simpler ramming rules, you may not enter an enemy hex with a unit 
+unless your unit is capable of ramming. For instance, infantry can’t 
+ram, so if you are using the ramming rules, infantry may not enter 
+an enemy-occupied hex at all.
+5.05 GEV double movement. A GEV may move twice per turn: 
+once before the fire phase, when all other units move, and again 
+after combat. This is shown by the split movement factor on a GEV 
+counter. For instance, a regular GEV has a movement of 4-3. It gets 
+4 movement points on the regular movement phase, and 3 more 
+after combat.
+5.06 Ogre movement points. An Ogre begins the game with 3 
+movement points (4 for a Mark IV). This will be reduced by damage 
+to its tread units as the game progresses (see last paragraph of 
+3.04.2).
+5.07 Road effects on movement. The road has the same effect 
+on all mobile units, regardless of type. A unit which is “on the road” 
+(that is, moving from one road hex to another along the line of the 
+road) can ignore all underlying terrain. A bridge hex is like any 
+other road hex. A unit which moves from a road to a non-road hex, 
+or vice versa, is affected by the underlying terrain.
+ 5.07.1 Road bonus. Any unit which starts its move on the 
+road, stays on the road for the entire movement phase, and does 
+not ram or overrun, gets a movement bonus of one additional hex. 
+The unit does not have to move this additional hex – but, if it does, 
+it must continue along the road. It may not use the additional hex 
+to leave the road, ram, or overrun. GEVs and infantry, but no other 
+units, may take the road bonus along rail hexes. Note: GEVs get
+road bonuses in other terrain; see 5.08.2.
+5.00
+r 
+4.03 Multiplayer sequencing. A scenario with more than one 
+player on a side will use a similar sequence; players move in the 
+same order each turn. Each player on side A, in turn, moves and 
+resolves combat; then each player on side B, in turn, moves and 
+resolves combat. Players on the same side may take a single fire 
+phase together, after the last one moves, in order to combine fire.
+4.04 Games with three or more sides. A scenario may have 
+three or more independent factions or sides. In that case, each 
+player (or side) completes an entire turn; then the next player or 
+side completes a turn, and so on. Players on different sides may not 
+combine fire. The scenario must define turn order.
+It can be useful to change the facing on each unit as you 
+move it, to show which units have moved during the turn. Be 
+sure to end the movement phase by changing facing on the 
+units that you chose not to move, to match the others. Facing 
+has no game effect except to mark which units have acted.
+ap 
+n
+V.
+ex 
+ry 
+ay 
+e,
+he 
+move it, to show which units have moved during the turn. Be 
+sure to end the movement phase by changing facing on the
+units that you chose not to move, to match the others. Facing 
+has no game effect except to mark which units have acted.
+
+5.07.2 Movement through river bridge hexes. Water-going 
+units can pass under a river bridge, such as the one at hex G1-2013, 
+in either direction. They may also ignore the bridge and transition 
+from land to water, or vice versa, underneath it. No units except 
+infantry may enter the hex on the bridge and leave on the river, or 
+vice versa!
+Some river bridges show only railroads. Any unit may cross the 
+river on a railroad bridge. 
+5.08 Other terrain effects on movement. The terrain shown on 
+the map affects movement in different ways, depending on the type 
+of unit moving. All terrain effects on both movement and combat 
+are shown on the Terrain Effects Table, on the player reference 
+sheets.
+5.08.1 Effects on infantry. Infantry normally have M2. They 
+get the road movement bonus for both road and rail hexes. They can 
+enter water hexes at a cost of 2 movement points, but cannot attack 
+while in water. Infantry have no other terrain penalties; if they can 
+legally enter a hex at all, it costs them only one movement point.
+Marines, Section 3.02.1, attack normally in water, and their 
+defense is doubled in water.
+5.08.2 Effects on GEVs. Because of their speed and 
+vulnerability, all GEV-type units, including Hovertrucks, are greatly 
+affected by terrain, as follows.
+Roads/railroads and water aid GEV movement. Since a GEV has 
+two movement phases each turn, it can get a road bonus twice per 
+turn, and move a total of 9 hexes along either road/railroad or 
+water.
+A GEV approaching the edge of a body of water must end its 
+movement phase at the edge of the water, and may not move onto 
+(or leave) the water until its next movement phase, as though it 
+were crossing a stream. 
+Note: By passing through a beach hexside (2.01.9), GEVs may 
+transition from water to land, or vice versa, without stopping at the 
+edge of the water. If a road or railroad passes through the beach 
+hex, a GEV may move from road/RR to water or vice versa and get a 
+road bonus for that phase, if and only if it passes through the beach 
+hexside. 
+Forest, rubble, and swamp are the same to GEVs. A GEV must pay 
+2 movement points to enter these hexes. Furthermore, a GEV ends 
+its movement for the turn when it enters such a hex. If it enters on 
+its first movement phase, it does not get a second phase. Finally, a 
+GEV entering these hexes may become disabled. Roll one die when 
+the GEV enters. A result of 1 or 2 means it is disabled; any other 
+result means it is unaffected. A unit disabled in this way may roll to 
+recover at the beginning of each turn. On a roll of 1 or 2, it remains 
+disabled; otherwise, it recovers. Note that this means that it will 
+take a GEV five turns, at least, to move through (for instance) five 
+hexes of forest.
+Towns affect GEVs like forest or swamp, except that there is no 
+chance of the unit becoming disabled.
+Streams delay GEVs. A GEV which reaches a stream must stop and 
+may not cross it until its next movement phase. There is no cost 
+for crossing the stream, but the unit must be next to one at the 
+beginning of a movement phase in order to cross.
+5.08.3 Effects on heavy tracked units. This includes Ogres, 
+Superheavy and Heavy Tanks, Mobile Howitzers, and Missile 
+Crawlers with or without missiles. 
+Town hexes cost 2 movement points to enter.
+Streams and forests do not slow them.
+A heavy tracked vehicle entering a swamp hex 
+must roll one die; on a roll of 1 or 2, the unit is stuck.
+Place a “Stuck” marker on it. A stuck unit may fire its weapon(s) 
+normally, but may not move for the rest of the game.
+Water hexes may be entered by Size 5 and up units (Superheavies 
+and Ogres) at a cost of 2 movement points per hex. Other heavy 
+tracked units cannot enter water.
+Ridges do not affect Ogres and Superheavies. Other heavy 
+tracked units may not cross ridges.
+Rubble does not affect Ogres and Superheavies. Other heavy 
+tracked units treat rubble as swamp.
+5.08.4 Effects on light tracked units. This includes Light 
+Tanks, Missile Tanks, and Mobile CPs (which are passenger vehicles, 
+large but mostly hollow).
+Water blocks all movement. None of these units may enter water 
+hexes.
+Streams delay movement; a unit coming to a stream must stop 
+and may not cross the stream until its next movement phase. (In 
+other words, the only way to cross a stream is to start the movement 
+phase next to it.)
+Forest and town hexes cost 2 movement points to enter.
+Swamp (and rubble, which is treated as swamp) also costs 2 
+movement points to enter. In addition, a unit which enters a swamp 
+hex must stop its movement for that turn and roll one die. A result 
+of 1 or 2 means that unit is disabled; any other result means the unit 
+is unaffected. A unit disabled by swamp may roll to recover at the 
+beginning of its next turn. On a roll of 1 or 2, it remains disabled; 
+otherwise, it recovers. A unit remains disabled as long as its owner 
+continues to roll 1s and 2s each turn.
+
+5.08.5 Effects on wheeled vehicles. The only wheeled unit 
+in this set is the Truck. It does not get a road bonus. It pays 1 
+movement point to travel one hex along a road. If not moving along 
+a road, it pays 2 to enter a town hex and 4 to enter a clear or beach 
+hex. It may not enter other terrain, or cross streams or ridges.
+5.09 Minimum movement. Regardless of other terrain effects, 
+any unit which is capable of moving at all may move one hex per 
+turn, as long as it is not moving into totally prohibited terrain. For 
+example, a Mobile Howitzer (movement of 1) could move its one 
+hex into a town, even though the normal cost to enter a town is 2 
+movement points.
+5.10 Train movement. The train moves only along the railroad 
+tracks and follows special rules. See Section 9.
+5.11 Infantry riding vehicles. Infantry may increase their 
+speed by “hitching a ride” on vehicles. The infantry counts toward 
+stacking limits (5.02).
+5.11.1 Rideable vehicles. Infantry can ride the following 
+vehicles:
+ 
+►Heavy Tank (one squad)
+ 
+►Light Tank (one squad)
+ 
+►Superheavy Tank (two squads)
+ 
+►GEV-PC (three squads)
+ 
+►Truck (two squads)
+ 
+►Hovertruck (two squads)
+Infantry riding a Truck or Hovertruck are assumed to be riding 
+inside, and cannot use their weapons until they dismount. Infantry 
+on other vehicles may fire while riding.
+It would be physically possible for an Ogre to carry a number 
+of infantry squads equal to its Size minus 3. Unless specifically 
+permitted in a scenario, you will not get the infantry to go along 
+with that idea. (See Size rules, p. 14.)
+5.11.2 Combat involving infantry riding vehicles. The vehicle 
+and infantry may both fire normally. After all, a speeding vehicle is a 
+stable firing platform, compared to what these infantry are used to.
+If the vehicle + infantry combination is fired on, the attacker 
+makes one die roll for each attack on the combination, but calculates 
+the odds separately for the vehicle and all the infantry and applies 
+the results separately. Example: A Howitzer fires on a Superheavy 
+Tank carrying two squads of infantry. The die roll is a 3. The attack 
+is a 3-to-1 on the two infantry (so a 3 eliminates both), but only a 
+1-to-1 on the Superheavy (so a 3 has no effect). This procedure is 
+followed in both normal combat and overruns. Note that a tank will 
+often survive a hit that kills its riders, but if the vehicle is a truck, 
+the battlesuited riders may survive the hit that kills the vehicle.
+5.11.3 Mount/dismount sequencing for infantry. To mount a 
+vehicle, an infantry squad must spend its entire movement for the 
+turn. The vehicle may either start in the infantry’s starting hex or 
+pass through it. The vehicle moves normally on that turn.
+The infantry may dismount in any hex of the vehicle’s movement 
+on any turn thereafter, but may not move “on its own” on the turn it 
+dismounts, or mount and dismount on the same turn.
+Infantry may fire normally on the turns it mounts and dismounts.
+5.12 Leaving the map. Scenarios will list the sides on which 
+units may move off the map, either to escape or in pursuit of victory 
+conditions. It takes 1 movement to leave the map. Units which 
+leave on other sides are considered lost to the enemy. No unit may 
+re-enter the map once it has left.
+Ramming takes place during the movement phase. Players 
+should decide in advance whether they will use the (fast, simple) 
+Ramming rules here, intended for games in which only one unit 
+normally occupies each hex, or the (more realistic and complex) 
+Overrun Combat rules described in Section 8. Do not use both!
+6.01 Ramming. Ramming a unit is accomplished by moving 
+into its hex. Assess the results to both the rammed and ramming 
+unit immediately. Ramming is a standard tactic for Ogres. For other 
+units, ramming is a suicide attack.
+6.01.1 Limit on ramming. An Ogre may ram no more than 
+twice per turn, or one enemy Ogre per turn.
+6.02 Ogre ramming armor units. Any immobile armor unit
+(a Howitzer or any disabled unit) is destroyed if rammed. Any 
+armor unit except a Superheavy is disabled on a die roll of 1-3, and 
+destroyed on a die roll of 4-6. The Ogre player rolls the die upon 
+ramming. If the armor unit is not destroyed, the Ogre may expend 
+one more movement point, stay in that hex, and ram again.
+An Ogre loses two tread units (see 3.04.2) for ramming a Heavy 
+Tank or MHWZ, and one tread unit for ramming any other armor unit. 
+Exception: A Superheavy rammed by an Ogre suffers an immediate 
+1-1 attack. The Ogre loses three tread units. (If Superheavy treads 
+are being recorded per the optional rule 13.07, it loses treads as if it 
+were an Ogre Mk. I if it is not destroyed.)
+6.03 Ramming CPs and buildings. An Ogre may ram a CP, 
+destroying it. The Ogre loses a number of tread units equal to the 
+defense strength of the CP. For a standard CP, this is zero!
+For ramming attacks against larger buildings, see Section 
+11.04.3.
+6.00
+
+The Size Table shows the relative sizes of the units and the
+damage that each does when ramming Ogres, buildings 
+(11.04.3), and the train (9.05).
+6.04 Movement after ramming. If an Ogre has movement left 
+after ramming an armor unit or CP, it may move on. However, if loss 
+of tread units due to the ram reduced the Ogre’s movement points, 
+it may move only the reduced number of hexes that turn. Example: 
+A Mark V with 41 remaining tread units moves one hex and rams a 
+Missile Tank. This reduces its tread units to 40, so its movement is 
+reduced to 2; it may move only one more hex that turn.
+6.05 Ogres ramming Ogres. One Ogre may ram another by 
+moving onto its hex. The ramming Ogre immediately ends its 
+movement for that turn in the last hex it occupied before ramming.
+An Ogre which rams a larger Ogre loses five tread units. An Ogre 
+which rams a smaller Ogre, or one the same size, loses three tread 
+units. Relative sizes of Ogres are shown on the Size Table above.
+To determine the damage that it does, the attacking Ogre rolls 
+as shown on the Size Table. The total on all the dice is the number of 
+tread units lost by the Ogre which was rammed.
+Example: A Mark V rams a Mark III. The Mark V automatically 
+loses 3 tread units because it rammed a smaller Ogre. A Mk. V rolls 
+4 dice to ram. The total rolled is 12, so the Mark III loses 12 tread 
+units. On its own move, the Mark III rams back. It automatically 
+loses 5 tread units because it rammed a bigger Ogre. A Mk. III rolls 
+two dice. The result is 8, so the Mark V loses 8 tread units.
+Only tread units are lost to ramming attacks.
+6.06 Reducing infantry. An Ogre does not literally “ram” 
+infantry, but any Ogre with AP weapons (or a Superheavy Tank) 
+may move into an infantry hex as though the infantry were not 
+there. If the Ogre/SHVY has any antipersonnel weapons left, the 
+infantry unit is automatically reduced by one squad. This does not 
+count as an “attack” for the AP weapons. An Ogre/SHVY in a hex 
+with infantry may expend a movement point, stay in the same hex, 
+and reduce the infantry again. When all its AP weapons are gone, an 
+Ogre/SHVY can no longer reduce infantry in this way.
+6.07 Ramming by other units. Usually a tactic of desperation! 
+Note that infantry can never ram or be rammed.
+6.07.1 Ramming by Superheavies. A Superheavy may ram 
+Ogres or other vehicles as if it were an Ogre Mark I (see 6.05, 6.08). 
+The SHVY suffers a 1-1 attack when it rams, and if optional rule 
+13.07 is in use, it also loses treads as a Mark I.
+6.07.2 Other armor ramming Ogres. Any other mobile armor 
+unit may ram an Ogre by moving onto its hex. The Ogre loses a tread 
+unit automatically (2 for a Heavy Tank). The armor unit is destroyed.
+6.07.3 Ramming by GEVs. GEVs may not ram on the second 
+movement phase if they attacked on that turn. GEVs ram Ogres as 
+described above. When ramming other units, the GEV is always 
+destroyed. The other unit suffers an attack of twice the GEV’s 
+normal attack strength (it is assumed the GEV is firing its weapons 
+as it rams). This may not be combined with other attacks.
+6.07.4 Other units. Units other than those specified are too 
+slow, too light, or too lightly armed to ram effectively . . . unless the 
+target is the train, as described in Section 9.05.
+6.07.5 Ramming buildings. See 11.04.3.
+6.08 Combat in same hex. If an Ogre ends its movement in 
+a hex with an enemy unit, and that unit is not destroyed by the 
+Ogre’s entry, the Ogre may attack it in the fire phase as if they were 
+in adjacent hexes. If the enemy unit survives and is not disabled, 
+it may move and attack normally on its next turn, or it may remain 
+in the hex and attack the Ogre as if they were in adjacent hexes.
+6.08.1 Recovery of disabled unit in same hex. In the unlikely 
+event that the Ogre ends its turn in a hex with a disabled unit, stays 
+in the hex through its next turn, yet never destroys the disabled 
+unit, that unit will recover normally, and may move and attack on 
+its turn as in 6.08.
+7.00
+7.01 Sequencing. The combat phase occurs after the regular 
+movement phase. Units do not get another combat phase after GEV 
+second-phase movement.
+7.02 Attack Strength and Range. Each armor and infantry 
+counter shows two numbers separated by a slash – e.g., 4/2. The 
+first number is the unit’s attack strength. The second number is its 
+range – that is, the maximum number of hexes at which that unit 
+may attack. (There are no limitations for line of sight. All units are 
+capable of indirect fire and may attack anything within their range. 
+The only exceptions are Lasers; see 12.02.)
+A unit with an asterisk after its attack strength may divide that 
+strength into two equal attacks. For instance, the Superheavy Tank 
+(6*/3) may attack with two separate 3/3 attacks.
+7.03 Defense Strength. The right side of each armor and 
+infantry counter shows its defense strength – e.g., D2. This is the 
+only stat shown on the disabled side of an armor counter, because 
+disabled units cannot move or attack, but can still defend.
+Size
+Units
+Ogre Building Train
+1 Truck, Hovertruck, INF squad
+1 Light Tank. LGEV
+2 Missile Tank
+2 GEV
+1-to-1 
+3 GEV-PC
+3 Heavy Tank
+2 treads
+4 MCRL or CRL, MCP, MHWZ
+4 HWZ
+5 Superheavy Tank
+1-to-1 
+5 Ogre Mk. I
+6 Ogre Mk. II
+7 Mk. III, III-B, Ninja, Vulcan
+3 dice
+8 Ogre Mk. IV, V, any Fencer
+4 dice
+5 dice
+9 Ogre Mk. VI, Doppelsoldner
+6 dice
+7 dice
+SIZE TABLE
+– Ram Damage Done To –
+
+7.04 Ogre weapon stats. An Ogre has several weapons, each 
+with its own attack strength, range, and defense strength. The 
+bigger the Ogre, the more weapons it has. Ogre weapons are shown 
+on the Ogre Record Sheets, included as a separate component. 
+When an Ogre weapon is destroyed, it is marked off the record 
+sheet, as shown on p. 17.
+7.05 Attacks. Each armor unit and infantry squad may apply 
+its attack strength once per turn. Each Ogre weapon may apply 
+its attack strength once per turn until it is destroyed, with the 
+following exceptions:
+7.05.1 AP weapons. Some units have antipersonnel weapons, 
+effective only against infantry (including special infantry types) 
+and D0 units such as a regular (unarmored) CP. A unit may not 
+fire AP at the same infantry unit more than once per turn, but any 
+number of AP weapons may be used for that single attack. 
+Note: Any weapon may be used against infantry. AP weapons are 
+useless against anything except infantry, targets with a defense of 
+0, and other targets as designated in scenarios.
+7.05.2 Missiles. Each Ogre missile is a one-shot weapon. If it 
+is fired (or destroyed before firing), it is gone; mark it off the Ogre 
+record sheet.
+7.05.3 Missile racks. An Ogre missile rack has no attack 
+strength of its own. It can fire one missile per turn as long as the 
+Ogre has internal missiles remaining.
+7.06 Combining attacks. Any number of units and/or Ogre 
+weapons may combine their attack strengths into an attack on any 
+single target except Ogre treads (see 7.13.2 for attacks on treads).
+7.07 One target per attack. An attack must be made against 
+one designated target only – either a given unit, or a given weapon 
+(or treads) on an Ogre, or the terrain (such as a town) in a hex. An 
+attack strength may never be divided between targets. A Missile 
+Tank could fire at 1 to 1 on one Ogre secondary battery, but not at 1 
+to 2 on two secondaries at once. 
+7.07.1 Infantry may have multiple targets. Exception 
+to 7.07: A 2-squad or 3-squad infantry counter may divide its 
+attack strength between targets, because each squad can fire 
+separately. For instance, a 2/1 infantry could attack one GEV at 
+1 to 1, or two different GEVs at 1 to 2 each, or the same GEV twice at 
+1 to 2 each time. Infantry cannot divide itself into attack strengths 
+of other than whole numbers – no fractions.
+7.08 Timing. A player may make his attacks in any order and 
+may observe the results of each attack before announcing and 
+carrying out the next, in order to most efficiently use his strength. 
+However, a player must always announce what he is attacking, what 
+he is attacking with, and the odds, before rolling the die – e.g., “All 
+right, I am now attacking that Missile Tank there, with three guns 
+from the secondary battery, which is a 4 to 1.”
+7.09 Successive attacks. Any number of successive attacks may 
+be made against any unit or Ogre weapon in one turn, provided 
+that each attacking unit or weapon fires only once. Exception: an 
+infantry unit (1 to 3 squads in a single hex) may only suffer one AP 
+attack per turn from each attacking unit. See Section 7.05.1.
+7.10 Attack resolution. Each attack is resolved by comparing 
+the attack and defense strengths of the units, and rolling a die.
+Specifically: For each attack, all attack strengths involved are 
+totaled, and then compared with the defense strength of the target, 
+in ratio form. This ratio is then reduced in the defender’s favor to one 
+of the ratios shown on the Combat Results Table. In other words, the 
+target of the attack gets the benefit of the rounding-off. Examples:
+ 
+►An attack strength of 2 against a defense strength of 1 would be 
+a “2-to-1” attack, written as “2-1”. 4 against 2, or 6 against 3, 
+would also be a 2-1.
+ 
+►Attack strength 2 vs. defense strength 2 = 1-1.
+ 
+►Attack strength 3 vs. defense strength 2 = still only a 1-1. There’s 
+not enough attack strength for a 2-1 attack, so it rounds down 
+to the 1-1 column.
+ 
+►Attack strength 2 vs. defense strength 3 = 1-2.
+ 
+►Attack strength 6 vs. defense strength 1 = 6-1 (treated as 5-1; 
+see below).
+
+ 
+►Note that any attack at 5-1 or better is an automatic X, and 
+anything worse than 1-2 has no effect.
+Once the attack odds have been determined, the attacker rolls 
+the die and consults the proper column of the Combat Results Table 
+(CRT) to find the result. Results are applied immediately.
+7.11 CRT results. Three possible outcomes are shown on the 
+Combat Results Table: NE, D, and X.
+ 
+►NE indicates “no effect” to the unit attacked.
+ 
+►X indicates destruction of the unit attacked; remove it from the 
+board.
+ 
+►The intermediate result is a D. An infantry unit is immediately 
+reduced by one squad. An armor unit (or a hardened CP) 
+is “disabled.” A disabled unit cannot fire or move; turn the 
+counter over. If it receives another D result while disabled, it 
+is destroyed.
+A unit disabled by ramming or enemy fire recovers after one full 
+enemy turn has passed. If it becomes disabled on an enemy turn, it 
+remains disabled through that enemy turn, through its own turn, 
+and through the next enemy turn; it then recovers. If disabled on 
+its own turn by making a ram (6.07.1, 11.04.3), it remains disabled 
+through the enemy turn and recovers on its next turn.
+A unit disabled by entering terrain remains disabled through 
+the enemy turn and rolls to recover on its next turn.
+A D result does not affect the train or Ogres.
+7.11.1 Spillover CRT results. When spillover fire (7.12) occurs, 
+each result on the CRT is “taken down” one step. A D result is read 
+as NE, and an X is read as a D. To affect a unit with a spillover, you 
+must roll an X – and then it counts only as a D.
+7.11.2 Overrun CRT results. When an overrun attack (Section 
+8) occurs, treat any D or X result to non-Ogre units as an X. Only a 
+true X affects an Ogre, though.
+7.12 Attacks on stacked units: spillover fire. When units are 
+stacked (that is, when more than one counter is placed in the same 
+hex), they may be attacked as follows: The attacking player declares 
+one of the counters to be the “target” of the attack. The attack on the 
+target is resolved normally. Each other unit counter in the hex then 
+immediately suffers an attack at half the strength (not rounded) 
+used in the attack on the target; this represents “spillover” fire and 
+blast effect. When a unit suffers spillover fire, all combat results 
+from the CRT are reduced in effect: An X on the CRT is treated as a D, 
+and a D is treated as NE. Thus, the only unit that can be eliminated 
+in one spillover attack is a single squad of infantry. However, a unit 
+can be disabled in a spillover attack (X result, treated as D) and then 
+destroyed by the same result in a second spillover.
+Example: A Heavy Tank, Missile Tank, and a squad of infantry are 
+in the same hex. The hex is fired on by a Howitzer (attack strength 
+6); the Heavy is the target. Its defense is 3, so it suffers a 2-to-1 
+attack. At the same time, the other two units in the hex each suffer 
+a half-strength (that is, attack strength 3) spillover attack – which 
+would be a 1-to-1 on the Missile Tank and a 3-to-1 on the infantry. 
+Each of the attacks is resolved with a separate die roll.
+7.12.1 Attacks on stacked infantry units. The first time a stack 
+is attacked during a fire phase, the defender determines how its 
+infantry are grouped, with up to 3 squads per group. For instance, 5 
+squads of infantry could be treated as a 3 and a 2, or as a 2, 2, and 1, 
+or as five 1s . . . etc. The attacker then chooses the target. The other 
+units or groups are subject to spillover fire. In an overrun attack 
+(8.00), though, each squad is always a separate unit.
+7.12.2 Units affected by spillover fire. All units (friendly or 
+enemy) in a hex are affected by spillover fire, except: (a) a unit’s 
+own fire does not spill over onto it, and no spillover fire is calculated 
+in an overrun; (b) separate spillover fire is not calculated for a 
+tank and the infantry riding it (Section 5.11.2), and (c) Ogres and 
+buildings ignore spillover fire.
+7.12.3 Spillover against terrain. If the optional rules for 
+damaging and destroying terrain are being used, spillover attacks 
+are also rolled against the defending unit’s hex. See Section 13.01.2.
+7.13 Attacks on Ogres. Any unit firing on an Ogre must specify 
+the target it is attacking: either one specific weapon or the Ogre’s 
+tread units.
+7.13.1 Attacks on Ogre weapons. If weapons are the target, 
+the attack strength of the attacker(s) is compared with the defense 
+strength of the weapon attacked. Example: A Missile Tank could 
+fire on a gun from the secondary battery at 1-1, a missile at 1-1, an 
+AP gun at 3-1, or a main battery at 1-2. A Howitzer could attack a 
+secondary at 2-1, and so on. An X result on the CRT means the target 
+weapon is destroyed. D results do not affect Ogres.
+7.13.2 Attacks on Ogre treads. If the Ogre’s tread units are the 
+target, each attack must be made by an individual unit, and always 
+at 1-to-1 odds. In other words, after the attack is announced, the 
+attacker rolls the die, and on a roll of 5 or 6 (X at 1-1 on the CRT), the 
+Normal
+Disabled
+COMBAT RESULTS TABLE
+Die 
+Roll
+1-2
+1-1
+2-1
+3-1
+4-1
+Combat Odds
+
+Ogre loses a number of tread units equal to the attack strength of 
+the attacking unit. Thus, a successful Heavy Tank attack on treads 
+would cost an Ogre 4 tread units. Exception: up to three infantry 
+squads in the same hex may combine fire against treads.
+7.13.3 Destroying Ogres. An Ogre is not destroyed until all its 
+firable weapons and tread units are gone. However, a lone, immobile 
+Ogre is helpless; at that point, the game is as good as over.
+7.14 Terrain effects on combat. Several types of terrain give a 
+defense bonus to units in them, or limit the attack ability of units 
+in them.
+ 7.14.1 Forest, swamp, and rubble. Forest, swamp, and rubble 
+hexes double the defense strength of infantry. They do not affect 
+the defense strength of other units.
+7.14.2 Towns. Town hexes triple the defense strength of 
+infantry, and double the defense strength of all other units, 
+including the train. A town hex gives a D0 unit a defense of 1. When 
+Ogre treads are the target in a town, they are destroyed only on a 
+roll of 6.
+7.14.3 Defensive terrain and roads. A unit on the road gets 
+the full defensive bonus of the terrain in its hex.
+7.14.4 Water. A GEV on water attacks and defends normally.
+An Ogre or Superheavy submerged in a water hex may not attack. 
+It may be attacked only by a ram by another such unit, an overrun 
+by Marines, or by (all at half strength) Howitzers, Mobile Howitzers, 
+and Ogre missiles. It can also be affected by Cruise Missiles (see 
+10.04).
+Infantry in a water hex may not attack; its defense strength is 
+unaffected.
+Exception: Marines may attack while in water, and their defense 
+is doubled. Marines which are overrun in the water by GEVs may 
+choose either to fight on the surface (retaining their double 
+defense) or to dive and avoid combat entirely while staying in that 
+hex.
+7.15 The train in combat. See Section 9.
+EXAMPLE OF PLAY
+This is a section of the map and an example of an Ogre record 
+sheet for an actual game. The Ogre has fired both its missiles. 
+It has lost two secondary battery guns, three antipersonnel 
+weapons, and 22 tread units – so it is down to 2 movement 
+points. Remember, the Ogre is really in the counter’s front hex.
+If it is the Ogre’s fire phase, it could (for instance) fire the 
+main battery against the LGEV (4-to-1), one secondary on the 
+Heavy Tank (1-to-1), one secondary on the GEV (1-to-1), 3 AP 
+on the 3-squad infantry counter (1-to-1) and 2 AP on the single 
+squad of infantry (2-to-1). It cannot fire on the Howitzer or the 
+Missile Tank; they are out of its range.
+The Ogre could also combine its fire; for instance, it could, 
+instead of the above attacks, use both secondaries on the GEV 
+(3-to-1) and then, if it wished, fire on the GEV again with the 
+main battery (2-to-1). Or it could fire both secondaries and the 
+main all together (5-to-1 – a sure kill).
+If it is the defending player’s fire phase, he might 
+(for instance) fire the Heavy Tank against the main battery
+(1-to-1), Missile Tank against one of the secondaries (1-to-1), 
+GEV against a main battery (1-to-2), adjacent infantry units 
+against treads (always at 1-to-1), and Howitzer against a 
+secondary (2-to-1). The 2-squad infantry counter and the LGEV 
+are out of range and cannot fire.
+The defense would also have the option of combining fire 
+from the various units in order to get improved odds.
+If it is the Ogre’s movement phase, it could follow the red 
+arrow (ramming the Heavy Tank). Or it could follow the green 
+arrow, eliminating the 1-squad infantry counter and reducing 
+the 2-squad counter to a single squad. Or it could move to any 
+other non-crater hex within 2 of its present position.
+If you are learning the game and preparing to play a 
+scenario on the Ogre map, stop here. Sections 1-7 have all 
+the rules you need for your first games.
+Just as for movement, it can be useful to change the 
+facing on each unit as it attacks. Be sure to end the fire phase 
+by changing facing on the units that did not fire, to match 
+the others.
+by Marines, or by (all at half strength) Howitzers, Mobile Howitzers,
+and Ogre missiles It can also be affected by Cruise Missiles (see
+facing on each unit as it attacks. Be sure to end the fire phase 
+by changing facing on the units that did not fire, to match 
+the others.
+
+Overrun combat uses the combat rules described above, but 
+takes place during the movement phase. Units in an overrun may 
+fire multiple times during a turn, rather than the one-shot-per-
+turn rule of 7.05. Players should decide in advance whether they 
+will use the (fast, simple) Ramming rules in Section 6, or the (more 
+realistic and complex) Overrun Combat rules described here. Do not 
+use both!
+8.01 Initiating an overrun. The moving player (attacker) 
+initiates an overrun by moving one or more units (see 8.06) into 
+an enemy-occupied hex. Overrun combat is settled immediately, 
+before the attacker’s movement phase continues.
+8.02 Attack strength in overruns. Attack strengths of infantry 
+and Ogre weapons, and of the AP weapons of Superheavy Tanks, are 
+doubled in overrun attacks, whether they belong to the attacker 
+or the defender. Disabled units, which normally may not attack, 
+are allowed to fire in an overrun situation. Any disabled unit in 
+an overrun hex may fire at half its printed attack strength (not 
+rounded). Any CP has an attack strength of 1 in an overrun (1/2 if it 
+is disabled). All other units have normal attack strengths.
+If a disabled Superheavy is overrun, its AP guns are halved 
+because it’s disabled and doubled because it’s an overrun, so they 
+fire at normal strength.
+8.03 Defense strength in overruns. Defending units in an 
+overrun attack get their normal defensive multipliers, if any, for 
+the terrain in that hex. The attacker in an overrun does not get any 
+bonus; all attacking units defend at their printed strengths.
+8.04 Resolving an overrun attack. When an overrun takes 
+place, all units in that hex (on both sides) are removed to a spot 
+beside the board and all infantry units are divided into 1-squad 
+counters. Combat will take place between those units only until only 
+one player has units left.
+Overrun combat is resolved in “fire rounds.” The defender has the 
+first fire round. Each of his units from that hex (including disabled 
+ones) fires once. Any attacker receiving either a D or X result is 
+removed. Surviving attackers (including any disabled due to terrain 
+when entering the hex) may then return fire, and any defending 
+unit receiving either a D or X is removed. Surviving defenders then 
+fire again . . . and so on until all units on one side are gone.
+Note: Spillover fire (7.12) is not calculated in an overrun, 
+because shots at close range will be better aimed. However, these 
+well-aimed shots mean that units receiving a D result during an 
+overrun are considered destroyed, instead of just disabled.
+Units can combine fire, or fire in succession on one target, just 
+as in a regular attack, as long as no unit fires more than once per 
+fire round.
+8.05 Ogre overrun rules. Ogres in an overrun situation follow 
+the above rules, except that only a true roll of X affects an Ogre, and:
+8.05.1 Disarmed Ogres. If, during overrun combat, an Ogre 
+loses all its weapons that have valid targets in that combat, it is 
+removed from the combat after two further enemy fire rounds and 
+replaced in the hex. Thus, when Ogres are involved, overrun combat 
+may end with opposing units still in the same hex. If that Ogre was 
+an attacker, it may then use any movement points it has remaining 
+to leave the hex. 
+8.05.2 Ogre ramming during overruns. An Ogre may ram any 
+one enemy unit (except infantry) at the end of its first fire round. 
+If the target was anything but another Ogre, it is destroyed and the 
+Ogre is undamaged. If one Ogre rams another Ogre, damage to each 
+is calculated as given in Section 6.05. An Ogre may ram a building 
+during overrun combat, with normal results. An Ogre may only ram 
+once per overrun combat.
+8.05.3 Ramming by other units during overruns. Any other 
+unit which could legally ram a unit or building during regular 
+movement may ram at the end of its first fire round, with normal 
+effects.
+8.05.4 Missile racks in overruns. A missile rack can fire only 
+one missile per turn. Once an Ogre uses a missile rack, it may not 
+use it in subsequent fire rounds that turn, either in that overrun or 
+later ones. If the attacks are taking place on the Ogre’s turn, it may 
+also not fire that missile rack on its regular fire phase.
+8.06 Movement and stacking before overruns. Since an 
+overrun takes place during a movement phase, more than five units 
+may participate in an overrun attack. However, the stacking limit of 
+5 units must be observed at the end of the movement phase, even 
+if the attacker must remove units to comply. It is permissible to 
+bring units different distances to let them participate in the same 
+overrun. For instance, one GEV could move one hex into an enemy 
+hex; another could move two hexes, and another four, into the 
+same hex; the attacker could then declare the overrun and all three 
+GEVs would participate.
+8.06.1 Infantry mounted on vehicles. Infantry riding on 
+vehicles may dismount at the beginning of the overrun. They 
+cannot remount after the combat. Those who do not dismount 
+will be attacked in one die roll against their vehicle (see 5.11.2). 
+Infantry within vehicles (Trucks, Hovertrucks) do not dismount, 
+cannot fight in the overrun, and are subject to 5.11.2.
+8.07 Overrun situations on water hexes. Units in water hexes 
+may be underwater (Ogres and Superheavies), on the surface (GEVs 
+and swimming infantry), or either (Marines). Swimming infantry, 
+except for Marines, cannot fight; Ogres and Superheavies can fight 
+only by ramming each other. GEVs can attack only units on the 
+surface. Marines can attack any unit in the hex, or can avoid all 
+foes except other Marines by going underwater. So, in an overrun 
+situation:
+ 
+►If neither side can attack the other, no combat occurs, and both 
+remain in the hex, unaffected.
+ 
+►If some units on each side can attack, play out the overrun 
+normally. If there are also units in the hex that cannot attack, 
+the other side must decide whether to spend fire rounds 
+attacking them instead of active enemies.
+ 
+►If only one side can attack the other (either at the beginning 
+of the combat, or as a result of combat losses), the side that 
+cannot fight is destroyed. Exception: Ogres are removed from 
+the overrun after suffering two further enemy fire rounds, and 
+remain in that hex.
+8.08 Resuming play after an overrun. Return all surviving 
+units to the contested hex. The attacker’s movement phase 
+continues. If he won the overrun attack, and any of his surviving 
+units have movement points left, they may continue to move, 
+8.00
+
+A train may be used as a scenario objective, trying to escape 
+from attackers, or as a source of reinforcements. Trains move only 
+along the railroad lines.
+9.01 Train counters. A standard 
+train is made up of two counters, so 
+it takes up two hexes (this is a long 
+train!). The train’s defense strength 
+is always 3. In some scenarios 
+(9.03.1), the train may have an 
+attack strength; otherwise it may 
+not attack.
+9.02 Train movement. The two 
+train counters are identical, and the 
+train may go either direction. “Front” 
+and “back” are always relative to the 
+movement of the train. 
+The rear half of the train always 
+remains connected to the front half, 
+unless the rear half is destroyed (see 
+9.03).
+The speed of the train is 
+represented by the train movement 
+markers. Each train gets one marker, 
+placed on or beside the train as 
+convenient. 
+Each marker is arrow-shaped, 
+to show the train’s direction, with a 
+movement number. There are four 
+markers available per train: M0/1, 
+M2/3, M4/5, and M6/7.
+M4/5, for instance, means that 
+the train will move forward either 4 
+or 5 hexes (as the owning player chooses). On its movement phase, 
+the train must move one of the two distances shown by the counter 
+on it at the beginning of the turn.
+The train must always go forward unless it begins the turn with 
+the M0/1 marker. In this case, it may either go one hex forward, 
+stand still, or reverse (remember to switch the arrow!) and go one 
+hex in the other direction.
+9.02.1 Changing speed. At the end of each turn, the player 
+owning the train may change its speed by one marker faster or 
+slower. That is, if its speed was M2/3, he may change it to M0/1 or 
+to M4/5. If it was M4/5, he may change it to M2/3 or to M6/7. If it 
+was 6/7, it may go only to 4/5; if it was 0/1, it may either go to 2/3 
+in the same direction, or 0/1 in the reverse direction (reverse the 
+arrow). Of course, its speed may always stay the same.
+If a train did not move on the previous turn, and is still at 0/1 
+speed, it is considered “standing still” for combat purposes.
+Note: The train has engines at each end and is capable of equal 
+speed in either direction. The “front” counter is determined by 
+which way the train is moving.
+9.02.2 Terrain effects on train movement. The train moves 
+only along the rail hexes, and ignores all terrain over which the 
+rails pass.
+9.02.3 Stacking rules. The train does not count against 
+stacking limits.
+Unless the train is armed (9.03.1), enemy units may enter its 
+hex freely.
+9.02.4 Running off the rails. If the train moves into a hex 
+where the rails are cut, it is destroyed.
+9.02.5 Multiple trains. A scenario may allow more than one 
+train on the same track. If they collide at any speed, both are 
+destroyed.
+9.02.6 Paired tracks. A scenario may specify that there are two 
+(or more) sets of tracks on the rail line. If so, trains on different 
+tracks may pass one another. Destruction of a rail hex, or a train on 
+that hex, still cuts all lines within the hex.
+9.03 Attacks on the train. The train’s defense strength is D3. 
+Either counter of the train may be attacked. Only an X result affects 
+the train.
+If an attack destroys the rear of the train (or either half of a train 
+standing still), that counter is flipped to the destroyed side, but the 
+other half of the train is not affected. If an attack destroys the front 
+of a moving train, the whole train is destroyed; remove the counters 
+unless there are other trains in the scenario.
+If a train counter is destroyed, the rails in those hexes are 
+considered cut; this may matter for victory points.
+9.03.1 Armed train. The defender may exchange up to 4 armor 
+units for train guns. For each armor unit given up, he can put one 
+4/2 gun on each of the train counters (thus, if he exchanges 4 
+armor units, the train will have 8 attacks, each with a strength of 
+4 and range of 2, per turn). These guns have no separate defense 
+strength; if the train counter goes, they go.
+and may participate in another overrun. Any of the attacker’s 
+units which had not yet moved may now move freely through the 
+contested hex. Exception: If an enemy Ogre in the hex retains AP, 
+infantry moving through the hex must overrun it.
+8.09 Notes on overruns. Obviously, the defender has a great 
+advantage in a situation where the attacker runs right into his 
+guns. Infantry is powerful in an overrun; their weapons are more 
+effective at close range, and their reactions are better. An Ogre’s 
+robot reflexes make it deadly at close quarters, too.
+Even a disabled unit can fight in overrun combat. Every vehicle 
+carries a computer to aid in movement and fire control; should the 
+crew be knocked out, the tank will continue to protect itself against 
+immediate dangers. It won’t maneuver or make long-range shots – 
+but it can take advantage of local cover and fire on enemies nearby.
+It will rarely be to the attacker’s advantage to make an overrun 
+unless he has a strongly superior force, or must clear a hex to open 
+a line of movement. Overrunning a position in any but clear terrain 
+is expensive. Overrunning an Ogre is usually suicide. Overrunning 
+with an Ogre will clear out almost any position – but the Ogre may be 
+badly battered in the process.
+If the optional rules for damaging and destroying terrain are 
+being used, overrun attacks automatically damage the terrain. See 
+Section 13.01.2.
+9.00
+r
+inforcements. Trains move only 
+o 
+g 
+h
+n
+y 
+o 
+”
+ys 
+f, 
+nt 
+r, 
+train
+dest
+(or m
+track
+that
+Eith
+the t
+I
+stan
+othe
+of a 
+unle
+I
+cons
+unit
+4/2 
+arm
+4 an
+stren
+
+In an armed-train scenario, the counters may 
+separate. Each is then treated as a one-counter 
+train.
+9.03.2 Terrain effects on train defense. If a 
+train counter is in a town hex, its defense strength 
+is doubled. Other terrain does not affect the train’s 
+defense.
+9.04 Overrun attacks on the train. If an 
+unarmed train overruns, or is overrun by, a unit 
+with a regular combat strength, it is destroyed. 
+Even a disabled unit can destroy the train if it is in 
+the same hex. Exception: An overrun onto the rear 
+counter of the train, or either counter if the train is 
+standing still, destroys only that counter.
+If the train is armed, treat the overrun (or 
+overrunning) hex of the train just like any other 
+unit in resolving overrun combat.
+9.05 Ramming the train. Ogres and armor 
+units may ram a train counter by moving onto its 
+hex, even if ramming rules are not otherwise in use. 
+If an Ogre rams a train counter, the train counter is destroyed. 
+The Ogre immediately loses half its remaining tread units (rounded 
+up), suffers a 2-to-1 attack against each of its other components, 
+and ends its movement. (Note that if an Ogre has no weapons left 
+except AP, ramming is the only way it can attack the train.)
+If a regular armor unit rams the train, the ramming unit is 
+destroyed. The train counter suffers a 1-1 attack if the ramming unit 
+was a Superheavy or a standard GEV, and a 1-2 attack if the ramming 
+unit was any other armor unit.
+9.06 Collisions. The owner of any unit in a rail hex may declare 
+that unit to be on the track. A unit which got a road bonus last turn 
+for moving on the track is automatically on the track. If the train 
+moves onto a unit on the track, or multiple units in the same hex:
+(a) If the enemy units are armed, even the weakest armed unit 
+would be able to cut the tracks in front of the train as it 
+approached. The train is destroyed. If the train is moving at 
+speed 5 or better, the wrecked train may still strike the enemy 
+units. Roll a 1-1 attack on every unit except infantry. Otherwise, 
+the enemy units are unaffected. (Special case: If the enemy 
+unit is an Ogre with no weapons other than AP, the result is the 
+same as if the Ogre had rammed the train, per 9.05).
+(b) If the enemy units are unarmed, the train collides with them. 
+Roll a single attack on the train with an attack strength equal 
+to the combined Size (p. 14) of the enemy units. The enemy 
+units are destroyed.
+9.07 Reinforcements from the train. A scenario may allow an 
+unarmed train to bring in reinforcements. Only units of Size 3 or 
+below may go on the train. Each half of the train may carry up to 
+12 “size points” worth of armor (e.g., 4 Heavy Tanks, or 12 squads 
+of infantry). If GEV-PCs are carried, the Size of any infantry riding 
+them does not count.
+Infantry may fire from the train unless they are mounted on
+GEV-PCs within the train. Other units may not fire.
+Infantry may leave the train freely at the beginning of any turn. 
+Vehicles may only leave the train if it does not move on that turn. 
+Only two vehicles per turn may exit each half of the train. They end 
+their move on any adjacent hex which they can legally enter.
+If a train counter is destroyed, each infantry squad on board 
+suffers a 1-1 attack; survivors are free to move on their next turn. 
+Armor units suffer a 1-1 attack, and all surviving armor units are 
+considered “stuck,” as if they were in a swamp. If a scenario allows 
+non-combat units (such as trucks) on board, they are destroyed if 
+the train is destroyed.
+Cruise Missiles are big, destructive weapons which can 
+unbalance a game. Don’t use them in scenarios where there is only 
+one target, because then the game comes down to one die roll. 
+Players should not add Cruise Missiles to their forces until they 
+have some experience. The best defense for Cruise Missiles is Lasers 
+(Section 12). 
+10.01 Background. Large missiles are very expensive, and 
+vulnerable to defensive fire – especially from heavy lasers. However, 
+they can still be cost-effective if used properly. A battlefield Cruise 
+Missile has its own computer brain, steering jets, and enough BPC 
+shielding to protect it from near misses; it flies only a few meters 
+above the ground. Most Cruise Missiles are fired from protected 
+sites in rear areas, but Missile Crawler units are available to take 
+them close to the front when necessary.
+10.02 Firing. One turn represents 4 minutes. In that time, 
+a Cruise Missile can reach any point on the map (however big the 
+map is) – unless it is intercepted. However, the farther the missile 
+travels, the more likely it is to be successfully tracked and shot down. 
+When a player wishes to fire a Cruise Missile, he does so during his 
+fire phase. The missile starts at its crawler and immediately moves 
+one hex at a time, by any route indicated by its owner, until it is 
+intercepted, or its owner states that it has reached its target and is 
+exploding. (Missile counters are provided, but a pointing finger will 
+suffice.) Once a Cruise Missile is fired, it is tracked to its destination 
+and its fate resolved before any more actions occur.
+MISSILES
+MISSILES
+MISSILES 10.00
+
+10.02.1 Fratricide. The explosion of a Cruise Missile will knock 
+down any other missiles in the air nearby. Therefore, on a turn 
+in which a player wishes to fire multiple Cruise Missiles, he must 
+write down beforehand the number of missiles being fired, and 
+each target hex. Missiles are resolved in the order written down. 
+If a missile explodes, all remaining missiles aimed at that hex, or 
+at any other target within six hexes of the explosion point, are 
+lost; they are considered to have been destroyed by the explosion. 
+Furthermore, no Cruise Missile fired later on that turn, whatever 
+target it is aimed at, may pass within 6 hexes of the explosion site. 
+Missiles already fired that turn are unaffected by fratricide (this 
+avoids circular effects!).
+10.03 Interception. A Cruise Missile may be attacked by any 
+enemy unit when it passes within that unit’s attack range. Since 
+the missile travels so quickly, each interception attempt is a single 
+quick shot at low odds – but it takes little time, and does not affect 
+the unit’s ability to move and fire on its next turn. Disabled units 
+may not attempt interception.
+10.03.1 Movement and interception procedure. The attacking 
+player indicates the missile’s path, one hex at a time, counting each 
+hex as it is entered. As each hex is entered, the defending player may 
+attack the missile with any unit in range of that hex. A successful 
+attack, as shown on the table below, destroys the missile. A unit 
+may fire at the missile at any time while the missile is in range, but 
+no unit may fire more than once against any single Cruise Missile. 
+(Ogres and Superheavy Tanks may fire once with each weapon they 
+have, except that Missile Racks may still be used only once per 
+turn.) If two or more Cruise Missiles are fired during the same turn, 
+each unit in range may attack each missile separately.
+10.03.2 Attack odds. When attacking a Cruise Missile, a unit 
+rolls two dice. The number on the table below, or higher, kills the 
+missile. Note that the attacking unit receives a bonus if the missile 
+is more than 10 hexes from its hex of origin. The farther a missile 
+has gone, the easier it is to track and kill.
+ATTACKS ON CRUISE MISSILES – Roll two dice
+Any armor unit with attack strength 1 or 2 ......................... 12
+Any armor unit with attack strength 3 or more ........11 or above
+Each individual squad (1/1 unit) of infantry ..........11 or above
+Each Ogre main or secondary battery .....................10 or above
+Each Ogre missile .................................................9 or above
+Laser or Laser Tower .............................................9 or above
+Missile has traveled more than 10 hexes from origin ... +1 to roll
+Missile has traveled more than 15 hexes from origin ... +2 to roll
+Missile has traveled more than 20 hexes from origin, 
+OR missile was fired from off the board ................... +3 to roll
+10.03.3 Premature detonation. When a Cruise Missile is 
+successfully attacked, the owning player rolls one die. On a roll 
+of 1-5, the missile is simply shot down. On a roll of 6, the missile 
+explodes in the hex where it was intercepted! Results are as in 
+Section 10.04, below.
+10.04 Detonation. When a Cruise Missile reaches its specified 
+target hex, after the defending player has completed all interception 
+attempts in that hex, the attacker announces that the missile is 
+exploding. This devastates an area over a kilometer across. Remove 
+all units, buildings, etc., in the hex it strikes. Place a crater marker 
+in that hex, unless it is in a lake or river.
+Units, buildings, and terrain in nearby hexes may also be 
+affected by the radiation and shockwave, depending on their type 
+and their distance from the explosion, as follows:
+EFFECTS OF MISSILE EXPLOSION
+UNIT TYPE 
+RESULTS
+ 
+ X 4-1 2-1 1-1 1-2 
+Any D0 unit or any GEV* 
+ 1-2 3 4 
+6+
+D1 armor unit, hardened CP 1-2 – 3 
+6+
+D2 armor unit, hardened CP 1 
+ 2 3 
+5+
+D3+ armor unit, train, HCP – 
+ 1 2 
+4+
+Infantry (each squad) 
+ – 2 
+4+
+Town or forest hex 
+ 1-3 4 5 
+7+
+Road, railroad, or bridge 
+Ogre (each component) 
+Building (20 or fewer SP) 
+Building (21-50 SP) 
+ _ 
+ – – 
+2+
+Building (over 50 SP) 
+ – – 
+2+
+* When a D0 unit or CP is hit by the shockwave, roll as for any 
+other unit. A D result has no effect on CPs, and disables trucks and 
+other D0 units.
+To use this table, find the unit type in the first column. Read 
+across to the distance in hexes from that unit to the explosion. Then 
+read up to find the result: automatic destruction (X), no effect (NE), 
+or an attack at a specified odds ratio.
+Terrain may protect units outside the explosion hex. If a unit 
+is in woods or swamp, treat it as being one hex farther from the 
+explosion. If it is in a town hex, or underwater, treat it as being two 
+hexes farther away. Infantry in a rubble hex is also treated as being 
+two hexes farther away.
+When Structure Points of a building, or Ogre treads, are the 
+target, divide the total number of SPs or tread units by 5. Round up, 
+and roll that many separate attacks. Each X destroys 5 SPs or treads. 
+If a damaged building is the target, use its current SP value, rather 
+than its original value, to determine which line of the table to read.
+10.05 Off-board missiles. Some scenarios allow one player to 
+use Cruise Missiles fired from off the board – i.e., from protected 
+sites some distance away. These are treated exactly like crawler-
+fired missiles except that:
+(a) The scenario will specify an “origin area” for each off-board 
+missile. The missile must enter from this area.
+(b) Since an off-board missile has already traveled a long way 
+before reaching the combat zone, the enemy is assumed 
+to have tracked it already, and each unit firing on it gets an 
+automatic +3 bonus to its roll. No further bonus is received, 
+no matter how far the missiles travel once they are on the map.
+10.06 Post-firing tactics. Once a missile is fired, a Crawler has 
+no further combat value for that game. However, it represents a 
+large investment, and the owning player should try to protect it to 
+deny victory points (see back cover of Scenarios) to the enemy. 
+
+11.01 General. The CP units in Ogre and G.E.V. represent small 
+structures, protected mostly by ECM and perhaps a few centimeters 
+of BPC or a few meters of earth. The town hexes are assumed to 
+consist of ordinary wood and brick construction. A large building, 
+built from steel and concrete and armored as heavily as an Ogre, 
+is much sturdier. No single attack with anything less than a Cruise 
+Missile will destroy such a building.
+11.02 Building Types. There are five different types of building 
+counter; see Section 3.06 for descriptions. Buildings of a given type 
+may vary in the number of Structure Points (SP) they have, since 
+some are more strongly built than others. Scenarios will specify 
+building types and SP.
+11.03 Structure Points. 
+The strength of each building 
+is measured in Structure Points 
+(SP), as shown on a separate 
+Structure Point marker. 
+When a building is attacked, 
+it loses structure points; keep 
+track of this on a piece of paper, 
+using the building’s hex number to identify it. When a building’s 
+SPs are reduced to 0, it is destroyed.
+11.04 Attacks on buildings. Buildings may be attacked by 
+regular fire, in an overrun attack, or by ramming.
+11.04.1 Regular attacks. Any unit with an attack strength may 
+attack a building. AP weapons have no effect on buildings, but all 
+other weapons automatically hit if fired at a building within range. 
+Any weapon does damage equal to twice its attack strength. 
+Thus, an Ogre main battery, with an attack strength of 4, 
+would do 8 SP damage to a building.
+If a building is in town or forest, attacks are halved 
+to normal attack strength. Thus, an Ogre main battery, 
+with its attack strength of 4, would do only 4 SP damage to 
+a building in town.
+11.04.2 Overrun attacks. When a building is attacked in 
+an overrun – i.e., when the attackers are in the same hex as 
+the building – damage is doubled: each attack does damage 
+equal to four times the weapon’s attack strength. Each unit 
+or weapon may only attack a building twice per overrun, 
+regardless of the number of “fire rounds” that are exchanged 
+between the attacking units and any defenders in the hex. 
+Note, though, that attackers which still have movement left 
+after an overrun may expend another movement point, stay 
+in the same hex, and make another overrun attack!
+If a building in a town or forest is overrun, damage is 
+doubled for overrun and halved for terrain, so the net effect 
+is that damage is twice the weapon’s attack strength.
+11.04.3 Ramming buildings. An Ogre may ram 
+a building as though it were ramming a larger Ogre 
+(Section 6.05). Thus, any Ogre loses five tread units each time 
+it rams a building. The Ogre rolls dice, as per the Size Table, to 
+determine how many SP the building loses, but it rolls one more die 
+than it would if ramming another Ogre.
+Some other units can ram buildings, per the Size Table on p. 14. 
+A Heavy Tank or Superheavy may ram once per turn. It undergoes 
+a 1-2 attack when it rams. If optional rule 13.07 is in use, a SHVY 
+instead loses treads as an Ogre Mark I. GEVs and GEV-PCs can only 
+damage a building by crashing into it at full speed – which, of 
+course, destroys the hovercraft as well. Other units are too slow, or 
+too light, to affect a building by ramming.
+11.04.4 Spillover attacks. Buildings are not affected by 
+spillover fire.
+11.05 Stacking. Any number of buildings may be placed in a 
+single hex. Buildings do not count against the stacking limit for 
+armor units in a hex. Other units (unless specified for a scenario) 
+get no protection from being located in the same hex as a building.
+11.06 Building identification. Each flat building counter 
+shows only the word “Building” on the reverse side, to allow 
+scenarios in which some or all buildings are unidentified at the 
+beginning of combat. In such a case, a building counter is turned 
+right-side-up, and the building identified, when any enemy unit 
+passes within 3 hexes.
+12.00
+12.01 General. Laser units are primarily for missile defense, 
+but can also be used against attacking units. Defensively, they are 
+buildings with Structure Points; see Section 11.
+12.02 Standard Lasers. A standard laser turret 
+has a range of 30 hexes. Its line of ﬁ re is blocked 
+by ridge hexsides or any raised terrain – i.e., forest, 
+swamp (assumed to contain trees), towns, or rubble.
+To determine laser line of sight, place a straightedge 
+between the centers of the laser hex and target hex. If the 
+line enters or crosses any forbidden terrain, or runs along 
+a line between two hexes of forbidden terrain, the laser 
+cannot ﬁ re. Otherwise, it can ﬁ re.
+12.03 Laser Towers. A laser tower mounts the same 
+type of laser that a standard emplacement does. Its height 
+makes it more vulnerable, but also gives it a much greater 
+range: 60 hexes. A laser tower can ﬁ re over any type of 
+terrain, but cannot attack a unit that is actually in a town, 
+swamp, forest, or rubble hex. Exception: A laser tower 
+can always ﬁ re on a Cruise Missile in range, because the 
+missile ﬂ ies over terrain rather than hiding within it.
+12.04 Attacks against Cruise Missiles. Each laser 
+or laser tower can ﬁ re once at each Cruise Missile that 
+comes within its range. The defender decides when to 
+ﬁ re. The chance of a hit is determined by the table in 
+Section 10.03.2. A hit destroys the missile.
+11.00
+
+These rules may be used to add detail when the basic game is 
+fully mastered. They may be used in any combination.
+13.01 Damage to terrain and roads.
+Damage to terrain can be tactically useful, and 
+is an objective in some scenarios. Each hex has 
+a defense strength of 4 and may be attacked 
+separately, as though it were a unit. Calculate 
+spillover fire normally on any units in the hex.
+If a town or forest hex gets a D result, it is 
+damaged. All roads through that hex are cut. 
+Place an overlay with the damaged version of that 
+terrain. It will cover the road. Effects on movement 
+and defense strength are otherwise unchanged.
+If a damaged town or forest hex gets another D
+result, or if any town or forest hex gets an X result, 
+it is turned to rubble. Place a rubble overlay (left) 
+on the hex. Ogres and Superheavies treat rubble 
+as clear terrain. Other units treat rubble as swamp. 
+Any road or railroad through the hex is cut.
+A clear or swamp hex can be attacked, as above. A D or X result 
+cuts the road or railroad, but no result changes the terrain type. 
+Place an overlay showing the same terrain type, covering the road.
+13.01.1 Weak attacks. In the event that a hex is attacked by a 
+lone unit with an attack strength of 1, allow it a 1-2 attack on every 
+second turn.
+13.01.2 Spillover and overrun damage to terrain. If a regular 
+attack is made against a unit in a town or forest hex (or any hex 
+containing a road or railroad), a spillover attack is rolled against 
+the hex’s defense of 4. As with other spillover attacks, the attack 
+is at half strength, D results are ignored, and X counts as D. This 
+means only attacks with a base strength of 8 or more can have any 
+spillover effect on the terrain! 
+When overrun combat takes place in an undamaged hex, the hex 
+becomes damaged as of the end of the overrun, regardless of the size 
+of the combat. Overrun combat in an already-damaged hex does not 
+damage it further.
+13.01.3 Automatic destruction of roads and railroads. Any 
+unit may spend its attack against a road or railroad in the same hex, 
+destroying it automatically. Place a Road Cut marker. The hex itself 
+is not damaged.
+The road or railroad in a hex is also cut if the hex is damaged or 
+turned to rubble (see 13.01).
+13.02 Destruction of bridges. Where a road or railroad crosses 
+a stream hexside, there is a stream bridge with a defense strength of 
+D6. It lies in two hexes and can be attacked by firing at either hex. 
+Fire on both of its hexes can be combined for effect. Only an X result 
+destroys a bridge. If the bridge is destroyed, the road is cut. Place 
+an overlay showing a stream with a downed bridge.
+If a stream bridge is attacked by a unit in one of its own two 
+hexes, it is automatically destroyed.
+Stream bridges are considered to be BPC-armored, and are not 
+affected by anything except direct attacks.
+13.02.1 Attacks on large bridges. A bridge which crosses a full 
+hex (such as G1-2013) has a defense strength of 8. A river bridge 
+lies in three hexes – the river hex and the adjoining road hexes – 
+and can be attacked by firing at any of them. Fire on any of its hexes 
+can be combined for effect. If a river bridge is attacked by a unit in 
+one of its own three hexes, it is automatically destroyed.
+River bridges are considered to be BPC-armored, and are not 
+affected by anything except direct attacks. Exception: An attack on 
+a unit on the center hex of the bridge gives an automatic, separate 
+attack, of the same strength, on the bridge itself.
+13.02.2 Results of river bridge destruction. If a river bridge 
+is destroyed, place a “Bridge Out” overlay on it. GEVs can no longer 
+cross the river surface in that hex – and, of course, units cannot 
+cross the river on the destroyed bridge. For movement purposes, 
+all units treat that hex as the worse of swamp or rubble. For defense 
+purposes, the hex is rubble.
+When a river bridge is destroyed, any unit on its center hex is 
+also destroyed, except an Ogre. An Ogre falls into the river in that 
+hex. Four dice are rolled; this is the amount of damage done to 
+the Ogre’s treads. Each other component of the Ogre immediately 
+suffers a 1-1 attack.
+13.03 Ogre equivalents. When purchasing armor units, Ogres 
+may be substituted. The following table shows how many armor units 
+(or 3-squad infantry counters) each Ogre is worth. For example, if a 
+scenario calls for 30 armor units, a player could instead take an Ogre 
+Mark II (worth 8 armor units) and 22 armor units.
+Unless a scenario specifically suggests substituting Ogres, using 
+these equivalents is always optional. Some scenarios will become 
+badly unbalanced by the addition of an Ogre, especially a big one. 
+The values for units larger than Mark III-B are only guidelines, 
+depending entirely on the map and objectives. The Mark VI and 
+Doppelsoldner are not at all recommended for scenarios that use 
+only a single map, unless the entire objective is a slugfest!
+The cost of special-purpose cybertanks (Ninja, Vulcan) depends 
+on the scenario, but should be at least 25 armor units (150 VP), if 
+they can be “bought” at all.
+13.00
+A l
+12.05 Attacks against Ogre missiles. A laser or laser tower 
+can attempt to intercept each Ogre missile on the turn it is ﬁ red. 
+No other unit may do so – Ogre missiles are smaller and faster than 
+Cruise Missiles. To hit an Ogre missile, the laser must roll a 10 or 
+above on two dice. (Missiles from a Missile Tank are too small and 
+fast for a laser to attack at all.)
+12.06 Attacks against other units. If a laser or laser tower did 
+not ﬁ re at all during the preceding enemy turn, it may make one 
+attack during its own ﬁ re phase. It has an attack strength of 2, and 
+may attack any unit within the restrictions of 12.02 and 12.03.
+12.07 Damage. When a laser or laser tower is reduced to 10 SP, 
+it is “damaged.” Place a “Damaged” marker. The laser can no longer 
+ﬁ re, but it is not actually destroyed until it is reduced to 0 SP.
+12.08 Spillover ﬁ re. A laser attack does not give spillover ﬁ re 
+on units stacked with the target. If a vehicle is the target, the attack 
+does aﬀ ect infantry riding on that vehicle (Section 5.11).
+12.09 Overruns. A laser being overrun ﬁ res at double strength 
+(4), because of the close range. However, a damaged laser (Section 
+12.07) does not ﬁ re at all.
+
+Mark I ........................................................... 4 armor units
+Mark II .......................................................... 8 armor units
+Mark III ........................................................17 armor units
+Mark III-B .....................................................20 armor units
+Fencer ..........................................................22 armor units
+Fencer-B .......................................................23 armor units
+Mark IV, V .....................................................25 armor units
+Ninja, Vulcan .....25 armor units or more, depending on scenario
+Mark VI, Doppelsoldner ...................................40 armor units
+13.04 Mines. The defender is given a predetermined number 
+of mines. He places them in whatever hexes he wishes, recording 
+the hex numbers and whether they are on the road. Any number of 
+mines may be placed in a hex, and only one goes off at a time. The 
+attacker does not know which hexes are mined.
+If a mine is on a road, it explodes when any unit enters that hex 
+on the road, but is unaffected if a unit enters the hex without using 
+the road.
+If a mine is not on a road, it explodes only on a die roll of 6 (5 or 6 
+for an Ogre). Mines that fail to go off are unaffected, but by entering 
+the hex, the opposing player learns that it is mined.
+A mine explosion affects only the unit setting it off. Armor units 
+are destroyed; infantry is reduced by 1 squad; an Ogre rolls 1 die 
+and loses that many tread units. The mine itself is destroyed. A 
+mine explosion on a bridge hex destroys it; a mine explosion on a 
+road or railroad creates a road cut. Mines are not large enough to 
+turn towns or forest to rubble.
+13.05 Camouflage. Some or all defending units are optically 
+and electronically masked. The attacker(s) can detect the presence 
+of each unit, but not its nature. The defender sets up his forces and 
+then replaces each camouflaged unit with a numbered ? counter. 
+He keeps a list of what unit is represented by each number. As soon 
+as any camouflaged unit moves or fires, or as soon as an enemy unit 
+moves through or fires on its hex, the ? marker is replaced by the 
+real unit.
+13.06 Dummy units. The defender sets up with some extra 
+counters, placing a “Dummy” marker underneath each one. He 
+places an equal number of ? markers under other counters so it’s not 
+obvious which units are dummies. A dummy may be camouflaged.
+ A dummy cannot move or fire, and is removed when an enemy 
+unit moves through or fires on its hex. A ? counter under a real unit 
+is removed when that unit moves, fires, or is disabled.
+13.07 Partial Damage for Superheavies. A Superheavy Tank 
+may be treated as a small manned Ogre, with its own record sheet. 
+The ability to survive an X result with only partial damage makes SHVY 
+units considerably tougher. Increase SHVY cost to 3 armor units.
+D results have their normal effect, but a second D has no further 
+result; D results don’t combine into an X.
+On any X result, roll one die.
+1, 2 One main gun and one AP gun are lost. Unit is disabled. If 
+both main guns were already gone, unit is destroyed.
+Tread damage. Roll 1 die and mark off that many treads. Unit 
+is disabled.
+Major tread damage. Roll 2 dice and mark off that many 
+treads. Unit is disabled.
+Mobility kill; mark off all treads. Unit is disabled.
+Unit is destroyed, as with a normal X result.
+SHVY RECORD SHEET
+Guns (3/3) 
+AP (1/1) 
+(not attacked separately)
+Tread units are also lost if the SHVY rams a building or Size 5+ 
+unit, or is rammed by a Size 5+ unit. It cannot be automatically 
+destroyed by a ram.
+18 Tread Units:
+3 hexes 
+ 
+2 hexes 
+ 
+1 hex 
+ 
+T
+it
+l
+l
+t if th SHVY
+b ildi
+Si
+Explanation of CRT Results
+ 
+►NE indicates “no effect” to 
+the unit attacked.
+ 
+►X indicates destruction of the 
+unit attacked; remove it from 
+the board.
+ 
+►The intermediate result is a
+D. An infantry unit is imme-
+diately reduced by one squad. 
+An armor unit (or a hardened 
+CP) is “disabled.” A disabled 
+unit cannot fire or move; turn 
+the counter over. If it receives 
+another D result while dis-
+abled, it is destroyed.
+A unit disabled by ramming 
+or enemy fire recovers after one 
+full enemy turn has passed. If it 
+becomes disabled on an enemy 
+turn, it remains disabled through 
+that enemy turn, through its own 
+turn, and through the next enemy 
+turn; it then recovers. If disabled 
+on its own turn by making a ram 
+(6.07.1, 11.04.3), it remains 
+disabled through the enemy turn 
+and recovers on its next turn.
+A unit disabled by entering 
+terrain remains disabled through 
+the enemy turn and rolls to 
+recover on its next turn.
+A D result does not affect the 
+train or Ogres.
+Spillover CRT results. When 
+spillover fire (7.12) occurs, each 
+result on the CRT is “taken down” 
+one step. A D result is read as NE, 
+and an X is read as a D. To affect 
+a unit with a spillover, you must 
+roll an X – and then it counts only 
+as a D.
+Overrun CRT results. When an 
+overrun attack (Section 8) occurs, 
+treat any D or X result to non-Ogre 
+units as an X. Only a true X affects 
+an Ogre, though.
+Combat odds are always rounded off in favor of the defender. 
+Attacks at less than 1 to 2 are always NE. 
+Attacks at 5 to 1 or better are an automatic X.
+COMBAT RESULTS TABLE
+Die 
+Roll
+1-2
+1-1
+2-1
+3-1
+4-1
+Combat Odds

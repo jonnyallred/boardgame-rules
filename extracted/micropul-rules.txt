@@ -1,0 +1,119 @@
+micropul
+A solitaire puzzle for 1 or a competitive game for 2 players
+(version 1.2.1) Feb. 24, 2004 © Jean-Francois Lassonde
+It's impossibly costly to harvest micropul, a new kind of matter found inside an energy core. An easier
+way is to shoot a micropul right on a catalyst to cause a fission and break off chunks from the core.
+Scientists all over the world are looking into optimizing this new physics-deyfing technique. “If you're
+smart enough, it's like using electricity to generate twice the amount of electricity! This is the future...”
+Contents
+48 different tiles
+6 stones in 2 colors
+Goal
+At first, you have a limited number of tiles and must play them optimally to gain more. The goal is to
+collect the most tiles possible by using the less tiles possible. At the same time, try to form groups of
+micropul and claim them as your own. Scoring is done at the end when the core is depleted.
+Rules
+Understanding the game is easy once you grasp how micropul and
+catalysts interact with each other and themselves. A micropul is a
+circle (shown left) while catalysts are small dots/cross (shown right).
+You'll notice that every tile have at least one micropul on it. That's because micropul
+have the power to hold tiles together, which is necessary in this game. The rules presented below are
+important to the game and must be followed at all time.
+●Rule #1 Any new tile coming in play must be attached to the
+rest of the tiles already in play. More precisely, to attach your
+tile one of its micropul must be adjacent to another micropul of a
+tile already in play.
+●Rule #2 A black micropul can never be adjacent to a white
+micropul and vice-versa. For each new tile you put in play,
+always make sure not to place the tile in a position that will put a
+black and a white micropul next to each other.
+In the example, the tile shown in green is the one being played. As per rule #1, the tile is attached to
+the rest of the tiles but rule #2 is not respected because a white micropul is adjacent to a black
+micropul. Thus, this play is not valid. If the tile is rotated 90° clockwise, it would be valid.
+The catalysts (dots/cross) are not bound by the same restrictions as the micropul. They can be adjacent
+to any other catalyst of any type or any micropul of any color. Catalysts are not used for attaching tiles
+together. Instead, a catalyst next to a micropul will activate an effect once the tile has been put in play...
+
+Preparation
+Place the starting tile in the middle of the table.
+It's the one with 4 micropul, 2 black and 2 white.
+Shown in the set-up example to the left.
+Shuffle all tiles face down and make small
+stacks. Put the stacks where every player can
+reach them, it is called the core.
+Each player receive 6 random tiles from the
+core and put them in his hand. The tiles can
+stand on their side. 
+Each player receive 3 stones of one color and
+place them by his side.
+Determine the first player.
+On your turn
+Players take turns one at a time. You have three options during your turn but can only do one of them. 
+• Lay a tile from your hand in play
+• Take a tile from your supply to your hand
+• Put a stone on a group of micropul
+Option: Lay a tile from your hand in play
+If your hand is empty, this action cannot be taken. When laying a tile, your goal is to activate catalysts
+which will enable you to draw new tiles from the core.
+➔Choose one tile in your hand and lay it next to a previously placed tile. Respect rules #1 and #2!
+Once your tile is successfully placed, check if any catalysts have been
+activated. A catalyst is activated by being adjacent to an external micropul:
+If a micropul on your tile is adjacent to a catalyst on another tile, it is
+activated. Catalyst on your tile is activated if it is adjacent to a micropul
+on another tile.
+➔Draw tiles from the core, the big stacks of tiles made at game's start.
+Put them face down next to you, this is now your supply stacks. The
+catalysts activated determine how many tiles to draw. If you activated at
+least one cross (+) catalyst, play another turn.
+Draw one tile
+Draw two tiles
+Play again
+Catalysts are activated only once per turn but can be activated again on a subsequent turn.
+The tile in green is being
+played. You receive 2 tiles
+from the core.
+One and only one action must
+be taken each turn. A player
+cannot pass a turn. You lose the
+game if you have no more tiles in
+hand or in supply.
+
+Option: Take a tile from your supply to your hand
+You cannot have more than 6 tiles in your hand. If your hand is full, this action cannot be taken. Taking
+a tile from your supply of face down tiles will give you more choice when choosing what tile to play.
+➔Draw one tile at random from your supply stacks. Put this tile face up in your hand.
+Option: Put a stone on a group of micropul
+You cannot take this action if you have no more stones. When putting a stone on a group, your goal is
+then to close that particular group so it's worth victory points to you at the end of the game.
+➔Put one of your stone on any micropul of a tile in play to claim that group. You now own this group
+of micropul. A stone cannot be placed on a group that is already owned. It is possible to claim a
+group that is already closed.
+What is a group of micropul?
+It is any number of micropul of the same color linked
+together by being adjacent to one another. Groups can be
+either open or closed. Only closed groups scores points.
+Open group means that it can still grow. New micropul
+can be added to that group by playing new tiles.
+Closed group means all micropul of that group are
+surrounded by elements of the game. No micropul of that
+group is standing at the edge of the playing area. Thus, it
+is impossible to add new micropul to that group.
+It's possible for two groups claimed separately to merge
+into one group by playing a tile which will connect them
+together. That group will not be worth any points.
+What is a big micropul?
+There are four tiles featuring “big micropul” on them.
+They act just like a tile with four micropul of that color on
+it. Also, those tiles have one catalyst that can be activated
+from any side. It act like a regular catalyst.
+Game end
+The game end as the last tile is drawn from the core. Remove stones from groups of micropul that are
+still open or have more than one stone on them. Those groups will not score points.
+For each closed group you own, score victory points for micropul in that group. Each micropul
+is worth 1 point. A big micropul is worth only 1 point too.
+Each tile in your supply stacks is worth 2 points. Each tile in your hand is worth 1 point.
+The player with most points win the game. There is no tie-breaker.
+When the green tile is placed, it will close the group
+of white micropul. That group will be worth 10
+points at the end of the game because there are 10
+micropul in it.

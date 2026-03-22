@@ -1,0 +1,2125 @@
+© 2011 GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308 • www.GMTGames.com
+[1.0] INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . 2
+[2.0] GAME EQUIPMENT. . . . . . . . . . . . . . . . . . . . 2
+[3.0] SETTING UP THE GAME. . . . . . . . . . . . . . . . 3
+[4.0] SEQUENCE OF PLAY. . . . . . . . . . . . . . . . . . . 3
+[5.0] THE CARDS. . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+[6.0] SUPPLY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+[7.0] ORGANIZATION. . . . . . . . . . . . . . . . . . . . . . . 6
+[8.0] MOVEMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+T A B L E O F C O N T E N T S
+[9.0] RAIL MOVEMENT. . . . . . . . . . . . . . . . . . . . . . 9
+[10.0] COMBAT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+[11.0] MARKER / UNIT REMOVAL. . . . . . . . . . . . 14
+[12.0] HOW TO WIN. . . . . . . . . . . . . . . . . . . . . . . . . 14
+[13.0] GAME TURN EVENTS . . . . . . . . . . . . . . . . . 16
+[14.0] SPECIAL UNITS. . . . . . . . . . . . . . . . . . . . . . . 18
+[15.0] OPTIONAL RULES. . . . . . . . . . . . . . . . . . . . . 20
+[16.0] COMBINED EXAMPLE OF PLAY. . . . . . . . 22
+T h e R u s s i a n F r o n t : 1 9 4 1 - 1 9 4 5
+R U L E B O O K
+
+[1.0] INTRODUCTION
+No Retreat! is a two-player grand strategic level wargame 
+depicting the struggle between the Axis powers and the 
+Soviet Union during World War 2 from the start of Opera-
+tion Barbarossa on June 22, 1941 (the invasion of Russia) 
+to the final surrender of Germany in 1945.
+Parts Inventory
+•	one 22 x 36” mapboard
+•	two 8.5” x 11” player aid sheets
+•	one sheet of 88, 2-sided square units
+•	one sheet of 56, 2-sided round markers
+•	one Rule book
+•	one Scenario booklet
+•	55 Event Cards
+•	One 6-sided die
+The following abbreviations are used in these rules:
+CRT: Combat Results Table
+EZOC: Enemy Zone of Control
+MP: Movement Point
+TEC: Terrain Effects Chart
+VP: Victory Point
+ZOC: Zone of Control
+[2.0] GAME EQUIPMENT
+[2.1] Game Map and Scale
+The game map represents that portion of European Russia 
+where the major campaigns took place. A hexagonal grid 
+has been superimposed to regulate movement and the po-
+sition of the playing pieces. A unit must always be located 
+in a specific hex. Explanations of the terrain features are 
+found on the Terrain Effects Chart. 
+Each hex is equivalent to 100 kilometers from side to side. 
+Each turn represents two months of real time, except the 
+first turn (two weeks), and in 1945 (one month).
+[2.2] Game Charts & Tables
+Various game aids are provided for the players in order 
+to simplify and illustrate certain game functions. These 
+include the two Combat Results Tables, the Terrain Effects 
+Chart, the Game Turn Track, and the Victory Point Track. 
+[2.3] Playing Pieces
+The playing pieces represent actual military units that 
+fought in this campaign. The numbers and symbols on 
+them indicate their strength and type.
+The “Axis” (a.k.a. “German”) player controls the German 
+Army (gray/green) and Axis Allied Rumanian/Hungar-
+ian/Italian/Finnish (blue) units. The “Soviet” (a.k.a. “Rus-
+sian”) player controls all Soviet (brown/red) units.
+Square (High Tide, Weather and Victory Points) and round 
+(Blitz!, Shock!, Disorganized, Unsupplied, Game Turn, 
+Target, Counterblow, Support and Control) markers have 
+also been provided to help players remember certain in-
+formation during play. 
+The five counters on the next-to-last row of round game 
+pieces will be used in an upcoming Solitaire module, to be 
+published in a forthcoming issue of C3i Magazine.
+Sample Units
+Units (as opposed to markers) have information printed on 
+them as shown below, representing their capabilities. 
+German units have two ‘steps’ each and are full-strength 
+on their front side and reduced-strength on their reverse 
+side.
+Russian units all begin the Campaign game as one-step 
+units with their red side being the ‘improved’ version of 
+their brown sides. Later, most will upgrade to two-step 
+units with their red side as full-strength and brown side 
+as reduced-strength.
+Unit Type Symbols
+	 	 	
+Infantry
+	 	 	
+Regional
+	 	 	
+Fortified
+	 	 	
+Shock
+	 	 	
+Panzergrenadier or
+	 	 	
+Mechanized Infantry
+	 	 	
+Panzer or Tank
+Combat Strength measures a unit’s value in battle as 
+expressed in Strength Points. Some units have outlined 
+(white) Combat Strengths, indicating that they usually 
+cannot attack (but see 10.1.2).
+Movement Allowance determines how far that unit can 
+move each turn as measured in Movement Points (MPs).
+Front
+Back
+Combat
+Strength
+Movement
+Allowance
+Setup or
+Reinforcement
+Code
+Designation
+White =
+ Cannot Attack
+Parenthesis = 
+No Zone of 
+Control
+X = No Combat
+Strength
+Optional 
+Unit
+Infantry
+Types
+Armor Type
+
+Some units have no Movement Allowance (as a reminder 
+that they are immobile) and their Combat Strength is in 
+parenthesis as a reminder that they also have no Zone of 
+Control (as per Rule 8.5).
+Unit Size & Designation
+All German and Axis units generally represent Armies of 
+80,000 to 120,000 men and their equipment.
+Soviet Units generally represent Fronts (Army Groups) of 
+about 130,000 to 210,000 men and their equipment. Soviet 
+Tank units represent Armies plus an amalgamation of sup-
+plies and support equipment from various Fronts.
+Unit Designation is the historical name of that formation 
+(e.g., Army or Front) and used to identify it.
+The Map
+The map is divided into hexagons (called “hexes” for 
+short), which define a units’ positions just like the squares 
+of a chessboard. The map also shows important terrain 
+such as cities, marshes, forests, mountains, major rivers 
+and so forth.
+The Cards
+The cards are a resource that can be used for many pur-
+poses including generating Random Events, or discarded 
+to pay for replacements, rail moves, or launching Coun-
+terblows. 
+[3.0] SETTING UP THE GAME
+Lay out the map between the players. The Axis player sits 
+along the west edge and the Soviet player on the east edge. 
+Each player takes a Combat Results Table sheet for their 
+side (they are also on the map). Then refer to the separate 
+Scenario booklet, choose a scenario, and follow its Setup 
+and Special Instructions.
+[4.0] SEQUENCE OF PLAY
+How the Turns Work: Each Game Turn consists primarily 
+of an Axis Player Turn followed by a Soviet Player Turn. 
+During each player’s turn, several Phases (e.g., movement 
+and combat) are conducted in a strict sequence. All actions 
+in one Phase must be completed before the next Phase be-
+gins. Before both players have conducted their respective 
+Player Turns, a mutual Housekeeping Phase is conducted 
+to organize things for the next Game Turn.
+My Turn; Your Turn: The player who is currently conduct-
+ing his Player Turn is called the “Phasing Player.” His op-
+ponent is known as the “Non-Phasing Player.”
+New Game Turn Housekeeping
+A. Advance Game Turn Marker: Advance the Game Turn 
+marker on the Turn Track or, if the 28th turn was just com-
+pleted (or possibly the 22nd (see 12.4), the game ends and 
+the winner is determined.
+B. New Game Turn Events Phase: Any Event listed on 
+the Turn Track for the new Game Turn (i.e., the box the 
+Game Turn marker was just moved into) is noted and, 
+if applicable (e.g., a unit removal or VP Event), is also 
+applied at this time (see 13.5 for a complete listing and 
+explanations).
+C. New Game Turn Victory Phase: If a red-lettered Turn 
+Event is listed, the Soviets immediately score one Victory 
+Point (1 VP). 
+Objective Victory is checked every turn and Sudden Death 
+Victory is checked on turns denoted by a skull symbol. 
+During this Phase of Turn 12, the Initiative shifts (12.9).
+Axis Player Turn
+1. Card Phase: The Phasing Player must discard down to 
+two cards and then draws four more cards.
+2. Supply Check Phase: Unsupplied markers are placed 
+on both sides’ units that cannot trace a valid Supply Path 
+at this time.
+3. Organization Phase: The Phasing Player brings on 
+Reinforcements, takes Replacements, upgrades his units, 
+and returns his Shattered units to the map.
+4. Movement Phase: The Phasing Player may move his 
+units on the map, including moving them off the map to 
+the Rail Movement Box.
+5. Combat Phase: All Voluntary, and then all Involuntary, 
+Battles are declared and resolved as per the Battle Sequence 
+in any order the Phasing Player desires.
+6. Marker/Unit Removal Phase: All units still Unsupplied, 
+various markers, and Surrendered Axis Allied Army units 
+are removed from the map.
+7. Detraining Phase: The Phasing Player may put his units 
+in the Rail Movement Box back on the map.
+Axis Event
+Soviet 
+Event
+Card 
+Number
+Removed 
+in 1945
+(5.5)
+May only be 
+played if the 
+VP marker is 
+on its “Drang 
+Nach Osten!” 
+side (5.3.3)
+
+Soviet Player Turn
+The Soviet player becomes the “Phasing Player” and re-
+peats the above seven Phases, in order, that the Axis player 
+just completed.
+[5.0] THE CARDS 
+Cards are drawn, one by one, during a player’s Card Phase 
+from a Draw Pile. After their use, played cards are placed 
+face-up in a Discard Pile. The Discard Pile is reshuffled 
+when there is only one card left in it (that card is not drawn!) 
+or when instructed to by the play of certain Events. You 
+cannot examine the Discard Pile unless instructed to do 
+so by an Event Card.
+Appropriate Timing
+Events must be played when their corresponding actions 
+are performed according to the Sequence of Play (4.0).
+EXAMPLE: You must play a card that gives you a free unit 
+upgrade during your own Organization Phase, not during your 
+opponent’s Combat Phase.
+Card play itself is sequential; that is, cards are resolved in the 
+order that they were played unless they conflict, in which 
+case the card played last takes precedence.
+EXAMPLE: The Axis player wins a crucial battle and plays 
+his “General Staff” card to add one additional (+1) hex to the 
+Advance After Combat of all his Attacking units. The Soviet 
+player then plays his “Rasputitsa” card. Now the Axis Advance 
+After Combat is limited to only 1 hex.
+Had these cards been played in the opposite order, the Axis would 
+be reduced to a 1 hex Advance from the Soviet card, plus + 1 
+hex for the Axis card for a total of 2 hexes. Thus, both cards are 
+applied in the order played.
+If both players play a card at the same time, the player 
+whose side has the Initiative (12.9) decides their play order; 
+either his card first, or his opponent’s.
+Once is Enough: Because cards can be retrieved from the 
+Discard Pile and reused, this rule applies: The exact same 
+Event cannot occur twice during a single Player Turn.
+[5.1] Discard Step
+The Card Phase begins by discarding. A player can only 
+retain two cards in his hand before drawing, so he must 
+discard any excess cards in his hand at this time.
+[5.2] Draw Step
+After discarding (if required) during the Discard Step, a 
+player draws four cards from the Draw Pile and adds them 
+to his hand. The following conditions can affect a player’s 
+per turn Draw Rate (DR):
+–1 Soviet Card each if the Axis controls Moscow OR the 
+Caucasus oil field (along the southeast map edge). 
+–1 German Card if the Soviets control the Rumanian oil 
+field (near Bucharest). 
+[5.3] Events
+The cards have text above and below a bold line. The text 
+above the line with the Gray headline are Events playable 
+by the Axis player only, while the Events below the line 
+with the red headline are only playable by the Soviet player. 
+Thus, the effect of each card is different depending upon 
+who has it in his hand. Once played, cards are discarded. 
+[5.3.1] Event Effects: Events describe their exact timing 
+and use on the cards themselves. When not specified, that 
+Event may be performed at any time. 
+[5.3.2] Event Precedence: When there is a conflict between 
+Event text and the Rules, the Event text takes prece-
+dence.
+[5.3.3] Initiative Events: Events with a German cross 
+(Balkenkreuz) symbol can only be played if the VP marker 
+is on its “Drang Nach Osten!” side (German initiative).
+Events with a Soviet Star symbol can only be played 
+while the VP marker is on its “Na Berlin!” side (Soviet 
+Initiative).
+All other Events (i.e., those without either of these symbols) 
+may be played throughout the entire game.
+[5.4] Other Card Uses
+Besides their use in triggering Events, cards may be spent 
+(discarded) to pay for Replacements, additional Rail Moves, 
+recovery from Disorganization, and to launch Counter-
+blows during the Enemy Player’s Combat Phase.
+[5.5] 1945 Cards
+Some cards have a Red-barred “45” number in the upper 
+left corner: these will be removed from the deck in 1945, 
+and replaced by the Green-circled “45” cards. The Green-
+circled “45” cards are not put in the deck before Turn 23, 
+Jan 1945. Add those cards to the deck during the Na Berlin! 
+(On to Berlin!) Setup Procedure:
+On to Berlin! Setup Procedure
+During the Housekeeping Phase at the start of Turn 23 
+(January, 1945), perform all of the following in order:
+1. Out With the Old: Each player sorts through the cards 
+in his hand and the respective Draw and Discard Piles and 
+removes from play all of the Red-barred “45” cards. Set them 
+aside, they are no longer in play.
+2. In With the New: Shuffle together the now purged Draw 
+Pile, Discard Pile and the Green-circled “45” cards to form 
+a new Draw Pile. 
+3. As You Were: Play then continues. The Axis player will 
+conduct a normal Card Phase at the start of his turn.
+
+[6.0] SUPPLY
+During this Phase, both players check the supply status of 
+each of their on-map units. The Phasing Player’s units are 
+checked first followed by the Non-phasing Player’s units. 
+The timing can be important as unsupplied units lose their ZOCs 
+immediately when marked; see 6.4.
+[6.1] Overland Supply Path
+A unit is in supply if it is able to trace a valid Supply Path 
+to a friendly supplied City hex or to a friendly map edge. 
+A Supply Path is traced from the unit requiring supply no 
+more than four hexes in length (i.e., no more than three 
+intervening hexes) to the Supply Source.
+Cities and Supply: A City hex is “friendly” if a friendly 
+unit was the last to enter or pass through it, or it began 
+that scenario as a friendly supplied City hex. A City hex is 
+supplied if it is able to trace a valid Supply Path of unlimited 
+length from itself to a friendly map edge. A “friendly map 
+edge” is the west (dark gray) edge for the Axis, and the 
+east and south (red) edges for Russians. The path from a 
+city must be in a Westerly direction only for the Axis (West, 
+Southwest and Northwest), and an Easterly direction only 
+for the Soviets (East, Southeast and Northeast).
+DESIGN NOTE: The exclusive directions simulate each side’s 
+“Rail Net” capabilities.
+Direct Supply: A unit can also trace a Supply Path of no 
+more than four hexes directly from itself to a friendly 
+map edge.
+[6.2] Alternate Supply Sources
+There are three types of Alternate Supply Sources: Seas, 
+adjacent friendly units that have an Overland Supply 
+Path, and Minor Countries. Units that use an Alternate 
+Supply Source are in supply, but these do not constitute 
+an Overland Supply Path. 
+Seas as a Supply Source
+A unit on a coastal hex can use the sea as a Supply Source. 
+Units cannot trace to a sea—they must be on the coastal 
+hex. The following restrictions apply:
+Caspian Sea: Russian units only.
+Baltic Sea: Russian units may only use the Baltic Sea if 
+Leningrad is Russian controlled and Supplied. Axis units 
+may always use the Baltic Sea.
+Black Sea: Useable by both sides. Note that the Sea of Azov 
+is not a Supply Source for either side.
+Adjacent Units that have an Overland Supply Path
+An adjacent friendly unit that can, itself, trace an Overland 
+Supply Path (6.1), can serve as a Supply Source. 
+Minor Country Supply Source
+The Finnish unit is always in supply in Finland and the 
+Yugoslav units are in supply in the two Balkans areas.
+[6.3] Blocking Supply Paths
+A Supply Path is always blocked by enemy units.
+Enemy Zones of Control (see 8.5) also block Supply Paths 
+unless there is a friendly unit in that hex. That is, friendly 
+units negate Enemy Zones of Control for the purposes of 
+tracing a Supply Path.
+Note that Prohibited terrain (Lake hexes and hexsides) 
+does not block Supply Paths.
+EXAMPLE OF SUPPLY: The German 16th Army can trace a 
+valid Overland Supply Path four hexes back to Riga, an Axis-
+friendly city (6.1); this Supply Path must be traced across a 
+Prohibited hexside at Lake Peipus, which is permitted (6.3). 
+The (one-step) German 18th Army can trace its Supply Path to 
+the 16th Army (an adjacent supplied unit is an Alternate Supply 
+Source if it can trace an Overland Supply Path, as per 6.2).
+With Smolensk cut off from the Axis, the German 4th Panzer 
+Army cannot trace a valid Supply Path (as shown by the yel-
+low arrows) and so is tagged with an Unsupplied marker. It 
+can’t trace through the 18th Army in a ‘chain’ back to the 16th 
+Army, as the 18th Army does not, itself, have an Overland 
+Supply Path.
+The Soviet Kalinin Front can trace an Overland Supply Path 
+directly to the eastern map edge (denoted by the red border). 
+Note that the Axis Finnish Army projects no Zone of Control 
+to hinder that Supply Path as it is a Fortress unit.
+Leningrad can also trace an Overland Supply Path: its first 
+hex would be through Lake Ladoga (again, a Supply Path can 
+be traced across and through Prohibited hexes, including this 
+large Lake hex), and its second hex through the one occupied 
+by the Kalinin Front (since friendly units negateEZOCs for the 
+purposes of tracing a Supply Path; 6.3), and from there along the 
+same route as the Kalinin Front traced its Supply Path.
+
+[6.4] Unsupplied Markers
+When a unit is found to be Unsupplied during 
+the Supply Phase, place an Unsupplied marker 
+on it to denote its precarious status.
+[6.5] Unsupplied Effects
+A unit with an Unsupplied marker is thus affected:
+[6.5.1] Organization: See 7.0.A: Ineligible for The Flip 
+Step. 
+[6.5.2] Movement: Its Movement Allowance is reduced to 
+a maximum of 3 MPs.
+[6.5.3] No Zone of Control: It loses its Zone of Control for 
+all purposes.
+[6.5.4] Combat: It never receives an Armor Bonus when 
+attacking (10.6.3), cannot conduct a Multi-Hex Advance 
+(10.8.1), awards units attacking its hex two shifts to the right 
+on the CRT and, if eliminated is placed in the Surrendered 
+Units Box (10.7.1).
+DESIGN NOTE: There is no penalty for attacking “Out of 
+Supply”—only for defending. Because of the structure of the 
+Sequence of Play you get one turn to get out of the pocket your 
+opponent created!
+[6.5.5] Events: Certain Events apply only to Supplied forces. 
+This means the unit or, if more than one unit is involved, at 
+least one unit on the receiving side, must be in supply.
+[6.5.6] Removal: Units that remain Unsupplied are elimi-
+nated during the Removal Phase (as per 11.1).
+[7.0] ORGANIZATION
+In this Phase, the following Steps must be performed in 
+order:
+A. Flip Step: Educate and Improve units
+B. Placement Step: Reinforce, Replace and Recover units
+C. Reorganization Step: Pay to remove Disorganization 
+markers
+A. The Flip Step
+Important: Only units that can trace an Overland Supply 
+Path (6.1) may be Improved (7.1) or Upgraded (7.2).
+[7.1] Improving Reduced-Strength Units to 
+Full-Strength
+Only two-step units currently on the map on their reduced 
+side can be Improved (flipped over) to their full-strength 
+side. The following cost is incurred for each unit:
+•	The Axis player must discard two cards for each Im-
+provement (exception: SS units, see 14.5 & 14.6).
+	 DESIGN NOTE: It is ‘cheaper’ to Replace (7.9) an eliminated 
+German Army than to Improve one.
+•	The Soviet player must discard only one card for each 
+Improvement. (Exception: Shock units, see 14.7).
+	 Important: this rule applies to non-Fortress units only 
+on or after Turn 17 (see 7.3); prior to that, all other Soviet 
+units have only one step.
+[7.2] Free Soviet Upgrades “Education” 
+Starting on Turn 6, the Soviet player can 
+Upgrade one unit for free (i.e., no card cost) 
+per Soviet Organization Phase. An upgraded 
+Soviet unit is flipped to its stronger, red-col-
+ored side.
+[7.2.1] Free Soviet Unit “Experience:” Starting on Turn 13, 
+the Soviet player can Upgrade two units for free per Soviet 
+Organization Phase.
+[7.2.2] Upgraded, but Brittle: Even after Upgrading, those 
+stronger (red) Russian units still have only one step until 
+Turn 17 (see 7.3, below).
+Thus, as Upgraded one-step units, when they are eliminat-
+ed, they are placed in the Destroyed or Unsupplied boxes 
+on their red (one-step) side and will return, when replaced, 
+on that same side. However, they are considered two-step 
+counters for removal to the Surrendered Holding Box (see 
+rules 10.7.1 and 11.1).
+[7.3] Strong and Robust: 
+Starting on Turn 17, Soviet units cease to be “brittle” 
+(one-step units as per 7.2.2) and become “robust” (two-
+step) units with a (red) full-strength side and a (brown) 
+reduced-strength side.
+[7.3.1] No more Upgrades: Starting on Turn 18, Soviet units 
+cease to have free upgrades.
+This simulates the Late War Soviet Manpower problems.
+DESIGN NOTE: Thus, on Turn 17, Russians begin to function 
+much like Axis multi-step units. As per Rule 7.9.2, however, 
+this means a brittle (red) one-step red unit that is eliminated on 
+Turn 16 would be replaced on its one-step brown side on Turn 
+17. Raising it back to full-strength can be done on the following 
+turn’s Flip Step.
+[7.4] One-Step Units
+Most Axis Allied armies and all Cadre units 
+have only one step (see 14.2 and 14.9).
+[7.5] Fortress Conversion
+It is also during his friendly Flip Step that the Soviet player 
+may convert (flip) his two-step Fortified infantry units 
+into mobile one-step Regional infantry units regardless of 
+their supply status, at a cost of one card discard. There is 
+no reward or penalty for this reversion.
+
+B. The Placement Step
+[7.6] Unit Placement
+Reinforcement, Replacement, and Recovering units are 
+brought onto the map and placed at no MP cost. No units 
+can be placed in Enemy Zones of Control (8.5), except for 
+Soviet units placed in Cities, as follows:
+•	Axis units are placed in Cities in Greater Germany, not in 
+EZOCs, and can trace an Overland Supply Path (6.1). 
+	 In addition, Recovering (shattered) Axis units may also 
+be placed in any Axis controlled City in the USSR not in 
+EZOCs, which can trace a Supply Path, or on any west 
+map edge hex in Greater Germany not in an Enemy Zone 
+of Control. 
+•	Soviet units are placed in any Soviet controlled City 
+that can trace a Supply Path (see 6.1) even in EZOCs, or 
+on any east or south map edge hex in Russia not in an 
+Enemy Zone of Control.
+•	In addition, Recovering (shattered) Soviet units may 
+also be placed in any Soviet controlled City inside 
+Greater Germany that can trace a Supply Path, and not 
+in EZOCs.
+[7.7] Recovery of Shattered Units
+All friendly units in the Shattered Units Box 
+are returned to the map for free. Place Disor-
+ganized markers on them to denote that they 
+cannot attack (as per 10.1.1).
+Note that a Recovering unit returns to the map on the same 
+strength-side that it was removed on. Thus, a full-strength 
+two-step unit Recovers as a two-step unit.
+[7.8] Receiving Reinforcements
+Players receive units as Reinforcements on their indicated 
+Game Turn (i.e., their Reinforcement Number). Place Re-
+inforcements as per 7.6, above.
+[7.9] Replacement of Destroyed and 
+Surrendered Units
+To take a unit from the Destroyed Unit Box and return it to 
+the map (as per 7.6), the owning player must pay (discard) 
+one card from his hand for each Replacement so taken. 
+Exception: Soviet Shock Armies who cost two cards.
+From the Surrendered Units Box, the owning player must 
+discard two cards from his hand for each Replacement .
+When placing a unit on the map from either of these boxes, 
+place a Disorganized marker on the unit to denote that it 
+cannot voluntarily attack in that player’s ensuing Combat 
+Phase.
+DESIGN NOTE: Unsupplied unit losses usually cost more to 
+replace and also count as VPs for the other player (12.7).
+[7.9.1] Axis Replacement Restriction: Except for the play 
+of certain Event cards, the Axis player cannot replace 
+destroyed or surrendered units prior to Turn 5 (as per the 
+Turn Track). 
+DESIGN NOTE: Prepared only for a quick Blitzkrieg victory in 
+Russia, the Axis had to retool their efforts for a longer fight.
+[7.9.2] Reduced-Strength: Two-step units always return 
+to the map on their reduced-strength side when brought 
+back as Replacements.
+C. The Reorganization Step
+[7.10] Reorganization
+Disorganized markers will be removed from newly placed 
+units for free later in the turn during the Marker Removal 
+Phase (11.2). If the player wishes to make Disorganized 
+units combat-ready immediately, he discards one card at 
+this time for each Disorganized marker so removed.
+[8.0] MOVEMENT
+Procedure
+A player may move none, some or all of his non-fort (i.e., 
+“mobile”) units through any combination of hexes up to 
+the limit of their printed Movement Allowance, paying the 
+appropriate Movement Point (MP) cost to enter each hex. 
+Units move one at a time, hex by hex, in any direction or 
+combination of directions that the player desires. A unit 
+may continue moving until it has either expended all of 
+its MPs, moves in an enemy ZOC, or the player simply 
+desires to stop moving it.
+A player may not move any of the opposing player’s units. 
+No enemy movement is allowed during your turn except 
+as a result of combat or through the play of certain Event 
+cards.
+[8.1] A Unit’s Movement Allowance
+A unit cannot exceed its Movement Allowance during its 
+Movement Phase except as permitted by an Event card. 
+Units may not transfer MPs between units or carry them 
+over between Game Turns.
+[8.2] Weather Effects on Movement
+On Mud Game Turns (see the Turn Track) all units with a 
+Movement Allowance greater than 3 have their Movement 
+Allowance reduced to 3.
+On Snow Game Turns, all units with a Movement Al-
+lowance greater than 4 have their Movement Allowance 
+reduced to 4.
+[8.3] Terrain Effects on Movement
+The basic cost to enter a Clear hex is 1 MP. The cost to enter 
+other hexes can be higher, as listed on the Terrain Effects 
+Chart (TEC). Unlike in many other wargames, it costs no 
+extra MPs to cross river hexsides.
+
+When a unit does not have sufficient MPs left to pay the cost 
+to enter a given hex, it cannot do so. Exception: A unit that 
+has a Movement Allowance greater than zero can always 
+move one hex regardless of terrain or other costs. Rules 
+regarding Enemy Zones of Control (8.5.3) and Prohibited 
+hexes and hexsides still apply.
+[8.4] Stacking Effects on Movement
+Friendly units can never enter hexes containing enemy 
+units. Within the confines of other movement rules (e.g., 
+terrain costs, ZOCs), friendly units may freely enter and 
+pass through hexes containing other friendly units. When 
+more than one friendly unit remains in a hex at the end of 
+any Phase, Step or Battle, it is called “stacking.”
+[8.4.1] Stacking Limits: The Axis may stack up to two 
+units per hex; the Soviets can have only one unit per hex 
+until 1945.
+[8.4.2] Units Only: Only units count for stacking, not in-
+formational markers.
+[8.4.3] Overstacking Penalty: At the end of any Phase or 
+Battle, the owning player must put any excess units of his 
+choice from that hex into the Shattered Units Box until it 
+conforms to the stacking limit (8.4.1), Unsupplied units are 
+put in the Destroyed Units Box.
+[8.5] Zones of Control (ZOCs)
+The six hexes on the map ad-
+jacent to a unit are called that 
+unit’s Zone of Control (abbre-
+viated “ZOC”). Markers, Un-
+supplied units and units with 
+parenthesized strengths never 
+possess a ZOC. 
+DESIGN NOTE: This Zone of 
+Control represents that area outside 
+the hex a unit physically occupies 
+that it can control by virtue of its size, mobility, and projection 
+of firepower.
+The ZOCs of friendly units in no way hinder other friendly 
+units, but they do restrict enemy units. A hex adjacent to 
+an enemy unit is called an “enemy controlled hex” or a hex 
+in an “Enemy Zone of Control” (or “EZOC”).
+ZOCs do not extend across Sea/Lake hexsides.
+[8.5.1] Stops Movement: A unit must cease its movement 
+for that turn the moment it enters an EZOC, regardless of 
+how many MPs it might have remaining.
+[8.5.2] Exit an EZOC: If a unit begins the Movement Phase 
+of its turn adjacent to an enemy unit (i.e., in an EZOC), it 
+may exit that hex at a cost of one additional Movement 
+Point (+1 MP) and continue moving.
+[8.5.3] No Infiltration: Units cannot move directly from 
+one hex in an EZOC to another, unless the hex being entered 
+EXAMPLE OF MOVEMENT: It is the Axis Movement Phase 
+of Turn 4 (a Snow Game Turn reducing the MA of all units to 
+4). During the preceding Supply Check Phase, it was discovered 
+that all of the units shown were in supply.
+Despite the bad weather, the Axis player decides to conduct an 
+attack against the Kalinin Front unit and try to eliminate it while 
+it is surrounded (by Axis units and ZOCs). 
+Counting his units’ Combat Strengths, the Axis player deter-
+mines that if he can reposition the 16th, 9th, and 4th Panzer 
+Armies, he’ll be able to muster a potential 15 to 4 (3:1) attack.
+A) First he moves the 9th Army through the Forest hexes. The 
+movement arrows and circled numbers indicate how many MPs 
+were spent to move that far. Remember, it costs +1 MP to leave 
+an EZOC (8.5.2).
+B) This allows the 4th Panzer Army to move into that same hex 
+because now there is a friendly unit in it; so the 4th Panzer Army 
+deftly moves directly from one EZOC to another (8.5.3). It must 
+stop immediately upon entering that hex (because it entered an 
+EZOC), and expends 3 MPs to get there (1 to leave the EZOC 
+plus 2 to enter the adjacent Forest hex). Notice that moving his 
+units in the proper sequence was important!
+C) The Axis player moves the 16th Army next and has a couple 
+of options. It could move forward onto the one-step 18th Army 
+for one Movement Point (the Fort has no ZOC remember), but 
+there its position could become tenuous, because there’s always 
+the danger that the Soviet player could flip the Fortified unit to 
+its Regional side—this would suddenly give it a Zone of Control 
+and would thus enable it to cut off supply to that hex. So the Axis 
+player takes the path through the Marsh (for 2 MPs) and into 
+the Forest instead. The one-step Axis 18th Army is just going 
+to have to fend for itself. Notice how most of the Axis movement 
+is made around EZOC hexes and not through them. 
+
+is also occupied by a friendly unit (where it must still stop as 
+per 8.5.1). Otherwise, a unit must first leave an EZOC by 
+way of an uncontrolled hex and then continue moving.
+[8.5.4] Negating EZOCs: In addition to allowing some lim-
+ited infiltration movement (8.5.3), the presence of a friendly 
+unit negates an enemy-controlled hex for the purposes of 
+tracing a Supply Path (6.3) or when Retreating (10.7.5).
+[8.6] Finland
+German, Finnish and Soviet units can enter Finland. There 
+are no hexes in Finland, so consider the entire country 
+as one huge hex that’s adjacent to many hexes in Russia. 
+Normal stacking rules apply inside Finland, and normal 
+Zone of Control rules apply to and from. Thus, Russian 
+units in the four hexes adjacent to Finland can all join 
+together to attack it.
+See the movement examples in the Reference Booklet illustrating 
+much of Rule 8.
+[8.7] Yugoslavia
+Only German and Yugoslavian units can enter the Western 
+or Southern Balkans, but no earlier than the Game Turn after 
+the Soviets capture the Romanian Oil Fields hex (13.5).
+There are no hexes in these areas, so consider each of the 
+Balkans areas as one huge “Open” hex that is adjacent to 
+many hexes in Greater Germany (akin to Finland, as per 
+8.6). Normal stacking rules apply inside each of these areas, 
+and normal Zone of Control rules apply. 
+[9.0] RAIL MOVEMENT
+During his regular Movement Phase, the player can 
+“Entrain” his mobile (i.e., non-fort) units and place them 
+in the Rail Movement Box. He can “Detrain” them (i.e., 
+relocate back to the map) during a friendly Rail Move-
+ment Phase.
+[9.1] Entraining
+One friendly supplied unit per Movement Phase may be 
+simply picked up for free and placed in the Rail Move-
+ment Box (“Entrained”) in lieu of any other movement 
+that turn (if in a surrounded port consider this a “Sea 
+Evacuation”).
+[9.1.1] Additional Rail Movement: A player can also En-
+train additional friendly supplied units during his Move-
+ment Phase at a cost of discarding one card for each.
+[9.1.2] Rail Capacity: Each player can have a maximum of 
+three units in the Rail Movement Box.
+[9.1.3] Rail Disruption: During Turns 1 and 2, The Axis 
+cannot do any Rail Moves, and no additional Rail Move-
+ment capacity may be purchased by the Soviets. 
+DESIGN NOTE: For the Axis, this reflects the trouble they had 
+in converting Russian rail lines to European standard gauge 
+and advancing over Russia’s poor roads. For the Soviets, this 
+represents the huge amount of transport capacity siphoned off 
+evacuating workers and factories to Siberia, in addition to the 
+initial chaos caused by the enemy’s invasion.
+[9.2] Detraining
+During the player’s Detraining Phase (at the end of his 
+turn), he may bring none, any or all of his units in the 
+Rail Movement Box back onto the map. (Units in the Rail 
+Movement Box can remain there indefinitely.)
+When “Detrained,” each unit is placed in either:
+•	a friendly City hex that can trace a Overland Supply Path 
+(even in an Enemy ZOC), or
+•	any hex that is not in an EZOC and can trace an Overland 
+Supply Path of three hexes maximum (i.e., no more than 
+two intervening hexes) to a friendly Supplied City or 
+friendly map edge. You may not trace to a City hex that 
+was just captured this player-turn or use an Alternate 
+Supply Source.
+[10.0] COMBAT
+During a friendly Combat Phase, each unit may participate 
+in an attack against an adjacent hex that is occupied by 
+enemy forces. When a player initiates an attack between 
+adjacent units, it results in a battle (i.e., completing all of the 
+Steps in the Battle Procedure). Throw the die, and consult 
+the appropriate player’s CRT to resolve battles.
+The player who is initiating an attack is called the “at-
+tacker” and his opponent is called the “defender” in that 
+battle (regardless of the overall situation).
+Combat Phase Preparation
+A Combat Phase begins with the Phasing, and then the 
+Non-phasing Player declaring all of the hexes that will be 
+attacked, followed by each battle’s resolution.
+[10.1] Declaring All Battles
+Before any battles are resolved, both players, as described 
+below, must declare all targeted hexes. 
+A “Target Hex” is one that contains forces of 
+the Non-Phasing Player that is adjacent to one 
+or more hexes containing forces of the Phasing 
+Player across non-Prohibited hexsides. The at-
+tacking player will put a “Target” marker in each “Target 
+Hex”. You cannot put a Target marker on a hex that already 
+contains a Counterblow marker. 
+Each player has only five Target/Counterblow markers, 
+white/black for the Soviets and gray/black for the Axis: 
+this is a game maximum. Thus a player cannot do more 
+than five Attacks or Counterblows per Player-Turn (or less 
+if the Turn’s weather is Long Winter [13.1]). 
+
+[10.1.1] Voluntary Attacks Step: The Phasing Player de-
+clares first, noting for his opponent all the Target Hexes 
+that he will voluntarily attack that Phase. The following 
+units cannot participate in voluntary attacks:
+•	units with a Disorganized marker 
+•	units with a white Combat Strength (e.g., Fortified in-
+fantry or Cadre unit; 15.3).
+[10.1.2] Counterblows Step: After 
+the Phasing Player has declared all 
+his voluntary attacks, the Non-Phas-
+ing Player may declare additional 
+target hexes that must be attacked by the Phasing Player 
+that Combat Phase (these are “involuntary attacks” and 
+are called Counterblows). 
+•	The Non-Phasing Player must discard one card from his 
+hand for each target hex he so designates. 
+•	You cannot put a counterblow marker on a hex containing 
+only white-strength units.
+•	The Non-Phasing Player’s white Combat Strength units 
+cannot participate in a Counterblow, but will suffer all 
+the Retreat results. 
+•	Designate Counterblow target hexes with a Counterblow 
+marker.
+•	Hexes containing a Target marker may not be selected 
+for a Counterblow.
+•	Any of the Phasing Player’s adjacent units can respond to 
+a Counterblow, including Disorganized units and those 
+with white Combat Strengths. 
+•	Units in Counterblow target hexes receive no beneficial 
+terrain combat modifiers (i.e., combat shifts) when attacked 
+by the Phasing Player; but Weather combat shifts do ap-
+ply. 
+DESIGN NOTE: Why pay to have your units attacked and forego 
+terrain advantages? Opportunity or desperation—you may have 
+unsupplied units trying to break out, want to draw off units from 
+a nearby attack, or seek to punish a weak unit that ventured too 
+close (in hopes of seeing a CA combat result).
+[10.2] Order of Combat
+All declared battles are resolved in any order the Phasing 
+Player desires. Each battle must be completely resolved 
+before the next battle begins. 
+Battle Preparation
+[10.3] Combat Conditions
+Which units are eligible for combat.
+[10.3.1] Attacker’s Prerogative: The Phasing Player decides 
+which attacking units will attack which Target Hexes, in 
+any combination he desires, as long as all declared Target 
+Hexes are attacked.
+[10.3.2] Combining Units in a Battle: Attacking units in 
+two or more hexes may combine their Combat Strengths 
+and conduct a single battle together. Battles may involve 
+any number of attacking units and Target Hexes.
+[10.3.3] Adjacency: For an attack to be resolved as a single 
+battle, all of the attacking units must be adjacent to all of 
+the Target Hexes.
+[10.3.4] One Battle Per Unit: No unit may attack more than 
+once per friendly Combat Phase, and no Target Hex can be 
+the object of more than one battle per Combat Phase (not 
+including counter-attack results; see 10.7.2)
+[10.3.5] Multi-Unit Attacks: Attacking units in a single 
+hex may attack one or more Target Hexes in a single battle. 
+Note that if one or more such units attack, this does not 
+obligate any of the other Phasing Player’s units stacked 
+with or adjacent to it to participate.
+[10.4] Combat Strength Unity
+A given unit’s Combat Strength is unitary; it may not be 
+divided among different battles during a single Phase.
+Units that are stacked together need not participate in the 
+same battle when one attacks (or Counterattacks; 10.7.2), 
+but all units in a Target Hex must defend together.
+[10.5] Steps in a Battle
+Battles are conducted via the Battle Procedure. These steps 
+must be completed for each attack in the exact order listed 
+below:
+Battle Procedure
+1. Strength Step: Total the Combat Strengths of (respec-
+tively) the attacking units and the defending units.
+2. Commitment Step: First, the 
+attacker (only) may announce his 
+commitment of one Combat Sup-
+port (i.e., Blitz! or Shock!) marker to 
+the battle (if he has one available). 
+Then the attacker, followed by the defender, may each play 
+one Event card that is used during a battle, before the die 
+is rolled. Note that the defender makes his decision after 
+the attacker, with full knowledge of the attacker’s com-
+mitment decisions.
+3. Initial Odds Column Step: Divide the attacker’s strength 
+by the defender’s strength and express this as an odds ratio 
+
+(attacker to defender). Round this odds ratio off downward 
+to conform to one of the odds ratio columns found on the 
+CRT. This will be the “Initial Odds Column.”
+EXAMPLE: 12 Strength Points attack 9; the ratio is 1.33 to 1, 
+which rounds down to a simple 1:1. If the attacker could have 
+mustered 14 vs. 9, the odds ratio would have been 3:2. This 
+simple odds ratio determines the Initial Odds Column used on 
+the attacker’s CRT.
+4. Final Odds Column Step: “Shift” the Initial Odds Col-
+umn (determined above) for the effects of terrain, weather, 
+Support markers, armor, or Event card(s) for that battle 
+to determine the Final Odds Column used. All effects are 
+cumulative and only the net shift is applied. 
+EXAMPLE: A 2-1 with three shifts right and one shift left 
+would be a 4-1.
+5. Attacker Rolls Step: The attacking player rolls a 6-sided 
+die and cross-indexes its result with the Final Odds Column 
+to obtain the Combat Result.
+6. Apply Result Step. With the Combat Result known, it 
+is now applied. This might result in repeating the above 
+steps due to a Counterattack, a unit step loss or removal 
+by either side, or a Retreat followed by an Advance After 
+Combat.
+[10.6] Combat Odds Shifts
+When adjusting to find the Final Odds Column (per Step 
+4, above), the following cases apply:
+[10.6.1] Terrain Effects: The shifts caused due to terrain 
+effects are based upon the defender’s hex or if all units 
+attack across the hexsides listed on the TEC.
+[10.6.2] Support Markers: When available to a player, a 
+maximum of one Axis Blitz! or Russian Shock! marker may 
+be committed to a battle when that player is the attacker 
+(even in a counterattack situation). It provides one shift 
+to the right.
+•	Support markers cannot be used to assist an attack made 
+exclusively by Unsupplied units.
+•	Support markers do not remain on the map. They are 
+returned to the Unused Markers Holding Box after their 
+use.
+•	Support markers cannot be carried over from one Game 
+Turn to another. If not used on the turn they’re received, 
+they are lost.
+[10.6.3] Armor Bonus: When an attacking force includes 
+an armor type unit and it is attacking infantry-type 
+units (except mechanized infantry) in a Clear hex 
+during a non-Mud Game Turn, the attacker receives one 
+shift to the right.
+•	Armor attacks against other armor or mechanized infan-
+try-type units do not receive this bonus. 
+•	This bonus can only be applied once per battle regardless 
+of how many armor type units participate in it.
+•	This bonus only applies when an armor-type unit is the 
+attacker in a battle, never when it is the defender (but it 
+does apply when an armor-type unit is in a counterattack 
+situation).
+•	This bonus applies during Clear and Snow Game Turns 
+only.
+[10.6.4] Odds Limits: Whenever an initial (before shifting) 
+or final (after shifting) odds ratio exceeds 6:1, it is treated as 
+6:1. When the ratio is less than 1:3, an Initial Odds Column 
+is not established and becomes an automatic CA result, as 
+do final odds ratios of less than 1:3.
+EXAMPLE: 24 Russian Strength Points attack an Axis Allied 
+unit worth only 2 Strength Points that is in a City hex. The 
+initial ratio would be 24:2, or 12:1, which becomes a 6:1 (the 
+maximum column before shifting). That is shifted one to the left 
+for the defender’s terrain and the attack would be resolved on 
+the 5:1 column.
+EXAMPLE OF COMBAT: The German 6th Army in Stalingrad 
+is being attacked by the Russian 3rd Tank Army and 2nd Ukraine 
+Front during a Snow Game Turn. The Russians commit a Shock! 
+marker to the battle, and neither player commits any cards.
+The Initial Ratio is 12:3, which reduces down to exactly the 4:1 
+odds column on the Soviet CRT. During the Final Odds Step 
+(#4), shifts occur as follows:
+The attacker committed a Combat Support marker to the battle 
+(1R). The defender’s force is located in a City hex (1L) and across 
+Objective hexsides (1L).
+Note, because all of the attacking units are also attacking across 
+River hexsides, this would normally cause another (third) shift 
+to the left. But as it is a Snow Game Turn, for combat purposes 
+the rivers essentially ‘disappear,’ and so do not provide a combat 
+shift.
+The net effect will see this 4:1 odds battle shifted one column to 
+the left, thus being rolled as a 3:1.
+
+[10.7] Explanation of Combat Results
+Combat results are listed under each player’s respective 
+Combat Results Table on the Player Aid Sheets. Applying 
+those results is explained in more detail below:
+BATTLE RESULTS:
+- = Indecisive Battle: No Effect
+CA = Counterattack: The defender may launch an im-
+mediate counterattack. Re-compute the odds; no terrain 
+modifiers (10.7.2).
+CB = Counterblow: The Phasing Player places a Coun-
+terblow marker on one of his own units hex currently 
+attacking. These markers are not removed during that 
+side’s Marker/Unit Removal Phase, but are instead 
+resolved as usual during other side’s Combat Phase in 
+the next Player Turn (10.7.3).
+DR = Defender Retreat: Defender retreats his units 2 
+hexes. Attacking units can Advance After Combat if 
+the defending units retreated or the hex is completely 
+vacated by square units after a step loss. There is No 
+Effect if the Target Hex has a Fort unit in it (10.7.4). 
+DS = Defender Shattered: Defender retreats his units 
+two hexes and, if not destroyed, place them in Shattered 
+Units Box. Attacking units can Advance After Combat 
+if the defending units retreated or the hex is completely 
+vacated by square units after a step losses. (Treat this 
+result as an EX if the Target Hex has a Fort unit in it).
+DD = Defender Destroyed: Defender retreats his units 
+two hexes and each defending unit loses one step. If the 
+Target Hex has a Fort unit in it, the defending units do 
+not retreat. Attacking units may Advance After Combat 
+if the defending units retreated or the hex is completely 
+vacated by square units after step losses.
+EX = Exchange: Both sides lose one step. Neither side 
+Retreats or Advances. 
+Player Turns could begin with some Counterblow markers 
+already in place, meaning that either: 
+A) Those enemy units must be attacked if friendly units 
+remain adjacent to them during the Combat Phase; or
+B) Those adjacent friendly units will have to move away 
+during their Movement Phase to avoid those Battles: 
+The Counterblow then has no effect. This can be a big 
+decision!
+[10.7.1] Step Losses: Certain results cause a step loss to be 
+suffered by the defender (DD) or both sides (EX). When 
+these occur, a full-strength two-step unit is reduced (flipped 
+over) to its reduced-strength side, or a unit with only one 
+step is eliminated (but see rule 14.9 Cadre units). When 
+there is a choice, the owning player determines which of 
+his units in that battle suffers a step loss.
+Most Eliminated units are placed in the Destroyed Units 
+Box or, if the unit had an Unsupplied marker on it at the 
+time of its elimination, it is placed in the Surrendered Units 
+Box instead. Some one-step units are placed on the Turn 
+Track when eliminated (for example, most Axis Allies and 
+all Cadres [14.0]). 
+[10.7.2] Counterattacks: A CA result means that the de-
+fender may treat the battle outcome as “No Effect” and 
+end it there OR conduct a Counterattack.
+If the defender counterattacks, remove any Support marker 
+and discard played cards for that battle and go back to 
+Step 1 in the Battle Procedure; i.e., start a brand new battle 
+repeating all of the Steps. This new battle must include the 
+exact same units as in the initial battle, only this time, the 
+counterattacking player becomes the attacker (the other 
+player is the defender) and no terrain shift modifiers are used 
+(although other terrain effects that negate armor shifts and 
+multi-hex advance still apply).
+•	Unengaged Units: It could happen in such battles that 
+only some units in a hex are being (counter)attacked, 
+but not others. That is allowed, however only the 
+participating units are affected by all combat results; the 
+“unengaged” units will suffer only the Retreat results.
+•	A Counterattack can lead to another counterattack, and 
+so on until some other outcome takes place. They, too, 
+are conducted as per this rule.
+[10.7.3] Counterblows (Involuntary Counterattacks): A 
+Non-Phasing Player’s Counterblow (10.1.2) requires a 
+Phasing Player’s involuntary attack in response and is 
+similar to a regular Counterattack in that the defender (i.e., 
+the Non-Phasing Player) receives no terrain shift modifiers, 
+but:
+•	The Phasing Player is the attacker and the Target Hex is 
+the one denoted by a Counterblow marker (see 10.1.2).
+•	Disorganized and white Combat Strength units can par-
+ticipate in these Counterblows, but can never Advance 
+After Combat (10.8) if victorious.
+•	Remember that a Counterblow called for by the CRT (the 
+CB result) will be resolved during the next Player-Turn: 
+you flip the “Target” marker to its Counterblow side, and 
+place it on one of the Phasing Player’s attacking hexes, 
+owner’s choice; even if during a Counterattack (CA). 
+DESIGN NOTE: Counterblows placed by card discards are 
+“Diversions” made by the defender, forcing the Phasing Player 
+to attack. While those placed by a “CB” result on the Combat 
+Table (thus resolved next turn) are partial advances made by the 
+attacker, that will force the other player to either retreat, or deal 
+with the threat by attacking it.
+[10.7.4] Fort Units: When the Target Hex contains a Forti-
+fied infantry unit, these outcomes are changed:
+•	A DR becomes a No Effect,
+•	A DS becomes an EX, and
+•	Ignore the Retreat part of a DD result for all units in the 
+Target Hex.
+
+Counterattack). A 5 results in another “CB”, so the counter 
+is again placed on the Axis unit. Note that a Counterblow 
+marker generated by combat is always placed on the Phas-
+ing Player’s units.
+The last attack, against the 1st Baltic Front at 1:2 odds (no 
+defensive terrain in a Counterblow battle), rolls a 1—an-
+other “CA”! The Soviet Counterattack results in an “EX”. 
+The 4th Army is flipped and the 1st Baltic Front is placed 
+red-side-up in the Destroyed Units Holding Box (as non-
+Fort Soviet units do not have two steps before Turn 17).
+Above is the situation at the Start of the Soviet Player Turn. 
+He will have to attack the 2 Axis units with the Counter-
+blow markers if he has any friendly units adjacent to them, 
+but the defenders will not get the defensive benefits of 
+terrain, see rule 10.1.2 last bullet. Note that the Leningrad 
+Fort, even if a white-strength unit, can attack the 9th Army 
+as the German is below a “Counterblow” counter.
+See a defender-generated Counterblow during the oppo-
+nent Combat Phase as a diversionary/spoiling counter-at-
+tack, while a Combat Result table “CB” result as a partial 
+advance by the Attacker, that must be dealt with by the 
+“defender” during his own Player’s turn. 
+[10.7.5] Retreats: When required to retreat, the defender 
+must move his units two hexes further away from the 
+battle (i.e., they cannot zig-zag and end up retreating only 
+one hex further away), toward a friendly Supply Source if 
+possible, within these restrictions:
+•	Units cannot retreat into hexes containing an enemy unit, 
+across Prohibited hexsides, or off the map.
+•	Units cannot retreat into hexes in an EZOC unless there is 
+a friendly unit in that hex. (Friendly units negate EZOCs 
+for retreat purposes.)
+•	Units can pass through and end their retreat stacked with 
+friendly units, but if an overstacking situation occurs, it 
+must be resolved (see 8.4.3).
+•	Retreating expends no MPs; you just count hexes.
+Remember, Forts and units stacked with them never retreat; 
+they ignore the Retreat part of DR and DD results.
+If a unit is prohibited from retreating, it is eliminated in-
+stead (see 10.7.1).
+[10.7.6] Shattered: Units suffering a DS result must retreat 
+before being removed to the Shattered Units Box. If they are 
+unable to do so, they are eliminated instead (10.7.1).
+Counterblow Combat Result Example
+This example of play will help explain both “Counterblow” 
+occurrences—those placed by the defender in the enemy 
+Combat Phase, and those placed by a Combat Result. 
+It’s Spring 1942. The German player is trying to “clean up” 
+the frontline around Leningrad for a future assault on the 
+city. He has attacks, one on the Volkhov Front, using the 9th, 
+16th and 18th Armies; plus another against the Northwest 
+Front, using the 4th Army and 3rd Panzer. The Russian 
+player discards a card and puts a Counterblow marker on 
+his 1st Baltic Front, forcing the enemy to attack it with the 
+4th Army, thus dispersing the Axis strength (this is a di-
+versionary attack). Note that he cannot put a Counterblow 
+marker on the Leningrad Front, as this unit has a White 
+Strength value (rule 10.1.2, 2nd bullet).
+The attack on Volkhov is at 1:1 odds, a die roll of 4 results 
+in a “CB”. The German places a Counterblow marker 
+on the 9th Army—it will be resolved next turn. Against 
+the Northwest Army the German player also has a 1:1 (it 
+would have been 2:1 if not for the Counterblow from the 
+1st Baltic Front). A die roll of 1 results in a “CA”. Feeling 
+lucky, the Soviet player attacks back the 3rd Panzer Army 
+at 1:2 (remember, defensive terrain does not count in a 
+
+[10.8] Advance After Combat
+Following the retreat/removal from the map of defend-
+ing units after the application of a DR, DS, or DD combat 
+result, if the Target Hex was completely vacated, the at-
+tacking (non-Fortified) units may Advance After Combat. 
+This means that the attacking units may move into the 
+defender’s newly vacated hex and possibly beyond.
+•	An Advance After Combat expends no MPs, nor do 
+EZOCs affect it in any way; you just count the hexes.
+•	A number of surviving attacking units up to the stack-
+ing limit (8.4.1) can always advance into and remain in 
+a defending unit’s just-vacated hex.
+[10.8.1] Multi-Hex Advance: Although the first hex ad-
+vanced into must be a Defending unit’s just-vacated hex, 
+units may further advance a second hex within the follow-
+ing restrictions:
+•	Units cannot make a multi-hex advance into hexes 
+containing an enemy unit, across Prohibited hexsides, 
+off the map, or during Mud.
+•	Units can pass through and end their multi-hex advance 
+stacked with friendly units, but if overstacking occurs, 
+it must be resolved (see 8.4.3).
+•	Multi-hex advancing units need not follow the Defend-
+ing units’ retreat path. After occupying the just-vacated 
+defender’s hex, multi-hex advancing units are free to go 
+to any adjacent hex that is not otherwise prohibited.
+•	Important: Units must cease their Advance After Combat 
+immediately upon entering a Mountain, Forest or Marsh 
+hex. Crossing a River hexside does not stop an Advance 
+After Combat (see the TEC).
+EXAMPLE: If the defender’s just-vacated hex is a Forest hex, 
+then no multi-hex Advance After Combat can take place. Advanc-
+ing units would have to stop their advance in that hex.
+[10.8.2] Armor Advance Bonus: German Armor-type units 
+whose Advance After Combat has not been stopped in its 
+second hex due to terrain considerations may, during Clear 
+weather turns only, continue on and advance a third hex. 
+Soviet Armor-type units get this capability starting on Turn 
+11 (see rule 13.5).
+[11.0] MARKER/UNIT REMOVAL 
+PHASE
+During the Housekeeping Phase Unsupplied units re-check their 
+supply status, and surrendered units and markers are removed 
+from the map.
+[11.1] Resupply or Surrender
+All units with Unsupplied markers trace supply again, 
+first the Phasing Player’s units and then the Non-Phas-
+ing Player’s. Those that still cannot trace a valid Supply 
+Path are eliminated (i.e., removed from the map) two-step 
+counters are placed in the Surrendered Units Box, and 
+one-step counters follow the instructions on their counter 
+backs. Those that can now trace a Supply Path remain on 
+the map.
+[11.2] Marker Removal
+Remove all Unsupplied, Disorganized (for free, unlike 
+7.10), Blitz! and Shock! markers from their current locations 
+and return them to the Unused Markers Holding Box.
+[11.3] Removal of Axis Allies
+During the New Game Turn Events Phase of Turn 15, the 
+Italian 8th Army is removed from play (Italy Surrenders). 
+If a red Russian unit occupies the Rumanian Oil Fields (ad-
+jacent to Bucharest), both Rumanian Armies are removed 
+from play.
+[12.0] HOW TO WIN
+A Campaign Game of No Retreat! is won through many 
+different ways:
+•	capturing and holding Objective hexes (12.1), or
+•	by gaining VPs for a Sudden Death (12.2), Soviet Total 
+Victory (12.3) or German Operational Victory (12.4), or
+•	by Killing Hitler (12.5), or
+•	if none occurs by the last turn, the Axis player wins.
+Scenarios have their own (listed) Victory Conditions.
+[12.1] Objectives Victory
+Axis Objectives Victory: During any Victory Phase, when 
+they have the Initiative (12.9), the Axis win if they control 
+(12.7.1) and can trace supply (6.0) to three of the five gray 
+German Objective hexes (e.g., Moscow). After they lose 
+the Initiative (Turn 12), they need to control four German 
+Objective hexes instead. 
+Russian Objectives Victory: The Russians win if they 
+control and can trace supply (6.0) to three of the four red 
+Soviet Objective hexes (e.g., Berlin).
+If both occur on the same turn, the side with the Initiative 
+wins.
+[12.2] Sudden Death Victory
+During the New Game Turn Victory Phase of Sudden 
+Death turns (indicated by a skull symbol on the Turn 
+Track), one player might immediately win. Players check 
+the Victory Point Track and the side with the Initiative (12.9) 
+immediately wins if it has more VPs than the number shown 
+by his side’s symbol for the indicated Game Turn.
+EXAMPLE: It is the Victory Phase of Turn 6 and the Axis player 
+has the Initiative. Finding the “T6” (Turn 6) notation in the “23” 
+box on the VP Track, the Axis player would win an immediate 
+Sudden Death Victory if he currently had 24 or more VPs.
+During the Victory Phase that begins Turn 12, the Initiative 
+
+Event is performed and the Initiative marker is flipped 
+from its Axis “Drang Nach Osten!” side to its Soviet “Na 
+Berlin!” side. On this turn, both players check for a Sud-
+den Death Victory; the Axis before the marker is flipped 
+and the Soviets after it is flipped and the VPs have been 
+recalculated (see 12.7).
+[12.3] Soviet Total Victory!
+If the Soviet player has 34 VPs or more during any Victory 
+Phase he wins the game automatically.
+[12.4] German Operational Victory
+If neither of the above ways to win has been achieved by 
+the end of Turn 22, an Operational Victory check is made 
+at the start of Turn 23.
+Compare the box on the VP Track of the Axis “High Tide” 
+marker (see 12.8) against the current box containing the 
+“Na Berlin!” VP marker. The result of this comparison is 
+now used to see if the game continues on into 1945 or not 
+as follows: 
+1945 Game Continuation Procedure
+If the Axis “High Tide” marker is in the higher value box, 
+the Axis player wins the game outright and immediately. 
+If the “Na Berlin!” marker is in an equal or higher value 
+box, the game continues into 1945. Follow the steps listed 
+below:
+1. Duration: The game continues into 1945 (Turns 23–28). 
+2. VP Marker Reset: Reset the Round Event marker to Zero 
+(0), calculate the Square “Na Berlin!” new VP total, using 
+only hexes in Greater Germany.
+3. New Map Only: Only map hexes on Greater Germany 
+are now worth points towards Sudden Death Victory 
+4. Reset the Event Cards: As per Case 5.5, above.
+[12.5] Killing Hitler
+If the Russians eliminate the Berlin Garrison 
+unit, they have killed Hitler and won the 
+game. 
+[12.6] End Game
+If the Soviets do not win the game at the end of Turn 28, 
+the Axis player wins.
+[12.7] VP Scoring Schedule
+Players earn VPs for control of certain hexes and by 
+causing enemy units to surrender. Additionally, VPs can 
+be awarded by Events. See the Player Aid Sheet for VP 
+specifics. Note: there are no “Per Turn” cumulative VPs 
+awarded in this game.
+[12.7.1] Controlling VP Hexes: A Victory Point hex is “con-
+trolled” by a side if its units were the last to pass through 
+or occupy it.
+[12.7.2] Controlling Finland: the area is controlled if you 
+have a friendly non-Cadre, non-Axis Minor (including 
+Finnish) unit inside that country and keep it there. So that 
+means: 1) eliminating enemy forces in it, 2) occupying that 
+country, and 3) maintaining that occupation.
+[12.7.3] Objective Hexes: Except for the 1 VP from the City 
+or Oil Fields in them, Objective hexes are worth no extra 
+additional VPs, but see 12.1.
+[12.7.4] VP Markers: The round “Event VP” marker is used 
+to track the net VPs earned by causing surrenders and VPs 
+awarded by Events; it can never be higher than 6 VPs (the 
+excess points are lost). The square (2-sided) VP marker: A) 
+shows which side has the Initiative (see 12.9), and B) shows 
+the Overall VPs for the Initiative player (determined by 
+adding the VPs for controlling hexes to the VPs shown by 
+the Event VP marker).
+[12.7.5] Keep the VP Count Current: It is important to 
+maintain a current VP count. A full audit should be made 
+each Victory Phase.
+Event/Surrender VPs (Turns 1-28):
++1 VP: for each Non-Initiative player’s unit sent to the 
+Surrendered Units Box.
+–1 VP: for each Initiative player’s unit sent to the Surren-
+dered Units Box.
++/–1 VP: for each card played as a VP affecting Event.
++ 1 VP (Soviet only): for each Game Turn “other theater” 
+Event. Example: D-Day, Battle of the Bulge, etc.
+On-Map 1941-44 VPs (Turns 1-22):
++1 VP: for each Controlled City or Oil Fields hex on the 
+whole map.
++1 VP: for Controlling Finland.
+On-Map 1945 VPs (Turns 23-28) :
++1 VP: for each Controlled City or Oil Fields hex in Greater 
+Germany (only).
+[12.8] Working the VP Markers
+The square VP marker always reflects the current score 
+of the side with the Initiative. This is an important concept. 
+When it’s on the Axis side, it reflects only the Axis’ score; 
+when it’s on the Soviet side it reflects only the Soviets’ score 
+including the value of the round VP marker!
+EXAMPLE: On Turn 5 the Axis have the Initiative. The Sovi-
+ets retake one of their lost cities (placing a Control marker on 
+it as a reminder until the VPs are next recalculated, at which 
+time that Control marker would be removed) and thus gain 1 
+VP. Since the VP marker currently reflects the Axis’ score, the 
+Drang Nach Osten! marker is reduced by one box to reflect the 
+city’s recapture.
+
+The round VP marker is used to 
+reflect the current net score of VP-
+affecting Events and the loss of Sur-
+rendered units (12.7.4). The value 
+of the round VP marker added to (or subtracted from) the 
+VPs earned for controlling hexes should always equal the 
+total shown on the square VP marker.
+EXAMPLE: The Axis has the Initiative on Turn 10. Previous 
+Event VPs included three red Game Turn Events (–1 Axis VP 
+each) and two past Soviet Event card plays (–1 Axis VP each). 
+The Soviets had one previously played Axis Event card that 
+cost them 1 VP (which, because the Axis has the Initiative, is 
+computed as +1 Axis VP). Three Russian units have surren-
+dered (+3 Axis VPs, even though two of the units have since 
+been replaced).
+Thus, the round Event VP marker would have recorded –5 VPs 
+awarded for Soviet Events, +1 VP awarded by Axis Events, and 
++3 VPs earned for Soviet surrenders: a –1 total against the Axis 
+Initiative which would place the marker on its Soviet side in the 
+“1” box of the VP Track.
+If the Axis had 14 VPs for controlling hexes (as determined by 
+checking the map), then, during the determination of overall 
+VPs, you would subtract the one (–1) VP shown by the round 
+Event marker from the VPs awarded for hex control (14 – 1), 
+bumping the Drang Nach Osten marker down from the 14 
+box to 13 box.
+Victory Points (VPs) & the VP Marker
+[12.9] Initiative
+The square VP marker has two 
+sides, an Axis side (“Drang Nach 
+Osten!” and a Soviet Side (“Na 
+Berlin!”). The Initiative belongs 
+to the player whose side of the square the VP marker is 
+currently face-up. 
+[12.10] Shifting the Initiative
+The Initiative belongs to the Axis through Turn 11. Dur-
+ing the Victory Phase of Turn 12, the following things 
+happen:
+•	Check to see if the Axis player has won a Sudden Death 
+Victory (12.2). If not,
+•	Place the Axis High Tide marker in the box 
+currently occupied by the Axis VP marker, 
+then
+•	Remove the round Events VP marker from 
+the VP Track as its value is reset to zero (0) at this time, 
+then
+•	Flip the VP marker over to its Soviet side (where the Ini-
+tiative stays for the rest of the game). Adjust it to reflect 
+the Soviet player’s current score (12.7) and then check to 
+see if the Soviet player has won a Sudden Death Victory 
+(12.2).
+[13.0] GAME TURN EVENTS
+When conducting a Game Turn’s Housekeeping Phase, 
+Turn Track Events (and other features of interest, such as 
+the weather, Support marker availability, Sudden Death 
+Victory check, etc.) are noted (where they have a lasting 
+effect) or applied (if its effect is an immediate, one-time 
+occurrence).
+[13.1] Weather
+To review and summarize the effects of weather:
+During Clear Game Turns:
+•	There are no special effects.
+During Mud Game Turns:
+•	All units have a maximum of 3 MPs.
+•	There are no Armor Bonus shifts (10.6.3) in combat.
+•	Multi-hex Advance After Combat (10.8.1) is not permit-
+ted (units can only advance into the defender’s vacated 
+hex).
+During Snow Game Turns:
+•	All units have a maximum of 4 MPs.
+•	Rivers ‘freeze’ and have no effect (i.e., they provide no 
+terrain combat shift).
+•	All Non-Finnish Axis attacks against Russian units suffer 
+one column shift to the left in the USSR (two on Turn 5).
+•	Multi-hex Advance After Combat is permitted, but the 
+Armor Advance Bonus is not (i.e., there is a two hex 
+Advance After Combat limit).
+Long Winter Game Turns: When there are 
+consecutive Snow turns, the second (and pos-
+sibly third) turn in a row of Snow is called a 
+Long Winter turn. Place the Long Winter marker 
+on the map somewhere as a reminder. Instead of 
+Snow weather, the effects of Long Winter (below) go into 
+effect for those Game Turns:
+•	There is no Armor Bonus shifts (10.6.3) in combat.
+•	Multi-Hex Advance After Combat (10.8.1) is not permit-
+ted (units can only advance into the defender’s vacated 
+hex).
+•	The Axis player can only use three “Target” markers (so 
+can only do three attacks max).
+•	All units have a maximum of 4 MPs.
+•	Rivers ‘freeze’ and have no effect (i.e., they provide no 
+terrain combat shift).
+•	All Non-Finnish Axis attacks against Russian units suffer 
+two column shifts to the left in the USSR. 
+[13.2] Sudden Death
+During the Victory Phase of each Game Turn marked with 
+a skull symbol, check for Sudden Death Victory (12.2).
+
+[13.3] Support Markers
+The Axis player receives a number of Blitz!, and the Soviet 
+player a number of Shock! markers at the beginning of that 
+turn as indicated by their symbols on the Turn Track.
+EXAMPLE: At the beginning of Turn 5, the Axis player re-
+ceives 0 Blitz! markers and the Soviet player receives 3 Shock! 
+markers.
+These markers represent superior training, doctrine, tactics 
+and leadership, plus elements of surprise, air power, artillery 
+concentrations, logistical support, and so forth. 
+[13.4] Game Turn Events
+During these turns, a major event takes place in another 
+theater of WW2 and the Russians score 1 VP at the begin-
+ning of that Game Turn during the Victory Phase (as per 
+12.5). 
+[13.5] Game Turn Effects
+The text in the Game Turn boxes reflect these effects as 
+listed (by Game Turn number) below:
+1, 2 – Limited Rail Moves: During Turns 1 and 2, The Axis 
+cannot do any Rail Moves; and The Soviet cannot purchase 
+any extra Moves (9.1.3), but he is still allowed to make his 
+one free Rail Move.
+1-4 – No Axis Replacements: During Turns 1 through 4, 
+the Axis player cannot discard cards in order to Replace 
+or Improve units (7.1). Only certain Event cards can be 
+used by the Axis for these purposes during the first four 
+Game Turns.
+3 – Begin Soviet Fortifying: Starting on this turn, and 
+for the remainder of the game, Soviet (one-step) Regional 
+infantry units (only) that can trace a Supply Path (6.1) can 
+be upgraded into (two-step) Fortified infantry units (7.5). 
+Other Soviet units can’t be upgraded before Turn 6, nor 
+become two-step units before Turn 17.
+Thus you can always pay a card to upgrade them; or use one of 
+the free improvements starting on turn 6.
+5 – Begin German Replacements: The Axis player can 
+commence discarding cards to Replace or Improve his 
+units during his Organization Phase (7.0).
+5 – Two Shift Penalty vs. Soviets: This Snow Weather Turn, 
+the Axis player loses two shifts to the left when attacking 
+Soviet units instead of the usual one.
+6 – Begin One Free Soviet Upgrade: During his Organiza-
+tion Phase, the Soviet player receives one free unit upgrade 
+(“Education”) per turn (7.2).
+8-9 – Germans +1 Card: During his Card Phase, the Axis 
+player receives one extra Event card (for those turns 
+only).
+11 – Soviets get the Tank Advance Bonus: During his 
+Player-Turn, the Soviet Tank units start getting the Armor 
+Advance Bonus (10.8.2).
+12 – Na Berlin!: During the Victory Phase, the Initiative 
+shifts to the Soviets (12.7).
+13 - Begin Two Free Soviet Upgrades: During his Orga-
+nization Phase, the Soviet player receives a second free 
+(“Experience”) unit upgrade per turn (7.2.1).
+15 – Remove the Italian 8th Army: Regardless of its loca-
+play (see 11.3). Italy just surrendered to the Allies!
+16 – Remove the 2nd Panzer Army: Regardless of its loca-
+play. If it has been eliminated or is currently not in Supply, 
+the Axis player loses one Card Draw this turn.
+17 – Soviet Units Have Two Steps: All Soviet units (excep-
+tion: the Ostatky and Fortified Front units) now have two 
+steps (7.3).
+18 – Remove the SS Panzer Army: Regardless of its loca-
+play. If it has been eliminated or is currently not in Supply, 
+the Axis player loses one Card Draw this turn.
+20 – Germans only 3 Targets: Starting now, the Axis player 
+can only use three Target markers per turn (instead of the 
+regular five).
+21 – Soviets get one extra Card: Starting now, the Soviet 
+player get one extra Card Draw per Card Phase until the 
+end of the game.
+23 – Begin Soviet Stacking: The Soviet can now stack any 
+two of their units in one hex.
+23 – Reich Defenses: The Berlin Garrison and Volkssturm 
+units appear on their indicated Cities as Reinforcements. 
+The Axis player will draw only one Event card this turn. 
+Be mindful of the Stacking Limit (8.4).
+23+ – SS Panzer Return: The SS Panzer unit removed on 
+Turn 18 can reappear as a full-strength (two step) German 
+reinforcement unit on a 1945 Game Turn at the cost of 1 VP, 
+payable during the Axis Organization Phase.
+24 – End German Improvement: The Germans can no 
+longer improve their units (7.1) for the rest of the game.
+26 – Germans only one Target: Starting now the Axis 
+player can only use one Target marker per turn.
+28 – Remove Berlin Garrison: Remove the German “Berlin 
+Garrison” from the game; it is not considered eliminated 
+by the Soviets.
+GG – Greater Germany Invaded: The turn after a Soviet 
+unit crosses the borderline between Russia and Greater 
+Germany/Rumania, the German units designated as “GG” 
+Reinforcements appears in any city in Greater Germany. 
+Be mindful of the Stacking Limit (8.4).
+
+The two Hungarian “GG” Reinforcement 
+units are placed in empty, Axis-controlled 
+hexes that can trace an Overland Supply Path 
+and are within four hexes of Budapest.
+Oil – Ploesti Captured: The turn after the Soviets first 
+control the Rumanian Oil Fields hex, Rumania surrenders 
+and non-SS German Panzer units lose their Armor (10.6.3) 
+and Advance (10.8.2) bonuses. Also, the units designated 
+as “Oil” Reinforcements enter play and are placed by their 
+controlling player thus:
+•	The German Group E and F 
+units are placed in empty, Axis-
+controlled hexes that can trace an 
+Overland Supply Path and are 
+within four hexes of Bucharest 
+and/or inside the Western Balkans area (only, not in 
+Southern Balkans). Be mindful of the Stacking Limit (8.4).
+•	The Soviet-Allied Rumanian unit is placed 
+on its (one step) reduced-strength side in an 
+empty, Soviet-controlled hex that can trace 
+an Overland Supply Path and is within two 
+hexes of that Oil Fields hex.
+•	The two Yugoslavian armies are placed on 
+their Fortress sides, separately or together, 
+in the Western and/or Southern Balkans 
+areas.
+Note that the Axis player can position his units in such a man-
+ner that these Yugoslavian armies must arrive in an untenable 
+stacking situation and thus be immediately eliminated; this is 
+intentional and allowed.
+Warsaw – Poland ‘Liberated:’ The turn after 
+the Soviets first control Warsaw, the one step 
+Soviet-Allied Polish unit is placed in an 
+empty hex that can trace an Overland Supply 
+Path and is within two hexes of Warsaw.
+[14.0] SPECIAL UNITS/RULES 
+To review and summarize the effects of some special units 
+and unit types: 
+[14.1] Regional / Fortified Units
+Regional Infantry units can be 
+upgraded in the normal way (7.1) 
+to two-step Fortified units starting 
+on Game Turn 3 (13.5). They can 
+revert back to their one-step Regional Infantry side either 
+by taking a step loss in combat or through voluntary rever-
+sion during the Soviet Organization Phase (7.5).
+•	Fortified units cannot voluntarily attack (10.1.1), but 
+they can use their Combat Strength for a Counterblow 
+(10.1.2).
+•	Fortified units do not suffer the effects of any Retreat 
+outcomes called for in combat (even ones that suffered 
+a step loss in that battle and are now suddenly Regional 
+Infantry units).
+•	The Finnish unit has two-steps, remains 
+Fortified at both step levels, can never move 
+or retreat out of Finland, and is always in 
+supply.
+•	The German Fortified Units are permanently removed 
+from the game when eliminated. As stated on their re-
+verse sides.
+[14.2] Axis Allies
+Except for the Finnish unit, Axis Allied units only have one 
+step. Some units are removed from play when:
+•	Italy surrenders on Turn 15 (11.3).
+•	Rumania surrenders when a Russian unit enters the Oil 
+Fields hex in Rumania (11.3).
+•	Hungarian units will fight until the end.
+When eliminated by combat or supply, those one-step units 
+are put on the Turn Track to arrive as free reinforcements, 
+as indicated on their reverse side.
+Note that this means that these units do not go into the Surren-
+dered Units Box, nor does it score the opponent 1 VP.
+[14.3] Armor-Type Units
+These represent large tank formations. They 
+are disadvantaged when moving through 
+difficult terrain (having their own “Armor” 
+Movement Costs on the Terrain Effects Chart), 
+but receive the following advantages in battle:
+•	A one-column shift to the right when attacking (or 
+counterattacking) most infantry-type units in a Clear hex 
+during a non-Mud Game Turn (10.6.3).
+•	An additional hex of Advance After Combat on Clear 
+weather turns (10.8.2).
+[14.4] Mechanized Infantry
+These are better-motorized formations with 
+added anti-armor capabilities. They move as 
+infantry-type units (i.e., paying the “Other” 
+Movement Costs on the Terrain Effects Chart. 
+When defending in combat, the attacker cannot receive the 
+Armor Attack Bonus (10.6.3) against them.
+[14.5] German SS Panzer Army
+This unit represents better-equipped and elite 
+German troops.
+•	This unit always receives the Armor Attack Bonus (10.6.3) 
+under all circumstances and at both of its step levels. 
+Exceptions for enemy unit types, terrain or weather do 
+not apply.
+•	Whenever this unit attacks (or counterattacks), it must 
+
+take the required step loss in an EX result.
+•	 Cost one card to flip to its front side.
+[14.6] SS Panzergrenadier Unit
+This German unit has special defensive prop-
+erties similar to that of the SS Panzer unit’s 
+offense.
+•	This unit always receives a one column shift to the left 
+when defending (only).
+•	Unless attacking with the SS Panzer unit, this unit must 
+take any required step loss in combat whether attacking 
+or defending.
+•	Cost one card to flip to its front side.
+[14.7] Russian Shock Units
+These two units represent a concentration of 
+assault troops and artillery. 
+•	While this side of the unit is face-up, it always receives 
+one combat shift to the right when attacking (or counter-
+attacking) against any type of enemy unit, in any type 
+of terrain or weather.
+•	Whenever this unit attacks (or counterattacks), it must 
+take the required step loss in an EX result.
+•	Cost two cards to replace or to flip to its red-side.
+[14.8] Yugoslav Army
+The two Yugoslavian army units can only flip 
+to or from their Fort counter side when located 
+in one of the two Balkan areas on the map (rep-
+resenting the rugged and mountainous terrain 
+where these partisans have operated from for years). They 
+also draw their supply for those two areas.
+[14.9] Cadre Units
+German Kampfgruppe (KG) units 
+and the Russian Ostatky (remnants) 
+unit are collectively called “Cadre” 
+units. Cadre units represent a 
+hodge-podge mix of stopgap units and Army remnants, put 
+together as ‘scratch’ formations to plug an immediate hole 
+in the line and as a veteran core around which a regular 
+unit can be reformed. 
+Cadres have only one-step and cannot initiate voluntary 
+attacks (10.1.1), but they can participate in counterattacks 
+and against Counterblows (10.1.2).
+[14.9.1] Cadre Reinforcement Arrival: When received as 
+Reinforcement, Cadre units are not placed on the map, 
+but are instead added to the Cadre Units Available Box 
+for later placement, and have their reinforcement turn of 
+entry underlined as a reminder.
+[14.9.2] On-Map Placement: Cadre units in the Cadre Units 
+Available Box are voluntarily placed on the map by their 
+owner in a hex where a friendly (non-Cadre) unit was just 
+eliminated (10.7.1) to fulfill the step loss requirement of a 
+DD or EX result. Removal of a non-Cadre unit from the 
+map by any other means (inability to retreat, lack of sup-
+ply, etc.) does not allow a Cadre unit to be placed in that 
+removed unit’s hex.
+[14.9.3] Removal from the Map: When removed from the 
+map for any reason (except to Entrain for Rail Movement; 
+9.1)—such as becoming Shattered, a Cadre unit is placed 
+on the Turn Track to arrive on the next Game Turn as a 
+Reinforcement. If there is already a friendly Cadre unit 
+scheduled to arrive as reinforcement on the next Turn Track 
+box, that Cadre unit is placed instead on the next Turn Track 
+box where there is not already a Cadre unit scheduled to 
+arrive. That is, each player’s Cadre units arrive at a rate of one 
+per Game Turn, maximum.
+Note that this means a Cadre does not go into the Surren-
+dered Units Box, nor does it score the opponent 1 VP.
+[14.9.4] Replacement Location: Eliminated and Surren-
+dered units that are Replaced as per 7.4 (only, not Rein-
+forcement or Recovered Shattered units) may, in addition 
+to those locations prescribed in Rule 7.1, also be placed in 
+a hex where there is a friendly Cadre unit that can trace an 
+overland Supply Path (6.1) to a friendly map edge. When 
+placed in that hex, that Cadre unit is removed from the 
+map and placed on the Turn Track as per 14.9.3.
+In effect, that eliminated unit is “rebuilt” on the front lines 
+around a surviving Cadre formation.
+[14.10] Luftwaffe Ground Unit
+This unit functions as a German unit except 
+that if eliminated by combat or supply, it is put 
+on the Turn Track to arrive as free reinforce-
+ment, as indicated on its reverse side.
+[14.11] Volkssturm Units:
+The one-step German Volkssturm, repre-
+sents hasty fortifications and mobilization 
+of citizens for the last-ditch defense of their 
+Fatherland.
+Special Ability: When a defending hex contains a Volks–
+sturm unit, treat a DR (Defender Retreat) result as No 
+Effect (as if the Volkssturm unit were Fortified Infantry). 
+However, after this combat result conversion is applied, 
+the Volkssturm unit is permanently eliminated from the game 
+(even if stacked with a regular Fort unit).
+DESIGN NOTE: The implication is that attacking enemy units 
+won’t be able to Advance After Combat (10.8, because the com-
+bat result was, after conversion, a “No Effect”). Also, any unit 
+stacked with a thus-removed Volkssturm unit remains in place 
+after that battle, unaffected by its outcome.
+
+[14.12] Soviet Strategic Reserve
+The Soviet player can form Strategic Reserves.
+[14.12.1] Procedure: At the end of any Soviet 
+Rail Movement Phase (starting on Turn 4), the 
+Soviet player may place the Strategic Reserve 
+marker on top of any one Soviet unit in the 
+Rail Movement Box (and it can be moved between units 
+in that box from turn to turn).
+[14.12.2] Effect: The unit thus indicated as “in the strategic 
+reserve” may return to the map at the beginning of a future 
+Soviet Movement Phase (as it would via Detraining; 9.2) 
+and can move normally during that Movement Phase after 
+Detraining.
+[14.13] Play Aid Markers
+Reminder Markers
+These “Reminder” markers are used to help players re-
+member certain future or ongoing game conditions:
+•	The –1 /–2 Card Draw marker can be placed 
+on the current Game Turn on the Turn Track 
+as a reminder that one side is drawing fewer 
+cards that turn (e.g., the Soviets draw –1 
+card if Moscow is Axis controlled). 
+•	The No Sudden Death marker can be placed 
+on the next Sudden Death Game Turn on the 
+Turn Track as a reminder that an Event card 
+has been played to cancel a Sudden Death 
+Victory Check.
+•	The Scorched Earth and De-
+fensive Works markers appear 
+on the map, and their use is ex-
+plained, by some Event cards (see 
+cards #07 and #41). 
+Control Markers
+Control markers are useful in the following ways:
+•	To mark the ownership of key 
+hexes along the front line, particu-
+larly where it might affect Supply 
+Paths.
+•	To indicate which Objectives have changed control that 
+turn, reminding you to adjust the Victory Point total at 
+the end of that turn.
+•	You might want to keep them on the Objectives you 
+control at all times.
+•	Place them on recently moved units as a reminder that 
+they cannot be moved again that turn.
+[14.14] Variable Weather
+The weather during the March/April, Sep-
+tember/ October and November/ December 
+turns (only) might deviate from what is 
+printed on the Turn Track.
+[14.14.1] Set Up: Be sure to include cards #32–35 in the 
+deck (as per 3.1 in this rule book). Place the three Weather 
+markers on their current/next available turns on the Turn 
+Track on their matching weather sides.
+EXAMPLE: At the start of the Campaign Game, the Sept/Oct 
+marker would be placed in the Game Turn 3 box on its MUD 
+side, the Nov/Dec marker in the Game Turn 4 box on its SNOW 
+side, and the Mar/April marker in the Game Turn 6 box on its 
+MUD side.
+[14.14.2] It’s in God’s Hands: A weather card’s “Play Im-
+mediately” Event only occurs when that card has been 
+revealed from the Draw Pile and cannot be negated or 
+canceled by the play of another Event.
+[14.14.3] Weather Effects: Use the appropriate weather ef-
+fects for the current Game Turn based its Weather marker’s 
+status. 
+[15.0] OPTIONAL RULES 
+These Optional Rules add greater detail and realism or can 
+be used for play-balance; at the expense of some added 
+complexity. Players are free to use any or all of them by 
+mutual agreement.
+[15.1] Abteilung (Detachment) Units
+Once per game during any Axis Reinforcement 
+Phase on or after Turn 8, the Axis player may 
+permanently remove a supplied, non-stacked, 
+full-strength German 4-4 Infantry Army from 
+the game and replace it with the two 3-3 Infantry Detach-
+ment units in the same hex; or adjacent (not in an EZOC). 
+The same goes for the 2-5 Mechanized Infantry Detach-
+ment, but in this case you lose one step from any German 
+Panzer Army. These processes are not reversible. 
+Historically, the German 11th Army was broken down to rein-
+force different parts of the front, mainly around Leningrad.
+[15.2] Fortified Front units
+Once per game during any Axis Reinforce-
+ment Phase on or after Turn 5, the Soviet 
+player may permanently removes a supplied, 
+non-stacked, Russian 4-3 Infantry Front from 
+the game and replace it with these two 3-2 Fortified Front 
+units in the same hex; or adjacent (not in an EZOC). This 
+process is not reversible. 
+The Soviets created many “Fortified Areas” during the war to 
+hold some sectors of the Front.
+[15.3] Local Combat Support
+These markers represent extra local 
+resources that can be assigned to 
+specific Armies or Fronts. They start 
+the game on one side and are flipped to their other side on 
+Turn 11, as shown on the counters.
+
+[15.3.1] Which Units can Receive Support: The Phasing 
+Player can add the Combat Support marker to any one 
+supplied friendly unit at the end of his Movement Phase. 
+[15.3.2] Adding Combat Support to a Friendly Unit: To 
+add combat support to a friendly unit, simply put the 
+marker over it after its Movement Phase is done.
+[15.3.3] Amount of Support Received: The Axis starts 
+with the marker on its +2 side, so two additional Strength 
+Points are added to that unit. The Soviets start the game 
+with the marker on its +1 side so one additional Strength 
+Point is added to the supported unit.
+[15.3.4] Removing Support Markers: Each marker will 
+stay and move with his assigned unit until the unit next 
+Movement Phase, unless this unit is eliminated: then it is 
+removed from the map and put aside. 
+[15.3.5] Step Losses: The Combat Support markers are not 
+units and cannot be taken as step losses.
+[15.4] No Variable Weather
+When using this Optional Rule, If a player draws a Weather 
+Event, simply ignore that event, discard the card and draw 
+a replacement (as the red text indicates). 
+DESIGN NOTE: Variable Weather could sometimes have a 
+significant impact on game play. So is not recommended for 
+“tournament level” competitive games. 
+[15.5] Faster Reorganization
+As an exception to 7.10, discarding a card where your side’s 
+Event shows the current side’s Initiative symbol on it allows 
+the removal of up to two Disorganized markers.
+EXAMPLE: During an early Game Turn, the Soviet player 
+discards his “Rasputitsa” Event card (with its Axis Initiative 
+symbol on it) to Reorganize units during his Organization Phase. 
+Thus he can remove up to two Disorganized markers.
+[15.6] No Surrender
+The Sudden Death rule (12.2) is modified as follows:
+•	If the side with the Initiative (12.6) has as many VPs as 
+the number shown by his side’s symbol for the indicated 
+Game Turn, the other player must immediately discard 
+one card at random, if available.
+•	If the side with the Initiative (12.6) has one more VP than 
+the number shown by his side’s symbol for the indicated 
+Game Turn, the other player must immediately discard 
+one card at random, if available, and draws one fewer 
+(–1) card next turn.
+•	If the side with the Initiative (12.6) has two or more VPs 
+than the number shown by his side’s symbol for the in-
+dicated Game Turn, the other player must immediately 
+discard one card at random, if available, and draws two 
+fewer (–2) cards next turn.
+A player cannot lose more than two Card Draws in this 
+manner (you can use the reminder markers to remember the 
+reduced Card Draw), and the game continues.
+DESIGN NOTE: Thus the game cannot end by “Sudden Death” 
+anymore. This will affect basic game play, but it will insure that 
+the contest lasts longer between players of different skill levels.
+[15.7] The Joker Event Card
+This card will always be in a player hand, and does not 
+count toward the six-card hand limit.
+•	If the side with the Initiative will start a game or scenario 
+with its possession, his side’s color-side up.
+•	When the owner uses the card, he flips it to the other 
+card-side and gives it to his opponent.
+DESIGN NOTE: This rule helps recycling the Event deck more 
+rapidly, thus getting more card variety and opportunities. 
+[15.8] Rezervy (Reserve) Unit
+This unit appears in the Destroyed Units Box 
+during the Reinforcement Phase of Turn 5. 
+•	It stacks for free and does not count against 
+the regular Soviet stacking limit.
+•	If not stacked with a unit at the end of a Movement Phase, 
+it is put in the Destroyed Units Box.
+•	It is built back like a regular Soviet unit.
+•	It has no combat value and cannot voluntarily attack, but 
+can be used to take a combat step loss. 
+DESIGN NOTE: This represents large concentrations of units 
+in an hex normally not possible to represent by using the game’s 
+stacking rules. It can be used as a play-balance tool to also help a 
+Soviet player that has difficulty holding his Fortified Cities.
+[15.9] Paratroop/Partisan Marker
+This unit appears in the Soviet Rail Move-
+ment Box during the Reinforcement Phase of 
+Turn 4.
+•	You can put it on the map during the Soviet Detraining 
+Phase, on any Axis unit in the USSR that is adjacent to 
+a supplied Soviet unit in Snow, Long Winter, or Mud 
+turns
+•	When put on the map, it is flipped over to its “Shattered” 
+side: the Axis unit will be affected by it like a regular 
+“Shattered” marker.
+•	It is then removed from play in the Axis Marker Removal 
+Phase, to arrive as a Reinforcement four turns later. 
+DESIGN NOTE: This rule simulate the disruption caused by 
+the occasional airborne operations and partisan activity behind 
+German lines. 
+[15.10] Solitaire Round Counters
+The five counters on the next-to-last row of round game 
+pieces will be used in an upcoming solitaire module, to be 
+published in C3i Magazine.
+
+[16.0] COMBINED EXAMPLE OF PLAY
+It is the start of the Turn 2 German Movement Phase. The 
+Axis player plans to blast his way through the center at high 
+odds, and then use Advance After Combat to firmly encircle 
+Kiev (and, with luck, to have the Soviet unit there wither 
+and die in an unsupplied state during the Soviet player’s 
+turn) and to surround Odessa and attack that unit so that 
+it has no retreat route and kill it before the Soviet player 
+can evacuate it on his turn via Rail Movement (well, “Sea 
+Movement” in this case). The Axis player moves his units 
+as shown below, setting up his two envisioned attacks:
+But the Soviet player can read the map, too, and sees 
+where this might be headed. It doesn’t look good for his 
+units around Kiev, so he plays his “Maskirovka” Event 
+card to immediately bring an entrained Russian unit onto 
+the map. He wants to place it in the hex southeast of Kiev 
+(adjacent to both the Central and Bryansk Fronts) to keep 
+his supply lines from becoming tenuous and lending some 
+Counterblow fire-power if opportunity permits.
+The Axis player is fortunate, however, as he is holding his 
+Inexperienced Soviet Officers Event card, which, after a bit 
+of reflection, he decides to use to cancel the Soviet player’s 
+card. The Soviet player grumbles and returns his unit to 
+the Rail Movement Box.
+With that excitement over, the Axis Combat Phase begins 
+and the Axis player designates the Soviet Bryansk Front 
+(A) and South Front (B) as Target Hexes.
+Seeing that Kiev is not an Axis Target Hex, the Soviet player 
+realizes that the Axis player is going to try to encircle both 
+Kiev and Odessa, leaving his Central Front unit in Kiev 
+to die from lack of supply. Since losing 1 VP and having 
+to pay two cards to bail out his best unit from the Sur-
+rendered Units Box in a future turn is not desirable, the 
+Soviet player launches a Counterblow, discarding a card 
+to activate the Central Front in Kiev as a Target Hex. He 
+is trying to put the Axis player on the horns of a dilemma 
+by forcing an involuntary counterattack. He discards his 
+STAVKA Event card and places a Counterblow marker 
+on the Central Front. Resigned to his fate, the Axis player 
+starts recalculating the possibilities around Kiev and takes 
+another look at his own card hand. In it he finds his Gott 
+Mit Uns (“God is With Us”) card and then sees the Erich 
+von Manstein Event atop the Discard Pile from Soviet 
+player’s recent discard (that was the Axis Event on that 
+same STAVKA Event card). It’s an ideal card play situation 
+and the Axis player makes it.
+“Well, hoody-hoo!,” the Axis player exclaims. “I think Erich 
+needs to double the strength of one German unit. Let me 
+think about which...”
+The German player decides that von Manstein will be used 
+in the north at his crucial attack on Smolensk this turn and 
+won’t be appearing at our battles in the Ukraine.
+According to his plan in the south, the Axis player first 
+proceeds with his grand attack (A) in the center of the line 
+against the Soviet Bryansk Front, the success of which (and 
+Advance After Combat) will greatly influence the other 
+battles nearby. His strength ratio is 15:3 (5:1). Note that 
+there is no shift to the right for the Armor Bonus (10.6.3) as 
+the Target Hex includes an Armor or Mechanized Infantry 
+unit type. The Axis player rolls on the 5:1 odds column on 
+the German Combat Results Table. A die roll of “3” yields 
+a DS result, and the Bryansk Front is retreated two hexes 
+and is then placed in the Shattered Units Box. The Axis 
+player advances his units after combat as shown (with his 
+armor taking its Advance Bonus to move an additional 
+hex, as per 10.8.2) to isolate Kiev and maintain his Supply 
+Path to the western map edge (i.e., the Mountain hex in 
+Rumania). The two 4-4 Armies can trace directly to it, and 
+the Panzer Army can trace to an Alternate Supply Source 
+(6.2)—the supplied 4-4 Army adjacent to its own hex as 
+illustrated below. 
+
+CREDITS
+Game System Design: Carl Paradis
+Documentation and Game System Development: 
+Alan Emrich, Carl Paradis
+Deluxe Version Playtesting & Proofing: Brian Asklev, 
+John Collis, Marc Guenette, Benoit Larose, Michael 
+Marentette, Matthew Looby, Dieter Schlaepfer, Stan 
+Myszak, Frédéric Velasco, Philippe Parmentier, Davy 
+Gerard, Andrei Shlepov, Renaud Vibien
+Art Director, Cover Art & Package Design: Rodger B. MacGowan
+Map & Rulebook Layout: Mark Simonitch
+Counters: Carl Paradis and Mark Simonitch
+GMT Proofreading: Hans Korting
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy Lewis, 
+Gene Billingsley and Mark Simonitch
+DEDICATION
+This game is dedicated to the Soldiers of the Soviet 2nd 
+Shock Army that fought in the Leningrad region: Even 
+after their unit was virtually destroyed twice, against 
+all odds and after great sacrifices they heroically drove 
+the Nazi foe out of their homeland. Ending the war 
+as one of the Armies that had advanced the deepest 
+into the Third Reich. 
+Отступать нельзя!
+This leaves the Axis player two Target Hexes to deal with. 
+He has one Blitz! marker that is not urgently required for 
+battles in the north, but he opts not to use it in his next at-
+tack, which he decides will be against the South Front in 
+Odessa (B). With a 9:3 (i.e., 3:1) ratio, and two shifts to the 
+left (2L), one each for the River and City terrain, you’d think 
+the Axis player would desperately use a Blitz! marker at 
+this battle; but no! He has one more Event card up his sleeve 
+and plays it now: Heinz Guderian. ‘Swift Heinz’ turns an 
+Axis attack into an automatic DR result, and that is exactly 
+what the Axis player wants. With nowhere to retreat, the 
+South Front is placed in the Destroyed Units Box, and the 
+Axis units advance through Odessa.
+This leaves the German 4-4 6th Army to make an invol-
+untary counterattack vs. the Counterblow from the Soviet 
+Central Front in Kiev (C). The attacker’s 4:5 ratio becomes 
+a 1:2 odds attack. Knowing that there are no shifts for ter-
+rain in a Counterattack, the Axis player could commit his 
+available Blitz! marker to bump the odds up to 1:1, but 
+again he decides not to. 
+Why? Because he’s hoping for an indecisive result to keep 
+the Soviet unit in place so that it will be Unsupplied (and, 
+hopefully, removed from the map in that state) during the 
+upcoming Soviet player’s turn.
+The Axis player launches his 1:2 odds attack and the die 
+roll is a 1, yielding a CA result. The Soviet player seizes the 
+opportunity to launch a 5:4 ratio (1:1 odds) Counterattack 
+of his own, as shown in the next illustration. 
+Hoping to roll a ‘6,’ the Soviet player throws the die and 
+rolls a ‘3’ for a CB (Counterblow): He would have to put 
+an Axis-colored Counterblow marker on the German 6th 
+Army (as it is the Phasing unit), and the Counterblow 
+would then have to be resolved next turn, during the 
+Soviet Combat Phase, like a “regular card-paid” Counter-
+blow: Not good! Desperate, and despite his low chances 
+for success (even a roll of ‘5’ would help, as it would send 
+his Central Front to the Destroyed Units Box instead of 
+the Surrendered Units Box), the Soviet player commits 
+his last Event card, Heroes of the Soviet Union, and re-rolls 
+the die. This time he tosses a 2 for a CA result. The Axis 
+player declines to make a Counterattack and the battle 
+ends there. 
+
+GMT Games, LLC
+ P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+INDEX
+1945 Cards . . . . . . . . . . . . . . . . . . . . . . . . . 5.5
+Abteilung Detachment Units. . . . . . . . . . . . 15.1
+Advance After Combat. . . . . . . . . . . . . . . . 10.8
+Alternate Supply Sources. . . . . . . . . . . . . . 6.2
+Armor Advance Bonus. . . . . . . . . . . . . . . . 10.8.2
+Armor-Type Units (Armor Shift). . . . . . . . 14.3
+Axis Allies. . . . . . . . . . . . . . . . . . . . . . . . . . 11.3, 14.2
+Blitz Markers: See Support Markers
+Cadre Units. . . . . . . . . . . . . . . . . . . . . . . . . 14.9
+Combat Strength. . . . . . . . . . . . . . . . . . . . . 2.3, 10.4, 10.5
+Combat. . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.0
+Combat Odds Shifts. . . . . . . . . . . . . . . . . . 10.6
+Combat Results. . . . . . . . . . . . . . . . . . . . . . 10.7
+Control Markers. . . . . . . . . . . . . . . . . . . . . 14.13
+Counterattack. . . . . . . . . . . . . . . . . . . . . . . 10.7, 10.7.2
+Counterblows. . . . . . . . . . . . . . . . . . . . . . . 10.1.2, 10.7, 10.7.3
+Discard Step. . . . . . . . . . . . . . . . . . . . . . . . 5.1
+Disorganized Markers. . . . . . . . . . . . . . . . . 7.7, 7.9, 7.10
+Draw Step. . . . . . . . . . . . . . . . . . . . . . . . . . 5.2
+Events. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3, 5.4, 6.5.5
+	 Initiative Events (Balkenkreuz, Star). . . 5.3.3
+EZOC (Enemy Zones of Control). . . . . . . . 8.5
+Final Odds Column. . . . . . . . . . . . . . . . . . . 10.5
+Finland . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.6, 12.7.2
+Fortress Conversion . . . . . . . . . . . . . . . . . . 7.5
+Fortified (Fort) Units. . . . . . . . . . . . . . . . . . 10.7.4, 14.1, 15.2
+Game Turn Events. . . . . . . . . . . . . . . . . . . .13.4
+High Tide Marker. . . . . . . . . . . . . . . . . . . . 12.4
+Hitler. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.5
+How to Win. . . . . . . . . . . . . . . . . . . . . . . . . 12.0
+Improving Reduced Strength Units . . . . . . 7.1
+Initial Odds Column. . . . . . . . . . . . . . . . . . 10.5
+Initiative. . . . . . . . . . . . . . . . . . . . . . . . . . . 12.9, 12.10
+Joker Event Card. . . . . . . . . . . . . . . . . . . . . 15.7
+Kampfgruppe Units: See Cadre Units
+Local Combat Support. . . . . . . . . . . . . . . . 15.3
+Long Winter Turns. . . . . . . . . . . . . . . . . . . 13.1
+Luftwaffe Unit. . . . . . . . . . . . . . . . . . . . . . .14.10
+Mechanized Infantry Units. . . . . . . . . . . . . 14.4
+Movement Allowance. . . . . . . . . . . . . . . . . 2.3, 8.1
+Na Berlin!. . . . . . . . . . . . . . . . . . . . . . . . . . 5.5, 12.2, 12.4, 12.9
+Objective Hexes. . . . . . . . . . . . . . . . . . . . . 12.7.3
+Objectives Victory. . . . . . . . . . . . . . . . . . . .12.1
+Oil Fields. . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2, 8.7, 11.3, 
+13.5, 14.2
+One-Step Units. . . . . . . . . . . . . . . . . . . . . . 7.4
+Optional Rules . . . . . . . . . . . . . . . . . . . . . . 15.0
+Overland Supply Path. . . . . . . . . . . . . . . . . 6.1
+	 Blocking Supply Paths. . . . . . . . . . . . . . 6.3
+Out of Supply Effects. . . . . . . . . . . . . . . . . 6.5
+Paratroop/Partisan Marker . . . . . . . . . . . . . 15.9
+Rail Movement. . . . . . . . . . . . . . . . . . . . . . 9.0
+Recovery (of Shattered Units) . . . . . . . . . . 5.4, 7.7
+Regional Units . . . . . . . . . . . . . . . . . . . . . . 7.5, 13.5, 14.1
+Reinforcements. . . . . . . . . . . . . . . . . . . . . . 7.6, 7.8
+Reminder Markers . . . . . . . . . . . . . . . . . . . 14.13
+Reorganization . . . . . . . . . . . . . . . . . . . . . . . . 7.10, 15.5
+Replacements. . . . . . . . . . . . . . . . . . . . . . . 5.4, 7.6, 7.9, 
+7.9.2, 13.5
+Retreats. . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.7.5
+Rezervy (Reserve) Unit. . . . . . . . . . . . . . . . 15.8
+Shattered. . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7, 10.7, 10.7.6
+Shock markers. . . . . . . . . . . . . . . . . . . . . . . 10.5
+Shock Units (Soviet). . . . . . . . . . . . . . . . . . 14.7
+SS Units . . . . . . . . . . . . . . . . . . . . . . . . . . . 14.5, 14.6
+Stacking. . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.4
+Strategic Reserve (Soviet). . . . . . . . . . . . . . 14.12
+Strong and Robust. . . . . . . . . . . . . . . . . . . . 7.3
+Sudden Death Victory. . . . . . . . . . . . . . . . . 12.2, 13.2, 15.6
+Supply Sources. . . . . . . . . . . . . . . . . . . . . . 6.1, 6.2
+Support Markers. . . . . . . . . . . . . . . . . . . . . 10.5, 10.6.2, 13.3
+Surrender (and Surrenderred Units). . . . . . 7.9, 10.7.1, 11.1, 
+12.7
+Unit Placement. . . . . . . . . . . . . . . . . . . . . . 7.6
+Unsupplied Markers. . . . . . . . . . . . . . . . . . 6.4
+Unsupplied Effects. . . . . . . . . . . . . . . . . . . 6.5
+Upgrades (Education). . . . . . . . . . . . . . . . . 7.2
+Variable Weather. . . . . . . . . . . . . . . . . . . . . 14.13, 15.4
+VP Markers. . . . . . . . . . . . . . . . . . . . . . . . . 12.7.4, 12.8
+Victory Points. . . . . . . . . . . . . . . . . . . . . . . 12.9
+Volkssturm Units. . . . . . . . . . . . . . . . . . . . . 14.11
+Weather. . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.2, 13.1, 14.14
+Yugoslavia & Yugoslav Army. . . . . . . . . . . 8.7, 13.5, 14.8
+Zones of Control. . . . . . . . . . . . . . . . . . . . . 6.3, 8.5

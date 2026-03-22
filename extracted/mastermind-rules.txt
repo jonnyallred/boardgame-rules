@@ -1,0 +1,53 @@
+MASTERMIND 
+For 2 players ages 8 to adult 
+Object: Solve your opponent's code in fewer turns than it takes your opponent to solve your code. 
+Contents: Gameboard with storage area and code shield; Code Pegs in 6 different colors, red and 
+white key pegs. 
+Set up: Decide which player will be the Codemaker and which will be the Codebreaker. Also decide 
+how many games you will play. Place the board between you so that the code shield faces the 
+Codemaker. 
+ 
+ 
+Playing: 
+1. The Codemaker secretly places any four Code Pegs in the code area then conceals them with the 
+code shield. The Codemaker can use any combination of colors, including using two or more of the 
+same color. 
+2. The Codebreaker places four Code Pegs in the 1st row of holes attempting to duplicate the 
+exact colors and positions of the secret code. 
+3. The Codemaker places key pegs in the key holes on the 1st row as follows: 
+A red key peg for each Code Peg that's the right color and in the right position. 
+A white key peg for each Code Peg that's the right color, but not in the right position. 
+No key pegs indicate a color is not used in the code. 
+The Codemaker does not put the key pegs in any particular order. It's part of the challenge for the 
+Codebreaker to figure out which Key Pegs correspond to which Code Pegs. The Codebreaker should 
+remember that one Key Peg corresponds to one Code Peg and a red Key Peg takes precedence over 
+a white one. 
+Example # 1: _______________________________________________________________ 
+ 
+ 
+duplicate the secret code. 
+ 
+Example #2: ________________________________________________________________ 
+
+ 
+ 
+duplicate the secret code. 
+Example #3: ________________________________________________________________ 
+ 
+ 
+duplicate secret code. 
+Example #4: ________________________________________________________________ 
+ 
+ 
+duplicate secret code. 
+4. The Codebreaker places another set of Code Pegs in the second row and the Codemaker places 
+Key Pegs in his second row. The pegs played in each row are left in position until the secret code is 
+broken. 
+5. The Codebreaker keeps placing rows of Code Pegs and keeps getting feedback from the 
+Codemaker until he guesses the code exactly. When this happens, the Codemaker places four red 
+Key Pegs and reveals the secret code. 
+6. The Codemaker gets 1 point for each row of pegs played by the Codebreaker and players switch 
+roles. If the Codebreaker can show that the Codemaker has given wrong information, the game is 
+replayed and the Codebreaker gets 3 points. 
+7. If all 10 rows are used and the Code has not been broken, the game is over and the Codemaker 
+gets 11 points (10 points + 1 bonus point). The players now switch roles.

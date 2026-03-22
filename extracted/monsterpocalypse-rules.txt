@@ -1,0 +1,2004 @@
+RULEBOOK
+the ultimate game 
+of giant monster 
+miniatures combat
+
+CREDITS
+President 
+Sherry Yeary 
+Chief Creative Officer 
+Matthew D. Wilson 
+Executive Director 
+William Shick 
+Director of Operations 
+Jason Martin 
+Director of Publications 
+Michael G. Ryan 
+Monsterpocalypse 
+Game Design 
+Matthew D. Wilson
+Lead Developers 
+Jason Soles & William 
+Schoonover
+Additional Development 
+Will Pagani
+Development Manager 
+William Schoonover
+Writing Manager 
+Matt Goetz
+Senior Writer & Continuity 
+Douglas Seacat
+Editorial Manager 
+Dan Henderson
+Graphic Design Director 
+Richard Anderson
+Graphic Designers 
+Jordan Twaddle, Ainsley Yeager
+Art Director 
+Michael Vaillancourt
+Lead Concept Artist 
+Nate Feyma
+Sculpting Director 
+Ron Kruzie
+Staff Sculptors 
+Doug Hamilton, Nathan 
+Lombardi
+Studio Director 
+Dallas Kemp
+Studio Coordinator 
+Josh Colón 
+Studio Modeler 
+James A. Thomas
+Digital Engineers 
+Nathan Lombardi, Marco 
+Segovia, Stuart Spengler
+Staff Painters 
+Jordan Lamb, Brendan Roy
+Hobby & Terrain Specialist 
+Danny Samuels
+Project Manager 
+Michael J. Mulligan
+Lead CID Developer 
+Will Pagani
+IT & Web Developer 
+Teb Kelelew
+Illustrators 
+Andrea Uderzo
+Playtesters 
+Michael Anderson, Richard 
+Anderson, Jack Coleman, Josh 
+Colón, JR Godwin, William 
+Hungerford, Dallas Kemp, 
+Jordan Lamb, Lyle Lowery, 
+Liz Olhsson, Jeff Olsen, Will 
+Pagani, Faye Reppas, Brendan 
+Roy, William Schoonover, Will 
+Shick, Jason Soles, Michael 
+Valliancort, Gabe Wilcox
+Executive Assistant 
+Justin Dieter
+Customer Service Supervisor 
+Jack Coleman 
+Customer Service 
+Matt Razincka, Faye Reppas
+Convention Manager 
+JR Godwin 
+Social Media Coordinator 
+John Swinkels 
+Video Producer 
+Tony Konichek 
+No Quarter Editor-in-Chief 
+Lyle Lowery
+Production Director 
+Mark Christensen 
+Technical Director 
+Kelly Yeager 
+Packing & Shipping Manager 
+Joe Lee 
+Metal Production Supervisor 
+Marcus Rodriguez 
+Resin Production Supervisor 
+Erik Reierson 
+Production 
+Jonathan Adams, Darryl 
+Alf, Sheri Arellano, William 
+Binder, Johan Cea, Bryan 
+Dasalla, Ethan Denson, 
+Cailon Earl, Hannah Edson, 
+Chad Elliott, Alfonso Falco, 
+Joel Falkenhagen, Brian 
+Green, Jeffrey Handley, David 
+Lima, Clayton Links, Loren 
+Lower, Bryan McClaflin, Lara 
+Medina, Kenton Nutter, Sam 
+Rattanavong, Colton Stoddard, 
+Jeremy Taylor, James Thomas, 
+Chris Tiemeyer, Ben Tracy, 
+Ryan Walker, Gabe Wilcox, 
+Zixiao Zhou
+Ages 14 and up. ©2001–2018 Privateer Press, Inc. 
+All Rights Reserved. Trademarks are property of Privateer Press 
+and registered in the United States and other countries. 
+1705 136th Pl. NE, Suite 120, Bellevue, WA 98005. 
+For online customer service, email frontdesk@privateerpress.com.
+
+Contents
+Welcome to Battle	
+Allies & Enemies	
+Agendas & Factions	
+What You Need to Play	
+Models	
+Dice	
+Dice in Monsterpocalypse	
+Model Stat Cards	
+Gameplay Overview	
+Moving on the Grid	
+Making Attacks	
+Interacting with the Battle Map	
+Foundations	
+Objective Spaces	
+Getting Ready to Play	
+Starting a Game	
+Order of Play	
+Activating Monsters	
+Activating Units	
+Combined Unit Attacks	
+Downtown Demolition: A Co-op Scenario	
+
+Welcome to Battle
+This is Monsterpocalypse, a fast-moving, action-packed tabletop miniatures game that puts players 
+in control of the most fearsome giant monsters on Earth. Each battle is waged in a city that you and 
+your opponent construct by placing buildings on a battle map. Players choose their forces from their 
+collections of models and then battle one another with towering monsters and smaller supporting 
+units such as tanks, flying vehicles, and all manner of creatures. Charge your forces into the city to fight 
+for supremacy—and be the last monster standing!
+Agendas & Factions
+The fighting forces in Monsterpocalypse are 
+divided into Agendas. Each Agenda is a coalition 
+of smaller groups called Factions.
+The Factions within an Agenda are united by a 
+common purpose. Although their methods vary, 
+they fight for the same overall goal. 
+Models from the same Faction share common 
+origins and characteristics. They cooperate well 
+in battle and yield the most efficient use of 
+resources.
+You can include models from different Factions 
+in your force, but all the models in your force 
+must belong to the same Agenda.
+Cooperative Scenario
+If this is your first time playing Monsterpocalypse, the “Downtown Demolition” scenario on 
+page 38 is a great place to start. This cooperative scenario is designed to help new players 
+learn the basics of movement and rolling dice while enjoying a simple but fun mini-game.
+Allies & Enemies
+Each model in Monsterpocalypse belongs to a 
+Faction, and Factions are grouped together into 
+Agendas. When you build a force, you must first 
+choose an Agenda. All models in your force must 
+belong to the same Agenda (see “Assembling Your 
+Force,” p. 24).
+Three key terms are used to describe the various 
+models in the game:
+•	 Allies are all the models in your force. 
+All allied models must belong to the same 
+Agenda.
+•	 Enemies are all the models in your 
+opponent’s force.
+•	 Faction models are all the models in your 
+force that belong to the same Faction.
+
+Agendas
+Protectors
+The Factions that make up the Protectors 
+share one simple goal: to protect Earth 
+from all who would destroy it. Demolishing 
+a few buildings (or entire cities) in order to 
+save the planet is simply a sacrifice 
+that must be made.
+Destroyers
+The Factions that have come together 
+as the Destroyers are motivated by the 
+satisfaction of pure wanton destruction and 
+a burning desire to plunder Earth for its 
+vast resources. It’s nothing personal—just 
+don’t get in their way.
+Lords of Cthul
+Dark beings from another plane, come 
+to enslave the human race. Wherever 
+the Cthulians tread, the earth blackens, vegetation 
+withers, and humans kneel—or perish.
+Faction: Planet Eaters
+These ravenous creatures travel across 
+the galaxy like a plague, wreaking havoc 
+and devouring planets. As the withered husk of a 
+world crumbles to dust, they launch themselves 
+again to seek new worlds to feed their boundless 
+and unceasing hunger.
+Faction: Martian Menace
+Although they seem to play well with 
+other Destroyers, these diabolical visitors 
+from space have come to harvest Earth’s inhabitants 
+and resources for their own insidious plans.
+Faction: G.U.A.R.D.
+The giant robots and armored tanks of 
+the multinational force called G.U.A.R.D. 
+(Globally United Advanced Research & Defense) 
+stand ready to go toe-to-toe with any aggressors 
+threatening the peace and prosperity of the planet.
+Faction: Shadow Sun Syndicate
+Mystery surrounds the motivations of 
+the stealthy, scientifically engineered 
+ninjas of the Shadow Sun Syndicate—but there is no 
+questioning their technological and martial prowess 
+against malicious invaders.
+Faction: Terrasaurs
+The Terrasaurs are earth-shaking 
+dinosaurs who fondly remember simpler 
+times before technology and progress changed so 
+much of the world.
+
+Monsters
+The action in Monsterpocalypse centers around 
+monsters. Each monster model has a large 
+two-sided stat card, because a monster has two 
+different forms. A monster begins the game in its 
+alpha form and transitions to its hyper form after 
+taking a certain amount of damage, triggering it 
+to become more aggressive.
+A monster is your single greatest and most 
+powerful asset in battle. It can do things that 
+other models cannot. Be careful, though. If your 
+monsters are destroyed, you lose the game.
+Monsters are mounted on large bases, which 
+occupy four spaces on the battle map.
+What You Need to Play
+Monsterpocalypse is a game for two players and 
+their giant monsters, with each side trying to 
+smash the other. But before you can start tearing 
+apart cityscapes and throwing each other around, 
+you’ll need a few important things.
+Models
+The game includes three types of models: 
+monsters, units, and buildings. Each model has a 
+stat card detailing its stats and special rules.
+The type of model is important. Some rules and 
+effects in Monsterpocalypse affect only monsters, 
+some affect only units, some affect only buildings, 
+and some affect models of any type.
+Defender x
+
+Units
+Units represent the minions and support troops 
+that accompany your monsters in the fight for 
+supremacy. You will use many units during the 
+game. Units begin the game in your unit reserves 
+and are spawned onto the battle map throughout 
+the game. When units are destroyed, they are 
+returned to your unit reserves to be spawned 
+again later. Units may not seem that powerful 
+compared to giant monsters, but intelligent use 
+of units can quickly tip the odds in your favor.
+There are two types of units: grunt units and 
+elite units. Grunts are the basic version of the 
+unit. Elite units, marked by a star on their bases, 
+grant additional capabilities to other grunts of 
+the same unit type. Some units have only grunt 
+versions.
+Units are mounted on small bases, which occupy 
+one space on the battle map.
+GRUNT g-tank
+apartment building
+Rubble
+G.U.A.R.D. units
+planet eater units
+GRUNT belcher
+elite g-tank
+ELITE belcher
+Buildings & Rubble Tiles
+Buildings are large models that provide obstacles 
+and objectives for your monsters and units.
+Debris tiles represent destroyed buildings. One 
+side of each tile is a pile of rubble, and the other 
+is a flaming hazard (see “Buildings,” p. 22).
+
+bATTLE MAP
+dice well
+monster
+power
+unit
+map title
+grid
+
+Dice
+Dice play a pivotal role in Monsterpocalypse. 
+Players use their dice as a form of currency. 
+Sometimes you spend dice and sometimes you 
+roll them. How you choose to use your dice 
+throughout the game is what determines whose 
+monster is victorious and whose monster is lunch.
+The three types of dice are Action Dice, Boost 
+Dice, and Power Dice. Each player plays with their 
+own set of dice.
+You store your dice in dice pools on the battle 
+map: the Monster Pool, the Unit Pool, the Power 
+Pool, and the Dice Well. Whenever you use a die, 
+you move it from one pool to another pool. What 
+your models can do in the game depends on how 
+many dice you have in your various dice pools.
+BOOST DIE
+ACTION DIE
+POWER DIE
+Games of Monsterpocalypse are played on battle 
+maps. The main part of a battle map is a large 
+grid representing the metropolis where all the 
+action will take place. This grid determines where 
+you place buildings, where your units enter the 
+game, and what type of terrain your models 
+must traverse during battle. The battle map also 
+includes different dice pools where you store 
+your dice during play.
+When your models are in play, they occupy the 
+square spaces on the battle map’s grid. Small-
+based models occupy one space; large-based 
+models occupy four spaces at a time.
+Zor-maxim
+
+Action Dice 
+Action Dice have three misses, two strikes, and 
+one super strike on each die. Action Dice make 
+up the basic resource that allows your models to 
+make attacks and perform Actions (see “Actions,” 
+p. 30). Every time you want to make an attack, 
+you must roll one or more Action Die. When you 
+want to use an Action, you spend one Action Die.
+During the game, you move Action Dice between 
+your Monster Pool and your Unit Pool. After you 
+roll or spend dice from your Unit Pool, you place 
+them in your Monster Pool. After you spend dice 
+from your Monster Pool, you place them in your 
+Unit Pool. Your Action Dice move back and forth 
+between the two pools in this way throughout 
+the game.
+You use the Action Dice in your Monster Pool 
+when you activate your monsters, and you use 
+the Action Dice in your Unit Pool when you 
+activate your units. The pool you use during 
+your turn is the active pool. Certain game 
+effects can add or subtract from the number of 
+Action Dice you have in a dice pool. When this 
+happens, simply move the number of affected 
+dice from one pool to the other. For example, if 
+your monster is hit by an attack that causes it to 
+lose an Action Die, move an Action Die from the 
+Monster Pool to the Unit Pool.
+You begin the game with ten Action Dice in your 
+Unit Pool.
+Dice in Monsterpocalypse
+Monsterpocalyse uses three types of specialized 
+dice: white Action dice, blue Boost Dice, and red 
+Power Dice. 
+Strikes & Misses
+Instead of pips or numbers, the dice have 
+explosion symbols to indicate strikes and blank 
+faces to indicate misses. A strike is indicated by 
+one explosion on the die. A super strike, indicated 
+by two explosions, counts as two strikes. When 
+rolling dice in Monsterpocalypse, simply add up 
+the number of explosion symbols you see. For 
+instance, the three dice shown below add up 
+to three strikes. Each type of dice has different 
+chances of rolling strikes.
+strike
+miss
+super strike
+Dice in Play
+When you roll the dice, you must decide how 
+many dice you will be rolling and then roll them 
+all at once. Whenever you pick up dice to roll 
+them, they are considered dice in play. Some 
+special rules can add or remove dice from the 
+dice in play or cause you to reroll the dice in 
+play. Your dice remain in play until all rules that 
+affect them are resolved and you place them 
+into a pool.
+
+You store unearned Power Dice in the Dice Well 
+on the battle map. When you earn Power Dice, 
+you move them to your Power Pool. You can use 
+only the Power Dice that are in your Power Pool. 
+After you spend or roll a Power Die, return it to 
+the Dice Well.
+You can add Power Dice from your Power Pool 
+to monster attack rolls to greatly increase your 
+chances of success. Some abilities available to 
+monsters, such as power attacks, require you to 
+use Power Dice. If you have not accumulated 
+enough Power Dice, you might not be able to do 
+what you want. Units cannot use Power Dice.
+You can earn Power Dice in the following ways:
+•	 Every time you make an attack that results 
+in the destruction of an enemy model, you 
+gain one Power Die for each enemy model 
+destroyed after removing the model(s) from 
+the battle map.
+•	 Every time you make an attack that results 
+in the destruction of a building, you gain two 
+Power Dice for each building destroyed after 
+removing the building(s) from the battle map.
+•	 When you power up, you gain one Power Die 
+for every allied unit holding a power zone on 
+the battle map (see “Power Zones,” p. 23, 
+and “Activating Monsters,” p. 26).
+•	 When you power up, you gain one Power Die 
+for every building currently secured by your 
+force (see “Securing Buildings,” p. 22).
+•	 You can gain Power Dice through certain 
+other rules and game effects.
+Boost Dice 
+Boost Dice have two misses, three strikes, and 
+one super strike on each die. Boost Dice are 
+special dice you roll when a model has a knack 
+for a particular kind of attack or because of 
+certain abilities or special circumstances. Boost 
+Dice have better odds of success than Action 
+Dice. Boost Dice are not part of any dice pool and 
+do not get used up when you roll them. They are 
+bonus dice you get for free. You store your Boost 
+Dice in the Dice Well on the battle map, and you 
+return them to the Dice Well after you roll them.
+If you ever need to roll more Boost Dice than you 
+have on hand, make your roll as normal, note the 
+number of strikes rolled, then roll again, using 
+as many dice as needed to reach the required 
+number. In some cases, you may need to roll more 
+than twice.
+Power Dice 
+Power Dice have one miss, four strikes, and 
+one super strike on each die. Power Dice are 
+an additional resource gained through various 
+means—mostly by causing destruction! You start 
+the game with no Power Dice in your Power 
+Pool, but you can earn Power Dice throughout 
+the game. Power Dice are used up when you roll 
+or spend them, and you can never have more 
+than ten Power Dice in your Power Pool at any 
+one time. Any Power Dice accumulated beyond 
+ten are lost.
+
+Brawl Stats – The first number to the right of the 
+Brawl header (inside the white Action Dice icon) 
+is the maximum number of Action Dice the model 
+can roll when it makes a brawl attack. A model 
+must have a Brawl stat to make brawl attacks. 
+The second number (inside the blue Boost Dice 
+icon) is the number of Boost Dice the model rolls 
+whenever it makes a brawl attack; if there is no 
+number, the model does not roll free Boost Dice 
+for a brawl attack.
+Blast Stats – The first number to the right of the 
+Blast header is the Range (RNG) of the attack, 
+which indicates the maximum number of spaces 
+the target of a blast attack can be from the 
+attacking model. The second number (inside the 
+white Action Dice icon) is the maximum number 
+of Action Dice the model can roll when it makes 
+a blast attack. A model must have a Blast stat to 
+make a blast attack. The third number (inside the 
+blue Boost Dice icon) is the number of Boost Dice 
+the model rolls whenever it makes a blast attack; 
+if there is no number, the model does not roll 
+free Boost Dice for a blast attack.
+Power Stats – Only monsters have Power stats. 
+The first number to the right of the Power 
+header (inside the white Action Dice icon) is the 
+maximum number of Action Dice the model can 
+roll when it makes a power attack. The second 
+number (inside the blue Boost Dice icon) is the 
+number of Boost Dice the model rolls whenever 
+it makes power attack.
+A model’s special rules are listed on its card (see 
+“Special Rules,” p. 30).
+Model Stat Cards
+Each stat card provides all relevant stats for the 
+model as well as certain other basic information, 
+including the model’s name, its Faction, and its 
+type. 
+One side of a monster’s stat card is for its alpha 
+version, and the other side is for its hyper version. 
+Basic Stats
+Stat cards include the following basic stats for 
+models.
+Speed (SPD) – The number of spaces the 
+model can move on the grid when it advances. 
+Additionally, some models have the High Mobility 
+icon 
+ next to their SPD stat. (See “Moving on 
+the Grid,” p. 14.)
+Defense (DEF) – The number of strikes your 
+opponent must roll in a single attack to hit this 
+model.
+Cost – The number of Action Dice you must 
+spend to bring a unit into play when you spawn 
+units. Only units have a Cost stat.
+Attack Stats
+A model’s forms of attack are represented by its 
+weapon stat bars. There are three basic types of 
+attack: brawl attacks, blast attacks, and power 
+attacks. Only monsters can make power attacks. 
+(For details, see “Making Attacks,” p. 18.)
+
+Initializing...
+22 43 61 6e 64 69 64 20 70 68 72 61 73 65 20 74 68 61 74 
+27 73 20 6c 6f 6e 67 20 65 6e 6f 75 67 68 20 61 6e 64 
+20 77 6f 6e 27 74 20 67 65 74 20 6d 65 20 69 6e 20 74 72 
+6f 75 62 6c 65 21 22
+Optimizing Electromagnetic Pathways
+Electro-Ceramic Ram Capacitor : MAX
+38.897569, -77.036491
+ANNIHILATE – This monster’s attacks 
+do super damage. 
+DEMOLISHER – When this model 
+makes an attack, gain +1 Power Die 
+for every building destroyed as a 
+result of its attack. 
+RILED – When this model is damaged 
+or destroyed by an enemy attack, you 
+gain one Power Die. 
+UNEARTHLY RAGE – While this model is 
+in play, other allied models gain Riled.
+PLANET EATERS / MONSTER
+ 
+ 
+5 4 3 2 
+ 
+HYPER
+DISINTEGRATE – Buildings destroyed 
+by this attack are not replaced by 
+rubble or hazards.
+CHAIN REACTION – If this attack hits 
+a unit, all units adjacent to the target 
+unit with DEF equal to or less than 
+the number of strikes rolled also 
+suffer 1 damage point as a result of 
+this attack.
+Brawl
+Initializing...
+22 43 61 6e 64 69 64 20 70 68 72 61 73 65 20 74 68 61 74 
+27 73 20 6c 6f 6e 67 20 65 6e 6f 75 67 68 20 61 6e 64 
+20 77 6f 6e 27 74 20 67 65 74 20 6d 65 20 69 6e 20 74 72 
+6f 75 62 6c 65 21 22
+Optimizing Electromagnetic Pathways
+Electro-Ceramic Ram Capacitor : MAX
+38.897569, -77.036491
+DEMOLISHER – When this model 
+makes an attack, gain +1 Power Die 
+for every building destroyed as a 
+result of its attack. 
+RILED – When this model is damaged 
+or destroyed by an enemy attack, you 
+gain one Power Die.
+DISINTEGRATE – Buildings destroyed 
+by this attack are not replaced by 
+rubble or hazards.
+CHAIN REACTION – If this attack hits 
+a unit, all units adjacent to the target 
+unit with DEF equal to or less than 
+the number of strikes rolled also 
+suffer 1 damage point as a result of 
+this attack.
+Brawl
+PLANET EATERS / MONSTER
+WAVE 
+DISINTEGRATOR BEAM
+HYPER BIOLOGY
+RENDING 
+CLAWS
+ALPHA
+ 
+11 10 9 8 7 6 
+ 
+Monster Stat Cards
+Monster stat cards are larger than unit and 
+building stat cards. They are double-sided, 
+with one side displaying the rules and stats for 
+the monster’s alpha form and the other side 
+displaying the rules and stats for its hyper form. 
+Monsters start the game in their alpha forms.
+A monster’s health track is located along the 
+bottom edge of its stat card and shows how 
+much damage the monster can take before being 
+destroyed. Units and buildings do not have health 
+tracks because they are destroyed if they take a 
+single damage point. See page 20 for more 
+detailed information on the health track.
+Oscillating Subharmonic Energy
+Reigniting Antimatter Chamber
+Rocket Chopper
+G.U.A.R.D. / UNIT
+COST: 1
+GRUNT
+FLIGHT – This model can end its 
+movement on impassible terrain and 
+is immune to hazards except when 
+colliding with them. 
+SPOTTER – Enemy models within two 
+spaces of this model have their DEF 
+reduced by 1 against blast attacks made 
+by allied models, to a minimum of 1.
+RADAR DISK
+TEMPEST 
+ROTARY CANNON
+U.C. GUIDED 
+MISSILES
+22 43 61 6e 64 69 64 20 70 
+68 72 61 73 65 20 74 68 61 
+74 27 73 20 6c 6f 6e 67 20 
+65 6e 6f 75 67 68 20 61 6e 
+64 20 77 6f 6e 27 74 20 67 
+65 74 20 6d 65 20 69 6e 20 
+74 72 6f 75 62 6c 65 21 22
+Fluctuating Resonance Frequency
+COOL THING
+apartment Building
+BUILDING
+HIGH-DENSITY – This building is 
+not limited to four per player.
+monster stat card
+building stat card
+unit stat card
+
+Moving on the Grid
+The most common type of movement in 
+Monsterpocalypse is advancing. Monsters and 
+units have Speed (SPD) stats that indicate how 
+many spaces they can move on the map each 
+time they advance. Each of your monsters can 
+advance once during the Advancement Phase of 
+your Monster Activations. Each of your units can 
+advance once during the Advancement Phase of 
+your Unit Activations.
+A model can move either up, down, left, or right 
+on the battle map. A model can move diagonally 
+once while advancing. Monsters can occupy more 
+than one space at a time, but they still count out 
+their movement like units do.
+Gameplay Overview
+Monsterpocalypse is played in turns, alternating 
+between the two players. Each player starts the 
+game by taking a Unit Activation. Then for the 
+rest of the game, you can choose to take either 
+a Monster Activation or a Unit Activation on 
+your turn. Each type of activation is divided into 
+phases that must occur in order. These phases are 
+explained in depth beginning on page 26.
+A Unit Activation consists of the following 
+phases:
+1.	Spawn Phase, when your units can enter the 
+battle map.
+2.	Advancement Phase, when your units 
+advance.
+3.	Attack Phase, when your units make attacks.
+4.	Push Phase, when you can move any unused 
+Action Dice into the Monster Pool.
+A Monster Activation consists of the following 
+phases:
+1.	Power Phase, when your monsters power up.
+2.	Advancement Phase, when your monsters 
+advance.
+3.	Attack Phase, when your monsters make 
+attacks.
+4.	Push Phase, when you can move any unused 
+Action Dice into the Unit Pool.
+Monsters can move through spaces occupied by 
+enemy units and allied models, but they cannot 
+move through buildings or enemy monsters 
+unless they have a special rule that allows them 
+to do so.
+two ways a monster can move four spaces
+
+Terrain
+The spaces on the battle map represent various 
+types of terrain your models will traverse. Monsters 
+can move across and occupy any terrain without 
+restriction or penalty, but for units, some terrain 
+types are more difficult to cross than others.
+Open Terrain – Open terrain includes spaces 
+such as roads and grass. Count these spaces once 
+when a unit advances into them.
+Units can move through spaces occupied by 
+allied models, but they cannot move through 
+buildings or enemy models unless they have a 
+special rule that allows them to do so.
+No model can finish its movement in a space 
+occupied by another model.
+Models cannot move beyond the edge of the 
+battle map. If a model is thrown or would 
+otherwise be moved beyond the edge of the 
+battle map, it stops at the edge. Furthermore, 
+any time you move a model, it must end its 
+movement in spaces it can legally occupy. When 
+you put a model into play, you must place it on 
+spaces it can legally occupy.
+Stepping
+Monsters have an additional type of movement 
+called stepping. A monster steps by spending an 
+Action Die to move one space in any direction, 
+including diagonally. A monster can step before it 
+advances, after it advances, before it attacks, and 
+after it attacks. Your monster can step as many 
+times as you have Action Dice to spend. Each step 
+is performed individually, and the monster must 
+be able to occupy the spaces into which it moves. 
+Example: While in alpha form, Terra Khan has 
+SPD 6, but its desired target is eight spaces away. 
+After advancing six spaces, Terra Khan can spend 
+two Action Dice from the Monster Pool to step two 
+more spaces, ending up adjacent to its target. The 
+spent dice are placed in the Unit Pool.
+Examples of open terrain
+Rough Terrain – Rough terrain includes spaces 
+such as trees and large rocks. Count these spaces 
+twice when a unit advances into them.
+Example of rough terrain
+Impassible Terrain – Impassible terrain includes 
+spaces such as water. A unit cannot enter these 
+spaces unless it has a special rule that allows it 
+to do so.
+Example of impassible terrain
+
+Adjacent
+A model is adjacent to another model when it 
+occupies a space next to or immediately diagonal 
+to the other model.
+High Mobility 
+Some models are capable of leaping great 
+distances, tunneling beneath the earth, or 
+climbing over any obstacle. These models have 
+High Mobility, as indicated by the 
+ icon next to 
+their SPD on their stat card.
+A model with High Mobility can move through 
+other models and treats all terrain as open 
+terrain. A model with High Mobility is immune to 
+hazards except when it ends its advancement on 
+a hazard, but it still suffers all effects as a result 
+of colliding with hazards and other models.
+A unit with High Mobility cannot end its 
+movement on impassible terrain.
+Cover
+A unit adjacent to a building or a friendly 
+monster gains Cover. Cover adds +1 to the unit’s 
+DEF against blast attacks. A unit cannot gain 
+more than +1 DEF from Cover. Cover does not add 
+to a unit’s DEF against brawl or power attacks. 
+Monsters cannot gain Cover.
+Adjacent, Base-to-Base & Aligned
+Models can be adjacent to each other, base-to-
+base, and aligned.
+Spaces adjacent to a G-Tank unit
+Spaces adjacent to a monster
+Crawler
+downtown highrise
+repair truck
+Belcher
+
+Aligned
+A monster is aligned with another monster or a 
+building when one entire edge of the monster’s 
+base touches one entire edge of the other 
+model’s base. Models that are aligned are also 
+B2B and adjacent.
+Base-to-Base (B2B)
+A model is base-to-base (B2B) with another 
+model when both models occupy spaces that are 
+next to each other. Models that are B2B are also 
+adjacent. Models that are diagonal from each 
+other are not B2B. 
+both belchers
+belcher
+Gorghadra
+< adjacent, 
+NOT b2B>
+< adjacent, 
+NOT b2B>
+Spaces B2B with a G-Tank unit
+Spaces B2B with a monster (Defender X)
+Defender X and Gorghadra are 
+aligned, B2B, and adjacent.
+Defender X and the downtown highrise are not 
+aligned, but they are B2B and adjacent.
+Some buildings are not mounted on a base. 
+If a building is not mounted on a base, treat the four 
+foundation spaces it occupies as its base.
+G-Tank
+
+model can also receive Boost Dice from its 
+special rules or other game effects. The Brawl, 
+Blast, and Power stats restrict only the number 
+of Action Dice you can roll, not the number of 
+Boost Dice.
+Example: Your Alpha Defender X has a Brawl 
+Action Dice stat of 7, so it can spend up to seven 
+Action Dice when it makes a brawl attack. It also 
+has a Brawl Boost Dice stat of 4, meaning it gains 
+four Boost Dice on a brawl attack. Whether you 
+roll one, two, or even seven Action Dice, you still 
+add four Boost Dice to the roll.
+The second type of additional dice are Power 
+Dice. Only monsters can use Power Dice. You earn 
+Power Dice by accomplishing certain tasks in the 
+game, and you can add any number of them to 
+any monster roll in addition to Action Dice and 
+Boost Dice.
+Example: Your Defender X makes a brawl attack 
+again, and this time you really need it to hit. As 
+before, you roll four Boost Dice and up to seven 
+Action Dice from your Monster Pool. You decide 
+that won’t be enough, so you add four Power Dice 
+from your Power Pool to the roll. You can add as 
+many Power Dice as you have in your Power Pool.
+Remember, a monster’s Brawl, Blast, and Power 
+Action Dice stats limit only the number of Action 
+Dice you can roll for an attack. They do not affect 
+the number of Boost Dice you must add or the 
+number of Power Dice you can add to the roll.
+Once you determine the number of dice to use, 
+make your attack roll. Count up the total number 
+of strikes and compare it to the Defense (DEF) of 
+your target. If the total number of strikes is equal 
+to or greater than the target’s DEF, the attack hits.
+Making Attacks
+There are three types of attacks in 
+Monsterpocalypse: brawl attacks, blast attacks, 
+and power attacks. To make an attack, follow 
+these steps:
+1.	Choose the type of attack.
+2.	Choose a target.
+3.	Determine the number of dice in your 
+attack roll.
+4.	Roll the dice and resolve the attack.
+Attack Rolls
+Every attack roll must include at least one 
+Action Die from the active pool, and you can add 
+a number of Action Dice to the roll up to the 
+number of the corresponding stat.
+Example: Your Sun Fighter unit makes a blast 
+attack against a Belcher. The Sun Fighter has 
+a Blast Action Dice stat of 2, so it can roll up to 
+two Action Dice for an attack. Because it’s a unit, 
+the Sun Fighter’s Action Dice come from the Unit 
+Pool. The Belcher’s Defense is 2, so the attack 
+hits if the roll results in two or more strikes. After 
+the roll, the two dice used for the attack go into 
+the Monster Pool.
+Two other types of dice can also come into play. 
+The first are Boost Dice. Some models receive 
+Boost Dice for certain types of attacks, as noted 
+by the weapon stat bars on their stat card. The 
+number inside the blue Boost Dice icon is the 
+number of Boost Dice you roll for free when 
+making that type of attack with the model. The 
+
+Target Models
+When you choose to have a model make an 
+attack, you must choose a building or an enemy 
+model as the target.
+An attacker can make a brawl attack targeting 
+any adjacent building or enemy model.
+An attacker can make a blast attack targeting any 
+building or enemy model within range. A blast 
+attack’s RNG is given in its weapon stat profile.
+When counting the spaces to the target, you can 
+count a diagonal only once.
+Blast attacks cannot be blocked by other models. 
+Monsters are too big to hide behind anything, 
+and even the smallest units can be detected by the 
+sophisticated systems and instincts of their enemies. 
+Regardless of the type of attack or how many dice 
+you roll, all attacks must adhere to the following 
+rules:
+•	 Monsters and units can attack enemy models 
+and buildings but cannot attack allied 
+models.
+•	 You can attack with any number of models 
+each turn as long as you have the required 
+Action Dice to roll.
+•	 Each unit can participate in only one attack 
+each turn.
+•	 You must complete all of one monster’s 
+attacks before declaring the next monster’s 
+attacks.
+•	 Normally, monsters can make only one attack 
+each turn, though some monsters have 
+special rules that allow them to make more 
+than one.
+Power attacks are special attacks that only 
+monsters can perform. They differ slightly from 
+brawl and blast attacks in that you must roll at 
+least one Power Die as well as at least one Action 
+Die when you make a power attack. The various 
+power attacks are explained in detail beginning 
+on page 32.
+blast ranges for monsters and units
+2 3 4
+4 5
+
+alpha form’s health track, it enters hyper form. 
+Flip its card over to the hyper side and continue 
+tracking the monster’s health. When the monster 
+loses the last of its health, it is destroyed and 
+removed from the battle map.
+Some effects can cause a monster’s health to be 
+restored. If a monster has health restored during 
+a battle, move the token to the left one point for 
+each point restored. A monster’s health can never 
+exceed the highest number on its health track. If 
+one or more of a monster’s alpha form damage 
+boxes are restored, it returns to its alpha form.
+Example: Josh’s Deimos-9 is in alpha form with full 
+health when it suffers three points of damage from 
+an attack. Josh moves the marker on Deimos-9’s 
+health track from 11 to 8.
+Super Damage
+Some attacks or effects cause super damage, 
+which means the target takes one additional 
+damage point. If multiple rules or effects that 
+cause super damage affect the same model 
+simultaneously, the target takes only one 
+additional point of damage.
+Damaging models
+Attacks cause one point of damage every time 
+they hit. Power attacks can result in additional 
+damage.
+damaging Units
+When a unit takes damage, it is destroyed. When 
+your unit is destroyed, remove it from the battle 
+map and place it back in your unit reserves.
+Damaging Monsters & 
+Restoring Health
+Each monster has two forms, an alpha form and 
+a hyper form. Each form has its own stats and 
+special rules. A monster begins the game in its 
+alpha form and enters its hyper form when it 
+takes a certain amount of damage.
+Each monster has a single health track, which is 
+divided between its alpha and hyper forms. The 
+damage the monster takes throughout the game 
+is tracked by moving a marker from left to right 
+along its health track to display its current health. 
+When a monster suffers damage in excess of its 
+alpha side
+hyper side
+health tracker 
+token
+flip to hyper 
+side icon
+monster 
+destroyed
+icon
+complete Monster health track
+22 43 61 6e 64 69 64 20 70 68 72 61 73 65 20 74 68 61 74 27 73 
+20 6c 6f 6e 67 20 65 6e 6f 75 67 68 20 61 6e 64 20 77 6f 6e 27 
+74 20 67 65 74 20 6d 65 20 69 6e 20 74 72 6f 75 62 6c 65 21 22
+ 
+11 10 9 8 7 6 
+ 
+22 43 61 6e 64 69 64 20 70 68 72 61 73 65 20 74 68 61 74 27 73 
+20 6c 6f 6e 67 20 65 6e 6f 75 67 68 20 61 6e 64 20 77 6f 6e 27 
+74 20 67 65 74 20 6d 65 20 69 6e 20 74 72 6f 75 62 6c 65 21 22
+Thera-Magnetic Field Stability : 88%
+ 
+ 
+5 4 3 2 
+ 
+
+Interacting with the 
+A big part of the fun of Monsterpocalypse lies in 
+how your models interact with the battle map 
+and the buildings on it. Whether you are knocking 
+down buildings or occupying tactically important 
+zones, you must understand the role the battle 
+map plays in the game.
+spawn point
+negative zone
+foundation
+power zone
+neutral spawn point
+with activator
+sky sentinel
+
+Destroying Buildings & Creating Hazards
+You can attack buildings just as you would attack 
+units or monsters. When a building takes damage, 
+it is destroyed.
+When a building is destroyed, it is replaced with 
+a two-sided debris tile. One side of each tile is 
+harmless rubble, while the other side is a hazard. 
+Most buildings are replaced with a hazard 
+when they are destroyed. If a building has the 
+Incombustible special rule, however, it does not 
+create a hazard when destroyed and is instead 
+replaced by rubble.
+Models moving into a hazard take 1 damage 
+point. Once a model has suffered the effects of 
+a hazard, it does not suffer those effects again 
+unless it moves off the hazard and then returns.
+Some models have rules that can eliminate 
+hazards. When a hazard is eliminated, flip the tile 
+over so the rubble side faces up.
+Treat all spaces occupied by a rubble tile as 
+rough terrain regardless of which side is face up.
+Securing Buildings
+When three of your units are adjacent to a 
+building and no enemy units or enemy monsters 
+are adjacent to it, you are securing the building. 
+Each time you power up, you receive one Power 
+Die for each building you are securing.
+A unit cannot secure a building while the unit is 
+being moved.
+Example: Will has two units adjacent to an 
+Industrial Complex. The Industrial Complex has 
+the Fuel Depot special rule, which gives all of 
+Will’s models +1 SPD while it is secured. He then 
+advances a third unit. During its movement the 
+Foundations
+Foundations are the locations on a battle map 
+where you can place buildings during setup. 
+Some foundations have green borders and some 
+have yellow borders. The colors determine the 
+order that you can place buildings on them. 
+During setup, green foundations must be filled 
+before you can start filling yellow foundations. 
+Treat foundations without a building placed on 
+them as open terrain.
+If one or more models are on a foundation, the 
+foundation is occupied. If no models are on a 
+foundation, it is unoccupied.
+Green foundation
+Yellow foundation
+Buildings are models that serve as obstacles 
+and strategic goals for you and your opponent, 
+provide much-needed power for monsters, and 
+present dangerous hazards on the battle map 
+after you destroy them. Buildings can also provide 
+beneficial abilities to your force. Buildings do 
+not move during the game. Although each player 
+must bring buildings to the game, the buildings 
+you bring are not part of your force.
+
+Spawn Points
+Spawn points are the spaces on the map where 
+units can enter the game. There are two types of 
+spawn points: standard spawn points and neutral 
+spawn points.
+Standard spawn points are color-coded to each 
+player. The standard spawn points of your color 
+remain your spawn points for the entire game 
+(see “Starting a Game,” p. 24).
+unit it becomes adjacent to the Industrial Complex 
+but continues to move past it so that it is no longer 
+adjacent. His unit does not gain the +1 SPD during 
+its advancement because the building is not 
+secured during the movement.
+Objective Spaces
+Strategic points known as objective spaces are 
+scattered around the battle maps, including 
+power zones, negative zones, and spawn points. 
+Objective spaces can grant benefits to the player 
+who holds them and potentially hinder the player 
+who does not. 
+To hold an objective space, a unit must simply 
+occupy the space on the map. Monsters cannot 
+hold objective spaces.
+Power Zones
+Each time you power up (see 
+“Activating Monsters,” p. 26), 
+you gain one Power Die for each 
+power zone held by one of your units.
+Negative Zones
+Each time you power up, your 
+opponent loses one Power Die 
+from his Power Pool for each 
+negative zone held by one of your units.
+Look for ways to position units to secure multiple 
+buildings at the same time. Some maps have 
+locations where the same three units can secure 
+two buildings and hold a power zone! With clever 
+selection and placement of your buildings and units, 
+you can gain three or more Power Dice from just 
+three units each time you power up.
+Standard spawn points
+Neutral spawn points do not begin the game 
+under any player’s control. Instead, each player 
+can try to take control of neutral spawn points 
+during the game by holding the adjacent 
+activators. If you have a model holding an 
+activator space next to a neutral spawn point, 
+then you control the spawn point and you can 
+use it as one of your spawn points. If no player 
+holds the activator, units cannot spawn from that 
+spawn point.
+Activator
+Neutral 
+spawn point
+
+Starting a Game
+Before setting up a game, each player rolls five 
+Action Dice for the setup roll. The player who rolls 
+the most strikes wins. If the setup roll is a tie, reroll.
+The loser of the setup roll chooses the battle 
+map for the game. The winner of the setup roll 
+chooses the color zones on the battle map each 
+player will use. You can use only the spawn 
+points that correspond to your color. 
+The winner of the setup roll also places the first 
+building, places their monsters first, and takes the 
+first turn.
+Placing Buildings on the grid
+Players take turns placing their buildings on 
+the foundation spaces on the battle map, one 
+building at a time, until they have placed all their 
+buildings. If one player runs out of buildings 
+before the other player, the player with remaining 
+buildings continues placing them. Players must 
+continue to place buildings until they have 
+placed all the buildings from their cities or have 
+run out of empty foundations on which to place 
+the buildings.
+Each foundation space has a colored border that 
+indicates the order of building placement. Players 
+must fill all green-bordered foundations before 
+placing a building on a yellow foundation.
+More buildings in the game means more power can 
+be generated and more big power attacks will happen, 
+so including as many buildings in your city as you can 
+makes for more exciting games.
+getting ready to play
+Before the game can begin, players must decide 
+how many monsters they will play with, choose 
+their models, and get their dice ready to roll!
+assembling your force
+Your force consists of the units and monsters you 
+will use in the game. All the models in your force 
+must belong to the same Agenda.
+Monsters
+Each force must include at least one monster, and 
+each player must start the game with the same 
+number of monsters. All monsters are unique 
+characters, so a player can bring only one of each 
+monster to a game. A player can bring the same 
+monster as their opponent, however.
+Units
+The number of units you can include in your 
+force depends on the number of monsters you 
+start the game with. If each player has one 
+monster, you can include up to 15 units in your 
+force. In a two-monster game, you can have up 
+to 20 units in your force. In a three-monster 
+game, you can have up to 25 units in your force.
+Your units begin the game in your unit reserves 
+rather than on the battle map. During the game, 
+they will enter play through the map’s spawn points.
+Each player must bring six to twelve buildings. 
+A player cannot bring more than four of any one 
+building.
+
+Example: Jason and Will are setting up a game on 
+a battle map with eight green foundations and ten 
+yellow foundations. Will brought eight buildings to 
+the game, and Jason brought twelve buildings. Will 
+won the setup roll, so he places the first building 
+on a green foundation. Jason then places one of 
+his buildings on a green foundation. They continue 
+alternating until all the green foundations are 
+filled up, then they begin filling the yellow 
+foundations. After Will runs out of buildings, Jason 
+places his remaining buildings.
+Remaining Setup
+Once all buildings are in place, the winner of the 
+setup roll places their monsters on the battle 
+map, then the other player does the same. Your 
+monsters must be placed so that their bases 
+touch the rear edge of your side of the battle 
+map. Next, make sure you have ten Action Dice in 
+your Unit Pool as well as ten Power Dice and at 
+least six Boost Dice in your Dice Well. Lastly, set 
+your units to the side of the battle map in your 
+unit reserves.
+Now, with everything set up, it’s time to start 
+tearing it down!
+
+There are four phases in a Monster Activation. 
+You can choose to skip any of the phases, but 
+any you choose to perform must be done in the 
+following order.
+1. Power Phase
+Begin your Monster Activation by powering up. 
+When you power up, you add one Power Die to 
+your Power Pool for each power zone your units 
+hold and for each building your units are securing. 
+In addition, your opponent loses one Power Die 
+from their Power Pool for each negative zone you 
+hold (see “Objective Spaces,” p. 23).
+2. Advancement Phase
+Each of your monsters can advance up to a 
+number of spaces equal to its SPD stat (see 
+“Moving on the Grid,” p. 14).
+3. Attack Phase
+You can spend Action Dice and Power Dice to 
+have your monsters make a brawl attack, blast 
+attack, or power attack. Each of your monsters 
+can make only one attack per Monster Activation 
+unless your monster has a special rule allowing it 
+to make an additional attack.
+4. Push Phase
+If you have Action Dice remaining in your 
+Monster Pool, you can move any number of them 
+to your Unit Pool.
+Remember, your monsters can also move 
+by spending Action Dice to step (see p. 15).
+Order of Play
+Monsterpocalypse is played in a series of turns 
+in which players advance and attack with their 
+models until only one player has a monster left 
+in play.
+On your turn, you must choose to perform 
+either a Monster Activation or a Unit Activation. 
+To activate units or monsters, you must be 
+able to spend at least one Action Die from the 
+appropriate dice pool. If you have no Action 
+Dice in your Monster Pool, you cannot perform 
+a Monster Activation. If you have no Action Dice 
+in your Unit Pool, you cannot perform a Unit 
+Activation.
+Because there are no Action Dice in your Monster 
+Pool when you start a game, your first turn of 
+every game will be a Unit Activation.
+After you finish your Monster Activation or Unit 
+Activation, your turn ends, and the next player 
+takes a turn.
+Activating Monsters
+When you choose a Monster Activation, your 
+Monster Pool becomes the active pool, and all 
+Action Dice you spend or roll move from the 
+Monster Pool to the Unit Pool after you use them.
+Leave a few dice behind in each pool. It’s tempting 
+to exhaust your dice pools so that you can do more 
+each turn, but be careful. Sometimes having just one 
+Action Die in your Monster Pool is enough to make 
+your opponent think twice about body slamming your 
+monster into a block of buildings. That one die could 
+allow you to return the favor!
+
+Example: Jack wants to spawn a G-Tank and a 
+Sun Fighter onto two of his spawn points. Both 
+have a Cost of 1, so normally they would each cost 
+Jack one Action Die from his Unit Pool to spawn. 
+However, Jeff has a unit on the spawn point where 
+Jack wants to spawn his Sun Fighter. Jack spends 
+one Action Die to move Jeff’s unit to an empty 
+adjacent space, then spends another Action Die to 
+spawn the Sun Fighter in that location. He then 
+spends one Action Die to spawn his G-Tank on the 
+other spawn point.
+2. Advancement Phase
+Each of your units can advance up to a number of 
+spaces equal to its SPD stat (see “Moving on the 
+Grid,” p. 14).
+3. Attack Phase
+You can attack with any number of your units on 
+the battle map. Each unit can participate in one 
+individual or combined attack (see “Combined 
+Unit Attacks,” p. 28). You must spend at least 
+one Action Die for each unit participating in an 
+attack. You do not have to attack with the same 
+units you advanced this turn. You can continue to 
+make attacks with your units as long as you have 
+Action Dice to spend and as long as you have 
+units that have not yet participated in an attack 
+during this Unit Activation.
+4. Push Phase
+If you have Action Dice dice remaining in your 
+Unit Pool, you can move any number of them to 
+your Monster Pool.
+Activating Units
+When you choose a Unit Activation, your Unit 
+Pool becomes the active pool, and all Action Dice 
+you spend or roll move from the Unit Pool to the 
+Monster Pool when you use them.
+There are four phases in a Unit Activation. As 
+with Monster Activations, you can choose to skip 
+any phase, but the phases must be done in order.
+1. Spawn Phase
+You can spend Action Dice to bring units into play 
+from your unit reserves. This is called spawning. 
+You can spawn any number of units as long as 
+you have enough Action Dice to spend. Units 
+spawned at the beginning of your turn can 
+advance and attack in the same turn.
+When you spawn a unit, you must spend Action 
+Dice from your Unit Pool equal to the unit’s Cost. 
+Then take the unit from your unit reserves and 
+place it on one of your spawn points. You can 
+only spawn units from your unit reserves.
+If you want to spawn a unit on a spawn point 
+that is already occupied by a unit, you can spend 
+one Action Die to move that unit into an adjacent 
+space that it can legally occupy before you pay 
+the Cost for the unit you want to spawn.
+Be careful about leaving one of your units on your 
+opponent’s spawn point if there is an adjacent hazard. 
+Your opponent might move your unit onto 
+the hazard and destroy it!
+
+Example of a combined unit attack
+When making a combined brawl attack, all 
+participating units must be adjacent to the target. 
+For a combined blast attack, all participating units 
+must have the target within their attack range.
+Add up the Brawl or Blast stats of the units 
+involved, depending on the type of attack, to 
+determine the total number of Action Dice you 
+can roll for the attack. You must spend at least 
+one Action Die for each participating unit.
+Example: A Belcher can spend up to two Action 
+Dice when it makes a blast attack. When three 
+Belchers combine for a blast attack, the roll must 
+include at least three Action Dice (because there 
+are three units) and can include up to six Action 
+Dice (two for each Belcher).
+Oz is making a combined attack with the following 
+units: Elite G-Tank, Grunt G-Tank, Elite Sun Fighter, 
+Grunt Sun Fighter. 
+Oz is attacking Will’s Ares Mothership, which is in 
+hyper form (DEF 8). Oz chooses the Elite G-Tank to lead 
+the attack. The Elite G-Tank is within two spaces of the 
+Grunt G-Tank, and the Elite Sun Fighter is within two 
+space of the Grunt Sun Fighter, so both grunt models 
+benefit from the elite models’ Commander special rules. 
+Additionally, neither G-Tank moved this activation, so 
+both benefit from Aim. Further, since the Grunt Sun 
+Fighter and the Elite Sun Fighter are participating in a 
+combined attack against a model with Flight, they both 
+benefit from Anti-Air.
+Oz totals up the dice he can potentially roll when 
+resolving this combined attack: eight Action Dice 
+and eight Boost Dice. Oz chooses to roll four Action 
+Dice (one for each participating model) and all eight 
+Boost Dice. He rolls nine strikes for a hit, so Will’s Ares 
+Mothership suffers 1 damage point from the attack.
+Relevant special rules of these models are as follows:
+Aim – This model gains +1 Blast Boost Die if it did not move 
+this activation.
+Anti-Air – If this model participates in a brawl or blast attack 
+targeting a model with Flight, this model gains +1 boost dice.
+Commander: G-Tank – Allied G-Tank Grunt units within two 
+spaces of this unit gain +1 Boost Die when participating in 
+brawl or blast attacks.
+Commander: Sun Fighter – Allied Sun Fighter Grunt units 
+within two spaces of this unit gain +1 Boost Die when 
+participating in brawl or blast attacks.
+Combined Unit Attacks
+A single unit has almost no chance of causing 
+damage to a monster on its own, but combined 
+units attacking together can pose a powerful 
+threat. Two or more units can combine attacks of 
+the same type (brawl or blast) in order to create 
+a more powerful attack with a greater chance 
+of hitting and causing damage. Units cannot 
+combine brawl attacks with blast attacks.
+To make a combined unit attack, choose one unit 
+to lead the combined attack and declare which 
+other units will participate. The model leading 
+the attack is considered to be the attacking 
+model for resolving any special rules.
+elite sun fighter
+sun fighter
+elite g-tank
+
+A player wins the game when all of their 
+opponent’s monsters are destroyed.
+If you must end your game before one player 
+has destroyed all the opponent’s monsters, the 
+player with the most monsters remaining in 
+play wins. If both players have the same number 
+of monsters in play, add up the damage points 
+on each players’ monsters, including those that 
+have been destroyed. The player whose monsters 
+have suffered the least amount of damage is the 
+winner. If the amounts of damage are the same, 
+the game ends in a draw.
+If the combined attack roll hits, the target is 
+damaged. A combined attack does only one point 
+of damage no matter how many units participate 
+in the attack. Additionally, a combined attack 
+counts as only one attack regardless of how many 
+units participate.
+Units participating in a combined attack must 
+roll all the Boost Dice they have for that type of 
+attack. If you do not spend an Action Die for a 
+unit to participate in an attack, however, you 
+cannot include its Boost Dice.
+Units making a combined attack can benefit from 
+all the special rules affecting the participating 
+models. Although each model participating in 
+the attack can benefit from the same-named 
+special rule only once, the combined attack can 
+benefit from each model that has the same 
+special rule. In other words, the effects 
+of same-named rules can be 
+cumulative in a combined 
+attack.
+Example: The Anti-Air special 
+rule grants an extra Boost Die 
+to a model when it attacks a target 
+with Flight. If three models with Anti-Air 
+combine to attack a flying target together, 
+you can add three Boost Dice to the roll, one for 
+each instance of Anti-Air.
+Remember, a unit can participate in only one attack 
+each turn. If a unit participated in a combined attack, 
+it cannot make an attack of its own in the same turn.
+cthugrosh
+
+Example: Hyper Gorghadra hits Alpha Armodax 
+with a brawl attack. Hyper Gorghadra has the 
+Annihilate special rule, which causes its attacks to 
+do super damage. Normally, a monster hit by this 
+attack would take two points of damage (one for 
+the brawl attack and one for super damage), but 
+Alpha Armodax has the Resilience special rule, 
+which makes it immune to super damage. Alpha 
+Armodax takes only one point of damage.
+Applying Special Rules
+The special rules of individual models take 
+precedence over the general rules in this rulebook.
+same name would affect a single model, apply 
+same name would affect a single attack, apply 
+same name would affect a single power-up, apply 
+Example: The Force Field special rule gives a model 
++1 DEF against blast attacks, and a model can gain 
+Force Field from multiple sources. Regardless of 
+how many instances of Force Field are affecting it, 
+a model can gain the +1 DEF against blast attacks 
+from Force Field only once. Similarly, a model can 
+benefit only once from Cover, which also gives 
++1 DEF against blast attacks. However, because 
+Force Field and Cover have different names, a model 
+can benefit from both at once for a combined 
++2 DEF against blast attacks.
+The models in Monsterpocalypse can do much 
+more than just move around and make brawl, 
+blast, and power attacks. They also have a variety 
+of special rules, as noted on their cards.
+When the text of a special rule refers to 
+“Faction,” it means the Faction of the model that 
+has the rule.
+Actions
+Actions are a type of special rule that require you 
+to spend an Action Die to use. On models’ stat 
+cards, these rules begin with the word “Action.” 
+Your monsters can use their Actions rules only 
+during a Monster Activation, and your units can 
+use their Actions only during a Unit Activation. 
+Some buildings also have Actions. A building 
+can perform Actions only while secured and only 
+during a Unit Activation.
+During the Advancement or Attack Phase, a 
+model can perform an Action by spending one 
+Action Die from the active pool. An Action cannot 
+interrupt a model’s advancement or attack.
+You can use each Action only once during each 
+of your activations, and each of your models can 
+perform only one Action each activation.
+Immunity
+Some models have rules that make them immune 
+to certain types of attacks or effects. When a 
+model has an immunity, it cannot be harmed or 
+affected by that type of attack or effect. 
+
+Collisions
+A collision occurs when a monster is forced 
+to move through or occupy a space already 
+occupied by another monster, a unit, a hazard, or 
+a building. Some power attacks and special rules 
+can cause collisions.
+•	 When a monster collides with a unit, the unit 
+is destroyed.
+•	 When a monster collides with a building, the 
+building is destroyed and the monster takes 
+one point of damage.
+•	 When a monster collides with a hazard, the 
+monster suffers the effects of that hazard. 
+When a monster collides with a building and 
+a hazard is created, the monster also collides 
+with the hazard.
+•	 When a monster collides with another 
+monster, both monsters take one point of 
+damage. Place the monster that moved in the 
+last spaces that it could occupy before 
+colliding with the other monster.
+Super damage is different from collision damage. 
+Being immune to super damage does not mean a 
+model is immune to the extra damage caused by 
+collisions with buildings and hazards!
+Timing of Special Rules
+A number of special rules can be triggered as part 
+of the same attack. Some rules take effect after the 
+attack has been resolved, but others are resolved 
+as part of the attack in the following order:
+1.	The attacking player’s special rules that 
+trigger on a hit are resolved, in the order 
+chosen by that player.
+2.	The other player’s special rules that trigger 
+on a hit resolve, in the order chosen by that 
+player.
+3.	The attacking player’s special rules that 
+trigger on destroying a model are resolved, in 
+the order chosen by that player.
+4.	The other player’s special rules that trigger 
+on a model being destroyed are resolved, in 
+the order chosen by that player.
+5.	The attacking player’s special rules that 
+are resolved “immediately after an attack is 
+resolved” are resolved, in order chosen by 
+that player.
+6.	The other player’s special rules that are 
+resolved “immediately after an attack is 
+resolved” are resolved, in order chosen by 
+that player.
+If a model is removed from the battle map before 
+its special rules are triggered, those rules do not 
+take effect.
+
+Example: Defender X body slams Gorghadra. 
+Gorghadra is moved into the spaces aligned to 
+the right of Defender X’s base. A Skyscraper and a 
+Belcher occupy those spaces, so the Belcher and 
+the building are destroyed as Gorghadra slams onto 
+them. The Skyscraper is replaced with a hazard. 
+Gorghadra takes one damage point from the hit, 
+one damage for colliding with the building, and one 
+damage for the hazard. Defender X gains one Power 
+Die for destroying the Belcher and two Power Die 
+for the building destroyed under Gorghadra.
+Monsters can perform special attacks called 
+power attacks. These power attacks include body 
+slam, ram, rampage, stomp, swat, and throw.
+Each power attack does one point of damage 
+when it hits as well as having power attack effects 
+that can cause the target monster to be moved. 
+You must roll at least one Power Die and one 
+Action Die when making a power attack, and you 
+must declare the use of a particular power attack 
+before you make your power attack roll.
+Body Slam
+Your monster picks up another monster and 
+slams it to the ground.
+To make a body slam power attack, the attacking 
+monster must be aligned (see p. 17) with 
+the target monster. If a body slam attack hits, 
+place the target monster in a new location also 
+aligned with the attacking monster. You can only 
+body slam a monster into unoccupied spaces or 
+spaces occupied by buildings or units. You cannot 
+perform a body slam if you cannot move the 
+target monster to a valid new location.
+The body-slammed monster collides with each 
+building, unit, and hazard occupying the spaces 
+where it is placed.
+Before the body slam
+After the body slam
+belcher
+belcher destroyed
+
+Ram
+Your monster bashes its body into a building 
+to hit enemies on the other side with flying 
+wreckage.
+A monster aligned with a building can make a 
+ram power attack targeting the building. If a ram 
+attack hits, the building is destroyed. A monster 
+on the opposite side of the building and B2B 
+with it takes one damage point. Any units B2B 
+with the building on the opposite side are 
+destroyed.
+A ram power attack targets a building, 
+not a monster or unit.
+Example: Your Gorghadra attempts to ram a 
+Skyscraper that has DEF 7. You roll five Action 
+Dice, four Boost Dice, and one Power Dice. The 
+attack hits with seven strikes and destroys the 
+Skyscraper. In addition, since Defender X and a 
+G-Tank are on the other side, Defender X takes one 
+damage point and the G-Tank is destroyed when 
+debris from the building falls on them. Gorghadra 
+then gains two Power Die for destroying the 
+Skyscraper and another Power Die for destroying 
+the G-Tank.
+Be careful. If your units are on the other side 
+of a falling building after your ram power attack, 
+they will be destroyed as well!
+terra khan
+
+Example: Liz is rampaging with Alpha Gorghadra. 
+She starts by taking three Action Dice from her 
+Monster Pool, adds four Boost Dice that Gorghadra 
+receives for power attacks, and adds three Power 
+Dice for a total of ten dice. She rolls six strikes and 
+begins moving Gorghadra, comparing the number 
+of strikes she rolled to the DEF of each building 
+and unit in Gorghadra’s path. The six strikes hit 
+the Downtown Highrise and the G-Tank but not 
+the Skyscraper. Gorghadra must stop moving 
+just before entering the spaces occupied by the 
+Skyscraper. Liz gains three Power Dice, one for 
+the destroyed G-Tank and two for destroying the 
+Downtown Highrise.
+Rampage
+Your monster charges straight ahead in an attempt 
+to destroy every building and unit in its path.
+A monster cannot make a rampage power attack 
+if it has advanced this turn, so you have to decide 
+if you want to rampage before you advance your 
+monster. Make one attack roll for the rampage 
+attack; you will compare the result to the DEF 
+of every unit and building through which the 
+monster rampages.
+Begin moving your monster in a straight line. 
+Before your monster enters a space occupied by 
+a building or unit, compare the number of strikes 
+you rolled for the rampage attack to the DEF of 
+the building or unit.
+If the rampage attack hits a building, the building 
+is destroyed, and the monster continues moving. 
+If the attack misses a building, the monster stops.
+If the rampage attack hits a unit, the unit is 
+destroyed. Whether or not the unit is destroyed, 
+the monster continues moving.
+If a space the rampaging monster would move 
+into is occupied by another monster, the 
+rampaging monster stops.
+The rampaging monster must continue moving 
+until it moves the maximum distance allowed 
+by its SPD or until it is forced to stop. Any units 
+occupying the spaces where the rampaging 
+monster stops are destroyed.
+The rampaging monster is immune to hazards 
+while moving, but a monster that ends its 
+rampage movement on a hazard suffers the 
+effects of that hazard.
+Watch your step! A rampage power attack can 
+destroy all units in the monster’s path, even allies.
+Before the rampage attack
+After the rampage attack
+Models with Flight ignore hazards, so a flying monster 
+that ends its rampage on a hazard is not affected by 
+the hazard. Also, try stepping before you rampage to 
+line your monster up for a more destructive path!
+downtown highrise
+
+Swat
+Your monster smacks a nearby unit to send it 
+flying toward another model or building.
+To make a swat power attack, your monster first 
+makes a power attack against an adjacent unit. If 
+this attack hits, the unit is destroyed, and you can 
+target an enemy model or building within five 
+spaces of the unit hit and make a second attack 
+against the target by rolling the dice in play (see 
+“Dice in Play,” p. 10). A building or unit hit by 
+this attack is destroyed, and a monster hit takes 
+one damage point.
+Stomp
+Your monster slams a part of its body (usually a 
+foot, but a tail or a tentacle can work, too) into 
+the ground to crush all nearby units with the 
+force of impact.
+When your monster makes a stomp power attack, 
+roll once for the attack, and flip all hazards that 
+are under or adjacent to the attacking monster to 
+the rubble side. Compare the number of strikes to 
+the DEF of all units adjacent to the monster. Units 
+hit are destroyed.
+Even flying units are hit by a stomp power attack.
+You can stomp next to a hazard tile to flip it to 
+its rubble side even if there are no adjacent units. 
+Stomping will still cost you one Action Die from your 
+Monster Pool and one Power Die, but the attack 
+will succeed regardless of the roll.
+rogzor
+
+throw example
+Richard wants his Alpha Gorghadra to throw Hyper 
+Defender X. Alpha Gorghadra’s Power stat is 7 with 
+four Boost Dice, so Richard rolls five Action Dice, adds 
+four Boost Dice, and adds five Power Dice for a total 
+of fourteen dice. He rolls ten strikes, so the attack hits 
+against Hyper Defender X’s DEF of 8. Richard has some 
+options for where to place Defender X and decides the 
+best spot is five spaces directly away from Gorghadra 
+(one space for each Power Die rolled). Defender X 
+cannot be thrown on top of the Ares Mothership. 
+Defender X collides with the G-Tank and the Downtown 
+Highrise in those spaces. The building bursts into flame 
+and turns into a hazard, and the G-Tank is destroyed. 
+Defender X takes one damage point from the throw, one 
+damage point from the collision with the building, and 
+one damage point from the hazard. Richard then gains 
+one Power Die for the destroyed G-Tank and two for the 
+destroyed building.
+Throw
+Your monster lifts another monster off the 
+ground and throws it through the air.
+To make a throw power attack, the attacking 
+monster must be aligned with the target 
+monster. When a throw attack hits, the attacker 
+can place the target monster in a new location. 
+The new location must be within the area 
+shown in the diagram below and can be a 
+number of spaces away from the monster’s 
+current location up to the number of Power Dice 
+rolled for the throw attack.
+The thrown monster can be placed in the highlighted area
+before throw
+after throw
+You can throw a monster into any spaces except 
+spaces occupied by a monster. You cannot 
+perform a throw power attack if you cannot move 
+the target monster to a valid location.
+The target monster collides with each building, 
+unit, and hazard occupying the spaces where it 
+is placed.
+
+Setup
+Choose one player to be the monster player who 
+controls Gorghadra. The other player is the unit 
+player who controls the Planet Eater units.
+Set aside the G.U.A.R.D. units and monster.
+Choose any battle map and place Gorghadra in 
+one of the two corners on the side with the red 
+spawn points (see “Spawn Points,” p. 23).
+Next, place ten apartment buildings on the map, 
+starting with the green foundations. When the 
+green foundations are full, place the remaining 
+apartments on yellow foundations on the same 
+side of the map as Gorghadra (see “Placing 
+Buildings on the Grid,” p. 24). Randomly place 
+a padlock token on each building with the 
+numbered side face down.
+Stat cards are not used in this scenario.
+The monster player plays with ten white dice. The 
+unit player plays with three white dice, three blue 
+dice, and twenty red dice.
+The unit player places a Planet Eater unit on 
+each of the red spawn points on the battle map.
+Finally, place a G.U.A.R.D. unit adjacent to each 
+building, starting with the buildings closest to 
+Gorghadra.
+A Cooperative Scenario
+This scenario allows two players to play a 
+cooperative minigame using components from 
+the first two Monsterpocalypse starter boxes. 
+The scenario uses only some of the rules of 
+Monsterpocalypse, giving players a chance 
+become familiar with how movement and attacks 
+function in the game.
+You can find more co-op scenarios at 
+monsterpocalypse.com.
+Overview
+In this scenario, Gorghadra is trying to destroy 
+a city before Defender X can arrive to save it. 
+Two players team up as the Planet Eater force 
+and work together to attack the city, which is 
+defended by a G.U.A.R.D. force controlled by the 
+rules of the scenario.
+Monsterpocalypse: Downtown Demolition
+
+example scenario setup
+Monster player
+unit player
+G.U.A.R.D. 
+Units & Monster
+
+Next, move each G.U.A.R.D. unit up to six spaces, 
+unless it is already adjacent to a building with a 
+padlock token. When a G.U.A.R.D. unit moves, it 
+moves toward the building closest to Gorghadra 
+that has a padlock token and does not already 
+have a G.U.A.R.D. unit adjacent to it. If the unit 
+reaches that building, it stops. If all of the 
+buildings already have an adjacent G.U.A.R.D. 
+unit, a G.U.A.R.D. unit moves toward the closest 
+Planet Eater unit.
+After all G.U.A.R.D. units have moved, each can 
+make a ranged attack against a Planet Eater unit 
+within five spaces. When a unit attacks, roll three 
+white dice and two blue dice. If the roll results 
+in four or more strikes, the Planet Eater unit is 
+destroyed and is removed from the map.
+If Defender X is on the map after G.U.A.R.D. units 
+complete their attacks, move Defender X up 
+to eight spaces toward the closest building to 
+Gorghadra with a padlock token. Defender X can 
+move through spaces occupied by other models 
+but cannot end in a space with another model.
+After Defender X moves, it can fire its lasers at 
+Gorghadra if it is within range. If Gorghadra is 
+less than seven spaces away from Defender X, roll 
+three blue dice. For each strike Defender X rolls, 
+the monster player gives a red die back to the 
+unit player.
+If Defender X is adjacent to a building with a 
+padlock token after making its attack, remove 
+the token and place it next to the map with the 
+number showing. Defender X scores the number 
+of points shown on the token.
+Playing the Game
+When moving a model or counting the range for 
+an attack, only one diagonal can be used.
+Each round is composed of three turns: the unit 
+turn, the G.U.A.R.D. turn, and the monster turn.
+The Unit Turn
+The unit player takes the first turn. If any Planet 
+Eater units have been destroyed in previous 
+rounds, the unit player starts by rolling two blue 
+dice and then spawns a number of their units on 
+red spawn points equal to the number of strikes 
+rolled (see “Strikes & Misses”, p. 10).
+Each unit can move up to six spaces (see “Moving 
+on the Grid,” p. 14). Units cannot move into 
+spaces occupied by monsters, units, or buildings. 
+If a unit stops on, or does not move off of, a 
+power zone (see battle map on p. 21), the unit 
+player gives the monster player a red die.
+After moving, all Planet Eater units can make 
+attacks (p. 18) targeting enemy units up to five 
+spaces away. When a unit attacks, roll three white 
+dice and two blue dice. If the roll results in four 
+or more strikes, the enemy unit is destroyed. It is 
+removed from the map, and the unit player gives 
+the monster player a red die.
+The G.U.A.R.D. Turn
+After the unit turn, the defenders of the city take 
+a turn.
+First, GUARD units that were destroyed earlier 
+return to play. Place a previously destroyed 
+G.U.A.R.D. unit on each blue spawn point, starting 
+with the spawn point closest to Gorghadra.
+
+The Monster Turn
+The monster player starts by moving Gorghadra 
+up to six spaces. Gorghadra can move through 
+spaces containing units but cannot end its 
+movement in a space occupied by a unit.
+After moving, Gorghadra can attack adjacent 
+buildings and units. When rolling for Gorghadra’s 
+attacks, the monster player can include any 
+number of their white and red dice but must roll 
+at least one white die. The monster player can 
+roll each die only once a turn and returns any 
+red dice rolled to the unit player. Gorghadra can 
+continue attacking as long as the monster player 
+has white dice to roll.
+When attacking a building, if Gorghadra rolls 
+five strikes plus one strike for each G.U.A.R.D. 
+unit adjacent to the building, the building is 
+destroyed. The building is removed from the map, 
+and the unit player gives the monster player two 
+red dice. When a building with a padlock token is 
+destroyed, the monster player scores the number 
+of points shown on the token.
+When attacking a unit, if Gorghadra rolls four or 
+more strikes, the unit is destroyed. The unit is 
+removed from the map, and the unit player gives 
+the monster player one red die.
+The first time the monster player ends a turn 
+with five or more points, place Defender X on the 
+corner of the map closest to Gorghadra.
+After the monster turn, a new round begins with 
+the unit player’s turn.
+If Gorghadra smashes enough buildings to score 
+15 points before Defender X scores 15 points, the 
+Planet Eaters win!
+
+Action Dice, 9, 10
+Actions, Action special 
+rules, 30
+activators, 23
+active pool, 10
+adjacent, 16
+Advancement Phase, 14, 
+26, 27
+advancing, 14
+Agendas, 4
+aligned, 16, 17
+allies, 4
+alpha form, 20
+Attack Phase, 14, 26, 27
+attack rolls, 18
+base-to-base (B2B), 16, 17
+battle maps, 9, 21
+blast attacks, 12, 18
+body slam power attack, 32
+Boost Dice, 9, 11
+brawl attacks, 12, 18
+buildings, 7, 22, 24
+collisions, 31
+combined unit attack, 28
+Cost, 12
+Cover, 16
+damaging models, 20
+debris tiles, 7, 22
+Defense (DEF) stat, 12
+Destroyers, 5
+destroying models, 20
+dice in play, 10
+Dice Well, 9, 11
+dice, 9
+elite units, 7
+enemies, 4
+Factions, Faction models, 4
+force, 24
+foundations, 22
+grunt units, 7
+hazards, 22
+health track, 13, 20
+High Mobility, 12, 16
+hyper form, 20
+immunity, immune, 30
+impassible terrain, 15
+misses, 10
+Monster Activation, 14, 26
+Monster Pool, 9, 10
+monsters, 6, 24
+negative zones, 23
+neutral spawn points, 23
+objective spaces, 23
+open terrain, 15
+power attacks, 19, 32
+Power Dice, 9, 11
+Power Phase, 14, 26
+Power Pool, 9, 11
+power zones, 23
+Protectors, 5
+Push Phase, 14, 26, 27
+ram power attack, 33
+rampage power attack, 34
+Range (RNG) stat, 12
+rough terrain, 15
+rubble, 22
+securing a building, 22
+setup roll, 24
+Spawn Phase, 14, 27
+spawn points, 23
+spawning, 27
+special rules, 30
+Speed (SPD) stat, 12
+standard spawn points, 23
+starting a game, 24
+stat cards, 12
+stepping, 15
+stomp power attack, 35
+strikes, 10
+super damage, 20
+super strikes, 10
+swat power attack, 35
+target models, 19
+terrain, 15
+throw power attack, 36
+timing of special rules, 31
+Unit Activation, 14, 27
+Unit Pool, 9, 10
+unit reserves, 7
+units, 7, 24
+index
+
+Attackers from beyond space and time and from beneath the 
+lands and oceans have engulfed the world in catastrophic 
+conflict. Cities are now battlegrounds as giant monsters and 
+their hordes of minions rampage through urban landscapes, 
+level buildings, crush obstacles, and fight to achieve their 
+own mysterious goals. Gather your units, build your city, and 
+prepare to demolish everything in your path!
+It’s time to Reach Out and Crush Someone!
