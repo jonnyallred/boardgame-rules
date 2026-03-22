@@ -1,6 +1,6 @@
 ---
 title: Board Game Rules
-layout: home
+layout: default
 ---
 
 # Board Game Rules
