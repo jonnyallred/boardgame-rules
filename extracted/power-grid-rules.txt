@@ -1,0 +1,310 @@
+Contents
+> 1 two-sided board: Germany/U.S.A. with scoring track, player order and resource market
+> 132 wooden houses in 6 colors: 22 per player
+> 84 wooden resource tokens: 24 coal (brown), 24 oil (black), 24 garbage (yellow), 
+ 12 uranium (red)
+> money (in Elektro)
+> 6 summary cards with order of play/payments
+> 43 power plant cards: 42 power plants with numbers 03–40, 42, 44, 46 and 50
+ 
+> 1 “Step 3” card 
+> rules sheet
+Goal
+Each player represents a power company, which works to supply electricity to cities. During the game, each player buys power plants at auction, buys resources to produce 
+electricity in those power plants, and builds a network of cities to supply with electricity from his power plants. In the end, the player who supplies the most cities with 
+power wins the game.
+Preparation
+1.	 Place the board in the middle of the table, choosing the side you wish to play on. The map is separated into 6 areas, each with 7 cities. In each game, the players 	
+	
+choose which areas they will play in. We recommend one area per player. Of course, the areas chosen must be adjacent. During the game, every player can play in
+	
+all the chosen areas.
+2.	 Each player takes an overview card, the wooden houses of one color and 50 Elektro.
+3. 	 Each player places one of his houses left of the 1 on the scoring track and one on the player order. At the beginning of the game, players draw lots for player order.
+4. 	 The large spaces at the bottom of the board represent the resource market. At the beginning of the game, place 3 coal on spaces 1 to 8; 3 oil on spaces 3 to 8; and 3 
+ garbage on spaces 7 and 8. None of these resources is ever placed on spaces 10 to 16. Place 1 uranium on each of the spaces 14 and 16. Thus, at the beginning of the 
+ game, the cheapest coal costs 1 Elektro, the cheapest oil costs 3 Elektro, the cheapest garbage costs 7 Elektro and the cheapest uranium costs 14. During the game, 
+ players will place new supplies of coal, oil, and garbage on spaces 1 to 8 (up to a maximum of three tokens of each per space), and a maximum of 1 uranium token 
+	
+per space on spaces 1 to 16.
+1.
+5.
+2.
+3.
+4.
+6.
+7.
+Power Plant 13
+Actual Market
+Future Market
+„Step 3“ card
+
+5.	 Place the remaining resources as a supply near the board.
+6.	 Take the power plant cards numbered 03 to 10 and place them near the board in two horizontal rows. These power plants are an array of 2 x 4 cards (the power plant 
+ market). In the upper row, place power plants numbered 03 to 06 in ascending order, left to right, beginning with the least expensive; this is the actual market. In the 
+ lower row, place power plants numbered 07 to 10 in ascending order, left to right; this is the future market. When players add new power plants to the power plant 
+ market, players rearrange all power plants in the power plant market in ascending order with the 4 cheapest plants in the actual market.
+7.	 Remove the »Step 3« card and the ecological power plant number 13 from the card deck, shuffle the remaining power plant cards, and place them face down as a 
+	
+supply stack near the board. Place the »Step 3« card face down under the stack and the ecological power plant number 13 face down on top of the stack. 
+Playing the game
+The game is played over several rounds. Each round of the game has five phases. In each phase, all players take their actions in the order specified for the phase before the 
+game continues with the next phase. The five phases are: 
+1.	 Determine Player Order
+2.	 Auction Power Plants
+3.	 Buying Resources
+4.	 Building
+5.	 Bureaucracy
+Phase 1: Determine Player Order
+During this phase, the new player order is determined. The first player is the player with the most cities in his network (first house on the scoring track). If two or more players 
+are tied for the most cities, the first player is the player among them with the largest-numbered power plant. Place this player‘s house in the first position in the player order 
+area. Determine the remaining player positions using the same rules. 
+Remember: At the beginning of the game draw lots for player order
+Example: Anna already connected 6 cities, Dale and Angelika 5 and Valerie only 4. Anna is first player and places her house in the first position in the player order. Dale and 
+Angelika are tied and check their power plants. Dale owns the 17, Angelika the 15. So Dale is in second position and Angelika in third. Valerie finally places her house in fourth 
+place in the player order.
+Phase 2: Auction Power Plants
+In this phase, each player may have an opportunity to offer a power plant for sale at auction. During the phase, each player can buy at most one power plant. A player should 
+try to have plants with enough capacity to power all the cities in his network, but this is not required. The first player starts and chooses between:
+a.	 Pass
+b.	 Choose a power plant for auction
+a. Pass
+The player may choose not to start an auction and, instead pass. If he does so, he cannot bid in later auctions in this round and, thus, will not get a new power plant this round.
+b. Choose a power plant for auction
+The player chooses one power plant from the actual market (top row) and then makes a bid to purchase it (the player must bid at least the minimum bid (number of the 
+power plant), but may start with a higher bid. Continuing in clockwise order, the other players can make higher bids or pass. If a player passes, he may not re-enter the 
+current auction. Players keep bidding or passing until one player remains. He pays his highest bid to the bank and takes the power plant. Players then immediately draw
+a new card to replace the card sold and place the new card in the market. They rearrange the power plants in ascending order: the four lowest in the actual market, the 
+four highest in the future market.
+Important
+> Once a player has purchased a power plant in a round, he cannot bid in another auction in the same round, nor can he offer a plant at auction.
+> When the auctioning player wins the auction and gets the power plant, the next player in turn order takes his turn at offering a power plant for auction, if he has not 	
+	
+	
+ already purchased a power plant this round. If he has, the next player in turn order may start an auction, and so on. When a player other than the player who started 
+	
+ the auction wins the auction, the auctioning player may choose a new plant to auction from the actual market or pass.
+>	 During the game each player can have only 3 power plants at any time. When a player buys a fourth plant, he must discard one of his other power plants. The player may 	
+ 	
+ move resources from the discarded power plant to his remaining three power plants, if they match the resources used by one or more of the retained power plants. If 	
+	
+	
+ there is no capacity left or no matching power plant for the resources from the discarded plant, the player returns the resources to the supply (not the resource market).
+> The last player to start an auction in a round can pay just the minimum bid to get the power plant, if he chooses to do so. This is an advantage to being last in this phase.
+Exception: In the first round of the game, each player must buy a power plant.
+> If, in later rounds, no power plant is sold in a round, the players remove the lowest numbered power plant from the market, placing it back in the box, and replace it by 	 	
+ drawing a power plant from the draw stack. They then rearrange the market according to the rules.
+Exception: Because the player order is chosen randomly at the beginning of the game, the players re-determine the player order after auctioning the power plants (after 
+phase 2). As no player has any cities at this time, the new player order is determined solely by the numbers of the power plants (see phase 1). 
+ coal oil garbage uranium
+The game is played in 3 steps (starting with step 1). The steps are not divided into a specific number of 
+rounds. The game moves from »Step 1« to »Step 2« after the first player connected a certain number of 
+cities in his network. »Step 3« begins after the »Step 3« card is drawn. (see Steps of the game on page 7). 
+There are minor, but important, rules changes when moving from one step to the next. The game usually 
+ends in »Step 3«, but may end in »Step 2«.
+
+Power Plant Cards
+1. The number in the upper left corner is the number of the power plant. This number is also the 
+ minimum acceptable bid when the plant is auctioned (figure: number and minimum bid of 14).
+2. The picture in the middle shows the power plant and has no game related meaning.
+3. The symbols in the lower left corner and the color of the bar show, how many resources of a type are 
+ required to produce electricity with this plant (brown: coal, black: oil, yellow: garbage, red: uranium). 
+ A player can never consume more or fewer resource tokens when using the power plant to produce 
+ electricity. Every power plant can store twice as many resources as it needs to produce. In this example, 
+ the power plant needs 2 garbage tokens and can store up to 4 garbage tokens. 
+4. The number in the house symbol indicates how many cities this power plant can supply with electricity. 
+ In this example, the power plant uses exactly 2 garbage tokens and supplies up to 2 cities. A player 
+ cannot choose to use just one garbage token with this power plant to supply one city. Although a 
+ power plant can store twice as many resources as needed, it cannot produce power for twice as many
+ cities in a round.
+Special Power Plants
+Hybrid Power Plants: These power plants have a brown/black bar and have both coal and oil symbols. The owner of such a power plant 
+can choose to use coal and/or oil. Usually, players will choose the cheaper resource. 
+Example: The hybrid power plant 05 (see left) can use 2 coal, 2 oil or 1 coal and 1 oil. 
+Ecological and Fusion Power Plants: These power plants do not require any resources. They can supply up to the number of cities 
+shown in the house symbol.
+Phase 3: Buying Resources
+In this phase, the players can buy resources for their power plants from the resource market. A player can only buy resources for plants he owns. A plant cannot produce 
+electricity unless it has enough resources to be fully powered. This phase is played in reverse player order. The last player starts.
+Every power plant can store twice as many resources as needed for production. Every power plant only stores the kind of resource it uses for production (a coal power plant 
+stores only coal, a hybrid power plant can store both coal and oil, an ecological power plant never stores resources, etc). Each player can buy resources up to the maximum 
+allowed in all his plants (twice as many as the production numbers of all his plants).
+Example: The oil power plant 03 can store a maximum of 4 oil, the hybrid power plant 05 a maximum of 4 coal and/or oil in any combination. The ecological power plant 13 
+does not need any resources and because of that cannot store any resource tokens.
+Players purchase the resources from the spaces of the resource market. The printed numbers in the resource spaces show the price for one resource token. The players pay 
+the amount owed to the bank. If one kind of resource is depleted, no more of this resource is available for purchase in the current round.
+Important: At any time during the game, a player can rearrange his resources among his power plants if they are able to use the resources being placed on them.
+Phase 4: Building
+This phase is played in reverse player order. The last player starts. In this phase, the players start or add cities to their networks on the map. Remember, to win the 
+game a player must be able to power more cities than any other player. Thus, building a network of cities is essential to winning the game. However, the winner is 
+not necessarily the player with the most cities - it is the player with the most powered cities. Players must balance their power plants with their resources and their 
+networks to win the game. 
+At the beginning of the game, each player has no cities and, thus, no network. Each player starts his network by choosing any city (not already chosen by another player) 
+in the playing areas (chosen at the beginning of the game) on the map. To show that this city is part of his network, the player places one of his houses on the space 
+numbered 10 in this city. The player pays the building cost of 10 for the starting city. Depending on what step the game is in, the number of players who can have houses 
+in a city and the cost to build in a city changes (see Steps of the game below).
+1.
+2.
+4.
+3.
+= coal 
+= oil 
+= garbage 
+= uranium 
+= hybrid coal/oil = ecological and fusion
+no
+symbol
+
+All subsequent cities a player adds to his network must connect to at least one city already in his network (marked with one of his houses). The player needs only to pay 
+the connecting cost shown on the map (the paths between the new city and one of the cities already in his network) and the value of the lowest empty city space. When 
+connecting to a new city, the player chooses the cheapest connection berween the new andone of his own cities and pays the total costs to the bank. A player may connect 
+to any number of new cities in a round, as long as he can pay the building and connecting costs.
+The following rules are valid for connecting cities to the player’s networks:
+>	In step 1 of the game, each city can only connected by one player, in step 2 by two players and in step 3 by three players. When adding the city the player pays 10 for 
+ placing the first house in a city, 15 for placing the second house, and 20 for placing the third house additionally to the connection costs between the cities.
+>	A player may add any city (if there is room in the city for the player) to his network, regardless of its distance from his other cities. The player may build through a city 
+ without placing a house there if he wants or (more likely) if there is no room in the city.
+>	A player may never connect to the same city twice.
+>	After connecting a city, the player places one of his houses in the new city on the lowest empty space (10, 15 or 20 Elektro).
+>	A player can only expand his network; he cannot start a second network on the map. A player always must pay all connecting and building costs, even if he already 
+ used a connection earlier during the game.
+>	A city may only be connected to a mximum of three different networks (see below for the beginning of the different steps of the game).
+Anna can expand her network from Duisburg to Essen for 10 Elektro 
+because there are no connecting costs between Duisburg and Essen. 
+To add Dortmund, she must pay 12 Elektro (10+2) if she uses the 
+cheaper connection from Münster. To connect to Aachen the complete
+costs are 21 Elektro (10+9+2), because she has to pay the connection 
+through Düsseldorf.
+For Bob, the connection costs to Duisburg are also cheap. For 12 
+Elektro (10+2+0), he can build the connection through Essen.
+If the game is in step 2, Anna can add Düsseldorf for 17 Elektro 
+(15+2) or Köln for 21 Elektro (15+2+4). In step 2, second houses in 
+cities are allowed (see Steps of the game below). If Anna adds both 
+Düsseldorf and Köln, she pays 36 Elektro. First, she adds Düsseldorf for
+17 Elektro and, then, from there, she adds Köln for an additional 19 
+Elektro.
+Important
+> 	The players do not have to choose their starting cities in the first round. They can start their networks in later rounds to influence their positions in the playing order. 
+>	When a player adds a new city to his network, he immediately updates his position on the scoring track so every player can see how many cities each player has.
+>	If, at any time during the game, there is a power plant in the actual market with a number equal to or lower than the number of cities any player has, players 
+ immediately remove it from the game and replace it with a new card from the draw stack. This rule does not affect power plants owned by players.
+Example: A player adds a city and now has 6 cities in his network. If the power plant numbered 06 is still in the actual power plant market, he removes it from the 
+game, but the players keep their power plants numbered 03 to 05. Then, he draws a new card from the draw stack, adding it to the power plant market, using the 
+normal rules for adding plants to the market. It is also possible that newly drawn power plants must be immediately discarded and a new card drawn. 
+Phase 5: Bureaucracy
+In this phase, the players earn cash, re-supply the resource market, and remove a power plant from the power plant market, replacing it with a new one from the stack.
+Earning cash: Starting with the first player, every player indicates how many cities in his network he wishes (and is able) to supply with electricity. He earns cash based on 
+the number of cities he powers as shown on the payment table. A player who does not supply any city gets 10 Elektro (the guaranteed minimum). The players remove the 
+required resources from the power plants that produced electricity this round and place the used resources in the resource supply next to the board. A player may choose 
+(or only be able) to supply fewer cities than he has in his network. The player is paid only for the supplied cities. If a player produces more electricity than he has cities in his 
+network, the surplus is wasted. Every player can choose how many and which of his power plants he uses, e.g. he does not have to supply all of his cities.
+Payment
+
+Anna owns 6 cities and the power plants 07, 10 and 15, all of them store the maximum 
+number of resources. She removes 4 coal and 3 oil and produces electricity for 7 cities 
+(2+2+3). She earns 73 Elektro for 6 supplied cities. The surplus electricity is wasted.
+Re-supply the resource market: Based on the number of players and the step of the game, the players re-supply the resource market (see table at the back of the rules) 
+from the supply of resources. They start placing the resources on the highest (most expensive) space lacking the maximum possible quantity of the appropriate resource. 
+Exception: Uranium must be refilled from space 16 and always only with one token in each space.
+If there are not enough resources left in the supply, that resource is not fully re-supplied! This might happen, if the players store too many resources in their power plants.
+The resource tokens in the game are limited.
+In a game with 5 players, the following resources were bought in the first round: 10 coal, 2 oil, and 1 garbage. Thus, the resource market looks like this:
+According to the table, the following resources are to be re-supplied for 5 players in step 1: 5 coal, 4 oil, 3 garbage, and 2 uranium. As there are only 4 coal tokens left 
+in the supply (the rest are stored on power plants), the players place only these four coal tokens: 1 on space 4 and 3 on space 3. The players place 2 oil tokens on space 
+3 and 2 oil tokens on space 2. The players place 1 garbage token on space 7 and 2 garbage tokens on space 6. They place 1 uranium token each on spaces 12 and 10. 
+Compared to the first round there is now a higher price for coal (now 3 Elektro), but oil is cheaper (now only 2 Elektro). 
+Update the power plant market: Place the highest numbered power plant from the future market face down under the draw stack and draw a new one to replace it.
+Rearrange the market appropriately (see phase 2: this will change in Step 3, see the steps of the game). Because of this, the highest numbered power plants are collected 
+under the »Step 3« card and become available during step 3 in the game.
+Phase 5 and the whole round are now complete. A new round starts with phase 1.
+The Steps of the Game
+This chapter describes the different rules changes for the three steps. Step means the different gaming steps during the game, phase means the 5 phases in one round.
+Step 1
+The game starts. In step 1, every city can have only one house. The building cost for the first house is 10 Elektro. The resource table on the back of the rules shows the
+ re-supply numbers for step 1. 
+Step 2
+Step 2 starts before phase 5 (bureaucracy) after a player has built his 7th city during phase 4 (Building). It can be that several players will build their 7th cities in the same 
+round or a player may have built more than 7 cities in this round.
+To start step 2, remove ONCE the lowest numbered power plant from the game and replace it with a new one from the draw stack, rearranging the market as always.
+From now on in step 2, two players can have houses in each city. The building price for the second connection is 15 Elektro. Please check the tables for the changed 
+re-supply of resources for step 2.
+Step 3
+When the »Step 3« card is drawn from the draw stack, step 3 begins at the beginning of the subsequent phase of the game. This can happen in one of three ways:
+1.	 If the »Step 3« card is drawn in phase 2 (Auction Power Plants), treat the card as the highest power plant and place it at the end of the future market. Immediately 
+ shuffle the draw stack with the remaining power plants (the power plants that were placed under the draw stack during steps 1 and 2 of the game), and place it face 
+ down next to the game board. Continue the auction of power plants and draw replacements as necessary until all players have their chance to buy a new power plant 
+ or pass. After finishing phase 2, remove the lowest numbered power plant and the »Step 3« card from the market and do not draw replacements! Step 3 starts in phase 3.
+2.	 If the »Step 3« card is drawn in phase 4 (Building) for replacements of too small power plants, remove this card and the smallest numbered power plant from the game 
+ and do not draw replacements. Shuffle the draw stack with the remaining power plants and place it face down next to the game board. Step 3 starts in phase 5. 
+3.	 If the »Step 3« card is drawn in phase 5 (Bureaucracy), remove this card and the lowest numbered power plant from the game and do not draw replacements. Shuffle 
+ the draw stack with the remaining power plants and place it face down next to the game board. Use the re-supply of resources for Step 2 a final time. Step 3 starts in 
+ phase 1 of the next turn.
+During step 3, there are only 6 power plants in the power plant market and all of these power plants are in the actual market and are available to be auctioned (there is no 
+future market in step 3).
+In step 3, every city can have three houses. The building price for the third house is 20 Elektro. Please check the tables for the changed re-supply of resources.
+In phase 5 in following rounds of step 3: remove the smallest numbered power plant from the game and draw a replacement from the draw stack. During the last rounds 
+of the game, it is possible that the draw stack becomes exhausted. The game continues and in each phase 5, the players remove the smallest numbered power plant. It is 
+possible to run out of power plants if this goes on for several rounds.
+= coal 
+= oil 
+= garbage = uranium
+
+Winning the Game
+The game ends immediately after phase 4 when at least one player has at least 17 cities in his network. No player can buy more resources or power plants at this time!
+The winner is the player who can supply electricity to the most cities in his network with the power plants and resources he has. If there is a tie, the player with the most 
+remaining money wins. If there is still a tie, the player with the most cities in his network is the winner.
+Important: Sometimes (not rarely) a player other than one with 17 or more cities will win because the latter cannot supply electricity to all his cities, either because his 
+power plants are not large enough to run all his cities or because he does not have sufficient resources to run the power plants he has. This reinforces the need for players to 
+balance their power plants, resources, and networks. 
+Exceptions, changes, and special things
+Depending on the number of players some details of the game change. A summary is shown in the following table. For example you need fewer power plants for 2 players, 
+but both of them can own up to 4 power plants. 
+Exceptions and special cases
+> 	In the first round of the game, each player must buy a power plant. 
+>	The players do not have to choose their starting cities in the first round. They can start their networks in later rounds to influence their positions in the playing order.
+>	In steps 2 and 3, a player only pays a building cost of 10 Elektro to connect to an empty city.
+> 	A player may never connect to the same city twice. 
+>	If there is a tie, the player with the most remaining money wins. If there is still a tie, the player with the most cities in his network is the winner. 
+© 2004, 2010 2F-Spiele
+Author: Friedemann Friese
+Rules text: Friedemann Friese & Henning Kröpke (August 2009)
+Translation and editing: Henning Kröpke & Jay Tummelson
+Artwork & design: Maura Kalusky
+Rio Grande Games
+PO Box 1033
+Placitas, NM 87043, USA
+RioGames@aol.com
+www.riograndegames.com
+2 players
+3 players
+4 players
+5 players
+6 players
+Number of regions 
+chosen on the map
+	
+	
+Number of randomly 
+removed face-down 
+power plants (after 
+preparing the market)
+	
+Maximum number of 
+power plants owned 
+by a player	
+Number of connected
+cities to trigger step 2	
+Number of connected
+cities to trigger 
+game end	 	
+
+Resource table
+2 players
+coal
+oil
+garbage
+uranium
+3 players
+4 players
+5 players
+6 players

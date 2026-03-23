@@ -24,11 +24,43 @@ import sys
 from scripts.registry import update_game
 
 
+def _extract_text_from_jsonl(raw: str) -> str:
+    """Extract assistant text content from JSONL conversation log files.
+
+    Subagent output files are JSONL where each line is a JSON object.
+    The RESULTS block lives inside assistant message content fields.
+    Falls back to returning the raw text if it's not JSONL.
+    """
+    import json
+
+    texts = []
+    for line in raw.splitlines():
+        line = line.strip()
+        if not line or not line.startswith("{"):
+            texts.append(line)
+            continue
+        try:
+            obj = json.loads(line)
+        except json.JSONDecodeError:
+            texts.append(line)
+            continue
+        # Extract text from assistant message content
+        msg = obj.get("message", {})
+        for block in msg.get("content", []):
+            if isinstance(block, dict) and block.get("type") == "text":
+                texts.append(block["text"])
+    return "\n".join(texts)
+
+
 def parse_results(text: str) -> list[dict]:
     """Parse RESULTS_START/RESULTS_END blocks from subagent output.
 
+    Handles both plain text and JSONL conversation log formats.
     Each result line: name: <Name> | bgg_id: <N> | status: <status> | notes: <notes>
     """
+    # Try extracting from JSONL if plain-text parsing finds nothing
+    text = _extract_text_from_jsonl(text)
+
     results = []
     in_block = False
 

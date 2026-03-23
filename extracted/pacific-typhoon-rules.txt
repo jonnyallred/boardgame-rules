@@ -1,0 +1,1024 @@
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232–1308
+www.GMTGames.com
+RULES OF PLAY
+1 Dedication................................ 2
+2 Introduction............................. 2
+3 Rules Summary....................... 3
+4 Battle Cards............................. 5
+5 Force Cards.............................. 6
+6 Getting Started......................... 7
+7 The Round of Play................... 8
+8 Victims of Fate...................... 10
+9 Bonus and Event Cards......... 11
+10 Battle Outcome..................... 12
+11 Spoils.................................... 13
+12 Hand Size.............................. 15
+13 Notes on Cards..................... 16
+14 Chronological Version.......... 20
+15 Short Versions...................... 20
+16 Team Version....................... 21
+17 Designer’s Notes.................. 21
+18 Developer’s Notes................ 23
+GMT’S STRATEGY CARD GAME
+A BEN KNIGHT GAME
+Battleship Indiana fires a salvo at the Kamaishi Steel Works, Japan, 14 July 1945
+
+INTRODUCTION
+Pacific Typhoon is a strategy card game for 3–7 players, ages 10 to adult. It has 
+many similarities to the card game Atlantic Storm. 
+►If you already know how to play Atlantic Storm, just read the sections marked 
+with a ►symbol to start playing Pacific Typhoon.
+Pacific Typhoon covers the naval and air war in the Pacific theatre during World 
+War II, from the Japanese surprise attack on Pearl Harbor, 7 Dec 1941, to the 
+formal surrender of Japan, 2 Sep 1945. Japan was already an Axis power and 
+had previously occupied parts of China and the Far East when she declared war 
+against the United States and several nations of the British Commonwealth. Being 
+an island nation, Japan had limited national resources, and she relied on imports 
+and open sea lanes to develop and prosper as a world power. Her military ambi-
+tions in the Pacific thus depended heavily upon the success of her navy’s officers, 
+ships and aircraft.
+The war in the Pacific was a struggle for control of islands, but controlling an 
+island meant little if you did not control the seas that connected that island to the 
+rest of the world. The surest way to control the seas was to control the air space 
+over them. Ships could not long survive where the enemy had air superiority. Even 
+submarines, the naval weapon of stealth, had to fear enemy aircraft. However, air 
+power was least effective at night, so many vicious naval gun and torpedo battles 
+occurred during the hours of darkness in the confined waters around islands. 
+Japan won many victories early in the war, but Allied cryptanalysts deciphered 
+Japanese messages that permitted the U.S. to ambush and stop Japan’s militaristic 
+expansion in June 1942 at the Battle of Midway. It took another three years of 
+brutal fighting and two atom bombs before Japan would unconditionally sur-
+render. The Japanese suffered severely during this period, but the Allied nations 
+(and especially those oppressed by Japanese occupation) also paid a heavy toll 
+in human lives lost.
+Pacific Typhoon is primarily a game, but it is also a history lesson about the war 
+and the brave sailors and airmen who fought on both sides. The cards represent 
+many of the combatant vessels and aircraft types, as well as most of the famous 
+naval and air battles in which they fought. 
+DEDICATION
+To the fans of Atlantic Storm: Hearing your laughter at the gaming table when 
+you win or lose a round is the best spoil we’ve earned. Thank you for your good-
+natured patience in waiting for this sequel game to Storm.
+Special thanks to Don Greenwood and the ‘97 AH crew for helping to bring At-
+lantic Storm into existence.
+
+RULES SUMMARY
+The following summary briefly describes the rules of play. Consult the appropriate 
+rules sections for full details about any specific point.
+3.1 
+Getting Started
+Randomly determine dealer.
+Dealer shuffles Force Deck and deals a hand of 6 cards to each player. The 
+rest go face down as the Draw Pile.
+► Dealer shuffles Battle Deck and puts it face down. The Renewed Battle 
+card should be in the bottom half of this deck. See Rule 6.3.
+Table talk is encouraged, but you may not show your cards to other players 
+except when playing or discarding.
+3.2 
+Round of Play
+Each Battle lasts one round of the table. Dealer leads 1st round, player on 
+his left leads 2nd round, etc.
+Round leader flips over the top two Battle cards, selects one and discards 
+the other face up to Battle Discards.
+► Round leader calls Time of battle (day or night) and Suit of battle (air, 
+surface, sub or combined). See Rule 7.4.
+Each player in clockwise turn order, beginning with round leader, must do 
+one of the following (you may not pass):
+Play at least one legal card, including
+No more than one Regular card
+Any number of Bonus (+ combat value) cards
+Any number of Event (no combat value) cards
+OR discard one card instead of playing
+OR discard entire hand instead of playing
+Each player decides which side to fight on, but no player may play Allied 
+and Japanese cards together.
+► The Typhoon, Fog, Gremlins and Day or Night event cards can be played 
+with either side. See Rule 13.
+All plays must match Year of battle. 
+► All plays must fit Time of battle. Day cards may not be played at night, 
+and vice versa. Cards with an “Either” background may be played day or 
+night.
+If you play a Fate card after its Victim (victims are marked by a  symbol), 
+you immediately destroy the victim (keep it as your spoil) unless the victim 
+is a battle card (marked by a  symbol), in which case the fate card’s combat 
+values are doubled during the battle.
+A bonus card must match the type of its Parent card (aircraft, ship or sub 
+card) or be playable alone.
+
+If you play an Admiral event card, you may change the declared suit to 
+combined OR play a second regular card.
+An illegal play may be taken back into your hand before the next player has 
+played or discarded; otherwise, the illegal play is discarded instead.
+3.3 
+End of R
+ound
+For each player, determine the combat value of their play(s). Count only 
+the values in the declared suit.
+► Roll one die for each “?” to determine the combat value of that card. A 
+?1 is a die roll plus 1, a ?2 is a die roll plus 2, etc.
+► A sun symbol () counts as 1 extra combat point in day battles.
+► A moon symbol () counts as 1 extra combat point in night battles.
+Total the combat values in declared suit for Allies and for Japanese. The 
+side with the highest total wins.
+The player who played the highest combat value on the winning side divides 
+the Spoils. If tied with another player on the same side, the one who played 
+his card(s) first divides the spoils.
+If the total combat was tied Allied vs. Japanese, place the engaged cards 
+underneath the battle card, refill hands and fight another round for the same 
+battle, with next round leader calling suit, etc.
+If there were no cards with combat values greater than 0 in the declared suit, 
+discard the battle card (no winner) and any force cards in play.
+The battle winner takes the battle card and losing enemy cards and divides 
+these spoil cards with all players who played a combat value of 1 or more 
+on the winning side. 
+► The winning side’s cards and any cards marked  (Recycle) are placed 
+face up in the Discard Pile.
+Place your spoils in front of you, with force-card spoils face down but battle-
+card spoils face up so other players can see their resource and VP values. 
+Players fill their hands to 6 cards. Increase your hand size by 1 card for 
+each full resource or two half-full resource battle cards you have won, but 
+never more than 9 cards.
+If the Draw Pile is exhausted, shuffle the Discard Pile and use those cards 
+as the new Draw Pile.
+The next player to lead starts a new round of play.
+3.4 
+End of Game
+Play through end of Battle Deck, then count up the Victory Points (VPs) 
+each player has won as spoils.
+If two or more players are tied to win, the one who has the most battle 
+card VPs wins.
+If there is still a tie, the one who has the battle card with the lowest card 
+number wins.
+
+BATTLE CARDS
+There are 40 battle cards in Pacific Typhoon. Each battle card has the following 
+information fields:
+Battle Name: The historical name of the battle.
+Location or Campaign: The name of a nearby island, island chain, body of 
+water or campaign. This provides historical information only.
+►Victim Status: A victim battle card has a  symbol if fated by a force card. 
+The force card fights at double combat value in that battle.
+Year of Battle: 1941 to ‘45. Only force cards that 
+match the year of battle may fight in this battle. Force 
+cards that appear after this year may not. 
+Date of Battle: Historical information only.
+►Time of Day: The background of a battle card 
+indicates the time of battle.
+Resource Value: Your hand size increases based on the resources you win.
+	
+Full resource (one extra card)
+	
+Half resource (half of an extra card)
+	
+No resource (no extra card)
+Victory Point Value: Ranges from 0–8 for battle 
+cards. Game victory is determined by the number 
+of spoil VPs each player has.
+Photograph: Taken during the actual battle in 
+many cases.
+Caption: Historical information only.
+Battle Number: The battles are numbered 1–40 
+in chronological order. This has no effect on play 
+except for breaking a tie at the end of the game.
+Day: Sunny sky, blue sea background.
+Night: Moonlit sky, black sea background.
+Either: Twilight sky, gray sea background (Round 
+leader will have the choice of declaring it a day 
+or night battle).
+Either Time of Day
+
+FORCE CARDS
+There are 110 force cards in Pacific Typhoon. Each force card has the following 
+information fields:
+Card Name: The ID of the card.
+2 ►Side: A card’s nationality determines its side.
+	 Axis: Japanese
+	 Allied: U.S., British, Australian, and Dutch
+	 Both: Playable with Allied or Japanese
+►Victim Status: A victim force card has a  
+symbol if fated by an enemy card. 
+Air Combat Value
+Surface Combat Value
+6 Sub/Anti-sub Combat Value
+7 Years Available: A force card is only playable during the years displayed. For 
+example, Iowa is playable in a ’44 or ’45 battle but not in a ’41, ’42 or ’43 
+battle.
+8 ►Time of Day: The background of a force card indicates its time of day. A 
+force card may only be played if it matches the declared time of battle.
+	 	 Day: sunny sky, blue sea background
+	 	 Night: moonlit sky, black sea background
+	 	 Either: twilight sky, gray sea background (playable day or night)
+9 Type: The shape of the photograph indicates the card’s type (see graphics at 
+bottom of this page and next). A bonus card may only attach to a parent card of 
+the same type, except an “any” bonus card may attach to any other type.
+	 	 Aircraft (includes aircraft carriers): windscreen frame
+	 	 Ship: binoculars frame
+	 	 Sub: circle frame
+	 	 Any: square frame
+10 Photograph: Wartime photo in most cases.
+11 Restrictions or History: The text of some cards 
+explains their effect on play. 	
+	
+	
+ 	 BONUS = bonus card; 
+	 	 EVENT = event card; 
+	 	 RESCUE = special ability.
+12 Fated Against: The name of its victim card.
+13 Victory Point Value: Ranges from 0–6 points, or 
+ = Recyclable (it may not be destroyed).
+Ship (binoculars frame)
+
+GETTING STARTED
+Like most card games, Pacific Typhoon is played sitting around a table. It is best 
+suited for 4–6 players. You could play it with 3 or 7 players, but it is not as sat-
+isfying an experience.
+6.1 
+Determine D
+ealer
+Randomly determine the dealer and (if desired) the order of seating at the table. 
+You can do this by dice roll or by each player drawing a battle card and sitting in 
+relative order according to the card numbers drawn, from lowest number (dealer) 
+to highest. (Return the cards to the Battle Deck afterwards.)
+6.2 
+Force D
+eck 
+The dealer shuffles the Force Deck and deals each player a hand of 6 cards. Place 
+the remaining force cards face down. This is the Draw Pile. 
+6.3 
+► Battle D
+eck
+The dealer (or someone he appoints) removes the Renewed Battle card from the 
+Battle Deck and divides the Battle Deck into two halves, one with 20 cards and the 
+other with 19. Add the Renewed Battle card to the pile of 19 so you’re left with 
+two piles of 20 battle cards. Shuffle each pile separately and then put the stack that 
+does not include the Renewed Battle card on top of the stack that does. In this way 
+the Renewed Battle card will not appear until the second half of the game.
+6.4 
+Etiquette
+Never show your cards to other players except when playing or discarding them. 
+Conversation between players is permitted and encouraged but it must be open. 
+You may talk about your cards to other players as long as you do so openly to the 
+whole table (and don’t show them). Don’t leave the table to discuss the game in 
+private, and don’t annoy other players by whispering or keeping notes. Otherwise, 
+try to talk other players into working against the person with the highest score 
+(which is not always apparent in the middle of a game) or on supporting your own 
+effort. A player doesn’t have to keep a promise—when it’s his turn, he may play 
+what he pleases regardless of any assurances he gave you.
+Aircraft (windscreen frame)
+Sub (circle frame)
+Any (square frame)
+
+THE ROUND OF PLAY
+The game is played in rounds (also called Battles). Each player gets to play once 
+per round in clockwise order, starting with the round leader. Players take turns 
+leading the rounds. 
+7.1 
+Round L
+eader 
+The dealer leads the 1st round. At the end of that round, the player on his left leads 
+the 2nd round. At the end of that round, the next player on the left leads the 3rd 
+round, and so forth clockwise around the table for the entire game.
+7.2 
+Leader Selects Battle
+The player who leads a round draws two cards from the Battle Deck and flips them 
+face up. He selects one for battle and discards the other one face up to the Battle 
+Discards. Skip this battle selection step if the battle is continuing from the previous 
+round (see Battle Outcome, Tied Battle). The round leader must announce the year 
+of the battle card after he selects it (the battle card’s year is printed on the card, 
+and it limits what force cards may be played). 
+► Renewed Battle: If the round leader selects Renewed Battle as the battle card, 
+he exchanges Renewed Battle for one battle card from another player’s spoils. He 
+may then announce the card’s year or choose a different year for that battle, except 
+the year he chooses may not precede the year printed on the card.
+7.3 
+► L
+eader Selects T
+ime
+The round leader then chooses “Day” or “Night” and announces this to the other 
+players. The declared time limits what force cards can be played. Force cards 
+with a day background may only be played during a day battle; force cards with 
+a night background may only be played during a night battle. Force cards with a 
+twilight background may be played day or night. You may never declare “Either” 
+as the time of battle. 
+7.4 
+Leader Selects Suit
+After choosing the time, the round leader chooses and announces the suit (opera-
+tion type) of the battle. There are four choices: 
+Air
+Surface
+Sub
+Combined
+The suit determines what combat values apply to the battle’s outcome. Combat 
+values that don’t match the suit are treated as 0 during the battle. If the suit is 
+combined, all three combat values apply. The round leader always calls the suit 
+and time for the battle, even if he discards instead of plays.
+
+7.5 
+Must Play or D
+iscard
+After the year, time and suit are chosen, each player, starting with the round leader 
+and going in clockwise order around the table once, may do one of three things:
+Play face up at least one legal card from his hand, including:
+One Regular card (any card that is not a bonus or event card). You may 
+not play more than one regular card unless you use the Admiral event 
+ability to do so.
+Any number of Bonus cards (a bonus card has + combat values) that are 
+playable. The bonus card(s) must attach to the regular card (its Parent) 
+or be playable without a parent card.
+Any number of Event cards that are playable per their restrictions (an 
+event card has no combat values).
+Or discard one card from his hand to the Discard Pile instead of playing.
+Or discard his entire hand to the Discard Pile instead of playing.
+7.6 
+May O
+nly Play O
+ne Side
+A player usually has a mix of Allied and Japanese Force cards in his hand. You 
+are free to choose which side you fight on during the battle, but you may never 
+play cards from both sides together. For example, if you play an Allied regular 
+card, you may not play a Japanese bonus or event card with it. In the case of Allied 
+cards, the exact nationality doesn’t matter. For example, you may attach a U.S. 
+bonus card to an Australian parent card.
+7.7 
+No Passing
+You may not “pass” your turn. You don’t have to play a card during your turn, 
+even if you have a card that matches the battle’s year and the declared time. But 
+if you don’t play, you must choose one of the two discard options. 
+7.8 
+► I llegal Play
+If you make an illegal play and it is noticed before the next player makes his play 
+or discards, then you must take the illegal play back into your hand and re-do your 
+turn. If the illegal play is not noticed until after the next player makes his play or 
+discards, then your illegal play is discarded and does not affect the battle. There 
+are several ways your play may be illegal, including:
+You play an Allied card together with a Japanese card (in which case treat 
+both as illegal).
+The force card’s earliest year is later than the battle card’s year.
+The force card’s time is opposite to the declared time of battle.
+A bonus card’s type doesn’t fit its parent’s type (in which case the bonus 
+card is illegal).
+The card’s restriction (printed on the card) doesn’t allow it to be played.
+You are allowed to play a card that has a combat value of 0 in the declared suit.
+
+Victims of Fate
+A force card that lists another card’s name on it is a 
+Fate card. It is fated against that listed card (its victim). 
+This is based on historical occurrences. For example, 
+the Japanese I-26 submarine sank the USS Juneau in 
+real life, so in the game the I-26 card is fated to sink the 
+Juneau card. A fate card may itself be a victim to some 
+other fate card—the two things are not exclusive.
+8.1 
+Announcing F
+ate
+A fate card only affects its victim if you play the fate card after the victim in the 
+current round (not in a previous round). If you play a fate card and its victim is 
+played later in the round, the victim does not suffer its fate. You should announce 
+the victim when you reveal the fate card. If you fail to announce it before the battle 
+outcome is determined, the fate does not occur. 
+A fate card targets its victim even if the fate card has a 0 combat value in the 
+declared suit. For example, if the round leader called “Day Air” and played the 
+Juneau, a player after him could play the I-26 and immediately sink the Juneau 
+even though the I-26 has a combat value of 0 in an air battle.
+8.2 
+Kinds of Victims
+A Victim may be one of three kinds: a force card worth 0–6 VPs, a force card that 
+is recyclable, or a battle card worth 0–8 VPs. How the fate card works against 
+each kind varies slightly:
+VP Force Card (): You immediately destroy the victim. Remove it from 
+the battle and place it face down in front of you as your spoil.
+Recyclable Force Card (): These are marked with a 
+ in place of a VP 
+value. You immediately discard the victim. Remove it from the battle and 
+place it face up in the Discard Pile.
+Battle Card (): You double the combat value of your fate card in this 
+battle (when doubling a “?”, double the die roll result rather than roll two 
+dice). Do not double the combat value of any bonus cards you attach to 
+your fate parent card, and do not double the combat value of a parent card 
+if an attached bonus card is a fate card.
+8.3 
+Victim Parent C
+ard
+If the victim was a parent to a bonus card, discard the bonus card (don’t destroy it). 
+For example, the round leader plays Maya with the Long Lance and Ocean Patrol 
+bonus cards attached (Maya is the parent of the bonus cards). The 2nd player plays 
+Dace and calls “fate” against Maya. Maya becomes the 2nd player’s spoil, and 
+Long Lance and Ocean Patrol are discarded because they require a parent card. 
+
+Bonus and Event Cards
+9.1 
+► Bonus C
+ards
+Bonus cards have “+” combat values. Add their combat values to the combat val-
+ues of the regular card you play. The Kamikaze bonus card has * combat values 
+instead of + values. Replace the regular card’s combat values with the kamikaze 
+combat values. Most bonus cards may only be played in conjunction with a regular 
+card. This regular card is called the bonus card’s parent, and the bonus card is 
+said to “attach to the parent” card. Shinyo Flotilla, Ha-10, Ohka and PT 109 may 
+be played without a parent, but if they are played in addition to a regular card, 
+they must match that regular card’s type. You may never attach a bonus card to a 
+regular card that someone else has played.
+9.2 
+Parent T
+ypes
+There are three types of parent cards based on the shape of its photograph 
+frame:
+Aircraft (includes aircraft carriers): windscreen frame
+Ship: wide rectangle frame
+Submarine: circle frame
+A bonus card must match its parent type. For example, Turkey Shoot must attach 
+to an Allied parent card of the aircraft type. Ocean Patrol and Coast Watchers may 
+attach to any of the three parent types—they are not restricted to one type only. 
+A bonus card may not be attached to another bonus card or to an event card, but 
+two or more bonus cards may be attached to the same parent.
+9.3 
+► E
+vent C
+ards
+Event Cards are recognizable by having no combat values (or negative combat 
+values in the case of Gremlins). You may play one or more event cards during 
+your turn either by themselves or in addition to your regular and/or bonus card 
+plays. The event card(s) must be of the same side as your other card plays, but the 
+Allied nationalities don’t have to match. Typhoon, 
+Day or Night, Fog and Gremlins are playable with 
+either side. 
+Each event card has an effect printed on it. The effect 
+supersedes the normal rules of play. See the Notes 
+on Cards section of the rules for details about each 
+event card.
+9.4 
+Recycle
+Most bonus and event cards have a  symbol in place of a VP value. The  stands 
+for Recycle. Such a card is discarded at the end of the round it is played, no matter 
+what the battle outcome is.
+
+Battle Outcome
+A battle ends after the last player in a round plays or discards. When the battle 
+ends, roll a die for each “?” in the declared suit; a ?1 is a die roll plus 1, a ?2 is a 
+die roll plus 2, etc. A sun symbol () in the declared suit counts as 1 extra combat 
+point in day battles (thus 0 equals 1 during day but 0 at night). A moon symbol 
+in the declared suit () counts as 1 extra combat point in night battles (thus 2 
+equals 3 at night but 2 during day). 
+Total the combat values of the played cards for each side (Allied vs. Japanese), but 
+count only the combat values in the declared suit. If the suit is combined, count all 
+of the combat values. There are three possible outcomes to a battle: No Combat, 
+Tied Combat, or One Side Wins. 
+10.1 
+No C
+If there are no force cards in play at the end of the round, or if the only force 
+cards in play have 0 combat values in the declared suit or no combat values (event 
+cards), then the battle outcome is “no combat.” Discard the battle card to the Battle 
+Discards pile, and discard any force cards in play (including engaged cards from 
+a previous round) to the Discard Pile. 
+Example of N
+o C
+It’s a Day Surface battle for Coral Sea in a 4-player game. The round leader 
+plays Repulse. The next player plays Betty and calls fate against Repulse, sinking 
+it immediately. The 3rd player in the round discards instead of plays. The last 
+player plays Wildcat and calls fate against Betty, destroying it. Although there 
+has been fighting in the form of fate cards and their victims, the only remaining 
+card in play (Wildcat) has a 0 combat value in Surface, which was the declared 
+suit. So the battle outcome is treated as no combat, and Coral Sea and Wildcat 
+are both discarded. 
+10.2 
+Tied C
+If the total Allied combat value equals the total Japanese combat value, it is a “tied 
+combat.” The force cards are Engaged and that battle continues as follows:
+Place the engaged force cards (including Recyclable ones) underneath the battle 
+card and fight a new round for that same battle card. Players fill their hands, and 
+the next player whose turn it is to lead a round declares the time and suit for the 
+new round. He may call the same time and suit or different ones. Players may 
+change sides—they are not committed to playing on the same side as they did 
+in the previous round. The engaged force cards underneath the battle card do 
+not affect the outcome of the new round, and they cannot be victimized by fate 
+cards played in the new round. Likewise, the effects of Typhoon, Day or Night 
+or Tokyo Rose do not carry over into the new round. A battle can be extended for 
+more than one round in this manner as long as each round ends in a tied combat 
+between Allies and Japanese.
+If the round ends in a tie, but Little Boy has taken the battle card, then the engaged 
+force cards are discarded as if the outcome was no combat.
+
+10.3 
+One Side Wins
+The side with the highest total combat value wins the battle. The losing side’s 
+cards are destroyed (except for those that Recycle), and the winning side’s cards 
+are discarded. The player on the winning side who contributed the highest combat 
+value for that side is the battle winner. He gets to divide the spoils of the battle. 
+If two or more players on the winning side contributed the same highest combat 
+value, then the one who played his card(s) before the other highest contributor gets 
+to divide the spoils. (This is known as “Getting there firstest with the mostest.”)
+Example of Winning C
+It’s a Night Surface battle for Kolombangara in a 4-player game. The round 
+leader plays Cryptanalysts, which allows him to play last as Allied. The next 
+player plays Henley (1 combat value), and the 3rd player discards his hand. The 
+4th player plays ABDA Strike Force (? combat value). The round leader (who 
+delayed his play with Cryptanalysts) then plays Santa Fe and Coast Watchers 
+for a total of 3 combat value (2+1). The 4th player now rolls a die to determine 
+the combat value of ABDA Strike Force and he gets a 3 result. The Allied side 
+wins the battle 7 to 0 even though there has been no apparent fight (since no one 
+played a Japanese card). The 4th player divides the spoils, because he committed 
+ABDA Strike Force to the battle before the round leader committed Santa Fe and 
+Coast Watchers (which came as the last play). Both of those players contributed 
+3 combat value, which was the highest on the winning side. So the player who 
+committed his 3 first is the winner and gets to divide the spoils, which in this case 
+is just the Kolombangara card.
+Spoils
+A player earns victory points (VPs) by collecting spoils in battle. Collecting the 
+most spoils is the only way to win the game.
+11.1 
+What C
+onstitutes Spoils
+Spoils include the battle card itself and all force cards of the losing side except any 
+Recyclable ones. All engaged cards belonging to the losing side are also treated 
+as spoils (except any Recyclable ones). Each spoil card is worth a number of VPs 
+as indicated on the card. A battle card may be worth 0–8 VPs, and a force card 
+may be worth 0–6 VPs. 
+All force cards from the winning side and all Recyclable force cards from the 
+losing side are put into the Discard Pile. They are not spoils.
+11.2 
+Dividing the Spoils
+The winner of the battle must divide the spoil cards among himself and every 
+player who has in play a combat value of 1 or higher on the winning side at the 
+end of the round. If you played on the winning side but your combat value was 0, 
+or your play was removed because it was victimized or discarded by Typhoon or 
+some other reason by the end of the round, then you are not eligible for spoils.
+
+Each player on the winning side must receive a spoil card before any one of them 
+may receive a second spoil card (and each of them must receive a second spoil 
+card before any one of them may receive a third spoil card, etc.). The winner who 
+divides the spoils doesn’t have to distribute the VPs evenly; he just has to distribute 
+the spoil cards evenly. So he will generally keep the highest-value VP spoil card(s) 
+for himself and distribute the lower-valued ones to the other winning players.
+You do not have to keep any promises you make to other players regarding the 
+division of the spoils. Just because you promised a juicy spoil to someone for 
+supporting your side in the battle doesn’t mean you have to honor that promise 
+when you divide the spoils after winning.
+If Catalina or Amagiri is used to rescue a spoil card, this occurs before the spoils 
+are divided (see rule 13.10).
+11.3 
+Points on T
+able
+As you win spoil cards, place them on the table in front of you. Your resource 
+spoils (battle cards and Rosie the Riveter) must stay face up so players may see 
+their resource and VP values. Your other spoil cards should stay face down. In 
+this way, you can hide their VP value from other players. Players may not record 
+or inspect the VP value of hidden spoils belonging to other players until the end 
+of the game.
+11.4 
+More than Y
+our Share
+If you played a fate card to destroy a victim, the victim goes into your spoil pile, 
+but it doesn’t count against any spoils that may be due you at the end of the battle. 
+If you played Rosie the Riveter and the Allies win, that card doesn’t count against 
+your share of the spoils. Likewise, if you played Little Boy and are successful in 
+getting the battle card, it doesn’t count against your share of the spoils.
+11.5 
+End of Game
+The game ends after 20 battles (when there are no more battle cards to select). At 
+that time, count up the spoil VPs each player earned. The player with the highest 
+total wins. If two or more players are tied to win, the one who has the most battle 
+card VPs wins. If they are still tied to win, the one who has the lowest battle card 
+number wins.
+Example of Spoils
+It’s a Day Air battle for Midway in a 4-player game. The round leader () plays 
+Enterprise. The 2nd player () plays Hiryu. The 3rd player () plays Akagi. Al-
+though Akagi is the victim of Enterprise, she avoids the fate by being played after 
+Enterprise. The 4th player () plays Dauntless, which is fated against Hiryu and 
+immediately destroys her. It’s the end of the round, so the 1st and 3rd players each 
+roll one die to determine their combat values. The 1st player rolls a 3. Because the 
+Enterprise has an air combat value of ?1, he has contributed 4 to the battle (3+1). 
+The 3rd player rolls a 2 for the ? air combat value of Akagi. The 4th player has an 
+air combat value of 1 for the Allies. So the Allies win 5 to 2, and the 1st player is 
+the battle winner because he contributed the highest Allied combat value. There 
+are two spoil cards, which he must divide between himself and the 4th player. He 
+gives Akagi to the 4th player and keeps Midway.
+
+Hand Size
+At the end of each round, after the battle outcome has been determined and before 
+the start of the new round, each player draws enough cards from the Draw Pile to 
+fill his hand to his hand size. 
+12.1 
+Resources I ncrease H
+and Size
+Your base hand size is 6 cards, but your spoil resources may increase this up to a 
+maximum of 9 cards. For every full-resource spoil card you have, increase your 
+hand size by 1 card. For every half-resource spoil you have, increase your hand 
+size by 1/2 card (so you must have two half-resource spoils before you can draw 
+an extra card). Empty-resource spoils do not increase your hand size.
+12.2 
+► E
+xceeding Y
+our H
+and Size
+If the number of cards in your hand equals or exceeds your hand size, you won’t 
+draw any new cards at the end of the round, but you don’t have to discard down 
+either. For instance, if you lose a resource because another player used Renewed 
+Battle to steal a battle card from your spoils, the number of cards in your hand may 
+exceed your hand size. This is okay—just keep playing. At some point, the number 
+of cards in your hand will drop below your hand size, and you may draw again.
+12.3 
+New D
+raw Pile
+When the Draw Pile is exhausted, shuffle the Discard Pile and place it face down 
+as the new Draw Pile.
+Example of Spoils—continued
+
+
+
+
+
+► Notes on Cards
+13.1 
+Yamamoto and H
+alsey
+These are admiral event cards. You may play an admiral card alone 
+or in addition to your other plays. When you play an admiral, you 
+do one of two things: 
+Change the declared suit to combined. This affects all players 
+in the round. You may not change suit from (for example) air 
+to sub; you may only change it to combined. If the admiral 
+card is discarded before the end of the battle due to Typhoon, 
+the suit remains combined—it doesn’t revert (this represents 
+a change from the rule in Atlantic Storm).
+OR you may play 2 regular cards instead of 1. You may at-
+tach bonus cards to either or both of those regular cards as 
+permitted.
+13.2 
+Tora, T
+ora, T
+ora! and C
+ryptanalysts
+Surprise was a major factor in the Japanese success at Pearl Harbor. 
+U.S. code-breakers contributed to the Allied victory at Midway, the 
+ambush of Yamamoto, and other victories during the war. 
+Playing one of these event cards during your normal turn allows you 
+to play last in the round, but you may only play that side or discard. 
+As usual, playing last allows you to see what everyone else has played 
+(except any cards hiding beneath Fog), perhaps to fate them or to play a victim 
+card safely, but you won’t win any ties since you’re playing after everyone else. 
+If you play Cryptanalysts and someone plays Tokyo Rose against 
+you before your final play, you won’t be able to play Allied because 
+of Tokyo Rose, and you won’t be able to play Japanese because of 
+Cryptanalysts, so you can only discard Cryptanalysts. Tora, Tora, 
+Tora! and Cryptanalysts are fated against each other, so if one appears 
+after the other in the round, the first one is discarded and that player 
+loses his turn—he may not play any more this round.
+13.3 
+Shangri-La and D
+ecisive Battle
+When reporters asked President Roosevelt where Doolittle’s bomb-
+ers had come from, he replied, “Shangri-La,” referring to the hidden 
+retreat in the recently popular novel and film The Lost Horizon. 
+Japan’s Naval General Staff often developed plans to defeat the 
+larger U.S. fleet by concentrating their forces for a 
+decisive showdown. 
+If you play either of these event cards, it must be the first card you 
+play. They allow you to discard any number of cards from your 
+hand and refill it before finishing your play, but you may only play 
+that side. If you can’t or don’t want to play that side, then you must 
+
+discard the Shangri-La or Decisive Battle to end your turn. When refilling your 
+hand after playing Shangri-La or Decisive Battle, don’t count that card play against 
+your hand size. For example, if you played Shangri-La and made no other discards, 
+you could still draw a replacement for Shangri-La before continuing your turn. 
+The round leader must pick a battle and declare the suit and time of battle before 
+he plays either of these cards.
+13.4 
+Rosie the R
+iveter
+You may play this event alone or in addition to an Allied play. It 
+represents the industrial might of America (U.S. shipbuilding and 
+aircraft production far outstripped Japan’s). If the Allies win this 
+battle (whether it occurs this round or in a subsequent round if this 
+round is tied), keep Rosie as a face-up resource spoil for yourself. 
+Discard Rosie if the Allies lose the battle or if it ends with a no-
+combat outcome. Rosie doesn’t count against any share of spoils 
+that may be due you after the battle.
+13.5 
+Little Boy
+The first atomic bomb, “Little Boy,” was dropped on Hiroshima on 
+6 Aug 1945; the second bomb, “Fat Man,” was dropped 3 days later 
+on Nagasaki. The U.S. used the bombs to hasten the end of the war 
+and to avoid having to invade Japan. 
+You must keep Little Boy as a spoil regardless of the battle outcome 
+(thus you lose 3 VPs for unleashing atomic weapons upon the world). 
+The battle outcome is determined normally, but if you roll 1–5 at the end of the 
+round, you get the battle card as a free spoil, even if the Japanese win the battle. 
+It doesn’t count against any share of the spoils that may be due you if the Allies 
+win. If you get the battle card and the battle outcome is a tie between the two 
+sides, then the battle does not continue into a new round and the other cards are 
+discarded instead of being engaged.
+13.6 
+Tokyo R
+ose
+None of the English-speaking announcers on Radio Tokyo actually 
+used the name “Tokyo Rose,” but it was popularized by the Allied 
+press. Iva Toguri was convicted after the war for her broadcasts but 
+later pardoned. 
+This event card may be played alone or in addition to a Japanese play. 
+Select 2 players who will be playing after you in this round, and they 
+may not play Allied. If Tokyo Rose is discarded by Typhoon before one (or both) 
+of those selected players takes his turn, the restriction on them still applies.
+13.7 
+Typhoon
+Typhoon is not playable before 1944 because most of the battles before then oc-
+curred in regions less affected by such severe weather. 
+
+This event card may be played alone or with either side. It stops as soon as it is 
+effective, or at the end of the current round, whichever occurs first. If it fails and is 
+passed to a player who plays Cryptanalysts or Tora, Tora, Tora!, he 
+must roll for it, and if it continues to fail and is passed to him again at 
+the end of the round, he must roll for it again. It never continues into 
+the next round, even if the battle outcome is tied. A player who loses 
+his turn because of Typhoon does not get to roll for Day or Night if 
+it is passed to him—he must pass it to the next player. 
+13.8 
+Day or N
+ight
+This event card may be played alone or with either side. It stops as soon as it is 
+effective, or at the end of the current round, whichever occurs first. If it is passed 
+to a player and his roll fails, but he plays Cryptanalysts or Tora, Tora, Tora!, and it 
+continues to fail and is passed to him again at the end of the round, he must roll for 
+it again. If the battle time switches, there may be some cards played 
+previously in this round that are now illegal plays, so they should 
+be discarded. Never discard the battle card, even if the changed time 
+does not match the time printed on the battle. The time switch stays 
+in effect even if Typhoon is used later in the round to discard the Day 
+or Night card from play. If a player loses his turn for any reason, he 
+does not roll for Day or Night but passes it to the next player.
+13.9 
+Fog
+This event card may be played with either side. Only one regular 
+card and/or any permissible bonus cards may be played beneath Fog. 
+You may play additional valid cards in your same turn, but they are 
+never hidden by Fog. For instance, you could play Akagi face-down 
+beneath Fog and also play the Yamamoto event and Val face-up. 
+Cards hidden by Fog are revealed after all other players have played, 
+so you can hide what side you played on until the end of the round. Revealing 
+your play last is not the same as playing after everyone else plays. Your turn order 
+in the round is still the same as if you didn’t play beneath Fog. In this way, you 
+benefit when tying with another player on the same side if you play before him, 
+even though you don’t reveal your play until the end of the round. For the same 
+reason, Fog doesn’t allow you to escape fate:
+If you play a victim card beneath Fog, and its fate card is played after your 
+play, and that fate card is still in play when you reveal your victim, then 
+your victim card must suffer its fate. 
+However, if the fate card is played after your victim play, but that fate card 
+is itself victimized or discarded for some reason before you reveal your 
+victim at the end of the round, then your victim is saved from its fate.
+If you play a fate card beneath Fog, and its victim was played before your 
+play, then you don’t fate the victim until you reveal your fate card at the 
+
+end of the round. So if that victim is discarded first for any reason, you’ve 
+missed your opportunity to fate it.
+If the victim of your fate card is played after your play, then it is safe from 
+your fate card because you played before it. 
+13.10 Catalina and A
+magiri
+PBY Catalina flying boats rescued countless aviators from the sea, 
+allowing them to return to battle again. The Amagiri towed disabled 
+warships to port on two occasions during the Solomons Campaign, 
+saving them from loss. 
+Unlike event cards, you may use either of these two cards for its 
+combat values or for its ability, but you may not use the ability if 
+the card is already deployed in the battle for its combat value. The card must be 
+in your hand when you use its ability. You then discard it and also discard the 
+“rescued” card, thus denying that spoil to someone and saving it from destruction. 
+The rescue should occur when the victim has been announced (in the 
+case of fate), or before spoils are divided (in the case of battle losses). 
+If there is more than one spoil card matching the criteria in the battle, 
+the player using the Catalina or Amagiri gets to choose the one that 
+is rescued. You may use these cards for their abilities even if you 
+play (or already played) on the other side during the battle. 
+13.11 Gremlins
+Gremlins were mythical creatures that Allied airmen blamed for 
+mechanical failures during the war. They were popularized in a 
+children’s book by Roald Dahl published in 1943, and in some 
+Warner Bros. cartoons released that same year. 
+This event card may be played alone or with either side. Play it against 
+another player, whether he has already played this round or not, and 
+regardless of the side he plays on. It reduces the combat value of his play, but 
+never below 0 in any of the three suits. For example, in a Combined battle where 
+someone targeted with Gremlins played a cruiser with values of 1 air, 2 surface 
+and 0 sub (3 total), the cruiser would be reduced to 0 air, 1 surface and 0 sub (for 
+1 total). The –1 to its sub value would have no effect.
+13.12 Allied C
+odenames for A
+ircraft
+Allied and Japanese aircraft are identified by their Allied codenames instead of their 
+official designations (for example, Hellcat instead of F6F). The Allies used male 
+names for Japanese fighters and recon seaplanes, and female names for Japanese 
+bombers and other recon aircraft. The codename for the Zero-Sen (Type 00 navy 
+fighter) was Zeke, but most Allied servicemen called it simply Zero.
+
+► Chronological Version
+Some players prefer fighting the battles in chronological order. This requires 
+more card sorting and shuffling than in the standard version of the game. Use the 
+standard rules with the following changes:
+Remove Rennell Island, Ormoc Bay and Renewed Battle from the Battle 
+Deck so you only have 37 battle cards.
+Arrange the Battle Deck in reverse order of sequence, with Pearl Harbor 
+on top and Home Islands on the bottom.
+Sort the Force Deck into five stacks based on year.
+Shuffle the 1941 force cards and deal a hand of 3 cards to each player. The 
+rest of the 1941 force cards go face down as the Draw Pile.
+The round leader flips over the top two battle cards, picks one to fight and 
+discards the other as in the standard version. 
+When the first battle card of the next year is flipped over, do as follows: 
+Shuffle that year’s force cards into the current Draw Pile.
+Increase the hand size of each player by 1 card, except in 1945. 
+The base hand size depends on the current year:
+Never shuffle the Discard Pile into the Draw Pile until the Draw Pile is 
+empty.
+The last battle of the war is always Home Islands.
+► Short Versions
+To play a short standard version, make these two changes to finish the game after 
+13 battles:
+Remove the Renewed Battle card from the Battle Deck so you only have 
+39 battle cards.
+The round leader always flips over the top three battle cards (instead of the 
+top two), picks one and discards the other two.
+To play a short chronological version, make these changes to finish the game 
+after 13 battles:
+Year
+Hand Size
+1941
+3 cards plus 1 per resource spoil
+1942
+4 cards plus 1 per resource spoil, not to exceed 7 cards
+1943
+5 cards plus 1 per resource spoil, not to exceed 8 cards
+1944 & 1945
+6 cards plus 1 per resource spoil, not to exceed 9 cards
+
+Instead of removing Rennell Island, Ormoc Bay and Renewed Battle from 
+the Battle Deck, remove Wake Island, Cape Esperance and Renewed Battle 
+so you only have 37 battle cards.
+Follow the other rules of the chronological version except the round leader 
+flips over the top three battle cards, picks one and discards the other two.
+► Team Version
+I would be remiss to Mark McLaughlin if I didn’t include a team version of the 
+game. He and a few others have told me how much their groups enjoy playing 
+Atlantic Storm with an even number of players (4 or 6) split between the two sides. 
+Use the standard rules with these changes:
+Divide the players into equal teams. They should sit at the table in alter-
+nating positions so each player has an enemy player on both sides of him 
+in round order.
+Remove Fog, Day or Night, Gremlins and Typhoon from the Battle 
+Deck.
+Sort the remaining force cards into two draw piles—one consisting of 
+Allied cards for the Allied team and one consisting of Japanese cards for 
+the Japanese team.
+The team with the most VPs at the end wins.
+You can also play a Team Chronological Version or a Team Short Version by 
+combining the team rules with either of those rule sections.
+Designer’s Notes
+The idea for a Pacific version of Atlantic Storm occurred quickly enough. Some 
+of the playtesters of Storm expressed their desire for a sequel set in the Pacific 
+even before the original game came out in 1998. Mark McLaughlin was the first 
+to approach me with a Pacific prototype he designed based on the Storm system. 
+John Coussis was the next to talk to me about it (see his Developer’s Notes below), 
+and later Stephane Laulhere and Steve Cuyler came forward with their prototypes 
+of the same. 
+When you begin to think about the idea, you realize there are several alternate paths 
+to take. You can do a Silent Service version that emphasizes the U.S. submarine 
+war against Japan in the way Storm emphasizes the U-Boat war. You can do a 
+naval battles version that emphasizes famous battles such as Midway and Leyte 
+Gulf. Or you can do an island-hopping version that emphasizes ground forces as 
+much as ships and planes.
+The latter approach appealed to me most, and we tested such a version even as 
+recently as 2003. The suits were air, land and sea, and at first I included every front 
+in the Pacific, so the battles ranged from Pearl Harbor to Imphal, and from the 
+Coral Sea to Manchuria. Some battles excluded ships, and some battles excluded 
+
+ground forces, but most battles revolved around islands and fit perfectly into an 
+air-land-sea system. Furthermore, the round leader declared if it was a day battle or 
+night battle. The force cards comprised a sampling of everything from Essex-class 
+carriers to Merrill’s Marauders, and from Japanese paratroopers to the Yamato. 
+The Pacific War is so full of great stories, and I wanted to present a wide selection. 
+But the game was too ambitious, so I trimmed and trimmed, then trimmed some 
+more. We enjoyed the game, but it lacked the finely-balanced interaction of suits 
+that Storm has. Finally, I set it aside and created a naval battles version that was 
+closer to the original game. It worked great, and John and I carefully developed 
+that into what you have now.
+If you’ve never played Atlantic Storm or Pacific Typhoon, you might be confused 
+at first by the unusual structure of the game play: In the standard version, players 
+are not assigned to sides and battles do not occur in tidy, chronological order. 
+There are two simple reasons for this. 
+First, we want to recreate the uncertainty and chaos of war—you should be look-
+ing over your shoulder (figuratively) the whole time. Where is the enemy, and 
+what is he capable of? Will reinforcements arrive for your forces in time? Who 
+will receive the credit for victory or the blame for defeat? What battle might occur 
+next, and should you be saving your strength for it? This uncertainty makes card 
+management and decision-making more important. Fear and hesitation creep into 
+your mind when the next battle might be better to fight for than the current battle, 
+and you don’t know how much to trust the guy playing after you.
+Second, we want table talk in the game. The best way to increase table talk is to 
+have negotiation. If all of the players are potential enemies and potential allies, 
+there is good reason to discuss the situation with those who are playing after you. 
+Point fingers and declare that someone else is winning. Appeal for help with the 
+offer of giving assistance in a future battle. Hide your greed behind a façade of 
+friendly support. Experienced players keep a running commentary during a battle, 
+declaring each side’s combat strength, and noting who stands to win. For example, 
+“It’s currently 7 Allied Air to 4 Japanese. Can you play at least 3 Japanese Air to tie 
+the battle? Otherwise, Roy is going to win the battle, and we don’t want that!”
+Those are our reasons for the standard version. But we understand some players 
+still want to play in teams or to fight the battles in historical order. For them we 
+provide the Team and Chronological Versions. Playing the game in chronologi-
+cal order may also help you memorize the decks better, which is an important 
+advantage in competitive, tournament-level play.
+Historical purists may point out that certain ships were available before the year 
+given on their cards. For example, Yamashiro is treated as a ‘44+ card when it 
+was available at the start of the war. This was a design choice to distribute the 
+cards across the years in a balanced way so neither side was too lopsided. In doing 
+so, I didn’t ignore history. Case in point: Yamashiro’s wartime participation was 
+negligible before 1944. 
+Historical purists might also raise an eyebrow because the game allows a ship 
+to fight in a late-war battle when historically it was sunk before that time, or to 
+
+fight in a late-war battle and then to be destroyed in an early-war battle later in 
+the game. This is a design choice to allow all force cards to be playable in 1945; 
+it represents the build up of forces as the war progressed. Furthermore, many of 
+the ships lost during the war had sister ships that aren’t included in the deck, and 
+some ships that were lost had their names given to newer ships. For instance, 
+carrier Lexington (CV-2) was lost in 1942, but a new carrier Lexington (CV-16) 
+joined the fleet in 1943.
+As always, play to have fun, and if good luck abandons you, blame the guy who 
+shuffled the deck.
+Developer’s Notes
+It didn’t take long for Atlantic Storm to become a favorite of my Chicago area 
+gaming group. We all enjoyed the mechanics of the game as well as the historical 
+setting. After a few months of repeated playings, fellow Chicagoan Lou Tokarz 
+and I began tossing around ideas of a Pacific Version of the game. We thought 
+instead of fighting over convoys, the game would revolve around fighting over the 
+numerous island groups in the Pacific (Hawaii, Midway, Iwo Jima, Okinawa, you 
+get the idea). Island battles still offered three different battle possibilities (only thing 
+different from Atlantic Storm would be a “Land” suit instead of the “Sub” suit) 
+and we really didn’t think it would be an unreasonable stretch for a Marine unit 
+to go against an aircraft or ship. We never got to the point of putting cards/rules 
+together, but we did have a lot of fun tossing ideas around. 
+I believe it was 1999 when I first discussed the possibility of a Pacific version of 
+Atlantic Storm with Ben Knight. Much to my delight, Ben told me that he had 
+already begun the design process and already had a set of force and battle cards 
+created. I started to tell him of some of the ideas Lou and I had and Ben was very 
+excited to hear about what we had come up with. The most important (and in my 
+opinion, the coolest) idea of ours that Ben incorporated into the final design you 
+are now playing was the “Renewed Battle” card. As we discussed the idea of 
+fighting over island groups, it occurred to us that on more than one occasion, the 
+Allies came back and re-took what the Japanese had conquered earlier in the war 
+(“I shall return.”). Why not introduce that mechanic into the game? Rather than 
+fight a new battle, we came up with the idea of taking a battle that had already 
+been won, and bringing it back out to fight over again. Wow, what a concept! It 
+added uncertainty since you didn’t know when the Renewed Battle cards (at first, 
+there were 3 in the 60-card battle deck) were going to come out. It also added 
+that favorite element of any multi-player game, a chance to reel in the leader! 
+No longer were those big VP cards safe in front of you. This is my favorite part 
+of Pacific Typhoon, not just because it was mine and Lou’s idea, but because it 
+adds such a great new dimension to the game (unless, of course, you see your 8 
+VP battle card get taken away from in front of you, then you absolutely hate this 
+new dimension ).
+It was right after WBC 2005 that I took on the formal role of developer for Pacific 
+Typhoon. Boy, be careful what you ask for. Over the next two years or so I worked 
+
+with the playtesters as well as my local Chicago group to revise and enhance the 
+game. One of the key changes we made was to change the day/night battle card 
+mix. Originally, all 40 battle cards gave the round leader the choice of day or night. 
+However, after becoming familiar with the strengths/weaknesses of each type of 
+force card(s), we started to see fewer and fewer day battles since it became clear 
+that keeping the powerful carriers out of the battles were advantageous to a round 
+leader who plays a strong surface ship. The game started to “feel” less and less like 
+the Pacific War since we were not getting any big carrier battles. To correct this, 
+we made the change the set certain battles to day-only, others to night-only, and 
+a few remained day/night choice. It didn’t take long for the game to “feel” better 
+since we started to see a lot more action with carriers and aircraft.
+All in all I’m very pleased with the end result; a game that is “true to its roots” as 
+compared to Atlantic Storm, but also adds its own flair as a new game. A lot has 
+changed since the initial ideas we had eight years ago, but what you’ve got now 
+is a game that I hope will be as much fun for you to play as it was for me (and my 
+playtesting friends in Chicago and Columbus) to develop.
+Credits
+Design: Ben Knight
+Development: John Coussis
+Design Assistance: Mark McLaughlin, Rob Eastman, Roy Gibson, Stephane 
+Laulhere, Louie Tokarz, Don Greenwood
+Art Director, Cover Art and Package Design: Rodger B. MacGowan 
+Cards Art: Mark Simonitch
+Rules Layout: Neil Randall
+Production Coordination: Tony Curtis 
+Producers: Tony Curtis, Rodger B. MacGowan, Andy Lewis, Gene Billingsley 
+and Mark Simonitch
+Playtesters: Tim Ardoin, Joe Birch, Jesse Boomer, Scott Buckwalter, Don 
+Chappell, Steve Cole, Dan Crenshaw, David Cross, Steve Cuyler, Chris Esko, 
+Matt Evinger, Nick Evinger, Ruth Evinger, Tim Evinger, Bruce Fischer, Chuck 
+Frascati, Jim Gutt, Eric Haas, Jonathan Hamel, Nathan Heazlett, Dan Henry, Ka-
+tie Hirsch, Keith Hunsinger, Jon Izer, Chad Jensen, Steve Katz, Charlie Kibler, 
+Christopher Lawrence, Brendan McGuire, Patrick McGuire, Kurt Miller, Bruce 
+Monnin, Tim Murray, Scott Nerney, Dan Plojez, Jim Pyle, Mike Rea, Betsy 
+Reynolds, Steve Reynolds, Kevin Rohrer, Martin Sample, Greg Schmittgens, 
+Rich Shipley, Peter Stein, Bob Suckling, Jamie Tang, Craig Taylor, Robert 
+Waters, Paul Weintraub, Doug Whatley, Mark Yoshikawa 
+GMT Games, LLC
+P.O. Box 1308, 
+Hanford, CA 93232–1308
+www.GMTGames.com

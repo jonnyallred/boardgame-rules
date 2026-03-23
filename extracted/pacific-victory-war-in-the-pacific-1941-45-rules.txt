@@ -1,0 +1,2303 @@
+INTRODUCTION
+Pacific Victory simulates the Pacific 
+Theater of WWII. The map covers 
+roughly one third of the Earth, from 
+North America to India, and Alaska to 
+New Zealand. The vastness of the Pacific 
+Theater is remarkable; on this scale, New 
+York to Paris is four hexes!
+Military units are represented by 
+blocks which provide elegant mechanics 
+for Fog of War and Step Reduction. A self-
+adhesive label must be attached to each 
+block, Japanese labels on the orange 
+blocks and Allies on the blue, brown, and 
+yellow blocks. See sidebar "Label Colors".
+British Empire units include ANZAC 
+(Australian & New Zealand Army Corps) 
+and Indian units. 
+Scenarios & Victory
+There are three scenarios: 1941, 
+1942, or 1943. Historical locations and 
+unit strengths are given for each game-
+year, although these can be adjusted with 
+a Free Deployment option. 
+Each scenario has the same victory 
+conditions. The game is played until one 
+side wins a Decisive Victory, or until the 
+Jun/45 turn is played when Victory 
+Points determine a winner. 
+Game Turns
+Pacific Victory is played in Game 
+Turns that simulate three (3) months 
+of war. To start each Game Turn, an 
+initiative dice roll is made. The winner 
+can choose to play first or second. Player 
+1 moves any/all blocks, then Player 2 
+does the same, except units that have 
+been attacked are pinned and may not be 
+able to move. 
+Units that enter an enemy-controlled 
+hex are attacking. Combat is resolved in a 
+unique interactive system.
+Supply & Production
+After all battles have been resolved, 
+units check supply and reinforcements 
+are added in a Logistics Phase. 
+Replacements do not arrive on a rigid 
+historical schedule; players can, within 
+limits, build as they wish. 
+1.0 GAME TURNS
+Each Game Turn has five Phases. 
+1.1 Initiative
+Both players roll two (2) dice. The 
+player with the higher total wins the 
+initiative and has the option to play First 
+or Second. Allied player wins ties.
+On Typhoon game turns, Player-2 
+now rolls 1d6 to determine storm 
+location. 
+1.2 Player-1 Move
+Player 1 moves any/all friendly 
+units. There are two possible types 
+of movement: Operation (4.11) and 
+Strategic (4.12). They may be played in 
+any desired order.
+1.3 Player-2 Move
+Player 2 repeats 1.2. Units can make 
+any legal move such as reinforcing a 
+battle started by Player 1, or starting 
+a new battle. In battle hexes, some 
+defending units (equal to the number of 
+attacking units) are pinned and cannot 
+move; excess units can move out of a 
+battle hex. See 4.5.
+IMPORTANT: When Player 2 moves 
+units to a battle started by Player-1, these 
+units are not available to fight or take hits 
+for the first combat round. Should the 
+Attacker win the battle in the first combat 
+round, control of the hex changes, and the 
+reinforcing units arrive as attacking units, 
+not defending units. Strategic Moves can 
+never be used to reinforce a battle. 
+1.4 Combat Phase
+Battles occur when either player 
+moves units into an enemy-controlled 
+hex. Battles are resolved, one by one, in 
+any sequence desired by Player 1.
+1.5 Logistics Phase
+Both players, simultaneously:
+(A) Check supply (7.1) status of units. 
+Unsupplied units cannot receive 
+replacements and take supply attrition. 
+IMPORTANT: unsupplied naval units 
+do not cut supply lines. 
+(B) Determine available Production 
+Points (PP) and build new units or add 
+steps to existing units. Max 1 step 
+per minor base, and 2 steps (same 
+or different units) per major base.
+A new Game Turn now begins with 
+an Initiative dice-roll. 
+Rulebook Organization
+This rulebook is formatted so that the sidebar 
+(right column) contains definitions, examples, 
+design notes, and suggestions to help you 
+understand and enjoy Pacific Victory. 
+The sidebars also contain a number of 
+Optional Rules, each identified with a 
+checkbox symbol. It is best to ignore all 
+optional rules until you are familiar with the 
+game.
+Game Scale
+Ground units are Corps (Allies) or Armies 
+(Japan), but each step for both is roughly a 
+Division. Air units are Airforces (Allies) or Air 
+Divisions (Japan), each step representing 
+50-100 planes. Naval units are Divisions, each 
+step representing one capital ship or two to 
+four light ships. All surface ships are assumed 
+to have an escort of about four destroyers per 
+step. Map scale is 600 miles per hex. Game 
+turns are 3 months long.
+Game Turns
+There are 15 Game Turns (GT), each 
+representing three months of action. GTs are 
+printed on the west edge of the mapboard. 
+Each GT has a dominant weather pattern 
+(Monsoon, Typhoon, or North Pacific) 
+detailed in 6.0. Within each GT, both players 
+move, then battles are fought, then logistics 
+and supply are determined.
+Initiative
+The sequence of Player Turns within each GT 
+is determined by random Initiative. Because of 
+this your opponent may get two turns in a row. 
+That is, the player moving second in a GT may 
+move first in the next GT. You can never be 
+assured that an opponent will patiently await 
+your attack; he may attack first, or move away 
+and frustrate your plans.
+Fog of War
+Fog of War is one of the most exciting aspects 
+of Pacific Victory. Except when fighting a battle, 
+the blocks stand upright, their label facing the 
+owner. This promotes bluff and innovative 
+strategies because players are never certain of 
+the strength or identity of an enemy unit. Just 
+like all successful generals and admirals, you 
+must be bold and decisive in an atmosphere of 
+doubt and deception. 
+Allied Code Breaking
+The Allies had superior code-breaking 
+techniques to the Japanese. To reflect this, 
+the Allied player wins ties for Initiative, a 
+significant advantage.
+Block & Label Colors
+Block Label
+Blue US Navy (blue)
+ US Army (green) 
+Brown	
+British, Indian, and ANZAC (brown)
+Yellow	
+Chinese labels (yellow) 
+
+2.0 THE MAP
+The map has a hexagonal grid 
+(hexes) to regulate movement and 
+location of units. Terrain features in 
+hexes affect stacking, movement, and 
+combat. 
+Hexsides often have different terrain 
+to that of a hex, which affects movement 
+into combat. Two types of terrain may 
+appear in the same hex or hexside, 
+but one type dominates; if ambiguous 
+assume the most restrictive terrain. 
+2.1 Terrain Types
+Clear: Hexside 2. 
+Desert: Hexside 1.
+Jungle: Defense D2. Hexside 1. One 
+jungle hex in southern New Guinea is 
+impassable to Ground units. 
+Mountain: Defense D2. Hexside 1. 
+Alpine hexsides (white) are impassable 
+to ground units. 
+River: Hexside 1.
+Coastal: Stacking limit of four (4) naval 
+units for coastal and island hexes. 
+Air stacking is one (1) unit. Ground 
+stacking depends on base size. 
+Sea: Open sea hexes have naval 
+stacking of four (4) units, plus Air 
+Stacking of one (1) unit (which must 
+land at a friendly base at the end of 
+the combat phase). Infantry units can 
+not occupy sea hexes. Marines occupy 
+sea hexes as a naval unit. 
+2.2 Bases
+All settlements on the map are bases, 
+color-coded for original ownership: 
+	
+Orange:	
+Japanese
+	
+Yellow:	
+Chinese (Allies)
+	
+Blue:	
+American (Allies)
+	
+Red:	
+British/Anzac/India (Allies)
+	
+Green:	
+Dutch (British controlled)
+ Allied bases are friendly to Allied units.
+2.21 Major Bases
+Hexagon symbol. Stacking is
+2 Ground,1 Air, and 4 Naval. 
+2.22 Minor Bases
+Round symbol. Stacking is
+1 Ground, 1 Air, 4 Naval. 
+IMPORTANT: Base size has a crucial 
+effect on game-play. Major bases provide 
+double defense (5.46) to ground units, and 
+are essential to form supply chains.
+2.23 Reference Points
+Small black circles such as 
+French Frigate Shoals (near 
+Hawaii) are neutral hexes, not bases. Only 
+Naval units can end a Game Turn in these 
+hexes.
+2.22 Economic Centers
+Major or minor 
+bases containing a 
+number. These 
+indicate significant 
+production facilities or war resources 
+such as nickel, oil, rice, rubber, timber, 
+and tin. The total value of all centers on 
+the map is 60pp.
+2.23 Home Bases
+Home bases are Major bases in 
+the home country. New units 
+must be built in Home bases. 
+They are also supply sources 
+for each country.
+Japan: Kure, Tokyo, Hakodate. 
+USA: Seattle, San Francisco, San Diego, 
+Panama.
+Britain Empire: South Africa. 
+China: All Chinese major and minor 
+bases. 
+2.3 MAP BOXES
+The Allies have two Map Boxes, 
+Panama and South Africa, that 
+are off-board areas. They are 
+Economic Centers and Home 
+Bases which cannot be attacked or 
+blockaded by Japanese units. Map boxes 
+have unlimited stacking. Strategic 
+Movement is required to move to/from 
+Map Boxes (4.12).
+Panama represents the eastern USA 
+and is one of four Home bases for 
+American units. New American Naval 
+units must be built at Panama.
+South Africa is the Home base for all 
+British units, including ANZAC and 
+Indian units. 
+NOTE: USA units may trace supply to 
+South Africa, and British Empire units 
+may trace supply to Panama. However, 
+units dependent on this “cross-supply” cost 
+double to build (7.15). 
+2.4 RAIL LINES
+Rail lines are shown in red on 
+the map. They are used for 
+strategic movement (4.12) and 
+supply lines (7.1). 
+Japan
+The three hexes that compose Japan are 
+considered to be adjacent land hexes. Ground 
+units may move between them, with a hexside 
+limit of 1 for attacks. 
+China & Manchuria Front
+The Japanese invaded China in 1937 and 
+controlled Peking, Shanghai, and Canton hexes 
+until 1945. They previously occupied Formosa 
+and Korea in 1895, and Manchuria (Manchuko) 
+in 1931. Also see 8.14.
+Siam Coasts
+The Siam hex has two coasts, west and south, 
+which are not directly connected. Naval units 
+located in this hex are deemed to be on the 
+south (Bangkok) coast unless otherwise stated. 
+All naval activity such as Sea Invasions, and 
+Shore Bombardments, against the west coast 
+may ignore defending naval units on the south 
+coast. Only naval units on the south coast may 
+blockade the hex. A Supply line from Bankok 
+to Rangoon must use Rail Supply. 
+New Guinea
+The New Guinea hex marked Impassable 
+applies to Ground operations. Naval units can 
+occupy or pass through this hex. Air units may 
+fly over, but not land. 
+New Caledonia
+A wealthy French colony that expelled its 
+Vichy French government in 1940 and joined 
+the Free French. It became the major base for 
+US forces in the South Pacific. The island had 
+25% of the world's nickel reserves during the 
+war, a critical component of some steels. 
+Alpine Hexes
+Mountain hexes and hexsides, colored white, 
+such as in Tibet and in New Guinea, are 
+unplayable. 
+China, Japan, Okinawa, Korea
+These areas are within the command areas 
+of both MacArthur and Nimitz. MacArthur 
+commands Army and Air units; Nimitz 
+commands marines and naval units. 
+Islands
+Islands are treated as coastal hexes. Ground 
+movement between islands in the same 
+hex and to the mainland in the same hex 
+is allowed. This means, for example, that 
+a ground unit on Dutch Harbor (island) 
+can move by land to Anchorage because it 
+occupies the mainland part of the hex as well. 
+Hexside limit 1 because of the mountains.
+Out of Play Areas
+The following areas are out of play:
+• Mexico (1 hex)
+• Mongolia (1 hex)
+• Tibet (2 hexes)
+• USSR (all hexes except Attu)
+
+ 
+UNIT
+TYPE
+FIREPOWER
+Air–Naval–Ground
+(See 5.32)
+COMBAT TURN (A to E) See: 5.21
+Unit Data Chart
+Unit
+Move
+A–N–G
+Cost
+Naval Air
+2–3–1
+Army Air
+2–2–2
+Carriers1
+2–3–1
+Submarines 2
+0–2–0
+Battleships3
+1–3–2
+Cruisers
+1–2-1
+Varies
+Armor
+1–1-3
+Marines4
+2/1
+2–1–3
+Infantry5
+1–1–2
+Major Base
+None
+5pp
+1 Elite Carriers have higher firepowers, 
+but cost is the same. Check the unit 
+and building year.
+2 Allied submarines have firepower
+ 0-1-0 until Sep43.
+3 Elite Battleships have higher 
+firepowers. Cost is same.
+4 Marines move 2 hexes on water, 1 hex 
+on land. Japanese Marines have 1-1-2 
+firepower. 
+5 Japanese Infantry Garrisons are 1-2-1.
+3.3 Ground Units
+Infantry, Armor, Garrisons, Marines, 
+and SHQs are all ground units. Ground 
+units outrank Air and Naval units for hex 
+control of land and coastal hexes. 
+3.31 Headquarters (SHQ)
+IJA
+ 
+ 
+Nimitz
+CPAC
+The Japanese have 
+two SHQs, Imperial 
+Japanese Army 
+(IJA) and Imperial 
+Japanese Navy (IJN). The Allies have four 
+SHQs: Wavell (British), Chiang-Kai-shek 
+(China), Nimitz (USA-CPAC), and 
+MacArthur (USA-SWPA).
+SHQs command strategic movement 
+(4.12). They do not count for stacking. 
+They cannot attack, raid, or reinforce, but 
+defend normally.
+IMPORTANT: SHQs at strength 1 
+cannot activate for strategic movement, 
+but can move and fight normally. 
+Eliminated SHQs are rebuilt in any 
+friendly and supplied major base. 
+3.32 Infantry (IN)
+ Infantry have an 
+operation move of 
+one (1) hex, and 
+control bases they 
+occupy. They can cross a sea hexside 
+only with a Sea Invasion (5.8) or strategic 
+move (4.12). 
+The Japanese have one Armor unit. 
+They also have infantry Garrisons (GA) 
+that have two steps and higher naval 
+firepower (shore batteries). Garrisons can 
+never attack, raid, or reinforce.
+3.33 Marines (MA)
+ 
+Yokosuka
+ Marines move 2 
+hexes at sea, but 
+only 1 hex on land. 
+They conduct Sea 
+Invasions under command of the IJN for 
+the Japanese, and the theater SHQ for the 
+Allies. Cost is 2pp per step.
+US Marines have higher firepowers 
+reflecting Marine Air attached to their 
+divisions. See 5.43. 
+Japanese marines, more properly called 
+Special Naval Landing Forces, have a 
+maximum strength of 2. 
+3.34 Major Base (MB)
+MAJOR
+BASE
+Used to upgrade a minor to a 
+major base with all effects of a 
+MB. Cost is 5pp. They have no 
+firepower and take no hits, but 
+do control a hex. They are always face-
+up. They are destroyed immediately the 
+hex is enemy-occupied. 
+3.0 UNIT TYPES
+Military units are represented by 
+blocks which provide game mechanics 
+for Fog of War and Step Reduction (see: 
+sidebar). Units have one to four strength 
+levels. Current strength is shown by the 
+number of pips on the top edge when 
+a block is standing upright facing the 
+owning player.
+3.1 Air Units
+Air units assume a mix of fighters and 
+bombers. Each step is 50-100 aircraft. Air 
+units can attack any/all target groups. 
+3.11 Naval Air (NA)
+Japanese land-based Naval 
+aircraft. NA move one (1) hex 
+and have A2, N3, G1 
+firepowers.
+3.12 Army Air (AF)
+B-25
+ 
+ 
+TÊ¹Ê
+ Land-based Army 
+aircraft. AF move one 
+(1) hex and have A2, 
+N2, G2 firepowers.
+3.2 NAVAL UNITS
+Each type of naval unit (except 
+submarines) include an escort of about 
+four destroyers per step.
+3.21 Carrier (CV)
+ 
+ Each step is 1 fleet 
+carrier, or 2-3 light 
+carriers. They move 
+2 hexes and have 
+variable firepowers against enemy units in 
+the same hex. See 5.4 for targeting. 
+3.22 Submarine (SS)
+0-1-0
+Submarine
+ 
+I-boat
+ Each step represents 
+8 submarines. They 
+move 2 hexes and 
+only have naval 
+firepower. SS have the ability to move, 
+retreat, and trace supply through enemy 
+controlled hexes and units. 
+3.23 Battleship (BB)
+ 
+Kongo
+ 
+ Each step is one 
+battleship. BBs move 
+2, and fire A1 (flak), 
+N3 (naval) or G2 
+(shore bombard). 
+3.24 Cruiser (CA)
+ 
+ 
+ 
+ 
+ Cruisers move two 
+(2) hexes and fire A1 
+(flak), N2 (naval) or 
+G1 (shore bombard). 
+Strength (S)
+Units fire by rolling dice equal to their current 
+strength, meaning a 3-step block fires 3 dice. 
+The current strength of a unit is the number 
+on the top edge of the label from the owner’s 
+point of view.
+Step Reduction
+The maximum strength of a block can be 2, 3, 
+or 4. For each hit taken in combat, strength 
+is reduced by turning the block 90 degrees 
+counter-clockwise. The diagram below shows 
+the same BB unit at strength 4, 3, and 2.
+ 
+2s
+ 
+4s
+ 
+3s
+
+4.0 MOVEMENT
+Players can move any/all friendly 
+units. Half-hexes are fully playable. There 
+are two (2) types of movement. Each 
+unit can move only once per turn. 
+4.11 Operation Movement
+Each unit can move one or two 
+hexes per turn depending on unit type. 
+See: Unit Data Chart. Units may attack 
+subject to stacking and hexside limits.
+Rebase: Units can instead "rebase", 
+a double move to a friendly base. Hence, 
+naval units move 4 hexes, air units 
+move 2 hexes, and ground units move 2 
+hexes by land. All hexes traversed must 
+be friendly or neutral.
+4.12 Strategic Movement (SM)
+Strategic Moves (SMs) require 
+activation of an appropriate SHQ. Allied 
+SHQs command units currently located 
+in their theater. Japanese IJA commands 
+all AR, GA, IN and AF units; the IJN 
+commands all NA, MA, and naval units. 
+The number of SMs received is equal 
+to the current SHQ strength meaning an 
+active SHQ3 has 3sm. 
+Each SM allows one (1) unit to move 
+up to a friendly base within ten (10) 
+hexes; a unit can move twice for 2sm. An 
+active SHQ may move itself normally, by 
+rebase, or with an SM.
+Hexes traversed must be friendly or 
+neutral. SMs are needed to enter/leave 
+Panama or South Africa.
+After movement the SHQ is reduced 
+one (1) step and turned upright. SHQ 
+steps are replaced during the Logistics 
+Phase (2pp per step). SHQs can only be 
+activated once per Movement Phase. 
+4.2 Stacking Limits
+Stacking is the maximum number 
+of blocks you may have in a hex (their 
+actual strength is ignored). Stacking limits 
+are shown on the back cover.
+Stacking applies after all movement 
+is completed; you may overstack during 
+movement. In battle hexes stacking limits 
+apply to each player.
+4.3 Hexside Limits
+Hexside Limit is the maximum 
+number of ground units that may cross 
+a hexside into a battle. The limit is 
+ignored for non-combat movement.
+Hexside limit is two (2) units per 
+Clear hexside, and one (1) unit for all 
+other terrain, except Alpine (white) 
+hexsides are impassable. 
+Air/Naval units ignore hexside 
+limits, as do ground units conducting a 
+Sea Invasion (5.8). 
+4.4 Hex Control
+Each hex is either Friendly, Neutral, 
+or Enemy controlled. All units control the 
+hex they occupy. Hex control changes 
+take effect immediately.
+NEUTRAL HEXES: Hexes without a 
+base and open Sea hexes are neutral. Air 
+and Ground units cannot end their Game 
+Turn in neutral hexes. 
+4.41 Base Control
+Bases are friendly to any occupying 
+unit. Captured enemy bases revert to 
+enemy control if vacated. 
+IMPORTANT: Only armor, infantry, 
+and marines can change hex control. Air 
+and naval units cannot change control, 
+but can maintain control of a captured 
+base. Garrisons and SHQs cannot change 
+hex control because they cannot attack. 
+4.42 Hex Control Priority
+Air units cannot change control of 
+hexes and cannot land on vacant enemy 
+controlled bases. Air units can maintain 
+control of a captured base, but must 
+retreat from an attacking enemy Ground 
+unit after a battle.
+Naval units cannot change control 
+of hexes, but can maintain control of a 
+captured base. They must retreat from 
+an attacking Ground unit after a battle. 
+Naval units may Blockade (5.7) if no 
+enemy naval units are present. 
+Ground units control Coastal or 
+Land hexes. After a battle, they force 
+enemy Air to retreat, and enemy Naval to 
+Retreat or Blockade.
+4.5 Pinning
+Attacking units prevent an equal 
+number of defending units (any types) 
+from moving. This is called Pinning. The 
+defending player chooses which units 
+are pinned. Unpinned units may move 
+normally, even attack, except not via a 
+hexside used to pin. Unpinned units may 
+not SM. Pinned SHQs cannot activate to 
+command SM, but defend normally. 
+4.6 Air Operations
+4.61 Air Movement
+Air units fly one (1) hex, perhaps to 
+engage in combat, then land in the same 
+or another adjacent, friendly base, even 
+one captured this turn. Air units ignore 
+hexside limits and impassable terrain. 
+Rebase Movement
+Rebase movement is a non-combat move. 
+Because of their Central Position, rebasing 
+favors the Japanese player. 
+Strategic Movement
+Strategic moves are handy to move units 
+outward from home bases, or to change 
+theaters, and are mandatory for Allied units to 
+enter or leave Panama or South Africa. 
+Movement Example
+The example below shows a USA amphibious 
+attack against Saipan where four Japanese 
+units are defending. The Allied player wins the 
+initiative and decides to move first:
+Player 1 (US) moves four units (CV3, BB4, 
+CA4, and MA3) from Wake to Saipan, held 
+by four (NA2, SS2, CA3, IN3) Japanese 
+units. 
+Player 2 (Japan) elects to add two more 
+units to the battle, a NA3 from Iwo Jima 
+and a BB3 from Tokyo. These two units will 
+not participate in Combat Round 1. 
+This Battle of Saipan, unlike the historical 
+battle fought in Jun44, is unlikely to be a 
+“Turkey Shoot” for the American forces. 
+When enemy forces are nearby, and cannot 
+be pinned, it may be wiser to play second to 
+avoid battle reinforcements. 
+Hex Control
+Hex control affects Strategic Movement, 
+Production, Supply, and Victory. Each hex is 
+either Friendly, Neutral, or Enemy controlled. 
+Captured bases revert to enemy control if you 
+vacate that hex. In short, enemy bases must 
+always be garrisoned with at least one unit 
+(any type) to remain under your control. 
+Naval units can Blockade (5.7) a Ground/Air 
+unit if there are no enemy Naval units present.
+Zones of Control (ZOCs)
+Many games allow units to control adjacent 
+hexes; ZOCs do not exist in this game.
+Vacant Bases
+Vacant bases are not neutral; they are friendly 
+to their original owner. A sea invasion (5.8) 
+is required to capture a vacant enemy base. 
+Blockades of vacant enemy bases make the 
+sea friendly, allowing sea supply and naval 
+movement into or through that hex by the 
+blockading player. 
+Pinning Example
+Two units attack five. At least two defenders 
+are pinned, but up to three (defender choice) 
+may move. Unpinned units can Rebase or 
+move Strategically, and can, with an Operation 
+Move, attack another hex. Unpinned units that 
+leave a battle hex, can be replaced with other 
+units moving Operationally.
+Stacking Limits
+Minor Base: 1 Air, 4 Naval, 1 Ground.
+Major Base: 1 Air, 4 Naval, 2 Ground.
+Sea Hex: 4 Naval.
+NOTE: Marines are naval units at sea. 
+
+4.62 Air Stacking
+Each base, whether major or minor, 
+can hold one (1) Air unit. Stacking for Air 
+Combat is also one (1) unit. 
+4.63 Combat Air Patrol (CAP)
+Air units may move to adjacent, 
+friendly or neutral hexes (stacking 1)
+where they can defend against Player-2 
+attack and movement, including enemy 
+Retreats or Regroups. CAP units that are 
+not involved with combat, land (4.61) at 
+the end of the Combat Phase. 
+4.7 Naval Operations
+4.71 Naval Movement
+Naval units move two (2) hexes. They 
+must stop when they enter a vacant 
+enemy base, or any enemy-occupied 
+hex. They may not traverse an enemy 
+blockade, but may enter or traverse a 
+friendly blockade. 
+Coastal or island hexes without a 
+base can be friendly-occupied by naval 
+units. 
+SUBMARINES: These units may move, 
+retreat, and trace supply through enemy 
+controlled hexes and units. 
+4.72 Naval Stacking
+Naval Stacking is four (4) units in any 
+coastal, island, or sea hex.
+4.8 Ground Operations
+4.81 Ground Movement
+Armor, Garrisons, Infantry, and 
+SHQs are all ground units. None of them 
+can cross a sea hexside, or stop in sea 
+hexes, except Infantry can make a Sea 
+Invasion (See 5.8). Ground units must 
+always end their turn in a base. Ground 
+unit stacking is one (1) unit in a minor 
+base, and two (2) units in a major base. 
+PRA/NRA: A Chinese PRA (Peoples 
+Republican Army) unit may not share 
+the same base as a NRA (National 
+Republican Army) unit. They can combine 
+for attacks, but must Retreat or Regroup 
+to separate bases after a battle.
+4.82 Marine Movement
+Marines are naval units at sea, but 
+ground units ashore. At sea they are 
+subject to naval stacking, and to ground 
+stacking when ashore. They move two (2) 
+hexes at sea, but only one (1) hex ashore. 
+Japanese Marines conduct a Sea Invasion 
+(5.8) under command of the IJN SHQ. 
+U.S. Marines are commanded by their 
+current Allied theater SHQ.
+5.0 COMBAT
+Both players must complete their 
+respective Movement Phases before 
+starting the Combat Phase.
+5.1 Battle Hexes
+Battles occur when either player 
+moves units into an enemy-controlled 
+hex. Battles in several hexes are resolved 
+in a sequence chosen by Player 1. 
+Combat in one battle must be resolved 
+before proceeding to the next. Units are 
+not revealed until their battle is fought. 
+5.11 Combat Stacking
+In battle hexes stacking limits apply 
+to each player. Both players in a coastal 
+major base battle could have 1 Air, 4 
+Naval, and 2 Ground.
+NOTE: Carriers count towards naval 
+stacking. Marine units and Infantry 
+conducting Sea Invasions count as naval 
+units until they land, then they count 
+toward ground stacking.
+5.2 Combat Rounds
+Battles are fought for a maximum of 
+three (3) combat rounds. A Combat Round 
+involves firing or retreating each unit in 
+a battle hex in their Combat Sequence. 
+After each unit has fired once, repeat the 
+Combat Sequence for the 2nd and 3rd 
+rounds as necessary. If the attacking units 
+do not defeat the defending forces by the 
+end of the 3rd round, they must retreat, 
+except naval units can Blockade (5.7).
+5.21 Combat Turns
+Per combat round, each unit has a 
+battle turn in A, B, C, D, E order with 
+Defender going first if the same letter. 
+Each unit may fire or retreat. See sidebar 
+(page 7) for example of combat turns. 
+5.3 Firing Units
+To fire a unit, roll dice equal to its 
+current strength (3-step unit rolls 3 dice). 
+A hit is scored for each die roll equal to 
+or lower than the unit’s Firepower. 
+5.31 Combat Strength
+The current strength of a unit is the 
+number of pips on the top edge of the 
+label from the owner’s point of view.
+5.32 Firepower
+Units can be rated for “A” (Air), “N” 
+(Naval), and “G” (Ground) firepowers:
+A1/N1/G1: 1’s are hits
+A2/N2/G2: 1’s & 2’s are hits
+A3/N3/G3: 1’s, 2’s & 3’s are hits
+Battle Stacking
+In battles both players can have the maximum 
+stacking for that hex. Resolve large battles 
+offmap as needed, but mark the location of the 
+battle hex.
+Player-2 Battles
+When Player-2 adds new units to a battle, 
+these reinforcements do not fire or take hits 
+in Combat Round 1. Reinforcements arrive 
+as defenders unless hex control of the battle 
+changes in round 1. 
+When a vacant base is invaded by Player-1, 
+hex control may change (Player-1 choice) 
+when the invading unit(s) land. .Player-2 
+reinforcements to this hex will arrive in 
+Round 2. If these reinforcements are naval 
+units, a ground unit that lands may find itself 
+blockaded. 
+When Player-2 starts a new battle, a normal 
+three (3) round battle is fought. 
+Battle Defender
+The defender in any battle is normally the 
+player who controlled the hex at the beginning 
+of the Battle. However, hex control changes if 
+all defenders retreat or are eliminated in the 
+first combat round, or a vacant enemy base is 
+invaded. Player-2 battle reinforcements (if any) 
+arrive on round 2 as attackers. 
+If the Attacker is conducting a Sea Invasion, 
+enemy naval reinforcements that arrive round 
+2 could prevent a landing unless already done. 
+Army Sizes
+Each infantry unit represents a Japanese Army 
+or an Allied Corps, but in both cases each 
+step is a division. The Japanese have 2-step 
+Garrisons and Marines. The USA have 3-step 
+Marines which had attached air. 
+Fire Example
+To fire an Infantry 3, roll 3 dice. If the target 
+is enemy "Ground", Infantry rated G2 score 
+hits on rolls of “1” or “2”. Other numbers are 
+misses. 
+Excess Hits
+Because excess hits on a target group are 
+wasted, units should be fired individually.
+
+5.4 Target Groups
+Enemy units cannot be targeted 
+individually. Firing is done at a declared 
+target group. There are three target 
+groups: Air, Naval, or Ground units. 
+A single unit can never divide its fire 
+between two or more target groups. 
+5.41 Target Declarations
+Most units can fire at different target 
+groups each round. Hence, Naval Air can 
+fire at Air units (A2), or at Naval units (N3), 
+or at Ground units (G1). 
+Units must declare their target group 
+before firing, and this can change from 
+unit to unit and round to round. If no 
+declaration is made, the target group is 
+assumed to be their own type, meaning 
+an Air unit targets enemy Air units (if 
+present) unless it declares otherwise. 
+5.42 Air to Surface combat
+Air units use their “G” firepower 
+to attack Ground units, or their “N” 
+firepower to attack Naval units. Air to 
+Surface combat may occur even when 
+enemy Air units are present.
+5.43 Surface to Air (Flak)
+Naval and Ground units use their Air 
+Firepower to "flak" air units, but only 
+if their target group has been attacked 
+from the air in that combat round. That is, 
+if enemy air fires on naval targets, then 
+naval flak is allowed - otherwise not. 
+EXCEPTION: U.S. Marines and 
+Carriers have attached aircraft, not just 
+AA guns. They can fire on any target type 
+even if not attacked by that type. 
+5.44 Shore Bombardment
+Naval units use their “G” firepower (if 
+any) to attack Ground units in the same 
+battle hex. Shore Bombardment cannot 
+be done if enemy naval units are present 
+at the instant of fire.
+Ground units may only fire at naval 
+units if they have been shelled by naval 
+units in the same combat round. 
+5.45 Hit Allocation
+Hits are distributed among all units 
+of the target group, strongest units first. 
+Hence, if firing against Naval units, hits 
+are distributed among all enemy Naval 
+units. When two or more target units 
+share the highest strength, the owner 
+chooses which to reduce. Excess hits on a 
+target group are wasted.
+Infantry and Marine units cannot be 
+eliminated by Air or Naval fire. They can 
+be reduced to Step-1, but are immune to 
+further loss except from Ground units.
+EXCEPTION: Infantry and Marines in a 
+pending invasion, and marines at sea, are 
+naval targets. They can be eliminated by 
+Air or Naval fire.
+5.46 Double Defense (D2)
+Ground units have D2 defending 
+Jungle or Mountain terrain, or any 
+major base. Units with D2 lose one 
+step for every two (2) hits from attacking 
+forces. Record one hit with a one eighth 
+rotation, but firepower is not affected 
+until the second hit is taken. A unit 
+with a “half-hit” must take the next hit 
+received by that target type. Half-hits 
+are recovered when a battle ends, but 
+completed if the affected unit retreats.
+5.5 Retreats
+Units can retreat (instead of firing) in 
+any Combat Round. Hexside Limits apply 
+to each Combat Round which allows a 
+gradual retreat. After the 3rd Combat 
+Round, the battle ends with the following 
+procedure:
+1. Attacking Ground units Retreat from 
+Defending Ground units. 
+2. Attacking Air units Retreat from any 
+Defending units. 
+3. Attacking Naval units Retreat from 
+enemy Naval units, but may Blockade 
+(5.7) defending Air or Ground units. 
+Retreating units must obey Stacking 
+and Hexside Limits. Units that cannot 
+retreat when required are eliminated.
+5.51 Retreat Hexes
+Units can retreat up to their normal 
+Operation range.
+Air/Ground units must retreat to 
+friendly bases.
+Naval units (and Marines at sea) 
+may retreat to friendly or neutral hexes, 
+including friendly Blockade hexes. 
+See 5.8 for Invasion retreats.
+5.6 Regrouping
+When a battle ends, the Victor may 
+Regroup, meaning (at the instant of 
+victory) move any/all units from the 
+victory hex to a friendly or neutral 
+hex within Operation range. All move 
+and stacking limits apply. Units cannot 
+Regroup by Sea unless they attacked by 
+Sea Invasion. 
+COMBAT EXAMPLE
+In the Guadalcanal hex, three American units 
+are defending: CV2, CA3, and MA1. Four 
+Japanese units are invading from Rabaul: NA2, 
+CV2, CA2, and IN3. 
+The diagram below shows unit strengths at 
+the start of the battle. Note that the units are 
+shown with their current strengths oriented 
+towards the enemy units.
+ 
+ 
+ 
+ 
+ 
+Round 1: Japanese NA2 fires at naval targets 
+and scores one hit which must be applied 
+to the CA3 (largest naval unit) reducing it to 
+CA2. American CV2 now fires (N3) and scores 
+one hit, taken on the IN3 (highest strength 
+unit) which is a naval unit until it lands. The 
+Japanese Carrier fires and scores a hit which 
+can be taken on the CV2 or CA2, most likely 
+the latter. American CA1 fires at naval targets 
+but misses. Japanese CA2 fires, reducing 
+American CV2 to CV1. 
+ US Marine cannot use its G firepower (no 
+ground target ashore) but can unlike Infantry 
+use its attached Air to fire on Japanese air (A2) 
+or naval. (N1). It fires at the Japanese air and 
+scores i hit. Japanese Infantry cannot land 
+since enemy naval units are still present.
+ 
+ 
+ 
+ 
+ 
+Round 2: Japanese NA1 fires and scores one 
+hit, eliminating the CA1. The American CV1 
+chooses to retreat from the hex. Japanese 
+CV2 and CA1 cannot fire on Marine at Step-1. 
+Japanese Infantry can now land. American 
+MA1 fires (G3) but misses. Japanese IN2 fires 
+(G2) and scores one hit which is applied as a 
+half-hit to the marine.
+Round 3: Japanese Air/Naval cannot fire. 
+American MA1 fires and scores a hit, taken on 
+the IN2. Japanese IN1 fires but misses.
+This ends the battle. American Marine survives 
+with a half-hit; Japanese IN1 must retreat and 
+returns to Rabaul. NA2 and CV2 also retreat 
+to Rabaul. Japanese CA1 remains on blockade 
+(face-up) in the Guadalcanal hex. 
+Marine half-hit is restored to MA1. Although 
+unsupplied, the MA1 last step is immune 
+to supply attrition, but it cannot be built-up 
+because of the blockade.
+
+5.7 Blockades
+Attacking naval units can declare 
+a naval Blockade of an enemy base 
+(instead of retreating) provided no enemy 
+Naval units are present to contest the 
+hex. Vacant enemy bases can also be 
+blockaded to give friendly sea control. 
+One blockading unit must remain face-up. 
+5.71 A Blockaded player controls the 
+land area of a hex. Blockaded ground 
+units can enter or leave the hex by 
+ground movement, and enemy air units 
+can land in a blockaded hex. 
+5.72 Blockading units have Sea Control. 
+This means that enemy sea movement 
+and Sea Supply through that hex are 
+prohibited. Conversely, friendly naval 
+movement and supply into/through a 
+blockaded hex is allowed. Unsupplied 
+units cannot initiate or maintain a 
+Blockade.
+5.73 Units dependent on a base for 
+supply become unsupplied if that base 
+is blockaded. The effect can be deadly! 
+Blockaded units avoid supply attrition if 
+they have a Rail Supply line. 
+5.74 Production and Victory Points in a 
+blockaded base require Rail Supply to 
+be counted. 
+5.75 Air and Ground units can Move, 
+Retreat, or Regroup to a friendly base 
+under enemy blockade. 
+5.76 Naval units can Move, Retreat, or 
+Regroup to a hex blockaded by their 
+own units. They cannot Retreat or 
+Regroup to an enemy blockade hex. 
+5.77 Combat is not mandatory in 
+Blockade Hexes, unless the blockaded 
+player moves a naval unit into the hex. 
+Every Combat Phase either player may 
+initiate normal combat with the units 
+present and/or with new units added. 
+Blockading units pin an equal number 
+of defending units. Blockading units are 
+always the defender for naval battles, 
+but are attacking units for air and 
+ground combat.
+5.78 Blockades can be maintained but 
+not established during Monsoon, North 
+Pacific winter, or Typhoon hexes.
+5.79 The blockading player can end a 
+blockade simply by moving his units 
+away during the movement phase. If 
+supply is cut to blockading units, they 
+take a one (1) step loss in the Logistics 
+Phase as normal, but must then 
+immediately retreat to a friendly or 
+neutral adjacent hex. 
+Blockades
+Blockade hexes are unique; one player controls 
+the land, one the water. The player controlling 
+the land has ultimate control of the hex, but 
+the blockading player interdicts all enemy Sea 
+Movement and Sea Supply. 
+Since control of the land does not change 
+with a blockade, the blockaded player can 
+land aircraft in such hexes. However, these 
+Air units, unless they have Rail Supply, will be 
+unsupplied and subject to supply attrition. 
+Blockades can be deadly because they may 
+isolate a major base and thereby collapse 
+a Supply Chain. An entire fleet may find 
+itself unsupplied because one enemy cruiser 
+blockades a major base some distance away. 
+An unsupplied naval unit cannot initiate or 
+maintain a blockade.
+Submarines are particularly deadly on 
+blockade because they can move and trace 
+supply through an enemy controlled hex.
+Invasion Timing
+Units invading a vacant enemy base are 
+still creating a battle. They cannot land and 
+take control of the base until the Combat 
+Phase. Therefore, players cannot move units 
+strategically to this base until the following 
+turn.
+If Player-2 responds to an invasion battle, the 
+reinforcement does not arrive until round 2 as 
+normal. An invading unit that lands in round 1 
+can be blockaded by a Player-2 reinforcement 
+if naval control changes during rounds 2 or 3. 
+The invader might prefer to retreat in round 1 
+instead of landing and being blockaded.
+Invading ground units land between the last 
+naval unit to fire, and the first ground unit to 
+fire. The invading player may delay a landing 
+until the 2nd or 3rd Combat Round. Once a 
+landing is made, ground combat proceeds 
+normally. 
+Raids
+Raids allow a long-range attack for one 
+combat round. The target unit chosen must 
+have an equal or lower combat turn, meaning 
+a BB cannot raid a CV, but a CV can raid 
+a BB. Hence, raids are most effective with 
+higher rated units like aircraft, submarines, 
+and carriers. They can be used to bomb Japan 
+from Saipan, or mount a Japanese Carrier Raid 
+on Ceylon. 
+.
+5.8 Sea Invasions
+Sea Invasions are attacks by Marines 
+or Infantry into an enemy base via a sea 
+hexside. They cost 2sm per ground unit 
+if a base is defended, or 1sm if vacant. 
+Invasion range is two (2) hexes. Two units 
+may invade if 4sm are spent to invade, 
+or 2sm for a vacant base. Invasions are 
+declared by turning one (1) invading unit 
+face-up. Any enemy unit opposes an 
+invasion, requiring 2sm to invade. 
+Invading ground units retreat through 
+friendly or neutral hexes to any friendly 
+base within two (2) hexes, subject to 
+stacking. Retreat to an adjacent friendly 
+base via a land hexside is allowed. Units 
+that cannot retreat are eliminated. 
+Invading Marine and Naval units can 
+also retreat to any friendly or vacant sea, 
+island, or coastal hex.
+Invading units cannot land until all 
+enemy Naval units in the battle hex have 
+retreated or been eliminated. Invading 
+units may then move ashore in a landing 
+phase which occurs before any Ground 
+units fire. Invading units may postpone a 
+landing until the landing phase of rounds 
+2 or 3.
+Invading units fire in the same round 
+they land; defending ground units with the 
+same Combat Turn fire first.
+IMPORTANT: Marines and Infantry 
+conducting Sea Invasions count toward 
+stacking as naval units until they land, then 
+they count toward Ground stacking.
+5.9 Raids
+Raids cost 1sm per unit.
+A raiding unit moves up to double 
+range, then fires first on any target unit 
+of the same or lower Combat Turn. The 
+target returns fire (if it survives) and the 
+raider then retreats immediately. Raids are 
+resolved in the Combat Phase normally. 
+Raids cannot be used by either player 
+to support or reinforce a battle. 
+Raiding units cannot move over or 
+through enemy units or vacant enemy 
+bases, except for submarines. 
+A Raid cannot be a Sea Invasion.
+Raiding units must retreat to their 
+starting hex. If that hex is now enemy 
+controlled, or fully stacked, move raiding 
+units directly to the nearest friendly base 
+with a 1-Step loss.
+Regrouping after a Raid is prohibited. 
+
+6.0 WEATHER
+6.1 Monsoons
+Monsoon weather affects the JUN 
+turn in all hexes with Jungle terrain. 
+Operation movement is not affected, 
+but ground combat lasts only one (1) 
+combat round. Raids and SMs in/
+out of Monsoon hexes are prohibited. 
+Sea Invasions into Monsoon hexes are 
+allowed, but they only last two rounds.
+6.2 North Pacific
+The region north of the blue dashed 
+line is notorious for storms in winter 
+and dense fogs in late spring. In DEC 
+and MAR turns, units can enter, leave, 
+or move normally within the zone, but 
+cannot engage in combat. Raids, Sea 
+Invasions, and Strategic Movement
+in/out of the zone are prohibited. Major 
+bases cannot be built in this zone. 
+6.3 Typhoons
+There are six typhoon hexes 
+marked on the map. During each 
+SEP game turn Player-2 rolls one 
+die. The number rolled indicates the 
+center of a particularly destructive 
+typhoon. All units in the Typhoon hex 
+and in each adjacent hex are affected by 
+the storm. Units cannot move into, 
+through, or leave the zone. In the 
+Logistics Phase, units in a typhoon zone 
+cannot receive replacements. 
+7.0 LOGISTICS
+Each Game Turn ends with a 
+Logistics Phase during which Supply and 
+Replacements are determined. 
+7.1 Supply
+The supply of all units is determined 
+during the Logistics Phase. Unsupplied 
+units cannot build steps this phase and 
+are subject to one (1) step loss, except 
+All ground units at step-1 are immune to 
+supply attrition.
+IMPORTANT: Unsupplied naval units 
+do not cut enemy supply lines. 
+7.11 Supply Lines
+Units are supplied when they can 
+trace 1 or 2 friendly or neutral Sea or Rail 
+hexes to a supplied MAJOR base. That 
+base must then trace to a Home base 
+(see: 2.23) via a Supply Line. 
+A Supply Line is a chain of friendly 
+major bases, each no more than three (3) 
+hexes apart, via friendly or neutral hexes, 
+and terminating in a friendly Home Base. 
+Supply lines can be Rail and Sea hexes 
+and these may be combined. 
+IMPORTANT: Supply can be traced 
+through vacant or occupied enemy bases 
+that are friendly blockaded. 
+7.12 China Supply
+Chinese units are always in supply in 
+all bases within China. If located outside 
+China, they need a sea or rail supply line 
+to a friendly Chinese major base. 
+7.13 British Supply
+British, ANZAC, and Indian units 
+trace supply to South Africa via Batavia, 
+Bombay, Columbo, Melbourne, or Perth. 
+7.14 American Supply
+American units trace supply to any 
+U.S. Home Base via Hawaii, or to Panama 
+via Samoa, or Tahiti.
+7.15 Allied Cross-Supply
+Allied bases and units can trace 
+supply to either Panama or South Africa. 
+British units can trace to Panama to avoid 
+attrition, but rebuilding costs are doubled. 
+The same applies to USA units tracing to 
+South Africa.
+7.2 Replacements
+After the supply and attrition of units 
+is determined, players simultaneously 
+deploy replacements. Unsupplied units 
+cannot receive replacements. 
+7.21 Production Points (PP)
+Both players have a number of 
+Production Points (PPs) that vary with 
+control of economic centers on the map. 
+Players expend their PPs to build new 
+units or add steps to existing units.
+7.22 Economic Centers
+The Japanese begin the game (Dec 
+41) with economic centers worth 14pp 
+while the Allies have 46pp. Captured 
+bases do count toward PP totals but they 
+must be garrisoned or control reverts 
+back to the original owner (Dutch PPs 
+are British).Japanese PPs captured by the 
+Allies are added to the controlling USA 
+or British totals.
+Economic Centers must be in supply 
+to provide PPs. They must be able to 
+trace one or two hexes to a supplied major 
+base and then have a valid Supply Line 
+(7.11) back to a Home base (cross-supply 
+7.15 OK). Blockaded bases provide no 
+PPs unless they have Rail Supply. 
+TYPHOONS
+Named from the Chinese tai-fung, meaning 
+“great wind”, typhoons are the Pacific 
+equivalent of hurricanes. Wind speeds can 
+exceed 150 knots. There are typically 12-18 
+typhoons every season, some worse than 
+others, but all bad for local shipping. A major 
+storm 300 miles east of the Philippines sank 
+three US destroyers in Dec/44, and another 
+in Oct/45 caused great damage to the US 
+fleet moored in Okinawa (where the planned 
+invasion of Japan in Nov/45 would have been 
+assembling had the war not ended in Aug/45).
+SUPPLY CHAINS
+A major base must be supplied to function as 
+a Supply Source for units, meaning the base 
+can trace an unbroken chain of friendly major 
+bases to a Home base. Each link in the supply 
+chain can be no more than three hexes apart 
+(except for the last link to a map box. Example 
+Allied supply chains are given.
+[1] FIJI – Tahiti – Panama. 
+[2] FIJI – Samoa – Panama.
+[3] Auckland – Melbourne – South Africa. 
+[4] SAIPAN – Kwajalein – Hawaii – San 
+Diego.
+[5] MANILA – Darwin – New Caledonia – 
+Samoa – Panama. 
+[6] MANILA – Batavia – South Africa.
+EXAMPLE 1: if Samoa is occupied by the 
+Japanese, and Tahiti is also occupied (or 
+Blockaded) then supply chains [1] and 
+[2] are cut. Fiji would still be in supply 
+provided it has a supply link to South 
+Africa via Auckland and Melbourne. 
+EXAMPLE 2: Supply chain [4] requires 
+that Saipan and Kwajalein, being Japanese 
+bases, remain occupied by Allied units. 
+This means both land and sea control. A 
+Blockade is not sufficient to establish a 
+supply link, although it is sufficient to break 
+an enemy one. 
+EXAMPLE 3: Supply chains to Panama 
+[5] and South Africa [6] are shown. If the 
+Panama link is cut, Manila can still trace 
+to South Africa via Batavia. Allied units in 
+Manila can still be increased, but at double 
+cost. But if both links are cut, the Manila 
+1pp cannot be counted by the Allies, nor 
+can any steps be added to their Manila 
+units. Just blockading Manila with a 
+Jpanese CA1 gets the same result.
+
+7.23 Replacement Pool 
+Units not deployed on the map 
+are built with available PPs during the 
+Logistics Phase. Keep offboard units 
+upright to maintain fog of war for your 
+build choices. 
+NOTE: some units have a year printed 
+in their upper right. These units cannot be 
+built until the appropriate year. 
+7.24 Unit Costs
+Each unit has a cost per step as noted 
+on the Unit Data Table. Units can only be 
+built-up at friendly bases. 
+Base size limits the number of unit 
+steps (not PPs) that can be built:
+	
+Panama: 4 steps
+	
+South Africa: 3 steps
+	
+Major Base: 2 steps
+	
+Minor Base: 1 step. 
+A maximum of two (2) steps can be 
+added to any one existing unit. Building 
+a new unit to strength 1 is the first step. 
+Unspent PPs are forfeit.
+7.25 USA Forces
+American PPs are spent on supplied 
+American units, except 1pp or 2pp can go 
+to China if Dhaka is supplied and Allied. 
+New units must be built in their Home 
+bases, except new naval units must be 
+built in Panama. 
+7.26 British & Indian Forces
+Indian forces are five infantry corps. 
+British PPs are spent on any Indian units, 
+except 1pp can go to China if Rangoon 
+is supplied and Allied. New Indian units 
+must be built at a friendly supplied major 
+base in India (including Ceylon). British 
+air and naval units must be built in South 
+Africa. Steps can be added to supplied 
+units elsewhere. 
+7.27 Anzac Forces
+British PP are used for supplied 
+ANZAC units. Anzac forces are four (4) 
+infantry corps, one Royal Australian Air 
+Force (RAAF), and one Royal Australian 
+Navy (RAN) cruiser. New ANZAC infantry 
+are built at a friendly, supplied major base 
+in Australia or New Zealand. The two RAN 
+and RAAF units are built only in South 
+Africa. Steps can be added to supplied 
+units elsewhere. 
+7.28 Chinese Forces
+Chinese PPs must be spent on their 
+own units. New units must be built at a 
+friendly base in China. Steps can be added 
+to supplied units elsewhere. 
+8.0 SCENARIOS
+Players have the option to play one of 
+three scenarios:
+1941: Rising Sun	
+4 hours
+1942: High Noon	
+3 hours
+1943: Setting Sun	
+2 hours
+Each game has the same victory 
+conditions, but starts later in the war. 
+Times are for experienced players. 
+8.1 Victory Levels
+Pacific Victory is played until one 
+player gains a Decisive Victory, or until 
+completion of the Jun/45 Turn. At this 
+time, the Japanese player totals Victory 
+Points (VPs) and consults the table below: 
+	 JVPs	
+Victory Level	
+TPs
+	 25+	
+Japanese Decisive	
+	 16–24	
+Japanese Victory ('45)	
+	 13-15	
+Stalemate ('45)	
+1/1
+	 6-12	
+Allied Victory ('45)	
+	
+0-5	
+Allied Decisive	
+Victory Points are equal to supplied 
+Production Points. 
+Tourney Points (TPs) can be used to 
+compare game results.
+8.11 Decisive Victory
+The game ends immediately if a 
+player holds a Decisive Victory after any 
+Game Turn. 
+8.2 Deploying Units
+Each scenario gives the strength and 
+location of starting forces. Place units 
+in the hexes indicated, standing upright 
+at their noted strength. Hence, BB3 is a 
+Battleship at strength 3 and NA2 is a Naval 
+Air at strength 2.
+8.21 Free Deployment
+Free deployment allows players to 
+devise their own unique war-opening 
+strategies and better reflects the fog of war 
+of initial enemy deployments.
+• Deploy units per scenario.
+• Switch units as desired from base to 
+base, but keep all units at their current 
+strength, and maintain the same total 
+number of units at each deployment 
+location. 
+EXCEPTIONS: In the 1941 scenario, the 
+Allied player cannot adjust Hawaii forces 
+because anything deployed there would 
+have been sunk or damaged in the Pearl 
+Harbor raid. Similarly, the Japanese Air 
+Fleet in Truk cannot be changed. 
+EXAMPLE: Japanese Builds
+The Japanese player has 18pp and elects to 
+build two new (*) units at home, and adds six 
+steps to five existing units: 
+STEPS	
+LOCATION	
+COST
+*AF2	
+KURE (New Unit)	
+CA2	
+SINGAPORE	
+BANGKOK	
+SS2	
+RABAUL	
+CV1	
+TRUK	
+BB1	
+TRUK	
+	
+18pp
+EXAMPLE: Allied Builds
+The Allied player with American 24pp and 
+British 12pp makes the following builds: 
+STEPS	
+LOCATION	
+ COST
+*CV2	
+PANAMA (New)	
+8pp
+*CA2	
+PANAMA (New)	
+*AF2	
+SEATTLE (New)	
+SHQ1	
+HAWAII	
+HAWAII	
+IN2	
+FIJI	
+AF2	
+NEW CALEDONIA	
+CHINA	
+via DHAKA 	
+	
+USA TOTAL	
+24pp
+*BB1	
+SOUTH AFRICA (Home)	
+*IN2	
+CALCUTTA	
+*IN2	
+COLOMBO	
+RANGOON	
+IN2	
+BRISBANE	
+CA2	
+SYDNEY	
+	
+BRITISH TOTAL	
+12pp
+MERGING UNITS
+The option to merge units has been deleted 
+from the 2.5 PV rules. The new unit and base 
+building rules replace the need for merging 
+rules. 
+
+9.0 OPTIONAL RULES
+9.1 First Air Strike
+First air strike against naval units 
+can be determined randomly, modified 
+by Air strength. Both players roll two 
+dice (2d6) and add 1 for each AIR step 
+in the battle hex, including Carriers, but 
+do not include Air or Carrier steps that 
+are battle reinforcements. For example, 
+a player with AF3 and CV2 in a battle 
+rolls 2d6+5. The player with the highest 
+total discovers the enemy fleet first, and 
+gains the advantage of first strike for all 
+units having the same combat turn for the 
+entire battle. That is, if the Attacker wins 
+the Search Roll, attacking "B" units fire 
+before defending "B" units.
+NOTE: Air Search does not affect the 
+status of Defender in the hex. 
+9.2 ASW 
+Submarines become their own target 
+group. They can be attacked only by 
+Anti-Submarine Warfare (ASW) combat. 
+Allied naval units (except CV) have ASW 
+firepower of N2 and the Japanese have 
+N1. The firepowers of Air units, Carriers, 
+and Submarines are unchanged.
+9.3 Banzai
+During Ground combat the Japanese 
+player may choose to make a Banzai 
+attack with individual Infantry or Marine 
+units. The unit acquires G3 firepower for 
+one fire against a designated target unit, 
+but is then eliminated unless it eliminates 
+the target unit. 
+9.4 Fanatic Defense
+Japanese Infantry or Marines have 
+D2 defending any minor base, but cannot 
+retreat. 
+9.5 Combat Round 4
+A fourth Combat Round is played 
+which functions as a pursuit round. In 
+this round the Defender can fire, but 
+the Attacker must retreat in the normal 
+combat sequence.
+9.6 MacArthur's War
+The USA must spend at least one 
+third of their PPs in each of CPAC and 
+SWPA. The remaining third can be 
+spent as desired. This often makes for 
+some interesting table politics if the 
+two commands are handled by separate 
+players. 
+9.7 Overruns
+Players can Operationally move 
+units through pinned enemy units. 
+EXAMPLE: American units occupy 
+Midway, Wake, and Kwajalein. Japanese 
+units occupy Saipan and have two units 
+in the Sea hex between Saipan and 
+Kwajalein. The Allied player moves one 
+naval unit from Midway, and one Air unit 
+from Wake to engage the two Japanese 
+units in the Sea hex. Four naval units may 
+now move from Kwajalein through the 
+Sea hex to attack Saipan. 
+9.8 China Removed
+A shorter game can be played by 
+removing the China theater from play 
+with the following changes:
+[1] China, Tibet, Mongolia, and USSR 
+are out of play, except coastal hexes 
+are friendly to Japan and in play for 
+naval units and sea supply. 
+[2] Remove all Chinese units.
+[3] Reduce Japanese force pool by
+1x AR, 4x IN, 2x GA, and 3x AF. 
+[4] JVPs are +5vp to determine victory 
+result on the 8.1 table (reflecting the 
+historical Chinese VP held by Japan).
+9.9 Variable Ending
+By: Fred Bauer
+Commanders did not of course know 
+the exact date the Pacific War would end. 
+Starting in the first Game Turn of 1944, 
+the Japanese player rolls one die. 
+	
+Turn	
+Result	
+VP Effect
+	
+Mar44	
+–3vp
+	
+Jun44	
+1-2	
+–2vp
+	
+Sep44	
+1-3	
+–2vp
+	
+Dec44	
+1-4	
+–1vp
+	
+Mar45	
+1-5	
+–1vp
+	
+Jun45	
+No Roll	
++0vp
+EXAMPLE: If a 1, 2, or 3 is rolled to 
+start Sep44, the game ends immediately. 
+Add 3vp to the Japanese total to 
+determine victory. 
+10.0 Victory in Europe
+Victory in Europe and Pacific 
+Victory can be played simultaneously. 
+Because of scale differences, transfer 
+of actual units is not practical, but 
+Production between the two games can 
+transfer. Transfers apply each Production 
+Turn. 
+European War Events
+The noted Victory in Europe events 
+affect Production Levels in Pacific 
+Victory, starting on the next Game Turn. 
+Axis Egypt: British –1pp if Cairo is Axis 
+controlled.
+Axis Mideast Oil: If Iraq is Axis 
+controlled, reduce British by 1pp. 
+Increase to 2pp if Iran also Axis 
+controlled. 
+Axis Britain: If London is Axis 
+controlled, Britain –2pp. 
+Italy Surrender: If the Suez Canal 
+reopens, Britain +1pp.
+Russian Surrender: Japan +2pp. Harbin 
+treated as Japanese base (occupation 
+not required to maintain control).
+German Surrender: USA +3pp, Britain 
++1pp. 
+Battle of Atlantic: Britain –1pp per 
+Axis occupied Convoy Box. 
+No-Vichy: While France survives or 
+if there is no Vichy, Japanese cannot 
+deploy/enter Hanoi or Saigon. 
+Bangkok is in play as normal.
+Pacific War Events
+The following events in Pacific 
+Victory affect Victory in Europe, starting 
+on the next Game Turn.
+Japanese Decisive Victory: British 
+–2pp and USA –2pp, each Production. 
+Allied Decisive Victory: British +2pp 
+and USA +4pp, each Production.
+
+JAPAN: 14pp
+Tokyo (4): IJA4, IN3, AF1, BB3 Ise. 
+Kure (6): IJN4, IN2, MA2 Kure, NA2,
+BB3 Nagato, BB1 Yamato.
+Hakodate (2): IN1, MA1 Maizura. 
+Seoul (1): GA2.
+Harbin (2): GA2, AF1.
+Peking (2): IN3, GA2. 
+Shanghai (3): IN3, AR3, AF3.
+Canton (3): IN3, IN3, AF2.
+Formosa (5): IN2, IN1, AF2, SS2, CA2. 
+Hanoi (3): IN3, NA3, CA3.
+Saigon (4): IN2, NA3, 
+BB2 Fuso, CA3.
+Bangkok: IN2, AF2. 
+Palau (4): GA1, MA1 Sasebo, 
+CV1 Soryu, CA2. 
+Truk (6): IN2, IN1. 
+Airfleet: CV3 Akagi, CV3 Shokaku,
+BB2 Kongo, CA3. See: Special Rule #1.
+Saipan (2): GA2, SS3.
+Kwajalein (5): NA2, MA2 Yokosuka, 
+GA1, SS3, CA2. 
+Special Rules
+Air Fleet
+The game starts assuming the Japanese 
+airstrike on Pearl Harbor has occurred. 
+The Air Fleet (four units) that made the 
+attack is deployed in Truk, but cannot 
+move in the opening turn. 
+Philippine Army
+The IN1 in Manila represents the 
+American-Philippine Army. It cannot be 
+withdrawn from this hex; other units can 
+flee the islands once the war starts. If 
+eliminated, the infantry may be rebuilt in 
+a USA Home base and SHQ MacArthur in 
+any friendly major base in Australia. 
+Surprise Attack
+The Japanese player is always Player-1 in 
+the first turn, and the Allies do NOT have 
+Double Defense for all battles that turn, 
+except for China. 
+ALLIES: 46pp
+UNITED STATES: 25pp
+Anchorage (2): IN1, AF1.
+Seattle (1): AF2.
+San Francisco (2): IN2, AF1. 
+San Diego (3): IN1, SS1, CV1 Lexington.
+Panama (2): MA1, BB3 New Mexico, 
+CA2. 
+Hawaii (5): SHQ1 Nimitz, IN2,
+BB1 Tennessee, AF2, CA3. 
+Midway (2): AF1, SS2.
+Johnston Is. (2): CV2 Enterprise, CA4. 
+Samoa (1): CA1.
+Manila (4): SHQ1 MacArthur, IN1, AF2, 
+SS2.
+Davao (1): CA1.
+Borneo (1): SS1.
+BRITISH EMPIRE: 17pp
+South Africa (1): CV1 Illustrious.
+Bombay (1): IN1.
+Columbo (2): IN1, CA2.
+Calcutta (2): SHQ1 Wavell, IN2.
+Rangoon1 (1): IN2.
+Singapore (3): IN2, RAF1,
+BB2 King George V. 
+Sydney (2): IN2 (anz), RAAF1.
+Brisbane (2): IN1 (anz), CA2 ran. 
+Darwin (1): IN1 (anz). 
+Port Moresby (1): IN1 (anz). 
+Chungking (4): SHQ2, IN4, IN4, AF3. 
+1 Britain and the USA may transfer pp to 
+China if Rangoon is Allied and supplied. 
+NOTE: Ship names are classes, not 
+individual ships. Cruiser classes are not 
+given starting locations. 
+DEC/41: Rising Sun
+1941
+2/8s
+4/5s
+6/11s
+10/16s
+3/7s
+3/4s
+3/8s
+6/15s
+8/17s
+1/3s
+1/1s
+14/31s
+19/36s
+7/11s
+55/121s
+52/91s
+OPTIONAL DEPLOYMENTS
+Pearl Harbor Airstrike
+Pearl Harbor is a difficult event to simulate 
+in a grand strategic game. It can be replayed 
+before the game begins as a suprise RAID 
+(5.9) by two Japanese carriers against a 
+defending Pearl Harbor force of AF3, SS2, 
+BB4, BB4, CA3, and IN2:
+• Japanese carriers (CV3, CV3) fire first at 
+N3 with double dice (12) to reflect surprise. 
+Losses are applied to targeted BBs. 
+• Surviving US BBs are the only Allied 
+units that can fire, doing so with their 
+"Air" firepower. Hits are applied only to 
+Japanese CVs (representing lost aircraft).
+• There is only one combat round. The 
+Japanese Air Fleet then retires to Truk and 
+cannot move on Dec/41 turn. 
+Star-Spangled Singapore
+During Lend-Lease negotiations in 1940 
+Churchill offered Singapore as a base to the 
+US Pacific Fleet. The offer was intended to 
+discourage Japanese aggression or, if that 
+failed, to ensure America would be directly 
+involved in the war. The offer, although 
+attractive, was rejected because it might 
+embroil America in colonial politics. However, 
+on the assumption that the offer is accepted, 
+the American player may deploy up to three 
+naval units at Singapore. One of these can be 
+BB4 Tennessee from Hawaii since it and other 
+BBs would have escaped the Pearl Harbor 
+attack. 
+
+JUN/42: High Noon
+Allied Commands
+The Pacific is divided into two USA 
+commands: CPAC (Central Pacific 
+Area) commanded by Admiral Nimitz, 
+and SWPA (Southwest Pacific Area) 
+commanded by General MacArthur. 
+Britain's General Wavell commanded 
+SEAC (South East Asia Command) 
+covering India, Burma, Siam, and Malaya. 
+Mountbatten replaced Wavell in October 
+1943. 
+Allied SHQs command all units in their 
+theater. Hence, if naval units move into 
+SWPA from CPAC, they are commanded 
+by MacArthur. 
+1942
+2/8s
+4/8s
+6/14s
+10/18s
+4/7s
+4/8s
+6/15s
+8/20s
+1/3s
+2/2s
+14/35s
+21/44s
+10/14s
+60/131s
+55/114s
+JAPAN: 21pp
+Tokyo (7): IJA4, IN3, AF2,
+BB3 Ise, BB3 Nagato, BB1 Yamato, CA3.
+Kure (6): IJN4, IN2, NA2, CV3 Akagi, 
+CV1 Shokaku, BB2 Kongo, CA2.
+Hakodate (1): IN1. 
+Seoul (1): GA2.
+Harbin (2): GA2, AF2.
+Peking (2): IN3, GA2. 
+Shanghai (3): IN4, AR3, AF3.
+Canton (3): IN4, IN3, AF2.
+Kuriles (3): MA1 Maizura,
+CV1 Hiyo, CA2. 
+Formosa (1): IN2.
+Manila (2): IN2, AF2.
+Davao (2): CV2 Soryu, NA2.
+Palau (1): GA1.
+Hanoi (1): IN3.
+Bangkok (1): AF3.
+Rangoon1 (1): IN2.
+Andamans (1): BB2 Fuso (blockade).
+Singapore (1): GA1.
+Palembang (1): MA1 Sasebo.
+Batavia (1): IN2.
+Borneo (1): IN2.
+Timor (1): CA2 (blockade).
+Manokwari (1): CA3 (blockade).
+Hollandia (1): SS2.
+Lae (1): MA2 Kure.
+Rabaul (5): IN2, NA2, SS2, CA3,
+Major Base.
+Saipan (2): GA2, SS3.
+Guam (1): GA1.
+Truk (2): GA1.
+Kwajalein (3): GA1, NA2, SS3. 
+Wake (1): MA2 Yokosuka.
+1 British may not transfer pp to China 
+because Rangoon is Japanese. 
+ALLIES: 35PP
+UNITED STATES: 24pp
+Anchorage (2): IN2, AF2.
+Seattle (3): AF1, BB2 Tennessee, CA2.
+San Francisco (1): IN1
+San Diego (2): CV2 Lexington, CA2. 
+Panama (2): MA1, BB2 South Dakota.
+Hawaii (6): SHQ3 Nimitz, IN3, AF3, 
+BB3 New Mexico, CV3 Enterprise, CA4.
+Midway (2): AF1, SS3. 
+Samoa (1): IN1.
+Fiji (2): MA1, CA2.
+New Hebrides (1): AF1.
+New Caledonia (2): IN1, CA3.
+Brisbane (4): SHQ2 MacArthur,
+IN2, IN1 (anz), SS1.
+Townsville (1): AF1.
+Perth (1): SS2.
+BRITISH EMPIRE: 11pp
+South Africa (2): CV1 Illustrious, 
+BB1 King George V.
+Bombay (1): IN2.
+Columbo (2): IN3, CA3 Swiftsure
+Madras (2): IN1, RAF2.
+Calcutta (2): SHQ3 Wavell, IN3.
+Dhaka2 (1): IN2.
+Darwin (1): IN2 (anz).
+Sydney (3): IN2 (anz), RAAF2,
+CA2 (ran). 
+Port Moresby (1): IN2 (anz).
+Chungking (4): SHQ2, IN3, IN3, AF3. 
+Chengdu (2): IN2.
+2 USA may transfer pp to China if 
+Dhaka is Allied and supplied.
+
+JUN/43: Setting Sun
+1943
+2/5s
+4/11s
+6/13s
+9/20s
+2/4s
+5/9s
+4/7s
+4/11s
+5/9s
+6/13s
+8/19s
+1/2s
+2/4s
+15/40s
+20/44s
+12/18s
+61/127s
+57/129s
+SPECIAL RULES
+Allied Submarines
+Beginning in SEP/43, all Allied 
+submarines have N2 firepower to reflect 
+their improved torpedoes. 
+Kamikaze
+Starting this scenario the Japanese player 
+has the option to declare, at the start of 
+any battle, that one or more Naval Air 
+unit(s) in this battle will be Kamikaze. 
+Each Kamikaze has N4 firepower and 
+targets one (1) Allied naval unit, fires, 
+then self destructs. All hits apply to the 
+target unit; surplus hits are forfeit. The 
+decision to become Kamikaze cannot be 
+changed. Kamikaze units can never be 
+rebuilt.
+JAPAN: 21pp
+Tokyo (5): IJA3, AF2, IN3, 
+BB2 Yamato, CA2. 
+Hakodate (1): GA1.
+Kure (6): IJN2, GA2, CV2 Hiyo,
+BB3 Ise, BB1 Nagato, CA3.
+Seoul (1) GA2.
+Harbin (2) GA2, AF2.
+Peking (2) IN3, GA2. 
+Shanghai (3) IN3, AR2, AF3.
+Canton (3) IN3, IN3, AF2.
+Hanoi (1): IN3.
+Kuriles (1): GA1.
+Formosa (1): IN2.
+Manila (1): IN2.
+Davao (1): IN1.
+Rangoon1 (1): IN3.
+Bangkok (1): AF2.
+Singapore (4): IN2, CV2 Soryu, 
+BB2 Fuso, CA2.
+Andamans (1): GA1.
+Palembang (1): GA1.
+Batavia (1): GA2.
+Borneo (1): GA1.
+Timor (1): NA2.
+Manokwari (1): IN2. 
+Hollandia (1): AF2. 
+Lae (1): IN3.
+Rabaul (5): IN4, NA3, SS2, CA2, Major 
+Base. 
+Guam (1): MA2 Kure.
+Saipan (1): GA2, SS1.
+Wake (2): MA2 Yokosuka, SS2.
+Truk (4): IN3, NA3, BB1 Kongo, CA2. 
+Kwajalein (4): MA1 Maizura, NA2, CA2, 
+SS2.
+Tarawa (1): MA1 Sasebo.
+1 British may not transfer pp to China 
+because Rangoon is Japanese. 
+ALLIES: 35pp
+UNITED STATES: 24pp
+Anchorage (1): AF2. 
+Attu (2): IN2, CA2. 
+Seattle (2): AF2, BB3 Tennessee.
+San Francisco (1): IN2. 
+San Diego (2): CV2 Lexington, CA2. 
+Panama (4): CV2 Essex,
+CV1 Hornet, BB1 Iowa, CA3.
+Hawaii (7): SHQ4 Nimitz, IN3, AF2, CV2 
+Enterprise, BB2 New Mexico, CA3, SS3.
+Midway (1): SS3.
+Samoa (1): MA2.
+Fiji (1): MA2.
+New Hebrides (1): AF3. 
+New Caledonia (3): IN1, CA3,
+BB2 South Dakota.
+Guadalcanal (1): IN2. 
+Brisbane (2): IN2 (ANZ), SS2. 
+Port Moresby (4): SHQ3 MacArthur, IN3 
+(ANZ), IN2, AF3.
+Perth (1): SS3. 
+British Empire: 11pp
+South Africa (3): CV2 Illustrious, 
+BB3 King George V, CA3. 
+Bombay (1): IN1.
+Columbo (2): IN1, RAF2.
+Madras (1): IN2.
+Calcutta (2): SHQ2 Wavell, IN3. 
+Dhaka2 (1): IN3 
+Darwin (2): IN1 (ANZ), RAAF2. 
+Sydney (1): CA1 (ran).
+Chungking (4): SHQ2, IN3, IN3, AF2. 
+Chengdu (2): IN2.
+2 USA may transfer pp to China if Dhaka 
+is Allied and supplied.
+
+Air Units, 3.1
+AF: Army Air, 3.12
+NA: Naval Air, 3.11
+Air Movement, 4.61,
+Air Stacking, 4.62
+Air Combat, 5.42
+Combat Air Patrol (CAP), 4.63
+ANZAC:
+Australia & New Zealand
+Anzac Replacements, 7.27
+AR: Armor, 3.32
+ASW, 9.2
+Banzai, 9.3
+Bases, 2.2
+Base Control, 4.41
+Building Major Bases, 3.34
+Home Bases, 2.23
+Battle Hexes, 5.1
+BB: Battleships, 3.23
+British Forces, 7.26
+CA: Cruisers, 3.24
+China
+Chinese Replacements, 7.28
+China Removed, 9.8
+Combat, 5.0
+Combat Rounds, 5.31, 9.5
+Combat Stacking, 5.11
+Combat Turns, 5.21
+Combat Value (CV), 5.31
+Double Defense (D2), 5.46
+Firepower, 5.32
+Firing Units, 5.3 
+Target Groups, 5.4, 5.41
+Combat Phase, 1.4
+CV: Carriers, 3.21
+Firepower, 5.32
+Flak, 5.43
+GA: Garrisons, 3.32
+Ground Units, 3.3
+Movement & Stacking, 4.81
+Headquarters, 3.31
+Hex Control, 4.4
+Hexside Limits, 4.3
+Hits, 5.32, 5.45
+India
+India Replacements, 7.26
+IN: Infantry, 3.32
+Initiative, 1.1
+Jungle, 2.1
+Kamikaze, 1943 Scenario
+Logistics, 1.5, 7.0
+MacArthur 9.6, 1941 Scenario
+Map Boxes, 2.3, 7.12
+Marines, 3.33
+Movement, 4.82
+Stacking, 4.82
+Marine Air, 5.43
+Monsoons, 6.1
+Movement, 4.0
+Air Movement, 4.6
+Ground Movement, 4.7
+Naval Movement, 4.7
+Strategic Movement, 4.12
+Naval Units, 3.2
+Blockade, 5.7
+Movement & Stacking, 4.7
+Neutral Hexes, 4.4
+North Pacific, 6.2
+Overruns, 9.7
+Pearl Harbor, 1941 Scenario
+Player-1, 1.2, 1941 Scenario
+Player-2, 1.3
+Production, 7.0
+Economic Centers, 7.22
+PP: Production Points, 7.21
+Replacements, 7.2
+Unit Costs, 7.24
+Raids, 5.9
+Rail Lines, 2.4
+Rail Supply, 7.13
+Rebase Movement, 4.11
+Retreats, 5.5
+Replacements, 7.2
+Replacement Pool, 7.23
+Scenarios, 8.0
+Deploying Units, 8.2
+SHQ: Strategic HQs, 3.31
+Strategic Moves, 4.12
+Raids, 5.9
+SM: Strategic Movement, 4.12
+Stacking Limits, 4.2
+SS: Submarines, 3.22, 
+ASW Combat, 9.2
+US Torpedoes (1943 Scenario)
+Supply, 7.1
+Allied Supply, 7.15
+Cross-Supply, 2.3, 7.15
+Supply Sources, 7.11
+Target Groups, 5.4
+Terrain, 2.1
+Typhoons, 6.3
+Unit Costs, 7.24
+Victory Conditions, 8.1, 9.9
+Weather, 6.0
+Index	
+DESIGN CREDITS
+	 Game Design:	 Tom Dalgliesh
+	
+Developers:	 Grant Dalgliesh
+	
+	 Cal Stengel
+	
+Playtesters:	 Leonard Coufal
+	
+	 Mark Kwasny	
+	
+	
+	 Brian Weese
+	
+	 Ellis Werchan
+	
+Contributors:	 Fred Bauer
+	
+	 Charles F. Bryant, II
+	
+	 Jim Eisert
+	
+	 Jamie Roberts
+	
+Art:	 Eric Hotz (cover)
+	
+	 Tom Dalgliesh (map)
+	
+	 Chris Moeller (units)
+
+	
+	
+Naval Air
+	
+	
+Army Air
+	
+	
+Carrier
+	
+	
+Submarine
+	
+	
+Battleship
+	
+	
+Cruiser
+Landing Phase: invader may land if 
+there are no opposing naval units.
+	
+AR Armor	
+1-1-3	
+	
+(Japan Only)
+	
+MA US Marines	2	
+	
+MA SNLF	
+	
+IN Infantry	
+	
+GA Garrison	
+	
+Varies	
+	
+Headquarters
+PLAY CHARTS
+COLUMBIA GAMES, INC
+POB 1600, Blaine WA 98230
+www.columbiagames.com
+© 2018, Columbia Games Inc. 
+SEQUENCE OF PLAY
+[1] Initiative
+Determine Initiative with 2d6 roll. Highest 
+total has the option to play first or second. 
+Allies win ties.
+[2] Player 1 Move
+Make Operation (4.11), or Strategic (4.12) 
+moves as desired. Strategic moves require 
+activation of an SHQ. 
+[3] Player 2 Move
+Repeat step [2] except pinned units cannot 
+move. Moves that reinforce a pending battle 
+arrive in Combat Round 2.
+[4] Resolve Combat
+Resolve all battles in sequence determined 
+by Player 1. See Combat Sequence. 
+[5] LOGISTICS (Simultaneous)
+• Determine Supply. Unsupplied units lose 1 
+step, except ground units at Step-1 are immune 
+to supply attrition.
+• Determine Production (PPs). American and 
+British PPs are counted and spent separately.
+• New units are built in Home Bases. Steps can 
+only be added to existing units in supplied 
+bases. Maximum 1 step per minor base, and 2 
+steps (same or different units) per major base. 
+	 Base	
+Air	
+Naval	 Ground2
+	 Minor	
+	 Major	
+	 Sea	
+1 Air unit flying CAP or attacking. 
+2 SHQs do not count for stacking.
+3 Marine and infantry units making a Sea 
+Invasion count for naval stacking and take 
+hits as naval units until they land. Marines 
+can remain at sea indefinitely.
+STACKING CHART
+B-25
+ 
+I-boat
+ 
+ 
+ 
+1-1-3
+AIR
+NAVAL
+GROUND
+	
+UNIT	
+MOVE	 COMBAT	 STEP
+	
+	
+	
+A–N–G	
+Cost
+NOTE: Firepowers vary for some units from the values 
+listed above. Check the unit when firing.
+UNIT DATA
+ 
+ 
+Nimitz
+CPAC

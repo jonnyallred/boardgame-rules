@@ -5679,3 +5679,813 @@ games:
   bgg_id: 29146
   status: not_found
   notes: Traditional game, rules on web but no PDF
+- name: Okiya
+  bgg_id: 125311
+  status: summarized
+  notes: PDF from Blue Orange Games, full rules extracted and summarized
+- name: Oktaeder
+  bgg_id: 36910
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: The Old King's Crown
+  bgg_id: 357873
+  status: not_found
+  notes: Rulebook exists on BGG but requires authentication to download
+- name: Oltre Mare
+  bgg_id: 13551
+  status: summarized
+  notes: Rules sourced from UltraBoardGames web page
+- name: Olympica
+  bgg_id: 1598
+  status: not_found
+  notes: Internet Archive has Metagaming collection but no direct accessible PDF
+- name: Olympos
+  bgg_id: 92319
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: The Omega Virus
+  bgg_id: 3086
+  status: summarized
+  notes: PDF from Hasbro, image-based PDF read visually
+- name: 'Omen: A Reign of War'
+  bgg_id: 94104
+  status: summarized
+  notes: PDF from gamers-hq.de, full rules extracted and summarized
+- name: On Mars
+  bgg_id: 184267
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: On the Dot
+  bgg_id: 22465
+  status: summarized
+  notes: PDF from fgbradleys.com, full rules extracted and summarized
+- name: On the Road to Abha
+  bgg_id: 16156
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: One False Step for Mankind
+  bgg_id: 7310
+  status: not_found
+  notes: PDF found is box cover only, not actual rules
+- name: Onitama
+  bgg_id: 160477
+  status: summarized
+  notes: PDF from Arcane Wonders, full rules extracted and summarized
+- name: Onward
+  bgg_id: 431929
+  status: summarized
+  notes: PDF from pvpgeeks.com, full rules extracted and summarized
+- name: Operation Greif
+  bgg_id: 9752
+  status: not_found
+  notes: No standalone rulebook PDF found; requires Battle of the Bulge base game
+- name: Operation Pegasus
+  bgg_id: 3617
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Operation
+  bgg_id: 3737
+  status: summarized
+  notes: PDF from Hasbro, image-based PDF read visually
+- name: Oppression
+  bgg_id: 26231
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Ora et Labora
+  bgg_id: 70149
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: Orbit, a Brain Game
+  bgg_id: 30011
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Orchard
+  bgg_id: 5770
+  status: summarized
+  notes: PDF from tesera.ru, full rules extracted and summarized
+- name: The Oregon Trail Card Game
+  bgg_id: 721
+  status: summarized
+  notes: PDF from Buffalo Library, full rules extracted and summarized
+- name: Oregon
+  bgg_id: 31497
+  status: summarized
+  notes: Rules sourced from UltraBoardGames web page
+- name: Orient Express
+  bgg_id: 2363
+  status: summarized
+  notes: PDF from reglur.spilavinir.is, full rules extracted and summarized
+- name: 'Oriflamme: Ablaze'
+  bgg_id: 313261
+  status: summarized
+  notes: PDF from gamers-hq.de, full rules extracted and summarized
+- name: 'Oriflamme: Alliance'
+  bgg_id: 352981
+  status: summarized
+  notes: Uses base Oriflamme rules system with new cards
+- name: Oriflamme
+  bgg_id: 287084
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: Origin
+  bgg_id: 127095
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: Origins of World War II
+  bgg_id: 2975
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Origo
+  bgg_id: 27380
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: "Orl\xE9ans"
+  bgg_id: 164928
+  status: queued
+- name: Ostrakon
+  bgg_id: 9801
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Ouk Chatrang
+  bgg_id: 5374
+  status: summarized
+  notes: Rules sourced from pychess.org variant rules page
+- name: Oust
+  bgg_id: 30936
+  status: summarized
+  notes: Rules sourced from mindsports.nl rules page
+- name: Outburst!
+  bgg_id: 4862
+  status: summarized
+  notes: PDF from Hasbro, image-based PDF read visually
+- name: Outdoor Survival
+  bgg_id: 1511
+  status: summarized
+  notes: PDF from 4pcdn.org, full rules extracted and summarized
+- name: Outfoxed!
+  bgg_id: 172931
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, image-based PDF read visually
+- name: Outrage!
+  bgg_id: 1147
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Outreach
+  bgg_id: 3663
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Overlord
+  bgg_id: 5277
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Pacific Typhoon
+  bgg_id: 20079
+  status: summarized
+  notes: PDF from GMT Games, full rules extracted and summarized
+- name: 'Pacific Victory: War in the Pacific 1941-45'
+  bgg_id: 912
+  status: summarized
+  notes: PDF from Columbia Games, full rules extracted and summarized
+- name: Pack & Stack
+  bgg_id: 37120
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Pack of Flies
+  bgg_id: 6090
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Paco Sako
+  bgg_id: 232974
+  status: summarized
+  notes: Rules sourced from multiple web sources including chessvariants.com
+- name: Pah Tum
+  bgg_id: 28128
+  status: summarized
+  notes: PDF from superdupergames.org, full rules extracted and summarized
+- name: Pairs
+  bgg_id: 152237
+  status: summarized
+  notes: PDF companion book from rebel.pl, full rules extracted and summarized
+- name: Paladins of the West Kingdom
+  bgg_id: 266810
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: Paleo
+  bgg_id: 300531
+  status: summarized
+  notes: PDF from cdn.1j1ju.com, full rules extracted and summarized
+- name: 'Pandemic Legacy: Season 0'
+  bgg_id: 314040
+  status: summarized
+  notes: PDF from Asmodee/Z-Man Games, rules extracted and summarized
+- name: 'Pandemic Legacy: Season 1'
+  bgg_id: 161936
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: 'Pandemic Legacy: Season 2'
+  bgg_id: 221107
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Panic Tower!
+  bgg_id: 58565
+  status: not_found
+  notes: PDF link was a store webpage, not actual rulebook; no English rules PDF found
+    online
+- name: Pank-a-Squith
+  bgg_id: 14249
+  status: not_found
+  notes: Historical 1909 suffragette board game; museum scans available but no standard
+    rulebook PDF
+- name: Panzer Armee Afrika
+  bgg_id: 5035
+  status: not_found
+  notes: Rules only available on Scribd (login-gated); no freely downloadable PDF
+    found
+- name: Panzer Command
+  bgg_id: 2072
+  status: not_found
+  notes: No freely downloadable PDF rulebook found online
+- name: Panzer Leader
+  bgg_id: 2639
+  status: summarized
+  notes: PDF from imaginative-strategist.layfigures.com
+- name: Panzer Warfare
+  bgg_id: 41789
+  status: not_found
+  notes: No rulebook PDF found; search results returned only related Panzer-series
+    games
+- name: PanzerBlitz
+  bgg_id: 2238
+  status: summarized
+  notes: PDF from imaginative-strategist.layfigures.com
+- name: Panzergruppe Guderian
+  bgg_id: 3041
+  status: not_found
+  notes: Rules available on BGG file page but not directly downloadable without login
+- name: "Panzerkrieg: von Manstein & HeeresGruppe S\xFCd"
+  bgg_id: 753
+  status: queued
+- name: Parade
+  bgg_id: 56692
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Park and Shop
+  bgg_id: 4866
+  status: not_found
+  notes: No PDF rulebook found; rules available only as web text on fan sites
+- name: PARKS
+  bgg_id: 266524
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: 'Parthenon: Rise of the Aegean'
+  bgg_id: 18243
+  status: not_found
+  notes: Rulebook only on BGG file page (login-gated)
+- name: Pass the Bomb
+  bgg_id: 137
+  status: not_found
+  notes: No freely downloadable PDF; rules available only on Scribd and web text sites
+- name: Patchwork
+  bgg_id: 163412
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Paths of Glory
+  bgg_id: 91
+  status: summarized
+  notes: PDF from GMT Games official site
+- name: Patrol
+  bgg_id: 8037
+  status: not_found
+  notes: SPI game from 1974; no PDF rulebook found online
+- name: Patton's Best
+  bgg_id: 4556
+  status: not_found
+  notes: Rules only on Scribd and BGG file page (login-gated)
+- name: Patzam
+  bgg_id: 64829
+  status: not_found
+  notes: Obscure game; no rulebook PDF found
+- name: Pax Romana
+  bgg_id: 17393
+  status: summarized
+  notes: PDF from GMT Games official site
+- name: Pay Day
+  bgg_id: 1797
+  status: summarized
+  notes: PDF from winning-moves.com; image-based PDF read via OCR
+- name: Paydirt
+  bgg_id: 1498
+  status: not_found
+  notes: Rules only on BGG file page (login-gated)
+- name: Peek-a-Mouse
+  bgg_id: 319754
+  status: summarized
+  notes: PDF from 1j1ju.com; image-based PDF read via OCR
+- name: Peg Solitaire
+  bgg_id: 13713
+  status: summarized
+  notes: Traditional game; rules written from web research and academic PDFs
+- name: Pegity
+  bgg_id: 6247
+  status: summarized
+  notes: PDF from hasbro.com; image-based PDF read via OCR
+- name: Pelican Cove
+  bgg_id: 90870
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Pendulum
+  bgg_id: 312804
+  status: summarized
+  notes: PDF from boardgame.bg
+- name: Pentago
+  bgg_id: 19841
+  status: summarized
+  notes: PDF from fgbradleys.com
+- name: Pente
+  bgg_id: 1295
+  status: summarized
+  notes: PDF from winning-moves.com
+- name: Pentominoes
+  bgg_id: 154934
+  status: summarized
+  notes: Traditional puzzle game; rules written from web research
+- name: Perfect Words
+  bgg_id: 393352
+  status: summarized
+  notes: PDF from tikieditions.com
+- name: Perfection
+  bgg_id: 5588
+  status: summarized
+  notes: PDF from hasbro.com; image-based PDF read via OCR
+- name: Personal Preference
+  bgg_id: 4881
+  status: summarized
+  notes: PDF from magisterrex.wordpress.com; image-based PDF read via OCR
+- name: Pete the Pirate
+  bgg_id: 916
+  status: not_found
+  notes: HABA children's game; no English PDF rulebook found online
+- name: Phantom of Old Prague
+  bgg_id: 54707
+  status: not_found
+  notes: Czech game (Fantom Stare Prahy); no English PDF rulebook found
+- name: 'Phoenix: New Horizon'
+  bgg_id: 419704
+  status: not_found
+  notes: Rulebook only on BGG file page (login-gated)
+- name: Photosynthesis
+  bgg_id: 218603
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Phutball
+  bgg_id: 25433
+  status: summarized
+  notes: Abstract game from Winning Ways; rules written from web research
+- name: Pick & Pack
+  bgg_id: 26235
+  status: summarized
+  notes: PDF from piatnik.com
+- name: Pickett's Charge
+  bgg_id: 4290
+  status: not_found
+  notes: Only available as paid PDF from Too Fat Lardies publisher
+- name: Pickomino
+  bgg_id: 15818
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Pictionary
+  bgg_id: 2281
+  status: summarized
+  notes: PDF from hasbro.com; image-based PDF read via OCR
+- name: Pictureka!
+  bgg_id: 22889
+  status: summarized
+  notes: PDF from winning-moves.com
+- name: Pictures
+  bgg_id: 284108
+  status: summarized
+  notes: PDF from 1j1ju.com; image-based PDF read via OCR
+- name: Piece o' Cake
+  bgg_id: 37371
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Piepmatz
+  bgg_id: 10510
+  status: summarized
+  notes: PDF from 1j1ju.com
+- name: Pig
+  bgg_id: 11022
+  status: summarized
+  notes: PDF from fgbradleys.com; image-based PDF read via OCR
+- name: 'Pimp: The Backhanding'
+  bgg_id: 15064
+  status: not_found
+  notes: Rules only available on Scribd (login-gated); no freely downloadable PDF
+- name: Pin Pon!
+  bgg_id: 355947
+  status: not_found
+  notes: Djeco PDF URL returned 404 page; no English rulebook PDF available online
+- name: Ping Win
+  bgg_id: 17315
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Pioneers
+  bgg_id: 232520
+  status: summarized
+  notes: PDF from Queen Games rules site
+- name: Piou Piou
+  bgg_id: 67823
+  status: summarized
+  notes: PDF from varistoys.lv (multilingual including English)
+- name: Pipeline
+  bgg_id: 2946
+  status: not_found
+  notes: Old Mayfair game; no free rules PDF found (Capstone Pipeline is a different
+    BGG entry)
+- name: Piranha Pedro
+  bgg_id: 14035
+  status: summarized
+  notes: PDF from world-of-board-games.com.sg; image-based PDF read visually
+- name: Pirate and Traveler
+  bgg_id: 2326
+  status: summarized
+  notes: PDF from Hasbro; image-based PDF read visually
+- name: Pirate's Cove
+  bgg_id: 2987
+  status: summarized
+  notes: PDF from Days of Wonder official site
+- name: Pixel
+  bgg_id: 28050
+  status: not_found
+  notes: Obscure abstract game; no rulebook PDF found
+- name: Pixie Queen
+  bgg_id: 200890
+  status: summarized
+  notes: PDF from tesera.ru (Game Brewer rulebook)
+- name: Pizza Box Football
+  bgg_id: 17851
+  status: summarized
+  notes: PDF from official pizzaboxfootball.com
+- name: Pizza Theory
+  bgg_id: 99808
+  status: summarized
+  notes: PDF from world-of-board-games.com.sg
+- name: Plague!
+  bgg_id: 2784
+  status: not_found
+  notes: No English rulebook PDF found; search results only returned Plague Inc. (different
+    game)
+- name: Planet Steam
+  bgg_id: 23094
+  status: summarized
+  notes: PDF from Fantasy Flight Games
+- name: Plateau
+  bgg_id: 1890
+  status: not_found
+  notes: No downloadable rulebook PDF found
+- name: Platoon
+  bgg_id: 2812
+  status: not_found
+  notes: Avalon Hill game; no free PDF rules found online
+- name: Playing Gods
+  bgg_id: 37175
+  status: not_found
+  notes: No rulebook PDF found online
+- name: Pluckin' Pairs
+  bgg_id: 121041
+  status: summarized
+  notes: PDF from cdn.1j1ju.com
+- name: Pocket Dungeon
+  bgg_id: 42361
+  status: not_found
+  notes: PnP game; rules only on Scribd (requires login)
+- name: Pocket Pro Golf
+  bgg_id: 75809
+  status: not_found
+  notes: Rules on BGG files only (requires login to download)
+- name: Poison
+  bgg_id: 17025
+  status: summarized
+  notes: PDF from spilavinir.is
+- name: Polarity
+  bgg_id: 380
+  status: summarized
+  notes: PDF from tesera.ru
+- name: Pole Position
+  bgg_id: 7993
+  status: summarized
+  notes: PDF from fgbradleys.com; image-based PDF read visually
+- name: 'Polis: Fight for the Hegemony'
+  bgg_id: 69779
+  status: summarized
+  notes: PDF from tesera.ru
+- name: Ponte del Diavolo
+  bgg_id: 27172
+  status: summarized
+  notes: PDF from tesera.ru
+- name: Pony Express
+  bgg_id: 42490
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; image-based PDF read visually
+- name: Popkult
+  bgg_id: 122970
+  status: not_found
+  notes: German trivia game; no English rulebook PDF found
+- name: Portobello Market
+  bgg_id: 27356
+  status: not_found
+  notes: Rules only on BGG/Scribd (require login)
+- name: 'Posse: Thirteen Against One'
+  bgg_id: 23427
+  status: not_found
+  notes: Vintage Milton Bradley game; no rules PDF found
+- name: Post and Pair
+  bgg_id: 63370
+  status: not_found
+  notes: Historical card game; no formal rulebook PDF exists
+- name: Potion Explosion
+  bgg_id: 180974
+  status: summarized
+  notes: PDF from cdn.1j1ju.com
+- name: Power Barons
+  bgg_id: 535
+  status: summarized
+  notes: PDF from Hasbro; image-based PDF read visually
+- name: 'Power Grid: Factory Manager'
+  bgg_id: 44163
+  status: summarized
+  notes: PDF from Rio Grande Games
+- name: Power Grid
+  bgg_id: 2651
+  status: summarized
+  notes: PDF from tesera.ru (Rio Grande Games rules)
+- name: 'Power Projection: Escort'
+  bgg_id: 27325
+  status: not_found
+  notes: Commercial wargame; rules PDF only available for purchase
+- name: 'Power Projection: Fleet'
+  bgg_id: 27324
+  status: not_found
+  notes: Commercial wargame; rules PDF only available for purchase
+- name: Powerboats
+  bgg_id: 38531
+  status: summarized
+  notes: PDF from official Cwali website
+- name: Powerline
+  bgg_id: 367295
+  status: summarized
+  notes: PDF from Queen Games rules site
+- name: 'Pox: Save the People'
+  bgg_id: 103460
+  status: not_found
+  notes: Educational game; no downloadable rulebook PDF found
+- name: "Pr\xE9sages"
+  bgg_id: 428787
+  status: queued
+- name: Pretty Pretty Princess
+  bgg_id: 6549
+  status: summarized
+  notes: PDF from Winning Moves; image-based PDF read visually
+- name: Prime Climb
+  bgg_id: 159375
+  status: summarized
+  notes: PDF from Math for Love official site
+- name: Primordial Soup
+  bgg_id: 124
+  status: summarized
+  notes: PDF from svet-deskovych-her.cz
+- name: The Princes of Florence
+  bgg_id: 555
+  status: summarized
+  notes: PDF from Rio Grande Games
+- name: Privacy
+  bgg_id: 9354
+  status: not_found
+  notes: No downloadable English rulebook PDF found
+- name: Probe
+  bgg_id: 2060
+  status: summarized
+  notes: PDF from fgbradleys.com; image-based PDF read visually
+- name: 'Prochorovka: Armor at Kursk'
+  bgg_id: 4683
+  status: not_found
+  notes: Commercial wargame; rules PDF only available for purchase
+- name: Project L
+  bgg_id: 260180
+  status: summarized
+  notes: PDF from cdn.1j1ju.com
+- name: Prophecy
+  bgg_id: 8095
+  status: not_found
+  notes: Rules PDF on BGG only (requires login to download)
+- name: Proteus
+  bgg_id: 2211
+  status: summarized
+  notes: PDF from Steve Jackson Games official site
+- name: Provopoli
+  bgg_id: 12570
+  status: not_found
+  notes: No English rulebook PDF found online; very obscure game with minimal web
+    presence
+- name: Pueblo
+  bgg_id: 3228
+  status: summarized
+  notes: Rules written from web research (Ravensburger PDF not extractable)
+- name: Punaisten ja valkoisten taistelu Suomessa 1918
+  bgg_id: 126005
+  status: not_found
+  notes: Finnish-language wargame; no English rulebook PDF found
+- name: "P\xDCNCT"
+  bgg_id: 19764
+  status: summarized
+  notes: PDF from Rio Grande Games; extracted and summarized
+- name: Pursuit of Glory
+  bgg_id: 23418
+  status: summarized
+  notes: PDF from GMT Games living rules; extracted and summarized
+- name: Push a Monster
+  bgg_id: 172542
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Push
+  bgg_id: 23033
+  status: not_found
+  notes: BGG ID 23033 is an older game called Push (not the Ravensburger card game
+    265256); no rulebook PDF found
+- name: Pusher
+  bgg_id: 7065
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: 'Puzzle Strike: Bag of Chips'
+  bgg_id: 67928
+  status: summarized
+  notes: PDF from sirlin.net; extracted and summarized
+- name: Pylos
+  bgg_id: 1419
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Pyramid of Pengqueen
+  bgg_id: 36648
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Pyramis
+  bgg_id: 3062
+  status: not_found
+  notes: No English rulebook PDF found; obscure abstract game
+- name: Qadardalikoi
+  bgg_id: 24005
+  status: not_found
+  notes: Tekumel miniatures wargame; no freely available English rules PDF
+- name: Qin
+  bgg_id: 127997
+  status: summarized
+  notes: PDF from world-of-board-games.com.sg; extracted and summarized
+- name: 'Quacks & Co.: Quedlinburg Dash'
+  bgg_id: 354886
+  status: summarized
+  notes: PDF from schmidtspiele.de; extracted and summarized
+- name: Quadromania
+  bgg_id: 12020
+  status: not_found
+  notes: No English rulebook PDF found online; 1987 Red Dragon Games
+- name: Quarriors!
+  bgg_id: 91536
+  status: summarized
+  notes: PDF from WizKids Ultimate Rules; extracted and summarized
+- name: Quarto
+  bgg_id: 681
+  status: summarized
+  notes: PDF from dnhandcrafted.com; extracted and summarized
+- name: Quazar
+  bgg_id: 19242
+  status: not_found
+  notes: No rulebook PDF found; 1977 Excalibre Games wargame with reported poor/incomplete
+    rules
+- name: Qubic
+  bgg_id: 13714
+  status: summarized
+  notes: PDF from fgbradleys.com (scanned); rules written from web research
+- name: Quebec 1759
+  bgg_id: 85
+  status: summarized
+  notes: Rules written from web research; Columbia Games block wargame
+- name: Queen's Necklace
+  bgg_id: 6068
+  status: summarized
+  notes: PDF from Days of Wonder; extracted and summarized
+- name: The Quest for El Dorado
+  bgg_id: 217372
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Quest
+  bgg_id: 316287
+  status: summarized
+  notes: PDF from avalon.fun (scanned); rules written from web research
+- name: Quicksand
+  bgg_id: 2518
+  status: flagged
+  notes: PDF from Hasbro downloaded but scanned image; text extraction yielded 0 chars;
+    needs manual review
+- name: Quiddler
+  bgg_id: 339
+  status: summarized
+  notes: PDF from SET Enterprises; extracted and summarized
+- name: Quietville
+  bgg_id: 24770
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Quinamid
+  bgg_id: 29952
+  status: not_found
+  notes: No rulebook PDF found; rules available only from BoardGameGeek descriptions
+- name: Quirks
+  bgg_id: 2478
+  status: not_found
+  notes: No rulebook PDF found; 1980 Eon Products game
+- name: Quits
+  bgg_id: 7995
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Quixo
+  bgg_id: 3190
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Quizimaze
+  bgg_id: 33628
+  status: not_found
+  notes: No English rulebook PDF found online
+- name: Quod
+  bgg_id: 31113
+  status: summarized
+  notes: Rules written from web research (Wikipedia, BGG)
+- name: Quoridor
+  bgg_id: 624
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Qwirkle Cubes
+  bgg_id: 39813
+  status: summarized
+  notes: PDF from MindWare (scanned); rules written from web research
+- name: 'Ra: The Dice Game'
+  bgg_id: 35503
+  status: flagged
+  notes: 'Downloaded PDF contained regular Ra rules, not Ra: The Dice Game; needs
+    correct PDF'
+- name: Ra
+  bgg_id: 12
+  status: summarized
+  notes: PDF from fgbradleys.com; extracted and summarized
+- name: Race for the Galaxy
+  bgg_id: 28143
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Raid on Iran
+  bgg_id: 5437
+  status: summarized
+  notes: PDF from grognard.com; extracted and summarized
+- name: Raiders of the North Sea
+  bgg_id: 170042
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Raids
+  bgg_id: 234429
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Rail Baron
+  bgg_id: 420
+  status: summarized
+  notes: PDF from hexagonia.com; extracted and summarized
+- name: Railway Rivals
+  bgg_id: 460
+  status: flagged
+  notes: PDF from variablepig.org downloaded but scanned image; text extraction yielded
+    0 chars
+- name: 'Railways of the World: The Card Game'
+  bgg_id: 68228
+  status: not_found
+  notes: No separate card game rulebook PDF found; only board game rules available
+- name: Railways of the World
+  bgg_id: 17133
+  status: summarized
+  notes: Quick rules PDF from fgbradleys.com; extracted and summarized
+- name: Raise the Roof
+  bgg_id: 4097
+  status: not_found
+  notes: No English rulebook PDF found; 1982 Henard Industries card game
+- name: Rajas of the Ganges
+  bgg_id: 220877
+  status: summarized
+  notes: PDF from cdn.1j1ju.com; extracted and summarized
+- name: Ram Speed
+  bgg_id: 3561
+  status: not_found
+  notes: No rulebook PDF found; 1980 Metagaming microgame
+- name: Ramses II
+  bgg_id: 2629
+  status: summarized
+  notes: PDF from Ravensburger; extracted and summarized
+- name: Ranger
+  bgg_id: 6929
+  status: not_found
+  notes: No freely available rulebook PDF; Omega Games solitaire wargame requires
+    purchase

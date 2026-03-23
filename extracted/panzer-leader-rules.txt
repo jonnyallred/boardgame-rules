@@ -1,0 +1,1544 @@
+RULES OF PLAY 
+I. INTRODUCTION 
+PANZER LEADER is a realistic game simulating tactical level combat on the Western 
+Front during World War Two. The twenty game situations cover the gamut of combat 
+encounters between the Allies and their German adversaries. Additionally, the open-
+ended design of the PANZER LEADER game system allows players to design and 
+compile their own situations, thus creating unlimited game possibilities. Like its famous 
+sister-game, PANZERBLITZ (Tactical Armored Combat on the Eastern Front, 1941-45), 
+PANZER LEADER is not only an exciting game experience; it is also a valuable source 
+of comparative information illustrating the strengths and weaknesses of the opposing 
+German, British and American armies. 
+IF YOU HAVE NEVERED PLAYED A WARGAME BEFORE, don’t be overwhelmed 
+by what may look like a lot of complicated rules. Sometimes more than a few words are 
+required to precisely express a simple and easily understood concept. REMEMBER: 
+These rules are based on common sense applications of real-life events and operations. 
+As such, their only purpose is to translate real-world occurrences into the game format. It 
+is not necessary to memorize these rules. Read the rules once, play a practice game or 
+two, and then re-read any sections that are unclear, bearing in mind the experience gained 
+in the practice games. Once the basics of movement and combat are understood, the finer 
+points of the rules will fall into place as you gain experience. 
+A WORD TO VETERAN AVALON HILL GAME PLAYERS: Although this game is 
+based on the familiar PANZERBLITZ game-system, many subtle refinements and 
+changes have been added. Read ALL of the rules before beginning play, as even some of 
+the “standard” rules sections contain significant changes. 
+II. COMPONENTS 
+A. GAME EQUIPMENT 
+1. Mapboard 
+Mapboard consisting of four sections which can be joined together in a variety of ways to 
+form many different terrain configurations. 
+2. German Counters 
+German die-cut counter sheet (192 pieces). 
+3. Allied Counters 
+Allied die-cut counter sheet (192 pieces). 
+4. Cards 
+Set of Situation and Player Aid Cards (seven cards). 
+
+5. Rules 
+Rules of Play and Designer’s Notes booklet. 
+6. One Die 
+B. THE MAPBOARD 
+The four-section mapboard represents a varied sampling of typical terrain in France and 
+Germany. Each section is identified by a letter (A,B, C, or D) located just above the fold 
+line. The board is “geomorphic” i.e. capable of being changed by re-arranging the four 
+sections in a variety of juxtapositions. The long edge of each mapboard section will line 
+up with the long edge of any other section no matter which way they are joined together, 
+except for the sea edge of board ‘B’. The short edges join with each other in a similar 
+fashion. The scale of the mapboard is 1 hexagon = 250 meters. Refer to the Terrain 
+Effects Chart for a complete explanation of mapboard symbols and their effects on 
+movement and combat. 
+C. THE PLAYING PIECES 
+The die-cut, cardboard pieces represent platoon or battery-sized military units of different 
+types (e.g., infantry platoons, tank platoons, assault gun platoons, etc.), which are the 
+playing pieces used in the game. Hereafter they will be referred to as “units” or “unit 
+counters”. The numbers on the unit counters represent that unit’s capabilities with respect 
+to movement, attack, defense and range of weapons. The other symbols or silhouettes 
+identify what type of units the counters represent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note that all vehicle units are symbolized with an appropriate silhouette and all other 
+(non-vehicle) units are symbolized with standard military-planning symbols. 
+Movement Allowance: The basic maximum number of hexagons (hexes) which a unit 
+may move in one turn, expressed as a certain number of movement points. In general 
+each unit will expend one movement point from its movement (point) allowance to move 
+a distance of one hex. 
+Attack Strength: The basic offensive power of a given unit, expressed as a certain 
+number of attack strength points. 
+ATTACK STRENGTH
+WEAPONS TYPE
+RANGE
+SYMBOL
+TYPE OF UNIT
+DEFENSE STRENGTH
+MOVEMENT ALLOWANCE
+PICS NUMBER
+
+Defense Strength: The basic defensive strength of a given unit, expressed as a certain 
+number of defensive strength points. 
+Range: The maximum effective distance (in hexes) that a unit’s attack strength can be 
+used against enemy units. EXAMPLE: a unit with a range of 8 could fire its weapons 
+(use its attack strength) against an enemy unit’s defensive strength within that 8-hex 
+range. 
+III. GENERAL OUTLINE OF PLAY 
+Each side maneuvers its forces (playing pieces) on the terrain map seeking to destroy 
+enemy units or gain a specific territorial objective as outlined on the Situation Cards. 
+Players move their pieces and have combat by taking turns. Each complete turn 
+represents six minutes of real time. 
+The forces in a given Situation may be unequal and one side may have a better chance of 
+winning than the other, but it is primarily the skill of the individual player which 
+determines the outcome of the game. The chance element introduced by the use of the 
+die-roll Combat Results Table is only that degree of chance consistently present in any 
+real-life combat event. 
+IV. SEQUENCE OF TURNS 
+PANZER LEADER is played in turns. Each turn is divided into two identical player 
+segments: the Allied player segment and the German player segment. 
+To avoid confusion, each player segment is further divided into four “phases”. 
+A. ALLIED PLAYER SEGMENT 
+1. Combat Phase 
+Allied player executes and resolves minefield attacks, direct and indirect fire combat, and 
+writes “orders” for the next turn’s indirect fire combat. 
+2. Air Phase 
+Allied player moves any aircraft units desired. German player executes and resolves anti-
+aircraft attacks. Allied player resolves fighter bomber attacks. 
+3. Movement Phase 
+Allied player moves any units that did not fire in the combat phase. 
+4. Close Assault Phase 
+Allied player executes and resolves all CAT attacks. 
+B. GERMAN PLAYER SEGMENT 
+German player follows the same procedure as outlined above using his own units. 
+
+C. TURN NOW 
+The Turn Now counter is moved one box signifying the completion of one game turn. 
+This procedure is followed for each turn of the game. 
+V. MOVEMENT 
+During the movement phase of a player’s segment, he may move as many uninverted 
+units as he wishes. Each unit may be moved as many hexes as desired within the limits of 
+its movement allowance and terrain restrictions (see Terrain Effects Chart). 
+A. TERRAIN FEATURES 
+1. Hexagon Grid 
+The hexagonal grid superimposed upon the mapboard is used to regulate movement and 
+combat. A hex is considered to be a given type of terrain if all or any part of it contains 
+that terrain feature. The only exception to this is town hexes where slight overlap into 
+non-town hexes is ignored. Terrain effects movement and defense as outlined in the 
+Terrain Effects Chart (TEC). 
+2. Heavy Hex Side Symbols 
+The “heavy hex side” symbols (different colored bars superimposed upon some hex 
+sides) are explained in the OBSTACLE AND ELEVATIONS section of the rules. 
+3. Sea Hexes 
+Sea hexes may be entered only by units presumed to be in landing craft or amphibious 
+vehicles. 
+4. Half Hexes 
+The half-hexes on the outer edges of the board are considered playable and may be 
+utilized as if they were complete hexagons. 
+B. HOW TO MOVE UNITS 
+1. Hexes 
+Movement is calculated in terms of hexes. Basically, each unit expends one movement 
+point (MP) of its total movement (point) allowance for each hex it enters. To enter some 
+types of hexes requires the expenditure of more than one MP for each hex entered. A 
+complete list of these “entry costs” is found on the Terrain Effects Chart (TEC). 
+2. Voluntary 
+In any one turn a play may move as many or as few of his units as he desires. Movement 
+is voluntary, never required. 
+
+3. Fired and Dispersed Units 
+Units which have fired (used their attack strength) in a combat phase of a player’s 
+segment may not move in that movement phase. “Dispersed” units may not move (see 
+how to Have Combat and the Combat Results Table). 
+4. Moved Individually 
+Each unit is moved individually, tracing the path of movement through each hex in turn. 
+Once a unit has completed its movement, it may not be changed, repositioned, or 
+realigned. (A unit’s movement is considered completed when the player begins moving 
+another unit). 
+5. At Least One Hex 
+Units with a movement allowance of “1” may move one hex per turn regardless of 
+terrain. 
+6. Moving Through Friendly Unit Hexes 
+Units may move through hexes containing other friendly units. Units may not, however, 
+enter or move through hexes containing the maximum allowable number of units (see 
+Stacking, below). 
+7. Moving Through Enemy Unit Hexes 
+Units may not enter or pass through hexes containing enemy units (EXCEPTION: see 
+OVERRUN RULE). 
+8. No Enemy Movement 
+No enemy movement is allowed during a friendly movement phase. 
+9. No Combat 
+No combat, enemy or friendly, takes place during the movement phase (EXCEPTION: 
+See OVERRUN RULE and OPPORTUNITY FIRE OPTIONAL RULE). 
+C. TRANSPORTING UNITS 
+1. “C” Class Vehicular Units 
+The “C” class vehicular units have the capability of transporting non-vehicular units 
+(guns and infantry). Each “C” unit has the capacity to transport one non-vehicular unit. 
+The non-vehicular unit being transported is indicated as such by being placed UNDER 
+the “C” unit. Never place non-vehicular units under vehicular units unless they are being 
+transported by those units. 
+2. Load, Transport, or Unload 
+In any one turn a “C” unit may either “Load”, “Transport”, or “Unload”, or it may 
+perform combinations of these operations depending on the type of unit being 
+transported. 
+
+a) 88mm or Larger Artillery Units 
+Artillery units of 88mm or larger (88mm, 90mm, 105mm, 107mm, 120mm, 150mm, 
+155mm, 170mm, and 8 inch), require the “C” unit to expend its entire movement 
+allowance to load or unload. That is, the “C” unit and the artillery unit must be in the 
+same hex at the beginning and end of the movement phase. 
+b) Less Than 88mm 
+Artillery units of less than 88mm, (20mm, 37mm, 40mm, 57mm, 76mm, 76mm, 81mm, 
+17lbr), the Nebelwerfer, 25 lbr, and all infantry type units, require the “C” unit to expend 
+half of its movement allowance for that phase (fractions round UP) to load or unload. The 
+“C” unit may move up to half its movement allowance before performing the load or 
+unload operations, or it may perform either of them and move up to half its movement 
+allowance afterwards. The passenger unit may NOT move in the player segment in which 
+it is loaded or unloaded. 
+c) Fired or Dispersed Units 
+Passenger or carrier units which use their attack strength in the current player segment, or 
+are dispersed, may NOT load in that player segment. 
+d) Spitting Not Allowed 
+A carrier’s movement allowance may never be split before and after a load or unload 
+operation in the same movement phase. It my only load or unload in a single movement 
+phase, NEVER BOTH. 
+e) Stacking Limits 
+Carrier units may not load or unload in a hex if such procedures violate stacking limits 
+(see below). 
+3. Truck and Wagon Defense Strength 
+A truck or wagon unit and the unit is transporting have a combined defense strength of 
+“1”. 
+4. Halftracks 
+When using halftracks as transport, the defense strength of the halftrack unit is used when 
+attacked. Halftrack units may fire while loaded. 
+5. Carrier and Passenger Treated as One Unit 
+Passenger and carrier are treated as one unit for stacking and combat purposes (see 
+Stacking Limitations). If combat results call for elimination, both are eliminated. If 
+dispersed, both are dispersed. 
+
+6. German Armored Vehicles 
+ONLY GERMAN armored vehicle units (tanks, assault guns, etc.), may transport 
+infantry-type units in a fashion similar to “C” units. Each armored unit may transport one 
+passenger unit. EXCEPTION: German SPA units may never transport other units. 
+a) When Attacked 
+If a German armored unit is destroyed while transporting, both passenger and carrier are 
+destroyed. Units being transported on armored units may be attacked exclusive of the 
+armored unit, in which case the passenger has a nominal defense strength of “1”. The 
+armored unit is unaffected if only its passenger unit is attacked. In this case, the 
+passenger unit is immediately unloaded if dispersed, unless such unloading violates the 
+stacking limits. In which case BOTH the armored unit and its passenger are dispersed. 
+b) Firing 
+German armored units may fire when loading or unloading passengers. All other 
+transport rules however apply. 
+7. Unit Function Table 
+See Unit Function Table for the exact capabilities of all units. 
+D. ROAD MOVEMENT 
+Units traveling along roads do so at the road movement rate regardless of the other terrain 
+in the road hexes. Units may travel all roads on the mapboard through hexes containing 
+types of terrain in which they might otherwise be prohibited. Roads do not alter the 
+defensive effects of other terrain in the hex. 
+1. Road Movement Rate 
+All units move along roads at a cost of ½ movement point per road hex. Entering a road 
+hex through a non-road hex side is done at the cost of the other terrain in the road hex 
+being entered. 
+2. Combined Movement Rates 
+Units may freely combine road and non-road movement in the same turn. 
+3. Stacking Limitation 
+A unit may move into a road hex from an adjacent road hex of the same road at the road 
+movement rate ONLY if the hex contains no more than TWO other units. 
+4. Stacking Limitation, Again 
+If the hex contains more than two other units, the road movement rate may not be used. 
+5. Again, Stacking Limitation 
+If entry into a particular hex is prohibited for a unit except by road movement, a unit may 
+not enter that hex if there are MORE than two units on that hex. 
+
+EXAMPLE: A vehicular unit may cross a green hex side and enter a hex containing two 
+other units via a road at the road movement rate. If there were three or move units in that 
+hex, it could not cross that green hex side. 
+6. Blocks, Fortifications, and Minefields 
+Units may not enter hexes containing blocks, fortifications, or minefield counters at the 
+road movement rate regardless of the number of units in the hex. Vehicular units may not 
+corss adjacent green hex sides when moving into a road hex containing an enemy 
+fortification, a block or minefield counter. 
+7. Carrier and Passenger Treated as One Unit 
+Remember: a vehicle with passengers is considered as one unit and may therefore travel 
+at the road movement rate without affecting other units abnormally. 
+VI. STACKING 
+A. MAXIMUM OF FOUR 
+Both sides may stack a maximum of four units in one hex. 
+B. CARRIER AND PASSENGER TREATED AS ONE UNIT 
+When a unit is being transported by another unit, the passenger and the carrier are 
+considered as one unit for stacking purposes. 
+C. MINEFIELD COUNTERS DO NOT COUNT 
+Minefield counters do not count towards stacking limits. 
+D. BLOCKS, FORTIFICATIONS AND WRECKS DO COUNT 
+Block, fortification (limited: see rules) and wreck counters do count towards stacking 
+limits. 
+E. AT ALL TIMES 
+Stacking limits apply at ALL TIMES. (EXCEPTION: units may overrun enemy units 
+stacked four-high). Units may not enter or move through hexes containing four units 
+(friendly units, blocks, wrecks, fortification counters, or combinations thereof). 
+F. UNIT FUNCTION TABLE 
+See Unit Function Table for exact stacking restrictions of all units. 
+VII. COMBAT 
+A. HOW TO HAVE COMBAT 
+Basically, to have combat, the attacking unit compares its attack strength to the defending 
+unit’s defense strength. The comparison is stated as a ratio, attacker to defender, which is 
+then rounded down (in the defender’s favor) to conform to the “combat odds” column 
+
+printed on the Combat Results Table (CRT). EXAMPLE: 11 to 3 rounds down to 3 to 1. 
+Roll the die and apply the results, as indicated by the CRT, to the defending units 
+involved in that specific combat situation. 
+B. DIRECT FIRE ATTACKS 
+1. Executed in Combat Phase 
+Direct fire attacks are executed in the combat phase of a player segment. Only the player 
+whose combat phase it is my attack; the other player is considered the “defender”. 
+2. Voluntary 
+A player may make as many or as few attacks per turn as he desires (within the 
+restrictions of the rules of combat). A player is never forced to attack. Attacks are 
+voluntary, never required. 
+3. Within Range 
+Only enemy units within range of an attacking unit may be fired upon by that unit. 
+Infantry units with an asterisk (‘*’) after their range may fire to twice their printed range 
+at the reduced effectiveness of one half normal attack strength. 
+4. May Attack Only Once 
+A single unit may not attack more than one enemy occupied hex per combat phase. 
+Attack and defense strengths are not transferable from one unit to another. Each unit is 
+treated as an indivisible attack strength and defense strength. 
+5. Combined Attack Strength 
+More than on attacking unit may fire at one target unit. All attacking units firing on the 
+same defending unit must total their attack strengths into one combined attack strength 
+before computing the combat odds. Units may fire only once per player segment. 
+6. Attacking Units May Not Move 
+Units which fire (attack) in the combat phase of player segment may NOT move in the 
+movement phase of the same player segment. 
+7. Line Of Fire 
+All attacking units executing direct fire attacks must be able to trace a “direct line of fire” 
+to the target hex. A “direct line of fire”, as explained under the “Obstacles and Elevation” 
+section, is a straight line traced from the attacking unit’s hex dot to the target hex dot 
+which is free of blocking terrain. 
+8. Attacker Chooses Units in Target Hex 
+The attacker may choose any combination of units in the defending hex as his target. Any 
+units within that hex that are not fired upon are not affected by the combat results. 
+
+9. CRT 
+Direct fire attacks are resolved on the Combat Results Table using the procedure outlined 
+in “A” above. 
+C. INDIRECT FIRE 
+1. Executed in Combat Phase 
+Indirect fire attacks, like direct fire attacks, are executed in the combat phase of a player 
+segment. 
+2. Only “M” and “(H)” Units 
+ONLY Class “M”, and those class “H” units indicated by parenthesis, “(H)”, may employ 
+indirect fire. 
+3. IF Orders in Previous Turn 
+Unlike direct fire attacks, the target hex must be designated at the beginning of the 
+combat phase of the previous turn by secretly writing down the target hex coordincates 
+and the firing units. (NOTE: Artillery units that are dispersed may NOT be targeted for 
+indirect fire.) Such designated targets MUST be fired upon (i.e., the gun cannot change 
+targets if the target hex turns out to be empty or if something better turns up) if the unit is 
+to execute any attacks in that combat phase. The unit is not required to attack, but if it 
+does, it must attack only the designated target hex using the indirect fire method. 
+4. No Direct LOF Required 
+As the name implies, indirect fire differs from direct fire in that the firing unit itself is 
+not required to trace a “direct line of fire” to the target (i.e., it doesn’t have to “see” the 
+target hex). In order for certain artillery units to attack a target by the indirect fire 
+method, it is only necessary that another friendly unit be able to “see” (have a “direct line 
+of sight” to) the target hex. In regards to woods and town hexes, a friendly unit must be 
+adjacent to those hexes, or an enemy unit must have fired from those hexes for indirect 
+fire attacks to be designated against them (see section L. SPOTTING). 
+5. Spotting Units 
+Any combat unit, except trucks and wagons, that could theoretically use direct fire 
+against a hex (i.e., “see” it) may be used to fulfill the indirect fire sighting requirements. 
+6. Attacking Units in a Hex 
+Indirect fire attacks are directed against specific hexes, not necessarily specific enemy 
+units. In some cases a target hex could even be empty at the time the attack is designated 
+in anticipation of enemy units moving into it. 
+
+7. Loaded, Dispersed and Moved Units May Not Be 
+Designated in IF Orders 
+Units that are loaded or dispersed may not be designated for indirect fire. Units 
+designated for indirect fire may not move between the time the fire is designated and the 
+time the fire is executed. 
+8. Scattered 
+If all of the units sighting (or spotting) a particular target hex are destroyed, dispersed, or 
+move away between the time the indirect fire is designated and when it is executed, the 
+fire may become scattered. To determine if the fire scatters in this event, roll the die once 
+and consult the Scatter Chart, below: 
+ 
+DIE ROLL 
+EFFECT 
+1 or 2 
+Indirect fire hits target normally. 
+3, 4, or 5 
+Indirect fire hits one of the six adjacent hexes, roll die once and consult 
+Scatter Diagram to determine which hex hit. 
+Indirect fire widely dispersed. Not units in target hex are attacked. 
+ 
+If the fire is scattered, the full effect of the indirect fire is applied to one of the adjacent 
+hexes according to the die roll. Units in that hex (enemy or friendly) receive the full 
+effect of the attack. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. All Units in Target Hex 
+Indirect fire attacks must be directed towards all of the units in a target hex. 
+IF Attack Resolution 
+Indirect fire attacks are resolved differently than other types of attack. For each indirect 
+fire attack follow this procedure: 
+a) Calculate Attack Strength 
+Calculate the number of strength points firing and DIVIDE this total by the number of 
+enemy UNIT COUNTERS in the target hex. Passenger-carrier and fortifications (plus the 
+units in them) count as one. 
+NORTH
+
+b) Combat Odds 
+This reduced attack strength is then applied to each individual target unit to create combat 
+odds for (ad an individual attack on) each unit. The die is rolled once for each target unit 
+and the results applied accordingly. 
+c) Example 
+EXAMPLE: 80 strength points fire indirectly at a target hex containing three German 
+units: an engineer (DS = 10), an infantry (DS = 9), and an 81mm mortar (DS = 3). This 
+computes as 80 ÷ 3 (the number of defending units) = 26 (the reduced attack strength). 
+Applied to each defending unit, this generates combat odds of 26 to 10 (2-1), 26 to 8 (3-
+1), and 26 to 3 (4-1). The die is rolled three times once under the 2-1, 3-1, and 4-1 
+columns, and the results applied to each of the respective defending units. 
+DF and IF May Not Be Combined 
+Indirect fire may NOT be combined with direct fire against the same target hex in the 
+same combat phase. 
+(H) Unit Range Limit 
+NOTE: (H)-type weapons may one use indirect fire against targets which are more than 
+¼ of their printed range away (rounded down). EXAMPLE: A British 25 lber (range = 
+35) could not fire indirectly at targets that are within 8 hexes of its location. 
+D. OVERRUN ATTACK 
+1. Clear Terrain Only 
+Armored vehicle units may only overrun those enemy units located in clear terrain hexes 
+(including clear terrain road hexes and clear hilltop hexes). 
+2. Executed and Resolved in Movement Phase 
+Unlike other methods of attack, overruns are executed and immediately resolved as they 
+occur in the movement phase. (Stacking limits are ignored in this case: see below.) All 
+units intending to overrun the same target are moved before the attack is resolved. 
+3. Move Through Enemy Hex 
+To overrun a unit or stack of units, move the attacking armored vehicle unit(s) straight 
+through the enemy occupied hex, exiting into the hex DIRECTLY opposite the hex of 
+entry. Overrunning units must stop in the “exit hex” and may move no further that 
+movement phase. If the exit hex is occupied by enemy units, the overrun attack may not 
+be made. Overrunning units may not move at the road rate, but they may use roads to 
+negate the effects of terrain. Overrunning units must have sufficient movement points 
+remaining to reach the exit hex. The exit hex does not have to be a clear terrain hex, nor 
+does the entry hex; only the target hex must be clear terrain. 
+
+4. Increased Combat Effect 
+Overrunning units attack with an increased combat effect. The odds ratio of the attack is 
+computed using the normal procedure. The combat odds, however, are then 
+INCREASED by one column in favor of the attacker (e.g., an odds ration of 3 to 1 
+increases to 4 to 1). Additionally, “2” is subtracted from the die roll results (e.g., a die roll 
+of “3” is treated as if it were a roll of “1”). 
+5. Combined Defense and Attack Strength 
+A defending stack is treated as one combined defense strength when being overrun. More 
+than one armored unit may overrun an enemy stack and the overrunning units do not have 
+to enter and exit through the same hexes. They must, however, execute their overrun 
+attacks as one combined attack strength. In other words, a defending unit or stack may 
+not suffer more than one overrun attack per movement phase. 
+6. Ignore WEC 
+In determining overrun odds, use only the strengths printed on the units (for attacker and 
+defender). Do not halve or double the attack strengths as shown on the Weaons 
+Effectiveness Chart. Use only the overrun “bonus” as outlined in “4” above. 
+7. Attacking Units May Not Fire and Overrun 
+Overrunning units may not execute direct fire attacks during the combat phase of the 
+segment in which the overrun is made. 
+8. Blocks, Wrecks, Minefields and Fortifications 
+Units on block, wreck, minefield or fortification counters may not be overrun. 
+9. Restrictions 
+The German SPA units (Maultier, Wespe and Hummel) may NOT make overrun attacks. 
+Halftracks may not overrun armored vehicles (including halftracks). See the Unit 
+Function Table for an exact listing of overrun limitations for all types of units. 
+E. CLOSE ASSAULT TACTICS (CAT) 
+All types of German and Allied infantry and engineer units have the option of using close 
+assault tactics (CAT) instead of making a normal attack. Cloase assault attacks are 
+executed in the close assault phase of a player segment. 
+1. Must Be Adjacent 
+Close assaulting units must be adjacent to the defending unit or stack they are attacking. 
+2. May Not Be Combined With DF 
+Units utilizing CAT may NOT make normal attacks in the same player segment. 
+3. Unloaded Units May Not CAT 
+Units that have been transported by vehicular units in the same player segment may not 
+use CAT attacks. Units may, however, move and CAT attack in the same player segment 
+
+(NOTE: Overrun and CAT attacks are the only exceptions to the general rule which 
+forbids movement and combat by the same unit in the same turn.) 
+4. Increased Combat Effect 
+Close assaulting units have their effectiveness increased by subtracting “2” from their 
+die-roll result. (e.g., a die roll of “2” becomes a die-roll of “0”), The defending stack must 
+be treated as one combined defense strength and may suffer only one close assault per 
+5. Engineer Units Increase Combat Odds 
+If infantry and engineer units are stacked together in the same hex when close assaulting 
+the same defender, the effectiveness of that close assault is further increased by raising 
+the odds in their favor to the next highest ratio (as in the overrun rule). At least one 
+engineer unit must be stacked with at least one infantry unit. 
+6. Allied MG Units Must Be Stacked With Non-MG Units 
+Allied MG units may only close assault if they are stacked in the same hex with at least 
+one (non-MG) infantry-type unit (infantry, engineer, or scout) which is close assaulting 
+the SAME defender. 
+7. Only Way “I” Units May Attack Armored Units 
+Close assault is the only way in which “I” units may attack armored vehicle units. 
+8. Target May Be Any Type 
+Any type of defending unit may be attacked using close assault tactics. CAT may be 
+executed from any type of terrain except stream hexes. 
+9. Sea Hex Restriction 
+SPECIAL: CAT attacks may not be executed against targets in sea hexes. 
+F. WEAPON-TO-TARGET RELATIONSHIPS 
+1. Weapon Type 
+The class-key letter symbols determine what type of weapons a unit is armed with: 
+ 
+Letter 
+Weapon 
+I 
+Light (infantry-type) weapons (rifles and 
+machine-guns). 
+A 
+Armor piercing weapons (high velocity 
+tank and anti-tank guns). 
+H 
+High explosive shells (low velocity 
+howitzers, etc.). 
+(H) 
+High explosive shells with indirect fire 
+capabilities. 
+M 
+Mortars (similar to “(H)”). 
+
+2. WEAPONS EFFECTIVENESS CHART (WEC) 
+a) Attacker to Defender Type Relationship 
+The effectiveness of these weapons changes in relation to the target type and range from 
+target. This is reflected in the WEC by doubling and halving a unit’s attack strength 
+accordingly. NOTE: Half range is always rounded DOWN to the nearest whole hex; the 
+attacking unit loses fractions. (EXAMPLE: half of 9 is 4.) Half attack strength is never 
+rounded off; retain fractions (EXAMPLE: half of 13 is 6 ½). 
+b) Mixed Target Stacks 
+When making a direct fire attack against units in a mixed stack, determine what type of 
+unit counter (armored or non-armored) predominates in the stack and treat the entire 
+stack as if all the units in it were that type of target. If the targe stack is divided evenly 
+between armored and non-armored unit counters, treat the whole stack as if it were that 
+type of target least favorable to the particular attacking unit(s). Units being transported 
+are ignored; only the carrier units are considered when determining predominance. Units 
+inside fortifications are ignored for determining predominance; rather, the fortification is 
+counted as ONE armored unit. 
+c) Town Hexes 
+Units in town hexes are considered as armored targes whether or not such units actually 
+are armored. Units stacked together in town hexes must be attacked as one combined 
+defense strength when using direct fire. 
+d) Fortifications 
+Fortifications are considered armored targets. 
+e) WEC Not Used For Overrun Attacks 
+WEC is not used in determining overrun odds. 
+f) H and M Class Limitations 
+H and M class weapons are always halved (do NOT round off; retain fractions) against 
+armored vehicles unless the H is used for direct fire against armor at a range of 6 hexes or 
+less. 
+3. Double Attack Range For Infantry Units 
+Infantry units with an asterisk after their range (Example: 2*) may fire to double their 
+printed range with an attack strength of one-half their normal strength. 
+G. OBSTACLES AND ELEVATIONS 
+1. Mapboard 
+The mapboard is a two-dimensional representation of a three-dimensional space. The 
+various terrain features, aside from affecting movement and combat may also effect the 
+
+ability of attacking units to fire at given defending units by obstructing the Line-of-Site. 
+Since the weapons used in this game are primarily direct-fire weapons, an attacking direct 
+fire unit may not fire at any target which it cannot “see” (i.e., trace an unobstructed line 
+from the firing unit hex to the target hex). 
+The terrain symbols on the map show the location of potential obstructions and the hex 
+side symbols show in which direction fire is obstructed. These “heavy” hex side symbols 
+are color-coded according to the type of obstruction they represent. 
+2. Obstacle Elevations 
+There are three general types of obstacle/hex sides which block the Line-of-Sight and 
+therefore prevent fire: 
+a) Low Obstacles 
+Low Obstacles: Ground level green (woods) hex sides and ground level town hexes. (10 
+to 20 meters.) 
+b) Medium Obstacles 
+Medium Obstacles: Dark brown (slope) hex sides (60 to 70 meters.) 
+c) High Obstacles 
+High Obstacles: Orange (hilltop) and cliff hex sides. (100 to 140 meters.) 
+3. Attacker to Target Elevation Relationship 
+Whether or not a firing unit can “see over” these obstacles depends upon the elevation at 
+which the firing unit and its potential target are. Units themselves are not considered as 
+obstacles, and players may fire over or through all units, enemy or friendly. 
+a) Attacker Elevation 
+There are three elevations at which a unit may be: 
+(1) Ground Level: 0 meters. 
+(2) Slope Level: 50 to 60 meters. 
+(3) Hilltop Level: 100 to 140 meters. 
+b) Target Elevation Table 
+A unit’s elevation is determined by the terrain it is on. The Target Elevation Table shows 
+what hex side symbols obstruct the Line-of-Fire in different cases. 
+H. HILL AND SLOPE DEFENSE EXCEPTIONS 
+As indicated on the TEC (Terrain Effects Chart) a unit using direct fire against an enemy 
+unit defending on a slope or hilltop, attacks at one half attack strength. There are some 
+exceptional cases, however, in which the attacker is NOT halved. They are: 
+
+1. Hilltop To Hilltop 
+When the defending unit is on a hilltop, an attacking unit is NOT halved if it is also on a 
+hilltop hex. 
+2. Adjacent To Slope 
+When a defender is on a slope, the attacking unit is NOT halved if the attacker is directly 
+adjacent to the defender (regardless of elevation). 
+EXCEPTION: If there is a brown hex side symbol BETWEEN an adjacent attacker and 
+defender, the attacking unit’s attack strength IS halved. Units on slopes can conceivably 
+be attacked by units which are halved and units which are not halved as part of the same 
+attack. 
+3. IF Attacks Are Never Halved 
+Units using indirect fire are never halved because of elevation differences. 
+4. All Other Cases 
+In all situations other than those described above, an attacking unit (regardless of 
+elevation) is halved when firing at units defending on slopes or hilltops. 
+I. HOW TO DETERMINE THE LINE-OF-SIGHT/LINE-OF-
+FIRE (LOS/LOF) 
+For all practical purposes, the Line-of-Sight is equivalent to the Line-of-Fire. Essentially, 
+the Line-of-Sight is a perfectly straight line measured from the center of the firing unit’s 
+hex to the center of the target unit’s hex. The dot in the center of each hex represents the 
+midpoint of that hex. The LOS is traced by placing a straightedge on the mapboard so 
+that it runs through the midpoint dots of the firing unit’s hex and the target unit’s hex. 
+The line is exactly equivalent to the Line-of-Fire from the firing unit to the target unit. 
+Using the TET and LOS/LOF OBSTRUCTIONS sections, determine whether or not any 
+town hexes or other hex side symbols encountered in tracing the Line-of-Sight actually 
+obstruct the Line-of-Sight. 
+J. LOS/LOF OBSTRUCTIONS 
+1. Obstructions 
+Only those hex side symbols (brown, green or orange) or town hexes intersected by the 
+straightedge line between the firing unit and the target unit block the Line-of-Sight (and 
+Line-of-Fire). 
+a) Bisecting Through Length of Symbol 
+If the straightedge bisects a hex side symbol through its LENGTH, that symbol blocks 
+the LOS/LOF. SPECIAL: It would NOT block the LOS/LOF if it were a brown hex side 
+connected to an orange hex side. 
+
+b) Bisecting a Corner 
+The defender is given the benefit of the doubt if the straightedge cuts exactly through the 
+“corner” of a hex where a symbol side and a non-symbol side meet. Note that the heavy 
+symbols do not always extend to the very ends of the hex sides. The LOS/LOF is 
+blocked, however, through the entire hex side even if it is traced throught that part not 
+covered by the heavy symbol color. 
+2. Slope Or Hilltop To Ground level 
+When firing FROM a slope or hilltop TO a ground level target, the Line-of-Sight is 
+obstructed if the target unit is directly behind a town hex or a green hex side. “Directly 
+behind” means the intended target is either adjacent to a town hex such that part of the 
+town hex blocks the Line-of-Sight, or that a green hex side forms part of the target unit’s 
+hex such that it blocks the LOS. 
+3. Ground level To Slope Or Hilltop 
+When firing FROM ground level TO a target on a hilltop or a slope, the Line-of-Sight is 
+obstructed if the FIRING UNIT is directly behind a town hex or green hex side. 
+4. Hilltop To Ground level Over Brown Hex Side 
+When firing FROM a hilltop TO a ground level target, the Line-of-Sight is obstructed by 
+intervening brown hex side symbols if such a symbol is closer to the TARGET hex than 
+to the firing unit or if the symbol is exactly midway between the two. To determine the 
+relative position of the bron symbol, count the number of hex SIDES through which the 
+Line-of-Sight is traced (including the side of the firing hex and the side of the target hex). 
+5. Ground level To Hilltop Over Brown Hex Side 
+When firing FROM ground level TO a target on a hilltop, the Line-of-Sight is obstructed 
+by intervening brown hex side symbols if such a symbol is closer to the FIRING UNIT 
+than to the target, or exactly midway between the two. 
+6. Converse 
+Notice that “3” is converse of “2”, and “5” is converse of “4”. 
+7. More Than One Orange Hex Side 
+The ONLY case in which a unit may trace an unobstructed Line-of-Sight through MORE 
+than ONE orange (hilltop) hex side symbol is when both the target and the firing unit ar 
+on hilltops. In all other situations, the LOS is obstructed if it must be traced though 
+MORE than ONE orange hex side. 
+8. Adjacent 
+No matter what the obstacle or the terrain, a unit may ALWAYS fire at a target to which 
+it is directly adjacent (regardless of elevation). 
+
+9. Woods And Towns On Hilltops 
+In some cases, there are towns and woods on top of hilltops. The green hex side symbols 
+and town hexes in these case obstruct ALL fire when they are intervening obstacles, no 
+matter what the elevation of the target and firing unit (except when directly adjacent to 
+each other as per “8”). 
+Ground level To Ground level 
+When both the target and the attacker are on ground level, ALL hex side symbols (green, 
+brown and orange) and town hexes obstruct the Line-of-Sight (except as per “8”). 
+MAPBOARD NOTES: 
+a) Slopes 
+In some cases, slope hexes do not have brown hex side symbols. This is because the 
+brown symbols actually represent the way in which the slopes curve and form “corners” 
+to obstruct the LOS. Consequently, whenever a slope is relatively straight, it does not 
+obstruct the LOS along it. 
+b) Ridges 
+In some instances, two or more slope hexes meet without a hilltop being formed between 
+them. This represents a ridge or “razorback” hillock. The brown hex side symbols 
+represent the “spine” of these edges. NOTE: When firing from a hilltop hex to one of 
+these ridge hexes or vice-versa, the brown hex side spine DOES NOT obstruct the 
+LOS/LOF. 
+c) Combined Woods And Slopes 
+Som hexes contain both woods AND slopes. Terrain effects in these hexes are the 
+combined effects of both types of terrain. NOTE: Green hex sides block the LOS/LOF in 
+slope/hilltop woods hexes in exactly the same manner as they would for ground level 
+woods hexes. 
+d) Cliffs On Board B 
+Mapboard section “B” contains unusual terrain configurations consisting of hilltop and 
+slope hexes. To simplify LOS/LOF determination, only the slope-most row of hilltop 
+hexes are orange hex sides. When determining the LOS (especially on the “interior” 
+hexes of the mapboard), assume the elevation to be ground level to ground level, unless it 
+intersects on orange hex side and a slope or cliff symbol. Sighting down a row of orange 
+hex sides (as in hilltop to hilltop) would still be treated as ground level to ground level. 
+e) Cliff-plateau On Board B 
+Additionally, note that the cliff-plateau on board “B” has lower terrain on all sides (cliff 
+to sea-ward, slope to land-ward) thus forming a coastal bluff, except for the one row of 
+orange hexes which is treated in the same manner as the orange hex rows described 
+above. 
+
+K. STREAMS 
+Northern European streams and small rivers are characterized by steep-sided meanders 
+and silted bottoms. Further, they form depressions and support heavy vegetation offering 
+excellent concealment. While not exceptionally swift, the depth of the slow moving water 
+and the “mushy” consistency of the streambeds made streams unfordable for vehicles: 
+1. Vehicular Restrictions 
+Vehicular units (including wagons) may never enter stream hexes except in (undestroyed) 
+bridge hexes. 
+2. Non-Vehicular Requirements 
+Non-vehicular units may enter stream hexes, but only after rolling a die once for each 
+unit attempting to enter. A die roll of 1, 2, or 3 permits entry. If unsuccessful, a unit may 
+not move during that movement phase. NOTE: The die must be rolled for each separate 
+stream hex a unit attempts to enter. 
+3. May Not Attack From Stream Hexes 
+Units in stream hexes may not attack in any manner. 
+4. Ground-Level LOF Restrictions 
+Units in stream hexes may not be attacked by units in ground-level hexes unless such 
+units are adjacent. 
+5. Hilltop And Slope LOF Restrictions 
+Units in stream hexes may be attacked by units in hilltop or slope hexes if they can trace 
+an unobstructed LOS/LOF into that stream hex. Treat the unit in the stream hex as if it 
+were at ground level for TET purposes. 
+6. Bridges Are Equivalent To Clear Terrain 
+Permanent and temporary bridges are equivalent to clear terrain for all purposes (except, 
+of course in the case of temporary bridges built in woods-stream hexes, etc.). The hex in 
+which a bridge crosses a stream is considered clear terrain even if the road carried by the 
+bridge becomes unusable for road rate movement purposes (due to wrecks, blocks, other 
+units, etc.). If the bridge is destroyed, however, the hex would be treated as a regular 
+stream hex. 
+L. SPOTTING 
+1. Woods And Town Hex Defense 
+When a defending enemy unit is in a woods or town hex, it may not be fired upon by 
+friendly units which are not directly adjacent unless it has been “spotted” by at least one 
+friendly unit. Defending units are spotted if: 
+a) Adjacent Undispersed Friendly Unit 
+There is a friendly, undispersed, unit adjacent to the defending enemy unit. 
+
+b) Enemy Unit Has Fired In Friendly Unit LOS 
+The defending unit has fired (used its attack strength in a non-CAT attack) while in the 
+LOS of a friendly undispersed unit during the previous player segment and that friendly 
+unit can still trace an unobstructed LOS to the target. Place a “Spotted” marker on those 
+enemy units that fire while in the LOS of friendly undispersed units as such firing occurs. 
+(NOTE: friendly units that are dispersed by such fire cannont be used to fulfill the 
+requirement). The markers remain until the enemy units are no longer in friendly LOS or 
+ALL friendly spotting units are subsequently dispersed, of the firing unit moves out of its 
+initial firing hex into an unspotted town or woods hex. 
+2. Dispersed Friendly Units May Not Spot 
+Spotting units must be undispersed at the time that they “direct” fire. In regards to “b” 
+above, the spotting unit cannot have been dispersed since the target unit fired. 
+3. Truck And Wagon Units May Not Spot 
+Truck and wagon units may not spot for any type of fire. 
+VIII. WRECKAGE 
+Whenever an ARMORED unit or a fortification counter is destroyed in combat, it is 
+removed from the board and replaced with a wreck counter, to a maximum limit of three 
+wrecks per hex. 
+A. Wrecks may not be moved or removed. 
+B. Each wreck counts as one unit for stacking purposes. 
+C. The presence of wrecks has no effect on combat. 
+D. Maximum Of Three Wrecks Per Hex 
+NOTE: There is a limit to the total number of wrecks that may accumulate in any one 
+particular hex. No more than THREE wreck counters are ever placed in any single hex. If 
+an armored unit is destroyed in a hex containing three wrecks, no additional wreck 
+markers are placed in that hex; the armored unit is simply removed from the mapboard. 
+IX. POSITIONAL DEFENSES 
+A. MINES 
+The player with the minefield counters may position them anywhere within his set-up 
+area unless otherwise directed by the situation card. Each mine counter represents a 
+minefield constructed in that hex. 
+
+a) One Mine Per Hex 
+Only one mine counter may be placed in each hex. Minefield counters may not be placed 
+on sea, town, bridge, or swamp hexes. 
+b) May Not Be Moved 
+Once positioned, mines may not be moved. 
+c) Mines Have No Friends 
+Mines have no friends -- they affect both sides. 
+2. Stops Movement 
+As soon as a unit moves onto a mine it must stop. 
+3. Mine Attack 
+The opposing player, during the combat portion of his turn, rolls the die for the attacking 
+minefield. The minefield attacks ALL units at 2 to 1 odds no matter what the terrain. 
+Each unit on a minefield counter is “attacked” separately. Surviving units may move off 
+in their next turn. 
+4. Dispersed Units Attacked Again 
+Units dispersed by minefields may not move off them, and must again suffer a minefield 
+attack in the following turn. 
+5. Never Used Up 
+A minefield is never “used up”. It remains active until removed by an engineer unit. 
+6. No Stacking Affect 
+Minefields do not affect stacking limitations. 
+7. Other Attacks 
+Minefield attacks take place in the combat phase BEFORE normal attacks and do not 
+preclude direct of indirect attacks against that unit in the SAME combat phase. 
+B. BLOCKS 
+BLOCK counters represent tank traps, road blocks, barbed wire, felled trees and anything 
+else that may impede movement. 
+Blocks may be placed anywhere within a player’s set-up area, (except sea hexes) no more 
+than one block per hex. 
+2. Affects Movement 
+A unit may only enter a hex containing a block counter if it begins its movement phase 
+directly adjacent to that hex. Upon entering the block, hex, the unit must stop and may 
+
+move no further that turn. In its NEXT movement phase, it may move off the block at the 
+normal movement rate. 
+3. No Combat Effect 
+Blocks do not obstruct the Line-of-Sight and have not effect on combat. 
+4. Count For Stacking 
+Blocks count as one unit for stacking purposes. 
+5. Never Used Up 
+Blocks are never “used up”. They may only be removed by engineer units. 
+6. Negates Road Movement Rate 
+A block counter on a road negates the road in that hex. VEHICULAR UNITS may not 
+cross adjacent green hex sides when moving into a block-road hex. 
+C. FORTIFICATIONS 
+(Bunkers, redoubts, “pill-boxes”, etc.) 
+Fortifications may be placed anywhere within a player’s set-up area, (except swamp, sea, 
+beach, or stream hexes) as directed by the situation card. Once placed, they may not be 
+moved. 
+2. Count For Stacking 
+Fortifications, and the units in them, count as one unit for stacking purposes. 
+3. Defense Strength 
+Units in fortifications defend using the defense strength of the fortifications only. Their 
+own defense strengths are ignored. Fortifications are treated as ARMORED targets. 
+Terrain and Weapons Effectiveness are taken into account when a fortification is 
+defending. Any type of unit(s) may occupy a fortification within normal stacking 
+limitations (see below). 
+4. Attack Strength 
+Units attack from fortifications using their normal attack strength. 
+5. Destruction 
+If a fortification is destroyed, any units in it are also destroyed. A destroyed fortification 
+counter is replaced with a single wreck counter, regardless of the number or types of units 
+inside it. 
+6. May Only Defend 
+A fortification counter itself has no attack strength and may only defend. 
+
+7. May Be Captured 
+If abandoned or unoccupied, fortifications may be “captured” and used by the opposing 
+player. To capture a fortification, simply move a unit into the unoccupied fortification 
+counter. 
+8. Removing 
+Unwanted fortifications may only be destroyed by attacking them with one’s own fire 
+weapons. 
+9. No LOS Effect 
+The fortification unit is not an obstacle to fire. 
+In Versus On 
+Units are indicated as being IN a fortification by placing them UNDER the fortification 
+counter. Friendly units ON TOP of a fortification (i.e., “outside” the fortification) and the 
+fortification counter, on which they are sitting, may be attacked individually or in 
+combination like normal targets. 
+a) Enemy Units May Be On The Fortification 
+Enemy units may move on top of a fortification counter while friendly units are inside of 
+it, but must stop and end all further movement. (They may move off the fortification hex 
+normally in the next turn.) In this case, friendly units may fire on that hex; but the die 
+must be rolled twice, once for the attack on the enemy units and then for the effect on 
+friendly units in the fortification. 
+b) Enemy Entry Of Fortifications 
+Enemy units may not enter a fortification hex if there are friendly units ON TOP of the 
+fortification. 
+c) Enemy Units Block Movement 
+When enemy units are on top of a fortification, friendly units inside the fortification may 
+not leave nor may other friendly units enter that hex. The friendly units inside may still 
+attack any enemy units within range, including the units sitting on the fortification. When 
+attacking the units sitting on the fortification, the units inside attack as if they are adjacent 
+to the enemy. Similarly, the enemy units may attack the fortification as if they were 
+adjacent to it. The units inside, in this case, may NOT use close assault tactics. 
+Stacking Limits 
+Fortifications do not count against the stacking limits of units inside them. They DO, 
+however, count as one unit for stacking purposes for units outside of them. Thus, it is 
+conceivable that a hex containing a fortification counter may hold four units INSIDE the 
+fortification and an additional three units OUTSIDE. 
+
+Dispersal 
+Fortifications may suffer “dispersal” in which case the units occupying them are 
+dispersed also. 
+13. 
+One Per Hex 
+No more than one fortification may be placed in a given hex. 
+14. 
+Restricts Overrun Attacks 
+Armored vehicles may NOT make overrun attacks against fortifications. 
+15. 
+Mine And Block Restrictions 
+Fortifications may NOT be placed on top of mines or blocks (or vice-versa). 
+16. 
+May Not Spot 
+Un-occupied fortification counters (or those containing only truck or wagons) may never 
+spot for other units. 
+X. ENGINEERS 
+Engineers may be used to clear minefields, create and remove blocks, demolish bridges 
+and increase the effectiveness of CAT attacks. 
+A. CLEARING MINEFIELDS 
+Minefields are cleared in a four-turn process, as follows: 
+1. Turn 1 
+Engineer unit moves adjacent to minefield. 
+2. Turn 2 
+Minefield counter is inverted at the beginning of the movement phase. 
+3. Turn 3 
+Engineer unit moves onto minefield. 
+4. Turn 4 
+Minefield is removed at the beginning of the movement phase. 
+5. Dispersal Of Engineer 
+If the engineer unit is dispersed at any time during this sequence, the clearing process is 
+temporarily halted. When that engineer unit is undispersed, the sequence is restarted at 
+the step in which the dispersal took place. Once the minefield is inverted, other units 
+entering that hex are still liable to the normal minefield attack until such time as the 
+engineer unit removes the mine counter. 
+
+6. Elimination Of Engineer 
+If an engineer unit is eliminated during this sequence, any new engineer unit must begin 
+all over again. 
+7. One At A Time 
+An engineer unit may only clear one minefield counter at a time. When engaged in 
+minefield clearing, the engineer may not attack in any manner or load into a carrier 
+vehicle. 
+B. DEMOLITION AND OBSTACLES 
+Other tasks require engineers to use explosives and specialized equipment, which is 
+usually carried in their vehicles. Before the game, designate one truck, halftrack or other 
+carrier for each engineer platoon to carry its equipment. This vehicular unit may no 
+longer transport anything but it designated engineer unit. In addition, it must be in either 
+the same hex or adjacent to the hex in which the engineers are performing any of the 
+following: 
+1. Bridge Demolition 
+To destroy a bridge, an engineer unit must remain on the bridge hex for three turns. (It 
+must begin and end three friendly movement phases in a row without moving out of the 
+hex.) On the fourth, or any subsequent turn, it must move to an adjacent hex. As soon as 
+it makes this move, the die is rolled for the bridge demolition. A die roll of 1-5 means 
+that the bridge is successfully destroyed and a BLOCK counter place on that hex. It is 
+then treated as an ordinary stream hex for the remainder of the game. A die roll of 6 
+means that the attempt has failed. In this case, the engineer unit must move back into the 
+bridge hex if another demolition attempt is desired. It executes the same procedure as 
+before, but may opt to remain stationary on the bridge hex for fewer turns: 
+a) 1 Turn 
+1 turn on the bridge – die roll of 1 or 2 for successful demolition. 
+b) 2 Turns 
+2 turns on the bridge – die roll of 1-4 for success. 
+c) 3 Turns 
+3 turns on the bridge – die roll of 1-5 for success. 
+ 
+If an attempt fails again, the sequence must be restarted from the beginning. An engineer 
+unit may not be dispersed during any of the stationary turns, or the sequence is 
+interrupted until the unit becomes dispersed again. 
+2. Creating Blocks 
+Within the time period of any given situation, an engineer unit may only create one block 
+on one road hex. The procedure is the same as bridge demolition procedure, but when 
+successful the engineer unit places a block counter on the road hex. The number of 
+
+stationary turns required to initially create a block is two turns for a woods-road hex and 
+four turns for any other type of road hex. Only one turn is required to try again if the first 
+attempt fails. A die roll of 1 through 5 on the second or subsequent attempt successfully 
+creates the block. 
+3. Removing Blocks 
+The procedure for removing a block is exactly the same as that used for clearing 
+minefields. 
+C. SPECIAL ENGINEER VEHICLES 
+The British developed a number of specialized armored vehicle types which were given 
+to the 79th Armored Division for the Normandy invasion. Three of these types are used in 
+the game: 
+1. Sherman Flail 
+This unit performs like a normal tank unit, except that it may clear minefields. Procedure 
+for doing this is: 
+a) Move Into Minefield Hex 
+Flail unit moves into the minefield hex and ends all movement. 
+b) Leaves Minefield Hex 
+In the following movement phase, the flail unit expends half of its total movement 
+allowance leaving the minefield hex. 
+c) Removing The Minefield 
+As the flail leaves the hex, the minefield is removed from the board. Flail tanks cannot be 
+harmed by minefields. 
+2. Churchill Flamethrower 
+This was a Churchill tank with it main armament replaced by a flamethrower for close 
+range work. 
+3. Valentine Bridgelayer 
+This was a Valentine chassis converted to carrying a tank bridge for rapid deployment. 
+Bridges are laid in the following manner: 
+a) Enter Stream 
+Valentine enters stream hex and ends all movement. 
+b) Leaves Stream 
+In the following movement phase, the Valentine expends three movement points leaving 
+the stream hex. 
+
+c) Bridge Placement 
+As the Valentine leaves, the tank bridge is placed on that stream hex, which can be used 
+like a permanent bridge in the same movement phase. Once emplaced, the tank bridge 
+may not be relocated. NOTE: the Valentine bridge layer is the only exception to the rule 
+forbidding vehicular units to enter stream hexes. 
+4. Destroying Temporary Bridges 
+a) Engineers 
+Engineer units may destroy temporary bridges in the same manner as permanent bridges 
+except that the engineers are required to remain on the bridge for only TWO consecutive 
+turns. In the third turn, the engineers move to an adjacent hex and the temporary bridge is 
+automatically destroyed. NOTE: No block counter is placed in the hex. 
+b) Artillery 
+Combat units may destroy temporary bridges by gunfire by using direct or indirect fire. 
+“I”-type weapons may not be used to destroy bridges. 
+5. Ignored For Combat 
+Temporary bridges must be ignored for combat purposes if any other units in the hex are 
+being attacked. 
+6. Attacking Temporary Bridges 
+When attacked by themselves, using the special defensive strengths printed on the bridge 
+counters, temporary bridges are destroyed if an “X” outcome is rolled on the Combat 
+Results Table. Any other result means “no effect”. 
+7. Indirect Attacks 
+If a temporary bridge is attacked by indirect fir, other units in the hex are ignored, but the 
+attack strength of the indirectly firing units is HALVED automatically. (Bridges are very 
+difficult targets to hit and destroy.) 
+8. Affect Of Destroying Temporary Bridge On Vehicles 
+If the temporary bridge is destroyed by direct or indirect fire, any vehicular units (and 
+their passengers) in that hex are destroyed. Non-vehicular units are unaffected. Do NOT 
+place wreck counters in this situation. 
+9. Artillery And Permanent Bridges 
+Permanent bridges may not be attacked or destroyed by artillery fire. 
+XI. AMPHIBIOUS LANDINGS 
+The following rules are used in those situations depicting Allied landings in Normandy: 
+
+A. SET-UP PROCEDURE 
+1. Fortifications, Blocks, and Mines 
+German player places all of his allotted fortification, block and minefield counters on the 
+mapboard as designated by the situation card. 
+2. Secretly Record Landings 
+Allied player secretly records the turn of landing and the coordinate of the initial 
+placement hex for each of his units. (When using the optional naval support fire, the 
+Allied player writes any indirect fire orders for the first TWO game turns at this point.) 
+3. Remaining German Units 
+German player then places his remaining units on the mapboard. 
+B. ALLIED INITIAL SEA HEX PLACEMENT 
+1. No Landing Craft 
+No “landing craft” units are provided on the counter sheets. Instead, Allied units are 
+inverted and placed on the first sea hex adjacent to the beach hex on which they intend to 
+land. 
+2. One Unit Per Hex 
+Only ONE Allied unit may be placed on each sea hex. 
+3. Passenger And Carriers 
+Units with a movement allowance of “0” must be “paired” with carrier-type units. DO 
+NOT place the carrier units with the passenger units on the sea hexes. Place on the 
+passenger unit on the sea hexes. Carrier units are positioned on top of their passenger 
+units when such units move onto the beach hexes in the following movement phase. 
+(They are presumed to be already loaded.) 
+C. BEACH LANDING 
+1. Move Landed Units First 
+All Allied units on land hexes are movd before units on sea hexes are moved onto beach 
+hexes. 
+2. Must Move Onto Beach Hexes 
+In the turn following the initial placement, all units on sea hexes must move onto beach 
+hexes. Units that cannot move onto beach hexes because of stacking limitations are 
+eliminated instead. 
+3. Dispersed Units 
+Units previously dispersed by German fire may land on the adjacent beach hes, but may 
+move no further in that movement phase. 
+
+4. Undispersed Units 
+Undispersed units are turned face up and may move onto beach hexes and continue 
+normal movement to the limits of their movement allowances. 
+5. Occupied Beach Hex 
+If a unit moves from a sea hex to a beach hex already occupied by a friendly unit, all 
+units in that hex are dispersed. No additional penalties accrue against units previously 
+dispersed. 
+D. GERMAN FIRE 
+1. Targeting Sea Hex 
+When firing at Allied units on sea hexes, the German player must allocate all firing units 
+that are attacking a particular target before that target unit is turned face up and the 
+combat resolved. 
+2. Marking Dispersed Units 
+Allied units that are dispersed while on sea hexes are not inverted. Instead, to avoid 
+confusion, indicate dispersed units by temporarily placing a spare “Spotted” marker on 
+top of them. When dispersed units are moved to beach hexes, the “Spotted” marker is 
+removed and the units remain inverted. 
+3. Provisional Defense Strength 
+All Allied units (except DD tanks) on sea hexes are assigned a provisional defensive 
+strength of “8”, representing the defensive strength of the landing craft carrying them, 
+and are treated as ARMORED targets for WEC purposes. 
+4. DD Tanks 
+DD (amphibious) tanks retain their normal defensive strength wile on sea hexes. 
+SPECIAL: When attacking DD tanks on sea hexes, the German player must add “2” to 
+the die roll, reflecting the difficulty in hitting such targets in the water. Each DD tank 
+must roll one die for survival as per the instructions in the individual scenarios. This is 
+done in the turn AFTER placement on the sea hexes BEFORE any other units are moved 
+onto beach hexes. 
+5. After Landing 
+After landing on beach hexes, Allied units revert to their normal defensive capabilities. 
+XII. AIRPOWER 
+Two types of tactical aircraft are represented in the game: fighter-bombers (P-47 
+Thunderbolts and British Typhoons), and light observation aircraft (the L-5). Because of 
+the space-time scale of the game, the aircraft units perform in a rather abstract manner. 
+Each aircraft counter is equivalent to one airplane. 
+
+A. MOVEMENT 
+1. Air Phase 
+Aircraft units move, undergo AA attacks, and resolve combat during the air phase of a 
+2. Unlimited Movement Range 
+Aircraft have unlimited movement capabilities; they may move anywhere on the 
+mapboard in one turn. Terrain has no effect on aircraft movement. 
+3. Entry And Exit 
+Aircraft units enter and exit the mapboard as indicated in the individual situation rules. 
+Aircraft may leave before the end of the game, but once exited, they may never return. 
+B. OBSERVATION AIRCRAFT (L-5) 
+1. Indirect Fire Sighting 
+L-5 observation aircraft are used to sight enemy units to fulfill indirect fire sighting 
+requirements. 
+2. Sighting Range 
+L-5 units may sight enemy units in clear terrain to a range of thirty (30) hexes. Enemy 
+units in woods and town hexes that fire may be sighted if the L-5 is within ten (10) hexes 
+of the firing unit. 
+3. Must Remain In Sighting Range 
+As with ground units sighting for indirect fire, the L-5 must be within range of the target 
+unit from the time the indirect fire order is written until it is executed in the following 
+turn. 
+C. FIGHTER-BOMBERS 
+1. Weapons 
+Fighter-bombers (FBs) have three different types of direct fire weapons systems: 
+machine guns, air-to-ground rockets, and bombs. Fighter-bomber attacks are executed in 
+the air phase of the player segment. 
+2. Executing Attacks 
+Fighter-bomber attacks are executed by moving the FB unit to a hex adjacent to the target 
+hex, undergoing AA attack, if any, and resolving combat. All aircraft attacks are executed 
+as direct fire attacks. 
+a) Only Once 
+A particular target hex may be attacked only once per air phase. 
+
+b) Combined Attacks 
+All aircraft unit attacking a single target hex must total their attack strengths and resolve 
+the attack with a single roll of the die. 
+3. Weapons Characteristics 
+The following char illustrates the armament each FB unit could possibly carry (the exact 
+armament is given in the individual situations): 
+ 
+ATTACK STRENGTH 
+TYPE OF WEAPON 
+Typhoon 
+P-47 
+Machine Guns 
+2(I) 
+3(I) 
+Bombs (2x1000lbs.) 
+30(H) 
+30(H) 
+Rockets (8-10 x 15 inch) 
+20(A) 
+20(A) 
+ 
+a) WEC 
+All WEC effects apply to aircraft in the same manner as ground units: “A” weapons are 
+normal for armored targets and halved against non-armored target, “H” weapons are 
+normal against non-armored targets and halved against armored targets, and “I” weapons 
+are normal against non-armored targets and ineffective against armored targets. 
+b) Individual Or Stack Targets 
+Bob and rocket attacks may be made against single units in a stack or combinations of 
+units as in regular direct fire. 
+c) Only One Type Of Weapon Per Aircraft Per 
+Attack 
+An FB unit may not attack with machine guns in the same air phase in which it conducts 
+a bomb or rocket attack. 
+d) Multi-Aircraft Attacks 
+Machine gun strength points may be combined with bomb and rocket attacks so long as 
+an aircraft unit involved in the attack does not do both. 
+e) Number Of Attacks Per Game By Weapon 
+Each FB unit may conduct bomb or rocket attacks only once per game. It may fire its 
+machine guns only four times per game. A side record must be maintained to verify FB 
+employment. 
+f) May Sight 
+FB units may sight targets in the same manner as the L-5 aircraft. They may not, 
+however, sight (or spot) targets for ground units, but only for other FB units. Thus, FB 
+units cannot be used to sight targets for indirect fire, but if one FB unit sights a target, all 
+FB units presently on the board may attack it. 
+
+D. ANTI-AIRCRAFT DEFENSE (AA) 
+1. Anti-Aircraft Attacks 
+Anti-aircraft fire is a type of direct fire attack initiated in the Allied player’s air phase, 
+before FB units execute their attacks. AA fire is resolved in a similar manner to regular 
+direct fire, except that AA Table and Procedures are used instead of the normal CRT. 
+2. Only Certain Weapons May AA Attack 
+Only German 20mm, 20(4)mm, 37mm, and Wirbelwind units may initiate direct fire AA 
+attacks against aircraft. 
+3. Executing AA Attacks 
+AA attacks are executed in the same manner as regular attacks with these exceptions: 
+a) LOS Requirements 
+The LOS requirements are modified as in XII.B.3 above. 
+b) Non-Armored Targets 
+All aircraft are considered non-armored targets. 
+c) Doubling Attack Strength 
+The attack strengths of AA guns are doubled if attacking half range or less. 
+4. Tracking Fired AA Units 
+Place a blank counter on those AA units that fire to indicate that they may not attack or 
+move in the German player’s segment. 
+5. AA Table 
+See AA Table for further clarifications. 
+XIII. SUMMARY OF TURN SEQUENCE 
+A. ALLIED PLAYER SEGMENT 
+1. COMBAT PHASE 
+a) IF Orders 
+Allied player writes indirect fire orders for next turn. 
+b) Minefield Attacks 
+Allied player resolves any minefield attacks against German units. 
+
+c) IF Attacks 
+Allied player resolves all indirect fire attacks. All units that fire are inverted to signify 
+that they may not move or load in the current player segment. 
+d) DF Attacks 
+Allied player resolves all direct fire attacks. All units that fire are inverted to signify that 
+they may not move or load in the current player segment. 
+2. AIR PHASE 
+a) Movement 
+Allied player moves all aircraft units. 
+b) AA Attacks 
+German player executes AA attacks. Blank counters are placed on firing units to signify 
+that they may not fire, move, or load in the German’s next player segment. 
+c) Aircraft Attacks 
+Allied player resolves all aircraft attacks. 
+3. MOVEMENT PHASE 
+a) Vehicular Units 
+Allied player moves as many face-up VEHICULAR units as he desires, executing any 
+overrun attacks as he does so. 
+b) Non-Vehicular Units 
+Allied player moves any face-up NON-VEHICULAR units. 
+4. CLOSE ASSAULT PHASE 
+Allied player executes close assault attacks using any face-up infantry-type untis that did 
+not unload in the current player segment. 
+5. Face-Up 
+All inverted Allied units are turned face-up. 
+B. GERMAN PLAYER SEGMENT 
+1. REPEAT ALLIED STEPS 
+German player repeats “1” through “5” (except he has no air phase) using his own units. 
+
+2. TURN INDICATION 
+Indicate the passage of one complete game turn on the Turn Record Track. Players repeat 
+“A” and “B” for each turn for as many turns as the situation card indicates or until on 
+player concedes defeat. 
+XIV. USING THE SITUATION CARDS 
+Each of the twenty situations is a complete game. Each game depicts a fact of an actual 
+battle that occurred in Europe between D-Day and V-E Day. The situations are organized 
+in chronological order. It is suggested that players begin with those situations using fewer 
+units. 
+A. GENERAL ORGANIZATION 
+Each situation is organized in the following format: 
+1. Historical Description 
+Gives the name of the battle, background, and the units involved. 
+2. Mapboard Orientation Diagram 
+Illustrates the correct placement of the geomorphic mapboards. Use the “NORTH” 
+marker to orient placement of units, etc. 
+3. Available Forces 
+Illustrates the units to be used for each side. Whenever a number preceded by a 
+multiplication sign appears below a unit’s picture (e.g. “x6”), the side in question 
+receives the stated quantity of that particular unit type. 
+4. Set-up 
+States the order in which each side sets up and restrictions on unit placement (if any). 
+5. Special Rules 
+Rules applicable ONLY to the situation in question are outlined in this section. 
+6. Victory Conditions 
+Provide the criterion for assessing victory. The terms “marginal”, “tactical”, and 
+“decisive” are qualitative expressions provided to judge the degree of victory or defeat. 
+Players may eventually discover that one side or the other possesses such strong 
+advantages that a marginal victory by the opposing side becomes a significant 
+achievement. These qualitative expressions are useful in determining individual levels of 
+victory. Players will find that experience will shift the qualitative aspects of victory from 
+the criterion stated in the situation such that a “draw” result, for example, will represent a 
+superior effort by an underdog player. 
+
+7. Turn Record Track 
+Us this track to record the passage of turns by advancing the “Turn Now” counter at the 
+end of every complete turn. 
+B. GENERAL RULES FOR THE SITUATIONS 
+1. Outer Half-Hexes 
+The half-hexes around the exterior mapboard edge are playable for all purposes. 
+2. Inner Half-Hexes 
+For SET-UP and VICTORY CONDITION purposes, however, half-hexes are not 
+playable. That is, if one side is required to set-up on an entire board section, it may not 
+set-up on half-hexes of that board which would be, by extension, part of the adjacent 
+board. Likewise, victory conditions requiring units to be on a certain board section are 
+not fulfilled if such units are on the half-hexes of that mapboard section which also 
+extend into the adjacent section. 
+3. Entry And Placement When Specified 
+Unist must enter, or be placed on, the mapboard when indicated. Units may not exit the 
+mapboard unless specifically indicated. Units in violation of this rule are considered 
+eliminated for victory purposes. 
+4. Set-up Out Of LOS 
+The side that sets-up last (usually the “offensive” player) must initially place units such 
+that they are out of the LOS/LOF of, or unspotted by, enemy units unless otherwise 
+specifically indicated. 
+5. Naval IF Orders 
+Only NAVAL indirect fire may be pre-recorded before the beginning of a game 
+(specifically in situations No. 2 and No. 3) for the first two turns of the game. Otherwise, 
+NO indirect fire targets may be selected until the beginning of the combat phase of the 
+first game turn. 
+6. FB Armament 
+In those situations utilizing Allied airpower, the Allied play must indicate the type of 
+armament (bombs or rockets) his FB units will carry. This selection is announced prior to 
+the setting-up of any units unless the armament is dictated by the situation’s special rules. 
+7. Controlling Victory Objectives 
+In many of the situations, the victory conditions require one side or the other to “control” 
+specific geographic locations: DEFINITION: Control of Town or Bridge Hexes: 
+a) Town Hex 
+A side controls a TOWN HEX if at least one friendly unit occupies, or is the last to enter 
+or pass through, that town hex. 
+
+b) Bridge Hex 
+A side controls a BRIDGE HEX if at least one friendly unit occupies, or is the last to 
+enter or pass through, that bridge hex AND at least one hex on each side of the stream 
+that is also ADJACENT to that bridge hex. 
+c) Town 
+Control of a TOWN requires that ALL town hexes in that town be controlled. 
+d) Dispersed Units 
+Dispersal does not affect a unit’s ability to control a hex. 
+8. Trucks, Wagons, Empty Fortifications, And Temporary 
+Bridges Do Not Count 
+Trucks, wagons, empty fortifications, and temporary bridge counters may NOT control 
+hexes. Also, these unit types do not count in any way for victory determination either for 
+units destroyed, or units occupying certain mapboard sections. 
+9. GRANCELLES 
+GRANCELLES, the largest town on board section A, consists of all town hexes on both 
+sides of the stream for victory condition purposes. 
+C. THE MAPBOARD LOCATION SYSTEM 
+The letters running down the length of each of the four mapboard sections identify each 
+particular ROW of hexes running across the short width of that section. The individual 
+hexes in that row are identified by counting the number of hexes (starting with and 
+including the hex with the row-letter in it). To identify a given hex on the map (regardless 
+of configuration) give the section letter first, row-letter second, and the hex number last. 
+Thus, “A-Q-10” is the hexagon on the “A” board section containing the town of KUHN, 
+the board section letter “A” is in hex “A-R-6”. In some mapboard configurations, the 
+row-letters of two boards will be in the same hex (two half-hexes joined together); those 
+hexes may be identified as belonging to either section. 
+XV. OPTIONAL RULES 
+Players may employ as many or as few of the Optional Rules as desired. 
+A. INFANTRY QUICK-TIME SPEED 
+Any infantry-type unit (non-MG or mortar) may increase its spead to two hexes for one 
+movement phase with the following limitations: 
+1. Terrain Restrictions 
+The unit may not enter sloope, woods, stream, or town hexes (moving out of is 
+permitted). Moving along a road negates the above restrictions. 
+
+2. May Not Combine Road Movement Rate And QT 
+Units using Quick-time speed may not also use the road movement rate (i.e., they may 
+not move four hexes). 
+3. Defense Strength 
+If fired on by opportunity fire (see below) while moving, the unit defends at half defense 
+strength. 
+4. Dispersal 
+At the end of its movement (and AFTER Opportunity Fire attacks) the unit must roll one 
+die. A 4, 5, or 6 means it is dispersed until the end of the current player segment. Units 
+already dispersed accrue no additional penalty if dispersed again. 
+B. OPPORTUNITY FIRE 
+1. Moving While In LOS 
+Any enemy unit that expends ¼ (rounded DOWN) or more of its movement allowance 
+continuously in LOS of a friendly unit may be attacked by that unit using direct fire 
+attack techniques. 
+2. Only One OF Attack Per Attacking Unit 
+Each firing unit may attack only once per enemy movement phase. 
+3. OF Attack Indication 
+Units that fire in the enemy movement phase are not inverted. Instead, place 
+“Opportunity Fire” counters on top of these units signifying that they may not fire or 
+move in the next friendly player segment. The counters are removed at the end of the 
+next player segment. 
+4. When Attack May Occur 
+As an enemy unit moves through the LOS of a friendly unit, it may be fired upon by that 
+unit as it enters that hex which constitutes ¼ of its movement allowance expended in the 
+friendly LOS (or any hex therafter which is also in the LOS of the friendly unit). At that 
+point, the non-moving player announces an opportunity fire attack. The enemy unit’s 
+movement is halted and the attack is immediately resolved. If the unit is dispersed, it is 
+inverted and ends all movement. If the attack has not effect, the unit may resume its 
+normal movement. 
+5. Moving Into Woods And Town Hexes 
+Movement points expended by the enemy unit moving into forest and town hexes that are 
+in the firing unit’s LOS do NOT count unless the target is SPOTTED by a friendly unit as 
+it does so. 
+
+6. Multiple OF Attacks 
+An enemy unit may be attacked more than once during each enemy movement phase if 
+that unit expends ¼ of its movement allowance in the LOS of EACH attacking unit. 
+7. Unloading Passenger Units 
+Passenger units that are unloaded in a target hex may also be attacked using opportunity 
+fire. In this case, the moving player must first state whether or not the passenger unit is 
+being unloaded in that hex BEFORE the firing player announces an opportunity fire 
+attack in that hex. 
+8. OF Attacks Against German Armored Passengers 
+Units being transported on German armored units may be attacked exclusive of the 
+carrier unit. 
+9. OF Attacks Only Against Units That Move 
+Enemy units that do not move may NOT be attacked by opportunity fire even if they are 
+in the LOS of friendly units. 
+Overrun Attacks And OF 
+Enemy units conducting overrun attacks may not be fired upon while in the hex occupied 
+by the friendly unit being overrun. 
+Moving Into Hexes With Other Units 
+Opportunity fire attacks against units moving into hexes (including town hexes) 
+containing other units may NOT be directed against those other units in the hex. In this 
+special case, those other units are ignored. 
+Units Designated For OF Fire 
+Units designated for indirect fire attacks in the next friendly combat phase may not use 
+opportunity fire. 
+13. 
+Dispersal 
+Units dispersed by opportunity fire remain dispersed until the end of their CURRENT 
+C. NAVAL SUPPORT FIRE 
+Some situations provide naval support fire for the Allied player. This will be in the form 
+of a specified number of naval attack strength points per turn. 
+1. DF Or IF 
+Naval fire may be used in two ways. As direct fire against targets in the open that can be 
+seen directly from any sea hex or as indirect fire with a ground unit sighting (or spotting). 
+Naval indirect fire attacks must be written down TWO turns in advance. 
+
+2. Combined With Ground Based Fire 
+Direct naval and ground fire may be combined into one attack strength during the combat 
+phase. Indirect naval fire may be combined with indirect ground fire. 
+3. (H) Weapon Type 
+All naval fire is (H) class and must be used in groups of 20 attack strength points, 
+minimum. 
+4. Unlimited Range 
+Naval fire has unlimited range, but is always presumed to be firing at ranges greater than 
+six hexes. 
+D. PANZERBLITZ ASSAULT 
+German infantry units on armored vehicles may “jump off” in the hex immediately in 
+front of a unit about to be overrun by those armored vehicles. The infantry may then 
+close assault the units which were just overrun by the vehicles during the CAT phase. 
+XVI. EXPERIMENTAL RULES 
+The following optional rules are termed “experimental” because their application to game 
+situations could unpredictably alter game balance and “flow”. Nevertheless, they do add 
+interesting dimensions to play and enliven situations that, with repeated play, could 
+become stereotyped. 
+A. FUNCTIONAL MOBILITY FOR TURRETED AFV’S 
+To further differentiate the mechanical and operational advantages of the turreted tank 
+versus assault guns and other self-propelled weapons, employ the following rules: 
+1. Attack And Move 
+Allied and German turreted armored vehicles may use their attack strength in the combat 
+phase and move up to half of their movement allowance (rounded DOWN) in the 
+movement phase of the same player segment. 
+a) Indicating Turreted AFV Use 
+Units that fire are inverted as usual, but during the movement phase those units that move 
+are turned face-up and execute half of their movement allowance. 
+b) German Units May Load Or Unload 
+German tank units that fire in the combat phase may either move half of their movement 
+allowance or load/unload. They may not do both, however. 
+2. May Not Combine With Overrun Or Panzerblitz Assault 
+Tank units that fire and move in the same player segment may not make overrun or 
+“panzer assault” attacks during that same movement phase. 
+
+3. OF Fire 
+Tanks using opportunity fire in the previous enemy movement phase are considered to 
+have fired in their own combat phase for purposes of this rule. 
+4. Unit Function Table 
+See the Unit Function Table for a precise listing of which unit types may exercise this 
+rule. 
+B. ARTILLERY FIELD-OF-FIRE LIMITATIONS 
+Artillery pieces are not very mobile once they are emplaced for firing. Therefore the 
+following rule section restricts the direction in which artillery units can fire: 
+1. Non-Movable Artillery Units 
+Non-mortar artillery types with a movement allowance of “0” may only fire at targets that 
+are within their “field-of-fire”. 
+2. Field-Of-Fire 
+A unit’s field-of-fire consists of thos hexes within an area radiating from the “front” three 
+hex sides towards which the unit is facing. Facing is determined by position of the 
+weapon-symbol on the unit counter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Face One Specific Hex Side 
+Artillery unit counters must be faced towards one specific hex side. Ambiguously 
+positioned counters may be adjusted to a specific hex side by the opposing player! 
+4. Changing FOF 
+Artillery units may adjust their facing to any other hex side during the movement phase 
+of their player segment. 
+
+a) May Not Fire 
+Units that fire in the combat phase of their player segment may NOT change their facing. 
+b) Carrier Requirements 
+An artillery unit of 88mm or larger (EXCEPT 25 lber) may only change facing if there is 
+a carrier-type unit in the same hex at the beginning of the movement phase. (There must 
+be one carrier unit for each separate artillery unit). 
+c) No Carrier Requirements 
+An artillery unit of less than 99mm (including 25 lber) does not need a carrier-type unit in 
+the same hex to change facing. 
+5. Unit Function Table 
+See the Unit Function Table for a precise listing of which unit types must abide by these 
+field-of-fire rules. 
+C. SMOKE SHELL CONCENTRATIONS (SSC) 
+1. IF Capable Units 
+Those artillery weapons with indirect fire capabilities (EXCEPT Maultier and 
+Nebelwerfer) may fire “smoke” shell concentrations (SSCs) in order to obstruct the 
+LOS/LOF traced through certain target hexes. 
+a) Minimum Of 25 Attack Strength Points 
+SSCs are executed in the same manner as any other type of direct or indirect attack, but a 
+minimum of 25 attack strength points must be fired into the hex to obstruct the 
+LOS/LOF. 
+b) Not Against Friendly Hexes 
+SSCs may not be fired into hexes occupied by friendly units. 
+c) Not Against Water Hexes 
+SSCs may not be fired into sea, stream (including those crossed by bridges), or swamp 
+hexes. 
+d) Do Not Affect Enemy Units In Target Hex 
+SSCs have no effect on enemy units that may be in the target hex. 
+e) Not As OF 
+SSCs may not be fired as part of an opportunity fire attack. 
+
+f) Not Against IF Or DF Attacked Hexes 
+SSCs may not be fired into a hex that undergoes a regular direct or indirect fire attack in 
+the same combat phase. (Note, however, that regular fire could be directed at a hex 
+containing an SSC in subsequent turns.) 
+2. Duration 
+An SSC lasts for two consecutive turns after which it is dissipated. 
+a) SSC Indication 
+Indicate those hexes receiving SSCs by placing a HEADS-UP coin in each one of as they 
+are fired upon. 
+b) Turn 1 
+At the beginning of the first friendly combat phase after firing, all HEADS-UP coins 
+presently on the mapboard are flipped over. 
+c) Turn 2 
+At the beginning of the second friendly combat phase after firing, all TAILS-UP coins 
+are removed, signaling the dissipation of the smoke shell concentration. 
+d) Both Sides And SSCs 
+If both sides are using smoke shells, it is suggested that two different denominations of 
+coins be used. 
+3. Effects 
+a) Obstructs LOS/LOF At All Elevations 
+SSCs obstruct the LOS/LOF through the target hex at ALL elevations. By way of 
+example, picture a solid column of dense smoke 250 meters wide extending vertically 
+from the target hex to an altitude of several hundred meters. This obstruction also 
+includes air-to-ground sightings if airpower is employed. 
+b) Any Part Of The Hex Obstructs LOS/LOF 
+The LOS/LOF from a firing unit’s hex to a target hex is obstructed if the straight line 
+traced from hex-dot to hex-dot intersects any part of the SSC target hex. 
+c) Firing Into Or Out Of SSC Hex 
+The LOS/LOF is not blocked for units firing into or out of hexes containing SSCs, but 
+such hexes must be spotted to be fired upon. (In effect, for LOS/LOF purposes, SSC 
+hexes function like “unusually tall” town hexes.) 
+4. Firing SSCs Just Like DF Or IF Attacks 
+Firing SSCs is the same as a regular direct or indirect fire attack and places the same 
+types of restrictions on these firing units as any other type of attack. 
+
+5. No Effect On Movement 
+Smoke shell concentrations have no effect upon movement. 
+6. Repeated SSC Attacks 
+SSCs may be fired into a hex as often as desired to, in effect, create a continuous 
+LOS/LOF obstruction. 
+7. SSC Attacks May Be DF Or IF 
+Even though only weapons with indirect fire capabilities may fire SSCs, they may be 
+fired directly or indirectly.

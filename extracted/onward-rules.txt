@@ -1,0 +1,1334 @@
+2-4
+14-
+Giacomo Neri 
+Riccardo Neri
+A Board game Inspired by MOBA Video Games 
+
+Miniatures add-on sold at 
+www.playskytear.com
+Video tutorial
+Learn to play with a video at www.playskytear.com.
+Overview
+Onward is a competitive strategy game for 2 to 4 players 
+that lasts about 1 hour. (Though for your first game, 
+expect more like 2 hours.)
+In Onward, players split into the Light and Shadow teams, 
+with each player controlling two or more heroes. The 
+goal is to destroy the enemy nexus, a portal in their base.
+The game design is heavily inspired by a genre of video 
+games called MOBA, but don’t worry—you don’t need any 
+experience in those games to enjoy it! 
+The rulebook dives into the setup and rules right away. 
+If you prefer an extended overview first, see page 14.
+Have fun! 
+Giacomo and Riccardo
+P.S. 
+Make our day... leave a rating for Onward on 
+BoardGameGeek.com after your first game!
+Section 1: Getting started
+Components........................................................... 3 
+Setup....................................................................... 4
+Section 2: How to play
+Goal of the Game.................................................... 6 
+Flow of the Game................................................... 6 
+Shop Phase............................................................. 6 
+Plan Phase.............................................................. 7 
+Hero's Turn.............................................................. 7
+Move Action............................................................ 8 
+Pass Action............................................................. 8 
+Attack Action.......................................................... 8 
+Cast Action.............................................................. 9 
+Reactive Cast Action.............................................. 9
+Minion Phase........................................................ 10 
+Jungling Phase..................................................... 11 
+Onward Phase....................................................... 11
+Section 3: Key concepts
+HP and DMG (Damage)........................................ 12 
+Areas..................................................................... 12 
+Adjacent, Longer Distances................................. 12 
+Targeting............................................................... 12 
+Retaliate................................................................ 12 
+Statuses................................................................ 12
+Units...................................................................... 13
+Section 4: APPENDIX
+Tips to get Started................................................ 14 
+Extended Overview............................................... 14 
+Clarifications......................................................... 15 
+Heroes Overview & Choosing Heroes................. 16 
+Two-Lane Map Set Up.......................................... 17 
+Legendary Expansion........................................... 17 
+The Lore................................................................ 18 
+Credits................................................................... 19
+Reference page
+Key terms, statuses, reminders........................... 20
+
+Components
+96 hero cards 
+(6 per hero)
+16 hero sheets 
+(4 per color) 
+4 player aids
+16 hero figures and 
+16 hero HP tokens
+24 minion tokens 
+and 6 figures
+18 TOWER TOKENS 
+(9 per team)
+2 nexus HP tokens 
+and 2 figures
+18 monster / GOLD tokens 
+(3 each of 6 types)
+4 outsider tokens, 
+1 figure and 1 sheet
+48 item cards 
+(12 per color)
+30 status tokens 
+(6 each of 5 types)
+1 double-sided board
+A. Nexus	 	
+B. Lane	
+	
+C. Jungle		
+D. River	
+	
+E. Market		
+F. Hit Points and Day track
+1 onward 
+token
+7 Gold Tokens 
+(2 types)
+1 skytear card
+Unrelated to Onward, it allows you to 
+play the outsider in Skytear (a game 
+we previously released in 2020).
+15 plastic bases
+The transparent base is for the outsider 
+figure. The colored bases are for the hero 
+and minion figures (7 per team). 
+Minion tokens and figures 
+are interchangeable.
+If you run out of components while playing, use a substitute piece instead. 
+Missing something? Email help@playskytear.com for customer support.
+
+J
+I
+K.2
+K.3
+Common Setup
+The example image shows a 2 player setup. With 3 or 
+4 players, the only difference is that there should be 
+more decks and discard piles (step L and M).
+TEAMS 
+Players split into Light and Shadow teams, assigned 
+randomly. 
+Tokens with a gold border are for units friendly to the 
+Light team. Tokens with a dark border are for units 
+friendly to the Shadow team.
+BOARD
+Place the board in the middle of the table with the 
+nexus area close to the respective team. 
+For your first game, we recommend the 3-lane map, 
+as shown. The setup for the 2-lane map is on pg. 17.
+Onward token
+Place the Onward token on the number 1 of 
+the Day track with the Light team side up.
+OUTSIDER
+Place the 4 outsider tokens, the outsider sheet, 
+and the outsider figure next to the board.
+It will only enter play in a river area only once all 
+heroes have taken a turn, at the end of a Day.
+Find the monster tokens and create one 
+stack for each different type of monster. 
+You should have a total of 6 stacks. 
+Place one stack in each jungle area, as shown.
+Nexuses
+Each team places their nexus figure in 
+their nexus area.
+Each team places their nexus token next to 
+the number 9 of the hit points (HP) track.
+Towers
+Each team places 3 of their tower tokens in 
+each lane, placed on the border dividing two 
+areas, as shown. 
+Each team places their minion tokens and 
+figures next to the board, as a reserve. 
+Minion tokens and figures are interchangeable.
+Statuses 
+Create a reserve of status tokens next to the board.
+I
+ITEMS and market 
+Find the item cards and group them by the 
+color of their banner and border. (You should 
+have a total of 8 stacks.)
+Shuffle each stack and place it face-up in the 
+market as shown.
+Players may NOT look at the cards underneath 
+the topmost item card.
+
+J
+K.3
+Heroes setup 
+Each team chooses 4 different heroes following one of 
+the suggested methods on page 16 (quick tip: one hero 
+of each color forms well-rounded teams).
+For your first game, use these heroes:
+■	 Shadow team: Akimo, Miyuki, Kichie, and Yami. 
+■	 Light team: Vorhild, Brylvar, Astryda, and Heraal.
+For 3 or 4 player games, freely split these heroes 
+amongst teammates.
+Whenever you choose a hero:
+1	 Place their sheet next to you, dark border face-up.
+2	 Place their HP token next to the 9 of the HP track. 
+Use the side of the token corresponding to your team.
+3	 Place the hero figure in your friendly nexus area.
+4	 Take the six cards with the hero image and set them 
+aside for the next step.
+Ultimates and discard piles
+Each hero has one ultimate spell, represented by the 
+card with the gold border and a "4" in the corner. 
+Place all the ultimates of your heroes in a face-up stack 
+next to you, forming your discard pile. (The order of the 
+cards does not matter.)
+Decks and draw 
+Take all of your other hero cards (there should be 5 for 
+each hero). Shuffle these cards to form your deck and 
+place it face down next to the discard pile.
+Each player draws 2 cards into their hand. In a 3-player 
+game, the player without a teammate draws 4 cards 
+instead.
+Player aids 
+Each player takes one player aid (it is double-sided). 
+You are ready to play!
+K
+ONLY Ultimates 
+have a gold 
+border and A "4"
+Player's Setup
+Item colors explained
+The color of an item's banner indicates 
+its focus:
+■ 	Red for damage.
+■	 Yellow for speed.
+■	 Blue for defense.
+■	 Green for lane control.
+Additionally, the color of an item's border 
+indicates their rarity:
+■	 Dark borders for common items, which 	
+	
+appear in multiple copies each 
+■	 Bright border for unique items, which 	 	
+	
+have only one copy.
+
+Goal of the game
+The first team that destroys the enemy nexus wins. 
+You have three ways to damage and destroy it:
+■	 Siege it with your minions.
+■	 Attack it with your heroes. 
+■	 Cast spells targeting it.
+In any case, you must first destroy the enemy towers 
+that are blocking your access to the enemy nexus.
+And to destroy the towers, you have the same three 
+ways: you may siege, attack, or cast spells at them.
+ 
+Flow of the game
+Play a series of rounds until a team wins. 
+Each round, up to two heroes—one from each team—
+take their turn. 
+A round has the following structure:
+How to Play
+Shop Phase
+Skip the shop phase the first round of the game.
+In this phase, teams shop in order of team priority.
+To shop, purchase any number of items from the market 
+by paying their cost, shown at the top of each card.
+To purchase an item, place enough gold tokens of your 
+team in the reserve and take change back as needed. 
+After purchasing an item, place it next to any friendly 
+hero’s sheet. That hero gains the item’s effect.
+Each hero may have at most one item in each color. 
+While shopping, you may discard items to make room, 
+but they cannot be moved between heroes. To discard 
+an item, place it at the bottom of the respective stack on 
+the market.
+9 gold 
+cost
+6 gold 
+cost
+Team priority
+The team with priority is indicated by the Onward 
+token and determines who shops and plans first. 
+Priority changes whenever there is a tie for the 
+fastest hero (see step 3 of the plan phase).
+SHADOW 
+TEAM
+Light 
+TEAM
+Empty decks
+If you would draw from an empty deck, shuffle 
+your discard pile to form a new deck first.
+Discard piles
+Discard piles are face up; any player may examine 
+them; the order of the cards in them doesn't matter.
+Hand limit
+At the end of your turn, if you have more than 7 
+cards in hand, place any of them into your discard 
+pile until you have 7.
+Hero states
+Heroes are in one of three possible states. You 
+keep track of their state by rotating their sheet.
+shop phase
+jungling phase
+plan phase
+minion phase
+slowest hero's turn
+(From the other team.)
+fastest hero's turn
+(From one team.)
+onward phase
+Only happens if all heroes are 
+exhausted or respawning.
+round structure
+
+a player with priority plans
+The team with priority freely chooses a player on their 
+team who has a ready hero. 
+If your team does not have a ready hero, your team skips 
+this step and will not take a hero's turn this round.
+To plan:
+1	 Draw 2 cards from your deck. 
+2	 Choose 1 ready hero to plan with.
+3	 Choose any 1 card from your hand to be your 
+	
+"plan card" for the round. 
+	
+Place it face down on the chosen hero's sheet. 
+The plan determines how many MP and AP (movement 
+and attack points) that hero may gain during their turn.
+When planning, ignore the bottom part of the plan card 
+and also its illustration because those are only relevant 
+when using the card to cast it as a spell.
+ 
+A PLAYER without priority plans
+Repeat the step above for the team without priority. 
+To maintain game flow, both players may draw their 2 
+cards simultaneously.
+ 
+Step 3 
+Determine the fastest hero
+Reveal all plan cards simultaneously.
+The initiative of a hero is the number of MP on their plan 
+(items and abilities may grant extra MP and initiative).
+The hero with the highest initiative is the fastest and 
+takes the first turn this round.
+In case of tie, the team with priority breaks that tie and 
+flips the Onward token to show a change of priority.
+E.g. the hero to the left has a plan with 3 MP and will take 
+a turn before the hero who has a 0 MP plan card.
+4 MP
+1 AP
+ST
+ND
+Fallback plan?
+At the start of your hero's turn, they become the active 
+hero and you must choose whether to use:
+■	 The normal plan on their plan card.
+■	 Or, the fallback plan on that hero's sheet.
+Then, the hero gains the MP and AP of the chosen plan.
+The number of AP and MP available to a hero is not 
+tracked with any component. Players must remember 
+how many of those they have "spent" during their turn.
+ 
+Take actions
+The active hero may take any number of the actions 
+below, in any order:
+■	 MOVE: spend 1 MP to move to an adjacent area.
+■ 	ATTACK: spend 1 AP to attack an enemy in range.
+■	 PASS: discard the hero's plan card to end their turn.
+Any friendly hero, and not just the active hero, may take 
+any number of cast actions:
+■ 	CAST: reveal any 1 card from your hand. Cast it as 	
+	
+a spell using the hero illustrated on the card. 
+	
+Then, discard the card.
+In addition, heroes' abilities and items may grant more 
+actions labeled as "Action:". Only the active hero may 
+take those.
+ 
+For example
+A hero with 2 MP and 1 AP could take a turn in any one of 
+these ways: 
+- Attack, move, and move again; 
+- Move, attack, and move again; 
+- Move, move again, and attack. 
+In-between these actions, that hero or even any other 
+friendly hero may cast any number of spells.
+FALLBACK PLAN
+NORMAL PLAN
+Plan Phase
+Hero's Turn
+
+To declare a move action, the active hero must:
+■	 Spend 1 MP.
+■	 Choose an adjacent area. (See Adjacency on pg. 12.)
+To resolve it, place that hero's figure in the chosen area.
+■	 There is no limit of units in any given area.
+■	 The river is like any other area for movement purposes 
+(I.e. it does not prevent heroes from moving in).
+■	 Enemy towers prevent adjacency. (See pg. 12.)
+E.g. The hero below may move to any one of the areas 
+adjacent to them.
+To declare an attack action, the active hero must:
+■	 Spend 1 AP.
+■	 Choose 1 
+ target enemy unit in attack range. 
+	
+(
+ Targeting is explained on pg. 12. 
+	
+Enemy units might be heroes, minions, monsters, 	
+	
+towers, nexus, or the outsider. See pg. 13.)
+The attack range is indicated by the symbol on the hero's 
+sheet (in the fallback plan) and can be melee or ranged.
+■	 Melee heroes only attack in their own area.
+■	 Ranged heroes ONLY attack in adjacent areas. 
+Resolving an attack
+To resolve an attack, reveal and discard the top card of 
+your deck to determine the attack card. 
+The number in the top right corner of the attack card 
+is the strength of the attack. The strength is the DMG 
+(damage, see pg. 12) dealt by the attack to the target.
+If there is a "+" next to the number, reveal an additional 
+attack card and sum the strength of all attack cards. 
+This may lead to 2 or more attack cards being revealed.
+E.g. The first attack card has 1 strength with a plus sign. 
+The second card has 2 strength, for a total of 3 DMG. 
+Multiple targets
+If an effect allows the hero to target multiple enemies at 
+once with an attack, follow the steps above only once for 
+all targets, not separately for each.
+Weak enemies
+If an attack card with 2 strength is enough to defeat all 
+targets, do not reveal any card when attacking. Instead, 
+treat the attack as if a card with 2 strength was revealed.
+This will often be the case with minions, monsters, and 
+towers. (As they all have 1 Hit Point, or HP. See pg. 13.)
+Move Action
+Attack Action
+The pass action is mandatory and it ends the hero's turn. 
+To resolve a pass action take the following steps:
+■	 Exhaust the active hero. 
+■	 Discard their plan card and all their statuses.
+■	 All heroes lose their unused AP and MP.
+Reminder of the structure of a round: 
+Pass Action
+Declaring vs resolving actions
+When explaining the actions, we distinguish 
+between "declaring" and "resolving" them.
+Unless an enemy casts a reactive spell, an action 
+will resolve right after you declare it. 
+In practice, this will be the case most of the time... 
+But not always!
+shop phase
+jungling phase
+plan phase
+minion phase
+slowest hero's turn
+(From the other team.)
+fastest hero's turn
+(From one team.)
+onward phase
+Only happens if all heroes are 
+exhausted or respawning.
+round structure
+RANGED
+MELEE
+
+To declare a cast action you must:
+1	 Place one card from your hand face up in front of 	
+	
+ you. The effect at the bottom of it will resolve.
+2	 Choose all the 
+ targets. The hero illustrated on 	
+	
+ the card is the caster. All distances are measured 	
+	
+ relative to the caster.
+3	 If the effect has an additional cost, the caster must 	
+	
+ pay it. (Most spells do not have it.)
+4	 If the effect offers multiple options, you must choose 	
+	
+ them now. (Most spells do not offer options.) 
+Resolving a spell
+To resolve a cast action do what is written in the effect 
+of the played card in the written order and as much as 
+possible. Then, place the played card in your discard pile. 
+Make sure to consult the reference page on the back of 
+this rulebook to understand keywords and terms.
+Free move and attack actions
+Spells may let you "move" or "attack" with heroes. 
+In these cases, follow the same rules of the respective 
+actions, except:
+■	 The caster does not have to pay any MP or AP.
+■	 The caster does not have to be the active hero.
+■	 Enemies cannot react to free actions.
+special timing spells
+Some spells can only be cast at specific moments—like 
+during your Shop Phase. These are marked with the 
+ symbol next to their name, and the exact timing is 
+written on the card itself.
+Important
+Any friendly hero in play may cast spells during 
+your turn, even exhausted ones! 
+As long as you have cards left in hand, there is no 
+limit to the number of spells you can cast.
+Cast Action
+Reactive Cast Action
+When an enemy hero declares an action, at most one 
+friendly hero may declare one reactive cast action in 
+response.
+If they do, their spell will resolve before the action they 
+responded to.
+Reactive cast actions may only be taken with reactive 
+spells, identified by a lighting bolt 
+ symbol.
+Teams can declare multiple reactive cast actions in 
+response to each other, as long as they alternate. 
+(I.e. the same team cannot take two reactive cast 
+actions in a row.)
+If this happens, the cast actions will resolve in reverse 
+order. (For an example, see pg. 15.)
+Reactive spells, may also be cast as non-reactive spells, 
+during friendly heroes' turns.
+Missing targets
+When an effect resolves, only 
+ targets in range 
+and sight will be affected (and you cannot change 
+your targets after you declared them).
+If the effect has additional requirements (e.g. the 
+target must be in a jungle) all of those additional 
+requirements must be met as well.
+This is a general rule that applies to all effects 
+that target: spells, abilities, attacks... Etc.
+Attacks that miss all the targets resolve without 
+effect and without revealing attack cards.
+A common example
+Every hero has a reactive spell called "Flash" that 
+moves them to 1 target adjacent area.
+When one of your heroes is targeted by an enemy, 
+you may cast "Flash" to move out of range (or out 
+of sight, into a jungle) and avoid the effect.
+Reactive 
+SPELL 
+SYMBOL
+
+After the fastest hero's turn, the minion phase begins. 
+In this phase, push each lane in the order decided by the 
+team with priority.
+How to push a lane
+If there are one or more minions in the lane, perform the 
+following 3 steps. Otherwise, skip directly to step 3.
+count momentum
+The contested area is the area with minions in a lane. 
+(There can be at most one contested area in each lane.)
+■	 Each minion in the contested area contributes 
+	
+1 momentum to their team.
+■	 Each hero in the contested area contributes 
+	
+1 momentum to their team.
+Items and abilities may contribute extra momentum.
+ 
+spend momentum
+If a team has minions and more momentum than the 
+enemy team they must spend the difference between 
+their momentum and the enemy's momentum. 
+The difference (and only the difference!) is spent to take 
+actions with friendly minions, as explained below.
+ 
+Step 3 
+place minions
+Each team places one friendly minion:
+■	 In the area with minions. (I.e. the contested area.)
+■	 Or, if there are no minions in the lane, in the area 	
+	
+marked with "M" instead.
+Then, proceed to push the next lane.
+Minion Phase
+Often overlooked: retaliate
+Nexus and towers have the Retaliate ability that 
+is explained on page 12. In short: when minions 
+assault towers or siege nexuses, those structures 
+resolve an attack action (pg. 8) against one of the 
+minions and, most likely, defeat one of them. 
+If this attack action defeats the last of your 
+pushing minions, any momentum left is lost.
+Example> The first round
+There are no minions anywhere. It does not matter 
+whether there are heroes or not. 
+When pushing each lane, you only do step 3, ending with 
+one minion of each team in the areas marked with "M".
+ 
+Example> Zero momentum push
+Both teams have the same momentum (E.g. the same 
+number of heroes and minions) in the contested area. 
+The difference in momentum is zero. 
+No team may spend momentum, each team places one 
+friendly minion in the contested area.
+ 
+Example: typical push
+The Light team has 3 minions and 1 hero in the 
+The Shadow team has only 1 minion instead. 
+The difference is 3 momentum that is spent this way:
+■	 1 momentum to assault and defeat the enemy minion.
+■	 1 momentum to assault and destroy the enemy tower. 
+	
+The destroyed tower retaliates and defeats one of the	
+	
+pushing minions. (The light team could have decided 	
+	
+to assault this tower before the enemy minion in the 	
+	
+previous step.)
+■	 1 momentum, to advance 1 area (because they cannot 	
+	
+assault or siege).
+Then, each team places one friendly minion in the 
+Before the push
+After the push
+Minion actions
+Minions must assault whenever possible. 
+If they cannot assault, they must try to siege. 
+If they cannot siege, they must advance.
+ASSAULT
+Spend any amount of momentum to deal that 
+same amount of DMG (damage) to one enemy 
+hero, minion, or tower in the contested area.
+SIEGE
+Spend all remaining momentum to deal the same 
+amount of DMG to the ADJACENT enemy nexus, 
+ignoring its Tough ability.
+ADVANCE
+Spend 1 momentum to move all of your minions 
+(and only your minions) into an adjacent lane area 
+toward the enemy nexus.
+
+Example: extreme push
+The Light team has 6 minions and 2 heroes in the 
+The Shadow team has only 1 minion instead. 
+The difference is 7 momentum that is spent this way:
+■	 1 momentum to assault and defeat the enemy minion.
+■	 1 momentum to advance toward the enemy nexus 	
+	
+because they cannot assault or siege.
+■	 2 momentum to assault and defeat an enemy hero 	
+	
+there, assuming it had only 2 HP left.
+■	 1 momentum to assault and destroy the enemy tower 	
+	
+there. The destroyed tower retaliates and defeats one 	
+	
+pushing minion. 
+	
+(The light team could have decided to assault this 	
+	
+tower before the enemy hero in the previous step.)
+■	 2 momentum, all that is left, to siege the nexus and 	
+	
+deal 2 DMG to it. 
+The nexus has the Tough ability, meaning it cannot lose 
+more than 1 HP at a time. But the Siege action explicitly 
+ignores Tough, so the nexus will lose 2 HP. 
+The nexus retaliates and defeats one pushing minion.
+Finally, each team places one friendly minion in the area 
+with minions.
+Before the push
+After the push
+Each hero in an area with a monster defeats it.
+When one of your heroes defeats a monster, flip the 
+monster token on its other side and keep it in front of 
+you to track the gold available to your team.
+If there are heroes from opposing teams in the same 
+area, the team with the most heroes in that area, defeats 
+the monster. If tied, neither team defeats the monster.
+Please note: 
+■	 Monsters, like any other unit, may also be defeated 	
+	
+with spells and attacks. The jungling phase is another 	
+	
+way to defeat them. (For units, see pg. 13.)
+■	 After the jungling phase, the slowest hero takes 
+	
+their turn.
+Jungling Phase
+Onward Phase
+The Onward phase happens only if all heroes are 
+exhausted or respawning (I.e. if there are no ready 
+heroes.)
+If they are, the Day ends. Follow these steps:
+1	 Ready all exhausted heroes.
+2	 Exhaust all respawning heroes.
+3	 Advance the Onward token on the Day track.
+At the end of the first Day, the outsider enters play:
+■ Place the outsider figure in the river marked with O.
+■ 	Place a stack of 4 outsider tokens in the HP track 
+	
+next to 5, either side face-up, it does not matter now. 
+	
+(The outsider is explained on pg.13.)
+At the end of the fifth Day, the team whose nexus has 
+most HP wins (or the team with priority, in case of tie).
+For your reference, most games end around the third Day.
+
+HP and DMG
+Units in play have 1 or more HP (hit points). 
+DMG (damage) reduces the unit's HP by the same 
+amount, down to a minimum of zero.
+As soon as a unit has zero HP, it is defeated and their 
+token or figure is removed from the board, out of play. 
+This happens immediately and interrupts any other 
+effect that may still be resolving. 
+A unit's starting HP is also their maximum HP.
+ 
+Areas
+Areas are where units stay in play. They are delimited by 
+lines and there are four types of them: lane, jungle, river, 
+and nexus (as indicated on pg. 3). 
+Jungles are the only type of area with an associated rule 
+that limits targeting. 
+To avoid confusion: the river is not a jungle.
+ 
+AdjacenCY
+Two areas are adjacent if they share one edge marked 
+by a pair of triangles (highlighted in the images below).
+Towers prevent adjacency for enemies. 
+If there is a tower on the edge between two areas, 
+enemies no longer consider those areas adjacent. 
+Longer Distances
+A distance may be expressed as a number of areas. 
+For example, the image below indicates the distance 
+between areas relative to the area marked with the 0 
+(E.g. Areas 0,1, and 2 are "within 2 areas" of area 0).
+When determining distances, consider only the shortest 
+path, and remember that the Barrier ability of enemy 
+towers prevents adjacency.
+ 
+Status effects
+Status effects apply only to heroes and maximum one of 
+each type per hero. 
+When a hero gains a status, place the corresponding 
+token on that hero's sheet.
+The effect of each type of status is explained in the 
+reference page on the back of this rulebook.
+When a hero ends their turn or is defeated, remove all 
+their statuses.
+ Targeting
+The target symbol (
+) identifies the targets you 
+must choose when declaring an action. 
+When the action resolves, your hero may miss the 
+targets (see sidebar on pg. 9).
+Targeting in jungles
+To target an enemy in a jungle area, there must be 
+a friendly hero in the same area as the target.
+I.e. to target an enemy in a jungle, you need a 
+friendly hero in that jungle to "spot" the enemy.
+If your hero is in the same jungle area as the 
+target, no additional "spotter" is required.
+You can always target:
+■	 Friendly heroes in jungles.
+■	 Jungle areas themselves. 
+	
+(Some spells target areas.)
+If a word is not preceded by the 
+ symbol, it is 
+not targeting, and this rule does not apply.
+Retaliate
+When a unit with Retaliate is dealt damage, their 
+controller resolves an attack action against the 
+damage dealer (see attack action on pg. 8).
+In the case of units not controlled by any player 
+(e.g. outsider) the opponent reveals the attack 
+card(s) to determine the DMG dealt.
+If "Retaliate" is followed by a status or effect, 
+apply that status or effect instead of attacking. 
+Retaliate happens even if the retaliating unit is 
+defeated and as soon as the action (or effect) 
+that dealt DMG is fully resolved.
+Fine print: 
+■	 A Retaliate attack prevents other Retaliate effects.
+■	 A unit may have multiple different Retaliate abilities.
+■	 The retaliate attack ignores the jungle targeting 	
+	
+limitation and is always within range. Once triggered, 	
+	
+it resolves even if the unit with Retaliate gains Silence.
+■	 Retaliate happens even if armor prevents all the DMG.
+■	 You cannot cast in reaction to Retaliate.
+■	 For timing details, see "Triggered effects" on pg 15.
+Key Concepts
+
+Heroes
+All heroes start with 9 HP (hit points). 
+Hero sheets have these elements:
+1	 Fallback plan (pg. 7) and attack range (pg. 8).
+2	 Ability that applies whenever possible.
+3	 Name, faction symbol, and class (pg. 16).
+Defeated heroes
+When a friendly hero is defeated, follow these steps:
+1	 If they are the active hero, they must immediately 	
+	
+resolve a pass action to end their turn. 
+	
+I.e. This will cause the hero to become exhausted.
+2	 Then, regardless of whether they were the active 
+	
+hero or not, rotate their hero sheet 90° clockwise to 	
+	
+change their state. 
+	
+I.e. If they were ready, they are now exhausted. 
+	
+If they were exhausted, they are now respawning. 
+	
+No matter what, they will skip their next turn.
+3	 Place their HP token and figure on their sheet and 	
+	
+remove all their statuses. The hero is out of play and 	
+	
+they cannot take actions, use items, or abilities.
+4	 Level up the enemy hero that defeated yours. 
+	
+If that hero is already leveled up or does not exist 	
+	
+(E.g. burn status, tower or outsider retaliate) the 	
+	
+enemy team levels up one hero of their choice.	
+Leveling up heroes
+To level up a hero, follow these steps:
+■	 Flip over their sheet.
+■	 Heal 2 HP to them.
+respawning heroes
+Defeated heroes will eventually return to the ready state. 
+During the Onward phase, respawning heroes become 
+exhausted, and exhausted heroes become ready. 
+When you plan with a hero that is out of play, they enter 
+play again: place their figure in their nexus area and set 
+their HP to 9.
+Starting side
+Leveled up side
+Nexuses
+Nexuses start at 9 HP and cannot be healed. 
+When the enemy nexus is destroyed, your team wins! 
+Nexuses have the "Retaliate" and the "Tough" abilities. 
+Tough means they can lose at most 1 HP at a time.
+Towers
+Towers have 1 HP and stay in play in two areas at once, 
+on the border between those two areas. 
+Towers have the "Retaliate" and the "Barrier" abilities. 
+Barrier prevents adjacency for enemies (see pg. 12).
+Minions have 1 HP. Minions in each lane will always be 
+in the same area, known as the contested area. If you 
+run out of minion tokens, use a substitute piece instead. 
+There is no maximum limit to the number of minions. 
+Minion tokens and figures are interchangeable.
+Monsters have 1 HP and may be in play on top of a stack 
+of other monster tokens. Only the topmost monster of a 
+stack is in play. Monsters do not respawn. 
+When one of your heroes defeats a monster, flip the 
+monster token on its other side and keep it in front of 
+you to track the gold available to your team.
+Outsider
+The outsider has 4 lives with 5 HP each. 
+You track both its lives and its HP with a stack of 
+outsider tokens. The number of tokens in the stack 
+indicates its lives, the position of the stack on the HP 
+track indicates the HP of its current life.
+When one of your heroes defeats one life of the outsider, 
+follow the instructions written on its sheet. (It will grant a 
+game-changing boon to the team that defeated it!)
+Reminder: the outsider enters play at the end of the first 
+day. (See Onward phase on pg 11.) 
+Starting side
+Tamed side
+NEXUS
+Heroes
+TOWERS
+Units
+Outsider
+5 HP
+You are ready to play
+You may look for tips to get started on the next page. 
+
+Extended Overview
+Tips To Get Started
+The big picture
+In Onward there is only one goal but many ways to 
+achieve it in practice. 
+You have to decide how to divide your focus between:
+■	 Defeating monsters to get items.
+■	 Defeating minions and towers to push the lanes.
+■	 Defeat heroes to level up and "gain" extra turns.
+For your first game, it is safer to do a bit of everything as 
+you learn what heroes' spells and abilities can do.
+Your first turn
+If you plan with a ranged hero and it is the fastest hero, 
+your only valid target to attack will be an enemy tower in 
+the lane because, most likely, all other targets will be out 
+of range or hidden in jungles. 
+Bear in mind, the fallback plan will always be enough 
+to move and attack an enemy tower (remember: it 
+retaliates).
+If you plan with a ranged hero and it is NOT the fastest 
+hero, enemy minions (and maybe even a hero) will be 
+within attack range and are both valid targets, depending 
+on your strategy.
+If you plan with a melee hero, the fallback plan will 
+always be enough to enter a jungle and defeat a monster 
+there. 
+Then, if it is the fastest hero, you will also immediately 
+defeat another monster just by ending the turn there 
+(see Jungling phase).
+Often overlooked
+These are some rules specifically about the attack 
+action that are often overlooked during the first game:
+■	 Ranged heroes cannot attack enemies in their area 
+but ONLY enemies in adjacent areas.
+■	 Enemies in a jungle cannot be targeted unless there is 
+a friendly hero there (pg. 12). This include monsters.
+■	 The attack range of a hero is always the one on their 
+fallback plan, even if they do not use the fallback but a 
+normal plan (the normal plan shows both the melee and 
+ranged symbols and might be confusing).
+Heroes are the protagonists. Each player controls two or 
+more of them. They move, attack, use their abilities, and 
+level up when they defeat enemy heroes.
+The goal of the game is to destroy the enemy nexus.
+Nexuses are portals in the corner of the map.
+Lanes are corridors connecting the two nexuses and are 
+populated with towers and minions from both teams.
+Towers are defensive structures preventing enemy 
+heroes and minions from rushing into the nexus.
+Minions are mindless, weak units that become more 
+dangerous when grouped together. They always try to 
+advance toward the enemy nexus attacking any enemy 
+in their way.
+Jungles are areas between lanes where heroes can 
+defeat monsters to earn gold, which they use to buy 
+powerful items and grow stronger.
+The river is a central area where your heroes can battle 
+the colossal outsider monster. 
+Whoever defeats it, gains a game-changing boon!
+
+Clarifications
+If you are uncertain of a rule, check these clarifications, 
+your best judgment, or look for some help online!
+At www.playskytear.com you will find errata and 
+clarifications as well as a link to our Discord server 
+where you may ask questions directly to the designers.
+General rules
+■	 If a card effect conflicts with the rules in this rulebook, 	
+	
+the effect on the card takes precedence.
+■	 If there is a tie for distance, the player who is 	
+	
+ resolving the effect decides. If that player is not 		
+	
+defined, the team with priority decides.
+Multiple reactive cast
+Multiple reactive cast actions can be declared in 
+response to each other, as long as teams alternate 
+declaring them (i.e. you can only declare a single 
+reactive cast action after an opponent declares an 
+action).
+If multiple reactive cast actions are declared in response 
+to each other, they will resolve in reverse order. 
+In other words, the last spell cast resolves first while the 
+first spell cast resolves last. 
+Tip: when three or more reactive spells are cast, stacking 
+the cards in reverse order can help track their order of 
+resolution.
+Example
+1. Your hero declares an attack targeting an enemy hero. 
+2. In response, the enemy declares a reactive cast action 
+with Flash. They target an adjacent area. 
+3. In response, your hero declares a reactive cast action 
+with Flash... Targeting the same area targeted by the 
+enemy's flash! 
+4. The enemy does not have a response, so all actions 
+will now resolve in reverse order. 
+Starting with the last card played, your Flash resolves 
+moving your hero to an adjacent area. 
+5. Then, the enemy Flash resolves, and they cannot 
+change the target they previously declared, so they move 
+to the same area. 
+6. Your attack finally resolves hitting the target!
+Triggered effects ('when')
+Some spells, abilities, and items include the word "when," 
+indicating that they create triggered effects.
+Triggered effects resolve immediately after the action 
+(or triggered effect) that caused them has fully resolved. 
+If multiple triggered effects would resolve at the same 
+time, they instead resolve in the following order:
+■	 All effects controlled by the team with the active hero 	
+	
+(or the team with priority if there is no active hero).
+■	 Then, all effects controlled by the other team.
+■	 Then, all other effects simultaneously (E.g. the 	 	
+	
+Outsider retaliate attack).
+Each player chooses the order in which their own 
+triggered effects resolve.
+If a unit with a triggered effect about to resolve is 
+defeated, that effect does not resolve. (The Retaliate 
+ability is the only exception to this.) 
+ 
+Replacement effects
+Some effects replace other effects. These are often 
+worded like: "If THIS would happen, do THAT instead." 
+Armor is the most common example of this: if a unit 
+with 1 armor would take 3 DMG, they only take 2 DMG 
+instead.
+For example, Miyuki's ultimate spell reads: "If 1 outsider 
+or friendly hero within 3 areas would be defeated this 
+turn, set their HP to 5 instead."
+If multiple replacement effects would resolve at the 
+same time, they instead resolve in this order:
+■	 All effects controlled by the team with the active hero 	
+	
+(or the team with priority if there is no active hero).
+■	 Then, all effects controlled by the other team.
+■	 Then, all other effects in the order decided by the team 
+	
+with priority. (E.g. replacement effects from monsters 
+	
+and outsiders.)
+If, when it is time to resolve it, a replacement effect does 
+not have anything to replace, it will not resolve anymore.
+
+Choosing Heroes
+First, choose one, both, or none of the restrictions below.
+Then, choose one drafting method below, they are listed 
+in order of increasing complexity.
+If you cannot agree, use the first restriction (one per 
+color) and the first drafting method (all random!).
+Restriction 1: one per color
+Teams must include one hero of each color. This is also 
+the golden rule to have well-rounded teams (although 
+you may play without this restriction, if you know what 
+you are doing!).
+Restriction 2: faction-based
+This restriction makes drafting less overwhelming and 
+more thematic. 
+The Shadow team chooses one faction and then, the 
+Light team chooses another faction. 
+Teams may only use heroes from the chosen factions.
+Method 1: all random
+Draw heroes at random, respecting the chosen 
+restrictions, if any!
+Method 2: snake draft
+One player in the Shadow team makes the first pick, 
+choosing just one hero from the available pool.
+Then, teams alternate choosing two heroes each until 
+the Shadow team makes the last pick, choosing just one 
+hero.
+Method 3: Moba draft
+Like the snake draft but with two ban steps. 
+In the ban step, each team, starting with the shadow 
+team, removes one hero from the drafting pool.
+Take a ban step before starting the draft and as soon as 
+both teams have chosen two heroes each.
+The color of the banner on hero's sheet indicates the 
+aspect of the game the hero specializes in.
+The colors have the same meaning used by items:
+■	 Red heroes favor damage and... More damage!
+■	 Blue heroes favor defense and survivability.
+■	 Green heroes favor momentum and minions.
+■	 Yellow heroes favor speed and versatility.
+Classes
+The class of a hero is written next to its name on their 
+sheet. It is just a hidden layer without any rules.
+Heroes belong to one of these classes: 
+■	 Slayers
+Slayers seize the initiative and are able to one-shot 
+enemy heroes with their attacks.
+■	 Marksmen
+Marksmen are unbeatable damage dealers at long 
+range, especially once they level up or equip damage-
+boosting (red) items.
+■	 Tanks
+Tanks keep friendly heroes alive by shielding them or 
+disrupting enemy attacks and moves.
+■	 Controllers
+Controllers influence the battlefield dealing negative 
+statuses and healing friendly heroes.
+■	 Mages
+Mages are the best at clearing waves of minions all at 
+once with area of effect spells.
+■	 Laners
+Laners push toward the enemy nexus like no others... 
+Spawning and supporting minions.
+■	 Junglers
+Junglers earn gold faster than any other hero but also 
+take actions outside of their turn... Unexpectedly!
+■	 Warriors excel at team fights, displacing and 
+disrupting enemies; the most well-rounded class.
+Factions
+The faction of a hero is identified by the symbol next to 
+its name: 
+Kurumo, 
+Liothan, 
+Taulot, 
+Nupten.
+The faction has no associated rules, it just implies some 
+thematic and gameplay differences and it is used to 
+structure the expansions and facilitate the draft.
+Heroes Overview
+
+Level up your experience
+Two-lane map set up
+Legendary expansion
+Take the same steps on page 4 with only one difference: 
+for two-player games, we suggest to play with only three 
+heroes per team instead of the usual four. 
+The game works regardless, but we believe having 
+one less hero here makes for a much more distinct 
+experience compared to the three-lane map.
+This expansion adds legendary monsters and items, as 
+well as a new alternate outsider.
+It features a new type of card with a legendary monster 
+on one side and a legendary item on its other side.
+There are 3 copies of each legendary monster card, with 
+the same "front" but with different items on their back.
+At the end of the first day, draw one legendary monster 
+card at random and place:
+■	 The monster card next to the board.
+■	 The monster HP token on 5.
+■	 The monster figure in the river area without the "O" 	
+	
+symbol (i.e. not where the outsider enters play).
+The team who defeats that monster may choose one of 
+the three legendary items connected to that monster and 
+equip it to a friendly hero of their choice. 
+At www.playskytear.com we offer free shipping (above 
+certain thresholds) and have warehouses in multiple 
+regions of the world.
+If you want more heroes, the Taulot and Nupten 
+expansions bring you 16 new heroes to grow your pool.
+Unlike the Legendary Expansion, these do not introduce 
+new rules but just different gameplay styles!
+ 
+Upgrade your components
+Replace all the figures in Onward with detailed 
+miniatures for a stunning table presence. 
+For the ultimate experience, you may also replace all 
+tokens with clinky poker-like chips and the game board 
+with a neoprene playmat.
+
+The Lore
+War. War. War. The drums echoed with it, armored feet 
+pressed it into the stone, even the Nexus roared out the 
+word in a heavy, dull, drone. Akimo knew it was waiting for 
+him. Rank by rank, it had taken his comrades, swallowed 
+them whole, and spat them out on Ahasa, a fortress far 
+away. Now, it was his turn to face the Nexus. 
+His sword stirred in his hand. Something within wanted 
+blood, more blood. Akimo almost cursed. There would 
+never be enough split. Stepping forward, he was just a 
+few inches away from the swirling lights. It smelt like 
+copper and salt and charge, like a storm before it breaks, 
+like the forge, like fire. The light reached out to embrace 
+him, and when it took him he didn’t know if it pulled him 
+into the portal, or if he had stepped forward himself.
+Akimo emerged into Ahasa. His sword pulled him 
+forward, eager. He had been told the fortress was built 
+into a column of rock, and had imagined something like 
+a hill. He realized now he was wrong. Far below him, the 
+very tops of the trees were dwarfed by a flat, natural, 
+wall of granite, sheer rock face rising hundreds of feet 
+towards him. There was nowhere to run. Not for anyone. 
+Beside him, something stirred. He turned to see red light 
+streaming into a broken suit of armor resting against 
+the Nexus. All at once the suit stood up. Or rather, it was 
+pulled up by the fire burning inside its empty helmet, a 
+metal puppet for whatever was in the helmet. Hogosai. 
+Brother. They had fought together one hundred times, 
+both witnessed each other fall. Kurumo would not allow 
+either of them to stay dead.
+As the light faded, the first thing she felt was the heat. 
+Vorhild was used to sudden changes in temperature: she 
+had traveled into the depths of Xotlan and prowled frozen 
+castles back home . But it was never like this, hot and wet 
+and thick, like the air was filled with boiling water. Next 
+came the sound, reaching into the writhing portal: metal 
+on metal, shouts, and the heavy thrum of Skytear. When 
+at last the swirling light granted her vision back, she could 
+see a battlefield bigger than any she had seen before.
+They were high up. The wind whipped her hair, her cape. 
+The ermines on her shoulder chirped, cautious. Afraid. 
+She felt their heart beat alongside hers, but she had no 
+fear: she was a hunter, with her bow at the ready. Three 
+lanes of combat, but the ruin was the heart of the battle. 
+If she could pierce it, the enemy Nexus would surely fall. 
+Between the lanes were overgrown gardens, thick tropical 
+plants conquering neat flowerbeds. They would hide her 
+until she was ready. 
+Then, she dashed forward.
+It was up to him now. Power burned through his body, 
+then he became the power, and his body was just a dream 
+of the flame. Fire circled the ruined courtyard, stopping 
+anyone entering. This is where he would make his stand. 
+It was up to her now. From atop the ruin, perched 
+alongside her ermines, she could see a young Kaenite 
+man, hair braided, surrounded by a wall of fire. He wasn’t 
+expecting an attack from above. She dived, and, as 
+she did, Skytear from her totem surrounded her, a blue 
+whirlwind of power. He saw her. The fire turned to face 
+her. Liothan’s power would protect her. 
+They fought, with Skytear and blade and bow and foot. 
+The battlefield was theirs. But in the rage, in the crashing 
+of weapons and opposing magic, something was 
+waking up. As red and blue clashed in a vestige of glory, 
+something so much larger than either of them opened its 
+eyes, filled with rage and anguish.
+This story is an introduction to Olan Taa, the 
+world where Onward and many of our games 
+take place. Online resources, hardcover lore and 
+art books, as well as a role-playing manual are 
+available at www.playskytear.com
+
+The world of Olan Taa is trampled by a tearing war 
+that has been lasting for years. Hiding behind false 
+justifications like the glory of their divinities or the 
+salvation of their people, the four Realms which have 
+descended into the battle have followed their greed only, 
+eager to accumulate more power than the others —an 
+arcane power called Skytear.
+Whoever masters Skytear, masters the matter, the magic, 
+the life. Everything. The only way to win this rush is to 
+erect magic portals which absorb this arcane energy, the 
+Nexus. Consequently, destroying enemy Nexuses will 
+grant absolute control over the land.
+Everyone wants to prevail by any means necessary: 
+alliances, betrayals, assassinations and rebellions have 
+transformed Olan Taa and its inhabitants. The final 
+chapters of this conflict will be fought by mixed armies 
+led by the former champions of each Realm. 
+Many of them were adversaries in the past, now united 
+under common interests, or once brothers in arm, put 
+one against the other by a higher plan. 
+Skytear unites, Skytear divides.
+Publisher: Skytear Games (PVP GEEKS SRL) 
+Via Cesare Costa 19/D, Modena, 41125, Italy.
+Design: Giacomo Neri and Riccardo Neri. 
+Production: Riccardo Parmeggiani. 
+Development support: Eric Wainright, Francesco 
+Desideri. 
+Graphic design: Akibaza Studio, Gong Studio, 
+Janette Ramos. 
+Logo design: Cold Castle Studio. 
+Card artworks: Vlad Botos, Kyle Cox, Douglas 
+Deri, John Ric Detoon, Marko Fiedler, Gong Studio, 
+Jack Kaiser, Jerry Padilla, Alba Palacio, Simon 
+Pape. 
+Cover artwork: Johanna Rupprecht. 
+Miniatures sculpt: Rafael Dioli, Rakib Hasan, 
+Francesco Orrù, Mattia Tomaselli.
+Lore: Thomas Foster, Riccardo Parmeggiani. 
+Rulebook advisors: Brendan Irvin, Paul Grogan.
+Playtesting and proofreading: Bronce Adam, 
+Christopher Weidinger, Gary L. Amoe, Joseph 
+McCain, Lorenzo Bonettini, QuasiStellar, Rob 
+Giobbe.
+Last but not least, all the players that supported 
+the crowdfunding campaign!
+Check our other games at www.playskytear.com.
+The game we released before Onward is Skytear Horde, 
+a card-battler that gives you the feeling of the classic 
+trading card games... Except it is solo or co-operative!
+Other Games, Same Universe
+
+Reference Page
+ADJACENT. Two areas are adjacent if they share 
+one edge marked by a pair of triangles. Units in adjacent 
+areas are adjacent units. A unit is not adjacent to itself.
+AP. Attack point (pg. 8).
+Attach. Place the spell next to the attached hero's 
+sheet and apply its effect until discarded.
+ARMOR. Each time a unit with armor would take 
+DMG, prevent a number of damage equal to its armor.
+(I.e. armor does not get consumed, it works each time.) 
+Some armor only applies against certain types of effects. Do not 
+count this situational armor when resolving effects that scale 
+based on armor value.
+Barrier. Prevent adjacency for enemies.
+Contested area. Area with minions.
+DISPLACE. Place the displaced hero in an area 
+adjacent to them. When considering adjacency, 
+disregard the Barrier ability. (Only applies to heroes.)
+DMG. Damage. See page 12.
+Enemy. Units NOT on your team.
+Enter. "On enter" effects trigger whenever the units 
+enter the area, no matter how (move, displace, pull, etc).
+Friendly. Units on your team.
+HEAL. Increase the unit's HP up to their starting HP. 
+Nexuses cannot be healed.
+HP. Hit points. See page 12.
+leave. "On leave" effects trigger whenever the units 
+leave the area, no matter how (move, displace, pull, etc).
+MOMENTUM. Each minion in the contested area 
+contributes 1 momentum to their team. Each hero there 
+also contributes 1 momentum to their team (pg. 10).
+Mp. Movement point (pg. 8).
+NEARBY. Includes adjacent areas AND the area 
+where you are measuring from. Nearby units are units in 
+nearby areas (I.e. "nearby heroes" include the hero itself).
+PIERCING DMG. Ignore target armor.
+PULL. Place the pulled hero in the same area of the 
+unit that is pulling. (Only applies to heroes.)
+RETALIATE. See page 12.
+Initiative. The number of MP on the plan, plus any 
+additional MP or initiative bonuses (pg. 7).
+Minions, towers, monsters
+Outsider (4 lives)
+Heroes & nexuses
+1 hp
+5 HP
+STRENGTH. The DMG dealt by an attack, down to a 
+minimum of 0. By default, it is 0 and it is increased with 
+the attack card, items, abilities... Etc.
+TELEPORT. Place the unit in the indicated area. 
+A unit is only considered teleported if it changes area.
+Tough. If a unit with Tough (e.g. the nexus) would 
+lose 2 or more HP, they only lose 1 HP instead. When 
+minions siege a nexus they ignore its Tough ability.
+Unit. Anything with HP (pg. 13).
+Within. See "Longer Distances" on page 12.
+Statuses
+When a hero ends their turn or is defeated, 
+remove all their statuses.
+BURN 
+Deal 1 piercing DMG to the hero when they 
+finish resolving an attack or cast action. 
+Resolve those actions in full first. Burn applies 
+also when "attacking" or "casting" using spells.
+Disarm
+Do not reveal/discard attack cards. 
+Attacks have a base strength of 1 instead, 
+and ignore all positive strength modifiers.
+Freeze
+The hero must spend 1 additional MP to 
+declare a move action. 
+If a hero is frozen after declaring the action, but 
+before resolving it, freeze has no effect. Freeze 
+has no effect on free move actions from spells.
+Silence
+Prevent the ability on the hero's sheet, on all 
+friendly spell cards attached to them. Also 
+prevent any temporary, delayed, or triggered 
+effects granted by friendly spells.
+STUN 
+The hero has -2 initiative.

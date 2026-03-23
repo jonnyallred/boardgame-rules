@@ -1,0 +1,103 @@
+Rules for Pah Tum 
+The game is played on a 7x7 board with five of ‘black holes’ which are randomly 
+positioned at the start of each game. An example of a start position is shown on the 
+following picture, where X represents a ‘hole’.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The game is played by players alternately placing white and black stones on the board. 
+Each player places one stone per turn. A stone can only be placed on squares which do 
+not contain another stone or a black hole. 
+The goal of the game is to create more connected lines of stones than an opponent. A 
+connected line must be either vertical or horizontal and may contain only stones of the 
+same colours, no opponent stones or black holes. Points are awarded for lines of three or 
+more at the end of the game as follows: 
+3 stones = 3 points 
+4 stones = 10 points 
+5 stones = 25 points 
+6 stones = 56 points 
+7 stones = 119 points 
+ 
+The next picture displays a sample position after several moves (using black and red 
+lower case o’s as my drawing abilities are weak): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o o o o o 
+ 
+ 
+o o 
+o 
+ 
+ 
+o X 
+o 
+ 
+ 
+ 
+ 
+ 
+o X 
+ 
+ 
+ 
+ 
+ 
+ 
+The red has 1 line of 3 stones and 1 line of 4 stones, it makes 3 + 10 = 13 points. The 
+black has 2 lines of 2 stones and 1 line of 3 stones, which is 0 + 0 + 3 = 3 points. 
+ 
+The game is finished when the board is full of stones and black holes. The player with 
+higher amount of points is the winner. If both players have the same points, the game is a 
+draw.

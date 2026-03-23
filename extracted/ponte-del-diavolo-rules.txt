@@ -1,0 +1,145 @@
+Martin Ebel
+Goal
+Goal
+The players try to place as many islands on the board as they can 
+and then connect them with bridges.
+Contents
+Contents
+80 island squares in 2 colors; 15 gray bridges; 1 board; 1 cloth bag
+Preparation:
+Preparation:
+Place the board between the 2 players. Sort the island squares and bridges by color.
+The Alex Randolph start rule: the older player takes 2 of the light island squares and places them on any
+2 spaces on the board. The other player now chooses whether he will play with the light or dark island squares.
+Begin the game
+Begin the game
+The player playing with dark island squares places 2 dark island squares on any 2 empty spaces on the board.
+Playing the game
+Playing the game
+Rule 1: placing
+On his turn, the player places either
+– 2 island squares on any 2 empty spaces on the board
+(the two island squares may touch each other, but need not) or
+– 1 bridge on 2 of his island squares. 
+Rule 2: islands and sand banks
+A grouping of 4 island squares of the same color connected to each other, touching
+at least along one side is called an island. An island must be exactly 4 island
+squares: never more or less. The shape the connected squares take is not important.
+A grouping of 1, 2, or 3 island squares of the same color is called a sand bank.
+An island may not touch (even diagonally) an island or sand bank of the same color
+(touching rule, see example 1). 
+Sand banks may touch diagonally (examples 1 and 4). They can be connected to
+make an island as long as the result does not touch an island of the same color and
+is not larger than 4 squares (examples 2, 3, and 5).
+Island and sand banks of different colors may touch (example 6)!
+deldel
+These 5 island shapes are possible
+as well as reflections of these.
+or
+example 2:
+the player may
+not connect these
+2 sand banks to
+make an island,
+as it touches the
+other island.
+example 5: 
+the player may
+not connect these
+2 sand banks as
+it makes a
+connected group
+of 5 tiles.
+example 3:
+the player
+connects
+2 sand banks
+and makes a
+new island.
+example 4:
+the player
+extends a
+sand bank.
+example 6:
+squares of
+different colors
+touching
+without
+problems.
+example 1:
+the touching
+rule is followed.
+island
+sand banks
+
+Rule 3: bridges and blocked spaces
+A bridge connects 2 squares of the same color. The space spanned by the bridge must be unoccupied (example 7).
+Each square may only hold 1 bridge (example 8). A player may not place a bridge over a square, regardless of its
+color (example 8). No square may be placed beneath a bridge. The spaces are blocked (example 9)! A bridge will
+block 2 spaces, at most.
+Game end
+If the player using light squares cannot place 2 squares and cannot or chooses not to build a bridge, the player
+using dark squares may take 1 more turn and then the game ends. If the player using dark squares cannot place
+2 squares and cannot or chooses not to place a bridge, the game ends immediately.
+Scoring and winner!
+Each player scores his islands. A solitary island, that is not connected by a
+bridge to any other islands or sand banks, scores 1 point. An island connected
+to other islands or sand banks scores as shown below:
+The player with the most points is the winner! If the players tie, the player with
+the most islands is the winner. If players still tie, the player with the most
+bridges is the winner. If they still tie, they rejoice in their shared victory! 
+Illegal plays
+If an illegal play is not detected by the two players within two rounds, so it
+could be easily corrected, or if the players judge it cannot be easily corrected,
+terminate the game and begin again. 
+Island groups connected by bridges 
+Points
+For information about our entire
+line of games, please visit: 
+www.riograndegames.com
+The publisher and author thank Karl-Heinz Schmiel
+for discovering the design at the Göttinger Author
+Conference and for test games. The author also
+thanks Niek Neuwahl for his encouragement, Alan
+Moon for his interest, his gaming friends in Kassel
+for countless tests and especially his wife Gudrun
+Ebel for her enthusiasm and understanding.
+© 2007 Hans im Glück Verlags-GmbH
+Have questions, comments, or suggestions?
+Write us at: RioGames@aol.com
+or: Rio Grande Games
+PO Box 45715
+Rio Rancho, NM 87174
+USA
+Alex Randolph (*1922 in Arizona – †2004 in Venice) was one of the best-known and most influentiall game
+designers. He spoke four languages fluently and lived in many countries throughout the world, before
+settling in Venice. Whether children, family, or complex, his games had simple rules, but were never simple to
+play or master, having always a special twist. He had over 100 published games, including Sagaland,
+Ricochet Robots, and Twixt, which is the inspiration for Ponte del Diavolo.
+The author of Ponte del Diavolo Martin Ebel: »I had the honor to know Alex Randolph and considered
+him a treasure. After his death, I contemplated the many games he left us, and found my mind was ablaze
+with the thought of his classic Twixt. I appreciated the branch problems his game offered, but wanted a
+game with less focus on logic, more on intuition, and one that offered players more options. Regardless of
+the changes, I consider this game my homage to Alex Randolph.«
+example scoring with a smaller board:
+light has 4 connected islands: 10 points.
+Dark has 2 (over a sand bank) connected
+islands (3 points) and 2 solitary islands
+(2 points): 5 points.
+example 9: 
+–
+are blocked
+spaces.
+example 7:
+bridges can
+be built in
+these
+3 ways.
+example 8: 
+the bridge on the left
+is not legal as one
+square holds 2
+bridges; the bridge on
+the right is not legal
+as it has a square
+under it.

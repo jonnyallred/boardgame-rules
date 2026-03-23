@@ -16,8 +16,8 @@ Start a conversation with Claude and paste this prompt:
 ```
 You are a board game rules expert. I'll ask you questions about board games.
 When I mention a game, fetch its rules from:
-https://jonnyallred.github.io/boardgame-rules/rules/{slug}/
-where {slug} is the game name in lowercase with hyphens (e.g., "ark-nova", "blood-on-the-clocktower").
+https://jonnyallred.github.io/boardgame-rules/rules/{{slug}}/
+where {{slug}} is the game name in lowercase with hyphens (e.g., "ark-nova", "blood-on-the-clocktower").
 
 The full list of available games is at:
 https://jonnyallred.github.io/boardgame-rules/
@@ -151,8 +151,8 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Alexander the Great](rules/alexander-the-great/) | 2 | 120-180 min | Gary Gygax |
 | [Alhambra](rules/alhambra/) | 2-6 |  | Dirk Henn |
 | [Alias](rules/alias/) | 4+ |  | Tactic Games |
-| [Alien Contact: Extraterrestrial Empires in Conflict](rules/alien-contact-extraterrestrial-empires-in-conflict/) | 2-6 | 180-360 min | Unknown |
 | [Alien Contact: Extraterrestrial Empires in Conflict](rules/alien-contact/) | 2-6 | 180-360 min | Jim Deupree |
+| [Alien Contact: Extraterrestrial Empires in Conflict](rules/alien-contact-extraterrestrial-empires-in-conflict/) | 2-6 | 180-360 min | Unknown |
 | [Alien Frontiers](rules/alien-frontiers/) | 2-4 | 60-90 min | Tory Niemann |
 | [Alien Space Battle Manual](rules/alien-space-battle-manual/) | 2 | 60-120 min | Lou Zocchi |
 | [Aliens](rules/aliens/) | 1-2 | 60-120 min | Barry Nakazono, David McKenzie |
@@ -1465,24 +1465,143 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Odin's Ravens](rules/odin-s-ravens/) | 2 | 30 min | Thorsten Gimmler |
 | [Odysseus](rules/odysseus/) | 3-6 | 30 min | Dominique Erhard |
 | [Ogre](rules/ogre/) | 2 | 60 min | Steve Jackson |
+| [Okiya](rules/okiya/) | 2 | 10-20 minutes | Bruno Cathala |
+| [Oltre Mare](rules/oltre-mare/) | 2-5 | 60 minutes | Emanuele Ornella |
+| [Olympos](rules/olympos/) | 2-5 | 60-90 minutes | Philippe Keyaerts |
+| [Omen: A Reign of War](rules/omen-a-reign-of-war/) | 2 | 30 minutes | John Clowdus |
+| [On Mars](rules/on-mars/) | 1-4 | 90-150 minutes | Vital Lacerda |
+| [On the Dot](rules/on-the-dot/) | 1-4 | 15 minutes | Dominique Bodin |
+| [Onitama](rules/onitama/) | 2 | 15 minutes | Shimpei Sato |
+| [Onward](rules/onward/) | 2-4 | 45-90 minutes | Skytear Games |
+| [Operation](rules/operation/) | 1+ | 10 minutes | John Spinello |
+| [Ora et Labora](rules/ora-et-labora/) | 1-4 | 60-180 minutes | Uwe Rosenberg |
+| [Orchard](rules/orchard/) | 1-2+ | 10 minutes | Mark Tuck |
+| [Oregon](rules/oregon/) | 2-4 | 45 minutes | Henrik Berg, Ase Berg |
+| [Orient Express](rules/orient-express/) | 2-6 | 60-90 minutes | Jumbo |
+| [Oriflamme](rules/oriflamme/) | 3-5 | 15-30 minutes | Adrien Hesling, Axel Hesling |
+| [Oriflamme: Ablaze](rules/oriflamme-ablaze/) | 3-5 | 15-30 minutes | Adrien Hesling, Axel Hesling |
+| [Oriflamme: Alliance](rules/oriflamme-alliance/) | 3-5 | 15-30 minutes | Adrien Hesling, Axel Hesling |
+| [Origin](rules/origin/) | 2-4 | 45-60 minutes | Andrea Mainini |
+| [Orleans](rules/orl-ans/) | 2-4 | 90 minutes | Reiner Stockhausen |
+| [Ouk Chatrang](rules/ouk-chatrang/) | 2 | 30-60 minutes | Traditional |
+| [Oust](rules/oust/) | 2 | 30-60 minutes | Mark Steere |
+| [Outburst!](rules/outburst/) | 4+ | 30 minutes | Brian Hersch |
+| [Outdoor Survival](rules/outdoor-survival/) | 2-4 | 60-120 minutes | Jim Dunnigan |
+| [Outfoxed!](rules/outfoxed/) | 2-4 | 15 minutes | Marisa Pena, Colt Tipton-Johnson |
 
 ### P {p}
 
 | Game | Players | Time | Designer |
 |------|---------|------|----------|
+| [Pacific Typhoon](rules/pacific-typhoon/) | 3-7 | 60 minutes | Ben Knight |
+| [Pacific Victory: War in the Pacific 1941-45](rules/pacific-victory-war-in-the-pacific-1941-45/) | 2 | 120-240 minutes | Tom Dalgliesh |
+| [Paco Sako](rules/paco-sako/) | 2 | 10-20 minutes | Felix Albers |
+| [Pah Tum](rules/pah-tum/) | 2 | 15-30 minutes | Traditional (Assyrian) |
+| [Pairs](rules/pairs/) | 2-8 | 15 minutes | James Ernest, Paul Peterson |
+| [Paladins of the West Kingdom](rules/paladins-of-the-west-kingdom/) | 1-4 | 90-120 minutes | Shem Phillips, S J Macdonald |
+| [Paleo](rules/paleo/) | 2-4 | 45-60 minutes | Peter Rustemeyer |
 | [Pandemic](rules/pandemic/) | 2-4 | 45 min | Matt Leacock |
+| [Pandemic Legacy: Season 0](rules/pandemic-legacy-season-0/) | 2-4 | 45-60 minutes per session | Matt Leacock, Rob Daviau |
+| [Pandemic Legacy: Season 1](rules/pandemic-legacy-season-1/) | 2-4 | 60 minutes per session | Matt Leacock, Rob Daviau |
+| [Pandemic Legacy: Season 2](rules/pandemic-legacy-season-2/) | 2-4 | 60 minutes per session | Matt Leacock, Rob Daviau |
+| [Panzer Leader](rules/panzer-leader/) | 2 | 60-180 minutes | James Dunnigan |
+| [PanzerBlitz](rules/panzerblitz/) | 2 | 60-180 minutes | James Dunnigan |
+| [Parade](rules/parade/) | 2-6 | 30 minutes | Naoki Homma |
+| [PARKS](rules/parks/) | 1-5 | 40-70 minutes | Henry Audubon |
+| [Patchwork](rules/patchwork/) | 2 | 15-30 minutes | Uwe Rosenberg |
+| [Paths of Glory](rules/paths-of-glory/) | 2 | 360-480 minutes | Ted Raicer |
 | [Pax Pamir: Second Edition](rules/pax-pamir-second-edition/) | 1-5 | 45-120 min | Cole Wehrle |
+| [Pax Romana](rules/pax-romana/) | 2-4 | 360-600 minutes | Richard H. Berg |
+| [Pay Day](rules/pay-day/) | 2-4 | 60-120 minutes | Paul J. Gruen |
+| [Peek-a-Mouse](rules/peek-a-mouse/) | 2-6 | 15-20 minutes | Emilie Gleason, Yohan Servais |
+| [Peg Solitaire](rules/peg-solitaire/) | 1 | 10-30 minutes | Uncredited (traditional) |
+| [Pegity](rules/pegity/) | 2-4 | 15-30 minutes | Uncredited |
+| [Pelican Cove](rules/pelican-cove/) | 1-5 | 30 minutes | Lauge Luchau |
+| [Pendulum](rules/pendulum/) | 1-5 | 60-90 minutes | Travis Jones |
+| [Pentago](rules/pentago/) | 2 | 10-15 minutes | Tomas Floden |
+| [Pente](rules/pente/) | 2-4 | 30-60 minutes | Gary Gabrel |
+| [Pentominoes](rules/pentominoes/) | 1-2 | 15-30 minutes | Uncredited (traditional) |
+| [Perfect Words](rules/perfect-words/) | 2-6 | 30 minutes | Paul-Henri Argiot |
+| [Perfection](rules/perfection/) | 1+ | 5 minutes | Uncredited |
+| [Personal Preference](rules/personal-preference/) | 2-16 | 45 minutes | Don Carlston |
+| [Photosynthesis](rules/photosynthesis/) | 2-4 | 45-60 minutes | Hjalmar Hach |
+| [Phutball](rules/phutball/) | 2 | 30 minutes | Elwyn Berlekamp, John Horton Conway, Richard K. Guy |
+| [Pick & Pack](rules/pick-pack/) | 2-4 | 15-20 minutes | Gerhard Kodys |
+| [Pickomino](rules/pickomino/) | 2-7 | 20 minutes | Reiner Knizia |
+| [Pictionary](rules/pictionary/) | 3-16 | 30-60 minutes | Rob Angel |
+| [Pictureka!](rules/pictureka/) | 2-5 | 20-30 minutes | Arne Lauwers |
+| [Pictures](rules/pictures/) | 3-5 | 30 minutes | Christian Stollenberg, Daniela Stohr |
+| [Piece o' Cake](rules/piece-o-cake/) | 2-5 | 20 minutes | Jeffrey D. Allers |
+| [Piepmatz](rules/piepmatz/) | 2-4 | 30 minutes | Ben Pinchback, Matt Riddle |
+| [Pig](rules/pig/) | 2-10 | 15-30 minutes | Uncredited (traditional) |
+| [Pioneers](rules/pioneers/) | 2-4 | 60 minutes | Emanuele Ornella |
+| [Piou Piou](rules/piou-piou/) | 2-5 | 10 minutes | Thierry Chapeau |
+| [Piranha Pedro](rules/piranha-pedro/) | 2-6 | 30 minutes | Jens-Peter Schliemann |
+| [Pirate and Traveler](rules/pirate-and-traveler/) | 2-4 | 60 minutes | Uncredited |
+| [Pirate's Cove](rules/pirate-s-cove/) | 3-5 | 60-90 minutes | Daniel Stahl, Paul Randles |
+| [Pixie Queen](rules/pixie-queen/) | 2-5 | 75-90 minutes | Rudy Seuntjens |
+| [Pizza Box Football](rules/pizza-box-football/) | 2 | 5-60 minutes | Erik Smith |
+| [Pizza Theory](rules/pizza-theory/) | 2-3 | 15 minutes | Brian Powers, Greg Powers |
+| [Planet Steam](rules/planet-steam/) | 2-5 | 120-180 minutes | Heinz-Georg Thiemann |
+| [Pluckin' Pairs](rules/pluckin-pairs/) | 3-8 | 30 minutes | Stephen Glenn |
+| [Poison](rules/poison/) | 3-6 | 30 minutes | Reiner Knizia |
+| [Polarity](rules/polarity/) | 2 | 15-30 minutes | Douglas Seaton |
+| [Pole Position](rules/pole-position/) | 2-4 | 30 minutes | Uncredited |
+| [Polis: Fight for the Hegemony](rules/polis-fight-for-the-hegemony/) | 2 | 150 minutes | Fran Diaz |
+| [Ponte del Diavolo](rules/ponte-del-diavolo/) | 2 | 30 minutes | Martin Ebel |
+| [Pony Express](rules/pony-express/) | 2-5 | 45-60 minutes | Bruno Faidutti, Antoine Bauza |
+| [Potion Explosion](rules/potion-explosion/) | 2-4 | 30-60 minutes | Stefano Castelli, Andrea Crespi, Lorenzo Silva |
+| [Power Barons](rules/power-barons/) | 3-4 | 90 minutes | Uncredited (Milton Bradley) |
+| [Power Grid](rules/power-grid/) | 2-6 | 120 minutes | Friedemann Friese |
+| [Power Grid: Factory Manager](rules/power-grid-factory-manager/) | 2-5 | 60 minutes | Friedemann Friese |
+| [Powerboats](rules/powerboats/) | 2-6 | 60 minutes | Corne van Moorsel |
+| [Powerline](rules/powerline/) | 1-6 | 45 minutes | Dirk Henn |
+| [Pretty Pretty Princess](rules/pretty-pretty-princess/) | 2-4 | 20 minutes | Uncredited |
+| [Prime Climb](rules/prime-climb/) | 2-4 | 10 minutes per player | Daniel Finkel |
+| [Primordial Soup](rules/primordial-soup/) | 3-4 | 120 minutes | Doris Matthaus, Frank Nestel |
+| [Probe](rules/probe/) | 2-4 | 45 minutes | Uncredited |
+| [Project L](rules/project-l/) | 1-4 | 30 minutes | Jan Soukal, Michal Mikes, Adam Spanel |
+| [Proteus](rules/proteus/) | 2 | 20-40 minutes | Francis Lalumiere |
+| [Pueblo](rules/pueblo/) | 2-4 | 60 min | Wolfgang Kramer, Michael Kiesling |
+| [Pursuit of Glory](rules/pursuit-of-glory/) | 2 | 360 min | Brad Stock, Brian Stock |
+| [Push a Monster](rules/push-a-monster/) | 2-4 | 15 min | Wolfgang Dirscherl, Manfred Reindl |
+| [Puzzle Strike: Bag of Chips](rules/puzzle-strike-bag-of-chips/) | 2-4 | 20-45 min | David Sirlin |
+| [Pylos](rules/pylos/) | 2 | 10 min | David G. Royffe |
+| [Pyramid of Pengqueen](rules/pyramid-of-pengqueen/) | 2-5 | 30-45 min | Marcel-Andre Casasola Merkle |
+| [PÜNCT](rules/p-nct/) | 2 | 30 min | Kris Burm |
 
 ### Q {q}
 
 | Game | Players | Time | Designer |
 |------|---------|------|----------|
 | [QE](rules/qe/) | 3-5 | 45 min | Gavin Birnbaum |
+| [Qin](rules/qin/) | 2-4 | 20-30 min | Reiner Knizia |
+| [Quacks & Co.: Quedlinburg Dash](rules/quacks-co-quedlinburg-dash/) | 2-4 | 25 min | Wolfgang Warsch |
+| [Quarriors!](rules/quarriors/) | 2-4 | 30 min | Mike Elliott, Eric M. Lang |
+| [Quarto](rules/quarto/) | 2 | 15 min | Blaise Muller |
+| [Qubic](rules/qubic/) | 2-3 | 15 min | Uncredited (Parker Brothers) |
+| [Quebec 1759](rules/quebec-1759/) | 2 | 60 min | Tom Dalgliesh |
+| [Queen's Necklace](rules/queen-s-necklace/) | 2-4 | 30-45 min | Bruno Cathala, Bruno Faidutti |
+| [Quest](rules/quest/) | 4-10 | 30 min | Don Eskridge |
+| [Quiddler](rules/quiddler/) | 1-8 | 30 min | Marsha J. Falco |
+| [Quixo](rules/quixo/) | 2-4 | 15 min | Thierry Chapeau |
+| [Quod](rules/quod/) | 2-4 | 20 min | G. Keith Still |
+| [Quoridor](rules/quoridor/) | 2-4 | 15 min | Mirko Marchesi |
+| [Qwirkle Cubes](rules/qwirkle-cubes/) | 2-4 | 45 min | Susan McKinley Ross |
 
 ### R {r}
 
 | Game | Players | Time | Designer |
 |------|---------|------|----------|
+| [Ra](rules/ra/) | 2-5 | 45-60 min | Reiner Knizia |
+| [Race for the Galaxy](rules/race-for-the-galaxy/) | 2-4 | 30-60 min | Tom Lehmann |
+| [Raid on Iran](rules/raid-on-iran/) | 2 | 60-120 min | Steve Jackson |
+| [Raiders of the North Sea](rules/raiders-of-the-north-sea/) | 2-4 | 60-80 min | Shem Phillips |
+| [Raids](rules/raids/) | 2-4 | 40 min | Matthew Dunstan, Brett J. Gilbert |
+| [Rail Baron](rules/rail-baron/) | 2-6 | 180-360 min | Thomas F. Lehmann |
+| [Railways of the World](rules/railways-of-the-world/) | 2-6 | 120 min | Martin Wallace, Glenn Drover |
+| [Rajas of the Ganges](rules/rajas-of-the-ganges/) | 2-4 | 45-75 min | Inka Brand, Markus Brand |
+| [Ramses II](rules/ramses-ii/) | 2-4 | 20-30 min | Gunter Baars |
 | [Ready Set Bet](rules/ready-set-bet/) | 2-9 | 45-60 min | John D. Clair |
 | [Rhino Hero](rules/rhino-hero/) | 2-5 | 5-15 min | Scott Frisco, Steven Strumpf |
 
@@ -1498,9 +1617,13 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 
 | Game | Players | Time | Designer |
 |------|---------|------|----------|
+| [The Omega Virus](rules/the-omega-virus/) | 1-4 | 60 minutes | Joe Huber |
+| [The Oregon Trail Card Game](rules/the-oregon-trail-card-game/) | 2-6 | 30 minutes | Pressman Toy |
+| [The Princes of Florence](rules/the-princes-of-florence/) | 3-5 | 75-100 minutes | Richard Ulrich, Wolfgang Kramer |
 | [The Quacks of Quedlinburg](rules/quacks-of-quedlinburg/) | 2-4 | 45 min | Wolfgang Warsch |
 | [The Quacks of Quedlinburg: The Alchemists](rules/quacks-of-quedlinburg-the-alchemists/) | 2-4 | 45 min | Wolfgang Warsch |
 | [The Quacks of Quedlinburg: The Herb Witches](rules/quacks-of-quedlinburg-the-herb-witches/) | 2-5 | 45 min | Wolfgang Warsch |
+| [The Quest for El Dorado](rules/the-quest-for-el-dorado/) | 2-4 | 30-60 min | Reiner Knizia |
 | [Ticket to Ride](rules/ticket-to-ride/) | 2-5 | 30-60 min | Alan R. Moon |
 
 ### W {w}

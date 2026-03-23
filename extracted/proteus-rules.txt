@@ -1,0 +1,207 @@
+In P ro t e u s, t wo playe rs duel across a regular ch e s s b o a rd – but their
+chessmen are six-sided dice. The piece that each die rep resents is 
+d e t e rmined by the symbol on top. And each die can be turn e d. So the
+bishop that just took your rook could be tra n s fo rmed into a knight nex t
+t u rn . . .
+Object of the Game
+P l aye rs gain points by cap t u ring their opponent’s dice. The playe r
+who cap t u res the most pieces will not necessari ly be the winner; it
+d epends on the value of each of the cap t u red pieces.
+Wh o ever has the most points at the end of the game is the winner.
+S e t u p
+E a ch player starts with eight P ro t e u sd i c e. Decide who will play wh i t e,
+and who will play bl a ck , in any way you like. Each die starts as a paw n .
+E a ch player places his dice on the eight bl a ck squares closest to him.
+Sequence of Play
+White moves fi rs t , and turns altern at e.
+On his turn , a player must do two things: m ove one die and then
+ro t at e a d i ffe re n t d i e. A player who cannot move any of his dice loses
+the ga m e, rega rdless of points. Otherwise, the game ends when one
+p l ayer has only one die left.
+M oving a Die
+E a ch die moves according to its current “ i d e n t i t y ” – the piece show n
+on top of the die.
+P y ra m i d : This special piece is pure ly defe n s ive. It cannot move or
+be taken! Only a Knight can jump over a Pyra m i d.
+Paw n : m ay move one space fo r wa rd, and cap t u re by moving one
+space in either of the two fo r wa rd diagonal directions. A Pawn on one
+of its color’s eight starting squares can move two spaces fo r wa rd,
+rega rdless of its previous history. A Pawn that re a ches the opposite edge
+of the board does not pro m o t e.
+B i s h o p : m ay move any distance in any diagonal dire c t i o n .
+K n i g h t : m ay move to the diago n a l ly opposite corner of a re c t a n g l e
+t h ree squares by two , “ j u m p i n g ” over pieces (both fri e n d ly and enemy )
+t h at might be in the way.
+R o o k : m ay move any distance up, d ow n , left or ri g h t .
+Q u e e n : m ay move any distance up, d ow n , l e f t , ri g h t , or diago n a l ly.
+K i n g : Th e re is no King! A game of P ro t e u s is won by gaining the
+most points, not by ch e ck m at e.
+By Francis Lalumière
+Game Development: Steve Jackson
+Cover Art by: Rogério Vilela
+Creative Director: Philip Reed
+Production Manager: Gene Seabolt
+Production Artists: Heather Oliver
+and Alex Fernandez
+Prepress Assistant: Monica Stephens
+Playtesting: Lance Belluomini, Chino, Russell Godwin, Josh Howard,
+Stephanie Kaufmann, Alex Ostrumov, and Monica Stephens.
+This game is dedicated to my dear friend Alexandre “Le Brown” Boivin.
+P ro t e u s – a dice game that plays a little like chess and
+a lot like nothing yo u ’ve ever seen befo re! Played on a
+s t a n d a rd chess board, e a ch side gets 8 dice, with a
+d i ffe rent piece on each fa c e. You start with 8 paw n s , bu t
+e a ch turn you get to ch a n ge one of your dice to a more
+p owerful piece. But as your pieces get more powe r f u l ,
+t h ey become wo rth more points to your opponent! Th e
+game is easy to learn , but mastering the intri c at e
+s t rat egies will prove mu ch harder . . . 
+®
+9!BMF@JA:RSTPRToY`ZeZdZdZj
+FIRST EDITION, FIRST PRINTING
+PUBLISHED AUGUST 2001
+SJG00995 1334
+Printed in the
+USA
+ISBN 1-5 
+3 4- 
+- 
+w w w. s j ga m e s . c o m / p ro t e u s
+A chess army that changes at your command!
+By Francis Lalumière
+P ro t e u s and the all-
+seeing py ramid are
+regi s t e red tra d e m a rk s
+of Steve Ja ck s o n
+Games Incorp o rat e d.
+P ro t e u s is copy ri g h t
+© 2001 by Steve
+Ja ckson Games
+I n c o rp o rat e d. A l l
+rights re s e rve d. 
+F n o rd.
+
+Rotating a Die
+After moving a die, a player ro t ates a diffe rent die one step up or
+d own. Rotation uses the fo l l owing sequence; the “point va l u e ” of a die
+goes up or down by 1 each time it is ro t at e d :
+P y ra m i d (cannot be cap t u re d )
+Paw n ( wo rth 2 points)
+B i s h o p ( wo rth 3 points)
+K n i g h t ( wo rth 4 points)
+Rook ( wo rth 5 points)
+Q u e e n ( wo rth 6 points)
+S o , for instance, a Rook could become either a Queen or a Knight.
+A Pawn could be ro t ated “ d ow n ” to become an immobile, u n c ap t u rabl e
+P y ra m i d, or “ u p ” to promote to a Bishop. A Pyramid can’t be ro t at e d
+d ow n , and a Queen can’t be ro t ated up.
+C a p t u r i n g
+A piece is cap t u red when an opposing piece moves to its square.
+Note that pawns cannot cap t u re en passant.
+B a ck s t abb i n g : The Queen is a special case. While she can be cap-
+t u red in the standard way, it is also possible to cap t u re the Queen by
+m oving a piece to the square dire c t ly b e h i n d h e r. This weakness make s
+your Queen – or Queens, should you decide to play with more than one
+– mu ch harder to protect. Be care f u l .
+A Queen is cap t u red wh e n :
+• An opposing piece moves to the Queen’s square.
+• An opposing piece moves to the square dire c t ly b e h i n d the Queen
+( t h at is, the square between the Queen and the fi rst rank on her side of
+the board). Th u s , a Queen cannot be cap t u red this way if she is on her
+own fi rst ra n k .
+A Queen is NOT cap t u red wh e n :
+• She moves to a new square, and the square dire c t ly behind her is
+a l re a dy occupied by an opposing piece.
+• A Rook ro t ates to become a Queen and the square dire c t ly behind
+her is alre a dy occupied by an opposing piece.
+In other wo rd s , the only time a Queen is cap t u red because of her
+“ b a ck square ” is when an opposing piece moves to that square.
+Winning and Ending the Game
+If one player cannot move, the other player wins. Otherwise, wh e n
+one player has only one die left, the game ends. Both playe rs add up
+their points,and the one with the highest total wins.
+C ap t u red pieces are wo rth points according to their rank (see ab ove ) .
+Set cap t u red pieces aside to ke ep tra ck of your points. Make sure yo u
+d o n ’t accidentally ro t ate them!
+Basic Strate g y
+• Be ve ry careful with your Queens. Th ey are powerful indeed, bu t
+mu ch more vulnerable than in regular chess. And each time you lose
+o n e, you give your opponent 6 points!
+• Fo rks are easier to set up in P ro t e u s than in regular chess. A seem-
+i n g ly unthre atening die might ch a n ge into a piece that will thre aten two
+of your pieces next turn. This is one reason why it is ge n e ra l ly not a
+good idea to have seve ral va l u able pieces on the board at the same time!
+• Don’t fo rget that if one of your pieces is doomed, you can alway s
+ro t ate it one step down to give your opponent one less point. If yo u
+ch a n ge it from a Pawn to a Pyra m i d, it can’t be taken at all!
+T r a d e - O ff
+On any turn , a player may decide to trade his movement phase for a
+d o u ble ro t ation phase. He ro t ates his chosen piece t wo s t eps up or t wo
+s t eps dow n .
+In order to take adva n t age of this option, h oweve r, it must be possi-
+ble to perfo rm a full 2-step ro t ation with the target piece. A Rook can’t
+ro t ate up, because it has only one step to go. 
+With this ru l e, you have to trade off “ t e m p o ” against the confi g u ra-
+tion of your pieces. Strong pieces can be built fa s t e r, but only at the
+expense of your ove rall position.
+Sometimes yo u ’re in a situation wh e re you wish you d i d n ’t h ave to
+m ove a piece – just doubl e - ro t ate a piece, and yo u ’re free of your obl i-
+gations. Until next turn , of cours e. And it’s a gre at defe n s ive move
+when one of your pieces is corn e red and you want to surrender as few
+points as possible to your opponent.
+To defend against an opponent wh o ’s determined to build an army
+of Rooks and storm your terri t o ry, t ry to position your own pieces in a
+way that fo rces your opponent to move. If he h a s to move,he wo n ’t be
+able to perfo rm a 2-step ro t at i o n .
+Russian Roulette
+E ve ry cap t u ring piece is rolled (we ’re playing with dice, after all . . .)
+and put back in the same position on the board. Decide at the begi n n i n g
+of the game whether you will roll the cap t u ring piece befo re, or after,
+your ro t ation for that move. It makes a big diffe rence – try it both way s !
+This va riant fo rces playe rs to think twice about at t a cking with a
+s t rong piece – because it might be rolled back to a we a ker piece.
+M e a n wh i l e, t h ey are tempted to at t a ck more fre e ly with weak pieces.
+Trading Pawns sudd e n ly becomes a heart-thumping pro p o s a l : u n l e s s
+yo u ’re cap t u ring a strong piece, you might not want to risk giving a
+Rook or a Queen to your opponent. Even on a normal cap t u re, p l aye rs
+will find themselves doubl e - ch e cking their piece’s “ re a r ” s q u a re just in
+case they roll a Queen. 
+Wall Street
+P l aye rs are given a bu d get to “ bu y ” their starting pieces. The nu m-
+ber of pieces remains fi xed at 8 for each playe r, but they may be wo rt h
+a total of 20 points. (By compari s o n , in a standard game of P ro t e u s , t h e
+bu d get is fi xed at 16 points, fo rcing playe rs to start with 8 Paw n s . )
+Th e re are two ways to do the setup:
+Open Setup
+After choosing his pieces (in secre t ) , e a ch player rolls a die. The one
+with the highest roll places a piece on one of his eight starting square s .
+Then the other player places a piece, and so on until all 16 pieces are
+on the board. The player who placed a piece fi rst also plays fi rs t .
+Secret Setup
+E a ch player rolls a die: the one with the highest roll will play fi rs t .
+A screen is then placed across the board,and the playe rs choose and set
+up their fo rces in secret. When they ’re done, the screen is re m oved and
+p l ay begins. In this ve rs i o n , you know whether yo u ’ll be moving fi rs t
+or second when you select your pieces!
+Your strat egy will obv i o u s ly be diffe rent if yo u ’re going to play fi rs t
+or second. With the open setup, c a reful study of your opponent’s
+placements will let you fine-tune your own setup. Even at this early,
+s t atic stage, t h re ats and feints are not uncommon, as playe rs try to con
+e a ch other into anticipating a wrong piece placement. Things are quite
+d i ffe rent with the secret setup. The guessing game can be ve ry 
+d a n ge rous here! 
+P o l a r i t y
+“ O dd ” pieces (Bishop and Rook) can only cap t u re “ eve n ” p i e c e s
+( Paw n ,K n i g h t , and Queen), and “ eve n ” pieces can only cap t u re “ o dd ”
+pieces. This va riant takes a little getting used to, but once you get the
+hang of it, it becomes quite fa s c i n at i n g. It’s not a fast ga m e : it pro-
+motes taking a little time to build your army rather than at t a ck i n g
+aggre s s ive ly. Note that the Queen may only be back s t abbed with an
+“ o dd ” p i e c e. 
+W a r h o r s e s
+The ro t ation sequence is ch a n ged so that the Knight comes befo re
+the Bishop. Knights are now wo rth 3 points, and Bishops are wo rth 4.
+This brings the game into line with traditional chess thinking that a
+Bishop is slightly more va l u able than a Knight. It also slows play,as the
+fa r- ra n ging Bishops are harder to get. Endgames may be similar, bu t
+your openings will become ve ry diffe re n t !

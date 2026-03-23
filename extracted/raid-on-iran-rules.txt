@@ -1,0 +1,2219 @@
+Game Design by Steve Jackson 
+Cover by David R. Deitrick 
+Illustrations and Counter Graphics by Denis Loubet 
+Research by Elton Fewell Jr., Joseph M. Hurst, Forrest Johnson, and Steve Jackson 
+Playtesters: Forrest Johnson, Joseph M. Hurst, Nick Schuessler, Elisabeth Barrington, Aaron Allston, Jerry Self, Dave 
+Bolduc, Jeff Jacobsen, Elton Fewell, Jr. 
+ 
+ 
+Table of Contents 
+ 
+Game Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 
+ 
+Charts & Tables 
+ 
+ 
+ 
+ 
+ 
+Page 13 
+ 
+Player Aid Sheet 
+ 
+ 
+ 
+ 
+ 
+Page 15 
+ 
+About This Game 
+ 
+ 
+ 
+ 
+ 
+Page 16 
+ 
+Historical Notes 
+ 
+ 
+ 
+ 
+ 
+Page 17 
+ 
+Alternate Scenario (“What’s Sauce for the Goose...”) 
+Page xx 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2 of 18 
+© 1980 Steve Jackson Games 
+ 
+INTRODUCTION 
+ 
+Raid on Iran is a military simulation, or "wargame". It is an 
+attempt to represent what might have happened if the U.S. raid on 
+April 25, 1980, intended to free the hostages, had actually gone in. 
+An alternate scenario (highly speculative) looks at the possibility 
+that a commando team might have tried to kidnap the Ayatollah 
+himself in order to exchange him for the hostages. 
+ 
+Before playing this game, we suggest that each player read the 
+rules once, quickly, all the way through. Then set up the map and 
+units and start to play, referring to the rules as you go. The rules 
+sections appear in roughly the order you will need them as you 
+play the game. 
+ 
+1. COMPONENTS 
+ 
+This game includes the following components: the embassy map, 
+the rules sheet, the sheet of charts and tables, and 119 counters 
+to represent U.S. and Iranian units. If this is the first time you 
+have played, cut the sheets and counters apart. Otherwise, check 
+to make sure you have all the components. You will also need at 
+least two dice, a pencil and paper, and a straightedge. 
+ 
+1.1 The Map. The game map is based on actual maps and aerial 
+photographs of the embassy area. However, the scale has been 
+distorted as part of the "area" system of movement (see section 
+6). Buildings are shown much larger than life, since they contain 
+many areas and are the focus of combat. Road areas are long and 
+contact many other areas... because roads aid movement. Woods 
+areas are small and close-set... because forest impedes 
+movement. 
+ 
+There are four kinds of terrain shown on the map: buildings, 
+woods, roads, and lawns. 
+ 
+Buildings are shown in shades of blue. They are also set off by 
+heavier lines than the other areas. Buildings provide partial 
+protection for units inside them. 
+ 
+Woods are shown in green, with tree symbols. They also provide 
+some protection. However, woods may have been mined by the 
+Iranians. (These "woods" are actually shaded part areas, now 
+somewhat overgrown with brush) 
+ 
+Roads (and streets and parking lots, which are treated the same 
+way) are shown in yellow-brown. They are convenient for 
+movement, but very exposed. Roads are inside the Embassy; 
+streets are outside. 
+ 
+Lawns (and the football field and tennis court) are shown in light 
+green. They are very exposed, but make good helicopter landing 
+zones. 
+ 
+1.2 Unit counters. The men and weapons of each side are 
+represented by cardboard counters. These counters will also be 
+called "units". 
+ 
+American units are white with red and blue markings. 
+ 
+Commandos are shown by a picture of an infantryman and a 
+number. The number represents the amount of men in the unit. 
+It is also the attack and defense strength of the unit. These 
+counters are interchangeable; one 10 is the same as two 5's or ten 
+1's. Units may break up and recombine at any time. 
+ 
+Hostage counters carry a picture of a bound prisoner. The small 
+number on each hostage counter is for identification. Each 
+hostage counter may represent any number of hostages. A record 
+should be kept of the number of hostages (and wounded soldiers) 
+represented by each counter. 
+ 
+Helicopter counters are also numbered, 1 through 8. Each counter 
+represents one RH 53-D "sea Stallion" helicopter, of the type used 
+in the actual operation. 
+ 
+Special weapons counters represent one weapon each - four 
+mortars and one .50-caliber machine gun - and are discussed in 
+section 9. 
+ 
+Breach counters represent a hole in the embassy outer wall. 
+ 
+Iranian units are red with black markings. 
+ 
+Militants are shown by a picture of an armed Iranian "student", 
+and a number. The number represents the amount of men in the 
+unit. It is also the attack and defense strength of the unit. 
+Militant counters, like U.S. units, are interchangeable and may 
+combine or break up freely. 
+ 
+Mob counters represent groups of 20 to 30 lightly armed fanatics. 
+ 
+Khomeini. The counter representing the Ayatollah Khomeini 
+himself is used in the "Sauce for the Goose" scenario. 
+ 
+1.3 Rules sheet and charts. The rules sheet (which you are 
+reading) is separate from the charts and tables, for ease in 
+reference. 
+ 
+2. SETUP 
+ 
+2.1 Iranian Setup. The Iranian player sets up first. The map is 
+laid out (it may be a good idea to tape the corners down). The 
+Iranian player then takes 4 hostage counters and 120 militants. 
+He also takes the U.S. helicopter counters and Khomeini. These 
+will be used for "dummy" counters. 
+Hostage Placement. The militants are holding 50 hostages in the 
+embassy. At least 15 must be placed in the Residence basement; 
+at least 20 must be placed in the Chancellery basement. The 
+other hostages may be placed anywhere inside these two buildings 
+(not on the roof). Thus, there may be as few as two groups of 
+hostages at the start of the game, or as many as four. The 
+Iranian player records the number of hostages represented by 
+each counter. 
+ 
+Guard Placement. Militant units are placed as hostage guards. 
+There may be up to five men guarding each hostage counter. If a 
+hostage counter is placed on the map, but represents no hostages, 
+the Iranian player may put militants with it. However, they do 
+NOT count as "guards" - they're asleep. 
+ 
+Sentry Placement. 25 militants are placed as sentries. 10 go in 
+Road 12 (the main gate); 5 go in Road 1 (the rear gate). The 
+other 10 may be placed, together or separately, in any road 
+area(s). They may not be set up except in road areas. Where 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3 of 18 
+these rules refer to "sentries" later on, they mean Iranian units set 
+up in the roads and not yet alerted. 
+ 
+Other Militants. The remainder of the 120 beginning militants are 
+turned upside down and mixed up. The nine dummy counters are 
+placed with them, also upside-down. One counter, still inverted, is 
+now placed in each ground-floor building area that does not 
+already contain Iranian units. Any leftover counters are distributed 
+evenly among Buildings 1 through 5, as the Iranian player wishes. 
+(Neither player knows where all the militants are.) 
+ 
+Once all Iranian counters are on the board, they are ALL turned 
+upside down. Neither player may look at any of these counters 
+again until it has been "alerted" and turned right side up. 
+ 
+2.2 U.S. Setup. The American player then takes enough 
+counters for 90 troops (in any combination of units he likes) and 
+two mortars. He also gets ten "satchel charges" for breaching 
+walls, but no counters for these are necessary. The U.S. player 
+puts his units in the street areas, outside the Embassy compound; 
+he may start as many as he likes in any street area. 
+ 
+2.3 Special Advantages. Each player begins the game with one 
+of the following special advantages. Each player writes down his 
+choice before the game, and reveals it to the other player only 
+when the time comes to use it. 
+ 
+American Options: 
+ 
+(1) Extra explosive charges. Instead of only 10 satchel charges, 
+the U.S. player may take 50. 
+ 
+(2) Farsi speakers. The American troops may be accompanied by 
+a number of friendly Iranians and agents who speak fluent Farsi 
+(the Persian tongue). If this option is chosen, the American may 
+add two to his die roll whenever he attempts negotiation or 
+deception. 
+ 
+(3) Extraordinary diversion. It is assumed that U.S. agents outside 
+the embassy would be creating diversions to delay Iranian 
+reinforcements. This option allows for a truly elaborate diversion. 
+Entry of Iranian reinforcements is delayed by four turns. 
+ 
+(4) Mole in the Militants. One of the embassy militants could have 
+been a "mole" - an agent under deep cover. If this option is 
+chosen, the U.S. player begins the game knowing where each 
+hostage counter is, how many hostages are represented by each 
+counter, and how many guards are on each. 
+ 
+(5) More special weapons. The U.S. player may take either two 
+more mortars or one .50-caliber machine gun. (Use of this option 
+is the only way the American player can get the machine gun.) 
+ 
+Iranian Options: 
+ 
+(1) Better communications. Entry of Iranian reinforcements is 
+speeded by three turns. Thus, they would begin on turn 7 (or turn 
+11, if the American player picked option 3). 
+ 
+(2) Extra manpower. The Iranian player starts with 140 men 
+instead of 120. 
+ 
+(3) Extreme fanaticism. If this option is picked, the Iranian 
+militants have received intensive anti-American indoctrination, 
+speeches by Khomeini, etc. Thus, they are especially fanatic. The 
+American must subtract 2 from his die roll whenever he tries to 
+negotiate. The Iranian player adds 2 to his die roll whenever an 
+attempt is made to execute hostages. 
+ 
+(4) Booby traps. The militants have threatened at times to mine 
+the embassy grounds. If this option is chosen, they do so. The 
+Iranian player writes down the numbers of any three woods areas. 
+These areas are mined. Any unit or group of units that enters one 
+of these areas, throughout the game, suffers an immediate ranged 
+attack on the 11-15 column (no die-roll modifications). 
+ 
+(5) Changed hostage location. One hostage counter, representing 
+up to 10 hostages, may be set up inside any building area. There 
+must still be at least 15 hostages in the Residence basement and 
+20 in the Chancellery basement. 
+ 
+3. TURN PHASING 
+ 
+RAID ON IRAN is played in turns: first an American turn, then an 
+Iranian turn (however, the Iranian player may miss his first few 
+turns if the U.S. player avoids alerting his sentries - see below). 
+Each turn has several phases. The phases of a turn must be 
+carried out in their proper order. 
+ 
+American Turn: 
+ 
+(1) Make any breaches in outer wall. 
+(2) Attempt negotiation (if any). 
+(3) Make all ranged attacks. 
+(4) Land helicopters. Move units (except those that made ranged 
+attacks). 
+(5) Resolve all close attacks created by movement. 
+ 
+Iranian Turn: 
+ 
+(1) Bring in reinforcements (if any). 
+(2) Make all ranged attacks. 
+(3) Move units (except those that made ranged attacks). 
+(4) Attempt die rolls to alert "sleeping" units. 
+(5) Resolve close attacks created by movement. 
+ 
+Changing Facing: Each unit may either make a ranged attack or 
+move on each turn - but it may not do both. (Exception: the U.S. 
+double move. See Section 6.1). A convenient way to keep track 
+of which units have fired is to begin your with all units facing "up" 
+- that is, north-south. When a unit makes a ranged attack, turn it 
+sideways. After you finish with ranged combat, only those units, 
+which have not been turned, are eligible to move and/or initiate 
+close combat. Facing has no other effect on play. 
+ 
+Record Keeping: On a separate piece of paper, the players should 
+keep track of the following things: 
+ 
+(1) What turn it is. 
+(2) The turn on which the Iranian sentries were alerted. 
+(3) The turn on which helicopters enter. 
+(4) How many U.S. troops and hostages have been executed or 
+eliminated in combat. 
+(5) The number of hostages and/or wounded troops represented 
+by each numbered hostage counter. 
+(6) The number of satchel charges which have been used. 
+(7) Damage to each helicopter and turns it has hovered. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+4 of 18 
+4. STARTING PLAY 
+ 
+The American player moves first. On his first move, he will send 
+some or all of his units from the street into the embassy proper. 
+He may do this in several ways: 
+ 
+4.1 Stealth. Commando units may climb over the embassy wall, 
+from road to street or vice versa; this counts as a regular move. 
+Any number of commandos may climb the wall each turn; 
+however, no more than 10 per turn may enter in any one area. If 
+the sentries have not yet been alerted, the commandos may try to 
+get over the wall without alerting them. This is an "entry by 
+stealth". 
+ 
+Each turn that commandos climb the wall, the U.S. player rolls two 
+dice and consults the Entry By Stealth table (Table 1). A 
+successful roll means that the entry did not alert the sentries; a 
+failed roll means the sentries were alerted by the commandos' 
+entry. See Section 5. Commandos may climb the wall even after 
+the sentries have been alerted. The "stealth" table is no longer 
+needed. 
+ 
+Attacking Sentries: If there are sentries (any number) in an area to 
+be entered by stealth, the U.S. player subtracts 4 from his die roll. 
+Whether or not the sentries are alerted by the entry itself, the U.S. 
+troops must immediately close attack. Only if they enter without 
+being seen, and then make a successful "quiet attack" (see Section 
+10) will they avoid alerting the rest of the sentries. 
+ 
+4.2 Deceit. If the Iranian sentries have not been alerted, the 
+American commandos may attempt one "entry by deceit". 
+Disguised as a supply convoy, they can try to talk their way into 
+either the front or rear gate. 
+ 
+The fake "supply convoy" may contain up to 50 American (plus, if 
+desired, any or all of the special weapons). To see if the Iranians 
+are fooled, the American rolls two dice and consults the Stealth 
+Table, based on the number of men entering. However, he adds 
+two to his die roll, and doe not subtract for any of the 
+modifications listed there. Thus if there were 30 men in the fake 
+convoy, it would enter successfully on a roll of 6 or better. (If the 
+U.S. troops have Farsi speakers with them, their die roll is 
+improved by 2). 
+ 
+If the ruse works, no sentries are alerted. To continue the 
+deception, the convoy must act normally while in view of the 
+sentries. Convoy units must stay together, moving on roads or 
+parking lots only, until they reach an area at least 2 areas away 
+from any sentries. The convoy may also break up, move into other 
+kinds of areas - or attack - while close to the sentries. To do so 
+will alert all sentries immediately, unless the attack is a successful 
+"quiet attack". If the convoy enters another area containing 
+sentries, it must make another die roll, as above. 
+ 
+If the convoy is detected at any time, its units make an immediate 
+close attack on any Iranian units in their area. Similarly, if 
+something else alerts sentries while the convoy is in their area, the 
+convoy units close attack immediately. 
+ 
+The convoy may enter on the same turn that other units attempt 
+an entry by stealth. However, if the entry-by-stealth occurs first 
+and is detected, the sentries are alerted, and the convoy loses any 
+chance to enter the gate without combat. 
+ 
+4.3 Force. The Americans have 10 satchel charges, any one of 
+which will open a breach in the outer wall. There are no counters 
+for satchel charges; until they are all used up, the American may 
+use one anywhere he has commandos. 
+ 
+When a charge is used on the outer wall, place a "BREACH" 
+counter there. Units may now move between the street and road 
+areas there, as though the wall did not exist, starting that same 
+turn. Any number of units may use a breach. 
+ 
+Any number of charges may be used to breach a wall (though one 
+is enough). Each charge used against the embassy wall counts as 
+a ranged attack (strength of 2) against any sentries on the other 
+side. Three charges thus equal a ranged attack with strength of 6. 
+If U.S. units move through the breach that turn, they must close 
+attack any surviving sentries. Note that any explosion will 
+instantly alert all sentries and any other units within 3 areas of the 
+road where it occurs. 
+ 
+5. IRANIAN ALERT 
+ 
+The raid was to take place in the early hours of the morning, local 
+time... a surprise attack. Therefore, no Iranian unit may move or 
+attack until it has been "alerted". All Iranian units (and the 
+hostages) begin the game upside down to indicate that they are 
+not alerted. When a unit is alerted, turn it right side up. 
+ 
+5.1 Alerting Sentries. The sentries are those Iranian units that 
+being the game in road areas. They are awake, and are presumed 
+to carry radios. If one sentry is alerted, they are ALL immediately 
+alerted. 
+ 
+All sentries are instantly alerted if: 
+(a) Any satchel charge, mortar round, or booby trap goes off 
+anywhere. 
+(b) Any U.S. unit makes any attack except a successful "quiet 
+attack". 
+(c) Any U.S. entry by stealth or deceit (see Sections 4.1 and 4.2) is 
+detected. 
+ 
+5.2 Alerting other Iranian units. Other Iranian units must be 
+individually alerted. They begin the game off-duty, cooped up 
+with the hostages, or (for the most part) asleep. Furthermore, the 
+Iranian player doesn't know for sure where all his units are. A 
+non-sentry unit is instantly alerted when: 
+ 
+(a) An American unit fires on it, or calls for its surrender. 
+(b) A booby trap, mortar round, or satchel charge goes off within 3 
+areas of its position. 
+(c) Any unit fires on an enemy (or is fired upon) within two areas 
+of its position, or anywhere inside the same building. 
+(d) Another Iranian unit alerts it. To alert another unit, an Iranian 
+must move into its area and then roll a 1, 2 or 3 on 1 die. The 
+"alerting" unit rolls as soon as it enters the area. On a successful 
+roll, the unit becomes alerted immediately, but may not move or 
+attack until its next turn. On an unsuccessful roll, the alerting unit 
+may try again once per turn until it succeeds. Exception: If a 
+guard unit (that is, any Iranian unit in an area with hostages) has 
+not been alerted, it will be alerted automatically by any Iranian 
+unit entering the area. 
+ 
+5.3 Helicopter alert. When the first U.S. helicopters appear, all 
+remaining Iranian units are alerted (and the U.S. player gets his 
+helicopter counters back). 
+ 
+5.4 Alerting dummies. When a newly alerted unit proves to be 
+a dummy (Khomeini or a helicopter), remove it from the board. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+5 of 18 
+6. MOVEMENT 
+ 
+This game uses a system of “area movement”. The map is 
+divided in 138 areas, each of which has a name. Areas represent 
+differing amounts of territory – all fairly large. Any number of 
+units may occupy an area. 
+ 
+The black lines on the map represent area boundaries. Extra-
+heavy lines are used to indicate building walls and the wall around 
+the embassy compound. 
+ 
+Normally, each unit may move one area per turn. In other words, 
+it may move out of its own area into any adjacent area. Areas are 
+adjacent only if they share a border. Areas which touch only at 
+corners (for example, Woods 44 and 53) are not adjacent. 
+ 
+The embassy wall, near the edge of the map, is the only area 
+boundary that blocks movement. Units may not cross the 
+embassy wall (that is, move from a “street” area to a “road” area, 
+or vice versa) unless they use a gate (Street 1 or Street 14) or a 
+breach made by a satchel charge. Exception: US troops may climb 
+over the wall (see section 4.1) in either direction. No more than 
+10 may climb over the wall in any one area each turn. Hostages 
+or wounded soldiers may not climb the wall. 
+ 
+Each counter may move once (and only once) per turn, unless (a) 
+it made a “ranged attack” that turn (in which case it cannot move 
+at all) or (b) it is a U.S. unit making the “double move”. 
+ 
+Each building has at least two areas: ground floor and roof. The 
+Chancellery has two stories; the Ambassador’s Residence has 
+three. (Each of these buildings also has a basement). Each story 
+is a separate area. Furthermore, the larger buildings are divided in 
+half geographically: north/south or east/west. Thus, the Library 
+comprises two sections. The Library North is separate from the 
+Library South; the two roof sections are likewise separate. Thus, 
+the Library has four areas. The Residence has five separate areas; 
+the Chancellery has seven. 
+ 
+Movement within a building is treated like movement between any 
+other areas. Areas are not adjacent unless they share a boundary. 
+For instance, a unit in the Chancellery West on the first floor may 
+(a) go up to the second floor west; (b) go down to the basement; 
+or (c) go across to the first floor east. No other areas within the 
+building are adjacent. 
+ 
+To reach the roof areas of most buildings, it is necessary to enter 
+the buildings. However, the roof areas of the small houses and 
+Buildings 3 and 4 are adjacent to ground areas. These roofs can 
+be reached from the ground. 
+ 
+6.1 The Double Move. Commando units are in top training, and 
+habitually do the unexpected. Once per turn, a single U.S. unit (or 
+group of units acting together) may make a DOUBLE move. In the 
+double move, they may either (a) make a ranged attack and then 
+move one area, or (b) make two moves of one area each. They 
+may not move one area and then make a ranged attack. 
+ 
+If a unit chooses to move twice, its first move may not be into an 
+Iranian-occupied area. However, its second move may (this will 
+result in a close attack). 
+ 
+All U.S. troops, helicopter crew members, and hostages may 
+participate in a double move. Because of their weight, machine-
+guns and mortars cannot. If the unit carrying them makes a 
+double move, the machine-gun or mortar(s) must be left behind. 
+ 
+NOTE: It is legal for some units in an area to make a double 
+move, while others do not. 
+ 
+In order for a group of U.S. units to double move together, they 
+must all do the same thing. They must all start and finish in the 
+same area. If they make a ranged attack, they must all fire – but 
+not necessarily at the same area. 
+ 
+The U.S. player does not have to designate which stack will take a 
+second move until after the rest of his turn is finished. At that 
+time, he simply takes one unit or stack that has already acted – 
+and moves it one area further. If this results in a close attack, 
+that attack is then resolved. 
+ 
+Special Cases. (1) It is possible for a unit, using its double move, 
+to attack twice per turn – one ranged and one close. This is legal. 
+(2) If a unit’s double move brings it into a close attack, and U.S. 
+units from other areas are close attacking the same enemies that 
+turn, the U.S. player makes that double move before that attack is 
+resolved. Otherwise, he would be making two separate close 
+attacks against the same area in one turn – which is illegal. See 
+Section 8. 
+ 
+6.2 Stacking. Any number of units may occupy the same area. 
+They are treated as a unit for defensive purposes. However, they 
+do not all have to attack the same way, or attack the same enemy. 
+If the American player has 30 men atop the roof of the North 
+Library, he could have 10 make a ranged attack against Lot 3, 10 
+make a close attack against foes on the South Library roof, and 10 
+move down into the North Library – all on the same turn. 
+ 
+It is quite possible for both players to have units in the same area 
+at once. This happens as a result of close combat (Section 8.3). 
+The player whose turn it is must move his units out or make a 
+close attack himself. 
+ 
+6.3 Leaving the Map. Either player may move units off the 
+map. Once a unit leaves the map, it may not return. 
+ 
+U.S. units may move off the map in a helicopter (Section 16.1) or 
+on the street (Section 16.2). Once off the map, they have 
+escaped. 
+ 
+The Iranian player may escort hostages off the map to prevent 
+their rescue. No Iranian unit may leave the embassy compound 
+(i.e. enter a street area) until 10 turns after the sentries are 
+alerted. If the sentries are alerted on Turn 3, hostages could be 
+taken into a street area on Turn 13. One the next move (Turn 
+14), the Iranian player may move them out of the street area and 
+off the map. Once a hostage counter has been moved off the 
+map, it cannot be rescued. 
+ 
+7. RANGED COMBAT 
+ 
+There are two different kinds of combat: ranged combat and close 
+combat. 
+ 
+Ranged combat takes place before movement. In ranged combat, 
+a unit in one area fires on a unit in another area. There is no risk 
+to the attacking unit. A unit that makes a ranged attack cannot 
+move that turn. You cannot have ranged combat with units that 
+are in the same area. 
+ 
+Normally, a unit’s range of fire is only one area – that is, a ranged 
+attack can only be made against enemies in an adjacent area. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+6 of 18 
+However, a unit may fire at greater range if it is above ground 
+level. 
+ 
+7.1 Increased Range for Height. A unit on a first-floor roof, or 
+on the second floor, has a range of two areas, counting from the 
+ground floor of that section of building. Example: A unit on the 
+Library North Roof could make a ranged attack against enemies in 
+Woods 6, 9, or 10, or Roads 19 or 20 – all of which are two areas 
+away from the North Library ground floor. 
+ 
+A unit on a second- or third-story roof, or on the third floor, has a 
+range of three areas, counting from the ground floor of that 
+section of building. Example: A unit on the Chancellery West roof 
+could fire as far away as Woods 7 or 8, or the Library North – all of 
+which are three areas away. 
+ 
+7.2 Range of Special Weapons. Mortars and machine guns 
+have an unlimited range (on this map scale, that is). A mortar can 
+make a ranged attack against any area except one inside a 
+building. A machine gun may fire on any area as long as it has a 
+line of sight (see below). 
+ 
+7.3 Line of Sight. A unit attacking an adjacent area 
+automatically has a line of sight, or LOS. (Exception: the embassy 
+wall blocks LOS between street areas and the adjacent roads). 
+Attacks at longer ranges must have a clear LOS. 
+ 
+To determine LOS, put a straightedge on the map. If it is possible 
+to join any portion of the attackers’ area with any portion of the 
+defenders’ area without passing through a woods or building area, 
+the LOS is clear. LOS must join the interiors of the areas at some 
+point... any point. LOS cannot run along the edge of a woods or 
+building area – it must be totally clear. 
+ 
+Note that it is perfectly all right to fire into a woods or building 
+area – but the LOS cannot go all the way through one. A mortar 
+does not need LOS. 
+ 
+Line of sight to any building area is always figured from its ground 
+floor. If the ground floor of a building area has a clear LOS, the 
+roof and upper stories do too. In the case of the houses and 
+Buildings 3 and 4, if the roof has a clear LOS, the inside of the 
+building does too. (In reality, upper areas of all buildings are the 
+same shape as the ground floor). Basements have no LOS 
+outside! 
+ 
+The embassy wall blocks LOS and movement except at gates and 
+breaches. 
+ 
+LOS through units. Units (friendly or enemy) do not block LOS. 
+Units are not endangered by long-range attacks passing through 
+or over their area. 
+ 
+7.4 Height. A first-story roof is above all ground and ground 
+floor areas. The second story is higher than a first-story roof. The 
+second story roof is higher than the second story, and so on. 
+ 
+Attacks against an enemy at a higher level are at a -1 on the die 
+roll. Attacks against an enemy on a lower level receive no die roll 
+advantage. However, a unit with a height advantage gains a 
+range advantage, and may fire on units at a distance – while often 
+those units cannot fire back at all. 
+ 
+7.5 Resolving Ranged Combat. Only one ranged attack may 
+be made against each enemy-occupied area each turn. Combine 
+the strengths of all units joining in that attack, even if they are 
+firing from different areas. In ranged combat, only the attackers’ 
+strength is important; the strength of the defenders has no effect 
+on the result. 
+ 
+The attacker rolls one die and refers to the appropriate column of 
+the Ranged Combat Table to determine what losses the defender 
+takes. Note that several factors (listed below the table) may 
+modify the result. These modifications are cumulative, and apply 
+to both ranged and close combat. 
+ 
+7.6 Ranged Attack Within Buildings. It is impossible for any 
+number of men to lay down ranged fire within a building. A 
+massed attack up the stairwells (or through floors) is possible, but 
+dangerous. Mass sniping up the stairs is impossible! About the 
+most you could do would be to use a few grenades. Therefore, if 
+a ranged attack is made from one building area to another area in 
+the same building, it is never resolved on more than the “6-10” 
+column, even if more than 10 men are attacking. 
+ 
+7.7 Ranged Attack Against Areas Containing Friendly 
+Units. If units belonging to both players are in the same area, a 
+player attacking with ranged fire may endanger his own units. 
+The player making the ranged attack has two choices: 
+ 
+(1) He can reduce the effectiveness of his fire to avoid hitting his 
+own men. He subtracts an extra 2 from his die roll against the 
+enemy units. His own units in that area are not endangered. A 
+mortar attack cannot take this option. 
+ 
+(2) He can fire at the enemy, and hope his own troops keep their 
+heads down. In this case, a normal die roll is made against the 
+enemy units. A second die roll, at the same attack strength, is 
+then made against the friendly units in that area. If the U.S. 
+player is firing, he may subtract 2 from this roll (better training 
+counts!) All modifiers for terrain, height, etc., also remain in 
+effect. 
+ 
+8. CLOSE ATTACKS 
+ 
+The second kind of combat is the close attack, made by a unit 
+actually entering an enemy-held area. Close attacks are resolved 
+after all movement takes place. A close attack usually means 
+casualties for both the attacker and the defender; in fact, a close 
+attack at bad odds is suicidal. 
+ 
+To make a close attack, the attacker moves one or more units into 
+an enemy-held area. The attacking units may come from more 
+than one area. Only one close attack may be made on each 
+enemy-held area per turn. 
+ 
+8.1 Resolving Close Attacks. The total strength of the 
+attackers is combined and compared to the total strength of the 
+defenders in the area. The ratio is then rounded off in favor of the 
+DEFENDER. For instance, if 20 men close attack 10, the attack is 
+at “2 to 1”. However, if 19 men attack 10, the attack is rounded 
+down to a “1 to 1”. An attack at less than “1 to 3” is resolved on 
+the “1-3” column of the Close Attack table; an attack at better 
+than “4 to 1” is resolved on the “4-1” column. 
+ 
+A few more examples of combat odds calculation: 12 to 14 = “1 to 
+2”. 35 to 14 = “2 to 1”. 40 to 5 counts as “4 to 1”. 5 to 40 
+counts as “1 to 3”. 
+ 
+8.2 Retreat. If the modified die roll in a close attack is 1 or 
+more, any surviving attackers stay in the area they close attacked. 
+However, if the modified result is a zero or less, the attackers are 
+
+ 
+ 
+ 
+ 
+ 
+ 
+7 of 18 
+“driven back with light losses”. The attackers automatically lose 2 
+men, and must retreat to the area from which they attacked. 
+ 
+Therefore, when a close attack is made by units from several areas 
+combining into one assault, keep track of which units attacked 
+from where. If they are forced to retreat, the survivors must 
+retreat to the areas from which they entered. They can’t all join 
+and retreat to the same area. 
+ 
+8.3 Forced Close Combat. If a close combat does not result in 
+an “X” result (eliminating one side) or a retreat, it will leave units 
+of both sides occupying the same area. This will force close 
+combat if the enemy elects to stay in the same area in his turn. 
+ 
+Whenever a player’s units begin a turn in the same area with 
+enemy units, they have only two options: they can move out, or 
+stand and close attack the enemy units in that same area. Treat 
+this as a normal close attack. It is possible for friendly units from 
+an adjacent area to move in and join them in the close attack. 
+ 
+If attackers who began in the same area with the enemy get an 
+adjusted die roll of zero or less, they have two choices: (a) lose 
+two men and retreat to any adjacent area not occupied by enemy 
+units, or (b) lose 5 men and stand their ground. Units that have 
+no free area to retreat to must take the second option. 
+ 
+Special Case. It is possible that units will (a) begin their move in 
+an area with enemy units, (b) move out of the area to close attack 
+enemies in an adjacent area, and (c) get a result of zero or less. 
+They are “caught between two fires!”. They must immediately 
+retreat to the area from which they came, and make a close attack 
+on the enemy units there. This is an exception to the general rule 
+that a unit may not attack twice per turn. A unit may be bounced 
+back and forth like this until it either gets a result of better than 
+zero or is eliminated. 
+ 
+9. SPECIAL WEAPONS 
+ 
+There are three kinds of “special weapons” available to the U.S. 
+player. These weapons increase the printed combat strength of 
+the units using them. 
+ 
+9.1 Satchel Charges. The U.S. player starts with ten of these, 
+mainly for use against the walls. If they are not expended against 
+the walls, they may be used in combat. There are no counters for 
+these charges. The American player must keep track of how many 
+he has used – but until they’re all used up, he may use one 
+wherever he has a commando unit. 
+ 
+A satchel charge is nothing but a packet of high explosive with a 
+fuse or short timer. The only quick way to use one in combat 
+(without severe danger to the user) is to drop it on the enemy. 
+Therefore, a satchel charge adds 5 to any ranged attack IF the 
+attackers are firing from an upper story of a building (or a roof) 
+onto the ground below. The commandos just set the timer for 
+about ten seconds, and toss it off. A commando unit may also use 
+a satchel charge by throwing it over the Embassy wall – from a 
+street area to an adjacent road area, or vice versa. This is the 
+only way a ranged attack may e made through the wall unless a 
+gate or breach is present. Used this way, a charge also has a 
+strength of 5, and does not breach the wall. 
+ 
+A satchel charge may not be used in combat in any other way. It’s 
+theoretically possible... but too dangerous to the user and the men 
+with him. 
+ 
+Any number of satchel charges, up to the number of men in the 
+unit using them, may be thrown in one turn. A soldier may fire on 
+the turn he throws a satchel charge. 
+ 
+9.2 Mortars. This counter represents a 60mm light mortar. Two 
+men are required to carry or fire a mortar. They cannot fire their 
+own weapons on any turn they use the mortar. The mortar may 
+not move by itself – it has to be carried. The mortar may not be in 
+a stack that makes a double move. 
+ 
+The mortar may fire from any area on the board except woods or 
+the inside of a building. It may be used against any area except 
+an area inside a building. It is capable or ranged attack only, but 
+its range is unlimited and it does NOT require a clear LOS. It has 
+an attack strength of 5 – that is, it is equivalent to 5 men 
+attacking. It counts as zero in defense. 
+ 
+9.3 The .50 Caliber Machine Gun. This weapon is available 
+only as an option. It is extremely heavy and bulky; the 
+commandos probably wouldn’t have taken it. Once set up, 
+though, a heavy machine gun would be very useful. 
+ 
+Like a mortar, the .50 caliber cannot move or attack by itself. It 
+takes two men to fire it; they may not fire their own weapons that 
+turn. It takes five men to move it, due to the great weight of the 
+gun, tripod, and ammunition. 
+ 
+Once the machine gun has entered an area, it must stand still for 
+one turn before it can be fired. This represents the time it takes to 
+set it up. If the U.S. player gets the gun where he wants it on 
+Turn 6, he must spend Turn 7 setting it up, and can fire it on Turn 
+8. It does not require a turn to disassemble; it may be moved on 
+any turn. It may not be in a stack that makes a double move. 
+ 
+The machine gun may fire once per turn. It may make ranged 
+attacks only, firing at any range where LOS can be established. It 
+has an attack strength of 25. 
+ 
+If a close attack is made against an area containing the machine 
+gun, its 25-point strength is added to the defensive strength in the 
+area, as long as two men are available to operate the gun. They 
+cannot fire their own weapons in the defense, so the gun adds a 
+net 23 to the defense of an area. 
+ 
+9.4 Capture of Special Weapons. Due to the difficulty of firing 
+an unfamiliar weapon immediately – plus the certainty that the 
+commandos would take any opportunity to disable a heavy 
+weapon rather than let it fall into enemy hands – the Iranian 
+player may not capture special weapons. If a weapon is 
+abandoned or all U.S. units in its area are eliminated, remove the 
+weapon as well. Since there are no counters for satchel charges, 
+they are never eliminated until used. 
+ 
+10. QUIET ATTACKS 
+ 
+The U.S. commandos carried certain quiet weapons. While not 
+suitable for a pitched battle, these weapons (i.e. gas grenades, 
+silenced firearms) would have been capable of removing a few 
+sentries without alarming the rest. Special weapons (Section 9) 
+may not be used in a quiet attack! 
+ 
+When the American player attacks an Iranian sentry who has not 
+yet been alerted, he may attempt a “quiet” attack. This may be 
+either a ranged or a close attack. He rolls on the appropriate CRT, 
+but does not add 3 to the roll because his target is “not alert”. 
+Instead, he subtracts two from the roll. If the “quiet attack” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+8 of 18 
+eliminates all Iranians in the area, no one is alerted! If any 
+sentries survive the attack, all other sentries (and any other units 
+within 2 areas) are alerted. 
+ 
+Quiet attacks may only be made against sentries – that is, units on 
+the road. If you are in an unfamiliar building, it is very hard to 
+find and neutralize an opponent without making a certain amount 
+of noise. 
+ 
+A quiet attack may not be attempted through either gate. The 
+militants aren’t crack troops – but the gate is where they expect 
+an attack. 
+ 
+11. AMERICAN CASUALTIES 
+ 
+In normal battle, there will be several wounded for every man 
+actually killed. Even in a special operation of this sort, not every 
+casualty is KIA. 
+ 
+Whenever U.S. troops or helicopter crewmen are eliminated by 
+combat, it is assumed that half of them (round down) are only 
+wounded – perhaps too severely to fight, but not too severely to 
+walk or to assist other wounded men. Certainly, the U.S. forces 
+would have left no wounded men (or even bodies) behind unless 
+there was no alternative. Thus, if the U.S. player loses one man, 
+he is actually killed. However, if he loses two men at once, one is 
+killed and on is only wounded. 
+ 
+Wounded men are added to the “hostage counter” (see Section 
+12). If there is no hostage counter in the area, place one there 
+and note the wounded men. They are treated like hostages for 
+movement and combat purposes. They can no longer fight or 
+climb walls, but can otherwise move normally. Example: 7 U.S. 
+troops and 3 hostages, in a woods area, are hit by ranged fire 
+from 25 men. The die roll modifier is -4 (-2 because Iranians are 
+firing, -2 because the defenders are in the woods). The die roll 
+against the troops is 4 (a -2 result). The roll against the hostages 
+is 2 (a -1 result). One hostage is therefore killed. Two soldier 
+units are removed from the board. The hostage counter remains, 
+but the hostage record is changed to show that the counter now 
+represents two hostages and one wounded soldier. 
+ 
+When a mixed group of hostages and wounded soldiers is attacked 
+(in any fashion), losses are always taken from the wounded 
+soldiers before any hostages are lost. Hostages and already 
+wounded soldiers are not “wounded” again; if eliminated, they are 
+dead. 
+ 
+Note, therefore, that an “X” combat result will (a) eliminate all 
+hostages and wounded soldiers in the area, (b) kill half the troops 
+in the area (rounded up) and (c) leave the rest of those troops 
+wounded. 
+ 
+It is not necessary to keep any record of Iranian units eliminated. 
+ 
+12. THE HOSTAGES 
+ 
+Hostages are represented by the 10 numbered “hostage counters”. 
+At the beginning of the game, when the Iranian player places the 
+hostages, he notes on a separate piece of paper how many 
+hostages are represented by each counter. A counter may 
+represent any number of hostages or none at all. 
+ 
+Identification of hostages. The four hostage counters that begin 
+the game are inverted, along with all the Iranian units. They are 
+turned face up when their guards are alerted. However, the U.S. 
+player does not find out how many hostages a counter represents 
+until he moves a unit into their area. The Iranian player must then 
+tell him how many hostages are there, whether he recaptures 
+them or not. Later in the game, the Iranian player is entitled to 
+know how many hostages (or wounded soldiers) are in an 
+American controlled hostage counter whenever Iranian units enter 
+its area. 
+ 
+Movement of hostages. Hostages are moved by the player 
+controlling them. They move like other units. Freed hostages can 
+double move. 
+ 
+The Iranian player may not move any hostage counter until the 
+guards with it have been alerted. 
+ 
+Hostage counters may be combined or split up by the player 
+controlling them. For instance, if Hostage Counter #6 contains 8 
+hostages, the player controlling it may mark two of those hostages 
+off, put down a new hostage counter, record that it represents two 
+hostages, and move it away. 
+ 
+Rescuing hostages. A hostage counter is controlled by the Iranians 
+until there are no Iranian units left in its area. It is then controlled 
+by the American player. The Iranians can recapture hostages only 
+if they move militant or mob units onto them when no unwounded 
+U.S. troops are left in the area. 
+ 
+12.1 Accidental death of hostages. If hostages are in an area 
+that comes under fire, they may be killed accidentally. Hostages 
+that are stacked with an attacking unit are never killed – only 
+hostages in an area that is attacked. 
+ 
+12.11 U.S. attacks. If the U.S. player makes a close attack on an 
+area containing hostages, they are not endangered. Concussion 
+grenades, gas, and other non-lethal attack agents were carried for 
+just this purpose. A U.S. close attack can eliminate militants 
+without endangering hostages (or wounded) in the area. 
+ 
+If the U.S. player makes a ranged attack on an area containing 
+hostages, follow rule 7.7. The U.S. player must either reduce the 
+effectiveness of his fire or risk injuring the hostages. 
+ 
+12.12 Iranian attacks. An Iranian close attack will endanger 
+hostages in the area attacked. If the result of the attack is an “X” 
+then all noncombatants (hostages and wounded) in the area are 
+killed. Half the troops are killed; the other half are wounded and 
+automatically captured. However, if the result is not an “X”, no 
+noncombatants are killed, even if all U.S. troops in the area are 
+lost. Otherwise, no hostages or wounded soldiers are lost. 
+ 
+If the Iranian player makes a ranged attack on an area containing 
+hostages or wounded soldiers, he also follows rule 7.7. He has the 
+option of treating the hostages as “friendly” (so he can try to 
+recapture them) or of attacking normally (and making a second die 
+roll against the hostages there). 
+ 
+12.2 Executing the Hostages. The Iranians have constantly 
+threatened to execute the hostages if a rescue attempt was made. 
+They might do it. 
+ 
+Once an Iranian unit has been alerted, it may attempt to execute 
+any hostages in its area. This takes place after Iranian movement; 
+it is considered a close attack with automatic success. It only takes 
+one unit to execute hostages, but he may not make another attack 
+that turn. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+9 of 18 
+To attempt an execution, the Iranian player rolls one die, to see if 
+the guards will actually shoot the hostages. 
+ 
+On a result of 3 or less, the guards scream imprecations at the 
+Americans, but do not execute any hostages that turn. 
+ 
+On a result of 4 or 5, they decide to kill some of the hostages as a 
+warning. Roll one die. They kill that many hostages, or all hostages 
+in the area – whichever is less. If there are both hostages and 
+wounded troops in the area, they shoot troops first. 
+ 
+On a result of 6 or more, they kill all the hostages in the area. 
+ 
+The Iranian player may attempt to execute all the hostages at 
+once, or only those in some areas. If he is trying to execute 
+hostages in more than one area at once, he rolls separately for 
+each area. 
+ 
+Subtract 1 from the die roll if the closest Americans are more than 
+2 areas away. 
+ 
+Add 2 to the above roll if the Iranian militants are “extreme 
+fanatics” (see Section 2.3, option 3). 
+ 
+If the Iranians execute any hostages (or wounded troops), the 
+commandos will react with outrage. For the rest of the game, 
+when any U.S. troops fire on Iranians, they add an extra 1 to their 
+die roll. This does not apply if hostages or wounded troops die in 
+combat – only if they are murdered. 
+ 
+Note that hostages may also be executed as a result of a failed 
+attempt to negotiate (see Section 13). This too will cause outrage. 
+ 
+12.3 Captured Americans (new hostages). One of the more 
+unpleasant possibilities of the raid was that the Iranians would 
+take some of the commandos prisoner. A botched raid could leave 
+the Ayatollah with more hostages than he started with! 
+ 
+As described in Section 11, half of the American casualties 
+(rounded down) are only wounded. Their unit counters are 
+removed from the board, and the wounded soldiers represented 
+by a hostage counter. Keep separate track of the number of 
+wounded troops and hostages in each counter. 
+ 
+Wounded soldiers cannot fight and are treated exactly like 
+hostages for all purposes, with two exceptions: (1) If 
+noncombatants are killed for any reason, all wounded troops in the 
+area are lost before any hostages are lost; (2) The American 
+player gets victory points for each hostage rescued. He neither 
+gains nor loses victory points for rescuing wounded troops. The 
+Iranian player, of course, gets victory points for any American 
+prisoners he can keep. 
+ 
+13. NEGOTIATION 
+ 
+Any U.S. unit(s) may attempt to negotiate with Iranians in an 
+adjacent area. They can promise the militants their lives if they will 
+lay down their weapons, free their hostages, and leave. If a group 
+of Iranians has no hostages, they may still be invited to surrender. 
+However, sentries cannot be asked to surrender. 
+ 
+Negotiation takes place before any movement or combat. If the 
+U.S. player wants to negotiate, he says so (the Iranian player may 
+not open negotiations). He rolls one die. Results are as follows: 
+ 
+On a result of 1 or less, the militants roll one die and shoot that 
+many hostages immediately. If they have no hostages, they get 
+one free ranged attack (taking place immediately) on any of the 
+Americans calling for surrender. 
+ 
+On a 2 or 3, the militants prepare to shoot the hostages. If the 
+U.S. player cannot eliminate all militants in that area before the 
+next Iranian turn, they will then roll one die and shoot that many 
+hostages. (If they have no hostages, they get a free ranged 
+attack, as above). 
+ 
+On a 4 or 5, the Iranians get a free, immediate ranged attack on 
+the U.S. troops, but do not shoot any hostages. 
+ 
+On a result of 6 or more, all militants in that area surrender. 
+Remove all Iranian units in the area. Any hostages there are 
+unharmed. 
+ 
+Modifications: 
+ 
+Add 2 to the roll if the Americans took the “Farsi Speaker” option. 
+ 
+Add 1 to the roll if the Americans calling for the surrender 
+outnumber all Iranians adjacent to them (in any area) by better 
+than 4 to 1. Special weapons and hostages don’t count. 
+ 
+Subtract 2 from the roll if the Iranians being asked to surrender 
+outnumber the Americans asking them to surrender. 
+ 
+Subtract 2 if the militants took the “extreme fanaticism” option. 
+ 
+If the Iranians in an area refuse to surrender, the U.S. player must 
+attack them at least once before he can call for surrender a second 
+time. 
+ 
+If the Iranians in an area have not yet been alerted, an attempt to 
+negotiate will automatically alert them. 
+ 
+14. IRANIAN REINFORCEMENTS 
+ 
+The American commandos must complete their mission quickly. 
+Within minutes after they are detected, Iranian reinforcements will 
+begin to arrive. 
+ 
+The Iranian player begins to get reinforcements on (a) his first 
+turn after any American helicopters arrive (whether they land or 
+not) or (b) his tenth turn after his sentries are first alerted. If his 
+sentries are first alerted on turn 6, for instance, his first 
+reinforcements arrive on turn 16. If the Iranian chose the “better 
+communications” option, his reinforcements are speeded by three 
+turns; if the American chose the “extraordinary diversion” option, 
+reinforcements are slowed by four turns – unless, of course, a 
+helicopter shows up first. 
+ 
+The Iranian rolls two dice to see what reinforcements he gets, and 
+where. Refer to the Iranian Reinforcement Table (Table 4). 
+Reinforcements appear in the street; their first move may bring 
+them into the adjacent road area. They may attack on the turn 
+they appear if an American unit is within range. 
+ 
+Reinforcements, which are listed as appearing in “any street area”, 
+may be placed in any street area the Iranian player wishes. 
+However, they may not enter the embassy compound except 
+through gates or breaches. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+10 of 18 
+The Iranian player may roll twice for reinforcements on any turn 
+that a U.S. helicopter is hovering over the embassy – see Section 
+15.3. 
+ 
+15. MOBS 
+ 
+The Iranian player begins with no mob counters; they are only 
+available as reinforcements. A mob counter represents a group of 
+20 to 30 yelling, rock-throwing, knife-waving fanatics. A mob 
+cannot make ranged attacks of any kind. In close combat, it has 
+an attack strength equivalent to 10 soldiers. Its defensive strength 
+against a close attack is also 10. 
+ 
+Mobs like to attack – but they dislike being on the receiving end of 
+violence. Whenever an Iranian area containing mobs receives a 
+combat result of -5 or more (for any reason, whether the Iranians 
+were attacking or defending, all mobs in that area immediately 
+panic and disappear. However, combat losses of less than 5 men 
+do not affect a mob at all. When the American player attacks an 
+area containing mobs, all losses are taken by the mobs first. 
+Therefore: 
+ 
+An “X” result will still destroy all Iranians in the stack. 
+ 
+A result of -5 or greater will eliminate all mob units but will not 
+affect any militants stacked with them. 
+ 
+A result of -4 or less will not affect either the mobs or the 
+militants; nothing happens to that stack. Thus, a mob is excellent 
+“life insurance” for Iranian units. The militants can direct the mob 
+while remaining relatively safe. 
+ 
+15. HELICOPTERS 
+ 
+The U.S. player has eight helicopters for his escape. The helicopter 
+counters are numbered 1 through 8, so that players can keep track 
+of which helicopters have already come in an taken off, and how 
+much damage each one takes. 
+ 
+15.1 Helicopter entry. The U.S. player may bring in his escape 
+helicopters in one of two ways: 
+ 
+(1) He may write down, before the game begins, the turns he 
+wants his helicopters to come in on, and how many are to appear 
+each turn. At the proper turn(s), he shows this to the Iranian 
+player. The helicopters then arrive on schedule; the Iranian player 
+does not know they’re coming until they appear. 
+ 
+(b) If he does not do this, he may call for the helicopters at any 
+time during the game. They appear 5 turns later. The Iranian 
+player, of course, then has 5 turns’ warning that they’re coming. 
+Example: If the U.S. player called for them during his 10th turn, 
+they would appear at the beginning of his 15th turn. He could also 
+(for instance) call for 4 helicopters on the 10th turn, call for 2 more 
+on the 11th, and call for 2 more on the 12th. The Iranian player 
+does not know which option has been taken until the U.S. player 
+calls for the helicopters or shows the note to tell him they’re 
+arriving. 
+ 
+15.2 Helicopter landing. Helicopters land wherever the U.S. 
+player wishes when they appear (he doesn’t have to decide ahead 
+of time). They may land in any lawn-type area (light green) or 
+parking lot. Each such area has a number in the corner to show 
+how many helicopters may occupy it at any one time. For example, 
+Lot 1 may only hold one helicopter at a time. 
+ 
+Helicopters may land in an area even if it is occupied by Iranians. 
+This is considered a close attack (see section 15.52). It’s a good 
+way to lose helicopters. 
+ 
+15.3 Hovering. A helicopter does not have to land immediately. 
+Helicopters that do not land may hover over the embassy. 
+Hovering has two disadvantages: it attracts attention and it wastes 
+fuel. No helicopter may hover for more than 10 turns. After it uses 
+up its ten turns of hovering, it must immediately leave play or 
+land. If it lands, it my leave play immediately when it takes off. 
+ 
+To indicate that a helicopter is hovering, place it on the black 
+“RAIN ON IRAN” logo on the football field. Helicopters placed in 
+the green part of the field have landed. 
+ 
+Whenever it is the Iranian’s turn and even one helicopter is 
+hovering, he may roll twice for reinforcements. Double 
+reinforcements continue as long as any helicopters are hovering. 
+ 
+15.4 Wave-offs. If a helicopter is hovering (or has not yet 
+appeared), the U.S. player may “wave it off” at any time, sending 
+it away, if he is sure he will not need it. Once a helicopter has 
+been waved off, it cannot be recalled. 
+ 
+15.5 Combat involving helicopters. The U.S. helicopters may 
+attack or be attacked while they are on the ground. 
+ 
+15.51 Attack strength of helicopters. A helicopter’s door guns 
+give it an attack strength of 5. Each commando in a helicopter 
+adds 1 to its attack strength, up to a maximum of 5 commandos; 
+thus, 10 is the maximum combat strength for a helicopter. A 
+helicopter can make ranged attacks against enemies in an 
+adjacent area. It can also make close attacks against Iranians who 
+entered its own area on a previous turn. When it lands, it may 
+close attack (with the door guns only – strength of 5) any Iranian 
+units in the area it lands in. 
+ 
+15.52 Attacks against helicopters. If the Iranian player attacks 
+a helicopter, the attack is separate from the others in that same 
+area. An attack against one helicopter does not affect any other 
+units in that area – and vice versa. This is the only instance in 
+which several separate attacks of the same kind may be made 
+against one area. Example: If there are 3 helicopters and 5 U.S. 
+soldiers in the football field, and 40 Iranians in Woods 8, the 
+Iranians may make from 1 to 4 attacks. The troops count as one 
+target; each helicopter counts as one target. Any U.S. units in a 
+helicopter are counted with that helicopter. The Iranians in the 
+example could attack with all 40 troops against one helicopter; 
+divide and attack with 20 each against two of the helicopters; put 
+30 men on one helicopter and the other 10 on the troops... 
+whatever they wished. However, no unit may ever attack more 
+than once per turn, and no helicopter may undergo more than one 
+ranged attack and one close attack each turn. 
+ 
+Ranged attacks against helicopters: Like other ranged attacks, 
+these are calculated on the basis of the number of men firing. 
+Remember that all Iranian attacks are at -2 on the die roll. When a 
+helicopter is attacked, a -1 result puts one “hit” on it. A -2 result 
+puts two hits on it, and so forth. Each helicopter counter is 
+numbered, so players can keep track of the hits it has taken. 
+Accumulated hits reduce a helicopter’s chance to take off (see 
+Section 16.13). 
+ 
+Explosion: If a helicopter receives an “X” result, or takes more 
+than 5 hits from any single attack, it immediately explodes. 
+Remove the helicopter and roll an immediate ranged attack 
+(strength of 20) against its occupants, including the crew. If any 
+
+ 
+ 
+ 
+ 
+ 
+ 
+11 of 18 
+survive, they are now outside the burning helicopter. They may 
+enter another helicopter during their next movement phase, if one 
+is in the area. 
+ 
+Close attacks against helicopters: A helicopter’s defensive strength 
+against close attacks is the same as its attack strength: 5, plus 1 
+for each commando inside it up to a maximum of 5. A successful 
+close attack puts hits on a helicopter (or blows it up) just as 
+described above. 
+ 
+Troops inside helicopters: Up to 5 commandos may fight from 
+inside a helicopter, adding their strength to that of the helicopter 
+itself, as described above. Other troops cannot fight while inside a 
+helicopter. Mortars and the machine gun cannot be brought into a 
+helicopter. 
+ 
+Empty helicopters: The combat strength of a helicopter is reduced 
+to zero at any time there are not two crewmen (or troops) inside it 
+to man the door guns. A helicopter cannot take off without at least 
+two crewmen aboard. If the Iranian player close attacks a totally 
+empty helicopter, it is automatically destroyed. The Iranians 
+cannot actually capture a helicopter or use the door guns. 
+ 
+15.53 Combat involving flying helicopters. Helicopters are 
+armed only with two M-60 door guns each. This would make them 
+relatively ineffective if they fired from the air; therefore, they 
+would be unlikely to risk it. Neither would they be likely to hover 
+low enough to be shot at! For the purposes of this game, then, a 
+helicopter may neither attack nor be attacked while it is hovering. 
+ 
+15.6 Helicopter crew. A helicopter has a crew of 5 men. They 
+carry both side arms and rifles, but have no commando training. If 
+a helicopter is damaged or destroyed, use an inverted 5-man U.S. 
+counter to represent its crew. These 5 men move as though they 
+were regular troops. If attacked, they count as 5 soldiers for 
+defensive purposes. However, they cannot attack. 
+ 
+If a stack of U.S. units containing both commandos and crewmen 
+is attacked (in any way), the U.S. player may choose to lose 
+whichever units he wishes. 
+ 
+16. EVACUATION 
+ 
+In order to win the game, the U.S. player must get most of his 
+units out alive. This can be done in two ways: helicopter 
+evacuation or ground evacuation. Helicopter evacuation is 
+preferable. 
+ 
+16.1 Helicopter evacuation. Each helicopter can hold up to 30 
+Americans (any type) plus its own crew of five. 
+ 
+16.11 Entering helicopters. A helicopter counts as a separate 
+area for movement purposes only. Therefore, when a U.S. unit 
+and a helicopter are in the same area, it takes one further turn for 
+the unit to enter the helicopter. The U.S. player may use his 
+double move to have one unit (or stack of units) enter the area 
+with a helicopter AND enter that helicopter on the same turn. 
+ 
+16.12 Leaving helicopters. Once inside the helicopter, units 
+may leave again if the U.S. player wishes... for instance, to get out 
+of a badly damaged helicopter. Commandos in a helicopter may 
+also leave it to close attack Iranians in the same area. Leaving a 
+helicopter (like entering it) counts as a move. 
+ 
+16.13 Helicopter takeoff. A helicopter may take off on the 
+same turn that units enter it. Once a helicopter takes off, it may 
+escape immediately or go to the “hover” area. If it hovers, it must 
+remain hovering for at least one turn; it may then (if the U.S. 
+player wishes) land again in any area to pick up or drop off units. 
+Remember that each helicopter has a ten-turn limit on the total 
+time it can hover. 
+ 
+The disadvantage in landing again after takeoff is that a helicopter 
+may malfunction. Takeoffs are NEVER certain. 
+ 
+Any time a helicopter is ready to take off, the American player rolls 
+two dice. On a result of 4 or better, the helicopter takes off. 
+However, the American must subtract 1 from his roll for every hit 
+the helicopter has taken. If it has taken 3 hits, for instance, it must 
+roll a 7 or better. If it has taken more than 8 hits, it can’t possibly 
+take off. 
+ 
+Once a helicopter fails its roll, it is crippled for the rest of the 
+game. There’s no time to repair it! All its passengers, and its five 
+crewmen, may leave it on the next turn. (The only reason to stay 
+inside would be for the crew to man the door gun). Note that it 
+will take them one turn to get out of the helicopter and one more 
+turn to get into another one in the same area (if there’s one 
+there). 
+ 
+Note: This rule means that there is a very good chance that, even 
+if the Iranians never shoot at the helicopters at all, at least one of 
+them will fail. 
+ 
+16.2 Ground evacuation. American units may, at any time, 
+attempt to escape the embassy on the ground. Any U.S. units left 
+after the last helicopter takes off (or malfunctions) will have to 
+attempt a ground evacuation. 
+ 
+Any American unit which can move off the map on the ground 
+(that is, outward from a street area) has escaped. These men 
+would have been picked up by agents outside and spirited off to 
+hideouts within Teheran. In order to reach the street, units must 
+leave the embassy grounds. They can do this by exiting through a 
+gate or by going out a breach. If the commandos still have some 
+satchel charges left, they can create a new breach wherever they 
+need it. Commando units and helicopter crew may also leave by 
+climbing over the wall. However, no more than ten men may climb 
+the wall in any one area each turn. Hostages and wounded troops 
+cannot climb the wall at all. 
+ 
+Since ground escape is riskier than an airlift, leaving the possibility 
+of recapture within Iran, the U.S. player loses points for units that 
+make a ground escape. However, ground escape is far better than 
+capture or death! 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+12 of 18 
+17. ENDING THE GAME 
+ 
+The game ends when all U.S. units have been killed, captured, or 
+left the map. At that time, both players determine victory points. 
+The player with the higher number of points is the winner; the 
+degree of “spread” determines the magnitude of the victory. Note, 
+though, it is possible for both players to lose in absolute terms. If 
+the American player frees half the hostages but the other half are 
+killed, neither player can be said to have won much of a victory. 
+ 
+American victory points: 
++10 for each hostage rescued. 
+-2 for each hostage killed. 
+-2 for each commando or crewman killed. 
+-10 for each commando or crewman captured. 
+ 
+Wounded soldiers and crewmen do not affect victory. 
+ 
+Iranian victory points: 
++10 for each hostage held at the end of the game (including new 
+hostages). 
++2 for each American commando or crewman killed. 
+ 
+The Iranians get no victory points for hostages killed in battle or 
+executed. 
+Neither player gets victory points for Iranian units killed. 
+ 
+The American player has mounted a very successful operation if he 
+scores 400 or more points (500 would be perfect). 
+250-399 indicates a marginally successful mission. 
+Under 250 indicates failure. 
+Under 100 is a disastrous failure. 
+ 
+If the Iranian player scores more than 500 points, his position is 
+better than it was before the raid. 
+400 or more victory points indicates a very successful defense. 
+250-399 points indicates a marginally successful defense. 
+Under 250 points indicates a loss of face. 
+100 or fewer points represents total humiliation in the eyes of the 
+world. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+13 of 18 
+18. CHARTS AND TABLES 
+ 
+Table 1: Entry By Stealth – Roll 2 Dice 
+1-5 men entered that turn: 
+3 or better 
+6-10 men entered that turn: 
+4 or better 
+11-15 men entered that turn: 
+5 or better 
+16-20 men entered that turn: 
+6 or better 
+21-30 men entered that turn: 
+8 or better 
+31-40 men entered that turn: 
+10 or better 
+41 or more men entered that turn: 
+11 or better 
+ 
+Entry by Stealth Modifications: 
+ 
+-2 If .50 Caliber machine gun brought in by stealth this turn. 
+-1 For each Mortar brought in by stealth this turn. 
+-4 If there are any Sentries in any area entered this turn. 
+ 
+If the U.S. player misses his roll (i.e. rolls less than the number 
+specified), all Iranian sentries are immediately alerted. If the sentries 
+have previously been alerted, there is no further need to use this 
+table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4: Iranian Reinforcements – Roll 2 Dice 
+15 men in any street area 
+ 
+Reinforcements which 
+appear in “any street 
+area” may be placed 
+in any street the 
+Iranian player wishes. 
+However, they may 
+only enter the 
+compound through 
+gates or breaches. 
+10 men in any street area 
+5 men in any street area 
+One mob in any street area 
+10 men at main gate (Street 12) 
+No reinforcements 
+One mob at main gate (Street 12) 
+5 men at rear gate (Street 1) 
+10 men at rear gate (Street 1) 
+One mob at rear gate (Street 1) 
+Two mobs in any street area 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+14 of 18 
+ 
+Table 2: RANGED COMBAT – Roll 1 Die 
+Number of units firing (plus strength of Special Weapons) 
+Die 
+Roll 
+1-2 
+3-5 
+6-10 
+11-15 
+16-20 
+21-30 
+31+ 
+-3 
+-3 
+6+ 
+-12 
+ 
+Ranged combat within a building counts as only 10 men firing, even 
+if more than 10 actually attack. See Section 7.6. 
+ 
+Table 3: CLOSE ATTACK – Roll 1 Die 
+Ratio of attacker’s strength to defender’s strength 
+Die 
+Roll 
+1-3 
+1-2 
+1-1 
+2-1 
+3-1 
+4-1 + 
+-10/NE 
+-5/-1 
+-3/-5 
+-3/-5 
+X/-1 
+-5/-2 
+-2/-5 
+-2/-10 
+X/-1 
+-2/-1 
+-1/-5 
+-2/-10 
+-2/-1 
+-1/-3 
+NE/-5 
+-1/-1 
+-1/-5 
+NE/-5 
+6+ 
+-1/-1 
+ 
+The result to the LEFT of the slash (/) is applied to the attacker. The 
+result to the RIGHT of the slash (/) is applied to the defender. 
+ 
+ 
+Modifications: 
+Apply these modifications to ALL combats (ranged OR close) 
+Iranian player attacks 
+Defenders in Woods, Building or Roof Area 
+Defenders are above ALL attacking units 
++3 
+Iranian defenders and NONE have yet been alerted (but see “Quiet Attack” modifier, below) 
+“Quiet Attack” attempted against unalerted Iranian Sentries (supercedes the +3 modifier, above) 
++1 
+Add only to U.S. attacking combat die rolls if Iranians have executed any hostages 
+ 
+ 
+All modifications are cumulative. For example, if the Iranian player attacks a U.S. unit in the woods, 
+subtract 4 from his roll! A modified die roll of more than 6 counts as 6. 
+ 
+ 
+ 
+Meaning of symbols (for both combat tables): 
+“NE” means there is no effect on the units attacked. 
+“X” means that all units attacked are eliminated. 
+If a number is shown, the attacker/defender loses that many units – but never more than 
+the number of units he has in the area. Remove all eliminated units from play. 
+ 
+ 
+Half of the U.S. Troops eliminated by any combat (round down) are considered wounded, and are 
+shown by a hostage counter (see Section 12.3). 
+ 
+ 
+For effects of combat on noncombatants (hostages and wounded soldiers), see Sections 7.7 and 12.1. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+15 of 18 
+PLAYER AID SHEET 
+ 
+Game Turn 
+ 
+Hostage Counters 
+Hostages 
+Wounded 
+Air Crew 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. Helicopter Chart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Helicopter 
+Scheduled 
+Arrival Turn 
+Called on 
+Turn # 
+Arrival 
+Turn # 
+Total Turns Hovering 
+(max=10) 
+Hits 
+Disabled 
+(Y/N) 
+Out of 
+Play (Y/N) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. Option #: ______ Iranian Option #: ______ 
+ 
+ 
+Iranian Sentries Alerted on Turn #: _________ 
+(Reinforcements begin 10th turn after alert) 
+(Hostages can be taken out of compound 10th turn after alert) 
+ 
+ 
+Iranian Reinforcements Begin on Turn #: ________ 
+(Roll twice for reinforcements when helicopters hovering) 
+ 
+ 
+Hostages Killed/Executed: ______________________________ 
+ 
+____________________________________________________ 
+(Executing hostages causes Commando "outrage" +1) 
+ 
+ 
+Commandos/Crew Killed: _______________________________ 
+ 
+____________________________________________________ 
+ 
+ 
+Satchel Charges Used: _________________________________ 
+ 
+Iranian VP 
+Schedule 
+VP's 
+Each 
+Total 
+Pts 
+Hostages Held 
+ 
++10 
+ 
+Commando/Crew 
+Killed 
+ 
++2 
+ 
+Total Points 
+ 
+ 
+ 
+US VP Schedule 
+VP's 
+Each 
+Total 
+Pts 
+Hostages Rescued 
+ 
++10 
+ 
+Hostages Killed 
+ 
+ 
+Command/Crew Killed 
+ 
+ 
+Command/Crew Captured 
+ 
+ 
+Total Points 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+16 of 18 
+19. ABOUT THIS GAME 
+ 
+“It was risky and we knew it, but it had a good chance of success 
+and America had the courage to try.” 
+Admiral James L. Holloway, III, USN (Ret.) 
+Chairman, Special Operations Review Group 
+Rescue Mission Report, August 1980 
+ 
+I suppose RAID ON IRAN is something of a political statement. 
+When I first heard about the rescue attempt, I was proud – as an 
+American – that we had finally done something. And I was 
+grieved that we had failed, and that eight of our men had died 
+trying. But I was also very curious. Could the raid have 
+succeeded if it had gone in? 
+That’s exactly the kind of question that a simulation game is 
+supposed to answer… so I got to work. Now, six months later, I 
+think I have my answer – the same one the mission planners had. 
+It was terribly risky… but it could have worked. They thought it 
+was worth trying. For the record, so do I. 
+RAID ON IRAN then, is a wargame about a mission that might 
+have succeeded… a look at “alternate history.” And in its small 
+way, it’s a tribute to the eight crewmen who gave their lives in 
+Iran. 
+This is probably a good point to mention the scholarship fund 
+set up by the rescue team members for the children of those eight 
+men. Contributions can be sent to the Colonel Arthur D. Simons 
+Memorial Fund, c/o Lt. Gen. Leroy J. Manor, 507 Magnolia Court, 
+Destin, FL 32541. Part of the income from RAID ON IRAN will go 
+to that fund. I think it’s a very good cause. 
+ 
+Research 
+The biggest hurdle to be crossed in designing RAID ON IRAN 
+was this: Just what was supposed to happen, and what really did 
+happen? A good deal of this is still highly classified. The problem 
+was to get enough information to design a decent simulation – 
+without compromising any further rescue attempt. (The idea of a 
+security leak through a wargame may sound funny – but stranger 
+things have happened.) 
+In many cases, a careful sifting of journalistic accounts 
+provided adequate information – data already in the public 
+domain. In other cases, exact information proved to be 
+unnecessary. (Exact details of the commandos’ training and 
+armaments, for example, proved to be unneeded in the final 
+combat system.) And in a few cases, we deliberately fudged 
+things a little bit – just in case. The “area movement” system, for 
+example, is very playable and gives good results. But the final 
+reason for choosing it was the fact that the U.S. government 
+considers embassy layouts and floor plans to be classified. We 
+could have gone with a much more precise map; we chose to 
+abstract it instead. (Granted, the Iranians already know what the 
+embassy looks like. But we’re not in the business of telling the 
+government what to de-classify.) There are a couple of other 
+examples, which I won’t go into for obvious reasons. 
+On the whole, I feel this is a good general simulation of the 
+rescue attempt. Precise details – no. A good guide to the course 
+of the action, pointing out logical tactics for both sides – yes. 
+ 
+Game Balance 
+RAID ON IRAN is a fairly well-balanced game. Assuming equal 
+expertise on the part of the players, the victory conditions give 
+them an equal chance to win. As in the actual mission, of course, 
+luck is an important factor. The number of die rolls in the game 
+means that luck ought to “average out” – but a bad roll at a crucial 
+moment can force a player to re-think his whole plan. 
+Fortunately, it was possible to achieve this balance without 
+distorting reality a great deal. Once tentative combat values had 
+been assigned to all units, and CRTs drafted, it was found that a 
+force of about 120 militants made for a balanced game. Since this 
+number falls close to the best estimates of their strength, we went 
+with it. 
+Obviously, balance will be affected by the players’ choices of 
+special advantages. This was intentional. There are enough 
+combinations of special advantages to allow players to run through 
+dozens of games without getting “stale”. Even so, they do not 
+exhaust the possibilities in a special operation of this type. 
+The “Sauce for the Goose” scenario is very loosely balanced. 
+If Khomeini is found quickly, the U.S. player should win; if he 
+remains concealed very long, the Iranian should win. It’s a fifteen 
+minute diversion rather than a serious simulation. 
+ 
+Optional Rules 
+The serious wargamer will quickly add his own interpretations 
+and rules to any game he likes. Three suggestions for optional 
+RAID ON IRAN rules: 
+(1) Hidden movement. Allow the U.S. player to keep each of 
+his units face down until it is first fired on by Iranian units. 
+(2) What if some of the helicopters had malfunctioned before 
+the assault? Can the American player make it if he starts with 
+seven helicopters? Six? 
+(3) The helicopters might have carried heavier weapons or 
+even miniguns. A minigun would decrease the passenger 
+capability of a helicopter by at least 5, due to its ammunition 
+requirements, but could fire with even more effectiveness than the 
+.50-caliber machine gun. If the U.S. player has even one minigun, 
+the game will be unbalanced unless the Iranian force is greatly 
+increased. 
+ 
+Hints for Play 
+American Tactics: The American player’s chief advantage is 
+surprise. He must use it. If he fails to act decisively to secure his 
+hostages and escape route, he will be overwhelmed. 
+There is no “best” type of entry; each of the three methods 
+has its advantages. In most cases, combining two types of entry, 
+or even all three, will prove profitable. The longer it is before the 
+Iranians are alerted, the better! The U.S. player will only have a 
+few chances to fire at unalerted units with his +3 die roll 
+advantage; he should make the most of them. If the Iranian puts 
+hostages on the first floor of a building – or if the first floor is 
+occupied only by dummies – the U.S. player may get to attack 
+hostage guards before they’re alerted! 
+Once the hostages have been secured, the American player 
+must secure a helicopter landing area and get out. Always try to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+17 of 18 
+have a back-up helicopter available; a takeoff malfunction at the 
+wrong time can lead to disaster. 
+Iranian Tactics: The Iranian player begins in a very bad 
+position: he does not know where most of his units are, he can 
+move none of his units, and he must wait to respond to the 
+American attack. The longer the game runs, the more the balance 
+swings to the Iranian side. 
+If the American player does not immediately recapture all the 
+hostages, the Iranian should try to get his remaining prisoners out 
+of the embassy as soon as the rules allow. Often this is best 
+accomplished by dividing them into small groups, each with one or 
+two militants as escorts. Once the hostage guards are alerted, the 
+Iranian can also put down “dummy” hostage counters with no 
+hostages in them, to further confuse the rescuers. 
+When the helicopters land, the Iranian player should do his 
+best to cripple them. A few damaged helicopters will make a U.S. 
+victory almost impossible. 
+Just as in the actual situation, the Iranians can benefit more 
+by threatening to shoot the hostages than by actually harming 
+them. Dead hostages are worth nothing to the Iranian player, and 
+give ht U.S. a further military advantage. But the threat to kill 
+them may force the American player to be more cautious. 
+On problem the Iranian can do little about is his lack of 
+“command control”. He doesn’t know where all his units are 
+stationed; he can’t alert them easily; they may shoot hostages 
+without orders, refuse to shoot them when ordered to do so, or 
+even surrender to the Americans! 
+ 
+Components 
+The components of RAID ON IRAN represent an experiment. 
+By producing the map/rules/etc. in one sheet, and leaving the 
+rules and counter cutting to the purchaser, we were able to afford 
+more and better components than other games in the same price 
+range. Your comments on this would be appreciated. 
+I hope you find RAID ON IRAN as interesting to play as I found it 
+to design. 
+-Steve Jackson 
+ 
+20. HISTORICAL NOTES 
+ 
+Background 
+On November 4, 1979, a large group of Iranian “students” 
+stormed the American embassy in Teheran, the capital of Iran. 
+Essentially the whole embassy staff was taken hostage. Within the 
+next few weeks, those hostages who were not American citizens, 
+and a few Americans, were released. The others, numbering 53 
+American citizens, remained and present; negotiations for their 
+release lead nowhere. On the date of the attempted rescue, the 
+Iranians still held 53 hostages; 50 within the embassy grounds, 
+and three in the Iranian foreign ministry. 
+ 
+The Rescue Plan 
+Planning for a rescue mission began almost immediately after the 
+embassy was first seized, though it ministrations spokesman 
+deliberately played down the “military option”. Planning and 
+training continued for the next five months. On April 16, the Joint 
+Chiefs of Staff and President Carter approved a mission plan to be 
+executed beginning April 24. 
+The mission was to begin with the liftoff of eight giant helicopters 
+from the aircraft carrier Nimitz, were they had been held in 
+readiness for months. From the carrier’s post in the Arabian Sea, 
+the helicopters faced a night journey of nearly 600 nautical miles. 
+Their first destination was a spot in Iran’s Great Salt Desert, code 
+named “Desert One”. It was here that the helicopters would 
+rendezvous with six C–130 transports. Flying by a long and 
+indirect route, the C–130s would bring fuel, equipment, and the 
+commando team that would make the actual ground assault. 
+After refueling, the helicopters were to take the commandos to a 
+spot in the mountains near Tehran. The C-130s would head for a 
+second desert base, somewhere in Western Iran. 
+During the daylight hours, the commandos would enter Tehran by 
+ground transportation. The actual assault on the embassy would 
+have taken place some 24 hours after the landing at desert one. 
+With the hostages safely in American hands, the helicopters would 
+land within the embassy grounds and “extract” all Americans. 
+The helicopters would then have joined the C–130s at the second 
+desert base, and all American aircraft and personnel would have 
+left Iran. 
+The original entry into Iranian airspace was to depend on stealth. 
+(In fact it appears that the Iranian forces had no inkling that 
+American aircraft had been in the area until the U.S. 
+announcement was made the next day). For the escape from the 
+embassy, air cover would have been necessary in case the Iranian 
+Air Force managed to scramble any of its U.S.-built jets. For 
+obvious reasons, details of the planned air cover could have not 
+been made public. Certainly the United States could have put well 
+over hundred jet fighters into the Iranians skies. AC-130 modified 
+transports, heavily equipped for air to ground attack, might also 
+have been available for close support during the extraction. For 
+now, this aspect of the rescue plan must remain speculative. 
+ 
+The Commandos 
+The United States assault team consisted of 90 men, volunteers 
+from all branches of the service. They had been in training for this 
+specific mission for 5 ½ months-since a few days after the 
+embassy was first taken. They were armed with a great variety of 
+weapons. An observer on the scene no doubt would have seen M-
+16 automatic rifles, M-60 light machine guns, Uzi submachine 
+guns, grenade launchers with a great variety of grenades, light 
+antitank weapons, and various silenced and non-lethal weapons. 
+Advanced Communications Equipment and night vision gear are 
+also in near certainty. The rescue team was in all respects an elite 
+unit. 
+ 
+The Infiltrators 
+The commandos would have been assisted by a large group of 
+agents already in place-CIA and Special Forces men, and Iranians 
+not in sympathy with Khomeini. While these men might have 
+participated in the assault, it is far likelier that they would have 
+been responsible for diversion area tactics elsewhere, providing 
+ground getaway and hiding places if needed, and surveillance from 
+the tall buildings overlooking the compound. Infiltrators would 
+probably also have been responsible for the rescue of the three 
+hostages held at the Foreign Ministry. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+18 of 18 
+ 
+The Helicopters 
+Eight RH–53D helicopters were used in the mission. The R.H. – 53 
+D he’s a special purpose of variant of the Sikorsky “Sea Stallion” - 
+the largest American made helicopter. About 74 feet long, with an 
+empty weight of better than 16 tons and as top speed of nearly 
+200 miles per hour and a range of well over 1000 miles. It 
+requires three crewmen (not including door gunners). In some 
+configurations it can carry over 15 men; for the rescue mission, a 
+load of some 30 men per helicopter seems more likely. 
+The Sea Stallion is generally considered for more reliable than its 
+performance on the rescue mission would seem to indicate. The 
+helicopters mechanical difficulties may have been largely due to 
+inadequate maintenance while on the Nimitz-and the sheer bad 
+luck. 
+ 
+The Embassy Compound 
+The American embassy in Tehran is not a single building, but a 27 
+acre enclave near the heart the city. Its eastern side is park like, 
+with few buildings. Its western side is more heavily built up. (The 
+embassy grounds are not actually rectangular in shape; they are a 
+sort of reversed L shape. The areas on the east side of the map or 
+smaller to represent this properly.) The 50 hostages at the 
+embassy were thought to be divided between Residence and the 
+Chancellery. A wall 10 to 12 feet high completely surrounds the 
+embassy. While not un-climbable, it would probably defeat the 
+untrained intruder. 
+ 
+The Militants 
+The “students” who occupy the embassy acknowledge no authority 
+except the spiritual leadership (whenever that may mean) of the 
+Ayatollah Khomeini. They appear to be devout Shiite Muslim and 
+the fanatical the anti American. They are organized in a 
+paramilitary fashion. Observers have described them as 
+disorganized (though no more so than the rest of Iranian Society 
+at present) but with good morale. Estimates of their numbers 
+have ranged from under 90 to 150. 
+The militants are armed with a variety of weapons (which they 
+have been eager to display to newsmen), including AK–47s, West 
+German G–3 automatic rifles, Uzis, and M-3 grease guns. The 
+firepower and range of the average militant would theoretically be 
+greater than that of an M-16 armed commando, and their Shiite 
+beliefs would encourage them to welcome death in battle. 
+However, their training and discipline would be greatly inferior to 
+that of even an ordinary military unit. 
+ 
+The Iranian Military 
+The Iranian army and Air Force have lost much of their leadership 
+in recent months, but still remain viable fighting forces - as witness 
+the Iran-Iraq conflict that began in September 1980. Still, they 
+would probably have been incapable of acting quickly enough to 
+affect the raiders. None of Iran’s F-4 Phantoms are night 
+equipped. 
+Although there are several military/police installations within 82 
+kilometer radius of the embassy, the United States planners 
+believe that effective ground reaction would also be too slow to 
+catch the commandos. Again, diversions were almost certain to be 
+arranged. 
+ 
+The Mobs 
+The ordinary Iranian populace - many of whom have been 
+conditioned to hate everything American - could probably fill the 
+streets of Tehran in an hour, armed with antique firearms, swords, 
+and rocks. As combat units, they would be effective only in mass. 
+ 
+The Outcome 
+The American Force never made it past Desert One. Of the eight 
+helicopters flying in, one (number six) malfunctioned some 2 hours 
+after leaving the Nimitz. The crew landed, verified the 
+malfunction, an abandoned the aircraft. They were picked up by 
+another of the helicopters. Some 2 hours later, helicopter five 
+experienced a failure of several navigational instruments while 
+flying through a dust cloud. Its pilot turned around and returned 
+to the Nimitz. 
+After landing at desert one, helicopter two was founded to be 
+suffering from a hydraulic failure which could not be repaired with 
+the time and materials available. This brought the number of 
+operational helicopters down to five - one of fewer than the 
+mission planners had felt necessary. Advised of this by radio, 
+President Carter ordered the mission terminated.
