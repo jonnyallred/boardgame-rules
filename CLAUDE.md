@@ -65,6 +65,28 @@ Generate a candidates file from boardgame-database, then bulk-research with para
 
 The skill registers all games upfront, dispatches subagents to find PDFs / extract / summarize, then consolidates results into `games.yaml` and `index.md`.
 
+**Helper scripts for the bulk research workflow:**
+
+```bash
+# Step 1: Generate candidates (already exists)
+python -m scripts.import_games ~/projects/boardgame-database/games/ \
+  --master-csv ~/projects/boardgame-database/master_list.csv \
+  --dry-run --type boardgame --limit 200 --output candidates.txt
+
+# Step 2: Register games, check slug collisions, output batch JSON
+# Prints BATCH1:{json} BATCH2:{json} etc. to stdout (status to stderr)
+python -m scripts.prepare_research candidates.txt --batch-size 50 --batches 4
+
+# Step 3: Dispatch subagents (done by /research-games skill or manually)
+
+# Step 4: Collect subagent results and update games.yaml
+# Parses RESULTS_START/RESULTS_END blocks from subagent output files
+python -m scripts.collect_results batch1_output.txt batch2_output.txt
+
+# Step 5: Rebuild index.md from all rules/ files
+python -m scripts.rebuild_index
+```
+
 ### Batch PDF Finding (Interactive)
 
 To find rulebook PDFs for queued games using Playwright browser tools:
