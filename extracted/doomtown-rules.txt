@@ -1,0 +1,657 @@
+[1] 
+ 
+INTRODUCTORY RULES 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+1. Card Types 
+2. Winning the Game 
+3. Setup 
+4. Phases of a Turn: The Basics 
+5. Shootouts 
+6. Jobs 
+7. Key Terms and Concepts 
+8. Phases of a Turn: More Details 
+9. FAQ 
+10. Hand Ranks 
+ 
+ 
+1. Card Types 
+ 
+Below you’ll find descriptions of all the card types included in these introductory decks (there’s 
+a couple more types that can be found in the game’s full rulebook). 
+ 
+In addition to a title, each card has a textbox. If you see any words in bold at the top of a textbox 
+(such as Deputy or Saloon), these are keywords. These may be referenced by other cards, or by 
+the rules. Below that are abilities and traits. Traits are plain text, and always active, whereas 
+abilities begin with a phrase in bold indicating when you can play the ability (e.g. “Noon:” 
+indicates an ability to be used as a Noon play). 
+ 
+Outfits 
+ 
+This card serves as the home for your gang. It’s where your dudes enter 
+play, and it’s where they can (usually) be safe from the other players’ dudes. 
+When a card references your “home” location, it’s referencing the location 
+defined by your outfit card. Some cards will still refer to this as your 
+“outfit,” though. 
+ 
+Your home is the first location on your street, and you can play deeds to the 
+left and right of it. The town square is an unmarked location between each player’s street. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[2] 
+Each outfit has a particular symbol and background frame. Dudes in your outfit all share that 
+symbol and background. If a dude has a different symbol and background, they are from a 
+different outfit. If the dude has no symbol at all, they’re a drifter with no real allegiance to any 
+outfit in particular. 
+ 
+Each outfit has a starting stash, shown on a stack of money icon. This shows how much ghost 
+rock (the currency in Doomtown) the outfit starts with and can spend on starting dudes. Each 
+outfit also has production, shown on a skull icon. This shows how much ghost rock your outfit 
+produces each Upkeep. 
+ 
+Dudes 
+ 
+Townsfolk are represented by dude cards. Dudes are people that owe you 
+their loyalty, and work to further your goals by their influence, their innate 
+abilities, or their skills with a revolver. 
+ 
+Each dude has a specific suit (♠ spades) and value assigned to it. These are 
+mostly used to create poker hands during the game, but can also be used for 
+other effects. 
+ 
+Bullets are a measure of a dude’s capability to win a shootout. The higher the number, the better 
+they are at gunning down the other side. In addition, the color of the bullet cartridge determines 
+whether the dude is a stud or a draw; a silver cartridge means the dude is a stud (which is better), 
+while a brass cartridge indicates the dude is a draw (less stellar, but still useful). 
+ 
+Influence (seen on top of a red poker chip) represents how renowned the dude is around town. 
+The primary use of influence is to prevent other players from winning, and to control deeds in 
+order to help you win. 
+ 
+Each dude has a cost, shown on a coin icon. This is how much ghost rock you have to pay to 
+bring the dude into play. Upkeep (seen on a skull icon) shows how much the dude costs each 
+turn to keep them in play (although some dudes have zero upkeep). Dudes that belong to outfits 
+other than your own have additional upkeep equal to their influence. 
+ 
+Deeds 
+ 
+Deeds are buildings and properties that provide special abilities or game 
+effects, and, once brought into play, cannot be moved. When you bring a 
+deed into play, it goes on the street on your side of town (unless it is Out of 
+Town). 
+ 
+Each deed card has a specific suit (♦ diamonds) and value assigned to it. 
+ 
+Many deeds have control points, shown on a blue poker chip. The more 
+control points a deed has, the more important it is to Gomorra’s citizens. The most important 
+thing about control points is they are how you win the game. 
+
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+Like dudes, each deed has a cost, shown on a coin icon. Like your outfit, each deed also has 
+production, shown on a skull icon. 
+ 
+Goods 
+ 
+Goods cards represent items that your dudes can own, from new hats to 
+horses and everything in between. Goods can’t be used by themselves, but 
+must be attached to another card you already have in play (usually a dude). 
+ 
+Each goods card has a specific suit (♥ hearts) and value assigned to it. 
+ 
+Some goods provide a bullet bonus, shown in the same place as bullets on a 
+dude. The color of the bullet on a goods card does not change the bullet 
+color of the dude carrying it (unless the card says otherwise). Similarly, goods can also provide 
+influence and control point bonuses (seen on red and blue chips, respectively). 
+ 
+Each goods card has a cost, shown on a coin icon. 
+ 
+Actions 
+ 
+Action cards represent special events, plans, and tactics that your dudes or 
+your gang use to get the best of the situation. Unlike other cards in the 
+game, action cards are generally played directly from your hand; you do not 
+bring them into play, but instead resolve their effect, and then usually 
+discard them once their effect is complete. 
+ 
+Each action card has a specific suit (♣ clubs) and value assigned to it. 
+ 
+If an action card has multiple abilities listed, choose and declare the one you wish to use. 
+ 
+Each action card has a cost (often zero), shown on a coin icon. 
+ 
+Jokers 
+ 
+Jokers are usually only useful for pulls and draw hands. You can’t play one 
+from your play hand (unless specified on the joker itself). When a joker is 
+revealed for a pull or in a draw hand, its suit and value are chosen by its 
+owner as soon as the joker is revealed. 
+ 
+A joker by itself will never make a hand cheatin’; for example, if you have a 
+legal four-of-a-kind draw hand with a joker, it becomes a legal five-of-a-kind draw hand. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[4] 
+2. Winning the game 
+ 
+The goal of Doomtown Reloaded is to control the town of Gomorra. This is done by having more 
+control points on dudes and deeds you control than your opponent’s influence at Sundown (the 
+end of a turn). 
+ 
+3. Setup 
+ 
+Each player places their outfit card (“Law Dogs” or “The Sloane Gang”) as their home in the 
+middle of their street. Then, place your starting gang in play at your home, deducting their total 
+cost from the starting ghost rock marked on your home – this is your stash. 
+ 
+The starting gang for the Law Dogs is: 
+ 
+➢ Jake Smiley 
+➢ Philip Swinford 
+➢ Tommy Harden 
+➢ Mortimer Parsons 
+➢ Willa Mae MacGowan 
+ 
+The starting gang for the Sloane Gang is: 
+ 
+➢ Allie Hensman 
+➢ Jake Smiley 
+➢ Lawrence Blackwood 
+➢ Barton Everest 
+➢ Jacqueline Isham 
+ 
+This should leave 3 ghost rock in the Law Dogs’ stash, and 4 ghost rock in the Sloane Gang’s. 
+ 
+Then, shuffle your deck, and draw a hand of five cards. This is the standard maximum hand size 
+and referred to as your play hand. Now you’re ready to start the first turn of the game. 
+ 
+4. Phases of a Turn: The Basics 
+ 
+Below are outlines of the four phases played through in each turn. If you have further questions 
+come up about them, make sure to check “Phases of a Turn: More Details” on pg. 10. 
+ 
+1) Gamblin’: Each player antes up 1 ghost rock from their stash, then draws the top five 
+cards of their deck as a draw hand (separate from your play hand). The lowest hand rank 
+wins all the anted ghost rock and is the Winner this turn (a list of hand ranks is provided 
+on pg. 13). Discard your draw hand after comparing ranks. The Winner makes the first 
+play during High Noon & shootouts. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[5] 
+2) Upkeep: First, collect income from deeds you both own and control. Then, pay upkeep 
+for each of your dudes in play, or discard any you won’t or can’t pay upkeep for. 
+ 
+3) High Noon: Starting with the Winner, the players go back and forth choosing to make 
+one of the plays below until both players pass consecutively: 
+a. Actin’: Use a Noon ability printed on a card you control, or from an action in your 
+hand. Each ability on a card can only be used once per day, and Noon abilities last 
+until the end of the turn. 
+b. Movin’: Move one of your unbooted dudes to another location. A dude may boot 
+to move to any location, or move without booting to particular adjacent locations 
+(as explained in the next section). 
+c. Callin’ Out: An unbooted dude can attempt to start a shootout by calling out any 
+opposing dude at the same location (except at the called out dude’s home). The 
+other dude may boot and go home to refuse a call out. 
+d. Shoppin’: Bring a new dude, deeds, or goods into play. Dudes enter play at your 
+home, deeds at either end of your street, and goods attached to a dude or deed you 
+control (at a location you control). 
+e. Tradin’: Switch goods between any number of your dudes at a location you 
+control, as long as dudes receiving goods are unbooted. 
+f. Passin’: Do nothing. Remember, if both players pass sequentially, move onto the 
+Sundown phase. 
+ 
+4) Sundown: First check for victory: if a player has more control points than their 
+opponent’s influence, they win the game! If no one has won, each player then may 
+discard one card from their play hand. Then, draw cards to refill your hand (or discard 
+down) to the maximum hand size of 5. Each player unboots all of their booted cards and a 
+new turn begins with phase 1, Gamblin’. 
+ 
+5. Shootouts 
+ 
+Whenever a callout is accepted or a job is opposed, posses are formed and a shootout begins. 
+Whenever a dude joins a posse at a Private location owned by another player, increase that 
+dude’s bounty by 1 (player’s homes are always Private, and the town square is always Public). 
+ 
+After players form posses, move to Step 1 to begin the first round of the shootout. 
+ 
+Forming Posses: Who Can Join a Shootout? 
+➢ The player issuing the callout (referred to as the leader) forms their posse first, then the 
+controller of the dude that was called out (the mark) forms their posse. 
+➢ Any dude at the shootout’s location can join whether they are booted or unbooted, and 
+they do not need to boot to join. 
+➢ Any unbooted dude at an adjacent location can boot and move to the shootout’s location 
+to join their controller’s posse. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[6] 
+Shootout Round Steps 
+ 
+Step 1: Make Shootout Plays 
+ 
+The Winner has the first opportunity to make a shootout play, then the opposing player. The 
+players go back and forth choosing to make a shootout play or pass, until both players pass 
+consecutively. 
+ 
+To make a shootout play, you may either use a Shootout ability on a card you have in the 
+shootout, or from an action in your play hand. If a card has an ability that would bring a dude 
+into the shootout, that ability can still be used from outside the shootout. Each ability on a card 
+can only be used once per day, and Shootout abilities last until the end of the shootout. 
+ 
+Step 2: Choose Your Shooter 
+ 
+Select a dude in your posse to be your shooter. This dude contributes their full bullet rating 
+(including any bonuses or penalties from attached cards, and from abilities affecting the dude) to 
+your posse’s stud/draw bonus for forming your draw hand. 
+ 
+Step 3: Draw! 
+ 
+Now, calculate your stud bonus (from dudes with silver bullets) and your draw bonus (from 
+dudes with brass bullets) for this draw hand. Remember, studs increase your draw hand’s size, 
+while draw dudes allow you to discard and replace cards from your draw hand. To calculate your 
+draw hand bonus, only your shooter contributes their full bullet amount; each other dude in your 
+posse only contributes one bullet of their bullet type. 
+ 
+After calculating your total stud and draw bonuses, build your shootout hand by drawing cards 
+from the top of your deck to form a draw hand (separate from your play hand). The starting draw 
+hand size is five cards, so draw that plus your posse’s stud bonus. 
+ 
+After drawing these cards (including your stud bonus), you may then discard and redraw a 
+number of cards from your draw hand up to your draw bonus. Note, you don’t have to discard 
+and replace any if you don’t want to, but you do have to decide how many you discard and 
+replace at once. You can’t discard and replace an additional card if you’ve already chosen to 
+discard and replace some already. 
+ 
+Lastly, discard your draw hand down to five cards, attempting to make the highest poker hand 
+rank possible. 
+ 
+For example, if you have dudes that are a 2-draw, a 0-stud and a 1-stud, you should select your 
+2-draw dude as your shooter, since they’re your only dude with a bullet rating above 1, and 
+backup dudes count as a bonus of 1 anyway (even your dudes with 0 bullets!). That means your 
+shooter provides a 2-draw bonus, and your other dudes a 1-stud bonus each. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[7] 
+Thus, with 2 stud bonus and 2 draw bonus total, draw a seven card hand (the default draw hand 
+of five, plus 2 stud), and then you may discard and replace up to two cards (due to your 2 draw). 
+ 
+Step 4: Reveal Hands and Resolution Plays 
+ 
+Players simultaneously reveal their draw hands and have the opportunity to use any abilities 
+marked Resolution or Cheatin’ Resolution. Only one Cheatin’ Resolution can be played on a 
+player per shootout round, and these can only be played if that player is cheatin’ (their hand is 
+impossible to make with a legal poker deck). 
+ 
+Just like with Shootout and Noon plays, the Winner has the first opportunity to make a 
+Resolution play, and then the opponent. Players go back-and-forth with the opportunity to make 
+Resolution plays until both pass consecutively. Each ability on a card can only be used once per 
+day, and Resolution abilities last until the end of that round of the shootout. 
+ 
+Step 5: Take Casualties 
+ 
+Once both players have finished making Resolution plays, compare each other’s draw hand ranks 
+(a list of hand ranks is provided at the end of this document). Remember, unlike during the 
+Gamblin’ phase, you want the highest hand rank possible in a shootout. For every hand rank by 
+which you lose a shootout, you suffer a casualty. Dudes can be discarded to cover one casualty, 
+or aced to cover two. You must attempt to cover as many casualties as possible. When a dude is 
+aced or discarded, any attached cards are placed in your discard pile. 
+ 
+For example, if you have two dudes and reveal a two-pair (rank 3) to your opponent’s full house 
+(rank 7), you suffer four casualties. You must ace both your dudes to cover four casualties (rather 
+than discarding them for two) to cover as many as possible. 
+ 
+If shootout hands are tied for the same rank, then both players suffer one casualty each. To 
+determine the winner for the round (which matters in Step 6 below), the higher hand within that 
+rank wins that round. For example, if both players reveal a full house, but one is 8♥ 8♦ 8♣ 6♦ 6♣ 
+and the other is 5♦ 5♥ 5♣ 3♠ 3♦, the first hand is higher and that player wins the shootout round. 
+ 
+Steps 6: Stand or Run 
+ 
+First, the loser of the shootout round decides if they want any of their dudes to leave the shootout 
+and go home booted (even if they are already booted). Then, the winner of the round decides if 
+they want any of their dudes to leave the shootout and go home booted (even if already booted). 
+ 
+Step 7: Chamber Another Round 
+ 
+Both players discard their draw hand. If only one posse if left (because the other posse fled or it 
+was wiped out) then the shootout ends. Otherwise, begin a new shootout round at Step 1. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[8] 
+6. Jobs 
+ 
+If a card is marked as a job (for example, Kidnappin’ says Noon Job, Boot), that means using it 
+begins a job to try and pull off a powerful play. To use such an action, you choose one of your 
+unbooted dudes (at any location) to be the leader for the job. If a job indicates “Boot” (like 
+Kidnappin’ does), this means have to boot the dude to start the job. The job will also have you 
+choose a particular object in the game (usually a dude or location) as the mark (the job’s target). 
+ 
+Then, the leader forms a posse for the job (detailed below), after which your opponent has the 
+opportunity to let the job succeed automatically, or they can attempt to oppose it. If they don’t 
+oppose, the job automatically succeeds, and you send your posse home booted. If your opponent 
+opposes the job, they form a posse, and the job’s success will be determined by a shootout. 
+ 
+Who Can Join the Leader’s Posse? 
+➢ Any of your dudes at the same location as, or adjacent to the location of, the dude leading 
+the job. These dudes must boot to join. 
+➢ Any of your dudes at the mark’s location. These dudes do not boot to join, and can join 
+even if booted. 
+➢ Any of your dude’s adjacent to the mark’s location. These dudes must boot to join. 
+ 
+Who Can Join the Opposing Posse? 
+➢ If a dude is marked by the job, they may join the opposing posse, but does not have to. 
+➢ Any of the opposing player’s dudes at the mark’s location. These dudes do not boot to 
+join, and can join even if booted. 
+➢ Any of the opposing player’s dudes adjacent to the mark’s location. These dudes must 
+boot to join. 
+ 
+Once both player’s posses are formed, they move to the mark’s location and start a shootout. If 
+the leader's posse wins the shootout, the job succeeds. Otherwise, the job fails. Survivors in the 
+leader’s posse return home booted, while the posse opposing a job remains at its current location. 
+ 
+7. Key Terms and Concepts 
+ 
+Aced: Aced cards are sent to Boot Hill. 
+ 
+Adjacency: 
+➢ Locations on each player’s street are adjacent to each location immediately to their left 
+and right on the same street. 
+➢ The town square is adjacent to all in-town locations. 
+➢ Out of Town deeds are not adjacent to any other location, even other Out of Town deeds. 
+➢ Locations on your street are not adjacent to any locations on your opponent’s street. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[9] 
+Boot: Turn a card sideways to indicate it is booted. A booted card cannot be booted to use 
+abilities that require booting. Only cards in play can be booted. 
+ 
+Boot Hill: Boot Hill is separate from your discard pile, and represents the graveyard where aced 
+cards are sent. This pile of cards is never shuffled back in to your deck. 
+ 
+Bounty: Ghost rock placed on a dude that is collected when an opposing player aces that dude. 
+Dudes with bounty are considered wanted. 
+ 
+Cheatin’: Draw hands are considered either legal or illegal (the latter is also known as cheatin’). 
+A draw hand is legal if it does not contain any cards (other than jokers) that share the same suit 
+and value. A draw hand is cheatin’ if there are at least two cards in it (other than jokers) that 
+share the same suit and value. After a player reveals a cheatin’ draw hand, other players have the 
+opportunity to resolve Cheatin’ Resolutions and other game effects. 
+ 
+Control: You control all dudes and goods you bring into play, as well as your outfit. No one 
+controls the town square. Deeds are a little different: the player with the most influence at a deed 
+controls that location (owner wins ties). While controlling a deed, that player can use its abilities 
+and counts its control points towards their total during Sundown. 
+ 
+Discard Pile: After you play an action or a card is discarded from play, it goes in to your discard 
+pile. Whenever your deck is empty and you need to draw or pull a card, shuffle your discard pile 
+to make a new deck. 
+ 
+Home: The location represented by your outfit card. Other players cannot control your home, 
+and it is always Private. Dudes cannot be called out at their own homes without a card effect. 
+Your home is a location, but it is not a deed. 
+ 
+Horses: Each dude can only have one Horse at a time. If a dude ever has more than one Horse 
+attached, immediately discard attached Horses till they only have one. 
+ 
+In-Town: All deeds are in town unless they have the Out of Town keyword. 
+ 
+Negative Numbers: A dude’s value, influence, and bullet rating each have a minimum value of 
+zero. If modifiers would reduce it below zero, those modifiers remain in place to interact with 
+any subsequent modifiers. For example, if a dude with a bullet rating of 1 receives a -2 bullet 
+penalty, their bullet rating is considered 0. However, if that dude receives a subsequent +1 bullet 
+bonus, the -2 bullet penalty remains in effect, so their bullet rating would still be 0 (1+1-2). 
+ 
+Owned: Any card that came from your deck is a card that you own. 
+ 
+Private: If a shootout takes places at a Private location, all dudes controlled by the player who 
+does not own the deed have their bounty increased by 1. Each player’s home is always Private. 
+ 
+Pull: Reveal the top card of your deck, check its suit and value, then discard the card. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[10] 
+Town Square: The town square is a Public location that is adjacent to each player’s home and 
+each in-town deed. No player ever controls the town square (so you cannot attach goods to your 
+dudes in the town square). Town square is a location, but it is not a deed. 
+ 
+Unbooted: A card that is not booted. 
+ 
+Unique: All dudes and deeds are Unique by default, and other cards can be if they have the 
+Unique keyword. Each player can only have one copy of a Unique card in play. 
+ 
+Wanted: Dudes with any amount of bounty are considered wanted. Whenever you make a play 
+that discards or aces an opposing wanted dude, or you discard or ace an opposing wanted dude in 
+a shootout, you collect that dude’s ghost rock bounty. 
+ 
+Weapons: Each dude can only have one Weapon at a time. If a dude ever has more than one 
+Weapon attached, immediately discard attached Weapons till they only have one. 
+ 
+8. Phases of a Turn: More Details 
+ 
+1) Gamblin’ 
+➢ Each player takes one ghost rock from their stash and places it in the middle of the table 
+as their ante. If you don’t have enough ghost rock to ante up, borrow one ghost rock from 
+the bank, and pay back the borrowed ghost rock during your upkeep this turn. 
+➢ After anteing, each player reveals the top five cards of their deck as a draw hand. Use the 
+draw hand to make a poker hand, then discards these cards. 
+➢ This is a round of lowball poker, where the lowest hand wins. The Winner claims all the 
+ghost rock that was anted up and adds it to their stash, and has the first opportunity to 
+make a play during High Noon and any shootouts this turn. 
+➢ If your opponent’s draw hand is illegal (a hand that cannot be made in a standard poker 
+deck), you may use a single Cheatin’ Resolution on a card you control or from your hand. 
+ 
+2) Upkeep 
+➢ Collect income from your home and each deed you both own and control. You cannot 
+collect income from your opponent’s deeds even if you control them. However, 
+controlling your opponent’s deed does stop them from collecting its production. 
+➢ After collecting your production, pay upkeep for each dude you control with an upkeep 
+cost. You may choose not to pay a dude’s upkeep. If so, the dude is discarded from play. 
+➢ A stack of poker chips, chits, or other tokens is ideal for tracking the size of your stash. 
+➢ If you had to borrow from the bank for your lowball ante during the Gamblin’ phase, you 
+have to pay the bank back before paying other upkeep costs (but after collecting 
+production). 
+ 
+3) High Noon 
+➢ The Winner gets the first opportunity to make a play, then the opposing player. 
+ 
+a. Actin’ 
+
+ 
+ 
+ 
+ 
+ 
+[11] 
+➢ In general, abilities on dudes, deeds, and goods can only be used while in they’re in play, 
+whereas abilities on actions are used from your play hand. 
+ 
+b. Movin’ 
+➢ An unbooted dude can boot to move to any location in town or Out of Town. 
+➢ An unbooted dude can make the following moves without booting: 
+o From your home to an adjacent location (generally, the town square, or a deed on 
+your street located directly to the left or right of your home). 
+o From the town square to any adjacent location except your home. This means 
+dudes can move to any in-town deed or your opponent’s home without booting, 
+but will generally need to boot to move onwards from there. 
+ 
+c. Callin’ Out 
+➢ Any unbooted dude can call out an opposing dude at the same location, who can refuse 
+by moving home booted. If a dude is booted, they cannot refuse a call out. 
+➢ Dudes cannot be called out at their home, except by card effects. 
+➢ The dude being called out is referred to as the mark. 
+ 
+d. Shoppin’ 
+➢ Spend ghost rock equal to the cost in the bottom left corner of a card to hire a new dude, 
+attach a goods to a card already in play, or build a new deed. 
+➢ New dudes enter play at your home unless specified otherwise. 
+➢ Goods can only be attached to dudes at locations you control. 
+➢ Newly purchased in-town deeds are placed at either end of your street. They cannot be 
+squeezed between existing deeds, or an existing deed and your home. 
+➢ Out of Town deeds are placed off to the side and are not on your street. They are not 
+adjacent other locations. 
+ 
+e. Tradin’ 
+➢ Booted and unbooted dudes at the same location you control can exchange goods, but 
+each goods can only be traded once per day, and only unbooted dudes can receive goods. 
+ 
+f. Passin’ 
+➢ If all players do this sequentially, the turn proceeds to its final phase, Sundown. 
+➢ You can pass and then make other plays again later in the Noon phase. You are not 
+locked into continuously passing if you have done so previously. 
+ 
+4) Sundown 
+➢ If you have more control points than your opponent has influence at the beginning of 
+Sundown, then you win the game! 
+➢ If each player has more control points than their opponent’s influence, the player with the 
+most control points wins the game. If tied for control, the player with most influence 
+wins. If those are tied, the game continues for another turn. 
+➢ If you used The Sloane Gang outfit’s ability to get a control point this turn, you don’t get 
+this control point until after checking for victory. 
+
+ 
+ 
+ 
+ 
+ 
+[12] 
+➢ Discarding a card from your hand is optional, unless you have over the maximum hand 
+size and must discard down to 5. 
+➢ Make sure to unboot all your cards, not just dudes, and not just deeds. 
+ 
+9. FAQ 
+ 
+Can I use two abilities on an action card at the same time? 
+No, nice try! Some cards, such as “It’s Not What You Know…” have multiple abilities printed 
+on them, but you can only use one of these abilities when you play the card. 
+ 
+What do I do if my deck runs out of cards? 
+Whenever your deck is empty and you need to draw or pull a card, simply shuffle your discard 
+pile to create a new deck. 
+ 
+How often can I use an ability on a card? 
+Abilities on cards can only be used only once per turn unless they say “Repeat.” 
+ 
+How long do abilities last? 
+Unless otherwise stated, Noon abilities last until the end of the Sundown phase; Shootout 
+abilities until the end of the shootout they were used in; and Resolution abilities until the end of 
+the shootout round they were used in. Effects that place bounties or control points on cards are 
+permanent and should be marked with poker chip, chits, or other tokens. 
+ 
+Does Jacqueline Isham’s ability work if she is called out? 
+Yes, if a dude is called out they become the mark, and dudes are always considered to be joining 
+their own posse. Thus, Jacqueline Isham’s ability can be used to make her a stud when she 
+accepts a callout. 
+ 
+Does Ramiro Mendoza’s trait take effect if he is called out or issues a callout? 
+Since dudes are always considered to be joining their own posse, Ramiro Mendoza’s controller 
+would need to pay one ghost rock when he joins his own posse for either of these reasons. 
+ 
+What if I’m sent home booted from a shootout when I’m already at home? 
+Your dude is still at home, but has exited the posse they were in and is no longer in the shootout. 
+That means even if you’re in a shootout at your home, your opponent can still Pistol Whip you 
+out of the fight! 
+ 
+What if I’m moving to join a shootout with The Stakes Just Rose, Carter’s Bounties, or 
+Pinto, but I’m already at the shootout’s location? 
+You can still use these cards to join the shootout even if you’re already at the location in 
+question. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+[13] 
+My dude gained a bounty from joining a shootout at a Private location, was sent home 
+booted, but then I used The Stakes Just Rose to have them rejoin the shootout. Do they 
+gain a bounty again? 
+If a dude is sent out of a shootout from a Private location owned by another player, and 
+subsequently rejoins the same shootout, their bounty is increased by 1 a second time. 
+ 
+What happens if a posse is emptied of dudes during the Shootout or Resolution plays of 
+a shootout? 
+If one posse’s dudes are entirely removed during those steps (e.g. due to Pistol Whip, Shotgun or 
+Coachwhip!), then the shootout ends immediately without proceeding to the subsequent steps. 
+ 
+My dude got aced or discarded outside of a shootout. What happens to their attached 
+goods? 
+Just like when taking casualties during a shootout, if a dude is aced or discarded from play, any 
+cards attached to that dude are put in your discard pile. 
+ 
+10. Hand Ranks 
+ 
+There are 11 hand ranks in Doomtown, defined in the following manner: 
+ 
+11. Dead Man’s Hand 
+Exactly A♣, A♠, 8♣, 8♠, J♦ 
+10. Five of a Kind: Five cards of exactly the same value 
+Example: A♣, A♣, A♦, A♠, A♥ 
+9. Straight Flush: Contains 5 cards in sequential value, all of the same suit 
+Example: A♦, 2♦, 3♦, 4♦, 5♦ 
+8. Four of a Kind: Contains four cards of exactly the same value 
+Example: A♣, A♠, A♥, A♦, 7♥ 
+7. Full House: Contains a Three-of-a-Kind of one card value, and a pair of a different value 
+Example: A♣, A♦, A♠, K♣, K♠ 
+6. Flush: Contains 5 cards of all the same suit, but not in sequence 
+Example: A♠, 5♠, 7♠, 8♠, 10♠ 
+5. Straight: Contains 5 cards in sequential value, not all of the same suit 
+Example: A♣, 2♦, 3♠, 4♦, 5♦ 
+4. Three-of-a-Kind: Contains only 3 cards that share the same value 
+Example: A♣, A♦, A♠, 10♣, K♠ 
+3. Two Pair: Contains 2 different pairs of cards 
+Example: A♣, A♦, K♠, K♣, 8♠ 
+2. Pair: Contains only 2 cards that share the same value 
+Example: A♣, A♦, 7♠, J♣, K♠ 
+1. High Card: Contains 5 cards of different values, of mixed suits, that are not sequential in value 
+Example: A♣, 3♦, 7♠, J♣, K♠

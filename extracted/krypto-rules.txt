@@ -1,0 +1,33 @@
+KRYPTO
+1. Krypto Deck
+A Krypto Deck consists of 56 cards:
+• 3 each of the numbers 1 to 6
+• 4 each of the numbers 7 to 10
+• 2 each of the numbers 11 to 17
+• 1 card each of the numbers 18 to 25
+Five cards are dealt from a Krypto deck, face-up.
+A single card is placed face-up above these 5 cards. This is the target or objective number.
+Each player must use all ﬁve of the cards’ numbers exactly once, using any combination of arithmetic
+operations (+, −, ×, ÷) to form the objective card’s number.
+The ﬁrst player to come up with a correct formula is the winner.
+2. Rules
+Each of the ﬁve numbers must be used once and only once.
+No other numbers are allowed.
+The ﬁve numbers may be ordered in any way you choose.
+You can use parentheses in any way you choose.
+No other mathematical symbols, such as √or factorials, is allowed.
+3. Example
+
+4. Some Solutions
+(14 −6) × (15 −11 −3)
+(15 −11) + (3 × 6 −14)
+5. A Toughie
+((14 −11) × 18 + 6) ÷ 20
+6. On Line Krypto
+An original Krypto Deck can be ordered from Amazon.
+It is called Krypto Original Family Arithmetic Game and costs $14.99
+You can ﬁnd Krypto Generators on line at
+https://lumeh.org/krypto.html
+https://gunnisonmath.com
+[Scroll down to Play Math Games]
+and other sites.

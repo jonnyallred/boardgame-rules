@@ -95,6 +95,8 @@ def main():
     parser.add_argument("--method", choices=["pymupdf", "pdfplumber"], default="pymupdf",
                         help="Extraction method (default: pymupdf)")
     parser.add_argument("--registry", default="games.yaml", help="Path to games.yaml")
+    parser.add_argument("--no-registry", action="store_true",
+                        help="Skip registry update (use in parallel/subagent contexts)")
     args = parser.parse_args()
 
     if not os.path.exists(args.pdf_path):
@@ -124,13 +126,14 @@ def main():
     print(f"  Saved to: {output_path}")
 
     # Update registry if we can match the game
-    games = load_registry(args.registry)
-    for game in games:
-        slug = re.sub(r"[^a-z0-9]+", "-", game["name"].lower()).strip("-")
-        if slug in pdf_stem.lower():
-            update_status(args.registry, game["name"], "extracted")
-            print(f"  Updated registry: {game['name']} → extracted")
-            break
+    if not args.no_registry:
+        games = load_registry(args.registry)
+        for game in games:
+            slug = re.sub(r"[^a-z0-9]+", "-", game["name"].lower()).strip("-")
+            if slug in pdf_stem.lower():
+                update_status(args.registry, game["name"], "extracted")
+                print(f"  Updated registry: {game['name']} → extracted")
+                break
 
 
 if __name__ == "__main__":

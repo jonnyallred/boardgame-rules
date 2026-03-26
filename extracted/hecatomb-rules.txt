@@ -1,0 +1,812 @@
+™
+AGE 15+
+Rulebook
+
+Contents
+Overview 
+ Object of the Game 
+ Play of the Game 
+ Card Types, Mana Cards, and Abominations 7
+ Zones 
+Deck Rules and Strategy 
+Setup and Start 
+Turn Sequence 
+ Ready Phase 
+ Main Phase 
+ Enemies’ Turns 
+Abilities 
+ General Rules 
+ Simultaneous Abilities 
+ Main Abilities of Minions and Abominations 17
+ Effects and Abominations 
+ Dooms, Subtypes, and Abominations 
+ Damage to Abominations 
+ 0-Strength Minions 
+ Abilities and Destroyed Minions 
+ One-Minion Abominations in Combat 
+Glossary 
+World Concepts 
+Questions? 
+
+Overview
+The world teeters on the edge of apocalypse. The bulwarks of reality 
+falter and fail, and sinister gods of primeval malice loom, ready to 
+consume the earth. In the end, only one unholy mastermind will stand 
+triumphant amid the falling ashes of existence.
+Endbringers gather here. They might be crazed servants of insane 
+gods, masters of forbidden science, or sorcerers of unspeakable 
+knowledge. What they have in common is their goal—to end 
+the world.
+To wage their battle against each other, endbringers merge natural 
+and unnatural creatures into mighty hybrids called abominations, 
+which reap souls for their masters. Endbringers also use their 
+knowledge and power to cast unholy spells, activate arcane relics, 
+and even summon evil gods.
+The endbringer who amasses enough souls ﬁrst wins—and the 
+whole world loses.
+Object of the Game
+Gain 20 souls or more to destroy the world and win the game.
+Play of the Game
+Two or more players play using their own decks and a number of 
+soul counters. From turn to turn, you build abominations, which steal 
+your enemies’ souls. You can also use fates, relics, and unholy gods 
+to defeat your enemies. Players gain a soul on each of their turns, so 
+the end of the world is inevitable. The only question is which player 
+will end it.
+
+Strength
+Minion Card
+Fate, Relic, or God Card
+Conditional Ability
+Name, Type, and Subtype
+Name
+Type
+Subtype (Fates)
+Collector Number and Rarity Symbol
+strength: Minions have strength. An abomination’s strength is its 
+minions’ strength total.
+text box: Fate, relic, and god cards each have one text box. A minion 
+card has two: the main text box above its name and a conditional-
+ability text box below the art. An ability in a minion’s main text box 
+usually applies to the abomination the minion is in. Sometimes the text 
+box contains ﬂ avor text. Text in parentheses and italics is reminder text, 
+which doesn’t change how the card works. It just reminds you of how 
+effects work.
+
+name: Names don’t affect game play.
+type and subtype: The four card types are minion, fate, relic, and god. 
+Minion and fate cards also have subtypes. Some effects apply only to 
+cards that have certain subtypes. Combat minions and combat fates are 
+cards you can play during combat.
+cost: Each card has a cost—the number of mana cards you need to 
+tap to play it. At least one of the mana cards you tap must match the 
+doom of the card you’re playing.
+doom: Each card belongs to one of four dooms: corruption (gray), 
+deceit (blue), destruction (red), or greed (green).
+triggers: Triggers are triangular, colored areas in four of the 
+corners around the name and art of a minion card. Triggers activate 
+conditional abilities.
+conditional ability: When you play one minion (from your hand) on 
+another, the top one’s conditional ability happens if the color of its 
+conditional-ability text box matches the trigger color of the minion 
+under it. See page 21.
+expansion symbol: The expansion symbol is a way to identify which 
+set or expansion a card is from. The expansion symbol for the base 
+set is I.
+collector number: The collector number indicates a card’s number out 
+of the total number of cards in the set.
+rarity symbol: There are three rarities: common (●), uncommon 
+(✦), and rare (★).
+
+The Four Dooms
+The dooms are the fundamental forces of evil. Every sort of 
+evil in the world is some expression or combination of these 
+dooms. Each doom has its own style and minions.
+ 
+Corruption
+Corruption is the power of madness, deformity, and 
+knowledge not meant for mortals to know. Corruption minions 
+include mutants and ancient, evil Mesoamerican entities 
+called aztecals. Greed is corruption’s primary enemy.
+ 
+Deceit
+Deceit is the power of lies, trickery, and shadow. Its minions 
+include shapeshifters, mutants, and haunted objects called 
+animates. The primary enemy of deceit is destruction.
+ 
+Destruction
+Destruction is physical power that sunders and crushes. 
+Among destruction minions are beasts and aztecals. 
+Destruction’s primary enemy is deceit.
+ 
+Greed
+Greed is the power of wealth, temporal power, and unholy 
+desire. Greed minions include undead and animates. Greed’s 
+primary enemy is corruption.
+
+Card Types, Mana Cards, 
+and Abominations
+There are four card types: minion, fate, relic, and god. A mana card 
+is a card of any type in the mana zone. An abomination is a minion or 
+stack of minions in play.
+Minions 
+You play a minion either as a new abomination or on an existing 
+abomination. Minions stay in play until destroyed. Combat minions 
+are minions you can play during combat, though you can play them 
+outside of combat as normal minions, too.
+Fates 
+Fates include invocations, curses, tactics, and mishaps—either 
+something an endbringer does or something that just happens. When 
+you play a fate, its effect happens, and then it goes to your graveyard. 
+Combat fates are the only fates you can play during combat, though 
+you can play them outside of combat, too.
+Relics 
+Relics are magical or technological devices that can help you or hurt 
+your enemies. When you play one, it stays in play and affects the 
+game until destroyed.
+Gods 
+Gods are baleful deities endbringers summon to help them destroy 
+the world. When you play a god, it usually has a one-time effect 
+(within these marks: « ») and a continual effect. It stays in play until 
+destroyed. If you play another god, sacriﬁce the old one.
+
+Mana Cards 
+You can play any card into your mana zone, where it becomes a mana 
+card. You can then tap it to pay for other cards. It stays in the mana 
+zone (which isn’t in play) until destroyed.
+An abomination is a single unit composed of minions that can attack 
+your enemies to reap souls. It can also block attackers.
+Zones
+There are 6 zones: deck, hand, mana zone, play zone, graveyard, 
+and the “removed from game” zone.
+Play Zone
+Mana Zone
+Deck
+Graveyard
+(right one tapped)
+Relic
+God
+Mana Cards (4 tapped, 3 untapped)
+Hand
+“Removed from Game” Zone
+
+Deck 
+Each player has a deck of at least forty cards. You can have no more
+than three copies of a card in your deck. Shufﬂe your deck and 
+put it face down at the start of the game. If you run out of cards,
+keep playing. You can’t draw any more cards, but otherwise you 
+play normally.
+Hand 
+Each player starts with a four-card hand. You draw two at start 
+of your turn, except the ﬁrst player draws one on their ﬁrst turn. 
+There’s no hand-size limit.
+Mana Zone 
+Each turn, you may put one card from your hand into your mana 
+zone, where it becomes a mana card. It isn’t in play. You tap mana 
+cards to pay costs.
+Play Zone 
+You may play cards from your hand into the play zone by tapping 
+mana cards to pay for them. See page 11 for card-playing rules.
+Cards count as minions, relics, and gods only while in the play zone. 
+In other zones, they’re minion cards, relic cards, and god cards.
+Graveyard 
+Your graveyard is a face-up pile near your deck. Cards go there when 
+destroyed or discarded. You can look at the cards in any player’s 
+graveyard anytime.
+“Removed from Game” Zone 
+Some effects remove cards from the game, either permanently 
+or temporarily. Set such cards aside or put them where directed. 
+They don’t go to your graveyard.
+
+Deck Rules and Strategy
+Your deck must have at least forty cards, with no more than three 
+copies of any card. A deck usually includes cards of two dooms, with 
+minions whose conditional abilities match those dooms. With three or 
+four dooms in a deck, you can pick the best cards of each doom, but 
+it’s harder to make conditional abilities work. With only one doom in 
+a deck, you always have mana cards of the doom you need, but you 
+have few conditional abilities and fewer cards in general to choose 
+from.
+Setup and Start
+Players shufﬂe their decks and put them face down.
+Put the soul counters where everyone can get to them. Each player 
+takes 5 souls.
+Decide who takes the ﬁrst turn.
+Each player draws four cards.
+Turn Sequence
+ Ready Phase (in order)
+ Gain 1 soul.
+ Untap.
+ Draw two.
+ Main Phase (any order)
+ Add one mana card (once per turn).
+ Play cards (repeat as you like).
+ Attack (repeat as you like).
+
+Ready Phase 
+Follow these steps in order at the start of your turn.
+Gain 1 Soul 
+Add 1 soul to your pile. If you have 20 souls, you win.
+Untap 
+Untap your tapped cards. An untapped abomination has its top 
+minion’s main text box at the top. An untapped mana card is face up 
+but inverted, so the name of the card is at the bottom.
+Draw Two
+Draw two cards. If you’re the ﬁrst player taking your ﬁrst turn, 
+draw one instead. If you run out of cards, keep playing.
+Main Phase 
+Do these steps in any order.
+Add One Mana Card 
+You may put a card from your hand into your mana zone, where it 
+counts as a mana card. Place it face up and inverted. You tap mana 
+cards to pay costs.
+Early in the game, you’ll usually want to put your highest-cost cards 
+in the mana zone because you wouldn’t be able to use them right 
+away. Later in the game, use low-cost cards for mana cards.
+Play Cards 
+You may play one or more cards from your hand if you can tap enough 
+of the right kind of mana cards.
+
+Tapping mana cards: To play a card, ﬁ rst tap a number of untapped 
+mana cards equal to the card’s cost. At least one of those mana cards 
+must be the same doom as the card played. For example, to play a 
+corruption card that costs 3, tap one corruption card and two cards of 
+any doom.
+Playing minions: Put a minion into the play zone either on its 
+own as a new abomination or on top of an existing abomination. 
+A one-minion abomination can’t attack or block. When you play a 
+minion on an abomination, the strength and main text box of each 
+bottom minion must show through one of the four clear sides of the 
+top one. (You can’t play a sixth minion on a size 5 abomination.) 
+An abomination that gets a new minion can’t attack that turn, but 
+it can block during enemies’ turns. Often it’s best to attack with an 
+abomination ﬁ rst, if you can, and then play a minion on it. A minion 
+might have a conditional ability, which works when you play it on 
+a minion of the correct doom. See page 21 for rules on conditional 
+abilities. Combat minions are minions you can play during combat. 
+You can still play them whenever you can play normal minions.
+Playing fates: When you play a fate, its effect happens, and then 
+it goes to your graveyard. If a fate’s ability has the word “target,” 
+Play mana cards inverted, like this.
+When you use a mana card to 
+pay for a card, turn it sideways 
+like this (tap it).
+
+you must choose a target to play that fate. Fate effects are 
+one-time effects, which either end at end of turn or last indeﬁnitely. 
+If a fate changes a card’s numbers or abilities, or if it overrides 
+normal rules, then its effect ends at end of turn. If a fate changes the 
+position of any cards, affects soul counters, or otherwise changes 
+the state of game components, then its effect lasts indeﬁnitely. For 
+example, a fate that gives an abomination Rager +2 lasts until end of 
+turn, but one that puts a minion into its owner’s hand lasts indeﬁnitely. 
+The minion doesn’t come back out of the hand at end of turn, but the 
+player can still play it as they would any other card. A good guideline 
+is that any effect you would have to remember goes away at end of 
+turn, while any effect you don’t have to remember lasts indeﬁnitely. 
+Combat fates are the only fates you can play during combat. You can 
+still play them whenever you can play normal fates.
+Playing relics: Put relics into the play zone by themselves 
+(not on anything). They stay in play indeﬁnitely. Relics usually have 
+continual effects.
+Playing gods: Put gods into the play zone by themselves (not on 
+anything). If you already have a god in play, sacriﬁce it when you play 
+the new one. A god usually has a one-time effect when you play it, 
+plus a continual effect.
+
+Attack 
+You can send one or more abominations to attack an enemy and try 
+to reap souls. You can attack as many times as you like (until all 
+your abominations are tapped). You attack one enemy each time you 
+attack (and can attack the same enemy more than once).
+
+The only cards you can play during an attack are combat fates and 
+combat minions. You can’t add mana cards during attacks.
+Declare attackers: When you attack, choose one or more of your 
+untapped abominations and an enemy for them to attack. Tap those 
+abominations. Abominations you played or added to this turn can’t 
+attack. When you attack with multiple abominations, sometimes it’s 
+best to send them all at once. That way each blocker can block only 
+one attacker. Other times it’s best to send attackers one at a time. 
+That can limit the defender’s blocking options.
+Play combat fates and combat minions: The aggressor may 
+now play combat fates and combat minions (but no other fates or 
+minions). Once the aggresssor has played as many combat fates and 
+minions as desired, the defender may play combat fates and minions. 
+Other players can’t play combat fates and minions.
+Assign blockers: Each untapped abomination the enemy controls 
+can block one attacker, preventing that attacker from reaping souls. 
+Only one abomination can block each attacker. When an abomination 
+blocks, the blocker and attacker ﬁght. Other enemies’ abominations 
+can’t block for the defender. If you attack the same enemy more 
+than once in a turn, a blocker that survives one attack can block 
+again (unless it’s been reduced to one minion). Once an attacker 
+become blocked, it’s blocked until end of combat even if its blocker 
+is removed from combat.
+Play more combat fates and combat minions: The aggressor and 
+then the defender may again play combat fates and combat minions, 
+as before.
+
+Reap souls: Each attacker that wasn’t blocked reaps a number 
+of souls equal to its size (not its strength) from the enemy. 
+For example, a three-minion abomination reaps 3 souls. The 
+aggressor gets those souls. If the enemy has fewer souls than the 
+abomination’s size, the abomination reaps only what the enemy has.
+Why We Reap 
+Each soul counter represents a number of mortals known as 
+“true believers,” as well as their soul energy. True believers 
+have strong enough faith that endbringers can use it to 
+bring about apocalypse. When an abomination kills another 
+endbringer’s true believers, it channels the soul energy to its 
+master. When an endbringer has enough of this power, they 
+destroy the world.
+Have abominations ﬁght: Each blocked attacker deals damage to 
+its blocker, and each blocker deals damage to its attacker. Neither 
+reaps souls. An abomination deals damage equal to its strength 
+(the total of its minions’ strengths). If an abomination takes damage at 
+least as great as its total strength, it’s destroyed. All its minions go 
+to the graveyard. If an abomination takes less damage than its strength, 
+some or all of its minions survive. Apply the damage to the top minion 
+ﬁrst. If the damage is less than the top minion’s strength, nothing 
+happens. If the damage equals the top minion’s strength, the top 
+minion is destroyed but the rest survive. If the damage is greater 
+than the top minion’s strength, the leftover damage spills to the next 
+minion down, possibly destroying it as well. Damage continues down 
+through the abomination this way until what’s left can’t destroy the 
+minion it’s reached. See p. 18 for more on damage to abominations.
+
+Once you have no more cards you want to play and no more attacks 
+you want to make, your turn ends. The player on your left now takes 
+a turn.
+Enemies’ Turns 
+On enemies’ turns, the only thing you can do is respond when 
+attacked. You can have your untapped abominations block (unless 
+they’re one-minion abominations), and you can play combat fates 
+and combat minions.
+Abilities 
+This section covers general ability concepts. Refer to the glossary for 
+rules on how speciﬁc abilities work and what speciﬁc terms mean.
+General Rules 
+When an ability conﬂicts with the rules or when two abilities conﬂict 
+with each other, follow these general rules: (1) Cards trump rules. If 
+a card directly contradicts the rules of the game, the card takes 
+precedence. (2) “Can’t” trumps “can.” If one card or effect says 
+something can happen and another says it can’t, the “can’t” wins. 
+(3) Do as much as you can. If an ability has you do something you can 
+only partly complete, do what you can. For example, if an ability has 
+you discard two and you have only one card in your hand, discard 
+just that card.
+Simultaneous Abilities 
+Sometimes two abilities happen at the same time, such as when two 
+abilities happen at end of turn. If playing a card triggers an ability, 
+complete the card’s abilities (if any) before the triggered ability 
+
+happens. In other such cases, abilities controlled by the player whose 
+turn it is happen ﬁrst, followed by abilities controlled by the player to 
+the left, and so on around the play area. If one player controls two or 
+more simultaneous abilities, that player decides their order.
+Main Abilities of Minions and 
+The ability in a minion’s main text box usually applies to the abomination 
+it’s in. For example, if a minion has Ripper, its abomination has Ripper. 
+Some abilities apply only to individual minions. For example, if a 
+minion has Regenerator, it can regenerate only itself. The glossary 
+speciﬁes which abilities apply only to individual minions.
+Effects and Abominations 
+Whatever affects an abomination affects the top minion unless 
+otherwise speciﬁed. For example, if an abomination gets 
+–1 strength, the top minion is the one that suffers the loss. 
+See p. 19 for information on 0-strength minions.
+Dooms, Subtypes, and Abominations 
+Some abilities refer to an abomination’s doom or subtype. 
+An abomination’s dooms are the dooms of all its minions. Its subtype 
+is that of its top minion.
+
+This abomination’s strength is 
+12. Its top minion has strength
+6. It takes 5 damage, which 
+isn’t enough to destroy any 
+minions.
+
+6 strength
+1 strength
+This abomination’s strength 
+is 5. It takes 5 damage and 
+is destroyed.
+This abomination’s strength 
+is 6. It takes 5 damage, which 
+is enough to destroy the top
+two minions but not the 
+bottom minion.
+1 strength
+Damage to Abominations
+Damage dealt to abominations starts at the top and goes down one 
+minion at a time. 
+Abilities that deal damage target abominations, not individual minions. 
+(Individual minions are susceptible only to abilities that destroy, exile, 
+or sever them.) If an ability deals damage to an abomination, treat 
+the damage like combat damage. Apply it to the top minion ﬁrst, and 
+spill extra damage over to lower minions. If damage dealt to a minion 
+isn’t enough to destroy the minion, ignore the damage. You can’t deal 
+some damage to a minion from one source and then ﬁnish that minion 
+off with damage from another source.
+
+0-Strength Minions 
+Some abilities reduce strength. That might cause a minion to wind 
+up with 0 or less strength. If a minion has strength below 0, it’s no 
+different than 0.
+A 0-strength minion is destroyed if it takes 0 damage. For example, 
+if the minion above a 0-strength minion is destroyed with 0 damage 
+left over, the 0-strength minion takes 0 damage and is destroyed. 
+An abomination that has Ripper can assign 0 damage to destroy any 
+0-strength minions.
+Abilities and Destroyed Minions 
+Sometimes losing minions to damage can change the way the 
+abomination interacts with other cards. For example, if you have 
+an abomination that gives a bonus to Undead abominations, then an 
+abomination that has an Undead minion only on top loses
+that bonus when that minion is destroyed. On the other hand, 
+if only the second minion from the top is Undead, then the 
+abomination gets the bonus when the top minion is destroyed.
+Such changes apply only after all destroyed minions are removed. 
+For example, the Survivor ability lets the top minion of an abomination 
+shrug off some damage. Once the top minion is destroyed, Survivor 
+doesn’t apply to the next minion right away. That ability won’t matter 
+again until the next time the abomination takes damage.
+One-Minion Abominations in Combat 
+If an ability reduces an abomination in combat to one minion, 
+immediately remove that abomination from combat. For example, 
+if a combat fate damages an attacker, reducing the attacker to one 
+minion, the attacker neither reaps souls nor exchanges damage.
+
+Glossary
++: A sign that comes before or after a number. When it comes before a 
+number, it indicates that the number adds to some other value and that 
+similar bonuses add together. For example, an abomination that has 
+Reaper +1 and Reaper +2 reaps 3 extra souls whenever it attacks and isn’t 
+blocked. When a + comes after a number, it indicates that the number can 
+be higher. For example, “Exile target strength 4+ minion” means “Exile 
+target minion of strength 4 or greater.”
+–: A sign that comes before or after a number. When it comes before a 
+number, it indicates that the number subtracts from some other value 
+and that similar penalties add together. When a – comes after a number, 
+it indicates that the number can be lower. For example, “Destroy target 
+strength 2– minion” means “Destroy target minion of strength 2 or less.”
+« »: Symbols that bracket the text of a one-time effect, as in “«Draw 1.»”
+: The symbol for tap abilities. You may tap the abomination to use its tap 
+ability if the following conditions are met: (1) the abomination’s size is at 
+least the given tap number, (2) the abomination is untapped, and (3) it’s a 
+time when you could play combat fates (such as when you’re attacked).
+abomination: A minion or stack of minions in play. A one-minion abomination 
+can’t attack or block.
+aggressor: A player whose abominations are attacking.
+attack: Tap one or more of your untapped abominations to attempt to reap 
+an enemy’s souls on your turn. One-minion abominations and abominations 
+to which minions have been added this turn can’t attack.
+block: Use one of your untapped abominations to stop an enemy’s abomination 
+from reaping your souls. Your blocker and the attacker ﬁght. One-minion 
+abominations can’t block.
+combat damage: Damage that attackers and blockers deal to each other as 
+a normal part of combat.
+
+combat fate: A fate you can play during combat. You can play most combat 
+fates either when you’re attacking or when you’re being attacked. You can 
+play them outside of combat as well.
+combat minion: A minion you can play during combat. You can play combat 
+minions outside of combat as well, as normal minions.
+conditional ability: An ability on some minions that takes effect when you 
+play such a minion (from your hand) onto another minion of the correct 
+doom. If the conditional-ability text box of the minion you’re playing 
+matches the trigger color of the minion under it, the ability happens. 
+Most conditional abilities are one-time effects (enclosed in these 
+symbols: « »), which are optional and happen only if the minion is played 
+from your hand. If a conditional ability has a continual effect, though, 
+it happens regardless of where the minion came from.
+continual effect: An effect that lasts as long as the card causing it is in 
+play. For example, if a relic gives your abominations Rager +2, they have 
+Rager +2 until that relic is destroyed. The opposite of a continual effect 
+is a one-time effect.
+cost: The number of mana cards you tap to play a card. At least one of those 
+mana cards must match the card’s doom. If a card’s cost is 0 or less, tap 
+no mana cards to play it.
+damage: A force that destroys minions. Damage equal to a minion’s 
+strength destroys it. Excess damage might destroy the minions below it. 
+When the top minion is destroyed, apply the remaining damage to the next 
+minion down.
+deck: At least forty cards. You can have no more than three copies of any 
+card in your deck.
+destroy: Put into the graveyard.
+discard: Put a card from your hand into your graveyard. You choose which 
+cards to discard unless the effect says otherwise.
+
+doom: One of four fundamental forces of evil—corruption, deceit, 
+destruction, and greed. Each card belongs to a doom. Some cards work 
+best in decks that combine certain dooms, such as a corruption minion 
+whose conditional ability works only if it’s played on a destruction minion. 
+Each effect has the doom of the card that generated it. A conditional effect 
+has the doom of the trigger that created it.
+enemy: Opponent. Also, a descriptor of something belonging to an opponent, 
+as in “enemy abomination.”
+Evader: An abomination with the Evader ability. It can’t be blocked by 
+abominations of the given doom. For example, a Greed Evader can’t be 
+blocked by abominations that have greed minions.
+exhume: Take one or more cards from a graveyard and put them into their 
+owner’s hand.
+exile: Return one or more cards to their owners’ hands.
+Fanatic: An abomination with the Fanatic ability. It can attack even if you’ve 
+played a minion on it this turn. (It still can’t attack if tapped.)
+fate: A type of card that has a one-time effect and goes into your graveyard 
+when you play it.
+Follower: A minion with the Follower ability. After “Follower” is an ability 
+that’s active only while you control a god.
+Guardian: An abomination with the Guardian ability. It can’t attack.
+god: A type of card, put into the play zone, that usually has both a 
+one-time effect and a continual effect. It stays in play indeﬁnitely. If you 
+play another god, sacriﬁce the old one.
+graveyard: A face-up discard pile near your deck. You can look at the cards 
+in any player’s graveyard anytime.
+hand: The cards you hold before you play them. There’s no hand-size limit.
+
+Host: A minion with the Host ability. You can play it only as a new abomination. 
+(You can’t play it on an existing abomination.)
+Hunter: An abomination with the Hunter ability. When a Hunter attacks, you 
+may choose an enemy abomination, untap that abomination (if tapped), 
+and force it to block the Hunter if able.
+main ability: The ability in a minion’s main text box. It usually applies to the 
+abomination the minion is in. Main abilities are usually continual effects, 
+but sometimes they’re one-time effects that take place under speciﬁc 
+circumstances.
+mana: Doom energy that’s generated when you tap mana cards to pay costs.
+You generate one mana for each tapped card. If you gain mana from 
+other effects, you can spend it as if you had tapped mana cards to generate 
+it. You lose the mana in your pool if an attack starts or a turn ends.
+mana card: A card in the mana zone. You can add up to one card to your 
+mana zone during each of your turns. You tap mana cards to pay costs.
+mana zone: Where you put cards you want to generate mana. Cards in the 
+mana zone are mana cards. Put them there untapped.
+Martyr: A minion with the Martyr ability. When destroyed, it becomes a mana 
+card instead of going to the graveyard.
+minion: The type of card abominations are composed of. If an abomination 
+has only one minion, it can’t attack or block. A minion is only a minion when 
+it’s in the play zone; in other zones, it’s a minion card.
+Nemesis: An abomination with the Nemesis ability. It and its minions can’t be 
+targeted by abilities of the given doom. For example, a Corruption Nemesis 
+can’t be targeted by abilities on corruption cards. Abilities that aren’t 
+targeted affect the abomination normally.
+one-minion abomination: An abomination consisting of only one minion. 
+It can’t attack or block.
+
+one-time effect: An effect that either ends at end of turn or lasts 
+indeﬁnitely. If the effect changes card stats or overrides game rules, it 
+lasts only until end of turn. If the effect moves cards or soul counters, 
+as does exiling a minion, the move lasts indeﬁnitely. The opposite of a 
+one-time effect is a continual effect.
+Parasite: An abomination with the Parasite ability. You can’t play other 
+minions on top of it.
+play zone: The area where you play minions, relics, and gods. Cards count as 
+minions, relics, and gods only while in the play zone. In other zones, they’re 
+minion cards, relic cards, and god cards.
+pool: The imaginary place that holds mana after you generate it but before 
+you spend it.
+put into play: Put a minion into the play zone on an abomination or alone. 
+When an effect tells you to do this, you have the same choices as when you 
+play a minion from your hand normally, but summon effects don’t happen.
+Rager (+X): An abomination with the Rager ability. It gets +X strength while 
+attacking.
+reap: Take souls from an enemy. When one of your abominations attacks an 
+enemy and isn’t blocked, it reaps a number of souls equal to its size (the 
+number of minions in it). You get those souls.
+Reaper (+X): An abomination with the Reaper ability. It reaps +X extra 
+souls when it reaps.
+Regenerator: A minion with the Regenerator ability. It goes to its owner’s 
+hand when it would be destroyed.
+relic: A type of card, put into the play zone, that usually has a continual 
+effect. It stays in play indeﬁnitely.
+retrieve: Search your deck for a card, show that card to all players, and put 
+it into your hand. Then shufﬂe your deck.
+
+Ripper: An abomination with the Ripper ability. When it deals damage, you 
+may distribute that damage however you like among the blocker’s minions 
+(not necessarily from the top down).
+sacriﬁce: Destroy one of your cards. You can’t prevent this destruction, such 
+as with a Regenerator.
+sever: Remove a minion from an abomination and put it in the play zone as a 
+new, untapped abomination.
+size: The number of minions in an abomination. If an attacking abomination 
+isn’t blocked, it reaps a number of souls equal to its size.
+Soulbound: A minion with the Soulbound ability. When it would be destroyed 
+by combat damage, you may instead stitch it onto another of your 
+abominations that has a top minion of the given doom.
+souls: Points that players ﬁght over. When you have 20 souls or more, you win.
+stitch: Move minions, by either putting them on an existing abomination 
+or bringing them together to create a new one. Your minions can’t be 
+stitched onto enemy abominations. If minions are stitched “together,” they 
+start a new, untapped abomination. Stitching minions onto an abomination 
+prevents that abomination from attacking that turn. Stitching doesn’t 
+activate conditional abilities. If a stitched abomination ends up with more 
+than 5 minions, sever the extra top minions.
+strength: For a minion, the strength number on the card; for an abomination, 
+the total of its minions’ strengths. When an abomination blocks or is 
+blocked, it deals damage equal to its strength to the other abomination. If 
+a minion takes damage at least as great as its strength, it’s destroyed.
+strength +/–X: An effect that gives a strength bonus or penalty to an 
+abomination or minion. Changes to an abomination’s strength affect the 
+top minion. If a different minion becomes the top minion, the bonus or 
+penalty applies to the new top minion. If a minion has strength below 0, 
+it’s no different than 0.
+
+subtype: A designator under a minion’s main text box (such as Beast or 
+Undead) or under a fate’s name (such as Curse or Mishap). An abomination’s 
+subtype is its top minion’s subtype.
+summon effect: A conditional ability that’s a one-time effect. (Most are.)
+Survivor (+X): An abomination with the Survivor ability. When it blocks 
+or is blocked, it ignores the ﬁrst X damage dealt to its top minion.
+tap: Turn sideways. You tap mana cards and abominations to show you’ve 
+used them. You untap your tapped cards during the ready phase. Playing 
+a minion on an abomination doesn’t affect whether or not the abomination 
+is tapped.
+target: Something you choose to take an effect. For example, “destroy target 
+minion” means “destroy a minion of your choice.” If you can’t choose a 
+target as speciﬁed, the effect doesn’t happen. You must have a legal target 
+to play a fate that has a targeted effect. You can, however, play a minion 
+on an abomination even if the minion’s conditional ability doesn’t have a 
+legal target.
+trigger: A triangular, colored area in one of four corners around the name and 
+art of a minion card. Triggers activate conditional abilities.
+turn: A sequence of phases from the ready phase to end of turn. Players take 
+turns clockwise around the play area.
+type: One of 4 card types: minion (including combat minions), fate (including 
+combat fates), relic, and god.
+unblocked: The status of an attacker the defender has decided 
+not to block.
+untap: Turn back to the normal orientation. You untap your tapped cards 
+during the ready phase.
+up to: From 0 to the given number, including 0 and the number.
+
+X: Variable amount. When you see X in a cost, either you get to choose the 
+number or it’s determined by its card’s ability. For example, the card Melt 
+has a cost of X+2 and deals X damage to an abomination. If you pay 5 for 
+Melt, it deals 3 damage.
+zone: One of six locations: deck, hand, mana zone, play zone, graveyard, 
+and the “removed from game” zone.
+World Concepts
+These are words from the worlds of the Hecatomb™ trading card game. 
+These deﬁnitions don’t apply to game play.
+abomination: Two or more minions fused into one. Abominations are linked 
+spiritually to the endbringers that forge them. Abominations kill other 
+endbringers’ true believers and channel that soul energy to their masters.
+animates: Haunted objects that move with evil determination. They might be 
+walking marionettes or rampaging bulldozers. Animates align themselves 
+with deceit and greed.
+apocalypse: The end of the world, and the goal of the endbringers.
+aztecals: A race of minions native to Mesoamerica. Aztecals align themselves 
+with corruption and destruction.
+beasts: Unusual animals and bestial monsters, mostly aligned with destruction 
+and greed.
+corruption: The doom of decay, mutation, and perversion. Corrupt minions 
+include mutants and aztecals.
+cultists: Mortals in the service of endbringers. 
+deceit: The doom of lies, madness, and illusion. Deceitful minions include 
+shapeshifters, animates, and mutants.
+demons: Evil creatures from the plane of existence commonly known as Hell. 
+They align themselves with all four dooms.
+
+destruction: The doom of hatred, violence, and ruin. Destructive minions 
+include beasts and aztecals.
+doom: One of four fundamental forces of evil: corruption, deceit, destruction, 
+and greed. Every sort of evil known to humanity is some combination or 
+concentration of these four forces. For example, slavery is an expression of 
+greed because it is an evil form of ownership.
+endbringer: A mastermind of apocalypse, destroying worlds to amass 
+legendary power. Endbringers struggle against each other, ﬁghting over the 
+energy released by the destruction of true believers and worlds.
+fate: Mortals trust fate; endbringers warp it. Endbringers throw spells, wield 
+weird-science weapons, and instigate mishaps in order to give themselves 
+and their abominations an edge.
+god: One of several supreme supernatural entities. The gods worshiped, 
+manipulated, and summoned by endbringers are all evil. A god usually 
+aligns itself with a single doom.
+greed: The doom of needing, grasping, and hoarding. Greedy creatures include 
+animates, beasts, and the undead.
+mana: An insubstantial, supernatural energy. Mana is aligned with the four 
+dooms. Endbringers use their occult knowledge to channel mana and use 
+the mana to control minions, attune relics, and alter fate itself.
+minion: A natural or supernatural creature. Since the endbringers did not 
+create these creatures, they cannot establish spiritual links to them. 
+So endbringers merge minions into new creatures, called abominations, 
+and create the spiritual link to them required for reaping.
+mutant: A creature that has been turned from one thing into another, 
+especially from a good thing into an evil thing. Mutants most commonly 
+align themselves with corruption and deceit.
+
+outsider: A creature from beyond the boundaries of reality. Some endbringers 
+think outsiders are here to destroy this universe just as the endbringers 
+seek to destroy the latest world.
+reap: Channel soul energy. When an abomination kills true believers devoted 
+to a rival endbringer, the abomination reaps the true believers’ soul energy 
+for its master.
+relic: A powerful item, usually with strange powers. Some items are mythic, 
+such as the Signet of Loki. Others are the products of disordered science, 
+such as the Skykiller.
+shapeshifter: A creature that can change form, such as a werewolf 
+or kitsune.
+true believer: A mortal whose faith is so strong that an endbringer can use 
+that faith to bring about apocalypse. Endbringers race to amass the most 
+true believers, and those who get impatient send their abominations to reap 
+other endbringers’ true believers.
+undead: Remnants of dead mortals given the semblance of life. Undead mostly 
+align themselves with greed.
+victory: Destruction of the world. When an endbringer ﬁnally has enough 
+soul power, they use it to destroy the current world. In so doing, the 
+endbringer absorbs great power. Then the endbringer transfers to another 
+world and begins recruiting true believers anew.
+world: One of uncounted parallel earths. Endbringers have various theories 
+about how many worlds there are, how many have been destroyed, 
+and how many are left.
+
+Questions?
+
+U.S., Canada, Asia Paciﬁc, and Latin America
+www.wizards.com/customerservice
+Wizards of the Coast, Inc.
+P.O. Box 707
+Renton WA 98057-0707
+U.S.A.
+Tel: 1-800-324-6496 (within the U.S.)
+ 
+1-206-624-0933 (outside the U.S.)
+U.K., Eire, and South Africa
+Hasbro UK Ltd.
+Caswell Way
+Newport, Gwent NP9 0YH
+UK
+Tel: + 800 22 427276
+Email: wizards@hasbro.co.uk
+All Other European Countries
+Wizards of the Coast p/a Hasbro Belgium NV/SA
+’t Hofveld 6D
+1702 Groot-Bijgaarden
+BELGIUM
+Tel: +32.70.233.277
+Email: custserv@hasbro.co.uk
+Keep these addresses for your records.
+HecatombTCG.com
+
+Credits
+Original Game Concept: Paul Barclay, Brandon Bozzi, Mike Elliott, 
+Aaron Forsythe, and Robert Gutschera
+Game Design and Development: Mike Elliott (design lead), Henry Stern 
+(development lead), Devin Low, Brian Tinsman, Mike Turian, 
+and Jonathan Tweet
+Base Set Design and Development: Brian Tinsman (design lead), 
+Henry Stern (development lead), Bruce Cordell, Mike Elliott, Ryan Miller, 
+Matt Place, Mike Turian, and Jonathan Tweet, with additional playtesting
+by Nate Neiss, Cormac Russell, and Steve Warner
+Rules Writing: Jonathan Tweet (lead), John Carter, Jessica Kristine, 
+and Henry Stern
+Editing: Jessica Kristine
+R&D Leads: Andrew Finch (director) and Ryan Miller
+Card Naming and Flavor Text: Brian Tinsman and Bruce Cordell
+Story and World Development: Jonathan Tweet (lead), Bruce Cordell, 
+and Brian Tinsman
+Art Direction: Shauna Wolf Narciso and Dawn Murin
+Graphic Design: Scott Okumura and Mia Brooks
+Typesetting: Lisa Hanson
+Brand Management: Wendy Wallace, Kyle Murray, and Justin Ziran
+Production Management: Jane Flohrschutz and Stephanie Sharp
+Production Development: Del Stephens and Ian Wilkinson
+Thanks to all our project team members and the many others too numerous 
+to mention who have contributed to this product.
+
+Strength
+Minion Card
+Fate, Relic, or God Card
+Conditional Ability
+Name, Type and Subtype
+Name
+Type
+Subtype (Fates)
+©2005 Wizards of the Coast, Inc., P.O. Box 707, Renton WA 98057-0707, U.S.A. MADE IN THE U.S.A. 
+All trademarks, including Wizards of the Coast, Hecatomb, their logos, and characters’ distinctive likenesses are 
+property of Wizards of the Coast, Inc. in the U.S.A. and other countries. Illustrations by Christopher Shy and 
+Ben Templesmith. U.S. Pat. No. RE 37,957. Other patents pending. 
+30095502000001 EN

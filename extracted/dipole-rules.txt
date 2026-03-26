@@ -1,0 +1,60 @@
+INTRODUCTION Dipole is played with a Checkers set. Only the dark squares are
+used. There should be a dark square in your lower left corner. 
+The game starts with two stacks of 12 checkers, one white and one black, as shown in 
+Figure 1. More advanced players may elect to play Dipole on a 10x10 board with two 
+stacks of 20 checkers, one in each player’s nearest row. 
+Use a coin (such as a nickel) to represent ﬁve checkers. So for example, a stack of 
+two checkers with a coin on top would be equivalent to a stack of seven checkers.
+Draws cannot occur in Dipole. Mark Steere invented Dipole in May 2007. 
+OBJECT OF THE GAME To win, all of your opponent’s checkers must be removed 
+from the board.
+BASIC MOVES Players take turns moving stacks of their own checkers, one stack 
+per turn. You can move an entire stack or just a portion of one (also called a stack 
+here). This holds true for merging and capturing moves as well. See below. Basic 
+moves can only be made in the forward or diagonally forward directions. Figure 2 
+shows the basic move directions available to the white stack. 
+The number of squares a stack is moved must equal the number of checkers in the 
+moved stack. This holds true for merging and capturing moves as well. Even though 
+only the dark squares are used, white squares must be included in the count. In 
+Figure 3, White can move his two-stack to any of the squares indicated. Directly 
+forward moves can only be made with even numbered stacks.
+If you move a stack out of bounds, you must remove that stack from play. When
+moving a stack out of bounds pretend the board squares extend outward far beyond 
+the boundaries, and make a basic move accordingly. Stacks can only be removed in
+the forward or diagonally forward directions. Players typically remove singletons 
+from their far row because they have nowhere else to go. 
+If you have no moves available, you must sit the game out until you do have a move 
+available. If you have any moves available, you must move. There will always be a 
+move available to one player or the other.
+MERGING MOVES Stacks can be moved onto other, like-colored stacks. In 
+Figure 4, White takes three checkers from his four-stack and merges them onto his 
+two-stack. Note that the white stack jumped over the black 5-stack. Stack movement
+is never obstructed by intervening stacks, regardless of size or color. This holds true 
+for basic and capturing moves as well. Merging moves can only be made in the 
+forward or diagonally forward directions.
+CAPTURING MOVES Capturing moves can be made in any of eight directions. A 
+stack can capture only an entire enemy stack, which must be of an equal or smaller 
+size than the capturing stack. In Figure 5, White takes two checkers from his 
+three-stack, and captures Black’s one-stack. Basic, merging, and capturing moves 
+must be made in a straight line.
+AUTHOR’S NOTE Feel free to publish this rule sheet, and to program the game of 
+Dipole for online or offline play. No licensing fee or royalties are expected. 
+However please don’t change the name or the rules, and please attribute the game 
+to me, Mark Steere. My other games can be found at marksteeregames.com.
+DIPOLE
+Copyright (c) May 2007 
+by Mark Steere
+by Mark Steere
+Fig. 1: Initial Setup
+Fig. 3: Move 2-Stack
+Two Squares
+Fig. 2: Non-capture
+Directions
+Fig. 4: Merging
+3-Stack with 2-Stack
+a)
+b)
+Fig. 5: 2-Stack 
+Capturing 1-Stack
+a)
+b)

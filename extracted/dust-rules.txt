@@ -1,0 +1,1528 @@
+PREMIUM VERSION RULEBOOK
+Established superpowers vie for newly discovered power sources to fuel their 
+war machines. The Premium game is playable in two to three hours.
+
+The Story of Dust............................3
+Components...................................4
+Overview.........................................5
+Setup..............................................6
+The Figures...................................10
+The Cards..................................... 11
+The Game Round.........................12
+The Initiative Step.........................12
+The Player Turn............................12
+ The Production Phase...............12
+ The Movement Phase................14
+ Land Movement......................14
+ Sea Movement........................15
+ Amphibious Movement...........15
+ Strategic Bomber Movement..15
+ The Combat Phase....................16
+ First-turn Restrictions..............17
+ Attacking Capitals...................17
+ Neutral Units...........................17
+ The Victory Point Phase............17
+Victory...........................................18
+Battle.............................................18
+ Land Battles...............................19
+ Sea Battles................................20
+ Amphibious Battles....................20
+ Retreating..................................20
+ Special Attacks..........................21
+ First-turn Restrictions.................21
+Special Abilities.............................22
+Credits..........................................24
+TABLE OF CONTENTS
+
+ 
+The Schwabenland Expedition
+In the year 1938, the scientific 
+ship Schwabenland, its German 
+flag flapping in the fierce, cold wind, 
+approached the remote Antarctic Circle 
+on a secret mission. Even today, no 
+one knows exactly what its original 
+assignment was, but what it discovered 
+dazed the entire world.
+And the World Was 
+Not the Same…
+Returning to its homeland, the 
+Schwabenland brought back the relics 
+of an alien starship and a member of 
+its crew… still alive! While the world 
+continued to fall down its chasm 
+of global conflict, a select team of 
+scientists covertly studied the potential 
+military applications of the Antarctic 
+discovery. But their secret would not 
+last long.
+Nuclear Stop, Alien Tech
+An underground war, parallel 
+to the war in the open, was soon 
+underway. Spies launched undercover 
+operations, fighting to steal control and 
+understanding of the alien technology. 
+The brightest minds in the world 
+pursued the new science, setting aside 
+the research that might have led to 
+atomic weapons.
+Before long, occultists and experts in 
+ancient religions joined the scientists 
+in their inquiries. These fringe 
+thinkers came to believe that the new 
+discoveries were somehow linked to 
+the ancient tale of the “Vrill Kultur.” 
+But this mythic, supposedly advanced 
+civilization had disappeared into the 
+ancient past as nimbly as a deer in the 
+woods.
+The VK Mines
+The alien traveler soon shed more 
+light on the theorists’ studies. Vrill 
+Kultur, they came to understand, was 
+not a civilization, but a massively 
+powerful energy source. “VK,” which 
+could be mined only at certain locations 
+around the globe, was so rare and 
+precious that the alien had braved 
+interstellar travel to claim it.
+The New Weapons and the 
+End of the Coalitions
+By the time the locations of the VK 
+deposits were discovered, and mining 
+had begun, scientists had devised a 
+multitude of ways to put it to use on the 
+battlefield.
+But the geographical distribution of 
+the VK mines turned existing alliances 
+and coalitions on their heads. The 
+geopolitical balance of the entire planet 
+stood on a knife edge.
+The Dawn of Dust
+History has been re-written.
+Now, it’s the dawn for a new era, with 
+new strategies, new weapons, new 
+armies.
+It’s the dawn of Dust.
+THE STORY OF DUST
+
+Components
+Dust comes with the following 
+components:
+Game Board
+The game board consists of six jigsaw 
+pieces which, when assembled, form a map 
+of the world. The circles on the board are 
+called areas, and are connected by lines 
+that indicate which areas are adjacent to 
+each other. Note that some of these lines 
+connect areas near the western edge of the 
+board with areas near its eastern edge.
+Every area is either a land area or sea 
+area. Note that the lines that connect a land 
+area to a sea area are dotted rather than 
+solid.
+Six of the land areas are capitals; they 
+are larger, maroon-colored circles. Finally, 
+sixteen of the areas – some on land and 
+some in the sea – are marked with a bull’s-
+eye pattern. These are power source 
+areas, or power sources.
+The game board also has a victory point 
+track along its bottom edge, used to record 
+players’ progress toward winning the game.
+Military Units
+The six different armies’ military units are 
+differentiated from each other by color. Each 
+army has the following mix of units:
+60 tanks
+20 mechs
+20 fighters
+15 bombers
+15 submarines
+Players are prohibited from putting more 
+units into play than these limits allow.
+Production Centers
+In addition to the plastic figures 
+representing the player’s armies, there are 
+twenty-four production center figures. All 
+production centers are a common color, and 
+like military units, players may not place 
+more production centers into play than the 
+24-piece component limit allows.
+Cards
+A deck of forty-five cards governs 
+many aspects of play. Cards help players 
+determine how much they can build on a 
+RULES OF PLAY
+
+given turn, how far they can move, how 
+many times they can attack, in what order 
+they act, and which of several different 
+special abilities they can use.
+Dice
+Dust uses special six-sided dice. Two 
+faces of each die bear a “hit” symbol, while 
+the other four sides are blank. The game 
+comes with ten of these dice, but this is not 
+a limit to the number that can be rolled in 
+play. If players ever need to roll more than 
+ten dice at a time, they should simply note 
+the first ten results, then continue rolling 
+the same dice again, as many times as are 
+required.
+Tokens
+Three types of cardboard tokens help 
+players keep track of the number of victory 
+points they will score at the end of each 
+turn. In addition, there are three blank 
+tokens that can be used to replace any lost 
+or missing tokens.
+Power Source Tokens (16): These 
+tokens correspond to the power source 
+areas on the game board.
+Capital Tokens (6): These tokens 
+correspond to the six capital areas on the 
+game board.
+Majority Tokens (3): These tokens 
+correspond to the three “majorities” that are 
+tracked from turn to turn: the production 
+majority, sea majority, and land majority.
+Reference Sheets
+Three identical reference sheets 
+summarize important information to which 
+players may want to refer during play.
+Rulebook
+The Dust rules of play are found in this 
+rulebook.
+Overview
+After setup, the game is played over 
+a number of rounds. Each game round 
+begins with each player secretly choosing 
+one card from his hand. All chosen cards 
+are then simultaneously revealed. Each 
+player’s card determines when he will act in 
+the coming round, how many of his units he 
+will be able to move, how many attacks he 
+will be able to launch, and which one of ten 
+different special abilities he will be able to 
+use. The chosen card also influences how 
+many units he will be able to build.
+Once cards have been revealed, 
+players take their player turns in the 
+order determined by their cards. Each 
+player’s turn consists of three phases: the 
+production phase, the movement phase, 
+and the combat phase. In his production 
+phase, a player brings new units onto the 
+board. During his movement phase, he 
+moves units among friendly and unoccupied 
+areas. During his combat phase, he attacks 
+areas held by his enemies.
+Finally, once all players have taken their 
+turns, all players simultaneously score the 
+victory points to which they are entitled, 
+moving their markers along the victory point 
+track along the bottom edge of the game 
+board.
+If no player has won the game at this point 
+– by achieving a particular victory point total 
+based on the number of players in the game 
+– a new game round begins.
+
+Setup
+To prepare to play Dust, follow the steps 
+listed below.
+1. The Board
+Assemble the game board in the center of 
+the table.
+2. The Deck
+Shuffle the deck of cards and deal six 
+to each player. Each player looks at his 
+cards and secretly chooses one of them. 
+All players’ chosen cards are then revealed 
+simultaneously.
+The revealed cards are then used to 
+determine the players’ setup order. The 
+player whose card’s combat value is highest 
+is the first player, the player whose combat 
+value is next highest is the second player, 
+and so on. (See “Card Breakdown” on page 
+11 for a guide to the elements printed on 
+each card.) Combat value ties are broken 
+by the cards’ movement values. Further ties 
+are broken by the number of stars at the 
+bottom of the card.
+Each player’s remaining cards – of which 
+there should be five – form the hand of 
+cards with which he will start the game.
+3. Capitals
+Once the setup order has been 
+determined, all players, acting in order, 
+choose an army color, take all the units of 
+that color from the box, and claim a capital 
+by placing one of his tank figures on it.
+If there are two, three, or four players, 
+there are restrictions on how capitals may 
+be claimed. These restrictions are based on 
+the six capitals’ pairings. Two capitals are a 
+pair if they are adjacent to each other.
+Two-player Game: The second player 
+may not claim the capital that is paired with 
+the capital the first player chose.
+Three-player Game: No player may 
+choose a capital that is paired with a capital 
+chosen by an earlier player.
+Four-player Game: Once capitals from 
+two different pairs have been chosen, no 
+player may choose a capital from the third 
+pairing. (That is, each player’s capital will 
+wind up adjacent to another player’s capital, 
+with the two unclaimed capitals also being 
+an adjacent pair.)
+Once all players have claimed capitals, 
+each unclaimed capital is stocked with a 
+neutral army. Place one tank figure of an 
+unclaimed color, one mech figure of the 
+same color, and one production center on 
+each unclaimed capital.
+Finally, each player places one of his tanks 
+near the beginning of the victory point track. 
+This figure will track his victory point score 
+throughout the game.
+4. Land Areas
+Next, all players, acting in order, take 
+turns placing single tanks on unoccupied 
+land areas, until all land areas have been 
+claimed in this way.
+That is, the first player claims a single land 
+area by placing a tank on it, then the second 
+player claims a land area by placing a single 
+tank on it, and so on. The first player follows 
+the last player in sequence, until all land 
+areas are occupied by a single tank.
+Each time a player places a tank on a 
+power source area, he should take one 
+power source token, placing it in front of him 
+on the table, near his unused units.
+Tip: Power sources are very important to 
+winning, because they provide victory points 
+and limit the number of production facilities 
+a player can use. It is usually wise to claim 
+as many power sources as possible in this 
+setup phase!
+5. Production Centers
+Next, all players, acting in order, take turns 
+placing production centers on land areas 
+where they have tanks, until each player 
+has placed three production centers. Each 
+player places one production center at a 
+time, so this will result in three rounds of 
+placement.
+Multiple production centers may not be 
+placed in the same area, and production 
+centers may not be placed on power source 
+areas at all.
+
+Tip: When placing production centers, be 
+aware that it is possible for your opponents 
+to take over your production centers during 
+play by invading the areas where they’re 
+located and eliminating all of your defending 
+units. Losing production centers this way 
+can hurt you a lot, so make sure you place 
+your production centers in areas you will be 
+able to vigorously defend.
+6. Reinforcements
+Next, all players select and place on the 
+board a number of reinforcement units.
+Each player builds a number of units 
+whose total cost is equal to twelve plus 
+the production value of the card he played 
+in step two, above. These units may be 
+placed on any area or areas where the 
+player placed a production center (or, for 
+submarines, on sea areas adjacent to such 
+spaces), according to the normal rules for 
+building units. For more information on unit 
+costs, and the legal placement of purchased 
+units, see “The Production Phase” on page 
+12.
+Each player places all of his reinforcement 
+units at once. The first player goes first, 
+followed by the second player, and so on. 
+Players may not place reinforcement units 
+in areas already occupied by other players 
+(which would only be possible in the case 
+of sea areas adjacent to multiple factories 
+owned by different players). Players also 
+may not place reinforcement units in areas 
+occupied by neutral units.
+If submarine placement in this step 
+results in a player claiming a sea area that 
+is also a power source area, that player 
+takes a corresponding power source token 
+immediately, as players who claimed land-
+based power source areas earlier did.
+Once the reinforcements setup step is 
+complete, all players discard the card they 
+chose in setup step two, and the first game 
+See pages 8–9 for a graphic depicting an 
+example table, set for play. 
+
+The Figures
+The sections that follow describe the 
+different plastic figures in Dust, both 
+military units and production centers. The 
+descriptions include the following statistics, 
+which are all described in greater detail later 
+in these rules:
+Cost: The number of production points a 
+player must pay to build one such figure.
+Combat Value: The number of dice the 
+unit allows its owner to roll in battle.
+Tactical Supremacy: The number of 
+points the unit contributes when tactical 
+supremacy is calculated at the beginning of 
+a battle.
+The descriptions also specify whether a 
+given unit is a land unit, air unit, or sea 
+unit. These distinctions are described later.
+Tanks
+Cost: 2 • Combat Value: 1 
+Tactical Supremacy: 0
+Tanks are the most basic 
+military units. They are 
+inexpensive, and capable of 
+shielding mech units (which are both more 
+capable and more expensive than tanks) 
+from destruction when the two types of units 
+fight together. Tanks are land units.
+Mechs
+Cost: 5 • Combat Value: 2 
+Mechs are elite units with 
+considerable power in battle. 
+They are land units.
+Fighters
+Cost: 3 • Combat Value: 1 
+Fighters are the most 
+economical air units. In 
+addition to contributing 
+inexpensively to a side’s tactical supremacy, 
+they are capable of protecting bombers in 
+the same way that tanks protect mechs. 
+Fighters are air units.
+Bombers
+Cost: 6 • Combat Value: 2 
+Bombers are the most 
+expensive – and powerful 
+– of all combat units. Their 
+mobility is not restricted by many of the 
+normal rules for movement (see “Strategic 
+Bomber Movement” on page 15), and they 
+are capable of making special attacks 
+against submarines. Bombers are air units.
+Submarines
+Cost: 4 • Combat Value: 1 
+Tactical Supremacy: —
+Each submarine figure 
+represents a complete fleet 
+of vessels of various types. 
+They allow players to convoy land units 
+and air units across intervening sea areas 
+(see “Amphibious Movement” on page 15), 
+and can make special attacks against units 
+occupying land areas to which they are 
+adjacent (see “Special Submarine Attacks” 
+on page 21). Submarines do not have a 
+tactical supremacy value, because it is not 
+relevant to naval battles. Submarines are 
+sea units.
+Production Centers
+Cost: 6 • Combat Value: — 
+Tactical Supremacy: —
+A production center is a 
+factory complex capable of 
+bringing military units onto the 
+game board.
+Production centers do not have combat 
+values or tactical supremacy values per se, 
+although a player defending an area where 
+there is a production center rolls three 
+additional combat dice in battle (see “Land 
+Battles” on page 19). A production center is 
+not a unit (and so is neither a land unit, air 
+unit, nor sea unit).
+Production centers may only be built on 
+land areas, but may never be built on power 
+sources.
+Production centers are the only plastic 
+figures that do not belong to a given player 
+by virtue of their color. Rather, ownership 
+
+of a given production center is determined 
+based on which player controls the area 
+where the production center is located. 
+Thus, ownership of a given production 
+center can change over the course of 
+the game as players battle to control the 
+underlying area.
+Although production centers can be built 
+in the course of the game (until the supply 
+of figures runs out), production centers can 
+never be destroyed.
+Production centers in uncontrolled areas 
+are not controlled by any player, and cannot 
+be used to bring new units onto the board.
+In games with neutral armies, each neutral 
+capital has a production center. These 
+neutral production centers can be used by 
+any player, to bring additional neutral units 
+onto the board. See “Buying Neutral Units” 
+on page 14.
+The Cards
+All the cards in Dust have a similar 
+layout, and convey five different pieces of 
+information. See the “Card Breakdown” 
+insert for more information.
+Each player begins the game with five 
+cards in his hand. (Although six are dealt 
+at the beginning of setup, each player uses 
+one of the six in the setup process, leaving 
+five.) Additional cards are drawn only 
+when players purchase them during their 
+production phase.
+Each player has a hand limit of five cards. 
+No player may purchase cards that would 
+cause the number of cards in his hand to 
+exceed this limit. A player may, however, 
+choose to discard any number of cards 
+from his hand before purchasing cards on 
+a given turn. A player may not, however, 
+discard and purchase cards in several 
+waves. That is, all cards a player intends to 
+get rid of on a given turn must be discarded 
+before any cards are purchased. Similarly, 
+a player must declare how many cards he 
+will purchase before he draws any of them. 
+That is, he may not draw and look at some 
+cards before deciding whether to purchase 
+additional cards that turn. See “The 
+Production Phase” on page 12 for more 
+information.
+If drawing ever exhausts the deck of 
+cards, the discard pile should be shuffled to 
+form a new draw pile.
+1	 Combat Points: The number of 
+separate attacks the player may 
+launch this turn.
+2	 Movement Points: The number of 
+movements the player may make 
+this turn.
+3	 Production Points: A contributing 
+factor in the number of units the 
+player may build this turn.
+4	 Tie-breaker Stars: When players 
+are otherwise tied in terms of 
+which one acts first, the one with 
+more stars in this area goes first.
+5	 Special Ability Illustration: The 
+character who appears in the 
+card’s illustration indicates which 
+special ability the player may use 
+this turn.
+Card Breakdown
+
+The Game Round
+A game of Dust consists of several game 
+rounds (or, simply, “rounds”). Each round 
+has three major steps. First, all players 
+choose a card in the initiative step. Second, 
+each player takes his player turn, which 
+consists of a number of individual phases. 
+Finally, all players record victory points in 
+the victory point step. In outline, the turn 
+sequence looks like this:
+1. Initiative Step
+2. Player Turns
+	
+a. Production Phase
+	
+b. Movement Phase
+	
+c. Combat Phase
+3. Victory Point Step
+Each of these steps and phases is 
+described in its own section of rules in the 
+pages that follow.
+Tip: A typical game of Dust lasts five to 
+seven rounds. Don’t wait to begin attacking 
+and expanding, or you may find the game 
+over before your war machine can get 
+rolling!
+The Initiative Step
+In the initiative step, each player secretly 
+chooses a single card from his hand. When 
+a player has chosen a card, he should hold 
+it facedown in front of him. Once all players 
+are holding cards in this manner, all are 
+simultaneously revealed. Once revealed, 
+the chosen cards remain faceup in front 
+of their owners until the end of the game 
+round, at which point they will be discarded.
+The Player Turn
+Once the initiative step is complete, player 
+turns begin. In turn, each player will carry 
+out his production phase, movement phase, 
+and combat phase. Once a player has 
+finished these three phases, the next player 
+carries all three phases out, until all players 
+have done so.
+The order in which players take their 
+player turns is determined by the cards they 
+played in the initiative step. The first player 
+is the player whose card’s combat value 
+was highest, followed by the player whose 
+card’s combat value was second highest, 
+and so on. Where different players are tied, 
+their card’s movement values break ties. 
+Where both combat values and movement 
+values are tied, the player with the most tie-
+breaker stars acts first.
+Note that since player order is determined 
+based on the players’ card values, players 
+do not take their turns in the order they are 
+sitting around the table. Rather, the first 
+player takes his player turn, then the second 
+player takes his plaher turn, then the third 
+player, and so on, until all players have take 
+their player turns.
+Once all players have taken their player 
+turns, the game round proceeds to the 
+victory points step.
+The Production Phase
+During his production phase, a player 
+purchases new units, production centers, 
+and cards, placing them either on the board 
+(for units and production centers) or in his 
+hand (for cards).
+Units, production centers, and cards 
+are purchased using production points 
+(sometimes abbreviated “PP”).
+Before purchasing anything, a player 
+calculates his production points for the turn. 
+There are three sources of points.
+Production Centers: For each production 
+center a player controls, he receives three 
+production points, as long as he also 
+controls at least that many power source 
+areas. If the player does not control that 
+many power source areas, the production 
+points he receives from production centers 
+is capped at three times the number of 
+power sources he controls.
+Capitals: For each capital a player 
+controls, he receives six production points.
+Card: The player receives the number 
+of production points listed on the card he 
+played during that turn’s initiative step.
+To summarize, a player receives 
+production points as follows:
+
+PP = (3 x production centers*) 
++ 6 + card value
+* limited by power sources
+The minimum number of production points 
+a player can receive in his production phase 
+is six. If the regular calculation would result 
+in him receiving fewer than six production 
+points, he receives six points instead. 
+Once a player has calculated the 
+production points available to him, he splits 
+up that total to purchase units of his color, 
+production centers, and cards according 
+to the costs listed in the Production Costs 
+Summary table.
+Players should pay for and set aside 
+all of the figures and cards they intend to 
+purchase in a given turn before placing 
+any of the figures on the board or looking 
+at the faces of any of the cards, to avoid 
+confusion. Once a player has set aside 
+all of the figures and cards he intends to 
+purchase…
+Newly purchased military units may 
+be placed on any friendly area – i.e., 
+an area where the player has at least 
+one military unit – where there is a 
+production center (for land and air units) 
+or on any friendly sea area adjacent 
+to a production center (for sea units). 
+However, no more than five new units 
+may be built by the same production 
+center. Note that a player who has no 
+production centers adjacent to sea 
+areas can’t build submarines.
+Newly purchased production centers 
+may be played on any friendly area 
+that is not a power source area, and 
+that does not have a production center 
+already.
+Newly purchased cards are added to 
+the player's hand.
+Note that this order of placement means 
+that newly purchased military units may not 
+be placed in areas where newly purchased 
+production centers are placed.
+Note that a player who does not control 
+any production centers at the beginning 
+of his production phase cannot place any 
+military units on the board in the current 
+turn, and so cannot buy any.
+Production points may not be saved from 
+turn to turn. That is, any points not spent in 
+a given turn are lost.
+Tip: It is essential to defend your 
+production centers. Not only are they a 
+critical source of production points, they are 
+the only places where new military units 
+can be brought into play. If you lose your 
+last production center, you are in very bad 
+shape!
+Once a player is done placing his newly 
+purchased units, his player turn proceeds to 
+the movement phase.
+Example: A player begins his production 
+phase. It’s the first turn of a six-player 
+game, and he controls one capital as well 
+Purchase 
+Cost
+Production Costs 
+Summary
+
+as the three production centers he placed 
+during setup. He only controls two power 
+sources, though, having been late in the 
+setup order. The player played a card worth 
+three production points this round, so he 
+calculates that he is entitled to spend 15 
+PP. (He would receive three per factory, 
+but he doesn’t control three or more power 
+sources, so his “income” from factories is 
+capped at three times his power sources, or 
+six. His capital is worth 6 PP in a six-player 
+game. Thus, 6 + 6 + 3 = 15.)
+The player sets aside one new production 
+center (6 PP), two tanks (4 PP), one 
+submarine (4 PP), and a card (1 PP).
+Next, he places his tanks in his capital 
+(where he placed one of his production 
+centers during setup), and places his 
+submarine in the sea area adjacent to 
+another production center he controls. Then, 
+he places his new production center in a 
+friendly area that does not already contain 
+one. Finally, he adds the card to his hand.
+His production phase is over, and he 
+proceeds to his movement phase.
+Buying Neutral Units
+In a game with neutral capitals, players 
+have one additional option when purchasing 
+units: they may purchase neutral military 
+units in order to bolster the fortifications of 
+neutral capitals. Neutral units bear the same 
+production point costs as friendly units, 
+but are placed in the neutral capitals to 
+which they correspond, rather than in areas 
+friendly to the purchasing player. (Note that 
+because neutral units are always placed 
+in capitals, players may not buy neutral 
+submarines.)
+Upon purchasing and placing a neutral 
+unit on the board, a player loses “control” of 
+that unit. That is, the unit becomes a neutral 
+unit in all respects: it will not move over 
+the course of the game, instead remaining 
+forever in the capital it occupies, and will 
+only do battle in that area if it is attacked.
+Tip: You will probably not buy very many – 
+if any – neutral units in most games of Dust. 
+However, because capitals are important 
+sources of both victory and production 
+points, you may want to buy neutral units in 
+order to better defend neutral capitals that 
+might otherwise fall to your enemies.
+The Movement Phase
+In a player’s movement phase, he 
+moves his units around the board among 
+unoccupied areas and the areas he 
+controls. (Moving into areas controlled by 
+other players is done later, in the combat 
+phase.)
+Movement is governed by movement 
+points. On his turn, a player may spend the 
+number of movement points indicated by 
+the card he played in the initiative step. He 
+need not spend all of the movement points 
+available to him, but may not exceed that 
+number.
+Note that a player may only move friendly 
+units with his movement points. No player 
+may move neutral or enemy units.
+There are four ways movement points can 
+be spent: land movement, sea movement, 
+amphibious movement, and strategic 
+bomber movement.
+Once a player has spent all of his 
+movement points (or once he has elected to 
+spend no more), his player turn proceeds to 
+the combat phase. Note that a player who 
+announces and begins to resolve a combat 
+is stating that his movement phase is over. 
+Even if such a player has movement points 
+remaining, he loses the ability to use them 
+once he begins combat.
+Tip: Make sure you’re done with all of your 
+movement before announcing combat!
+Land Movement
+to make a single land movement.
+With a single land movement, the player 
+may move as many land units and/or air 
+units as he likes from one single land area 
+to any other single land area. However, 
+a continuous path of land areas that are 
+either friendly or unoccupied must connect 
+the starting area and the destination area. 
+Additionally, the destination area must be 
+either friendly or unoccupied.
+Notes about land movement:
+
+land movement must "pick up" from the 
+same area.
+All of the units moved with a single land 
+movement must "drop off" in the same 
+area.
+The path between the starting area and 
+the destination area may not include 
+sea areas or enemy areas.
+Land and air units may be moved 
+together in a single land movement, as 
+long as all of the normal restrictions are 
+observed.
+controlled by an enemy (but may be 
+empty).
+Sea Movement
+to make a single sea movement.
+With a single sea movement, the player 
+may move as many sea units as he likes 
+from one single sea area to any other 
+single sea area. However, a continuous 
+path of sea areas that are either friendly or 
+unoccupied must connect the starting area 
+and the destination area. Additionally, the 
+destination area must be either friendly or 
+unoccupied.
+Notes about sea movement:
+sea movement must "pick up" from the 
+same area.
+All of the units moved with a single sea 
+movement must "drop off" in the same 
+area.
+The path between the starting area and 
+the destination area may not include 
+land areas.
+Amphibious Movement
+to make a single amphibious movement.
+With a single amphibious movement, a 
+player may move as many land units and/
+or air units as he likes from one friendly, 
+coastal land area to any other friendly or 
+unoccupied coastal land area. (A coastal 
+land area is a land area that is adjacent to a 
+sea area.) However, this movement must be 
+made across a continuous path of sea areas 
+that connect the two coastal areas, and that 
+are all friendly (i.e., occupied by sea units 
+controlled by that player).
+Notes about amphibious movement:
+amphibious movement must "pick up" 
+from the same area.
+amphibious movement must "drop off" 
+in the same area.
+Every sea area in the path between the 
+starting area and the destination area 
+must be friendly.
+Strategic Bomber Movement
+A player may spend one movement 
+point to make a single strategic bomber 
+movement.
+With a single strategic bomber movement, 
+a player may move as many bombers — 
+and only bombers — from any friendly land 
+area to any other friendly or unoccupied 
+The red player can move as many 
+units as he wishes along a chain of 
+friendly (or unoccupied) land areas by 
+spending a movement point.
+Land Movement 
+Example
+
+land area, anywhere on the board, without 
+further restriction.
+Notes about strategic bomber movement:
+Only bombers may be moved with a 
+strategic bomber movement.
+strategic bomber movement must "pick 
+up" from the same area.
+strategic bomber movement must "drop 
+off" in the same area.
+It is not necessary to take the path of 
+movement into consideration when 
+making a strategic bomber movement.
+Bombers are not prevented from 
+making land movement and amphibious 
+movement. Strategic bomber movement 
+is simply an additional option open to 
+bombers.
+The Combat Phase
+Once a player’s movement phase is 
+finished, he begins his combat phase. 
+Similar to movement, the number of times a 
+player can attack is limited by the number of 
+combat points on the card he played in the 
+initiative step.
+To make one attack, the player designates 
+any number of units in one friendly area (the 
+origin area) as attacking units. He then 
+designates one enemy area that is adjacent 
+to that area as the target area of his attack. 
+All of the units in the target area become 
+defending units. 
+There is one exception to the need for the 
+origin area and target area to be adjacent: 
+a player may make an amphibious attack 
+between land areas that are separated by 
+a path of one or more sea areas. However, 
+to make an amphibious attack, the path 
+of areas between the origin area and the 
+target area must not contain any land areas. 
+Furthermore, every sea area in that path 
+must be controlled by a sea unit of the 
+player’s color.
+For all attacks – amphibious or otherwise 
+– if there are units in the origin area that 
+are not designated as attacking units, the 
+attacking player should push the attacking 
+units partway down the line that connects 
+the origin area and the target area, to make 
+it clear which units are which.
+There are a number of additional 
+restrictions on how units may attack:
+Land units and air units may not attack 
+sea areas. (Exception: Special bomber 
+attacks; see "Special Bomber Attacks" 
+on page 21.)
+Sea units may not attack land areas. 
+(Exception: Special submarine attacks; 
+see "Special Submarine Attacks" on 
+page 21.)
+Once the attacking and defending units 
+have been defined, the battle is resolved 
+according to the rules under “Battle,” on 
+page 18. After the first battle has been 
+resolved as those rules specify, any 
+additional combat points available to the 
+player whose turn it is may be spent in the 
+same way.
+Additional combats are restricted, 
+however, in that a player may not make the 
+same attack more than once in his player 
+turn. That is, he may not make multiple 
+attacks from the same origin area to the 
+same target area. 
+A player may, however, make multiple 
+attacks targeting the same area as long as 
+they originate in different areas. Similarly, a 
+player may make multiple attacks from the 
+same area, as long as they target different 
+areas.
+Note, furthermore, that the same unit 
+could theoretically be involved in several 
+battles, by surviving its initial combats and 
+then moving on other fights that originate in 
+earlier battles’ target areas.
+Unoccupied areas may never be the 
+targets of attack.
+Tip: If you designate all of the units in an 
+origin area as attacking units, the origin area 
+will most likely be left empty after the attack, 
+even if you win. Don’t accidentally lose 
+control of vital power sources or production 
+centers this way! If you want to retain 
+control of the origin area, make sure you 
+leave at least one unit behind.
+
+First-turn Restrictions
+During the first game round, players may 
+not attack power sources, capitals, or any 
+areas containing production centers.
+Attacking Capitals
+A player may not attack any opponent’s 
+capital until he has scored victory points 
+equal to half the total number of victory 
+points needed to win the game (see 
+“Victory” on page 18). However, once any 
+player attacks any capital, all other players 
+may then attack any enemy capitals they 
+wish, regardless of their current victory point 
+scores.
+Neutral Units
+Since a player may only attack with units 
+originating in a friendly area, neutral units 
+can never launch attacks (even if they were 
+purchased by a player). They can, however, 
+be involved in battle as defending units. See 
+“Battle” on page 18 for more information.
+The Victory Point Phase
+Once every player has taken his player 
+turn, all players simultaneously count victory 
+points and record them by moving the tank 
+figures they set aside during setup along 
+the victory point track. In this way, every 
+player’s current victory point total is always 
+visible to all players.
+There are three ways victory points 
+are scored: for controlling capitals, for 
+controlling power sources, and for holding 
+majorities. Each is described in detail below, 
+but the following formula summarizes each 
+player’s victory points calculation for the 
+turn:
+VP = 1 per capital + 1 per power source 
++ 1 per majority
+In order to make record-keeping in the 
+victory point phase speedy, tokens for each 
+capital, power source, and majority in the 
+game are provided. As capitals and power 
+sources change hands during the player 
+phases, the corresponding tokens should 
+be passed among the players. (Majorities 
+should not be passed during the player 
+turns, however – see “Majorities,” below, for 
+more information.) That way, once majorities 
+have been tallied and allocated, each player 
+can simply count the total number of tokens 
+before him and score that many victory 
+The blue player can launch an amphibious attack across sea spaces occupied by 
+friendly sea units against a coastal target area. He may designate any number of units 
+from the origin area as his attacking units.
+Amphibious Attack Example
+
+points. Once this is done, the next game 
+Capitals
+every capital he controls. (Note that even 
+though neutral forces hold capitals in some 
+games, they never score victory points.)
+Power Sources
+every power source area he controls.
+Majorities
+every majority token — production, sea, and 
+land — he holds.
+To determine which player holds a given 
+majority in a given turn, each player counts 
+the quantity of relevant figures or areas 
+he controls. For the production majority, 
+production centers are counted. For the 
+sea and land majorities, sea areas and land 
+areas are counted, respectively. The player 
+with the largest number in each case takes 
+the appropriate majority token.
+In the event of a tie for a given majority, 
+there are two possibilities. If one of the tying 
+players held the majority in question during 
+the previous turn’s victory point phase, that 
+player keeps it. However, if some other 
+player held that majority during the previous 
+turn, or if no player held it (as will be the on 
+the first turn of the game, for example), that 
+majority will not be held by any player this 
+turn.
+Victory
+A Premium version game of Dust is played 
+to a number of victory points based on the 
+number of players in the game:
+Number of 
+Players
+Victory Points 
+Needed to Win
+3–4
+5–6
+If, at the end of a given victory point phase, 
+any player exceeds this threshold, that 
+player wins the game if he controls at 
+least one capital. If more than one player 
+exceeds the threshold and controls at least 
+one capital, the player among them with the 
+highest total number of victory points wins. 
+If more than one such player is tied for the 
+highest victory point total, the player among 
+them who controls the most capitals wins 
+the game. If more than one such player is 
+tied for the most capitals, the player among 
+them who controls the most total areas (land 
++ sea) wins the game. If such players are 
+still tied, they share the victory.
+If no player wins the game at the end of 
+a given victory point phase, a new game 
+Tip: Once it becomes clear that a player 
+will exceed the game’s victory point 
+threshold in the current game round’s 
+victory point phase, your only chance to 
+prevent him from winning is usually to take 
+his capital.
+Battle
+When a player attacks another player as 
+described under “The Combat Phase” on 
+page 16, a battle begins. (The terms “battle” 
+and “combat” are used interchangeably in 
+these rules.) As defined in that section, a 
+battle consists of some number of attacking 
+units and some number of defending units. 
+The attacking units have come from an 
+origin area, and are attacking a target area.
+Although all battles are resolved in a 
+similar way, there are three distinct types 
+of battles: land battles, sea battles, and 
+amphibious battles.
+A land battle takes place when the origin 
+area and the target area are adjacent land 
+areas. Similarly, a sea battle takes place 
+when both areas are adjacent sea areas. An 
+amphibious battle is a special case, where 
+the origin area and target are both land 
+areas, but they are separated by a path of 
+one or more sea areas. See “The Combat 
+Phase” on page 16 for more information.
+
+Land Battles
+When a land battle begins, players first 
+determine which of them has tactical 
+supremacy. If the target area is a capital, the 
+defending player automatically has tactical 
+supremacy. If the target is not a capital, 
+each player adds the tactical supremacy 
+values of all of his involved units, and the 
+player with the higher total has tactical 
+supremacy. If both sides are tied, the 
+defender has tactical supremacy.
+Next, the player with tactical supremacy 
+collects a number of dice equal to the sum 
+of his involved units’ combat values. Players 
+defending capitals and/or areas where 
+production centers are located also receive 
+a number of bonus dice: five dice for a 
+capital or three dice for a production center. 
+(These bonuses are not cumulative. Only 
+five bonus dice are rolled when a defending 
+capital also contains a production center.)
+Once a player has collected all of the 
+dice to which he is entitled, he rolls them. 
+Every hit symbol he rolls destroys one of his 
+opponent’s involved units.
+The player who rolled chooses which of 
+his opponent’s units are destroyed, subject 
+to the following restrictions:
+A bomber may not be destroyed if a 
+fighter could be chosen instead.
+A mech may not be destroyed if a tank 
+could be chosen instead. 
+Once units have been destroyed equal 
+to the number of hits rolled, it is the other 
+player’s turn to roll the dice, following 
+the same procedure of rolling and then 
+choosing which of his opponent’s units to 
+destroy. Note, however, that previously 
+destroyed units do not contribute their 
+combat values to the number of dice rolled.
+Tip: Tactical supremacy is important! 
+If you don’t have tactical supremacy, 
+it’s possible that all of your units will be 
+destroyed before you have a chance to 
+roll any dice. Make sure you have tactical 
+Then, the blue player adds up his remaining units’ combat values and rolls five dice. 
+He scores two hits. He can’t choose to eliminate the red player’s mech because he 
+must eliminate all enemy tanks before choosing mechs, so he instead chooses to 
+destroy the red player’s fighter and bomber. (Destroying the bomber is legal once the 
+fighter is gone.)
+Battle Example
+The red player attacks. He has fewer units, but his mech, fighter, and bomber give him 
+tactical superiority over his opponents pair of fighters.
+The red player sums his units’ combat values and rolls seven dice. He score two hits 
+and chooses to eliminate both of the blue player’s fighters.
+
+supremacy whenever possible when 
+launching attacks, and be mindful of your 
+units’ tactical supremacy totals in areas 
+where you may be attacked.
+Any time a player could roll dice, he 
+may elect to retreat up to half of his units 
+(round up) of his choice from the battle 
+before rolling. The exception is that the 
+defender may not retreat before his first die 
+roll, whether he has tactical supremacy or 
+not. See “Retreating” on page 20 for more 
+information on how retreats are resolved.
+If the players roll dice three times in 
+succession and no hits are rolled (for 
+example, if the attacker rolls no hits, and 
+then the defender rolls no hits, and then the 
+attacker again rolls no hits), this is called a 
+cease-fire, and all of the attacking units are 
+forced to retreat. See “Retreating” on page 
+20 for more information.
+Retreating units leave the battle entirely, 
+and are placed in some area other than the 
+target area. This may end the battle if one 
+side retreats the last of his involved units. 
+But barring a retreat or cease-fire, players 
+continue alternating rolling the dice until one 
+side or the other is eliminated.
+If all of the attacker’s units are eliminated 
+or retreat, the combat simply ends, and the 
+attacking player may move on to launch 
+other attacks, if he has sufficient combat 
+points. (If he does not, play continues 
+with either the next player’s player turn, or 
+moves on to the victory point phase.) On 
+the other hand, if all of the defender’s units 
+are eliminated or retreat, all of the remaining 
+attacking units are moved into the target 
+area. If there is a production center in the 
+area, the attacking player assumes control 
+of it. Then, as above, play continues, with 
+the attacker either launching additional 
+attacks, or play proceeding to a new player 
+turn, or the victory point phase. Note that, as 
+described above, the victorious units from 
+the just-resolved battle may legally launch 
+additional attacks – assuming that their 
+player has more combat points to spend – 
+from the conquered area. 
+Sea Battles
+Sea battles are resolved in the same way 
+as land battles, with one major exception: 
+tactical supremacy is not calculated. 
+Instead, both players simultaneously 
+calculate their combat values, roll their dice 
+simultaneously, and remove each other’s 
+casualties simultaneously.
+A cease-fire occurs only if three pairs of 
+rolls result in no hits. (That is, if both the 
+attacker and defender both roll the dice 
+together three times, and all six of those 
+rolls result in no hits.)
+Amphibious Battles
+Amphibious battles are resolved just like 
+regular land battles, with only one exception: 
+The attacker in an amphibious battle can 
+never choose to voluntarily retreat, and if a 
+cease-fire occurs, the attacker’s units are all 
+destroyed rather than retreating.
+Tip: If you launch an amphibious attack, 
+send enough units to crush your enemy! 
+Otherwise, you stand to lose your entire 
+force in the event that a few unlucky die rolls 
+result in no hits.
+Retreating
+Units involved in battles – both attackers 
+and defenders – sometimes retreat, which 
+may be either voluntary or involuntary.
+Once it has been established that a given 
+unit is retreating, it must be determined what 
+happens to that unit. Follow the steps below, 
+in order, to determine what happens to that 
+unit, and stop as soon as one of the steps 
+applies.
+If the retreating unit is an attacking unit, it 
+1.	
+is placed in the origin area.
+If the retreating unit is a defending unit, 
+2.	
+it is placed in an adjacent friendly area 
+of its player’s choice. (“Adjacent” means 
+“adjacent to the battle’s target area.”)
+If a retreating defending unit has no 
+3.	
+adjacent friendly areas to which it can 
+legally retreat, it may retreat to an 
+adjacent unoccupied area of its player’s 
+choice, save that the defender may not, 
+
+under any circumstances, retreat to the 
+attacker’s origin area.
+If a retreating defending unit cannot be 
+4.	
+placed according to steps two or three, 
+above, it is destroyed.
+Obviously, land and air units may never 
+retreat to sea areas, and sea units may 
+never retreat to land areas.
+Special Attacks
+In addition to fighting battles, there are 
+several other ways that players can attempt 
+to destroy each other’s units. Bombers 
+and submarines can both launch special 
+attacks in certain circumstances, and the 
+ballistic missile special ability (arising from 
+the ballistic missile card) can also be used 
+to destroy enemy units at long range. Each 
+special attack is described below.
+Note that even though each of these 
+special attacks uses a combat point, it is not 
+considered a battle. Thus, rules and abilities 
+that are useful in battle – such as the 
+nurse’s ability to retreat – are not effective 
+against special attacks.
+Special Bomber Attacks
+One or more bombers in a single land area 
+that is adjacent to a sea area where there 
+are one or more enemy submarines may 
+make a special attack against them. The 
+player controlling the bomber(s) announces 
+the attack, spends a combat point, and then 
+rolls two dice for each bomber present. For 
+every hit rolled, one submarine is destroyed. 
+Note: The attacker does not roll his dice 
+more than once, as in a battle, nor are the 
+submarines allowed to roll any dice at all. 
+The player controlling the bomber(s) rolls 
+his dice once, any casualties are removed, 
+and then the special attack is over.
+Special Submarine Attacks
+One or more submarines in a single 
+sea area that is adjacent to a land area 
+where there are one or more enemy units 
+of any type(s) may make a special attack 
+against them. The player controlling the 
+submarine(s) announces the attack, spends 
+a combat point, and then rolls one die for 
+each submarine present. For every hit 
+rolled, one enemy unit is destroyed. The 
+player controlling the submarine(s) chooses 
+which of his enemy units are destroyed 
+according the same restrictions that must 
+be followed when units are destroyed in 
+battle. That is, fighters must be destroyed 
+before bombers can be destroyed, and 
+tanks must be destroyed before mechs can 
+be destroyed.
+Special submarine attacks may not be 
+launched against capitals.
+Note: As with special bomber attacks, 
+the player making the special attack only 
+rolls his dice once, and no counter-attack is 
+made by the special attack’s target.
+Special Ballistic 
+Missile Attacks
+A player who chooses the ballistic missile 
+card during the initiative phase may make 
+one special ballistic missile attack sometime 
+during the combat phase of his player 
+turn. To do so, he announces the attack, 
+chooses a target area, spends a combat 
+point, and then rolls three dice. For each hit, 
+he chooses and destroys one unit in that 
+area. He may choose any units he wishes. 
+That is, he need not choose fighters before 
+bombers, nor tanks before mechs.
+Special ballistic missile attacks may not be 
+launched against capitals.
+First-turn Restrictions
+During the first game round, players may 
+not launch special attacks against power 
+sources, capitals, or any areas containing 
+production centers.
+
+Special Abilities
+Each card gives its player access to a 
+special ability, which may be used only once 
+during the game round in which it is played. 
+(Although some special abilities’ effects 
+persist past the moment when they are 
+activated, this does not change the fact that 
+they may only be used – that is, activated – 
+once per turn.)
+Each special ability must be activated at 
+a particular point in the game round, which 
+varies from ability to ability.
+Each special ability is described below.
+Raketen Truppen
+Use during a battle 
+involving at least one of 
+your land units, 
+immediately after you 
+roll one or more dice to 
+attack or defend. Reroll 
+all of those dice, and 
+use the new results, 
+even if they are worse 
+than the original results.
+Nurse 
+ 
+ Use when one of your 
+units is destroyed in 
+battle. Roll a die. If you 
+roll a blank, that unit is 
+not destroyed, and 
+instead retreats 
+according to the normal 
+rules. (Although note that 
+if following the normal 
+retreat rules would result 
+in the unit being 
+destroyed because there is no legal area to 
+which it can retreat, it is destroyed as 
+normal.) If you roll a hit, it is destroyed as 
+normal. For the remainder of this battle, 
+each time your opponent destroys one of 
+your units, roll a die in the same way. 
+ 
+Secret Weapon
+are rolled. Your 
+opponent must 
+immediately retreat all of 
+his units from that 
+battle’s target area. You 
+may not activate this 
+ability if it would cause 
+your opponent’s units to 
+be destroyed (per step 
+four of the retreat procedure – see 
+“Retreating” on page 20).
+Diplomat
+Use at the start of your 
+production phase. 
+Choose one other 
+player, who becomes 
+your “ally” for the 
+duration of the game 
+round. Neither you nor 
+your ally may attack, or 
+make special attacks 
+against, the other.
+Alien Radar
+are rolled. Retreat all of 
+your units according to 
+the normal rules for 
+retreats. This ability 
+persists for the 
+remainder of the game 
+round. That is, you may 
+retreat in the same way 
+from any battle involving 
+your units, as long as you announce that 
+you will do so before any dice are rolled.
+
+Koshka
+Use as another player’s 
+player turn begins. 
+Interrupt that player and 
+take your player turn, 
+instead. That player 
+takes his player turn 
+after your player turn is 
+finished. (You do not get 
+an extra player turn in 
+this game round, 
+however. The order of 
+turns is simply changed.) If two players use 
+this ability to interrupt the same player, the 
+player whose card has the most tie-breaker 
+stars takes his player turn first. 
+ 
+Mech Dropper
+Use during your combat 
+phase. Spend one 
+combat point and 
+choose a target enemy 
+area. Then take any 
+number of mech units 
+from any friendly area or 
+combination of friendly 
+areas on the board and 
+place them all in the 
+target area. A battle then 
+occurs in the target area. You may not 
+retreat from this battle. 
+Ace of the Sky 
+are rolled. All friendly air 
+units have their combat 
+values increased by one 
+for the duration of the 
+battle. 
+ 
+Mech Builder
+Use at any time during 
+your production phase. 
+Place one free mech 
+unit on any area where 
+you have a production 
+center. This unit does 
+not count against that 
+production center’s 
+normal five-unit 
+production limit. 
+Sigrid
+Use during a battle, 
+immediately after you 
+roll one or more dice to 
+attack or defend. Collect 
+all of the dice that rolled 
+blank and reroll them. 
+ 
+ 
+Ballistic Missiles
+Use during your combat 
+phase. Make a special 
+ballistic missile attack 
+(see page 21).
+ 
+
+CREDITS
+Game Design
+Spartaco Albertarelli and Angelo Zucca
+Art Direction
+Paolo Parente
+Art
+Paolo Parente, Alessia Zambonin, 
+and Davide Fabbri
+Graphic Design
+Ray D. Tutto and Alessia Zambonin
+Editing	 	
+Leo Cook
+Board Art
+Nicolas Fructus
+Production Managers
+David Preti and William Yau
+Lead Playtester
+Ketto Pelan
+English Edition Publisher
+Christian T. Petersen
+Special Thanks
+Mink, Christian T. Petersen, 
+John Grams, Jeremy Stomberg, 
+ Jose M. Rey, Gilles Garnier, 
+ Takashi Kono, Kunitaka Imai, 
+ Sigrid Thaler, Clement Boen, 
+ Anastasiya Tymofyeyeva, 
+Vincent “Nipple” Fontaine, 
+Matthias Haddad, Roberto Scazzuso, 
+ Edouard Guiton, Juan Navarro Perez, 
+Fabio and Filippo Zanicotti, and 
+Mario “We miss U a lot!” Braghieri
+In memory of Riccardo Mazzoletti
+Dust created by Paolo Parente.
+Dust Games “da un’idea di” David, Ketto, Paolo, 
+e William.
+Dust is property of 
+Dust Ltd., Hong Kong.

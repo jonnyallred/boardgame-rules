@@ -1,0 +1,1665 @@
+ 
+1
+Age of Renaissance 
+I. Preface 
+Several years ago, I entered a small gaming store, 
+asking for a game "somewhat similar to Civilization". 
+To me, Civilization was a kind of gateway game, it was 
+the first strategic, non-abstract and low-luck (in fact, no-
+luck) board game I knew. I loved it and still do. 
+In the shop, they took out a dark but colorful box, 
+explained the game a little, and I bought it. I loved the 
+artwork, loved the theme, and the game...well, we 
+would see. 
+After reading through the manual twice, I was slightly 
+confused, but confident I would be able to explain it. 
+Several weeks later, a few friends were in, and 
+sometime in the evening, I suggested to try it out. 
+We gave up after a few turns. It was a disaster. I had 
+interpreted a core rule exactly the opposite way, even 
+found a reasonably-sounding explanation (and my 
+friends like to tease me about it to this day). 
+Still, a flame was sparked, and it grew. 
+The next game was a disaster, too. While I did explain 
+all the core rules correctly this time, the game felt kinda 
+strange. When I checked my history card deck after the 
+game, I knew why: I had several critical cards missing 
+(e.g. the Crusades), and duplicates from other cards. 
+Grrrr! 
+Fortunately 
+I 
+found 
+a 
+nice 
+guy 
+on 
+Boardgamegeek who sold me a complete deck (and the 
+shop even paid for my expenses, which I think is just 
+great of them. Of course shops should do these things, 
+but how often does it happen – without any trouble?). 
+About two more games (and many forgotten or 
+misinterpreted little rules) later, I decided that, in order 
+to really understand all the rules, I would need to write 
+them down myself. The game was great, but the manual 
+thoroughly confusing. Writing my own manual gave me 
+the opportunity to sort the rules mentally, to clarify 
+ambiguities and make sure every rule is where it should 
+be. 
+So...here are the results. 
+I hope they help to understand the game, so you won't 
+need four or five games before everything is clear. 
+Enjoy! 
+Version history 
+This manual has been updated in January 2017 based on 
+feedback by Boardgamegeek user Urhixidur. 
+Changes can be found in this thread:  
+https://boardgamegeek.com/filepage/22309/ageofrenaissancepdf 
+ 
+II. About this manual 
+After a short introduction and a list of game contents, I 
+start by explaining important game terms. If something 
+doesn't make perfect sense at first, read on, and return 
+when the other concepts are clear. Some aspects of the 
+game are interlocking in such a way I hardly know 
+where to start explaining. 
+After the concepts are (hopefully) clear, we come to 
+the preparations for a game, and then the game turn 
+description. As always, it helps to have the game at 
+hand, take out the components, set up the board, and 
+try things out. 
+ 
+Important game terms are written in 
+CAPITAL 
+LETTERS. 
+ 
+Notes and examples are written inside boxes. 
+Notes are either optional rules, or other things I thought 
+I'd mention, but they are not core rules, and can be 
+ignored. 
+Examples should help you understand a specific rule, 
+or set of rules. 
+ 
+Special rules, that only apply to certain players or 
+under certain conditions, are written on gray 
+background. Mostly, they will only be needed later in 
+the game, but they still belong to the core rules and 
+must not be ignored. 
+III. Map changes 
+Some map changes have been suggested by the 
+designers after the release of the game. You can find 
+ready-to-print graphics in the file section of Age of 
+Renaissance on www.boardgamegeek.com 
+IV. Rule changes 
+This manual is based on the original rules, deviations 
+are clearly marked as notes. 
+The two significant changes concern 
+1) the game setup, as mentioned in chapter 4.2 
+(History cards). 
+2) the turn order, as mentioned in chapter 5 (Turn 
+sequence) 
+ 
+ 
+ 
+2
+Table of contents 
+1 
+Introduction .......................................................... 3 
+2 
+Contents ................................................................. 3 
+3 
+Game concepts ..................................................... 3 
+3.1 
+Turns and phases ......................................... 3 
+3.2 
+Epochs ............................................................ 3 
+3.3 
+Provinces ....................................................... 3 
+3.3.1 
+Capitals........................................................ 3 
+3.3.2 
+Coastal provinces ........................................ 3 
+3.3.3 
+Overseas provinces ..................................... 3 
+3.4 
+Seas and Oceans ........................................... 4 
+3.5 
+Areas............................................................... 4 
+3.6 
+Turn income .................................................. 4 
+3.7 
+Commodities ................................................ 4 
+3.7.1 
+Shortage and Surplus.................................. 4 
+3.7.2 
+Commodity log ........................................... 4 
+3.8 
+Tokens ............................................................ 4 
+3.8.1 
+Expansion area and stock ........................... 4 
+3.9 
+Dominance markers .................................... 4 
+3.10 
+Trade fleets .................................................... 5 
+3.11 
+Misery............................................................. 5 
+3.12 
+Advances ....................................................... 5 
+3.12.1 
+Categories ............................................... 5 
+3.12.2 
+Short names............................................. 5 
+3.12.3 
+Tiers ......................................................... 5 
+3.13 
+History cards ................................................ 5 
+3.13.1 
+Epochs ..................................................... 5 
+3.13.2 
+Misery increase ....................................... 5 
+3.13.3 
+Types of cards ......................................... 5 
+3.14 
+The player mat ............................................. 6 
+3.15 
+The advance log ........................................... 6 
+4 
+Preparations .......................................................... 7 
+4.1 
+End of game conditions.............................. 7 
+4.2 
+History cards ................................................ 7 
+4.3 
+Used Areas .................................................... 7 
+4.4 
+Capital bid ..................................................... 7 
+4.5 
+Cash ................................................................ 7 
+4.6 
+Tokens and markers .................................... 7 
+5 
+Turn sequence ......................................................8 
+5.1 
+Determine Order of Play ............................8 
+5.1.1 
+Minimum expansion ................................... 8 
+5.1.2 
+Maximum expansion................................... 8 
+5.2 
+Draw card phase ..........................................8 
+5.2.1 
+Buy removal of surplus / shortage ............ 8 
+5.2.2 
+Draw card .................................................... 8 
+5.3 
+Buy / discard cards .....................................8 
+5.4 
+Play cards .......................................................8 
+5.4.1 
+Commodity cards ........................................ 8 
+5.4.2 
+Event cards .................................................. 8 
+5.4.3 
+Leader cards................................................. 9 
+5.5 
+Purchase .........................................................9 
+5.5.1 
+Ship upgrades .............................................. 9 
+5.5.2 
+Advances ..................................................... 9 
+5.5.3 
+Stabilization ............................................... 10 
+5.5.4 
+Misery relief ............................................... 10 
+5.6 
+Expansion ................................................... 11 
+5.6.1 
+Market influence and dominance ............. 11 
+5.6.2 
+Placing tokens on the map ........................ 11 
+5.6.3 
+Competition - Conflicts ............................. 13 
+5.6.4 
+Buying cards .............................................. 15 
+5.7 
+End of turn.................................................. 15 
+5.7.1 
+Expansion bonus ....................................... 15 
+5.7.2 
+Interest and Profit ...................................... 15 
+5.7.3 
+Income........................................................ 15 
+5.7.4 
+Reduce misery ........................................... 15 
+5.7.5 
+Roll shortage / surplus ............................. 15 
+6 
+End of the game ................................................ 15 
+6.1 
+Last turn ...................................................... 15 
+6.1.1 
+Final card play ........................................... 15 
+6.2 
+Victory ......................................................... 15 
+ 
+ 
+3
+1 Introduction 
+In Age of Renaissance, three to six players each lead a 
+trading nation through the middle ages, into the age of 
+renaissance. 
+The players struggle for power and wealth by 
+controlling markets and trade goods. The money can be 
+spent for various advances, which grant advantages 
+and, ultimately, decide who will win the game. 
+2 Contents 
+ 
+A 2-part mapboard 
+ 
+Six sets of colored playing pieces, each consisting 
+of: 
+– 
+36 square tokens () 
+– 
+25 round dominance markers () 
+– 
+12 market indicators 
+– 
+1 ship 
+– 
+2 status markers 
+ 
+Three shortage / surplus markers 
+ 
+Six player mats 
+ 
+A pad of Advance logs 
+ 
+64 History cards 
+ 
+Three six-sided dice (white, black and colored) 
+ 
+Play money in denominations of 1, 5, 10, 20 and 
+100. 
+3 Game concepts 
+3.1 Turns and phases 
+The game is played over several TURNS. Each turn 
+consists of seven PHASES (see chapter 5). 
+The ORDER OF PLAY within each phase is determined at 
+the beginning of each turn. Each phase is completed by 
+all players, in this order of play, before the next phase 
+starts. 
+3.2 Epochs 
+The game is also divided into 3 EPOCHS, each with a 
+different deck of HISTORY CARDS. When the epoch 1 
+History card deck is exhausted, epoch 2 begins. 
+The full game ends in epoch three, but a shortened 
+game with only one or two epochs can be played as 
+well (see chapter 6). 
+3.3 Provinces 
+The map is separated into a number of PROVINCES. 
+Each province has a NAME (e.g. Barcelona), a color 
+representing the goods produced there (or gray for 
+none), and a number inside a square or circle (the 
+MARKET NUMBER). 
+Provinces with a market number greater than 1 inside a 
+circle are called MARKETS. The higher the market 
+number, the more effort is required to control a market. 
+Provinces with a market number of 1 inside a square 
+are called SATELLITES. 
+ 
+3.3.1 
+Capitals 
+CAPITALS mark the starting position of a player. 
+Barcelona (displayed above) is a capital: The market 
+number is inside a colored circle, and it contains the 
+crest of the player. 
+The other capitals are: Venice, Genoa, Paris, London 
+and Hamburg. 
+3.3.2 
+Coastal provinces 
+Provinces with access to the sea are called COASTAL 
+PROVINCES. They consist of a land area, and a bright 
+blue sea area, the coastal waters. 
+ 
+3.3.3 
+Overseas provinces 
+Some provinces lie geographically outside the map. 
+These are: Iceland, West Africa, the far east (East 
+Indies, India, China) and the new world (South 
+America, North America). 
+They are represented by boxes on the edge of the map. 
+ 
+ 
+4
+3.4 Seas and Oceans 
+Bodies of water that are not directly adjacent to a land 
+area are called seas (medium blue) or oceans (dark 
+blue). The only ocean visible on the map is the Atlantic 
+Ocean. 
+3.5 Areas 
+The map is divided into eight AREAS by thick colored 
+lines. Each area is coded with a roman number (e.g. 
+area IV contains Barcelona). 
+3.6 Turn income 
+Each player receives an income at the end of each turn. 
+The amount depends on the number of markets 
+controlled, and the number of players in the game. 
+3.7 Commodities 
+Each market gains access to a specific trade good, or 
+COMMODITY. Commodities are a way to gain extra 
+wealth, especially if a player controls many provinces 
+supplying the same commodity. 
+Provinces of the far east provide two commodities each 
+(as indicated by the multi-colored province boxes), 
+those of the new world provide three. 
+3.7.1 
+Shortage and Surplus 
+At the end of each turn, two dice rolls determine which 
+commodities are in shortage or surplus. Goods in 
+shortage will fetch a higher price next turn, those in 
+surplus will fetch a lower price. 
+3.7.2 
+Commodity log 
+The COMMODITY LOG on the bottom left of the 
+mapboard shows all commodities, their value, and 
+which provinces provide them. It can be used to keep 
+track of how many commodities of each kind the 
+players control. 
+ 
+3.8 Tokens 
+Each player has 36 square TOKENS. Tokens represent 
+MARKET INFLUENCE, and are essential to gain control 
+of provinces. 
+New tokens are placed white () side up to mark 
+expansion territory (gains made during the current 
+turn). 
+Tokens remaining on the board are later flipped colored 
+side up () to mark controlled territory. 
+3.8.1 
+Expansion area and stock 
+Tokens can be found in three different places: 
+1) On the mapboard, where they represent market 
+influence in certain provinces. 
+2) In the EXPANSION AREA of the player mat. These 
+are the tokens the player can use during the current 
+turn. 
+3) All remaining tokens are placed inside the STOCK. 
+3.9 Dominance markers 
+Once a player dominates a market, the square tokens 
+are replaced by a round DOMINANCE MARKERS, white 
+side up (), representing expansion markets. 
+These are also later flipped to the colored side () to 
+mark controlled markets. 
+Tokens in satellites can never be replaced by 
+dominance markers. 
+ 
+ 
+5
+3.10 Trade fleets 
+TRADE 
+FLEETS 
+provide 
+quicker 
+transportation 
+compared to overland travel, and allow access to 
+provinces that cannot be reached by land. To keep track 
+of the size and capabilities of each player's fleets, the 
+SHIPPING DISPLAY is provided on the top left of the 
+mapboard. 
+ 
+There are three types of ships: 
+GALLEYS (top row) can only travel short ways along 
+the coastline. 
+SEAWORTHY 
+VESSELS 
+(middle 
+row) 
+can 
+travel 
+anywhere on the map, but not to the far east or new 
+world, but still have limited transport capacity. 
+OCEANGOING 
+VESSELS (bottom row) can travel 
+anywhere on the map with unlimited transport capacity, 
+and can also reach a (limited) number of far east and 
+potentially new world provinces. 
+3.11 Misery 
+MISERY represents the amount of unsatisfied needs and 
+wants of the population for each player. A player who 
+moves past the '1000' square is immediately out of play. 
+Misery is also deducted from the final total score. 
+3.12 Advances 
+Civilization ADVANCES are what this game is really 
+about: Become the most advanced and progressive 
+power. 
+During the game, advances provide significant 
+advantages. At the end of the game, advances are the 
+player's greatest asset when determining the ultimate 
+winner. 
+3.12.1 Categories 
+There are advances in six different CATEGORIES: 
+SCIENCE 
+(), 
+RELIGION 
+(), 
+COMMERCE 
+(), 
+COMMUNICATION (✍), EXPLORATION (✯) and CIVICS 
+(➶). 
+The symbols shown above are used within the short 
+description, to refer to that category. 
+3.12.2 Short names 
+For easier reference, all advances have a shortcut letter 
+assigned to them, from A to Z (26 advances in total). 
+3.12.3 Tiers 
+When a player has one advance of each category, he is 
+said to 'hold a TIER of advances'. Likewise, a player 
+with two advances of each category hold two tiers. 
+Tiers are important to reduce misery. 
+3.13 History cards 
+The history card deck contains three types of cards: 
+COMMODITY 
+CARDS, 
+EVENT 
+CARDS 
+and 
+LEADER 
+CARDS. 
+Each card also contains a number (1, 2 or 3) written 
+inside either a circle or a square. 
+3.13.1 Epochs 
+These numbers specify the EPOCH this card occurs in. 
+At the beginning of the game, only cards of epoch 1 are 
+used (see 4.2). Once these cards are used up, discarded 
+cards with a circle symbol are shuffled together with all 
+cards from the next epoch and make up the new history 
+card pile. Cards with a square symbol are not returned 
+to the game. 
+Only cards that were already discarded at the time the 
+pile is re-shuffled can be included into the new pile. 
+Naturally, by holding onto or playing a card, a player 
+can control whether a certain card will re-appear a 
+second or third time in the game. 
+3.13.2 Misery increase 
+The more cards a player holds, the quicker the misery 
+index can rise. The player has the option to 'buy off' the 
+misery increase with cash, in a process called 
+STABILIZATION. 
+3.13.3 Types of cards 
+3.13.3.1 Commodity cards 
+When a COMMODITY CARD is played, all players who 
+control markets providing this commodity get paid an 
+amount depending on the number of such markets they 
+control, and on shortage and surplus (see 5.4.1). 
+ 
+6
+3.13.3.2 Event cards 
+EVENT CARDS cause the occurrence of a historic event, 
+such as the black death. The effects, and who is 
+affected, is noted on the card. 
+Event cards can be VOIDED by other cards or advances. 
+In this case they can no longer be played and become 
+UNPLAYABLE MISERY BURDENS. 
+Whether a card can be voided, or void another card, is 
+always noted at the end of the description. 
+3.13.3.3 Leader cards 
+Leader cards reduce the cost of certain advances, as 
+noted on the cards. 
+3.14 The player mat 
+The player mat serves four purposes: 
+1) As a short reference, containing all phases of a turn 
+and the most important rules 
+2) As stock and expansion area for tokens 
+3) For dominance markers not placed on the map 
+4) To show the turn income of a player. 
+ 
+To determine the income, place all your dominance 
+markers on the circles in the left quarter of the sheet, 
+starting from the bottom right (with 
+'x25' in the circle), going up ('x24', 
+'x23',...) until all dominance markers 
+are placed. It should look something 
+like shown on the right. 
+The first circle not covered by a 
+marker 
+shows 
+the 
+number 
+of 
+provinces the player holds, and the 
+income, depending on the number of 
+players (3, 4, 5 or 6). At the start of 
+the game, this should be the first 
+white ('x1') circle. 
+Note that the front and back side of 
+the player mat are different, for 3 / 4 
+or 5 / 6 player games respectively! 
+3.15 The advance log 
+The advance log serves four purposes: 
+1) It provides a short description of all advances. 
+2) It's the place of choice for a player to keep track of 
+purchased advances. 
+3) On the bottom left, there is room to keep track of 
+advances held by other players, if desired. 
+4) On the bottom right, the turn log provides a place 
+for all players to write down their SECRET BIDS. 
+ 
+There are two kinds of secret bids in the game: During 
+game preparations, the players choose their capitals by 
+secretly bidding for them (we'll come to that shortly). 
+And at the start of each turn, the players secretly choose 
+the number of tokens they wish to use in the following 
+turn, to determine the turn order (see 5.1). 
+ 
+7
+4 Preparations 
+4.1 End of game conditions 
+The players should decide whether they want to set a 
+time limit for the game, and whether they want to play 
+all three epochs (full game), or only one or two epochs. 
+If they decide to play only one epoch, the cards from 
+epochs 2 and 3 will not be shuffled into the deck when 
+cards run out, the game will end instead. Likewise, if 
+only two epochs are played, the cards of epoch 3 are 
+never used. 
+4.2 History cards 
+Note 
+The following rules regarding the preparations of the 
+history card deck, and cards dealt are not from the 
+original rulebook. They are intended to make the 
+beginning of the game more balanced. 
+According to the original rules, all cards from epoch 1 
+are shuffled, and each player is dealt one card. 
+Sort the history cards by epoch. Remove one 'Timber' 
+commerce card from epoch 2 and add it to epoch 1. 
+Remove 
+CRUSADES, 
+WALTER 
+THE 
+PENNILESS, 
+RASHID AD DIN, SPICE and SILK from the first epoch 
+deck. Shuffle the cards for each epoch. Deal three cards 
+from the first epoch to each player, one of which is to 
+be returned and re-shuffled into the deck. 
+The five cards that were previously removed are re-
+shuffled into the deck in the following way: 
+ 
+For a 3 or 4 player game: At the beginning of the 
+first turn. 
+ 
+For a 5 or 6 player game: At the beginning of the 
+second turn. 
+4.3 Used Areas 
+Depending on the number of players, only certain areas 
+can be accessed: 
+# of players 
+Areas used 
+Capitals 
+3 
+IV through VIII Venice, Genoa, Barcelona 
+4 
+plus III 
+plus Paris 
+5 
+plus II 
+plus London 
+6 
+plus I 
+plus Hamburg 
+Note that the area V can only be accessed by players 
+holding the advance 'Overland East' in all games. 
+4.4 Capital bid 
+In the capital bid, each player secretly notes the 
+preferred capital choice, the #2 choice, etc. 
+Then, an amount from $0 to $40 is written down. 
+Once all players have made their choices, the player 
+with the highest bid gets the #1 choice capital. The next 
+player gets the best capital (according to the written 
+choices) still available, and so on, until all capitals are 
+allotted. 
+Ties are broken by a die roll, the player with the higher 
+roll chooses first. 
+Note that the players always have to stick to their 
+written choices, they cannot change their minds after 
+the bids are known ('I don't want to start next to him!') 
+4.5 Cash 
+Each player receives $40 minus the money used in the 
+capital bid. 
+4.6 Tokens and markers 
+Each player places a dominance marker () on his or 
+her capital. All remaining dominance markers are 
+placed on the player mat – see 3.14. 
+All tokens () go to the player's stock. 
+The misery index markers for all players are placed in 
+the '0' misery index box. 
+At the start of the game, no player has trade fleets, 
+therefore their shipping display markers are laid aside. 
+ 
+8
+5 Turn sequence 
+Note 
+In the original rules, the first phase ('Determine Order 
+of Play') comes last, and is performed not for the 
+current, but for the next turn. This is also the way it is 
+noted on the original player aids. The original rules also 
+mention that the phase 'Determine Order of Play' must 
+be performed once before the first turn of the game. 
+I think it is more logical to perform that phase for the 
+current turn, as the first phase. 
+5.1 Determine Order of Play 
+All players secretly write down the amount of cash held 
+('Total'). Then, they split the amount between tokens 
+they want to use for expansion the next turn ('Tokens'), 
+the remaining cash is noted as WRITTEN CASH ('Cash'). 
+Each token costs $1. 
+All players pay the amount spent for tokens. 
+Turn order is determined by number of tokens bought, 
+with the player who bought the least amount going 
+first. Ties are broken in favor of the player who fared 
+worse in the capital bid, i.e. a player who plays with his 
+or her #3 choice capital is favored 
+over a player who got his or her #1 
+choice. 
+The turn order is noted by placing the 
+turn markers in the 'Order of play 
+display'. 
+With six player, all of the boxes are 
+used. With five players, all except the 
+last box (with a crossed-out '5'). With 
+four players, all except the two boxes 
+with a crossed out '4'. And with three 
+players...you guess. 
+A player holding the 'Renaissance' 
+[Q] advance may choose to change 
+places in the turn order with a player 
+directly above or below in turn order. 
+This swap can be preformed only 
+once per game turn, but at the start of 
+any phase the player chooses. 
+It is not possible to trade places with 
+players holding 'Renaissance' as well. 
+5.1.1 
+Minimum expansion 
+Players may choose to spend money for no tokens, in 
+order to become the first player. In this case, they note 
+a negative number in the 'Tokens' column, but have to 
+pay the positive amount. E.g. if a player writes '-2' in 
+the Tokens column, $2 have to be paid. 
+5.1.2 
+Maximum expansion 
+Players cannot purchase more tokens than they have in 
+stock (36 minus any tokens on the map). They may 
+however spend more cash in the hope to become the 
+last player in the turn order. 
+5.2 Draw card phase 
+5.2.1 
+Buy removal of surplus / shortage 
+The first player (only!) may choose to remove a 
+shortage or surplus (see 5.7.5) by paying the base value 
+of the commodity in cash.  
+Buying removal of a surplus will increase the payoff 
+for this commodity, if played during the following turn. 
+Buying removal of a shortage will decrease the payoff. 
+5.2.2 
+Draw card 
+Each player, in turn, draws one card from the history 
+deck. 
+5.3 Buy / discard cards 
+Each player with the 'Urban Ascendancy' [V] advance 
+may buy one additional card for $10. 
+Each player with the 'Master art' [P] advance may 
+discard one card after choosing whether or not to buy 
+one. 
+5.4 Play cards 
+5.4.1 
+Commodity cards 
+When a commodity card is played, each player holding 
+market(s) providing this commodity are paid according 
+to the value of the commodity and number of markets 
+controlled. 
+Two cards (Gold/Ivory and Wine/Cloth) offer the 
+player a choice which of the two commodities is paid 
+for. 
+The values can be found both on the commodity card 
+and on the commodity log. First box is for one 
+province, second for two, etc. 
+In case of a shortage for that commodity, the price 
+increases by one box. In case of a surplus, it is reduced 
+by one box. Once the card has been played, the 
+shortage or surplus marker is removed (in case a second 
+commodity card of the same type is played during the 
+turn). 
+In case of a double shortage or surplus, the price is still 
+changed only by one box, but one marker remains after 
+the first card has been played. 
+Players holding the advance 'Industry' [M] have their 
+value increased by one box. 
+In any case, only players holding at least one province 
+providing this commodity receive money. 
+5.4.2 
+Event cards 
+The event is performed as noted on the card. The effect 
+of most event cards will last for the remainder of the 
+turn. 
+Players holding 'Laws of Matter' [C] are immune from 
+the 'Alchemy' event card. 
+5.4.2.1 
+Elimination 
+In some cases, a player needs to replace dominance 
+markers in a province by tokens. Normally, these 
+tokens are taken out of the stock. 
+ 
+9
+If the stock is empty, the player can choose to take 
+them from the expansion area instead, or leave the 
+province empty. 
+5.4.3 
+Leader cards 
+Leader cards offer discounts on advances bought in the 
+following purchase phase. 
+If 'Written Record' [N] is held by a player, all discounts 
+are increased by $10. 
+The first leader card played in a turn is placed in the 
+leader card box on the left side of the map. This leader 
+card benefits only the player who played it. 
+All other leader cards are placed in front of the player 
+playing the card. These are potentially vulnerable to 
+PATRONAGE claims, which allow other players to use 
+the discounts noted on the card. 
+5.4.3.1 
+Patronage 
+Players holding the 'Patronage' [E] advance will be able 
+to claim the discounts offered by the card during the 
+following purchase phase. 
+The original owner of the card can dissuade them from 
+doing so by placing an arbitrary amount of cash on the 
+card (during the Play card phase). Any other player 
+who wants to use the discounts noted on the card has to 
+pay the same amount to the original owner (during the 
+Purchase phase). 
+The money placed on the card is returned to the bank 
+after the end of the purchase phase. 
+See 0 for an example of how patronage works. 
+5.4.3.2 
+Rebates 
+A player holding 'Printed Word' [O] may claim the 
+discount the leader card offers for advances already 
+held. This rebate is immediately paid in cash. 
+Neither the rules for 'Written Record' [N] nor 
+'Patronage' [E] apply to rebates – only the player who 
+originally owned the leader card can claim them, and 
+without the +10 $ from 'Written Record'. 
+5.5 Purchase 
+Each player, in order, can choose to make any of the 
+following purchases in the following order: 
+5.5.1 
+Ship upgrades 
+Ship upgrades allow the increase in transport capacity 
+within the same ship type. A player can initially buy 
+'Galleys 2' and later upgrade them to 'Galleys 4' and so 
+on. 
+To upgrade the ship type, the player needs to buy 
+advances instead: 
+With 'Seaworthy vessels' [S], the shipping display 
+marker is immediately placed in the 'Seaworthy vessels 
+10' box in the middle row. All galley upgrades bought 
+so far are lost! 
+With 'Ocean navigation' [T], the shipping display 
+marker is immediately placed in the 'Ocean navigation 
+1' box in the bottom row. Again, all upgrades bought so 
+far become useless as the whole fleet is scrapped and 
+replaced by new ships. 
+Each ship upgrade costs $10. Only one upgrade can be 
+bought per turn and player. 
+5.5.2 
+Advances 
+5.5.2.1 
+Advance description 
+On the backside of the original manual, as well as on 
+every advance sheet, a short description of all advances 
+can be found. 
+The description of an advance consists of the following 
+elements: 
+ 
+ 
+Shortcut letter for the advance 
+ 
+Name 
+ 
+Description 
+ 
+Prerequisites (shortcut letter), or '-' if none. 
+ 
+Amount of credit and towards which advance 
+category. 
+ 
+Cost in $ and misery increase. All advances cost 
+money, but only religion advances increase misery 
+by one index. 
+ 
+Amount of misery relief offered 
+ 
+Whether leader cards are available for this 
+advance, and in which epoch. 
+A player purchasing 'Human body' [B] immediately 
+improves his or her standing on the misery index by 
+one space. 
+5.5.2.2 
+Pre-requisites 
+Some advances require the player to own other 
+advances before. It is possible to buy both the desired 
+advance and the pre-requisite within the same turn. 
+Example: 
+In order to buy 'Printed Word' [O], a player needs to 
+hold 'Written Record' [N]. It's possible to buy 'Written 
+Record' and then 'Printed Word' during the same turn. 
+ 
+'Improved Agriculture' [K] is required to purchase 
+'Interest & Profit' [L] and 'Middle Class' [Z] 
+ 
+10
+5.5.2.3 
+Discounts 
+Discounts are offered by leader cards, and reduce the 
+price of an advance. See 5.4.3 for details on discounts 
+and patronage. 
+Example: 
+During the previous 'Play cards' phase, two leader cards 
+have been played: 
+Anne has played Charlemagne (offers a discount of $20 
+for 'Nationalism' [W]) first, so the card was placed in 
+the 1st leader card box. 
+Greg has then played Walter the Penniless (offers a 
+discount of $20 for 'Overland east' [R], increased to $30 
+if the 'Crusades' card is played during the same turn). 
+Since he knows that Anne has 'Patronage' [E], he 
+decided to put $10 on the card as protection. 
+Anne can now decide to buy 'Nationalism' [W] for $40 
+instead of $60, using the discount Charlemagne offers. 
+She can also choose to pay $10 to Greg, and then use 
+the discount of $20 that Walter the Penniless offers. 
+Then she would get 'Overland East' [R] for only $20 
+instead of $40 (plus the $10 she had to pay to Greg). 
+In a turn where the Crusades card has been played, 
+Anne would only play $10 for 'Overland East' [R]! 
+Greg can also use the discount offered by Walter the 
+Penniless for 'Overland East' [R], but cannot use the 
+discount offered by Charlemagne for 'Nationalism' [W], 
+because the card is protected for patronage claims as 
+the first leader card played during the turn. 
+5.5.2.4 
+Credits 
+Advances bought in previous turns can further reduce 
+the price of an advance. 
+Normally, Credits are noted on the bottom left of the 
+short description, and apply for other advances of the 
+same category (as indicated by the symbol). 
+Sometimes, further Credits are noted within the text 
+description (as in 'Institutional Research' [X], which 
+provides 10 Credits to all advances except Civics and 
+Religion). 
+Example: 
+To continue the example from above: If Anne already 
+held 'Urban Ascendancy' [V] from the previous turn(s), 
+the price for 'Nationalism' [W] would be further 
+reduced by $10 (because 'Urban Ascendancy' offers '10 
+Cr'). 
+In total, considering the leader discount, she would 
+only pay $30 instead of the total price of $60. 
+And assuming she also held 'Institutional Research' [X], 
+she would get 'Nationalism' [W] for free! 
+$20 from leader discount 
+$10 from 'Urban Ascendancy' [V], and 
+$30 from 'Institutional Research' [X] makes 
+$60, which pays the whole price. 
+However, even if your discounts and credits combine 
+for more than the total price, no cash is returned (other 
+than with Rebates, see 5.4.3.2) 
+5.5.2.5 
+Misery relief 
+Advances can reduce the price of misery relief (see 
+5.5.4). Excess misery relief cannot be turned into cash! 
+5.5.3 
+Stabilization 
+Depending on the number of history cards a player 
+holds, stabilization must be paid to avoid misery gain. 
+The cost for stabilization is: 
+ 
+0 cards:  
+$0 
+ 
+1 card:  
+$1 
+ 
+2 cards:  
+$3 
+ 
+3 cards:  
+$6 
+ 
+4 cards:  $10 
+ 
+5 cards:  $15 
+ 
+6 cards:  $21 
+ 
+7 cards:  $28 
+ 
+8 cards:  $35 
+etc. 
+Partial payment is not allowed – it's either all or 
+nothing. If unpaid, the player's misery marker will be 
+moved up by so many boxes in the misery index, that 
+the full cost of stabilization is paid for in misery. If the 
+step to the next misery box is 10, and the player fails to 
+pay even $1 in stabilization, he or she will gain 1 
+misery index. If the stabilization cost is $15, the marker 
+is moved by two boxes. 
+If already high in misery, the refusal to pay even 
+minimal stabilization costs can increase misery by a 
+whopping 50 or even 100! 
+The advance 'Middle Class' [Z] halves the stabilization 
+cost (round up fractions). 
+5.5.4 
+Misery relief 
+Once a player has one tier of advances (at least one 
+advance of every category), misery relief can be 
+purchased. For every tier of advances, the player can 
+'buy back' one misery index per turn. 
+To buy back, the difference between the values in the 
+two misery boxes must be paid. Advances which offer 
+'misery relief' (MR) purchased during this turn reduce 
+the cost of misery relief by the given amount. 
+Example: 
+A player buys 'Urban Ascendancy' [V], thereby 
+completing his first full tier of advances. He 
+immediately decides to purchase misery relief. Since 
+his misery index marker is on the '80' box, buying back 
+to the '70' box costs $10. However, 'Urban Ascendancy' 
+offer 5 MR, so the price is reduced to $5. 
+Had the player purchased a second advance which 
+offers 5 MR, he would have gotten the misery relief for 
+free! 
+If the total 'MR' offered by advances is more than the 
+player can use this turn (due to tier restrictions), the 
+excess is lost. 
+Players holding 'Enlightenment' [D] can purchase 
+misery relief at half the normal price. 
+ 
+ 
+11
+5.6 Expansion 
+Expansion allows the players to open and control new 
+markets, or compete for ones already held by another 
+player. 
+Players may use tokens to 
+ 
+Expand into empty provinces 
+ 
+Add tokens to provinces where they already had 
+some tokens from previous turns 
+ 
+Try to take over a province from another player 
+ 
+Buy history cards 
+ 
+At the start of the expansion phase, each player holding 
+'Holy Indulgence' [F] receives two extra expansion 
+tokens for each non-owner. If lacking tokens in stock, 
+$1 per token is collected from the bank instead. 
+The poor non-owners have to return two tokens from 
+expansion to stock for each owner. If lacking expansion 
+tokens, they have to pay $1 per token instead. 
+This does not affect the turn order. 
+ 
+A player affected by the EVENT CARD 'Civil war' 
+becomes the last player in turn order at the beginning of 
+the expansion phase. 
+The advance 'Renaissance' [Q] can be used to switch 
+turn order after this effect. 
+5.6.1 
+Market influence and dominance 
+Market DOMINANCE is what the expansion phase is all 
+about. The more markets dominated, the higher the 
+income at the end of the turn, and the higher the 
+potential income when a commodity card is played 
+during the play cards phase. 
+5.6.1.1 
+Markets and satellites 
+Only provinces with number inside a circle are 
+MARKETS, and yield income and commodities. 
+Provinces with a '1' inside a square are called satellites. 
+They can help in the defense (and later also the attack) 
+of adjacent markets, but in any case it is often 
+necessary to take a satellite in order to reach faraway 
+markets in future turns. 
+5.6.1.2 
+Gaining market dominance 
+To dominate a market, a player must have an amount of 
+tokens ( and ) equal or exceeding the MARKET 
+NUMBER of the province. The market number is written 
+inside a circle for each province, and range from 2 to 5. 
+Example: 
+Toledo has a market number of '3', therefore a player 
+needs three tokens ( or ) to gain dominance. 
+Once a player has placed enough tokens into the 
+province, they are replaced by a single round  
+marker. 
+This way of gaining dominance works only for 
+uncontested markets, i.e. markets where no other 
+player has any tokens or dominance markers. Conflicts 
+– taking over markets from other players – are 
+discussed later. 
+Note that once a round dominance marker ( or ) is 
+inside a province, NO ADDITIONAL TOKENS ( or ) 
+can remain in the province. 
+5.6.2 
+Placing tokens on the map 
+Players expand from controlled territory, i.e. provinces 
+where they have tokens or dominance markers colored 
+side up ( or ), or from their capital province (even 
+when it is held by another player). 
+All tokens and dominance markers added this turn are 
+placed white side up ( or ), and indicate expansion 
+territory. Satellite provinces (gray provinces with a 
+market number of '1') can only hold one square  or  
+token, never a round  or  marker. 
+Players may add  and  only at a certain distance 
+from controlled territory, depending on their trade fleet 
+capacities and advances. 
+Only players holding the 'Overland east' [R] advance 
+are allowed to expand into Area V. For players holding 
+the advance, other restrictions still apply, however. 
+5.6.2.1 
+Overland expansion 
+ and  can always be placed into provinces adjacent 
+to controlled territory, i.e. provinces that share a 
+common land border with a controlled province. This 
+signifies normal land trade routes. 
+ 
+ 
+Example: 
+In the map above, player Genoa can expand into Milan, 
+Lyons and Marseilles because they are adjacent to the 
+province of Genoa. No overland expansion is possible 
+into Montpelier because it is not adjacent to Genoa. 
+Notice that in this example, player Genoa could even 
+expand if there was no  in the province of Genoa, 
+because a player can always expand from the capital 
+province. 
+In the above example, the  in both Lyons and Milan 
+would be converted to a single  immediately, because 
+their amounts equals the market numbers of the 
+respective provinces. 
+ 
+ 
+12
+If a player holds the 'Caravan' [I] advance, he or she 
+may also place  or  two provinces away from a 
+controlled province, if the connecting province is not 
+controlled by another player (i.e. has no  or  of other 
+players). Caravan expansion only works over land, no 
+seas can be passed that way. 
+ 
+ 
+Example: 
+Suppose player Barcelona owns 'Caravan', and decides 
+to expand from the province of Barcelona. 
+Expansion into Toledo works with normal overland 
+expansion (without Caravan), because Toledo is 
+adjacent to Barcelona. 
+The caravan can reach the provinces Grenada (passing 
+through empty Valencia) and Seville (passing through 
+Toledo, Barcelona's three  there don't matter). 
+To the north, the caravan can reach Bordeaux, although 
+player Genoa has a  there. However, since the token 
+is white-side up, the province is not considered 
+controlled territory, and the caravan can pass through. 
+On the other hand, the caravan cannot pass through 
+Montpellier, because another player has a  or  
+marker there (in this case a round dominance marker). 
+And, of course, the caravan cannot reach the island 
+province of Palma, because there is no land connection. 
+5.6.2.2 
+Using trade fleets 
+Players with trade fleets can also establish sea trade 
+routes, thereby expanding to oversea provinces, or 
+longer distances along the coastline. This depends on 
+the trade fleet capabilities: 
+With GALLEYS (top row of the shipping display), 
+both the distance and number of tokens to 
+transport are limited. After buying the first trade 
+fleet ('2' on the top row), a player is capable of 
+shipping two tokens INTO EACH PROVINCE THAT IS 
+WITHIN REACH, i.e. no further away that two 
+spaces from a controlled province. In addition, 
+GALLEYS can only pass through the bright blue 
+sea spaces, i.e. they have to hug the coastlines. 
+After upgrading galleys to '4', the player can now 
+ship up to four tokens up to four spaces away 
+from controlled territory, but still has to keep to 
+coastal waters. 
+ 
+ 
+Example: 
+In the above map, let's assume purple player has galleys 
+2 and no caravan advance. 
+Florence can be reached over land, so the player can 
+place any number of tokens, although the galleys could 
+only transport up to two. 
+This restriction comes into play when going for Rome: 
+Although the province is in reach (2 spaces away from 
+Venice), the number of tokens the player can place is 
+limited to two. 
+Napels cannot be reached at all, because galleys two 
+can only travel two spaces maximum. The shortcut over 
+the Adriatic sea is not possible, because galleys can 
+only travel coastal (bright blue) waters. 
+ 
+Note: 
+Both Iceland and West Africa cannot be reached 
+through coastal waters. 
+Once a player holds the 'The Heavens' [A] advance, the 
+trade fleets may pass through one sea (medium blue 
+waters) when shipping tokens to a province. Thereby, it 
+is also possible to reach the provinces 'Iceland' and 
+'West Africa'. 
+With 
+SEAWORTHY 
+VESSELS (center row on the 
+shipping display), any province on the map as well as 
+Iceland and West Africa can be reached, but the 
+ 
+13
+number of tokens that can be shipped is still limited by 
+the number on the shipping display. 
+However, the overseas provinces (East Indies, India, 
+China, North America and South America) cannot be 
+reached. 
+With OCEAN NAVIGATION (bottom row on the shipping 
+display), any province on the map can be reached with 
+any number of tokens. In addition, the East Indies, 
+India and China can be reached, but the number of 
+these overseas provinces held is limited by the number 
+on the shipping display (e.g. at first, with '1' on the 
+shipping display, only one oversea province can be 
+held). 
+Players holding the 'New world' [U] advance may also 
+control provinces in America, however the shipping 
+display still limits the total number of overseas 
+provinces a player can hold. 
+Example: 
+A player with ocean navigation and a '2' on the 
+shipping display (bottom row) may hold any two of the 
+East Indies, China and India. 
+A player with ocean navigation, new world and a '3' on 
+the shipping display may hold any three of the East 
+Indies, China, India, North America and South 
+America. 
+5.6.3 
+Competition - Conflicts 
+When you want to expand into a province where 
+another player already as tokens or a dominance 
+marker, this may trigger a MARKET COMPETITION. 
+As long as the total number of tokens in the province 
+does not exceed the market number, they CO-EXIST and 
+no conflict is triggered.  
+However, if a player expands into a province that 
+already has a dominance marker ( or ) inside, or the 
+total number of tokens will exceed the market number 
+after the expansion, the player wishing to expand must 
+attempt a competition. 
+5.6.3.1 
+Requirements 
+A competition attempt requires the attacking player to 
+move a certain amount of tokens into the province (the 
+exact number is explained below). 
+If for some reason, the player does not have enough 
+tokens left, or is unable to transport enough of them to 
+the province, the player is not allowed to attack. 
+When tokens are transported using ships, remember the 
+maximum number of tokens the ships can transport to a 
+single province PER TURN. 
+Example: 
+A player has Seaworthy Vessels with a transport 
+capacity of 10, and wishes to attack a province using 
+those fleets. 
+If the player needs 4 tokens to attempt competition, two 
+competition attempts are possible, i.e. the player may 
+try to attack the province, and, if the attack fails, may 
+try a second time. A third attack is not possible, 
+because the total number of tokens transported would 
+exceed the transport capacity (10). 
+5.6.3.2 
+Required amount of tokens 
+The base amount of tokens required to attempt a 
+competition is: 
+(MARKET NUMBER + # OF TOKENS ALREADY THERE) 
+If there is a dominance marker in the province, the 
+number of tokens required for a competition attempt is 
+(2X MARKET NUMBER)  
+because a dominance marker is worth as many tokens 
+as the province's market number. 
+ 
+ 
+Examples: 
+The player of Genoa (purple) wants to move into two 
+provinces currently held by Barcelona (blue). 
+1) When moving up to two tokens into Bordeaux, they 
+would co-exist, and no competition would be triggered. 
+If the purple player would like to trigger a competition 
+in Bordeaux, a total of 6 tokens would be required 
+(market number of 4 + two tokens already present). 
+2) When moving into Montpelier, a competition must 
+be triggered, because it is already occupied by a 
+dominance marker. In this case, 4 tokens would be 
+necessary (2x the market number of 2). 
+ 
+However, there are further MODIFIERS that can increase 
+or decrease the amount of tokens necessary. The 
+following modifiers indicate how many tokens an 
+attacker needs to trigger a competition attempt. A 
+modifier of +1 would mean the attacker needs one 
+additional token, a modifier of -1 would mean one less 
+token is required. 
+However, no matter what the modifiers, the attacker 
+must always have an amount of tokens equal or higher 
+than the market number of the target province. 
+5.6.3.3 
+Conflict modifiers: Satellites 
+Satellites which are controlled () can help adjacent 
+provinces with dominance markers ( or ) of the 
+same player. Normally, they only help in defense. 
+A province is supported by a satellite only if an arrow 
+points from the satellite to the province. 
+For each satellite that supports a dominance marker, a 
+modifier of +1 applies to the attacker. 
+Example: 
+In the above example, player Genoa (purple) invades 
+Montpellier (blue). If blue player has controls the 
+province of Toulouse (with a ), this satellite can 
+support Montpellier in the defense. 
+In this case, Genoa would need 5 instead of 4 tokens to 
+trigger a conflict. 
+ 
+ 
+14
+Even if the defending player loses the competition, 
+supporting satellite tokens are NOT removed! Instead, 
+an attacking player might consider attacking the 
+satellite provinces first, to 'soften' the defense. 
+ 
+If a player holds 'Cosmopolitan' [Y], controlled 
+satellites can also support an attack. In this case, a 
+modifier of -1 is applied for every satellite controlled 
+by the attacking player, and pointing to the attacked 
+province. 
+ 
+Notice that satellites must be controlled and only help 
+dominance markers, not tokens. 
+5.6.3.4 
+Conflict modifiers: Player capital 
+In a player's capital, his or her tokens count double for 
+the purpose of both defense and attack. 
+Examples: 
+1) Venice is attacked in its own capital, where it has a 
+dominance marker ( or ). The attacker needs a total 
+of 15 tokens: 5 for the market number, and 2x5=10 for 
+the dominance marker (which counts for 5 tokens and 
+is doubled in value). 
+2) Player Genoa has conquered the province of 
+Barcelona, and now holds it with a dominance marker 
+( or ). If the player of Barcelona wants to re-take it, 
+he only needs 3 tokens for an attempt. Normally, 6 
+tokens would be required (2x the market number of 3), 
+but attacking his own capital, the tokens count double. 
+5.6.3.5 
+Conflict modifiers: Event cards 
+Four event cards offer a 
+MILITARY 
+ADVANTAGE 
+(Stirrups, Armor, Long bow and Gunpowder) modify 
+conflict resolution. A player who has played one of 
+those cards needs one token less when attacking (a -1 
+modifier) and an attacker attempting a competition with 
+such a player need an additional token (a +1 modifier). 
+The effect of the cards is limited to the current game 
+turn. 
+Example: 
+Paris has played 'Stirrups' during the play cards phase. 
+In the subsequent expansion phase, attacks from player 
+Paris against all other players require one less token 
+each, and attacks of other players against Paris require 
+one extra token each. 
+Note that some of these cards cancel the effects of 
+earlier cards. For example, once 'Long bow' has been 
+played, 'Armor' or 'Stirrups' can no longer be used. 
+However, if 'Armor' is played first, and 'Long bow' is 
+played later in the same play cards phase, the Armor 
+card is still effective, except against the player with 
+'Long bow' 
+Example: 
+Paris has played 'Armor' during the play card phase. 
+Hamburg has played 'Stirrups', then London has played 
+'Long bow'. 
+1) When Paris and Hamburg fight each other, the 
+advantage goes to Paris (Armor cancels Stirrups). 
+2) When London fights any other player, including 
+Paris or Hamburg, player London has a +1 military 
+advantage (1 less token required in attacks, one extra 
+required for attackers against London). 
+London has this advantage even against Paris and 
+Hamburg because Long bow cancels Stirrups and 
+Armor. 
+3) When Paris or Hamburg fight any other player 
+(Barcelona, Venice or Genoa), they have a +1 military 
+advantage because Armor / Stirrups are effective 
+against those players. 
+5.6.3.6 
+Nationalism 
+A player holding 'Nationalism' [W] has an advantage in 
+all conflicts fought in the same area as his capital. This 
+would be area VII for both Venice and Genoa, area IV 
+for Barcelona, area III for Paris, area II for London, and 
+area I for Hamburg. 
+Nationalism causes a -1 modifier when attacking, and a 
++1 modifier when defending. If both Venice and Genoa 
+hold the advance, the effects cancel each other. 
+Example: 
+Montpelier is within area VII, the home area of players 
+Venice and Genoa. 
+1) If Genoa holds Nationalism and attacks Barcelona in 
+Montpelier, one less token will be required for the 
+attack, no matter whether Barcelona has Nationalism or 
+not (it's not their home turf after all). 
+2) If Venice attacks Genoa in Montpelier, it all depends 
+on who holds Nationalism and who does not, because 
+both sides can gain a modifier advantage in Montpelier. 
+2a) If only Venice has Nationalism, one less token is 
+required for the attack. 
+2b) If only Genoa has Nationalism, one extra token is 
+required for the attack. 
+2c) If both or neither has Nationalism, no modifiers are 
+applied. 
+5.6.3.7 
+Attacker's tokens in a province 
+If an attacker already has tokens in the province he or 
+she wishes to attack, these can be used for the first 
+competition attempt. If this attempt is unsuccessful, 
+however, they must be removed. 
+5.6.3.8 
+Multiple defenders 
+If more than one player has tokens inside a province, 
+they must be attacked together, simply adding up all 
+other player's tokens and adding the province's market 
+number as usual. 
+Modifiers are applied in favor of the defenders: 
+ 
+Plus-Modifiers (working against the attacker) are 
+applied if caused by any of the defending players 
+ 
+Minus-Modifiers (working for the attacker) are 
+applied only if they would apply against each 
+player individually. 
+Examples: 
+1) If one of the defenders has an active military 
+advantage (e.g. Armor), the +1 modifier applies. 
+2) If the attacker has Nationalism (and attacks within 
+this area), and none of the defenders has Nationalism 
+for this area, the -1 modifier applies. But if even one of 
+the defenders has Nationalism within this area, the 
+effect is not used for the whole attack. 
+5.6.3.9 
+Resolving a competition attempt 
+Once the attacker has determined that required amount 
+of tokens, and removed them from the expansion area, 
+he or she may try to take over the province. 
+ 
+15
+To resolve the conflict, roll the three dice. 
+The attacker wins if 
+ 
+The black die shows a higher value than the white 
+die, or 
+ 
+The green die shows a higher value than the 
+attacking player's position on the turn order display 
+(NOT the position as such, e.g. the 3rd of 4 players, 
+but the number indicated in the box, i.e. 5th in the 
+above example) 
+If the attacker wins, all of the defender(s) tokens or 
+dominance markers are removed, and replaced by an 
+expansion dominance marker () of the attacker. 
+If the defender wins, all of the attackers's tokens are 
+returned to the player's stock. 
+A player holding 'Cathedral' [H] may choose to 
+automatically win one competition per turn against 
+each non-owner. The usage of Cathedral must be 
+declared before the die roll is performed. 
+It can be used both in offense and defense. 
+'Cathedral' can only be used against a province with 
+multiple players inside if none of the defending players 
+holds it. 
+ 
+Once per turn, immediately after a successful province 
+takeover, a player with 'Wind/Watermill' [J], can 
+attempt to trade a history card with the beaten player. 
+The winner must play expansion tokens () equal to 
+the province's market number, and roll a die equal or 
+below the market number. 
+If successful, the winner chooses one card to give to the 
+other player, and draws one of the other player's cards 
+randomly. 
+Note that this attempt is only possible if the defending 
+player previously CONTROLLED the province with a 
+dominance ( or ) marker. 
+5.6.4 
+Buying cards 
+Instead of placing tokens on the map, each player can 
+decide to buy one extra history card with expansion 
+tokens. 
+The price increases with each card bought during the 
+phase: 
+ 
+1st card: 3 tokens 
+ 
+2nd card: 6 tokens 
+ 
+further cards: 9 / 12 / 15 / 18 tokens 
+5.7 End of turn 
+5.7.1 
+Expansion bonus 
+The player with the most expansion dominance markers 
+() on the map receives an extra history card. Ties are 
+resolved in favor of the player moving first. 
+5.7.2 
+Interest and Profit 
+The advance 'Interest & Profit' [L] doubles the cash 
+held by the player, up to the income (see 5.7.3) of the 
+player. The income of the current turn is NOT doubled. 
+5.7.3 
+Income 
+Income is determined by the number of provinces held, 
+and can be read off the player mat (see 3.14). 
+The 'Middle Class' [Z] advance increases the income by 
+$10. 
+5.7.4 
+Reduce misery 
+Players holding the 'New world' [U] advance reduce 
+misery by one space. 
+5.7.5 
+Roll shortage / surplus 
+Existing shortage / surplus markers are removed. 
+All three dice are rolled twice. Each roll determines one 
+shortage or surplus: 
+Adding the black and white die determines the 
+commodity. A 12 affects both gold and ivory. 
+If the colored die shows 1 to 3, the commodity is in 
+shortage. If it shows 4 to 6, it is in surplus. 
+A shortage and surplus for a single commodity cancel 
+each other. A double shortage or surplus is kept (see 
+rules for playing commodity cards, 5.4.1). 
+5.7.5.1 
+Majority holder 
+If a player controls more provinces providing a 
+commodity than any other player, he or she is the 
+majority holder. If two or more players have the same 
+number of provinces, no one is the majority holder. 
+In case of a shortage, the majority holder draws one 
+extra history card. 
+In case of a surplus, the majority holder must pay $1 
+for each province held providing this commodity. 
+6 End of the game 
+The game ends after a turn where one of three 
+conditions is met: 
+1) A player has bought all 26 advances 
+2) The last card of the history deck is drawn, and the 
+agreed-upon number of epochs has been played 
+through. 
+3) An agreed-upon time limit has been reached 
+6.1 Last turn 
+The last turn ends with the End of turn phase (5.7). No 
+order of play is determined. 
+Before ending the game, however, a final card play 
+phase is performed. 
+6.1.1 
+Final card play 
+All drawn but unplayed cards must be played, using 
+the same order of play as for the final turn. Note that 
+new shortages and/or surpluses have been rolled, but 
+that no player had the opportunity to buy removal. 
+6.2 Victory 
+Each player adds the value of all acquired advances and 
+cash on hand, then subtracts misery to gets the final 
+score. The higher the better! 
+ 
+16
+Index 
+A 
+Advance log ........................................................................6 
+Advances ........................................................................ 5, 9 
+Caravan [I].................................................................... 12 
+Cathedral [H] ................................................................ 15 
+Cosmopolitan [Y].......................................................... 14 
+Enlightenment [D]......................................................... 10 
+Holy Indulgence [F] ...................................................... 11 
+Human body [B] .............................................................9 
+Improved Agriculture [K] ................................................9 
+Industry [M]....................................................................8 
+Institutional Research [X] .............................................. 10 
+Interest & Profit [L]....................................................... 15 
+Laws of Matter [C] ..........................................................8 
+Master art [P] ..................................................................8 
+Middle Class [Z] ..................................................... 10, 15 
+Nationalism [W]............................................................ 14 
+New world [U] ........................................................ 13, 15 
+Ocean navigation [T] .......................................................9 
+Overland east [R] .......................................................... 11 
+Patronage [E] ..................................................................9 
+Pre-requisites ..................................................................9 
+Printed Word [O] ............................................................9 
+Renaissance [Q] ........................................................ 8, 11 
+Seaworthy vessels [S] ......................................................9 
+The Heavens [A] ........................................................... 12 
+Urban Ascendancy [V] ....................................................8 
+Wind/Watermill [J] ....................................................... 15 
+Written Record [N]..........................................................9 
+Area .......................................................................... 4, 7, 11 
+B 
+Buy removal of surplus / shortage ........................................8 
+C 
+Capital .......................................................................... 3, 14 
+Capital bid....................................................................... 7, 8 
+Cash................................................................................ 7, 8 
+Categories ...........................................................................5 
+Civil war ........................................................................... 11 
+Coastal provinces ................................................................3 
+Co-exist ............................................................................ 13 
+Commodity .........................................................................4 
+Commodity cards ............................................................ 5, 8 
+Commodity log ...................................................................4 
+Competition ...................................................................... 13 
+Conflict ............................................................................. 13 
+Controlled territory ........................................................ 4, 11 
+Credit ................................................................................ 10 
+D 
+Determine Order of Play ......................................................8 
+Discount........................................................................ 9, 10 
+Dominance marker .......................................................... 4, 7 
+Draw card phase ..................................................................8 
+E 
+Elimination .........................................................................8 
+Epoch.............................................................................. 3, 5 
+Event cards.............................................................5, 6, 8, 14 
+Expansion ......................................................................... 11 
+Expansion area.................................................................... 4 
+Expansion bonus ............................................................... 15 
+Expansion territory.............................................................. 4 
+G 
+Galleys ..........................................................................5, 12 
+Game terms ........................................................................ 1 
+H 
+History cards................................................................3, 5, 7 
+circle symbol .................................................................. 5 
+square symbol................................................................. 5 
+I 
+Income ........................................................................... 4, 6 
+L 
+Leader cards ................................................................5, 6, 9 
+M 
+Majority holder ................................................................. 15 
+Map changes..................................................................... 1 
+Market ...........................................................................3, 11 
+Market competition ........................................................... 13 
+Market dominance ............................................................ 11 
+Market influence ............................................................4, 11 
+Market number ........................................................ 3, 11, 13 
+Maximum expansion ........................................................... 8 
+Military advantage ............................................................ 14 
+Minimum expansion ........................................................... 8 
+Misery ............................................................................ 5, 7 
+Misery increase ................................................................... 5 
+Misery index....................................................................... 9 
+Misery relief ..................................................................... 10 
+Modifier ........................................................................... 13 
+MR .............................................................see Misery Relief 
+Multiple defenders ............................................................ 14 
+N 
+Name.................................................................................. 3 
+O 
+Ocean ................................................................................. 4 
+Ocean navigation .............................................................. 13 
+Oceangoing vessels ............................................................. 5 
+Order of play ...................................................................... 3 
+Overseas provinces ............................................................. 3 
+P 
+Phase .................................................................................. 3 
+Player mat .......................................................................... 6 
+Province ............................................................................. 3 
+R 
+Rebate ................................................................................ 9 
+ 
+17
+S 
+Satellite ................................................................ 3, 4, 11, 13 
+Sea......................................................................................4 
+Seaworthy vessels.......................................................... 5, 12 
+Secret bids...........................................................................6 
+Ship upgrade .......................................................................9 
+Shipping display ..................................................................5 
+Shortage ........................................................................ 4, 15 
+Stabilization .................................................................. 5, 10 
+Stock...................................................................................4 
+Surplus.......................................................................... 4, 15 
+T 
+Tier ............................................................................... 5, 10 
+Token ..........................................................................4, 7, 8 
+Trade fleets ....................................................................5, 12 
+Turn ............................................................................1, 3, 8 
+Turn order .......................................................................... 8 
+U 
+Uncontested market........................................................... 11 
+W 
+Written cash........................................................................ 8 
+ 
+ 

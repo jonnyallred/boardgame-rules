@@ -19,7 +19,7 @@
 - [ ] If extracted text has gaps or garbled tables, render the PDF pages to images for visual inspection: `python -c "import fitz; doc=fitz.open('source_pdfs/<slug>-rules.pdf'); [doc[i].get_pixmap(matrix=fitz.Matrix(2,2)).save(f'/tmp/<slug>-p{i+1}.png') for i in range(len(doc))]"` then use the Read tool on the resulting PNGs to read tables and diagrams directly.
 - [ ] Summarize interactively with Claude Code: read the extracted text, produce `rules/<slug>.md` following the template format. Precision over brevity — keep all edge cases and exact numbers.
 - [ ] Run `python -m scripts.validate` to check the rules file has all required frontmatter and sections.
-- [ ] Add the new game to the table in `index.md` (alphabetical order) so it appears on the GitHub Pages site.
+- [ ] Run `python -m scripts.generate_index` to rebuild `index.md` with the new game.
 - [ ] Commit the extracted text, rules file, updated `games.yaml`, and `index.md`.
 
 ### Batch Processing (Scalable Pipeline)

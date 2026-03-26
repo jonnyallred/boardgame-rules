@@ -1,0 +1,32 @@
+Entropy Game Rules
+A two-player strategy game based on the eternal conflict in the universe between order and 
+chaos.
+Components:
+Square board divided into 7x7 cells (5X5 is possible as well).
+49 counters: 7 each of 7 different colours (or 5x5 colours, when playing on a 5x5 field)
+Small bag
+The Game
+One player is Order, the other Chaos. Order is trying to make patterns vertically and 
+horizontally. Chaos is trying to prevent this. A pattern is any sequence of counters that is 
+identical if viewed from either direction (left to right/right to left or up to down/down to up). A 
+pattern scores the number of counters in the pattern. All patterns within a pattern also score. 
+For example: red-green-blue-green-red scores 5 and also 3 for green-blue-green; total: 8. 
+Another example: red-green-red-green-red scores 5 plus 3x3 = 14. A further example: red-
+red-red-red scores 4 + 2x3 + 3x2 = 16. All possible patterns are listed below.
+Play
+Chaos puts the counters in the bag. He draws them out unseen one at at a time and places 
+them on any empty square. Each time Chaos places a counter, Order may slide any one 
+counter on the board (inclusding the one just placed) vertically or horizontally over any 
+number of vacant squares (exactly like a rook in chess). Only one counter may occupy a 
+square. When the board is full every vertical and horizontal line is scored. The players then 
+reverse roles and the player with the highest score is the winner.
+Comment
+The variety of play is almost infinite so that each game is different. An average score is about 
+75; 100 is good, 50 is poor.
+A good strategy for Order is to avoid holes into which Chaos can drop awkward colours. The 
+ideal is to have no more than two vacant areas. Order achieves this by moving counters to the 
+sides. As the game progresses, Order can calculate the odds of a particular colour coming out 
+of the bag next.
+Tournament rules, using a timing clock, have been perfected.
+Here, for ease of checking, are the 30 possible scoring combinations. Distinct letters stand for 
+distinct colours.

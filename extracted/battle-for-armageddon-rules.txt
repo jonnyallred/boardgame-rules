@@ -1,0 +1,1554 @@
+CONTENTS
+INTRODUCTION 
+Summary of Play
+COMPONENTS
+GAME RULES
+SETTING UP
+THE SEQUENCE OF PLAY
+Stacking
+First turn surprise
+THE STRATEGY SEGMENT
+ACTION SEGMENTS
+THE VICTORY SEGMENT
+ACTION PHASES
+MOVEMENT PHASE
+Which Counters Have You Used?
+COMBAT PHASE
+Retreats
+Working Out Odds Ratios
+BUILD PHASE
+Imperial Build Phases
+Ork Build Phases
+SUPPLY
+CHRONOLOGY
+BIOGRAPHIES
+GAME DESIGN
+JERVIS JOHNSON
+BILL KING
+PRODUCTION
+RICHARD HELLIWELL
+BOX COVER
+FANGORN
+BOARD ART
+MARK GIBBONS
+PRODUCED BY
+GAMES WORKSHOP
+White Dwarf and Warhammer are registered trademarks of
+Games Workshop Ltd.
+Citadel Miniatures, the Citadel Castle and Games Workshop are all
+trademarks of Games Workshop Ltd
+All artwork in all Games Workshop products and the images contained
+therein have been produced either in-house or as work for hire. The
+exclusive copyright on the artwork and the images it depicts is the
+property of Games Workshop Ltd.
+Game Design consultant Bryan Ansell.
+© Copyright Games Workshop Ltd, 1992. All Rights Reserved.
+A
+GAMES WORKSHOP
+PRODUCT
+
+INTRODUCTION
+Battle for Armageddon is a strategic wargame that simulates
+the conflict between Orks and the Imperium for control of the
+Imperial hive world Armageddon.
+The war involved tens of millions of combatants and took
+two decades to resolve. By its end, the lives of countless
+millions of Ork and Imperial warriors had been lost.
+Armageddon is a tough place where little value is attached to
+human life, while air, light and food are precious and rare
+commodities. The surface of planet has been plundered of all
+resources and reduced to little more than an ashblown desert.
+Scattered across the planet are huge cities called hives, which
+are home to the millions upon millions of people that make
+up the planet's population, and which provide the planet
+with its vast manufacturing capability. The hives and factory
+cities of Armageddon produce arms and weapons that equip
+fighting units for hundreds of light years in every direction,
+and its loss would be a serious blow to the Imperium's
+ability to defend this sector of the galaxy.
+The game concentrates on the campaign fought for control of
+the vital Armageddon Secundus area of the planet. The vast
+factory hive cities on this continent produced over 80% of
+the planet's industrial wealth and were vital for the Imperial
+war effort. If Armageddon Secundus were conquered, the
+Imperial forces would be starved of ammunition 
+equipment, and the planet would fall to the Orks. The Orks
+decided to use three whole tribes, over half their entire
+invasion force, to capture the continent. The resulting
+campaign lasted for almost two years and was one of the
+bloodiest in Imperial history.
+The initial Ork offensive caught the Imperial forces almost
+completely by surprise. Ork spearheads punched through
+Imperial lines and pushed deep into Imperial territory.
+Furious counter-attacks failed to stop the Ork advance, and it
+looked as if all was lost. But in this dark hour, salvation was
+at hand. First, the heroic defence of the Hades hive against
+almost impossible odds slowed and then halted the Ork blitz.
+Then the arrival of three entire Space Marine Chapters - the
+Salamanders, Ultramarines and Blood Angels - turned the
+tide of battle in the Imperium's favour.
+Although the Orks' initial attack had been stopped, the
+campaign was by no means over. Seesaw battles of attrition
+and manoeuvre engulfed the continent, and the fate of
+Armageddon hung in the balance. Finally, however, the Orks
+were decisively defeated at the battle of Tartarus hive. The
+shattered remnants of the once mighty Ork tribes retreated
+back to the original 
+border, and the campaign 
+Armageddon was over. Although the war for the rest of the
+planet carried on for more than a dozen years, the Orks' defeat
+in this campaign marked the end of any hope of Ork victory.
+SUMMARY OF PLAY
+The game begins at the start of the campaign, with the
+three Ork tribes poised on the border of Armageddon
+Secundus, and all hell about to break loose! One
+player takes the side of the Orks and the other of the
+Imperium. Cardboard counters represent the military
+units that make up the huge armies. Each counter is
+printed with a name and picture to show what type of
+unit it represents, and the three numbers at the
+bottom rate how good the counter is at attacking,
+defending and moving.
+The game is split into eight turns, each of which
+represents about three months of the actual campaign.
+At the start of each turn you decide on a plan for your
+army to follow by picking two strategy cards and
+placing them in a stack in front of you. The cards list
+what you may do when the card is revealed. If, for
+example, you had a 'movement & combat' card, you
+can move and then attack with your pieces. Once
+both players have chosen their strategy cards, they
+each roll a D6. Whoever scores highest wins the
+initiative and goes first, flipping over the top card in
+his stack of strategy cards and carrying out the two
+phases listed on the card in the order shown. His
+opponent then flips over his top card, and so on, with
+the players taking it in turn to reveal a card and carry
+out the phases.
+Victory is determined by the number of hives you
+control at the end of each turn. The Ork player must
+attempt to capture as many Imperial hives as
+possible, so as to fatally undermine the Imperial war
+effort. The Imperial player must desperately defend
+his hives, and attempt to recapture and rebuild those
+that fall into Ork hands.
+
+COMPONENTS
+In addition to this rulebook, Battle For Armageddon
+includes the following components:
+1 Game Board
+145 Counters
+24 Cards
+1 Reference Sheet
+2 Dice
+GAME BOARD
+The game board shows a map of Armageddon Secundus. It is
+divided into a number of different sized areas to help
+regulate movement. A key describing the different types of
+terrain shown on the map is included on the reference sheet.
+The game board also includes tracks that are used to record
+information needed while you are playing.
+COUNTERS
+Each counter is printed with a name and picture showing the
+unit it represents, and three numbers at the bottom. These
+show the counter's attack value, defence value and movement
+value, and the higher they are the better! All of the Imperial
+counters are printed on a blue background, while the Ork
+counters are printed on a green background. The Ork army is
+divided into three tribes that are shown by the central band
+of colour on the counter. All of the counters with a red band
+belong to the same tribe, for example.
+CARDS
+There are four sets of cards included with the game: a set of
+Ork strategy cards, a set of Imperial strategy cards, a set of
+Ork special cards and a set of Imperial special cards. The
+strategy cards are used to determine which plan your army
+will follow during each turn, while the special cards allow
+you to make special attacks or actions not normally allowed
+by the game rules.
+REFERENCE SHEET
+The reference sheet includes various charts, tables and
+special rules that you will need to refer to during play, so
+keep it handy!
+
+THE GAME RULES
+SETTING UP
+Before you start, it's a good idea to read through these rules
+at least once so you get some idea of how the game works.
+They aren't complicated, and reading them won't take very
+long. Once you've done this, clear a large space on a table
+and set up the board. Place the build points counter on the
+'20' space on the Imperial build points track, and the turn
+counter on the '1' space on the turn track. One player takes
+all of the Imperial counters and cards; the other player takes
+all the Ork counters and cards.
+HIVE AND FACTORY AREAS
+The Hive and Factory areas printed on the game map
+represent the vast industrial complexes for which
+Armageddon is famous. The larger hives are picked
+out by having their name printed in their area
+(Acheron, Hades, Tartarus, Hellsreach and Infernus).
+Both types of area are called industrial areas on the
+Terrain Effects Chart, and have the same effect on
+movement and combat. However, only hive areas are
+used to determine who has won the game.
+The Imperial army is set up first. The counters that make up
+the Imperial army at the start of the game are shown on the
+reference sheet, as are the instructions telling you where to
+place them on the map. Sort out the starting counters and set
+them up, but be careful not to break the stacking rules
+described on this page. The remaining Imperial counters are
+placed to one side for later use.
+After the Imperial player has set up, the Ork player may set up
+his army. All three Ork tribes are set ' up in full at the start of
+the campaign - in other words the Ork player gets every
+single Ork counter! The land the Orks occupy is called Ork
+territory and runs along the northern edge of the map; areas
+in Ork territory have dashed boundary lines. The Ork player
+may set up his counters anywhere within Ork territory,
+subject to the stacking rules.
+Finally both players sort out their special cards. Shuffle
+your own deck of cards, deal yourself two cards at random,
+and place the remainder near at hand. The two cards you dealt
+out make up your starting hand of special cards. When each
+card may be used, and what effect it has on play is written on
+the card itself. However, you may only use one special card
+per action segment, and you must discard the card after you
+have used it.
+Once you've both set up, you're ready to start the first turn of
+the game. Good luck!
+THE SEQUENCE OF PLAY
+Battle For Armageddon is played in a series of game turns,
+each of which is divided into six segments. All activities
+may only take place in the correct segment, and each segment
+must be finished before the next can be started. What you do
+in each segment is described below and explained in the
+rules that follow.
+1. STRATEGY SEGMENT. Both players secretly choose two
+strategy cards as explained below, and then each player rolls
+a dice. The player who scores highest has won the initiative
+for the turn. Finally, both players draw a new special card.
+2. FIRST ACTION SEGMENT. The player who won the
+initiative reveals his first strategy card and carries out the
+two phases shown on the card. He must then check to see if
+any of his counters are out of supply.
+3. SECOND ACTION SEGMENT. The player who lost the
+initiative roll reveals his first strategy card, carries out the
+two phases, and checks to see if any of his counters are out of
+supply.
+4. THIRD ACTION SEGMENT. The player who won the
+initiative reveals his second strategy card, carries out the two
+phases revealed, and checks to see if any of his counters are
+out of supply.
+5. FOURTH ACTION SEGMENT. The player who lost the
+initiative roll reveals his second strategy card, carries out the
+two phases, and checks to see if any of his counters are out of
+supply.
+6. VICTORY SEGMENT. Check the victory conditions
+printed on the reference sheet to see if either player has won.
+STACKING
+When you have more than one counter in an area, they
+must all be placed on top of one another in a single
+neat pile called a stack. With the exception of the
+counters listed below, you may never have more than
+three counters in a stack. The Ork player suffers from
+the additional restriction that he may not stack
+counters from different tribes together. The central
+band of colour shows the tribe that an Ork counter
+belongs to on the counter. If you break the stacking
+rules and your opponent spots the mistake, then he
+may choose which counters you have to destroy to
+make the stack 'legal'.
+Some special counters do not count against the
+stacking limit, and may be included in a stack in
+addition to the three counters you are normally
+allowed. These counters are Warlord Ghazghkull,
+Commissar Yarrick, Space Marine Commander Dante,
+Fortifications, Factories and Hives.
+
+FIRST TURN SURPRISE
+The Orks' attack caught the Imperial forces almost
+completely by surprise. To represent this, the
+following rules apply on the first turn of the game:
+1. The Ork player always receives the initiative on the
+first turn.
+2. The Ork player receives a +1 bonus to any attacks he
+makes on the first turn. This bonus only applies if the
+Orks are attacking, not if they are defending.
+3. The Imperial build point total is halved in any
+Imperial build phases taken on the first turn of the
+game.
+THE STRATEGY SEGMENT
+Each player has a hand of 6 strategy cards. In the strategy
+segment you must select any two cards, placing them in a face
+down stack in front of you. The order that you stack the cards
+in is very important, as it determines the order in which the
+cards will be revealed. The top card in the stack is always
+revealed and carried out first, as explained below.
+Once both players have chosen their strategy cards, each player
+rolls a D6. Whoever scores highest wins the initiative and
+takes the first action segment.
+Finally, each player may draw a new special card. Take the top
+special card from the deck and add it to your hand of special
+cards. You can have any number of special cards in your hand.
+If the deck is exhausted, shuffle any discards and draw your
+card from the new deck.
+ACTION SEGMENTS
+Each strategy card has two action phases listed on it. These
+two phases must be carried out in the order shown on the card;
+you are not allowed to move on to the second action phase on
+the card until you have finished the first action phase. How
+you do this is described on the next page in the rulebook.
+The players take it in turn to reveal their strategy cards in the
+action segments. The player with the initiative goes first,
+flipping over the top card in his stack of strategy cards,
+carrying out the two phases listed on the card in the order
+shown, and finally checking to see if any of his counters are
+out of supply. His opponent takes the second action segment,
+flipping over his top card, carrying out the action phases in
+the order listed and then checking supply, and so on.
+THE VICTORY SEGMENT
+At the end of each and every turn you must check to see if
+either player has won. If neither player has won by the end of
+the 8th turn, the game is a draw. The two sides have their own
+set of victory conditions:
+The Ork player wins by capturing any three of the five
+Imperial hives. A hive is considered to be captured by the
+Orks if it has been flipped to its 'smoking ruins' side and it is
+stacked with an Ork counter in the victory segment.
+The Imperial player wins if he is in control of all five of his
+hives and the Warlord Ghazghkull counter has been removed
+from play. The Imperial player is considered to control a hive
+if it is face up, or if an Imperial counter is stacked with its
+smoking ruins in the victory segment.
+
+ACTION PHASES
+Three different types of action phase can be carried out in an
+action segment: movement phases, combat phases and build
+phases. You may move your counters when you have a
+movement phase, attack with your counters when you have a
+combat phase, and build new counters when you have a build
+phase. Exactly how you do this is explained in the rules that
+follow.
+MOVEMENT PHASES
+In a movement phase you are allowed to move any or all of
+your counters. The number of areas a counter may move is
+shown by its move value (the third number on the counter).
+You may move as many of your counters as you wish: all,
+some or none.
+A counter may be moved a number of areas equal to or less
+than its move value. It may be moved in any direction or
+combination of directions, as long as it does not enter a Sea or
+Mountain Area, or enter an area occupied by an enemy counter
+of any type (including special units).
+Counters are moved one at a time, and you must finish a
+counter's move before you move another one. Once you have
+started to move another counter, you may not change a
+previous move, no matter how much you want to!
+The stacking limits described earlier only count at the end of
+the movement phase, so while you are moving you may
+WHICH COUNTERS HAVE YOU USED?
+With so many counters in the game, it is very easy to forget which
+counters have moved or fought during a phase. To help you
+remember. Flip the counters over or turn them through 180' as you use
+them. Then turn all of the counters back round at the end of the phase,
+over-stack. For example, you can move a counter through an
+area which already has three counters in it, or you can move a
+counter into an area with three counters, and then move one of
+those counters out. However, your opponent is allowed to
+choose which counters are eliminated if you end up with more
+than three counters in a stack at the end of the movement
+phase.
+COMBAT PHASES
+In a combat phase each of your stacks is allowed to make one
+attack against an enemy stack in an adjacent area. Note that
+attacks are made by and against stacks, not individual
+counters. If one of the counters in a stack makes an attack,
+then all of the others must take part in that attack as well.
+Similarly, you are not allowed to pick out one enemy unit in a
+stack and only attack that one, you must attack the whole
+stack.
+EXAMPLE OF MOVEMENT
+It's the start of the Ork movement phase in the second turn of the game. The
+Orks have blown a hole in the Imperial lines and are now ready to exploit the
+gap they have made.
+The Gargant Big Mob moves first. It only has a movement value of] (Gargants
+aren't noted for their speed), so it moves one area across the Diablo river to
+occupy the smoking ruins on the other side.
+The Nobz move second. They have a movement value of 2, so they can
+move 2 areas. The Ork player moves them into the area with the
+Gargants and then onto the ash wastes just beyond. From here the Nobz
+threaten to outflank and surround the 6th Guard army.
+Finally, the Ork player moves his Bad Moon battlewagons. These move 2
+areas to join the Nobz. Although they have a movement value of 3, they
+have to stop here, because a unit must stop moving when it enters an ash
+waste area.
+
+It's up to you in what order you make your attacks, but you
+must finish one attack before you are allowed to move on to
+the next one. In addition, you are not allowed to attack the
+same enemy held area more than once per combat phase. If you
+don't get it the first time you have to wait till your next
+combat phase!
+You are allowed to make combined attacks where two or more
+of your stacks attack the same enemy stack, just so long as all
+of the attacking stacks are adjacent to the stack being attacked.
+The only exception is that Ork stacks belonging to different
+tribes may not attack together.
+Attacks are resolved by using the Combat Results Table
+printed on the reference sheet. To resolve each attack you must
+follow this simple 5 step procedure:
+1.
+'Re attacker adds up his counters' attack value.
+2.
+The defender adds up his counters' defence value.
+3.
+The two are converted to a ratio by dividing the
+attacker's total by the defender's total, rounding any
+fractions down. Some examples of how to work out odds
+ratios are shown in the box to the right on this page. The
+ratio determines which column is looked up on the
+Combat Results Table.
+4.
+The attacker rolls a D6 and the score is cross-referenced
+with the odds ratio to determine the outcome of the
+battle. Sometimes modifiers are applied to the dice roll
+(-1 for attacking across a river for example). However,
+the dice roll can never be modified above 6 or below 1.
+5.
+Look up the result under the Combat Results Table and
+follow the instructions there. Note: On results that call
+for 'one counter' to be eliminated, the player who
+controls the counters is allowed to decide which is
+removed
+WORKING OUT ODDS RATIOS
+Working out the odds ratios may seem difficult at first, but you'll very
+quickly get the hang of it. Here are a few examples to get you started:
+Assume the attacker has 12 points and the defender has 4 points. 12
+divided by 4 is 3, so the odds ratio is 3 to 1.
+If the tables were turned and it was the attacker who had 4 points to the
+defender's 12, then the odds would be I to 3 instead of 3 to 1. If the
+attacker only had 11 points to the defender's 4, then the ratio would be
+2 and a bit to 1, which is rounded down to 2 to 1.
+RETREATS
+Several results on the Combat Results Table call for one
+player's counters 
+to retreat. 
+ Retreating 
+counters 
+are
+immediately moved one area by the player that controls them.
+They may move into any area that they could enter using the
+normal rules for movement. Counters may not retreat into an
+area if this would cause over-stacking.
+If the counters cannot retreat for any reason, then they are
+eliminated instead. Note that this means that pieces with a
+movement value of 0 are destroyed if forced to retreat, as they
+are not allowed to move.
+Sometimes a counter that has already retreated will find itself
+in an area that is attacked later in the same combat phase. If
+this happens, then any counters that have already retreated are
+treated as having a defence strength of 0, may not be used to
+satisfy combat losses, and will be destroyed if forced to retreat
+a second time.
+At the start of an Ork combat phase the situation is as shown on the first
+diagram. The Ork player has decided to attack the 3rd Guard Army and the
+2nd Brigade of Rough Riders with the Goff units shown, led by Ghazghkull
+himself. He can't use the Bad Moon hordes as well, because counters from
+different Ork clans are not allowed to combine to make an attack.
+The two defending Imperial counters have a combined defence value of2+4=6,
+while the Orks have a combined attack value of 6+5+6+6+6=29. 29 divided
+by 6 equals 4 and a bit to 1, which rounds down to 4-1 on the Combat Results
+Table. If the Ork player had been able to scrape together just I more attack
+point to bring his total up to 30 points he would have had a combat ratio of5-
+The Ork player rolls the dice and scores a 2. No modifiers apply to the
+dice roll (the - I modifier for a river only applies if all the attackers are
+coming across a river). A roll of 2 at 4-1 odds is an EX or Exchange
+result, which means that both the attacker and the defender must lose a
+counter from each stack, and then the defender has to retreat. 7his is just
+about the worst result the Orks could have got, so the Ork player decides
+to use Ghazghkull's special ability to reroll the dice. 7hiv lime he rolls a
+magnificent 6 and gas a DE or Defender Eliminated result. 7'his wipes out
+both the Imperial counters, and the Ork player can now advance into the
+area with any units that have a movement value of 2 or more. He decides
+
+BUILD PHASES
+In a build phase you are allowed to add new counters to your
+army. If you don't have a build phase, it is assumed that your
+workers are being used to make extra supplies to cover the
+extra combat phase(s) you will be taking, instead of making
+tanks and guns to equip new units.
+IMPERIAL BUILD PHASES
+The Imperial player uses build points to buy new counters, or
+to rebuild counters that have been destroyed. The number of
+build points is recorded on the build point track on the
+gameboard, and depends on how many hives and factories are
+still intact. Each hive or factory produces a number of build
+points equal to its defence value (the second number on the
+counter). Whenever a hive or factory is reduced to smoking
+ruins, move the marker on the track down a number of spaces
+equal to its defence value. When a hive or factory is rebuilt,
+move the marker back up.
+The number of build points it costs to build each counter is
+shown on the reference sheet. If a counter is not included on
+the reference sheet, like the Space Marine Chapters, then it
+cannot be rebuilt. You can choose which counters to build
+from those lost so far, or from any that were set aside at the
+start of the game. Although counters of the same type have
+different combat and movement values, they all cost the same
+number of points to build. For example, if you built an
+Imperial Guard counter, you could choose to take the 1st Army
+(a 4-5-1) or the 20th (a 2-3-1) - I know which one I'd choose!
+Any build points that you don't use are lost, so you should try
+to use them all up if possible.
+Once you've selected all the counters you want to build, place
+them on the production track on the game board in the space
+marked with their name. Next you must move all the counters
+on the production track one space to the right, towards the
+'ready' box. Any counters that are moved into the 'ready' box
+can be transferred to the game map. Note that you move all of
+the counters on the track, including those that you have just
+built; this means that Hive Gangs are placed on the map on the
+same rum that they are built. New counters must be placed
+with a hive or factory, subject to the rules for stacking. If you
+can't fit all of the counters onto the map, then any excess must
+stay on the production track.
+ORK BUILD PHASES
+The Ork player may rebuild one counter for each two smoking
+ruins he controls. A smoking ruin is controlled by the Orks if
+it is stacked with an Ork counter. For example, if you control
+five smoking ruins, then you could only rebuild two counters;
+the fifth smoking ruin is not part of a pair and does not entitle
+you to another counter.
+You may choose which counters to return to play freely from
+those lost so far, apart from the Warlord Ghazghkull counter,
+which may not be rebuilt. The counters may be placed on a
+garrisoned smoking ruin or an Ork supply area, subject to the
+rules for stacking.
+SUPPLY
+In order to keep your armies fighting you must supply them
+with food, ammunition and fuel. After you have completed
+both of the phases listed on your strategy card, you must make
+sure that your counters can trace a supply line back to one of
+its own side's supply areas.
+Supply lines are traced along a path of areas from the counters
+back to the supply area. The path may be of any length but
+may not enter a) an area occupied by enemy counters, b) a
+mountain area, or c) a sea area. Supply lines can be traced
+through ash wastes.
+Counters that are out of supply are destroyed, unless they are
+in a stack that includes a hive or fortification. If a stack does
+include a hive or fortification, then it is only destroyed on a
+D6 roll of 1-3. U a stack includes both a hive and a
+fortification, then roll the dice twice, and the stack is only
+eliminated if you fail both rolls. Note that you roll for the
+entire stack, not for each counter in the stack.
+The diagram shows the situation at the start of the Imperial player's turn. 7he
+two Alive Gang units are out of supply, as they cannot trace a route to a
+supply area that does not pass through areas occupied by enemy units.
+Because of this they will be eliminated at the end of the Imperial player's turn
+unless he can open up a supply line to them. Note that the units in Helsreach
+are in supply, because Helsreach is a supply area itself (it was a "major port
+supplies 
+could 
+be 
+brought 
+in 
+by 
+ships 
+submarines).
+
+On the day of the Feast of the Emperor's Ascension, 40,941,
+the massive Ork assault on Hiveworld Armageddon began.
+System ships from space hulk Alveus Alpha Alpha Sextus
+smashed through the orbital cordon of the planet, annihilating
+the obsolete orbital monitors completely. A massive space
+drop swiftly overwhelmed most of the western continent of
+Armageddon Prime. Lightning assaults by the highly mobile
+Ork forces encircled hive after hive. Tens of thousands of Ork
+Boyz blasted through the hives' outer defences and massacred
+or enslaved 
+the populations 
+within. Soon 
+lines 
+communication were cut and vital supplies started to run out.
+Across the continent the forces of humanity were driven into
+retreat. Due to criminal negligence on the part of
+Overlord Von Strab (cross-reference to Administratum file:
+Armageddon 40004, Prosecutions for war crimes), the ill-
+prepared human forces were nearly swept away under the green
+tide. Divisions of the Planetary Defence Force were sent out
+piecemeal by Von Strab only to be outflanked and destroyed
+by the enemy.
+Endless columns of Ork war machines, raised plumes of dust
+hundreds of metres high as they raced across the ashwastes.
+The voices of a hundred thousand Orks roared their brutal cries
+of victory. Reports came in from battlefield after battlefield
+where the blood of brave human warriors stained 
+multicoloured sands. It became obvious that Von Strab had
+seriously underestimated the cunning and strategic ability of
+his foe, Ghazghkull Thraka, Overboss of all the Goffs, Prophet
+of the Waaa!
+
+Interrogation of Ork prisoners by elements of the Inquisition
+has enabled us to piece together a picture of this remarkable
+individual. Ghazghkull started his career as a common Ork
+trooper on the backwater world of Urk. During the course of a
+raid a bolter shell pulped a large area of his cranium and he
+suffered extensive brain damage. An Ork Painboy called Dok
+Grotsnik replaced part of his cerebellum with a bionic device.
+It may be that this device somehow triggered latent psionic
+powers or it may be that Ghazghkull simply suffered from
+delusions, but, for whatever reason, he claimed to be in contact
+with the Ork's so-called deities, Gork and Mork.
+Some dark power certainly favoured him, for his rise to
+prominence among the Orks of Urk was meteoric. He swiftly
+fought his way through the ranks till he achieved the position
+of supreme planetary boss. Orks are simple, brutal creatures,
+respecting little other than courage and battle prowess. It
+cannot be doubted that Ghazghkull possessed both these
+qualities in abundance. In addition he had something that
+most Orks conspicuously lack: he had vision. He stirred the
+Orks with impassioned speeches telling them it was their
+mission to conquer the galaxy, to force all others to bow the
+knee and pay tribute. He gave them a common purpose and an
+overwhelming sense of destiny.
+All of this might have gone for nought had not two other
+things occurred near simultaneously. The first was that Urk's
+sun started to flicker and die. The second was that by some
+malign chance, or design, a space hulk drifted into the Urk
+system. Ghazghkull told his followers that the first was a sign
+from Gork and that the second was a gift from Mork. Those
+who wanted to follow Thraka on his grand crusade could board
+the hulk. Those who wished to disobey their gods could
+remain behind to die. To an Ork they chose to follow Thraka.
+To an Ork they followed him down to Armageddon,
+abandoning their hulk to drift out-system. The Orks stranded
+themselves on Armageddon. They would conquer or die.
+If Ghazghkull was remarkable for his battle skills and his
+single mindedness then his opponent was equally remarkable
+for being his opposite. Herman Von Strab, youngest son of
+Luthor Von Strab, was quite simply incompetent. He was
+typical of a decadent planetary aristocracy who had acquired
+power by assassination and intrigue and who retained it by
+fear. Although personally fearless and ruthless to the point of
+insanity, he had little
+HIVE WORLDS
+Hive worlds like Armageddon are planets that were
+settled thousands of years ago, often before the time of
+the Imperium. Their huge population far outweighs the
+planet's ability to feed or support it. They are tough
+places where little value is attached to human life,
+while air, light and food are often precious and rare
+commodities. The surface of the planet has been
+plundered of all resources and has been reduced to
+little more than an ashblown desert. The massive hives
+and factory cities that sprawl across the land give the
+planets their distinctive character and their collective
+name of hive worlds.
+understanding of the magnitude of the threat to his world
+or how to deal with it. Long before the invasion occurred
+omens predicting disaster were rife: the Imperial Tarot
+gave the same consistent message in reading after reading;
+Navigators on incoming 
+freighters warned of great
+disturbances in the Warp. The Statue of the Emperor in the
+great shrine of Helsreach wept bloody tears. Von Strab
+ignored all warnings.
+When the hulk drifted in system he refused to dispatch any
+ships to investigate. He said that no mere piece of cosmic
+flotsam could threaten his ancestral world. He complied with
+the standard instructions of the Codex Ministorum and
+notified the Administratum of the sighting but that was all.
+His investigative procedures were extra-ordinarily lax. Only
+after the first Ork ships had landed was a distress call to the
+Imperium sent out, and that was only because one of Von
+Strab's subordinates, Commissar Yarrick, had the presence of
+mind to dispatch it. Even then Von Strab refused to take the
+threat seriously and had Yarrick banished to the southern
+continent of Armageddon Secundus. He would not trouble the
+Imperium with any requests for aid; he would triumph over the
+Orks himself.
+Despite having such a terrible commander the forces of
+humanity fought bravely. They rallied to protect their home
+hives and dug in to fight a brutal last-ditch defence against the
+Ork invaders. Shattered armies fled across the wastes to reform
+and regroup round the core hives. Columns of refugees tens of
+kilometres long sought succour in the last bastions of
+humanity on Armageddon Prime. In the South Commissar
+Yarrick organised shuttle
+
+runs to supply the embattled North. Courageous pilots ran the
+Ork orbital blockade, skipping out of the atmosphere and back
+in again before the Orks could intercept them. This was an
+extremely risky technique and many shuttle captains perished
+with their crews, the half-melted remains of their ships
+plunging from the sky.
+Even with these supply runs it looked as though the North
+would fall. Von Strab hastily commandeered a ship and
+relocated his headquarters to Tartarus Hive in the South.
+Kurtiz Mannheim, Princeps Prime of the Iron Skull Titan
+Legion temporarily stationed on Armageddon, warned that
+soon the storm would blow south. He urged Von Strab to
+prepare for an invasion. Three of the great Ork tribes were
+unaccounted for in the North. The overlord ignored him; they
+were being held in reserve, he said. They could never cross the
+impenetrable jungle separating Prime and Secundus. Now he
+would assemble a mighty counterattack and liberate the North.
+Two days after Von Strab made his proclamation the Orks
+invaded 
+Armageddon 
+Secundus; 
+true 
+battle 
+Armageddon had begun. It started in the Season of Shadows,
+when the volcanic mountains of Armageddon erupt, sending
+great clouds of smoke and dust swirling across the turbulent
+blood-coloured skies.
+Massive armoured columns smashed through the thinly held
+Imperial border positions. War buggies raced across the
+blazing sands towards the human lines. A howling mass of
+green-faced devils overran the hard-pressed human defenders.
+By the flickering light of the Palidus Mountains, as Mount
+Eschatus itself erupted and lava bubbled and hissed down its
+slopes, man and Ork fought and died. Bolters thundered
+relentlessly. Gargants lumbered forward, dwarfing fleeing
+human warriors, myriad turrets spitting death. The Orks
+punched holes through the human lines and drove south. Two
+tribes swept east of the Palidian range heading towards Hades
+hive. The remaining Ork tribe struck out west towards Port
+Helsreach.
+Despite the protests of Princeps Mannheim, Von Strab ordered
+his most powerful mobile forces to stem the tide. Mannheim
+argued it was better to wait and fight a holding action until
+reinforcements from the Imperium arrived. Von Strab screamed
+that he needed no help. Under oath to
+THE EMPEROR
+The Imperium of Man stretches across the galaxy from
+rim to rim, encompassing over a million worlds and
+untold billions of people. It is the largest empire that
+has ever existed in the history of humanity. The
+Imperium is ruled as it has been for the last 10,000
+years by the Divine Champion of Man and Protector of
+the Human Race, the Emperor of Mankind. The
+Emperor is a godlike being with psionic powers that
+are incomprehensible to ordinary humans. Without the
+Emperor the Imperium would collapse and human
+unity would be destroyed, leaving the remaining
+pockets of civilisation isolated and vulnerable to the
+alien creatures that seek to destroy or enslave the
+human race.
+obey his overlord Mannheim could say no more. He put on his
+best dress uniform, thanked his staff for their loyalty, said
+goodbye to his wife and children and then climbed into his
+Titan, Steel Hammer.
+Following Von Strab's orders he led his legion against the
+strongest concentration of Ork forces while the first tank
+division attempted to ambush another Ork force. Greatly
+outnumbered, the Legion was cut down. Steel Hammer
+managed to destroy three Ork Gargants before it was blown to
+pieces. Mannheim refused to evacuate; instead preferring to
+take his crippled Titan right into the heart of the Ork formation
+as its reactor melted down. His crew chose to remain with him.
+Mannheim was posthumously awarded the Emperor's Star.
+Overwhelmed by sheer force of numbers and superior Ork
+firepower, the Imperial forces were broken. The shattered
+remnants of human divisions fell back to establish a defensive
+line along the boiling river Stygies in the West and by the
+rust-red banks of Diabolus in the East. Beaten men limped
+across the wasteland, readying themselves to sell their lives
+dearly in defence of their homeworld. Filled with triumph the
+Orks advanced to meet them.
+As the Season of Storms broke, blowing the clouds from the
+sky the Orks' drive south continued. They punched through
+the pitiful improvised defences the human survivors had built
+along the riverbanks and swept round the Palidus Mountains
+to Infernus hive. Demoralised by continuous news of defeat,
+with no faith in the promises of the planetary overlord and
+dismayed by the sheer size of the mechanised Ork hordes, the
+Governor of Infernus surrendered without a fight. Bike-
+mounted Ork outriders harried the hundred kilometre long
+refugee columns that fled the city, herding them back to
+Infernus and slave labour in the factories.
+Given the fact that the Orks measured senior citizens, women
+and children against their own n inhuman standards of
+toughness, hundreds of thousands were to die in captivity.
+Soon Hades hive cluster was besieged and the site of the
+heaviest fighting yet seen during the campaign. Commissar
+Yarrick supervised the defences. In those dark days he seemed
+to be everywhere, supervising the welding shut of the great
+blast portals, personally negotiating treaties of allegiance with
+the hive gangs and inducting them into the army, raising the
+spirits of a people demoralised by starvation and defeat with
+his own unquenchable belief in ultimate victory. Amazingly
+he welded together a ragtag army capable of standing off the
+Orks. At Hades they halted.
+One can only imagine what it must have been like. The
+hundreds of kilometres of earthworks hastily thrown up by the
+Ork siege engineers, the giant Gargants blasting away at the
+distant hive spires, guns thundering like the laughter of mad
+gods. Hundreds of thousands of red hate-filled eyes glaring at
+the prize, so near and yet so unreachable. The human
+population scuttling through the shadows of the hive, endless
+kilometres of corridor darkened from the need to save power.
+Thousands starving or eating rats and roaches. Who knows
+what feats of heroism and horror took place in that place, at
+that time? Those who survived do not talk much about it, save
+to praise the bravery of Yarrick.
+
+HIVE GANGS
+There are many different types of armed band on Armageddon,
+including clan warriors, bands of ash nomads, mutant bands
+from the undercities of the hives, outcast groups of fugitive
+psykers, unruly brat gangs from the upper hive layers, as well as
+professional bounty-hunters, guards and retainers, and many,
+many others. In times of great peril these unruly warriors are
+banded together to fight alongside the more organised and
+disciplined Imperial forces. Although looked down on by the
+regular Imperial troops, hive gang armies often spelt the
+difference between victory and defeat in the Armageddon
+campaign.
+Overlord Von Strab announced that he possessed a secret
+weapon that would win the war for the humans. To the horror
+of his generals he revealed that one old legend was true. His
+family did indeed possess a stock of ancient virus bombs from
+the time when Armageddon was first colonised. These
+millennia-old devices, mounted on antique missiles, were
+hastily pressed into service. Unfortunately they were so old
+that many malfunctioned, rockets refused to fire, detonators
+refused to arm and the virus itself had lost potency over time.
+The missiles wreaked terrible havoc among the Orks but not on
+the scale hoped for. The Ork advance was not stopped. Von
+Strab retired to his fortified bunker to sulk.
+In the West the defenders of the port of Helsreach, heartened by
+the resistance in Hades, put up a brave fight. They defended
+the dockyards and refineries bravely. Street gangs using
+improvised weapons ambushed the Orks at every turn. Hastily
+converted armoured supertankers were pressed into service to
+evacuate non-combatants. There was not enough room to take
+everyone so lots were drawn for berths on the ship. Weeping
+families parted knowing that they probably would never see
+each other again.
+Once the last ship had sailed the defenders knew there was no
+refuge for them; each member of the assembled Hive Defence
+Units swore a mighty oath to sell his life as dearly as possible.
+Driven by hate and rage they fought the Orks with the fury of a
+berserk rhynodon. Suicide bombers leapt amid Ork patrols
+and detonated their chest bombs. The corridors of Helsreach
+ran with blood. The drivers of the great loading cranes in the
+harbour welded themselves into their vehicles and attacked
+Gargants. Wave after wave of Ork attacks were repulsed until
+even the Ork generals began to doubt the wisdom of their
+attack. Messages of hope from Helsreach were broadcast over
+the com-net in Hades hive.
+It was the people of Helsreach's darkest hour when the port
+finally fell. Defeat, when it came, arrived from a most
+unexpected quarter. Ork Weirdboyz summoned a psychic
+storm. Waves of pain burst into the minds of the hive's
+defenders. Some went mad, some died of shock, the heads of
+some exploded. Under cover of this storm the Orks entered
+Helsreach and wiped out the defenders to the last man. When
+word of the fall of Helsreach reached Hades Commissar Yarrick
+ordered an hour of silence and then locked himself in the
+Emperor's Chapel to pray. Some say that the old man
+communed with the deity and found fresh inspiration. Those
+who knew him well say he wept.
+Ghazghkull himself arrived to supervise the siege of Hades.
+He had heard tales of bitter human resistance and thought he'd
+better oversee the defeat of Yarrick personally. For weeks a
+long duel was fought out under the dreadful yellow sky.
+Ghazghkull tried every stratagem that Gork and Mork told
+him. He feigned assaults on one part of the hive while the
+main strength of his troops attacked elsewhere. He airdropped
+elite kommando units onto the peak--, of the hive spires and
+ordered them to seek entrance through the ventilation system.
+He ordered his Mekboyz to build him mighty siege engines,
+enormous towers with huge jackhammers, modified Gargants
+with earthmoving blades and great scoops, giant earthboring
+drills that sought to eat through the surface of the hive.
+For every strategy implemented by the Orks Yarrick found an
+answer. Mobile 
+reserves 
+used 
+hive's 
+transport
+infrastructure to respond to the feints. The kommandos were
+met by volunteer cadres of tunnel fighters, drug-crazed
+madmen chosen from the depleted ranks of the cities'
+maintenance engineers, many of whom had lost all their loved
+ones during the siege. These men slipped 
+into 
+maintenance shafts stripped naked, armed only with bolt
+pistol and knife and an extensive knowledge of the system
+that enabled them to lay traps and ambushes. These men
+fought a lonely and unsung war in the terrible darkness but
+they did their job. Not a single Ork kommando was ever
+found. Suicide squads from the Hive Defence Force snuck out
+at night and sabotaged the siege machines.
+
+THE FIGHTING FORCES OF THE IMPERIUM
+SPACE MARINES
+The Space Marines are the finest warriors in the entire
+Imperium. They are divided into about a thousand
+different Chapters, each a small independent army
+with its own spacefleet and everything it needs to
+function. The Chapters are scattered throughout the
+Imperium so that wherever danger threatens their will
+always be Space Marines nearby. As the highly
+mobile elite of the Imperium the Space Marines are
+often used as a primary strike force, holding the
+situation while the larger and less mobile formations
+of the Imperial Guard are being transported to the
+warzone. On other occasions the Space Marines fight
+alongside troops from the Imperial Guard or Titan
+Legions, adding their considerable might to the
+combined forces of the Imperium.
+IMPERIAL GUARD
+The Imperial Guard is the most important and by far the
+largest fighting force in the Imperium. War is a fact of
+life in a hostile universe, so the Imperial Guard is
+constantly active throughout die galaxy defending
+human worlds, attacking hostile aliens, and battling for
+possession 
+newly 
+discovered 
+planets. 
+ The
+effectiveness of the different Imperial Guard armies
+varies depending on the quality of their officers, their
+training, and their traditions and history. The 1st
+Armageddon, for example, has a proud 
+history
+stretching back to the colonisation of the planet, and
+therefore has the pick of any new recruits, while the
+19th Army was raised from criminals under death
+sentence, and has a very poor reputation indeed.
+TITAN LEGIONS
+Titans are the largest and most powerful of all the
+gigantic war machines in the Imperial forces. Titans are
+usually human shaped with two legs and arms, an
+armoured torso, and a head where the command bridge is
+located. Each vast war machine requires a substantial crew
+to control its movement and the firing of its mighty
+weapons. A Titan Legion has hundreds of these huge
+machines, and is an army in its own right, with its own
+types of support infantry and tanks. Although it is not as
+fast and mobile as a Space Marine Chapter, the sheer
+firepower of a Titan Legion makes it one of the most
+awesome weapons in the Imperial arsenal.
+
+While the siege of Hades continued Ork columns rolled south
+from Helsreach and Infernus. They were heading for Acheron
+and what appeared to be the last bastion of human resistance.
+It was the beginning of the Season of Fire and temperatures
+outside the hive cities had started to soar. The hardy Orks and
+the specially equipped human military didn't have to worry
+but the refugees who had escaped the Orkish net began to die
+in droves.
+The Acheronians steeled themselves for battle. They knew
+their time had come. Looking out through their hive's ocular
+monitors 
+they could see the endless 
+ranks 
+Orks
+approaching. Horn-helmed bikers, kustomised war buggies
+and great siege engines stretched out to the horizon. The only
+promise of support they had was from Overlord Von Strab. It
+consisted of his personal good-wishes and twenty of his elite
+personal bodyguard who had displeased him.
+With an earthshaking roar the Orks advanced, the air itself
+vibrating with the thrum of thousands of powerful engines.
+They swept through the outer hives of the cluster and laid
+siege to the core hive itself. Poorly provisioned and
+inadequately armed as his forces were, the Hive Governor
+refused to surrender. "We will fight to the last man," he
+announced. "And then our ghosts will come back to haunt the
+Orkish scum."
+The Orks charged, confident of victory. Suddenly great holes
+were torn in their ranks. Mighty explosions tossed their
+vehicles into the air like chaff. The inhabitants of Acheron
+looked on in amazement as the orbital 
+bombardment
+continued. 
+ Great ships 
+filled the sky 
+Imperial
+Thunderhawks dropped earthward, delivering advance squads
+of Space Marines. Taken by surprise the Orks reeled back. The
+Space Marines continued to pour forth from their landing craft,
+bolters spitting death. The hive defenders rallied and emerged
+to aid their saviours. For the first time since the campaign
+started the Orks tasted defeat.
+The Space Marines swiftly established a beach head. Despite a
+strongly worded protest from Von Strab the expeditionary
+force leader, Commander Dante of the Blood Angels Chapter
+announced that he was taking over as Supreme Commander of
+all Imperial Forces on the planet. Acheron was to be his
+temporary field headquarters. He issued orders for Von Strab
+to be placed under house arrest pending trial for assassination,
+murder and gross negligence of duty in the face of the enemy.
+Vowing he would never submit to the judgement of his
+inferiors Von Strab managed to shoot his way to freedom and
+escaped into the desert. His wrecked landspeeder was later
+found but his body was never recovered.
+Perhaps if more Ork forces had been thrown south the Space
+Marines might have been stopped before they could mount a
+counter thrust but Ghazghkull had made one of his rare
+mistakes. In the area surrounding Hades cluster more and more
+Ork units assembled in preparation for the final assault.
+Ghazghkull was taking no chances. He was gathering
+sufficient troops to annihilate the humans at a stroke. Within
+the hive, in spite of Yarrick's careful husbanding of its meagre
+resources, food finally ran out. Now shuttles carried food from
+North to South, in a reversal of the war's former pattern. A
+mood of fatalism and despair hung over the entire population
+and not even Yarrick's example could lift their spirits. It was
+as if the whole population had a premonition of doom.
+THE ORKS
+Orks are a tough, brutal and remarkably successful
+race. They rank amongst the most powerful warriors
+in the whole galaxy and they control a significant
+part of known space. However, this sprawling
+territory is divided among thousands of individual
+Warlords who are fiercely competitive and spend
+much of their time fighting each other. Were Orkdom
+ever to unit against the Imperium it is unlikely that
+humanity would survive very long.
+ORK TRIBES & CLANS
+All Orks belong to a clan. There are six main Ork
+clans, each of which is noted for its particular way of
+life and fighting. An Ork Warlord will command Orks
+from many clans using the best of each to form a
+powerful army called a tribe. However, the Warlord's
+clan will usually make up at least half of the tribe's
+strength. A tribe may be settled or nomadic, it may
+have an empire of its own or be just a migrating horde
+of pirates and raiders. In any case, the tribe adopts a
+special name for itself, often incorporating the name
+of their leader, such as Waa-Chargerz-Ugulhard, or
+"We are Ugulhard's Chargers".
+WAA-ORK
+The Waa-Ork is a sort of crusade when the Orks stop
+fighting each other and decide to stomp somebody
+else instead. When a Warlord gets really powerful
+other Orks sense it and flock to join him, increasing
+his power and encouraging more and more Boyz to
+join the growing Waa-Ork. Within a Waa-Ork there
+may be many tribes, all united under the command of
+one charismatic leader. The Waa-Ork is a time when
+tribes come together, a time of great 
+works,
+migrations, wars and conquest.
+
+EVIL SUNZ CLAN
+The Evil Sunz are strangely and uncontrollably
+attracted to fast vehicles and loud noises. Actually
+this is true of all Orks, but in the case of the Evil Sunz
+the attraction is especially strong. Because of this
+the Evil Sunz clan has more vehicles than any of the
+other clans. It is especially famous for its Bikeboyz,
+who are always at the forefront of any Ork advance,
+and often go on raids deep behind the enemy's front
+line. Evil Sunz like to wear red, a colour which the
+Orks associate with speed.
+GOFFCLAN
+Goffs are the most aggressive of all the Orks - which
+is saying something! They pride themselves on
+being the most Orky of all clans - carrying the most
+destructive weapons and fighting harder than the rest.
+Goffs like to get where the fighting is as quickly as
+they can and attack their enemies at close quarters.
+They prefer to wear black, which is the only proper
+Orky colour as far as they are concerned, sometimes
+with a red trim or with black and white checks.
+BAD MOONS CLAN
+Orks quite sensibly use their teeth as currency, and as
+the Bad Moons' teeth grow faster than anyone else's
+they are the richest of all the clans. The other Orks
+don't think that this is an unfair advantage, after all if
+you're hard enough you can always bash a Bad Moon
+over the head and steal his teeth. Bad Moonz have a
+wide variety of the best and most elaborate weapons
+and vehicles. They flaunt gaudy and colourful
+clothes in vivid yellow and black patterns.
+Even as the final assault began a relief force headed by the
+Salamanders, the Ultramarines and the Blood Angels raced
+north in an effort to relieve Hades hive. Just as the Space
+Marines broke through the Ork front lines, Hades fell.
+Stor.mboyz scoured the corridors, the last blast doors were
+cracked and fighting raged through the former homes and work
+places of the people. In the last few hours the fighting was
+deadly and virtually hand to hand as battle raged through the
+last secure areas of the Hive. Commissar Yarrick was one of the
+few survivors. His terribly wounded body was found in the
+ruins, dozens of Ork bodies heaped at his feet. Fortunately for
+the Imperium this exceptionally brave warrior lived to fight
+another day.
+In the West a new wave of Ork reinforcements had arrived and a
+massive push against Tartarus hive began. The Imperial lines
+had been stripped bare in order to mount the ill-fated relief
+operation on Hades hive and the Orks easily broke through
+and pushed on south to besiege Tartarus hive. Ghazghkull
+himself took personal command of the assault and launched
+his last desperate attempt to win the war. For days everything
+hung in the balance. If the Orks could take Tartarus they could
+break the back of Imperial resistance, devastating the South's
+industrial base to the point where the war would become
+unwinnable. It looked for a while as if he might succeed as
+headlong assaults swept over the city.
+In a desperate gamble Dante's men returned to their ships. The
+Space Marines descended by drop-pod behind the main body
+of the Ork spearhead, cutting off an entire Ork tribe. Dante
+himself led an assault on Ghazghkull's headquarters but the
+lightning raid failed to capture the Ork Chieftain who was
+touring the front lines at the time.
+Now the final and most bitter battle of the war began. The Orks
+had nothing to lose; it was fight or die. The Imperial forces
+knew that the fate of the world lay in their hands. No quarter
+was asked, no quarter was given. The second battle of Tartarus
+was a bloodbath from start to finish. Savage hand to hand
+fighting raged through the thoroughfares of the hive. Giant
+set piece battles were fought over its surface. Space Marine
+strike forces sowed terror and confusion behind Ork lines.
+Time after time the embattled Orks attempted a breakout. Time
+after time the Imperial forces beat them back by the slimmest
+of margins. In the end, the Orks simply ran out of food and
+ammunition and still they refused to surrender. They fought
+on with knives and thrown rocks till they were eradicated
+almost to the last Ork.
+It is said that Ghazghkull himself fell, a bolter shell piercing
+his mechanical brain as he tried to rally his fleeing ladz for a
+desperate last stand. No-one knows for certain. His body was
+never found.
+With the Ork leader dead and half their army wiped out at a
+stroke, the war was now to all intents and purposes over. It
+raged on for another six months with invaders slowly being
+pushed back into the northern jungles but from the moment
+Tartarus was relieved Imperial victory seemed assured. And so
+it turned out to be.
+GARGANT BIG MOBS
+At the very core of Waa-Ork lies the construction of
+gigantic machines known as Gargants. Each Gargant
+is a titanic, mechanical, fighting, fire-belching idol
+built in the image of the Ork gods of war. At the start
+of the Waa-Ork the tribe's Mekboyz, the mechanics
+and engineers of the Ork race begin to start building
+these huge fighting machines. Each Mekaniak tries
+to outdo his rivals by building the largest, shootiest
+Gargant, so that soon each tribe has dozens of these
+monstrous machines to group together to form a
+Gargant big mob.
+
+CHRONOLOGY
+Date
+Events
+-8 years
+Ghazghkull Thraka suffers a serious head wound.
+He wakes up with a stainless steel skull, psychic
+powers, and the knowledge that he is on a mission
+from the gods (Gork and Mork).
+-2 years
+Ghazghkull has fought his way up to being the
+leader of his whole tribe. He is doing his best to
+start a Waa-Ork, but is finding it difficult to
+convince the leaders of the other four tribes on the
+planet that they should do what he says.
+-1 year
+The sun around which the Orks' planet orbits starts
+to die, and an absolutely huge space hulk appears
+in system. Ghazghkull convinces the other Orks
+that this is a sign from the gods, and that they
+should unite under his leadership - the Waa-Ork is
+now on!
+-9 months
+The five Ork tribes and all the Wildboyz on the
+planet board the space hulk and set off into the
+warp. During the journey the space hulk's power
+fields fail and it is attacked by all kinds of horrible
+warp creatures, but Ghazghkull 
+and the Ork
+Weirdboyz beat them off.
+-7 months
+The space hulk arrives in the Armageddon system,
+starts 
+to 
+drift 
+towards 
+planet.
+Armageddon's system defence craft attack the space
+hulk in a futile effort to destroy it, but they fail and
+are wiped out. Distress messages are sent calling
+out for help. The only readily available force, three
+Space Marine Chapters, prepares to move out.
+-6 months
+The space hulk reaches the planet and the Orks
+invade. The initial invasion blows the Imperial
+forces out of the way and Armageddon Prime is
+quickly overrun. A serious warp storm erupts,
+cutting off the planet from Imperial assistance.
+-3 months
+Two Ork tribes strike north, away from Armageddon
+Secundus. Imperial forces manage to hold this
+attack. Herman Von Strab, Imperial Overlord of
+Armageddon, is convinced that the other three
+tribes are being held in reserve to reinforce this
+attack, and says it is impossible for the Orks to
+move through the thick jungle that separates
+Armageddon Prime and Armageddon Secundus.
+Commissar Yarrick is banished to Hades hive for
+daring to oppose this view. Armageddon is still
+cut off by warp storms.
+Turn 1
+Three Ork tribes smash into Armageddon Secundus'
+border defences, catching the unprepared defenders
+completely by surprise. Ork armoured formations
+penetrate deep into Imperial territory. Two tribes
+go east of the Diablo mountains, while the third
+goes west. 111 conceived and poorly co-ordinated
+counterattacks, ordered by Overlord Strab, are
+crushed. Shattered Imperial forces fall back to the
+Diabolus and Stygies rivers, and attempt to form a
+new defensive line, but are stretched very thin
+indeed. The warp storms continue.
+Date
+Events
+Turn 2
+The Orks crash through the new Imperial line.
+Sweeping round the Palidus mountains, Ork
+forces surround Infernus hive, which surrenders
+without a fight. Ork columns reach the outskirts
+of both Hades and Helsreach hive clusters. Hive
+gangs are conscripted and formed into polyglot
+armies that are hurled into the front line.
+Overlord Strab unleashes his Secret supply of virus
+bombs, but they are largely ineffective against
+the hardy Ork hordes. An Ork assault on
+Helsreach, aided by a psychic storm created by
+Ork Weirdboyz, smashes its defences and the
+hive falls. However, an assault 
+on Hades
+commanded by Ghazghkull 
+is turned back,
+largely thanks to the efforts of Commissar
+Yarrick. 
+ 
+The 
+warp 
+storms 
+end 
+communication 
+with 
+Imperium 
+is 
+re-
+established.
+Turn 3
+Ork forces consolidate their positions 
+round
+Infernus and Helsreach, and start moving south.
+An offensive is launched towards Acheron hive,
+but is turned back by the timely arrival of the
+Space Marines. Hades is surrounded, 
+but
+continues to hold out, supplied by specially
+adapted shuttles. This resistance proves to be
+vital, as more and more Orks are drawn into the
+siege, allowing Imperial forces elsewhere a vital
+breathing space.
+Turn 4
+An Imperial offensive, spear-headed by the Space
+Marines, is launched to relieve Hades hive, but it
+falls to a huge Ork assault just three days before
+Imperial relief columns break through the Ork
+lines. Commissar Yarrick survives the fighting.
+In the west, large numbers of Ork reinforcements
+reach the front lines, and the Orks launch a new
+offensive towards Tartarus hive. The Imperial
+lines, stripped of units to aid fighting in the east,
+can't hold the Orks who break through and
+plunge deep into Imperial territory.
+Turn 5
+In the east Imperial forces start to push the Orks
+back past the Diablo Mountains. Ork units form
+a new line on the Diabolus River. In the west, the
+boot is on the other foot, as the Ork forces reach
+the river Skeletus and launch headlong assaults
+on Tartarus hive. Tartarus holds out - just - and
+Imperial 
+forces 
+launch 
+a 
+devastating
+counterattack. The Space Marines use their drop
+pods to land behind the Ork spear-heads and
+succeed in cutting off an entire Ork tribe.
+Desperate attempts by the Orks to break out are to
+no avail. Lacking food and ammunition, the tribe
+is virtually destroyed. In one fell stroke almost
+half the Ork army is destroyed.
+Turns 6-8
+The defeat at Tartarus hive spells the end of any
+hopes of an Ork victory. They are pushed back
+all along the line. Helsreach and Infernus are
+recaptured by the end of turn 8, and the battered
+Ork survivors retreat into the jungles to the
+north. The Armageddon campaign is over.
+
+BIOGRAPHIES
+HERMAN VON STRAB
+Herman Von Strab, fourth son of the Overlord of
+Armageddon Luthor Von Strab, climbed to power in the
+customary way by assassinating his brothers, the other
+claimants to the throne. A brutal man possessed of low
+cunning and considerable charisma, most of his
+brothers considered him too stupid, too violent or
+simply too unsophisticated to take seriously as a rival.
+They underestimated him to their cost. His methods
+may have lacked the polish so admired by the
+sophisticates of the hive cities but they were effective.
+A bomb at a banquet eliminated his eldest brother
+Anton and three hundred and twenty two guests,
+including the Imperial Representative. Otto was killed
+by a hit and run driver. Vilhelm was found in his room,
+his body riddled with bolter shells. Herman was found
+standing over his brother's corpse with a smoking
+weapon in his hand. He
+pronounced 
+it 
+worst case of suicide he
+had ever seen. The
+investigating 
+officers
+were 
+too 
+scared 
+to
+contradict 
+him.
+Herman's 
+father,
+already ill, died of a
+combination 
+grief
+spidervenom
+poisoning. 
+ 
+Shortly
+thereafter 
+Herman
+became Overlord of an
+entire world.
+WARLORD
+GHAZGHKULL THRAKA
+Ghazghkull Thraka had half his head blown off by an
+enemy bolter shell, and was lucky enough to have his
+brain rebuilt by a talented Painboy 
+called Dok
+Grotsnik. The bionic device activated Ghazghkull's
+latent psychic powers, and he became an Ork with a
+Mission, convinced that he was in communication with
+the Ork deities, Gork and Mork. Ghazghkull saw
+himself as the leader of a great crusade for Orkishness
+across the universe. He was a masterly opportunist and
+a great tactician, ever ready to exploit any weakness an
+opponent 
+might
+present. His only real
+flaw as a commander
+was his 
+respect 
+particularly courageous
+or cunning opponents.
+He was often known to
+spare their lives and
+offer them positions on
+his staff.
+SPACE MARINE
+COMMANDER DANTE
+Blood Angel Commander Dante had a reputation for
+being stubborn and the strictest of disciplinarians. He
+prayed to the Emperor every dawn, he was never heard
+to raise his voice or shout. He always spoke the truth
+whether it was diplomatic or not. His men respected
+him rather than loved him. As a supreme commander he
+undoubtedly had his flaws, but as a wartime general
+only one thing needs to be said: he was never beaten.
+Utterly fearless, full of drive and initiative, he was
+always up in front where
+the battle was fiercest. If
+his 
+opponent 
+made 
+a
+mistake, Dante was on to
+it like a flash. When it
+came to choosing a leader
+Armageddon
+intervention, 
+commanders of the other
+two orders unanimously
+asked for him to be placed
+in command.
+COMMISSAR YARRICK
+Commissar Yarrick was an old man when the siege of
+Hades hive began. He had a long 
+career of
+distinguished service in the Planetary Defence Force
+behind him and was scheduled for retirement on the
+Feast of the Ascension. Yarrick had a reputation for
+being utterly loyal to the Imperium and an inspiring
+leader of men. In his youth he had learned the language
+of the Orks from a captured Ork raider and he was an
+expert on the way the Ork mind worked. A better leader
+than Von Strab would have paid more attention to what
+he said, but instead Von Strab grew angry with the old
+man for daring to contradict his views of what the Orks
+planned to do. Herman could not have Yarrick killed,
+as 
+he 
+knew 
+an
+investigation 
+would
+reveal his crime once
+Emperor's
+representatives arrived.
+Instead he dispatched
+the old man to Hades
+hive to keep him out of
+the way. As it turned
+out, this was one of the
+few wise decisions that
+Von Strab made during
+the campaign...
+
+DESIGNER’S NOTES
+I can still remember the first board wargame I ever bought. I
+was fourteen years old, and I'd found a stack of simply
+produced boxes of board wargames tucked away in a corner of
+a military bookshop. I was already a keen tabletop gamer, and
+my attention was immediately 
+caught by these board
+wargames. Everything you needed to play was included, and
+there was such a large choice! I walked out of the shop the
+proud owner of a huge and sweeping wargame based on the
+battle for Kursk, a campaign from WWII that featured the
+largest tank battles the world has ever seen - and that includes
+Desert Storm!
+Over the next few weeks I played the game again and again,
+either with my friends, or 'solo' taking command of both sides.
+Numerous strategies were tried, only to be countered by
+cunning new plans from the opposing side. Entire tank
+divisions were hurled into battle, only to he turned back by
+mammoth airstrikes and massed anti-tank guns. I was hooked!
+Over the years my collection of board wargames grew and grew.
+Although they were not the only types of game I played - I was
+still primarily a tabletop gamer - they provided me with hours
+of enjoyment. At this time there were many enthusiastic board
+wargamers and countless different games were available. Some
+were produced in cheap, unglamorous packaging by fellow
+hobbyists, while others were professionally produced and
+colourful. New games were coming out all the time, and my
+friends and I used to go down to our local games store and
+study the new releases, trying to decide which would be the
+most fun to play.
+So what exactly was it that appealed to me about these games?
+First of all, as I mentioned above, a board wargame was
+complete, with everything you needed to play included in the
+box. What's more, you could have it set up and be playing a
+game within a couple of hours of tearing off the shrink-wrap.
+With a bit of thought it was possible to come up with cleverly
+conceived plans that would help win you the game a bit like
+chess openings or gambits. However, the plans would usually
+only win you the game once, because by the next time you
+played your opponent would have come up with a counter-
+strategy! I spent many happy hours playing my board games
+'solo', trying out new strategies for one side, and then trying to
+counter it from the other half of the board. Only when my
+plans had been fully tested in solo play were they put to test in
+the white heat of face to face contest!
+What particularly appealed to me was the sheer size of the
+battles offered by a board wargame. Most of them dealt with
+conflicts that were simply too large to be played out as a
+tabletop game: battles that featured not hundreds or thousands
+of men, but tens of thousands or even millions. And the games
+weren't just about land battles. You could get games about the
+huge naval battles in the Pacific that involved dozens of
+battleships and destroyers, or the aerial battles that took place
+between hundreds of planes during the Battle of Britain. There
+were games that allowed you to re-fight the whole of the
+Napoleonic Wars, or try to better Hannibal by actually
+conquering Rome. And there were even science fiction games
+where you led huge space armies in an attempt to conquer the
+galaxy. Only with a board wargame did you get such variety,
+or the opportunity to command a really huge army and fight
+campaigns in which the fate of entire planets would hang in
+the balance!
+Board wargaming reached a peak of popularity in the late
+i
+l
+i h i
+d h
+li
+dil
+i
+longer available. However, I've still got a soft spot for those
+old wargames, and I've been a bit sad to see their steady
+decline. This was why I was so pleased to be asked to design a
+game in the style of the board wargames. Here was my chance
+to combine my love of big wargames with the rich Warhammer
+40,000 background. What was more, it would give us a chance
+to show how really large scale campaigns are fought in the
+Warhammer 40,000 universe.
+The first step in the designing Battle For Armageddon was to
+decide on the background for the campaign. One side
+obviously had to be the Imperium, as it would be unthinkable
+that the game should not include those champions of
+humanity, the Space Marines. Their opponents were more of a
+problem, but in the end we plumped for the Orks, as they could
+be guaranteed to give the Imperium a good straightforward
+fight. On the basis that history repeats itself, our campaign
+started out as an amalgam of three historical campaigns (see if
+you can guess which!). However, it quickly developed a life of
+its own as the huge amount of background work we've done on
+the Warhammer 40,000 universe started to suggest things that
+should be added to the game.
+The next step was devising the basic game rules. We wanted to
+create an enjoyable game that still included all of the most
+important elements that make board wargaming so much fm.
+We quickly decided to use areas on the map rather than lots of
+ugly hexes. As you can see, Mark Gibbons has created one of
+the most attractive maps we've ever produced! Most of the
+games mechanics, such as the combat results table and
+attack/defence/move values for the counters, were included in
+the game right from the start, and have undergone remarkably
+little change.
+The strategy cards, on the other hand, were not added till fairly
+late in the design. Before then the game had a more rigid
+sequence of play, but we found this led to very predictable
+games. The inclusion of the strategy cards solved this
+problem while also adding an important element of planning
+to the game, and allowing 
+the possibility 
+major
+breakthroughs taking place if you managed to out think your
+opponent.
+The final step in the design process was to play the game again
+and again to make sure that both sides had an equal chance of
+winning. After many a hard fought game, I feel we've got play
+balance about right now. Although some players felt that one
+side or the other would always win, there was just about a
+50/50 split on which side this was, which must mean that the
+game is fairly even!
+Originally I was going to finish these notes off by giving a few
+hints and tips about how to play the game, but on
+consideration I've decided not to do this as working out
+strategies and tactics for yourself is very much part of the fun
+of playing a game like Battle For Armageddon. Instead I'll
+simply say that you should study Bill King's background
+story very carefully, and then try to avoid the mistakes that
+were made in the historical campaign by the side you are
+playing. And if your first plan turns out to comparable to Von
+Strab at his best, don't worry - you can always go back to the
+drawing board and start again. Good Luck!
+Jervis Johnson

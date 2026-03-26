@@ -1,0 +1,826 @@
+Introduction
+E
+scape from Colditz is an iconic game, and a classic part of British culture. 
+The game has built up a mythology over the years, through house rules 
+and differing editions, and for some players their memories of those editions 
+form an undeniable part of the game’s appeal.
+When given the opportunity to revisit the rules to a classic game, the 
+temptation is to apply decades of game development and refinement to create 
+something entirely new. This is not the approach we took when designing this 
+edition. Escape from Colditz means so much to so many players, to say 
+nothing of its designers who painstakingly struck a balance between exciting 
+gameplay and Major Reid’s real experience as the first British escape officer 
+at Colditz, that to do so would be disrespectful. 
+We wanted this edition to be a remastering rather than a remake, to refine 
+and to clarify what made the original so exciting rather than to replace it. 
+Some rules have been tweaked to clarify the designers’ original intent, while 
+others address ambiguities in the original rulebook. All of these changes have 
+been made in consultation with Brian Degas, the game’s surviving designer.
+For those who are interested (and those for whom the fun lies in revisiting 
+classic arguments), we have included the original rules in full at the back of 
+this rulebook.
+We hope you enjoy reliving the escape once more.
+– The Osprey Games team
+
+Game Components
+•	 Game board of Colditz Castle
+•	 2 dice
+•	 Round marker
+•	 16 black pawns, representing the German Guards
+•	 5 sets of 8 pawns, representing the different nationalities of POWs at Colditz: 
+Americans (blue), British (red), Dutch (orange), French (brown) and Polish (green)
+•	 5 sets of Escape Attempt markers
+•	 16 Security cards, used by the Security Officer
+•	 47 Opportunity cards, used by the Escape Officers
+•	 27 Escape Equipment cards
+•	 5 Escape Kit cards
+•	 5 Do or Die cards, which are only used in the classic rules of the game
+Legend
+The rules and cards refer to three areas of the board – the inner courtyard, the 
+outer courtyard and outside the castle. These are detailed below, while 
+the different types of spaces in the game are listed on the next page.
+Outside the Castle
+POWs outside the castle 
+are exempt from the 
+Security Officer’s ‘Appel’ 
+card, but may be targeted 
+with a ‘Shoot to Kill’ card.
+Outer Courtyard
+POWs arrested here will 
+have a piece of equipment 
+confiscated.
+Inner Courtyard
+POWs who are arrested 
+in this area will not have 
+equipment confiscated. 
+
+Guard Posts
+Guards may deploy or return to the 
+Commander’s office from these spaces. 
+They can be moved through as normal 
+spaces. Any POW who ends their 
+movement on one of these spaces is 
+liable for arrest.
+Commander’s Office
+Guards return here after an arrest.
+Barracks
+Guards are deployed from here.
+Staff Car
+This can only be used with the matching 
+Opportunity card.
+Targets
+A POW must reach one of these to escape.
+Barbed Wire
+POWs may cut through with a wire 
+cutter where there are connected spaces 
+on both sides. 
+Drops
+POWs may use a rope to move from a 
+space marked ‘30’ (indicating 30ft) to the 
+white space below, or two ropes to move 
+down drops of 60ft. 
+Inspection Points
+POWs must use a pass to move into 
+these spaces.
+Round Countdown
+At the end of every turn the Security 
+Officer will move the round marker 
+down one number as you count down to 
+the end of the game.
+Doors
+POWs must use a key to move into these 
+spaces.
+
+Appel
+This is where POWs will begin the game. 
+The Appel area also counts as a safe area 
+for most purposes.
+Safe Areas
+POWs on these spaces are exempt from 
+arrest and Security card effects. Guards 
+may not enter these spaces unless they 
+contain an Escape Attempt marker.
+Solitary Cells
+This is where POWs are placed after 
+arrest. A POW can only exit solitary 
+if their Escape Officer rolls doubles on 
+a movement roll or plays the relevant 
+Opportunity card. When released they 
+start as close as possible to the space 
+indicated with the arrow. 
+Searchlights
+POWs may not end their movement on 
+one of these spaces.
+Tunnels
+POWs may use a tunnel if they have the 
+relevant Opportunity card. All pawns may 
+move over these spaces, even if there is 
+a POW on that space, but only POWs 
+that have entered that tunnel may end 
+their turn on these spaces. The tunnel’s 
+entrance is the darker space in each 
+room, while the exit is the darker space 
+in the outer courtyard.
+Walkways
+Guards may not end their movement on 
+one of these spaces.
+Rooms
+These are where POWs will assemble 
+Equipment with the matching symbol, or 
+Escape Kits. Guards may not enter rooms 
+unless they are pursuing a POW down 
+a rope, or have discovered the tunnel in 
+that room.
+
+Rules of the game 
+ 
+Setup
+Before you begin, decide together how many rounds you wish to play, and place the 
+round counter on that number. We recommend 50 rounds for new players, and 
+40 rounds or fewer for more experienced players – the fewer rounds you play, 
+the more unlikely escape will be. At the end of every round the marker will count 
+down towards the eagle space (number 1), until escape is no longer possible. 
+Next, decide which player will take the role of the German Security Officer. 
+That player’s duty will be to prevent the others from escaping. Each other player 
+will play as the Escape Officer of a different nation among the Allied POWs held 
+captive at Colditz. A different number of pawns are used depending on the number 
+of players. Each player should take the number of pawns of their chosen colour 
+listed in the grid below.
+Number of Players
+Security Officer
+Escape Officers
+Separate the Escape Equipment cards into four piles and place them face-up beside 
+the board. Give one Escape Kit to every Escape Officer. Shuffle the Security and 
+Opportunity decks and place them face-down beside the board. Deal one Security 
+card to the Security Officer, and one Opportunity card to each Escape Officer.
+Note: if playing with six players, remove the six cards titled ‘Escape Kit (part)’ 
+from the Opportunity deck and give them to the Security Officer, who must keep 
+them face-down on the table.
+Set up the POWs according to their starting positions in the Appel Diagram 
+above. The Security Officer can then choose where to deploy the Guards. One Guard 
+for every Escape Officer must be deployed to guard posts in the inner courtyard, 
+and between two and seven additional Guards must be deployed to guard posts in 
+the outer courtyard. The remaining Guards are placed in the Barracks.
+2 Players
+3 Players
+Appel
+At the start of the game, 
+POWs should be aligned in this 
+pattern, depending on the 
+number of players. The colours 
+used here indicate starting 
+positions for sets of POWs, 
+rather than for specific 
+nationalities.
+These are the same positions 
+POWs will return to when the 
+Appel card is used.
+
+Playing the Game
+The goal of Escape Officers is to get as many POWs to escape targets as possible. 
+They will assemble escape equipment, manage their opportunities and plan carefully 
+to achieve a successful escape run. Escape Officers will need to work together to 
+thwart the Guards, but must prioritise the needs of their own nation when the going 
+gets tough. The goal of the Security Officer is to prevent as many escapes as possible. 
+On every turn, starting with the Escape Officer to the left of the Security Officer 
+and moving clockwise, players will roll their dice and move some or all of their 
+pawns based on the result, playing cards and assembling Equipment as they see fit. 
+Once they’ve finished, they pass the dice to their left for the next player’s turn. The 
+Security Officer will go last, then move the round marker down one space as time 
+runs out for the escapers. The game will end after 50 rounds, or at the end of a round 
+where the second POW of the same nationality has escaped. 
+Note: the section describing the board contains important clarifications, and 
+should be considered part of the rules.
+Movement
+At the start of every turn, you will roll both dice. The combined result gives you the 
+total distance you can move your pawns (Guards or POWs) this turn. Movement can 
+be split between as few or as many pawns as the player sees fit. For example a roll 
+of 9 could mean moving a single pawn nine spaces, moving three pawns two spaces 
+each and another pawn three spaces, moving nine pawns a single space each, or any 
+other combination. You do not need to use all of your allowed movement on your 
+turn. A pawn may never move through a space containing another pawn.
+Each time an Escape Officer rolls doubles on their movement roll, they may move 
+a POW of their choosing out of solitary, at a cost of one point of movement.
+If you roll doubles on any dice roll, be it for movement or due to a card, you may 
+roll again adding the extra dice to your total. You may never roll more than two 
+extra times due to rolling doubles. 
+If the rules or the cards ever say ‘directly’, you do not need to use your movement 
+roll to carry out that action.
+The Security Officer moves Guards in the same way that Escape Officers move 
+POWs, except that they may also use the guard posts to redeploy their pawns. Guards 
+may be moved to any guard post from the barracks, or sent to the Commander’s 
+office from any guard post, at the cost of one point of movement. The Guards in the 
+Commander’s office move to the barracks at the end of the Security Officer’s turn, 
+meaning the same Guard cannot leave and re-enter the board on the same turn.
+4 Players
+5 Players
+6 Players
+
+Opportunity & Security Cards
+Moving slowly grants you more possibility to see where escapes are possible! If your 
+roll for movement is 5 or lower, you may draw a card. The Security Officer draws 
+a Security card, while the Escape Officers draw Opportunity cards. If you roll doubles 
+lower than a 5 you may still re-roll, but you cannot draw more than one card per turn. 
+You can only draw cards on the result of a movement roll, not other types of roll.
+The maximum number of Opportunity or Security cards a player can hold is three. 
+Should you draw a fourth, one of your cards must be used or discarded face-down before 
+the end of your turn. Opportunity cards cannot be traded between Escape Officers.
+You may use these cards at any point during your turn, unless the card begins 
+with the word ‘interrupt’. If it does, follow the instructions on the card. The only 
+exception to this is the Security Officer’s ‘Appel’ card, which must be played before 
+that player’s movement roll.
+Once a Security or Opportunity card is used or discarded, the card is sent to the 
+bottom of the relevant deck. All card effects happen instantly, unless an interrupt 
+card is played.
+The ‘Appel’ Card
+The Security deck contains two copies of the ‘Appel’ card. This is the only card which 
+must be played at a fixed time, in this case before the Security Officer’s movement 
+roll. It is also the only Security card which the Escape Officers may partially ignore, 
+by refusing to move some or all of their POWs. If the Escape Officers do so, the 
+Security Officer can choose to make a general search with their Guards, rather than 
+move them. 
+For a general search, the Security Officer will roll the dice as usual but will not 
+move the Guards. If any POWs are within the total dice range of any guard, they will 
+be arrested, going directly to solitary and discarding equipment if they are in the 
+outer courtyard. All Guards remain in place, and the Security Officer’s turn ends.
+Arrest
+Guards may arrest a POW by moving into the same space. In the inner courtyard, 
+POWs can only be arrested if their Escape Officer is holding Escape Equipment. 
+Any POWs caught in the outer courtyard, outside the castle, or on a guard post are 
+liable for arrest, whether or not their Escape Officer is holding equipment.
+The only exception to this rule are POWs who have been released from the outer 
+solitary cells – if their Escape Officer has no equipment, and uses as much of their 
+movement as possible to move the POWs towards the inner courtyard, those POWs 
+are exempt from arrest.
+A Guard who makes an arrest is sent directly to the Commander’s office, while 
+the POW is sent to solitary. If the POW is in the outer courtyard or outside the castle, 
+that POW’s Escape Officer must also discard an Equipment card of their choosing. 
+POWs arrested in the inner courtyard are sent to the inner solitary cells, while those 
+arrested outside are sent to the outer solitary cells. If either set of cells is full, the POW 
+is sent to the other.
+Escape Officers may also force arrest, whether or not they have any Equipment, 
+by moving a POW into a Guard. Guards removed from the board in this way will 
+only return to the barracks at the end of the Security Officer’s turn.
+If a POW ends their movement on a guard post, they are liable to arrest whether 
+or not their Escape Officer holds Equipment. A Guard deployed to that guard post 
+immediately arrests the POW, and is sent to the Commander’s office.
+
+Equipment Cards
+Equipment cards can be gained by an Escape Officer who places two POWs in rooms 
+with the matching symbol. Each symbol is associated with two different rooms – the 
+Escape Officer may place one POW in both rooms, or two POWs in either. Once they 
+meet the criteria, the Escape Officer simply declares that they’re making the item, 
+then takes the card and sends both POWs to any spaces in the appel area.
+Equipment cards can be traded freely between Escape Officers, except during the 
+Security Officer’s turn. If a type of Equipment card runs out, that piece of Equipment 
+cannot be made. You must wait until another Escape Officer uses theirs, or try to 
+barter for it. Make sure not to give too much information away to the Security 
+Officer about what you’re holding!
+Escape Kits
+Escape Kits are gathered similarly to Equipment, but each 
+Escape Officer can only hold one Kit at a time, which can 
+never be confiscated by the Security Officer. They require 
+four different components – food, documents, a compass 
+and a disguise. Each of these elements is found in 
+two different rooms. The Escape Officers have been 
+working towards getting their POWs out for some 
+time before the game begins, and have already 
+assembled an Escape Kit each.
+To build a complete kit, an Escape Officer must 
+have one POW in each of the four types of room 
+simultaneously. They then declare that they’re making an Escape Kit, take the card 
+and send those four POWs to any spaces in the appel area. Occasionally Escape 
+Officers will have Opportunity cards which count towards an Escape Kit. In this case 
+those Escape Officers can use the card instead of having POWs in those areas when 
+making a Kit. Both types of ‘Escape Kit (part)’ cards can be combined to form a 
+complete Escape Kit, without the need to place POWs.
+Note: if playing with six players, Escape Officers draw a face-down card from 
+the separate pile of ‘Escape Kit (part)’ cards every time one of their POWs escapes. 
+The Security Officer should keep these to make them distinct from the Opportunity 
+deck, but cannot check them.
+Escape Attempts
+POWs may attempt escape by using Equipment to get through doors and wire fences, 
+onto inspection points and down steep drops. Every time you use a piece of 
+Equipment, you must return that card to the stack.
+POWs may move onto inspection 
+points and doors using a pass or a key 
+respectively, while Guards can move 
+through those spaces freely. If the POWs 
+are returning to the inner courtyard from 
+solitary however, they can freely pass 
+through the door and inspection point at 
+the inner courtyard’s entrance. 
+Drops require a rope. If you are on a 
+space marked ‘30’ you can use a rope to 
+move through the window or over the 
+wall to the adjacent space with the white 
+These are the only free 
+entrances to the inner 
+courtyard from outer solitary.
+
+border. Spaces marked ‘60’ require two ropes. Wire fences can be cut through using 
+a wire cutter at any point where two spaces are separated by wire.
+Any time a POW uses a rope or wire cutters, they must place an Escape Attempt 
+marker on those spaces. This marker allows access through the wire or down the drop 
+for POWs of that nationality only or for Guards.
+Beware though! Guards may enter any room containing an Escape Attempt marker. 
+They may use the Escape Attempt marker to follow escaping POWs – this is the only 
+way Guards can move through wire fences or down drops. Guards may also remove the 
+marker as they move over it. This is at their discretion – removing the Escape Attempt 
+marker prevents more Guards from following via this route. Other Escape Officers may 
+replace an Escape Attempt marker with one of their own colour by using Equipment 
+cards on the same route. Guards may not remain in a room after they remove a marker 
+– they must move down the drop, or go directly to the Commander’s office.
+Escape Officers may send a POW in the reverse direction through a fence or over 
+a drop if they are rethinking their plans. This requires that the original Escape Attempt 
+marker still be in place, and costs additional equipment (a wire cutter, one rope or two 
+ropes). Guards may not move in the reverse direction.
+Tunnels
+A tunnel on the board may only be used when an Escape Officer plays the matching 
+tunnel card and moves two POWs into the tunnel. Once open, that tunnel can be used 
+by all Escape Officers. POWs must enter through the marked space in the inner 
+courtyard, and exit through the marked space in the outer courtyard.
+Guards or POWs who are not in the tunnel may pass over POWs inside the tunnel, 
+but may never end their turn on a tunnel space. Guards may only arrest POWs in the 
+tunnel if the Security Officer has played a ‘Tunnel Discovered’ card and nominated 
+that particular tunnel.
+Any tunnel will collapse and be unusable if there are fewer that two POWs in it 
+at the end of any player’s turn. The remaining POW is sent to solitary, and the tunnel 
+can no longer be used unless that tunnel card is played again.
+Successful Escapes
+Once a POW reaches any target on the board, he 
+escapes successfully. Escape Officers need two of their 
+POWs to escape successfully to win the game.
+An Escape Kit is needed for each successful escape 
+– when a POW escapes the board, he takes the Escape 
+Kit with him to prepare for his journey through enemy 
+territory. An Escape Kit may be shared by two POWs 
+of the same nationality, but only if they both escape on 
+the same turn.
+Once a POW escapes, any or all Escape Attempt 
+markers of that POW’s colour may be removed from 
+the board at the Security Officer’s discretion. If any 
+Guards were pursuing that POW outside the castle, and 
+there are no other POWs in that area, those Guards are 
+sent immediately to the Commander’s office.
+Note: if playing with six players remember that the 
+Escape Officer takes an ‘Escape Kit (part)’ card after a 
+successful escape.
+
+Ending a Round
+Once all the Escape Officers have taken their turn, the Security Officer takes theirs. 
+At the end of the Security Officer’s turn all Guards in the Commander’s office are 
+moved to the barracks, and the round marker moves down one space. When the round 
+marker reaches the eagle, the Escape Officers have one final turn to attempt escape.
+Winning the Game
+Should two POWs of the same nationality escape, the game ends at the end of that 
+round and that Escape Officer wins. If multiple Escape Officers achieve this in the 
+same round, they share victory. Should the Escape Officers fail to achieve this in the 
+allotted number of rounds, the Security Officer wins.
+Play Options
+Should you wish, the game may be played over a longer or shorter number of rounds, 
+or without starting Escape Kits. This must be agreed on by all players before the 
+game begins.
+Players can also agree on a total number of escapes between all nations as a 
+shared victory condition for the Escape Officers. We suggest a number at least equal 
+to the number of Escape Officers.
+Quick Reference 
+•	 Rolling doubles on any dice roll allows a re-roll, which is added to the total. 
+You can never re-roll more than twice on a given dice roll.
+•	 Rolling 5 or less on a movement roll allows you to draw a Security or 
+Opportunity card. There is a maximum of one card per turn drawn in this way.
+•	 Rolling doubles on a movement roll for Escape Officers also allows one POW to be 
+released from solitary per double rolled. This costs one movement per POW released.
+•	 Equipment cards can be exchanged freely between Escape Officers, except 
+during the Security Officer’s turn. Opportunity cards can never be exchanged.
+•	 POWs can only move past drops, wire fences, inspection points and doors by 
+spending an Equipment card. Guards can only move through drops and wire 
+fences where there is an Escape Attempt marker, but can move through doors 
+and inspection points freely.
+•	 POWs cannot end their movement on a searchlight space. Guards cannot end 
+their movement on a walkway space, appel or safe area. Neither can end their 
+movement on a tunnel space unless they are a POW making use of the tunnel card.
+•	 Moving over POWs inside a tunnel is the only time a pawn can move through 
+another pawn.
+•	 A POW can be arrested if: 
+–– Their Escape Officer is holding Escape Equipment, or
+–– They are outside the inner courtyard, or
+–– They end their movement on a guard post, or
+–– They are ignoring an ‘Appel’ card. 
+•	 A POW cannot be arrested in a safe area, on the appel area, in a tunnel which 
+has not been discovered, or if returning promptly from the outer solitary cells 
+without Equipment.
+
+Introduction
+1.	 Trying your hand at escaping from Colditz Castle, 
+the multi-national, maximum security prison during the 
+Second World War, 1939 to 1945, may reveal aspects of 
+your nature which you did not dream you possessed, as 
+so often it did to the men imprisoned there.
+2.	 Reading through the supplementary information 
+supplied in the booklet should help you to recreate 
+the atmosphere of Colditz Castle during the War.
+3.	 To play the game successfully requires both ingenuity 
+and patience, as well as experience based on failure, 
+and nerve and dash at the crucial moment. Some 
+knowledge of the cards is essential.
+The object of the game
+4.	 One player takes the part of the German Security 
+Officer; the other players take the part of an Escape 
+Officer, each representing a different nation’s 
+Prisoners of War. Each Escape Officer attempts to 
+achieve more successful escapes than his fellow 
+Escape Officers, whilst the German Officer seeks 
+to prevent, or limit, such escapes.
+5.	 Because the game is a simulation of conditions in 
+Colditz, it is virtually impossible to prevent a number 
+of successful escapes being achieved. In a typical 
+game between six players, the POWs will spend up 
+to an hour collecting the equipment and escape kit 
+necessary to make escape attempts; thereafter, escape 
+attempts will be made frequently.
+For new players we suggest a time limit of 2 ½ 
+hours for a game. The first Escape Officer to make 
+two successful escapes will be the winner; should 
+this not be achieved, the German Security Officer 
+will be the winner. With experience, players will 
+set their own targets, to suit the time available and 
+number playing. All players must agree the ‘success 
+formula’ before play starts.
+Method
+6.	 Players, in turn, throw the dice, and move their men. 
+(Rules 19-21). POW teams aim to obtain Escape Kit 
+(Rules 31-33) and Escape Equipment (Rules 29 & 
+30), both essential to making an escape attempt. 
+They may also collect Opportunity Cards (Rules 
+22 & 27). Depending on the types of equipment 
+collected, and Opportunity Cards held, each Escape 
+Officer will then plan routes and execute the escapes 
+of individual men in his team.
+7.	 The Security Officer, similarly, moves his men (Rules 
+19, 20, 34(a) & (b)), collects Security Cards (rule 28), 
+and attempts to prevent escapes by arresting POWs 
+(Rules 34(c), (d) and (e)).
+8.	 Escape Officers may combine members of their 
+respective teams if they wish and may employ false 
+trails, distractions and bluffs to confuse and outwit 
+the German Security Forces.
+9.	 An Escaper is deemed to have succeeded and to 
+be ‘gone away’ when he reaches, safely, one of 
+the targets outside the perimeters of the Castle as 
+marked on the Board.
+The exact score is not required providing he 
+lands on or passes the target.
+The equipment of the game
+10.	The Colditz Game Board is based on a true plan 
+of Colditz Castle, but adapted to provide all 
+the necessary rooms on one level. It consists of the 
+Inner POW Courtyard, coloured grey, and the outer 
+Garrison Courtyard, known as the Kommandantur.
+11.	A Coloured Legend Diagram printed earlier in this 
+booklet focuses on certain areas of the Board and 
+explain their purpose, alongside the Appel (Roll 
+Call) diagram for starting the game, depending on 
+the number of players competing.
+12.	Two Dice – These are used together for all throws.
+13.	Forty Pawns – the POWs; in groups of different 
+colours representing the Escape Teams of various 
+nationalities imprisoned in Colditz as follows.
+	
+	
+American Team	
+blue	
+	
+British Team	 	
+red	
+	
+Dutch Team	 	
+orange	 8 POWs
+	
+French Team	 	
+brown	 8 POWs
+	
+Polish Team	 	
+green	
+Sixteen Black pawns – the Guards, representing 
+the German Security Officer’s forces.
+14.	 Five packs of cards consisting of:
+ 
+	
+ 5 Personal Civilian Escape Kit cards
+	
+27 Escape Equipment cards
+	
+47 Escaper’s Opportunity cards
+	
+16 German Security cards
+	
+ 5 Do or Die cards
+The Classic Rules of the Game
+
+To prepare for the game
+15.	Place the board on a good sized table, putting the 
+five packs of Cards separately, face downwards, off 
+the Board but conveniently placed for all the players.
+16.	Escape Officers choose their nationalities. The 
+German Security Officer may be elected by agreement 
+or selected by throwing dice.
+17.	Place the German Security Forces in the German 
+Barracks as indicated on the board and the escape 
+teams in the POWs’ Courtyard in the following 
+numbers: (See Appel diagram on pages 6–7).
+For 6 players	Security Officer	 16 Guards
+	
+		
+4 POWs each
+For 5 Players	Security Officer	 15 Guards
+	
+		
+5 POWs each
+For 4 Players	Security Officer	 14 Guards
+	
+		
+6 POWs each
+For 3 Players	Security Officer	 12 Guards
+	
+		
+Escape Team	
+7 POWs each
+For 2 Players	Security Officer	 6 Guards
+	
+		
+Escape Team	
+18.	All POWs being lined up in the Inner Courtyard for 
+a general Roll Call (Appel), the German Security 
+Officer now places one Guard for each Escaping 
+team on any of the black circles shown in the 
+Inner Courtyard. He must also place at least 2, but 
+not more than 7, Guards on black circles in the 
+Outer areas of the Castle. His remaining Guards 
+are held in reserve in the German Barracks in the 
+Kommandantur area.
+To play the game
+19.	The Escape Officer immediately to the left of the 
+Security Officer is the first to play. He throws his 
+two dice and moves his POWs in any direction from 
+one adjacent circle to another, counting one digit 
+for each circle. The other Escape Officers throw 
+in Turn and then the Security Officer. POWs and 
+German Guards therefore, move about the board 
+on the circles shown in various directions according 
+to the dice throws and the Rules of the Game and 
+intentions of the Escape Officers. There is thus a 
+continual movement of men, of ebbing and flowing, 
+which animates and brings ‘life’ to the Castle.
+20.	Throwing a double(s) entitles that player to another 
+throw. His score is totalled before he moves.
+21.	Any number of POWs in a team may be moved to 
+the total of the throw: e.g., a throw of eight entitles 
+the Escape Officer to move one of his men eight 
+circles or one three circles and another five circles, 
+or any other combination he wishes.
+22.	A throw of 3, 7 or 11 entitles an Escape Officer to 
+take an Escaper’s Opportunity Card or the German 
+Security Officer, to draw a Security Card from the 
+German Security Pack.
+After drawing a card, the Escape Officer or 
+Security Officer moves his men in accordance with 
+the throw of 3, 7 or 11.
+23.	No POW or German can pass through or over 
+another man; he must go round or move him in 
+accordance with the rules. But see Do or Die, Staff 
+car and Tunnel rules, (No. 51, 52 and 53).
+24.	The total number of dice throw need not be used.
+25.	Safe Areas (See Legend Diagram) may be used by all 
+POWs reaching them by dice thrown in their turn.
+26.	The term move directly means, in all cases, without 
+counting dice throws.
+27.	Opportunity Cards may be played at once or held 
+in the hand. An Escape Officer may only hold a 
+maximum of three Opportunity Cards at any time. 
+If an Escape Officer draws a fourth, he must use 
+one of the four on that turn. He may, however, elect 
+to discard one without using it or he may exchange 
+it with another Escape Officer or even give it away. 
+Opportunity Cards in general may be used only 
+during a turn (for exemptions see Rule 49) after 
+which they should be returned to the bottom of 
+the pack.
+28.	Security Cards are drawn and held likewise by 
+the German Security Officer. Only three may be 
+held at one time and the same rules apply as for 
+Opportunity Cards.
+29.	Escape Equipment Cards are obtained by placing 
+two POWs in each room where the required 
+equipment symbols are shown; alternatively – 
+One POW may be placed in each of two rooms 
+containing the appropriate symbols.
+After claiming Equipment, both POWs must 
+move directly to the Appel area. Equipment may 
+also be obtained from Opportunity Cards.
+30.	Any equipment obtained is held by the Escape 
+Officer and not by an individual POW. Also, once 
+a piece of equipment is obtained, all POWs of that 
+nation are liable to arrest irrespective of which 
+POWs obtained the equipment. (See Rule 34C).
+31.	A Personal Civilian Escape Kit Card must be 
+held by an Escape Officer and displayed when 
+one of his POWs reaches an Escape Target. It is 
+a precondition for a successful escape. However, 
+an Escape Officer may collect the Kit at any time 
+
+during the game at his discretion, according to the 
+following rules.
+The Escape Kit consists of Civilian Disguises, 
+Magnetic Compass, Food, false documents, maps 
+and money (Reichmarks). For the purpose of 
+this game, documents, maps and money have 
+been combined together, providing a total of four 
+components to be collected. 
+32.	This Kit may be obtained:
+o	 a)	By placing one POW in each of the rooms 
+containing the symbols – Disguise, Compass, 
+Food and Documents. 
+When the POWs are in position simultaneously 
+the Escape Kit Card may be claimed. 
+Alternatively – 
+o	 b)	
+Through Opportunity Cards. These 
+may be held in secret and used when required. 
+They may also be exchanged for an Escape 
+Kit Card if all four components of the Escape 
+Kit are held. The Opportunity Cards are then 
+returned to the bottom of the pack.
+o	 c)	By a combination of method (a) and (b).
+33.	The Escape Kit Card once obtained is held for the 
+duration of the Game and never surrendered. POWs do 
+not return direct to the Appel area after obtaining kit.
+The Game in Progress
+The Security Officer
+34.	Watching carefully what the POWs are doing, upon 
+his turn and having thrown the dice, moves his men 
+similarly to the Escape Officers, from circle to circle, 
+up to the total dice throw. He may:
+o	 a)	Post more guards but only on the vacant 
+black circles, from his reserve in the 
+Kommandantur: as many as he wishes, up 
+to the total number of this dice score. In a 
+dangerous situation he may also choose to 
+employ all his reserves. (This was known as 
+calling out the ‘Riot Squad’.) New Guards 
+must be posted before any arrests are made 
+and not after arrests. (See (c), (d) and (e) 
+below). Guards cannot be reposted in that run 
+after making arrests.
+o	 b)	
+Remove Guards to the German 
+Barracks if he wishes, but only from Black 
+Guard circles; such guards cannot be recalled 
+to duty on that turn. One point is deducted 
+from the dice score for each guard so returned 
+to barracks.
+o	 c)	Arrest a POW anywhere in the Prisoners’ 
+Courtyard (grey) area except inside a tunnel, 
+in a safe area, or in a room, by moving a guard 
+on to his circle (not necessarily the exact throw 
+of the dice) and providing the Escape Officer 
+holds an Equipment Card. The POW is sent 
+directly to a Solitary Confinement Cell chosen 
+by the Security Officer and the guard returned 
+directly to barracks. No equipment card is 
+confiscated. 
+o	 d)	
+Arrest a POW outside the courtyard 
+by moving on to his circle whether or not his 
+Escape Officer holds a piece of equipment; the 
+POW is sent to Solitary and the guard to the 
+barracks as above. The Escape Officer must 
+surrender one piece of any equipment he may 
+hold. The choice of card is his and it is returned 
+to the pack.
+o	 e)	Arrest more than one POW, but he can only 
+arrest one POW per guard in a turn.
+Prisoners of War
+35.	POWs cannot be arrested on the White Appel circles.
+36.	POWs can stop on black circles and may be arrested 
+on them, subject to the arrest rules.
+37.	A POW may be removed from Solitary Confinement 
+Cells by throwing a double. The balance of the score 
+– i.e. the score less one – of the double may be used 
+for the movement of any POW of the team. If the 
+cell door is blocked by other POWs he may move 
+directly to the nearest free circle. There are also 
+5 Opportunity Cards which provide release from 
+Solitary Confinement. 
+38.	POWs in cells, safe areas (marked blue), tunnels, 
+or outside the entire Castle walls or wire are not 
+required to attend Appel.
+39.	A POW, when released from the outer cells (Section 
+4 of the board) may only re-enter the Prisoners’ 
+Courtyard through the ‘Pass’ circle. A pass is 
+not required. Whilst returning to the Prisoners’ 
+Courtyard he is not liable to arrest. He may, however, 
+at any time make an escape attempt. And is liable 
+to arrest once it is apparent that he is not moving 
+directly back to the Prisoners’ Courtyard.
+40.	A POW who is escaping down rope or through wire 
+and wants to get back into the Castle must forfeit 
+another appropriate equipment card. 
+41.	A POW cannot go round a Key or Pass circle. He 
+must surrender the relevant cards.
+42.	A POW can at no time remain in a Searchlight 
+beam. He may move across it or stop short of it.
+
+43.	A POW may force arrest upon himself during his 
+turn, by moving onto a circle occupied by a guard. 
+Rules 34 (c) and (d) will then apply as appropriate.
+The Guards
+44.	Guards cannot enter rooms, unless the relevant 
+‘Search Card’ or ‘Appel Card’ is played by the 
+security officer, in his turn.
+45.	Guards cannot block entrances to rooms and must 
+not impede the movement of POWs inside the grey 
+prison courtyard area by remaining in doorways or 
+passages between turns.
+46.	When giving chase over walls or through wire 
+a guard must use the same route as the escaping 
+POW. He must return directly to barracks either 
+when the POW reaches his target or when he makes 
+an arrest or shoots to kill.
+The Cards
+47.	Cards may be drawn, employed or discarded only 
+during a player’s turn except under rule 49. All 
+cards when employed, discarded or confiscated are 
+returned to the bottom of their respective packs. 
+They cannot be held for repeated use.
+48.	The bartering or exchange of cards is permitted 
+between Escape Officers at any time.
+49.	The following cards may be played out of turn: 
+Arrest Key or Pass Holder, Advance Warning of 
+Appel or Search, Talisman, Hideaway.
+50.	An Equipment Card may benefit any number of 
+POWs of a team during the turn in which it is used, 
+provided only that the dice throw and free circles 
+allow their movement and rule 23 is observed.
+51.	DO OR DIE CARDS. Provided his Escape Officer 
+holds an Escape Kit Card a POW can, in his turn, 
+make a ‘Do or Die’ Escape. The Escape Officer 
+takes the top card from the face downwards ‘Do 
+or Die’ pack. The Card will say how many throws 
+the POW has to make the attempt. Starting from 
+anywhere within the light grey coloured prisoners 
+area, including rooms, and requiring no equipment, 
+the POW runs out through the Garrison Courtyard 
+and buildings crossing the moat. Guards in his path 
+cannot stop him. Failure to reach a target means 
+the prisoner is shot dead and the whole team is out 
+of the game. Opportunity Cards are not claimed 
+on throws of 3, 7 or 11.
+52.	STAFF CAR CARD. A POW may only use the Staff 
+Car if he holds the relevant Opportunity Card and 
+reaches the car by dice throws in his turn(s) giving 
+up necessary equipment en route. Guards posted on 
+the route of the Staff Car must stand aside. No pass 
+is required at the main gate.
+53.	TUNNEL CARDS. Tunnels can only be occupied 
+when the Escape Officer holds the appropriate 
+Tunnel Card which he must show when challenged. 
+He must return it to the bottom of the pack after 
+either detection or the completion of its escape use. 
+His team may be composed of different nationalities. 
+At least two POWs must occupy the tunnel at all 
+times: Tunnellers are exempt from Appel at all times. 
+The tunnel can only be entered by guards and the 
+tunnellers removed if the Security Officer plays the 
+Tunnel Detected card in his turn and follows its 
+instructions. These are: Two Guards must move to 
+the tunnel by dice count, entering it anywhere. The 
+Tunnellers are removed directly to solitary and both 
+guards return directly to Barracks.
+Guards and POWs (not occupying tunnels) may 
+proceed over tunnels but not along them and they 
+may step over or around POWs in Tunnels. They 
+cannot, however, remain over Tunnels. See similar 
+rule for POWs in Searchlight beams. (No. 42).
+54.	DIVERSION 
+AND 
+HIGH 
+COMMAND 
+INSPECTION CARDS. When an Escape Officer 
+plays either of these cards, he may choose which 
+sentries are returned directly to Barracks.
+Conclusion
+55.	The German Security Officer, for obvious reasons 
+is in charge of the Board and of discipline, if he 
+discovers any infringement of the rules he can send 
+the POW concerned to solitary. He will either rise 
+to the challenge of controlling the Castle or be 
+manipulated by the POWs.
+Game Design by Major PR Reid & Brian Degas
+Game Development by Osprey Games
+Art by Peter Dennis
+Osprey Games, part of Bloomsbury Publishing Plc
+PO Box 883, Oxford, OX1 9PL, UK
+This edition © 2016 Brian Degas & Osprey Publishing Ltd. 
+All Rights Reserved.
+www.ospreygames.co.uk

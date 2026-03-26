@@ -1,0 +1,881 @@
+OBJECT 
+1) Control 15 Territorial Zones at the end of any turn 
+2) Control the last Leader on the board at any time 
+3) Convince everyone else to surrender 
+4) Control most Territorial Zones at end of the turn in 
+which Earth returns to its start space, thus completing 
+a 1 year revolution around the Sun. In case of tie the 
+player with most zones at end of any future turn wins. 
+ 
+SETUP 
+2 and 3 player setup is on Page 3 
+ Place each Planet Marker sun side up on the 
+SSD Space Zone matching their abbreviation 
+ Each player chooses a Faction tray and Leader 
+ Deal each player 6 Territory cards 
+ Put one of your Control Markers in each of these 6 
+Starting Units (18) 
+ 
+1 Leader 
+8 Troopers 
+1 Transport 
+2 Factories 
+2 Gennies 
+4 Fighters 
+ 
+Place Starting Units 
+ Roll 1d10 for start player, then move clockwise 
+ Each player in turn places 3 units onto any single 
+Territorial Zone with one of their Control Markers 
+ Continue for 6 turns until all 18 Starting Units have 
+been placed 
+ No Zone may contain more than 6 units during 
+Setup (later there is no limit) 
+ Unit placement must be legal (ie, 
+Troopers may not be placed in Orbit) 
+ 
+Advanced Game: Determine start 
+player by dealing out Turn Order cards.
+ 
+4 Turn Phases – Complete each phase in order 
+ 
+ 
+Definitions 
+ 
+SSD: Solar System Display (center of board) 
+Space Zone: Dot on the SSD 
+Territorial Zone (42): Any land space on a planet, 
+moon, satellite, or asteroid; All Territorial Zones are 
+adjacent to the nearest Orbit Zone. 
+Chips: When stacked, Red is 5 units, White is 1 unit. 
+ 
+PHASE 1 – Turn Setup 
+ 
+a) Planetary Movement 
+On the SSD, slide each Planet 
+Marker 1 Space Zone counter-clockwise along its 
+orbit, then flip the Planet Marker (on the 1st turn all 
+Planet Markers will be flipped to their moon side). 
+Units do not move along with a Planet Marker. 
+b) Player Turn Order 
+Basic Game: Each player rolls 1d10, high roller is 
+new start player. If high roll is even then movement 
+turn goes clockwise; if high roll is odd then movement 
+goes counter-clockwise (player to the right is next). 
+Advanced Game: Each player takes a secret random 
+Turn Order card. Players reveal their card when their 
+turn order number is announced in Phase 2. 
+ 
+PHASE 2 – Movement 
+ Each player moves in turn, in the above turn order. 
+ Move any number of units, each up to their 
+movement allowance. 
+ Any Zone may hold any number of units. 
+ All ships can move from Near Orbit to Far Orbit, 
+and from Far Orbit onto the SSD (and vice versa). 
+Planet Markers on the SSD are always adjacent to 
+their planet’s Far Orbit. 
+Asteroids: Use the SSD to move from 1 asteroid to 
+another; the asteroid field arrows are not used for 
+movement but merely represent their ordinal situation. 
+Move from an asteroid to its Orbit, then to the SSD. 
+Enemy Units: Ships moving through Orbit or Space 
+Zones containing enemy units can continue moving, 
+and multiple Factions may coexist within Orbit or 
+Space Zones. All units must stop on entering a 
+Territorial Zone containing enemy units. Territorial 
+Zones may not be occupied by more than 1 player at 
+the end of a turn but may coexist until Combat leaves 
+only 1. If your unit begins movement in a Territorial, 
+Orbit, or Space Zone occupied by enemy then your 
+unit may move out and thus avoid combat there. 
+ 
+Advanced Game – Pass-Through Fire 
+1st type of Pass-Through Fire is optional. When ships 
+are moved through an Orbit or Space Zone occupied 
+by another Faction, the occupier may take a free shot 
+at the ships as they pass through and leave the Zone. 
+The moving player cannot counterattack. 
+ 
+2nd type of Pass-Through Fire can occur anywhere. It 
+happens when a player moves into and stops in a 
+Zone occupied by units belonging to a player with a 
+higher Turn Order number. The higher Turn Order 
+player will move later this turn – if that player moves 
+any existing units out of this Zone then the other 
+player may use Pass-Though Fire on them with any 
+ships he or she moved into the Zone earlier. 
+ 
+ 
+Advanced Game – Unit Movement 
+ 
+Instead of all ships moving 4, use the 
+following tables. 
+ 
+A good alternate option is to use any 
+table but allow Transports to move 4. 
+ 
+Advanced Rule 
+ 
+More Balanced 
+ 
+Optional 
+Fighter 
+ 
+Battler 
+ 
+Trooper 
+Battler 
+ 
+Fighter 
+ 
+Gennie 
+Transport 
+ 
+Transport 
+ 
+ 
+ 
+ 
+Turn Setup 
+Movement 
+Building 
+
+ 
+ 
+ 
+PHASE 3 – Combat 
+Combat is mandatory in Territorial Zones, but optional 
+in Space and Orbit Zones. Resolve combat from the 
+center of the Solar System outward (Mercury, Venus, 
+Earth, Mars, Asteroids). Beginning with Mercury, 
+follow the steps below. 
+ 
+Order Of Battles 
+a) Killer Satellites get all their free attacks 
+b) Battlers in orbit bomb the surface 
+c) Resolve any Territorial Zone battles 
+d) Resolve any Near and Far Orbit battles 
+e) Resolve any Space Zone battles along the planet’s 
+SSD orbital path 
+ 
+Each battle consists of rounds. Combat in a round is 
+simultaneous, each unit except Leaders attack once. 
+ 
+Combat Round 
+Each Combat Round, starting with the participant with 
+the lowest turn order, each player: 
+a) Announce 1 unit to attack with 
+b) Announce target unit (may not target an escorted 
+Transport, may not target a Leader) 
+c) Find hit number needed on Combat Result Table 
+Roll 1d10, add +2 if your Leader is present, 
+needing equal or greater than the hit number 
+d) If target is hit then ‘tap’ it to signify that it will be 
+destroyed at the end of the Combat Round 
+e) Repeat a) thru e) with another unit, until all your 
+units have attacked or all enemy are destroyed. 
+f) 
+Next player in combat does steps a) thru f) above 
+ 
+Multiple Participants: Combat may occur between 
+more than 2 factions – any side may target any unit 
+(within the other restrictions noted in this section). 
+ 
+End Of Combat Round: Remove all destroyed units. 
+If 2 sides have units remaining at the Zone another 
+Combat Round may begin: Territorial Zone battles 
+must be fought to the death until only 1 side has units 
+remaining or all units on all sides are destroyed. Orbit 
+and Spaces Zone battles can be called off at the end 
+of any Combat Round if all sides agree. 
+Transports may not be targeted until they are the 
+only units (including KilSats, et al) left on that side. 
+ 
+Leader Bonus: Each unit may receive at most one +2 
+Leader bonus even if you have 2 Leaders at the battle. 
+ 
+Basic Game – Defeating Leaders 
+A Leader is defeated if left alone among the enemy 
+with no friendly units. If a Zone contains only Leaders 
+then all Leaders there are defeated. Remove any 
+defeated Leaders from the board. 
+ 
+Rendering A Faction Inert: If a Faction’s only Leader 
+is defeated then all units of that Faction are rendered 
+inert. Faction loses the rest of this current turn and 
+also all 4 phases of the entire next turn and can do 
+nothing but defend if attacked. 
+ 
+Optional House Rule: Ignore Render Inert rules. 
+ 
+Advanced Game – Defeating Leaders 
+Defeated Leaders are merely held captive. At the end 
+of 2 full turns the original owner can place their 
+Leader back into the game anywhere on the board. 
+ 
+End Of Combat – Territorial Zone Victory: Victor 
+puts 1 Control Marker in the Zone. A Control Marker 
+may exist on its own with no other units. 
+ 
+End Of Combat – Factory Sabotage: If all your units 
+are eliminated from a Territorial Zone containing a 
+Factory then your Factory falls into enemy hands. The 
+enemy can use it immediately to build and gets any 
+units already in production. You can attempt sabotage 
+by rolling 1d10: 7+ and the Factory is destroyed, along 
+with any units in production. 
+ 
+Advanced Game – Control Markers In Combat 
+Representing indigenous population, Control Markers 
+cannot be targeted until all other units of that Faction 
+have been targeted. All friendly units must attack once 
+before a Marker can fight. The Marker must be 
+defeated before the Zone can be conquered, and the 
+conqueror must have at least 1 Trooper, Gennie, 
+Fighter, or Transport in the Zone to take control – else 
+the Zone becomes uncontrolled by anyone. 
+ 
+PHASE 4 – Building 
+Players in turn order declare the type of unit each of 
+their Factories produce then place the new unit on the 
+board. A Factory may not produce if 
+ 
+ It is loaded onto a Transport 
+ It is in the same Zone as another Factory 
+ It was built this turn 
+ 
+Each Factory can produce 1 of the following in a turn: 
+ 
+2 Troopers 1 Fighter 
+ A Factory may not produce
+2 Gennies 
+1 Transport 1 Trooper and 1 Gennie. 
+ 
+Each Factory may produce 1 of the following in 2 
+turns (Use In Production marker on the 1st build turn): 
+ 
+1 Battler 
+Place in closest Near Orbit Zone 
+1 Factory 
+Put in adjacent friendly Territorial Zone 
+or leave here to be transported later 
+1 Killer 
+ Satellite 
+Place in closest Near Orbit Zone 
+(see Killer Satellite under Units) 
+ 
+Units In Production may not be attacked. If an enemy 
+takes the Factory then any In Production units 
+become theirs. In Production units are destroyed if the 
+Factory is destroyed, sabotaged, or dismantled. 
+ 
+Black Market: A player with no Factories may acquire 
+a single Trooper or Fighter. A Factory may be 
+acquired instead by waiting 2 turns. These units may 
+be placed in any zone the player controls. 
+Dismantling Factories: At the beginning of the Build 
+Phase, before building, a player may voluntarily 
+destroy any of their own Factories. Destruction is 
+certain, there is no die roll. 
+
+ 
+ 
+ 
+Number Of Players 
+Play the game normally with 4, 5, or 6 players. 
+With 2 or 3 players, make the following changes. 
+ 
+3 PLAYERS 
+ Distribute Leaders as in the table below. 
+Leaders only grant one +2 bonus, regardless 
+of the number of Leaders in a Zone. 
+ 
+Player 
+Leaders 
+Buck, Wilma 
+Killer Kane, Ardala 
+Black Barney, Doc Huer 
+ 
+ Deal each player 9 Territory cards instead of 6. 
+ Each player uses 2 Faction trays, and builds, 
+moves, and fights using both colors during their 
+turn as if they were a single Faction. Both color 
+units may coexist in a single zone. 
+ Each color uses the standard Starting Units. Each 
+player has 12 setup placement turns – during each 
+they may place 3 units of a single color. Different 
+color units cannot coexist in a Zone during setup. 
+The 6 units per zone limit does not apply. 
+ Object: Control 20 Territorial Zones instead of 15. 
+All other victory conditions remain unchanged. 
+2 PLAYERS 
+ Distribute Leaders as in the table below. 
+Leaders only grant one +2 bonus, regardless 
+of the number of Leaders in a Zone. 
+ 
+Player 
+Leaders 
+Buck, Wilma, Black Barney 
+Killer Kane, Ardala, Doc Huer 
+ 
+ Deal each player 12 Territory cards instead of 6. 
+ Each player uses 3 Faction trays, and builds, 
+moves, and fights using all 3 colors during their 
+turn as if they were a single Faction. All 3 color 
+units may coexist in a single zone. 
+ Each color uses the standard Starting Units. Each 
+player has 18 setup placement turns – during each 
+they may place 3 units of any single color. Different 
+color units cannot coexist in a Zone during setup. 
+The 6 units per zone limit does not apply. 
+ Object: Control 25 Territorial Zones instead of 15. 
+All other victory conditions remain unchanged. 
+ 
+Advanced Game for 2 or 3 Players 
+Draw a separate Turn Card for each color each player 
+controls. Move one color at a time instead of moving 
+as one unified Faction. Colors may share Zones and 
+fight as allies, but their movement is staggered. 
+ 
+UNITS 
+ 
+LEADER 
+Move up to 4 Zones of any type. 
+Can travel in space with no ship. 
+May not end move alone in a 
+Zone containing enemy units. 
+ 
+Defeated Leader: A Leader is 
+defeated if it is in a Zone with 
+enemy units and no friendlies. If 
+this is your only Leader then you 
+miss the rest of this turn and the 
+entire next turn; your units may still 
+defend. Optional House Rule: Turn 
+is not lost when a Leader is defeated. 
+ 
+Advanced Game – Defeated Leader 
+Defeated Leaders are merely held 
+captive. At the end of 2 full turns the 
+original owner can place the Leader 
+back anywhere on the board. 
+ 
+Leader Ability: +2 to d10 rolls of all 
+accompanying units. 
+ 
+Advanced Game – Leader Ability 
+Instead of the +2 to accompanying 
+friendly units, Leaders have special 
+abilities which may be used once per 
+turn (not once per combat round). 
+ 
+Buck 
+Rogers: 
+During 
+Combat, 
+Retreat, or Pass-Through Fire, all Fighters in the Zone 
+with Buck destroy any enemy on a roll of 4 or better. 
+ 
+Wilma Deering: Fighters, Battlers, and Transports 
+accompanying Wilma are immune to Pass-Through 
+Fire, Retreat fire, and free Killer Satellite attacks 
+(KilSats may target Wilma’s friendlies during standard 
+combat after the free attack). 
+ 
+Doc Huer: Any Battlers, Transports, and Fighters with 
+Huer can move 2 extra Zones. Or, he may choose to 
+roll the dice, and move up to that many Zones instead. 
+ 
+Killer Kane: Units with Kane get 1 free attack before 
+combat begins. Opponent’s get no counterattack. This 
+happens before the free KilSat attack. 
+ 
+ 
+Ardala: Has 2 powers but may only use 1 each turn. 
+ 
+1) She uses seduction to steal 2 units from other 
+players. She can take any combination of Troopers, 
+Fighters, and unloaded Transports, both units from 1 
+player or 1 unit each from 2 players. Stolen units are 
+placed with Ardala. This happens before any moves. 
+ 
+2) Ardala takes control of another player’s Leader. 
+She can move this Leader up to the usual 4 Zones. If 
+this Leader dies then she suffers the consequences: 
+Ardala is removed, her Faction may be Rendered 
+Inert, and the other Leader goes back to its owner 
+who places the Leader anywhere with friendly units. 
+ 
+ 
+Black Barney: Once per turn the leader of the space 
+pirates captures ships in battle instead of destroying 
+them. He must be in the Combat Zone and win the 
+battle. Convert the ships to his color after all combat in 
+the Zone is complete. 
+
+ 
+ 
+ 
+CONTROL MARKER 
+Signifies control of a Territorial Zone. No other unit is 
+required in a Territorial Zone. 
+Basic Game: No combat required 
+to take over a Zone with a Control 
+marker – just walk a unit into it. 
+Advanced Game: The Control Marker must be 
+defeated in Combat to take over a Territorial Zone. 
+ 
+TROOPER 
+Build 2 Troopers in 1 turn 
+Move 1 Territorial Zone 
+Transport Can load onto 
+ 
+GENNIE 
+Build 2 Gennies in 1 turn 
+Move 1 Territorial Zone 
+Transport Cannot load onto 
+Can never leave their Planet, Moon, 
+Satellite, or Asteroid 
+ 
+TRANSPORT 
+Build 1 turn 
+Move 4 Space, Orbit, and/or Territorial Zones 
+May move from any Territorial Zone either to 
+Near Orbit or to an adjacent Territorial Zone 
+and vice versa. 
+Carry Up to 5 Troopers or 1 Factory 
+A Factory can’t produce while begin transported. 
+ 
+Transport Loading & Unloading 
+Loading/Unloading Troopers and Factories are free 
+actions, requires no movement, and can be done 
+multiple times by the same Transport at any point 
+along its move. No unit may be transported more than 
+once per turn. Units are Unloaded as soon as a 
+Transport ends its current move at a Territorial Zone. 
+ 
+A Trooper can move before loading but may 
+not move after unloading. Unloaded Troopers may 
+fight immediately. 
+ 
+An 
+unloaded 
+Factory 
+immediately 
+produce. A Factory in the middle of producing a 2-turn 
+unit may not Load unless the In Production counter is 
+voluntarily destroyed (along with the half-built unit). 
+ 
+Transports In Combat 
+A Transport cannot be attacked until all other friendly 
+units in its Zone are destroyed. All transported are 
+destroyed if their Transport is destroyed. A Killer 
+Satellite may target an escorted Transport during its 
+free attack, but not during its normal attack. 
+ 
+BATTLER 
+Build 2 turns 
+Move 4 Space and/or Orbit Zones, not 
+Territorial Zones. A Battler may never land at 
+or move through any Territorial Zone. 
+May Bombard any Territorial Zone from Near Orbit 
+before regular Combat: Once per turn each Battler 
+may target any 1 Trooper, Fighter, Transport, or 
+Factory, where a 1d10 result of 7+ succeeds. 
+FIGHTER 
+Build 1 turn to build 
+Move 4 Space, Orbit and/or Territorial Zones 
+May move from any Territorial Zone either to Near 
+Orbit or to an adjacent Territorial Zone and vice versa. 
+ 
+KILLER SATELLITE (KilSat) 
+Build 2 turns (build in Near Orbit) 
+ 
+Building A Killer Satellite 
+To begin building 1) the owner must control all surface 
+Zones of the nearby Planet (or all of Earth’s Moon) or 
+2) build at any Asteroid owner controls. Also, the Near 
+Orbit must be free of enemy units. Once built it may 
+be deployed even if enemy ships are in Near Orbit. 
+ 
+Deploying A Killer Satellite 
+A Killer Satellite gets deployed to Near Orbit around 
+any Planet, Asteroid, or Earth’s Moon. Only 1 Killer 
+Satellite may be deployed to a given Near Orbit. 
+Entering enemy ships freeze in place until Combat. 
+ 
+Maintaining A Killer Satellite 
+If the owner loses complete control of the planetary 
+surface then any existing KilSats, and any that are In 
+Production, become uncontrolled: They remain in 
+orbit, but cannot be used (nor finished being built). 1st 
+player to gain complete control of the planetary 
+surface then gains control of any uncontrolled KilSats. 
+ 
+Free Attack 
+Before any other combat a KilSat gets 1 free attack at 
+every enemy ship in its Near Orbit Zone, including 
+Transports. Targeted ships get no counterattack. 
+Later during regular combat the KilSat fights like any 
+other unit: it gets 1 attack per round and may be 
+targeted by other units. 
+ 
+FACTORY 
+Build 2 turns 
+Has no combat ability 
+Transport May load onto 
+ 
+Advanced Game – Factory Limits 
+Each Planetary System has a limit as to how many 
+Factories may be built within, including satellites there. 
+ 
+Factories Notes 
+Max 2 on planet surface 
+ 
+Earth/Moon
+Max 5 on Earth, 2 on the Moon 
+ 
+1 Factory per Asteroid 
+ 
+Advanced Game – Combined Factory Production 
+2 Factories in adjacent Territorial Zones can combine 
+their output to produce a Battler, KilSat, or Factory in 
+1 turn. The new unit can be placed in either Factory 
+Zone. 
+are 
+considered 
+adjacent 
+for 
+combining production if they are next to each other. 
+
+ 
+ 
+ 
+Other Advanced Rules 
+ 
+RETREAT 
+At the end of any Combat Round, after all losses have 
+been removed, surviving units can try to leave. The 
+player with the lowest Turn Order gets to retreat first. 
+ 
+Retreating Units can move 1 Zone away from 
+the Combat Zone, and may only enter a Zone they 
+could normally enter. The retreat Zone must be free of 
+enemy. All units in combat don’t have to be retreated, 
+and the ones that do don’t have to run to the same 
+Zone. Units which don’t or can’t move cannot retreat. 
+ 
+Retreating Units are subject to Pass-Through 
+Fire from enemy in the Combat Zone. Each enemy 
+unit gets 1 free shot at the retreating units (who get no 
+counterattack). After Pass-Through Fire these enemy 
+are still able to participate in the next Combat Round. 
+ 
+SURRENDER 
+You can always surrender to the enemy at the start of 
+any Combat Round. If the enemy accepts then your 
+forces are replaced by identical units of the enemy. 
+COMMANDO OPERATIONS 
+A successful Commando raid will destroy an enemy 
+Factory. To mount, you must have Troopers or 
+Gennies in the Factory’s Territorial Zone. Before the 
+1st round of Combat at that entire planetary system 
+begins, announce you’re mounting a Commando Raid 
+and allocate Troopers and Gennies in the Zone to the 
+raid – up to all of them, or as few as 1. New units may 
+not be added to this forced once combat begins. 
+ 
+Allocated units attempt to destroy the Factory 
+each round until they succeed or are destroyed. 
+ 
+proceeds 
+normally, 
+except 
+the 
+commandos can’t fight other units – they may only 
+attack the Factory, or Retreat; after the Factory is 
+destroyed they may only Retreat or do nothing. They 
+can be targeted by enemy in the Zone, but can’t 
+counterattack. Other friendly non-commando units 
+may be present that can attack normally, and also be 
+targeted by the enemy. 
+ 
+After each round of normal combat, each 
+surviving commando can attempt to destroy the 
+Factory: Roll 1d10, on a 6+ the Factory is destroyed. 
+ 
+Official Optional Rules (for Basic or Advanced Game) 
+ 
+STARTING SETUP – UNIT PLACEMENT 
+Place units 1 at a time instead of 3 at a time. 
+ 
+STARTING SETUP – UNIT PLACEMENT 
+The 3 units in each placement turn don’t have to be 
+placed in the same Zone. Units produced later by 
+Factories can be placed in any Zone you control. Any 
+2 Factories anywhere on the board can combine their 
+output to produce 2-turn units in a single turn. 
+ 
+STARTING SETUP – LEADERLESS FACTIONS 
+Start the game with 
+no Leaders. Leaders 
+are acquired later by 
+controlling the planet 
+each is associated 
+with. Control means 
+every Zone on the 
+planet, or use the 
+optional 
+Majority 
+Control rule. 
+ 
+GENNIE ABILITIES – Based On Their Home 
+ 
+Notes 
+Mercurian Gennies Add +1 to all Combat die rolls 
+Venusian Gennies 
+Add +1 to the hit number needed 
+to hit them (10 always hits) 
+Earth Gennies 
+Produce 3 per turn, instead of 2 
+Lunar Gennies 
+Can target units in the Near Lunar 
+Orbit Zone, 8+ hits any unit there 
+Martian Gennies 
+Can move up to 2 Territorial 
+Zones per turn through friendly 
+and uncontrolled Zones 
+Asteroid Gennies 
+Can move to the Asteroid’s Orbit 
+Zone. Option: Gennies and 
+Battlers need 9 to hit each other 
+ 
+4 of 6 
+4 of 7 
+Earth/Moon 
+7 of 13 
+4 of 7 
+MAJORITY CONTROL 
+Majority Control allows you 
+to build a Killer Satellite, 
+and has other meanings in 
+some optional rules and 
+scenarios. 
+5 of 9 
+ 
+FAR ORBIT & SPACE ZONES Æ SAME ZONE 
+Each planet’s Planet Marker and Far Orbit Zone are 
+now considered the same location. A unit sitting on a 
+Planet Marker is simultaneously on that planet’s Far 
+Orbit Zone. All units at either will participate in Combat 
+within this single Zone. When the planets move, ships 
+in the Far Orbit Zone stay with the planet, while those 
+on the SSD Planet Marker are left behind. Planetary 
+transit will be faster with 1 less Zone to move through. 
+ 
+SLINGSHOT MANEUVER 
+Units on the SSD can increase their speed by 
+slingshotting around the Sun or a planet (Mercury, 
+Venus, Earth, Mars). The unit can’t begin its move at 
+the 
+Sun 
+Zone 
+or 
+Planet Marker it will 
+use. 
+A 
+unit 
+attempt 
+multiple 
+Slingshots in a turn. 
+ 
+Once the unit 
+has moved to the Planet Marker roll 1d10: on a 10 the 
+ship crashes into the planet and is destroyed. 
+Otherwise the ship moves 2 extra Zones. 
+ 
+Once at the Sun roll 1d10: on an 8, 9, or 10 
+the ship crashes into the Sun and is destroyed. 
+Otherwise the ship moves 4 extra Zones. 
+ 
+For a group of ships, each unit can attempt to 
+Slingshot independently or make a single roll for the 
+group, decided before any rolls are made. 
+Leader 
+Earth 
+Moon 
+Zone Move Success Fail 
+Planet 
++2 
+1 - 9 
+Sun 
++4 
+1 - 7 
+8 - 10
+
+ 
+ 
+ 
+TRANSPORT HOPPING 
+If a Transport ends it move in a Zone with a 2nd 
+Transport which hasn’t moved this turn, then units 
+aboard the 1st can jump to the 2nd. The 2nd can carry 
+those units up to its full remaining move and can 
+again transfer them to another Transport, and so on. 
+ 
+TRANSPORTS – MOVEMENT AFTER UNLOADING 
+Troopers aboard a Transport can move 1 Zone after 
+unloading. Ignore any movement prior to loading, and 
+ignore the Transport movement – all units aboard a 
+Transport can move 1 Zone after being unloaded. 
+ 
+FACTORY DEFENSIVE BONUS 
+All attacks against Troopers and Gennies in Zones 
+containing a friendly Factory have the number needed 
+to hit them increased by +1. A roll of 10 always hits. 
+ 
+FREE FACTORIES 
+1st Faction to take control of a Planetary System gets 
+a free Factory, placed at the end of that turn’s Build 
+phase. It must be placed in a legal Zone in which the 
+Faction has no Factory (else discard the Factory). It 
+can build next turn. Only the 1st player to gain control 
+of each Planetary System gets a Factory – taking 
+control from someone else does not earn a Factory. 
+ 
+FACTORIES IN SPACE 
+A Factory aboard a Transport can produce 1 Fighter 
+each turn, which gets placed in the Transport’s current 
+Zone. Factories on Transports may never combine 
+output in any way with any other Factories. 
+UNIT CONVERSION 
+Before 
+any 
+units 
+move 
+you 
+convert 
+some 
+to 
+other types through 
+retraining 
+and 
+recycling. There’s no 
+limit to the number of 
+conversions. On the 
+table here units can 
+convert 
+right-to-left 
+and/or 
+left-to-right. 
+The extra ‘fast-and-loose’ table has the oddity that 
+Gennies and Troopers can convert to each other. 
+ 
+Convert To Or From 
+ 
+Fast-And-Loose 
+2 Troopers ⇔1 Fighter 2 Gennies 
+⇔1 Fighter
+2 Fighters 
+⇔1 Battler 
+ 
+ 
+ 
+ 
+1 Trooper + 
+1 Gennie 
+⇔1 Fighter
+ 
+SUBVERTING LEADERS 
+If a Leader is the last unit of its Faction in a Zone, an 
+enemy with units there may roll to Subvert the Leader. 
+Each unit they have present adds +1, or +5 for their 
+Leader. On a 15+ the Leader joins the new Faction. 
+ 
+Subversion immediately wears off if the 
+Leader is left alone in a Zone containing enemy units. 
+ 
+Subversion may wear off just before each use 
+of the Leader’s ability (Basic Game: each time the 
+Leader participates in combat). Roll 1d10: on 7+ 
+Subversion immediately wears off. 
+ 
+If Subversion wears off, return the Leader to 
+his original Faction to place anywhere on the board. 
+ 
+SCENARIOS 
+ 
+1. Gross Display Of Power: Object: Control 3 
+Planetary Systems. Use the Majority Control rule. 
+2. Battle For Earth And Mars: Remove Mars and 
+Earth/Moon Territory cards before setup; no one 
+may start with any units there. 1st to control both 
+systems wins. Use the Majority Control rule. 
+3. Leader, Leader, Who’s Got The Leader?: Win 
+by controlling a majority of Leaders when Earth 
+returns to its start position. Plays well with the 
+optional Subverting Leaders rule. 
+4. Pick A Unit, Any Unit: Object is unchanged. 
+Starting Units: 1 Leader, 2 Factories, and 17 units 
+in any combination of Transports, Troopers, 
+Fighters, and Gennies. Put these at any Zone you 
+control, ignoring the 6 units per Zone setup limit. 
+5. A Day’s Work: Planets don’t move on the SSD. 
+ 
+ 
+6. Someplace To Call Home: Randomly take 1 
+Territory card for each Planetary System (with 6 
+players take 1 separately for Earth and Moon). 
+Deal 1 to each player, who then controls all 
+Zones in that system. Players take the Leader 
+and Faction tray below, and place all starting 
+setup pieces in their home systems. 1st to control 
+2 more systems wins (use Majority Control rule). 
+ 
+Faction 
+Leader 
+Yellow 
+Green 
+Earth 
+Blue 
+Moon 
+Brown 
+Red 
+Purple 
+ 
+ 
+Buck Rogers Components 
+ 
+6 Leaders 
+356 Minis 
+per color  199 Counters
+per color  54 Cards 
+Other 
+120 Troopers 
+20 138 Control Markers 
+6 Leader Cards 
+45 White 1-unit Chips 
+48 Gennies 
+48 Transport Markers 8
+6 Turn Order Cards 
+5 Red 5-unit Chips 
+24 Transports 
+ 2 per Transport 
+42 Territory Cards 
+5 Ten-sided dice 
+90 Fighters 
+13 Planet Markers 
+ 1 per Territory 
+1 Gameboard 
+36 Battlers 
+ 4 planets 
+ 
+1 Basic Rulebook 
+14 Killer Satellites 
+ 
+ 9 asteroids 
+ 
+1 Advanced Rulebook
+ 
+24 Factories

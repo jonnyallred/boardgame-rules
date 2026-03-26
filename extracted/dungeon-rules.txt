@@ -1,0 +1,317 @@
+Step 4. Loot
+If you encountered the Monster in a room, you draw 1 
+Treasure card from the face-down pile of cards corresponding 
+to the Level the Monster was on. You also collect any other 
+Treasures that were dropped there by Heroes.
+If you encountered the Monster in a chamber, you do not 
+draw a random Treasure card, but you do collect any Treasures 
+that were dropped there by Heroes. 
+Wizard Spells
+Wizards gain access to Spells that they can cast throughout the 
+game. As a Wizard, you start the game with a certain number of 
+Spell cards in your hand.
+You can play only 1 Spell card per turn. When you do so, discard 
+the card. 
+Fireball/Lightning Bolt: Each Monster card includes icons for 
+the Fireball and Lightning Bolt Spells. Use the number below the 
+icon for the corresponding Spell to determine the dice roll needed 
+to hit. If you destroy the Monster, move your Hero into its room 
+or chamber and loot as normal. If you miss, the Monster does 
+not strike back, since your Hero is not in the same space. The 
+Monster stays in that room or chamber until it is destroyed 
+Teleport: This Spell lets you take shortcuts in the dungeon. You 
+can cast Teleport only if your Hero is in a chamber, and only 
+before combat. When you play the Spell card, you remove your 
+Hero standee from the chamber it is in and place it in another 
+chamber on the same Level or one that is 1 lower or higher. (For 
+example, if you cast Teleport while in a chamber on Level 4, you 
+could move your Hero to any other chamber on Level 3, 4, or 5.) 
+If you cast this spell while a Monster is in your starting chamber, 
+you do not ght that Monster (even if you just moved there), but 
+you must ght any Monster in the chamber you move to.
+Regaining Spells
+You can never have more Spell cards than you started with, but 
+once you have cast some, you can rell your spellbook. If you 
+spend your entire turn in the Great Hall, you can select 1 card 
+from the Spell piles or the discarded Spell cards and add it to your 
+hand. 
+Winning the Game
+If you end your turn with your Hero in the Great Hall and 
+carrying the required amount of Treasure for your class, you win!
+Adventurer	
+	
+Treasure to Win
+Cleric	
+	10,000 gp
+Rogue	
+	10,000 gp
+Fighter	
+	20,000 gp
+Wizard	
+	30,000 gp
+ 
+ 
+ 
+Appendix 1: 
+Special Treasure Cards
+Most Treasures are simply worth gp, but a few grant special boons 
+to the Heroes lucky enough to loot them.
+Secret Door Card
+This card represents a magic item that allows the Hero carrying it to 
+nd and move through secret doors as if they were normal doors.
+Using a Secret Door Card: When you draw this card, place it 
+face up in front of you. From now on, you dont roll dice to nd 
+secret doorsyour Hero just moves through them. Even if you drop 
+the Treasure, you still treat all secret doors your Hero previously 
+moved through as normal doors for the rest of the game.
+ESP Medallion/Crystal Ball
+ 
+You can use an ESP Medallion to nd out what Monster your 
+Hero is about to encounter before you enter a room or chamber.
+You can use a Crystal Ball to look at the Monster and Treasure in 
+any room or chamber in the dungeon. 
+Using an ESP Medallion or Crystal Ball: When you draw 
+either of these Treasure cards, place it face up in front of you. 
+From now on, your Hero can use that cards power. (No matter 
+how many ESP Medallions or Crystal Balls you have in play, you 
+can use either power once per turn.)
+Sequence of Play
+Starting with the rst player, each player takes a complete 
+turn. Once a players turn is over, the next player to the left 
+takes a complete turn. Play continues in this way until the 
+game ends.
+On your turn, you follow these steps, in order.
+1. Move
+2. Encounter
+3. Combat
+4. Loot
+Step 1. Move
+During this step, your Hero can move up to 5 spaces. A Hero 
+can move only into a space that is adjacent to the one he 
+or she is in, and cant cross the walls of rooms or chambers 
+(unless a door connects the spaces (see Doors below). A 
+Hero can choose to move 0 spaces, staying in the space he or 
+she started.
+Corridor spaces are shown as agstones. Each room and 
+chamber (including the Great Hall) counts as a space.
+Lose a Turn Tokens
+If your Hero has collected one or more Lose a Turn tokens 
+on a previous turn, you must discard 1 token before moving. 
+Your turn immediately ends. 
+Whenever your Hero moves into a room or chamber that has 
+not yet been cleared (see Step 2. Encounter below), he or 
+she must stop. A Hero can move through spaces containing 
+other Heroes but cannot stop in the same space as another 
+Hero.
+Exception: Multiple Heroes can occupy a chamber space. 
+The Fighter moves into 1 corridor space, 1 chamber space (the 
+Laboratory), 1 more corridor space, and nally into the Crypt. He can 
+move through the Laboratory because it has already been cleared (it 
+contains 3 Cleared tokens) and through the space with the rst Wizard. 
+However, he has to stop in the Crypt (along with the second Wizard) 
+because it is not yet cleared, even though he could move 1 more space. 
+Many spaces are connected by doors. Most doors are normal 
+but a few are secret doors. Dont count doors as spaces when 
+moving. Any Hero can move through a normal door, but in 
+order to move through a secret door, you must nd it rst.
+To nd a secret door, move your Hero into the space adjacent 
+to the door. If that Hero can still move at least 1 space, you 
+can attempt to nd the door by rolling 1 die. On a roll of 5 or 
+6, you nd the door (Rogues nd secret doors on a roll of 36). 
+Your Hero can continue moving through the secret door as if 
+it was a normal door. Otherwise, you did not nd the door and 
+your Hero can move no farther this turn.
+Once you nd a secret door, your Hero remembers it for the 
+rest of the game. You do not need to nd it a second time if 
+your Hero moves back through it later on. (You might wish to 
+keep track of the doors you found on a piece of scrap paper.)
+Step 2. Encounter
+After your Hero has nished moving, he or she encounters 
+that space. If your Hero is in a corridor space, a cleared room 
+(with 1 Cleared token) or a cleared chamber (with 3 Cleared 
+tokens), no Monsters are there. Your turn is over. Otherwise, 
+follow the steps below.
+A room or chamber can have only 1 Monster in it at a time.
+If the room or chamber contains a Monster:
+Fight that Monster.
+If the room or chamber contains no Monster but is not 
+cleared: A Monster attacks! Draw and reveal the top Monster 
+card from the pile that matches its Level. If you run out of 
+Monster cards for a Level, reshufe the discard pile for that Level.
+If the revealed Monster card is not a Cage Trap or Slide Trap, 
+proceed to combat (step 3). Otherwise, see the Its a Trap! 
+sidebar.
+Its a Trap!
+Two kinds of Monster cards dont represent creatures. They 
+dont attack you but instead have a special effect.
+Trap Reward: First, If your Hero is in a room when a trap 
+is drawn, draw 1 Treasure card from the pile corresponding 
+to the rooms Level. (Dont draw a Treasure card in a 
+chamber.) Place one Cleared token in the room or chamber 
+where the trap was drawn.
+Cage Trap: After collecting your treasure, roll 1 die to see 
+how long it takes your Hero to break free. On a roll of 13, 
+take 1 Lose a Turn token. On a roll of 46, take 2 Lose a 
+Turn tokens. 
+Slide Trap: After collecting your treasure, move your Hero 
+standee to any chamber on a Level whose number is 1 
+higher than the one your Hero is on. (For example, if you 
+drew the Slide Trap card on Level 5, move your Hero to 
+a chamber on Level 6.) Treat that new chamber as if your 
+Hero just moved there, and encounter a Monster if it has 
+not been cleared. 
+Step 3. Combat
+Before you can grab the Treasure, you need to ght the Monsters 
+that guard it. You ght just 1 round of combat per turn, which 
+occurs in 2 steps.
+A. Fight the Monster
+B. The Monster strikes back
+You can never ght other Heroes.
+ 
+A. Fight the Monster
+First, look at the Monsters card and nd the colored icon that 
+corresponds to your Heros class. The number below the icon is 
+what you have to roll on 2 dice to hit the Monster. If you roll at 
+least as high as that number (including any bonus for a Magic 
+Sword), you hit and destroy the Monster! If the monster has a 
+ below your heros icon, you cannot attack it unless you have 
+a Magic Sword (see Magic Sword on page 4).
+When you destroy a Monster, remove its card and place a 
+Cleared token on the room or chamber it was in. Rooms require 
+1 Cleared token to clear out completely; chambers need 3 
+Cleared tokens. Once you have completely cleared out a room or 
+chamber, no more Monsters will appear there.
+Attacking with a Fireball or Lightning Bolt
+These Spells let a Wizard attack Monsters from a safe 
+distance (see Wizard Spells on page 3). To attack a 
+Monster with a Spell, you must be able to move your 
+Wizard into the Monsters room or chamber on your turn, 
+just as in normal combat. However, you stop moving at the 
+door of the room, or in the space adjacent to the chamber, 
+and announce that youre casting the Spell. If a Monster 
+isnt already revealed, you must decide which Spell to use 
+before drawing a Monster card.
+B. The Monster Strikes Back
+If you did not destroy the Monster, it gets a chance to hit you 
+back. Roll 2 dice for the Monsters attack. Refer to the table 
+below to see if it hits!
+Even if the Monster missed you, combat is over for this turn. 
+Place the Monsters card alongside the game board by the rst 
+open numbered slot and place the corresponding Number token 
+in its room or chamber to represent that Monster.
+Dice 
+Roll
+Results
+Killed! Drop all your Treasure cards. Choose a new 
+Hero (or the same one if no other Hero is available) 
+and place it on the Great Hall.
+Seriously Wounded: Randomly drop half your 
+Treasure cards (round up) and place your Hero on 
+the Great Hall. 
+810
+Wounded: Drop 1 random Treasure card and move 
+your Hero back 1 space in the direction he or she 
+came. Take 1 Lose a Turn token. 
+67
+Stunned: Drop 1 random Treasure card.
+5 or 
+lower
+Miss! No effect.
+Dropping Treasure: Whenever you drop any Treasure cards, 
+place them face up under the card of the Monster that just hit 
+your Hero. If you must drop random Treasure cards, shufe up 
+all your cards (including any face-up cards in front of you) and 
+discard the required number blindly. 
+ )  	To use an ESP Medallion, your Hero must be in a space 
+adjacent to a room or chamber. Draw a Monster card 
+corresponding to the Level of that room or chamber. You 
+can use the ESP Medallion in the middle of moving, but if 
+you choose to not enter the room or chamber, your Hero 
+must stop moving.
+ )		
+To use a Crystal Ball, your Hero does not move or attack 
+on your turn. Instead, choose any room or chamber on 
+the board and draw a Monster card (and a Treasure card if 
+you chose a room) corresponding to its Level. 
+In either case, do not reveal the cards you drew. Place them 
+alongside the game board as you would normally, but keep 
+them face down. Place the corresponding Number token on 
+the room or chamber that you just checked. The next time a 
+Hero encounters a face-down Monster card, it is revealed.
+Magic Sword
+A Magic Sword adds to your attack rolls against Monsters you 
+ght. You can have only 1 Magic Sword in play at any time.
+Using a Magic Sword: When you draw this card, if you do 
+not already have a Magic Sword in play, place the card face 
+up in front of you. Roll 2 dice to determine the Magic Swords 
+enchantment bonus, either +1 or +2 (the card lists the rolls 
+needed). Then place a matching Magic Sword token (+1 or +2) 
+face up on the card. As long as you have the Magic Sword in 
+play, you add its enchantment bonus to all of your attack rolls.
+If you already have a Magic Sword in play, keep the card 
+you just drew hidden in your hand. Magic Swords still count 
+toward your total gp needed to win, whether they are in play 
+or not. 
+Wizards Cannot Use Magic Swords. If you are playing a 
+Wizard and you draw a Magic Sword card, you must keep 
+the card in your hand. Its gp value still counts toward your 
+total needed to win, but you cannot play it face up in front 
+of you for a bonus in combat.
+ 
+Megan drew a Magic Sword card and rolled an 11, so its 
+enchantment bonus is +2!
+Having a Magic Sword can let you attack a Monster that you 
+otherwise couldnt hit. For example, if you are playing a Rogue 
+and encounter a Black Pudding, you normally could not even 
+attack it (the Black Pudding card shows a  below the Rogue 
+icon). If you have a Magic Sword, you treat the attack number 
+as a 13 instead. So if you have a +1 Magic Sword, you could 
+hit the Black Pudding with a roll of 12 (or a roll of 11 with a +2 
+Magic Sword). 
+Dropping a Magic Sword: If dropping random Treasure 
+cards forces you to lose a Magic Sword in play and you have 
+another one in your hand, you can replace it. Immediately play 
+the Magic Sword card from your hand face up in front of you, 
+keeping the same enchantment bonus as the one you just lost 
+(use the same Magic Sword token). Otherwise, youll just have 
+to hope you loot another Magic Sword later.
+Appendix 2: Solo Play
+Want to test yourself against the challenges of the Dungeon! 
+Game? Here are three suggested rules variants.
+Treasure Hunt
+Before you start, draw a random Treasure card from any Levels 
+pile. Shufe it back into that pile and try to nd that Treasure 
+before your Hero dies twice. Start off with a Level 1 Treasure; 
+as you get better, you can search for loot deeper and deeper 
+within the dungeon!
+Timed Game
+Set a time limit and try to win in the allotted time. Try starting 
+with 30 minutes. As you get better, shorten the time limit for a 
+greater challenge, to 25, 20, or even 15 minutes!
+Become the Hunted
+Before you start, draw a random Level 6 Monster card and 
+place it face down near the game board. Use one of the other 
+Hero standees to represent this Monster, placing it in any 
+room on level 6. That Monster is now a Hunter chasing you 
+as you attempt to loot the dungeon. Try to win before the 
+Hunter kills you!
+Hunter Movement: The Hunter takes its turn after you, 
+moving 5 spaces each turn. It always treats secret doors as 
+normal doors and takes the shortest route to your Hero. The 
+Hunter does not have to stop in uncleared rooms or chambers. 
+If it moves into the same space as your Hero, reveal the 
+Monster card and conduct combat as normal.
+Hunter vs. Other Monsters: The Hunter does not attack and 
+is not attacked by other Monsters.
+Destroying the Hunter: You can attack the Hunter just like 
+any other Monster. If you destroy the Hunter, draw a new Level 
+6 Monster card and place its Hero standee in a room of your 
+choice on that Level. That Monster becomes the new Hunter.
+Secret 
+Monsters
+WILL Appear
+Monsters WILL 
+NOT Appear
+Corridors
+Chamber
+Room

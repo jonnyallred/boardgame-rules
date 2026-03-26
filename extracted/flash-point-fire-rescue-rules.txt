@@ -1,0 +1,650 @@
+The Game of Cooperative Fire Rescue
+by Kevin Lanzing
+2010 © Kevin Lanzing
+Clockwork Colossus Games™
+Rulebook v.1.1
+Introduction
+A fire has erupted in a large home, threatening the 
+property and its occupants. As the first responders to 
+the fire, players must enter the home to rescue the 
+people trapped inside. Resources are scarce, and time 
+is not an ally. As the fire spreads out of control, 
+victims are endangered and the building approaches 
+collapse. Players must cooperate to mount a 
+successful rescue effort.
+Objective
+Flash Point is a fully cooperative game, meaning that 
+players win or lose together. To win, players must 
+rescue the victims trapped inside a burning home. 
+The players fail if three or more people die, or if the 
+house collapses from structural failure.
+Table of Contents
+Setup
+Turn Order and Phases
+Detect POI Phase
+Player Action Phase
+Advance Fire Phase
+Search and Rescue
+End of Game
+Intro to the Advanced Game
+Advanced Game Setup
+Rescue Vehicles
+Specialists
+Hazardous Materials
+Errata and Credits
+Setup
+Components List
+All of the following should be contained within the 
+Flash Point box:
+rules (the ones you're reading)
+10"x16" halves of game board
+6-sided die
+8-sided die
+orange discs
+white discs
+black discs
+blue discs 
+round stickers (for the discs)
+translucent white winks
+player pawns
+cards
+Two Ways to Play
+Flash Point is by no means a simulation. It is 
+complicated enough, however, that learning all the 
+rules in one sitting might present a challenge. For this 
+reason, these rules are broken up into a Basic and 
+Advanced Game. The Advanced Game follows all of 
+the same conventions as the Basic Game, but 
+incorporates advanced features like specialist roles, 
+drivable vehicles, hazardous materials, and the fire 
+engine's deck gun. For this reason, we recommend 
+players start with the Basic Game. Once all players 
+understand the basics, they will be prepared for the 
+extra challenges of the Advanced Game.
+If playing the Basic Game, read only up to the End of 
+Game section. The remainder of the rules describe 
+Advanced Game concepts.
+Summary of Components
+Below you will find a brief description of the major 
+components and their uses in the game.
+The Dice
+Many elements of the game are random or semi-
+random. These include the way that fire advances, 
+and how new POI are discovered and added to the 
+board. Two dice, one six and one eight-sided, are 
+rolled together to generate a coordinate. Each space 
+inside (not outside) the house corresponds to a 
+particular dice roll. The dice are always rolled 
+together.
+ 
+Game Board
+The board in Flash Point is composed of two 10"x16" 
+cardboard panels. Placed side-by-side, these align to 
+create the house which is the setting of the game. 
+
+Each panel is two-sided. Flip both panels over to 
+reveal a completely different floor plan!
+White Discs
+The white discs are doors. These go atop each 
+doorway in the house, but not the entrances 
+on each of the four sides of the house. Doors 
+have two sides: open and closed. The players 
+may open and close doors, but at the start of 
+the game all doors are closed.
+Orange Discs
+The orange discs are smoke and fire discs. 
+One side is smoke; the other is fire. These are 
+added to the board as the fire advances, and 
+removed as fire and smoke is extinguished by 
+the players.
+Black Discs
+The black discs are "points of interest", or POI for 
+short. These are places inside the house where 
+something important may or may not be found. Until 
+players MOVE to a POI, or they are otherwise acted 
+upon, the nature of a POI is a mystery. There are 
+three types of POI in Flash Point:
+Victims - look like people; must be rescued.
+False Alarm - a firefighter's shadow cast upon 
+a vacant wall. Nothing here!
+Hazardous Materials (hazmat) - have 
+triangular yellow warning symbols.
+Blue Discs
+The blue discs are used in tandem with the 
+Paramedic, a specialist role that may be used in the 
+Advanced Game. They have no use in the Basic Game. 
+Leave these alone for now.
+White Winks
+The white winks (7/8" translucent discs) are damage 
+tokens. Walls may take damage from the fire, or by 
+player action. At least 30 damage tokens should be 
+included. Throw away excess winks, or keep them 
+separate. Once all 30 damage tokens have been 
+played to the board, the house suffers a structural 
+collapse and the roof caves in. This is one way the 
+game may end in defeat for all players.
+Player Pawns
+These pieces are the players themselves. Typically, 
+each player controls only one pawn. For a solitaire 
+game, it is acceptable for a player to play as two or 
+more characters.
+The Cards
+There are three types of cards: AP surplus cards, 
+specialists, and vehicles. Only the AP surplus cards are 
+used in the Basic Game. Take a good look at all the 
+cards anyway - some particularly useful information is 
+printed on the back of each.
+Before Playing for the First Time
+One of the things you will notice the first time you 
+open the box is the abundance of colored wooden 
+discs. Each color represents a class of object. Orange 
+discs are fire or smoke. White discs are open or closed 
+doors. Black discs are "points of interest" (POI) - 
+mystery spaces that must be investigated before they 
+can be identified. Blue discs mark treated victims, and 
+have no function in the Basic Game. Before playing 
+this game for the first time, you must place the 
+included stickers on the right color of disc. The edge 
+of each sticker is color-coded to make this simple. 
+Here is the process for getting your game ready to 
+play:
+The fire stickers go on the orange discs. There 
+
+are 36 of these.
+The smoke stickers go on the opposite side of 
+each orange disc.
+The open door stickers go on the white discs. 
+There are eight of these.
+The closed door stickers go on the opposite 
+side of each white disc.
+The mystery "?" stickers go on the black discs. 
+There are 19 of these.
+All remaining stickers go on the opposite side 
+of the black discs.
+Setting Up the Basic Game
+Put the two halves of the game board 
+together. Use the floor plan pictured on page 
+2 (Game Board).
+Place the doors (white discs) closed-side-up 
+on each of the the eight doorways marked 
+with an "X". The four doorways already 
+marked with an open door symbol are 
+entrances. These are always open, and do 
+not need a door disc.
+Of the POI (black discs), remove two of the 
+ten victim and one of the false alarms. 
+Remove all of the hazardous materials. They 
+are not used in the Basic Game.
+In the center of the board is a 2x4 room. Fill it 
+with fire discs (orange, fire-side-up).
+Take three POI discs and place them ("?"-side-
+up!) on the spaces 15, 51, and 67. 
+Players must determine the start player and 
+turn order. The game is ready to begin.
+Turn Order and Phases
+Flash Point is played in turns, with three phases to 
+each turn. These are:
+Detect POI - If there are fewer than three POI 
+on the board at the start of a player's turn, 
+that player rolls to locate POI until there are 
+three.
+Player Action - The active player has 4 action 
+points (AP) to spend however he pleases. See 
+section E.1 for more detail.
+Advance Fire - The active player rolls once to 
+advance the flame, which can have a variety 
+of effects. See section F.1 for a description of 
+this phase.
+When one turn ends the next begins, with turn order 
+going clockwise around the table.
+Detect POI Phase
+At the start of each player's turn, he should check to 
+see if there are fewer than three POIs (black discs) on 
+the board. This includes POIs that have been 
+identified (flipped over), such as a victim. If there are 
+fewer than three POIs, he rolls the dice to detect new 
+POIs. The result is a coordinate - a particular space on 
+the board.
+Valid locations for a POI are empty spaces and smoke 
+clouds (orange discs, smoke-side-up). Invalid locations 
+are spaces on fire and spaces where one or more 
+firefighters are already standing. If the result for a 
+"detect POI" roll is invalid, the active player must use 
+the arrows at the corner of each square as a guide for 
+locating POIs. The arrows trace a spiral that starts at 
+33 and spirals outwards to 61 before jumping back 
+to 33 and completing the circuit. If your first result is 
+invalid, continue to follow the arrows until you find a 
+valid space to place the POI.
+For this Detect POI attempt, a 11 is rolled. This result 
+is invalid, as there is a fire in this space. Following the 
+arrows, 11 becomes 12 (invalid; fire) becomes 
+13 (invalid; already occupied by another POI) 
+becomes 14, which is empty and a valid space.
+Player Action Phase
+Starting Location
+On a player's first turn, that player may enter the 
+board standing on any space outside the house.
+Actions
+A player may perform any of the following actions on 
+his Player Action phase. Actions are written in ALL 
+CAPS for emphasis.
+NOTE: "Adjacent" in this game always means up, 
+
+down, left, or right. Diagonal spaces are never 
+considered adjacent, for any purpose.
+MOVE - players may move their player pawns to an 
+adjacent space. Each step is a MOVE. Movement costs 
+vary based on the situation.
+Moving to an open/smoke-filled space: 1AP
+Entering a space on fire: 2AP
+Moving while carrying a victim: 2AP
+OPEN/CLOSE DOOR - Any player may spend 1AP to 
+flip an adjacent door disc to either its open or closed 
+side. Open doors may be passed through freely by 
+players, but are likewise no obstacle to fire.
+EXTINGUISH - Players may EXTINGUISH smoke and 
+fire in their own space, or any adjacent space. A fire 
+or smoke disc that is extinguished is removed from 
+the board. It costs 1AP to EXTINGUISH smoke, and 
+1AP to convert fire to smoke. Usually it is best to 
+completely EXTINGUISH fire (2AP), as smoke is liable 
+to ignite and become fire again anyway.
+CHOP - All firefighters carry an axe. This can be used 
+to demolish walls, creating openings a firefighter can 
+use to reach a trapped victim. It costs 2AP to CHOP an 
+adjacent wall segment. This adds a damage token to 
+the wall segment. A wall segment with two damage 
+tokens is destroyed, and firefighters can pass through 
+destroyed wall segments as if they were not even 
+there. Be forewarned - all walls are load-bearing. 
+Reckless demolition will only guarantee an early game 
+over!
+All of the actions described above may be performed 
+in any order and combination, so long as they do not 
+exceed a player's available AP. Unspent AP may be 
+saved for next turn. The AP surplus cards record 
+unspent AP from one turn to the next. These cards 
+have four facings: +1, +2, +3, and +4. This indicates a 
+number of unspent AP. Simply rotate these cards so 
+that the correct number of unspent AP faces up. Each 
+player should have an AP surplus card in his own 
+color. No more than 4AP may be saved in this fashion.
+Once a player has finished his Player Action phase, 
+the Advance Fire phase beings.
+Advance Fire Phase
+The fire is the unthinking, unfeeling antagonist of this 
+game. At the end of each player's turn, he rolls the 
+dice once to advance the fire. Although the fire 
+spreads randomly and mechanically, certain outcomes 
+are inherently more likely. Players should plan 
+accordingly.
+Advance Fire Outcomes
+The potential outcomes of an Advance Fire roll are:
+1. smoke will spread to an open space
+2. fire will spread to an adjacent space
+3. smoke will ignite and become fire
+an explosion will happen in a space already 
+on fire
+"Contiguous" in this game means "adjacent and not 
+separated by a wall or closed door." As the fire can 
+not pass through an obstacle, walls and closed doors 
+slow the spread of fire. 
+Once one of these four outcomes is resolved, players 
+should check to see if any secondary effects occur.
+Explosions
+Whenever the fire advances into a space that is 
+already on fire, an explosion occurs. Explosions 
+spread outwards in all four directions. Not only can 
+this spread the fire, it also damages nearby walls and 
+doors.
+An explosion radiates from its target space outwards 
+in all four directions. Each "shock wave" will continue 
+to travel in its respective direction, "rolling over" and 
+skipping spaces on fire already, until it
+1. hits something - a wall or closed door 
+
+(damages/destroys what it hits)
+2. encounters a space free of smoke or fire 
+(spreads fire to that space)
+3. vents harmlessly outside (no effect)
+If a shock wave passes through an open door, that 
+door is destroyed as well. This does not contain the 
+shock wave, which continues unimpeded through the 
+doorway until it hits something solid, spreads fire, or 
+vents out of the house. Players, likewise, are no 
+impediment to fire, although in the unhappy event 
+that a player gets in the way of the shock wave he is 
+knocked down. See Getting Knocked Down, below.
+ 11 is rolled for the Advance Fire result. As this space 
+is already on fire, an explosion occurs. Shock waves 
+radiate from 11 in all four directions.
+Up - shock wave travels through the 
+destroyed wall and vents harmlessly outside.
+Down - shock wave rolls over fire at 21and 
+spreads fire to 31.
+Left - shock wave hits a wall. Add a damage 
+token to this wall segment.
+Right - shock wave rolls over two fires before 
+hitting a closed door. The door is destroyed. 
+Remove it from the board.
+Getting Knocked Down
+Despite their protective gear, firefighters are not 
+fireproof. If fire spreads to a firefighter's location, that 
+firefighter also catches fire and must "stop, drop, and 
+roll" to put it out. Immediately turn the player pawn 
+on its back to reflect this. Remove the fire disc from 
+his space - it can't hurt that player again. On his next 
+turn, that player returns his pawn to an upright 
+position, and forfeits the rest of his turn. If the fire 
+spreads to our player's space after he has gotten up, 
+he is knocked down again. However, if this happened 
+while he was already down there would be no further 
+effect. Assuming he makes it to his next turn without 
+incident, our player may take his next turn as normal. 
+Although the players can't die in this game, 
+firefighters who take stupid risks may become a 
+liability to the team.
+Victims completely helpless. If the fire spreads into a 
+space occupied by a victim, he is literally toast. 
+Remove dead victims from the board and keep them 
+separate from rescued victims. Three dead victims is 
+an instant game over!
+Secondary Effects
+Once the immediate effects of an Advance Fire roll 
+have been resolved, secondary effects may occur. 
+These are the incidental results of the advancing fire. 
+Secondary effects include flashovers, deaths, knock-
+downs, and total building collapse. Use the chart 
+below to determine what secondary effects have 
+been triggered.
+Flashovers
+Flashovers are a secondary effect. A flashover 
+
+happens whenever a fire disc is contiguous with one 
+or more smoke discs. After resolving the immediate 
+effects of an Advance Fire roll, check to see if any 
+smoke is contiguous with any fire. If so, flip the smoke 
+discs over to transform smoke to fire. A single fire can 
+ignite a whole mass of smoke at one time. Be very 
+careful whenever venturing into a large smoke cloud, 
+as any smoke disc that self-ignites (as the result of an 
+Advance Fire roll) will also convert contiguous smoke 
+to fire. 
+A fire ignites two smoke clouds. Flip these over to turn 
+them into fire. A third smoke is insulated by a wall, 
+and does not "flash over".
+Running Out of Fire Discs?
+It is possible, although very unlikely, that your supply 
+of fire discs will be nearly or completely used up at 
+some point in the game. At the end of any Advance 
+Fire phase where four or fewer fire discs remain, the 
+fire is considered "oxygen-starved." Roll the dice once 
+again, but this time remove any fire or smoke discs in 
+the target space and/or all adjacent spaces. Roll again 
+if you still have fewer than four fire discs in reserve. 
+Then continue with the game.
+Search and Rescue
+The objective of each game of Flash Point is not to 
+contain the fire, but to rescue trapped victims.
+Searching for Victims
+You can't rescue what you can't find. When they're 
+not fighting fire, players should be making steady 
+progress towards the POIs.
+When a player pawn enters the space occupied by an 
+unidentified POI, it is immediately identified (flip over 
+to reveal). If the POI turns out to be a false alarm, 
+remove it from the board and the game. If it is a 
+victim, congratulations! But your work is not over yet.
+Rescuing Victims
+To rescue a victim, you must carry him outside. This 
+slows you down. It costs 2AP to carry a victim along 
+with you while you move, and you can't move 
+through fire while carrying a victim.
+The moment you step outside with a victim, he is 
+immediately rescued. Remove your victim from the 
+board, but keep rescued victims separate from dead 
+victims. The moment all victims have been rescued 
+and/or have perished, the game ends in victory or 
+defeat.
+End of Game
+There are two ways that a game of Flash Point can 
+end in defeat, and only one way that it can end in 
+victory.
+DEFEAT - Three Dead Victims
+The game ends in defeat for all players the moment 
+three or more victims are killed.
+DEFEAT - Building Collapse
+The game ends in defeat for all players the moment 
+all 30 damage tokens are exhausted. All walls (internal 
+and external) support the roof. Doors do not. Walls 
+segments can only take two damage tokens before 
+they are completely destroyed - no further damage is 
+possible. Walls may be destroyed incidentally by 
+explosions or purposely by players. Don't punch more 
+holes in the building than you can afford.
+VICTORY - All Victims Accounted For
+The game ends in victory for all players the moment 
+that all victims are rescued or have perished, unless 
+there have been three or more deaths. With eight 
+victims, you must rescue at least six to win. In the 
+Advanced Game, players may tweak the difficulty by 
+having more or fewer victims to save.
+
+(End of Basic Game Rules)
+Intro to the Advanced Game
+The Advanced Game builds on the Basic Game. Every 
+element of the Basic Game is retained in the 
+Advanced game, with little or no modification. From 
+this point, prior knowledge of the Basic Game rules is 
+assumed. If a rule is not specifically mentioned or 
+clarified in the Advanced Game rules, then the Basic 
+Game rules still apply.
+Advanced Game Setup
+Setup has been modified to accommodate new game 
+concepts, to allow multiple difficulty levels, and to 
+make every game different with randomized opening 
+conditions.
+1 - 2.
+(No change from Basic Game)
+Multiple difficulty levels are available. They differ 
+in the initial size of the fire, and in the starting 
+distribution of POIs. Choose your poison:
+One-Alarm Fire (EASY):
+[2 explosions]
+6 victims, 3 false alarms, 2 hazmats
+Two-Alarm Fire (MEDIUM): [3 explosions]
+8 victims, 4 false alarms, 3 hazmats
+Three-Alarm Fire (HARD): [4 explosions]
+10 victims, 5 false alarms, 4 hazmats
+Roll the dice. Place a fire disc on the resulting 
+space. Explode that same space. This will almost 
+certainly damage walls and doors.
+Repeat step 4 as many times as your chosen 
+difficulty calls for. If your dice result is a space 
+already on fire, it explodes once only!
+Roll three times for the first three POI.
+7.
+Players must determine the start player and turn 
+order. They also must choose a specialist card to 
+represent their player.
+Vehicles
+The Advanced Game introduces two vehicles: fire 
+engine and the ambulance.
+Assembly
+Each vehicle is composed of two cards, each a mirror 
+image of the other. Place these together with the 
+vehicle graphic facing outwards. Stick these into the 
+stands, and voila! Instant vehicles!
+The Ambulance
+Rescuing victims in the Basic Game was no sweat; just 
+carry them outside and you're done! In the Advanced 
+Game, it is not quite so simple. Victims must be 
+carried to the ambulance. The ambulance is always in 
+front of an entrance, and can be driven around by the 
+players. Nevertheless, this is a complicating factor 
+that actually makes the Advanced Game more 
+challenging.
+The Fire Engine
+Like the ambulance, the fire engine can be driven 
+around and parked in any corner of the board. While 
+standing beside the fire engine, a player can take the 
+FIRE THE DECK GUN action to blast their corner of the 
+board with a high-pressure water cannon. The deck 
+gun is so powerful, in fact, that it can also knock out 
+players and kill victims. It is best reserved for hopeless 
+situations, when fire suppression is the priority.
+Vehicle Placement at Start
+The start player may place the fire engine and the 
+ambulance at any corner of the board (not necessarily 
+the same corner). These vehicles may only be placed 
+where the fire engine or ambulance graphics appear, 
+respectively. 
+These "parking spaces" are color-coded red or blue 
+for clarity. Note that the vehicles actually occupy two 
+spaces each. They can be operated from within either 
+space. Place the vehicles beside their positions, rather 
+than directly on the board.
+Vehicle Actions
+The two vehicles present new opportunities and 
+challenges. Three new actions are available to players, 
+but a player must be standing on one of the two 
+squares a vehicle shares to do any of them.
+
+DRIVE - Both the fire engine and the ambulance can 
+be driven to the next parking space of their respective 
+type in either the clockwise or counterclockwise 
+direction. To reach the opposite side of the board, 
+two DRIVE actions must be taken. This moves the 
+player as well as the vehicle. It costs 4AP to DRIVE 
+either vehicle (2AP for the Driver/Operator), but is a 
+great way to get around quickly. 
+RIDE - This action is unique in that it is free (0AP) and 
+can be done even on another player's turn. If you 
+occupy the parking space of a vehicle (either square) 
+while it is being driven, you can piggy-back and travel 
+with the vehicle to its destination. A player may 
+choose to RIDE or not RIDE, and any number of 
+players may RIDE simultaneously. All players may 
+choose to exit the vehicle from either parking space.
+FIRE THE DECK GUN - Firing the deck gun is a 4AP 
+action (2AP for the Driver/Operator) that cans be 
+taken only with the fire engine. The deck gun can 
+potentially EXTINGUISH large masses of fire in one 
+burst. It targets only the corner of the board where 
+the fire engine is placed, but is somewhat imprecise.
+Before going any further, notice that the board can be 
+broken into 3x4 quadrants. These quadrants are 
+delineated with white brackets. Whenever you 
+choose to FIRE THE DECK GUN, roll the dice. The 
+result may or may not be a space on the your 
+quadrant. If not, one or both values must be adjusted. 
+Flip any "out-of-range" dice upside-down to get the 
+opposite result. This is your adjusted roll, and it is 
+guaranteed to fall within the quadrant. 
+The deck gun targets your (adjusted) roll, completely 
+extinguishing any smoke or fire in that square. It also 
+"splashes over" into adjacent squares, completely 
+extinguishing them too. 
+The deck gun has a downside, which is that its high-
+pressure spray will knock out firefighters in any of the 
+affected spaces. This has exactly the same effect as 
+catching fire, or being hit by a shock wave. Victims will 
+be killed if hit with the deck gun, even if they have not 
+yet been identified as a victim. Flip over any 
+unidentified POI that is hit with the deck gun. Victims 
+die. False alarms are discarded as usual. Hazmats are 
+unaffected.
+The fire engine (not shown) is parked in the lower-
+right corner of the board. The green player chooses to 
+FIRE THE DECK GUN. He rolls a 27, which is adjusted 
+to a 57. The fire at 57 is extinguished, as are an 
+additional fire and smoke in adjacent (not necessarily 
+contiguous) spaces. Unfortunately, the POI at 56 is 
+also hit. Identify (flip over) the POI, and then take the 
+appropriate course of action.
+Specialists
+Each player has a specialist card. This is your character 
+in the game, from beginning to end. Each specialist 
+has unique abilities that makes him particularly well-
+suited to certain situations. Players may choose their 
+specialist, or draw one at random. 
+Paramedic
+The paramedic can resuscitate, or TREAT victims in his 
+own square. This is a 2AP action. Place a blue disc 
+underneath a treated victim to denote the change in 
+status.
+All players (not just the paramedic) may MOVE with a 
+treated victim without having to carry him. Consider 
+how many AP this will save before you TREAT a victim.
+A player may only carry one victim at a time, but any 
+number of treated victims may follow him.
+Fire Captain
+The Fire Captain may MOVE other players on his turn. 
+
+He may help another player carry a victim or hazmat. 
+The Fire Captain must spend as much AP as that 
+player would have done had he chosen to MOVE in 
+that same fashion on his own turn. For instance, It 
+would cost 2AP to MOVE a player who is encumbered.
+Rescue Specialist
+The rescue specialist can not EXTINGUISH fire or 
+smoke, but can CHOP down walls for only 1AP. He 
+may MOVE diagonally, but only if there are no 
+obstacles in the way. Diagonal movement sometimes 
+intersects not one but two wall segments, as shown in 
+the picture below. Unless both the near and far wall 
+are open (collapsed, or an open doorway), diagonal 
+movement is not possible.
+The white player is the Rescue Specialist. Arrowheads 
+represent directions he can legally MOVE, while "X"es 
+are directions blocked by one or more obstacles. 
+Although both doorways are open, our player may 
+only move diagonally through the lower-left one. This 
+is because the near wall is open (collapsed), in 
+addition to the doorway.
+Driver/Operator
+The Driver/Operator may DRIVE any rescue vehicle for 
+only 2AP. In addition, after firing the deck gun and 
+rolling the dice, he may accept the result or reroll one 
+or both dice. After rerolling one die, he may then 
+choose to reroll the other, but is limited to a single 
+reroll for each die. Like it or not, the second roll 
+always replaces the first. 
+Hazardous Materials
+The base set of Flash Point contains only one variety 
+of hazardous material, or "hazmat" - the flammable 
+hazmat. Flammable hazmat can be identified by this 
+symbol: 
+If fire ever reaches the space occupied by a 
+flammable hazmat, it causes an explosion as a 
+secondary effect. Resolve this only after the preceding 
+effect has been completely resolved. An explosion 
+radiates in all four directions from the flammable 
+hazmat. Once this explosion has resolved, remove the 
+hazmat from the board and the game.
+Disposing of Hazmat
+To dispose of hazmat, simply carry it outside. Any 
+space outside the house will do. Once disposed of, 
+remove materials from the board and from the game. 
+Firefighters are encumbered by carrying hazmat in the 
+exact same way they would be if they were carrying a 
+victim. A firefighter may not carry two hazmat at the 
+same time, or a hazmat and a victim, or two of 
+anything for that matter!
+Errata and Credits
+All graphics used in this game were either handmade 
+by the author or exist in the public domain.
+"One or more textures used in this game have been 
+created with images from CGTextures.com. These 
+images may not be redistributed by default, please 
+visit www.cgtextures.com for more information." 
+This game is dedicated to the brave men and women 
+who regularly risk their lives to save people and 
+property from fires and other disasters. Of the profits 
+received by Clockwork Colossus Games, 10% will be 
+donated to the Terry Farrell Firefighter fund.
+Special thanks to my playtesters:
+Matthew Evans, Chris Brown, Chen Ying Zhang,
+Camilla Brown, Linda Pirkl, Ty, Jay, Rob, Alan, and 
+many others.

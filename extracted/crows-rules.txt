@@ -1,0 +1,251 @@
+Crows 
+2 TO 4 PLAYERS / AGES 10+ / 30-45 MINUTES 
+Map Tiles 
+Barrens: a basic tile that begins with no crows on it. 
+Trees with Crows: a tile that begins with 1, 2, or 3 crows on it. When the tile is played, the icon at the top right shows how 
+many crows should immediately be drawn from the crow pool and placed on the tile. Crow icons only matter for the initial 
+tile placement; after that, they are ignored. 
+Gem Cave: gives flocking priority when two or more players’ Mana Totem are the same distance away from some crows 
+(see Flocking Crows) 
+Mana Ley Line: any crows that flock to a Mana Ley Line tile score double points 
+Lava Pool: acts as an obstacle to flocking crows. Any flocking crows will stop in a carrion space if it lies on the path to a 
+Mana Totem (see Flocking Crows). When this tile is played, It can replace any empty tile on the board. (If used this way, 
+place the replaced tile in any other legal position without spawning any new crows) 
+Queen’s Totem: Summons the Queen Crow. The Queen is worth 3 point during scoring. She never flies away during 
+murders. She will always prioritize flocking to the nearest Mana Totem on a Gemstone Cave. 
+Carrion Paradise: Spawns a Crow each turn 
+Nightfall: Signifies the End of the Game when drawn (The game will end at the end of the current round) 
+ 
+ (1, 2 and 3 Crows, Lava Pool) 
+ (Gem Cave, Mana Ley Lines, Carrion Paradise) 
+ (Nightfall, Queen’s Totem, Barrens) 
+ 
+ 
+ 
+ 
+ 
+ 
+Spells 
+Any time you place your Mana Totem on Barrens tile, you draw a spell card 
+Spells come in a few different flavors. On your turn, after placing your Mana Totem, you may discard a spell to invoke its 
+power. Alternatively, you may hold on to the token and it will give a 2 point bonus at the end of the game. 
+ 
+
+ 
+ 
+Spells Summary: 
+Attract: Choose an Empty tile and a direction. All crows in the direction flock as normal to the chosen tile. 
+Disperse: Choose an Empty tile. All crows one space diagonally and orthogonally move one square away from 
+the chosen tile if possible. 
+Drain: Mana Ley Lines will not provide double points this round. 
+Landfall: Draw another tile and place another tile on the board. 
+Teleport: Choose 2 tiles. The second one must be empty. Move up to 2 Crows from the first tile to the second. 
+Populate: Choose an Empty 2 or 3 crow tile and populate the tile with Crows as if it had just been placed. 
+ 
+Game Setup: 
+Each player chooses a color and takes the Mana Totem for that color. 
+Shuffle all spells and place face down in a deck. 
+Set aside the Nightfall tile and then Flip all map tiles face down and shuffle. Place them into one large stack. 
+Depending on how many players there are, remove some tiles from the tile deck: 
+2 Players: remove 8 random tiles 
+3 Players: remove 4 random tiles 
+4 Players: don’t remove any tiles 
+Select 6 tiles and shuffle the Nightfall tile into them. Then place this stack of 7 tiles on the bottom of the Tile stack. Then 
+take 4 tiles from the top of the stack and place them on the bottom of the stack. 
+Draw thirteen tiles and arrange them in the starting pattern shown in the diagram below. 
+Every player draws one tile and keeps it facedown in front of them in their “hand”. 
+Place crow figures on any tiles with crow icons. If a tile has two or three crow icons, place that many. 
+Randomly choose a first player and give them the first player token. 
+ 
+ 
+ 
+ 
+Round Order 
+The game is played in rounds. During each round: 
+1) Players take turns, beginning with the starting player for that round and proceeding clockwise. 
+2) After all players have had a turn, crows flock and then players score points. 
+Starting Tile 
+Arrangement 
+
+ 
+3) Players take back their Mana Totems to use again on the next round. Then begin the next round. 
+On Your Turn 
+1) Draw a tile, adding it to your hand, then choose one tile and add it to the gameboard. 
+2) Place your Mana Totem onto an empty tile that is in play. If you played on a barrens tile, immediately draw one spell 
+3) Optional: play one spell. 
+1) Choose a tile and add it to the gameboard 
+Place it on the playing surface according to the following restrictions: 
+The new tile must connect along at least one edge with any other tile already placed. 
+You may not play a tile on top of another tile. 
+ 
+ 
+ 
+Placing a Tile: Valid Locations 
+ 
+ Placing a Tile: Invalid Location 
+Tiles with Crow Icons 
+If the newly drawn tile has any crow icons on it, then you immediately place that many crow figures on the tile. 
+Other Tiles 
+Place in accordance to the rules explained above on the first page. 
+Lava Pool Tiles 
+If you draw a Lava Pool, then special rules apply—they are a valuable tile! 
+1. If you wish, you may replace a tile already on the gameboard with the newly drawn Lava Pool. You may not replace any 
+tiles that have crow figures (actual crows, not crow icons) or Mana Totems on them. 
+2. You may now play the tile that you replaced as normal and then place your Mana Totem per normal rules (see below). 
+However, do not place any new crows on the tile even if it has crow icons. 
+2) Place your Mana Totem 
+Now place your Mana Totem on a tile on the board. You may place it on any tile except: 
+ 
+ 
+ 
+c) …a Lava Pool 
+d) …a tile with another player’s Mana Totem 
+a) … any tile that currently has any crow tokens on it. 
+(Crow icons don’t matter—only tokens.) 
+b) On a tile with a Mana Corruption token. 
+
+ 
+ 
+ 
+Draw Spell: If you played your Mana Totem on a Barrens tile, now Draw a Spell. 
+3) Optional: Play One Spell 
+If you have any spells and wish to play one, you may do so at the end of your turn. 
+Continue Taking Turns 
+Play continues around the table until each player has taken a turn. At this point, crows flock. 
+Crows Flock 
+After all players have had a turn, crows flock to Mana Totems. Crows flock according to these rules: 
+a) Crows will flock to the nearest Mana Totem in 
+the same row or column. (No diagonals.) 
+b) Crows can move any number of spaces while 
+flocking 
+c) Crows will not flock over gaps between tiles. 
+d) If a crow encounters a Lava Pool while flocking, 
+it must stop there for the round. However, if a 
+crow begins the round on a Lava Pool, it can fly 
+off of it. 
+e) If two or more Mana Totems are at the same 
+distance to the flocking crows, then 
+the crows will favor Mana Totem is on 
+an Gem Cave tile. 
+ If no players’ Mana Totem are on a 
+Gem Cave tile, then the crows will 
+divide evenly between the totems. If 
+there are an uneven number of crows, 
+then all odd crows will remain 
+stationary.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rule b) A crow can fly any distance. 
+ 
+Blue has just played the tile on the far left. The only 
+valid placements are on that tile or on the middle tile. 
+The other tiles are invalid because of rules a, b, and c. 
+Rule a) Crows flock in rows and columns only, 
+each to the nearest mana totem. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Score Points for Flocks 
+After crows are finished flocking, players score points: 
+Each crow on the same tile as the player’s Mana Totem is worth 1 point 
+The Queen crow is worth 3 points 
+If the tile is a Mana Ley Line, then double the points from this flock 
+Crows stay on the board after scoring. Crows are never removed unless there was a Murder(see below). 
+Record points by gaining mana coins. 
+ 
+Rule e Example 2) The extra crow doesn’t move. 
+ 
+Rule e Example 3) All three players are equidistant from the 
+five crows. Each player gets one and two crows are left over. 
+ 
+Rule e Example 1) Each player gets a crow because 
+there is an evenly divisible amount. 
+Rule c) Crows cannot fly over gaps. 
+Rule d) The first crow flies into 
+the carrion and must stop for 
+the round. 
+The second crow started the 
+round on the Gem Cave, so he 
+may move off. 
+Rule e Example 4) All three players are equidistant, except RED is 
+on a gem cave tile. Red gets all the crows! 
+ 
+
+ 
+Murders 
+If 6 or more crows have flocked to a single tile, it’s considered a Murder and special rules apply: 
+1. Score the crows normally. Then, 
+2. Remove any Mana Corruption Tiles on the Board from previous rounds (Any created this round stay in play) 
+3. Two crows become a mated pair and fly off of the gameboard. Discard them from play. 
+4. The remainder must be scattered. 
+Scatter according to these rules: 
+a) The scatter pattern is as shown in the figure below (a clockwise spiral). 
+b) The player who is scattering the Murder may choose which direction to start the spiral at. 
+c) Move one crow from the Murder tile to each successive tile in the pattern. If a tile does not exist on the 
+gameboard, skip to the next tile indicated in the pattern. 
+d) Continue scattering until only all crows are scattered. Then place the Mana Corruption token on the original 
+square. 
+ < ------ The Mana Corruption Tile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Murder Scattering Pattern 
+(Note: the player may choose which adjacent tile from the Murder 
+tile—North, South, East, or West—acts as dispersal tile #1.) 
+The pattern is just an outward expanding spiral. 
+(1) Seven crows begin on 
+the Murder tile. 
+ 
+(3) The crows scatter in the pattern 
+until there is none left on the original 
+flock tile. Then place a Mana 
+Corruption token on the original tile. 
+EXAMPLE: Scattering a Murder 
+ 
+(2) Two fly off as a mated pair. 
+
+ 
+ 
+Take Back Mana Totems and Begin the Next Round 
+After scoring and scattering, each player takes back their Mana Totem and the next round begins. Before the end of the 
+round, place a new Crow on each Carrion Paradise. The player to the left of the previous starting player takes the Starting 
+Player token and begins the round. 
+Game End 
+When the Nightfall tile is drawn, (the player draws a new tile to replace Nightfall) finish the current round as normal, score 
+that round and then the game is over. All players will have had an equal number of turns. 
+All players now reveal any unused Spells and gain 2 points for each one. The winner is the player with the most points!

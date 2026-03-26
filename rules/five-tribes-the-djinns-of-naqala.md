@@ -5,249 +5,155 @@ player_count: "2-4"
 play_time: "40-80 min"
 designer: "Bruno Cathala"
 source_pdf: "five-tribes-the-djinns-of-naqala-rules.pdf"
-extracted_date: "2026-03-25"
-summarized_date: "2026-03-25"
-rulebook_version: "Days of Wonder (2014)"
+extracted_date: "2026-03-19"
+summarized_date: "2026-03-19"
 ---
 
 ## Overview
 
-Five Tribes is a tile-placement and meeple-manipulation game set in the Sultanate of Naqala. Players maneuver the Five Tribes across a 5×6 grid of tiles, collecting meeples to perform tribe actions, claim tiles, invoke Djinns, and accumulate resources.
-
-**The player with the most Victory Points (VPs) at game end wins.**
-
----
+Five Tribes is a mancala-style strategy game set in the legendary Sultanate of Naqala. Players maneuver five different tribes (Viziers, Elders, Merchants, Builders, Assassins) across a grid of tiles to gain influence, invoke Djinns, and collect resources. Each turn, players pick up all meeples from one tile and drop them one-by-one across adjacent tiles, then collect matching meeples from the final tile. The player with the most Victory Points at game end wins and is declared the Great Sultan.
 
 ## Components
 
-| Component | Quantity |
-|---|---|
-| Sultanate tiles (12 Blue-valued: Villages & Sacred Places; 18 Red-valued: Markets & Oases) | 30 |
-| Wooden meeples (16 Yellow Viziers, 20 White Elders, 18 Blue Builders, 18 Red Assassins, 18 Green Merchants) | 90 |
-| Meeples bag | 1 |
-| Djinn cards | 22 |
-| Resource cards (36 Merchandise + 18 Fakirs) | 54 |
-| Gold Coins (48×"5" + 48×"1") | 96 |
-| Palm Trees | 12 |
-| Palaces | 10 |
-| Camels (8 per player in 3-4p; 11 per player in 2p) | varies |
-| Turn markers (1 per player in 3-4p; 2 per player in 2p) | varies |
-| Bid Order Track | 1 |
-| Turn Order Track | 1 |
-| Turn Order & Djinns Summary Sheets | 5 |
-| Scoring Sheets pad | 1 |
-
----
+- 30 tiles (12 blue-valued: Villages & Sacred Places; 18 red-valued: Markets & Oases)
+- 90 wooden Tribe Meeples: 16 Yellow (Viziers), 20 White (Elders), 18 Green (Merchants), 18 Red (Assassins), 18 Blue (Builders)
+- 1 meeples bag
+- 12 Palm Trees and 10 Palaces
+- 22 Djinn cards
+- 96 Gold Coins (48 worth "5" and 48 worth "1")
+- 54 Resource cards: 36 Merchandise (Ivory, Jewels, Gold, Papyrus, Silk, Spice, Fish, Wheat, Pottery) and 18 Fakirs
+- 2 player sets of 8 Camels + 1 Turn marker (3-4 player) or 2 player sets of 11 Camels + 2 Turn markers (2-player)
+- 1 Bid Order Track and 1 Turn Order Track
+- 5 Turn Order/Djinns Summary Sheets
+- Scoring pad
 
 ## Setup
 
-1. Mix all 30 Tiles and lay them face up in a **5×6 rectangle** — this is the Sultanate.
-2. Draw meeples randomly from the bag and place **3 meeples on each tile**.
-3. Each player takes **8 Camels** (3-4p) or **11 Camels** (2p) and the corresponding Turn markers, in their chosen color.
-4. Each player receives **50 Gold Coins** (9×"5" + 5×"1"). Keep coin totals **secret** (face down) until game end.
-5. Place Turn markers randomly on the **Bid Order Track** — this determines initial bidding order.
-6. Shuffle Resource cards; deal **9 face up** in a row next to the draw pile.
-7. Shuffle Djinn cards; deal **3 face up** in a row next to the draw pile.
-8. Place Palm Trees, Palaces, and remaining Gold Coins in a central bank.
-
-**2-player note:** Each player has **2 Turn markers** and plays **twice per turn**. It is legal for a player to take both consecutive spots on the Turn Order Track, playing twice in a row.
-
----
+1. Each player takes Camels and Turn marker(s) of their chosen color. In 2-player games, each takes 11 Camels + 2 Turn markers; in 3-4 player games, 8 Camels + 1 Turn marker.
+2. Each player receives 50 Gold Coins (9x "5" + 5x "1"), kept face down (secret).
+3. Shuffle all 30 tiles and place them randomly face up in a 5x6 rectangle grid -- this is the Sultanate.
+4. Mix all 90 meeples in the bag; randomly draw and place 3 meeples on each tile.
+5. Place Bid Order and Turn Order Tracks beside the Sultanate. Randomly place Turn markers on the Bid Order Track.
+6. Shuffle Resource cards into a face-down draw pile; draw 9 face up in a row next to it.
+7. Shuffle Djinn cards face down; draw 3 face up next to the pile.
+8. Place Palm Trees, Palaces, and remaining coins as a bank.
 
 ## Turn Structure
 
-Each full round has **2 phases**:
+Each turn consists of two phases:
 
-### Phase 1: Bid for Turn Order
+### 1. Bid for Turn Order
 
-Starting with the player at position "1" on the Bid Order Track, players claim spots on the **Turn Order Track** in Bid Order sequence:
+Players bid Gold Coins to determine play order for this turn:
+- In Bid Order, each player announces a spot on the Turn Order Track and pays that many Gold Coins to the bank.
+- No two markers on the same spot (except "0" -- up to 3 markers can stack on 0s).
+- Zero-bidders are pushed down: last to bid 0 plays first among 0-bidders.
+- If all three 0s are taken, the last player must bid at least 1.
+- In 2-player games, each player places 2 Turn markers (potentially playing twice per turn or even back-to-back).
 
-- Announce a spot, pay the Gold Coin cost shown on that spot to the bank, and place your Turn marker there.
-- **You cannot bid on a spot already taken** — except the "0" spots.
-- If bidding "0" when a "0" spot is occupied, your marker is inserted **ahead** of existing "0" markers (last bidder on "0" plays earliest among "0" players).
-- **Maximum 3 Turn markers on "0" spots.** If all three are taken, the last player must bid at least 1 (and plays first this turn).
+### 2. Player's Actions (in Turn Order)
 
-Players then take turns **from highest to lowest** value on the Turn Order Track.
+Each player performs these steps in sequence:
 
-### Phase 2: Player Actions (in Turn Order)
+**2.1 Move Turn Marker** -- Take your marker off the Turn Order Track and place it on the first empty Bid Order spot.
 
-Each player, when their turn comes, takes **all** of the following steps in sequence:
+**2.2 Move Meeples** -- Pick up ALL meeples from a tile with at least 1 meeple. Drop them one-by-one onto adjacent tiles (orthogonally, never diagonally), following three rules:
+- **Last Meeple Same Color**: The last meeple dropped must land on a tile already containing at least 1 meeple of that same color.
+- **No Diagonal**: Movement is always orthogonal.
+- **No Immediate Backtracking**: Cannot return to the tile you just left (but loops of 5+ meeples are allowed).
 
-#### 2.1 Move Turn Marker
-Remove your Turn marker from the Turn Order Track and place it on the **first empty spot** on the Bid Order Track.
+**2.3 Tile Control Check** -- Collect the last-dropped meeple plus ALL other meeples of that same color from the final tile. If this empties the tile of all meeples, place a Camel on it (you control it). Once controlled, ownership never changes.
 
-#### 2.2 Move Meeples
-Select any tile that has **at least 1 meeple**. Pick up **all** meeples from that tile and distribute them one per tile as you move through adjacent tiles. Three rules apply:
+**2.4 Tribe Actions** -- Perform the action for the tribe (color) of collected meeples.
 
-- **Last Meeple Same Color rule:** You choose the order in which you drop meeples. The **last meeple dropped** must land on a tile that **already contains at least 1 meeple of that same color**. You can never end on an empty tile.
-- **No Diagonal rule:** All movement is orthogonal (no diagonal moves).
-- **No Immediate Backtracking rule:** You cannot move back to the tile you just came from — though you may revisit it later in the same move if you have enough meeples to complete a loop (minimum 5 meeples required for a loop).
+**2.5 Tile Actions** -- Perform the action of the tile where you ended your move.
 
-You may pass through tiles controlled by other players (dropping 1 meeple each) and through empty tiles.
-
-#### 2.3 Tile Control Check
-After placing your last meeple, take back:
-- That last meeple, **plus** all other meeples of the **same color** already on that final tile.
-
-You should now have **at least 2 meeples of identical color**.
-
-- If removing those meeples **empties the tile of all meeples**, you **take control**: place one of your Camels on it. Its VP value scores for you at game end.
-- **Once a Camel is placed, that tile never changes ownership** — even if you later pass through and empty it again.
-
-#### 2.4 Tribe Actions
-Perform the action of the tribe whose meeples you collected, **regardless of whether you took control of the final tile**:
-
-| Tribe | Meeple Color | Action |
-|---|---|---|
-| **Viziers** | Yellow | Keep them in front of you. Score VPs at game end. |
-| **Elders** | White | Keep them in front of you. Score VPs at game end, OR spend them to acquire/invoke Djinns. |
-| **Merchants** | Green | Return meeples to bag. Draw that many Resource cards from the **front** of the face-up row (your choice among eligible cards). Do not replenish yet. |
-| **Builders** | Blue | Return meeples to bag. Gain Gold Coins = (number of **Blue-valued tiles** adjacent to and including your final tile) × (number of Blue meeples returned). You may discard any Fakir cards from hand to add +1 to the multiplier per Fakir. |
-| **Assassins** | Red | Return meeples to bag. Kill **1 meeple**: remove it to the bag. Target must be either (a) 1 meeple of any color on a tile within range (1 tile per Assassin returned, counting orthogonally), or (b) 1 Yellow or 1 White meeple currently held by an opponent. You may discard Fakir cards to extend range by +1 tile per Fakir. **If killing that meeple empties a tile, you immediately take control of it** (place a Camel). This is the only way to gain control of 2 tiles in one turn. |
-
-**Assassin double-capture note:** You must place your Camel on the tile you ended your move on **first**. If you run out of Camels, you cannot claim the assassinated tile.
-
-#### 2.5 Tile Actions
-Perform the action for the tile **your last meeple ended on**, regardless of tile control. If Assassins gave you a second tile, you only get the action of the tile you moved to (not the assassinated tile).
-
-**Compulsory tile actions (red arrow symbol):**
-
-| Tile | Action |
-|---|---|
-| **Oasis** | Place 1 Palm Tree on this tile (no limit; ignored if none remain). |
-| **Village** | Place 1 Palace on this tile (no limit; ignored if none remain). |
-
-**Optional tile actions (pay the cost if you wish):**
-
-| Tile | Cost | Action |
-|---|---|---|
-| **Small Market** | Pay 3 GC | Pick 1 Resource card of your choice from the first 3 visible in the row. |
-| **Large Market** | Pay 6 GC | Pick 2 Resource cards of your choice from the first 6 visible. (If only 1 remains, you may still pick it for 6 GC.) |
-| **Sacred Place** | Pay 2 Elders OR 1 Elder + 1 Fakir | Take 1 Djinn card of your choice from the 3 face-up. Return Elders to bag; discard Fakir. Do not replenish yet. |
-
-Djinn cards grant VPs and may have special powers usable once per turn (during your own turn), paid as described on the card. You may use a newly acquired Djinn immediately.
-
-#### 2.6 Merchandise Sale (Optional)
-Before ending your turn, you may sell one or more **suits** of Merchandise cards (Fakirs cannot be sold). Each suit must consist of cards **all of different types**. Discard the suit(s) and gain Gold Coins from the bank:
-
-| Cards in suit | GC earned |
-|---|---|
-| 1 | 1 |
-| 2 | 3 |
-| 3 | 7 |
-| 4 | 13 |
-| 5 | 21 |
-| 6 | 30 |
-| 7 | 40 |
-| 8 | 50 |
-| 9 | 60 |
-
-**Tip:** Selling is usually better saved for later to build larger suits. You can always sell at the same price on your final turn.
-
-### Phase 3: Clean-Up (after all players have acted)
-The player closest to the draw piles:
-1. **Replenish Resource cards:** Shift remaining face-up cards to the front; draw new ones to make **9 total** face up. If the draw pile runs out, reshuffle discards.
-2. **Replenish Djinn cards:** Shift remaining face-up Djinns forward; draw new ones to make **3 total** face up. Reshuffle discards if needed.
-
----
-
-## End of Game
-
-The game ends at the **end of the turn** in which either:
-- A player places their **last Camel** on a tile (that player and all subsequent players still finish their actions for this turn), OR
-- **No legal meeple move is possible** for any player. Players who can no longer move may still invoke Djinn powers before passing.
-
----
+**2.6 Merchandise Sale (if applicable)** -- Fill the Resource card display back to 9 cards.
 
 ## Actions
 
-### Tribe Actions (performed after collecting meeples)
+### Tribe Actions
 
 | Tribe | Color | Action |
-|---|---|---|
-| **Viziers** | Yellow | Keep; score VPs at end |
-| **Elders** | White | Keep; score VPs at end OR spend to acquire Djinns (2 Elders or 1 Elder + 1 Fakir) |
-| **Merchants** | Green | Return to bag; draw that many Resources from the front of the row |
-| **Builders** | Blue | Return to bag; gain GC = (Blue-valued tiles adjacent to + including final tile) × (Blue meeples + Fakirs discarded) |
-| **Assassins** | Red | Return to bag; kill 1 meeple within (Assassins + Fakirs discarded) tiles, or 1 Yellow/White from an opponent's hand; if kill empties a tile, claim it |
+|-------|-------|--------|
+| **Viziers** | Yellow | Keep them in front of you. Score VPs at game end. |
+| **Elders** | White | Keep them. Score 2 VP each at game end. May spend to invoke Djinns. |
+| **Merchants** | Green | Return to bag. Take an equal number of Resource cards from the display (left to right). |
+| **Builders** | Blue | Return to bag. Score Gold Coins equal to number of blue Builders collected x number of blue-valued tiles surrounding (and including) the final tile. |
+| **Assassins** | Red | Return to bag. Kill (remove from the game) 1 meeple on the final tile or a tile within range (# of Assassins collected). May kill another player's Vizier/Elder (returns to their supply). If killing empties a tile, place your Camel there. |
 
-### Tile Actions (performed on the final tile)
+### Tile Actions
 
-**Compulsory:**
-- **Oasis** — place 1 Palm Tree here
-- **Village** — place 1 Palace here
+| Tile | Action |
+|------|--------|
+| **Small Market** (compulsory) | Draw top 3 Resource cards; keep 1, discard others face-up. |
+| **Large Market** (compulsory) | Draw top 6 Resource cards; keep 2, discard others face-up. |
+| **Oasis** | Place 1 Palm Tree on this tile (adds 3 VP for tile owner at end). |
+| **Village** | Place 1 Palace on this tile (adds 5 VP for tile owner at end). |
+| **Sacred Place** | Pay 1 or 2 Elders (or Fakirs as wild) to take 1 face-up Djinn or draw 2 to pick 1. |
 
-**Optional:**
-- **Small Market** (pay 3 GC) — pick 1 Resource from first 3 visible
-- **Large Market** (pay 6 GC) — pick 2 Resources from first 6 visible
-- **Sacred Place** (pay 2 Elders or 1 Elder + 1 Fakir) — take 1 Djinn from the 3 face-up
+### Djinns
 
----
+Djinn cards have VP values and special powers. Acquired by paying Elders/Fakirs at Sacred Places. Each has a unique ongoing ability (e.g., scoring bonuses, action modifications, protection).
 
 ## Scoring / Victory Conditions
 
-Use the scoring sheets. Tally each player's VPs from:
+The game ends when:
+- A player places their last Camel, OR
+- No legal meeple move exists for any player.
 
-| Source | VP value |
-|---|---|
-| Gold Coins | 1 VP per GC |
-| Viziers (Yellow meeples) | 1 VP each, **+10 VP for each opponent who has strictly fewer Viziers than you** |
-| Elders (White meeples) | 2 VP each |
-| Djinn cards | Sum of VP values printed on your Djinn cards |
-| Palm Trees (on your tiles) | 3 VP per Palm Tree on tiles you control |
-| Palaces (on your tiles) | 5 VP per Palace on tiles you control |
-| Tiles you control | Sum of the VP values printed on your tiles |
-| Merchandise sets | Sum of VP values for each suit of all-different Merchandise cards you hold (same scale as the sale table above; Fakirs excluded) |
+Players sum their Victory Points:
 
-**Highest VP total wins.** Ties are shared — or play again.
+| Source | Points |
+|--------|--------|
+| Gold Coins | 1 VP per coin |
+| Viziers | 1 VP each + 10 VP for each opponent with strictly fewer Viziers |
+| Elders | 2 VP each |
+| Djinns | VP shown on each card |
+| Palm Trees on your tiles | 3 VP each |
+| Palaces on your tiles | 5 VP each |
+| Tile values | Sum of VP values on all tiles you control |
+| Merchandise sets | Points for each set of unique Merchandise cards (no Fakirs) |
 
----
+**Merchandise Scoring Table:**
+
+| Set Size | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|----------|---|---|---|---|---|---|---|---|---|
+| VP | 1 | 3 | 7 | 13 | 21 | 30 | 40 | 50 | 60 |
+
+Fakirs are wild: each Fakir may substitute for any 1 Merchandise in a set.
+
+The player with the highest total VP wins. Ties broken by most Gold Coins remaining.
 
 ## Special Rules & Edge Cases
 
-- **Passing through controlled tiles:** You may drop 1 meeple on tiles controlled by any player. Control never changes once a Camel is placed.
-- **Passing through empty tiles:** Legal — but you can never **end** your move on a tile with no existing meeple of the color you're dropping last.
-- **Running out of Palm Trees or Palaces:** If none remain, the Oasis/Village tile action is simply ignored.
-- **Running out of Resource cards:** If the draw pile and discard pile are both empty, no Resource cards can be taken.
-- **Zero-bidding with multiple players:** The last player to bid "0" plays **earliest** among all "0" bidders; the first to bid "0" plays **last** among them.
-- **Fakirs:** Cannot be sold for Gold Coins. Used only as bonus actions for Builders (multiplier) and Assassins (range), or as part payment for Sacred Places.
-- **Gold Coins are secret:** Players keep their coin values face down until final scoring.
-- **Djinn powers:** Each power with a cost can be used at most once per turn, only during that player's own turn. Newly acquired Djinns can be used immediately.
-- **2-player turn markers:** Both Turn markers of the same player can be placed adjacently (playing twice in a row is possible).
-
----
+- **2-Player Game**: Each player uses 2 Turn markers and 11 Camels. Both markers are bid separately, meaning a player can play twice per turn or even back-to-back.
+- **Assassins and Tile Control**: It is possible to control 2 tiles in 1 turn: the tile where you end your move (if emptied) and a tile emptied by Assassin kills. You must take the first tile; the second requires having Camels left.
+- **Resource Display**: After Merchants collect cards, gaps are NOT refilled until that player's Clean-Up step. The next Merchant action in the same turn may have fewer choices.
+- **Fakirs**: Count as wild for Merchandise sets and for paying for Djinns (substitute for Elders).
+- **Tile Control**: Once a Camel is placed, that tile's ownership never changes, even if new meeples are dropped on it.
+- **Last Meeple Rule**: You can pass through empty tiles (dropping meeples), but you can NEVER end on an empty tile.
+- **Loops**: Require at least 5 meeples to complete. No immediate backtracking, but returning to a tile after an intervening tile is allowed.
 
 ## Player Reference
 
-### Turn Checklist
+### Turn Sequence
+1. Bid for Turn Order (pay Gold to bank)
+2. Move Turn Marker to Bid Order Track
+3. Move Meeples (pick up, drop one-by-one, orthogonally)
+4. Tile Control Check (collect matching color, Camel if emptied)
+5. Tribe Action (per collected color)
+6. Tile Action (per final tile type)
+7. Clean-Up (refill Resource display to 9)
 
-1. Move Turn Marker to Bid Order Track
-2. Pick up all meeples from a chosen tile (must have 1+)
-3. Drop 1 meeple per tile as you move (Last Meeple Same Color, no diagonal, no immediate backtrack)
-4. Take back last meeple + all same-color meeples from final tile; if tile empties → place Camel
-5. Do Tribe action for the color collected
-6. Do Tile action for the final tile
-7. Optionally sell Merchandise suits
+### Game-End Triggers
+- Last Camel placed
+- No legal meeple moves available
 
-### Tribe Quick Reference
-
-| Color | Tribe | Action |
-|---|---|---|
-| Yellow | Viziers | Keep; score at end |
-| White | Elders | Keep or spend for Djinns |
-| Green | Merchants | Return to bag; draw same # of Resources from front of row |
-| Blue | Builders | Return to bag; gain GC = (Blue-valued adjacent tiles) × (Blue meeples + Fakirs discarded) |
-| Red | Assassins | Return to bag; kill 1 meeple within (Assassin count + Fakirs discarded) tiles, or 1 Yellow/White from opponent's hand |
-
-### Victory Point Summary
-
-| Source | VP |
-|---|---|
-| Each Gold Coin | 1 |
-| Each Vizier | 1 (+10 per opponent with strictly fewer) |
-| Each Elder | 2 |
-| Djinns | Printed value |
-| Each Palm Tree (your tiles) | 3 |
-| Each Palace (your tiles) | 5 |
-| Tile value (your tiles) | Printed value |
-| Merchandise suits | 1/3/7/13/21/30/40/50/60 for 1–9 different types |
+### Key Numbers
+- Grid: 5x6 tiles (30 total)
+- Starting meeples: 3 per tile (90 total)
+- Starting coins: 50 per player
+- Resource display: 9 face-up cards
+- Djinn display: 3 face-up cards
+- Max bid: 18 (or 12 on standard track)

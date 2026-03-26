@@ -1,0 +1,618 @@
+Conan CCG ~ Core Set
+Credits
+Game Design: Jason Robinette
+Game Development and Set Design: Jason Robinette and Zev Shlasinger
+Additional Rules: Ian Taylor
+Templates and Graphic Design: Seth Claybrook
+Card Layouts: Jason Robinette
+Artist Management: Zev Shlasinger
+Concept Testing: Jason Robinette and Edward Lasso
+Playtesters: Matt Blank, Mike Crow, Will Glenn Jr., Jeff Jarvis, Christian LaBoda, Edward Lasso, Ian Lim, James Mishler, Alan Murray, Joshua J Radke, Eric K. Rodriguez, 
+Scott E. Roszkowski, Ian Taylor, Maxence Vetter, Wojciech Wisniewski, Steve Zamborsky
+Special Thanks: Fredrik Malmberg and Thommy Wojciechowski of Conan Properties, Mark McNabb and MaryAnne Paquin for bringing color to the world of Conan, James 
+Mishler for his Hyborian expertise, the staff at InQuest, Jeremy Atkins and the folks at Dark Horse Comics, Patricia Labelle and Sophie Gosselin of Integria, Sal Quartuccio, 
+and everyone who gave us feedback and comments.
+Never Played a Collectible Card Game Before?
+ A collectible card game (CCG) is not like a regular card game. With a CCG, there may be hundreds or even thousands of different 
+cards. Some of these cards are common cards, while others are uncommon, rare and ultra-rare.
+ You don’t play a CCG with every card. Instead, you build a deck. How do you do this? Initially, you buy a starter deck, which contains mostly common 
+cards. This starter deck is all you need to get started. Later, you can fine-tune your deck by buying booster packs, so that you can get different cards 
+to enhance your deck. You’ll find that each match you play with your Conan Collectible Card Game deck will be different because of the different mix of 
+cards. When you compete against your friends, each of you will bring your own deck and keep them separate from the other decks. Later, you might 
+want to branch out and have more than one deck available to play.
+Using this Rule Book
+ So you’ve bought a starter deck, and now you don’t know what to do with it, eh? That’s where this rule book comes in. Before you 
+can play Conan, you need to know the rules. It would be a good idea for you to get out your cards and refer to them as you read 
+through this rule book.
+The Hyborian Age 
+ The purpose of the game is to have your deeds and adventures immortalized in song and story. To achieve fame and transform 
+yourself into the most legendary adventurer in all of recorded history. To be crowned king of Aquilonia! 
+Golden Rules
+ The game text on a card may contradict the rules of the game. In these cases, the text of the card is correct.
+ When we refer to Conan, we are also referring to the Active Player, i.e. the Active Player is Conan while his opponent(s) is his Foe. 
+When it is a player’s turn, their Conan, Items, and Allies are in play, along with any Region played under their Conan. While a player 
+is Conan, their Foes and Foe Deck are NOT in play. The opposite is also true. While it is not your turn, your Conan, Items, Allies, and 
+Region under your Conan are NOT in play.
+Objective
+ You can win the game in a number of ways:
+ • Any time a player has 40 or more Renown in their Chronicle Area during their Starting Step (and more than any other player), that 
+player wins the game.
+ • When any player’s Conan is defeated (reduced to 0 Health).
+ • When a player has zero cards remaining in their Foe deck and Foe Discards, and no Foes in play, that player is defeated and the 
+surviving player(s) with the most Renown wins.
+
+Card types:
+Foe
+ When it is your opponent’s turn, you are the Foe player. All your cards will affect 
+the Active player, who is Conan. Your Conan and his Items and Allies are not 
+considered in play for any purposes, nor anything in your Chronicle Area. These 
+cards feature blue backs. Foe cards form their own deck (Foe Deck) and discard 
+pile (Foe Discards).
+Ally
+ Allies are played during the Prepare Step 
+of your turn, when you are Conan. The 
+requirement to play an Ally is listed in the text 
+box of the specific card (usually based on 
+Conan’s current Scar count, or Renown total). 
+Allies do not have a cost to be played. 
+ When you play an Ally, if it has a Draw: value, 
+you may draw up to that many cards.
+ Allies stay in play until removed by some 
+means (such as being defeated in combat) or 
+until the Rest Step. 
+Remember! If Conan Presses On, any 
+remaining Allies stay in play because Conan 
+does not go to his Rest Step.
+Action
+ Actions can be played as indicated on 
+the specific cards. They have keywords 
+describing in what Step they can be played 
+and further instructions are written in their 
+text boxes. Ignore the Prowess cost listed 
+on its gem when playing it as an Action. If 
+the Action is played as a move, then you pay 
+the Prowess cost. Actions played as moves 
+ignore the game text: that text is only active if 
+played as an Action. 
+Move
+ Moves can only be played during combat. In order to play a move, you must pay the Prowess cost printed on the 
+gem. Many Moves have abilities, and these will specify which character may use the ability. If there is more than one 
+ability on a Move, the same character may use more than one ability on that Move if they qualify. Example: A Human 
+Veteran Foe that plays a move that features an ability that says “Foe (Human):” and another ability that says “Foe 
+(Veteran):” would be able to use either, both, or neither of those abilities, as the Foe’s controller sees fit. For Foes, 
+unless the ability is related to the cost of the Move, or has some other effect related to playing the Move, it takes place/
+effect when the Move is revealed.
+Region
+ Regions may be played by Conan or by a Foe. The Conan player may play a Region during their 
+Prepare Step, and a Foe player may play a Region when Foes are drawn. When played, it is placed 
+beneath the Active player’s Conan, so that the game text is visible. Only one Region can be in play under 
+a Conan at a time: if there is a Region in play under the Active player’s Conan, and a new Region is 
+played, the previous Region is discarded from play. Regions played under a Conan are only in play during 
+that Conan player’s turn.
+Item
+ Items are played during the Prepare Step of the Active player’s turn. You do not 
+pay the Prowess cost of an Item (unless you are using it as a move). Most items 
+have a Scar value requirement. You must have at least that many Scars to bring 
+the Item into play. Unless otherwise noted, all Items have no cost to be played.
+ When you play an Item, if it has a Draw: value, you may draw up to that many 
+cards. Items only count in play when it is that Conan’s turn – when you are a Foe 
+player your Items do not count as being in play. 
+Conan
+ When it is your turn, you are the Active player, you are Conan. Each player begins with one Conan in play. Conan 
+does not directly encounter any other Conan.
+
+Card parts:
+Damage – Found on: Allies, Conan, Foes
+This value determines how much Damage a character deals to a character’s Health in combat. If the character’s move hits, they 
+deal this base Damage to the character they hit with the first unblocked offensive icon, and +1 Damage for each additional unblocked 
+offensive icon.
+Prowess – Found on: Allies, Conan, Foes
+This value is used to play moves and pay other costs.  While the Prowess on Allies and Foes resets each combat round, Conan’s 
+Prowess lasts for the entire turn, only replenishing during his Rest Step.
+Health – Found on: Allies, Conan, Foes
+This value is used to keep track of a character’s current status. If a character ever drops to 0 Health, they are defeated. If a character 
+needs to pay a Prowess cost or lose Prowess and cannot, any remaining cost must come from their Health.
+Vitality – Found on: Conan
+An ability on Conan. During the Rest Step, Conan may lose Prowess up to his Vitality value, and Heal 1 point for each Prowess lost.
+Renown – Found on: Allies, Foes 
+Any card with this value adds to a player’s Renown total when that card is in their Chronicle Area. If your Ally is defeated, you must 
+lose Renown from your Chronicle Area equal to the Renown of the Ally. On Foes, this also determines if the Foe is Minor (4 or less) or 
+Major (5 or more).
+Scars – Found on: Foes
+While in a player’s Chronicle Area, cards with Scars add to that player’s Scar total. This affects the Foe player’s Foe Draw (The total 
+Foe Draw is +1 for every 3 Scars the Active player has).
+Card Type – Found on: Actions, Allies, Foes, Items, Moves, Regions
+This determines the type of the card.
+Keywords – Found on: Actions, Allies, Foes, Items, Moves, Regions
+These have a variety of effects. On Actions, they determine when the card can be played. On Items and Moves, they tell a player what 
+type of Item or Move it is. On Foes, they tell a player what type of Foe it is, which restricts what other Foes may share a zone with it.
+Initiative – Found on: Actions, Items, Moves
+This determines the speed of the card when played as a move. 5 is the fastest, and 1 is the slowest. This is ignored on Actions and 
+Items if they are not played as a move.
+Combat icons – Found on: Actions, Items, Moves
+These icons are used to determine the effects of a card played as a move in combat. They allow the move to either hit, block, or miss. 
+These are ignored on Actions and Items if they are not played as a move.
+Prowess gem – Found on: Actions, Items, Moves
+This determines the cost of the card when played as a move. Conan must lose this much Prowess to play the card (losing Health if his 
+Prowess is depleted).  Allies and Foes must have this much Prowess to play the card, or they will lose Health equal to the difference. 
+This is ignored on Actions and Items if they are not played as a move.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Game Setup
+ Players place their Conan cards face up in front of them, and then place their 
+Draw Deck and their Foe Deck across from each other, also in front. 
+ Randomly determine who will go first. This player becomes the Active player. 
+The Active player is considered to be Conan. 
+ Players shuffle both their decks and draw cards from their Draw Deck. The first 
+Active player draws 5 cards, and the other player(s) draw 7 cards. This is for the 
+first turn of the game only. After the first turn, all players’ hand sizes are set at 7.
+
+Turn outline: 
+	
+• Start of Turn
+	
+• Prepare Step
+	
+• Warrior Step/Thief Step
+	
+• Rest Step
+Start of Turn
+ This is where your Renown is checked to see if you are the winner. Also, if anything references “the beginning of your next turn” this is 
+the Step it refers to.
+Only a player starting his turn checks for victory. Players choosing to Press On return to their Prepare Step.
+Prepare Step
+ The Active player may play any number of Item cards, Allies, and Action cards that have the Prepare keyword. A player may only have 
+one of each of the following in play:
+	
+• one Weapon Item card
+	
+• one Shield Item card
+	
+• one Body Item card
+ Any Item card played will cause any other Item cards with the same type to be discarded from your play area (Example: You play a 
+Shield Item card. Your previous Shield, if any, is discarded from play). If the new Item doesn’t have a Weapon, Shield, or Body type, 
+you ignore this rule. You may have any number of Items in play that do not have a type.
+ When the Active player is done playing cards (and any effects from those cards are dealt with) play proceeds to the next Step.
+You don’t pay the Prowess cost for Items unless they are played as moves during combat.
+Warrior Step
+ At this point, you will choose which Step to take for the turn, but for now, you may only choose the path of the Warrior. (The Thief Step 
+will be available in a later expansion.)
+ The Warrior Step is broken down into the following Phases:
+	
+Foe Draw
+	
+Survey
+	
+Foe Move 
+	
+Conan Move 
+	
+Barbarian
+	
+Resolution
+At any time, you can play Action cards with the Warrior keyword during any of these phases, where appropriate (as referenced in the 
+text of the Action card). Foe players may also play Foe:Warrior Action cards where appropriate.
+ To prepare for combat, the Active player moves his Conan card forward to the center of the table.
+Foe Draw Phase
+ The opponent reveals five Foe cards plus one for every three Scars the Active player has in his Chronicle Area. These cards are 
+revealed from the top of the opponent’s Foe Deck. 
+ The Foe player chooses which Foe cards to play. Foes with 4 or less Renown (Minor Foes) are free to play. Foes with higher Renown 
+(Major Foes) can only be played by discarding Minor Foe cards equal to their Renown minus four. This is their cost to be played. 
+Example: a Major Foe with 7 Renown can only be played by discarding three Minor Foe cards. 
+Only Minor Foes may be discarded to play Major Foes!
+ At least one Foe MUST be played. If none of the revealed Foes can be legally played, the Active player may choose one Foe from 
+the revealed cards to face Conan in this phase. Any unplayed Foes are discarded to the Foe Discards. If the Active Player does not 
+choose any of the Foes to face, they are all discarded to the Foe Discards and a new hand of Foes is drawn. 
+
+Survey Phase (the start of a round of combat)
+ Conan may now survey the battlefield, sizing up his opponents. If he wishes to Retreat, he may do so at this time. If he does so, 
+combat ends immediately. The Active player loses Renown equal to the total Scars of the remaining Foes. This is done by the Foe 
+Player returning Foe cards back from the Active Player’s Chronicle Area to their Foe Discards up to his Renown loss without going over. 
+Conan may NOT Press On if he Retreats. Example: Conan Retreats from a fight with a Major Foe. Since the Foe has 4 Scars, the Foe player 
+may remove Foe cards with a total Renown up to 4. The following Foes are in Conan’s Chronicle Area: Gray Ape (Renown 5), Kozaki Outrider (Renown 
+2), and Ravenous Wolf (Renown 1) – the Foe player may take the Wolf (1) and the Outrider (2), or only the Wolf (1) or the Outrider (2) if he chooses. 
+The Ape (5) could not be chosen at all.
+ When Conan Retreats, the Foes remaining in play are discarded to the Foe Discards.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You cannot play moves between moves played by two adjacent Foes with the 
+Veteran trait.
+ If Conan plays a move in a zone, he loses 1 Prowess for any move that his move was not adjacent to. Example: There are three Foes in 
+the Center zone. Conan plays a move between Foe 1 and 2, but since he did not play a move adjacent to a move played by Foe 3 he loses 1 prowess. 
+If he only played a move against Foe 1, he would lose 2 Prowess for not affecting 2 Foes.
+ Allies may play moves against Foes in the same zone as Conan is playing or in different zones. Allies can affect one zone. Allies 
+have a Prowess like Foes and any cards they play above that Prowess incur wounds to meet the difference. Allies cannot take enough 
+wounds to kill them in order to play a move. When an Ally plays a move during the Warrior Step, place the Ally on the corner of that 
+The opponent places Foes one at a time into the play area around Conan. The 
+four combat zones are CENTER, LEFT FLANK, RIGHT FLANK and REAR. 
+Foes cannot be placed in the Flanks or the Rear if there is no Foe in the 
+Center, and Foes can only be played in the Rear if there is at least one Foe in 
+one of the Flanks. Other restrictions in placing Foes are as follows: 
+No more than 3 Foes may be in a specific zone at one time. 
+When playing Foes, you cannot play Foes of different types in the same zone. 
+Territories are ignored for this purpose. Example: a Human Foe can only be played 
+into a zone with other Human Foes. An Animal Foe can only be in a zone with other 
+Animal Foes, etc.
+Foe Move Phase
+ Each Foe must now play moves face down, with the top edge of the card 
+facing Conan. Foes may play moves with a Prowess cost equal to or less than 
+their own Prowess. Foes may also play moves with a higher Prowess cost, but 
+that Foe will take wounds equal to the difference. You can NOT play a move 
+with a Prowess difference that will kill the Foe.
+Example: A Foe with a Prowess of 3 wants to play a move with a Prowess cost of 5. 
+When the move is placed face down, the Foe player adds 2 wounds to that Foe. 
+ If you do not have any cards in your hand that could be played for a Foe 
+without killing it, you must reveal your hand to the Active player. Then look at 
+the top card of your Draw Deck. If it can be played for that Foe, play the move 
+as normal. If not, it is discarded, and you must draw again. If you do this three 
+times and are unable to find a card that can be played by that Foe, the Foe is 
+defeated, and placed in the Active player’s Chronicle Area. 
+The Foe Player cannot play a move with Prowess so high it would kill the Foe!
+Conan Move Phase
+ Conan may now play his own moves, face up with the bottom edge of the card 
+facing Conan, placing each move to the left or the right of his opposing Foes’ 
+move cards. He may play up to 2 cards per Foe move (one per side) but may 
+only play moves in a maximum of 2 zones. Example: Conan may respond to an 
+attack on the Center and Left Flank if he wishes, but he would not be able to play moves 
+to his Right Flank or Rear if he does. 
+ Moves played between adjacent Foes’ moves will affect both Foes.
+
+move to indicate that they, not Conan, are performing that move. Allies’ Prowess resets each round of combat. 
+ Once Conan is done playing moves, all the Foe moves are flipped over. The Foe moves must still have their top edge facing Conan. 
+If any of the Foes reveal moves that the Foe could not have legally played, that Foe is immediately defeated and scored appropriately.
+Barbarian Phase
+ Before resolving combat, Conan may use any and all BARBARIAN abilities listed on his card or granted by other cards. He may not 
+use the same ability more than once per round of combat, regardless of the source. BARBARIAN abilities are cumulative if you wish. 
+Example: If your Conan has BARBARIAN: Strength 1, and he plays a card that gives him BARBARIAN: Strength 1, you could choose to have them add 
+together, giving you BARBARIAN: Strength 2.
+Resolution Phase
+ Combat is resolved for each zone separately. The Active player selects the first zone to resolve, followed by the Foe player. This 
+alternates until all zones have been resolved.
+ Hits are determined by which icons are unblocked. You check the side of a card that has an opponent’s move adjacent to it: the other 
+side, if no opponent move is present, is ignored. If both sides of a Foe move have an opponent’s move adjacent to it then both sides of 
+the Foe move will resolve (and the Foe might be hit twice, once on either side).
+ Within each zone, Initiative 5 moves are resolved first. Then, the player controlling the attack chooses one unblocked offensive icon 
+(if any) to deal Damage. Check the base Damage of the character using the move and add +1 Damage for each other unblocked 
+offensive icon.
+ Damage dealt during the same Initiative is simultaneous. If Damage is dealt to a character that is sufficient to defeat them and they 
+have a move in play with a lower/later Initiative, that move will not resolve.
+ Initiative 4 moves are now resolved. This is followed by Initiative 3, 2, and finally 1. Note that icons are present at all times; Initiative 
+only determines when a move deals Damage, not when the icons appear.
+ If Conan does not play a move adjacent to at least one side of a Foe move, that move is unblocked and will deal Damage normally. 
+The Foe player must choose one side of his move card to deal Damage. In this case, the Foe player may choose to have it Damage an 
+Ally rather than Conan.
+Example: Conan has played a Merciless Stroke, and the Foe 
+has played a Grievous Slash.  Since both are Initiative 3, 
+they will resolve simultaneously. The Foe’s Grievous Slash is 
+blocked, while Conan’s Merciless Stroke is partially blocked. It 
+still gets through, dealing Conan’s base Damage to the Foe. 
+The Blade icon on the other side of the Foe’s move misses 
+and is ignored, as there is no move adjacent to it.  
+Example, Conan has played a Savage Strength, and the 
+Foe has played a Sweeping Slash.  Conan’s move is 
+Initiative 3, so it will resolve first.  Conan’s Grapple icons 
+are not blocked by the Foe’s Shields, so the Savage 
+Strength will deal Conan’s base Damage, +1 Damage for 
+the additional unblocked offensive icon. If this is enough 
+Damage to defeat the Foe, its move will not resolve, 
+as it is slower (Initiative 2). If the Foe survives, it’s two 
+Sword icons will hit for the Foe’s base Damage, +1 for the 
+additional unblocked Blade icon.
+Example, Conan has played Split Head Like Ripe 
+Melon between the moves of two Foes. The Foes 
+have played Run Through and Grisly Execution. 
+Conan’s move is Initiative 2, so it will resolve 
+after the two Foe moves (Initiative 3 and 4). The 
+Blade icon on the Grisly Execution (Initiative 4) is 
+unblocked, and will deal the base damage of the 
+Foe using it. One of the Blade icons on the Run 
+Through (Initiative 3) is blocked, but the other gets 
+through; dealing the base damage of the Foe that 
+used it. Conan’s Split Head move (Initiative 2) 
+now resolves. While one of the Blade icons on 
+the left was blocked, each Foe will still be hit with 
+one Blade icon, and will therefore be dealt Conan’s 
+base Damage each.
+
+ Any Foe move that successfully hits through a move played by an Ally deals Damage to the Ally that played the move (rather than to 
+Conan). If an Ally is defeated by having their Health reduced to zero, Conan loses Renown equal to the Renown of the defeated Ally. 
+The Foe player decides which Foes to take back from the Chronicle Area to meet this number (read the example about Retreating 
+during the Survey Phase for an example of this).
+ After all of the zones have been resolved, and any Foes remain, all players draw cards equal to the number of remaining Foes and 
+Allies, and return to the Survey Phase for the start of the next round of combat. 
+ If the dust clears and only Conan remains, Foe players refill their hands to 7 cards, and Conan may choose to Press On or Rest. If he 
+chooses to Press On, he returns to his Prepare Step. If he chooses to Rest he enters the Rest Step. Conan cannot Press On if he has 
+0 Prowess or 0 cards in hand.
+If Conan Presses On, he does not get any more cards or regain any Prowess (without cards to help)!
+Rest Step
+ These events take place in the following order:
+ • Players may play Action cards with the Rest (or Foe:Rest) keyword (Actions may not be played for the remainder of the Rest Step).
+ • Discard any Allies you have in play.
+ • Return Conan to your side of the table from the center.
+ • Conan’s Prowess returns to its Starting Value.
+ • Conan may spend Prowess up to his Vitality number and Heal that amount.
+ • All players draw up to 7 cards or discard down to 7 cards.
+ • The turn is now over. Play passes to the left (or the opponent in a two player game.)
+Sample Play
+It is several turns into the game. Tom, who is playing Conan the Bold, has 32 Renown, 13 Scars, 17 Prowess, and 8 Health. He is in his Prepare Step 
+with a full hand of 7 cards. 
+He then plays Carousing, dropping his Prowess by 3 to 14 and chooses to increase his Health by 3 (to 11). He feels ready to face the Warrior Step.
+Ian, his Foe, draws 9 Foe cards (5+4 for the Scars). He reveals: Hyrkanian Swordsman, two Cimmerian Warriors, 
+Ghost Snake, Man Ape of the North, two Khitan Peasants, Aquilonian Footsoldier, and Thak.
+cost 5 Prowess and that would kill the Swordsman to play any one of them. So he reveals his hand to his opponent to show that he cannot play the 
+moves in his hand. He looks at the top card of his Draw Deck: another 5 Prowess card. He discards it and looks at the next card. This one works and is 
+placed face down in front of the Swordsman. (This is good because he only had one more draw to find a playable card, or the Swordsman would have 
+been instantly defeated. You can’t stand around doing nothing when fighting a Cimmerian, after all!)
+Neither player has any effects to play, so Ian discards both Peasants to pay for Man Ape. He 
+discards the Aquilonian Footsoldier to pay for Thak. 
+The remaining Minor Foes are kept and Ghost Snake is discarded.
+Now Ian has to decide where to place his Foes. He places both Cimmerians in the Center, Thak on 
+the Left Flank, Man Ape on the Right Flank and the Hyrkanian Swordsman takes up the rear. In this 
+way, at least 2 zones will be unopposed.
+Neither player plays an Action, so Ian places moves face-down for his Foes. Thak, the Man Ape, 
+and the first Cimmerian get moves with no problems. However, the other Cimmerian plays a move 
+that gives him 2 wounds (thus indicating the move costs 5 Prowess, 2 more than the Prowess of the 
+Cimmerian Warrior). Ian has two more cards in his hand but he can’t play any of them as they both
+Conan surveys the oncoming battle and decides to tough it out. He can only affect two zones so this 
+round of combat is crucial: kill as much as possible and take the least amount of damage. Conan 
+faces Man Ape with a Desperate Lunge on the left side of Man Ape’s move, costing him 2 Prowess 
+(he’s now at 12). Against the Cimmerians he places an Intimidating Posture on the far right paying 
+4 Prowess (3+1 for not affecting one Foe in the same zone). Because he wants to increase his 
+chances of defeating both Foes, he plays a Tremendous Cleave (costing 5 Prowess) between them. 
+The text on Intimidating Posture does not take effect because it is played as a move. Conan’s 
+Prowess is at 3.
+The Foe moves are now revealed. Conan plays I Am a Cimmerian! He discards a card to gain 5 
+Prowess, bringing him up to 8. He has one l card left in his hand.
+No other Actions are played. It is the BARBARIAN phase. Conan decides to use his Reflexes 1 to 
+discard then draw 1 card. Tom smiles, as he discards a move he did not want to play, and draws a 
+Telling Blow… a very useful card! Ian cannot use his Conan’s BARBARIAN ability because Ian is 
+the Foe player and his Conan is not in play.
+
+There are 2 Foes left over (Thak and the Swordsman) so both players draw 2 cards and return to the Survey Phase. Conan, at 3 Health, does not feel 
+that facing these Foes in another round of combat is wise, and decides to Retreat. He loses 3 Renown for the 3 Scars left on the table when he runs. 
+The two remaining Foes are placed in Ian’s Foe Discards, and Ian removes 3 points worth of Renown from Conan’s Chronicle Area (leaving him with 41 
+Renown). These Foes are also placed in Ian’s Foe Discards. Ian draws to 7 cards as Conan enters his Rest Step. 
+Conan has 2 cards in hand. He plays Storytelling, discarding the other card in his hand as part of its cost. This heals Conan for 5 Health, putting him 
+at 8 Health total. He has no further Actions to play, so he restores his Prowess to 20. He decides to usehis full Vitality, losing 3 Prowess and healing 3 
+Health. Then he draws to a hand of 7 cards. At the end of the turn, Conan is at 41 Renown, 17 Prowess and 11 Health. He will win the game unless 
+Ian can get to 41 or more before Tom’s next turn.
+Other rules of note
+Modifiers – Damage may only be modified if Damage is actually dealt. If something deals +1 Damage, it can modify an attack that 
+deals 0 damage, but it cannot modify an attack that does not successfully hit.
+ If a player’s Draw Deck is depleted at any time, that player immediately reshuffles his Discard Pile into his Draw Deck. This can 
+happen even during the resolution of an effect. Example: An effect says to draw 3 cards. You only have 1 card in your deck. You 
+would draw the last card remaining, immediately reshuffle your Discard Pile into your Draw Deck and then draw 2 more cards.
+ If a player’s Foe Deck is depleted at any time, that player immediately reshuffles his Foe Discards into his Foe Deck. This can happen 
+Conan now chooses to resolve the Center zone with the two Cimmerians. His Tremendous 
+Cleave is in between a Slay from the Saddle on the right and a Fists of Iron on the left. The 
+Intimidating Posture is matched up against the other side of Slay from the Saddle. We see that all 
+the moves but one are Initiative 3 so they all take place simultaneously except Fists of Iron, which 
+will go first with its 4 Initiative. 
+The Fists of Iron hits first with an unblocked Grapple icon, dealing the Cimmerian Warrior’s 1 
+Damage to Conan. This takes Conan to 4 Health.
+Conan’s Tremendous Cleave hits only the Cimmerian on the left as the Slay from the Saddle’s 
+Agility icon avoids the Two-Handed icon of the Tremendous Cleave. However, the Intimidating 
+Posture does get through, since the Grapple icon is not blocked by the Shield icon on Slay from 
+the Saddle. Conan is able to defeat both foes, doing 3 Damage to the right-hand Cimmerian with 
+Intimidating Posture, and 4 Damage to the left-hand Cimmerian Warrior with the Tremendous 
+Cleave (3+1 from the text of the Move). The other Cimmerian, though, hit with the single Blade 
+icon on the Slay from the Saddle, doing 1 Damage to Conan, bringing him to 3 Health! 
+Conan has gained another 6 Renown bringing him to 44.
+This leaves the Hyrkanian Swordsman. But Ian played Overhead Block as the Swordsman’s 
+move, which has no offensive icons. This round of combat is over. 
+Magic Icon – This icon is a little different than the other combat icons. If it appears on a move that is played by anyone 
+other than a Sorcerer, it has no effect. It does not deal Damage by itself, but instead uses the Sorcerer’s text to determine 
+its effects. If a Magic icon is being used as another icon (via a Sorcerer’s text or other ability) then it counts as that icon 
+type, and not as Magic. 
+Multi-icons – These icons are based on the existing icons (Blade, Grapple, etc) but they are risky. If any portion of 
+the multi-icon is blocked, it deals no damage whatsoever. If it is completely unblocked, it deals the base Damage of 
+the character that is performing the move for each icon that appears inside the multi-icon. (A triple Blade icon that is 
+unblocked would deal the base Damage of the character three times)
+Conan now gets to resolve the zone of his choice. He chooses to resolve the fight with Man Ape of the 
+North. Conan’s Desperate Lunge has met Man Ape’s Storytelling (the text is ignored because it is an 
+Action played as a move). Both moves would hit (neither the Blade icon of Conan’s move blocks Man 
+Ape’s Ranged icon and the Ranged icon does not block the Blade icon) but since Desperate Lunge is 
+Initiative 4, it takes effect first. The Blade icon hits for Conan’s base damage of 3. Not enough to kill the 
+Man Ape. However, before Ian has to place 3 damage counters on Man Ape, Conan plays Telling Blow by 
+losing 2 Prowess (he’s now at 6 Prowess) to deal +2 Damage (for a total of 5 Damage), killing the creature 
+before its Storytelling resolves. - Man Ape of the North goes into Conan’s Chronicle Area bringing his 
+Renown to 38.
+Ian now gets to choose a zone to resolve. He chooses Thak’s zone, which has a Forceful Lunge as its 
+move. Since the move is completely unblocked, Ian gets to choose which side affects Conan and he 
+chooses the side with the 2 Grapple icons. Both hit, doing Thak’s base Damage of 3+1 for the extra icon 
+that hits. Added to that is Thak’s ability which does another +1 Damage for every Grapple icon that hits 
+– that’s 2 more Damage. The total Damage to Conan for this move is 6, reducing Conan’s Health to 5. 
+Ouch!
+
+even during a Foe Draw. 
+ Conan may use any offensive icon from his Moves even if he doesn’t have the corresponding Weapon card. For example, Conan 
+can play a Ranged move without a ranged Weapon card. This just means that rather than fire a crossbow, he threw a rock, a jug, or a 
+person at his opponent. Part of being a Barbarian is improvising weaponry!
+ If there is ever a tie between Conan and his opponent, Conan breaks the tie. This includes effects that resolve simultaneously and 
+try to do opposing things. If there is ever a conflict between effects, Conan gets to choose which one happens. Note that this does not 
+supersede Initiative value – If there’s a tie in Initiative, the moves are still considered to be simultaneous.
+Multiplayer Rules
+ The rules for multiplayer are much like the 2-player game with a few changes. If a rule is not listed in this section, then it is unchanged 
+from the standard rules. 
+Since Conan will have multiple Foe Players, the player to Conan’s left is the Primary Foe Player. 
+Foe Draw Phase: The number of Foes drawn is still a base of 5 (plus additional draws based on Conan’s Scars). Each Foe Player 
+draws an equal number of cards with any odd draws starting from the Primary Foe Player. 
+Example: A Foe draw of 8 is required in 4-player game. Each of the 3 Foe Players draws 2 Foes with a third Foe being drawn by the Primary Foe Player 
+and the Foe Player to his left for a total of 8 Foes drawn. 
+Choosing of Foes: The Foe Players may discuss which Foes should be played. Foe Players may discard their Minor Foes to help 
+play a Major Foe belonging to another Foe Player. If the Foe Players cannot come to a decision as to which Foes get played and which 
+zone they should be played in, the Primary Foe Player makes all final decisions in that regard. 
+ Foe Players can only play moves for their own Foes, never for someone else’s Foe. However, Foe Players can play as many Foe: 
+Action cards as they wish, as appropriate. The Primary Foe Player cannot affect such decisions. 
+Zones: When choosing which zone to resolve, Conan still goes first, then the Primary Foe Player, alternating until all zones are 
+resolved.
+Retreat: The Primary Foe Player chooses which Foes are returned to their owner’s Foe Discards.
+
+Glossary
+Action (card type) – Actions are cards that are found in the Draw Deck. These cards 
+have no base cost to play. Their text will describe how they are played, and their 
+keywords will describe what steps they may be played in. Actions may be played as 
+moves during combat, but their game text will be ignored.
+Active player – The player whose turn it is. That player is Conan.
+Ally (card type) – Allies are cards that are found in the Draw Deck. These cards are 
+played during your Prepare Step, remain in play until the Rest Step, and are then 
+discarded. You must have the required number of Scars or Renown to play an Ally. Like 
+Foes, Allies’ Prowess regenerates each combat round.
+Any – An action with this keyword may be played in any Step or Phase at any time Action 
+cards may be played. When played, they are considered to have the keyword of the Step 
+or Phase during which it was played.
+Barbarian Ability – Barbarian abilities typically appear in the text box of your Conan 
+character card. Barbarian abilities may also be granted by other cards. These abilities 
+are cumulative if you so wish.
+Character – Conan, Foes, and Allies are all considered Characters.
+Chronicle Area (play area) – An area of the game. Cards that appear in your Chronicle 
+Area are scored based on Renown. Cards in your Chronicle Area are not considered
+to be in play and do not affect the game (unless they state otherwise.)
+Combat Icons – These icons are used to determine hits and/or blocks during combat.
+Conan Only – If a Move has this text, only Conan can play it. It may not be played by a 
+Foe or an Ally.
+Damage – This value determines how much Damage a character will deal to a 
+character’s health. 
+Discard – Taking a card from your hand or from play and placing it in the discard pile. 
+You can only discard a card if a card or effect tells you to. If something is to be discarded 
+from play rather than from your hand, the effect that is causing it will specify from play. 
+Otherwise, all discards are from the hand.
+Discard Pile – Cards from the Draw Deck that are done resolving and cards that are 
+discarded go to the Discard Pile. Cards in the Discard Pile are face up and public 
+knowledge. Cards in the Discard Pile have no effect on the game. 
+Draw Deck – Your pile of undrawn cards. At the start of the game, your Draw Deck must 
+contain at least 40 non-Foe cards (it may contain more). You may have no more than 
+3 copies of any card, and no more than 1 copy of any UNIQUE card. Once the game 
+begins, deck construction rules no longer apply (as long as you started the game with 
+a legal deck). If a player’s Draw Deck is depleted at any time, that player immediately 
+reshuffles his Discard Pile into his Draw Deck. This can happen even during the 
+resolution of an effect. If you ever search your Draw Deck for any reason, you must 
+reshuffle it unless otherwise specified.
+Foe (card type) – Cards that represent enemies of Conan. Foes are played by the Foe 
+Player. When playing moves for Foes, their Prowess value regenerates (resets) each 
+combat round. Foe cards have a blue back.
+Foe Deck – A deck that contains only Foe cards. The Foe Deck must contain at least 25 
+cards (it may contain more). You may have no more than 3 copies of any card, and no 
+more than 1 copy of any UNIQUE card. The total Renown of the Foes in the Foe Deck 
+must total 95-105 points. Once the game begins, deck construction rules no longer apply 
+(as long as you started the game with a legal deck). If a player’s Foe Deck is depleted at 
+any time, that player immediately reshuffles his Foe Discards into his Foe Deck. This can 
+happen even during the Foe Draw. If you ever search your Foe Deck for any reason, you 
+must reshuffle it unless otherwise specified.
+Foe Discards – Cards from the Foe Deck that are discarded go to the Foe Discards. This 
+pile is similar to the Discard Pile. When you discard unused Foes, and Minor Foes to 
+play Major Foes, they are placed here. Cards in the Foe Discards are face up and public 
+knowledge. Cards in the Foe Discards have no effect on the game. 
+Foe player – Any player in the game during another player’s turn. Foe Players play Foes 
+and Foe moves.
+Game Text – This refers to any text on a card that affects game play, that is not a 
+keyword, title, trait, or type.
+Hand (play area) – An area of the game. Cards in your hand are hidden from your 
+opponent. You are considered to have a hand even if there are no cards in it.
+Heal – To recover Health or to remove wounds from Conan, an Ally, or a Foe. You cannot 
+go higher than the card’s Starting Health Value.
+Health – If your Conan’s Health is ever reduced to zero, you instantly lose the game. 
+Foes and Allies are defeated if their Health is reduced to zero.
+Icon – These are the icons that are used in combat. They represent bladed attacks, 
+shield blocks, and more.
+Ignored – If something is ignored, it is treated as if it is not there/present.
+In Play – During a player’s turn, their Conan, Allies, and Items are in play. Their opponent’s 
+Foes, and any Region played beneath their Conan (by any player) is also in play.  All other cards 
+are NOT in play (their own Foes, and other player’s Conans, Items, Allies, and Regions beneath 
+other Conans).
+Item (card type) – Items are cards that are found in the Draw Deck. These cards are played 
+during your Prepare Step, and they remain in play. Items may be played as moves during 
+combat, but their game text will be ignored.
+Magic Icon – If this icon appears on a move that is played by anyone other than a Sorcerer, it has 
+no effect. It does not deal Damage by itself, but instead uses the Sorcerer’s text to determine its 
+effects. If a Magic icon is being used as another icon (via a Sorcerer’s text or other ability) then it 
+counts as that icon type, and not as Magic.
+Move (card type) – Moves are cards that are found in the Draw Deck. These cards are played 
+during your Warrior Step for Conan or for Foes, as appropriate. Moves may ONLY be played 
+as moves. The game text on Moves will indicate if there are any bonuses, effects, or abilities 
+granted by that Move (i.e. a Move that says “Conan:” means that any text following Conan: will 
+benefit the Conan player if they are performing that Move). If a Move has more than one ability 
+that can be used by the character playing the Move, they may use any or all of them.
+Multi-icons – These icons are similar to other offensive icons. If any portion of the multi-icon is 
+blocked, it deals no damage whatsoever. If it is completely unblocked, it deals the base Damage 
+of the character that is performing the move for each icon that appears inside the multi-icon (A 
+triple Blade icon that is unblocked would deal the base Damage of the character three times).
+Negative – No number in the game can ever go into negatives after being modified. It will always 
+become zero.
+Press On – After combat has ended, Conan may decide to do it all over again! He may Press 
+On, returning to his Prepare Step. He does not draw cards or regain Prowess, though any Allies 
+he has in play do remain in play. Conan may not Press On with 0 cards in hand or 0 Prowess, 
+but may use Items like Wineskin to add to those values before deciding to Press On.
+Prowess – Conan’s stamina, skills, and overall ability to perform maneuvers and attacks. You 
+spend Prowess in order to play moves in combat, as well as to perform other actions. If you 
+have zero Prowess you may use your Health to pay Prowess costs instead. If you must lose 
+Prowess and do not have sufficient remaining, you MUST lose Health to make up the difference. 
+If you have zero Prowess you cannot Press On.
+Region (card type) – Regions are cards that are found in the Draw Deck. They represent 
+Conan’s travels, and the homelands of some of Conan’s Foes. When played, a region is placed 
+beneath the Active player’s Conan, so that the game text is visible, and is only in play during that 
+Conan player’s turn. Only one Region may be in play (per Conan) at a time, so when a Region is 
+played, any Region in play under the Active player’s Conan is discarded.
+Renown (victory condition) – Your Renown is equal to the total Renown in your Chronicle Area. 
+If, during your Start of Turn, you have 40 or more Renown (and more than any other player) you 
+win the game.
+Retreat – During the Survey Phase, Conan may retreat. If he does, the Foe Player adds up the 
+total Scars of the Foes Conan ran from and removes Foe cards from that Conan’s Chronicle Area 
+with Renown up to that Scar total. These are then placed in the owning player’s Foe Discards. 
+This may be done during the first Survey Phase of a Warrior Step.
+Savage – A Trait of some Foes. Savage Foes must be played alone in a zone.
+Scars – Your Scars are equal to the total Scars in your Chronicle Area. Scars appear on Foe 
+cards. The Foe Draw is increased by 1 for every 3 Scars in the Active player’s Chronicle Area.
+Skip – If a Step or Phase is skipped, you pass through it without triggering or playing anything.
+Solitary – A Trait of some Foes. If you play a Foe with this ability, all other Foes in play are 
+discarded.  No other Foes may be played while there is a Solitary Foe in play.
+Sorcerer – This is a special type of Foe. They may be in a zone with either Supernatural Foes or 
+Human Foes. See Magic Icons.
+Starting Value – The maximum values for Conan’s statistics. A value cannot rise above its 
+Starting Value.
+Territory – Many Foes have a territory listed in its keyword area, after their type. The third 
+keyword (if any) is always their territory (Khitai, Cimmeria, Stygia, etc). This is typically where 
+that Foe can be found, or where they originally come from.
+Trait – These are the words on a character that appear in red text. They may be referenced on 
+moves and actions just like keywords. When a character’s text is blanked, they do NOT lose 
+their traits. These traits include: Unique, Mounted, Serpent, Veteran, Undead, etc.
+Type – Each Foe has a type listed in its keyword area, after “Foe”. The second keyword is 
+always their type (Human, Creature, Animal, etc).
+Veteran – A Trait of some Foes. Conan cannot play a move between moves played by adjacent 
+Veteran Foes.
+Vitality – An ability on Conan.  This allows Conan to Heal during the Rest Step by losing 
+Prowess.
+Zone – This is one of four areas where Foes will be placed when they attack Conan. The zones 
+are: Center, Left Flank, Right Flank, and Rear. Each zone can only hold up to 3 Foes at once (or 
+one Foe with the Savage trait), and Conan may only affect 2 of the 4 zones each turn.

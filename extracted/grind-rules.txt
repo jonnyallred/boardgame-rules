@@ -1,0 +1,1154 @@
+RULEBOOK
+
+Based on Original Material by
+Kevin Clark
+Duncan Huffman
+Douglas Seacat
+Jason Soles
+Game Design
+Michael Faciane
+Chief Creative Officer
+Project Director
+Bryan Cutler
+Project Manager
+Game Development Manager
+Studio Director
+Ron Kruzie
+Sculpting
+Sean Bullough
+Ben Misenar
+Art Direction
+Kris Aubin
+Box Illustration
+Imaginary Friends Studios
+Board Art
+Javier Rodriguez
+Concept Art
+Chris Walton
+Graphic Design
+Kim Goddard
+Josh Manderville
+Stuart Spengler
+Introduction
+Editing
+Darla Kennerud
+Brian Campbell
+Proofreading
+Darla Kennerud
+Production Director
+Mark Christensen
+President
+Sherry Yeary
+Licensing & Contract Manager
+Brent Waldher
+Marketing Coordinator
+William Shick
+Playtest Coordinator
+David Carl
+Playtesters
+Greg Anecito
+Kris Aubin
+David Carl
+Kevin Clark
+Jack Coleman
+Matt DiPietro
+Marky Erhardt
+Michael Faciane
+Alfonso Falco
+Duncan Huffman
+Adam Johnson
+Adam Poirier
+Douglas Seacat
+William Shick
+Stuart Spengler
+Jason Soles
+Jacob Stanley
+Marc Verebely
+Brent Waldher
+Chris Walton
+CREDITS
+CONTENTS
+• 1 game board
+• 2 pillars
+• 1 spiked Grinder Ball
+• 10 steamjacks (5 red and 5 blue)
+• 32 detachable arms
+(16 red and 16 blue)
+• 24 specialty dice
+(10 white, 10 red, and 4 blue)
+• 8 double-sided effect tokens
+• 1 mark token
+• 2 goal tokens
+• 1 rulebook
+• 2 reference sheets
+©2001–2009 Privateer Press, Inc., All Rights Reserved. Privateer Press, Grind, WARMACHINE®, HORDES, Bodgers, Infernal Contraption, Infernal Contraption 2: Sabotage!, 
+Scrappers, Monsterpocalypse® and their logos and slogans are trademarks of Privateer Press, Inc. 13434 NE 16th St. Bellevue, WA 98005. This game is a work of 
+fiction. Any resemblance to actual people, places, or events is purely coincidental. No part of this game may be stored in any retrieval system or transmitted in any 
+form without written permission from Privateer Press. Duplicating any portion of the materials herein, unless specifically addressed within the work or by written 
+permission from Privateer Press, is strictly prohibited. We reserve the right to throw transgressors to the steamjacks.
+Permission to electronically store and print this document for personal, non commercial use is hereby granted.
+TM
+
+Suspended just above a lake of seething magma, this flame-
+scorched arena is ground zero for the most brutal sport ever 
+created—Grind! Here 10-ton, ash-spewing, steam-powered robots 
+called steamjacks fight to move a giant, spiked ball into the other 
+team’s goal. Using every weapon in their arsenal, these steamjacks 
+slam, smash, and crush their way through the opposition as they 
+tirelessly slug it out for the title. 
+The Destructodome is the battlefield for two rival teams of armored 
+metal warriors: the Iron Storm and the Steel Fury. With their eyes on 
+the prize, these two teams will stop at nothing to own the blistering 
+field, so pack your playbook with cunning maneuvers, loadout your 
+team with devastating weaponry, and get ready to stake your claim 
+to glory. For the next hour, you’ll be calling all the shots as you vie for 
+total domination of this metal-on-metal contest.
+Your strategy must be merciless. Your resolve, indestructible. 
+In Grind, only victory can quench the burning fury within these 
+unstoppable machines.
+The Grinder is about to drop. Stoke your fire and brace for battle!
+WELCOME TO THE DESTRUCTODOME!
+
+Goal Pits
+Each goal zone has a goal pit in the middle. When the 
+Grinder is moved into your opponent’s goal pit, you score a 
+goal. The Grinder does not have to end its movement on the 
+goal pit to score.
+Goal pits have curved backboards that hinder the Grinder’s 
+movement. The Grinder cannot move into or be placed in the 
+goal pit from an adjacent space behind the backboard.
+While the Grinder is in the catch, only a steamjack in an 
+adjacent space can target it; those 2 or more spaces away 
+cannot target it. After the Grinder moves from it, the catch 
+becomes a normal space on the playing field until someone 
+scores a goal (or time runs out) and the field is reset.
+The Gutter & Walls
+The outermost spaces on the playing field form the gutter. 
+The gutter affects the way the Grinder moves along the edge 
+of the field, but it does not affect steamjack movement.
+Walls surround the entire field, along the outside edges, to 
+keep the steamjack action contained. Steamjacks can—and 
+do!—crash into walls, but they cannot break through them.
+Scoreboard
+Each player’s side of the game board has a scoreboard for 
+keeping track of his goals. Begin the game with your goal 
+token on 0, and move it to the next number whenever you 
+score a goal.
+Game Clock, Dice Pool & Dice Well
+A game clock, dice pool, and dice well on each player’s side 
+of the game board hold his dice during the game. The game 
+clock uses dice to mark the remaining turns in the period; 
+as the clock runs down, each turn one of those dice moves 
+to the dice pool. A player can use any dice in his dice pool 
+to enhance his team’s attacks and so on. Depending on their 
+color, some of those dice will go to his dice well for the rest 
+of the turn, and some of them will go to his opponent’s dice 
+pool, giving that player the chance to use them.
+Arena Setup
+Before the game, place a pillar in each goal zone between 
+the goal pit and the catch, as shown in the arena diagram 
+above. (That space shows a steam vent.) Each pillar is 3 
+spaces from the catch and 3 spaces from a goal pit.
+The Grinder cannot move into the goal pit from the spaces with Xs.
+GUTTER
+WALL
+PILLAR
+PILLAR
+STEAM VENTS
+CATCH
+NEUTRAL
+ZONE
+GOAL ZONE
+GOAL ZONE
+THE DESTRUCTODOME ARENA
+All the metal-on-metal carnage takes place in the enormous Destructodome arena. A battered steel grid 
+within the arena designates the playing field where the hulking teams of steamjacks face off. Dividing 
+the playing field are three zones: the neutral zone in the middle and a goal zone at each end.
+Pillars
+Spiked pillars on the playing field protect the 
+goal pits. Steamjacks and the Grinder cannot 
+move through pillars.
+The Catch
+The catch is in the center of the playing field. 
+When you set up the game, place the Grinder 
+in the catch.
+BACKBOARD
+G
+U
+T
+T
+E
+R
+
+DICE
+Instead of pips or numbers, Grind dice use explosion 
+symbols and blank faces. A blank face represents a miss; one 
+explosion symbol is called a strike; two explosion symbols 
+count as 2 strikes, also known as a super strike. When you 
+roll the dice, add up the number of explosion symbols you 
+see. For example, the dice below add up to 3 strikes.
+STEAMJACKS & THE GRINDER
+Steamjacks are 10-ton machines of destruction that combine 
+steam-powered strength and an arsenal of specialized 
+weaponry with ruthless efficiency. Whether the small, fast 
+Runners or the larger, heavier Crushers, steamjacks can 
+execute tactical plays, redline their boilers, and smash their 
+way to the goal pit.
+Steamjack Stats
+• SPEED—This is the number of spaces the steamjack can move 
+when it advances.
+• BOILER—This is the maximum number of action dice you can 
+roll for a steamjack when it redlines (see “Redlining,” p. 8).
+• ARMOR—This is the number of strikes a player must roll on 
+an attack to hit the steamjack. Though it is not a steamjack, the 
+Grinder has an Armor stat, which is 0.
+• CONTROL—This number affects a steamjack’s control over the 
+Grinder (see “Grinder Control,” p. 11). A steamjack’s Control 
+stat is equal to the number of control arms it has.
+Runner
+Runners are the undisputed speed demons of Grind. 
+Constructed for quickness and maximum control, these light 
+steamjacks dodge around the heavies to move the Grinder 
+downfield and into the goal pit.
+0 strikes + 1 strike + 2 strikes
+= 3 strikes
+Grind uses three types of dice. Each type is a different color 
+and offers different chances of rolling a strike.
+Action Dice (white)
+Each action die has 3 misses, 2 strikes, and 1 super strike.
+Action dice allow your steamjack to make attacks and 
+perform other actions. Each time you make an attack, you 
+must use at least 1 action die in the attack roll.
+You begin each turn with 10 action dice in your dice pool. 
+After you spend or roll action dice, place them in your 
+opponent’s dice pool.
+Boost Dice (blue)
+Each boost die has 2 misses, 3 strikes, and 1 super strike. 
+You use boost dice with specific abilities and circumstances, 
+such as when a steamjack has a knack for a particular kind of 
+attack. Some game effects allow you to roll extra boost dice. 
+You can never roll more than 4 boost dice at a time. If a game 
+effect results in a situation where you would roll more than 4 
+boost dice, you roll only 4 of them.
+Both players share the boost dice, so keep them nearby and 
+easy to reach.
+Power Dice (red)
+Each power die has 1 miss, 4 strikes, and 1 super strike.
+You can add any power dice from your dice pool to your 
+rolls to increase your chance of success greatly. After you 
+roll power dice, place them in your dice well for the rest of 
+the turn.
+You begin each game with 5 power dice on the clock and 
+move 1 power die from your game clock to your dice well 
+at the beginning of each of your turns. The number of 
+power dice on your game clock shows the number of turns 
+you have left in the period.
+Runner Stats
+Speed: 6 Boiler: 3 Armor: 2 Control: X
+Crusher
+The hulking Crushers are made to annihilate the opposing 
+defense and ram the Grinder straight down the opponent’s 
+goal pit. With heavy armor and superior strength offsetting 
+their slower speed, Crushers can take a beating and dish it 
+right back out.
+Crusher Stats
+Speed: 4 Boiler: 2 Armor: 4 Control: X
+Blue Crusher
+Blue Runner
+Red Crusher
+Red Runner
+
+The Grinder
+At the center of the game, the 
+Grinder is a huge ball of hurt—
+reinforced metal fragments wrapped 
+in layers of steel bands and covered 
+in spikes can make any steamjack in 
+its way feel the pain.
+Steamjack Arms
+Arm Types
+Steamjack arms come in three types: melee, control, and 
+ranged. A steamjack’s arms can be both of the same type or 
+any combination of these types.
+• A MELEE ARM can make attacks against targets within the 
+steamjack’s reach (see “Steamjack Reach & Blocking,” p. 8).
+• A CONTROL ARM handles the Grinder and protects it from 
+opposing steamjacks. A steamjack has a Control stat equal to 
+the number of control arms it has. A control arm also functions 
+as a melee arm, so it can make attacks against targets within the 
+• A RANGED ARM can make ranged attacks.
+Attack Stats
+Each arm has an Attack stat represented by two numbers. 
+The first number is the most action dice you can roll when 
+attacking with the arm. You do not have to roll all of these 
+dice if you don’t want to, but you do have to roll at least 1.
+Steamjacks can be outfitted with a variety of vicious 
+weaponized arms to dominate the opposition, each one with 
+different abilities and strengths. How you equip your team 
+can drastically change the way it functions during the game.
+The larger arms are for Crushers and the smaller ones are for 
+Runners. Although some might look better on one side of a 
+steamjack than the other, any arm will fit on either the right 
+or left side. 
+	
+ATTACK	
+TYPE	
+ABILITIES
+Fist 	
+Grip: If this steamjack has two Fists, it can make a 	
+	
+	
+	
+	
+body slam or throw power attack with this arm.
+Interceptor 	
+Goal Tending: When this steamjack is adjacent to 	
+	
+	
+	
+	
+its goal pit, each space adjacent to this steamjack is 	
+	
+	
+	
+	
+considered within its reach.
+	
+	
+	
+	
+Enhanced Stop: When making a stop attempt with 	
+	
+	
+	
+	
+this steamjack, roll 2 additional boost dice.
+Magno-Grip 	
+Enhanced Grinder Hold: While within this 	 	
+	
+	
+	
+	
+steamjack’s reach, the Grinder gains +1 Armor 	
+	
+	
+	
+	
+against opposing steamjacks’ attacks. When making a 	
+	
+	
+	
+	
+stop attempt with this steamjack, roll 1 additional 	
+	
+	
+	
+	
+boost die.
+Scrambler	
+Shock: The hit target cannot be moved away from the 	
+	
+	
+	
+	
+attacker. A hit steamjack is rattled. 
+Gyro Shot 	
+Grappler	
+Pull: This arm’s attack hits only when the attack roll 	
+	
+	
+	
+	
+has at least 2 strikes above the target’s Armor. Instead
+	
+	
+	
+	
+of moving the hit target, place it in a space within this
+	
+	
+	
+	
+steamjack’s reach that is not within an opposing 	
+	
+	
+	
+	
+steamjack’s reach.
+RUNNER ARMS
+CRUSHER ARMS
+SCRAMBLER
+GYRO SHOT
+INTERCEPTOR
+MAGNO-GRIP
+GRAPPLER
+PULVERIZER
+HEAVY GRAPPLER
+HEAVY GYRO SHOT
+WRECK-O-MATIC
+FISTS
+HEAVY FISTS
+	
+ATTACK	
+TYPE	
+ABILITIES
+Heavy Fist 	
+Enhanced Grip: This steamjack can make a body 	
+	
+	
+	
+	
+slam or throw power attack with this arm. 
+	
+	
+	
+	
+Two-Hand Bonus: If this steamjack has two Heavy 	
+	
+	
+	
+	
+Fists, roll 1 additional boost die when making a 	
+	
+	
+	
+	
+body slam or throw power attack with it.
+Pulverizer	
+H3	
+Wreck-o-Matic	
+Hard Hit: If you roll 1 or more super strikes in the 	
+	
+	
+	
+	
+attack, the hit steamjack is knocked down. 
+Heavy Grappler 	
+H3	
+Pull: This arm’s attack hits only when the attack roll 
+	
+	
+	
+	
+has at least 2 strikes above the target’s Armor. Instead 	
+	
+	
+	
+	
+of moving the hit target, place it in a space within this 	
+	
+	
+	
+	
+steamjack’s reach that is not within an opposing 	
+	
+	
+	
+	
+Heavy Gyro Shot	
+
+The second number is noted by a star H. This is the number 
+of boost dice you must roll when attacking with the arm. You 
+cannot choose to roll fewer boost dice than listed.
+Example: The Fist arm has an Attack stat of 3/H1. When you attack 
+with this arm, you can roll between 1 and 3 action dice and you must roll 
+1 boost die.
+Arm Abilities
+There’s more to a steamjack arm than its Attack stat. Most arms 
+also have abilities that enable the steamjacks to play by their 
+own rules at least part of the time. The mechanical lifeblood 
+of any Grind team, arm abilities can take the strengths of your 
+steamjacks right into the face of the opposition.
+Each arm ability affects the game in a different way, so pay 
+as much attention to the ones your opponent is using as to 
+your own!
+PLAYING THE GAME 
+Before the smashing and bashing can begin, each player gets 
+his team ready to take down his opponent in the arena.
+Team Construction
+Each player chooses a team of five customizable 
+steamjacks—the blue Iron Storm or the red Steel Fury—
+and equips them with arms of that team’s color. Some 
+arm abilities work together especially well and others fuel 
+particular tactics, so plan your team’s strategy and weaponry 
+together for the most brutal beatdowns.
+Setting the Field
+At the start of the game, each player makes an initiative 
+roll with 5 action dice. The player who rolls the most strikes 
+chooses who will be the first player of the first period. The 
+player who is not chosen will be the first player of the second 
+period. If both players roll the same number of strikes, reroll.
+A game of Grind consists of two periods. These have five 
+rounds of play, each with one turn taken by each player. 
+At the start of each period, the players place 5 power dice 
+on their clocks and set the field. The field will also be reset 
+whenever a goal is scored.
+To set the field, the first player of that period places the 
+Grinder in the catch and his five steamjacks in his goal zone. 
+The second player then places his five steamjacks in his goal 
+zone. The steamjacks can be anywhere in their goal zones 
+except in the goal pits.
+The first player then begins the first period with the first 
+turn. Play continues with turns alternating between each 
+player for five rounds.
+After five rounds, the first period of the game ends. Players 
+place 5 power dice on their clocks and set the field for the 
+second period. Remove all effect tokens.
+
+The red Runner’s movement is hindered by a pillar it must move around.
+Steamjack Activations
+On your turn, you must activate each of your steamjacks on 
+the playing field once, even if you choose not to do anything 
+with it.
+During a steamjack’s activation it can advance and/or make 
+one attack. You can do this in whatever order you like: a 
+steamjack can advance and then attack, attack and then 
+advance, or just do one or the other. You can also choose not to 
+advance or attack with it.
+When you have resolved all your steamjacks’ activations your 
+turn ends.
+Ending Your Turn
+When your turn ends, move all action dice still in your dice pool 
+to your opponent’s dice pool. Leave any power dice remaining 
+in your dice pool alone. It is then your opponent’s turn.
+Scoring
+When the Grinder moves into your opponent’s goal pit, you 
+score a goal! The Grinder does not continue past the goal pit 
+even if it has additional movement. Also, it doesn’t matter which 
+team caused the Grinder to go into the goal pit; you score goals 
+made in your opponent’s goal pit, and he scores goals made in 
+yours. Don’t forget to move your goal token to the next number 
+on your scoreboard whenever you score a goal.
+The turn immediately ends when a goal is scored.
+Reset the field and remove all effect tokens before the next 
+player’s turn begins. The next player places the Grinder and 
+his steamjacks first. After the field is reset, continue play.
+Winning the Game
+The team with the most goals at the end of the game wins!
+Overtime: Sudden Death
+If both teams have an equal number of goals after both 
+periods are complete, the game goes into Sudden Death.
+There is no clock in Sudden Death. Players begin with 5 
+power dice in their dice pools.
+Each player makes an initiative roll with 5 action dice. The 
+player who rolls the most strikes chooses who will be the 
+first player in Sudden Death, then players reset the field and 
+the first player begins the first turn.
+The first team to score a goal during Sudden Death wins!
+MOVING ON
+THE PLAYING FIELD
+The most common type of movement in Grind is advancing. 
+Each steamjack has a Speed stat indicating how many spaces it 
+can move when it advances. An advancing steamjack can make 
+straight moves (ahead, behind, left, or right) and diagonal 
+moves (ahead to the left or right and behind to the left or right).
+When counting spaces diagonally on the playing field, count 
+the first diagonal as 1 space and each additional diagonal as 
+2 spaces.
+At the beginning of the period, you have 5 power dice on your game clock.
+On your first turn of the period, you move 1 power die from your game clock to your 
+dice pool. You then have 1 power die available for use during the turn.
+During your first turn, you can use the 1 power die in your dice pool
+and then place it in your dice well.
+On your second turn of the period, move 1 power die from your game
+clock and the power die in your dice well to your dice pool. You then have
+2 power dice available for use during the turn.
+Using 1 diagonal, the Runner can move 4 spaces to the space marked on the left.
+Using 1 diagonal, the Runner can move 3 spaces to the space marked at the top.
+Using 2 diagonals, the Runner can move 5 spaces to the space marked on the right.
+Using 3 diagonals, the Runner can move 5 spaces to the space marked at the bottom.
+Steamjacks, the Grinder, the goal pits, the pillars, and the 
+walls surrounding the playing field are obstructions. A 
+steamjack cannot move through an obstruction or into a 
+space occupied by an obstruction.
+Game Clock
+At the beginning of each period, place 5 power dice on your 
+game clock. At the start of your first turn, move 1 power die 
+from your game clock to your dice pool. That power die can 
+be used that turn; if you use it, move it to your dice well. The 
+number of power dice left on the game clock shows how 
+many turns you have left during the period.
+At the start of your second through fifth turns of a period, 
+move 1 more power die from your game clock to your dice 
+pool; also move any power dice in your dice well to your dice 
+pool. With each turn of a period, you will get more power dice 
+to use to enhance your steamjacks as the action heats up.
+
+Toward & Away
+Some game effects require the Grinder or a steamjack to 
+move toward or away from a specific space. For these effects, 
+it is not just where the movement ends that matters; you 
+must check each individual space in the path against the 
+movement requirements.
+When moving toward a space, each space the Grinder or 
+steamjack enters must decrease the number of spaces between 
+the Grinder or steamjack and that space.
+When moving away from a space, each space the Grinder or 
+steamjack enters must increase the number of spaces between 
+the Grinder or steamjack and that space.
+Adjacent
+The term adjacent describes something in a space next to or 
+immediately diagonal to a figure or space.
+Runners can advance up to 6 spaces.
+Crushers can advance up to 4 spaces.
+The shaded spaces show how to count two of the possible paths the Grinder
+can take toward the marked space.
+An arrow on each steamjack icon indicates its facing. 
+These Crushers are facing away from each other.
+As the path is chosen toward the marked space, only one straight direction and one 
+diagonal direction is available. Once the straight direction 
+ is taken, the other 
+three— , 
+, and —are no longer available. Once the diagonal direction 
+ is taken, 
+the other three—
+, 
+, and 
+—are no longer available.
+The blue Runner is adjacent to the blue Crusher.
+The blue Crusher is adjacent to both the blue Runner and the red Runner.
+The red Runner is adjacent to the blue Crusher.
+The red Crusher is not adjacent to any other steamjack.
+Steamjack Facing
+A steamjack faces one of the four sides of the space it 
+occupies. The front of the steamjack indicates which side it is 
+facing. Steamjacks cannot face diagonally. In these diagrams 
+an arrow on the steamjack icons indicates their facing.
+Facing is important for reach and blocking, but it does not 
+affect movement.
+You can change a steamjack’s facing anytime during its 
+activation, as many times as you wish. Once its activation is 
+over, a steamjack’s facing cannot change until its next activation 
+unless it is hit by an attack (see “Basic Attacks,” p. 9). 
+BLUE RUNNER
+The path a Grinder or steamjack takes when moving toward 
+or away from a space can include only one straight direction 
+(ahead, left, or right) and only one diagonal direction 
+(ahead to the left or ahead to the right). The chosen straight 
+direction and diagonal direction can be in any combination, 
+or the path can use just one of them.
+
+Steamjack Reach & Blocking
+The 3 spaces in front of a steamjack—the one it faces and the 
+ones on either side of that space—are within its reach. Many 
+weapons and abilities depend on a target being within a 
+A steamjack blocks every opposing steamjack within its 
+reach, which means none of those steamjacks can begin 
+or continue its advance unless it makes a successful block 
+break (see below).
+Redlining
+At the end of your steamjack’s advance, you can redline it to 
+give it one last burst of speed. Be careful, though: steamjacks 
+can overheat. An overheating steamjack is rattled (see 
+“Rattled” below).
+RESOLVING A REDLINE:
+1. After advancing the active steamjack, declare the redline.
+2. Advance the active steamjack up to 2 additional spaces.
+3. Roll at least 1 action die from your dice pool. You can roll a 
+number of action dice up to the active steamjack’s Boiler stat (3 
+for a Runner and 2 for a Crusher). Power dice can be added to 
+the redline roll.
+4. If the number of strikes rolled is equal to or greater than 
+the number of spaces the active steamjack advanced while 
+redlining, continue its activation as normal.
+5. If the number of strikes rolled is less than the number of spaces 
+the active steamjack advanced while redlining, its activation 
+immediately ends. Place a rattled effect token on the steamjack. 
+It is rattled until the end of its next activation.
+Example: You advance your Crusher 4 spaces, just out of reach of the 
+Grinder. Since your Crusher has only melee arms, you decide to redline 
+it so you can get in a crucial attack on the Grinder. You declare the 
+redline and advance your Crusher 1 space. The Crusher has a Boiler stat 
+of 2, so you can roll up to 2 action dice for your redline roll. You choose 
+to roll 1 action die and roll a strike. You rolled at least as many strikes 
+as your Crusher advanced while redlining, so your Crusher does not 
+overheat and can now attack the Grinder.
+Rattled
+When an attack or effect causes a steamjack 
+to become rattled, place a rattled effect token 
+on its base.
+A rattled steamjack does not block opposing 
+steamjacks. You cannot roll any boost dice or power dice for 
+a rattled steamjack.
+Immediately after a rattled steamjack completes its 
+activation, remove the rattled effect token from its base—it is 
+no longer rattled.
+The shaded spaces are within the blue Crusher’s reach.
+The red Crusher and blue Crusher are within each 
+other’s reach, so they are blocking each other.
+The red Runner is within the blue Runner’s reach. The 
+blue Runner is blocking the red Runner.
+The red Runner does not have another steamjack within 
+its reach. No steamjack blocks the red Runner.
+Block Breaks
+A blocked steamjack can attempt to break a specific block 
+only once per activation, but it can do this for as many blocks 
+as it has action dice to spend. (Put spent action dice in your 
+opponent’s dice pool.)
+The blue Runner must make block breaks when advancing from the numbered spaces. 
+The number indicates the number of strikes needed to make a successful block break.
+RESOLVING A BLOCK BREAK:
+1. Before your active steamjack leaves a space in range of an 
+opposing steamjack, declare the block break.
+2. Roll at least 1 action die from your dice pool. You can roll a 
+number of action dice up to the active steamjack’s Armor stat. 
+Power dice can be added to the block break roll.
+3. If the number of strikes rolled is less than the number of 
+opposing steamjacks blocking the advancing steamjack, the 
+block break fails and the steamjack’s advance immediately ends.
+4. If the number of strikes rolled is equal to or greater than 
+the number of opposing steamjacks blocking the advancing 
+steamjack, the block break succeeds and the steamjack can 
+continue its advance.
+
+Knocked Down
+When an attack or effect causes a steamjack 
+to be knocked down, place a knocked down 
+effect token on its base.
+A knocked down steamjack does not have 
+reach and does not block line of sight. It can still be the 
+target of attacks and is still an obstacle
+on the field, though.
+When you activate a knocked down steamjack, you must 
+forfeit either its advance or its attack. The steamjack then 
+stands up, and you can change its facing to any direction. 
+Remove the knocked down effect token from its base and 
+continue its activation normally.
+GENERAL ATTACK RULES
+You and your opponent could play bumper-’jacks all 
+day, but the metal really starts to fly when the bashing 
+begins! To make most attacks, decide which of the active 
+steamjack’s arms you will use and choose a target within its 
+line of sight, then roll to see if the attack hits.
+Targeting
+When your steamjack makes an attack, select an opposing 
+steamjack or the Grinder as the target. The target must meet 
+all the targeting requirements for the particular attack and 
+you must be able to resolve the attack legally, or you can’t 
+make the attack.*
+Melee or control arms can be used to target the Grinder or an 
+opposing steamjack within the attacking steamjack’s reach.
+Ranged arms can target the Grinder or an opposing 
+steamjack 2 or 3 spaces away, as long as the attacking 
+steamjack has line of sight to the target. Count the spaces 
+toward the target from the attacker.
+Line of Sight
+Line of sight is a line that can be traced from a steamjack’s 
+space to another space. To trace line of sight from a 
+steamjack’s space, draw a straight line from the center of 
+the side it faces to the center of any side of the other space. 
+If this line passes through any part of a space occupied by 
+the Grinder, a pillar, or a steamjack, your steamjack does not 
+have line of sight. Otherwise, you have line of sight for a 
+ranged attack against a target in the other space. A steamjack 
+that has been knocked down does not block line of sight.
+BASIC ATTACKS
+Attack opposing steamjacks to muck up their plans, push 
+them out of your way, or send them crashing into an 
+obstacle. Attack the Grinder to move it to your opponent’s 
+goal pit—or into one of his steamjacks.
+Charge Boost
+If a steamjack begins its activation with at least 1 space 
+between it and the target of its first basic melee attack that 
+activation, it gains a charge boost on that attack. When your 
+steamjack has a charge boost, it gains 1 extra boost die.
+A steamjack cannot gain a charge boost if it pushed the 
+Grinder that activation (see “Pushing the Grinder,” p. 12). 
+It’s focused on maneuvering the Grinder down the playing 
+field, not on delivering extra force to an attack.
+Attacking Steamjacks
+You can attack your opponent’s steamjacks to smash them 
+around and clear the way to the goal pit. 
+RESOLVING A BASIC ATTACK
+AGAINST A STEAMJACK:
+1. Declare the attack, the target steamjack, and the arm your 
+2. Determine the dice you will roll for the attack, including at 
+least 1 action die from your dice pool. You can roll a number of 
+action dice up to the first number in the attacking arm’s Attack 
+stat. You must also roll boost dice equal to the second number 
+in the arm’s Attack stat. The steamjack can receive additional 
+boost dice from abilities or other effects. You can also add any 
+number of power dice from your dice pool to the attack roll.
+3. Roll your dice for the attack. If the number of strikes rolled 
+is less than the target steamjack’s Armor, the attack misses. 
+If the number of strikes rolled is equal to or greater than the 
+steamjack’s Armor, the attack hits.
+4. If the attack hit, subtract the target steamjack’s Armor stat 
+from the number of strikes you rolled. You can move the hit 
+steamjack up to that many spaces away from the attacker (see 
+“Toward & Away,” p. 7).
+5. If the attack hit, you can change the target steamjack’s facing.
+Example: The Runner arm Fist has an attack stat of 3/H1. When 
+making a basic attack with this arm, you can roll between 1 and 3 action 
+dice. You must also roll 1 boost die. In contrast, the Crusher arm Heavy 
+Fist has an attack stat of 4/H2. When making a basic attack with this 
+arm, you can roll between 1 and 4 action dice and must roll 2 boost dice. 
+You can add power dice to either attack.
+* There’s no room in the screaming metal world of Grind for do-overs, so you can make attacks only if their effects are legal. For example, just as you can’t pick up
+the Grinder to move it if there’s no new space for it to be moved to, you can’t target it with an arm that has the Pull ability if there’s nowhere for it to go.
+The blue Runner does not have line of sight to the red Crusher. The 
+blue Runner has line of sight to the Grinder and the red Runner.
+The blue Runner can use its melee arm to target an opposing steamjack or 
+the Grinder occupying a dark space. If the blue Runner is not blocked, it can 
+target an opposing steamjack or the Grinder occupying a light space.
+
+Clipping
+A steamjack hit by a basic attack from a steamjack that 
+occupies the space directly behind it is knocked down.
+Grinder Momentum
+The harder the Grinder is hit, the more momentum it gains. 
+A high momentum increases the Grinder’s chances of 
+rumbling past opposing steamjacks or even knocking them 
+down (see “Collisions,” p. 11). A low momentum makes 
+the Grinder easier to intercept with a stop attempt (see 
+“Stopping the Grinder,” p. 11). 
+To determine the Grinder’s momentum, count the number 
+of spaces from the Grinder’s beginning space to the marked 
+space. If that number is less than the number of strikes rolled 
+above the Grinder’s Armor to move it, the difference is the 
+Grinder’s momentum. If the number of spaces to the marked 
+space is greater than or equal to the number of strikes rolled 
+above its Armor, the Grinder’s momentum is 0.
+The Grinder’s momentum remains constant for the duration 
+of its movement.
+Examples: You declare an attack against the Grinder while it is in the open 
+and mark a space 4 spaces away from the Grinder. You roll 7 strikes on the 
+attack roll, so the Grinder has a momentum of 3 (7 strikes – 4 spaces). Most 
+steamjacks would have a difficult time stopping the Grinder.
+You declare an attack against the Grinder while an opposing Runner 
+with Control 2 has the Grinder in its reach. You mark a space 4 spaces 
+away from the Grinder. You roll 7 strikes on the attack roll, so the 
+Grinder has a momentum of just 1 (7 strikes – 2 Armor – 4 spaces). 
+Most steamjacks would have little trouble stopping the Grinder.
+Grinder Movement in the Gutter
+When the Grinder enters the gutter as a result of an attack, 
+it completes its movement within the gutter. Its path to the 
+gutter determines whether the attacking player can choose 
+which direction it rolls.
+If the Grinder’s path to the gutter contained at least one 
+diagonal but it does not enter the gutter in a corner, it 
+continues to move away from the attacker for the rest of its 
+movement. It does not stop when it reaches the marked space.
+If the Grinder’s entire path is perpendicular to the gutter or 
+it enters the gutter in the corner, the attacking player chooses 
+the direction it continues to move in the gutter.
+The red Crusher hits the blue Runner with an attack that rolls 5 strikes (3 above the 
+blue Runner’s Armor). The red Crusher’s controller moves the blue Runner 3 spaces 
+away from the red Crusher, then changes the blue Runner’s facing.
+A red Runner is directly behind a blue Crusher. If the red Runner hits the blue 
+Crusher with a basic attack, the blue Crusher is knocked down.
+Attacking the Grinder
+Attacking the Grinder is one of the best ways to move it. 
+When you do this, you will choose the space you want it to 
+move to and then try to smash it hard enough to get it there.
+RESOLVING A BASIC ATTACK
+AGAINST THE GRINDER:
+1. Declare the attack, the Grinder as its target, and the arm your 
+2. Choose a space in the attacker’s line of sight that you would 
+like to move the Grinder to with the attack. When choosing this 
+space ignore obstructions other than the attacking steamjack. The 
+Grinder must be able to move toward the chosen space and away 
+from the attacker using no more than one straight direction and 
+one diagonal direction. These must be the same directions you 
+used to determine that the Grinder is in range of the attack. (If 
+you used only a straight direction or only a diagonal direction to 
+confirm range, you can make your choice for the other one now.) 
+Place the mark token on the chosen space.
+3. Determine the dice you will roll for the attack, including at 
+least 1 action die from your dice pool. You must also roll boost 
+dice equal to the second number in the arm’s Attack stat. The 
+Grinder can receive additional boost dice from abilities or other 
+effects. You can also add any number of power dice from your 
+dice pool to the attack roll.
+4. Roll your dice for the attack. If the number of strikes rolled is 
+less than the Grinder’s Armor, the attack misses. If the number 
+of strikes rolled is equal to or greater than the Grinder’s Armor, 
+the attack hits.
+5. If the attack hits, subtract the Grinder’s Armor stat from the 
+number of strikes you rolled. You can move the Grinder up to 
+that number of spaces toward the marked space (see “Toward 
+and Away,” p. 7). The Grinder’s movement ends if it moves 
+into the marked space.
+6. Remove the mark token from the playing field.
+A player declares the red Crusher’s attack against the Grinder and marks a space 
+5 spaces away. The red Crusher hits the Grinder with an attack that rolls 4 strikes. 
+(The Grinder has an Armor rating of 0 because it is not being held by an opposing 
+steamjack.) The player moves the Grinder 4 spaces toward the marked space.
+MARK
+
+Collisions
+Some attacks create collisions when an obstacle hinders the 
+movement of the Grinder or a steamjack. When this happens, 
+place the moving Grinder or steamjack in the last space of its 
+path it could occupy before the collision occurred.
+When a moving steamjack collides with a wall, a pillar, or 
+the Grinder, that steamjack is knocked down (see “Knocked 
+Down,” p. 9).
+When the moving Grinder collides with a steamjack and 
+the Grinder’s momentum is equal to or greater than the 
+steamjack’s Armor, that steamjack is knocked down.
+Holding the Grinder
+When the Grinder is targeted by an opposing steamjack, 
+you can choose one of your steamjacks that has reach on the 
+Grinder to hold it. The Armor stat of the Grinder increases 
+by an amount equal to the holding steamjack’s Control stat 
+(the number of control arms it has plus any additional Armor 
+granted by abilities). 
+GRINDER CONTROL
+A steamjack equipped with a control arm has several ways to 
+manipulate the Grinder.
+Stopping the Grinder
+During your opponent’s turn, you can attempt to stop the 
+Grinder when it begins to move from a space within reach of 
+one or more of your steamjacks equipped with a control arm.
+To try to stop the Grinder, roll against its momentum.
+RESOLVING A STOP ATTEMPT:
+1. Before the Grinder moves from a space within your steamjack’s 
+reach, declare the stop attempt. If the Grinder has no 
+momentum, it is automatically stopped (skip to step 4).
+2. Roll a number of boost dice equal to the total Control of your 
+steamjacks that have the Grinder within reach. You can add 
+power dice from your dice pool to the stop roll if you wish.
+3. If the number of strikes rolled is less than the Grinder’s 
+momentum, the Grinder continues its movement as normal. 
+If the number of strikes rolled is equal to or higher than 
+the Grinder’s momentum, the Grinder is stopped and its 
+movement ends.
+4. You can move the stopped Grinder 1 space in any direction. 
+This space does not have any reach requirements.
+The Grinder continues its movement away from the attacker and then follows the gutter.
+The player who attacked the Grinder chooses the direction of its remaining movement.
+The red Crusher hits the blue Runner with an attack that rolls 5 strikes (3 above the 
+blue Runner’s Armor 2 stat). The blue Runner is moved 3 spaces away from the red 
+Crusher. The Runner’s movement is hindered by a pillar, so a collision occurs, and the 
+Runner is knocked down in the previous space.
+The red Crusher targets the Grinder with an attack and marks the space occupied by 
+the blue Runner. The red Crusher hits the Grinder with an attack that rolls 6 strikes. 
+The Grinder’s movement is hindered by the blue Runner, so it collides with the blue 
+Runner. Since the Grinder’s momentum is 2 (equal to the blue Runner’s Armor), the 
+blue Runner is knocked down.
+The blue Crusher targets the Grinder with an attack and marks the goal pit. The goal 
+pit is 8 spaces from the Grinder. The blue Crusher hits the Grinder with an attack that 
+rolls 10 strikes. The Grinder has a momentum of 2. To stop the Grinder successfully, 
+the red player must roll at least 2 strikes in the stop attempt.
+The space with 
+ is within the reach of two red Runners and a red Crusher with a 
+total of 4 Control all together. Before the Grinder moves from that space, the red player 
+can make a stop attempt using 4 boost dice. 
+The space with 
+ is within reach of a red Runner which is equipped with an 
+Interceptor control arm. This arm has the Enhanced Stop ability, which adds 2 boost 
+dice to the stop roll. Before the Grinder moves from that space, the red player can make 
+a stop attempt using 3 boost dice (1 for the control arm + 2 for Enhanced Stop).
+The Grinder is within the reach of the blue 
+Runner, the blue Crusher, and the red 
+Crusher. The red Crusher has one control 
+arm, the Fist. When a blue steamjack targets 
+the Grinder, the red Crusher can be chosen 
+to hold the Grinder, granting it +1 Armor 
+against the attack. The blue Crusher has no 
+control arms, but the blue Runner has one 
+control arm, the Magno-Grip, which has the 
+Enhanced Grinder Hold ability granting 
++1 Armor to the Grinder when it is within 
+reach. When a red steamjack targets the 
+Grinder, the blue Runner can be chosen 
+to hold the Grinder, granting it +2 Armor 
+against the attack.
+GOAL PIT
+
+POWER ATTACKS
+When a steamjack makes a power attack, the attack roll must 
+contain at least 1 power die.
+Combo
+Your steamjack uses both its arms to deliver a devastating 
+combination!
+When a steamjack performs a combo power attack, it can 
+make any basic attack with each of its arms. You must 
+add a least 1 power die to the first attack roll. (The two 
+attacks do not have to be against the same target, and the 
+two arms do not have to be the same type. You can make 
+a combo power attack made up of a melee attack and a 
+ranged attack, for example.)
+RESOLVING A COMBO POWER ATTACK:
+1. Declare the combo power attack and which arm is used for 
+which attack.
+2. Resolve the first attack (see “Basic Attacks,” p. 9).
+3. If the arm chosen for the second attack cannot legally make 
+an attack, the combo attack ends. Otherwise, resolve the 
+second attack. 
+Pushing the Grinder
+During its advance, a steamjack equipped with a control 
+arm can push the Grinder. The Grinder must be within 
+that steamjack’s reach and not within reach of any 
+opposing steamjacks.
+While pushing the Grinder, a steamjack cannot advance into 
+or out of a space within an opposing steamjack’s reach.
+RESOLVING A PUSH ON THE GRINDER:
+1. Declare the push on the Grinder and remove it from the 
+playing field.
+2. Complete the pushing steamjack’s advance.
+3. Place the Grinder in an unoccupied space adjacent to the 
+pushing steamjack and not within reach of an opposing 
+steamjack.
+4. Change the pushing steamjack’s facing so the Grinder is within 
+its reach.
+As the blue Runner equipped with a control arm advances, its controller removes the 
+Grinder from the board. After the blue Runner completes its advance, its controller 
+must place the Grinder within its reach but not within reach of an opposing steamjack.
+The red Crusher’s controller declares the combo power attack during its 
+activation. For his first attack, he chooses to use the red Crusher’s Fist and targets 
+an opposing steamjack within the red Crusher’s reach. The first attack hits, and 
+the red Crusher’s controller moves the opposing steamjack away from his red 
+Crusher. Then, he can legally make a second attack with the red Crusher’s Gyro 
+Shot against the Grinder, so he does.
+Throw
+Your steamjack picks up another steamjack or the Grinder and 
+throws it through the air.
+A steamjack must have an arm that allows a throw in order 
+to make a throw power attack. The target steamjack or 
+Grinder must be within the attacker’s reach and have an 
+equal or lesser Armor stat. (Momentum and stopping rules 
+still apply as normal.)
+RESOLVING A THROW POWER ATTACK:
+1. Declare the throw power attack, its target, and the arm your 
+2. Determine the direction of the throw by choosing a space 
+within 5 spaces of the attacker and in its line of sight, ignoring 
+obstructions other than the attacker. The chosen space must 
+be farther from the attacker than the target is. Place the mark 
+token on the chosen space.
+3. Determine the dice you will roll for the attack, including at 
+least 1 power die from your dice pool. You can add any number 
+of power dice from your dice pool to the attack roll.
+4. Roll dice for the attack. If the number of strikes rolled is less 
+than the target’s Armor, the attack misses. If the number of 
+strikes rolled is equal to or greater than the target’s Armor, the 
+attack hits.
+5. If the attack hits, subtract the target’s Armor from the number 
+of strikes you rolled. That is the number of spaces you can 
+move the target. During this movement, the target can move 
+through spaces occupied by obstructions, but it cannot end 
+its movement in an occupied space. If the marked space is 
+occupied by an obstruction, the thrown steamjack or Grinder 
+can collide with that obstruction. (The rules for momentum and 
+stopping the Grinder still apply as normal.)
+6. If the attack hit, you can change the target steamjack’s facing.
+The red player declares a throw power attack by the red Crusher against the Grinder, 
+marking a space 5 spaces away from the Grinder. The hit Grinder can move through 
+the spaces occupied by blue Crushers.
+MARK
+You cannot place the Grinder in the goal pit as part of a push 
+when the pushing steamjack ends its advance in one of the 
+three spaces behind the backboard.
+
+Body Slam
+Your steamjack picks up another steamjack and slams it into the 
+arena floor.
+A steamjack must have an arm that allows a body slam 
+in order to make a body slam power attack. The target 
+steamjack must be adjacent to the attacker.
+RESOLVING A BODY SLAM POWER ATTACK:
+1. Declare the body slam power attack, its target, and the arm 
+your steamjack is using.
+2. Determine the dice you will roll for the attack, including at least 
+1 power die from your dice pool. You can add any number of 
+power dice from your dice pool to the attack roll.
+3. Roll dice for the attack. If the number of strikes rolled is 
+less than the target steamjack’s Armor, the attack misses. If 
+the number of strikes rolled is equal to or greater than the 
+steamjack’s Armor, the attack hits.
+4. If the attack hits, place the target steamjack in a new, 
+unoccupied space adjacent to the attacker.
+5. The hit steamjack is knocked down.
+CALLING PLAYS
+Once on each of your turns, you can call a play to give your 
+team an edge. You cannot call any play other than Hit & Rip 
+during a steamjack’s activation. To call a play, state the play 
+you are calling, follow its requirements, and then apply its 
+effects. If you cannot meet all its requirements, you cannot 
+call the play.
+CLEAR PATH
+Choose one of your Runners. When you advance that 
+Runner, it is not blocked by your opponent’s steamjacks that 
+are in your Crushers’ reach. 
+HAIL MARY
+Choose one of your steamjacks that can make a throw power 
+attack. If the chosen steamjack makes a throw power attack 
+against the Grinder during its activation, you can mark a 
+space up to 7 spaces away from the attacker instead of 5. The 
+marked space must be within reach of a friendly steamjack.
+HIT & RIP
+Unlike other plays, Hit & Rip must be called during a 
+steamjack’s activation. To call this play you must have just 
+hit an opposing steamjack that had reach on the Grinder 
+with a basic attack and the Grinder must be within range of 
+that attack.
+After resolving the first attack but before moving the dice 
+used for it, use the same dice to make an attack of the same 
+type against the Grinder.
+HUSTLE BACK
+Make a Hustle Back roll with 2 boost dice. You can add 
+power dice from your dice pool to the roll. Choose a number 
+of your steamjacks up to the number of strikes rolled. You 
+cannot choose steamjacks that are rattled or knocked down.
+Advance each chosen steamjack a number of spaces up 
+to its Speed in the direction of your goal zone. As with a 
+normal advance, you can change the facing of each of those 
+steamjacks if you wish. This advance does not count against 
+the steamjack’s activation. 
+ISOLATION
+Choose one of your Runners. When you advance that 
+Runner, you can roll 2 extra boost dice when redlining. The 
+Runner must begin its activation at least 4 spaces away from 
+any of your other steamjacks. 
+PROTECT
+For the rest of the turn, you can add 2 boost dice to attack 
+rolls against opposing steamjacks in your goal zone or within 
+2 spaces of it.
+SLINGSHOT
+For the rest of the turn, your Crushers that can make throw 
+power attacks can target your own Runners with them.
+ 
+The red player declares a body slam 
+power attack by the red Crusher 
+against the blue Crusher.
+The body slam power attack hits, 
+and the red player places the blue 
+Crusher in an empty space adjacent 
+to the red Crusher. The blue Crusher 
+is knocked down.
+RESOLVING A STEAMROLL POWER ATTACK:
+1. Declare the steamroll power attack.
+2. Determine the dice you will roll for the attack, including at 
+least 1 power die and 1 action die from your dice pool. You can 
+roll a number of action dice up to the active steamjack’s Armor. 
+You can add any number of power dice from your dice pool to 
+the attack roll.
+3. Roll dice for the attack. For each affected steamjack, if the 
+number of strikes rolled is less than its Armor, the attack 
+misses. If the number of strikes rolled is equal to or greater than 
+its Armor, the attack hits.
+4. One at a time, in any order you choose, you can move each hit 
+steamjack 1 space in any direction.
+5. You can change the facing of each hit steamjack.
+The red player declares the steamroll 
+power attack by the red Crusher. All 
+the opposing blue steamjacks are 
+affected by the attack.
+The attack roll has 3 strikes. That is 
+enough to hit the blue Runners but 
+not the blue Crushers, which have an 
+Armor of 4. The red player chooses 
+to move each of the hit Runners 1 
+space and changes their facing.
+RUNNERS
+Steamroll
+Your steamjack overpowers all nearby opposing steamjacks.
+To make a steamroll power attack, the attacking steamjack 
+must be adjacent to two or more opposing steamjacks. The 
+steamroll effcts all opposing steamjacks adjacent to the attacker.
+You do not choose an arm of the active steamjack for this attack.
+You now have the tools to conquer the Destructodome.
+
+www.privateerpress.com
+TM

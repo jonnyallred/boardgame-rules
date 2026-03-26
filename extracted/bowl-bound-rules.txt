@@ -1,0 +1,2003 @@
+RULES 
+ 
+IMPORTANT: These rules replace and supersede all previous rules for BOWL BOUND. These 
+rules are based upon the following sources: (i) The published BOWL BOUND rules, copyright 
+1978 by The Avalon Hill Game Co. and written by Dr. Thomas R. Nicely (3rd Edition – Spring 
+1989); (ii) private correspondence with Dr. Nicely, including various iterations of experimental 
+advanced rules used by him and his play testers that were never published; (iii) the published 
+rules for PAYDIRT, copyright 1981, and the PAYDIRT 1990 Supplement to the Rules, to the extent 
+that they cover items not published in the BOWL BOUND rules that are not inconsistent with 
+college football; (v) “PAYDIRT 2004” rulebook authored by Matthew P. Floray; and (vi) valuable 
+insight gained from discussions with Mr. Floray. Some of Dr. Nicely’s experimental advanced 
+rules, and some of Mr. Floray’s modified rules and suggestions have been adopted, and some have 
+not, based entirely on my own experience and tastes. The addition of the “OFF 5A” penalty 
+(offensive penalty before the snap) is my own. 
+
+ 
+i 
+ 
+BASIC RULES.......................................................................................................................................... 1 
+DESCRIPTION OF THE GAME................................................................................................... 1 
+EQUIPMENT INCLUDED............................................................................................................ 1 
+III. PLAY OF THE GAME .................................................................................................................. 1 
+IV. HOW TO USE THE GAME EQUIPMENT .................................................................................. 2 
+1. SPECIAL GAME DICE................................................................................................................ 2 
+2. COLOR CODED CHARTS.......................................................................................................... 2 
+3. PLAYING FIELD, TIMING, SCOREPAD, AND PLAY SELECTION......................................... 4 
+SETTING UP AND PLAYING THE GAME................................................................................ 4 
+1. TEAM SELECTION ..................................................................................................................... 4 
+2. SPECIAL CHARTS ...................................................................................................................... 4 
+3. COIN TOSS.................................................................................................................................. 4 
+4. KICKOFF .................................................................................................................................... 5 
+5. KICKOFF RETURN .................................................................................................................... 5 
+6. TIME RESOLUTION ................................................................................................................... 5 
+7. PLAY SELECTION ...................................................................................................................... 5 
+8. DICE ROLL ................................................................................................................................. 5 
+9. PLAY RESOLUTION ................................................................................................................... 5 
+10. PLAY OUTCOME........................................................................................................................ 5 
+11. GAME CONTINUATION............................................................................................................. 5 
+VI. SPECIAL SITUATIONS AND RULES ........................................................................................ 6 
+1. PLAY SELECTION ...................................................................................................................... 6 
+2. BREAKAWAYS, QUARTERBACK RUNS AND QUARTERBACK TRAPS................................. 6 
+3. VARIABLE YARDAGE ENTRIES................................................................................................ 6 
+4. PENALTIES ................................................................................................................................. 6 
+5. PUNTS ......................................................................................................................................... 9 
+6. FIELD GOAL ATTEMPTS .......................................................................................................... 9 
+7. POINT AFTER TOUCHDOWN (THE CONVERSION).............................................................. 9 
+8. ONSIDE KICKOFFS ................................................................................................................. 10 
+9. INTERCEPTIONS...................................................................................................................... 10 
+10. FUMBLES AND BLOCKED KICKS ......................................................................................... 10 
+11. THE ASTERISK (*) AND DAGGER (†).................................................................................... 11 
+12. THE OPTION PLAY .................................................................................................................. 11 
+13. PLAYS WITHIN AND BEYOND THE END ZONES................................................................. 11 
+ADVANCED RULES ............................................................................................................................. 13 
+OFFENSIVE OPTIONS............................................................................................................... 13 
+1. RAZZLE-DAZZLE PLAY: (RZDZ)............................................................................................. 13 
+2. QUARTERBACK SNEAK .......................................................................................................... 14 
+3. HAIL MARY ............................................................................................................................... 14 
+
+ 
+ii 
+ 
+4. HURRY-UP OFFENSE.............................................................................................................. 14 
+5. ELECTED SAFETIES................................................................................................................ 15 
+6. RUNNING OUT THE CLOCK .................................................................................................. 15 
+DEFENSIVE OPTIONS............................................................................................................... 16 
+1. WILD CARD DEFENSE............................................................................................................ 16 
+2. RUN AND PASS DEFENSES .................................................................................................... 17 
+3. NICKEL ZONE DEFENSE........................................................................................................ 18 
+4. RED ZONE DEFENSE .............................................................................................................. 18 
+III. KICKING OPTIONS.................................................................................................................... 19 
+1. KICKOFF OPTIONS................................................................................................................. 19 
+2. PUNT OPTIONS........................................................................................................................ 19 
+IV. KICK RETURN OPTIONS.......................................................................................................... 20 
+1. PUNT RETURNS ....................................................................................................................... 20 
+2. KICKOFF RETURNS ................................................................................................................ 21 
+FAKE AND BLOCK OPTIONS.................................................................................................. 21 
+1. FAKE OPTION.......................................................................................................................... 21 
+2. ALL-OUT KICK RUSH.............................................................................................................. 21 
+3. FREE BLOCK OPTION ............................................................................................................ 22 
+4. RULINGS................................................................................................................................... 22 
+VI. WEATHER EFFECTS ................................................................................................................. 23 
+VII. ALTERNATE TIMING METHOD ............................................................................................. 24 
+VIII. POWER RATINGS ...................................................................................................................... 28 
+1. POINT SPREADS ...................................................................................................................... 28 
+2. RATING POINTS:...................................................................................................................... 28 
+3. CUMULATIVE RATINGS.......................................................................................................... 29 
+4. TRACKING THE FAVORITE.................................................................................................... 29 
+5. POWER RATING RECOMMENDATIONS ............................................................................... 29 
+IX. YARDAGE FACTORS................................................................................................................ 29 
+BOWLBOUND LEGEND...................................................................................................................... 32 
+BOWLBOUND PRIORITY & SPECIAL CHARTS..……………………………………………….34 
+POWER RATING & YARDAGE FACTOR LISTINGS……………………………………………36 
+PUBLISHED CHARTS ERRATA…………………………………………………………………….38 
+ 
+
+BASIC RULES 
+Throughout this rule book, commentary on the application of specific rules and game situations to 
+the Excel-based BOWL BOUND game is included in gray-shaded boxes. The application of most 
+game situations and procedures to the Excel game is self-evident. No attempt is made to explain 
+obvious differences (e.g., a description of “equipment included,” the need to click control buttons 
+instead of throwing dice, etc.). To begin a game in Excel, click the "Choose teams" button, follow the 
+instructions, and then click the "Start new game" button. The various rule options in the forms that 
+then appear will be clear once the Basic Rules and Advanced Rules are digested. 
+DESCRIPTION OF THE GAME 
+BOWL BOUND is SPORTS ILLUSTRATED’s college football replay/simulation game. Color-coded 
+team charts have been prepared for each of several college teams, using the actual statistics for each 
+team and season portrayed. These statistics have been analyzed, using mathematical formulas and com-
+puter programs, and the results have been encoded in the easy to use Team Charts. Thus, each color 
+coded Team Chart reflects, with great accuracy and detail, the real life performance, in each and every 
+phase of the game, of that particular team for that particular season. The attention to detail used in 
+preparing the Charts, along with extensive playtesting, has produced a replay game, which we are sure 
+you will find unrivaled for excitement and fidelity! 
+EQUIPMENT INCLUDED 
+• One set of color-coded Team Charts, one for each college team 
+• Rules Folder, including both Basic Rules and (optional) Advanced Rules 
+• Two special charts, one for each player, containing the Legend, Priority Chart, Timing Chart, Squib 
+Kickoff Return Chart, and spaces for marking the offensive play or defense formation of your choice 
+• Playing field 
+• Football marker and Yards-to-go marker 
+• Five special game dice 
+• Power Ratings and Yardage Factors Chart 
+• Scorepad 
+III. 
+PLAY OF THE GAME 
+Basically, the sequence of play is the same as in actual college football. Each player secretly chooses an 
+offensive play or defensive formation from his Team Chart, then throws his special game dice. From the 
+totals, the results are then found on the Team Charts. The offensive and defensive results are then 
+combined, using the Priority Chart, to determine the final outcome of the play. Special situations 
+(penalties, kicking plays, free balls, etc.) are explained in a separate section. 
+ 
+ 
+
+IV. 
+HOW TO USE THE GAME EQUIPMENT 
+SPECIAL GAME DICE 
+OFFENSIVE DICE (1 Black, 2 White) 
+To determine the total on these dice, add ten times the number on the black die to the sum of the 
+numbers on the two white dice. The offensive dice total can be any number from 10 through 39. 
+DEFENSIVE DICE (1 Red, 1 Green) 
+The defensive dice total is simply the sum of the numbers on the two dice. The defensive dice total can 
+be any number from 1 through 5. 
+This explanation of the dice odds is provided for the benefit of those who do not own the original 
+game, or otherwise have access to a set of Bowl Bound dice. 
+The Offensive Dice consist of one black die (the 10s digit) and two white die (which are totaled for the 
+ones digit). Dice totals of 10 through 39 can be produced. The black die’s faces are: 1 opposite 2; 2 
+opposite 3; and 3 opposite 3. One of the white die’s faces are: 0 opposite 0; 1 opposite 4; and 2 
+opposite 3. The other white die’s faces are: 0 opposite 5; 1 opposite 4; and 2 opposite 3. 
+The Defensive Dice consist of one red die and one green die, which are totaled for a number of 1 
+through 5. The red die’s faces are: 1 opposite 1; 1 opposite 3; and 2 opposite 2. The green die’s faces 
+are: 0 opposite 0; 0 opposite 1; and 0 opposite 2. 
+The following table shows the number of rolls for each of the 216 permutations of the Offensive 
+Dice: 
+10: 
+20: 
+30: 
+11: 
+21: 
+31: 
+12: 
+22: 
+32: 
+13: 
+23: 
+33: 
+14: 
+24: 
+34: 
+15: 
+25: 
+35: 
+16: 
+26: 
+36: 
+17: 
+27: 
+37: 
+18: 
+28: 
+38: 
+19: 
+29: 
+39: 
+The following table shows the number of rolls for each of the 36 permutations of the Defensive Dice: 
+ 
+ 
+ 
+1: 12 ; 2: 11; 3: 9; 4: 3; 5: 1 
+COLOR CODED CHARTS 
+The LEGEND explains the meanings of all colors, symbols, and abbreviations appearing on these 
+charts. 
+OFFENSIVE TEAM CHARTS 
+After an offensive play has been selected, the offensive dice are rolled and totaled. To find the 
+OFFENSIVE RESULT, read down the column of the play selected and across from the 
+offensive dice total in the # ON DICE column. The box at the intersection contains the 
+offensive result (which must still be combined with the defensive result, using the Priority 
+Chart). 
+
+DEFENSIVE TEAM CHARTS 
+This chart contains a separate # ON DICE column for each of the six defensive formations. 
+After an offensive play and defensive formation have been selected, the defensive dice are 
+rolled and totaled. The DEFENSIVE RESULT is then found as follows: Read down the column 
+of the offensive play selected, and across from the defensive dice total in the # ON DICE 
+column of the defensive formation used. The box at the intersection contains the defensive 
+result (which must still be combined with the offensive result, using the Priority Chart). 
+SPECIAL TEAM CHARTS 
+To determine the result of a Special Team Play, roll and total the OFFENSIVE DICE. Look at 
+the Special Team Chart, in the column of the type of play called (Kickoff, Punt Return, etc.) and 
+across from the offensive dice total in the # ON DICE column. The box at the intersection 
+contains the FINAL OUTCOME of the play (do not combine with any other result). The #ON 
+DICE column itself is also used for Extra Point Attempts (see Basic Rule VI-7). 
+PRIORITY CHART 
+This is used for combining the offensive and defensive results to determine the final outcome of 
+the play. Look in the column below the defensive result and in the row across from the 
+offensive result; the box at the intersection shows which result overrules, or may instruct you to 
+combine the two results. 
+Offensive result was a 5 in a green box, defensive result was a -2 in a red box. Priority Chart 
+says ADD, so final outcome is a 3-yard gain. 
+Offensive result was a 4 in a green box, defensive result was a (0) in a red box. Priority Chart 
+says defense overrules, and final outcome is No Gain. 
+Offensive result was a (4) in a green box, defensive result was a -1 in a red box. Priority Chart 
+says offense overrules, and final outcome is a 4-yard gain. 
+Offensive result was a (4) in a green box, defensive result was an (-1) in a red box. Priority 
+Chart says the ( ) offset and final outcome is a 3-yard gain. 
+Offensive result was a -2 in a red box; defensive result was a -2 in a red box. Priority Chart 
+says ADD, so the final outcome is a 4-yard loss. 
+Offensive result was a white box; defensive result was a -3 in a red box. Priority Chart says 
+ADD, so the final outcome is a 3-yard loss. 
+Offensive result was a QT in a red box; defensive result was a -10 in a red box. Priority Chart 
+says offensive overrules; offense rolls its dice again and finds the final outcome in the QT 
+column of its Offensive Team Chart (no subtraction). 
+Offensive result was an F +6 in a red box; defensive result was a 12 in a green box. Priority 
+Chart says offense overrules, and the result is a fumble 6 yards downfield (see Basic Rule 
+VI-10). 
+Offensive result was an OFF S in a yellow box; defensive result was an INT 10 in a red box. 
+Priority Chart says offense overrules, resulting in a penalty against the offense (but the 
+defensive result may still apply; see Basic Rule VI-4). 
+Offensive result was an F +22 in a red box; defensive result was a (TD) in a green box. Priority 
+Chart says the outcome is a fumble one yard deep in the defenders’ End Zone (see Basic Rules 
+VI-10 and VI-13). 
+
+The offense punts, with a result of 48 in a green box. For Special Team plays there is no 
+defensive result and the Priority Chart is not used. The final outcome is a 48-yard punt, and the 
+defenders may attempt a return (see Basic Rule VI-5). 
+Offensive result was an INT 28 in a red box; defensive result was a (TD) in a green box. 
+Priority Chart says the final outcome is an incomplete pass. 
+PLAYING FIELD, TIMING, SCOREPAD, AND PLAY SELECTION 
+The Football Marker is used to locate the current line of scrimmage or position of the ball. The 
+yards-to-go marker indicates the 10 yards necessary for the next first down. 
+The score, quarter, time remaining, down, and timeouts are recorded on the special Scorepad. 
+After each play, the time consumed is found from the Timing Chart and the proper number of 
+timing squares are blacked out on the scorepad. Each box equals 10 seconds, and each set of boxes 
+equals one minute. The blank boxes then show the time remaining at the next snap or kickoff. 
+Each team receives 3 timeouts per half. These are called after a play, and are used to reduce the 
+duration of that play to 10 seconds. Whenever a team calls a timeout, black in the space provided. 
+If a play begins with more than two minutes remaining in a half, there must be at least two minutes 
+remaining when the following play begins, due to the official’s timeout at the 2-minute warning. 
+Any play begun before the end of a quarter is completed as part of that quarter, whether or not 
+sufficient time for that type of play remained on the clock. Completed quarters are indicated by 
+blacking in the box provided. 
+The down is shown by moving a coin onto the proper circle on the scorepad. Scores are recorded 
+in the linescore grid provided. 
+Sets of spaces are provided on each of the special charts, so that a coin may be used to indicate the 
+players’ choice of offensive play or defensive formation. 
+SETTING UP AND PLAYING THE GAME 
+The easiest way to learn how to play BOWL BOUND is to follow the procedures outlined below. If you 
+are uncertain how to read the dice or game charts, refer to the previous explanations and examples. As 
+you play, certain special situations (penalties, kicks, free balls, etc.) will arise; when they do, refer to 
+Section VI below, check what to do, and then continue play. EXCEPT WHEN THE SPECIAL RULES 
+OF BOWL BOUND APPLY, AND IN ANY CASE OF DOUBT, ALWAYS APPLY THE CURRENT 
+OFFICIAL RULES OF COLLEGE FOOTBALL. 
+TEAM SELECTION 
+Each player picks a team by selecting its color coded Team Chart. This may be done by mutual 
+agreement. 
+SPECIAL CHARTS 
+Each player will also have one of the special charts for reference. 
+COIN TOSS 
+Each player rolls the offensive dice; high total has the choice of receiving or kicking off (the other 
+player has the choice at the beginning of the second half). 
+ 
+ 
+
+KICKOFF 
+Kicking team places the ball on its 30 yard line, rolls the offensive dice, and reads the kick 
+yardage from the Kickoff column of its Special Team Chart; the ball is then move this distance 
+downfield. (Note: the NCAA changed the Kickoff spot to the 30 yard line effective for the 2007 
+season.) 
+KICKOFF RETURN 
+The receiving team now rolls the offensive dice and reads the return yardage from the Kickoff 
+Return column of its own Special Team Chart, then moves the ball this distance back upfield. 
+TIME RESOLUTION 
+The Timing Chart is consulted for the time consumed by the kickoff and return, and the proper 
+number of timing boxes is marked off on the scorepad. The yards-to-go marker is placed, 
+extending from the line of scrimmage to 10 yards upfield. A coin is placed on the 1st Down circle 
+on the scorepad. 
+Excel Game: Because Possession changes in the middle of plays involving Returns, the 
+following enhancements to the Timing Chart are automatically used: Kickoffs = 0, whether 
+or not returned; Kickoff Returns = 10; Punts, whether or not returned = 10; Punt Returns = 0; 
+Fumbles and Blocked Kicks lost = 10; fumble or miscellaneous returns = 0; Passes Intercepted 
+= 10; and Interception Returns = 0). 
+7. 
+PLAY SELECTION 
+Each player now chooses an offensive play or defensive formation by placing a coin on the proper 
+square of his special chart. This is done separately and secretly, each player shielding his choice 
+by using his hand or Team Chart. The choices are then revealed to each other. 
+Excel Game: For head-to-head Secret Play, follow the instructions on the Defensive 
+Formation selection form. 
+8. 
+DICE ROLL 
+Each player now rolls his special game dice and consults his Team Chart for the offensive or 
+defensive result of the play. NOTE: Technically, the defensive player is not required to reveal his 
+formation or roll his dice until after the offensive result of the play has been determined. 
+PLAY RESOLUTION 
+The Priority Chart is now used to determine the final outcome of the play (see Basic Rule 
+IV-2-D). If a penalty, free ball, B, QT, or a variable result (X,DS, T1, T2, and T3) is involved, the 
+offensive player may have to roll his dice again to decide the final result of the play (see Basic 
+Rule VI-3). 
+10. 
+PLAY OUTCOME 
+After each play, move the ball the proper number of yards, and move the Yards-to-go marker if a 
+first down is awarded. After consulting the Timing Chart, mark off the time required for the play 
+in the scorepad boxes, and move the coin onto the circle indicating the next down. Whenever 
+appropriate, record timeouts used, completed quarters, and scores on the scorepad. 
+11. 
+GAME CONTINUATION 
+Play is continued in this fashion until the end of the game. 
+
+VI. 
+SPECIAL SITUATIONS AND RULES 
+PLAY SELECTION 
+There is no restriction on the use of any offensive play. Any play may be used as often as desired, 
+at any time desired, and from any point on the field. 
+BREAKAWAYS, QUARTERBACK RUNS AND QUARTERBACK TRAPS 
+If the result of a play is Breakaway (B), Quarterback Runs (QR) or Quarterback Trapped (QT), the 
+offense rolls its dice again and looks up the result in the B, QR or QT column of its Offensive 
+Team Chart. THESE COLUMNS MAY NOT BE CHOSEN AS PLAYS BY THE OFFENSE, but 
+are instead results of other plays chosen. 
+VARIABLE YARDAGE ENTRIES 
+The yardage entries DS, X, T1, T2 and T3 may be interpreted in either of the following two ways: 
+QUICK METHOD: Count these entries as constant values: DS=6, X=12, T1=28, T2=55, 
+T3=83. 
+FULL-FEATURE METHOD: Roll the offensive dice again immediately to determine the 
+yardage, as follows: 
+ 
+DS = Direct Sum of the numbers on the three dice (add the numbers up). 
+ 
+X = 40 minus the normal offensive 
+ 
+T1 = The normal offensive total. 
+ 
+T2 = The total of two consecutive normal offensive dice rolls. 
+ 
+T3 = The total of three consecutive normal offensive dice rolls. 
+You roll a 3 on the black die and a 2 and 5 on the white dice. The normal offensive dice total 
+is 37; DS=10; X=3; T1=37. 
+You roll a 1 on the black die and a 0 and 3 on the white dice. The normal offensive dice total 
+is 13; DS=4; X=27; T1=13. In combination with the roll of Example 1, T2 would equal 50. 
+Either method A or method B may be used; just be consistent and make sure you agree with your 
+opponent, before the game starts, on which method is to be used. If any of these symbols appears 
+in a red box and/or with a negative sign (-), it represents the corresponding minus yardage. 
+ 
+Excel Game: The field below the result output for each dice roll displays the full-feature method 
+result of any variable yardage entries, based on supplemental dice rolls that are not visible 
+during play. Separate supplemental dice rolls are used for the offense and the defense. These 
+variable yardage entries are used in resolving the offensive and defensive results in the 
+automated Priority Chart. The game does not include an option to use the Quick Method. 
+PENALTIES 
+PENALTY PROCEDURE 
+i. When a penalty occurs, the offense rolls its dice again to determine the offensive result of the 
+play (Exception: (iii) below); the defense still uses the result of its original roll. These results 
+
+are then combined according to the Priority Chart, and the offended team may accept either the 
+result of the play (down counts) or the penalty yardage (down replayed). 
+ii. If the offense reroll results in another penalty, the offense continues rolling until a non-penalty 
+result occurs (Exception: (iii) below). The offended team may then accept the result of the play 
+(down counts) or any ONE of the penalties (penalty yardages are not combined). If offsetting 
+penalties have occurred, 10 seconds elapse on the clock, but the play is cancelled and the down 
+is replayed. 
+iii. If a PI penalty is rolled, there are no further rerolls; the defensive result is cancelled and the final 
+outcome of the play is an incomplete pass. 
+PENALTY YARDAGES 
+The penalty yardage entries S (scrimmage or snap) and R (return) may be interpreted in either of 
+the following two ways: 
+i. QUICK METHOD: 
+Count S penalties as 5 yards; OFF R penalties as OFF 10 penalties; and DEF R penalties as 
+DEF15 penalties. 
+ii. FULL FEATURE METHOD: 
+Immediately roll the offensive dice again to determine the actual penalty yardage, using the 
+chart on the following page: 
+PENALTY 
+YARDAGE 
+OFF=S 
+DEF=S 
+OFF=R 
+DEF=R 
+5 yards 
+10-19^ 
+10-24; 30-32 
+10-19 
+5A yards 
+20-32^$ 
+5Y yards 
+25-29† 
+20-29† 
+10 yards 
+33-36 
+30-39 
+10-19 
+15 yards 
+37-39 
+34-39*† 
+20-29 
+30-39*† 
+Notes: 
+^ On Kickoffs only, this is a kick out of bounds (“OB”), resulting in either: (i) a spot of the ball 
+at the Receiving Team’s 35 yard line to begin its ensuing play from scrimmage; or (ii) a 5 yard 
+penalty on the Kicking Team, which kicks off again. The choice of which alternative to use is 
+made by the Receiving Team player. No time is expended by either of these alternatives. 
+$ Offensive penalty before the snap (such as a false start or delay of game). There is no play, 
+and the defense does not have an option of refusing the penalty. There are no additional rolls 
+after this penalty result, so there is no chance of a defensive penalty offsetting the offensive 
+penalty. 
+* Automatic first down. 
+† Marked from the end of any gain or previous spot (Offensive Player’s Choice). 
+Either method A or method B may be used; just be consistent and make sure you agree with 
+your opponent, before the game starts, on which method is to be used. 
+ 
+
+Excel Game: at the beginning of the game, in the Penalty Resolution Method drop-down list, 
+select either Chart or Advanced as the manner to use. With Chart, all penalty results are 
+shown as printed on the Team Charts, and any printed S and R penalties are resolved using 
+the Full Feature Method. (The game does not include an option to use the Quick Method.) 
+With Advanced, all penalties, except for pass interference penalties, are converted to S 
+penalties (or R penalties on kickoff, punt and interception returns), and then resolved using 
+the Full Feature Method. Some privately printed Bowl Bound team charts use the DEF 5X 
+penalty, familiar in Paydirt! as a defensive 5-yard penalty marked from the end of an 
+offensive play for a gain, and carrying an automatic first down. These penalties are 
+interpreted in Bowl Bound as DEF 5Y penalties, because there are no non-pass interference 
+defensive 5-yard penalties in college football that carry an automatic first down. (This 
+interpretation has been confirmed by Eddie Mays, who uses DEF 5X penalties in his charts, 
+as being in accordance with his intentions.) 
+MARKING OFF PENALTIES 
+i. Unless otherwise noted, all penalties are marked from the PREVIOUS SPOT (where the ball 
+was last snapped or kicked off). 
+ii. No penalty (except defensive pass interference) may exceed half the distance to the offenders’ 
+Goal Line. 
+iii. In college football, defensive pass interference (PI) penalties are not automatically spot fouls 
+(like they are in the NFL). All PI penalties carry an automatic First Down. A PI penalty that 
+occurs at or beyond 15 yards past the line of scrimmage is a DEF 15 penalty. A PI penalty that 
+occurs 14 or fewer yards past the line of scrimmage is spotted at the point of the infraction. If 
+the line of scrimmage is outside the defense’s 2 yard line, the spot cannot be inside the 2 yard 
+line. If the line of scrimmage is on or inside the 2 yard line, the spot is half the distance to the 
+goal line. All “PI” penalties printed on the Team Charts are Defensive Pass Interference 
+penalties. The game accounts for the possibility of Offensive Pass Interference as one type of 
+infraction that can result in an OFF 15 penalty. If a PI penalty is rolled, but the play results in a 
+QR or QT, the penalty is counted as a DEF 10 penalty. 
+iv. The DEF 5Y penalty, indicating defensive inadvertent facemask or contacting the kicker does 
+not carry an automatic First Down in addition to the five penalty yards. If the play was a run or 
+pass that gained yardage the five yards are marked from the end of the gain. If the play was a 
+successful point after touchdown, the five yards are marked on the following kickoff. 
+v. The DEF 15 penalty, indicating a defensive personal foul, carries an automatic First Down, in 
+addition to the fifteen penalty yards. If the play was a run or pass that gained yardage the fifteen 
+yards are marked from the end of the gain. If the play was a successful point after touchdown, 
+the five yards are marked on the following kickoff. 
+vi. SPECIAL TEAM PENALTIES: Penalties on kicks are marked from the previous spot. Penalties 
+on returns are marked from the end of the return, with one exception: if the return exceeds the 
+point half way from its beginning, to the opponents Goal Line, any offensive penalty is marked 
+from this half way point. NOTE: On the Special Team Chart, the “Offensive Team” refers to the 
+one represented by that Chart (rolling the dice). 
+vii. If the spot where the penalty or the ball would be marked lies on a half-yard line, use the yard 
+line that is closer to the 50-yard line as the spot. 
+viii. No quarter may end on an accepted defensive penalty (including a double foul). An extra play is 
+run with the clock stopped at 0:00 remaining. 
+
+ix. If multiple fouls on one team occur, the other team’s player can choose which penalty to accept, 
+or decline the penalties and accept the result of the play. 
+A’s ball with 3rd and 19 at B’s 44, A gains 3 yards and there is a DEF 15 penalty. RESULT: 1st 
+and 10 at B’s 26. 
+A’s ball with 3rd and 5 at B’s 7, A accepts a DEF 5 penalty against B. RESULT: 3rd and 3 at 
+B’s 5. 
+A’s ball with 3rd and 5 at B’s 6, A accepts a PI 4 penalty. RESULT: 1st and Goal at B’s 2. 
+A has 1st and 10 at his 17; B accepts an OFF 15 penalty. RESULT: A has 1st and 18 at his own 
+A returns a kickoff from his 4 to his 29, after first rolling an OFF 15 penalty. RESULT: A has 
+1st and 10 at the 15. 
+A’s, ball with 2nd and 17 at their own 32. A rolls a PI 12 penalty. B’s defensive result is a QT. 
+RESULT: Defensive pass interference 12 yards downfield. If A accepts the penalty, A now has 
+1st and 10 at his own 44. If A declines the penalty, the result of his QT roll applies. 
+A has 3rd and 5 at his own 41. A rolls a DEF 5Y penalty, then the result of the play is a 43-yard 
+pass completion. RESULT: A now has 1st and 10 at B ‘s 11. 
+A rolls an OFF 5 then a PI 8. RESULT: Offsetting penalties; play is nullified and down is 
+replayed. 
+On a passing play, B intercepts it his own 13. B tries an Interception Return first rolling an 
+OFF 10 then a 52-yard return. RESULT: The spot of the penalty is at A’s 44; B takes, 
+possession, 1st and 10 at his own 46. 
+PUNTS 
+To punt, the offense simply announces this intention, rolls the offensive dice, and consults the Punt 
+column on its Special Team Chart to find the yardage the punt travels from the line of scrimmage. 
+If there is no † or * with the punt yardage, the receiving team may return the punt by rolling the 
+offensive dice and consulting the Punt Return column of its own Special Team Chart. 
+FIELD GOAL ATTEMPTS 
+To attempt a field goal, the offense simply announces this intention, rolls the offensive dice, and 
+consults the Field Goal column on the Special Team Chart. If the yardage shown EQUALS or 
+EXCEEDS the distance from the line of scrimmage to the opponents’ Goal Line, the field goal is 
+GOOD. If the yardage shown is less, the kick fails, and the defenders take possession, 1st and 10, 
+either at their 20 yard line or at the Spot of the Hold (7 yards behind the line of scrimmage) - 
+whichever is to their advantage. NOTE: The yardages in the Field Goal Column refer to the 
+distance from the line of scrimmage to the opponents’ Goal Line - not to the statistical length of 
+the attempt, which is 17 yards greater (10 yards of the End Zone + 7 yards to the spot of the hold). 
+7. 
+POINT AFTER TOUCHDOWN (THE CONVERSION) 
+A team scoring a TD has the option of attempting either a one point conversion (by kick) or a two-
+point conversion (by run or pass, from the 2 yard line). 
+
+To try the extra point, roll the offensive dice and refer to the # ON DICE column of the Special 
+Team Chart. If the dice total is in a WHITE box, the point is GOOD; if the dice total is in a 
+RED box, the point is NO GOOD. 
+Notes on playing with older Bowl Bound team charts: 
+Set I (32 teams from the 1960 through 1970 seasons) – one-point conversion attempts are 
+governed by the original rules of Sports Illustrated College Football, with one exception. Refer 
+to the “PAT GOOD / PAT NO GOOD” numbers on the front of the chart. Any dice roll 
+resulting in a “Penatly” is ignored, and instead considered GOOD. 
+Set II (20 teams from the 1940 through 1959 and 1971 through 1978 seasons) – one-point 
+conversion attempts are resolved in the same manner as field goal attempts from the 3-yard 
+line, with one exception. All penalty rolls are ignored, and instead considered GOOD. Because 
+other team charts (newer charts as well as Set I) do not include BLOCKED KICKS or 
+FUMBLES as results from a one-point conversion roll, any roll resulting in a BLOCKED KICK 
+or FUMBLE is treated as simply NO GOOD. (If Advanced Rule V.3. is in use [the Free Block 
+Option], and the defensive team returns a blocked extra point attempt to or beyond its 
+opponent’s Goal Line, it is awarded two points.) 
+To try a two-point conversion, the ball is placed on the 2-yard line and a play is called. If the 
+result of the play places the ball at or beyond the defensive Goal Line, the try for two is GOOD. 
+Otherwise, the try for two points is NO GOOD. If the defensive team, as the result of a turnover, 
+returns the ball to or beyond its opponent’s Goal Line, it is awarded two points. 
+8. 
+ONSIDE KICKOFFS 
+To attempt an onside kickoff, the kicking team simply announces this intention and rolls the 
+offensive dice. The kicking team recovers if the dice total is 13 through 20, inclusive; the receiving 
+team recovers on any other total. In either case, the ball travels 12 yards, and there is never any 
+advance or return of the kick. (See Adv. Rule III-5 for a procedure involving more strategies.) 
+INTERCEPTIONS 
+Move the ball forward (+) or backward (-) the number of yards shown. The defense may then 
+return the ball by rolling the offensive dice and consulting the Interception Return column of their 
+Special Team Chart or the defense may instead decline the interception by declaring it an 
+incompletion (ball batted away). 
+10. 
+FUMBLES AND BLOCKED KICKS 
+Move the ball forward (+) or backward (-) the number of yards shown. The erring team now rolls 
+the offensive dice and refers to the FUMBLE line on the lower right edge of its Offensive Team 
+Chart, to see whether they recover the free ball or lose it. 
+The opponents are entitled to an INTERCEPTION RETURN, from the spot of recovery, of ANY 
+blocked kick lost by the kicking team (a recovery attempt total of 39 is an automatic touchdown) 
+and fumbles which are lost due to recovery attempt totals of 37, 38, or 39. 
+The offensive team is entitled to an INTERCEPTION RETURN, from the spot of recovery, of 
+ANY blocked kick recovered by the kicking team at or behind the line of scrimmage with recovery 
+attempt totals of 17, 18, or 19 or Fumbles which are recovered with recovery attempt totals of 17, 
+18, or 19. Otherwise, the next play begins from the spot of the recovery. If the offense recovers on 
+4th down but fails to make first down yardage, the defense takes possession anyway. 
+ 
+
+Excel game: due to programming complexities, the following rule simplification is applied by 
+the game interface to returns of fumbles and blocked kicks in plays involving penalty rolls: If a 
+penalty result is rolled on an Interception Return, and if the Interception Return roll results in a 
+fumble, the fumble is automatically non-returnable by the recovering team. 
+11. 
+THE ASTERISK (*) AND DAGGER (†) 
+On Punts, these indicate that the receiving team is allowed no Punt Return. On the Offensive Team 
+Chart, these indicate that the play ended Out of Bounds. Time non-punt plays with asterisks like all 
+other plays except in the last two minutes of the first half and in the last five minutes of the second 
+half where only 10 seconds elapse. (This modification to the Timing Chart is made to avoid the 
+tendency of the original Bowlbound rules to produce games with an unrealistically large number of 
+plays.) The play is NOT out of bounds if the Defense overrules or if the play results in a fumble. 
+12. 
+THE OPTION PLAY 
+When the offense calls Play 5, the result may be an Option Run, a Sprint Out Pass Play (SOP) or a 
+Bootleg Pass Play (BLP). If the offensive dice roll is such that an SOP or BLP box result, the 
+DEFENSIVE RESULT IS NULLIFIED (automatically becomes a White Box, “No Change”); 
+there is no defense against an option pass play, unless Adv. Rule II.1, .2 and/or .3 are in use. The 
+offense rolls its dice again and finds the final result of the play under Play 7 (SOP) or Play 8 
+(BLP). 
+If the offensive result under Play 5 is not an SOP or BLP, the offensive and defensive results are 
+combined as usual, according to the Priority Chart. 
+13. 
+PLAYS WITHIN AND BEYOND THE END ZONES 
+The GOAL LINE is part of and within the End Zone. 
+The END LINE, 10 yards behind the Goal Line, is out of bounds and not part of the End Zone. 
+Any PLAY or RETURN which gains enough yardage to carry to the opponents’ Goal Line, or 
+ANY distance beyond it, is a TOUCHDOWN. EXCEPTIONS: Fumbles (VI-13-D below) and 
+penalties (a penalty can never produce a Touchdown). 
+FUMBLES AND BLOCKED KICKS 
+i. If the yardage of a fumble places the ball within the defenders’ End Zone, the ball is live and 
+may be recovered by either team. If the offense recovers, they score a touchdown; if the defense 
+recovers, and fails to advance the ball across the Goal Line, a touchback occurs. 
+ii. If the yardage of a fumble places the ball on or beyond the defenders’ End Line, consider the 
+ball live in the End Zone. To find the distance beyond the Goal Line, roll only the white 
+offensive dice. The total is the number of yards into the End Zone the ball will be recovered. If 
+the offense recovers, they score a touchdown; if the defense recovers, and fails to advance the 
+ball across the Goal Line, a touchback occurs. 
+iii. If the yardage of a fumble or blocked kick leaves the ball on or behind a team’s own End Line, a 
+safety is scored. 
+iv. If the yardage of a fumble or blocked kick leaves the ball within a team’s own End Zone, the 
+ball is live and may be recovered by either team. If the defense recovers, they score a 
+Touchdown; if the offense recovers, a safety is scored. 
+ 
+
+PASSING PLAYS 
+Passes completed (and not fumbled) within the defenders’ End Zone are Touchdowns. Passes 
+completed with yardages sufficient to carry the ball to or beyond the defenders’ End Line are 
+considered to be completed in the field of play and run into the End Zone for a Touchdown. 
+In each of the following, the offense has attempted a pass with 1st and Goal at the 8. 
+Offensive result is an 18 in a green box, defensive result is a 2 in a red box. RULING: Complete 
+for touchdown. 
+Offensive result is a 16 in a green box, defensive result is a 2 in a green box, RULING: 
+Complete for touchdown. 
+Offensive result is a 16 in a green box, defensive result is a (19) in a green box. RULING: 
+Complete for touchdown. 
+Offensive result is a 19 in a green box, defensive result is a (16) in a green box. RULING: 
+Touchdown. 
+Offensive result is an F +20 in a red box defensive result is a (16) in a green box RESULT: 
+Pass completed but fumbles into the End Zone, 8 yards deep; offensive player must roll: fumble 
+recovery to determine if the result is a Touchdown or a touchback. 
+Offensive result is a 19 in a green box, defensive result is a QT in a red box. RULING: Result is 
+a QT. Offensive player rolls again and consults QT column; result is a 22 in a green box. 
+RULING: Touchdown. 
+i. If the yardage of an INTERCEPTED pass would carry to or beyond the defenders’ End Line, 
+the spot of the interception is marked 9 yards deep in the End Zone. 
+ii. If the spot of an intercepted pass is within a team’s own End Zone, a Touchdown is scored by 
+the defense (no return necessary). 
+iii. If the spot of an intercepted pass is on or behind a team’s own End Line, a safety is scored 
+(lateral out of the End Zone). 
+iv. If the spot of a PI penalty is anywhere within or beyond the defender’s End Zone, the foul 
+occurred within the End Zone, and acceptance of the penalty results in a 15 yard penalty (and 
+automatic first down) from the original line of scrimmage, or, if the line of scrimmage is at or 
+inside the defender’s 17 yard line, 1st and Goal at the defender’s 2-yard line. 
+(F) 
+RETURNS 
+i. When a team gains possession within its own End Zone, they may either: (a) Elect an automatic 
+touchback, or (b) Attempt a return. Note: If a return is attempted, the End Zone yardage must be 
+counted in the return; if the ball is not advanced across the Goal Line, a touchback results. 
+ii. Returns may not be attempted from, on or behind the End Line. The ball is out of play, and 
+either a touchback or safety has occurred. 
+(G) 
+TOUCHBACKS AND SAFETIES 
+i. A TOUCHBACK scores no points for either team. The team defending that Goal Line puts the 
+ball in play, 1st and 10 at their 20 yard line. 
+
+ii. A SAFETY scores two points for the defense. The victims of the safety are awarded a free kick 
+(Kickoff or Punt) from their own 20 yard line, using the same procedure as for an ordinary kick 
+(see V-4 through V-6 or VI-5). 
+ADVANCED RULES 
+The Basic Rules which you have just read are entirely sufficient to create all the excitement, skill, and 
+strategy, of actual college football. In these Advanced Rules, however, we will suggest certain 
+OPTIONAL features which we feel can make BOWLBOUND even more exciting and realistic. You 
+may decide to use some, none, or all of these Advanced Rules in your own play of the game; just be sure 
+that you and your opponent are agreed in advance on which ones are being used in a particular game. 
+And, of course, feel free to introduce your own innovations! 
+OFFENSIVE OPTIONS 
+RAZZLE-DAZZLE PLAY: (RZDZ) 
+This is an extra play available to the offense, including such oddities as multiple reverses, halfback 
+passes, flea-flickers, etc. It is called in the same fashion as any other play, using the RZDZ square 
+on the special chart. The sequence of play then proceeds as follows. 
+The offensive player reveals that he has called the RZDZ. Beyond this point, the defensive 
+formation chosen may remain concealed, but may not be changed. 
+The defensive player rolls the OFFENSIVE dice and records the total. 
+Now the offensive player rolls the offensive dice and records the total. 
+The player with the LOWER dice total wins the right to choose the offensive result of the play 
+(offense wins on ties). 
+If the OFFENSE wins, they may choose any non-penalty result from any of their 9 offensive 
+plays, opposite the LOWER dice total. 
+(F) 
+If the DEFENSE wins, they may choose any non-penalty result from any of the offensive team’s 
+9 offensive plays, opposite EITHER of the two dice totals rolled. 
+(G) 
+AFTER the offensive result is finally decided, the defensive player must reveal his defensive 
+formation, roll the defensive dice, and look up the defensive result, opposite the offensive play 
+finally chosen and his own previously picked defensive formation. The offensive and defensive 
+results are then combined as usual, according to the Priority Chart. If a penalty, B, QR, QT or 
+fumble occurred, it may be necessary for the offensive player to roll the offensive dice again and 
+consult the offensive team chart for the final outcome of the play. 
+(H) 
+No penalty result may be chosen by either player, unless ALL possible choices are penalties. In 
+this event, the offensive play from which the penalty was chosen is used to determine the 
+offensive result of the play on the reroll. 
+(I) 
+See Adv. Rule II-1 for the effect of the Wild-Card Defense on the RZDZ play. 
+
+QUARTERBACK SNEAK 
+In an effort to gain a SINGLE YARD, the offense may call a Quarterback Sneak (by placing a 
+coin on the QB Sneak square of the special chart). The defensive result is then automatically a 
+white box (“No Change”) (unless Adv. Rule II-1 is also in use). The offensive result is found by 
+rolling the offensive dice and looking under Play #1 on the Offensive Team Chart. ONLY THE 
+COLOR OF THE BOX IS IMPORTANT. All green boxes count as 1-yard gains; all white and 
+yellow boxes as No Gain; and all red boxes as fumbles at the line of scrimmage. The symbols in 
+the boxes are to be ignored. 
+Do not confuse this play with the Line Plunge. The defensive result against Play #1 is irrelevant; 
+the defensive dice are never rolled with this play, and the defense does not participate at all unless 
+it has specifically Wild Carded the QB Sneak (Adv. Rule II-1). 
+HAIL MARY 
+Within the last 20 seconds of either half, the offense may try a Hail Mary Pass against a blank 
+defense. Roll the offensive dice and refer to the following table for the results. 
+Result 
+10-18 
+Complete (25 + T1 yards downfield) 
+Complete (TD) 
+20-23, 26-29 
+INT (25 + T1 yards downfield) 
+24-25 
+30-38 
+DEF PI (25 + T1 yards downfield) 
+ 
+Excel Game: The Hail Mary play will show up in the offensive pick list only when its use is 
+allowed. The resolution of variable yardage entries is automated. The Defensive Result will 
+automatically be blank if the Hail Mary play is called, regardless of the Defensive Formation 
+selected. 
+HURRY-UP OFFENSE 
+A team may conserve playing time, without calling timeouts, by the following methods. The 
+“Hurry-Up Offense” may be employed at any time during the game. 
+NO HUDDLE OFFENSE 
+By “hurrying” the next play (quick or no huddle), thus reducing the time consumed by (and 
+after) the PREVIOUS play (remember, the clock always shows the time remaining when the 
+next play begins - not necessarily the time when the ball was last declared dead). Assuming the 
+previous play was a 30-second play, it would be counted as just 20 seconds if followed by a 
+hurried play; the hurried play itself would then be timed as usual. 
+The DISADVANTAGES of the quick huddle are that, during the hurried play, (a) Defensive 
+penalties may be counted as OFF 5 penalties (false start fouls; defensive result cancelled, no 
+rerolls, 0 seconds elapsed), AND (b) Offensive penalties may be counted as fumbled snaps from 
+center; the defensive result is cancelled. Use the penalty chart below if the “NO HUDDLE 
+OFFENSE” is being utilized by the offense. 
+ 
+
+PENALTY 
+YARDAGE 
+ 
+OFF=S 
+ 
+DEF=S 
+ 
+OFF=R 
+ 
+DEF=R 
+5 yards 
+10-11 (FS*) 
+12-29 
+10-14 OFF 5 
+15-24 DEF 5 
+10† 
+5Y yards 
+25-35†† 
+11-19†† 
+10 yards 
+30-36 
+11-34 
+15 yards 
+37-39 
+36-39**†† 
+35-39 
+20-39**†† 
+Notes: 
+* 
+No Penalty - Bad Snap (F-13 on punt attempts, F-7 on FG attempts, F-2 on all other plays) 
+** Automatic first down. 
+† 
+Prior to the change of possession. 
+†† 
+Marked from the end of any gain or previous spot (Offensive Player’s Choice). 
+ 
+The Excel game does not include the no-huddle offense. 
+SPIKING THE BALL 
+By intentionally throwing a spiking the ball (automatic if requested; no dice rolls or charts 
+used). Used after a 30-second play, this would cause the previous play and the spike, 
+COMBINED, to consume a total of only 20 seconds. Used after a 20-second play, this would 
+cause the previous play and the spike, COMBINED, to consume a total of only 10 seconds. 
+(Plays taking 10 seconds are unaffected.) A down is wasted, but the hazards of the quick huddle 
+are avoided. 
+OUT OF BOUNDS 
+The offense can GUARANTEE that the upcoming play will be a 10-second play by designating 
+it (prior to any dice roll by the offense) as OUT OF BOUNDS. The DISADVANTAGE is that 5 
+yards will be subtracted from the outcome of the play, after the offensive and defensive results 
+are combined, but before applying the yardage factor. The 5 yards is not subtracted from penalty 
+yardages, incomplete passes, TD or (TD) results, or any play which would have been out of 
+bounds anyway. NOTE: This rule may not be applied to punts. 
+Options (A) and (B) are, of course, available only to the offense, and would not be used 
+following a 0-second or 10-second play. They must be exercised IMMEDIATELY following 
+the play whose time is to be reduced. 
+The Excel game does not include the guaranteed out of bounds option. 
+ELECTED SAFETIES 
+The team in possession of the ball may elect to give the opponents an automatic safety, at any time 
+and from any point on the field. The safety may not be elected after the ball is dead on 4th down, 
+or while the ball is free. 
+RUNNING OUT THE CLOCK 
+The offense may resort to the following methods to use up time. 
+QUARTERBACK KNEEL DOWN 
+Have the QB take the snap and drop immediately behind center. This is automatic if requested 
+(no dice rolls, or charts used). There is an automatic 2-yard loss, and 30 seconds are consumed 
+(unless the defense calls timeout or there is a loss of possession on downs). 
+
+DELAY 
+If the defense fails to call timeout after a 30-second play, the offense may take an intentional 
+Delay of Game penalty (5 yards), increasing the time consumed by the previous play to 40 
+seconds. If the clock now reads 0:00 remaining, the quarter is considered to have ended prior to 
+the delay violation. 
+ 
+IN BOUNDS 
+The offense can increase the likelihood of the clock continuing to run by declaring the 
+upcoming play (prior to any dice roll by the offense) to be IN BOUNDS. The 
+DISADVANTAGE is that 5 yards will be subtracted from the outcome of any play not 
+otherwise in bounds, after the offensive and defensive result are combined, but before applying 
+the yardage factor. The 5 yards is not subtracted from penalty yardages, incomplete passes, TD 
+or (TD) results, or any play which would have been in bounds anyway. NOTE: For the purposes 
+of this rule, “in bounds” means “in bounds between the Goal Lines.” 
+The Excel game does not include the guaranteed in bounds option. 
+DEFENSIVE OPTIONS 
+The idea of the Wild Card Defense is to try to stop the offense cold by guessing exactly which play 
+they are going to use, rather than by calling one of the six regular defensive formations. 
+WILD CARD DEFENSE 
+When the Wild Card Defense is employed by a team entitled to its use, it is called a Free Wild 
+Card. When employed by a team not entitled to its use, it is termed a Conditional Wild Card. No 
+team is ever forced to use the Wild Card Defense, either Free or Conditional. They may always 
+employ one of their six regular defensive formations instead. 
+ELIGIBILITY 
+i. If Adv. Rule VIII-4 is not in use, only those teams identified by a black “W” in a red field in the 
+upper left corner of their Defense Team Charts are entitled to the Free Wild Card. Any use of 
+the Wild Card Defense by any other team is a Conditional Wild Card. An optional alternative to 
+this rule is: all teams are entitled to the Conditional Wild Card Defense, at all times, except 
+(reserved for future use) any teams with an “XWC” symbol printed in black in a green field in 
+the upper left hand corner of the Defense Team Chart. (If this method is used, there is no “Free 
+Wild Card Defense,” and XWC-coded teams are not eligible to use the Wild Card Defense in 
+any form.) 
+ii. If Adv. Rule VIII-4 is in use, ANY team will be entitled to the Free Wild Card at those times in 
+the game when they are even with or trailing the Point Spread; but the use of the Wild Card 
+Defense by ANY team (even one with the “W” notation) when they are leading the Point Spread 
+is a Conditional Wild Card. Exception (reserved for future use): a team with a black “XWC” in 
+a green field in the upper left corner of its Defense Team Charts is not entitled to the 
+Conditional Wild Card. 
+ 
+ 
+ 
+
+Excel Game: The game automatically determines a team’s eligibility for the Wild Card defense 
+based on the method selected in the Wild Card drop-down list when starting a new game: (1) 
+Variable, based on ii, above; (2) W Coded, based on the general rule in i, above; or (3) 
+Conditional, based on the optional alternative method in i, above. If the defense guesses 
+correctly, the result of any dice rolls (including penalty results) are ignored. If Conditional is 
+selected, an XWC-coded team will not be prevented from choosing a Wild Card defense, but if it 
+does, the defensive result will be “no change,” regardless of whether the defenses guesses 
+correctly or incorrectly. 
+CALLING WILD CARD DEFENSES 
+The Wild Card Defense is called as follows. Instead of placing a coin on one of the six 
+defensive formation spaces, the defensive player places the coin on one of the OFFENSIVE 
+play spaces; this indicates the play he believes the offense will call. The QB Sneak and the 
+RZDZ may be Wild Carded, but the throwaway pass (Adv. Rule I-4-B), the QB Kneel Down 
+(Adv. Rule I-6-A), and the Hail Mary (Adv. Rule I-3) may not. 
+WILD CARD DEFENSE RESULTS 
+The result of the play depends on whether the defense has guessed correctly or incorrectly. The 
+defense has guessed INCORRECTLY if: 
+i. The Offense chose a different play, or 
+ii. The QB Sneak was Wild Carded and Play 1 was used, or vice versa; or 
+iii. One of plays 1 through 9 was Wild Carded and the offense chose the RZDZ, even if the 
+offensive play eventually chosen during the RZDZ was the one Wild Carded. 
+If the defense guessed correctly, neither team rolls its dice or consults its Team Chart. There is 
+no penalty for the use of a Conditional Wild Card, IF the defensive guess is correct (see D 
+below). The final outcome of the play is: 
+iv. No Gain, inbounds, on all running plays and the QB Sneak; 
+v. An incomplete pass on all passing plays and the RZDZ. 
+vi. To Wild Card the Option Play (SOP or BLP with Play 5), the Defense must use TWO coins, 
+placing one on Play 5 and the other on either Play 7 or Play 8. A Wild Card of Play 5 alone is 
+the Option Run play (Play 5 without SOP or BLP). (The Wild Card of Play 5 alone is incorrect 
+if the offensive roll results in SOP or BLP. The Wild Card of Play 5 with Play 7 is only correct 
+if the offensive roll results in SOP, and with Play 8 only if the offensive roll results in BLP.) 
+If the defense guessed INCORRECTLY, the defensive result is automatically a White Box (No 
+Change). Thus, the Defense NEVER rolls its dice or consults its Team Chart when using a Wild 
+Card Defense, unless the Offense has called Play 5 (see vi, above). When the defense guesses 
+incorrectly with a Conditional Wild Card, then the yardage factor is DOUBLED for that play (if 
+Adv. Rule IX is not in use, simply double the yardage outcome of the play, with the same 
+exceptions as stated in Adv. Rule IX, that is, no doubling for plays that are not modified with 
+the yardage factor). 
+RUN AND PASS DEFENSES 
+Although not themselves Wild Card Defenses, the Run (“R”) and Pass (“P”) defenses may be 
+freely employed when, and only when, a team is entitled to the Free Wild Card Defense (Adv. 
+Rule II-1). The Run and Pass defenses are similar to, and used in the same manner as a team’s six 
+regular defensive formations, except that they are the same for every team. The Pass defense is 
+
+called by placing a coin on the “Deep” square of the special chart; the Run defense is called by 
+placing a coin on the “Onside” square. 
+RUN DEFENSE 
+The Defensive Results = (0) on a roll of 1 against plays 1 – 4 and against play 5 that does not 
+result in an SOP or BLP. All other boxes are blank white boxes meaning “no change.” 
+PASS DEFENSE 
+The Defensive Results = INC (Black Box) on a roll of 1 against plays 7 – 9. All other boxes are 
+blank white boxes meaning “no change.” 
+CONDITIONAL RUN AND PASS DEFENSES 
+If the defensive team “guesses correctly,” there is no penalty for the use of the Run and Pass 
+defenses by a team not entitled to them. 
+The defensive team has “guessed correctly” if the offense uses a running play against Run or 
+uses a pass play against Pass; this is not affected by the defensive dice total. Any QR or QT is to 
+be treated as part of a pass play; the RZDZ play (Adv. Rule I-1) is to be treated according to the 
+offensive play from which the offensive result is finally chosen. Play 5 is treated as a Run if the 
+offense does not roll SOP or BLP, and as a pass if it does (even if the SOP or BLP results in a 
+QR or QT). 
+If a team uses the Run or Pass defenses when not entitled to do so, and guesses 
+INCORRECTLY, then the yardage factor is doubled for that play (if Adv. Rule II-1-A is not in 
+use, simply double the yardage outcome of the play, with the same exception stated in Adv. 
+Rule II-1-C). If the optional Conditional Wild Card method of Adv. Rule II-1-C-i is used, the 
+doubling penalty is replaced with a +3 in a green box. Also, if this optional rule is employed, 
+any team with an “XWC” code is not eligible to use the Run and Pass Defenses. 
+NICKEL ZONE DEFENSE 
+Players preferring lower scoring games, with more emphasis on the defense and the running plays, 
+may with to adopt the following Local Rule: 
+All teams will have the free and unconditional use, at all times and without penalty, of the 
+following Nickel Zone, or “Q” Defense: 
+• +2 (2 in a green box) on rolls of 1-5 against Plays 1-4, and against Play 5 without SOP or 
+• INC (or black box) on a dice roll of 1 (only) against Plays 7-9 
+• White boxes on all other rolls / plays. 
+The defense is employed just like one of the six regular defenses “A” through “F”, but is the same 
+for all teams. It is called by placing the play selection coin on the “Squib” block of the playing 
+board. It may be used at any time by any team, and there is no “doubling penalty involved. 
+RED ZONE DEFENSE 
+If the line of scrimmage is inside the defensive team’s 20-yard line, the defensive team may accept 
+a blank defensive result at any time prior to rolling the offensive and defensive dice; and the result 
+of an incorrect wild card shall be a blank white box. 
+ 
+ 
+
+Excel Game: Whenever the line of scrimmage is within the defense’s 20-yard line, after the 
+Formation and Play are selected, the choices will be displayed prior to the dice roll, and the 
+defensive player will be told the offensive play choice and given the option of selecting the Red 
+Zone Defense. 
+III. 
+KICKING OPTIONS 
+KICKOFF OPTIONS 
+Three types of kickoffs are commonly used in college football: deep, squib, and onside. The one 
+shown in the Special Team Charts is the deep kickoff; onside kickoffs were explained in Basic 
+Rule VI-8. If you wish to use a SQUIB KICKOFF simply announce your intention; the kick 
+automatically travels 40 yards, and the receiving team uses the Squib Kickoff Return Chart for its 
+return. 
+To introduce further strategy into the choice of kickoff, it can be done as follows. Prior to the 
+kickoff, the kicking and receiving teams secretly choose the type of kickoff they will use or expect 
+to receive (indicating the choice by placing a coin on the proper Kickoff Selection Space of their 
+Special Team Chart). The choices are then revealed, and the receiving team is rewarded or 
+penalized for the accuracy of its guess, according to the chart shown here (KT = kicking team, RT 
+= receiving team). 
+KT’s Choice 
+RT’s 
+Choice 
+ONSIDE* 
+Return = X 
+10 – 19 and 34 - 35 
+Return = Chart - 8 yards 
+30 yards 
+40 yards (except TD) 
+10 – 19 and 34 - 35 
+Return = Chart - 15 yards 
+20 yards 
+Return = DS 
+10 – 19 
+ 
+Excel Game: When starting a game, select Basic or Advanced in the Kickoff Selection Method 
+drop-down list to indicate whether the basic or advanced rules will be employed. If the Advanced 
+method is used, the defense chooses (guesses) the type of Kickoff expected in the Formation box, 
+prior to the offensive player choosing the Kickoff type. 
+PUNT OPTIONS 
+In addition to the normal punt procedure described in Basic Rule VI-5, the following punt 
+strategies may be employed. At any time, the punting team may cancel all asterisks (*) / daggers 
+(†) in its punt column, by so declaring just prior to the punt in question. 
+SHORT-DROP PUNTS 
+If the line of scrimmage is inside the 5-yard line of a team punting on any down, the defenders 
+are entitled to a Free All-Out Kick Rush (see Adv. Rule V-2). In addition, all asterisks (*) and 
+daggers (†) are deleted and all minus yardage returns are zero yard returns. 
+
+COFFIN-CORNER PUNTS 
+At the will of the kicking team, any amount of yardage may be subtracted from any kick. The 
+amount of yardage subtracted must be specified before any dice roll by either team, and may not 
+be altered thereafter. The yardage is subtracted from the yardage on the Special Team Chart, 
+before the ball is moved downfield; but no yardage is subtracted from a penalty, blocked kick, 
+or fumbled snap result. If 15 yards or more is subtracted from a punt, the punt is automatically 
+out of bounds (unless otherwise specified in advance by the punting team), and there can be no 
+return, fair catch (Adv. Rule IV-1-A), or roll yardage (Adv. Rule IV-1-B). 
+QUICK KICK 
+For all punts on 1st, 2nd, and 3rd downs, no Fakes or Blocks (FBO, Free All-Out Rush, and 
+SPBO) are allowed. In addition, no returns are allowed; and all Short Drop Punts hazards are 
+cancelled. 
+IV. 
+KICK RETURN OPTIONS 
+Following a punt (which crosses the line of scrimmage and remains in bounds) without a * or †, 
+the receiving team (RT) must either attempt to punt return, attempt a fair catch, or let the ball roll 
+toward its own End Zone. In the discussion below, the term “End of the Punt” refers to the point to 
+which the ball carried according to the printed punt yardage. 
+FAIR CATCH: This is attempted by rolling the offensive dice. 
+i. On any total except 13 or 35, the fair catch is successful, and the RT takes possession, 1st and 
+10, at the end of the punt. 
+ii. If the dice total is 13, the receiver has muffed the punt, and the RT must then roll its fumble 
+recovery to see which team gains possession, 1st and 10, at the end of the punt. Neither team is 
+permitted to advance a muffed punt. 
+iii. If the dice total is 35, the receiver has backed off from or missed the ball, and the kicking team 
+(KT) gains the roll option. The RT will then take possession, 1st and 10, either at the spot to 
+which the ball rolls (if the KT accepts the roll option) or the end of the punt (if the KT declines 
+the roll option). 
+LET THE BALL ROLL: This would be done by the RT in the hope that the ball would roll into 
+the End Zone for a touchback, and by the KT in an effort to down the ball just short of the RT’s 
+Goal Line. To let the ball roll, roll the offensive dice and subtract 15 from the total; the ball is 
+considered to roll dead this many yards beyond the end of the punt (totals between 10 and 14 
+correspond to a backward bounce and negative roll yardage). 
+If a punt (which crosses the line of scrimmage and remains in bounds) is marked by a * or †, 
+then the RT is allowed no return. They must either attempt a fair catch, or allow the KT the roll 
+option, exactly as in (a)-(iii) above. 
+Punts (and kickoffs) which carry or roll to or beyond the Goal Line may be treated as automatic 
+touchbacks by the RT. 
+ 
+ 
+
+KICKOFF RETURNS 
+On deep kickoffs, as with returnable punts, the RT must either try a return, attempt a fair catch, 
+or let the ball roll. 
+On squib kickoffs, no fair catch is allowed. 
+If the RT allows a kickoff to roll, and it fails to reach or cross the End Line, it is treated as a 
+muff. The RT must roll its fumble recovery to see which team gains possession of the live free 
+ball, 1st and 10, at the spot to which the ball rolled. 
+Kickoffs which carry or roll to or beyond the End Line are to be treated as automatic touchbacks 
+by the RT. 
+FAKE AND BLOCK OPTIONS 
+FAKE OPTION 
+On punts, field goal attempts, and extra points, the kicking team (KT) may designate any one dice 
+total, 10 through 39, as a FAKE-KICK NUMBER (FK #). Fake numbers called during a 
+scrimmage kick play must be chosen from offensive dice rolls corresponding to the following 
+values on the KT’s Special Team chart: 
+• Punt entries of T2, KO, DEF penalties, or 40 or more yards; 
+• FG entries of T1, KO, DEF penalties, or simple (not variable) yardage entries sufficient for 
+success; and 
+• Extra Point entries representing a successful try. 
+The fake may be any of plays 1 through 9, and must be run against a blank defense. The number 
+must be chosen prior to the first dice roll, and may not be changed thereafter. If the receiving team 
+(RT) employs the All-Out Kick Rush of Adv. Rule V-2, the KT is allowed to designate THREE 
+different dice totals as FK #’s. See Adv. Rule V-2. 
+When the KT rolls the offensive dice to attempt the kick, the result on the Special Team Chart is 
+read as usual (opposite the KT dice total) if any total other than the FK # or the BK # (see Adv. 
+Rule V-2 and V-3) is rolled. If, however, the KT dice total matches the FK #, no kick takes 
+place; the result on the Special Team Chart is cancelled; and the KT MUST now attempt to run 
+or pass for first down yardage. Ordinarily, only KT must choose one of their 9 regular offensive 
+plays for this purpose; however, if the RT employed the All-Out Kick Rush of Adv. Rule V-2, 
+then the KT is also entitled to use a free and unopposed RZDZ play (as in Adv. Rule I-1, except 
+that the defense does not take part at all). 
+If the FK # is rolled, the KT then announces which of the allowable plays it will use for the fake 
+kick play; rolls and totals the offensive dice again; and reads the result of that play from their 
+Offensive Team Chart. The defensive result is automatically a white box, (“No Change”), but 
+the Yardage Factor (Adv. Rule IX-1) is still applicable. The final result is then marked as would 
+be any ordinary offensive play, and the next down is begun as usual. 
+ALL-OUT KICK RUSH 
+The RT may attempt to block any punt or field goal attempt. To do so, they must announce this 
+intention in advance, before any commitments by the KT. The KT may then decide to change 
+
+any or all conditions of the kick, or even not to kick at all. The RT, however, is now committed 
+to the block attempt. 
+After all intentions are announced, including the designation of three FK #’s (see Adv. Rule 
+V-1) by the KT, the RECEIVING TEAM rolls the OFFENSIVE dice. The resulting dice total, 
+and the two numbers on either side of it, are the Blocked Kick Numbers (BK #’s) (for example, 
+if the RT rolls 32, then the BK #’s are 31, 32 and 33). The KT then rolls the offensive dice to 
+attempt the kick. If the KT dice total is any total other than a BK # or a FK #, the Special Team 
+Chart is read as usual, opposite the KT dice total. If, however, the KT rolls a BK # (which is not 
+also a FK #) the kick is BLOCKED, DS yards behind the line of scrimmage for a field goal 
+attempt, or X yards behind the line of scrimmage for a punt; refer to Basic Rule VI-10 for the 
+sequel. 
+The RT must bear the following four disadvantages as the price for mounting the All Out Kick 
+Rush. 
+i. The KT is allowed three FK #’s, rather than one. 
+ii. The KT is allowed to use a free and unopposed RZDZ play if they roll a FK #. 
+iii. All offensive penalty boxes in the kick column are instead counted as DEF 5 penalties. 
+iv. If the kick crosses the line of scrimmage, the RT is allowed no return or fair catch, and the KT is 
+granted the roll option as in Adv. Rule IV-1-B. 
+v. If the KT is attempting a Short Drop Punt (Adv. Rule II-2-A), the RT may employ the All-Out 
+Kick Rush without bearing any of the four disadvantages in (C) above; only one FK# may be 
+called. 
+FREE BLOCK OPTION 
+Certain teams, in recognition of their outstanding kick rush, are allowed a FREE BLOCK 
+OPTION. These teams are identified by the letters “FBO” or “SPBO” printed black on a red field, 
+in the upper left comer of their Defensive Team Charts. 
+Teams with the Free Block Option are permitted to attempt to block any scrimmage kick. The 
+procedure is the same as for the All Out Kick Rush of Adv. Rule V-2, with three major 
+differences: 
+There is just one, and not three, BK # in effect (only the EXACT dice total rolled by the RT is a 
+BK#). 
+The RT suffers none of the four disadvantages of Adv. Rule V-2-C; only one FK # may be 
+called, and the choice of FK #’s is limited based on Adv. Rule V-1. 
+These, and ONLY these teams may attempt to block extra points tries. 
+RULINGS 
+All FK # and BK # remain in force until the kick attempt is either executed or abandoned. 
+A FK # overrules a BK #; that is, if the KT dice total matches both a FK # and a BK #, no kick 
+occurs, and a fake kick play takes place (Adv. Rule V-1). This applies to the Free Block Option 
+as well as to the All Out Kick Rush. 
+No team may employ the All Out Kick Rush against extra point tries. 
+
+If a team entitled to the Free Block Option employs the All Out Kick Rush, they must bear the 
+same disadvantages as any other team. 
+If an All Out Kick Rush is mounted against a hurried kick (Adv. Rule I-4-A), ALL penalty 
+boxes are counted as false-start fouls against the KT. 
+VI. 
+WEATHER EFFECTS 
+For all outdoor stadiums, precipitation and wind may be a factor. The conditions may be 
+determined by agreement or by rolling the Defensive Dice and referring to the following table. 
+Precipitation 
+Wind 
+PRECIPITATION 
+i. CONDITION A: GOOD to EXCELLENT: Clear skies. 
+No Change. 
+ii. CONDITION B: BAD: Light rain, drizzle, or snow flurries, cold and icy. 
+RUN – minus 1 to all gains (except TDs) 
+PASS – minus 3 to all gains (except TDs) 
+KICKOFF RETURNS – minus 5 to all gains (except TDs) 
+ 
+– minus 2 to all gains (except TDs) 
+iii. CONDITION C: VERY BAD – Lots of rain & mud or lots of snow, blizzard conditions. 
+RUN – minus 2 to all gains (except TDs) 
+PASS – minus 5 to all gains (except TDs) 
+KICKOFF RETURNS – minus 10 to all gains (except TDs) 
+ 
+– minus 5 to all gains (except TDs) 
+WIND CONDITIONS 
+i. CONDITION A: NO WINDS 
+Effects: No change. 
+ii. CONDITION B: LIGHT WINDS 
+KICKOFFS & PUNTS – minus 5 against & plus 5 with. 
+FIELD-GOAL ATTEMPTS – minus 5 against; nothing with. 
+ 
+ 
+ 
+
+iii. CONDITION C: STRONG WINDS 
+MEDIUM & LONG PASSES 
+– completions only; #’s 1 thru 20 are all incomplete against 
+the wind. 
+KICKOFFS AND PUNTS – minus 10 against & plus 10 with. 
+FIELD-GOAL ATTEMPTS – minus 10 against & plus 5 with. 
+Since wind conditions can change rather quickly; using the chart below, roll to see if the wind 
+conditions have worsened (W), improved (I), or remained unchanged (U) for the second half: 
+Wind 
+U 
+I 
+W 
+All #’s, results, etc., in parenthesis still take priority. ALSO: these weather & wind conditions 
+can be used at any time, depending on the game, where it’s supposed to be played and simply 
+when the user wants to use it. 
+The Excel Game does not incorporate weather effects. 
+VII. 
+ALTERNATE TIMING METHOD 
+The total time for a play (from the snap until the snap for the succeeding play) can be broken 
+down into three parts: the “Action Time” (AT), the “Return Time” (RT), and the “Dead Time” 
+(DT). Thus, the total time (TT) may be indicated by: 
+TT = AT + RT + DT. 
+The “Action Time” refers to the live-ball interval from the snap until the ball is dead or until the 
+other team gains possession. 
+The “Return Time” refers to the time after a change of possession occurs on a play to the end of 
+the play or another change of possession occurs. 
+The “Dead Ball Time” DT is the time between the dead-ball whistle and the snap of the 
+succeeding play, during which the game clock is running. In this interval, the players are unpiled, 
+the ball is respotted, the down and yardage indicators are reset, the teams huddle, and the 
+formations are set for the next snap. The DT will depend primarily on the nature of the initiating 
+play and the intentions of the two teams. The timing differences of college and college ball must 
+also be considered. Another important distinction to note is that between “Continuous” and 
+“Interrupted” plays. The game clock runs without Interruption on Continuous plays, while on 
+Interrupted plays, it is stopped temporarily and then restarted on the referee’s ready signal 
+(windmill action of the arm). “Interrupted” plays include the following: plays on which first 
+down yardage is made (clock stopped for the chains to be reset in college football), and plays 
+involving a quarterback sack or a fumble not advanced. The table of AT, RT, and DT times is on 
+the following page: 
+
+Action 
+Elapsed Time 
+Action Times 
+Runs and Completed Passes 
+5+T seconds 
+Incomplete Passes 
+5 seconds 
+QB Sneaks or QB Flops 
+3 seconds 
+Punts 
+6+R seconds 
+FG Attempts 
+2+T seconds 
+Kickoffs, PAT Attempts 
+0 seconds 
+Razzle-Dazzle Play 
+Add 2 additional seconds 
+Fumble Occurs 
+Add 2 additional seconds 
+Intercepted Passes 
+Count as completed pass of equal yardage 
+BK or Fumbled Kick Snap 
+5+T seconds until recovery 
+Hail Mary 
+3+T seconds 
+Onside Kickoffs 
+3 sec 
+Squib Kickoffs 
+5 sec 
+Deep Kickoffs 
+5 + 1/2R sec; 
+where R is the roll yardage of Adv. Rule IV-2-C. 
+Return Times 
+No Return Involved, or Kick Out of Bounds 
+0 sec 
+Fair Catches and Touchbacks 
+1 sec 
+Actual Return Attempted 
+3+T sec 
+For Occurrence of Muff or Fumble 
+Add 2 Additional Seconds 
+Dead Times 
+Referee Timeout Plays 
+0 sec 
+Continuous Plays 
+Interrupted Plays 
+Continuous Play, Time Conserved 
+Interrupted Play, Time Conserved 
+Continuous Play, Timeout called instantly 
+Interrupted Play, Timeout called instantly 
+Delayed Timeout 
+Intentional Delay Penalty Taken 
+ADD 10 sec 
+ 
+The “T” referred to above is the “Tens Digit” of the net yardage covered (or in the case of FG 
+attempts, the yard line of scrimmage). Thus, a 26-yard gain on a run or pass would require 7 
+seconds AT, since T=2; a BK-18 on a punt attempt would use up 6 seconds from snap to 
+recovery, since T=1; a 53-yard FG attempt (line of scrimmage at the 36) would require 5 seconds 
+AT, since T=3. 
+ 
+The “R” in the Punt entry refers to the number of yards the ball is allowed to roll after hitting the 
+ground. 
+ 
+
+The “Referee Timeout Plays” are those on which the clock stops automatically when the ball is 
+whistled dead: incompletions, out of bounds, change of possession plays, scoring plays, and 
+touchbacks, and any play involving a penalty. The “Time Conserved” notation refers to the 
+option of Adv. Rule I-6-A; the decision on this is made after the result of the current play is 
+known, and affects the result of the next play. If the throwaway pass of Adv. Rule I-6-B is 
+employed, the Time Conserved DT figures above are used for the sum total of the DT time of the 
+current play and the time consumed by the throwaway play. 
+Team A (the one putting the ball in play) gains 6-yards and lets the clock run (but does not 
+take a delay penalty). AT=5; RT=0; DT=25; TT=30 
+Team A gains 6-yards and lets the clock run, taking an intentional delay penalty. 
+AT=5; RT=0; DT=35; TT=40 
+Team A gains 6-yards, then “hurries” the next snap to conserve time. AT=5; RT=0; DT=10; 
+TT=15 
+Team A gains 6-yards, which is exact first down yardage, then throws the ball away 
+intentionally to stop the clock. AT=5; RT=0; DT=0; TT=5 
+Team A loses 13-yards, going out of bounds. AT=6; RT=0; DT=0; TT=6 
+Team A’s quarterback is sacked for a 10-yard loss; he fumbles and B recovers; B then 
+returns the fumble 37-yards. AT=8; RT=6; DT=0; TT=14 
+With the score tied, A has 2nd and 10 at their 30. A gains 5-yards on a pass play, bringing up 
+3rd and 5. After it becomes apparent A does not intend to call timeout, Team B calls timeout. 
+AT=5; RT=0; DT=10; TT=15 
+Team A is leading and attempts to run out the clock with a Quarterback Flop. Team B, 
+instantly calls timeout. AT=3; RT=0; DT=2; TT=5 
+Team A is leading and attempts to run out the clock with a Quarterback Flop. Team B is out 
+of timeouts, and Team A takes an intentional delay penalty. AT=3; RT=0; DT=35; TT=38 
+Team A’s quarterback is sacked for a 7-yard loss, and neither team calls timeout or 
+conserves time. AT=5; RT=0; DT=25; TT=30 
+Team A punts for 34-yards; the ball is returned 18-yards by Team B, then fumbled but 
+recovered by Team B. AT=6; RT=6; DT=0; TT=12 
+Team A’s 47-yard (LOS=30) FG attempt is blocked (BK-7). Team A recovers on a roll of 13, 
+and attempts to advance the ball using Pass #9. The passer is sacked for a further loss of 11-
+yards and A loses the ball on downs. AT=11; RT=0; DT=0; TT=11 
+Team A scores on an 87-yard pass play. AT=13; RT=0; DT=0; TT=13 
+Team A’s Kickoff is returned 102-Yards for a touchdown. AT=0; RT=13; DT=0; TT=13 
+Team A’s attempted long pass is intercepted 38-yards downfield, and returned 51-yards by 
+Team B; there is also a clipping penalty on the return. AT=8; RT=8; DT=0; TT=16 
+Team A gains 48-yards on a Razzle-Dazzle play, then conserves time prior to the next snap. 
+AT=11; RT=0; DT=10; TT=21 
+Team A scores on a Quarterback Sneak. AT=3; RT=0; DT=0; TT=3 
+
+Team A gains 14-yards and a first down, but lets the clock run. AT=6; RT=0; DT=15 
+(because the play clock is Interrupted while the first down marker is set); TT=21 
+Team A tries to run out the clock by taking an intentional safety on 4th down; to do so, the 
+quarterback starts from the line of scrimmage (A’s 35) and runs backwards clear out of his 
+own End Zone. AT=9; RT=0; DT=0; TT=9 
+ 
+The computations take a while to get accustomed to, but fortunately most plays you encounter 
+are of the garden variety (Ex’s. #1, 5, 10, 13, 15, 17, 18) and do not require any extraordinary 
+cerebration. 
+ 
+One note in regard to taking the delay penalty to consume time: for reasons of equity, a player 
+may not take just a part of the extra 10 seconds and avoid the penalty while consuming the time. 
+The only exception to this occurs if time expires during or at the end of the extra 10 seconds; in 
+this event, no penalty is called and the half is over. 
+ 
+WHY NOT USE IT FOR THE WHOLE GAME? 
+The timing system described is really only intended for use inside the two-minute warnings 
+(actually, college football has no automatic timeout at the 2-minute mark; some players prefer to 
+“invent” one by assuming that a TV timeout is imposed at this point). However, there is no 
+intrinsic reason why it could not be used throughout the entire game – but there are a couple of 
+practical arguments against this- 
+(1) The system is considerably more complicated than the ordinary timing system; and most 
+players consider its use, justified only when playing time is critical. Its exclusive use may 
+slow down play considerably. 
+(2) By actual comparison with real game timing statistics, one can show that the efficiency of 
+the above timing system is somewhat exaggerated; that is, teams will actually get in more 
+plays under this system than they do in reality. This is not primarily due to any errors in the 
+basic assumed times but rather due to the inefficiency of real-life teams. You may have 
+noticed in televised, games how frequently players, coaches and sometimes even officials 
+allow the game-clock to run when either common sense or the actual rules tells them to call 
+timeout. Use of the system over an entire game might result in a noticeable exaggeration in 
+the number of plays run. 
+In connection with (2), note the preferences of Dr. Nicely’s playtesters. He reported that they 
+have preferred to use the regular timing system during the first 28 minutes of each half, with two 
+modifications: (A) 10 seconds are added to the duration of each play not terminated by a 
+referee’s timeout (thus 10 second plays are counted as 20; 20 sec plays as 30; 30 sec plays as 
+40); and (B) all out of bounds marks are ignored. This procedure actually over compensates for 
+the slight error introduced by (2) within the 2-minute warnings, resulting in fewer total plays 
+than the known norm for a game (between 75 and 90% of normal). This tends to produce slightly 
+shorter, speedier, and closer than average games – all effects which they enjoy. This is strictly a 
+matter of player preference. 
+The Excel Game does not incorporate the Alternate Timing Method. Experience has shown that 
+the tendency in Bowl Bound for the game to produce too many plays compared to real life is 
+largely mitigated by the modification to the Timing Chart included in these rules and the Excel 
+Game – that plays out of bounds are timed at 10 seconds only in the last 2 minutes of the second 
+quarter and the last 5 minutes of the fourth quarter. 
+
+VIII. POWER RATINGS 
+In the upper right corner of each Offensive Team Chart, in the box above the B and QT columns, 
+appears a number (for example, the number 200 +/- 2 on the 1966 Notre Dame chart, and the 
+number 199 +/- 2 on the 1987 Florida State chart). This is a measure of the strength of the team 
+called its POWER RATING. If the team is playing on its home field, add the +/- number to the 
+base number to arrive at its Adjusted Power Rating. If playing on its opponent’s home field, 
+subtract the +/- number from the base number. If the game is played on a neutral field, simply 
+use the base number. 
+ 
+Note that on the charts copyrighted 1979 and before, as originally published by Avalon Hill, Power 
+Ratings were not printed. Power Ratings for the teams are shown in the Power Ratings and Yardage 
+Factors Chart. The chart provides two different sets of power ratings – one based on the scale 
+developed by Dr. Thomas R. Nicely (in its most recent form), and the other based on a different scale 
+developed by Eddie Mays, the creator of many privately printed Bowlbound charts. Power Ratings 
+using both scales for most privately published charts (Steven Jackson & Donald Grayson, Eddie 
+Mays, 
+Matt 
+Floray) 
+are 
+available 
+on 
+request 
+by 
+emailing 
+the 
+author 
+at 
+august_helmbright@yahoo.com. 
+POINT SPREADS 
+First of all the power ratings provide a quantitative method of determining the favored team in a 
+given game. This is done by subtracting the smaller power rating from the larger one; the 
+difference is the POINT SPREAD, the margin by which the team with the higher power rating is 
+favored over the team with the lower power rating. The principal figures are for neutral-field play. 
+For the home team, add the amounts indicated; for the visiting team, subtract the indicated 
+amounts. The power rating differential determines the spot (point spread). 
+ 
+The point spread can be used to put two players on an even basis, regardless of the relative 
+strengths of their teams. After it is decided which two teams are to play (by schedule, by choice, or 
+by lot), the favorite and the point spread are calculated from the power ratings. The players then 
+choose their respective teams (by mutual agreement, or by rolling the offensive dice for high total) 
+with the following point in mind: IN ORDER TO SCORE A CLEAR-CUT VICTORY, THE 
+PLAYER WITH THE FAVORED TEAM MUST BEAT THE POINT SPREAD: that is, he must 
+not only win, his margin of victory must exceed the point spread. A quantitative measure of the 
+players’ performances can be obtained by use of the RATING POINTS explained below. 
+ 
+POINT SPREAD EXAMPLE: 1987 Florida State is playing at 1966 Notre Dame. Florida State’s 
+adjusted Power Rating is 197 (199 minus 2), while Notre Dame’s is 202 (200 plus 2). Notre Dame 
+is a 5-point favorite. 
+RATING POINTS: 
+When the point spread is in use for a game, RATING POINTS are assigned to each player at the 
+end of the game, depending on the outcome. In the instructions and examples following, Player A 
+is the one coaching the favored team and Player B is the one coaching the underdog. 
+i. If the favored team wins by more than the point spread, Player A receives 10 rating points and 
+Player B receives zero. 
+ii. If the favored team wins by the point spread or less, each player receives 5 rating points. 
+
+iii. If the two teams tie, Player B receives 10 rating points. Player A receives zero rating points, if 
+the point spread was 10 or less; if the point spread was greater than 10, Player A receives 
+(10-point spread) rating points - a NEGATIVE score. 
+iv. If the underdog wins, Player B receives (10 + point spread) rating points. Player A is scored as 
+in the case of a tie, (iii) above. 
+CUMULATIVE RATINGS 
+To make the above system most meaningful, a record should be kept of the number of games 
+played and total rating points earned by each player. For each player, a RATING PERCENTAGE, 
+similar to a baseball batting average, can then be calculated: Rating Percentage = (total Rating 
+Points) divided by (10 X Total Number of Games Played). This is the ultimate measure of your 
+all-around skill at BOWLBOUND 
+TRACKING THE FAVORITE 
+A second use of the point spread is to simulate the “intangibles” and “lucky bounces” of college 
+football, factors which defy statistical simulation but which are of great importance in actual play. 
+This can be done as follows: 
+Whenever a team is LEADING the point spread, they are not allowed the Free Wild Card 
+Defense (but may employ the Conditional Wild Card; see Adv. Rule II-1). 
+Whenever a team is TRAILING the point spread, they are entitled to the Free Wild Card 
+Defense (see Adv. Rule II-1). 
+If the game score should match the point spread EXACTLY, both teams are entitled to the Free 
+Wild Card Defense. 
+Note that the Yardage Factor and Wild Card status of a team may change several times in the 
+course of a game, and will often change whenever a team scores. 
+POWER RATING RECOMMENDATIONS 
+ 
+IT IS STRONGLY RECOMMENDED THAT WHEN POWER RATINGS ARE IN USE, ADV. 
+RULES II-1, II-2, VIII (especially part 4), and IX (see below) BE EMPLOYED AS A UNIT. This 
+is by far the most effective method for simulating the proper relative playing strengths of the 
+teams, and this is particularly true when older charts are involved. 
+IX. 
+YARDAGE FACTORS 
+Yardage factors simulate the tendency of real-life games to gravitate toward the point spread. 
+There are two Yardage Factor methods. 
+ 
+Full Feature Method 
+ 
+The yardage factors compensation differential determines the initial yardage factor (percentage) 
+advantage (IYFA) granted to one team over the other. Yardage Factors for each team are printed 
+on the Power Ratings and Yardage Factors Chart. A team’s YF advantage is reduced by 4% for 
+each point they are in the lead; alternatively, a team’s YF disadvantage is increased by 4% for each 
+point they are in the lead. 
+
+ 
+EXAMPLE: 1966 Notre Dame at 1940 Stanford. Adjusted power ratings are Notre Dame 198 [that 
+is, 200 base PR minus 2 for playing at the opponent’s home field] and Stanford 202 [that is, 200 
+base PR plus 2 for playing at home]; thus, Stanford is a 4-point favorite. Adjusted yardage factor 
+compensation ratings are Notre Dame 89.5% [98.5% minus 8%] and Stanford 113.5% [105.5% 
+plus 8%]. Thus, at the beginning of the game, Stanford receives a 124% YF [100% plus the excess 
+of 113.5% over 98.5%] and Notre Dame receives 100%. Now suppose Notre Dame takes a 7-0 
+lead. Then Stanford receives an additional 7*4=28% YF advantage (152% for Stanford and 100% 
+for Notre Dame). On the other hand, if Stanford takes a 7-0 lead, their YF advantage becomes 24% 
+minus 7*4%, which equals -4%, or a 4% disadvantage. Therefore, the adjusted YFs are then 
+Stanford 100% and Notre Dame 104%. 
+ 
+The general scoring level can be adjusted (if desired) by changing the base yardage factor from 
+100% to a higher value (for more scoring) or a lower value (for less scoring). To illustrate, if the 
+base yardage factor is changed to 90% in the above example, at the beginning of the game, 
+Stanford receives a 114% YF and Notre Dame receives a 90% YF. A second method for reducing 
+the scoring level is to use part of the yardage factor differential to reduce the disadvantaed team’s 
+yardage factor below the base yardage factor; for example, some groups like to use 30% of the 
+differential for this purposes. At the beginning of the game in the example above, under this 
+scheme, Standord would received 116.8% (Base + 0.7*Differential), while Notre Dame would 
+receive 92.85 (Base-0.3*Differential). To emphasize the effect of the yardage factors, always 
+round fractional yards toward the 50 yard line. 
+ 
+EXAMPLE 
+Team A is receiving a 99% yardage factor, has 4th and goal at B’s 1, and rolls a 1-yard gain. The 
+gain converts to 0.9 yards, placing the ball at B’s 0.01, between the goal and the 1. The ball is 
+spotted at the 1 and B takes over on downs. (If on the other side of the 50, even a 0.01 would round 
+up to 1.) The yardage factor compensation ratings may be adjusted to reflect the style of play of 
+your particular group. 
+ 
+DO NOT apply yardage factors to any of the following results: (a) negative yardage final results; 
+(b) penalty results; (c) quarterback sneaks; and (d) special team entries. 
+ 
+Fractional results are always rounded toward the 50 yard line. For example, a Final Result of 2.1 
+yards is rounded up to 3 yards if the play ends on the offensive player’s side of midfield, while a 
+Final Result of 2.9 yards is rounded down to 2 yards if the play ends on the defensive player’s side 
+of midfield. 
+ 
+Simplified Method 
+ 
+Players familiar with Paydirt!, Avalon Hill’s game of professional football, may wish to use the 
+method that was in use for Bowlbound prior to the creation of the full-feature method described 
+above. This method is very much like the method used in Paydirt! In this Simplified Method, 
+yardage factors are applied in a similar manner as in the Full Feature Method, except that there is 
+less variation in yardage factors throughout the game. 
+ 
+
+Each team is assigned an Upper and a Lower yardage factor. In the case of the non-Ivy League 
+teams in the Bowlbound Set I (29 teams from the years 1960 through 1970 – these teams are 
+identified on the Power Ratings and Yardage Factors Chart), the Upper Yardage Factor is 125% 
+and the Lower Yardage Factor is 105%. The 3 Ivy League Set I teams (Dartmouth, Princeton and 
+Yale) have an Upper Yardage Factor of 105% and a Lower Yardage Factor of 85%. For the Set II 
+teams (20 teams from 1940 through 1959 and 1971 through 1978), the Upper Yardage Factor is 
+107% and the Lower Yardage Factor is 87%. All other teams, unless indicated otherwise (certain 
+privately created team charts, particularly those that are not Division I-A), the Upper Yardage 
+Factor is 100% and the Lower Yardage Factor is 80%. Whenever a team is ahead of the Point 
+Spread, it uses the Lower Yardage Factor in all situations for which yardage factors apply (same as 
+in the Full Feature Method). Whenever the team is behind the Point Spread, it uses the Upper 
+Yardage Factor. If the score is exactly equal to the Point Spread, each team uses its respective 
+Lower Yardage Factor. As with the Full Feature Method, the base can be adjusted up or down. For 
+example, if the base is adjusted from 100% to 85%, the Upper and Lower Yardage Factors for the 
+non-Ivy League Set I teams are 110% and 90%, respectively. 
+The Excel Game incorporates three options, selected in the YF drop-down list: Full (Full 
+Method), Simple (Simplified Method), and None. The Base drop-down list allows a player using 
+yardage factors to adjust the base yardage factor in increments of 5 percentage points anywhere 
+from 60% to 125%. Many Bowlbound players have found that if the Full Feature Method is 
+used, adjusting the base to 90% produces the most realistic results with most teams in terms of 
+total points scored per game. Even if players generally prefer not to use Yardage Factors, it is 
+strongly recommended that at least the Simplified Method be used when playing a team from Set 
+I against a team from another set, because the older Set I team charts are somewhat “out of 
+balance” with the newer charts. 
+The Power Ratings and Yardage Factors Table is reproduced at the end of this book, 
+immediately following the Priority and Play Selection Charts. 
+
+BOWLBOUND Legend 
+# or -# = Number of yards gained or lost 
+(#) or (-#) = On offense, overrides all defensive results except [#] 
+(#) or (-#) = On defense, overrides all offensive results except (#) or penalties 
+A Circle is used on older charts in place of ( ) but the meaning is the same 
+[#] or [-#] = Defense only, overrides all offensive results except penalties 
+* = Play ended out of bounds – for time keeping purposes 
+† = Same as * 
+TD or (TD) or [TD] = Touchdown 
+DS or –DS = Variable yardage based on dice roll – default value of 6 yards 
+X or -X= Variable yardage based on dice roll – default value of 12 yards 
+T0 = Same as X 
+T1 = Variable yardage based on dice roll – default value of 28 yards 
+T2 = Variable yardage based on dice roll – default value of 55 yards 
+T3 = Variable yardage based on dice roll – default value of 83 yards 
+SOP – Sprint Out Pass, used on the Option Play (Play 5), indicating a re-roll of the offensive dice under Play 7 
+BLP – Bootleg Pass, used on the Option Play, indicating a re-roll of the offensive dice under Play 8 
+Off # = Offensive penalty for # of yards 
+Off R = Variable yardage offensive penalty – default of 10 yards, used on returns only 
+Off S = Variable yardage offensive penalty – default value of 5 yards 
+Def # = Defensive penalty for # of yards 
+Def R = Variable yardage defensive penalty – default of 15 yards – Used on returns only 
+Def S = Variable yardage defensive penalty – default value of 5 yards 
+PI # = Pass Interference on the defense at # of yards down the field 
+F = Fumble 
+F +# or F -# = Fumble at # of yards down field or behind the line of scrimmage 
+INC = Incomplete Pass 
+INT # or INT -# = Interception at # of yards down the field or behind line of scrimmage 
+B = Breakaway 
+QR = Quarterback Runs 
+QT = Quarterback Trapped 
+NG = No Good – Field Goal use only 
+BK -# = Kick blocked at # of yards behind line of scrimmage, Field Goals and Punts only 
+FG or FG* = Used in the Punt column only, means a shanked Punt. Use FG Column 
+KO or KO* = Used in Punt column only, means a long Punt. Use Kickoff Column 
+Empty white box = no gain or loss 
+Empty black box = incomplete pass 
+* can appear on any offensive play or Punt. Examples: 
+10* = 10 yard gain, out of bounds at end of play 
+T2* = T2 yard gain, out of bounds at end of play 
+(-5)* = -5 yards, out of bounds 
+* = No gain, out of bounds 
+ 
+
+Combinations can be used. For example: 
+PI X = Pass Interference at X number of yards 
+F +T1 = Fumble at T1 yards down the field 
+F –DS = Fumble at DS yards behind the line of scrimmage 
+
+*Applicable only during the last 2 
+minutes of the 2nd quarter and 
+the last 5 minutes of the 4th 
+quarter. At all other times, ignore 
+the Out of Bounds designation on 
+all non-kicking plays.
+PLAY
+TIME 
+(in seconds)
+If a play falls under more than 
+1 type, use the shortest time.
+DEFENSIVE PLAY RESULTS
+TIMING CHART:
+# or 
+F DEF 
+EZ
+OFF. 
+KICKOFF SELECTION
+SOP 
+If the Option Play results in an SOP or BLP, the defensive result is automatically 
+overruled, unless the Wild Card Defense is in use. Offense rolls again and consults 
+Play 7 or Play 8 for the Final Result of the Play.
+DEFENSIVE FORMATIONS
+OFFENSIVE PLAY RESULTS
+PEN
+Plays followed by 
+a timeout
+10*
+All plays involving 
+a penalty (even if 
+not accepted)
+Plays involving, or 
+followed by, a 
+change of 
+possesion
+All plays which 
+result in a first 
+down
+All running plays 
+and completed 
+passes
+Kickoffs not 
+returned 
+All Extra Point 
+Attemps
+There is no Two-
+Minute Warning in 
+College Football
+ON SIDE
+P
+F
+QB Sneak
+BOWL BOUND PRIORITY CHART
+Incomplete 
+passes
+RZDZ
+OFF, DEF & PI Penalties always take priority over all Defensive Results
+Plays Out of 
+Bounds
+All scoring plays
+D
+E
+R
+Touchbacks
+Q
+OFFENSIVE PLAY (AND DEFENSIVE WILDCARD) SELECTION
+
+DS
+X
+T1
+T2
+T3
+PI #
+BK -#
+FG
+OFF #
+NG
+W
+FBO
+DEF 15
+SPBO
+SOP
+OFF 15
+-DS
+-X
+*
+†
+KO
+F +10
+KICKOFF 
+RETURN
+# on 
+dice
+Squib KO 
+Return
+KT’s Choice
+CHART LEGEND
+# of Off Yards Gained. # of Yards Kick Travels
+Defense: Allows Run or Pass for # of Yards
+Offense: Forces Offensive Gain for # of Yards
+Defensive Pass Interference Pen # yds Downfield
+Play Out Of Bounds. Punt Not Returned
+Same as *
+Defense Allows Run or Pass for Touchdown
+Return = X
+Return= Chart (not to 
+exceed
+40 yards, except TD)
+and 34-35
+and 34-35
+Return = Chart - 15 yards
+(not to exceed 20 yards)
+Return= DS
+Return = Chart - 8 yards
+(not to exceed 30 yards)
+# Of Offensive Yards Lost. PAT Attempt Fails
+Defense - Forces # of Yards Lost Upon Offense
+Defense - Forces # of Yards Lost Upon Offense
+Quarterback Trapped
+Booming Punt. Use Kickoff Column For Yardage
+KICKOFF SELECTION TABLE (advanced rules)
+RT’s Choice
+Defense: Allows Run or Pass for # of Yards
+Variable Yards Gained - Roll Off Dice 2 Times
+Quarterback Runs
+Offensive Penalty # yds Downfield
+Incomplete Pass
+No Gain. No Change
+Defensive Penalty # yds Downfield
+Variable Yards Lost - 40 minus Off Dice Total
+Variable Yards Lost - Direct Sum of Off Dice
+Extra Point Attempt Good
+Breakaway
+Touchdown
+Intercepted Pass # of Yards Downfield
+Fumble # of Yards Downfield
+Blocked Kick. Ball Rolls # of yds Behind Line
+Team Entitled to Free Block Option
+Team Entitled to Free Block Option
+Shanked Punt. Use Field Goal Column For Yardage
+Field Goal or Extra Point Attempt Fails
+Team Allowed Use of Wild Card Defense
+Variable Yards Gained - Direct Sum of Off Dice
+KICKOFF OPTIONS (basic rules)
+ONSIDE: Ball travels 12 yards. Kicking Team rolls 
+offensive dice. Kicking Team recovers on totals of 13-
+20, inclusive. Receiving Team recovers on any other 
+dice total. No Return or Advance allowed.
+SQUIB: Ball travels 40 yards. Receiving team rolls 
+offensive dice and consults Squib Kickoff Return 
+Column at right for return yardage.
+Variable Yards Gained - 40 minus Off Dice Total
+Sprint-Out Pass Play
+Bootleg Pass Play
+Variable Yards Gained - Roll Off Dice for Total
+Defense Allows Run or Pass for Touchdown
+Variable Yards Gained - Roll Off Dice 3 Times
+
+Bowlbound
+Power Ratings and Yardage Factors
+School
+Year
+(Nicely)
+(Mays)
+Full Feature
+YF
+Upper YF
+Lower YF
+Set
+Stanford
+1940
+125.5% ± 8%
+Army
+1945
+86.5% ± 8%
+1947
+248.5 ± 2
+91% ± 8%
+Maryland
+1951
+132% ± 8%
+1951
+104.5% ± 8%
+Georgia Tech
+1952
+252.5 ± 2
+80.5% ± 8%
+Michigan State
+1952
+81.5% ± 8%
+Ohio State
+1954
+138% ± 8%
+1954
+246 ± 2
+48.5% ± 12%
+Oklahoma
+1955
+107% ± 8%
+Auburn
+1957
+80% ± 8%
+LSU
+1958
+253.5 ± 2
+150.5% ± 8%
+Syracuse
+1959
+82.5% ± 8%
+Minnesota
+1960
+239.5 ± 2
+112% ± 8%
+Washington
+1960
+242 ± 2
+158.5% ± 8%
+Mississippi
+1961
+246 ± 2
+172% ± 8%
+Wisconsin
+1962
+149% ± 8%
+Navy
+1963
+102% ± 8%
+Princeton
+1964
+243 ± 2
+22% ± 8%
+1965
+122.5% ± 8%
+117% ± 8%
+Army
+185 ± 2
+235.5 ± 2
+73.5% ± 8%
+Georgia Tech
+191 ± 2
+105% ± 8%
+Michigan State
+117% ± 8%
+118% ± 8%
+Purdue
+116% ± 8%
+Syracuse
+186.5 ± 2
+238 ± 2
+102% ± 8%
+Oklahoma
+1967
+245 ± 2
+182.5% ± 8%
+1967
+123% ± 8%
+Georgia
+193 ± 2
+132% ± 8%
+Ohio State
+124% ± 8%
+Yale
+232.5 ± 2
+29.5% ± 8%
+Arkansas
+194 ± 2
+238.5 ± 2
+79% ± 8%
+Florida
+190 ± 2
+92% ± 8%
+LSU
+194 ± 2
+113.5% ± 8%
+192 ± 2
+238 ± 2
+97.5% ± 8%
+Missouri
+87.5% ± 8%
+130.5% ± 8%
+131.5% ± 8%
+Air Force
+187.5 ± 2
+239 ± 2
+116% ± 8%
+Dartmouth
+238.5 ± 2
+28.5% ± 8%
+151% ± 8%
+Northwestern
+184.5 ± 2
+230.5 ± 2
+15% ± 8%
+Stanford
+193 ± 2
+105.5% ± 8%
+186% ± 8%
+1971
+254 ± 2
+84.5% ± 8%
+1972
+252.5 ± 2
+83% ± 8%
+
+Bowlbound
+Power Ratings and Yardage Factors
+School
+Year
+(Nicely)
+(Mays)
+Full Feature
+YF
+Upper YF
+Lower YF
+Set
+1973
+102.5% ± 8%
+1973
+250 ± 2
+72% ± 8%
+Arizona State
+1975
+246.5 ± 2
+71.5% ± 8%
+Pittsburgh
+1976
+86% ± 8%
+Arkansas
+67% ± 8%
+Kentucky
+68.5% ± 8%
+248.5 ± 2
+44.5% ± 8%
+1978
+131% ± 8%
+Clemson
+1978
+50% ± 8%
+110% ± 8%
+Houston
+78% ± 8%
+3*
+94% ± 8%
+3*
+Georgia
+1980
+78% ± 8%
+Pittsburgh
+1980
+250 ± 2
+90% ± 8%
+Clemson
+1981
+200 ± 3
+250.5 ± 3
+140% ± 8%
+SMU
+1982
+243 ± 2
+100% ± 8%
+1982
+244.5 ± 2
+48% ± 8%
+Auburn
+93% ± 8%
+79% ± 8%
+72% ± 8%
+Brigham Young
+245 ± 2
+45% ± 8%
+Florida
+82% ± 8%
+Washington
+80% ± 8%
+75% ± 8%
+92% ± 8%
+Texas A&M
+242 ± 2
+87.5% ± 8%
+Arizona State
+1986
+87% ± 8%
+1986
+90% ± 8%
+Florida State
+1987
+101% ± 8%
+Miami (Florida)
+1987
+75% ± 8%
+1988
+100% ± 8%
+* Chart designed by Dr. Thomas R. Nicely but not published by Avalon Hill.
+
+BOWLBOUND CHART CORRECTIONS 
+ 
+Remove * from all Kickoff Returns, Punt Returns and Interception Returns 
+on all charts. These plays are followed by a change of possession, therefore, 
+no * is required. 
+ 
+All Defensive (TD) results have been changed to [TD], since this result 
+always overrides the Offensive result except in the case of a penalty. 
+ 
+BOWL BOUND TEAM SET I: 
+ 
+1970 AIR FORCE: Offensive Chart, Play 7, Dice Total 16: should be a blank white box 
+(No Gain). 
+ 
+1960 MINNESOTA: Special Team Chart, Interception Return, Dice Total 38: should be 
+a 40 in a green box. 
+ 
+1967 SOUTHERN CALIFORNIA (USC): Special Team Chart, Punt Column, Dice 
+Total 10: should be a 44 in a green box (44-yard punt, with a return). 
+ 
+Note: all Set I teams, with the exception of the 3 Ivy League teams (Dartmouth, Princeton 
+and Yale), should have a “W” in a red field in the upper left-hand corner of the defensive 
+chart. 
+ 
+BOWL BOUND TEAM SET II: 
+ 
+1973 NOTRE DAME: Defensive Chart, Defense A, Play 3, Dice Total 2: should be a 
+blank white box (No Change). 
+ 
+1954 OHIO STATE: Defensive Chart, Defense E, Play 5, Dice Totals 1, 2, 3, 4, 5: All 
+five of these boxes should be green, not red; the numbers and symbols themselves are 
+correct. 
+ 
+1977 TEXAS: Defensive Chart, Defense A, Play 7, Dice Total 5: should be a red box. 
+Numbers and symbols are correct. 
+ 
+BOWL BOUND TEAM SET III: 
+ 
+1979 ALABAMA: Offensive Chart, Breakaway Column, Dice Total 38: should be 39 
+not 35. Special Team Chart, Punt Column, Dice Totals 17, 22, 35, 39: should be no *. 
+ 
+1986 ARIZONA STATE: Offensive Chart, QT Column, Dice Total 13: should be 1 not 
+–1. Special Team Chart, Kickoff column, Dice Total 37: should be T2 not T1. 
+ 
+1983 AUBURN: Offensive Chart, Play 9, Dice Total 18: should be 28 not 29. 
+
+ 
+1984 BRIGHAM YOUNG: Defensive Chart, Defense D, Play 6, Dice Total 5: should be 
+INT –2 not INT –4. 
+ 
+1984 FLORIDA: Special Team Chart, Punt Column, Dice Total 15: should be 
+DEF S not DEF R. Special Team Chart, Field Goal Column, Dice Total 15: should be 
+DEF S not DEF R. 
+ 
+1980 GEORGIA: Offensive Chart, Play 8, Dice Total 20: should be 19 not 9. 
+ 
+1987 MIAMI: Special Team Chart, Field Goal Column, Dice Total 34: no *. 
+ 
+1988 NOTRE DAME: Offensive Chart, Play 3, Dice Total 24: should be 2 not 3. 
+Offensive Chart, Play 4, Dice Total 26: should be 1 not 4. Offensive Chart, B Column, 
+Dice Total 19: should be T2 not TD. 
+ 
+1983 NEBRASKA: Defensive Chart, Defense E, Play 1, Dice Total 5: should be 2 not 3. 
+Special Team Chart, Kickoff Column, Dice Total 33: should be DEF S not DEF R. 
+Special Team Chart, Kickoff Return Column, Dice Total 37: should be OFF R not OFF 
+S. Special Team Chart, Punt Column, Dice Total 12: should be OFF S not OFF R. 
+ 
+1986 PENN STATE: Special Team Chart, Interception Return Column, Dice Total 19: 
+should be TD not TF. 
+ 
+1982 SOUTHERN METHODIST (SMU): Offensive Chart, Play 6, Dice Total 23: 
+should be a blank white box (No Gain) not INC. 
+ 
+1985 TENNESSEE: Defensive Chart, Defense F, Play 9, Dice Total 5: should be a blank 
+white box (No Change).

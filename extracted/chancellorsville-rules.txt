@@ -1,0 +1,1514 @@
+INTRODUCTION
+Chancellorsville 1863 is one of the greatest campaigns 
+in military history. Union General Joseph Hooker 
+had devised a plan to out maneuver Confederate 
+General Robert E. Lee and the confederate army. 
+Outnumbering Lee at almost 2 to 1, Hooker started 
+with a huge advantage. Using part of his army in front of 
+Fredericksburg to pin Lee’s attention, Hooker took the 
+other part of his army on a flanking march to a position 
+across the Rappahannock and behind Lee. According to 
+Hooker’s plan Lee would have no choice but to abandon 
+his strong position at Fredericksburg and take flight for 
+Richmond.
+Lee had indeed been fooled and flanked. But Lee was not 
+a man to follow other’s plans. Leaving a small holding 
+force at Fredericksburg, Lee split his already smaller 
+force and attacked Hooker just as he was clearing the 
+Wilderness (a dense area of vegetation and forest). Lee 
+not following what Hooker planned seemed to stun 
+Hooker into inaction. Hooker stopped his advance and 
+began to dig in, centering his line on the crossroads at 
+Chancellorsville. 
+Lee, ever the gambler, again split his smaller force. 
+Lee would command a smaller holding force and send 
+“Stonewall” Jackson with over half of the confederate 
+army on a flanking march that would be studied by 
+military historians for years. 
+Chancellorsville 1863 now puts you in the positions 
+of Lee and Hooker. You will command the Union and 
+Confederate armies in a chess match of hidden movement 
+and tactics. Can you outwit and outmaneuver your 
+opponent (or the bot) taking advantage of your size and 
+power as the Union commander; or as the Confederate 
+player take advantage of your interior lines to strike your 
+enemy at the point of your choosing?
+The decisions are yours...
+GAME OVERVIEW
+The game centers around activating formations for the 
+Union and Confederate players. The Confederates have 
+5 formations, and the Union have 7 formations. Each 
+formation can only be activated by the play of a formation 
+activation card that has its formation named on the card. 
+Each side only has 15 formation activation cards, and 
+each specific formation has a very limited number of 
+activations within those 15 cards. Each activation allows 
+movement, combat, construction of redoubts and transfer 
+of reinforcements. 
+Each formation has a limited amount of cohesion. As 
+formations are activated – move and have combat – their 
+cohesion is reduced. 
+When formations are activated, they generate 
+momentum represented through Momentum cubes. 
+Momentum cubes allow the purchase of Tactics cards 
+which portray variables from the campaign and battle. 
+Unique to this game is that some formations are moved 
+on hidden movement mini maps, until revealed when 
+crossing paths with opposing formations or entering 
+certain locations on the game map.
+Victory is obtained by destroying enemy formations or 
+occupying victory locations.
+RULE FORMATTING
+DESIGN NOTES:
+Blue boxes give designer’s thoughts on why certain concepts 
+were applied to the game mechanics.
+KEY RULES:
+Green boxes break down the rule section to one or two 
+important thoughts about that rule.
+Game Examples: Grey boxes further explain game concepts.
+
+4.  WHO SEES WHAT? WHEN?
+Each player starts the game with some units visible to the 
+enemy, and others not, which are placed on the Hidden 
+Movement Map behind each player’s respective screen.
+If, at any point in the game, units on the Hidden 
+Movement Map occupy a referenced location that is 
+adjacent (connected by lines and arrows) to an enemy unit 
+on the main board it must be immediately transferred to 
+the main board.
+For example, during the Union turn they play a Major 
+activation for Meade, who is currently on the Union Hidden 
+Movement Map.
+Meade moves from 3 to 11 then to 12. He must move the 
+unit from the Hidden Movement Map to the main board to 
+reveal his formation to the Confederate player, since he is now 
+adjacent to Confederate formation Anderson. 
+1.  TWO PLAYER AND SOLITAIRE RULES
+The following rules are focused on the two-player version 
+of the game. For rules specific to the solitaire version see 
+the back of this booklet.
+2.  GAME COMPONENTS
+	» Game board
+	» Rule book (two copies)
+	» 7 blue Union named formation markers
+	» 8 blue cubes for Union formation Cohesion and the 
+General special ability on the board tracks
+	» 3 blue cubes for Union control markers
+	» 15 Union Player Activation cards
+	» 15 Union BOT Activation cards
+	» 12 Union Reinforcement cards
+	» 1 Union screen, placed around the Union Hidden 
+Movement Map on board
+	» 5 red Confederate named formation markers
+	» 7 red cubes for Confederate formation Cohesion and 
+the General special ability on the board tracks
+	» 15 Confederate Activation cards
+	» 15 Confederate BOT Activation cards
+	» 12 Confederate Reinforcement cards
+	» 1 Confederate screen, placed around the Confederate 
+Hidden Movement Map on board
+	» 36 Tactics cards
+	» 25 black Momentum cubes
+	» 12 brown Redoubt cubes
+	» 9 six-sided dice
+* Extra cubes may be included for spares, be sure to play with the 
+numbers given here, leaving any spares in the box. 
+3.  GAME BOARD
+The game board represents the Chancellorsville 
+battlefield, and the positions of the Union and 
+Confederate formations. Each formation is named for its 
+commander and represented by a wooden troop marker.
+Arrows and lines between locations show where 
+formations may move on the battlefield when they are 
+activated and under certain conditions. 
+The movement locations have a dotted line and a location 
+number that formations can move to and occupy. This 
+movement location can be occupied by various formations 
+from both sides. Locations are adjacent if connected by 
+lines and arrows, including lines across rivers.
+There are three victory locations on the game board are 
+13, 18, and 22, they are identified by red circles. 
+
+6.  FORMATION MARKERS ON THE 
+GAME BOARD
+Formations are represented by named wooden blocks, 
+one block per named formation. These blocks are placed 
+in the starting locations shown in the setup. Blue blocks 
+are for Union formations, red blocks are for Confederate.
+Any formation that fails its cohesion test or is driven to 
+zero cohesion is considered destroyed and its formation 
+marker is permanently removed from the game board.
+A formation, once destroyed, may NEVER be 
+reassembled, even by moving reinforcements back into it.
+No more than two friendly formations can be in the 
+same location at the same time (unless there is combat 
+occurring, in which case there could be 2 defenders, and 1 
+attacker temporarily in the same location).
+Only two friendly formations may occupy a location at the 
+same time.
+If the situation changes, and enemy troops move away, 
+then it’s possible that formations, once sighted, will 
+become unsighted again, and so be removed from the 
+main board back to the Hidden Movement Map.
+Certain locations are colored red. These indicate locations 
+deep inside Confederate lines of communication. Any 
+Union formation that moves onto one of these locations 
+on the Hidden Movement Map must be moved to the 
+main map.
+Similarly, locations that are colored blue indicate 
+locations deep inside Union lines of communication, 
+Any Confederate formation that moves onto one of these 
+locations on the Hidden Movement Map must be moved 
+to the main map. 
+In addition, some locations are hashed red. These indicate 
+a possible line of Union march being tracked by JEB 
+Stuart’s cavalry. A formation (or formations if there are 
+two of them in the same location) that is furthest along 
+on this line of march will be visible to the Confederates, 
+and so placed on the main board. Location 9 is further 
+along than location 8, which is further along than 
+location 1. Any Union formations that are behind the 
+lead formation(s) cannot be seen by the Confederates 
+and so would remain on the Hidden Movement Map, 
+not on the board, unless actually adjacent to Confederate 
+formation occupied locations.
+Usually about a third or half way through the battle there 
+are no longer any units unsighted, so the screens and 
+Hidden Movement Maps can often be put aside at this 
+point.
+5.  OBJECTIVE LOCATIONS
+There are 3 objective locations on the game board: 
+Fredericksburg (location 13), Salem Church (location 
+22), and Chancellorsville Junction (location 18). They are 
+assumed to be Confederate controlled unless there is a 
+Union control marker in them. A Union formation does 
+not have to remain on the objective for the objective to 
+remain Union controlled. Once controlled, at the end of a 
+Union turn, a Union formation may move away from the 
+objective. However, if a Confederate formation occupies 
+a formation at the end of a Confederate turn, the Union 
+control marker is removed and control reverts back to the 
+Confederates.
+Example of an Objective location. These are circled in red.
+Example of units adjacent. Reynolds and Early are adjacent. Sickles 
+is adjacent to Reynolds, but would only be on the Union Hidden 
+Movement Map, since he is not adjacent to any Confederate unit.
+
+7.  FORMATION AREAS ON THE GAME 
+BOARD
+Each side (Union and Confederate) has areas 
+representing its formations on the game board. 
+Formation areas shows how many dice it rolls in combat, 
+and how many times it may be activated with the type of 
+activation (major or minor).
+Cohesion is tracked using cubes on each formation’s 
+individual cohesion track, using the corresponding color - 
+red for Confederate, blue for Union.
+Cohesion is a numerical representation of a unit’s overall 
+combat effectiveness. It combines concepts of troop numbers, 
+morale, stamina, equipment, and experience, into one unified 
+value for ease of play, and to concentrate the design lens on 
+maneuver and high level strategies.
+When formations are activated they reduce their 
+cohesion by 1 and may have their cohesion reduced during 
+combat. Once a formation cohesion total reaches 5, or lower, 
+it must conduct a Cohesion Test to see if it breaks and is 
+removed from the game (see paragraph 16 on page 11).
+Formation Name
+Cohesion Track
+Starting Location(s)
+Number of major 
+activations
+Number of dice 
+used in attack
+Number of minor 
+activations
+Formation Area Sample
+Whenever commanders ask anything of their troops there 
+is always a cost. Even troops who march happily into battle 
+become tired. Troops riding a wave of elan cannot evade 
+hunger or the need to sleep indefinitely. Campaigns take a toll 
+on formations so long as those formations are put to any task. 
+Accordingly, the game concept of Cohesion has formations 
+‘degrade’ with use. This has the additional design benefit of 
+ramping games to an end state, where multiple formations 
+in play, especially those bearing the brunt of battle, will be 
+red-lining their ability to remain effective. Formations are 
+not only destroyed by dint of them being attacked by the 
+enemy. They are also destroyed by dint of their own offensive 
+endeavors.
+8.  ACTIVATION CARDS
+Each side has its own deck of Activation cards. When 
+played, these cards activate the formations named. 
+Activation cards also simultaneously generate momentum 
+equal to the cubes shown on the bottom of the card. The 
+player acquires the total of Momentum cubes shown 
+from the common pool and adds to his own pool.
+An activation card for a formation that is destroyed still 
+collects Momentum cubes and bonus Momentum cubes 
+when played. 
+It also fulfills the requirement to play an activation card 
+(one must be played each turn).
+Instead of drawing from the top of your activation draw 
+deck at the end of your turn, you can spend 5 Momentum 
+cubes to get the activation card you want. (If it’s in the deck.) 
+If the desired card is not in the deck you must draw from 
+the top of your deck (and lose the 5 Momentum cubes).
+REYNOLDS
+Meade
+Reduce cohesion for each activated formation.
+Activation Card Sample
+Momentum cubes awarded for 
+playing this card.
+Major Activation
+
+One of the key features of the history of warfare is chaos over 
+responsiveness. By which I mean, we see countless examples 
+of units not following orders as intended, whether of the 
+volition of their commander, or the troops themselves, or by 
+accident through confusion. Just because a commander orders 
+a unit to do something it doesn’t necessarily follow that it 
+will do that thing, let alone in the intended time frame. The 
+orchestration of multiple units - perhaps many thousands 
+of men across many miles all facing their own local factors 
+(topography, weather, enemies, etc.) is its own dark art. The 
+game convention of move some, all, or none does a poor job 
+of reflecting the press of time and the constraints commanders 
+had restricting their knowledge and ability to convert an 
+idea directly into action, let alone their capacity to neatly 
+orchestrate complex and precise synergies of action.
+This game’s activation system is an attempt to represent those 
+practical constraints a commander experienced. The hand 
+of three cards and the limitations on each formation means 
+a player is not free at all times to ensure any unit they want 
+will always perform the action they want when they want. 
+The player is tasked with managing their hand to effect 
+their intended strategies, pushed and pulled by the desire 
+to maintain momentum (to match sets) and perhaps take 
+advantage of available Tactics cards.
+Activation cards allow each of the named formations to do 
+one of three things:
+1.	 Pay activation cost to move, twice with a major and once 
+with a minor, or do nothing and not move.
+2.	 Not pay activation cost and transfer reinforcements.
+3.	 Not pay activation cost and build a redoubt.
+9.  MAJOR AND MINOR ACTIVATIONS
+Activation cards show combinations of major and minor 
+activations for different formations on the same card. 
+The formation written in the largest letters at the top, 
+with the accompanying commander portrait is a major 
+activation. Any other smaller names detailed are minor 
+activations.
+The active player can decide in which order to conduct 
+these activations. 
+In each case, ALL movement is completed for a formation 
+before any combat it is involved in is resolved, and only then 
+can movement for the second activated formation begin.
+Whatever the order, an activated formation ALWAYS 
+pays an activation cost (-1 of its cohesion total) to move 
+with a Major or Minor activation or do nothing.
+An activated formation does not pay activation cost if it 
+has 3 redoubts in its location and chooses to do nothing, 
+build a redoubt, or transfer reinforcements. Tactics card 
+may also cause exceptions.
+Pay activation costs ONLY when activating a Major or 
+Minor activation for movement and to do nothing.
+9.1  MAJOR ACTIVATION 
+This permits the formation to move up to two locations, 
+and to end their movement in a location occupied by the 
+enemy (i.e. in combat).
+If the formation only moves one location and attacks it 
+may attack the same occupied location again, without an 
+activation cost, or move to/ attack a different adjacent 
+occupied location - again, without an activation cost. If 
+moving/attacking adjacent locations the major activation 
+can be thought of as 2 attacks.
+When moving formations with a Major Activation 
+players should move them one location at a time and 
+give the other player the chance to announce any of their 
+formations which now become sighted, and so are moved 
+from their Hidden Movement Map behind their screen 
+onto the main board.
+9.2  MINOR ACTIVATION
+This permits the formation to move no more than 
+one location, and to end their movement in a location 
+occupied by the enemy (i.e. in combat).
+Unlike in Freeman’s Farm: 1777, combat does not occur in 
+adjacent locations, but ONLY when units of different sides 
+are in the same location. If a unit is in the same location as 
+an enemy piece combat MUST occur.
+9.3  TRANSFER REINFORCEMENTS
+With either a major or a minor activation, instead of 
+moving/fighting, formations may pay no activation cost 
+and, transfer reinforcements.
+An activated formation may give or receive 1 or 3 
+cohesion points to or from an adjacent friendly formation.
+To track this, from the reinforcement decks, find two 
+linked numbers +3 and -3, or +1 and -1, and place them 
+face-down below the corresponding formation areas. 
+
+For example, +3 to the formation receiving 3 cohesion points, 
+and -3 to the formation giving those points. 
+These cards help players keep track of the real cohesion 
+totals, and to hide them from the other player. All 
+cohesion rules apply as normal. The moment a formation 
+drops to 5 cohesion points or lower it must test. If a 
+cohesion test is required according to the track and that 
+formation has any face-down reinforcement cards a player 
+must reveal those cards (and discard to the side of the 
+board) and adjust the track to its correct total. 
+Similarly, if a cohesion track doesn’t show there to be 
+a test due, but there is when reinforcement cards are 
+taken into account, the owning player is responsible for 
+ensuring the modifiers are revealed (and discarded to the 
+side of the board), and that the test takes place. At the 
+end of the game all those discarded cards, and any still 
+left unrevealed must cancel each other out when collected 
+together. If a pair (+1/-1,or +3/-3) is revealed during play 
+that pair can be returned to the Reinforcements draw 
+deck.
+Fog of war is represented in this game not only through the 
+Hidden Movement Maps and the screens giving hidden 
+movement, but also through the transfer of reinforcements. 
+Players cannot always be certain of the strength of the enemy’s 
+formations, and nor can he always be sure of the strength of 
+your own formations.
+9.4  BUILD A REDOUBT 
+With either a major or a minor activation, instead of 
+moving/fighting, formations may pay no activation cost 
+and, build redoubts. 
+Take a brown cube from the redoubt pool on the board, 
+and place it at the location that formation occupies. (3 
+cubes per location maximum.)
+If they have more than one redoubt cube they keep 
+spending them and setting more dice to the face they 
+want, with the limit of 3. Defenders can do this between 
+REINFORCEMENTS
+-3
++3
+REINFORCEMENTS
+rounds if they have any redoubts left, but they may only 
+set the face of dice about to be rolled, they may not 
+change the face of any dice the attacker has already rolled 
+and has decided to leave in place.
+Redoubts, or prepared defensive positions, were a feature of 
+the Chancellorsville battle, especially by the Confederates. 
+Sometimes the best course of action for a formation is to 
+prepare the ground for defensive action. In the game this 
+activity is deemed not to adversely affect a formation’s 
+cohesion - what it expends in energy it gains in sense of 
+confidence in its position.
+Redoubt cubes remain in place even if formations vacate 
+the location. 
+BEFORE an attack a formation may voluntarily remove 
+any redoubt cubes in its location. (This does not use up 
+an activation.)
+If a formation already has 3 redoubts in its current 
+location it may not build any more. However, in this case, 
+when activated, a formation may do nothing, and pay NO 
+activation cost.
+A formation that has a major activation and moves or 
+attacks may make a second attack to the same or an adjacent 
+location without an activation cost. However, it may NOT 
+attack once, then build a redoubt or transfer reinforcements. 
+Building a redoubt, or transferring reinforcements (receiving 
+or giving) takes an ENTIRE activation, whether major or 
+minor. 
+10.  TACTICS CARDS
+The Tactics deck is used by both sides. These cards are 
+‘purchased’ by using Momentum cubes from a player’s 
+own pool of cubes. The cost is shown at the bottom of 
+the card. Momentum cubes used in the purchase are 
+returned to the central pool on the game board. When 
+purchased, Tactics cards should be kept face-up. These 
+cards are single use, unless their effect is stated on the 
+card as ‘Ongoing’. 
+Each turn, at the end of their turn, a player has the option 
+to buy only ONE card from the face-up Tactics tableau. 
+If a card is purchased, refresh the tableau by shifting all 
+the remaining cards to the right (if possible), so the newly 
+drawn card appears on the far left of the tableau. If no 
+card is purchased at the end of a player’s turn, the card on 
+the far right of the tableau is moved to the discard pile, 
+the remaining cards are all shunted to the right, and a 
+new card is drawn on the left of the tableau.
+
+Any number of Tactics cards may be played when the 
+cards allow it.
+Even if purchased, Tactics cards may not be voluntarily 
+removed from play (for example, in an attempt to prevent 
+a Prisoners card from taking a card and putting it back 
+into play).
+At any time you can ‘cash in’ any 3 Tactics cards for 1 
+Momentum cube.
+I have read of battles being described by commanders as a series 
+of windows of opportunity which pass before them. Knowing 
+when to take advantage of these opportunities (as well as when to 
+ignore them), how hard to try to exploit them, and being alert to 
+the possibilities that might unfold as a direct result is something 
+these Tactics cards attempt to represent. Each card comes at a 
+cost, and different card synergies may present themselves over the 
+course of each game. The way the tableau keeps being refreshed is 
+an attempt to visually and spatially represent this notion of a 
+shifting opportunity window. A card will be purchasable for three 
+turns, at least one of which is yours, before it disappears into the 
+discards. The Tactics deck also helps encourage replayability. 
+Tactics draw deck, cards are 
+placed face down.
+Tactics Tableau: Tactics 1–3 and Discard 
+areas, all cards are shown face up.
+PLAY DURING 
+PLAYER’S 
+ACTIVATION PHASE
+Activated unit may swap 
+places with any adjacent 
+friendly formation, but 
+neither formation may do 
+anything else this turn.
+RELOCATE
+Card Title
+Card Event/Action
+Tactics Card Sample
+Price of card in 
+momentum cubes
+11.  MOMENTUM CUBES
+The black cubes in the game represent momentum 
+generated and used by both sides. A common 
+Momentum cubes pool is located on the game board. 
+Momentum cubes are earned by activating formations 
+and are used for acquiring Tactics cards and combat 
+re-rolls (3 Momentum cubes per re-roll). Players take 
+or return Momentum cubes to the pool as these actions 
+occur.
+Momentum is a rather nebulous concept. Many soldiers 
+and analysts have spoken of it - a sense that on a broader 
+scale than that of individual soldiers and their direct units, 
+a battle is swinging perhaps one way or the other. But what 
+does it tangibly mean, and how can you quantify it? Well, 
+game designers quantify intangible concepts all the time and 
+give them values they can apply within the context of game 
+systems. The generation of momentum, as a currency, that 
+permits attacks to be sustained, or for other advantages to be 
+sought - through the purchase of Tactics cards - is how this 
+game represents this concept.
+11.1  BONUS MOMENTUM CUBES
+Matching 3 Momentum token icon sets of your own 
+played activation cards (3 x 3s, 3 x 2s, 3 x1s) over 3 
+consecutive turns gives a +2 Momentum cube bonus. 
+This bonus can only be applied once per set.
+12.  GAME SET UP
+	» Decide who will be the Confederates, and who will be 
+the Union.
+	» Place a screen around each player’s Hidden Movement 
+Map on the game board.
+	» Place an appropriate colored marker on the start (14) 
+of the cohesion track on each formation area.
+	» Place appropriate colored markers on the READY box 
+of any generals in the formation area.
+	» Place the formation markers according to the starting 
+locations indicated on the formation areas on the 
+game board. Formations without options are placed 
+on the game board. Formations with optional starting 
+locations are NOT placed on the game board, they are 
+placed on a player’s Hidden Movement Map, behind 
+their screen.
+
+UNIT
+STARTING LOCATION
+10, 12, or 22 on Hidden Movement Map
+10, 12, or 22 on Hidden Movement Map
+13 on Board
+14 on Board
+15 on Board
+6 on Board
+5 on Board
+4 on Board
+1 on Board
+	» Shuffle the Tactics cards, and place the top three 
+cards face-up on the game board on the tableau. The 
+remaining cards should be placed face-down on the 
+draw deck space on the game board.
+	» Place the Momentum cubes in a pool on the game 
+board for use by both players. Players begin the game 
+without any Momentum cubes.
+	» Place all the redoubt cubes in a pool on the game 
+	» Shuffle each activation deck and deal 6 to each 
+corresponding player. Each player chooses 3 for their 
+hand, returns the other 3, then reshuffles the draw 
+deck, placing it on its space on the game board.
+	» Place the reinforcements decks on their respective 
+places on the game board. They don’t need to be 
+shuffled - players will go into them and look for the 
+cards they need, but they should be face-down. It will 
+speed up play if +3s are next to -3s, and +1s next to 
+-1s.
+Place the unit markers BEFORE you draw activation 
+cards.
+13.  SEQUENCE OF PLAY
+The Union player takes the first turn in a round. Then 
+the Confederate player takes their turn in a round. Play 
+continues until all Activation cards have been played, 
+ending the game.
+There may be up to 15 rounds in the game. Each round 
+consists of one turn for each player.
+Each player’s turn has the same phases:
+1.	 Play Activation card from one of the three in your 
+hand and gain Momentum cubes for the card played.
+2.	 Determine whether you are playing the major, minor, 
+or one of the free actions of transfer reinforcements 
+or build redoubt.
+3.	 Pay Activation cost by reducing cohesion for the 
+activated formation.
+4.	 If, as a result of movement, combat occurs, perform 
+combat.
+5.	 After all actions have been performed, optionally 
+purchase one Tactics card, and refresh the tableau 
+with a new card.
+6.	 Draw a new Activation card.
+13.1  PLAY ACTIVATION CARD
+From your hand of three Activation Cards choose and 
+play one card, which activates formations. 
+13.2  MOMENTUM CUBES
+Each Activation card says which formations are activated, 
+and has Momentum icons on it (1-3).
+Play the Activation card (discard it, face-up into 
+the discard pile) and receive the relevant number of 
+Momentum cubes into your pool. Activation cards played 
+for destroyed formations still provide Momentum cubes.
+13.3  MOMENTUM CUBES BONUS
+In addition, if the activation card just played matches the 
+same number of Momentum icons as the previous two 
+consecutive activation cards played by the same player, 
+then the player receives +2 cubes this turn.
+For example, if an activation card with 2 Momentum icons is 
+played, and the two previous, consecutive activation cards also 
+have 2 icons on them, the player will receive 2 momentum 
+cubes for the card, and 2 more for the bonus. The previous 
+cards must be consecutive to qualify for this bonus.
+
+You only see the benefit of the extra momentum once 
+for the same set of 3 icons. Activation cards played for 
+formations that are broken/destroyed still receive a 
+Momentum cube bonus, if applicable.
+13.4  HOW TO USE GENERAL SPECIAL 
+ABILITIES
+COUNTERMAND ORDER WITH GENERAL 
+(LEE & HOOKER)
+Instead of activating the chosen formations for that 
+turn, a player may countermand that order, and use 
+their respective General ability instead. This gives 
+them 3 Momentum cubes instead of what was on the 
+Activation card (not as well as), and replaces all the listed 
+activations with one major activation anywhere, and one 
+minor activation anywhere (although never to the same 
+formation). In addition, the formation with the major 
+activation may receive a +2 dice modifier as an intensive 
+artillery barrage). This modifier only applies to one 
+attack, but if there are rerolls in this attack the player 
+retains the +2 dice.
+The replaced activation card is still discarded. Players 
+receive Momentum tokens from their commander card 
+- and a Momentum tokens bonus if it is completing a set 
+of 2 preceding Activation cards showing 3 Momentum 
+icons. But they do not begin or participate in a new set of 
+Momentum icons. They only ever complete a set.
+These abilities can only be used once (unless Tactics cards 
+cause exceptions).
+Countermanding with Lee and Hooker allows you to 
+substitute the named formations on an activation card 
+with any other formations for one major, and one minor 
+activation, plus a +2 die roll bonus in combat for artillery. 
+GENERAL JACKSON
+General Jackson gives the Confederate player two linked 
+abilities, which must be played in a specific sequence.
+The first ability is to move AP Hill up to 3 locations 
+at ANY TIME in a player’s turn (this ability use is in 
+addition to the Confederate Activation card played for 
+this turn), but not into combat, and not when it entails 
+AP Hill moving again in the same turn through an 
+activation. This is not an activation and has no cost. 
+When this is done the marker is moved down to the next 
+space in the sequence on the board, and the next ability is 
+unlocked.
+After this has been used (but NOT in the same turn) AP 
+Hill gets a major activation (at no additional cost) instead 
+of a minor activation indicated on an activation card (or 
+another activation card countermanded by General Lee).
+Once both abilities have been used the ability is 
+exhausted.
+Jackson’s first ability is for AP Hill to move up to three 
+locations in addition to the Confederate Activation card play, 
+as long as it is not AP Hill. The first ability use, does not cost 
+AP Hill a cohesion point. His second ability requires an AP 
+Hill Major or Minor Activation card play.
+13.5  PAY ACTIVATION COST
+Unless involved in transferring reinforcements, or 
+building a redoubt (or in a location that already has 3 
+redoubts), a formation must pay an activation cost of 1 
+cohesion point.
+Jackson’s 1st Special Ability.
+Jackson’s 2nd Special Ability.
+
+13.6  PLAY TACTICS CARDS
+You can play any number of Tactics cards you have 
+previously purchased (with Momentum cubes). In 
+the first turn you won’t have any Tactics cards, or any 
+Momentum cubes. 
+Some of these cards must be played before rolling any 
+dice, others can be played at other times. Check each card 
+for details.
+Tactic cards may overrule game rules.
+13.7  HOW TO HAVE COMBAT
+ROLL THE COMBAT DICE
+Each activated attacking formation rolls a different 
+number of dice, shown at the bottom of its formation. 
+This roll may be modified as given below. Combat results 
+take effect on the attacking or defending formation.
+Combat occurs when the activated formation moves into a 
+location occupied by opposing formation(s). The activated 
+formation is the formation rolling dice for combat. The 
+defender does not roll combat dice. 
+USING REDOUBTS IN COMBAT
+Before the attacker rolls, the defender may “use-up” 1–3 
+of their redoubt cubes to set the face of one of the die 
+as they choose. This face is set for the remainder of the 
+attacker’s turn.
+The attacker must always allow the defender time to 
+decide if they will spend any redoubt cubes or not.
+TERRAIN MODIFIERS
+	» Attacking along double-headed green arrows = +2 
+dice
+When attacking, each player always uses the PLAYER 
+combat results table.
+	» Double 1s: Attacker loses 1 Cohesion
+	» Double 2s: Attacker loses 1 Cohesion
+	» 3: gain 1 Momentum cube
+	» Double 4s: Defender loses 1 Cohesion
+	» Double 5s: Defender loses 1 Cohesion
+	» Double 6s: Defender loses 2 Cohesion + must retreat 
+from current location
+1 Momentum cube is awarded for each 3 rolled. 
+For example, a double 3 gives 2 Momentum cubes.
+Any Momentum gained is only gained AFTER the 
+players have finished rolling all dice in the current attack 
+including re-rolls.
+If the defender is not forced to retreat, the attacker must 
+retreat back to the location they passed through or came 
+from to begin the attack. (They just retreat one location 
+back, in the case of units that moved 2 locations to launch 
+their attack.)
+A formation with 0 cohesion points, or that fails a 
+cohesion test is considered destroyed.
+If the defender is destroyed the attacker MUST occupy 
+the location attacked.
+Combat results are inflicted on ALL defender formations 
+in a location. If the defender has 2 formations in a 
+location and suffers losses to cohesion they are incurred 
+by both formations. 
+For example, if an attacker rolls a double 5 this inflicts 1 
+cohesion loss but to EACH formation. In the event of a 
+double 6, both formations suffer a loss of 2 cohesion, and both 
+must retreat, although they may retreat to separate admissible 
+locations.
+
+The game punishes players for trying to ‘throw men at the 
+problem’ (I’m looking at you, Burnisde, and the first battle 
+of Fredericksburg). If you have too many men on top of each 
+other they can’t deploy properly and they make excellent 
+targets for artillery. Having two formations in the same 
+location is a terrible strategy. You must maneuver.
+DEFENDER RETREATS
+Formations forced to retreat must move out of their 
+location, and away from the location where the attacking 
+formation came from.
+Formations may never retreat into a location occupied by 
+the enemy.
+If formations have more than one possible target they will 
+go to the location with the fewest friendly formations.
+Two defenders in a location forced to retreat may retreat 
+to two different locations.
+CONFEDERATE FORMATION RETREATS
+	» Retreating Confederate formations ALWAYS try to 
+retreat closer to location 22 (in terms of the number of 
+locations, not the physical distance).
+	» If they have just been forced out of location 22 they 
+will first try to move to location 21 or 23. If neither 
+of those are free, they will move to 12 - if there is no 
+enemy there.
+UNION FORMATION RETREATS
+	» Retreating Union formations ALWAYS try to retreat 
+away from location 22 (in terms of the number of 
+locations, not the physical distance).
+	» If there is a choice they will ALWAYS try to retreat to 
+a location farther north and over the river, if possible.
+The maximum number of friendly formations on the 
+same location is two. If a retreating formation cannot 
+retreat it is destroyed. If two formations are forced to 
+retreat and only one can retreat, the one with the highest 
+Cohesion value is saved.
+The maximum number of friendly formations on the same 
+location is two. The maximum number of formations that 
+can attack a location is one.
+A retreat must always be in the spirit of a retreat, and 
+MUST NOT be used in such a way that the retreat move 
+is clearly being used as an advance. 
+RE-ROLL
+Player can choose to re-roll by:
+	» Cash in 3 Momentum cubes to re-roll any or all dice 
+again
+	» Reduce the active formation’s cohesion by 1 to re-roll 
+any or all dice again.
+APPLY COMBAT RESULTS
+When all the rolling has ceased for the round apply the 
+results, as outlined above.
+14.  PURCHASE TACTICS CARD
+Players can choose to purchase one face-up Tactics card, 
+if they can afford it.
+Players can never examine this deck to see what cards are 
+coming.
+15.  DRAW NEW ACTIVATION CARD
+Players draw the top card of their Activation deck (if 
+there are any left in the draw deck) and bring it into 
+their hand, ready to make a decision next turn on which 
+formation to activate.
+Play then switches to the other player.
+When both players have expended all the Activation 
+cards in the draw deck and their hand the game ends (if it 
+hasn’t ended already). 
+16.  FORMATION COHESION TEST
+The cohesion marker tracks a formation’s cohesion as the 
+formation is activated and attacked throughout the game. 
+When the cohesion marker is reduced (from activation, 
+combat, etc.) to the number 5 or lower, a cohesion test 
+must be performed for that formation at the instant it 
+occurs.
+A cohesion test is done by rolling a six sided die and 
+comparing the result to the location of the marker on 
+the cohesion track of the formation card. If the die roll 
+is higher than the marker location, then the formation 
+has failed the test and the formation is then “broken.” If 
+the die roll is equal or less than the marker location, the 
+formation has passed the cohesion test.
+A cohesion test is not taken if the Cohesion marker 
+moves back ‘up’ the scale, from a 3, to a 4, for example.
+A passed cohesion test means play continues, it doesn’t 
+halt an attacker’s attack to take a Cohesion Test that’s 
+passed. A broken formation marker is removed from the 
+
+A failed cohesion test results in the formation becoming 
+destroyed, unless prevented by a Tactics card. A failed 
+cohesion test cannot use Momentum cubes or a cohesion 
+reduction to re-roll.
+17.  HOW TO WIN
+The Union player must capture 2 out of the 3 objectives 
+on the board by the end of the game. An objective is 
+captured if a Union formation was the last to occupy it, 
+the formation does not have to remain in the location 
+(mark with a blue cube to show Union control). 
+If the Union player breaks 3 or more Confederate 
+formations they immediately win the game.
+The Confederate player wins if the Union player does not win.
+The Confederate player also wins the game immediately 
+if they break 3 or more Union formations.
+18.  CLARIFICATIONS
+18.1  SIMULTANEOUS DESTRUCTION
+If an attacking and defending formation are both 
+destroyed at the same time in the same turn the defender 
+is adjudged to have been destroyed first.
+If both players must take a Cohesion Test in the same 
+turn, the defender takes the test first.
+18.2  RUNNING OUT OF COMPONENTS
+There may be times where you wish to roll more 
+dice, acquire more Momentum cubes, acquire more 
+redoubt cubes, or more reinforcement cards. The boxed 
+components are: 9 dice, 25 Momentum cubes, 12 redoubt 
+cubes, 12 reinforcements for each side. These totals 
+should never be exceeded, and play is bound by these 
+available components.
+Howard’s current cohesion is at 
+8. Confederate attacks against 
+Howard cause 4 cohesion losses. 
+Moving his cohesion from 8 to 4. 
+He now must perform a cohesion 
+test by rolling one die and compare 
+it to his current cohesion because 
+his cohesion has fallen below 6. 
+If the roll is 5 or 6 he fails his 
+cohesion test and is destroyed and 
+removed from the board. A roll 
+of 4 or under Howard passes his 
+cohesion test and is allowed to stay.
+18.3  TACTICS CARDS
+PLAY ANYTIME
+Play Anytime cards can be played on any player’s turn at 
+any time. (When sequence matters it’s the first person 
+to speak and make clear their intentions that gets to act 
+first.)
+(3) IMMACULATE TIMING
+This card can be used for only one attack.
+(12) CONFIDENCE
+The +1 Cohesion to the attacker is awarded if the 
+defender suffers a reduction of 2 Cohesion as a result 
+of the same attack, or, in the instance where the same 
+attacker attacks again (with a major activation) the 
+damage inflicted may be combined. The +1 Cohesion is 
+not awarded to a formation if it only inflicts 1 Cohesion 
+loss on the enemy, regardless of how many other losses 
+the defender has incurred in the same turn.
+(25) BACK IN THE SADDLE
+The card takes immediate effect meaning that the 
+expended general (Hooker or Lee) is ready to be used 
+again. But this doesn’t mean that the commander is 
+activated at that moment. He is available for use as per 
+the same player choice - to countermand an activation.
+(35) NIGHT MARCH
+This card cannot be used to take a formation into an 
+attack. However, it could be combined with an Activation 
+card, or a General countermanding an Activation card, to 
+bring the same formation into combat in the same turn.
+(36) ARTILLERY SMOKE SCREEN
+As above.
+19.  SOLITAIRE RULES
+19.1  TO WIN
+As with the two player game, the Union player must 
+destroy 3 Confederate formations for an automatic win.
+But in addition, in the solo version of the game, the 
+Union player must hold all 3 objectives by the end of 
+the game. If 3 Confederate formations have not been 
+destroyed, and all 3 objectives are not held by the time the 
+game ends the Union player has lost.
+The Confederate player must destroy 3 Union formations 
+for an automatic win. The BOT must hold just 2 
+
+objectives (like the player in the two player game) to win. 
+If the Confederate player stops the Union BOT from 
+winning, the player wins.
+If the player ever has 3 of their own formations destroyed 
+they automatically lose.
+19.2  SETTING UP
+	» Decide if you will play as the Confederates, or the 
+Union. The side you don’t play as is ‘The BOT’.
+	» Neither the screen nor the Hidden Movement Map 
+are used in the solo version of the game.
+	» Place an appropriate colored marker on the start (14) 
+of the cohesion track on each formation area.
+	» Place appropriate colored markers on the READY box 
+of any generals your side has in the formation area. 
+(Do not place any markers for the BOT.)
+	» Place the formation markers according to the starting 
+locations indicated on the formation areas on the 
+game board. Formations without options are placed 
+on the game board. Player formations with optional 
+starting locations ARE ALSO placed on the board. 
+BOT formations with optional starting locations are 
+NOT placed on the board, or the Hidden Movement 
+Map - they are placed on the 0 space of the Hidden 
+Movement Track on the game board.
+	» Remove all NOT FOR SOLO PLAY cards from 
+the Tactics deck. Shuffle the Tactics cards, and place 
+the top three cards face-up on the game board on the 
+tableau. The remaining cards should be placed face-
+down on the draw deck space on the game board.
+	» Place the Momentum cubes in a pool on the game 
+board for just your own use. You begin the game 
+without any Momentum cubes.
+	» Place all the redoubt cubes in a pool on the game 
+	» Shuffle your activation deck and deal 6 to you. 
+Chooses 3 for your hand, return the other 3, then 
+reshuffle the draw deck, placing it on its space on the 
+	» Shuffle the BOT activation cards and place them face-
+down on the game board.
+	» The reinforcement decks are not used in the solo 
+version of the game.
+Note: place the unit markers BEFORE you draw activation 
+cards.
+19.3  DIFFICULTY SETTINGS
+In the solo version of the game there are 3 different 
+difficulty settings.
+	» Standard: No changes.
+	» Hard: Remove the top card of the Activation deck of 
+the side you are playing as. Keep it face-down and do 
+not look at it for the duration of the game. 
+	» Hardest: Remove the top two cards of the Activation 
+deck of the side you are playing as.
+In the Hard and Hardest modes the BOT will have 1, 
+and 2 additional turns respectively at the end of the game.
+19.4  FIRST TURN
+When playing the solo version of the game, the player 
+ALWAYS takes the first turn, even if playing as the 
+Confederates.
+19.5  SEQUENCE OF PLAY
+The sequence of play for the player is the same as in the 
+two player version.
+For the BOT the sequence is:
+	» Turn over the top card of the BOT activation draw 
+deck, read it, and apply the directions.
+19.6  IMPORTANT RULE CHANGES IN 
+SOLO GAME
+The BOT NEVER pays an activation cost for its 
+formations.
+The BOT NEVER receives any Momentum cubes.
+The BOT General(s) abilities NEVER feature in the 
+The Tactics deck is NEVER cycled through in the BOT’s 
+turn.
+19.7  READING THE BOT ACTIVATION 
+CARDS
+SEQUENCE
+	» Read the cards in sequence from top to bottom.
+	» If no conditions apply - which can happen if a 
+formation is on the Hidden Movement Track (HMT) 
+but not sufficiently along to trigger an attack - the 
+formation does nothing.
+
+The Hidden Movement Track (HMT) is only used in the 
+solitaire version of the game by the BOT player.
+	» If the formation cannot be activated because it is 
+destroyed ignore that part of the card. It’s possible that 
+a card might be entirely ignored if all formations have 
+been destroyed.
++1/2 COHESION TO WEAKEST FORMATION
+Any Cohesion increased detailed on the BOT card goes 
+to whichever formation has the lowest Cohesion total. If 
+there is a tie between two or more formations use a D6 to 
+resolve it.
+ATTACK IF ADJACENT
+	» If the BOT is adjacent to more than one enemy 
+formation it will attack a formation in an objective.
+	» If the BOT is adjacent to more than one enemy 
+formation in an objective it will attack the one with 
+the fewest redoubts.
+	» If the BOT has no enemy formations in objectives 
+adjacent, but has more than one possible target it will 
+attack the one with the fewest redoubts. If the BOT 
+cannot decide, roll a D6. 
+	» The Confederate BOT NEVER attacks over the river.
+ANDERSON 
+• Otherwise: +2 HMT
+ » If HMT 2: attack 22/10/9/8/18 (2 dice)
+ » If HMT 3+: attack 21/18 (2 dice)
+EARLY 
+MCLAWS 
+• Otherwise: +1 HMT 
+ » If HMT 2: attack 22/10/9/8/18 (2 dice)
+ » If HMT 3+: attack 21/18 (3 dice)
++1 COHESION TO WEAKEST FORMATION
+BOT Activation Card Sample
+Add +1 cohesion 
+to the formation 
+listed below with the 
+lowest cohesion.
+Major Activation
+HIDDEN MOVEMENT TRACK (HMT)
+	» If instructed to, move the relevant formation onto, or 
+along the HMT.
+	» If the formation is at a space on the HMT that 
+triggers an attack move, as listed on the BOT 
+activation card, the formation will try to attack 
+any player formations in the first location listed. If 
+no player formations are present, the BOT moves 
+through the list of locations until it finds a formation 
+to attack.
+	» A formation attacking off the HMT has no combat 
+modifiers for green or red arrowheads, but is affected 
+by redoubts.
+	» If no player formations are in any of the listed 
+locations the BOT occupies the last listed location, 
+unless there is a friendly formation in that location, in 
+which case it occupies the location listed earlier. If 
+there is a friendly formation in all listed locations, the 
+BOT formation occupies the first listed location.
+REYNOLDS
+If south of the river, attack if adjacent to enemy… 
+If not south of the river, and not adjacent to an 
+enemy formation, move Reynolds to the HMT. 
+It is possible for Reynolds to move between 
+the board and the HMT in this way. (Other 
+formations may also move between the board and 
+the HMT.)
+
+SLOCUM AND HOWARD
+Otherwise, if in objective, and enemy adjacent, build 
+redoubt. If Slocum or Howard is in an objective 
+location but an enemy formation is not adjacent, 
+they do not build a redoubt, but attack towards 
+the nearest (other objective) instead.
+	» If the BOT is successful in causing a formation to 
+retreat in an attack off the HMT it moves into the 
+attacked location, and the player must retreat.
+	» If the BOT is unsuccessful in causing a formation to 
+retreat in an attack off the HMT it occupies any free 
+adjacent location. If there is more than one possibility, 
+it will move to the location that would give it the best 
+combat modifier in any future attack (where there are 
+2 green arrows into the target location). If there is still 
+more than one option use a D6 to help it decide. In the 
+rare instance that all adjacent locations are occupied 
+by enemy formations, the BOT formation moves into 
+the location as close as it can to the attacked location. 
+Again, it will choose the location that would give it the 
+best combat modifier in any future attack. I If there is 
+still more than one option use a D6 to help it decide. 
+REDOUBT
+If instructed to build a redoubt but there are three 
+already in that location the formation does nothing, and 
+pays no Activation cost.
+ATTACK OBJECTIVE
+The BOT formation moves towards/attacks the nearest 
+objective.
+In this instance, the BOT formation will always move 2 
+locations, if it can.
+If there is more than one possible target it will attack 
+towards the one with the fewest friendly formations.
+If there is a choice roll a D6.
+HELPING THE BOT DECIDE
+If an instance occurs when the BOT cannot decide 
+between possible targets, or possible retreat locations, use 
+a D6. Designate the possible options as choice, 1 and 2, 
+or also 3 and 4, as appropriate.
+With 2 options: 1-3=option 1, 4-6=option 2.
+With 3 options: 1-2=option 1, 3-4=option 2, 5-6=option 
+3.
+With 4 options: 1-4=options 1-4, 5-6=roll again.
+19.8  ROLL THE COMBAT DICE
+The BOT rolls a set number of dice determined by the 
+activation card, and modified by the arrowheads of the 
+locations they are attacking from. Combat results take 
+effect on the attacking or defending formation.
+BOT TERRAIN MODIFIERS
+	» BOT attacking along double-headed green arrows = 
++1 die
+Note: regardless of modifiers from arrowheads and redoubts, 
+a BOT formation will ALWAYS attack with the minimum 
+of 1 die.
+When attacking, the BOT always uses the BOT combat 
+results table, apply the results for each die.
+	» 1: Attacker loses 2 Cohesion
+	» 2: Attacker loses 1 Cohesion
+	» 3: Defender loses 1 Cohesion
+	» 4: Defender loses 2 Cohesion
+	» 5: Defender loses 2 Cohesion
+	» 6: Defender loses 3 Cohesion + must retreat from 
+current location
+
+19.9  REDOUBTS WITH THE BOT
+When the BOT attacks a player formation that has 
+one or more redoubt in its location it rolls one fewer die 
+than detailed on the card for every redoubt the player 
+has. As in the two player game, redoubts that are used 
+are consumed, and returned to the general pool. But the 
+BOT will ALWAYS attack with at least 1 die.
+Redoubts are only consumed after red arrow modifiers.
+If the player has 3 redoubts on a location, and the BOT 
+has 3 attack dice, 2 redoubts will be consumed, so the 
+BOT has 1 die with which to attack. The location retains 
+1 redoubt which can be used in a subsequent turn. If the 
+player has 3 redoubts and the BOT is attacking with 3 
+dice through a single red arrow, 1 die will be removed 
+because of the red arrow, and 1 redoubt will remove 1 
+other die, but the BOT will still attack with 1 die, and 2 
+redoubts will remain in place.
+When the player attacks a BOT formation that has one 
+or more redoubt in its location the face of a die is set to 1 
+for each redoubt. As in the two player game, these dice 
+faces are set for the duration of the attack. If the player 
+has a major activation they may attack again, with new 
+dice.
+BOT RETREATS
+Formations retreat in the same way as in the two player 
+Additionally, if, for the BOT, there is still more than one 
+possible target location, use a D6 to help the BOT decide.
+20.  TWO PLAYER EXAMPLE OF PLAY
+I’m playing as the Union, and Grant is playing as the 
+Confederates. In the two player version, the Union player 
+always goes first.
+I set up the game.
+Unknown to Grant, I place Couch in 7, and both Howard 
+and Meade in 2. These three formations are all behind 
+my screen.
+I don’t know where Grant has placed Anderson and 
+McLaws, but they are either in 10, 12, or 22.
+I draw 6 activation cards, and return 3.
+Grant does the same, but agonizes over the decision. The 
+level of concentration is evidently painful in some way. I 
+say nothing. It would just slow him down.
+My selected activation cards are: SICKLES/Meade; 
+COUCH/Meade; MEADE/Couch/Sickles.
+I play the activation card: MEADE/Couch/Sickles, and 
+receive 2 Momentum cubes from the pool on the game 
+board. I decide to use Couch’s minor activation first and 
+move him to location 4, where Sickles is. This reduces 
+Couch’s cohesion by 1.
+Couch is now adjacent to the enemy so I transfer him 
+from the Hidden Movement Map the main game board.
+I use Sickles’ minor activation next and move him away 
+from 4. I decide to move him to location 3, but don’t put 
+him on the game board yet. Since he is no longer adjacent 
+to the enemy I move him to the Hidden Movement Map. 
+For all Grant knows Sickles could be in location 7. 
+Next I use Meade’s major activation to move 2 locations. 
+I reduce Meade’s cohesion by 1 before I forget. First he 
+moves to location 9. But since this is hashed and farthest 
+along the line of march he is now visible (thanks to JEB 
+Stuart’s cavalry screen), so I move him from the Hidden 
+Movement Map onto the main game board. Grant 
+then announces that, in fact, he has placed McLaws in 
+location 10 -sly fox that he is - and so he moves McLaws 
+from his Hidden Movement Map onto the game board 
+too. Meade still has one more move left in his major 
+activation. I could attack McLaws, or head to my original 
+(although unstated) intention of the objective at 18 
+(Chancellorsville Junction). I could also move to 8. While 
+I’m contemplating this I remove Slocum from the game 
+board to the Hidden Movement Map. JEB’s cavalry are 
+no longer in contact with him. Only the lead formation(s) 
+on the hashed track are visible to the Confederates. 
+Although Grant still knows where Slocum is I decide 
+- sly fox that I am - I’d like to keep him guessing. 
+Indeed, there is a ripple across his forehead suggestive of 
+intelligence.
+I decide to take on McLaws with Meade, and so move to 
+location 10, where combat now occurs.
+In Meade’s formation area it tells me he has 5 dice. Since 
+I am attacking from location 9 there is a black arrowhead, 
+which gives me no modifiers to this roll.
+I roll 6, 6, 6, 1, 2.
+I decide to re-roll, and don’t have enough Momentum 
+cubes to pay for it (I only have 2), so reduce Meade’s 
+cohesion by another 1.
+I keep the 6, 6, 6, and re-roll the 1 and 2, with which I 
+get a 6 and a 1. Grant scoffs at my good fortune. This is 
+unworthy of Grant, who should admire my sense of dash 
+and elan in an instance such as this.
+The two pairs of 6s cause a loss of 4 cohesion for McLaws, 
+and force him to retreat.
+McLaws tries to retreat to 22 per the retreat rules. There’s 
+no impediments, so move there without complication. 
+McLaws is still adjacent to Meade, so he remains on the 
+
+game board. In addition Grant now announces that he 
+had placed Anderson in location 22 at the beginning 
+of the game, so he is now also visible to Meade, and so 
+moves from the Hidden Movement Map onto the game 
+(If there were already 2 formations in location 22, then 
+McLaws would not have been able to move there. He 
+would have to move to another adjacent location - one 
+without any enemy formations. Although away from 
+location 22, he would, in that instance, have been able to 
+move to location 21. Formations are only destroyed in 
+retreats as a last resort.) 
+Grant elects to complain about the dice I’m using.
+On the Tactics card tableau is a card I like the look of in 
+slot #1. REORGANIZE. It costs 2 Momentum cubes. I 
+decide it’s worth it, and return my 2 cubes to the pool on 
+the board, in exchange for the card.
+I take the top card from the top of its draw deck, turn it 
+face-up and put it in slot #1. No cards are removed to the 
+discards deck because a card was purchased this turn.
+I receive a new card from the top of my activation deck.
+My turn is over.
+Grant looks at his activation cards and can’t decide which 
+to play...
+21.  SOLO PLAYER EXAMPLE OF PLAY
+I’m playing as the Confederates. In the solo player version 
+the player always goes first.
+I set up the game.
+I place Early, AP Hill, and Colston in the locations they 
+must go. I decide to place Anderson in location 10, and 
+McLaws in location 22.
+I draw 6 cards from the top of my activation deck.
+I select 3, and return the other 3 to the deck, and 
+reshuffle it.
+My selected activation cards are: MCLAWS/Anderson; 
+EARLY/AP Hill; MCLAWS/Anderson
+I play the activation card: EARLY/AP Hill, and receive 2 
+Momentum cubes from the pool on the game board.
+Early has a major activation. He builds a redoubt where 
+he is, and pays no activation cost because of it. I take a 
+brown redoubt cube from the pool on the game board.
+AP Hill has a minor activation, but also builds a redoubt 
+where he is, and pays no cost.
+I see nothing I want on the Tactics tableau, so I buy 
+nothing. The card in slot #3 is moved to the discards, the 
+other two cards are moved a slot to the right, and a new 
+card is moved from the top of the Tactics draw deck to 
+the slot #1.
+I draw a new card from the top of my activation draw 
+deck.
+My turn is over.
+The BOT has its turn.
+I turn over the top of its activation deck.
+[BOT Card 2]
+This awards +1 cohesion to the weakest formation. 
+But all formations are at their maximum levels, so the 
+instruction is ignored.
+Meade is not on the board, he is on the Hidden 
+Movement Track (HMT), so he is not adjacent to the 
+enemy (me), and so cannot attack.
+So he is moved +2 up the HMT.
+He is at 2 on the HMT, so the next condition triggers.
+There is no one to attack in location 12, so he looks to the 
+next location. McLaws is in 22 so Meade attacks there, 
+with 3 dice.
+He rolls 1, 3, and 6. Looking at the results table on the 
+game board this gives us:
+	» 1: Attacker loses 2 Cohesion
+	» 3: Defender loses 1 Cohesion
+	» 6: Defender loses 3 Cohesion + must retreat from 
+current location
+This reduces Meade’s cohesion by 2, and McLaws’ 
+cohesion by 4.
+In addition, McLaws must retreat.
+Since Meade has come off the HMT we don’t know for 
+sure where has come from. Locations 21, 12, and 23 are 
+all a possibility.
+As a Confederate retreat, I must first try to retreat to 21 
+or 23, when being forced out of 22.
+I choose to retreat to 21. I don’t like that being in 23 
+could box me in.
+Meade occupies location 22, and takes control of the 
+objective.
+(If Meade had not caused a retreat he would have been 
+placed at one of the three possible attack locations (21, 
+12, 23). There is no future attack advantage to it being in 
+any of those locations so a D6 would have been used to 
+decide its placement.)
+Sickles attacks because he is adjacent to Early, with 2 
+dice. However, Early is across the river, so Sickles has one 
+die removed. Early also has a redoubt, but since Sickles’ 
+
+dice total can’t be lower than 1, the redoubt remains in 
+place, and Sickles’ attack is reduced to 1 die.
+Sickles rolls a 4. This inflicts a loss of 2 cohesion on Early.
+Sedgwick is also adjacent, and so he attacks Hill with 3 
+dice.
+Hill is also across the river, and has a redoubt, so 
+Sedgwick’s dice are also reduced to 1. In this case the 
+redoubt is used, so it is returned to the pool on the game 
+Sedgwick rolls a 3. This inflicts a loss of 1 cohesion to AP Hill.
+The activation card is placed in the discard part of the 
+This is the end of the BOT’s turn.
+The BOT is faster than Grant.
+Note: none of the BOT formations paid an activation cost. 
+22.  HISTORICAL SUMMARY AND 
+DESIGNER NOTES
+COMBAT IN BATTLE FORMATIONS GAMES
+It has long bothered me that in many years of playing 
+wargames - of both the miniatures and board game 
+varieties - the actual combat resolution has so often 
+proved to be the least fun part. Poring over Combat 
+Result Tables, calculating odds, adding modifiers, 
+subtracting others, staring at some dice to discern their 
+meaning, checking the maths, and then figuring out the 
+result, before remembering some forgotten modifiers 
+and rechecking results is how it can often go. I’ve even 
+found myself avoiding combat in some game systems 
+because the calculations were unappealing. But, instead 
+of this often messy and poorly paced moment, it felt like 
+combat resolution ought to be the apex of a wargame - a 
+dramatic, tightly orchestrated moment that could be 
+representational of the historical elements - as well as fun.
+We know dice rolling can be fun. Games like Yahtzee 
+and King of Tokyo have shown this. With this thought in 
+mind, reducing the number of modifiers, and reducing 
+the cognitive distance between a roll and its meaning felt 
+like steps in the right direction. I felt that you should roll 
+the dice and know as soon as possible what they meant or 
+that moment of drama was being dissipated. A lifetime 
+of not only playing and making games but of also writing 
+stories have had a bearing on this sense of the critical 
+role of pacing. This critical moment in gameplay needed 
+to be theatrical in construction and work like a good 
+punchline, not like a potentially good punchline once 
+you’d cross checked references.
+Yet the moment of climax in combat between many 
+hundreds of troops is often not just one moment on 
+which everything is staked. It is also an ebb and flow 
+lasting many minutes. There is tension in the build up 
+to the apex of a drama. Even better if the player has the 
+agency to determine the extent of this build up. That 
+way they’re complicit in the construction of the drama 
+they’re partaking in. This conceptualizing is really the 
+heart of what games writing, or narrative designing, is 
+really about. So, making re-rolling central to the combat 
+results moment was a way to capture some of this 
+thinking. By offering re-rolling I could neatly represent 
+the tactical choice commanders made between pushing 
+an attack, or relenting. Pushing an attack would always 
+incur losses, perhaps pushing a unit closer to implosion, 
+but might prove to be the best call. Throughout it all the 
+player would be at the center of this drama with difficult 
+choices. 
+So, although there are many dice in a battle formations 
+game, it’s not just a matter of rolling and seeing if you’re 
+lucky or not. It’s all a question of how you respond to 
+the rolls. Do you use your Momentum cubes to re-roll, 
+or save them for the Tactics cards? Do you reduce your 
+Cohesion levels to re-roll, or accept the lost opportunity 
+and cut your losses, hoping to gain advantage in a later 
+attack? Do you have your eye on the Tactics tableau and 
+how to maximize your situation in upcoming turns?
+The point is, the design intention behind the combat 
+resolution was to try to reclaim the combat resolution 
+moment as a moment of drama. I was searching for a way 
+for it to be experientially appealing - more Give me the 
+dice I want to roll!, rather than I hate figuring out the odds 
+and modifiers so let me take a deep breath first while I 
+think about it and you get bored. I wanted to attempt to 
+conceive of combat resolution as a gameplay moment that 
+could reflect something of historical truth at the same 
+time as it could be fun.
+CHANCELLORSVILLE
+In attempting to wargame the battle of Chancellorsville - 
+or, as it could more accurately be considered - a series of 
+interlinking battles at the climax of the Chancellorsville 
+campaign - the fog of war seems unquestionably cititcal. 
+As Clausewitz termed it, this wasn’t just the obscuring 
+of what you could see. Rather, it was more profoundly, 
+the obscuring of what you could know - not just about 
+dispositions, but also about how troops in combat would 
+definitively perform. Of course, Hooker and Lee couldn’t 
+clearly see what they were each up to at every stage of 
+the campaign. Without representing the fog of war a 
+wargame on Chancellorsville seems to me as if it’s missing 
+
+the real essence of what’s thrilling about this campaign 
+for players. The bluff and counter-bluff as the armies 
+sought positional advantage, Hooker’s daring flank march 
+Lee couldn’t immediately detect, Lee’s daring response 
+to split his army Hooker likely didn’t expect, and then 
+one of the most renowned flank attacks in the annals of 
+military history are the real stuff of this campaign. 
+The attempts to represent the fog of war in this game are 
+modest. After all, playability and accessibility are critical 
+to this series and the intended audience. Firstly, the use 
+of screens for hidden movement is nothing new. We have 
+seen it commercially since at least the 1980s with GDW’s 
+double blind series. But this approach has so largely been 
+discredited by lack of commercially broad application 
+that it may, indeed, be new to many players. Considerable 
+thought - and trial and error - has gone into the design of 
+the board so that Hidden Movement Maps and screens 
+are sufficiently functional to do their job, but not too 
+disruptive to the social experience of playing a board 
+game that players feel disconnected from each other and 
+trapped in cardboard isolation zones. Although many - 
+indeed most - units in this game begin on the board and 
+exposed to view - the effect of having 2 Confederate and 
+3 Union units off the board is, I suggest, sufficient for 
+players to feel the thrill of uncertainty about dispositions 
+and likely related strategies, and for them to attain the 
+sense that they have a surprise or two to unleash on the 
+other player, whilst accompanied by a sense that they 
+have reasons of their own to be wary of enemy plans.
+The second main way fog of war is represented here is 
+through the reinforcements deck. Use of this deck is a 
+simple way of masking a formation’s precise cohesion 
+total. Armies, after all, don’t always have accurate 
+information about the strength of their enemy army’s 
+constituent parts.
+The uncertainty of the draw of Tactics cards, the 
+uncertainty of their purchase, and the uncertainty of the 
+timing of their being played at all are further ways the 
+system represents fog of war.
+In the solitaire version of the game the hidden movement 
+track also ensures that the solo player cannot be certain 
+where the unseen enemy units are nor where they might 
+appear giving them a further fog of war experience.
+When I told Mike I planned to tackle Chancellorsville 
+next after Freeman’s Farm, he, entirely reasonably, asked 
+me how I planned to tackle Jackson’s flank march. I told 
+him, entirely honestly, that I didn’t know yet, but I was 
+confident I’d figure that out when I got to thinking about 
+it. I had a strong feeling that I’d just know how to do it 
+when I focused my mind on it properly. The result was 
+a game more different from Freeman’s Farm than we 
+had perhaps all envisaged. But one I think attempts to 
+appropriately absorb the history that informs it, and one I 
+think we are all delighted with.
+Where is Rodes? Brigadier General Robert Emmet Rodes 
+was present at Chancellorsville, with D.H. Hill’s division 
+(D.H. Hill had fallen foul of Robert E. Lee and was in South 
+Carolina recruiting troops at the time of the battle). In this 
+game his presence is represented by the increased effectiveness 
+of A.P. Hill’s division - uniquely 6 dice for combat as a 
+default, instead of the usual 5. His otherwise absence is a 
+design choice, because I wanted a 7-5 balance in the number 
+of Union to Confederate formations in play. The scaling of 
+the game is such that Union formations are corps, whereas 
+Confederate formations are divisions. Although Confederate 
+divisions tended to be much larger than Union divisions, 
+the fact remains that the Union troop numbers were close 
+to double those of the Confederates in this battle. I wanted 
+to ensure Union numerical superiority was reflected in the 
+game, to give some nod to the simulation, but I also wanted to 
+ensure some playable asymmetry in the game. I didn’t want 
+players to be lost in micromanaging more than a very limited 
+number of units each. I wanted the Union to have more, so 
+they had an array of offensive strategies to pursue, but I didn’t 
+want them to have too many more so that the game became 
+horribly unbalanced, or so that it became markedly ahistorical 
+through misrepresentations of organizational limitations.
+Once again, thank you to Mike, Grant, Sean, Mark, Sam, 
+and playtesters.
+-Maurice, Charlottesville, Virginia,(Prezcon) 53 miles from 
+Chancellorsville, March 2020.
+BIBLIOGRAPHY
+Smith, C., Chancellorsville: 1863. Oxford: Osprey Publishing, 
+1998.
+Gallagher, G., Glatthaar, J.T., Krick, R., Engle, S., The 
+American Civil War: this mighty scourge of war. Oxford: 
+Osprey Publishing, 2003
+Mackowski, C., and White, K.D., Chancellorsville’s Forgotten 
+Front: the battles of second Fredericksburg and Salem Church, 
+May 3, 1863. El Dorado Hill, CA: Savas Beatie, 2013.
+Game Design: Maurice Suckling
+Solitaire Game Development: Mark Wylie
+Creative Direction: Sean Cooke
+Original Map Design: Sam Chung
+© 2020 Worthington Publishing
+
+TWO PLAYER - QUICK REFERENCE
+SEQUENCE OF PLAY
+The Union player takes the first turn in a round. Then 
+the Confederate player takes their turn in a round.
+Each player’s turn has the same phases:
+1.	 Play Activation card from one of the three in your 
+hand and gain momentum cubes for the card played.
+2.	 Determine whether you are playing the major, minor, 
+or one of the free actions of transfer reinforcements 
+or build redoubt.
+3.	 Pay Activation cost by reducing cohesion for the 
+activated formation.
+4.	 If, as a result of movement, combat occurs, perform 
+combat.
+5.	 After all actions have been performed, optionally 
+purchase one tactics card, and refresh the tableau 
+with a new card.
+6.	 Draw a new Activation card.
+When attacking, each player always uses the PLAYER 
+combat results table.
+TERRAIN MODIFIERS
+	» Attacking along double-headed 
+green arrows = +2 dice
+SOLITAIRE - QUICK REFERENCE
+SEQUENCE OF PLAY
+The sequence of play for the solitaire player is the same as 
+in the two player version.
+For the BOT the sequence is:
+	» Turn over the top card of the BOT activation draw 
+deck, read it, and apply the directions.
+RULE CHANGES IN SOLO GAME
+	» The BOT NEVER pays an activation cost for its 
+formations.
+	» The BOT NEVER receives any momentum cubes.
+	» The BOT General(s) abilities NEVER feature in the 
+	» The tactics deck is NEVER cycled through in the 
+BOT’s turn.
+When attacking, the BOT always uses the BOT combat 
+results table, apply the results for each die.
+BOT TERRAIN MODIFIERS
+	» BOT attacking along double-headed 
+green arrows = +1 die
+Note: regardless of modifiers from arrowheads and redoubts, 
+a BOT formation will ALWAYS attack with the minimum 
+of 1 die.

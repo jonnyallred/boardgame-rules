@@ -1,0 +1,3262 @@
+1 INTRODUCTION
+Blackbeard is a game for 1–5 players that allows you to recreate the 
+Golden Age of Piracy in the 17th-18th centuries. Players maneuver 
+their Pirates around the map, from sea area to sea area and into and 
+out of ports, collecting booty and gaining notoriety in a variety of 
+ways. Players win by having their Pirates become the richest and most 
+notorious of them all, ideally retiring them after long and successful 
+careers at sea.
+Design Note: Blackbeard is more of a simulation than most Pirate 
+games. However, it is not a detailed, complex simulation like many other 
+games in the hobby. On the other hand, things that happen in Pirate 
+movies and other fictional approaches that rarely—if ever—happened in 
+reality are not included in this game. It is difficult, for example, to find 
+an actual instance of one Pirate attacking another at sea, something 
+that happens in Pirate movies all the time. 
+Note to Players of the original Blackbeard: This new game uses many 
+of the details found in the original Blackbeard (The Avalon Hill Game 
+Company, 1989), but the systems and mechanics for playing those ideas 
+are quite different. Do not assume that any rules from the original ver-
+sion are in this game.
+Rules Note: The vertical line found in the borders at various locations 
+indicates passages that have been modified in these Living Rules.
+2 COMPONENTS
+Blackbeard contains the following items:
+1 34”x22” game board.
+110 cards, in 2 decks
+2 sheets of counters, of various sizes and shapes
+10 Pirate Displays 
+2 folded Charts and Tables Cards
+1 Rule Book
+3 six-sided dice, two black and one white
+2.1 THE PLAYING CARDS
+The playing cards for Blackbeard are used in the following two 
+Decks:
+Pirate Cards: These are the 23 most infamous Pirates of the era. 
+Event Cards. These 87 cards represent a variety of possible happen-
+ings that may affect what is going on. They also may allow the player 
+to undertake whatever plans he has as a Pirate. Finally, they provide 
+the game with its timing mechanism.
+2.2 THE MAP
+Regions: The game map is divided into three major Regions—the 
+Americas, West Africa, and East Africa/India. Each Region has its own 
+separate map section, connected only (in some cases) by Transit Boxes. 
+Regions have very little effect on play; most of the game is conducted 
+in the Sea Areas.
+Sea Areas: Each Region is sub-divided into Sea Areas (often just called 
+“Areas” in these rules). There are ten (10) Sea Areas in all. 
+Transit Boxes: These boxes, located between the Regions, allow travel 
+to and from the different Regions. See 7.2. 
+Land: The land areas on the map have no effect on the game.
+Victory Points Track: Used with the double-sided Victory Point mark-
+ers to show who is currently winning the game (see 18.0).
+Card Holding Boxes: Used to place the respective Card decks.
+Retired Pirates and Davy Jones’ Locker Boxes: The first is used to 
+place the counters of Pirates who Retire, the second for the counters 
+of Pirates who are Eliminated.
+Ports: Sea Areas adjoin Ports that the Pirates may use for a variety of 
+reasons. A Coat of Arms in the Port Box indicates which nation con-
+trols the Port—or whether or not the Port is a Pirate Port. Ports bear 
+the following information:
+Nationality
+: The Nations to which ports belong are indicated both 
+by the Coat of Arms and by color, as outlined on the Port Key on 
+the map. 
+Port Box
+: Each Port location contains the name of the Port, the Coat 
+of Arms and color of its nationality, and its numeric values. This box 
+holds governors, Pirates, and other information markers as needed. 
+Placing pieces and markers on the Port location indicates that they 
+are “In-Port”.
+Merchant Box
+: Beside all Ports except Pirate Ports is a box bearing 
+a ship icon. This is the Merchant box. It holds the Merchant Ship for 
+that port (when required).
+At-Sea Box
+: Beside all Ports is a small empty box. This is the At-Sea 
+box. It holds anything that does not fit in the Port box.
+Port Locator number
+: All Port boxes display a two-digit number 
+in a small white box. This is the Port Locator number for that Port. 
+Random selection of Ports is performed for various purposes in the 
+game, and requires a D66 roll, as defined in 2.5.
+Port Ratings
+: All Port boxes (except Pirate Ports) have a pair of 
+numbers separated by a dash. The number on the left is the Port’s 
+Value rating; the number on the right is the Port’s Defense rating.
+Entering and Leaving Ports: Pirates enter a Port from its adjoining 
+Sea Area, and exit a Port into its adjoining Sea Area. Bermuda, alone 
+of all Ports, adjoins both two Sea Areas: the North Atlantic and the 
+Central Atlantic.
+Living Rules Note: On the first printing of the map, the following 
+borders are less obvious than they should be: 
+North Atlantic borders: Central Atlantic and Bermuda. 
+Central Atlantic borders: North Atlantic, South Atlantic, and Ber-
+muda. 
+South Atlantic borders: Central Atlantic and West Caribbean. 
+West Caribbean borders: South Atlantic, East Caribbean, Central 
+America, South America. 
+East Caribbean borders: West Caribbean, South America.
+Sea Area 
+Separator
+Pirate
+Locator #
+Land
+Area
+Merchant	
+Coat 
+of Arms
+Nationality 
+Color
+Ratings
+At-Sea 
+Sea Area
+Label
+
+2.3 PLAYER AIDS
+The following large cards are provided to help players keep track of what 
+they have, as well as determine the results of certain undertakings;
+Actions Summary Card: This card is a handy summary of Actions 
+and procedures used during the game.
+Charts and Tables Play Aid Card: This card contain charts, tables 
+and procedure lists used during play. 
+Pirate Displays: These large cards provide tracks for markers that let 
+you keep track of all the pertinent information about each Pirate and 
+his ship. The placement of each type of marker is outlined throughout 
+the rules (including 3.0, Preparing for Play). 
+Port Grids: These Grids—for 2-player, 3-player, and 4- or 5-player 
+games respectively), found in the back pages of the Rule Book, are 
+used to keep track (with pen or pencil) of a Pirate’s Safe Havens and 
+Hostage Information points. Players should feel free to photocopy these 
+pages for use during the game. You can also simply keep track of this 
+information on a spare piece of paper if you prefer.
+2.4 PLAYING PIECES
+Blackbeard uses a variety of playing pieces—counters and markers—to 
+keep track of details. Pirates, Governors, King’s Commissioners, Mer-
+chant Ships, and Warships are represented on the map by the various 
+counters. Information markers are placed on the map and the Pirate 
+Displays to assist in game-play.
+Living Rules Note: While the components as initially printed accu-
+rately reflect the design intentions of the game, the designer/developer 
+team recognize that some players feel that Warships and King’s Com-
+missioners are too weak. As a result, we recommend—as a standard 
+rule—modifying all Combat die-rolls for Warships and KCs by +2. 
+This has the effect of higher Combat values for those units, but the 
+printed values remain.
+Attack History markers (9.58) are placed in the Attack History box 
+on the Pirate Display when that Pirate attacks a Port. Use an Attack 
+History marker corresponding to that Port’s Nationality.
+D&R markers (13.0) are placed atop a Pirate counter to indicate that 
+his crew is undergoing Debauchery & Revelry.
+Governor Bribed markers (9.45 and 18.41D) are placed in the “Gov-
+ernors Bribed” box on the Pirate Display to indicate which Pro-Pirate 
+governors that Pirate has attempted to bribe (whether successfully or 
+not). A Pirate may attempt to bribe each governor only once. Anti-Pirate 
+governors may not be bribed, so there are no markers for them.
+Letter of Marque markers (17.2) come into play when the Letter of 
+Marque Event Card is played as an Event.
+Nationality markers (8.44, 9.42, 17.2) are placed as follows:
+On the Pirate Display in the “Hostages” box to indicate the nationality 
+of the Port to which that Hostage was headed when captured
+In the “Letter of Marque” box on the Pirate Display to indicate the 
+nation for which the Pirate has acquired a Letter of Marque. 
+Number markers help Players keep track of a range of details on the 
+Pirate Displays and on the map: 
+The Pirate’s Notoriety Points, Cunning Points, and Net Worth 
+The Doubloons in each Hold of the Pirate’s ship
+The Information Points gained from each Hostage
+The number of the Action currently underway in the Player-Turn
+Pirate ID markers (3.0 Step 7, 5.13) are placed beside the Pirate card 
+on the Pirate Display whenever a Player deploys a new Pirate (includ-
+ing at the start of the game). These ID numbers are used in conjunction 
+with the Port Grid in order to keep track of a Pirate’s Safe Havens and 
+Hostage Information Points. 
+Port Attacked markers (9.58) are placed on the map when a Pirate 
+attacks a Port.
+Port Destroyed markers (9.51, 9.55, 10.4, 17.2) are placed on Ports 
+that have been destroyed (from attacks, storms, etc.).
+Safe Haven markers (9.42, 9.45), are placed on Port spaces the 
+map to indicate that at least one Pirate has a Safe Haven at that Port. 
+Exactly which Pirate has the Safe Haven is recorded on the Port Grid 
+(see 2.3).
+Scurvy markers (9.41, 17.2) are placed atop a Pirate counter when 
+that Pirate’s crew contracts Scurvy.
+Ship Type markers (5.13, 6.21) are placed on the Pirate Displays to 
+indicate which type of ship (Sloop, Schooner, or Brigantine) the Pirate 
+is currently using.
+Ship Ratings markers (5.13, 6.2) come in three types: Combat, Speed, 
+and Loyalty. They are placed on each Pirate Display in the appropriate 
+boxes and moved whenever that rating increases or decreases. Speed 
+and Combat markers work in conjunction with the “Ship Type” markers 
+to show the current Speed and Combat ratings of that Ship.
+Victory Point markers (18.11) allow Players to track their Victory 
+Points on the Victory Point track on the map. 
+Examples of Markers
+Attack History
+Crew Loyalty
+Safe Haven
+Governor Bribed
+Ship Speed
+Ship Combat
+Scurvy
+Ship Type 
+Designator
+Debauchery 
+& Revelry
+Victory Points
++100—Player A
+Number 
+Marker
+Examples of Counters
+Pirate (Blackbeard)
+Pirate (Vane)
+King’s Commissioner
+Hostage
+Speed Combat
+Hostage
+Info Value
+Pro-Pirate
+Anti-Pirate
+Governors
+Cargo Rating
+Merchant Ship
+Speed Combat
+Warship
+Hostages
+
+2.5 DICE
+The game uses six-sided dice. The following abbreviations differenti-
+ate the various rolls: 
+ is the roll of one black die (for a possible result of 1–6). This 
+procedure is also more simply called, in these rules, “roll one die”. 
+The term “dieroll” always refers to a 1d6 roll.
+2d6 
+is the roll of two black dice, adding them together (for a possible 
+result of 2–12)
+3d6
+ is the roll of all three dice, adding them together (for a possible 
+result of 3–18)
+D66 
+is the roll of one black die and one white die, with the black die 
+the ten’s digit and the white die the one’s digit, for a possible result 
+of 11–66 (example: 5 black and 2 white yields a result of 52).
+2.6 USEFUL TERMINOLOGY
+The terms and abbreviations you’ll see throughout the rules have the 
+following meanings in the game:
+Active Pirate: The Pirate who has currently announced a Pirate Action 
+or is currently conducting a Pirate Action.
+Anti-Pirate Player: All Players not currently undertaking a Player-
+Turn. The other player is called the Pirate Player. 
+AP: Anti-Pirate—usually in the context of AP Action.
+At Sea: In a Sea Area, as opposed to being In-Port.
+Booty: This is what the Pirates are after and, as this is a family game, 
+it refers to seized merchant cargo as well as doubloons gained from 
+other activities, including ransoming Hostage, sacking ports, and 
+more. Booty can be turned into Net Worth, a game term used to help 
+determine Victory. 
+D&R: Debauchery and Revelry, a condition in which Pirates are cel-
+ebrating their successes.
+In Hand: Cards a player holds, un-revealed, and has not yet played. 
+In-Port: Refers to Pirates, Actions, and situation that occur while a 
+Pirate is in a Port space, as opposed to being At Sea.
+KC: King’s Commissioner.
+Net Worth: The monetary value of the Pirate resulting from “cashing 
+in” booty.
+NP: Abbreviation for Notoriety Points, a numerical rendering of reputa-
+tion earned for dastardly deeds.
+Pirate Player: The Player currently undertaking a Player-Turn (4.3). 
+The other players are called Anti-Pirate Players.
+Player Order: Who goes when, as determined during the Preparing 
+for Play procedure. 
+Player-Turn: The portion of play during which a specific Player acts 
+as the Pirate Player.
+2.7 NUMBER OF PLAYERS
+Blackbeard can be played by anywhere from 1 to 5 players. 
+2–5 Players: The game plays best with from 3–5 players, but 2-player 
+games proved popular in playtesting, so it definitely does work as a 
+2-player game. 
+1 Player: See 19.0 for rules on Solitaire Play (which includes some 
+deviation from the standard rules).
+More than 5 Players (suggestion): If you have from 6–10 players, you 
+can play the game by restricting each player to having only one Pirate 
+at a time. Each player draws only one Pirate card to start the game—see 
+3.0—and draws another Pirate card only if that Pirate leaves the game 
+(by retiring or by being eliminated). Any player not wanting to use the 
+Pirate he/she has drawn can draw a different one instead, giving each 
+other player 10 VP and placing the originally drawn Pirate card back 
+in the Pirate deck. 
+2.8 QUESTIONS?
+Send a self addressed stamped envelope to:
+GMT Games
+ATTN: Blackbeard Q’s
+PO Box 1308
+Hanford CA 93232
+www.GMTgames.com
+You can also reach us at www.Consimworld.com and www.board-
+gamegeek.com.
+3 PREPARING FOR PLAY
+Step 1: Lay out the Components
+Unfold the map and lay it on the table. Separate the counters and 
+markers into stacks by type. Give each player the following number of 
+Pirate Displays, arranging the displays in a convenient location so that 
+all players can see them at all times (the number of Pirate Displays a 
+player has equals the maximum number of Pirate counters that player 
+may have on the board at any given time during the game):
+: 2 Pirate Displays to each Player. 
+: 3 Pirate Displays to each Player.
+: 4 Pirate Displays to each Player.
+Step 2: Determine Player Order 
+Each player rolls a die. The player with the highest result becomes 
+Player A, with the player to his left becoming Player B and so on, 
+clockwise around the table. Player A then does a Player-Turn, followed 
+by Player B, then Player C, Player D, and Player E, coming back to 
+Player A once the last player has done a turn. This sequence of players 
+is known as Player Order. 
+Step 3: Prepare the Cards 
+Separate the cards into their two decks, Pirates and Events. Shuffle 
+the Pirates and set them aside in their box on the game board. Remove 
+from the Event deck all the cards that say “Must Play Immediately” 
+(see 17.15) and place these aside until Step 4. 
+Step 4: Deal the Event Cards 
+Shuffle the Event cards and deal face down 4 Event Cards to each 
+player, in Player Order. Next, place all the “Must Play Immediately” 
+cards you removed in Step 3 back into the Event deck and reshuffle it. 
+Finally, place the Event deck face down in the Events Cards box on 
+the game board.
+Step 5. Place the Governors 
+Set the 16 Anti-Pirate Governors aside in their holding box (for later 
+use). For each of the 8 Pro-Pirate Governors, roll D66 and consult 
+the Port Locator number corresponding to that result, to see at which 
+Port that Governor counter is placed. Place the Governor counter in 
+the Port Box for that port. Do not put Governors in Pirate Ports, and 
+only one governor per port; if you roll a Port number in which you’ve 
+already placed a Governor, or the number of a Pirate Port, place him 
+in the next available Port with a higher number (starting back at 11 if 
+you get all the way to 66). 
+Historical Note: All of the Governors depicted in the game are, essen-
+tially, English … mainly because they were the only names we could 
+find. Some will end up in non-English Ports. A lack of historicity, to 
+be sure, but it IS a game, and the effect is the same. 
+
+Step 6. Select the Pirates 
+Shuffle the Pirate Deck and randomly deal the following number of 
+Pirate Cards to each Player, in Player Order:
+: 2 Pirate Cards per Player. 
+: 3 Pirate Cards per Player.
+: 4 Pirate Cards per Player.
+Note: In-hand Pirate Cards never count towards the maximum number 
+of Event cards allowed.
+Optional Rule: If all players agree, the following rule applies. Players 
+choose their Pirates, specifically and knowingly, instead of drawing 
+them randomly. Each player chooses a number of Pirate Cards cor-
+responding to the number of players in the game (as indicated above). 
+Each player rolls a die to see who gets to start choosing Pirates first 
+(this is over and above the Player Order dieroll in Step 1). After that, 
+selection goes around the table, clockwise—or in alphabetical order of 
+player names in online games—one Pirate at a time, in Reverse Draft 
+format. (That means, for example, in a 4-player game, choices will be 
+made in the following Player # order: 1-2-3-4-4-3-2-1; in a 3-player 
+game it would be 1-2-3-3-2-1-1-2-3.).
+Play Note: The optional rule is recommended for those who know the 
+game, specifically how the Pirate ratings function. .
+Step 7: Deploy the Pirates 
+In Player Order, each Player must now deploy one Pirate, placing the 
+cardboard counter for that Pirate in the Sea Area of the Player’s choice 
+(it is entirely permissible for more than one Pirate to begin the game in 
+the same Sea Area). After all Players have done so, each may deploy 
+a second Pirate in the same manner (in a three-player or two-player 
+game, this continues until each Player has deployed the desired number 
+of Pirates up to the limit—see 5.16). Then, simultaneously, all Players 
+do the following: Each Player uses one Pirate Display for each Pirate, 
+placing the Pirate Card in the appropriate box on that display face up so 
+that the Pirate’s values are visible to all, and placing a Pirate ID marker 
+for that Pirate beside the Pirate Card. Each Player assigns each of his 
+Pirates a Ship—either a Sloop or a Schooner, his choice, placing on the 
+Pirate Display the appropriate markers for Ship Type and the starting 
+Combat and Speed ratings for that ship type (see 6.28). He also places 
+the Loyalty Level marker at 7. 
+Play Note: For greater secrecy, players may instead agree to record the 
+locations of their initial Pirates) and reveal them simultaneously after 
+all have made their choices. If players want a more random setup, they 
+can roll D66 for each Pirate and place him in the Sea Area adjoining 
+the resulting Port Locator number.
+Step 8. Place the Merchant Ships 
+Place all 35 Merchant ship counters in an opaque cup (or face-down 
+on the map or table). This is the Merchant Pool. Randomly draw from 
+the Merchant Pool eight (8) Merchant ship counters (it doesn’t matter 
+which player does this). As each one is drawn, roll D66 and consult the 
+Port Locator number corresponding to that result, to see at which Port 
+that Merchant counter is placed. The counters are placed face-down, so 
+as to hide the type of ship, in the Merchant Box just outside the Port. 
+Do not put Merchants in Pirate ports, and place a maximum of one 
+Merchant per port. If the Port rolled is one of the three Pirate Ports, 
+or a Port with a Merchant ship already in its Merchant Box, place the 
+Merchant in the Merchant Box of the next highest numbered available 
+Port (start back at 11 if you reach 66).
+Example: A D66 roll of 15 places that Merchant in the Merchant Box 
+for Bath, which is in the Central Atlantic Sea Area. If the next D66 roll 
+is also 15, place the Merchant in the Merchant Box for Charleston, in 
+the South Atlantic Coast area.
+Step 9. Place the Other Markers 
+Place the Victory Point markers for all Players in the “0” box on the 
+Victory Point track on the map, with the +100 side face-down. Place 
+the 8 named King’s Commissioner counters in an opaque cup (or face-
+down on the map or table)—keep the “Ex-Pirate” KC counter aside 
+for possible later use. Do the same, in their own “pools”, for the 15 
+Hostage counters, the 16 Anti-Pirate Governor counters, and the 15 
+Warship counters. These will be drawn blindly and randomly from the 
+pools at various times during play. 
+Step 10. Determine the Game Length 
+See rule 4.1 to choose between a Standard Game or a Long Game.
+Step 11. Conduct Player-Turns (i.e., Start Playing)
+Each player now completes a Player-Turn (4.3), in the order determined 
+in Step 2. Repeat Step 11 until the Game Length (4.1) is reached. At 
+that point, determine the Winner (18.0).
+4 COURSE OF PLAY
+4.1 GAME LENGTH
+Standard Game: The instant the General Pardon card has been 
+played for the third time (see 17.2), the game is over. This game will 
+take between 2–3 hours to play.
+Long Game: If players want a longer game, they may agree to play 
+through the Event Deck twice instead of just once. In such a case, hold 
+the General Pardon card out of the Event Deck until the deck is re-
+shuffled after the first run-through, shuffling the General Pardon card 
+into that deck at that time. This game will take 4–5 hours to play.
+4.2 OBJECTIVES AND FLOW OF PLAY
+The object of the game is to win by accumulating the most Victory 
+Points. Players earn VP from the Notoriety earned and the Booty 
+gathered and cashed in by their Pirates. Pirates get Booty by seizing 
+the cargo (including hostages) of Merchant Ships or successfully attack-
+ing a Port. Pirates—and, occasionally, a King’s Commissioner—gain 
+Notoriety, in the form of Notoriety Points, for the ways in which they 
+accomplish these objectives (18.0).
+During each Player’s turn (called the Player-Turn), that Player (called 
+the Pirate Player) undertakes Pirate Actions or initiates Events. During 
+that same Player’s Turn, the other players (each called an Anti-Pirate 
+Player) have opportunities to stop or hinder the Pirate Player’s Pirates 
+by using Anti-Pirate (AP) Actions. 
+4.3 THE PLAYER-TURN
+The game is played in successive Player-Turns, with play going around 
+the table in Player Order until the game ends (4.1). A Player-Turn con-
+sists of four phases: the Event Card Draw Phase, the Merchant Ship 
+Phase, the Event Card Play Phase, and the Actions Phase, as explained 
+here. After the Pirate Player has completed all Phases, the next person 
+in Player Order becomes the Pirate Player (it is his Player-Turn) and 
+so on until the game has ended.
+Design Note: Unlike most wargames, Blackbeard does not have a 
+Game-Turn, only Player-Turns. 
+4.4 PHASES OF THE PLAYER-TURN
+A. Card Draw Phase
+The Pirate Player must draw Event cards, one at a time, until he has 
+four (4) Event cards in his hand. If the card says “Hold Until Played”, 
+the player must keep it (for now) as one of the four cards allowed. If 
+a drawn card states “Must Play Immediately”, he places it face-up on 
+the table and resolves it at once, after which he places it face-up on the 
+Discard pile. He then immediately draws another. This process continues 
+until he has four Event cards In Hand (Pirate cards do not count). 
+
+B. Merchant Ship Phase 
+If there are fewer than five (5) Merchant Ships on the map, the Pirate 
+Player immediately increases the number to six (6) as per 6.31.
+C. Card Play Phase
+The Pirate Player plays as many cards as he wishes from his hand, in 
+any order he wishes, but only ONE may be played for Actions (Excep-
+tion: 4.55). 
+Use ONE of the following three possibilities for EACH card:
+	 Play the card for its Event (“Event OR Actions” cards only)
+: 
+The Pirate Player immediately resolves the Event described on the 
+card*. See 17.2 for a full description of the Event. Anti-Pirate Ac-
+tions may not be undertaken by the other players. Note: the only 
+two Event cards to which option #1 applies are Letter of Marque 
+and Skull and Crossbones.
+	 Play the Card for Actions (“Event OR Actions” cards only)
+: 
+The Pirate Player conducts the number of Actions allowed by the 
+card—or fewer if desired—and then places the card on the Discard 
+pile. Anti-Pirate Actions may be undertaken by the other players 
+during the Pirate Player’s Actions. The Pirate Player may use only 
+one card per Player-Turn for Actions.
+	 Play the Card both for its Event and for an Action (“Event AND 
+Action” cards only): The Pirate Player immediately resolves the 
+Event described on the card*, after which he must conduct one 
+Action. See 17.12 for details. After completing the Event and the 
+Action, he places the card in the Discard pile. Anti-Pirate Actions 
+may be undertaken by the other players during the Pirate Player’s 
+Action. This card does count as the only card he may play for Ac-
+tions that Player Turn.
+* If the card description contains an asterisk (*), consult 17.2 for the 
+full and official description of the Event. 
+D. Change Pirate Players
+The next Player in the Player Order now conducts his Player Turn.
+4.5 PIRATE ACTIONS 
+When playing a card for Actions, the Pirate Player may perform the 
+number of Actions allowed by the card (or fewer if he wishes), com-
+pleting each Action in full before starting the next. The number of 
+Actions allowed by the card is equal to the Actions number printed 
+on the card—except for cards bearing a diamond-shaped icon in the 
+Actions Circle, which allow a number of Actions equal to the active 
+Pirate’s Initiative Rating.
+Each Action allows the Pirate to perform ONE of the following Pirate 
+Actions. Note, however, that some Actions, such as Loot Merchant 
+Ship and In Port Activities, may have more than one actual activity 
+to them):
+	
+A.	 Move (7.0): Move a Pirate from one map location to another. 
+	
+B.	 Find Merchant Ship (8.1): This does not include taking its cargo, 
+etc., covered in the Loot Merchant Ship Action.
+	
+C.	 Loot Merchant Ship (8.2 & 8.3): This includes seizing both Cargo 
+and Hostages. 
+	
+D.	 In-Port Activities (9.4): Includes Selling Booty, Ransoming Hos-
+tages, Refitting Ships, and purchasing the right to use the port as a 
+Safe Haven.
+	
+E.	 Booty Grab (9.6): This is a separate in Port Action, conducted by 
+one Player’s Pirate against another Player’s Pirate.
+	
+F.	 D&R Recovery (16.0): This removes Debauchery & Revelry 
+markers (13.0). D&R Recovery is a separate Action from In-Port 
+Activities, although it takes place only In-Port.
+	
+G.	 Attack Port (9.5): May not be done while In-Port.
+	
+H.	 Sack Port (9.55): May be done only while In-Port.
+	
+I.	 Form Pirate Alliance (11.0): May occur only between one player’s 
+two deployed Pirates.
+	
+J.	 Retire Voluntarily (18.4): May be done only while in a Pro-Pirate 
+Port with a Letter of Marque for that port’s nationality, or at any 
+time in a Pirate Port.
+	
+K.	 Draw New Pirate Card and/or Deploy New Pirate (5.1): Only 
+within the limits prescribed in 5.16.
+(4.51) If there is an Action Number on the Event Card, and that number 
+is greater than one (1), the Player may divide the Actions among the 
+Pirates he has in play. Example: A player has two Pirates in play and 
+draws an Event card that allows 2 Actions. The Player may undertake 2 
+Actions with one of his Pirates or 1 Action with each of his two Pirates 
+… in any order he wishes. 
+(4.52) Some cards, instead of having a specific number, say “Actions 
+= Initiative”. In this case, the number of Actions the Player may un-
+dertake is dependent on the Initiative Rating of the Pirate he wants to 
+use; the Initiative Rating is shown on the Pirate’s card. He may assign 
+the Actions to any ONE of his in-play Pirates for this purpose (i.e., he 
+may not split the Actions as in 4.51). 
+Example: A Player with Blackbeard (Edward Teach) who plays an 
+Actions = Initiative card may undertake 3 Actions with Blackbeard 
+(but only with Blackbeard).
+(4.53) If a Pirate whose Initiative rating has been used to determine 
+Actions is eliminated before that Player can use all those Actions, that 
+player may use the remaining Actions for any other Pirate. 
+Play Note: One use of a remaining Action in such a case would be to 
+bring a new Pirate into the game.
+(4.54) If a player has multiple Actions to work with, he may perform 
+the same Actions twice or even three times consecutively. 
+(4.55) If a player has no cards which he could play to determine how 
+many Actions he may undertake (this is very, very rare), he may—and 
+only in this circumstance—conduct one Action for each card he places 
+on the Discard pile at this time, up to two (2) Actions for two (2) cards 
+(see also 17.14). 
+4.6 ANTI-PIRATE (AP) ACTIONS
+(4.61) During each Player-Turn, EACH of the Anti-Pirate Players may 
+undertake ONE of the Anti-Pirate Action types listed in 4.65, either 
+by playing a card or simply by announcing the AP Action. Exception: 
+10.23.
+Play Note: It is important to remember that each AP Player gets to 
+do one AP Action per Player-Turn, not per Action. So if a Pirate has 
+three Actions, the AP Players must decide which of those three Actions 
+to disrupt through an AP Action.
+(4.62) No AP Action type (whether successful or not) may be played 
+more than once against an active Pirate during any given Action. 
+Example: During Holly’s Player-Turn, Arlo plays a Warship Sight-
+ing card but without any effect. No other player may play a Warship 
+Sighting card against Holly’s Pirate(s) during that same Action. They 
+may, however, play other AP Action types, including Use On Station 
+Warship, as long as those types also have not yet been played during 
+that Action. 
+Play Note: Keep in mind that the restriction in this case (unlike 4.61) 
+is per Action, not per Player-Turn. 
+(4.63) Anti-Pirate Actions are performed either while the Pirate Player 
+is undertaking his Pirate Action, or immediately following such an 
+Action, with some AP Action types (Warships, for example) having 
+specific requirements for when they are played. If two players want to 
+undertake an AP Action at the same time, precedence goes to the player 
+
+Example of a Player Turn 
+There are 4 players. It is Marco’s Turn; he is the Pirate Player. He 
+has only 3 cards so he draws one more—it’s a “Hold Until Played” 
+card, so he keeps it in his hand. He now plays an Event Card that 
+allows two Actions (but not the Event). He decides to move Edward 
+Low, one of his Pirates, from the Central Atlantic Sea Area into the 
+South Atlantic Sea Area. Before he can do so, Holly, sitting directly 
+to his left, plays, as her Anti-Pirate Action for that Player-Turn, a 
+Scurvy card against Low. Marco places a Scurvy marker on Low’s 
+Pirate Display and lowers the Crew Loyalty rating of Low’s ship 
+by 1. No other Anti-Pirate Player plays an AP Action at this time, 
+so Marco moves the Pirate counter for Low into the South Atlantic 
+Sea Area. 
+For his second Pirate Action, Marco now decides to see if he can 
+Find the face-down Merchant Ship in the Merchant box at Charles-
+ton. He rolls a die, adjusting it as per the rules, and gets a final 
+result of ‘5’, which means he fails. That Action is finished. 
+However, as Low is still active—Marco has finished his second Ac-
+tion but play has not passed yet —Todd, directly to Marco’s right, 
+announces he is going to conduct an Anti-Pirate Action, moving 
+his King’s Commissioner, Chaloner Ogle, from the Eastern Carib-
+bean Sea Area into the Western Caribbean Sea Area, positioning 
+himself to attempt to conduct KC Reaction against Low when low 
+next conducts an Actions to which KC Reaction applies. Marco’s 
+player-turn is finished.
+who announced it (or shouted it) first; if nobody can agree who did so, 
+the Player Order determines who gets to play it. 
+(4.64) AP Actions may be directed only against the currently activated 
+Pirate. However, AP Actions may not be played against a Player who 
+is drawing a new Pirate Card or deploying a new Pirate.
+(4.65) The Anti-Pirate Action types are as follows:
+	
+A.	 Attempt to Deploy a King’s Commissioner (10.12): Does not use 
+an Event Card. This Action is separate from “Use a King’s Com-
+missioner”. 
+	
+B.	 Use On Station Warship (6.43): Does not use an Event Card. The 
+AP Player 
+Use Existing King’s Commissioner
+C.	
+ (10.2): Does not use an Event 
+Card.
+	
+D.	 Play an AP Event Card Action (17.0) that would possibly affect 
+the Pirate’s Play, but only if that “type” of AP Event Card Action 
+has not yet been played during the current Player Turn. An AP Event 
+Card Action “type” consitutes all the identical AP Event Cards in 
+the deck—for example, Mutiny Conspiracy is an AP Event Card 
+type, as is Scurvy Outbreak. In other words, each AP Player may 
+play one of the AP Event Card Action types during a given Player 
+-Turn, but no Event Card Action type may be played more than 
+once during that Player-Turn (this is true even if the current Player 
+activates more than one Pirate during a given Player-Turn).
+Play Note: The vast majority of AP Actions arise from type D, playing 
+AP Event Card types against the activated Pirate.
+(4.66) KC Reaction—see 10.32—is not considered an Anti-Pirate 
+Action type, even though it does indeed consist of Anti-Pirate Players 
+interfering with Pirate Actions. As a result, KC Reaction does not count 
+as the AP Action played for that AP Player.
+(4.67) Event Cards played as Anti-Pirate Actions are placed in the 
+Discard pile.
+(4.68) Restriction against Working Together: Anti-Pirate Players 
+may not negotiate with one another in any way about which AP Events 
+to play in which order. In fact, they may not even show one another 
+their AP cards. 
+Play Note: AP Players are essentially enactors of events beyond the 
+control of the Pirates; they don’t represent actual personages, except 
+when controlling a King’s Commissioner—and King’s Commissioners 
+in this game don’t negotiate with Pirates. 
+5 PIRATES
+There are 23 Pirate cards. Each one is a historical figure from piracy’s 
+Golden Age. For each Pirate there is also a Pirate counter, with the name 
+of his (usually historical) ship on it. These counters are moved on the 
+map to represent the Pirate’s location. The Pirate counters in Blackbeard 
+have no ratings; all Pirate ratings are on the respective cards.
+A Pirate stays in the game unless and until he either Retires (18.4) or 
+is Eliminated. In the first case, place his counter in the Retired Pirates 
+box on the map; in the second, place it in the Davy Jones’ Locker box. 
+Once either of these things occurs, his Pirate Card may not be used 
+again; the counter for a Retired Pirate can return on the play of a Pirate 
+Converts Event Card (see 17.2).
+Design Note: We have not included any famous but fictional Pirates, 
+such as Captain Blood or Jack Sparrow. Copyright and usage problems, 
+you know. You, of course, are free to make up your own cards for these 
+bogus buccaneers.
+Historical Note: The two famous female Pirates of the era, Anne Bon-
+ney and Mary Read, are part of the Jack Rackham card.
+5.1 DEPLOYING PIRATES
+(5.11) Pirates are deployed by the Players at the start of the game and, 
+if desired, as the game proceeds.
+(5.12) Before play starts each Player must deploy at least one of his 
+Pirates; see 3.0, Step 7. He may not use any Pirate that has not been 
+deployed (5.14).
+(5.13) A Player may Deploy any Pirate he has In Hand, or one for 
+whom he has just drawn a Pirate Card as one of his Actions for his 
+Turn (5.16). When initially deployed, a Pirate is given a Ship, either 
+a Sloop or a Schooner; the player takes a fresh Pirate Display and, on 
+it, places an appropriate Ship Type marker and markers for Combat, 
+Speed, and Loyalty (exactly as in 3.0 Step 7). 
+(5.14) A Player may never have more Pirates in play (i.e., on the map) 
+than the total number of Pirate cards with which he began the game 
+(see 3.0 Step 6). Example: in a 5-player game, each Player may have a 
+maximum of two Pirates in play; in a 3-player game, each player may 
+have three. And see 5.16.
+(5.15) When initially deployed, a Pirate is placed in any Sea Area on 
+the map. 
+(5.16) A Player, as a Pirate Action, may obtain a new Pirate by draw-
+ing, randomly and blindly, a Pirate Card from that deck. He may either 
+deploy that Pirate as part of that same Action, or hold the Pirate Card 
+In Hand. If no Pirate cards remain unselected, no one may get a new 
+Pirate. A Player may have no more than the following number of Pirate 
+cards in hand and Pirates in play at any one time:
+: 3 Pirate Cards in hand and 2 Pirates 
+in play. 
+: 3 Pirate Cards in hand and 3 Pirates in play.
+: 4 Pirate Cards in hand and 4 Pirates in play.
+
+5.2 PIRATE RATINGS
+All Pirates have the following ratings; these ratings are on the Pirate 
+Card, not on the Pirate’s counter:
+Initiative
+: How “active” a Pirate tended to be. This is used to deter-
+mine the number of Actions when the Event Card bears a diamond-
+shaped icon in the Actions Circle.
+Ability
+: The Pirate’s naval and combat skills: the higher the better.
+Leadership
+: The Pirate’s ability to control his crew—usually to quell 
+a Mutiny—and stay the leader of that ship. The higher the better.
+Cruelty
+: The Pirates tendency to use dastardly, and harmful, deeds 
+to gain information … or just for fun. See 8.45 and 9.55.
+Cunning
+: The Pirate’s ability to avoid Bad Things that sometime 
+happen. You could also call this Luck. The rating is the number of 
+times this Pirate may use Cunning. See 12.0. Cunning is also used 
+to play a “Skull & Crossbones” Event Card; see 17.0.
+Duel
+: The Pirate’s personal combat skill, used to determine whether 
+a ship takeover attempt by another Pirate succeeds or not (see Pirati-
+cal Ambition Event card description in 17.0) or as a possible result 
+of a Booty Grab (see 9.6).
+6 SHIPS
+6.1 TYPES OF SHIPS
+(6.11) There are four categories of ships in the game:
+Pirate’s Ships
+: The Pirate counters represent where each Pirate and 
+his Ship is located on the map, either At Sea or In Port. The Pirate’s 
+ratings are on the corresponding Pirate Card; the Ship’s information 
+is represented by the tracks on the Pirate Display. See 6.2.
+Merchant Ships
+: These counters have one rating, Cargo Capacity, 
+plus an icon and a colored border distinguishing the Ship’s type 
+(see 6.12).
+Warships
+: These counters have two ratings: Speed and Combat. 
+See 6.4.
+King’s Commissioners
+: These counters have two ratings: Speed 
+and Combat. The counter represents both the KC and his ships(s). 
+See 10.0.
+(6.12) There are five types of Merchant and Pirate vessels used in the 
+game. See 6.23 for these Ships’ ratings.
+Flutes (a.k.a Fluyts): Older, outdated merchant ships. 
+Flutes have a Cargo Rating of zero, and a black border 
+indicating that they may not be converted to Pirate 
+Ships. 
+Sloops: Single-masted and fast, with small holds—usable 
+from the start of the game as Pirate Ships and, if found 
+as Merchant Ships, they may be converted to Pirate ships. 
+Sloops have a Cargo Rating of 1, and Sloop counters have 
+a red border.
+Schooners: Two or more masts, with larger holds than 
+sloops, but slower—usable from start of game as Pirate 
+Ships and, if found as Merchant Ships, may be con-
+verted to Pirate ships. Schooners have a Cargo Rating of 
+2, and Schooner counters have a blue border.
+Brigantines: Two masts (one of them square-rigged), 
+with large holds; when found, may be converted to Pirate 
+ships. Brigantines have a Cargo Rating of 3, and Brigan-
+tine counters have a green border.
+3-Masted Square Riggers: Three masts, large holds, and 
+natural targets for Pirates. Square Riggers have a Cargo 
+Rating of 4, and a black border indicating that they may 
+not be converted to Pirate Ships. 
+(6.13) Warships come in three varieties, based on the number of guns. 
+The more guns a ship has, the bigger the ship and the higher its Combat 
+rating, and the slower it and its Speed is. See 6.4 for how their ratings 
+function.
+6.2 PIRATE SHIPS
+(6.21) Each Pirate enters the game—deployed– with either a Sloop or a 
+Schooner, the choice between the two being made by the Player. Each 
+Pirate also starts with a Crew Loyalty level of 7. A Pirate may upgrade 
+to a Brigantine by capturing and converting one (as per 8.5).
+(6.22) Pirate Ships are rated for the following capacities:
+Speed
+, or the ability to Evade Warships or King’s Commissioners. 
+As such it also represents maneuverability.
+Combat
+, or their ability to engage in naval battles with other ships, 
+usually representing firepower (guns) as well as the crew capabili-
+ties.
+Holds
+, or how much captured cargo, or Booty from a Port Attack, 
+they can carry. Each Hold can carry one Merchant’s cargo manifest 
+or one port’s loot; see 8.32.
+(6.23) The three ship types for Pirates have the following maximum 
+capacities:
+Sloop
+: Combat—5; Speed—5, Holds—2
+Schooner
+: Combat—6, Speed—3, Holds—3
+Brigantine
+: Combat—7, Speed—1, Holds—4
+(6.24) Pirate Display: Each Pirate’s ship is represented by a Pirate 
+Display, used to show which Pirate is commanding that vessel and which 
+of the three ship types he has. It also has tracks for the current Combat, 
+Speed, and Loyalty ratings, as well as tracks for the Holds. When a 
+Pirate is first put into play, place a Speed marker on the Speed Track 
+and a Combat marker on the Combat Track corresponding to the ship 
+type selected for that Pirate (see 6.23 for the track starting positions). 
+The Loyalty marker is always placed on the 7 space for new Ships. 
+Play Note: that the “Jubilation” label on the Crew Loyalty track 
+doesn’t actually mean anything game-wise; we just put it there so that 
+you can experience your own Jubilation when the Loyalty marker gets 
+that far along.
+(6.25) Damage: Pirate Ships may suffer Damage. Damage will affect 
+a Pirate Ship’s Speed and/or Combat ratings (see 6.26 and 6.27). Each 
+Pirate Display contains tracks for Speed and Combat, the numbers 
+within representing the current Speed/Combat rating of the Ship. When 
+a Ship is first deployed, Speed and Combat markers are placed according 
+to 6.23; as the game proceeds, these markers are moved up and down 
+the track to indicate increases and decreases in the ratings. 
+For each Damage Hit suffered, move the Speed or Combat marker 
+(whichever type of hit it suffered) down its track, reflecting the ef-
+fect of such Hits. 
+When a Ship has incurred enough Damage Hits to its Speed or Com-
+bat so that the Speed or Combat marker is placed in the Sunk’ Box 
+on that Track, the ship is Sunk and everything aboard, including the 
+Pirate, is Lost/Dead.
+See 9.44 for repairing Damage by Refitting.
+(6.26) Speed Damage: When a Ship takes Damage Hits from Storms 
+at Sea or Wear and Tear, those Hits affect only the Speed. See 7.12. 
+Any ship that has a current Speed rating of less than zero must spend 
+two consecutive Move Actions to Move at all. Exception: Fair Winds, 
+see 17.0). In addition, each time a Ship’s Speed rating falls from 0 to 
+–1, the Crew Loyalty for that Ship decreases by one (–1).
+(6.27) Combat Damage: When a Ship takes Damage Hits from Battle 
+or Port Attack, those Hits affect only its Combat Rating. 
+
+6.3 MERCHANT SHIPS
+Merchant Ship counters show only one rating: a Cargo modifier, used 
+in 8.32 and 8.35. See 6.12 for the different types of Merchant Ships.
+(6.31) Merchant Ships are placed by rolling D66 and consulting the Port 
+Locator number corresponding to that result. A Merchant Ship counter is 
+drawn randomly from the Merchant Ship pool and placed in that Port’s 
+Merchant Box. The counter is placed face down so that its information 
+is unknown. The Port itself is considered its destination.
+(6.32) If the Port rolled is one of the three Pirate Ports, or a destroyed 
+port, or a Port with a Merchant ship already in its Merchant Box, place 
+the Merchant in the Merchant Box of the next highest numbered avail-
+able Port (start back at 11 if you reach 66).
+(6.33) There may never be more than one merchant Ship in a given 
+Port’s Merchant Box at any one time. 
+(6.34) Merchant ships that are removed from play are placed back in 
+the Merchant pool for (possible) use again.
+6.4 WARSHIPS 
+Warship counters show two ratings: Speed (on the left) 
+and Combat (on the right). Speed is used in 6.45, Combat 
+in 6.46.
+Historical Note: Warships, mostly from The Royal Navy, 
+were highly ineffective at finding, chasing or capturing Pirates, although 
+they did have their successes.
+Designer’s Note: Warships in the game are significantly less powerful 
+than in the original version of Blackbeard. That is intentional, and was 
+demanded by the research conducted for the new version. Historically, 
+pirates were often successful against warships.
+Living Rules Note: See 2.4 for a recommended change in the Combat 
+procedure for Warships.
+(6.41) A Warship enters the game through the play of a Warship Sight-
+ing Event card, accoring to 6.42; as part of the card play, the Warship 
+may be used by the AP Player to attempt to intercept the Pirate. An 
+On-Station Warship (i.e., a Warship already on the map) may be 
+activated as an Anti-Pirate Action, without the use of a card; it may 
+be used as per 6.43. Only one Warship may ever be On Station in any 
+one Sea Area. Warships are used exclusively to intercept and attack a 
+Pirate according to 6.42 or 6.43.
+(6.42) Placing and Using New Warships: When a Warship Sighting 
+Event Card is played as an Event, that Anti-Pirate Player blindly and 
+randomly draws a counter from the Warship pool and places it, with 
+its Combat value side showing, in the Sea Area where the Pirate has 
+announced or is performing one of the following Pirate Actions: 
+—but not if the Attack is successful, because that places 
+the Pirate in the Port itself, where the Warship cannot attack him 
+(10.36)
+Find Merchant Ship, Loot Merchant Ship, or Attack Port Action. The 
+Action of placing a warship includes using it to attack the Pirate (6.23), 
+but only if the Anti-Pirate player so desires. Once the Anti-Pirate Player 
+reveals the Warship’s strength, he may choose not to attack, leaving it 
+On Station. No more than one Warship Sighting card may be played 
+during any given Pirate Player Turn, even if a Pirate conducts more 
+than one Action during that Player-Turn, and even if the current Player 
+activates more than one Pirate during the Player-Turn. 
+Play Note: Note however, that AP Actions B and D are separate AP 
+Action types. So during any given Player-Turn, it is legal for AP-
+Player-2 to act against the active Pirate with the same Warship placed 
+by AP-Player-1.
+(6.43) Using On-Station Warships: A Warship already On-Station in a 
+Sea Area may be used by any player in an AP Action, without playing 
+a card, to attack an active Pirate who has announced or is performing 
+any one of the following Pirate Actions in the Warship’s Sea Zone:
+—but not if the Attack is successful, because that places 
+the Pirate in the Port itself, where the Warship cannot attack him 
+(10.36)
+A (6.44) Restrictions on Warship AP Actions: No more than one 
+Warship AP Action may be played against a Pirate during a given Pi-
+rate Action. However, if a Pirate conducts multiple Actions in a Player 
+Turn, each separate Action can instigate an Anti-Pirate Warship Action 
+against him.
+(6.45) When an AP Player announces he is interrupting an eligible Pirate 
+Action in order to use a Warship to attack that Pirate, the Pirate must 
+make an immediate decision whether to stay and fight or try to escape. 
+If he decides to fight, immediately resolve the attack as per 6.46. If he 
+opts to escape, the players undergo the procedure for finding the Pirate 
+as outlined below. 
+To find the Pirate, both Players roll a die separately. The Warship’s 
+Speed is added to the Warship player’s result, while the Speed of the 
+Pirate’s ship is added to the Pirate player’s result.
+If the Warship’s total is higher than the Pirate total, it attacks the 
+Pirate (see 6.46).
+If the Warship’s total is lower, or the same as that of the Pirate total, 
+the Pirate escapes and there is no battle. The Warship remains On 
+Station where it is (and can be activated by any AP Player with an AP 
+Use On-Station Warship Action in a later Player-Turn). The Pirate 
+stays in the Sea Area in which the battle took place, but any Pirate 
+Action he was conducting is immediately cancelled, and the Action 
+is considered spent. If any Action involving a Merchant is cancelled, 
+the Merchant is simply removed from play.
+(6.46) To resolve the attack, the Pirate rolls a die and adds, to the result, 
+his Ship’s Combat Rating and his Pirate’s Ability Rating. The AP Player 
+who activated the Warship rolls a die, to which he adds the Warship’s 
+Combat Rating (and modifies by a further +2 if using the Living Rules 
+recommendation in 2.4).
+If the Pirate’s total is higher than the Warship’s total the Pirate suf-
+fers 1 Combat Damage Hit and the Warship is removed from play. 
+The Pirate must now proceed with whatever Action he was about to 
+undertake. The Pirate gains Notoriety Points equal to the Warship’s 
+Combat rating.
+If the Pirate’s total is the same as or lower than the Warship’s total the 
+Warship has driven off the Pirate and the Pirate Action is cancelled. 
+The Pirate Ship suffers Combat Damage Hits equal to the difference 
+between the two totals and the Warship remains On Station. In addi-
+tion, the Pirate suffers a loss of one Crew Loyalty Rating point. The 
+Pirate stays in the Sea Area in which the battle took place, but any 
+Pirate Action he was conducting is immediately cancelled, and the 
+Action is considered spent. If any Action involving a Merchant is 
+cancelled, the Merchant is simply removed from play.
+Play Note: There are no Notoriety Points for a player whose Warship 
+defeats a Pirate.
+(6.47) Warships that are removed from play are placed back in the 
+Warship pool for possible later use.
+(6.48) Pirates may not attack Warships; Pirates engage in combat with 
+Warships only via AP Warship actions.
+
+7 MOVEMENT
+7.1 MOVING IN SEA AREAS
+(7.11) As a Pirate Action, a Player may move one of his Pirates as fol-
+lows. These rules apply to moving KCs (10.0) as well:
+One Sea Area to an adjacent Sea Area (
+Exception: Fair Winds (see 
+17.0); OR
+A Sea Area into a Port in that Sea Area, or vice versa; OR
+The “South America” Sea Area to the “South America – Gold Coast 
+“Transit Box, or vice versa;
+The “Gold Coast” Sea Area to either the “South America – Gold 
+Coast Transit Box” or the “Gold Coast – East Africa” Transit Box, 
+or vice versa.
+The “East African” Sea Area to “Gold Coast – East Africa” Transit 
+Box, or vice versa.
+(7.12) Any Pirate Ship whose Speed is reduced below 0 by Damage, as 
+per 6.26, must use two Move Actions simultaneously in order to Move. 
+Exception: Fair Winds (see 17.0).
+7.2 MOVING IN TRANSIT BOXES
+Ships use Transit Boxes to represent Movement from one Region of 
+the world to another. Entering a Transit Box costs one (1) Movement 
+Action; exiting a Transit Box costs another. See 7.11 for how the Transit 
+Boxes connect for movement. 
+Ships in Transit Boxes may not be attacked in any way. However, they 
+are subject to possible harm from Storms and other events. 
+7.3 MOVING INTO AND OUT OF PORTS
+A Ship may enter a Port from the adjoining Sea Area. Entering Port 
+is a single and separate Move Action. Exiting a Port also costs one 
+Move Action, and simply places the Pirate or KC into the adjoining 
+Sea Area. 
+8 MERCHANT SHIPS
+Pirates gain Booty, Notoriety, Port Information, and more 
+by capturing merchant ships as prizes. Warships (6.41 
+and 8.22) and KCs (10.3) can save the Merchant Ship by 
+driving away or eliminating the Pirate.
+Dealing with Merchant Ships is a process involving various Actions and 
+sub-Actions. These procedures are an attempt by the game to simulate 
+the following real-world process:
+	 The Pirate tries to spot a Merchant Ship and run it down (declare 
+Find Merchant action).
+	 The Pirate catches Merchant Ship (rolls 7+).
+	 The Pirate ties up alongside the helpless Merchant Ship (declares 
+a Loot action); takes inventory (determines cargo; adjusts loyalty 
+and NP using the same result) and identifies Hostage (flips Hostage 
+counter).
+	 At this point, after appraising his current situation, the Pirate can 
+4.	
+do any or all of the following (still as part of the Loot action):
+Convert the merchant, if desired
+Take the new Cargo onto his ship (moving/jettisoning current 
+Cargo to make room, if necessary)
+Deal with (Hold/torture) the hostage
+Adjust Loyalty and/or NP for the above, as appropriate
+	 The Pirate can give his crew some R&R, declaring Debauchery & 
+5.	
+Revelry to do so. 
+8.1 FINDING MERCHANTS
+(8.11) Before a Pirate may capture a Merchant Ship and seize its cargo, 
+he must first Find that ship. He may attempt to Find a Merchant in any 
+Merchant Box in the Sea Area in which both he and the Merchant Ship 
+counter are located. 
+(8.12) A Find attempt is a Pirate Action. 
+(8.13) To Find, the Player designates which Merchant Ship he is after 
+and rolls a die, adding to the result the Ability Rating of the Pirate.
+(8.14) If the adjusted dieroll is 7 or higher, that Pirate has found the 
+Merchant Ship and, in a subsequent Action, may Loot it (see 8.2) Flip 
+over the Merchant counter to see the type of ship (6.14) and its Cargo 
+rating. If the adjusted dieroll is 6 or lower, the Pirate has found nothing: 
+he has wasted an Action and the Merchant Ship remains in place. 
+(8.15) Merchant Ships which have been Found by a Pirate but which, 
+because of a lack of Actions remaining for that Pirate, do not end up 
+being Looted (8.2) in the same Player-Turn, are available for Finding 
+by any other Pirate. In such a case, the new Pirate adds one (+1) to the 
+dieroll in 8.13. The new Pirate may not simply automatically Loot it, 
+even if the new Pirate belongs to the same Player. 
+8.2 LOOTING MERCHANTS
+(8.21) A Merchant Ship that has been Found can be boarded and her 
+cargo seized by the Pirate as part of a Loot Merchant Ship Action (see 
+4.5 and 8.3). However, if, before that cargo-taking Action, a Storm at 
+Seas card is played and a storm occurs in that Sea Area, the Merchant 
+Ship is removed from play without being Looted. 
+Historical Note: Once found, merchantmen did not have the speed or ca-
+pability to avoid being caught. or the ability to fight the Pirates off. 
+(8.22) To attempt to stop the Looting, any one Anti-Pirate Player may, at 
+the instant the Looting process is announced (but before it has begun), 
+play a Warship Sighting card, activate a Warship already on Station 
+in that Sea Area (see 6.45 for the resolution), or use KC Reaction to 
+attempt to intercept the Pirate (10.3). Once begun, the Looting process 
+may not be interrupted.
+(8.23) After being looted (8.3) the Merchant Ship counter is removed 
+from the map and placed back in the Merchant Ship pool.
+Example of Looting a Merchant
+Holly’s Pirate, Charles Vane, is in the East Caribbean Sea Area with an 
+undamaged Schooner. The Sea Area also has a Merchant Ship counter 
+in the Santo Domingo Merchant box. Vane uses a Find Merchant Action, 
+rolling a 4 which, when added to his Ability of 4, exceeds the required 
+7. Holly flips the Merchant Ship marker over to reveal a Brigantine 
+(Cargo rating of 3). For Vane’s second Action, Holly announces a Loot 
+Merchant Ship Action. She waits for a few seconds to see if any other 
+player wants to interrupt by using a Warship or a King’s Commissioner. 
+No one does, so she determines the Cargo, rolling a a 6 on the Cargo 
+Table, adding the Cargo rating for a total of 9. The Merchant has a cargo 
+of 2500 Doubloons, a major haul! She then blindly draws a Hostage 
+counter and flips it to reveal a Captain—Info of 5 and Value of 2. She 
+decides to seize the Booty. 
+Holly has no empty Holds, so she jettisons the 400 Doubloons from in 
+one of the Holds and fills it with the 2500 Doubloons Vane just captured 
+(she could, instead, have converted the Brigantine toher own use, but 
+she wants the faster ship). She adjusts the Crew Loyalty Level on Vane’s 
+ship by +1. She decides to torture him to gain information about Santo 
+Domingo for a future attack. She rolls a 4, which is greater than Vane’s 
+Cruelty rating of 3, so Vane gets 5 Info points; she writes a 5 in the 
+Info column on the Santo Domingo line on the Port Grid. Vane gains 
+2 Notoriety Points (from torturing the Hostage). Holly decides against 
+declaring D&R.
+
+8.3 THE LOOTING PROCESS
+Historical Note: Pirates used to lie alongside a captured merchant for 
+days, even weeks, loading cargo, prying info from hostages, and doing 
+generally un-PC things to some of the passengers. That’s why it’s a 
+separate Action from the one with which he found the Merchant ship.
+(8.31) When a Pirate captures a Merchant Ship he may seize its cargo, 
+take and deal with possible Hostages, and convert that Merchant Ship 
+to his own. All of this consitutes one single Action, but a separate 
+Action from Finding the Merchant. To Loot the ship, the Pirate first 
+announces the Action so that everyone can hear it and have a chance 
+to respond—this is the last time the Loot Merchant Action may be 
+interrupted. After the announcement (and fighting off any Warships or 
+King’s Commissioners), the player undergoes the following sequence 
+(each step is detailed more fully throughout section 8.3):
+	 Determine the Cargo (8.32), Identify the Hostage (8.41), and decide 
+if you want to seize the Booty, acquiring the Cargo and the Hostage. 
+If yes, continue to Step 2; if no, Crew Loyalty is decreased and the 
+Pirate’s Action is ended;
+	
+2.	 Perform the following steps in whatever order desired:
+Take the Cargo (8.32) and adjust Notoriety and/or Crew Loyalty 
+(if applicable);
+Convert the Merchant (8.5) if desired—only Sloops, Schooners, 
+and Brigantines may be converted;
+Deal with the Hostage (8.4); adjust Notoriety and/or Crew Loy-
+alty (if applicable);
+	 Remove Merchant Ship from board (8.34);
+	
+4.	 Declare Voluntary D&R, if desired (8.35 and 13.11) and adjusting 
+Crew Loyalty as a result.
+The Pirate’s Loot Action is now finished.
+(8.32) Step 1
+To determine the value of a Merchant’s Cargo, the Pirate 
+player consults the Cargo Table and rolls a die, to which 
+he adds the Cargo rating of the Found merchant (on the 
+ship’s counter), and cross-references that dieroll with the 
+Region in which this Action has taken place. The number 
+is the worth of the Cargo in Doubloons. The Pirate Player now identi-
+fies the Hostage aboard the Merchant Ship—see 8.41 for details. 
+At this point, the Pirate Player decides whether or not to seize the 
+Merchant Ship’s Booty (the Cargo and the Hostage). If yes, go to 8.33. 
+If no, decrease the Pirate Ship’s Crew Loyalty rating by one (–1); the 
+Loot Merchant Action is finished.
+Design and Historical Note: Most ship cargos turned out to be fairly 
+worthless: paper goods, cloth, building materials, whatever. Obviously 
+the bigger, more valuable cargos, sailed in the bigger vessels. Rather 
+than list these by name, we have converted them to possible (and rela-
+tive) worth.
+(8.33) Step 2
+In this Step, the items listed above in 8.31(#2) in any order the Pirate 
+Player wishes.
+Take the Cargo: Here the Pirate takes the Cargo determined by die-
+roll in Step 1. He adds Number markers to one of his empty Holds 
+to reflect the amount of the new Cargo in Doubloons. If he does not 
+have an empty Hold, he either abandons the Cargo gained in Step 1, he 
+jettisons one Hold’s worth of cargo in order to accommodate the new 
+Cargo, or (if he wishes) he converts the Merchant Ship to his own Ship 
+(see 8.5) in order to gain extra Holds (assuming the Merchant Ship has 
+more Holds than his does). Taking the Cargo earns that Pirate Notoriety 
+Points equal to that ship’s Cargo Rating; it can also result in an increase 
+in the Pirate’s Crew Loyalty level, depending on the roll on the Cargo 
+table (see the Play Aid card).
+Convert the Merchant Ship: The Pirate replaces his own ship with 
+the Merchant Ship—see 8.5 for details. He does this for any number 
+of reasons, including wanting a Ship that has more Holds, a Ship that 
+is more powerful in combat or has greater speed, or simply to get an 
+undamaged Ship. Note that only Sloops, Schooners, and Brigantines 
+may be converted into Pirate Ships.
+Deal with the Hostage: The Pirate decides how to deal with the Hos-
+tage. See 8.4 for details. This procedure can result in an adjustment of 
+the Pirate’s Notoriety Points and/or the Crew Loyalty level (see the 
+Play-Aid card).
+(8.34) Step 3
+The Merchant Ship counter is removed and returned to the Merchant 
+pool.
+(8.35) Step 4
+The Pirate may declare Voluntary D&R for his Crew. See 13.11 for 
+details.
+Once Step 4 is completed, the Loot Merchant action is finished.
+8.4 HOSTAGES
+Hostage counters have two ratings: Information (on the 
+left) and Value (on the right) Information is used in 8.46 
+and 9.52. Value comes into play in 8.44 and 9.42.
+(8.41) In a Loot Merchant Ship Action, after determining 
+the cargo, the player draws, blindly and randomly, a Hostage counter 
+from the Hostage pool and places it in the Hostages box on the Pirate 
+Display. Next, as per 8.43, the Player decides what to do with the Hos-
+tage. A Pirate ship may carry more than one Hostage.
+(8.42) Each Hostage counter notes what type of person on that merchant 
+is the focus of the Pirates’ attentions. Each Hostage is rated for:
+Information
+: The Hostage’s knowledge of the Port to which the 
+Merchant was adjacent when captured. See 8.46 for using a Hos-
+tage’s Information.
+Value
+: That hostage’s possible value when ransomed, and the amount 
+of Notoriety gained if the hostage is tortured (see 8.45 and 18.2).
+(8.43) After drawing the Hostage counter, the player must immediately 
+determine what his Pirate will do with that Hostage: hold him/her for 
+Ransom (8.45) or Torture him/her for Information. The choice is entirely 
+up to the player, but again, it must be made immediately.
+(8.44) Hold for Ransom: Based on the Hostage’s possible Value, the 
+Pirates do nothing to harm the Hostage but instead hold him/her for 
+when the Pirate gets to a suitable Port (see 9.42 for how ransom works). 
+The Hostage counter is kept in the Hostages box on the Pirate Display, 
+along with a Nationality marker denoting the nationality of the Port 
+to which the Hostage was adjacent when captured. Be sure to keep all 
+Hostage and Nationality marker pairs separate from one another (put 
+the Nationality marker on top of the Hostage marker). 
+Play Note: The upside of ransoming a Hostage is the possible gain in 
+Booty/Net Worth; the downside is there is no increase in Crew Loyalty 
+or gain of Notoriety.
+(8.45) Torture: If the Pirate chooses Torture, the Player rolls a die and 
+compares it to his Pirate’s Cruelty rating:
+If that dieroll is greater than the Pirate’s Cruelty rating, the Hostage 
+provides Information (8.46) and then dies.
+If that dieroll is the same as or lower than the Pirate’s Cruelty rating, 
+the Hostage dies without providing Information (but the crew has 
+still enjoyed themselves). 
+No matter what the result, the torture provides increases in crew 
+Loyalty (by +1) and Notoriety Points (see 18.2) regardless of the 
+effect of Torture. Once these are determined, the Hostage counter is 
+returned to the Hostage pool.
+
+(8.46) Information. A Hostage who provides Information (see 8.45) is 
+considered to provide Information for the Port to which the Merchant 
+was adjacent when captured (and only that Port). Use the Port Grid to 
+keep track of the Information gained by each Pirate for each Port. That 
+Pirate now has Information Points equal to that Hostage’s Information 
+rating when Attacking that Port (see 9.52) for the rest of that Pirate’s 
+game existence, or (of course) until the Port is Destroyed. If a Pirate 
+captures more than one Hostage at the same Port (i.e., in Loot Merchant 
+Ship Actions against separate Merchant Ships), the Information Points 
+gained about the Port are cumulative, assuming the Pirate hangs around 
+in the game long enough to use them.
+8.5 CONVERTING MERCHANT SHIPS
+In Step 2 of 8.31 (the Looting procedure), the Pirate may convert the 
+Merchant Ship he has just captured to his own use. However, neither 
+Flutes nor 3-Masted Square-Riggers may be so converted to Pirate 
+use—the counters for both Ship types have black borders designating 
+that they may not be converted. Only Sloops, Schooners, and Brigan-
+tines may be converted. 
+To perform the Conversion, the Player moves the Ship Type marker on 
+the Pirate Display for that Pirate to the appropriate box and changes the 
+Combat and Speed markers to reflect the new ship type; both markers 
+are placed at their maximum settings to reflect the fact that the new 
+Ship is undamaged. Retain the previous ship’s Crew Loyalty, but it is 
+raised by one if the new ship is larger than the old (i.e., a Brigantine 
+replaces a Schooner or a Schooner replaces a Sloop), and lowered by 
+one if the new Ship is smaller than the old.
+All other markers remain in place, including, Hostages, Attack History 
+markers, Heavy Guns, etc.—except possibly for the markers in the 
+Holds. The Pirate must fill one Hold on the new Ship with the newly 
+seized Cargo. If doing so creates a situation in which there are now too 
+many Holds full of Cargo for the new Ship to accommodate, enough 
+previously filled Holds must be jettisoned (i.e., the markers removed) 
+so that the new Ship as the correct number of filled Holds.
+Example A: A Pirate with a Schooner, all three of its Holds occupied, 
+loots a Brigantine. He decides to Convert it to his own use. He leaves 
+the markers in place on all three of his Holds and occupies the fourth 
+Hold with markers representing the newly seized Cargo.
+Example B: A Pirate with a Schooner, all three of its Holds occupied, 
+loots a Sloop. Because the Sloop is undamaged (and faster), he decides 
+to Convert it to his own use. He removes the markers from two of the 
+original Holds (his choice which two) and, in the now empty Hold, 
+places markers representing the newly seized Cargo.
+Example C: A Pirate with a Schooner, all three of its Holds occupied, 
+loots another Schooner (presumably because it is undamaged). He 
+removes the markers from one of the Holds (his choice of which) and 
+in the now empty Hold, places markers representing the newly seized 
+Cargo.
+Play Note: Converting Merchant Ships is how a Pirate gets to use a 
+Brigantine as his Pirate Ship ... assuming he finds and successfully loots 
+one. It is also a good way to get an undamaged Ship. 
+Historical Note: Pirates were handy at converting merchantmen to 
+their own uses, typically by adding guns to make them more powerful. 
+However, 3-Masted Square-Riggers were rarely, if ever, so used, as they 
+were too slow with too deep a draft for Pirate purposes. Blackbeard’s 
+famous ship, “Queen Anne’s Revenge”, was a converted French mer-
+chantman. 
+9 PORTS
+9.1 PORTS IN GENERAL
+(9.11) There are 36 Ports in the game, each with a Locator Number 
+corresponding to a D66 roll (see 2.5). Each Port is considered to be 
+located in the Sea Area it adjoins. 
+Example: St. Augustine (21) is in the N. Atlantic Area, while Campeche 
+(22) is in the Central America Area.
+(9.12) Each Port has a nationality, corresponding to its color and its 
+coat-of-arms. See 2.2. Three ports—Pirate Ports–have no nationality.
+(9.13) Each Port has two ratings, its Value (if captured) and its Defense 
+(i.e., its strength when attacked). Pirate Ports have no such ratings.
+(9.14) Ports provide places where Pirates may do any or all of the fol-
+lowing at various times:
+Convert Booty into Net Worth
+Ransom Hostages
+Purchase a Safe Haven
+Recover from Scurvy
+Refit their Ships and Crews
+Bribe Governors
+Sack the Port
+Enter D&R status
+Retire 
+(9.15) A Pirate enters a Port as specified in 7.11 and 7.3, at which point 
+he is In-Port. Once he is In-Port, he may conduct a variety of tasks by 
+spending a separate “In Port Activities” Action (4.5 and 9.4).
+9.2 GOVERNORS
+(9.21) Some Ports have Governors; some do not. Governors are either 
+Pro-Pirate or Anti-Pirate, as indicated on their counter. A Port with 
+no Governor is Neutral. This status determines what a Pirate can do 
+in that port.
+(9.22) The game starts with eight (8) Pro-Pirate Governors in place, as 
+per 3.0, Step 5. The 16 Anti-Pirate Governors arrive via the play of the 
+New Governors Event cards (two AP Governors per card). See 17.0.
+(9.23) Governors removed from the board are out of the game.
+(9.24) When an Anti-Pirate Governor is placed in a Port during the 
+game, any Pirates in that port are automatically Ousted (10.5).
+9.3 PORT STATUS
+That status of a Port—determined by what type of Governor it has or 
+whether it is a Pirate Port–determines much of what a Pirate can do 
+in that Port.
+(9.31) Ports with Anti-Pirate Governors: These Ports, known as 
+Anti-Pirate Ports, may not be entered by any Pirate, except as a result 
+of Attacking the port (9.59). However, if a Pirate has a Letter of Marque 
+for that port’s Nationality, he may treat this port as Pro-Pirate for all 
+purposes except gaining Safe Haven status (9.45).
+(9.32) Pro-Pirate Governor Ports: These Ports, known as Pro-Pirate 
+Ports, may be used as follows: 
+Pirate may convert Booty to Net Worth on a 1-to-1 basis (9.43).
+Pirate may ransom Hostages, except if the Port is Arab or Portuguese. 
+See 9.42.
+ 
+Refit Action spent, the Pirate Player rolls a die and removes half the 
+result (rounded up) worth of Damage Hits, either Combat or Speed. 
+See 9.44.
+
+Pirate may make this port a Safe Haven for him by purchasing Safe 
+Haven status. See 9.45.
+Pirate may attempt to Retire. See 18.41.
+(9.33) Neutral—no Governor—Ports: These Ports may be used as 
+follows:
+Pirate may convert Booty to Net Worth on a 50% basis (rounded 
+up). Thus, Booty worth 2000 Doubloons increases his Net Worth 
+by 1000 (9.43). 
+Pirate may ransom Hostages, except if the Port is Arab or Portuguese. 
+See 9.44.
+ 
+Refit Action spent, the Pirate Player rolls a die and removes half the 
+result (rounded up) worth of Damage Hits, either Combat or Speed. 
+See 9.44
+If a Pirate has a Letter of Marque for that port’s Nationality, he may 
+treat this port as Pro-Pirate for all purposes except gaining Safe 
+Haven status (9.45).
+(9.34) Safe Havens: There is no limit to the number of Safe Havens a 
+single Pirate may have; however, a given Port may be a Safe Haven for 
+only one Pirate at a time. If the Pro-Pirate Governor is replaced (9.22) 
+by an Anti-Pirate Governor, or by no Governor at all, or that Pirate 
+attacks that Port, that port is no longer a Safe Haven for that Pirate. 
+In addition, when a Pirate retires or dies, that Port is no longer a Safe 
+Haven for that Pirate. Pirates who have Safe Haven status in a Port 
+(9.45) may use the Port for the list of activities below:
+Pirate may convert Booty to Net Worth on a 1-to-1 basis (9.43), 
+plus an additional 10% (rounding up). Thus a Booty total of 2000 
+Doubloons would increase his Net Worth by 2200 Doubloons.
+Pirate may ransom Hostages (9.42), except if the Port is Arab or 
+Portuguese.
+ 
+Refit Action spent, the Pirate Player rolls a die and removes half 
+the result (rounded up) plus two (+2) worth of Damage Hits, either 
+Combat or Speed (Player’s choice). See 9.44. 
+Pirate may attempt to Retire (18.0)
+(9.35) Pirate Ports: There are three ports that are purely Pirate Ports, 
+ports essentially existing as bases for any and all Pirates … sort of 
+corporate HQ for the industry. The Pirate ports are Isle de Tortuga (35), 
+New Providence (44), and Isle Ste.. Marie (66). Pirate Ports may be 
+Attacked and Destroyed by King’s Commissioners (10.4). Pirate Ports 
+have the following attributes:
+Pirate Ports never have governors. They have no Nationality, Value 
+or Garrison. 
+Pirate Ports may be used to convert Booty to Net Worth on a 1-to-
+1 basis (9.43). Any such conversion results in an automatic D&R 
+(13.1).
+D&R in a Pirate Port earns a +3 to Crew Loyalty, the highest such 
+increase possible.
+Ransoming Hostages is not allowed.
+Refitting is allowed: all Damage Hits of both types are automati-
+cally removed.
+9.4 IN PORT ACTIVITIES
+Pirates need and use Ports to gain Net Worth (by converting Booty 
+and/or Ransoming Hostages), Refit their Ships, engage in a little 
+vacation through Debauchery and Revelry (13.0), and establish Safe 
+Havens (9.43). 
+(9.41) A Pirate moves into a Port by expending a Move a Pirate Ac-
+tion (7.11 and 7.3); once he enters Port, he has In-Port status until he 
+leaves. The instant a Pirate is In-Port he recovers from Scurvy (no Ac-
+tion is necessary to do this); he also cannot have a Scurvy Outbreak 
+card played against him while In-Port. A Pirate who is In Port may 
+undertaken any/all of the items below (9.42–9.45) as part of one “In 
+Port Activities” Action (4.5), depending on the Status of the Port (9.3). 
+The activities that may be performed during an In-Port Activities Ac-
+tion are as follows, and if more than one is being conducted they are 
+carried out in this order: 
+	 Ransom Hostages (9.42);
+	 Convert Booty to Net Worth (9.43), in which case, if in a Pirate 
+Port, Step #5 must occur;	
+ Refit (9.44);
+	 Purchase Safe Haven Status (9.45);
+4.	
+	 Enter Involuntary D&R status or declare Voluntary D&R status 
+5.	
+(13.22).
+(9.42) Ransoming Hostages. To gain Doubloons for a Hostage, the 
+Pirate must be in a Pro-Pirate, Safe Haven, or Neutral Port of the same 
+Nationality as the Port to which the Hostage’s Merchant Ship was 
+originally adjacent (the Nationality marker stacked with the Hostage 
+marker in the Hostage box gives you this information). Hostages may 
+not be Ransomed in an Arab or Portuguese port (note: this means that 
+Arab or Portuguese Hostages may never be ransomed). To see what the 
+Pirate gets for his unwilling passenger, roll 2d6 and multiply the result 
+by the Value Rating of the Hostage (8.42). Then multiply that result 
+by 50, and add the Doubloons to any of the Holds on the Pirate’s Ship 
+(Holds already containing Booty are eligible for this). This Booty does 
+not go directly to Net Worth—the Pirate may want to sail for another 
+Port type to get a better conversion rate—although a player in port can 
+ransom the Hostage before converting his Booty to Net Worth in order 
+to make the two happen essentially simultaneously. After the ransom is 
+complete, return the Hostage marker to the Hostage pool.
+Example: A Governor’s Daughter, with a Value of 6, is seized by Black-
+beard in the South Atlantic off Charleston, a British port. Blackbeard has 
+a Safe Haven in Bath, also a British Port, so he heads there to collect 
+Ransom. The Hostage Value is 6, and the 2d6 roll is 8, for a result of 
+48. Multiplying this result by 50 yields 2400 Doubloons. Blackbeard 
+already has 500 Doubloons in each of his sloop’s two Holds, so adding 
+the ransom amount to a Hold increases his total Booty to 3400. 
+(9.43) Converting Booty to Net Worth: A Pirate may convert the 
+Booty his ship is holding to Net Worth. The act of conversion simply 
+transfers the Doubloons that are Booty into Net Worth. See 9.3 for the 
+conversion rates for each Port type. Converting Booty to Net Worth 
+empties as many of the Ship’s Holds as the Pirate wishes; usually this 
+means all of them, but the Pirate may hold one or more Holds back if 
+he wishes (presumably to try to reach a Port with a better conversion 
+rate). Adjust the number markers on the Pirate’s Net Worth track (Pirate 
+Display) to show the increase in Net Worth.
+Example: Continuing the example from 9.42, the Pirate uses his next 
+Pirate Action to convert all his Booty to Net Worth in the same Port 
+(remember, it’s a Safe Haven), increasing increase his Net Worth by 
+3400+340, or 3740. A decent haul!
+(9.44) Refit. Ship Damage may be repaired by Refitting. If a Pirate is 
+In Port as part of his In Port Action he may Refit his Ship (exception, 
+see 9.32 and 9.33). To do so, roll a die and halve the total, rounding 
+up. If the Port is a Safe Haven add two (+2) to that result. This new 
+result is the number of Damage Hits removed, the type of Hits (Speed 
+and/or Combat) being up to the Player. Move the Damage marker(s) 
+up the track(s) on the Pirate Display to record such repairs. If this does 
+not completely repair his ship, he may Refit again in a later Action. 
+Damage Repair is total and automatic in a Pirate Port; no dieroll is 
+necessary and all Damage hits of both kinds are removed. Pirates may 
+not Refit in Arab Ports.
+
+(9.45) Purchasing Safe Haven Status: This must be done after all other 
+In Port activities are finished, and may be done only in a Pro-Pirate 
+Port (see 9.32) that is not already a Safe Haven for another Pirate. To 
+bribe the Governor (which is how Safe Haven status is purchased), 
+the Pirate rolls a die and multiplies the result by 100; the new result 
+is the number of Doubloons that Pirate must pay from his Net Worth 
+(not directly from his Holds) in order to succeed. However, he is not 
+committed to doing this, even at this point; he may back out if he feels 
+the amount is too high, but he is still considered to have attempted to 
+have Bribed that Governor. A Pirate may attempt to bribe a specific 
+Governor only once; place a “Governor Bribed” marker corresponding 
+to that Governor in the “Governors Bribed” box on the Pirate Display 
+to show that he has done so. Use the Port Grid to keep track of the fact 
+that the Pirate has a Safe Haven in that port. 
+Play Note: A Letter of Marque does not give an Anti-Pirate Port or a 
+Neutral Port a Pro-Pirate Governor for Safe Haven purchase purposes; 
+it only renders that port Pro-Pirate for other Actions.
+9.5 PIRATE ATTACKS ON PORTS
+Pirates may attack Ports to get Booty and Notoriety. He may also at-
+tempt to Destroy the port, rendering it useless to all others.
+(9.51) A Port Attack is a separate Action, undertaken while the Pirate 
+is in the Sea Area adjoining the Port (a Pirate may not attack a Port he 
+is currently in). Attacking the Port automatically places that Pirate In 
+that Port (see 9.59 for all the possibilities). A Destroyed port may not 
+be attacked (as there is no reason to do so), and Pirate Ports may not be 
+attacked by Pirates (only by King’s Commissioners). If a Warship is On 
+Station in the Sea Area from which a Pirate is performing the Attack, it 
+may try to stop the Pirate from Attacking (6.45 and 6.46). 
+(9.52) To Attack a port the Pirate rolls a die, adding his Ship’s Combat 
+Rating and his Pirate’s Ability rating to the result. If he has obtained 
+Information about the Port from Hostages (8.46), he adds the Infor-
+mation Points obtained to the dieroll result as well. Any other Player 
+(doesn’t matter who) rolls a die (or sometimes 2d6—see 9.58), to which 
+he adds the port’s Defense rating. 
+If the Pirate’s Attack Total is higher than the Port’s Defense Total 
+the Attack is Successful (9.53). His ship suffers 1 Combat Damage 
+Hit.
+If the Pirate’s Attack Total is the same as or lower than the Port’s 
+Defense Total the Attack Fails (9.54).
+Whether successful or not, the Pirate Player places an Attack History 
+marker corresponding to the attacked Port in the Attack History box 
+on his Pirate Display.
+(9.53) If the Attack is Successful:
+The Pirate rolls a number of dice equal to that Port’s Value rating, 
+adding them together and multiplying that total by 100 to determine 
+how much Booty he has gained from the attack. Port Booty takes 
+up one entire Hold (he may jettison an existing Hold to create space 
+if he wishes);
+The Pirate earns Notoriety Points equal to double (x2 the port’s Value 
+rating (see 18.2);
+The Pirate’s Crew Loyalty is increased by 1;
+The Pirate’s Ship suffers 1 Combat Damage hit;
+The Pirate automatically enters the Port
+Nothing happens to the Port, except that it’s harder to attack success-
+fully afterwards (9.58).
+Example: Christopher Condent successfully attacks San Juan. Its Port 
+Value is 2, so Condent’s player rolls 2 dice, a 5 and a 2, giving him a 
+7 which, multiplied by 100, gives him 700 D in Booty. He uses one of 
+his Holds to store the Booty, and he raises his Crew Loyalty track by 1 
+and lowers the marker on his Combat Damage track by 1.
+(9.54) If the Attack is Unsuccessful:
+The Ship suffers Combat Damage Hits equal to the difference between 
+the Defense Total and the Attack Total. 
+Nothing happens to the Port. 
+Example: Condent attacks San Juan. He rolls a 2, which, added to his 
+Ability (4) and Ship Combat Rating (4 at this time), gives him an attack 
+total of 10. The dieroll for the San Juan Defense is a 5, giving it a total 
+defense of 12, better than Condent’s Attack total by 2. Condent’s ship 
+suffers 2 Combat Damage Hits.
+Play Note: Yes, equal totals mean no damage.
+(9.55) Sacking a Port. After a Successful Attack, as his 
+very next Action (whether in this turn or the next), a Pirate 
+may choose to Sack the port and Destroy it. (Remember, 
+he’s still In-Port, see 9.59). Sacking a port takes an entire 
+Action (separate from the actual Attack). The Pirate rolls 
+a die, to which he adds his Cruelty Rating. If the result is higher than 
+the Port’s Defense rating, the Port has been Sacked and Destroyed. The 
+results are as follows:
+A Sacked Port is Destroyed and useless for the rest of the game. 
+Indicate this with a “Port Destroyed” marker. 
+The Crew’s Loyalty is increased by an additional 1 (+1).
+The Pirate earns Notoriety equal to 
+two times (x2) the Port’s Value 
+rating (in addition to any other NP he has earned for the original 
+attack). See 18.2.
+The Pirate is placed in the adjoining Sea Area (see 9.59). 
+Any other 
+Pirates who were in the port before it was sacked are also placed 
+in the adjoining Sea Area, retaining any status (such as D&R) they 
+had at that time.
+The Crew undergoes automatic Debauchery & Revelry; place a D&R 
+marker on the Pirate counter and see 13.0. And remember, he is now 
+At Sea, so he must spend an Action to enter Port —but not the one he 
+just Sacked, because it is Destroyed—and spend a D&R Recovery 
+Action to remove the D&R marker. 
+If the Sack attempt was unsuccessful , treat as if nothing happened 
+except a wasted Action (see 9.59). The Pirate may not try to Sack 
+that port unless he leaves and attacks again.
+Example: Condent has successfully attacked San Juan and now wishes 
+to Sack it. He rolls a 5 which, when added to his Cruelty of 3 gives him 
+8, one higher than San Juan’s Defense rating. The Sack is successful.
+Play Note: If a Player plays a D&R card against the Pirate before the 
+Port is Sacked, the Pirate loses the opportunity to do so.
+(9.56) A Pirate earns Notoriety for successfully attacking a port and even 
+more if he Sacks it, dependent on the Value of the port. Crew Loyalty 
+is also increased by a successful Attack and Sack. See the Notoriety 
+and Crew Loyalty Tables and 18.2. 
+Play Note: Sacking a Port increases Crew Loyalty by two, as the Crew 
+gets +1 for the Sack and +1 for the resultant D&R. 
+(9.57) A Port that is attacked, but not Sacked, retains its Defense and 
+Value ratings. But see 9.58.
+(9.58) Once a Pirate has Attacked a Port, whether successful or not: 
+All other Ports of that Nationality are automatically Anti-Pirate for 
+that Pirate, except for any Port for which he has a Safe Haven. Keep 
+track of this on that Pirate’s Display by placing an Attack History 
+marker of the appropriate Nationality marker in the Attack History 
+box. Example: Condent has attacked San Juan. All Spanish Ports 
+are now considered Anti-Pirate for Condent.
+The Pirate loses (remove from game) any Letter of Marque he has if 
+he obtained that Letter of Marquee at a Port of the same Nationality 
+as the one he attacked. Example: Before Condent attacked San Juan, 
+
+he had obtained a Letter of Marque at Honduras; he now loses the 
+Letter of Marque.
+Place a “Port Attacked” marker on top of that Port. Any Port with an 
+“Attacked” marker that is Attacked again adds the result of a 2d6 roll 
+to its Defense, not 1d6 (but remember that a Sacked port is entirely 
+destroyed and has no Defense).
+(9.59) At the conclusion of an Attack or Sack, the Pirate’s physical 
+position is as follows:
+Successful Port Attack
+: Pirate is In the attacked Port.
+Successful Port Sack
+: Pirate is at Sea in that Port’s Sea Area.
+Failed Port Attack
+: Pirate is at Sea in that Port’s Sea Area.
+Failed Port Sack
+: Pirate is In the Port he attempted to Sack.
+9.6 BOOTY GRAB 
+(9.61) A Pirate who enters (or is already in) a Port where another Pirate 
+is In-Port and undergoing Debauchery & Revelry (13.0) may attempt to 
+steal Booty which that Pirate has not yet converted to Net Worth. Booty 
+Grab is an In-Port Action, separate from the other In Port Actions (and 
+thus requiring a separate Action). He may not steal Net Worth.
+(9.62) To grab another Pirate’s Booty, the Pirates each roll a die, to which 
+they add their Pirate’s Ability Rating. In addition, the Booty-Grabbing 
+Pirate adds one (+1) to his dieroll result to account for the other Pirate 
+sleeping it off, while the target of the Grab can add two (+2) by playing 
+a Skull and Crossbones Event Card (see 17.2): 
+If the Grabbing Pirate’s adjusted roll is higher, he is successful. Re-
+member the difference between the adjusted rolls and see 9.63.
+If the two Pirates’ adjusted rolls are the same, a Duel automatically 
+occurs. See 15.0 for how to resolve this situation.
+If the Grabbing Pirate’s adjusted roll is lower, the Booty Grabber 
+gets nothing and incurs a –2 Loss of Crew Loyalty. 
+(9.63) If the Booty Grabbing Pirate was successful, he now rolls another 
+1d6, to which he adds the winning difference from 9.62. The result, 
+multiplied by 10, is the total percentage (%) of the other Pirate’s Booty 
+he has grabbed, rounded up. On his Pirate Display, he increases the 
+Booty in one of his Holds by the captured amount. The victim Pirate 
+reduces the Booty on his own Pirate Display by the same amount, tak-
+ing it from whichever Hold or Holds he wishes.
+Example: Ned Low (Ability 3), attempts to steal Stede Bonnet’s (Abil-
+ity 2) Booty. Low rolls a 4, Bonnet a 3, so Low is successful with a 
+difference of 3—the calculation is 3+4+1(=8) minus 2+3(=5) for a 
+difference of 3. Low’s then rolls a 3, and that 3 plus his difference of 
+3 give him a 6, which translates to 60% of Bonnet’s total Booty. Low 
+increases the amount of Booty in one of his Ship’s Holds by the result-
+ing amount, while Bonnet reduces the amount in his own Holds by that 
+same amount.
+10 KING’S COMMISSIONERS
+Historical Note: King’s Commissioners (KCs) 
+were British seagoing bounty hunters hired 
+by The Crown or its Governors when piracy 
+became too prevalent and it was in their fi-
+nancial interests to get rid of them. Some were 
+ex-Pirates who changed sides. One infamous KC turned Pirate: Captain 
+William Kidd (although he was hired privately, not by The Crown). 
+Several Pirates, such as Benjamin Hornigold, became KCs.
+KC counters in the game represent fleets of ships, along with their hired 
+leader, assembled specifically for the job of cleaning up certain pirates 
+and the areas in which they operate.
+KC counters have two ratings: Speed (on the left) and Combat (on the 
+right). The Speed rating is used in 10.32, the Combat rating in 10.34, 
+10.4, and 10.52.
+Living Rules Note: See 2.4 for a recommended change in the Combat 
+procedure for King’s Commissioners.
+10.1 HOW KCs ARRIVE
+(10.11) KCs enter the game in the following ways:
+as a player’s Anti-Pirate Action, as per 10.12
+by play of a 
+KC Surprise AP Event Card (see 17.12)
+by play of a 
+Pirate Converts AP Event card (see 17.2) 
+(10.12) At any time after a Pirate Action has been announced or begun, 
+an AP Player may attempt to deploy a KC as his AP Action by rolling 
+3d6 and comparing that total to the Notoriety Points of the Pirate that 
+is currently active but not In-Port or in a Transit Box. If the result of 
+the 3d6 roll is lower than that Notoriety total, the player draws, blindly 
+and randomly, a KC counter from the KC pool and places it in the same 
+Sea Area as the active Pirate (even if that Sea Area contains the player’s 
+own Pirate—see 10.26).
+Example: Avery has 12 Notoriety Points. An AP Player wishing to 
+place a KC in the Sea Area in which Avery is located rolls a 3, a 5, and 
+a 2, for a total of 10. This result is lower than Avery’s Notoriety, so a 
+KC is placed in Avery’s current Sea Area. Had the AP Player rolled a 
+10, exactly equal to Avery’s Notoriety Point total, the attempt would 
+have failed.
+(10.13) No player may ever have more than one KC in play, and each 
+individual KC is always controlled solely by the player who deployed 
+him. 
+(10.14) KCs that are eliminated during the game are out of the game 
+permanently. 
+(10.15) The number of KCs available in the game is nine—the eight 
+named KC counters and the single “Ex-Pirate” KC counter. The lat-
+ter comes into the game solely by play of the KC Converts AP Event 
+Card (see 17.2).
+10.2 HOW KCs FUNCTION
+(10.21) Each KC counter contains the Combat and Speed ratings for 
+the KC’s ship.
+(10.22) A KC may be used only by an Anti-Pirate Player as an Anti-
+Pirate Action against the currently active Pirate (and never against the 
+AP Player’s own Pirate).
+(10.23) During a given Player-Turn, only one King’s Commissioner may 
+conduct KC AP Actions. In addition, any or all KCs may conduct KC 
+Reaction (10.32). KC Reaction is not considered a KC AP Action—KC 
+Reaction may occur whenever the situation allows. 
+Play Note: In other words, only one KC AP Action is allowed per Player 
+Turn, but there is no restriction on KC Reactions.
+(10.24) KC Reaction consists of KCs attempting to intercept and attack 
+Pirates performing any of the Pirate Action in 10.31, in the same Sea 
+Area as the KC or an adjacent Sea Area. KC Reaction may not occur 
+in Ports or Transit Boxes.
+(10.25) A KC AP Action may consist of one of the Actions covered 
+in 10.4. 
+(10.26) KCs may never move into a Port. Even when attacking a Port, 
+as per 10.4 or 10.5, the KC is considered in that Port’s Sea Area. KCs 
+are not subject to 9.59—only Pirates are.
+(10.27) A Player may place a KC in a Sea Area that contains any of that 
+Player’s own Pirates. However, no Pirate may move into (or remain in) 
+a Sea Area that also contains his own KC. An In-Port Pirate in a Sea 
+Area that also contains that Player’s KC may not leave that Port until 
+the KC leaves the Area.
+
+10.3 KC Reaction
+KC Reaction applies exclusively to KC activities against Pirates who 
+are performing certain actions in the same Sea Area as the KC or an 
+Sea Area. KC Reaction may not occur against a Pirate in a a Port or a 
+Transit Box. 
+(10.31) How KC Reaction Works: KCs may react to Pirate Actions 
+listed in 10.31 conducted in either the same or an adjacent Sea Area, 
+every single time the Pirate conducts such an action. When KC Reac-
+tion is invoked, the KC’s player immediately places the KC in the same 
+Sea Area as the Pirate and proceeds to attempt to Intercept the Pirate, 
+following the procedure in 10.33). There is no restriction on how 
+many KCs may conduct KC Reaction during any given Player Turn, 
+but only one may do so per Pirate Action—if more than one KC is in 
+position to do so, the first KC player to declare KC Reaction gets the 
+nod; if there’s a dispute, it’s determined by player order). KC Reaction 
+is not considered an AP Action; it is simply an procedure available to 
+the KC player whenever the situation permits. An AP Player may use 
+both KC Reaction (as often as the situation permits) and an AP Action 
+(using the normal AP Action rules) in the same player-turn. Note that 
+Transit boxes are not considered adjacent to the Sea Areas to which 
+they connect.
+Play Note: If a KC is in position to conduct KC Reaction but wishes 
+to conduct a KC AP Action instead—and is eligible to do so—he may 
+perform the KC AP Action. A KC is never forced to conduct KC Reac-
+tion.
+(10.32) Actions Triggering KC Reaction: KCs may React to an active 
+Pirate who, in the same or adjacent Area, has announced or is in the 
+process of conducting any of the following actions.
+Move
+—including announcing a Move, or while actually moving from 
+one Sea Area to another or from a Sea Area into a Port;
+—only upon the announcement of an Attack Port action 
+or after an unsuccessful such action. If the Attack is successful, the 
+KC may not React, because success places the Pirate in the Port itself, 
+where the KC cannot attack him (10.36)
+A KC may not React to a Pirate on the Player-Turn it is placed (because 
+the Deploy a Pirate Action is not listed above). 
+(10.33) Intercepting a Pirate: To Intercept a Pirate, the KC Player an-
+nounces the Interception attempt (via KC Reaction). The Pirate Player 
+must make an immediate decision whether to try to escape or to stay 
+and fight. If he opts to try to escape, the players undergo the Interception 
+procedure below. If he opts to fight, go straight to 10.34.
+To resolve the Interception, the KC and Pirate Players each roll a die. 
+To the results they add their respective ship’s Speed rating. In addition, 
+the KC subtracts one (–1) from his result if he moved into the Pirate’s 
+Sea Area in this same KC Action: 
+If the KC’s adjusted total is greater than that of the Pirate, the KC 
+has Intercepted the Pirate. See 10.34 for the effects.
+If the KC’s adjusted total is lower than that of the Pirate, or the 
+same, the Pirate has successfully escaped. The Pirate stays in the Sea 
+Area in which the battle took place, but any Pirate Action he was 
+conducting—except a Move Action—is immediately cancelled and 
+the Action is considered spent. If any action involving a Merchant is 
+cancelled, the Merchant is simply removed from play.
+(10.34) If the Interception is Successful, the Pirate must EITHER:
+Engage in Combat (10.34); 
+OR
+Surrender by using a Letter of Marque, which he must already possess 
+(its Nationality does not matter), to forego any combat and allow him 
+to Retire on the spot. See 18.4. 
+(10.35) To resolve combat, the Pirate rolls a die and, to the result, adds 
+his Pirate Ability and the Combat rating of his Ship. The KC rolls a die 
+and adds his Combat rating to the result (and modifies by a further +2 if 
+using the Living Rules recommendation in 2.4). The players compare 
+their adjusted results:
+If the Pirate’s total is higher than the KC’s total, the Pirate has de-
+feated the KC. The KC is removed from the game. The Pirate gains 
+Notoriety Points equal to double (x2) the KC’s Combat Rating, and 
+the Pirate’s Crew Loyalty level increases by 1.
+If the Pirate’s total is lower than the KC’s total, or the same, the 
+Pirate has been Eliminated and is out of the game. The KC remains 
+in place.
+(10.36) If a KC kills a Pirate (his ship sinks) the player who owns that 
+KC gains Victory points equal to one-half the accumulated Notoriety 
+Points of the late Pirate, rounded down. The Pirate gains VPs equal to 
+all his accumulated Notoriety Points, but he gets no VPs for his Net 
+Worth (nor does the KC). See 18.12.
+(10.37) KCs may not attack a Pirate when the latter is In-Port, except 
+optionally when the Pirate is in a Pirate port (see 10.4). In non-Pirate 
+Ports, the KC may try to Oust a Pirate, which is different; see 10.5. 
+This is all part of the player’s Anti-Pirate Action.
+(10.38) Pirates may not attack KCs.
+Example of KC vs. Pirate Attack
+It is David’s Player-Turn. He plays a 2-Action card and announces 
+a Find Merchant Ship Action for his Pirate, Charles Vane, whose 
+Schooner has a current Speed rating of 2 and a current Combat rat-
+ing of 6. As soon as David he announces this Pirate Action, Helen 
+announces a KC Reaction for her KC, Thomas Matthews, who has 
+a Speed rating of 3 and a Combat rating of 11 (which becomes 13 
+with the Living Rules). Matthews is in the same Sea Area as Vane, 
+so the KC Reaction is possible, although Matthews could also have 
+moved from an adjacent Sea Area and attempted the attack as well, 
+albeit with slightly less chance of success (10.32). 
+Vane now has to choose whether to stay and fight, or to attempt 
+to escape. He attempts to escape, so Matthews tries to prevent the 
+escape by intercepting. Matthews rolls a 5 for Interception, adding 
+his speed of 3, for a total of 8. Vane rolls a 4, adding his speed of 
+2, for a total of 6. The Interception has succeeded. Vane doesn’t 
+have a Letter of Marque, so he cannot surrender to Maynard. He 
+must fight. He rolls a 4 for combat, adding his Ability rating of 4 
+and his ship’s Combat rating of 6. His total is 14. Matthews rolls 
+a 1, to which he adds his Combat rating of 11 and 2 more for the 
+2.4 recommendation—a total of 14. This is the same as Vane’s roll, 
+so Vane is eliminated; place his counter in the Davy Jones’ Locker 
+box on the map. David immediately receives Victory Points equal to 
+Vane’s final Notoriety Points total (but he loses Vane’s Net Worth). 
+Helen immediately receives Victory Points equal to half of Vane’s 
+final Notoriety Points total. 
+Had Matthews failed to Intercept, and then if Vane had performed 
+another relevant Pirate Action (from 10.23) in the same Player-Turn, 
+Helen could have activated Matthews for a KC Rection against 
+Vane (10.32).
+
+10.4 KC ACTIONS
+KCs anywhere on the map, whether or not in the same or an adjacent 
+Sea Area to a Pirate, may do one of the following at any time during 
+any Pirate’s Action, but only as the one KC AP Action for that AP Player 
+for that Player-Turn:
+Move
+—per 7.1 and 7.2, except that the KC, not a Pirate, moves;
+Attack a Pirate Port
+—as per 10.41;
+Oust Pirates from a Port
+—as per 10.42.
+Although this KC Action counts as the AP Action type for that player 
+in the current Player Turn (he may not play other AP Action types 
+during this Player Turn), his KC may still conduct KC Reaction if 
+the situation presents itself (KC Reaction does not count as an AP 
+Action—see 10.3). 
+Example: If an AP Player attempts to Oust a Pirate (an AP Action), or 
+attacks a Pirate in a Pirate Port (an AP Action), and the Pirate then 
+leaves the port, the Pirate is still is subject to the KC Reaction rules. The 
+same is true if a KC’s Move action (an AP action) places it in or adjacent 
+to a Sea Area containing a Pirate; the instant that Pirate performs any 
+of the actions listed in 10.32, he is subject to KC Reaction.
+(10.41) Attacking Pirate Ports: A KC may try to close down the three 
+Pirate Ports by attacking them. To do this, a KC must already be in the 
+Sea Area adjoining the Pirate Port. The KC Player uses an AP Action, 
+at any time during any Pirate’s Player-Turn, to perform the attack. The 
+KC rolls a die and, to the result, adds his Combat rating. Then each 
+Pirate currently in that Port does the same, using his Ship’s Combat 
+rating (the Pirate does not add his Ability rating to this roll): 
+If the KC’s total is the same as or lower than any (even just one) of 
+the Pirates’ totals, the KC has been repulsed and nothing happens 
+to the Port. The KC remains in the Sea Area and the Pirates remain 
+in the Port.
+If the KC’s total is higher than every one of the Pirates’ totals, all 
+Pirates in that port are immediately placed in the Sea Area and each 
+suffers one Combat Damage Hit to his Ship. The KC remains in the 
+Sea Area. The Pirate Port is Destroyed and useless for the rest of the 
+game. Place a “Port Destroyed” marker on it.
+If there are no Pirates in the Port when the KC attacks, the Port is 
+automatically Destroyed and useless for the rest of the game. Place 
+a “Port Destroyed” marker on it.
+(10.42) Ousting Pirates from Ports: A Player whose KC is in the Sea 
+Area adjoining a Port containing a Pirate who announces or is currently 
+undergoing any Pirate Action possible in a Port may attempt to Oust the 
+Pirate from that Port. The Governor or Port Status does not matter (not 
+even Safe Haven status matters), although Ousting may not be attempted 
+against Pirates in Pirate Ports (see 10.4 for how KCs deal with Pirate 
+Ports). Ousting a Pirate forces the Pirate (and any other Pirates in that 
+Port as well at that time), to leave the port; place the Pirate counter(s) 
+in the adjoining Sea Area. The Port itself is not affected.
+To Oust, the KC player rolls a die and adds his Combat Rating to the 
+result. Then, the Pirate Player rolls a die and, to the result, adds the 
+sum of the Combat ratings of all the Pirates’ Ships in that Port—the 
+Ability ratings are not used. Note that Ousting uses a different method 
+from that of attacking Pirate Ports in 10.4: 
+If the KC’s total is higher, all the Pirates in that port are immediately 
+placed in the Sea Area and must discontinue any Actions they were 
+undertaking (such as Refit, etc). The KC remains in the Sea Area.
+If that KC’s total is the same as or lower, the Oust attempt fails, and 
+each Pirate earns 1 Notoriety Point. The Pirates remain In-Port, while 
+the KC remains in the Sea Area.
+Placement of a new Anti-Pirate Governor in a port automatically Ousts 
+all Pirates in that port (see 9.2 and 17.0). However, Pirates do not gain 
+Notoriety Points in such cases.
+10.5 KCs AND VICTORY POINTS
+If a KC eliminates a Pirate:
+KC’s Player earns Victory Points equal to half the Notoriety 
+Points (rounding down) that Pirate has accumulated at the time of 
+his demise; AND 
+Pirate’s Player gets VPs equal to all the Pirate’s accumulated 
+Notoriety Points, as per 18.12. 
+Neither
+ the KC nor the Pirate gain VPs from the Pirate’s accumulated 
+Net Worth (which is simply lost).
+Example: Tom is controlling the KC William Rhett; Sally is controlling 
+the Pirate Stede Bonnet. Bonnet currently has 23 Notoriety Points and 
+a Net Worth of 3850 Doubloons. Rhett attacks Bonnet and eliminates 
+him. Orlando gets 12 Victory Points (half of Bonnet’s 23 Notoriety 
+Points rounded up); Sally gets 23 Victory Points. The attack has been 
+extremely worthwhile from Tom’s perspective, because not only has 
+he gained 12 VP, he has also prevented Sally from getting any VPs at 
+all from Bonnet’s considerable Net Worth total.
+11 PIRATE ALLIANCES
+(11.1) If a Pirate Player has more than one Pirate currently in the same 
+Port, he may, by declaring a Pirate Alliance Action for either Pirate, 
+have those two Pirates form an Alliance. In a 4-player or 5-player game, 
+this means both of his currently deployed Pirates; in a 3-player or 2-
+player game, where Players may have more than two Pirates deployed, 
+only two may form an Alliance at any one time. 
+(11.2) When two Pirates are Allied they may move and undertake Ac-
+tions as one. They must stay together at all times (in the same Sea Area 
+or in the same Port). When undertaking Actions:
+When the Pirate Alliance activates, the Pirate with the highest current 
+Notoriety Point level is considered the Active Pirate.
+If a Ship Combat Rating is needed, use the higher of the two ships, 
+plus both Pirates’ Ability ratings (add them together), to reflect 
+multiple ships. 
+If a Ship Speed Rating is needed, use the lower of the two current 
+Speed ratings. 
+If Pirate Ratings are needed (such as Ability, etc.), the Player may 
+use whichever Pirate’s Rating he wishes.
+(11.3) Booty and Notoriety Points are split equally between the two 
+Pirates. The Pirate with the higher Leadership Rating gets any over-
+age on division. Increases and decreases in Crew Loyalty are applied 
+to both ships, in full. 
+(11.4) Ship Combat Damage is divided evenly, with any overage 
+decided by the player. But Speed Damage applies to each ship, even 
+though the benefits of Refit will be split by both. Scurvy will apply to 
+both crews/ships, in full.
+(11.5) Letters of Marque may not be given to any Pirate during the 
+life of the Alliance. Letters previously held cannot be used until the 
+Alliance is broken.
+(11.6) The Alliance is broken either voluntarily by the player, who 
+simply announces such when it is his turn, or:
+Debauchery & Revelry card against the Pirates when 
+they are In Port. That card automatically dissolves the alliance, and 
+then the D&R card is resolved for each Pirate, separately; OR
+Mutiny Conspiracy card, which is resolved for each 
+Pirate. If any Mutiny actually occurs, the Alliance is instantly bro-
+ken.
+(11.7) All other decisions about the Alliance are made by the Player 
+owning the two Pirates. 
+
+12 PIRATE CUNNING AND LUCK
+Each Pirate is rated for his Cunning (which also covers Luck), which 
+is the number of times during the entire game that he may use such 
+ability. Pirates use Cunning in the following two ways:
+Each Cunning Point allows the Pirate to reroll, whenever he wishes, 
+any one 1d6, 2d6 or 3d6 roll (of any kind) made by that Pirate—but 
+not (a) individual dice within a dice-roll, (b) D66 rolls (c) a die-roll 
+that has already been the recipient of Cunning. A Pirate’s Cunning 
+Rating represents the total number of times during the entire game that 
+he may do this. When a Pirate uses Cunning in this manner, reduce 
+the total on the Cunning track on his Pirate Display. 
+One Cunning Point also allows a player to play the “Skull & Cross-
+bones” Event card on his behalf; see 17.0.
+Play Note: Gamers who dislike re-roll mechanics in games as a matter 
+of course should feel free to ignore the Cunning system entirely. 
+13 DEBAUCHERY AND REVELRY
+Debauchery & Revelry represents Pirates taking a bit of rather intense 
+R&R after a period of hard campaigning.
+13.1 HOW D&R OCCURS
+(13.11) D&R occurs at the following occasions. D&R may occur vol-
+untarily or automatically:	
+The Pirate captain declares D&R after he has taken a Merchant Ship’s 
+cargo as part of a Loot Merchant Ship Action. This is voluntary.
+While In-Port, a Pirate may allow his crew to engage in D&R as part 
+of an In-Port Activities Action. This is voluntary.
+While in a Pirate Port, converting Booty to Net Worth incurs auto-
+matic D&R. This is involuntary.
+Sacking a Port (9.55) incurs automatic D&R. This is 
+involuntary.
+Debauchery & Revelry AP Event Card against a Pirate. 
+This is involuntary.
+(13.12) D&R is not a separate Action. It is part of the Action being 
+undertaken that produces the D&R. However, D&R is always applied 
+after the other parts of that Action are finished. 
+Involuntary
+(13.13) Any time a Ship undergoes Voluntary D&R, place 
+a D&R marker—front side up—atop that Pirate on the 
+map. If the Pirate undergoes Involuntary D&R, place the 
+marker back-side up. A Pirate already with a D&R marker 
+cannot acquire another D&R marker.
+13.2 THE EFFECTS OF D&R
+(13.21) D&R increases Crew Loyalty, as per the Crew Loyalty Table; 
+the increase is applied immediately after D&R is declared. Note that 
+D&R in Pirate Ports increases Loyalty much more than D&R in non-
+Pirate Ports or D&R after looting merchants or sacking ports.
+(13.22) The only two Actions available to a Pirate bearing a D&R 
+marker are Movement (7.0)—including movement into port if desires, 
+and even into a Pirate Port to increase the D&R benefits)—and D&R 
+Recovery (16.0). D&R Recovery can occur only In-Port (13.24). 
+(13.23) If a Pirate with a D&R marker is attacked while at sea, subtract 
+two (–2) from its Speed and Combat Ratings.
+(13.24) A Pirate undergoing Voluntary D&R removes the D&R 
+marker by spending one D&R Recovery Action while In-Port. A Pirate 
+undergoing Involuntary D&R removes the D&R marker by doing two 
+consecutive Recovery actions while In-Port.
+14 MUTINY
+(14.1) A Mutiny occurs in one of three ways:
+It may 
+possibly occur by play of a Mutiny Conspiracy Event Card 
+(see 17.2). The AP Player playing the card rolls 2d6; if the result is 
+higher than the active Pirate’s current Crew Loyalty level, a Mutiny 
+has occurred.
+It may 
+possibly occur by play of a Piratical Ambition Event Card (see 
+17.2). The AP Player playing the card uses one of his In-Hand Pirates 
+to lead a Mutiny, dueling the active Pirate for control of the ship.
+It 
+automatically occurs the instant a ship’s Crew Loyalty Level 
+reaches 0. If a ship’s Crew Loyalty stays at 0 without a Mutiny hav-
+ing any effect (points 2 and 3 below), the crew mutinies again each 
+time that same Pirate is activated (and before performing any other 
+Actions), until the Crew Loyalty Level is raised above 0. 
+(14.2) When a Mutiny occurs (from either method above), the Pirate 
+Player rolls a die and compare it to the Pirate’s Leadership Rating:
+If the result is higher than the Leadership Rating, the Mutiny is suc-
+cessful and the Pirate is permanently out of the game (he’s been ma-
+rooned and considered eliminated—see 18.12B to calculate Victory 
+Points). If that Player has another Pirate Card in Hand he immediately 
+places the new Pirate in charge of that Ship (and everything on it ex-
+cept Net Worth, Notoriety, and Cunning markers, which are removed) 
+with a new Crew Loyalty of 6; Combat and Speed ratings remain as 
+they are. If that Player has no Pirate in Hand for the replacement, he 
+immediately draws a new Pirate Card one from the top of the Pirate 
+deck. If there are no Pirate Cards left, the Ship is lost. 
+If the dieroll is the same as his Leadership, the Pirate has quashed the 
+mutiny. Crew Loyalty is lowered by 1, but never below 0. If already at 
+0, it remains at 0, which means that (as per 14.1), the Pirate is subject 
+to another Mutiny as soon as he activates the next time.
+If the dieroll is lower than his Leadership, the Pirate has quashed the 
+mutiny and nothing else happens.
+15 DUELS
+(15.1) Duels occur when a Piratical Ambition AP Event Card is played 
+(see 17.2) or a Booty Grab attempt fails (see 9.6). Each Pirate rolls a 
+number of dice equal to his Duel rating, totaling them. The higher total 
+wins the Duel. 
+In the case of the play of a 
+Piratical Ambition Card, if the new Pirate 
+wins the Duel, he takes over the Ship and everything on it, except 
+for the Net Worth and the Notoriety and Cunning markers, which are 
+removed (but see 15.2). The original Pirate is eliminated; see 18.12B 
+to calculate his Victory Points. Low total is dead. If the new Pirate 
+loses the Duel, he is permanently out of the game (and therefore never 
+gets into the game at all) but nothing else happens. If the result is a 
+Tie, undertake the Duel again until a winner is determined.
+In the case of a failed Booty Grab, if the Booty-Grabbing Pirate 
+wins the Duel, he eliminates the other Pirate (see 18.12B to calculate 
+Victory Points for the dead Pirate’s Player) and takes as many of the 
+victim’s possessions as he wishes (but not Net Worth). For Booty, he 
+increases one of his own Holds by the captured amount. Everything 
+else, including Hostages and Port Information, Letters of Marque, 
+etc., he simply transfers to his own Ship. Alternatively, he may replace 
+his Ship with the victim’s, transferring everything (including his own 
+Net Worth) to his new Ship. In the case of a tied Duel in this case, 
+it continues only if both Players want it to do so. If not, the Booty 
+Grab Action is over and both Pirates remain In-Port.
+(15.2) The winner of the Duel earns Notoriety Points equal to the sum 
+of the two dueling Pirates’ Duel ratings. In the case of a new Pirate, 
+this total becomes his starting Notoriety Point level.
+
+16 RECOVERY VS. REFIT
+D&R Recovery is an Action that takes place In Port but is not part of 
+other In Port Actions. The D&R Recovery Action removes all D&R 
+markers. It does not Refit the ship (see 9.45 for Refit).
+17 EVENT CARDS
+Blackbeard is driven by Event Cards. Event Cards are drawn from the 
+Event Deck in the initial set-up of the game and then, throughout the 
+game, in the Card Draw Phase of a Player’s Turn, as per 4.4. 
+17.1 USING EVENT CARDS
+(17.11) Events cards have some or all of the following Information:
+An Event that may be enacted by the play of the Card, as explained 
+and specified in the text of the Card and more fully in the Event 
+description in 17.2;
+An Actions circle showing the number of Actions the player’s Pirates 
+may undertake when that Card is played, expressed either as a number 
+of Actions in the Actions circle; OR as a diamond-shaped icon, cor-
+responding to the icon for the Initiative rating on the Pirate Cards; 
+OR as dash, denoting that the Cards may not be used for Actions;
+A line indicating if the card can be played for Actions AND the Event, 
+or Actions OR the Event. “Must Play Immediately” cards have a blank 
+line (because Actions are not possible with them); 
+An icon at top right identifying certain Cards as Anti-Pirate Cards;
+A line of information specifying whether that Card must be played 
+immediately or may be held In Hand for later play;
+An asterisk (in some cases), which tells Players to consult 17.2 for 
+the full and official description of the Event (if the asterisk is after 
+the card’s Event description), or the Timing and Effect section of the 
+Event description (if the asterisk is on the lower bar of the Card). 
+(17.12) When playing an “Actions AND Event” card, the pirate must 
+conduct both the Event and the 1 Action listed on the card. This is con-
+sidered the Pirate Player’s Action card for that player-turn; he may not 
+play another for Actions (even if he decides not to actually do anything 
+with the 1 Action mandated by the card). He may split the card between 
+two Pirates (with one performing the Event and the other the Action). 
+Or he may have one Pirate perform both the Event and the Action. One 
+“Actions AND Event” card, Fair Winds, may include the player’s KC 
+as one of the card’s users; see the description of that card below.
+(17.13) If the Event Card is to be played for Actions OR Event, then 
+the player may either undertake that many Actions or use the card for 
+its Event. 
+(17.14) Only one Event Card per Player-Turn may be used for Actions 
+(except in the case covered in 4.55); any other Event Card(s) played 
+by that Player in that Player-Turn may be used only for the Event. The 
+Event Card played for Actions does not have to be the first card played, 
+and a Player does not have to use all (or even any) of its Actions. How-
+ever, at least one “Hold Until Played” Event Card must be played by 
+that Player during his Player Turn.
+(17.15) “Must Play Immediately” Event cards do not have any Actions 
+on them (they show a dash in the Actions circle); they may not be used 
+for that purpose. The Player drawing such a card must play it for its 
+Event immediately.
+(17.16) Anti-Pirate Cards played for the Event may not be used for the 
+number of Actions listed; they are always “Actions OR Event” cards. 
+(17.17) Each Event Card has a number at top center; this is simply for 
+reference purposes. In most cases, more than one of each numbered 
+Card is in the deck to start the game.
+17.2 THE EVENTS
+The titles below correspond to the titles on the Event Cards. The number 
+in brackets [#] indicates the number of identical cards in the game. The 
+italicized lines below the titles indicate if the card is an Anti-Pirate Card, 
+how many Actions it is worth (if any), whether or not it is an “Action 
+AND Event” card or an “Actions OR Event” card, and whether the 
+card must be played immediately or if it may be held In Hand for later 
+play. The description specifies how to use the card, and in all cases is 
+the official description (rather than the text on the card itself, which 
+is often an abbreviated version of the description). Some descriptions 
+contains a further section called “Timing and Effect”, providing further 
+direction as to its use. The cards are listed in alphabetical order.
+#1
+Buried Treasure [1] 
+This card provides the player with a Treasure Map of the Isle of Pines 
+(below Cuba; see map). The Player plays the card by placing it in front 
+of him. The card remains there until he visits the Isle of Pines, after 
+which he discards it; he may in fact decide never to visit (in which case 
+buried treasure is never found), but the card is his to use if and when he 
+does. He spends one Action to move onto the island (this is not a move 
+into a port and so can have no Port-oriented AP Events played against 
+it—nor may the Pirate be attacked there as if he were in a Port) and, as 
+part of the same Action, digs for buried treasure. To do so, roll a die; 
+on a 1–2, the Pirate has found nothing and the card is discarded. On a 
+3–6, the Pirate has found something: roll 3d6 and multiply the result 
+by 100. That is how many Doubloons worth of treasure he has found 
+(e.g., a result of 16” would produce 1600 doubloons); this treasure is 
+added to any one of his Holds. If the Pirate Retires or is Eliminated 
+while this card is front of the player, the card is placed in the Discard 
+pile (i.e., it belongs to that Pirate, not to the player).
+#2
+Debauchery & Revelry [6] 
+This may be played against any one Pirate (but not the Player’s own) 
+currently In-Port. That Pirate has lost control of his crew and they’re 
+off “like sailors on leave”, for a spot of D&R (considered Involuntary). 
+See 13.23.
+Timing and Effect: The card is played after that Pirate has completed 
+his Action while In-Port. A D&R card may not be played against a 
+Pirate who already has a D&R marker.
+“Must Play Immediately” 
+“Hold in Hand” Card
+Anti-Pirate 
+Card Icon
+Card Title
+Actions 
+Circle
+Actions AND
+ or Actions OR 
+Indicator
+Event 
+Description
+Pointer to full 
+write-up of the 
+card in 17.2 
+Card Number
+
+#3
+Disease [2] 
+An outbreak of some virulent disease strikes a Port. Roll D66 to find 
+out which Port. All Governors, Pirates, and/or Hostages in that Port die 
+(the Pirate is considered Eliminated for the purposes of Victory Point 
+assessment—18.12B. There is no other effect. 
+#4
+Double Cross [4] 
+Anti Pirate Card
+Actions (Initiative Rating) OR Event
+This card may be played against any Pirate who is, at this instant, using 
+a Letter of Marque to Retire. The AP Player rolls a die and follows the 
+result in the table below:
+Roll
+1–2
+Insufficient evidence to detain or convict. Pirate may 
+Retire gracefully.
+3–4
+Put on trial. Roll 2d6. That number times ten (x10) is the 
+% of the defendant Pirate’s Net Worth he must pay to be 
+acquitted (rounded up). Treat a 10–12 as 100% (in which 
+case he may as well get hanged).
+5–6
+Tried, convicted and Hanged. Loses all Net Worth (but 
+not Notoriety).
+Timing and Effect: The card is played the instant a Pirate states he is 
+using his Letter to Retire and the effect is applied prior to his Retirement. 
+This card can be played in addition to activation of a KC, if a Player 
+tries to retire by playing a Letter of Marque to avoid combat with a KC 
+(i.e. in exception to the restriction against playing more than one AP 
+Card in a Player-Turn). Once a Double Cross card is played, a Pirate 
+may not change his mind about Retiring.
+#5
+European Turmoil [2] 
+Bad times, possible war … the usual…back in Europe. All KCs and 
+Warships in play are removed and their counters placed back into their 
+respective pools. 
+#6
+Fair Winds [3] 
+Strong winds increase a Pirate’s or KC’s Movement Capabilities. The 
+player may move one of his own Pirates or his KC instantly to any 
+Sea Area on the map, no matter how far away. A Player may split the 
+use of this card between two Pirates—with one performing the Event 
+and the other the Action. The Player may also split it between his KC 
+and a Pirate if he wishes, with the KC performing the Event and the 
+Pirate the Action. 
+#7
+Finger of Fate [1] 
+The Fickle Finger of Fate oft changes many a plan. When this card is 
+played, each player must immediately discard one (1) card from his 
+hand (if he has any); the discards are placed in the Discard pile. After 
+each player has done this, each then passes his remaining cards (if he 
+has any) to the player to his left. 
+#8
+General Pardon [1] 
+(See 4.1 if playing the Long Game.) This card gets to be played three 
+times during the course of the game, being reshuffled into the deck 
+after the first two times.
+The first time this is played it has no effect but is placed back into 
+the Events Deck, which is reshuffled (but do not include the cards 
+in the Discard Pile). If this card was the last to be drwan, however, 
+the game is instantly over.
+The second time signals a General Pardon being issued to all Pirates 
+that are on the map when the card is played. The Pardon lasts until the 
+Player who played this card completes his next Player-Turn. While 
+the card is in force, every Pirate who moves into an English Port is 
+Pardoned and is Retired (Retirement is mandatory)—after converting 
+Booty (if any) to Net Worth—as per 18.12A. Moving into the Port 
+is the Action that will effect Retirement; the Pirate does not need 
+an additional Action to do so; no Pirate may Attack an English Port 
+while the Pardon is in effect. The General Pardon card is now held 
+out of the Events Deck until there are 20 cards remaining, at which 
+point it is placed back into that Deck and the Deck reshuffled (but do 
+not include the cards in the Discard Pile). If there are already only 
+20 unused cards or fewer remaining, shuffle the General Pardon 
+card with them and continue. If this was the last card to be drawn, 
+the game is instantly over.
+The third time the card is pulled the game is instantly over. Determine 
+the winner (see 18.0).
+Play Note: Players who are worried the third time may occur too early 
+may agree to split the remaining deck in half, before reshuffling after the 
+cards’s second use, placing the card in the bottom half and reshuffling 
+that portion, leaving it as the bottom half. Just a suggestion.
+#9 
+New Governors [8] 
+Roll D66 twice, consulting the Port Locator number corresponding to 
+each of those results: Place a new Anti-Pirate Governor in each of those 
+Ports (you can use any remaining Governor counter you want; they’re 
+all Anti-Pirate. If there is already a Governor there, whether Pro-Pirate 
+or Anti-Pirate, he is removed (permanently) and replaced by this new 
+one. If the roll points to a Pirate Port, roll again. Pirates are automati-
+cally Ousted from Ports in which Anti-Pirate Governors appear. Note: 
+in the Solitaire version (19.0), only one Governor is placed with each 
+New Governors card.
+
+#10
+Heavy Guns [4]
+By playing this card for one of his own In-Port Pirates, the Pirate gains 
+heavy cannon for his Ship. From that point on for the life of that Ship, 
+the Pirate adds two (+2) to his ship’s Combat dierolls. If the Pirate 
+subsequently converts a Merchant Ship to his own use, the Heavy Guns 
+transfer to the new Ship. Only one Heavy Guns card may be played per 
+Ship; slide the Heavy Guns card under the Pirate Display (so that part 
+of the card is showing) to indicate that the ship has them. 
+#11
+KC Surprise [2] 
+This card may be played immediately after any Anti-Pirate Player uses a 
+Warship Sighting Card to attempt to Attack a Pirate (as per 6.4), and not 
+necessarily by the same AP Player. The Player playing the KC Surprise 
+card must not already have a KC (because no player may have more 
+than one KC in play at any given time). When this card is played the 
+Warship in question turns out to be a King’s Commissioner, which the 
+Player playing the card chooses as per 10.11, but without the need for 
+the Notoriety dieroll (the card’s event has no effect if no KCs remain 
+unplayed in the game). The attack against the targeted Pirate now pro-
+ceeds immediately as an attack by the KC (who must still Intercept 
+it first) nnot the Warship (the Warship counter is placed back in the 
+Warship pool), and the KC now belongs to the Player who played this 
+card. Note: this is an exception to being able to play only one AP Event 
+card per Player-Turn and one AP Event card type per Action, since this 
+card may be played with a Warship Card by the same Player.
+#12
+Letter of Marque [4] 
+This card may be assigned to a Pirate, belonging to the Pirate Player, 
+who is In a Port with a Pro-Pirate Governor. The Letter of Marque 
+entitles that Pirate to do the following:
+Treat every other Port of the same Nationality as this Port as a Pro-
+Pirate Governor port, regardless of the type of Governor actually in 
+that Port; place an appropriate Nationality marker in the “Letter of 
+Marque” box on the Pirate Display; OR
+Retire (see 18.4) without any ill effect … unless someone plays a 
+Double Cross card (see above).
+Surrender to a KC and Retire (see 10.34 and 18.41B).
+The Letter is specific to the Pirate and, if that Pirate is no longer in the 
+game, neither is the Letter. No Pirate may have more than one Letter 
+of Marque at any one time. After use, a Letter of Marque card is 
+never returned to the deck, even if the Pirate is eliminated—and even 
+if playing the Long Game option.
+Timing and Effect: The card is played during a Pirate’s In-Port Activity 
+Action, and is part of that Action.
+#13
+Local Resistance [3] 
+The citizens of a Port are unhappy with so much Pirate presence, 
+probably because of a Pro-Pirate Governor, and they take a variety of 
+Actions to change that. The player designates a specific Port (but not a 
+Pirate port) that has a Pro-Pirate Governor, and rolls a die. If the result 
+is higher than the port’s Value, permanently remove the Pro-Pirate 
+Governor (no replacement at this time). All Pirates in that Port are 
+immediately Ousted; see 10.52. Otherwise, no effect. This card may 
+be held In Hand.
+Timing and Effect: The card is played any time during another Player’s 
+Pirate Turn.
+#14
+Mal de Mer [1] 
+The Player who draws this card loses his Player-Turn—all his Pirates 
+are seasick—although he must still draw Event Cards to fill his hand 
+as required. 
+#15
+Mutiny Conspiracy [6] 
+This Event is played against the active Pirate. The card player rolls 
+2d6. If the result is higher than the Crew Loyalty Level, a Mutiny has 
+occurred. See 14.0 for results. 
+Timing and Effect: The card is played at any time during a Pirate’s 
+Action. It is resolved the instant it is played, before anything else can 
+be undertaken.
+#16
+Pirate Converts [1] 
+3 Actions OR Event 
+The Player playing this may deploy, as an Anti-Pirate Action, any one 
+Pirate that has successfully Retired—one of his own or another Player’s. 
+That Pirate is now a King’s Commissioner, under control of the Player 
+who played the card, with a Combat Rating of 9 and a Speed of 3. Use 
+the “Ex-Pirate” KC counter to represent this new KC on the map. Each 
+Player may have only one KC at any one time, so this card may not be 
+played by a Player who already has a KC in the game.
+
+#17
+Piratical Ambition [5]
+This event is played against the active Pirate. It may be played only by 
+a player who has a Pirate Card in his hand (not yet in play) and does 
+not already have his maximum number of Pirates in play. The player 
+playing this card uses his In-Hand Pirate to fight a Duel—see 15.0 for 
+resolving this Duel and then do one of the following:
+If the In-Hand Pirate wins the Duel, the Pirate who is the target of the 
+takeover has been the subject of a Mutiny led by the card-player’s Pi-
+rate (the one In Hand). The active Pirate is marooned and considered 
+eliminated, losing his Net Worth but not his Notoriety Points—see 
+18.12B to calculate Victory Points for him. The new Pirate instantly 
+takes over his Ship (and everything on it, but not his Net Worth or 
+Notoriety or Cunning Points), and the Crew Loyalty is placed at 6.
+If the In Hand Pirate loses the Duel this mutinous takeover has been 
+aborted, the In-Hand Pirate is killed (and never gets into the game), 
+and the active Pirate’s Crew Loyalty is increased by one. 
+#18
+Scurvy Outbreak [5] 
+This card is played against an active Pirate who is not In-Port and who 
+does not already possess a Scurvy marker. Place a Scurvy marker on 
+that Pirate and decrease the Crew Loyalty level by one (which might 
+trigger Mutiny as per the second bullet in 14.1). Any Hostage on board 
+at the time dies immediately. Every time the Player who controls that 
+Pirate Ship starts a Player-Turn, he further reduces the Crew Loyalty 
+Level by one (but never below zero), until that Pirate enters Port, at 
+which time the Scurvy marker is instantly removed. This card may be 
+held In Hand.
+Timing and Effect: The card is played at any time during a Pirate’s 
+Action. It is resolved the instant it is played, before anything else can 
+be undertaken.
+#19
+Skull and Crossbones [4] 
+3 Actions OR Event 
+Pirates often had a great deal of Luck to go with their sometimes for-
+midable abilities. A player may play this card on behalf of his Pirate at 
+any time, whether during his own Player-Turn or someone else’s, at the 
+cost of one (1) of that Pirate’s Cunning Points (12.0). When played, it 
+may be used for one of the following:
+It negates any one card just played against him. That negated card 
+is placed back in the deck, and the deck reshuffled (but without the 
+cards in the Discard pile); OR
+If the Pirate is the target of a Booty Grab (9.6), +2 to his dieroll.
+Timing and Effect: The card is played the instant the card to negate 
+is played, and before that card takes effect, or when the Pirate is the 
+target of a Booty Grab.
+#20
+Storms at Sea [6] 
+Roll D66 and consult the Port numbers on the map; the Storms affect 
+the Sea Area adjoining that Port. In addition, if the Sea Area contains 
+Transit Boxes, those Transit boxes are affected as well. Example: a 
+D66 roll of 52 (for Whydah) produces a Storm in the Gold Coast Area 
+and both Transit boxes.
+Remove all Merchant Ships in that Sea Area, including any that have 
+been found but not yet looted.
+The player playing the card rolls 
+2d6 for any Warship in that Area. 
+If that result is higher than its Combat rating, remove the Warship. 
+Otherwise, it remains On Station.
+For each Pirate in that Area who is not In Port, the same player rolls 
+a die, consulting the Storm Effects Table. Add one (+1) if the Pirate 
+is in a Transit Box. Apply the results immediately. 
+The same player rolls a die for each KC in the Sea Area. On a roll 
+of 1–4, the KC is placed back in the KC pool; otherwise, it stays 
+where it is. 
+#21
+Warship Sighting [10] 
+The player playing this card places a Warship On Station and follows 
+the rules in 6.4. This card may be held In Hand.
+Timing and Effect: 6.4 describes when this card may be played. 
+#22
+Wear and Tear [7] 
+This may be played against an active Pirate who is not In-Port. Roll 
+a die and halve that number, rounding down (so a result of 1 = 0). 
+Decrease that ship’s Speed rating by that result. This card may be held 
+In Hand.
+#23
+Natural Disaster [1] 
+A once a game event. Roll a die and consult the table below. The result 
+is a Port destroyed totally by earthquake, hurricane, whatever. Everyone 
+(Pirate, Hostage, Governor, etc.) currently in that Port dies. The Port 
+is no longer usable (place a “Port Destroyed” marker on the Port), and 
+this card is removed from the game—even if you are using the option 
+to play through the deck twice. When the results have been applied, 
+remove all Merchant Ships from the map (including any that have been 
+found but not yet looted) and replace them as per 3.0 Step 8. 
+Affected
+Affected
+Port O’ Spain
+Isle de Tortuga
+
+18 WINNING
+18.1 VICTORY POINTS
+(18.11) The instant the General Pardon card is played for the third 
+time, the game is over. At that point, the player with the most Victory 
+Points (VPs) wins. Victory Points are earned throughout the game as 
+per 18.12, with the Players moving their respective Victory Point mark-
+ers along Victory Point track on the map. If the VP total for a player 
+moves beyond 100, flip the VP marker to its +100 side and start back 
+at the beginning of the VP track.
+(18.12) Each Pirate earns Victory Points for his Pirate’s accumulated 
+Notoriety Points and Net Worth, and for having his KCs eliminate other 
+Players’ Pirates. Victory Points are gained as follows—record them on 
+the VP track at the instant they apply:
+	When a Pirate successfully Retires (18.4), each accumulated Noto-
+A.	
+riety Point earns two VPs for the Pirate Player. Furthermore, every 
+100 Doubloons of his accumulated Net Worth earns one VP (with 
+fractions of 100 dropped). Note that VPs are earned for Net Worth 
+only by Pirates who Retire; in every other instance in which a Pirate 
+leaves the game, all Net Worth is lost. 
+	 When a Pirate is Eliminated, or is still in play at game’s end (i.e., 
+B.	
+has not Retired), his Player gains one VP for each of the Pirate’s 
+accumulated Notoriety Points but zero VP from his accumulated 
+Net Worth. 
+	When a KC eliminates a Pirate from the game, the Player control-
+C.	
+ling the KC gains one VP for every two of the Pirate’s accumulated 
+Notoriety Points (with remainders dropped). The Pirate Player 
+gains one VP for each of the Pirate’s accumulated Notoriety Points. 
+Neither the KC’s Player nor the Pirate’s Player gains any VPs from 
+the Pirate’s accumulated Net Worth.
+18.2 NOTORIETY POINTS
+Pirates earn Notoriety Points (NPs) in a variety of ways. Players keep 
+track of their Pirates’ accumulated NP on their Notoriety Points track 
+on the Pirate Display for each Pirate. Notoriety Points are earned ac-
+cording to the Notoriety Points Table below:
+Pirate Achievement
+Notoriety Points Equal To:
+Merchant Ship’s Cargo rating
+Torture Hostage
+Hostage’s Value rating
+Successful Port Attack
+Port’s Value rating x2
+Successful Port Sack
+Port’s Value rating x2
+Defeat KC in Sea Battle
+KC’s Combat rating x2
+Defeat Warship in Battle
+Warship’s Combat rating
+Failed Oust Attempt by KC
+1 Notoriety Point
+Win a Duel
+Sum of the two Pirates’ Duel ratings
+18.3 NET WORTH
+A Pirate’s Net Worth is turned into VPs only if he successfully Retires 
+(18.4). Pirates earn a Player VPs equal to his Net Worth divided by 
+100, with fractions dropped. Thus, a Pirate with 2350 Doubloons in 
+Net Worth will earn 23 VP. If a Pirate is Eliminated, or if he fails to 
+Retire before the end of the game, his Net Worth is lost. 
+Historical Note: A Pirate ship was a combination of democracy and 
+corporate capitalism. The Pirate captain earned a voted share usu-
+ally commensurate with his status. Forget the buried treasure stories: 
+these capitalists were not seeking long-term gain. Biggest retirement 
+haul? The capture of the Portuguese East Indiaman, Nostra Senhore 
+de Cabo, by Taylor and La Buse, which produced a roughly estimated 
+400 million pounds of booty.
+18.4 RETIREMENT
+(18.41) In order to have his Net Worth used for Victory Points, and 
+in order to capitalize most effectively on his accumulated Notoriety 
+Points, a Pirate must Retire. The following methods may produce 
+Retirement:
+	
+A.	 Retire Voluntarily: This separate Pirate Action requires that the 
+Pirate is already In-Port, and that he already possesses a Letter of 
+Marque (not just an Event card that would allow him to acquire 
+one) for that port’s Nationality. This Action can be challenged and 
+negated by another Player playing a Double Cross card as an Anti-
+Pirate Action. 
+	
+B.	 Surrender during a KC attack and use a Letter of Marque, as 
+per 10.33. As with “Retire Voluntarily”, the Letter of Marque must 
+already be in the Pirate’s possession (the Nationality of the Letter 
+of Marque doesn’t matter in this case). Use of a Double Cross card 
+applies here, too. This Retirement is part of the KC Anti-Pirate Ac-
+tion and not a Pirate Action (see 17.2 for playing a Double Cross 
+card during the same Anti-Pirate Action as activating a KC).
+	
+C.	 As a Pirate Action in a Safe Haven:. If the Pirate is in one of his 
+Safe Haven he may Retire simply by saying so. 
+	
+D.	 As a Pirate Action in a Pro-Pirate Port: If the Pirate is in a port 
+with a Pro-Pirate Governor, but that Port is not a Safe Haven for that 
+Pirate, he may attempt to retire by Bribing the Governor. Roll D66 
+and multiply that number by 100. The result is the amount the Pirate 
+must give the Governor in order to Retire; the funds must come his 
+Net Worth, not from the Holds on his Ship. If he pays up, he Retires 
+voluntarily. If he declines (because he doesn’t like the price), he 
+stays in the game but incurs a decrease in his Crew Loyalty rating 
+of one (–1), and he may not Bribe that particular Governor again. 
+Place a “Governor Bribed” marker corresponding to that Governor 
+in the “Governors Bribed” box on the Pirate Card.
+	
+E.	 Play of a General Pardon card: see 17.2.
+(18.42) When a Pirate retires, everything he had, including his ship, 
+leaves the game with him. Victory Points resulting from his accumulated 
+Notoriety Points and Net Worth are recorded on the Victory Points 
+track immediately.
+Play Note: Why Retire? One of the questions that arose during playtest-
+ing was “Why bother to have a Pirate retire when he can accumulate 
+VP without bothering?” Well, for one, if your Pirate dies you lose all 
+his Net Worth. And then, the more Notoriety a Pirate gains the more a 
+target he becomes for a KC, whose player can gain half that Pirate’s 
+NP as VP by killing him. 
+
+19.0 Solitaire Blackbeard
+The following rules allow Blackbeard to be played solitaire. Some of these 
+rules modify the rules for the regular game—this is intentional.
+(19.1) Description: There are two players: You, and the System Player. 
+You control one Pirate, Blackbeard. Place the Blackbeard Pirate card on 
+your Pirate Display; you may assign him either a Sloop or a Schooner. Your 
+opponent, the System Player (SP) has three (3) Pirates on the map to start. 
+Draw three Pirate Cards and place them on three separate Pirate Displays. 
+Roll a die for each SP Pirate; on a 1–4, that Pirate has a Sloop; on a 5–6, 
+that Pirate has a Schooner. Whenever an SP Pirate retires or is eliminated, 
+draw another Pirate Card from the Pirate deck for the SP to use, until there 
+are no more Pirates remaining or (more likely) the game ends. 
+(19.2) General Game Play: The game plays somewhat differently from 
+the main game. You play your Player-Turn, after which all three of the 
+SP Pirates each get a Player-Turn. In other words, after you finish your 
+Player-Turn, all three of the other Pirates get a player-turn before you get 
+another one.
+(19.3) Preparing the Decks: Begin the game by placing the “Must Play 
+Immediately” Event cards and the “Hold Until Played” Event cards in 
+separate decks, face-down. They remain in separate decks throughout the 
+entire game. Remove the Finger of Fate card from the game. In addition, 
+remove the Piratical Ambition cards from the game; there are no Duels in 
+Solitaire Blackbeard (including duels that result in the regular game from 
+Booty Grab attempts). 
+(19.4) Placing the Merchant Ships: Place 10 Merchant Ships on the map, 
+as per the normal placement routine (3.0 Step 8). In each of Blackbeard’s 
+Merchant Shipping Phases, if the Merchant Ship total is below 8, place 
+enough Merchants to bring it to 8. Each Storms at Sea event (including 
+those that occur in 19.11 below) replenishes the total to 10.
+(19.5) Placing the Governors: Next, place the 8 Pro-Pirate Governors 
+randomly, using the Port Locator numbers to determine which Port they’re 
+placed on. 
+(19.6) Deploying Blackbeard: Place Blackbeard’s counter in the Sea Area 
+that contains the largest number of Merchant Ships (as determined during 
+initial placement). If there’s a tie, he begins in the Area that would gain 
+him the highest number of Doubloons if he looted a Merchant there and 
+rolled a 1 (see the Cargo Table). If still tied, it’s your choice, but he has to 
+go in an Area that contains at least one Merchant Ship. 
+(19.7) Deploying the System Player’s Pirates: After placing Blackbeard, 
+place the three SP Pirate counters. Roll D66 for each in turn and place it 
+in the Sea Area adjoining to the Port Locator number indicated on the 
+dice-roll. Only one Pirate may start the game in any given Sea Area; if the 
+Port Locator roll places them in an Area with another Pirate (including 
+Blackbeard), roll again. 
+(19.8) Starting the Game: The game begins with you drawing four “Hold 
+Until Played” cards into your hand and then playing the first card. After 
+your Player-Turn, all three of SP Pirates each get a Player-Turn. Then it 
+comes back to you—and so on.
+(19.9) Ending the Game: The game ends when one of the following oc-
+curs:
+Blackbeard successfully Retires with at least 130 Victory Points; 
+Blackbeard is killed;
+The instant the SP has acquired at least 100 VPs from all his Pirates 
+combined; 
+The instant all SP Pirates are eliminated and no more are available in 
+the Pirate Deck;
+General Pardon card is drawn from the “Hold in Hand” deck (see 
+19.10) for the third time.
+(19.10) The General Pardon Card: When the General Pardon card is 
+drawn for the first time from the “Must Play Immediately” deck, noth-
+ing happens in the game, but you immediately shuffle this card into the 
+remaining “Hold Until Played” deck along with all “Hold Until Played” 
+discards. From that point on, General Pardon functions exactly as in 17.2 
+of the rules.
+(19.11) Playing your Hand: You have a normal hand, except that you have 
+no extra Pirate cards. When you play a card, you do so normally, using either 
+the Actions or the Event or (when available) both. You may also launch 
+Anti-Pirate Actions normally against the other Pirates (except that you get 
+one AP Action for each SP Pirate). You never draw cards from the “Must 
+Play Immediately” deck; only the SP draws these cards (see 19.11).
+(19.12) Playing the SP’s Cards: The SP Player does not have a “hand”. 
+Instead, for his Player-Turn each of his Pirates, in turn, first draws a “Must 
+Play Immediately” card and plays it, and after that he draws and plays a 
+“May Be Held” card (so each SP Pirate draws one card from each deck on 
+each of his Player-Turns). If the “Must Play Immediately” deck runs out, 
+reshuffle it and place it face down in order to keep going.
+(19.13) Anti-Pirate Actions: Every time you perform an Action with 
+Blackbeard, you must stop to see if an Anti-Pirate Action occurs. If there is 
+a Warship or KC on the map and Blackbeard conducts an action that would 
+trigger Warship or KC activity, the Warship or KC activity automatically 
+occurs. Otherwise, on behalf of the SP, draw the top card from the “May Be 
+Held” pile; if you draw a card that contains an Anti-Pirate Action, perform 
+that Action against Blackbeard if possible. The Event card is then placed 
+on the Discard Pile. If you draw a Warship Sighting card for the SP when 
+Blackbeard is not performing an Action that triggers a Warship response, 
+simply place the Warship On Station in Blackbeard’s current Sea Area.
+(19.14) Notoriety Trigger: As soon as Blackbeard’s Notoriety reaches 12, 
+the first SP in each Player-Turn thereafter will use his Anti-Pirate Action 
+to attempt to deploy a KC, placing it in the Sea Area in which Blackbeard 
+is currently located. Once a KC is on the map, the SP who deployed the 
+KC will, in each Player-Turn in which the situation is appropriate, attempt 
+to intercept Blackbeard and engage him in Combat. KCs belonging to SPs 
+have no other function; Blackbeard may place and use KCs normally.
+(19.15) Blackbeard and KCs: Blackbeard may not Surrender to a KC; he 
+may Retire only by entering a Port and using a Letter of Marque. He may 
+not use methods 18.4B, 18.4C, 18.4D, or 18.4E in order to Retire.
+(19.16) Blackbeard and Mutiny: Blackbeard never dies from Mutiny. 
+Instead, if the roll is higher than his Leadership rating, his Crew Loyalty is 
+reduced by 3. If the roll is the same as the Leadership rating, Crew Loyalty 
+is reduced by 2. If lower, there is no effect.
+(19.17) SP Pirate Goals: Each SP Pirate will use his Actions for the greatest 
+possible gain to himself OR the greatest possible damage to Blackbeard. 
+Use the game rules in the best way possible to fulfill these two goals. 
+(19.18) SPs and Letters of Marque: If an SP draws a Letter of Marque 
+card, he must expend all possible subsequent Actions to sail directly for 
+the closest port with a Pro-Pirate Governor (closest is defined as requiring 
+the fewest Actions to reach). To begin this movement, he keeps the Letter 
+of Marque card and immediately draws another, using the Actions on the 
+new card to Move in the direction of the Port. Once he has reached the Pro-
+Pirate port, he enters port and uses the Letter of Marque card to acquire a 
+Letter of Marque, and continues his regular VP-acquiring missions. From 
+that point on (and possibly immediately), once his Net Worth and Notoriety 
+Points reach the point where, if he were to Retire in a port for which he has 
+a Letter of Marque, he would gain at least 30 VP, he sails immediately 
+for such a Port and commences the Retirement process. 
+(19.19) SPs and D&R: In a situation where, in the standard game, a 
+Pirate would have the option of voluntarily using D&R, an SP Pirate 
+will automatically do so. Otherwise, D&R for SPs is considered in-
+voluntary.
+(19.20) Crew Loyalty: If Blackbeard’s Crew Loyalty reaches zero, he 
+loses 2d6 worth of Notoriety Points immediately and another 1d6 worth 
+at the end of every one of his Player-Turns (not Actions) in which he 
+does not reaise the level above zero.
+
+20 Pirate BIOGRAPHIES
+“Long Ben” Avery got his start in 1694 as first mate aboard a 
+privateer hired out to the Spanish to combat French Pirates near 
+Martinique. They mutinied, turned Pirate, and headed for the Red 
+Sea. His great coup came in August 1695 when his 46-gun Fancy 
+with a crew of 160 took the Great Mogul’s 60-gun treasure ship 
+Gang-I-Sawai which was defended by 500 musketeers. The Mogul 
+claimed losses of 600,000 pounds for which he held the British East 
+India Company responsible. The resulting uproar branded Avery 
+both a criminal and a folk hero for life. On the one hand he was the 
+subject of a popular play, while on the other he was specifically 
+excluded from numerous King’s pardons. After trying unsuccessfully 
+to buy pardons, he went into hiding. Although many of his men were 
+caught Avery eluded the noose. He is however said to have been 
+blackmailed and swindled of his wealth by those who would have 
+exposed him to the law.
+Highly successful at capturing merchants, and nicknamed “Black 
+Bellamy” for his long black hair, Bellamy apprenticed with Benjamin 
+Hornigold, taking over from Hornigold as captain when the crew ob-
+jected to Hornigold’s refusal to attack ships of all countries. Bellamy 
+continued Hornigold’s practise of showing mercy and generosity toward 
+those he captured on his raids, and for having genuine concern for the 
+well-being of his crew. Bellamy was caught in a vicious storm off Cape 
+Cod in 1717; he died at 29 along with all but a handful of his crew. 
+Major Stede Bonnet was an oddity: a gentleman who actually bought 
+his 10-gun sloop and hired its 70-man crew at his own expense rather 
+than stealing it and rising to the captaincy as best among equals. It is 
+even said this poor soul took to the sea only to escape the wagging 
+tongue of an overbearing wife. Stranger still then that such a man would 
+fall in with the likes of Blackbeard—who eventually took his ship. A 
+smarter man would have known when to quit, but Bonnet eventually 
+regained command when Blackbeard double-crossed Bonnet’s crew. 
+Bonnet resumed his pirating only to be taken in August 1718, by two 
+sloops out of South Carolina under Colonel William Rhett. His execu-
+tion was most notable for his shameless groveling before the hangman 
+—unlike many a true Pirate who took their last step unrepentant. His 
+sole contribution to Pirate lore may be as the source for the largely 
+fictitious practice of “walking the plank.”
+Condent was one of piracy’s few winners and finished his career in a 
+storybook ending. Forced from New Providence by Woodes Rogers 
+after a relatively lackluster career, Condent thought better of a King’s 
+Pardon and with his 36-gun brig led the return of piracy to the east. He 
+took an Arab ship off Bombay worth 150,000 pounds—a shareout of 
+2,000 per man—and promptly retired, aided by a French pardon from 
+the Governor of Bourbon. He then married the Governor’s daughter, 
+emigrated to France, and became a wealthy ship owner.
+This Welshman got his start on the French island of Martinique where 
+he conspired with the crew to take over a sloop. He then proceeded to 
+take several French ships before turning to Guinea, where he took the 
+fort of Cambia Castle via subterfuge. Next fell a Hollander with the 
+Governor of Acca on board and 15,000 pounds of booty. Possessed 
+of a silver tongue, Davis was adept at gaining advantage with trickery 
+and easily enlisted the aid of other Pirates. It was all the more ironic 
+then that he met his end ashore in 1719 at the hands of a Portuguese 
+ambush while trying to entice the Governor of High Cameroon onto his 
+ship under the guise of hospitality. He was replaced by Bartholomew 
+Roberts, the greatest Pirate of all, whom he had pressed into service 
+only weeks before.
+As a rule, Pirates were not noted for mercy; they usually exacted a 
+terrible vengeance against those who resisted their depredations. The 
+following was an exceptional case, then, when Edward England’s Fancy 
+(accompanied by the Victory of John Taylor) engaged the East Indiaman 
+Cassandra under James Macrae in August 1720 of Johanna Island, near 
+Madagascar. In perhaps the most courageous defense against a Pirate 
+attack, the Cassandra caused 90 Pirate casualties while suffering 37 of 
+her own, before running aground and having her remaining crew flee 
+into the jungle. When Macrae returned to barter with the Pirates for 
+the return of his ship, he was braving near certain death. England was 
+so taken with Macrae’s courage that he not only interceded to spare 
+Macrae, but also gave him the battered Fancy and half his cargo. As a 
+direct result of his clemency, England was soon marooned on Mauritius 
+Island by his unhappy crew.
+
+An English Pirate during the early 18th century, Hornigold’s ship was 
+the starting point for several better known Pirates. Like many Carib-
+bean Pirates, Hornigold had served previously on an English privateer 
+during the War of Spanish Succession.
+Hornigold was known for being less vicious than most. Hornigold 
+left New Providence Island in the Bahamas with Edward Teach (later 
+known as Blackbeard) among his crew. When he captured a sloop, he 
+placed her under Teach’s command. In 1717 they plundered six ships 
+off the American coast and raided in the Caribbean. By the year’s end 
+Hornigold and Teach had captured a French ship laden with gold, jewels, 
+and other booty. After dividing the spoils, they parted company.
+When Woodes Rogers was appointed royal governor of the Bahamas, 
+Captain Hornigold requested and received a pardon. Rogers commis-
+sioned him to hunt down Pirates. Hornigold pursued Stede Bonnet and 
+Charles Vane, among others.
+ The French Pirate “The Buzzard,” real name Olivier Levasseur, oper-
+ated out of the Caribbean and along the African coast. It was his good 
+fortune to be sailing in tandem with John Taylor when the latter took 
+the Nosa Senhora do Cabo and its rich cargo of diamonds. In 1730 he 
+was captured and executed for the crime of piracy at Réunion.
+No Pirate got more press for less cause than Kidd. A merchant who 
+owed his wealth to his earlier days as a privateer, Kidd was coerced 
+by Lord Bellemont, Governor of New York, to sail to the Red Sea as 
+a King’s Commissioner and to enrich them both by means of a Letter 
+of Marque against the French. But the crew got surly, and when they 
+stopped several Dutch ships, Kidd consented to their capture—seizing 
+upon French passes held by their captains as sufficient grounds to claim 
+them as a legal prize. Then followed the taken of a richly laden Moor-
+ish ship, the Queda Merchant. Upon his return to New York, Kidd was 
+arrested for piracy, convicted, and hung. He had been betrayed—his 
+Letter of Marque and the French passes were hidden by Bellomont, to 
+whom Kidd had become a political embarrassment. His body was left 
+hanging for years as a public lesson and therefrom sprang his fame. 
+Kidd’s booty was never fully recovered, thereby giving birth to tales 
+of buried Pirate treasure.
+Kennedy was a London pickpocket who rose to considerable stature 
+under the great Bartholomew Roberts as a trusted lieutenant. He should 
+have stayed there for he did not survive long as his own and was hung 
+more than a year before Roberts met his end. He owes what prominence 
+he has in Pirate lore to the surviving documentation of his trial in which 
+he explained Pirate customs in greater detail than heretofore had been 
+generally known.
+Few engaged in more unspeakable barbarities than this French deni-
+zen of Tortuga, also known as Jean David Nau. Unfortunately for the 
+Spanish, the genocidal tendencies of “The Torturer” were reserved 
+exclusively for them. One of his tricks of persuasion was to cut open 
+the breast of a victim, pull out his still-beating heart, and gnaw upon it 
+with great relish while the next menu object looked on in stark terror. 
+No wonder few withheld information from him. His greatest success 
+was a raid on Marcaibo in 1667 with a fleet of 500 men which netted 
+260,000 pieces of eight. This led to a second expedition, against Nica-
+ragua, which was annihilated by a joint force of Spaniards and Indians. 
+It is a matter of some poetic justice that he met his end in much the 
+same manner that he had dispensed it to others; the Indians took him 
+alive and meted out a slow and hideous death.
+Edward Low stands out in the annals of piracy for two reasons: his 
+unceasing hatred of New England and the imaginative tortures he 
+wrought on any from there unfortunate enough to fall into his hands. 
+One captive master not only lost his ears to Low’s butchery, he was 
+then forced to endure the indignity of eating them himself. It would be 
+pleasing to report that Low met his end with a similar dispatching, but 
+alas he seems to have escaped the long arm of the law, if not of God. 
+In January 1724, Low took his last prize. Nothing was heard of him 
+again, and it was widely thought that he and his entire crew were lost 
+at sea in a storm shortly thereafter. However, three marooned men were 
+rescued near Martinique at the same time and hanged by the French as 
+Pirates. Low is thought to have possibly been one of them.
+Note: Most of the biographical information was taken from the origi-
+nal Blackbeard game; the rest comes from various sources, including 
+wikipedia.org and piratesinfo.com.
+
+“Calico Jack” was not wanting for courage. He replaced Charles Vane 
+when the latter refused to attack a large French ship and later got the 
+best of a Spanish Man-O-War; but he owes his place in history to the 
+company he kept. His two fiercest hands were members of the fairer 
+sex, and more fierce cutthroats never hoisted a Jolly Roger. It is said that 
+the women were the first to board a prize and the last to show mercy. 
+Indeed, in October 17210 when a British sloop finally caught up with 
+them, only the women resisted—the men being incapacitated with drink. 
+Both Anne Bonney and Mary Read escaped the gallows with an unusual 
+defense… they pleaded their pregnancies. The Court refused to kill an 
+unborn child, but Mary died of fever in prison. Anne’s father is said to 
+have bought her release after the birth of his grandchild. As for Calico 
+Jack, as Mary is said to have told him on his ways to the gallows: “Ye 
+wouldn’t have to hang like a dog, if ye’d fought like a man.”
+“Black Bart” was the greatest Pirate of all time. Ascending to the 
+captaincy of the Royal Rover as a “pressed man” upon the death of 
+Howell Davis in 1719, Roberts devastated the Portuguese on Prince’s 
+Island in revenge. He then embarked upon a four year career that saw 
+him capture over 400 vessels along the Gold Coast, West Indies, and 
+New England—including several escapades wherein he sailed into an 
+escorted convoy to fleece the merchants of his choice. Such was his 
+success that by February 1722 he was commanding a fleet of vessels 
+that served as treasure ships and scouts for his 40-gun flagship when 
+Chaloner Ogle’s 60-gun Swallow caught up to him at Cape Lopez. 
+His men were hung over from a night of revelry and unfit for combat. 
+Roberts, who disapproved of liquor, was felled by the first broadside, 
+his throat shot away by grapeshot. Without their leader, the fight was no 
+contest. Of the 254 captured, 52 were hung and 74 acquitted as “pressed 
+men.” The rest died in irons, thus ending the Golden Age of Piracy.
+Spriggs sailed with Edward Low until the two quarreled and the former 
+took the opportunity to leave with other malcontents aboard a recent 
+prize. He shared his former captain’s penchant for barbarity, and those 
+who resisted his overtures to join his crew often experienced that first-
+hand. Spriggs met his end in the spring of 1725 when he was attacked 
+off Western Cuba by a Man of War which pursued him to Florida, 
+where his ship ran aground with all hands lost.
+Lowther was forced into piracy by a tyrannical captain bent on punish-
+ing him, but who succeeded instead in creating a mutiny. Having thus 
+already committed a capital offense, Lowther and his mates had little 
+to lose by turning to piracy. They operated in concert with Edward 
+Low until their fortunes took a turn for the worse while splitting their 
+booty on Martinique. Natives there took them by surprise and forced 
+them to abandon much of their plunder with a hasty departure. The two 
+Pirates then took their leave of each other. In October 1723, Lowther 
+had stopped to careen when he was chanced upon by the Eagle, a sloop 
+of Barbados, which forced the Pirates to flee into the jungle. Most were 
+caught and hanged. Lowther dies by his own hand rather than facing 
+the noose.
+Often called the “Robin Hood of the Ocean,” Lusan acted with remark-
+able chivalry towards his captives. He was a French aristocrat who 
+appears to have entered piracy via buccaneer expeditions versus the 
+Spanish, as an escape from local creditors to whom he had incurred 
+gambling debts. He was not a “professional” Pirate, treating his sea-go-
+ing enterprise as a sort of financial divertissement. However, he appears 
+to have had a high degree of courage to go along with his unusually 
+soft treatment of captives. Moreover, he used the public’s perception 
+of piracy to a run a form of “protection racket.” Religious, he insisted 
+his crew attend Mass with him before attacking a town. Upon his retire-
+ment, he wrote a book about his adventures which may well have been 
+the source of inspiration for Sabatini’s “Captain Blood.”
+Quelch, like Kidd, sought protection from the law in his Letter of 
+Marque. The Charles had been fitted out as a privateer against the 
+French but Quelch and his crew disposed of the captain and made for 
+the South Atlantic where they took nine Portuguese prizes. Inasmuch 
+as Portugal was currently an ally of the Queen of England, Quelch and 
+his cohorts were arrested in June 1704 upon their return to Boston—fol-
+lowing some conspicuous spending bouts ashore. Shortly thereafter, 
+Quelch and six of his crew danced from the gallows.
+
+The man history knows as Blackbeard (and also by various 
+names, such as Thatch) wasn’t the most successful Pirate of 
+his day, but he was the embodiment of the public’s perception 
+of a Pirate as he haunted the American coast, taking dozens of 
+prizes (and even defeating a 30-gun frigate of the Royal Navy) 
+in an 18-month reign of terror that stretched from Honduras 
+to Virginia. A heavy drinker, expert swordsman, and naturally 
+violent man, Teach heightened his opponents’ sense of dread 
+by plaiting his enormous beard with colored ribbon and lit 
+matches. Fourteen “wives” attested to his errant ways. Aided 
+by Governor Eden of North Carolina, who welcomed his stolen 
+goods, Teach amassed a fleet of over 400 men by 1718, when he 
+actually blockaded Charleston. Two Virginia sloops under Rob-
+ert Maynard hunted him down on 22 November in the Carolina 
+sounds. Teach, aboard the small sloop Adventure with but 18 
+hands, was drunk as usual. Nonetheless, he gave the warships 
+all they could handle—killing or wounding 35 before falling 
+from some 25 wounds. His head adorning the bowsprit of HMS 
+Pearl marked the end of his grisly reign. 
+Taylor was instrumental in the marooning of Edward England—for it 
+was he who replaced him, though England had given Taylor his brig. 
+However, Taylor owes his place in history to his good fortune in com-
+ing upon the dismasted Portuguese East Indiaman Nossa Senhora do 
+Cabo the following April 26. The Cabo was returning from Goa with 
+the retiring viceroy and his fortune in diamonds. It was easily the richest 
+single haul in all of piracy—a catch worth some one million pounds. 
+Having made their fortunes, they sought an English pardon. When this 
+was refused they bought a Spanish one instead in 1723 for 20% of their 
+loot, and lived out their lives in Portobello. Taylor is rumored to have 
+later attacked English logwood-cutters in the Bay of Honduras while 
+in command of a Spanish Man-O-War. Historically, he may have been 
+one of the few winners of the piracy game.
+Tew was a prosperous Rhode Island privateer whose piracy was not 
+only condoned, but openly encouraged as a boon to the local economy. 
+New England found it easy to countenance Pirates as long as their dep-
+redations occurred far away in the Red Sea against the “heathens’ of 
+the great Mogul. Tew’s first voyage in 1692, ostensibly inspired by a 
+Letter of Marque against the French, was a great success. His eight-gun 
+Amity chanced upon a Mogul treasure ship and, despite the presence 
+of 300 Indian soldiers, he took it without losing a man. The payout for 
+this prize amounted to 1200 pounds per man—an immense sum in those 
+days. It made Tew both wealthy and prominent. No less a personage than 
+Governor Benjamin Fletcher of New York backed his second voyage, 
+but this one came to grief when Tew was disemboweled by a cannon 
+shot while attempting to board another Indian merchantman.
+A New Providence Pirate, Vane is most notable for his defiant resistance 
+to Woodes Rodgers. When the latter appeared in Nassau in 1716 with a 
+squadron of five warships and a King’s pardon for all who would submit, 
+Vane met them with guns blazing. He remained at large for three years 
+and posed a constant threat to Rodger’s fledgling colony of turncoat 
+Pirates on New Providence—and was rumored to have joined forces 
+with Stede Bonnet for that purpose. He must have mellowed with age 
+because Rackham deposed him as captain when he declined to attack 
+a large French vessel. Vane narrowly avoided being marooned on that 
+occasion and rose to the captaincy of another ship, but finally met his 
+end when a storm wrecked his vessel on an uninhabited island in the 
+Honduras. He was rescued from starvation by a passing ship only to 
+be turned over to the hangman in Jamaica.
+This French Pirate’s claim to fame is the first authenticated use of what 
+came to be known as the classic “Jolly Roger”, a flag with a skull-and-
+crossbones motif. This historic sighting occurred in 1700 off the west 
+coast of Africa in an indecisive engagement with HMS Poole. Wynne’s 
+version was embellished with an hourglass—presumably to symbolize 
+to his prey that their time was running out. The original meaning of 
+the Jolly Roger is thought to be an offer of quarter if the prey were to 
+surrender. If too slow in their response, it was replaced by a red flag 
+which meant: no mercy.
+
+21 Developer’s notes
+Living Rules Amendments: We’ve amended, clarified, and simpli-
+fied a variety of items for the Living Rules, in response to numerous 
+helpful comments from players posting on Consimworld and Board-
+GameGeek.
+All modifications posted on CSW and BGG have been incorporated 
+into the Living Rules; these are denoted by blue text in the “blue” 
+version and by vertical lines in the margins in both the “blue” and 
+the “print” versions. 
+The Sea Area boundaries in the western half of the map have been 
+clarified—this map is available in the boxed reprint and a reference 
+version is available for download at gmtgames.com;
+The multiplier for Hostage ransoms is now 50 instead of 10;
+KC Reaction (10.3) has replaced the former procedures for KC 
+Actions against Pirates and changes the way KCs function against 
+Pirates; KC Actions (10.4) have the former functions but there are 
+fewer of them;
+The Loot Merchant procedure (8.3) has been streamlined, with 
+(among other things) the Convert Merchant Ship Action built into it 
+and no longer a separate Pirate Action;
+KCs and Warships may no longer interrupt Loot Merchant actions 
+once the actual procedure has begun—they may interrupt upon the 
+announcement of Loot Merchant;
+Recognizing that many players did not like that Warships and KCs 
+were less powerful than in the original Blackbeard, we’ve recom-
+mended changing the Combat rating of all Warships and KCs by 
++2. The counters themselves have not changed (the only component 
+change possible for the reprint was to the map). These modified Com-
+bat values are now the official rule, but players should still consider 
+the change optional. If you wish to play with the originally printed 
+values, which are the values the designer believes create the most 
+accurate historical results, by all means do so.
+The original Blackbeard, released by the Avalon Hill Game Company in 
+1989, took the detail commonly associated with wargames and applied 
+it to a topic that would normally have been the subject of a much lighter 
+game. But back then detail was all the rage, particularly in the conflict 
+simulation market, and any subject lent itself to something closer to an 
+historical study than a fast-moving game. Ultimately, that’s what the 
+original Blackbeard was: a simulation of the careers of Pirates. There 
+was no swashbuckling and very little glamor in their lives, and just as 
+little in the game itself. The game was fascinating, and it had (and still 
+has) its share of fans, but it felt weighted down at times by the very 
+detail that gave it its fascination.
+Twenty years later, the game market has changed. The demand now is 
+for games with very little downtime and a relatively fast playing time. 
+Detail can be included, but it has to flow rather than impede, and the 
+game itself is more important. The new Blackbeard was designed from 
+the ground up to meet those demands, and what you have in your hands 
+right now is a game thoroughly redesigned in recognition of the new 
+market. But it wouldn’t be Blackbeard had the concept of the Pirate 
+simulation simply been tossed out the window in favor of a fast-playing 
+and totally unrealistic game, nor would it have pleased those who en-
+joyed the original and waited eagerly for the update. 
+As he explained to me when I began developing Blackbeard, Richard 
+Berg’s first challenge in the redesign was to eliminate the extensive 
+downtime of the original, those periods when one person was making 
+his move and everyone else sat around—often for quite a while—as he 
+did so. To meet this challenge, he dropped some of the less significant 
+detail, but equally importantly, during development he agreed to recast 
+the game as a card-driven game, with one player’s turn ending quickly 
+and the next player able to jump in. But it didn’t stop there. Instead, 
+the concept of the constantly present Anti-Pirate Player emerged, in 
+CREDITS
+Game Design: Richard H. Berg
+Game Development: Neil Randall
+Special Assistance: Kevin Coombs, Allen Doum, Dave Klempa
+Art Director, Packaging: Rodger B. MacGowan 
+Map, Counter, and Card Art: Mark Mahaffey
+Pirate Portraits: Leona Preston
+Rules Layout: Neil Randall 
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy Lewis, Gene 
+Billingsley and Mark Simonitch
+Playtesting: Andrew Young, Kevin Bernatz, Walter Wintar, Kevin 
+Coombs, Brian Conlon, Chris Janiec, Brian Snell, Ed Carpenter, 
+K. Grimsley, David Klempa, Katherine Bartlett, Lee Watts, Johnny 
+DiPonio, Tim Fiscus, Todd Goff, Allen Doum, Adam Whan, Barry 
+Setser, Ken Dingley, Britt Strickland, Louise Strickland, J. R. Tracy, 
+Michael Gouker, Steven Caler, Gareth Scott, Edward J. Kemp, Jack 
+Beckman, Peter Bennett, Jon Gautier, Jim Anderson.
+A Note of Thanks: to John Schoonover, of Schoonover Studios, 
+Wilmington, DE, for providing us with the famous painting of 
+Blackbeard by Frank Schoonover that we used for our boxcover. 
+If you want more information on such paintings, you can contact 
+the studio at www.schoonoverstudios.com.
+Pirate Tourism: Those of you who happen to make it to Charles-
+ton, S.C., can attend one of the finest Pirate museums, and home 
+of many of the famous Pirate paintings by Howard Pyle and Frank 
+Schoonover, plus hundreds of artifacts, in a most unusual location, 
+the restaurant, “Queen Anne’s Revenge”. 
+which all players would act, in essense, as instigators of events above 
+and beyond the control of the Pirates. In other words, you’re not just 
+playing a Pirate in this game, nor are you playing a Pirate and a King’s 
+Commissioner, you’re also responsible for warships appearing, for wear 
+and tear on the opposing Pirate’s ships, for mutinies and double-crosses, 
+and for much else. You’re a Pirate, but you’re also fate.
+With the design promising a much faster and much more interactive 
+game, developing it meant ensuring that all of the possible Actions that 
+players could take never stopped the game in its tracks because of the 
+wide array of possible interactions and their effects. At the same time, 
+we needed to ensure that all players were in the game at all times—or 
+at least as much as possible—even with five people playing. The result 
+of this effort are the Charts & Tables card and the Pirate Displays. 
+There aren’t all that many charts and tables in the game, but die-rolls 
+for various purposes are numerous. We wanted the most frequently 
+accessed procedures in one place, with a step-by-step procedure for 
+how to work through each procedure, so we developed the procedure 
+summaries on those cards. Of primary importance was the Loot Mer-
+chant Ship procedure, a fundamental game mechanic that constantly 
+had playtesters digging through the rules to see what happened next 
+and how. Ultimately the step-by-step procedure, with enough detail to 
+get players through it and references for the rest, did the trick.
+Enjoy the game. We’ve found playing it a fun, highly entertaining 
+experience, 2–3 hours with lots of talking and laughing, for hard-core 
+and casual gamers alike. It’s also, we think, a pretty good simulation, 
+at this scale and level of detail, of what piracy was all about.
+Neil Randall, January/September 2008
+
+Port GRid: 3-PlAYER GAME
+A1
+A2
+A3
+B1
+B2
+B3
+C1
+C2
+C3
+#
+Name
+Boston
+New York
+Philadelphia
+Virginia
+Bath
+Charleston
+Honduras
+Portobello
+Cartagena
+Curacao
+Port o’ Spain
+Martinique
+Guadeloupe
+San Juan
+Santo Domingo
+Isla de Tortuga
+Santiago
+Havana
+New Providence
+Cape Coast
+Cormantin
+Whydah
+Cape Lopez
+Kilwa
+Zanzibar
+Ethiopia
+Mocha
+Bombay
+Severndroog
+Goa
+Calicut
+Isle Ste. Marie
+GMT Games grants permission to photocopy this page for personal use.
+
+A1
+A2
+B1
+B2
+C1
+C2
+D1
+D2
+E1
+E2
+#
+Name
+Boston
+New York
+Philadelphia
+Virginia
+Bath
+Charleston
+Honduras
+Portobello
+Cartagena
+Curacao
+Port o’ Spain
+Martinique
+Guadeloupe
+San Juan
+Santo Domingo
+Isla de Tortuga
+Santiago
+Havana
+New Providence
+Cape Coast
+Cormantin
+Whydah
+Cape Lopez
+Kilwa
+Zanzibar
+Ethiopia
+Mocha
+Bombay
+Severndroog
+Goa
+Calicut
+Isle Ste. Marie
+Port GRid: 4-Player and 5-player Game
+GMT Games grants permission to photocopy this page for personal use.
+
+1	 Introduction..............................................	2
+2	 Game Components ...................................	2
+	
+2.1 Playing Cards.....................................	2
+	
+2.2 Map ...................................................	2
+	
+2.3 Player Aids.........................................	2
+	
+2.4 Playing Pieces ...................................	3
+	
+2.5 Dice....................................................	3
+	
+2.6 Useful Terminology...........................	4
+	
+2.7 Number of Players ............................	4
+	
+2.8 Questions...........................................	4
+3	 Preparing for Play....................................	4
+4	 Course of Play ..........................................	5
+	
+4.1 Game Length.....................................	5
+	
+4.2 Objectives and Flow of Play..............	5
+	
+4.3 The Player-Turn.................................	5
+	
+4.4 Phases of the Player-Turn .................	5
+	
+4.5 Pirate Actions.....................................	6
+	
+4.6 Anti-Pirate Actions ...........................	6
+5	 Pirates........................................................	7
+	
+5.1 Deploying Pirates .............................	7
+	
+5.2 Pirate Ratings.....................................	7
+6	 Ships..........................................................	8
+	
+6.1 Types of Ships ..................................	8
+	
+6.2 Pirate Ships .......................................	8
+	
+6.3 Merchant Ships .................................	9
+	
+6.4 Warships ...........................................	9
+7	 Movement .................................................	10
+	
+7.1 Moving in Sea Areas.........................	10
+	
+7.2 Moving in Transit Boxes ..................	10
+	
+7.3 Moving in and out of Ports ...............	10
+8	 Merchant Ships ........................................	10
+	
+8.1 Finding Merchants ............................	10
+	
+8.2 Looting Merchants ............................	11
+	
+8.3 The Looting Process .........................	11
+	
+8.4 Hostages ...........................................	10
+	
+8.5 Converting Merchant Ships ..............	12
+9	 Ports .........................................................	12
+	
+9.1 Ports in General ................................	12
+	
+9.2 Governors .........................................	12
+	
+9.3 Port Status .........................................	12
+	
+9.4 In-Port Actions...................................	13
+	
+9.5 Pirate Attacks on Ports.......................	14
+	
+9.6 Booty Grab........................................	15
+10	 King’s Commissioners .............................	15
+	
+10.1 How KCs Arrive ..............................	15
+	
+10.2 How KCs Function ..........................	15
+	
+10.3 KCs Reaction ...................................	16
+	
+10.4 KC Actions ......................................	17
+	
+10.5 KCs and Victory Points....................	17
+11	 Pirate Alliances.........................................	17
+12	 Pirate Cunning and Luck.........................	18
+13	 Debauchery & Revelry..............................	18
+	
+13.1 How D&R Occurs............................	18
+	
+13.2 The Effects of D&R..........................	18
+14	 Mutiny.......................................................	18
+15	 Duels..........................................................	18
+16 Recovery vs. Refit......................................	19
+17	 Event Cards...............................................	19
+	
+17.1 How to Use Event Cards..................	19
+	
+17.2 The Events........................................	19
+18	 Winning ....................................................	23
+	
+18.1 Victory Points ..................................	23
+	
+18.2 Notoriety Points ...............................	23
+	
+18.3 Net Worth ........................................	23
+	
+18.4 Retirement .......................................	23
+19	 Solitaire Blackbeard ................................	24
+20	 Pirate Biographies ...................................	25
+21	 Developer’s Notes ....................................	29
+	
+Credits .......................................................	29
+	
+Port Grid 3-Player......................................	30
+	
+Port Grid 4-Player and 5-Player ...............	31
+Table of Contents
+GMT Games, LLC
+P.O. Box 1308, 
+Hanford, CA 93232–1308
+www.GMTGames.com
+BLACKBEARD

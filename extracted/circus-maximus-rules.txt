@@ -1,0 +1,3594 @@
+Avalon Hill’s Trademark Name for Its Game of Chariot Racing in Ancient Rome
+
+Contents
+Contents . . . . . . . . . . . . . . . . . .
+i
+Introduction . . . . . . . . . . . . . .
+Components . . . . . . . . . . . . . .
+2.1
+Mapboard . . . . . . . . . . . . .
+2.2
+Game Counters . . . . . . . . . .
+2.3
+Chariot Race Log . . . . . . . . .
+2.4
+Rules Manual . . . . . . . . . . .
+2.5
+Betting Sheet . . . . . . . . . . .
+2.6
+Not Included
+Setup & Prepare for Play
+3.1
+Number of Players
+3.2
+Chariot Placement
+3.3
+3.4
+Extra Factions
+. . . . . . . . . .
+3.5
+Filling Out Race Log . . . . . . .
+3.6
+Preparation Points . . . . . . . .
+3.7
+Eggs and Dolphins
+3.8
+Start Lanes
+. . . . . . . . . . . .
+3.9
+Racing Steward . . . . . . . . . .
+Basic Description of Play
+Sequence of Play . . . . . . . . . . .
+5.1
+Movement Notation . . . . . . . .
+5.2
+Movement Order Preparation
+. .
+5.3
+First Movement Phase . . . . . .
+5.4
+Second Movement Phase . . . . .
+5.5
+Further Phases
+. . . . . . . . . .
+Movement . . . . . . . . . . . . . . .
+6.1
+Movement Notation . . . . . . . .
+6.2
+Movement Execution . . . . . . .
+6.3
+Forward Movement . . . . . . . .
+6.4
+Lane Change Movement
+6.5
+Straining . . . . . . . . . . . . . .
+6.6
+Braking
+6.7
+Sideslip
+6.8
+Attacking
+. . . . . . . . . . . . .
+6.9
+Evading . . . . . . . . . . . . . .
+Chariot Flip . . . . . . . . . . . . . .
+7.1
+Flip Conditions . . . . . . . . . .
+7.2
+Straining in a Corner . . . . . . .
+7.3
+Corner Strain Resolution . . . . .
+7.4
+Flip Due to Wheel Damage
+Endurance . . . . . . . . . . . . . . .
+8.1
+Endurance Factor . . . . . . . . .
+8.2
+Losing Endurance Factors
+. . . .
+8.3
+Tracking Endurance Factor Loss .
+8.4
+Zero Endurance . . . . . . . . . .
+8.5
+Less Than Zero Endurance Eﬀects
+Combat . . . . . . . . . . . . . . . . .
+9.1
+General Rules . . . . . . . . . . .
+9.2
+Attack Procedure . . . . . . . . .
+9.3
+Defense Procedure
+9.4
+Lash Attack . . . . . . . . . . . .
+9.5
+Voluntary Ram Attack . . . . . .
+9.6
+Involuntary Ram Attacks . . . . .
+10 Ending the Race . . . . . . . . . . .
+10.1 Marking First To Corners
+. . . .
+10.2 Last Stretch Condition . . . . . .
+10.3 Last Stretch: No Corner Straining
+10.4 First Tiebreak . . . . . . . . . . .
+10.5 Second Tiebreak
+11 Reaction Time . . . . . . . . . . . .
+11.1 Quickening The Pace Of Game Play 19
+11.2 Moving Counters . . . . . . . . .
+11.3 Time Allotment For Moving . . .
+11.4 Counting Squares . . . . . . . . .
+11.5 Time Limit for Attacks and Chart
+Checks . . . . . . . . . . . . . . .
+11.6 Countdown Continuations . . . .
+11.7 Announcing Game Turns . . . . .
+11.8 Assistant Steward for a Playing
+Steward . . . . . . . . . . . . . .
+11.9 Changing Time Allotment . . . .
+12 Wreck Location . . . . . . . . . . . .
+12.1 Handling Wrecks
+12.2 Determinging Location . . . . . .
+12.3 Landing Outside The Track
+12.4 Wreck Ram Attack . . . . . . . .
+13 Critical Injuries
+13.1 Wound Result . . . . . . . . . . .
+14 Running Over Wrecks
+. . . . . . .
+i
+
+14.1 Running Over Wreck Rules
+14.2 Running over wreck cost . . . . .
+14.3 Running over wreck attempt . . .
+15 Runaway Teams
+15.1 Counter Disposition . . . . . . . .
+15.2 Team Movement
+16 Dragged Drivers . . . . . . . . . . .
+16.1 Drag Criteria
+16.2 Cutting Free . . . . . . . . . . . .
+16.3 Dragging Damage . . . . . . . . .
+16.4 Winning Will Being Dragged . . .
+16.5 Attacking dragged driver . . . . .
+16.6 Being Dragged Over A Wreck . .
+16.7 Critical Hit Causing A Dragged
+Driver . . . . . . . . . . . . . . .
+17 Running for Cover . . . . . . . . . .
+17.1 Replacing Counter
+17.2 Driver Movement . . . . . . . . .
+17.3 Jumping The Wall
+17.4 Running Down a Driver On The
+Track . . . . . . . . . . . . . . . .
+17.5 Other Attacks On Driver . . . . .
+17.6 Drivers In The Same Square . . .
+18 Enlarged Field
+. . . . . . . . . . . .
+18.1 More Than Eight Players or Char-
+iots . . . . . . . . . . . . . . . . .
+18.2 Placement Of Extra Chariots
+. .
+18.3 Faction Selection
+18.4 Second Row Faction Selection . .
+THE CAMPAIGN GAME
+19 Solitaire Play . . . . . . . . . . . . .
+20 The Racing Season
+20.1 Starting Resources
+20.2 Season Length . . . . . . . . . . .
+20.3 Advanced Rules Usage and Betting
+20.4 Race Winners . . . . . . . . . . .
+20.5 Injuries and Experience Points . .
+21 Spending Money . . . . . . . . . . .
+21.1 Unit of Currency . . . . . . . . .
+21.2 Player Loans
+21.3 Spending Limit . . . . . . . . . .
+21.4 Purchasing Horses
+21.5 Purchasing Drivers . . . . . . . .
+21.6 Purchasing Cars . . . . . . . . . .
+21.7 Trading, Exchanging, or Switch-
+ing Horses . . . . . . . . . . . . .
+22 Recovering from Injuries . . . . . .
+22.1 Starting Repairing and Recovery
+22.2 Recovery Rate . . . . . . . . . . .
+22.3 Car Repair . . . . . . . . . . . . .
+22.4 Racing Injured Driver or Team
+.
+23 Experience . . . . . . . . . . . . . . .
+23.1 Gaining Experience Criteria . . .
+23.2 Recording Experience . . . . . . .
+23.3 Experence Point Accumulation
+.
+23.4 Using Experience On A Driver . .
+23.5 Using Experience On Horse Speed
+23.6 Using Experience On Team En-
+durance
+23.7 Experience Usage Interactions . .
+24 Skullduggery
+. . . . . . . . . . . . .
+24.1 Skullduggery Attempts . . . . . .
+24.2 Using Skullduggery . . . . . . . .
+24.3 Bribery
+24.4 Drugs
+. . . . . . . . . . . . . . .
+24.5 Sabotaging Cars . . . . . . . . . .
+25 Security
+. . . . . . . . . . . . . . . .
+25.1 Planning Skullduggery . . . . . .
+25.2 Types of Security . . . . . . . . .
+25.3 Spending For Security
+25.4 Pay By The Race For Each Race
+25.5 Using Security . . . . . . . . . . .
+25.6 Limits of Security . . . . . . . . .
+26 Betting . . . . . . . . . . . . . . . . .
+26.1 Betting Requirements . . . . . . .
+26.2 Betting Procedure Before the Race
+26.3 Betting Procedure During the Race 30
+26.4 Payoﬀs . . . . . . . . . . . . . . .
+26.5 More Players Than Factions . . .
+27 Optional Rules . . . . . . . . . . . .
+27.1 A
+More
+Detailed
+Speciﬁcation
+Method
+27.2 Special Weapons
+ii
+
+27.3 Horse Carcasses . . . . . . . . . .
+27.5 First Turn Acceleration . . . . . .
+27.6 Voluntary Straining . . . . . . . .
+27.7 Weather . . . . . . . . . . . . . .
+27.8 Rain . . . . . . . . . . . . . . . .
+27.9 Mud . . . . . . . . . . . . . . . .
+28 WRECKUS MAXIMUS . . . . . .
+28.1 Attacks from the Rear
+28.2 Ram Attacks To The Rear . . . .
+28.3 Lash Attacks To The Front
+28.4 Bolting . . . . . . . . . . . . . . .
+28.5 Front Ram Attack
+DESIGNER’S NOTES . . . . . . . . .
+COLLECTED TABLES
+iii
+
+Introduction
+Circus Maximus is a tactical simulation of
+chariot racing in ancient Rome.
+The game is
+played by two to eight players, each controlling
+one or more chariot teams. The game provides all
+the information needed to recreate this historic
+sport easily and accurately in an exciting format.
+Each chariot is represented by a pair of coun-
+ters which are moved as a single unit across the
+mapboard’s square grid according to the individ-
+ual movement abilities of each vehicle.
+Orders for movement are written for each
+chariot on a racing information sheet hereafter
+referred to as a Log.
+The chariots are then
+moved one at a time per these written orders,
+and any attacks against rival chariots are made.
+Very careful planning, maneuvering, and an
+element of luck are needed to ﬁnish ﬁrst. . . or to
+ﬁnish at all.
+To those reading these rules who are new to the
+hobby of simulation gaming, or “wargaming” as
+it is more commonly known, a word of explana-
+tion is in order. Circus Maximus is a game that
+simulates reality in a game format. It represents
+the results of long research to accumulate facts
+and data to duplicate conditions as they were at
+the time of the actual event. Simulations come
+in many diﬀerent forms. A scene being staged
+and shot for a movie is a “visual” simulation of
+reality. A scene described in a book can be re-
+garded as a “written” simulation. Similarly, the
+mapboard, counters, and rules contained in this
+box constitute a “gaming” simulation of the “real
+thing”.
+Absolute realism in any type of simu-
+lation is, of course, impossible, but within the
+framework of this game, the major factors and
+problems confronting the participants in ancient
+races are duplicated.
+Through the use of this
+game, players can gain increased appreciation of
+“how it really was” and what inﬂuenced the ac-
+tual participants in their actions. However, un-
+like written or visual simulation, the game player
+does not merely take a passive role in reading or
+watching the simulation, but becomes an active
+participant in it and enjoys the vicarious adven-
+ture without any of the consequent dangers or
+discomfort.
+Components
+2.1
+Mapboard
+The mapboard forms the playing surface on
+which the counters are placed and moved. An
+oval track divided into spaces (hereafter referred
+to as squares) is printed on the mapboard, and
+is used to determine movement and position of
+the counters. This “active” area of the map is
+called the “track”. The inactive core or center is
+called the “spina”. The mapboard also contains
+many of the charts necessary for resolving the
+race.
+2.2
+Game Counters
+Included in the game is a sheet of die-cut
+playing pieces.
+These are color-coded for easy
+identiﬁcation.
+Each color identiﬁes a diﬀerent
+“faction”, and each player takes one or more
+factions depending on the number of players.
+Each faction has the following counters:
+Team Counter Car Counter
+NOTE: When the team and car counters are
+combined, one behind the other on the track,
+as illustrated above, they are referred to as a
+“chariot”.
+The following counters may replace
+the car counter in the Advanced Game.
+NOTE:
+The
+Dolphin
+and
+Egg
+counters
+are used to mark the laps,
+and belong to
+no faction.
+The Sesterces counters represent
+money and are used only in the Campaign
+Game version of the game and are explained
+
+Dragged
+Driver Counter
+Dismounted
+Driver Counter
+Wrecked Car
+Advanced Game Counters
+therein.
+The Color counters are used to de-
+termine the order of movement during each turn.
+Dolphin
+Egg Counter
+Sesterces
+Color Counters
+Other Game Counters
+2.3
+Chariot Race Log
+is used to write down movement orders for the
+chariots, and to record damage and actions af-
+fecting the car, horses, and driver.
+2.4
+Rules Manual
+contains all the information necessary to play the
+game. The rules are divided into a Basic Game,
+Advanced Game, and Campaign Game. It is rec-
+ommended that players become proﬁcient at one
+level of the game before proceeding to the next.
+2.5
+Betting Sheet
+is used only in the Campaign Game to place bets
+and determine betting odds.
+2.6
+Not Included
+but necessary for play, are a pencil for each
+player, three six-sided dice, and an opaque cup
+or mug.
+Replacement Parts
+For a current replacement Parts/Price List,
+send a stamped self-addressed envelope to: The
+Avalon Hill Game Company, 4517 Harford Rd.,
+Baltimore, MD 21214.
+For full color catalog
+describing all of our many exciting simulation
+games available both by mail and in discriminat-
+ing retail outlets where better games are sold,
+see Current Parts/ Price List for price.
+Setup & Prepare for Play
+3.1
+Number of Players
+Between two and eight people can play; the
+more the better. If there is a ninth participant
+he should assume the role of the racing stew-
+ard. A tenth participant could act as the Money
+Changer in a Campaign Game.
+3.2
+Chariot Placement
+Place the eight chariots randomly in their start-
+ing locations with the car counter of each char-
+iot resting on a gray square containing the word
+“Lane”, and the corresponding team counter on
+the square in front of it. Place the eight “Color”
+counters into a cup.
+3.3
+Each player, in turn, selects one Color counter
+(sight unseen) from the cup. The color selected
+is his faction.
+If there are two or four players
+repeat this process until all eight colors have been
+selected. If there are 3, 5, 6 or 7 players proceed
+to 3.4.
+3.4
+Extra Factions
+After all players have one faction, each player
+then rolls all three dice with the player rolling
+the highest total drawing a second faction, and
+the player rolling the next highest total drawing
+a second faction, etc. until all factions have been
+
+taken. This results in some players having more
+factions than others, but is balanced by weaker
+players tending to “gang up” on stronger play-
+ers during the race. However, a player control-
+ling more than one faction cannot attack another
+chariot under his own control.
+3.5
+Filling Out Race Log
+Each player ﬁlls in the necessary information for
+each chariot he controls on a Chariot Race Log
+sheet.
+Each sheet has separate areas, showing
+information about the team, car and driver,
+current movement, and damage suﬀered during
+the course of the race.
+The various categories
+are as follows:
+PERFORMANCE
+CHART—A
+graphic
+il-
+lustration of how Preparation Points can be
+allotted to inﬂuence the type and quality of
+chariot available to each player.
+FACTION—The color of the player’s chariot.
+DRIVER’S NAME—This information is not
+necessary.
+It is added only to personalize the
+game; use a ﬁctional name and become Ben Hur
+or Messala, or merely use your own name.
+DRIVER MODIFIER—A number represent-
+ing the driver’s overall skill (see 3.6.1).
+CURRENT DRIVER MODIFIER—A number
+representing the driver’s skill during the current
+game turn only. The Current Driver‘ Modiﬁer
+(hereafter referred to occasionally as CDM)
+is not entered into the CDM boxes until the
+CDM diﬀers from the Driver Modiﬁer, in which
+case the CDM is written in the ﬁrst unmarked
+CDM box. Thereafter, as the CDM changes the
+latest CDM is entered in the next unmarked box.
+DRIVER HITS A record of damage sustained
+by the driver during the race.
+Damage is
+recorded by marking oﬀempty boxes from right
+to left.
+WHIP LOST— This box is crossed out if the
+driver loses his whip (see 9.4.3) and serves as a
+reminder that the driver is unable to perform
+any actions requiring a whip once the box has
+been crossed out.
+CAR— Mark the box indicating the type
+of chariot selected—light,
+normal,
+or heavy
+(see 3.6.2).
+Damage to the car is recorded by
+marking the boxes of the respective wheels from
+left to right so that the last marked box contains
+the total number of damage points sustained by
+the wheel to date.
+HORSE/TOTAL SPEED/DAMAGE— Each
+horse will receive a number representing its
+speed.
+Each horse also has a damage record
+(in boxes); the number of boxes is equal to the
+horse’s speed.
+TEAM SPEED—The combined speed of all
+horses in a team.
+Whenever a horse suﬀers
+damage the team speed decreases, and the new
+team speed is entered in the next unmarked box.
+ENDURANCE—A number of boxes equal to
+the team endurance at the start of the race. As
+endurance is used during the course of the race,
+boxes are marked from right to left such that the
+last unmarked box contains the current number
+of endurance points remaining.
+TURN SPEED—Write the planned speed of
+the chariot in the corresponding turn box prior
+to the start of each game turn.
+NOTE: Boxes are used on the Chariot Race
+Logo to record losses during the game.
+At
+the start of the game, darken all excess boxes
+completely.
+During the game, as each box is
+lost, check it oﬀwith a simple “!” or “x” so as
+to be able to instantly diﬀerentiate between the
+capabilities with which the game was begun and
+those capabilities which were lost due to damage
+incurred during the course of the race. Example:
+If a horse has a speed of 6, you would enter
+“6” in the Total Speed section of the HORSE/
+
+TOTAL SPEED/ DAMAGE assembly, count
+out six white boxes from left to right, and then
+darken entirely the four remaining boxes on that
+line. Later, if the horse suﬀers a point of damage
+the “6” box is checked oﬀ. Once the race begins,
+players may not conceal the information on their
+Chariot Race Log and must freely divulge it to
+any inquiring player.
+3.6
+Preparation Points
+Initially, all chariots have the same speciﬁcation
+possibilities as listed on the Performance Chart
+above “0” Preparation Points. Each player may
+improve his chariot’s speciﬁcations by adding a
+total of four Preparation Points to the various
+categories.
+Each player secretly indicates his
+Preparation Point allotments by crossing out the
+Preparation Point column which he is using in
+each category.
+When ﬁlled out correctly there
+will be only one column darkened in each cate-
+gory, and the sum of the numbers darkened in
+the Preparation Points row will be four. When
+all players have ﬁnished writing, the players take
+turns revealing their Preparation allocations and
+making the necessary die rolls to complete their
+speciﬁcations.
+3.6.1
+The Driver Modiﬁer selected is entered on the
+Chariot Race Log in the Driver’s Modiﬁer box.
+A die is then rolled on the Driver Hits chart and
+modiﬁed by the Driver Modiﬁer (the die roll is
+added to the Driver Modiﬁer). This total deter-
+mines the total hit capacity of the driver which
+is then entered on the Log by completely ﬁlling
+in any excess boxes such that the last white box
+contains the number of hits the driver can sus-
+tain. A driver can never have more than 10 hit
+boxes regardless of his Driver Modiﬁer.
+3.6.1 Driver Hits Chart
+3.6.2
+Cars
+Cars always have ten hit boxes on each wheel, re-
+gardless of car type. When a car receives damage
+during ram attacks, the car type of the opposing
+chariot inﬂuences the damage sustained.
+3.6.3
+Team Speed
+The Team Speed category determines the row of
+the Team Speed Chart to be cross indexed with a
+subsequent die roll to determine the Team Speed.
+The four numbers in each box of the Team Speed
+Chart represent each horse’s speed/strength rat-
+ing. The ﬁrst (left hand) number is the speed
+of horse number one, the second number is the
+speed of horse number two, etc. Write this num-
+ber in the Total Speed box and then darken the
+excess damage boxes in each line for each horse.
+3.6.3 Team Speed Chart
+7447
+7536
+7545
+7436
+6446
+7435
+6445
+6435
+5445
+6335
+5435
+5335
+5434
+4444
+5325
+5424
+5324
+4334
+3.6.4
+The Endurance category determines the row of
+the Team Endurance Chart to be cross indexed
+with a subsequent die roll to determine Team
+Endurance.
+Write this number in the Team
+Endurance box and then darken all excess en-
+durance boxes on the Endurance record.
+3.6.4 Team Endurance Chart
+3.7
+Eggs and Dolphins
+Place three “Egg” counters on the “spina” (cen-
+tral oval inside the track) by the start and ﬁnish
+lines. Place the three “Dolphin” counters at the
+opposite end of the “spina”.
+
+3.8
+Start Lanes
+The start lanes are printed in gray on the map-
+board.
+No attacks are allowed from the gray
+squares during the initial turn of the race. Once
+the chariots leave these gray squares to enter the
+black squares the gray squares are ignored there-
+after. The ﬁnish line, at the end of the third lap,
+is at the end of the backstretch as shown.
+3.9
+Racing Steward
+Select one player or a non-playing bystander to
+act as the racing steward. He will announce the
+start of each turn and determine order of move-
+ment by randomly drawing the colored counters
+from a cup one at a time.
+Basic Description of Play
+Players record their planned Turn Speed for
+the coming turn. The Turn Speed can be any
+number up to the total of the Maximum Team
+Speed and CDM. Each player must evaluate the
+situation:
+the proximity of opposing chariots,
+corner speeds, endurance factor expenditure,
+possible attacks, and defensive maneuvers. The
+chariots are then moved one at a time according
+to their marked speeds. All attacks and results
+are determined. This cycle is repeated for each
+chariot during the turn . When all chariots have
+moved, another turn begins.
+Sequence of Play
+Play begins after all setup and preparation is
+complete. The game is played in “turns”. Each
+turn is divided into phases, which must be
+carried out in sequence.
+5.1
+Movement Notation
+Each player secretly writes his Turn Speed for
+the coming turn in the “Turn Speed” section of
+his Chariot Race Log.
+5.2
+Movement Order Preparation
+All faction (color) counters are placed in a cup
+and mixed by the racing steward.
+5.3
+First Movement Phase
+A counter is drawn from the cup, and the fac-
+tion of the matching color takes its move. The
+moving player may make attacks while moving.
+The other players may not move their chariots,
+except to avoid attacks (see 9.3), or as a manda-
+tory result of attacks.
+5.4
+Second Movement Phase
+A second counter is drawn from the cup, and the
+faction of the matching color takes its move, as
+in the ﬁrst movement phase.
+5.5
+Further Phases
+Additional counters are drawn and movement
+phases taken until all other counters in the cup
+are removed.
+At this point, all factions have
+moved once and the turn is over.
+In the Ad-
+vanced Game rules, certain end of turn move-
+ment by dismounted drivers may occur after all
+normal movement phases are complete, but in
+the Basic Game play now reverts to step 5.2 and
+is continued until the end of the race.
+Movement
+6.1
+Movement Notation
+“Turn Speed” is the number of movement factors
+the chariot can use in the upcoming movement
+
+phase without voluntarily straining his horses
+(see 6.5).
+6.1.1
+At the start of each turn all players secretly write
+down the actual speed including any change for
+driver modiﬁer that their chariot will use in the
+coming turn.
+This number is written in the
+“Turn Speed” section of the Chariot Race Log.
+6.1.2
+The written “Turn Speed” cannot exceed the to-
+tal of maximum team speed and Current Driver
+Modiﬁer.
+However, it can be any amount less
+than that amount, including no movement at
+all. A chariot may never move “backwards” or
+against the main ﬂow of the race except as a re-
+sult of braking (see 6.6).
+6.2
+Movement Execution
+The “Turn Speed” selected and written (above)
+represents a number of movement factors the
+chariot must use in its ensuing movement phase.
+6.2.1
+Movement Factors (hereafter re-
+ferred to as MF)
+can be used for one or more of the following ac-
+tions, which can be combined in any order dur-
+ing the turn. Actions can be repeated during the
+turn, as long as MFs are available.
+a. Forward movement
+b. Lane change movement
+c. Braking the movement of the chariot
+d. Movement
+to
+avoid
+a
+blocking
+(sideslip)
+e. Making an attack on another chariot
+f. Evading as a response to an enemy attack.
+The actual evasion movement is done earlier,
+at the instant of the enemy attack (i.e., dur-
+ing the enemy’s movement phase). However,
+the MF‘ expenditure is taken during the evad-
+ing chariot’s next phase, whether this occurs
+during the present turn or the next turn.
+6.2.2
+At no time may a chariot expend less MFs
+than the “Turn Speed” notation. All MFs must
+be used up during a chariot’s movement phase.
+Therefore, chariot movement requires a certain
+amount of advance planning.
+6.2.3
+At no time may more than one car or team
+counter occupy the same square.
+6.3
+Forward Movement
+A chariot moving straight ahead in its own lane
+expends one (1) MF for each new square entered.
+Example: The chariot moves ahead three
+squares, uses three MFs
+6.3.1
+A chariot moving straight ahead into a corner
+(squares with curved sides) may not expend more
+MFs than the number printed on the mapboard
+in that corner lane without suﬀering a penalty.
+6.3.1.1
+Maximum safe corner speeds for each corner lane
+are printed on the mapboard in the ﬁrst and last
+comer space of each lane.
+6.3.1.2
+If a chariot expends more MFs during its Move-
+ment Phase than the safe speed for its corner
+
+lane, it is straining in the corner and may also
+ﬂip (see Corner Strain, 7.3.2).
+6.3.2
+Maximum safe corner speeds apply to a chariot
+as long as either part of the chariot, team or car,
+is in the corner.
+6.4
+Lane Change Movement
+A lane change is either toward the inside (to the
+left, closer to the “spina”), or toward the outside
+(to the right, away from the “spina”). A lane
+change to the inside costs two (2) MFs. A lane
+change to the outside costs one (1) MP.
+6.4.1
+When making a lane change while the team is on
+a straight stretch, move the chariot one square
+forward, and then directly sideways, left or right,
+depending on the type of lane change. Diagonal
+movement is not allowed.
+Lane change to the
+inside (2 MFs)
+Lane change to the
+outside (1 MF)
+6.4.2
+When making a lane change while the team is in
+a corner, a diﬀerent procedure is used.
+6.4.2.1
+An inside corner lane change requires that the
+chariot move forward one square, and than side-
+ways and backward to the new square.
+6.4.2.2
+When making a corner lane change to the out-
+side, move the chariot forward one square, and
+then sideways and forward to the new square.
+Corner lane change to the inside (2 MFs).
+This lane change is not allowed if square A is
+occupied (6.4.5).
+Corner lane change to the outside (1MF).
+This lane change is not allowed if square B is
+occuped6.4.5
+6.4.2.3
+Note that certain corner squares are laid out par-
+allel to each other as opposed to slightly forwards
+or backwards. When making a lane change in
+these squares the movement is always forward
+and sideways. There is no additional forward or
+backward movement after the sideways move.
+“x” indicates parallel corner squares
+6.4.3
+When a chariot makes an inside corner lane
+change, it is subject to the Maximum Safe Speed
+of that new lane. If it exceeds the new Maximum
+Safe Speed, it is straining in a corner and must
+check the Corner Strain Table.
+6.4.4
+A chariot in the innermost lane (number one)
+which changes lane to the inside crashes into the
+
+wall of the “spina” and ﬂips. The same is true of
+a chariot in the outermost lane (number eight)
+which changes lane to the outside thus crashing
+against the wall below the galleries.
+6.4.5
+Whenever making a lane change of any type
+there must be two unoccupied squares in the lane
+moved into—one for the team and one for the car.
+A chariot can never be left half in one lane and
+half in another.
+6.5
+Straining
+There are two diﬀerent forms of straining.
+6.5.1
+Corner Strain
+A chariot that exceeds the maximum safe speed
+in a corner lane is straining in a corner.
+6.5.1.1
+For each MF used during that movement phase
+in excess of the lowest maximum safe speed
+comer lane entered, the chariot loses one en-
+durance point.
+Note that the actual number
+of MFs expended in a corner during the move
+is immaterial; it is the overall speed for the
+entire movement phase that is compared to the
+maximum safe speed for that corner lane.
+Example: Assume a chariot avoided attack by
+evading to the inside.
+This lane change, exe-
+cuted at the moment of the attack, was made
+at the cost of two MFs from its next Movement
+Phase.
+These two MFs, although not “used”
+during the Movement Phase do count as total
+speed expended in determining strain/ﬂip points
+for purposes of Corner Strain and Chariot Flip
+chances.
+6.5.1.2
+In addition to endurance costs, any chariot ex-
+ceeding the maximum safe speed in a corner lane
+is subject to ﬂipping (see Corner Strain, 7.3.2).
+6.5.2
+Voluntary Straining
+A player may voluntarily whip his horses to gain
+extra speed. The driver of the chariot must have
+his whip to use voluntary straining. All drivers
+start the race with a whip but may lose it during
+the course of Lash Attacks (see 9.4.3)
+6.5.2.1
+Voluntary straining is prohibited if the chariot
+has no endurance remaining, or the CDM is neg-
+ative (see Jostle, 7.3.3), or if the driver will at-
+tempt to cut a horse free.
+6.5.2.2
+Voluntary straining must be announced at the
+start of the driver’s movement phase before he
+begins his move, but after all players have written
+their Turn Speed for the coming game turn.
+6.5.2.3
+Voluntary straining is resolved by rolling a die
+and adding the resulting number to the recorded
+turn speed for the turn. In eﬀect, the chariot’s
+MFs are increased by the amount of the die roll.
+Note that straining can increase the MFs of a
+chariot beyond the team maximum speed.
+6.5.2.4
+Each MF added by voluntary straining reduces
+the chariot’s remaining endurance factors by a
+like amount. If the die roll were “3”, and three
+MFs were added, then three endurance boxes
+would be checked oﬀ.
+6.5.2.5
+A team may not add more MFs than it has
+endurance factors remaining.
+Any voluntary
+straining number in excess of the number of
+remaining endurance factors is treated as equal
+to the number of remaining endurance factors.
+This is the only case where a player can use a
+number less than the voluntary straining die roll
+
+to add to his recorded turn speed.
+Example: A chariot with a “Turn Speed” of
+11 enters the innermost corner lane where the
+maximum safe speed is eight. The chariot must
+lose three endurance points and check the Corner
+Strain Table. Had he also elected to whip his own
+horses at the start of the turn and rolled a volun-
+tary straining result of “2”, his turn speed would
+be 13 and he would lose two endurance points for
+the whipping and another ﬁve endurance points
+for straining in the corner.
+6.6
+Braking
+Braking may be used to either reduce speed by
+consuming movement factors, or to avoid attacks.
+Braking is allowed only if the chariot has en-
+durance factors remaining. Once all endurance
+boxes have been used, further braking is not al-
+lowed.
+6.6.1
+A player “brakes” during his move simply by an-
+nouncing he is braking one or more movement
+factors. Instead of moving the chariot, for each
+movement factor braked, he checks oﬀone en-
+durance box.
+For example, if a chariot comes
+up against an obstacle or corner with two MFs
+remaining, rather than take a chance he could
+brake for those two factors, and use up two en-
+durance boxes instead of making further move-
+ment.
+6.6.2
+A chariot that brakes to avoid attack will do so
+during the attacker’s movement phase. No move-
+ment factor adjustment is carried over into the
+defending chariot’s next movement phase, but
+the endurance factors lost by braking are im-
+mediately marked oﬀand the chariot is imme-
+diately moved backward one square. A chariot
+that brakes to avoid attack uses up two (2) en-
+durance factors. A chariot cannot brake to avoid
+attack if another team or obstacle is in the square
+directly behind it.
+6.7
+Sideslip
+Sideslip moves are allowed if called for by one of
+the combat table results or if all other means
+of movement are blocked, or if the driver can
+demonstrate that by not making a sideslip move
+at that point that he would be forced to enter a
+blocked position (not a potentially blocked posi-
+tion) later during that same turn.
+6.7.1
+A chariot is blocked if another chariot is di-
+rectly ahead of it, so that normal ahead and nor-
+mal lane change movement is impossible- without
+running into the back of the blocking chariot.
+6.7.2
+Blocking may occur at the start of a chariot’s
+movement phase, or any time during the turn. A
+player may deliberately drive his chariot into a
+blocked position.
+6.7.3
+The sideslip move costs three (3) movement fac-
+tors. The chariot is then moved directly sideways
+into an adjacent lane. The sideslipping chariot
+may change lanes either left or right, as desired.
+In either case, the movement cost is three fac-
+tors. When sideslipping in a corner the “side-
+ways” move must be to an adjacent square which
+is totally beside the occupied square or partially
+behind it.
+Sideslip in a corner lane
+6.7.4
+A blocked chariot may be unable to sideslip due
+to other blocking chariots. In that case, it must
+brake to use up any remaining movement factors.
+
+If that is also impossible, due to lack of suﬃcient
+endurance factors, the chariot uses up all remain-
+ing endurance factors (if any) and then is the tar-
+get of an involuntary ram attack by the blocking
+chariot ahead against its horses (see 9.6).
+6.8
+Attacking
+Only a moving chariot can make attacks (al-
+though combat results might force a defending
+chariot to move in such a way as to conduct an
+involuntary ram attack of its own). Each attack
+made by a chariot uses one (1) movement fac-
+tor. A car cannot make more than one attack
+from the same square during the same movement
+phase.
+6.9
+Evading
+If a chariot is attacked it may conceivably evade
+by losing movement factors from its next turn.
+(See 9.3.1).
+Special:
+During the ﬁrst game turn only,
+all factions must roll a die at the start of their
+movement phase and deduct the result from
+their team speed for that turn. This does not
+prohibit the driver from rolling another die for
+voluntary straining but he must announce that
+option before seeing the ﬁrst die roll.
+This
+rule simulates the loss of speed generated by
+movement from a dead start.
+Note: It is recommended that players get in
+the habit of moving only their team counter as
+they make their move, leaving the car counter in
+the square it occupied at the start of the Move-
+ment. Phase as a reminder of where the chariot
+began its move in case players should forget the
+movement factors they’ve expended up to that
+point, or there is a question regarding the legal-
+ity of a move. Once the move is completed and
+accepted by the other players, the car counter
+can then be placed behind the team counter to
+reform the chariot.
+7.1
+Flip Conditions
+A chariot is in danger of ﬂipping whenever it
+strains in a corner, or whenever it has a dam-
+aged wheel. Each is a separate procedure, and a
+chariot with a damaged wheel straining through
+a corner would have to check twice in a move-
+ment phase, once for each cause.
+7.2
+Straining in a Corner
+Whenever a chariot uses more MFs during its
+movement phase than the printed safe maximum
+speed for its corner lane, it must check the Corner
+Strain Chart.
+7.2.1
+The Corner Strain check occurs as soon as the
+chariot enters the ﬁrst corner square at excess
+speed. If the chariot survives the check and is
+able to continue moving, no additional checks are
+needed during that turn for that corner lane.
+7.2.2
+If the chariot changes to a new corner lane on the
+inside, with a lower safe maximum speed, a new,
+updated corner strain check with an increased
+number of strain/ﬂip points is instantly made,
+even if one has already been made that movement
+phase. However, if the chariot changes lanes to
+the outside, to a lane with a higher safe maxi-
+mum speed, no new check is required because of
+it during that movement phase even if the char-
+iot is still exceeding the safe maximum speed in
+its new lane.
+7.2.3
+If the chariot is again straining in the corner dur-
+ing its next movement phase, the chariot must
+check again, etc.
+
+7.3
+Corner Strain Resolution
+To determine what happens to a chariot while
+straining in a corner use the following procedure:
+7.3.1
+Take the total speed of the chariot (the written
+Turn Speed plus MFs gained through voluntary
+straining or enemy lash attacks), and subtract
+from it the safe maximum speed for the corner
+lane the team occupies.
+The diﬀerence is the
+number of strain/ﬂip points. For example, if a
+chariot with a total speed of 12 enters a corner
+lane with a safe maximum speed of 8, the chariot
+has four (4) strain/ﬂip points.
+7.3.2 Corner Strain Chart
+Number of Strain/Flip Points
+Dice Roll Minus
+Driver’s Curent Modiﬁer
+9+
+4 or less
+18 or more
+7.3.2
+Roll three dice and subtract the CDM alge-
+braically from the result. Note that if the Cur-
+rent Driver Modiﬁer was already negative, the
+subtraction of that negative number actually re-
+sults in an addition to the three dice roll (or in
+mathematical terms x- -n = x + n). Cross in-
+dex this result with the strain/ ﬂip points on the
+Corner Strain Chart.
+7.3.3
+Corner Strain Chart Results:
+— = No eﬀect.
+Chariot safely negotiates the
+danger.
+S = Sideslip.
+Chariot moves one lane to
+the outside. This is not a normal lane change.
+There is no movement cost for this event, but
+a chariot which must sideslip cannot willingly
+change lanes to the inside for the duration of
+that turn.
+J = Jostled. Driver is jostled. Reduce driver’s
+current modiﬁer by three (-3). Chariot is unable
+to use any straining including voluntary strain-
+ing and cornering over the safe maximum speed
+(such as would be caused by making an inside
+corner lane change) for the balance of this turn
+and all following game turns in which its Cur-
+rent Driver Modiﬁer is negative. Thus, all MFs
+gained during the present movement phase as a
+result of voluntary straining would be negated
+except for those necessary to reach the corner
+square at which the “J” result occurred.
+En-
+durance costs for any lost MFs must still be paid.
+SS = Double Sideslip.
+Chariot immediately
+moves two lanes to the outside and may not use
+any straining for the balance of this turn (see
+J above) and the next game turn. This is not
+a normal lane change.
+There is no movement
+cost for this event, but a chariot which must
+double sideslip cannot willingly change lanes to
+the inside for the duration of that turn.
+LH = Left outside horse injured. Check Horse
+Injury Chart.
+RH = Right outside horse injured.
+Check
+Horse Injury Chart.
+FP = Flip.
+Chariot ﬂips, crashes, and is
+eliminated from the race.
+In the Basic Game
+it is simply removed from the board.
+See the
+Advanced Game for more detailed results.
+7.3.4
+If a chariot is forced to sideslip as a result of
+the Corner Strain Chart, and cannot because an-
+other chariot already blocks those squares, the
+sideslipping chariot immediately makes an invol-
+untary ram attack (9.6) against the chariot that
+
+is blocking the sideslip to determine the result.
+A chariot forced to take a double sideslip by the
+Chariot Flip Chart which cannot sideslip even
+one lane because of the presence of an adjacent
+chariot need not sideslip at all, but would suﬀer
+a double CDM penalty (-6) in the resulting In-
+voluntary Ram Attack. If after sideslipping one
+lane, the chariot is confronted by a blocking char-
+iot, only normal Current Driver Modiﬁer penal-
+ties (-3) would apply in the ensuing Involuntary
+Ram Attack. If a chariot cannot sideslip because
+it is already adjacent to the outside wall it ﬂips
+instead.
+7.3.5
+If a driver is jostled, the reduction in his driver’s
+modiﬁer is only temporary, but it takes eﬀect
+immediately, and can aﬀect the remainder ef the
+current movement phase and game turn.
+7.3.5.1
+Write the new driver modiﬁer in the “CDM” box.
+Example: If a driver with a normal driver modi-
+ﬁer of 1 is jostled, his Current Driver Modiﬁer is
+-2 (1-3 = -2).
+7.3.5.2
+When a driver is jostled the maximum turn speed
+is decreased by three (3) because the maximum
+tum speed equals the combined team speed plus
+CDM. The CDM box is always used to derive
+maximum turn speed. Therefore, a chariot may
+not use more movement factors than the total of
+the team speed and the CDM.
+7.3.5.3
+If the current movement phase in which the
+jostle result was suﬀered used more movement
+factors than the new maximum speed resulting
+from that “J” result,
+the excess movement
+factors are lost except for those excess MFs
+needed to have the chariot reach the square in
+which it suﬀered the “J” result.
+Example: A 4444 team and a + 1 Driver nor-
+mally have a maximum speed of 17. If the driver
+is jostled, the maximum speed becomes 14 on the
+turn in which he is jostled (16 + -2) = 14.
+7.3.5.4
+The Current Driver Modiﬁer is increased by +
+1 at the start of every turn until it equals the
+Permanent Driver Modiﬁer. Thus, the maximum
+turn speed of our 4444 chariot in the example
+above on the turn after its jostle result would be
+15.
+7.3.5.5
+As a reminder of the prohibition against straining
+in the next turn caused by a “J” or “SS” result,
+circle the current and next turn number on the
+Turn Speed Log.
+7.3.5.6
+The aﬀects of “J” results are cumulative. Thus,
+a jostle result could theoretically reoccur before
+a previous one has worn oﬀcausing the CDM to
+be reduced by three as opposed to the permanent
+driver modiﬁer being reduced by three.
+7.4
+Flip Due to Wheel Damage
+If a chariot’s wheel has taken two or more points
+of damage in a ram attack, an immediate ﬂip
+check is needed to see if the wheel falls oﬀ.
+7.4.1
+Any chariot with a wheel already damaged from
+previous attacks must check for ﬂip (due to losing
+the wheel) at the start of any movement phase in
+which it will use “14” or more MFs, and/or the
+chariot is straining in a corner lane. If a chariot
+strains in a corner lane at a speed of “14” or more
+it must check for ﬂip twice—once for each cause.
+7.4.2
+Wheel damage ﬂip checks are made as soon as the
+cause occurs, which may be in another player’s
+
+phase, in the case of initial wheel damage.
+7.4.3
+The procedure for wheel damage ﬂip checks is
+for the aﬀected player to roll two dice.
+If the
+dice total is greater than ( >) the current total
+damage to the wheel there is no eﬀect. If the dice
+roll is equal to ( = ) the current total damage
+of the wheel, one more damage point is suﬀered
+by that wheel, but it remains on the chariot. If
+the dice total is less than ( <) the current total
+damage of the wheel, the wheel ﬂies oﬀand the
+chariot ﬂips, eliminating it from the race.
+7.4.4
+If both wheels are damaged, make a separate
+check for each wheel each time a check is re-
+quired. Thus, one wheel might remain on, while
+the other is lost and ﬂips the chariot.
+8.1
+Endurance Factor
+Each chariot team has an Endurance Factor, and
+a series of boxes for checking oﬀthe loss of en-
+durance factors.
+8.2
+Losing Endurance Factors
+Endurance Factors are lost due to the following
+reasons:
+STRAINING—One factor lost (-1) for each
+additional
+movement
+factor
+gained
+through
+voluntary straining.
+STRAINING IN A CORNER—One factor
+lost for each factor of excess speed used in a
+corner.
+BRAKING TO USE MOVEMENT —One
+factor lost for each movement factor consumed.
+BRAKING
+TO
+AVOID
+ATTACK—
+Two
+factors lost to avoid each attack.
+SUFFER LASH ATTACK—Possible loss of
+one to six factors per attack (see 9.4.1).
+8.3
+Tracking
+Factor
+Loss
+Each
+endurance
+factor
+lost
+is
+immediately
+checked oﬀon the Chariot Race Log. Endurance
+loss is permanent. It cannot be regained during
+a race.
+8.4
+Zero Endurance
+If a chariot has 0 endurance left, the following
+rules apply:
+8.4.1
+No Straining
+The chariot may not use straining for the rest
+of the race. It must take all corner squares at
+the safe maximum speed for its lane, or auto-
+matically ﬂip. However, team speed reductions
+( 8.4.3- 8.4.4) are calculated ﬁrst prior to deter-
+mining if the chariot may be exceeding the safe
+comer speed.
+8.4.2
+No Braking
+The chariot may not brake for the rest of the
+race, including braking to avoid attacks.
+8.4.3
+Losing Team Speed
+The chariot’s current team speed is reduced by
+one at the start of every subsequent game turn
+for the rest of the race. Thus, if a chariot used
+its last endurance factor during turn 15, on turn
+18 its maximum team speed would be reduced
+by three plus any injuries the horses may have
+sustained up to that point.
+This reduction of
+team maximum speed is not treated as a horse
+injury.
+
+8.4.4
+Decreased Driver Modiﬁer
+The driver’s permanent modiﬁer is immediately
+reduced by one (-1) for the rest of the race. This
+may result in a negative driver modiﬁer. Such
+adjustment of the driver modiﬁer would further
+aﬀect the chariot’s maximum speed beyond the
+penalty listed in 8.4.3.
+8.5
+Less Than Zero Endurance Ef-
+fects
+Reducing a team’s endurance factor below 0 has
+no additional eﬀect. If a team with no remaining
+endurance is subjected to a lash attack, it neither
+gains temporary speed as a result not suﬀers ad-
+ditional penalty.
+Combat
+9.1
+General Rules
+The player taking his movement phase may at-
+tack other non-moving chariots providing his
+chariot does not occupy the gray squares used
+only at the start of each race. Only the moving
+chariot can attack, other chariots cannot volun-
+tarily attack until their own moves. The moving
+chariot is termed the “attacker”, the target of the
+attack is the “defender”.
+9.1.1
+Each attack made by a chariot costs one (1)
+movement factor.
+Attacks are made during
+movement and as a part of movement. A chariot
+can move, attack, continue moving, etc.
+9.1.2
+A chariot may make multiple attacks against the
+same defender (one movement factor used for
+each attack), or it could make separate attacks
+against diﬀerent defenders (again one factor for
+each), or a combination of both.
+9.1.3
+Attacks may be initiated at any time during a
+chariot’s movement, including at the start and at
+the end of movement, providing movement fac-
+tors are available and used.
+9.1.4
+A car may make only one attack per movement
+phase from the same square.
+9.2
+Attack Procedure
+The attacker’s car must be directly beside (in a
+lane adjacent to) the defender’s chariot to make
+an attack.
+To attack in a corner lane the at-
+tacking car must be in a square which is not
+partially behind the defending car’s (or team’s—
+depending on the object of the attack) square.
+9.2.1
+If the attacker’s car is beside the defender’s team,
+the attack is against the horses on that team. If
+the attacker’s car is beside the defender’s car,
+the attack is against the driver or car of the de-
+fender’s chariot.
+9.2.2
+The attacker announces the type of attack
+when he is alongside and expends the necessary
+movement factor for the attack. The attack can
+be either a “Ram” or “Lash” attack.
+9.3
+Defense Procedure
+Once the attack is announced, the defender has
+three options. He can either:
+Hold—Do nothing, and receive the attack, or
+Brake—Expend two endurance points, and
+move backwards to avoid the attack (see 6.6), or
+
+Example: The attacker (red) is not directly
+beside the black chariot and therefore cannot
+attack. However, if black were the attacker he
+could attack red’s car or driver. Furthermore,
+if black’s horses were in square A, red could
+still not attack because he is behind black’s
+horses and not beside black’s car—red’s car
+space not overlapping with black due to the
+parallel corner space.
+Evade—Make an instant lane change and
+avoid the attack (see 9.3.1).
+9.3.1
+Evasion
+A chariot evades by making a lane change away
+from the attacker.
+Normal lane change move-
+ment and procedure is used (see 6.4).
+9.3.1.1
+Depending on the lane change (to inside or to
+outside), one or two movement factors are used.
+These are subtracted from the team speed avail-
+able (but not necessarily its written move) for
+the evading chariot’s next movement phase.
+9.3.1.2
+A lane change in a corner may cause straining
+and a chance of a chariot ﬂip, if the chariot evades
+to the inside, and its current turn speed exceeds
+the safe maximum speed of that lane.
+9.3.1.3
+If a chariot is unable to make a normal lane
+change away from the attacker, it cannot evade.
+Note that the walls of the track and/ or other
+chariots may often block a lane change, and thus
+prevent evasion.
+9.3.2
+In order to brake or evade, the defender must roll
+two dice and add his CDM to the result. The at-
+tacker does likewise.
+If the defender’s total is
+equal to or greater than the attacker’s total, the
+defender can brake or evade normally as he de-
+sires. If the attacker’s total is greater than the
+defender’s, however, the defender must hold and
+receive the attack.
+9.4
+Lash Attack
+Lash attacks can be against either the horse team
+or the driver, depending on which element of the
+defender’s chariot is beside the attacker’s car.
+9.4.1
+Lash Team
+An attack against the horse team is resolved by
+comparing the attacker’s die roll and his CDM
+total to the die roll and CDM total of the de-
+fender.
+If the defender’s total is equal to or
+greater than the attacker’s total, the defender
+loses one endurance factor and gains (at his op-
+tion) one MF during his coming movement phase.
+However, if the attacker’s total is greater than
+the defender’s total, the defender loses endurance
+factors equal to the diﬀerence between the two
+totals and must gain the same number of MFs
+during his next movement phase.
+9.4.2
+Lash Driver
+Attacks against the driver are resolved by both
+drivers rolling: two dice and adding their CDMs
+to their respective dice rolls. The defender’s total
+is then subtracted from the attacker’s total. The
+result is the attacker’s “lash” factor. Lash factors
+lower than -4 are treated as -4, factors higher
+than +5 are considered +5. The attacker then
+compares the lash factor with a two dice roll on
+the Driver Lash Attack Table.
+9.4.3
+Lash Attack Results
+Driver Lash Attack Table results are:
+— = No Eﬀect.
+
+9.4.2 Lash Factor Chart
+Lash Factor
+-4
+-3
+-2
+-1
++1
++2
++3
++4
++5
+B = Brake. Defender must brake as if avoiding
+attack. No movement factor loss is applied, but
+the chariot is moved backwards one square and
+expends two endurance factors.
+If unable to
+brake, the defender suﬀers a “W” result instead.
+S = Swerve.
+Defender must move sideways
+one lane away from the attacker.
+This lane
+change causes no loss of movement factors.
+However, if forced to make a corner lane change
+to the inside which would place the defender
+in a corner above the posted safe corner speed
+according to the speed of his “last” executed
+move, the defender would have to immediately
+roll on the corner strain table as well as pay any
+associated endurance costs for straining in the
+corner. If the lane change is blocked by another
+chariot an involuntary ram attack occurs against
+the blocking chariot.
+Note that a defender in
+lanes one or eight would be forced to swerve into
+the wall and ﬂip.
+M = Movement Loss. The defender immedi-
+ately rolls a die, and reduces his team maximum
+speed (not necessarily his written turn speed)
+by that amount for his next movement phase.
+W = Wound.
+Driver loses one box from
+Driver Hits. In addition, the defender suﬀers a
+movement factor loss (as per M above) during
+his ensuing movement phase.
+When all driver
+hit boxes are lost, the driver collapses and his
+chariot ﬂips.
+When half or more than half
+of the driver’s original hit boxes are lost, the
+permanent Driver Modiﬁer is reduced by one
+for the duration of the race.
+If a driver is
+reduced to one third or less of his original start-
+ing hit boxes, the permanent driver modiﬁer is
+again reduced by one for the duration of the race.
+G = Whip Grabbed. Attacker loses his whip
+and can no longer make lash attacks or voluntar-
+ily strain his team. Check oﬀthe “Whip Lost”
+box of the Chariot Race Log. The attacker can
+still strain in the corners by exceeding the safe
+maximum speed. The grabbed whip is discarded
+unless the defender currently has no whip, in
+which case he can keep the one he grabbed.
+9.5
+Voluntary Ram Attack
+Attacks against the horse team are resolved by
+rolling two dice and consulting the table below.
+9.5 Horse Injury Table
+0 to 5
+no injury
+6 to 8
+1 injury point
+9 to 10
+2 injury points
+3 injury points
+4 injury points
+5 injury points
+6 injury points
+8 injury points
+*If the attacker’s car has scythe blades (heavy
+chariot), the attacker adds three (+3) to his dice
+roll. If the attacker’s car is light, the attacker
+subtracts three (-3) from his dice roll.
+9.5.1
+Injury points are used to check oﬀdamage boxes
+for the horse closest to the attacker.
+Injury
+points in excess of the horse’s remaining damage
+boxes are ignored. Each box checked oﬀreduces
+the team speed by one. This applies immediately.
+If the team speed falls below currently planned
+“Turn Speed”, the turn speed must be reduced
+accordingly.
+
+9.5.2
+Dead Horse
+When all damage boxes for a horse are checked
+oﬀ, the horse falls to the track. The chariot can-
+not move again until the horse is cut free. Even
+mandatory movement eﬀects (as a result of com-
+bat) are ignored although any endurance or in-
+jury penalties that would normally apply from
+such an attack are still applied as applicable, ex-
+cept that the team cannot be attacked on the side
+where the horse has fallen until the dead horse
+is cut free. The chariot has no movement factors
+and thus cannot attack, brake or evade on the
+turn it attempts to cut its horses free (even after
+a successful attempt). A chariot which attempts
+an attack on such a target is still subject to any
+and all negative results which accrue. The CDM
+of any chariot which must attempt to cut a horse
+loose before it can move again is always 0 (un-
+less already negative) for purposes of receiving
+attacks. When a horse is killed, the team loses a
+fourth of its remaining endurance factors (frac-
+tions rounded down). If the team loses a second
+horse, it loses a third of its remaining endurance
+factors, and if it loses a third horse it loses half
+of its remaining endurance factors.
+9.5.3
+Cut Free a Dead Horse
+A horse can be cut free at the start of the char-
+iot’s movement phase by rolling one die for each
+remaining horse, subtracting the driver’s CDM
+from the total, and subtracting the remainder
+from that turn’s written turn speed. The chariot
+may then use any remaining movement factors to
+move during the same movement phase. If the re-
+sult is a negative number the attempt to cut the
+horse free failed and must be attempted again in
+the following turn. Only one “cut free” dice roll
+is allowed per player turn. The driver may not
+voluntarily strain his horses while cutting a horse
+free.
+9.5.4
+Car Attacks
+Attacks against a defender’s car are resolved by
+ﬁrst determining which car(s) is damaged. The
+attacker rolls three dice, adds his CDM, and then
+subtracts the defender’s CDM from the total.
+The resulting number is then found on the “Dam-
+age to Cars Table”.
+9.5.4 Damage to Cars Table
+Dice Roll & CDM
+Diﬀerence Total
+6 or less
+attacker’s car damaged
+7, 8, or 9
+both cars damaged
+10, 11, or 12
+no eﬀect
+13 or more
+defender’s car damaged
+9.5.5
+For each car damaged, a second roll of two dice
+is made on the Wheel Damage Eﬀect Chart to
+determine how many damage points the wheel
+suﬀers. Damage points are applied to the wheel
+nearest the opposing chariot. For each point of
+damage, check oﬀone wheel damage box.
+9.5.5 Wheel Damage Eﬀect Chart
+0 to 4
+5 to 7
+2 points
+8 or 9
+3 points
+10, 11
+5 points
+6 points
+7 points
+*If
+opposing
+has
+scythe
+blades(heavy), the chariot suﬀering the damage
+must add three (+3) to the roll. If the opposing
+chariot is light, subtract three (-3) from the dice
+roll.
+9.5.6
+Whenever wheel damage is taken, the chariot
+must immediately check for ﬂip (see 7.4). If all
+wheel boxes are checked oﬀ, the wheel is com-
+pletely destroyed and the chariot ﬂips, eliminat-
+ing it from the race.
+
+9.6
+Involuntary Ram Attacks
+A chariot may be forced to ram another because
+of a forced movement result on the Chariot Flip
+and/or Driver Lash Attack charts.
+The char-
+iot thus attacked may attempt to hold, brake,
+or evade normally.
+9.6.1
+If just a chariot’s team is forced into another car,
+it receives a ram attack as if the opposing car at-
+tacked the team.
+Use the procedure in 9.5 to
+resolve injury to the horse team. This includes
+adding three to the dice roll if the opposing char-
+iot has scythe blades, or subtracting three if the
+opposing chariot is light. If the attack is from
+a chariot directly ahead of the team (6.7.4), the
+owner of the team may select which horses suﬀer
+any injury.
+9.6.2
+If a chariot’s car is forced into another team or
+car, it is resolved as a normal ram attack, with
+one exception. The driver of the chariot mak-
+ing the involuntary attack must deduct three (-
+3) from his CDM for all attack procedures. The
+normal CDM is restored as soon as the involun-
+tary attack is resolved.
+9.6.3
+In both of the above cases, reduce the maximum
+team speed of the attacking chariot by one for the
+following movement phase. The attacking char-
+iot would not change lanes, even if the defender
+vacated the blocking square by braking or evad-
+ing. The attempted involuntary attack replaces
+the “S” result.
+Ending the Race
+10.1
+Marking First To Corners
+When the ﬁrst chariot leaves a stretch and en-
+ters a corner, remove one of the Egg or Dolphin
+markers from the “spina” at that corner. This
+signiﬁes that half a lap has been completed.
+10.2
+Last Stretch Condition
+When all three Dolphin counters have been re-
+moved, and only one Egg marker remains, the
+chariots are in the last stretch. The ﬁrst char-
+iot to complete this stretch, and remove the ﬁnal
+Egg, transforms the current game turn into the
+ﬁnal game turn.
+10.3
+Last
+Stretch:
+No
+Corner
+Straining
+Chariots are not obliged to take the corner after
+the last stretch. When they cross the ﬁnish line
+they are removed from the race, being careful to
+note remaining movement factors.
+10.4
+First Tiebreak
+If two or more chariots cross the ﬁnish line on the
+same turn, the chariot with the greater number
+of remaining movement factors wins the race.
+10.5
+Second Tiebreak
+If two or more chariots cross the ﬁnish line on
+the same turn and with equal movement factors
+remaining,
+the winner is the chariot which
+crossed the ﬁnish line ﬁrst by virtue of having
+his faction counter drawn from the cup prior to
+
+the other equal ﬁnisher(s).
+STOP! You have read all that is necessary to
+play the Basic Game of Circus Maximus. We
+suggest you play it at least once to gain familiar-
+ity with the basic rules before proceeding to the
+more complicated versions which follow.
+Second Edition
+This is the second edition rulebook for Cir-
+cus Maximus and supersedes the earlier ver-
+sion.
+Players should check to make sure they
+are familiar with the same set of rules before
+beginning play. The rule sections which under-
+went some degree of change between the editions
+are: 6.4.5, 6.6.2, 6.7, 7.3.3, 9.2.2, 9.3.1.1, 9.4.1-
+9.4.3, 9.5.2-9.5.3, 9.6.1, 12.4, 14.2, 15.2.5, 16.5-
+16.7, and 23.1.
+Advanced Game
+The Advanced Game provides greater detail
+in an important area of the game: what happens
+once a chariot is wrecked. In the Basic Game,
+the chariot is simply removed from play. Now,
+the wrecked car, runaway teams, and dragged
+drivers all play a role in the continuation of the
+race. These rules add greater realism (and simu-
+lated bloodshed) to the game, but at the cost of
+additional playing time and complexity.
+Reaction Time
+11.1
+Quickening
+The
+Pace
+Of
+Game Play
+Now that players are familiar with the game sys-
+tem, it is in the best interests of an enjoyable
+game for all concerned to quicken the pace so
+as to both shorten the playing time, and more
+closely reﬂect the lightning reﬂexes needed by a
+charioteer. Despite some initial complaints, ulti-
+mate player enjoyment will be greatly increased
+by ridding the game of those inevitable plodding
+players who seem to take forever to make their
+moves.
+In the Advanced Game all players are
+expected to have suﬃcient familiarity with the
+game to keep pace and abide by these rules.
+11.2
+Moving Counters
+Once moved from a square, a counter may not be
+returned to that square to “redo” its move except
+as a result of an illegal move cited by another
+player.
+11.3
+Time Allotment For Moving
+When the racing steward calls out the color (fac-
+tion) to be moved next he should also count out
+the seconds elapsed (. . . one thousand one, one
+thousand two, etc.) until the player begins mov-
+ing his team.
+The moving player has a maxi-
+mum of ﬁve seconds to begin movement. Fail-
+ure to move (including announcing an attack or
+decision to voluntarily strain) in this time pe-
+riod results in forfeiture of the player’s control
+over the team during that movement phase. The
+team is moved straight ahead in its current lane a
+number of spaces equal to its written turn speed
+for that turn, making no attacks, braking, and
+changing lanes only if forced to with lane changes
+occurring to the outside where possible.
+11.4
+Counting Squares
+Actual physical counting of squares by drawing
+one’s ﬁnger across the mapboard prior to move-
+ment is prohibited.
+Such counting should be
+done mentally as play proceeds and before the
+driver’s actual turn. The fact that a player’s fac-
+tion was the ﬁrst (or last) one drawn during a
+turn is no excuse.
+
+11.5
+Time Limit for Attacks and
+Chart Checks
+There is no time limit for the resolution of attacks
+and other necessary chart checks.
+11.6
+Countdown Continuations
+Once a player has started to move, time should
+not be a problem, but if it is, the steward should
+once again start his ﬁve second countdown during
+which the moving player must either announce an
+attack or move to a new square.
+11.7
+Announcing Game Turns
+At the conclusion of each game turn, the stew-
+ard announces the number of the upcoming game
+turn and commences his ﬁve second countdown.
+Any player whose tum speed is not written at
+the end of the countdown must duplicate his last
+recorded turn speed (if that is not possible due
+to combat results sustained in the interim, sub-
+stitute the maximum speed possible) in the up-
+coming turn.
+11.8
+Assistant Steward for a Play-
+ing Steward
+If the steward is also playing a faction, an assis-
+tant steward should also be appointed to conduct
+the countdown when the steward is moving his
+own chariot.
+11.9
+Changing Time Allotment
+Once players become proﬁcient at playing under
+such time pressures, the ﬁve second time limit
+should be lowered accordingly.
+12.1
+Handling Wrecks
+When a chariot ﬂips and crashes, it is not re-
+moved from play as in the Basic Game. Instead,
+the car and team part. The car portion of the
+chariot sails through the air and lands somewhere
+on the track, causing an obstacle, but not until
+the completion of the current mover’s movement
+phase.
+12.2
+Determinging Location
+When a chariot is wrecked, roll two dice and ﬁnd
+the result on the Wreck Location Chart. Place a
+“wreck” counter on that square of the track.
+12.2 Wreck Location Chart
+1 lane left, 3 squares forward
+2 lanes right, 5 squares forward
+remain in square of ﬂip
+same lane, 2 squares forward
+same lane, 1 square forward
+1 lane right, 3 squares forward
+1 lane left, 1 square forward
+1 lane right, 4 squares forward
+3 lanes right, 2 squares forward
+4 lanes right, 6 squares forward
+3 lanes left, 4 squares forward
+12.3
+Landing Outside The Track
+If the wreck would land outside the track due to
+lane changes, it instead hits the wall and remains
+in the edge lane. It then travels forward the ap-
+propriate number of squares in that same edge
+lane, and lands.
+12.4
+Wreck Ram Attack
+If the chariot wreck lands on another chariot,
+the falling wreck causes an immediate ram at-
+tack on the chariot team or car, as appropriate.
+The falling wreckage has no driver, and there-
+fore no driver’s modiﬁer is applied. The chariot
+being hit by the falling wreckage may attempt
+to brake or evade normally (if possible) to avoid
+the ram attack. If the wreck remains in the same
+square with a chariot, that chariot at the start of
+its move must chance the Running Over Wreck
+
+chart (14.3) unless it is attacked prior to that and
+successfully brakes or evades oﬀthe wreck.
+Critical Injuries
+13.1
+Wound Result
+Whenever a “W” (wound) result occurs during a
+Driver Lash Attack, the normal penalties apply
+but in addition the defender must roll two dice
+and consult the Critical Hits Table for further
+developments.
+13.1 Critical Hits Table
+Results
+Defender entagled by whip and pulled out of car
+(see Dragged Drivers, 16). Attacker loses whip
+Severe Wound – Reduce Driver Modiﬁer by one
+Arm Wound – Defender must halve all future
+voluntary strain rolls (fractions rounded up)and
+the resulting endurance costs for the duration of
+the race
+Eye Wound – Vision obscured.
+Defender may
+not evade (9.3.1) future attacks from the side of
+the chariot on which he was lashed.
+may brake normally, and evade attacks from the
+opposite side of the chariot normally
+Defender taken by surprise. Repeat original lash
+attack with one less lash factor.
+The attacker
+need not pay an extra movement factor for this
+additional attack
+Deep Wound – Take one more hit vs. driver
+8-11
+No Eﬀect
+Defender entangled by whip. Both players roll
+two dice and add their current number of un-
+marked drive hit boxes.
+The driver with the
+highest total pulls his opponent from his car (see
+Dragged Drivers, 16). Regardless of outcome, at-
+tacker loses whip
+Running Over Wrecks
+14.1
+Running Over Wreck Rules
+The creation of wrecks in rule 12 leaves an obsta-
+cle on the track which negates the square it lands
+in for normal passage rules. If a Chariot cannot
+avoid a square containing a wreck or chooses to
+deliberately enter the wreck hex it must observe
+special penalties.
+14.2
+Running over wreck cost
+A chariot may run over a wreck by choice or
+due to lack of any other recourse. The chariot
+is moved over the wreck square at the normal
+movement cost, but should (does not have to)
+deduct endurance factors equal to the roll of one
+die.
+When it clears the wreckage and appears
+in the square beyond, roll three dice, deduct the
+CDM from the total, and consult the Running
+Over Wrecks Chart.
+If a chariot is unable to
+clear a wreck during its move (ie.
+it does not
+have enough MFs to move beyond the wreck) it
+ﬂips.
+14.3
+Running over wreck attempt
+Add one to the dice roll for every endurance fac-
+tor less than the die roll which the chariot was
+unable (or unwilling) to pay for the wreck jump
+attempt.
+14.3 Running Over Wrecks Chart
+Minus CDM
+8 or less
+No Eﬀect. Chariot passes over wreckage safely
+Driver Jostled. Treat as normal “J” result
+Car Damaged. Roll one die for each wheel, sub-
+tract three (-3) from each roll, and take the result
+as damage points on the wheel. A ﬁnal die roll
+result of 0 or less means no damaged was sus-
+tained on that wheel in the jump.
+17 or more
+Runaway Teams
+15.1
+Counter Disposition
+When a chariot ﬂips, the car wrecks but the team
+remains and completes its move. That team is
+now a “runaway team”.
+15.2
+Team Movement
+On each subsequent turn, the team moves with-
+out a chariot when its faction counter is drawn.
+It is moved just like a normal chariot, and is con-
+trolled by the owning player—or in his absence
+by the player who was in last place at the end
+
+of the last completed game turn (in case of ties,
+last place is determined by possession of the out-
+ermost lane)—with the following special restric-
+tions.
+15.2.1
+The team can change lanes only to avoid another
+chariot, team, wreck, or to evade an attack.
+15.2.2
+The team must move at maximum speed each
+turn. It cannot slow down or voluntarily strain.
+15.2.3
+The team cannot make any attacks (Exception:
+16.5) or be braked.
+15.2.4
+A runaway team ignores safe maximum speeds
+in corners. It can travel at any speed safely in a
+corner, since there is no longer a car to ﬂip.
+15.2.5
+Attacking a runaway team
+A runaway team may be attacked, but since no
+car and driver exist, only the team can be at-
+tacked, by lash or ram as the attacker desires.
+The team could evade automatically. If a horse
+is killed, the team must remain in that square
+where it is treated as a wreck henceforth except
+that any check to run over the “wreck” must
+add 3 to the dice roll (14.2). Any horse injuries
+are applied to both the jumping team and the
+“wreck” team.
+Dragged Drivers
+16.1
+Drag Criteria
+Whenever a chariot ﬂips, the driver will be
+dragged along behind the runaway team. Place
+a “dragged driver” counter in the square behind
+the team, to replace the car counter.
+16.2
+Cutting Free
+The dragged driver can attempt to cut himself
+free at the conclusion of the movement phase
+in which his chariot ﬂipped before rolling for in-
+juries sustained in that turn. He rolls two dice,
+subtracts his driver modiﬁer, and if the total
+is less than or equal to his current number of
+unchecked driver hit boxes, he is free. Even if
+freed, however, the driver counter is dragged a
+number of squares equal to the adjusted freeing
+dice roll (up to, but not greater than the distance
+actually moved by the team from the point of the
+ﬂip).
+16.3
+Dragging Damage
+At the conclusion of each movement phase in
+which a driver has been dragged by the team, he
+rolls one die and suﬀers half the resulting num-
+ber of “hits” or injury points (fractions rounded
+up). These hits are marked oﬀthe “Driver Hits”
+section of the Chariot Race Log. When all boxes
+are marked oﬀ, the driver is dead, and can no
+longer win the race or continue in the Campaign
+Game.
+16.4
+Winning Will Being Dragged
+If a driver survives while being dragged long
+enough to cross the ﬁnish line, he can still win
+or place in the race provided he is still alive at
+the end of the turn in which he ﬁnishes the race.
+A car is not necessary for victory, only for one’s
+personal health!
+16.5
+Attacking dragged driver
+A dragged driver can be subjected to ram attacks
+by the team portion of an attacking chariot by
+placing the attacking team on the same square
+as the dragged driver. The dragged driver can-
+not brake or evade—he must accept the attack.
+The dragged driver automatically counts as hav-
+ing a driver’s modiﬁer of 0. An attacker cannot
+suﬀer “wheel damage” during a ram attack vs. a
+dragged driver. Any “wheel damage” suﬀered by
+
+the dragged driver is instead converted to dou-
+ble the number of injury points. This is the only
+type of attack which can be made on a dragged
+driver, and is the only time a team can make a
+ram attack of any kind. There is no modiﬁca-
+tion to the dice roll for heavy or light cars as
+it is the team which attacks, even though the
+attack is resolved on the Wheel Damage Eﬀect
+chart with the amount of wheel damage speci-
+ﬁed being turned into an equivalent number of
+body hits.
+16.6
+Being
+Dragged
+Over
+Wreck
+If a runaway team carries a dragged driver over
+a wreck, the driver is automatically killed.
+16.7
+Critical
+Hit
+Causing
+Dragged Driver
+When a driver is dragged from his car by a crit-
+ical hit, his dragged driver counter is placed on
+the car counter. The team continues as a run-
+away team except that it has to check for char-
+iot ﬂip when exceeding a safe corner lane speed.
+The dragged driver is still subject to ram at-
+tack by an opposing team (16.5), except that
+the team attacks from a square directly behind
+the empty chariot, instead of from the dragged
+driver’s square.
+Running for Cover
+17.1
+Replacing Counter
+When a dragged driver cuts himself free, the
+dragged driver counter is replaced by a plain
+driver counter, representing the man on his feet.
+The runaway team moves oﬀ, and the driver is
+free to move as he desires at the end of the fol-
+lowing game turn.
+17.2
+Driver Movement
+An individual driver on the track can move one
+square for each two remaining unmarked driver
+hit boxes (fractions rounded up) per turn. The
+driver may not move diagonally, although he may
+move in any direction.
+17.3
+Jumping The Wall
+An individual driver in an edge lane (lanes one
+or eight.)
+can climb the wall and escape into
+the stands or the “spina” to survive the race.
+To climb the wall, the driver must move along
+the wall (from one wall square to another wall
+square) and roll an even number with one die.
+He may not roll twice from the same square, how-
+ever, so once he begins movement along a wall he
+may not reverse direction. The driver may roll to
+climb once for every space moved along the wall.
+17.4
+Running Down a Driver On
+The Track
+An individual driver on the track can be run
+down by any chariot during normal chariot move-
+ment. If a chariot hits a driver, the chariot loses
+MFs equal to the roll of one die when the team
+enters his square. This loss applies only for that
+turn, and represents speed loss caused by hitting
+the driver. Should this speed loss result in the
+chariot being unable to reach the driver’s square
+it is deducted from the next turn’s maximum
+speed instead.
+The driver on foot is instantly
+killed and removed from play.
+17.5
+Other Attacks On Driver
+An individual driver on the track cannot other-
+wise be attacked, and cannot himself attack.
+17.6
+Drivers In The Same Square
+Any number of drivers on foot can occupy the
+same square. The order of their movement after
+the completion of the normal game turn is of no
+consequence.
+
+Enlarged Field
+18.1
+More Than Eight Players or
+Chariots
+If more than eight players are present, or if there
+are only ﬁve players each wanting to operate two
+chariots the game can accommodate more partic-
+ipants. Each additional chariot tends to increase
+the congestion, bloodshed, and playing time ac-
+cordingly.
+18.2
+Placement Of Extra Chariots
+Place the extra chariots randomly directly be-
+hind any of the eight chariots set up in the ﬁrst
+row such that the ﬁrst square they pay a MP
+to enter will contain the word “Lane” printed in
+gray.
+18.3
+Faction selection then takes place as per 3.2 and
+3.3.
+18.4
+Second Row Faction Selec-
+tion
+When the race begins, the color counters for all
+second row chariots are not placed in the cup
+until after all ﬁrst row chariots have completed
+their movement phase. Starting with the second
+game turn all color counters are placed in the cup
+to determine order of movement.
+THE CAMPAIGN GAME
+The Campaign Game consists of tying ten indi-
+vidual games together to simulate an entire rac-
+ing season. The overall winner is not necessarily
+the player who wins the most races but rather
+the player who gets the maximum eﬃciency out
+of his racing stable of teams and drivers and bets
+on them wisely. Besides the addition of wagering
+and ﬁnancial arrangements, the Campaign Game
+is interesting due to the inter-racer relationships
+which can develop between races as achievements
+and penalties accrue from race to race with con-
+sequences which can drastically alter the conduct
+of future races.
+Solitaire Play
+Although Circus Maximus is primarily a
+multi-player game it can be played solitaire by
+those so inclined. The player takes the role of
+each faction in turn, but makes attack decisions
+for only one—his own. In essence, the player is
+playing his chariot against the rest of the ﬁeld.
+Aside from maneuvering for the most advan-
+tageous inside position, the main decisions are
+when and how to attack other chariots. You may
+make attacks with your faction as you desire, but
+whenever an attack opportunity appears for the
+other seven factions you roll a die, and attempt
+to make an attack only if the die roll is equal to
+or greater than some predetermined range which
+you’ve set up to reﬂect each driver’s individual
+personality. A driver with a low die roll number
+needed to make an attack is bloodthirsty and
+liable to make many attacks, while one with a
+higher die roll requirement concentrates on the
+handling of his team. If the die roll is only equal
+to the number needed to attempt an attack, the
+attacker must attempt a lash attack. If the die
+roll is greater than that needed to attempt an at-
+tack, the attacker (remember, you must act in his
+best interests) may attempt to make an attack
+of his choice. Be sure to build diﬀerent types of
+chariots among the ﬁeld varying the combination
+of performance points to get a wide spectrum of
+possible combinations, but always save your fa-
+vorite Preparation Point allocation for yourself.
+The Racing Season
+20.1
+Starting Resources
+Each faction is allowed the following resources to
+start the Campaign Game: 10,000 sesterces in
+money.
+The amount of money owned by each
+player is always noted on a sheet of paper. Five
+
+diﬀerent chariots with driver, car, speed, and en-
+durance determined as in the Basic Game. None
+of the four component parts of a chariot may
+be interchanged with any of the others. In other
+words, no chariot can start a race with more than
+four Preparation Points of component parts ex-
+cept where earned by experience points or pur-
+chase (see 23.4).
+20.2
+Season Length
+The season consists of ten races. Each race is run
+using the following procedure:
+20.2.1
+All players secretly record before each race how
+they will spend their money.
+Money may be
+spent for additional teams, drivers, cars, skull-
+duggery, and security. A player need not spend
+all his remaining money nor must he enter every
+race. However, by not entering a race he makes
+it easier for his opponents to win.
+20.2.2
+Each player selects what team, driver, and car
+he will use for his faction, and starting positions
+are randomly assigned. Each faction can enter a
+maximum of two chariots per race but no faction
+may enter a seconds chariot until all other fac-
+tions have been given an opportunity to enter at
+least one chariot in the front row.
+20.3
+Advanced Rules Usage and
+All players place their bets and the race is run
+using all Advanced Game rules.
+20.4
+Race Winners
+Race winners and placers (2nd, 3rd, & 4th place
+ﬁnishers) are announced, and all bets paid oﬀ.
+20.5
+Injuries
+and
+Points
+Injuries and recovery times are determined and
+recorded.
+Any experience points earned are
+spent or recorded for accumulation purposes.
+Spending Money
+21.1
+Unit of Currency
+The basic unit of currency in the Roman world
+was the “sesterce”. Sesterces will hereafter be re-
+ferred to simply as “s”. All players should keep
+a ledger of their current “fortune”, what money
+they have spent, and what money they have re-
+ceived. Each player is responsible for keeping his
+own ledger on a separate sheet of scrap paper,
+but must be prepared to prove the “balancing of
+his books”.
+21.2
+Player Loans
+Players may loan each other money at whatever
+interest and payment terms are mutually agreed
+upon.
+All such agreements should be written.
+Failure to repay a loan as agreed upon results
+in default, and the player involved must auction
+oﬀdrivers, teams, and/ or horses to raise money
+to repay the loan at the instant it is due. If he
+cannot raise suﬃcient funds, he goes bankrupt,
+must withdraw from the game, and any remain-
+ing property is auctioned to the other players,
+piece by piece to pay his creditors. Any amount
+thus raised in excess of his debt is claimed by
+the “bank” (returned to the game) in the form
+of taxes. Debtors are usually sold into slavery,
+and therefore may later appear as an “owned”
+driver for one of the remaining factions.
+21.3
+Spending Limit
+The only limit on the amount of money a player
+can spend, at any one time, is the amount he has.
+Players can never “overdraw” their account and
+go into the “red”. They must acquire the cash to
+
+spend (through winnings, loans, sale of material,
+etc.).
+21.4
+Purchasing Horses
+New teams of horses are purchased one horse at
+a time. However, all horses must be purchased
+in groups of four, as a complete team, Horses
+cannot be switched between teams. Exception:
+single horses can be purchased to replace killed
+horses (see 21.4.1).
+21.4.1
+To purchase a horse, a player spends some mul-
+tiple of 500s between 500s and 4,000s. He rolls
+two dice, and compares the amount spent with
+the dice roll on the New Horse Speed Chart. The
+result is the speed and strength of the new horse.
+21.4.1 New Horse Speed Chart
+Amount Spent on New Horse (In Sesterces)
+Dice
+Roll
+1,500
+2,000
+2,500
+3,000
+4,500
+4,000
+21.4.2
+A new horse need not be placed in the same posi-
+tion within the team which the replaced horse oc-
+cupied. The owner could move one of the inside
+horses to the outside and place the replacement
+in the middle of the team.
+21.4.3
+Whenever a new horse is added to a team that
+team’s prior Endurance total is reduced by the
+roll of one die due to the problems caused within
+the team by breaking in a new horse into the run-
+ning tempo of the team. Regardless of the speed
+of the new horse, the endurance of the team can
+never equal or exceed that of the original team
+prior to the replacement.
+21.5
+Purchasing Drivers
+New drivers can be purchased only to replace a
+killed or injured driver. A driver with a 0 Modi-
+ﬁer costs 1,500s, a + 1 modiﬁer 2,500s, and a +2
+modiﬁer 4,000s. The driver purchased can have
+a Driver Modiﬁer less than, equal to, or greater
+than the driver he is replacing, but any team
+being driven by a new driver loses a number of
+endurance points equal to the roll of one die.
+21.6
+Purchasing Cars
+Each car costs 500s regardless of type. New cars
+can be bought only to replace wrecked ones, and
+must remain in the same class (light, normal, or
+heavy) as the one it replaces.
+21.7
+Trading,
+Exchanging,
+Switching Horses
+All four horses of a team are one group. Horses
+of diﬀerent teams may not be traded, exchanged,
+or otherwise switched. A team may only acquire
+a new horse if one of the original complement
+is lost in a race. The same is true of the other
+component parts of a faction’s chariot stable.
+Recovering from Injuries
+22.1
+Starting Repairing and Re-
+covery
+After each race, driver, horses, and car may have
+suﬀered injury or damage. This is repaired after
+the race is over. Only a certain amount of repair
+is possible after each race, so frequently a char-
+iot will not be at full strength for the next race
+and the faction will ﬁnd it prudent to substitute
+another chariot from its stable.
+
+22.2
+Recovery Rate
+Drivers and horses recover from injury at the rate
+of one point restored per race. Thus, after the
+race, one point is restored. After the next race,
+another point is restored, etc., until the driver or
+horse returns to its original strength.
+22.2.1
+Recovery
+Due
+To
+Drugs
+Bribery
+Losses due to drugging or bribery are automati-
+cally repaired after a race, in addition to the one
+point of “standard” injury repaired.
+22.2.2
+Neither the driver nor a horse can exceed its orig-
+inal hits allowance.
+Recovery is used only to
+bring the driver and/or horse back to its orig-
+inal (including experience generated speed boxes)
+level.
+22.3
+Car Repair
+If a car is still running at the end of a race (i.e.,
+both wheels are still on the car), the car is com-
+pletely repaired after the race, with all damage
+“erased”. If a car lost a wheel during the race and
+was wrecked, it is lost and cannot be repaired.
+22.4
+Racing
+Injured
+Driver
+Team
+If a driver or team has unrepaired injury, they
+are normally prohibited from racing. A chariot
+with a perfectly healthy driver and team must be
+used instead. If a player lacks any excess healthy
+teams or drivers for a faction, he may use still
+injured ones, but must use the chariot with the
+least injury points yet unrepaired (i.e., that clos-
+est to being healthy).
+23.1
+Gaining Experience Criteria
+If a faction ﬁnishes in fourth (4th) place or better
+in a race, it will gain experience points as per
+the Experience Point Chart. It receives a ﬁxed
+number of points depending on the position in
+which it ﬁnished. In addition, it gets a bonus if
+the gap in squares (or MFs) between it and the
+next chariot is six (6) or more, and another bonus
+if the gap is 11 or more squares (in addition to
+the six square gap bonus). If the ﬁeld has been so
+reduced by ﬂips that there is no chariot behind it,
+the ﬁnishing distance bonus would automatically
+apply.
+23.1 Experience Point Chart
+Finishing Distance Bonus:
+Place in Race
+Normal
+6+ Squares
+11+ Squares
+First Place
+14 Points
+3 extra
+5 extra
+Second Place
+2 extra
+3 extra
+Third Place
+2 extra
+Fourth Place
+23.2
+Recording Experience
+Experience is recorded for each team and each
+driver separately. For example, if a chariot came
+in ﬁrst, and the second place chariot was 12 or
+more squares (or MFs) behind, the driver of the
+winning chariot would receive 22 (14 + 3 + 5) ex-
+perience points, and the team would also receive
+20 experience points.
+23.3
+Experence Point Accumula-
+tion
+Experience points can be accumulated indeﬁ-
+nitely. Experience points can also be “spent” to
+increase team and/ or driver ability, but only of
+the team or driver possessing those points.
+23.4
+Using
+On
+Driver
+For every 25 experience points spent by a driver,
+the driver’s modiﬁer increases one (+1).
+
+driver’s modiﬁer may increase inﬁnitely, there is
+no maximum limit, but the number of driver hits
+(3.6.1) never increases.
+23.5
+Using Experience On Horse
+Speed
+For every 10 experience points spent by a team,
+one horse’s speed and damage rating is increased
+by one (+1). No horse may be rated more than
+eight (8) until all horses are rated at least six (6).
+No horse may increase beyond ten (10), regard-
+less of experience.
+23.6
+Using Experience On Team
+A player could also spend 10 team experience
+points to increase team endurance. For every 10
+team experience points spent in this manner, the
+owner may add endurance factors equal to the
+roll of two dice.
+23.7
+Usage
+Interac-
+tions
+Experience generated increases in team speed do
+not cause change in endurance and vice versa.
+Each expenditure of experience points is a sepa-
+rate transaction entirely unrelated to the other.
+Skullduggery
+24.1
+Skullduggery Attempts
+A player may attempt to impair the performance
+of one rival faction in each race through various
+underhanded devices. These devices are bribing
+drivers, drugging horses, and/ or sabotaging cars.
+24.2
+Using Skullduggery
+Each skullduggery device used against a faction
+costs a separate sum.
+The same device could
+be used against the same faction in diﬀerent
+races but must be paid for separately before each
+race. Two or three diﬀerent devices could be used
+against the same faction in the same race.
+Example: A player could not bribe the driver
+of another faction twice in a race, but he could
+both bribe a driver and drug the horses and/or
+sabotage the car of the same faction.
+24.3
+Bribery
+A driver may be bribed to either not attack a
+speciﬁc team in the upcoming race; or to reduce
+speed during the up coming race. A driver can-
+not be bribed to both reduce speed and not at-
+tack. Separate bribes for each cannot be oﬀered.
+24.3.1
+Bribes are secretly recorded as to amount and
+type at the start of the race, and put aside. Re-
+gardless of the results of bribery, the money is
+considered spent when the bribe is secretly writ-
+ten. Bribes may never be withdrawn once made.
+24.3.2
+To determine results of a bribe, use the following
+procedure: At any time during the race a player
+may reveal a bribe. At that time, the bribe is
+resolved. Bribes have no eﬀect until revealed. If
+a player forgets to reveal his bribe, the money
+is still spent, but to no eﬀect. Bribes cannot be
+carried over from one race to another. When a
+bribe is revealed, the player who is the target of
+the bribe reveals any security money paid to the
+driver to protect against bribes.
+This security
+money is subtracted from the bribe amount, and
+the result is the net bribe. If the net bribe is
+in favor of the briber, and meets the necessary
+minimum sum, the bribe may be successful. If
+so, it takes eﬀect immediately for the duration of
+the race.
+24.3.2.1
+No Attack Bribes
+If the net bribe is at least 500s, a die is rolled.
+The bribe takes aﬀect on any die roll which when
+multiplied by 500s does not exceed the net bribe.
+Only one such die roll may be made per bribe.
+
+The bribed driver will not make any attacks
+against the faction which bribed him. Any cur-
+rent attack is cancelled, and no further attacks
+may be made.
+However, if the faction which
+bribed the driver attacks that driver, the bribe is
+oﬀ, and the driver can make attacks again.
+24.3.2.2
+Reduce Speed Bribes
+If the net bribe is at least 500s, a die is rolled.
+The bribe takes aﬀect on any die roll which when
+multiplied by 500s does not exceed the net bribe.
+Only one such die roll may be made per bribe.
+The bribed driver will reduce the team speed by
+one for each complete multiple of 500s of net
+bribe up to a maximum of 3000s for the remain-
+der of the race.
+24.4
+Drugs
+A player may spend 500s or more to drug the
+horses of another faction’s team. Dragging is se-
+cretly planned, but must be revealed just before
+the chariot makes its ﬁrst move.
+24.4.1
+To resolve drug eﬀects, the player who drugged
+the horses reveals the amount of money he spent,
+and then the player with the drugged horse re-
+veals the money he spent for security against
+drugging (if any). If the drugger spent more, the
+drugs may take eﬀect.
+24.4.2
+If the drugger spent 500s more than the defender
+spent for security, one horse of his choice suﬀers
+one (1) injury point. For each additional 500s,
+another injury point is inﬂicted.
+These points
+can all be on the same horse, or spread out among
+the various horses of the team, as the drugger
+desires.
+24.4.3
+All drug injuries and collapses are temporary,
+and apply for that race only. The horse is not
+permanently injured by drugs. Even a collapsed
+horse can be revived after the race with no ill
+eﬀects.
+24.5
+Sabotaging Cars
+A player must spend 1000s or more to sabotage
+the car of another faction. As with drugs, sabo-
+tage is secretly planned, and revealed just before
+the chariot makes its ﬁrst move.
+24.5.1
+To resolve sabotage eﬀects, the player who made
+the attempt reveals the amount spent, and then
+the player being sabotaged reveals money spent
+for security against sabotage.
+If the saboteur
+spent more, the sabotage will take eﬀect on any
+die roll which when multiplied by 100s is less than
+or equal to the diﬀerence of the amounts spent
+for sabotage and security.
+24.5.2
+If the sabotage is eﬀective and the saboteur spent
+100s more than security, two points damage is
+suﬀered by one wheel (saboteur’s choice) of the
+car.
+For each additional 1000s spent, another
+point of damage is suﬀered.
+24.5.3
+Car sabotage is permanent damage to the car.
+Security
+25.1
+Planning Skullduggery
+Before each race, at the same time skullduggery
+is secretly planned, each player may also secretly
+spend money on security for his chariot(s). This
+helps protect against skullduggery.
+25.2
+Types of Security
+Security money must be paid for a speciﬁc type
+of protection, as listed below:
+Stop Bribery:
+protects against all types of
+
+bribery.
+Stop Drugging:
+protects against all types of
+drugs.
+Stop Sabotage: protects against car sabotage.
+25.3
+Spending For Security
+Security money can be spent to stop two or all
+three types of skullduggery, but a separate sum
+must be paid for each type of protection.
+25.4
+Pay By The Race For Each
+Race
+Security money is paid by the race, for each
+race. The money is considered spent regardless of
+whether any actual skullduggery occurs. Money
+spent for protection in one race never carries over
+to another race. Security money can never be re-
+covered.
+25.5
+Using Security
+Security money can be used as many times as
+skullduggery is attempted against its particular
+classiﬁcation for that race.
+Example:
+The drug attempt of one faction
+does not lessen the security invested by the de-
+fender against the drug attempt of yet another
+faction. Each skullduggery attempt is resolved
+independently of all the others.
+25.6
+Limits of Security
+Security money does not provide absolute protec-
+tion. It simply makes skullduggery more diﬃcult
+and expensive. See the skullduggery rules for the
+eﬀect of security money on the various skulldug-
+gery results.
+26.1
+Betting Requirements
+All players must bet on every race. Bets must
+be in 100s increments. The maximum bet is un-
+limited, subject to the ﬁnancial resources of the
+wagerer. Each player must bet on his own fac-
+tion. In addition, he may bet on as many other
+factions as he desires, but the total of those bets
+may not exceed the amount he bets on his own
+faction unless he does not enter a team in the
+race.
+In addition, players may make side bets
+between themeives. Once a bet is placed, it may
+never be removed or taken back.
+26.2
+Procedure
+Before
+the Race
+Players secretly record all bets on a sheet of scrap
+paper, and then reveal their bets. A marker rep-
+resenting the amount of sesterces each bets is
+then placed in the appropriate box on the bet-
+ting sheet. Betting odds are now determined and
+noted. Add the total of all bets placed on the en-
+tire race. For each chariot, add the total bets on
+that chariot, and divide that into the total for
+the race. The result, rounded down to the near-
+est whole number is the odds for that particular
+chariot.
+Example: A total of 30,000s are bet on the
+race. A total of 4,900s are bet on the red chariot.
+Therefore, 30,000/4,900 yields 6.12, rounded oﬀ
+to 6, or 6-1 odds.
+26.3
+Procedure
+During
+the Race
+Players may bet at the end of the ﬁrst, and again
+at the end of the second lap of the race. A bet
+made during the race on a faction may never ex-
+ceed the amount that player bet before the race
+on the same faction. Bets made during the race
+do not change payoﬀodds. Odds will remain the
+same.
+26.4
+Payoﬀs
+Only the winning faction will pay oﬀ. Normally,
+multiply the odds times the money bet for the
+payoﬀ. Therefore, if red was listed at 6-1 odds,
+and a player bet 1,500s on red, when red won,
+the payoﬀwould be 6 x 1,500s = 9,000s.
+
+26.4.1
+Payoﬀs must come from the money bet. In some
+cases money bet is insuﬃcient for the payoﬀs. In
+this case, the player who is to receive the smallest
+sum has his amount reduced by the diﬀerence. If
+that is not enough, then the player to receive
+the next smallest sum is shortchanged, etc. This
+represents the eﬀect of “breaking the bank”, and
+the tendency of money-changers to respect big
+spenders more than small spenders.
+26.4.2
+If there is any extra money bet that does not
+pay oﬀ, that money is lost (i.e., is taken by the
+money-changers).
+26.5
+More Players Than Factions
+In those rare instances when there are more
+players than factions, the extra players may as-
+sume the role of wealthy betters with a 10,000s
+bankroll.
+They are free to bet on any faction
+without limits imposed due to faction connec-
+tions.
+Independent betters may still take part
+in skullduggery, or lend funds to a participat-
+ing faction for any use. Betters win the Cam-
+paign Game by amassing a larger fortune than
+any other player, whether aligned with a faction
+or not.
+Optional Rules
+These optional rules originally appeared in The
+General, Volume 17, Issue 5.
+Despite Don Greenwood’s dislike for this sec-
+tion of the article, Circus Maximus is the type
+of game that cries out for more rules (says he!).
+So, to add the Hollywood touch, I suggest one or
+more of the following optional rules.
+27.1
+A More Detailed Speciﬁca-
+tion Method
+As much as I like the simple four point prepara-
+tion point setup. I’m sure there will be others
+who will prefer this type of thing. The tradeoﬀ
+is, or course, playabilily for realism (?).
+1. Each player receives 32 Preparation Points.
+2. Preparation Points may be distributed in
+any manner among the categories on the
+Speciﬁcation Chart with the following re-
+strictions:
+(a) A player must have four horses. Horse
+Four may not be faster than Horse
+One, Horse Two may not be faster than
+Horse Four, and Horse Three may not
+be faster than Horse Two.
+(b) A player does not have to have a whip.
+He cannot have more than one whip. A
+long whip moves attacks on the Lash
+Attack Table two columns to the right.
+(c) A player does not have to have scythe
+blades. He can have scythe blades on
+only one wheel or on both wheels and
+can even have diﬀerent types of scythe
+blades on diﬀerent wheels.
+When a
+player has scythe blades on only one
+wheel or has diﬀerent scythe blades on
+diﬀerent wheels, all die rolls on the
+Corner Strain Chart are +2 and all
+die rolls for Flip due to Wheel Dam-
+age are -1. Scythe Blades add +2 to
+all Ram Attack Damage dice rolls and
+Long Scythe Blades add +4 to all Ram
+Attack Damage dice rolls.
+27.2
+Special Weapons
+27.2.1
+Pouch of Dust
+Cost: 1 Preparation Point
+Once during the race, a player with a pouch
+of dust can attempt to throw the dust into the
+eyes of another driver. His car must be adjacent
+to the other driver’s car at the time the dust
+is thrown, and this action costs one movement
+point.
+When the dust is thrown, the attacker
+rolls two dice and adds his driver modiﬁer to to-
+tal.
+If the total is ’10’ or more, the attack is
+
+27.1 Speciﬁcation Chart
+(Costs in number of Preparation Points in paren-
+theses)
+Horse One
+Horse Two
+Horse Three
+Horse Four
+0(0)
+1(5)
+2(10)
+3(15)
+12(5)
+Regular Whip
+(2)
+Long Whip
+Left Wheel Car Hits
+Right Wheel Car Hits
+20(0)
+25(1)
+30(2)
+35(3)
+40(4)
+45(5)
+50(6)
+55(7)
+60(8)
+65(9)
+70(10)
+75(11)
+80(12)
+Left Wheel Scythe Blades
+Left Wheel Long Scythe Blades (6)
+Right Wheel Scythe Blades
+Right Wheel Long Scythe Blades (6)
+Both Wheel Scythe Blades
+(7)
+Both Wheel Long Scythe Blades (11)
+successful and the attacked driver must roll two
+dice (adding or subtracting his driver modiﬁer)
+and consult the Dust Attack Table. Whether the
+attack is successful or not, the player has thrown
+his dust.
+27.2.1 Dust Attack Table
+Defender falls out of his chariot and becomes a
+dragged driver, except that he is behind his car
+and team, not just the team. The team and car
+are treated like a runaway team.
+3-5
+Defender swerves into the attacker. Treat as if
+both cars are damaged in a ram attack
+6-8
+Eye wound. Same as in ’5’ on the Critical Hits
+Table with the following additional result: the
+defender must move straight for the next two
+movement turns except to avoid other chariots
+in which case he must change lanes to the out-
+side where possible.
+swerves
+away
+from
+attacker.
+Sideslip two lanes.
+Defender is blinded and must take two driver
+hits. In addition the current team speed is re-
+duced by half and cannot be changed. Each turn
+thereafter he must roll one die, and cannot regain
+control and free usage of his team’s speed until
+he rolls a ’5’ or ’6’.
+A gust of wind blows the dust back into the at-
+tacker’s eyes. Treat as an eye wound as in ’6-8’
+above against the attacker.
+27.2.2
+Knife
+Cost: 2 Preparation Points
+Once during the race a player with a knife can
+attempt to throw the knife at another driver or
+team regardless of facing. The range to target
+is calculated by including the target hex but not
+attacker’s hex. The knife attack costs one move-
+ment point. When the knife is thrown, the at-
+tacker rolls one die for each hex of range and
+subtracts his driver modiﬁer from the roll. If the
+total is ’3’ or less the attack is successful and
+the attacked driver must roll two dice (adding or
+subtracting his driver modiﬁer) and consult the
+Knife Attack Table. Whether the attack is suc-
+cessful or not, the player has thrown his knife.
+Each player also has a small knife used for
+cutting horses and himself free during a race.
+This may be thrown using the procedure above,
+adding ’1’ to each To Hit die roll since this knife is
+not meant for throwing. However, if a player does
+not have this knife (or another knife instead), he
+may not cut horses or himself free if the need
+arises.
+27.2.2 Knife Attack Table
+Defender killed. Treat the body and team as a
+dragged driver and a runaway team as in ’2’ on
+the Dust Attack Table
+3-6
+Major Wound. Defender suﬀers a number of hits
+equal to to the roll of one die.
+Minor Wound. Defender suﬀers one driver hit.
+Minor horse wound.
+Nearest horse suﬀers one
+hit.
+Major horse wound.
+Nearests horse suﬀers a
+number of hits equal to the roll of one die.
+Horse killed. Nearest horse killed.
+27.2.3
+Spear
+Cost: 4 Preparation Points
+During the race, a player wiih a spear can at-
+tack other drivers or teams with the spear. His
+car must be adjacent to either the other driver
+or team at the time the attack is made, and this
+action costs two movement points. He may make
+only one attack per turn, but may make one
+attack during each turn he still has the spear.
+When an attack is made, the attacker rolls two
+dice and adds his driver modiﬁer to the total. If
+the total is ’10’ or more, the attack is succesfull
+
+and the defending driver must roll two dice (with-
+out modiﬁcation) and consult the Spear Attack
+Table. In addition, when a driver wiih a spear is
+straining in a corner, ramming another chariot,
+or being rammed by another chariot, the player
+must roll two dice (subtracting his own DRM),
+and if the total is ’10’ or more, he must then
+himself roll two dice without modiﬁcation) and
+consult the Spear Attack Table; to see if he has
+been injured by his own spear.
+27.2.3 Spear Attack Table
+2-6
+Major Wound. Same as ’3-6’ on Knife
+Minor Wound. Same as ’7-9’ on Knife
+10-12
+Defender killed. Same as ’2’ on Knife
+27.3
+Horse Carcasses
+When a horse is killed and cut free, a horse car-
+cass counter (use a blank counter) is placed in
+that square on the track. Chariots passing over
+horse carcasses treat them like chariot wrecks
+with a special -1 DRM. EXCEPTION: The horse
+carcass has no eﬀect on the chariot from which
+it is cut loose on the turn it is cut loose.
+27.4
+Critical Horse Hits
+Whenever a horse takes a hit, the attacker rolls
+two dice and consults the Critical Horse Hits Ta-
+ble.
+2-8
+No additional eﬀect
+One more hit
+Two more hits
+Three more hits
+Horse killed
+27.5
+First Turn Acceleration
+On the ﬁrst turn of the game, each player must
+roll
+two dice (subtracting their driver modi-
+ﬁer) and reduce their written turn speed by that
+amount (to minimum of 0)
+27.6
+Voluntary Straining
+Players must write an ’S’ after their Turn Speed
+(example: 19S) when writing their Turn Speed
+each turn in which they wish to voluntarily strain
+their teams. If they do not write an ’S’, they may
+not voluntarily strain that turn. This replaces
+announcing voluntary straining at the beginning
+of the player’s move, and creates a more realis-
+tic limit upon the drivers, although it does take
+command of the game away from the players to
+a certain extent.
+27.7
+Weather
+After players have built their chariots, but before
+the race begins, one player rolls one die and con-
+sults the Weather Table. If the result is ’Rain’,
+players must consult the Weather Table every
+other turn during the race beginning with the
+second turn of the race until the weather clears.
+Should ’rain’ remain in eﬀect until the ﬁrst
+horse completes the third consecutive corner un-
+der rain conditions weather conditions change to
+”mud” for the balance of the race whether the
+rain continues past that point or not.
+27.7 Weather Table
+Initial Result
+Subsequent Checks
+Rain*
+Clear**
+* Rain is in eﬀect. Reroll on this column immediately.
+Another ’1’ result means that the race starts under ”mud”
+conditions as well as rain.
+* Reroll on ”Initial Result” column at the start of each
+lap.
+
+27.8
+Rain has the following eﬀects as long as it con-
+tinues to rain:
+1. Dust attacks are not allowed in the rain
+2. Team speed is reduced by one
+3. CORNER STRAIN CHART MODIFIERS
+are amended as follows:
+Light chariots add ’3’ to all dice rolls.
+Normal chariots add ’2’ to all dice rolls.
+Heavy chariots add ’1’ to all dice rolls.
+4. LANE CHANGES are now subject to mod-
+iﬁcation as follows:
+Light chariots must roll one die whenever
+they change lanes. if the result is a ’5’ or
+’6’ they complete the lane change and then
+immediately sideslip one lane in the same
+direciion. There is no movement cost, but
+all normal rules apply, such as involuntary
+ram attacks.
+Normal chariois must follow
+the same procedure, but only sideslip on a
+result of ’5’.
+27.9
+Mud
+Mud has the following eﬀects:
+1. Once mud has been declared the eﬀects of
+Rain on lane changes and corner straining
+become permanent even if the rain stops.
+2. The combined eﬀects of rain and mud in-
+crease the Corner Strain DRMs by +1 for
+each type of chariot.
+3. The safe cornering speed of all chariois is
+reduced by three when ”mud” is in eﬀect.
+4. Team speed is reduced by two.
+5. A dragged driver suﬀers only one third (as
+opposed to half ) the resulting numbers of
+hits determined by one die roll at the con-
+clusion of each movement phase in which he
+has been dragged.
+6. An individual driver on the track can move
+one square for each three (as opposed to two
+remaining unmarked driver hit boxes (frac-
+tions rounded up) per turn.
+WRECKUS MAXIMUS
+Wreckus Maximus is a track variant. The track is
+a ﬁgure 8 conﬁguration. This results in a portion
+of the track that intersects with itself.
+28.1
+Attacks from the Rear
+Attacks from the rear reduce the CDM by 2 of the
+defender if they decide to evade an attack. Brak-
+ing is not possible because the attacker’s chariot
+is behind the defender.
+28.1.1
+The CDM penalty is only during the evasion por-
+tion of the attack.
+The CDM is used for any
+combat resolution rolls.
+28.2
+Ram Attacks To The Rear
+When a ram attack from the rear occurs treat it
+as a car ram attack (see 9.5.4). The driver can
+choose to assess any damage to either wheel or
+the driver similar to 9.6.1.
+28.3
+Lash Attacks To The Front
+Lash attack from the front on the team.
+28.3.1
+If the attacker succeeds this is not counted as a
+strain. It instigates a ﬂip check. The reason is
+that the horses will try to rear up or get away
+from the lashing instead of straining.
+28.3.2
+The defending driver rolls 5d6+CDM.
+
+28.3.3
+If this total is greater than the MF for that turn
+the car does not ﬂip.
+28.4
+Bolting
+Runaway teams in the intersection have a chance
+of Bolting to the left or right.
+28.4.1
+A die is rolled. On a roll of 1 the team turns 90
+degrees to the left and heads down that portion
+of the track. On a 6 the team turns 90 degrees
+right and heads down that portion of the track.
+28.4.2
+The Bolting roll is eﬀect for the duration of the
+team’s time in the intersection and is not rolled
+again until they enter into it again.
+28.5
+Front Ram Attack
+Ram attack from the front on the team.
+28.5.1
+This is similar to the involuntary ram attack (see
+9.6.1), in that the owner of the team may select
+which horses suﬀer any injury.
+Example: Possible Figure 8 track conﬁguration
+DESIGNER’S NOTES
+CIRCUS MAXIMUS is by no means a diﬃcult
+game to learn or play. There are certain abstrac-
+tions in the game that must be mentioned to al-
+low the players to gain a better understanding of
+what is represented.
+The movement system may seem a little pe-
+culiar in that movement is not simultaneous. Si-
+
+multaneous movement would have been the ideal
+for a game such as this, but to include simulta-
+neous movement would mean slowing down the
+game drastically. As it is, the game is limited
+to three laps when in reality, the Romans ran a
+seven lap race. This three lap limit was set to en-
+sure that the game did not take ﬁve to six hours
+to play. All of the combat is based on this three
+lap race, in short it is compressed and made a
+little nastier to compensate for the reduced du-
+ration. Were you to run an actual seven lap race
+the current combat tables would have to be wa-
+tered down considerably.
+A few words on combat are in order. Admit-
+tedly, the Roman races were very dangerous for
+the participants. . . hence, the added attraction to
+the rowdy spectator crowds, because besides the
+simple problems of taking a corner too fast and
+ending up in pieces, the charioteers may assist a
+rival’s demise. When charging around the track,
+it must be kept in mind that this is a race, and
+the use of attacks should be limited to critical
+points.
+The chariot used by the Romans was generally
+just a platform large enough for the charioteer to
+stand in and could be easily picked up and lifted
+over the head. . . in short a light chariot that was
+not designed to plow into things very often. An
+added incentive not to cause excessive damage
+to the car rests in the fact that to better facili-
+tate control of the team and car, the charioteer
+would tie the reins around his waist. Should the
+chariot ﬂip, the charioteer will get a chance to
+practice belly surﬁng on the sand. The chario-
+teer is equipped with a small, very sharp knife
+to cut himself free of these reins, but this simply
+leaves him prone on the track in the midst of a
+thundering herd of other chariots.
+Very careful planning is in order to ensure that
+a team does not blow its endurance too early
+in a race.
+Particularly if these points are lost
+because of mistakes in judgment such as entering
+a corner lane too fast. A blown team must count
+on nothing but luck to place.
+Ideally, a team
+should burn up the last of its endurance crossing
+the ﬁnish line, never before.
+The strongest, and sometimes fastest, horse
+was always posted on the far left hand side in the
+Roman races. This is reﬂected in the rules, and
+if new teams are constructed this advice should
+be followed to the letter.
+In the Circus, betting was what it was all
+about.
+Romans were absolutely fanatic about
+betting, and even the most impoverished of citi-
+zens would scrape whatever pennies together he
+could to blow in an afternoon at the track. It
+should be stressed that in the Campaign Game
+version, the acquisition of bucks is the keynote,
+not the winning of races.
+What must be kept in mind while playing the
+Campaign Game, is that the purpose of the game
+is to have a good time. Don’t feel that a personal
+vendetta is in order because every time you start
+the race, you ﬁnd out that your wheels are glued
+on with spit.
+A ﬁnal word on combat. . . remember that this
+is a race. In the ﬁrst edition everyone tended to
+get carried away with combat. By the end of the
+ﬁrst lap, the track usually looked like the Kursk
+battleﬁeld with only two chariots still in the run-
+ning and one of those was walking.
+Although
+Avalon Hill redeveloped the game to restrict this
+type of occurrence, keep in mind that it is not
+always to your advantage to attack. This is a
+game of aggressive racing skill.
+
+COLLECTED TABLES
+3.6.1 Driver Hits Chart
+3.6.3 Team Speed Chart
+7447
+7536
+7545
+7436
+6446
+7435
+6445
+6435
+5445
+6335
+5435
+5335
+5434
+4444
+5325
+5424
+5324
+4334
+3.6.4 Team Endurance Chart
+7.3.2 Corner Strain Chart
+Number of Strain/Flip Points
+Dice Roll Minus
+Driver’s Curent Modiﬁer
+9+
+4 or less
+18 or more
+7.3.3 Corner Strain Chart Results:
+— = No eﬀect. Chariot safely negotiates the danger.
+S = Sideslip. Chariot moves one lane to the outside.
+This is not a normal lane change. There is no movement
+cost for this event, but a chariot which must sideslip
+cannot willingly change lanes to the inside for the
+duration of that turn.
+J = Jostled. Driver is jostled. Reduce driver’s current
+modiﬁer by three (-3).
+Chariot is unable to use any
+straining including voluntary straining and cornering
+over the safe maximum speed (such as would be caused
+by making an inside corner lane change) for the balance
+of this turn and all following game turns in which its
+Current Driver Modiﬁer is negative.
+Thus, all MFs
+gained during the present movement phase as a result of
+voluntary straining would be negated except for those
+necessary to reach the corner square at which the “J”
+result occurred. Endurance costs for any lost MFs must
+still be paid.
+SS = Double Sideslip.
+Chariot immediately moves
+two lanes to the outside and may not use any straining
+for the balance of this turn (see J above) and the next
+game turn. This is not a normal lane change. There is
+no movement cost for this event, but a chariot which
+must double sideslip cannot willingly change lanes to the
+inside for the duration of that turn.
+LH = Left outside horse injured. Check Horse Injury
+Chart. RH = Right outside horse injured. Check Horse
+Injury Chart.
+FP = Flip. Chariot ﬂips, crashes, and is eliminated
+from the race. In the Basic Game it is simply removed
+from the board.
+See the Advanced Game for more
+detailed results.
+
+9.4.2 Lash Factor Chart
+Lash Factor
+-4
+-3
+-2
+-1
++1
++2
++3
++4
++5
+9.4.3Driver Lash Attack Table results are:
+— = No Eﬀect.
+B = Brake. Defender must brake as if avoiding attack.
+No movement factor loss is applied, but the chariot is
+moved backwards one square and expends two endurance
+factors. If unable to brake, the defender suﬀers a “W”
+result instead.
+S = Swerve. Defender must move sideways one lane
+away from the attacker. This lane change causes no loss
+of movement factors. However, if forced to make a corner
+lane change to the inside which would place the defender
+in a corner above the posted safe corner speed according
+to the speed of his “last” executed move, the defender
+would have to immediately roll on the corner strain
+table as well as pay any associated endurance costs for
+straining in the corner. If the lane change is blocked by
+another chariot an involuntary ram attack occurs against
+the blocking chariot. Note that a defender in lanes one
+or eight would be forced to swerve into the wall and ﬂip.
+M = Movement Loss.
+The defender immediately
+rolls a die, and reduces his team maximum speed (not
+necessarily his written turn speed) by that amount for
+his next movement phase.
+W = Wound. Driver loses one box from Driver Hits.
+In addition, the defender suﬀers a movement factor loss
+(as per M above) during his ensuing movement phase.
+When all driver hit boxes are lost, the driver collapses
+and his chariot ﬂips. When half or more than half of the
+driver’s original hit boxes are lost, the permanent Driver
+Modiﬁer is reduced by one for the duration of the race.
+If a driver is reduced to one third or less of his original
+starting hit boxes, the permanent driver modiﬁer is again
+reduced by one for the duration of the race.
+G = Whip Grabbed. Attacker loses his whip and can
+no longer make lash attacks or voluntarily strain his team.
+Check oﬀthe “Whip Lost” box of the Chariot Race Log.
+The attacker can still strain in the corners by exceeding
+the safe maximum speed. The grabbed whip is discarded
+unless the defender currently has no whip, in which case
+he can keep the one he grabbed.
+9.5 Horse Injury Table
+0 to 5
+no injury
+6 to 8
+1 injury point
+9 to 10
+2 injury points
+3 injury points
+4 injury points
+5 injury points
+6 injury points
+8 injury points
+*If the attacker’s car has scythe blades (heavy
+chariot), the attacker adds three (+3) to his dice
+roll. If the attacker’s car is light, the attacker
+subtracts three (-3) from his dice roll.
+9.5.4 Damage to Cars Table
+Dice Roll & CDM
+Diﬀerence Total
+6 or less
+attacker’s car damaged
+7, 8, or 9
+both cars damaged
+10, 11, or 12
+no eﬀect
+13 or more
+defender’s car damaged
+
+9.5.5 Wheel Damage Eﬀect Chart
+0 to 4
+5 to 7
+2 points
+8 or 9
+3 points
+10, 11
+5 points
+6 points
+7 points
+*If
+opposing
+has
+scythe
+blades(heavy), the chariot suﬀering the damage
+must add three (+3) to the roll. If the opposing
+chariot is light, subtract three (-3) from the dice
+roll.
+12.2 Wreck Location Chart
+1 lane left, 3 squares forward
+2 lanes right, 5 squares forward
+remain in square of ﬂip
+same lane, 2 squares forward
+same lane, 1 square forward
+1 lane right, 3 squares forward
+1 lane left, 1 square forward
+1 lane right, 4 squares forward
+3 lanes right, 2 squares forward
+4 lanes right, 6 squares forward
+3 lanes left, 4 squares forward
+13.1 Critical Hits Table
+Results
+Defender entagled by whip and pulled out of car
+(see Dragged Drivers, 16). Attacker loses whip
+Severe Wound – Reduce Driver Modiﬁer by one
+Arm Wound – Defender must halve all future
+voluntary strain rolls (fractions rounded up)and
+the resulting endurance costs for the duration of
+the race
+Eye Wound – Vision obscured.
+Defender may
+not evade (9.3.1) future attacks from the side of
+the chariot on which he was lashed.
+may brake normally, and evade attacks from the
+opposite side of the chariot normally
+Defender taken by surprise. Repeat original lash
+attack with one less lash factor.
+The attacker
+need not pay an extra movement factor for this
+additional attack
+Deep Wound – Take one more hit vs. driver
+8-11
+No Eﬀect
+Defender entangled by whip. Both players roll
+two dice and add their current number of un-
+marked drive hit boxes.
+The driver with the
+highest total pulls his opponent from his car (see
+Dragged Drivers, 16). Regardless of outcome, at-
+tacker loses whip
+
+14.3 Running Over Wrecks Chart
+Minus CDM
+8 or less
+No Eﬀect. Chariot passes over wreckage safely
+Driver Jostled. Treat as normal “J” result
+Car Damaged. Roll one die for each wheel, sub-
+tract three (-3) from each roll, and take the result
+as damage points on the wheel. A ﬁnal die roll
+result of 0 or less means no damaged was sus-
+tained on that wheel in the jump.
+12-13
+Horses hobbled roll a die for each horse, subtract-
+ing three (-3) from each roll. The result is the
+number of damage points suﬀered by each horse.
+Reduce it’s speed and the team maximum speed
+accordingly
+Horses seriously hobbled. Treat as above without
+any subtraction from each die roll.
+15-16
+Chariot Flip Danger. Check as if straining in a
+corner (maximum safe speed over a wreck is one)
+17 or more
+21.4.1 New Horse Speed Chart
+Amount Spent on New Horse (In Sesterces)
+Dice
+Roll
+1,500
+2,000
+2,500
+3,000
+4,500
+4,000
+27.1 Speciﬁcation Chart
+(Costs in number of Preparation Points in paren-
+theses)
+Horse One
+Horse Two
+Horse Three
+Horse Four
+0(0)
+1(5)
+2(10)
+3(15)
+12(5)
+Regular Whip
+(2)
+Long Whip
+Left Wheel Car Hits
+Right Wheel Car Hits
+20(0)
+25(1)
+30(2)
+35(3)
+40(4)
+45(5)
+50(6)
+55(7)
+60(8)
+65(9)
+70(10)
+75(11)
+80(12)
+Left Wheel Scythe Blades
+Left Wheel Long Scythe Blades (6)
+Right Wheel Scythe Blades
+Right Wheel Long Scythe Blades (6)
+Both Wheel Scythe Blades
+(7)
+Both Wheel Long Scythe Blades (11)
+27.2.1 Dust Attack Table
+Defender falls out of his chariot and becomes a
+dragged driver, except that he is behind his car
+and team, not just the team. The team and car
+are treated like a runaway team.
+3-5
+Defender swerves into the attacker. Treat as if
+both cars are damaged in a ram attack
+6-8
+Eye wound. Same as in ’5’ on the Critical Hits
+Table with the following additional result: the
+defender must move straight for the next two
+movement turns except to avoid other chariots
+in which case he must change lanes to the out-
+side where possible.
+swerves
+away
+from
+attacker.
+Sideslip two lanes.
+Defender is blinded and must take two driver
+hits. In addition the current team speed is re-
+duced by half and cannot be changed. Each turn
+thereafter he must roll one die, and cannot regain
+control and free usage of his team’s speed until
+he rolls a ’5’ or ’6’.
+A gust of wind blows the dust back into the at-
+tacker’s eyes. Treat as an eye wound as in ’6-8’
+above against the attacker.
+
+27.2.2 Knife Attack Table
+Defender killed. Treat the body and team as a
+dragged driver and a runaway team as in ’2’ on
+the Dust Attack Table
+3-6
+Major Wound. Defender suﬀers a number of hits
+equal to to the roll of one die.
+Minor Wound. Defender suﬀers one driver hit.
+Minor horse wound.
+Nearest horse suﬀers one
+hit.
+Major horse wound.
+Nearests horse suﬀers a
+number of hits equal to the roll of one die.
+Horse killed. Nearest horse killed.
+27.2.3 Spear Attack Table
+2-6
+Major Wound. Same as ’3-6’ on Knife
+Minor Wound. Same as ’7-9’ on Knife
+10-12
+Defender killed. Same as ’2’ on Knife
+2-8
+No additional eﬀect
+One more hit
+Two more hits
+Three more hits
+Horse killed
+27.7 Weather Table
+Initial Result
+Subsequent Checks
+Rain*
+Clear**
+* Rain is in eﬀect. Reroll on this column immediately.
+Another ’1’ result means that the race starts under ”mud”
+conditions as well as rain.
+* Reroll on ”Initial Result” column at the start of each
+lap.
+
+CIRCUS MAXIMUS Betting Sheet
+Amount in Sesterces
+Yellow
+Red
+Blue
+Green
+Purple
+Black
+Brown
+White
+Orange
+Pink

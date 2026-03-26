@@ -1,0 +1,3514 @@
+Creation and Development
+Richard Borg
+Development
+Pat Kurivial, 
+and the Days of Wonder Council
+Illustrations
+Julien Delval, Miguel Coimbra, 
+Nicolas Fructus, Christophe Madura
+Playtesting
+Dave Arneson, George Carson, Rik Fontana, 
+Roy Grider, Doug Hawes, Brett Helgeson, 
+Chris Jones, Bill Massey, Paul Miller, Wayne Minton,
+Stan Oien, Anthony Ricardi, Brad Ringhausen, 
+Louis Rotundo, Ken Sommerfield, Rick Thomas, 
+Dan Van Horn, and the Days of Wonder Council.
+Visit: www.daysofwonder.com
+Days of Wonder, Inc. 334 State Street, 
+Suite 203 – Los Altos, CA 94022 – USA
+Days of Wonder Europe 60 rue Saint-Lazare
+– 75009 Paris – FRANCE
+For online customer service, visit our forums
+on: www.battlelore.com
+This book is printed under the copyright laws of the United States
+of America. Contents copyright © 2005-2006 Days of Wonder, Inc.
+All rights reserved. This book is a work of fiction; any resemblance to
+organizations, places, events, or actual people – living or dead – is purely
+coincidental. Copies of material herein are intended solely for your
+personal, noncommercial use, and only if you preserve any associated
+copyrights, trademarks or other notices. You may not distribute copies
+to others for a charge or other consideration without prior written
+consent of the owner of the materials except for review purposes only.
+The mention of or reference to any company or product in these pages
+is not a challenge to the trademark or copyright concerned.
+Days of Wonder, the Days of Wonder logo, BattleLore, and all
+related names, places and things are trademarks and copyrights 
+© 2002-2006 Days of Wonder, Inc. 
+First printing: September 2006. Printed in China.
+
+- FOREWORD -
+Your initial discovery of the seductive world of fantasy may still be etched in
+your mind… 
+She may have introduced herself through the exquisite details of Tolkien's
+Middle Earth; an enthralling first night spent deep inside Master of Magic’s
+computer masterpiece; the excitement and intense focus that you brought to the
+development of your first role-playing character; or the fascination that struck you the
+first time you saw incredible, hand-painted miniatures in the back of a hobby game
+store. 
+Or perhaps, going further back, you remember the wondrous stories that magically
+emerged from the nooks and crannies of your bed covers as you made up your own
+legendary tales while playing with the miniature knights of your childhood.
+The pages that follow invite you to relive all of this and more, in a time and
+format compatible with today’s life, namely – short playing sessions; a strong online
+community; an easy-to-learn, yet deeply engaging game system; superlative artwork
+and game components; and finely tuned game mechanics.
+While you may find a few familiar gameplay elements, this Player's Guide is your
+introduction to a comprehensive new game system that promises to enchant hobby
+gamers worldwide for many years to come. Welcome to the age of BattleLore! 
+Days of Wonder, Fall of 2006
+
+Credits
+p.1
+Foreword 
+p.2
+How to use this book
+p.4
+Key Concepts & Object of the Game
+p.5
+Part I. The Basics 
+p.7
+Setting up the Game
+p.8
+Game Turn Overview
+p.10
+Chapter 1 – Command cards
+p.11
+Chapter 2 – Orders
+p.13
+Chapter 3 – Movement
+p.15
+Chapter 4 – Combat
+p.19
+Range & Line of Sight
+p.20
+Battle Dice Rolled
+p.21
+Terrain Effects
+Battles & Morale Effects
+Follow-on Actions
+p.28
+Chapter 5 – End of Turn
+p.33
+Part II. Advanced BattleLore
+p.35
+Chapter 6 – Mercenaries
+p.37
+Iron Dwarves
+p.37
+Goblinoids
+p.38
+Chapter 7 – Creatures
+p.41
+Critical Hits
+p.42
+Morale & Support
+p.42
+Retreat & Trampling
+p.43
+Special Powers & Power-ups
+p.43
+Creature Compendium
+p.45
+Chapter 8 – Lore
+p.47
+Lore Adventures
+p.47
+Lore Cards
+p.48
+Playing Lore Cards
+p.51
+Modified End of Turn
+p.53
+Managing & Replenishing Lore
+p.54
+Chapter 9 – The War Council
+p.55
+Commander
+p.55
+Lore Masters
+War Council Set-up
+p.57
+Out-of-Character Play
+p.57
+Custom War Councils
+p.58
+Part III. The World of BattleLorep.59
+Chapter 10 – Basic Terrain Types
+p.61
+Chapter 11 – Landmarks
+Common Rules & Generic Effects
+Lore Masters’ Landmarks
+Commander’s Landmarks
+p.68
+Creatures’ Lairs
+p.69
+Appendices
+p.71
+Illustrated BattleLore Lexicon
+p.71
+Units Compendium
+p.79
+List of Sidebars
+Section Cards and Tactic Cards
+p.11
+Anatomy of a Unit
+p.13
+Troop Types
+p.16
+Anatomy of a Weapon
+p.22
+Panic Loss Checks
+p.39
+Ordering Out-of-Section
+p.41
+Anatomy of a Creature
+p.44
+Anatomy of a Lore Card
+p.48
+List of Summary Tables
+Battle Dice Rolls for Standard Troops
+p.21
+Hit Table
+Morale Effects
+p.28
+# of Command Cards
+Lore Masters Progression Levels
+TABLE OF CONTENTS
+
+T
+his Player's Guide introduces you to the
+BattleLore game system. It not only includes the
+rules you will need to play the game, but also lays
+the foundation for many forthcoming expansions. While
+the size of the book may seem daunting at first, learn-
+ing the basics of the game is a straightforward, enjoy-
+able endeavor. If you follow the simple guidelines below,
+you can be playing your first game the very same night
+you open this book!
+If you have never played this game system’s predeces-
+sor, Days of Wonder's Memoir ’44, we recommend that
+you first read the introductory sections of this book: Key
+Concepts & Object of the Game; Setting Up the
+Game; and Game Turn Overview. 
+Once you have familiarized yourself
+with these basics, use the opening
+Medieval Adventure, Agincourt – 1415,
+to introduce yourself to the fundamen-
+tals of the game, progressively working
+your way through the remaining chap-
+ters of Part 1 as you discover the game’s
+various game turn phases.
+Once you have completed your
+apprenticeship by exploring the
+Agincourt adventure from both of the
+opposing camps, you will be ready to delve deeper into
+the fantasy aspects of our Uchronia, described in Part
+II of this book – Advanced BattleLore. 
+In Chapter 6 – Mercenaries, you will learn how to
+deploy troops of a few now-long forgotten mythical races. 
+From there, it will only be a short journey before
+you’re ready to confront the monstrous Creatures intro-
+duced in Chapter 7 – Creatures. 
+In Chapter 8 – Lore, you'll discover, and begin to mas-
+ter the power and magic of the Lore system that gives
+the game its name. Finally, you will be ready to form
+your own War Council and lead the charge, as explained
+in Chapter 9 – The War Council.
+If you are already familiar with the game’s concepts,
+having played Memoir ’44 or similar card-driven
+miniature game systems before, we invite you to jump
+right in. Set up the game and play Adventures 1 through
+10, starting with Agincourt - 1415. Please pay particular
+heed to the various Summary Tables included in this
+book, and to the sidebars. They introduce key concepts
+specific to BattleLore. Along with the Summary cards,
+they will go a long way toward helping you quickly grasp
+the game’s essential mechanics.
+You may also find the For Veteran Gamers section
+of the BattleLore Primer a worthy read. It's available
+online at www.battlelore.com/intro.
+A note about multi-player games: This Player's Guide
+introduces BattleLore primarily as a two-player (or two
+teams) game, with each side leading one of the two
+warring camps. While some components (cardholders,
+and the reverse side of game board for Epic Adventures)
+are designed to facilitate larger scale play, these additional
+capabilities are beyond the scope of this book and the
+core game. For additional details on multi-player 
+play, please visit www.battlelore.com/epic and
+www.battlelore.com/heroes.
+HOW TO USE THIS BOOK
+T
+hroughout this rulebook,
+each time a new concept is
+introduced for the first time, it will
+be highlighted in green text,
+indicating its entry – and
+description – in the BattleLore
+Lexicon in Appendix I of this book. 
+When further elaboration is
+necessary, the concept will also 
+be further explained in a side bar
+inside the rules text itself,
+and signaled by this icon.
+
+B
+attleLore is a new type of game, combining
+various elements and aspects of cards, miniatures,
+role-playing and board games. The concepts that
+follow are fundamental to the game’s dynamic and its
+underlying principles. 
+A game session is built around a carefully crafted
+Adventure which depicts a Battlefieldand the forces that
+you and your game partners will attempt to lead to
+victory. There are several types of adventures including:
+Medieval Adventures, which are historical in nature; Lore
+Adventures, which are fantasy-based, taking full advantage
+of all that BattleLore’s world has to offer; and Epic
+Adventures, which are beyond the scope of this current
+book, and will be the subject of a future volume.
+The forces on the battlefield are represented by plastic
+miniatures, pre-positioned on the game board according
+to an adventure’s specific instructions. These miniatures
+represent the troops under your command. Each group
+of Figures gathered on the same Hex is said to form a
+Unit. 
+Each unit is composed of a Banner Bearer, and, in
+most cases, some additional figures. The Banner
+Bearer is a key element in the game and offers visual
+clues as to the nature of the Troops he leads into
+combat. The Banner Bearer is also the last figure of
+a unit to be removed from the Battlefield, when the
+unit is finally defeated. 
+In BattleLore, each Side, or warring faction, has its
+own distinctive banner style: 
+KEYCONCEPTS &OBJECT OFTHEGAME
+Standard Banner
+Pennant Banner
+
+For more details on how to read a unit’s Banner, please
+see the sidebar, Anatomy of a Unit on p.13 of Chapter
+2 – Orders.
+The game board, and the Terrain pieces and
+Landmarks it supports, depict the battlefield on
+which a game will be fought. Two red dotted lines
+delineate the battlefield’s three distinct Sections,
+respectively forming a Left Wing, Center, and Right
+Wing for each Camp.
+The game is fought over a number of successive
+Game Turns, taken by the players alternately. During his
+turn, the forces under a player’s control are ordered into
+Movementand Battle with the play of a Command card
+and its associated effects. The Command card usually
+dictates the number of units ordered for the turn, as well
+as the section(s) of the battlefield to which they belong.
+Hexes that straddle a red dotted line are always
+considered as simultaneously belonging to both the
+corresponding wing and center section.
+When combat occurs, its outcome is decided with the
+roll of a varying number of Battle Dice; the sides of the
+dice rolled dictate the effects of combat and the eventual
+damage inflicted upon the enemy’s troops. 
+OBJECT OF THE GAME
+In BattleLore, the object of a game session is usually
+to be the first to capture a specific number of Victory
+Banners such as those held by the units’ Banner Bearers.
+Depending on the adventure’s victory conditions, the
+number of banners required to win will usually vary
+between four and seven. 
+A Victory Banner is gained each time the last
+figure (Banner Bearer) of an enemy unit is eliminated
+and removed from the battlefield.
+The Banner Bearer of the unit just defeated is then
+placed onto the victor’s Victory Track. 
+In some adventures, additional Victory Banners - in
+the form of Victory Blazon tokens - can be won by
+capturing certain terrain hexes or accomplishing other
+adventure-specific objectives.
+A captured enemy
+Banner Bearer, 
+on his opponent’s
+Victory Track.
+A Victory Blazon
+awaiting capture 
+on the battlefield.
+Red Banner
+Bonus Strike
+Retreat Flag
+Right Wing
+
+Part 1 of this book 
+covers the game’s basics.
+How to set up an adventure,
+how to play a Medieval
+Adventure if you’ve never
+played one before, 
+and the key Medieval
+tactical aspects 
+of the game.
+
+For your first game, we recommend that you set up
+and play Agincourt - 1415, an adventure expressly
+designed to introduce you to the basics of Medieval
+warfare. Focused solely on the historical confrontation
+between the English and the French, two human Armies,
+it will give you and your opponent a chance to master
+the game’s basics.
+The instructions that follow are common to the set-
+up for all adventures. Following them each time you start
+a game will greatly hasten your set-up time.
+1.
+Place the game board in the center of the table, with
+the proper face (single board battle map, unless in
+Epic mode) visible. This is your battlefield. Assemble
+the Cardholders, and place them next to each player’s
+edge of the board.
+2.
+Place Terrain hexes on the battlefield as indicated
+per the adventure’s Battle Map. 
+Because the hexes are double-sided, to minimize
+conflicts (and frustrating searches for the right piece),
+we recommend laying out the Terrain pieces in the
+order in which they appear on the side bar of each
+battle map. Start from the top and methodically work
+your way down to the bottom of the list. 
+Lay the 13 Wood hexes bordering Agincourt’s
+battlefield. 
+3.
+Place other supplemental terrain and game pieces
+(bridges, on-the-map Victory Blazons, special
+resources and game tokens, specially denoted
+Landmarks, etc…) on the battlefield, as indicated per the
+adventure’s battle map and battle notes. 
+There are no supplemental Terrain pieces in Agincourt.
+4.
+Now place figures on the battlefield, matching the
+various units’ positions on the adventure’s battle
+map. We recommend you initially set aside the required
+type and number of Banner Bearers, and place them on
+the battlefield first, using the board’s borders and wing
+Setting Up
+THE GAME
+
+boundaries (red-dotted lines) to quickly locate the
+correct hexes. Then complement each unit with its
+required number of figures. (Foot Unit – 4 figures
+total, Mounted Unit– 3 figures total, Creature– 1 figure
+unless specified otherwise)
+In Agincourt, the forces present are 5 units of Green
+Banner Archers, 3 Blue Banner Regular Infantry and 1
+Red Banner Heavy Infantry for the Pennant Bearers
+(English and Welsh forces), and 6 units of Blue Banner
+Regular Infantry, 1 Blue Banner Regular Cavalry, 2 Red
+Banner Heavy Cavalry, and a single Green Banner
+Archer unit for the Standard Bearers (the French).
+5.
+Hand each camp a complete set of the applicable
+Summary cards: Units (Foot, Mounted,
+Creatures); Weapons (Common Bow, Short Sword,
+Long Sword, Crossbow); and Rules (Battle Dice,
+Medieval Tactics, Morale) for all the forces present on
+the board. Likewise, place the Summary cards of the
+various Landmarks and Terrain pieces that are in play
+on one of the board’s sides, within view of all players.
+For Agincourt, each player receives a set of the
+following Summary cards: Foot Units, Mounted Units,
+Common Bow, Short Sword, Long Sword, Battle
+Dice, Medieval Tactics, and Morale.
+6.
+Shuffle the Command card deck thoroughly,
+and deal Command cards to each player as
+indicated by the adventure’s battle notes. Place the
+cards received in your respective cardholders.
+In Agincourt, the English player receives 6 Command
+cards, and the French player 4.
+7.
+Set the remainder of the deck of Command cards
+face down, alongside the board, within easy reach
+of the players. Read aloud any of the adventure’s special
+rules or victory conditions. Hand out to each player a
+set of 6 battle dice.
+There are no special rules or victory conditions in
+Agincourt.
+8.
+The first player, as indicated by the adventure’s
+battle notes, starts the game. 
+In Agincourt, the English player starts the game.
+You are now ready to lead your troops to a hopefully
+well-planned and decisive victory!
+
+The player listed in the adventure’s battle notes starts
+first. Players then alternate turns, until one of the players
+reaches the number of Victory Banners indicated by the
+adventure’s victory conditions.
+Game Turn
+OVERVIEW
+ON YOUR TURN,
+follow the sequence below
+w COMMAND phase: Play a Command card.
+w ORDER phase: Announce all units you intend to order, within 
+the limits of the Section or Tactic Command card just played.
+w MOVEMENT phase: Move all ordered units you wish, one at a time.
+Respect unit and terrain movement limitations, as per the Terrain Summary cards.
+w COMBAT phase: Battle one ordered unit at a time. Select an enemy unit and:
+• Verify that your target is within range and line of sight;
+• Announce the number of battle dice you are entitled to roll, per
+your unit’s troop type and weapon type;
+• Adjust your number of battle dice, based on any terrain effects;
+• Roll the resulting number of battle dice, and apply their effect,
+per the attacking unit’s weapon card, scoring hits first, then retreats;
+• If appropriate, conduct follow-on actions (gaining ground, 
+pursuit action, Bonus Melee attack and /or enemy battle back).
+w DRAW phase: Draw a new Command card.
+(In Lore Adventures, also draw new Lore cards and/or tokens.)
+
+PHASE 1.
+PLAY A COMMAND CARD
+At the start of your turn, play a Command card
+from your hand. Place it face up in front of you, and read
+it aloud. 
+Command cards are normally used to order units to
+move and/or battle. The card you play dictates in which
+section(s) of the battlefield you may issue orders, and
+how many units you may order.
+If you ever find yourself in a situation where no unit
+can be ordered by the Command card just played,
+disregard steps 2 through 4 of the Game turn
+(described in the correspondingly numbered chapters),
+directly draw a new Command card and end your turn
+(see Chapter 5 - End of Turn). 
+Conflicting Rules & Rules priorities 
+and precedence:
+In case of conflict between the Basic Rules in this
+book and the text on a Command card, the text on the
+Command card takes precedence. 
+1111
+COMMAND CARDS
+There are two types of Command cards: 
+The Section cards are recognizable by their iconic
+representation of the battlefield on the lower half of the
+card. They are used to order a set number of units from
+the sections highlighted on the card. 
+If the number of units to be ordered is not a fixed number,
+but instead is marked as Equal to Command, then the
+number of units a player may order is equal to the number
+of Command cards in the player’s possession (including
+the Command card currently being played). This is usually
+the same number of Command cards that the player
+started the game with, per the adventure’s battle notes.
+The English player in
+Agincourt may order up to 
+6 Units on his Left Wing
+when playing this card. 
+
+The Tactic cards usually feature an illustration, and an
+explicit description of the number and type of units that
+can be ordered by the play of the card. 
+When the location of these units is not specified, the
+Tactic card can be used to order units from anywhere
+across the battlefield. 
+The units ordered must still operate under any other
+criteria imposed on them by the play of the card.
+Some Tactic cards are used to order units of the same
+Troop type across the battlefield, i.e. units sharing the same
+Banner color. 
+The English player orders his remaining
+Archer units across the board. Here one of
+these Archer units cannot be ordered, because
+it is already in contact with the enemy.
+The French player orders two Regular Blue
+Banners by playing a Blue Banner card; 
+his Heavy Cavalry with a Red Banner must
+stay put and cannot be ordered this turn.
+
+PHASE 2.
+ORDER YOUR UNITS
+After playing a Command card, announce which
+corresponding unit(s) you choose to order.
+Only those units that are issued an order may move,
+battle or take a special action, during this turn. 
+Units on a hex with a red dotted line running through
+it may be ordered from either section. 
+You may only give one order to each unit during the
+course of a single game turn. 
+If a Command card allows you to issue more orders
+in a given section of the battlefield than you currently
+have units in that section, those additional orders are lost.
+ORDERS
+ANATOMY OF A UNIT
+Figures grouped together on the same hex form a unit. 
+A unit's most important member is its Banner Bearer,
+who proudly carries the unit’s colors into combat. 
+Each banner displays many characteristics, making it
+easy for both sides to rapidly identify the most
+distinctive capabilities of each unit in play.
+The Banner type (Standard banner and Pennant banner
+shapes, respectively) and Banner pattern (fleur-de-lys
+and lion’s head) confirm which camp a unit is allied
+with, something that becomes quite handy in the midst
+of heavy Melee combat!
+Pennant Bearer Archer
+Standard Bearer Heavy Cavalry
+This Infantry can be
+ordered by the play
+of any Left Wing or
+Center Section card.
+
+The color of a banner’s background field or Banner
+undertone, reveals that unit’s Troop type – or level of
+military training. Its Weapon Symbol indicates the
+weapon this unit wields in combat. 
+More details about each level of military training can
+be found in the sidebar on Troop Types, on p.16 of
+Chapter 3 – Movement, and more details on weapons
+are in the Anatomy of a Weapon sidebar on p.22 of
+Chapter 4 – Combat.
+A Banner Bearer is always the unit’s last figure to remain
+on the hex during combat. Its elimination marks the
+defeat of the unit, and the gain of a corresponding Victory
+Banner for the opponent.
+Infantry Swordsman
+Blue Banner Regular
+Infantry Swordsman
+Archer
+
+PHASE 3.
+MOVE YOUR UNITS
+Movements are announced and made sequentially, one
+ordered unit at a time, in the sequence of your choice.
+A unit may only move once per turn. A unit that is
+ordered does not have to move.
+You must complete one unit’s movement before
+beginning another. 
+In addition, you must complete all units' movement
+before proceeding to Battle (step 4 – Chapter 4).
+Ordered units may move from one section of the
+battlefield into another.
+A unit may never move onto any of the dimmed half-
+hexes that border the battlefield. A unit may only move
+off the battlefield’s edges when explicitly allowed to by
+the adventure’s battle notes.
+Two units may not occupy the same hex. When
+moving a unit, you may not move onto or through a hex
+occupied by enemy or friendly units.
+1515
+MOVEMENT
+Starting Position. 
+This is forbidden.
+First, move the right unit, 
+1 hex to the right... 
+To move the 
+Swordsmen unit
+to its destination
+on the Forest’s
+right, you must
+first move the unit
+in front of it out 
+of the way. 
+...then move the other unit.
+The Blue Banner Cavalry must move 3 hexes, around the Archers,
+to reach its destination. 
+
+You may not split off individual figures from a unit;
+they must stay together and always move as a group.
+A unit that is reduced through casualties may not
+combine with another unit.
+Ordered units move differently according to their
+troop type and status (foot or mounted).
+FOOT UNITS - 
+Movement and Combat restrictions
+An ordered Green Banner unit on foot may move
+up to 2 hexes and battle.
+An ordered Blue Banner unit on foot may move
+up to 1 hex and battle or 2 hexes and not battle.
+An ordered Red Banner unit on foot may move
+up to 1 hex and battle.
+Splitting is forbidden.
+Regrouping is forbidden.
+TROOP TYPES
+In BattleLore, there are three Troop types, roughly
+corresponding to three distinct levels of military
+training.
+I Green Banner troops, identified
+by the green undertone or
+background field of their banners,
+are used to denote young, untrained
+recruits drawn from the masses. In
+some Races, they are called
+Irregulars. Their weapon is usually
+little more than a simple sword,
+common bow or a stick, and they
+usually wear little to no body armor.
+Their military training tends to be
+meager or non-existent; on the
+flipside, they usually benefit from
+having good mobility.
+I Blue Banner troops, identified by
+the blue background field of their
+banners, usually form the backbone
+of a regular army. Trained to battle
+in Melee and advance in military
+formations, these are usually
+professionally equipped men-at-
+arms, or Regulars of an army, well
+versed in military matters.
+I Red Banner troops, identified by
+the red background field of their
+banners, form the Heavy shock
+troops of an army. Often held in
+reserve to deliver the decisive coup-
+de-grace in battle, they possess the
+best weapons, the top mounts and
+the finest armor. On the flipside,
+these assets greatly encumber them
+and they display much less mobility
+than other units.
+A sturdy mercenary
+and terrible foe: 
+the Red Banner
+Dwarven Swordsman.
+A frequently seen
+Swordsman.
+A quick-footed 
+and nimble Green
+Banner Archer.
+This Red Banner
+Dwarven Infantry
+moves to attack 
+his opponent
+in Melee.
+This more cautious
+Hobgoblin Archer
+unit moves
+into position 
+to fire his bow. 
+
+MOUNTED UNITS - 
+Movement and Combat restrictions
+A mounted Green Banner unit that is ordered may
+move up to 4 hexes and battle.
+A mounted Blue Banner unit that is ordered may
+move up to 3 hexes and battle.
+A mounted Red Banner unit that is ordered may
+move up to 2 hexes and battle.
+Some terrain features impact movement and may
+prevent a unit from moving its full distance or battling
+(see Terrain in Chapter 10 – Basic Terrain Types).
+Retreat movement rules vary slightly from regular
+movement (see section on Retreat on p.25 of Chapter
+4 – Combat).
+The Blue Banner
+Swordsmen, unable 
+to finish off a
+straggling Cavalry 
+unit, moves to
+attack another
+closer enemy.
+This poor Dwarven
+Infantry unit
+suffers the brunt
+of a multi-unit
+Cavalry charge!
+
+PHASE 4.
+RESOLVE EACH BATTLE
+Battles are resolved sequentially, one ordered unit at
+a time in the sequence of your choice. You must
+announce and resolve one unit’s battle (including all
+related follow-on actions stemming from that battle)
+entirely before proceeding to any other ordered unit’s
+battle.
+A unit may only be ordered to battle once per turn;
+in some instances however, it may receive the opportunity
+to battle again, as part of the same order, during a
+successful Pursuit action. For additional details, refer to
+Conducting Follow-on Actions, on p.28 of Chapter 4
+– Combat.
+A unit that is ordered does not have to battle, even
+when adjacent to an Enemy unit.
+A unit may not split its battle dice between several
+enemy targets during the same dice roll.
+The number of casualties (lost figures) a unit has
+suffered does not affect the number of battle dice it
+will roll in combat. A unit with a single remaining
+figure fights just as bravely as a unit at full strength.
+It is just more vulnerable, since a single hit will
+suffice to eliminate it.
+COMBAT PROCEDURE 
+To battle: Announce the ordered unit you want to
+attack with, and its target. Then, sequentially:
+• Verify that your target is within Range and Line
+of sight;
+• Announce the number of battle dice you are
+entitled to roll per your unit’s troop and weapon
+type;
+• Adjust your number of battle dice, based on
+potential terrain effects;
+• Roll the resulting number of battle dice, and
+apply their effects, per the Attacking unit’s weapon
+card, scoring hits first, then retreats;
+•If appropriate, conduct follow-on actions (gaining
+ground, pursuit action, bonus melee attack or
+enemy battle back).
+COMBAT
+
+MELEE
+A unit attacking an adjacent enemy unit is said to
+be engaging that enemy in Melee. Targets engaged in
+Melee are always considered within range of their
+attacker, regardless of the attacker’s weapon. If the
+attacker’s weapon is a missile weapon used at Point
+Blank (i.e. to attack a unit on an Adjacent hex), the
+attack is still considered a Melee.
+RANGE
+All other, more distant, attacks beyond the range
+of adjacent hexes are considered to be Ranged
+attacks. Ranged attacks are only available to units
+equipped with Ranged weapons (missile weapons,
+firing weapons, etc.). The range of a weapon is
+measured in hexes. 
+There are two basic ranged weapons in BattleLore:
+The Common Bow, with a range of 4 hexes;
+And the Crossbow, with a range of 3 hexes.
+To check whether a target is within range, simply count
+the distance, in number of hexes, separating the attacking
+unit from its target. Exclude the attacking unit’s hex from
+the count, but include the target’s hex. The distance must
+be smaller or equal to the weapon’s stated range.
+A unit adjacent to an enemy unit must engage this
+enemy unit in Melee if it chooses to battle. It may not
+target another, more distant, enemy unit, even if in range
+and armed to do so.
+LINE OF SIGHT
+In Ranged combat, the attacking unit must also have
+the enemy it wants to target within line of sight, i.e. it
+must be able to “see” the enemy it wishes to battle.
+To check for line of sight, imagine a line drawn from
+the center of the hex containing the battling unit to the
+center of the hex containing the enemy target. This line
+of sight is considered blocked if any hex (or part of a
+hex) intercepting this imaginary line segment contains
+an obstruction. Obstructions include all units (friends
+or foes), certain types of terrain features, and all shaded
+half-hexes on the edges of the battlefield.
+These Green Banner Archers must engage their adjacent enemy,
+firing on them at point blank range, despite an obvious desire 
+to finish off the more distant, lone enemy unit. 
+Only one unit is within range.
+This Blue Banner Swordsman
+unit engages its opponent 
+in Melee.
+These Green Banner Archers
+engage in Melee, firing at point
+blank range on their enemy.
+Checking for Range
+& LINE OF SIGHT
+Step 4a.
+
+The terrain in the target hex does not block line of
+sight.
+When the imaginary line runs along the edge of one
+or several hexes which contain obstructions, the line of
+sight is not blocked, unless the obstructions stand
+somewhere along both sides of the line segment.
+In battle, the number of Battle Dice rolled by default
+is determined by the type of troops the attacking unit
+belongs to, hence by the color of its banner.
+Some units that battle are subject to the combat
+restrictions stemming from their movement prior to
+battle, as described in Movement and Combat
+restrictions on p.16-17 of Chapter 3 – Movement. If a
+unit moves too far, it may not be able to battle this turn.
+The weapon used by a unit is represented by a symbol
+on the unit’s banner. This same symbol is on the
+weapon’s Summary card, which contains additional
+information about the weapon and its use and effects.
+Line of sight is blocked by the center unit.
+The Green Banner Archers have line of sight to the unit in the
+woods' border, but not to the other unit hiding behind the woods.
+Archers have line of sight.
+Their line of sight is blocked 
+on both sides.
+Exhausted by their run, 
+these Blue Banner Swordsmen
+cannot battle this turn. 
+Climbing onto these ramparts
+forces these Red Banner
+Swordsmen to postpone their
+battle until next turn. 
+Step 4b.
+Determining the 
+number of
+BATTLE DICE ROLLED
+BATTLE DICE ROLLS 
+for Standard Troops
+Green Banner troops roll 2 dice
+Blue Banner troops roll 3 dice
+Red Banner troops roll 4 dice
+
+Anatomy of a Weapon -
+WEAPON SUMMARY CARDS
+BattleLore troops come equipped with a variety of
+weapons. These weapons are represented on the figures
+and on the Banner Bearers’ Standard or Pennant. 
+Each weapon type has its own Weapon Symbol, drawn
+on the inner portion of the Standard or Pennant, and
+on the matching Weapon card.
+The Weapon cards bear the following information:
+• Weapon Symbol 
+• Weapon Name
+• Weapon Type (Melee and/or Ranged) and
+Weapon reach (in hexes).
+• Damage: The weapon’s standard damage,
+expressed in number of battle dice rolled.
+Usually, this will be dictated solely by the
+banner color of the unit wearing the weapon, 
+as per - Battle Dice rolls for Standard Troops .
+• Bonus Strike: Describes potential bonus strike
+conditions.
+• Special: Any other special rules relevant to the
+weapon’s use
+For a complete overview of BattleLore’s most commonly
+used weapons, please refer to the Bonus Strikes and
+Weapon effects section in Step 4d. of this chapter.
+A unit’s weapon may impact the number of dice it
+rolls. For instance, Archers on the move fire at -1d, as
+indicated on the Common Bow Summary card. 
+A unit’s weapon may also impact the outcome of the
+dice rolled. For instance, the Foot unit's short sword is
+not quite as effective against mounted units as it is
+against other units on Foot. As a result, one Sword on
+Shield symbol rolled is ignored when a foot unit
+equipped with a Short sword attacks a mounted enemy. 
+Four common BattleLore weapons: The Common Bow, Crossbow, Short Sword and Long Sword.
+Short Sword
+Long Sword
+
+The terrain in which the target - and in some instances,
+the attacking unit – battles from, may impact (usually
+reduce) the number of battle dice rolled in combat. 
+To adjust the number of battle dice to roll for these
+Terrain effects, please refer to Chapter 10 – Basic
+Terrain Types and Chapter 11 - Landmarks, or consult
+the relevant Terrain Summary cards.
+Roll the resulting number of battle dice against the
+target. Note that you cannot declare a battle, if you have
+no target to fight against: You can’t just slash the air (in
+the hope of collecting Lore tokens in Lore Adventures;
+see Misses – Lore p.25). 
+Hits are resolved first, followed by Retreats. 
+HITS
+In battle, the attacker scores one Hit
+for each colored helmet rolled that
+matches the banner color of the unit
+targeted. Other colors rolled are always
+a Miss. Throughout these rules, when we
+refer to a banner color rolled, we mean
+a Colored Helmet symbolwhose color
+matches the target unit’s banner color.
+Unless specified otherwise on the
+attacking unit’s Weapon card, the Sword
+on Shield symbol and the Lore symbol
+are also misses.
+For each hit scored, remove one figure from the
+target unit. Always remove the unit’s Banner Bearer
+last. When the Banner Bearer is finally removed, place
+his figure on top of one of the empty wax seals, on the
+Victory track on your side of the battle map.
+When an attacking unit rolls more hits than the
+number of figures in the defending unit, these additional
+hits have no effect. 
+BONUS STRIKES 
+AND WEAPON EFFECTS
+BONUS STRIKE
+Provides a Bonus Strike, when specified on
+the attacking unit’s Weapon card. Otherwise,
+it is a miss. 
+In some instances, additional weapon effects (ignoring
+one Sword on Shield symbol rolled, reduced firing
+effectiveness following a move, etc…) may apply,
+modifying the resulting dice roll. 
+BattleLore’s four basic weapons are:
+The Short Sword
+Used exclusively in Melee, the Short Sword
+is the Infantry’s weapon of choice. A Short Sword hits
+on all helmets rolled whose color matches the target’s
+banner color, and on all Sword on Shield symbols
+rolled against Infantry. However, because of its short
+reach, this weapon puts units using it at a distinct
+disadvantage against mounted opponents; Mounted
+units ignore one Sword on Shield symbol rolled
+against them by Short Sword carrying units.
+Accounting for
+TERRAIN EFFECTS
+Step 4c.
+Resolving
+THE BATTLE
+Step 4d.
+HIT Table
+Score 1 hit on Green Banner unit
+Score 1 hit on Blue Banner unit
+Score 1 hit on Red Banner unit
+Bonus Strike - Score hit when specified
+Green 
+Blue 
+Red 
+Sword on
+Shield
+Flag
+
+The Long Sword
+Identical to the Short Sword in all but one
+aspect (it hits opponents helmets rolled whose color
+matches the target’s banner color, and on all Sword on
+Shield symbols rolled, regardless of the enemy’s status
+– foot or mounted). The Long Sword is the weapon of
+choice for Mounted units, its longer reach making it
+equally effective against all opponents.
+The Common Bow
+The weapon of choice for lightly protected
+units, who prefer to engage the enemy from a relatively
+safe distance, the Common Bow can be fired at point
+blank and onto enemies up to four hexes away. The
+Common bow hits exclusively on helmets rolled whose
+color matches their target’s banner color. Taking aim
+requires a steady arm: When fired by a unit that moved
+during the same turn, 1 less die than normal is rolled
+(i.e. a Green Archer unit on the move rolls 1d against
+its enemy, instead of its standard 2d).
+Under attack, this
+Cavalry takes two
+hits: One for the
+Blue Banner color
+rolled against it,
+the other for the
+second rolled
+against it – 
+It ignores one
+Bonus Strike as
+result of the Short
+Sword’s limited
+effectiveness
+against Mounted
+causing the removal
+of 2 figures, one for
+the Blue Banner
+color rolled, the
+other as a result 
+of the rolled. 
+The Archers roll 
+2 dice when not
+moving…
+… and a single die
+when on the move.
+Cavalry rolls 
+1 Blue Banner color,
+1 Red and 1 Bonus
+Strike…
+The same attack,
+directed at Blue
+Banner infantry,
+would have caused
+3 casualties – 
+one for the Blue
+banner color rolled,
+and one for each
+of the two
+symbols rolled! 
+
+The Crossbow
+Sturdier and heavier than the Common Bow,
+the Crossbow benefits from increased penetration
+capabilities: it not only hits its targets on all helmets
+matching the target’s banner color, but also on Sword
+on Shield symbols . However it suffers from a shorter
+range (only up to three hexes), and its slower reload
+speed means that all Sword on Shield symbols rolled
+are ignored when fired at point blank range.
+MISSES
+LORE
+In Medieval Adventures such as those
+described in Part I of this book (e.g. Agincourt), any
+Lore rolled is a miss.
+In Lore Adventures that use the Lore system described
+in Chapter 8 – Lore, the Lore side of the Battle die is
+not an outright miss when rolled. Instead, the player who
+rolls a Lore symbolin battle collects a Lore tokenfrom
+the Lore pool to add to the reserve in his Lore goblet. 
+In those same adventures, the Lore symbol may also
+be used in situations involving Lore cards and the like.
+In this case, Lore tokens are not collected into one’s Lore
+goblet; instead, the Lore symbols rolled trigger the
+specified Lore cards’ effect.
+RETREATS
+RETREAT
+After all hits have been resolved and
+casualties removed, Retreats are resolved. For each
+Retreat Flag rolled against it, the target unit must move
+one hex back toward its own side of the battlefield. Two
+flags push the unit back two hexes, etc.
+The player controlling the unit decides which hex his
+unit retreats onto using the following rules:
+• A unit must always retreat toward its Controlling
+player’s side.
+Its feet firmly
+planted on the
+ground, this
+Dwarven Crossbow
+unit rolls 2
+symbols, picking
+off 2 Cavalry
+figures in the
+distance…
+a much better
+result than if it had
+foolishly rushed 
+to contact, losing 
+1d in the move, 
+and making the
+other dice a miss 
+at point blank!
+The defending
+Archers lose 
+1 figure and must
+retreat. The Lore
+symbol has no
+effect,
+The defending
+Archers lose 
+1 figure and 
+must retreat. 
+The attacker now
+also gains a Lore
+token.
+Medieval
+The Lore scores a
+hit, causing the 3rd
+casualty. No Lore
+token is collected
+by the attacker. 
+
+• Terrain has no effect on retreat moves, therefore a
+retreating unit may move through a wooded terrain
+or fordable stream, for example, without stopping.
+However, impassable terrain may not be moved
+onto or through during a retreat move.
+• A unit may not retreat onto, or through, a hex
+already containing another unit (regardless if friend
+or foe).
+• If a unit cannot retreat because its retreat path is
+blocked by another unit or impassable terrain, or it
+is forced to retreat off the limits of the battlefield,
+one figure must be removed from the unit for each
+retreat hex of movement that cannot be completed.
+Some situations allow a unit to ignore one or more
+Retreat flags and defend themselves valiantly, while
+other conditions make a unit Frightened and subject to
+panic. A unit’s Morale level determines how a unit
+reacts to Retreat flags rolled against it.
+A unit’s morale ranges from Frightened(when the unit
+is squeamish), to Normal (the morale of most units by
+default) to Bold (when the unit feels particularly valiant
+and determined to take a stand and fight back).
+NORMAL
+By default, all troops are considered to be at a Normal
+level of morale. They are neither particularly Frightened
+nor Bold; as a result, in battle, when forced to retreat,
+they follow the standard Retreat rules described above,
+retreating 1 hex toward their side for each flag rolled
+against them.
+BOLD 
+A unit that has the capability to ignore a flag rolled
+against it in battle is a Bold unit. It can more easily hold
+its ground than is typical in combat. 
+A Bold unit is never forced to ignore any flag rolled
+against it. If the player controlling that unit judges it
+preferable, he may opt to have the unit retreat through
+the corresponding hex(es) if he chooses.
+With another unit in the way, only one retreat path remains. 
+MORALE
+Ignoring Retreat Flags
+This unit must 
+lose 1 figure, 
+and retreat 2 hexes, 
+1 for each flag
+rolled against it. 
+Both retreat paths are now blocked, one by a friendly unit, the
+other by impassable terrain. The unit must lose a figure instead. 
+The unit has two possible retreat hexes.
+
+All additional flags rolled during the same battle
+dice roll, above and beyond those that can be ignored,
+automatically trigger a retreat, and must be taken. 
+Likewise, flags that may be ignored but are not,
+cannot be saved from one dice roll to the next; i.e., it
+is not possible to voluntarily take a flag now in the hope
+of ignoring two flags on the next dice roll.
+When forced to retreat, Bold units follow the standard
+Retreat rules described above, retreating 1 hex toward
+their side for each flag rolled against them above and
+beyond those that may be ignored as a result of their
+Bold status. 
+In future game supplements, a unit might be given the
+ability to ignore more than one flag in the same battle.
+In this case, the number of flags it may ignore in battle
+will be indicated in subscript, next to its Bold status. For
+instance, a unit that may ignore two flags in battle will
+be indicated as Bold2, and one that may ignore all
+flags rolled against it, will have its morale marked as
+Boldall. 
+FRIGHTENED
+A Frightened unit flees easily and further away than
+normal. 
+By default, Frightened units retreat two hexes for
+each flag rolled against them, instead of the standard one
+hex per flag of Normal units.
+In future game supplements, if a Frightened unit has
+to retreat a greater number of hexes per flag, the
+exact number of hexes it must retreat on each flag
+rolled against it will be indicated in subscript, next to
+its Frightened status. 
+The table on the following page describes the different
+possible Morale levels of a unit during play, and the
+impact of its morale on retreats and associated game
+effects. Battle backs are explained in Follow-on actions
+on p.28 of this chapter, and Check for Panic Losseson
+p.39 of Chapter 6 – Mercenaries. 
+The Swordsman 
+unit could ignore
+the flag because 
+of the Rampart’s
+protection, but
+chooses to retreat
+nonetheless
+because the enemy
+Cavalry hasn’t
+battled it yet.
+The Swordsmen can
+ignore one flag,
+thanks to the
+Rampart’s
+protection, 
+but must retreat
+because of the 
+2nd flag rolled in
+this battle.
+Because of their
+easily frightened
+nature, the Goblins
+must retreat 
+4 hexes 
+(2 for each flag
+rolled against
+them)
+
+MORALE MODIFIERS
+Certain conditions, such as the nature of the terrain
+a unit is standing on, the unit’s racial characteristics or
+combat prowess, temporary magical enchantments and
+other Lore-driven conditions, etc. may temporarily or
+permanently modify a unit’s morale.
+Examples of Morale modifiers include:
+Support – The most common way for a unit to
+boost its morale is to receive support from adjacent,
+friendly units. A unit adjacent to at least two friendly units
+(see Support, on p.30 of this chapter) may always
+ignore a flag. It is Bold for as long as it continues to
+receive support;
+The effects of certain Lore cards coming in play may
+also affect a unit’s morale; 
+Racial bonuses – Dwarven infantry may ignore a
+flag. They are Bold by default – see Dwarves p.37 of
+Chapter 6 – Mercenaries;
+Certain Terrain types or
+hexes modify the morale
+of the unit on them –
+Landmarks typically boost
+their occupier’s morale,
+allowing them to ignore a
+flag for as long as they
+occupy the Landmark. 
+In some instances, a unit in Melee (i.e. engaged in hand-
+to-hand combat or firing at point blank range) may be
+entitled to take some Follow-on actions. These actions
+are defined below, and considered to be part of the
+same “battle sequence” as the battle that initiates them.
+Unless explicitly specified otherwise, no follow-on
+actions apply to units in Ranged combat, only to units
+engaging their enemy in Melee.
+GAINING GROUND
+When a unit defending itself from a Melee attack
+vacates the hex on which it stood (either because it was
+eliminated or because it is forced out of the hex it was
+defending), its adjacent attacker may Gain Ground
+and move onto the just-vacated hex.
+PURSUIT ACTION
+If the successful melee attacker is a mounted unit, it
+may gain ground and then move 1 additional hex beyond
+the just-vacated one. Thisfollow-on movementis called
+a Pursuit.
+Even if the attacking unit simply moves into the just-
+vacated enemy hex, or if it moves into that hex and then
+returns to its original Melee position; it is still considered
+to be in pursuit.
+Effect
+Unit may ignore a flag, and battle
+back if opportunity arises.
+When forced to retreat, unit retreats as
+normal, 1 hex per flag rolled against it.
+When forced to retreat, unit retreats as
+normal, 1 hex per flag rolled against it.
+When forced to retreat, unit must 
+retreat 2 hexes for each flag rolled. 
+Unit must also check for Panic Losses.
+Bold
+Normal
+Frightened
+MORALE Effects
+Conducting Follow-on 
+ACTIONS
+Step 4e.
+In both instances, the attacker may now gain ground.
+
+Ranged attacks never give an attacker the
+opportunity to gain ground or initiate a pursuit –
+even if the attack was successful in pushing its target
+back or eliminating it.
+Gaining ground and pursuit actions are never
+mandatory; they remain the attacking player’s choice. 
+Pursuit actions are subject to normal terrain
+movement restrictions.
+A defending unit that is allowed, as a result of magic
+or a special action (ambush, etc.), to battle before an
+attacking unit, is not eligible to gain ground or make a
+pursuit action.
+BONUS MELEE ATTACK
+A mounted unit that makes a pursuit action is entitled
+to a Bonus Melee attack, against the same target or any
+other target it is adjacent to following its pursuit move. 
+This Bonus Melee attack is optional. The unit in
+pursuit is never forced to attack again. 
+Only units in pursuit are entitled to this bonus attack.
+If the bonus attack is made, it must be a Melee, not
+a Ranged attack. 
+The target of the Bonus Melee attack does not have
+to be the same as the original one, even if the original
+target is still alive and adjacent.
+Terrain combat restrictions apply to Bonus Melee
+attacks the same as they do to normal attacks, unless
+specified otherwise.
+If a pursuit is not made, the attacker foregoes any
+potential bonus Melee attack that may have resulted
+from it.
+An attacking unit in pursuit, that successfully
+completes a Bonus Melee attack and eliminates or
+pushes back its target, is eligible to gain ground but
+All three moves are valid Pursuit moves, in prelude 
+to a Bonus Attack.
+Despite pushing
+their target back,
+these Archers
+cannot Gain
+Ground. 
+The defending Cavalry’s
+ambush succeeds in
+pushing its attacker back,
+depriving him from his
+battle. However, the
+Cavalry cannot press its 
+advantage into a Pursuit 
+and Bonus Attack.
+
+cannot make another pursuit action. The attacking unit
+is not eligible for a second Bonus Melee attack.
+Movement ends after it gains ground.
+A unit’s initial Melee battle, pursuit action and Bonus
+Melee attack must all be completed before the next unit
+may battle.
+BATTLE BACK
+In Melee combat, any defending unit that may ignore
+a flag (i.e. any unit whose morale is Bold) at the time
+of its attack is entitled to Battle back. It may fight back
+as soon as the attacker's dice roll is completed and fully
+resolved, assuming it survived the initial assault and did
+not vacate the hex it was standing on.
+SUPPORT
+The most common way for a unit to gain the power
+to ignore a flag and temporarily boost its morale is to
+make sure it stays adjacent to at least two friendly units.
+The unit is said to receive Support from its adjacent
+units. Its morale is immediately boosted to Bold; the
+unit gains the ability to ignore one flag rolled against
+it; it may also battle back against its attacker in Melee
+if it survives the initial attack and holds its ground. This
+morale boost, and its benefits, remains as long as the
+unit holds its ground and continues to receive support.
+The Cavalry rolls 2 dice
+attacking up the hill.
+The Archers flee 2 hexes.
+The Cavalry goes in Pursuit…
+and scores a remarkable 
+Bonus Attack!
+Supported by friendly units, the defender Battles Back!
+Being caught 
+in the field with 
+no Support is
+dangerous!
+Unsupported
+Supported
+Battle Back
+
+Support is reciprocal, as illustrated below.
+If the defending unit is forced off its hex, for any
+reason, during the initial Melee attack, its opportunity
+to battle back during this battle is lost, even if the unit
+falls back into another supported position once its
+retreat is completed. If it manages to stay in the same
+hex however, it may battle back against its attacker, even
+if the only reason it stayed in its initial hex was because
+its retreat path was cut off. 
+The target of a Ranged attack is never eligible to
+Only units engaged in Melee may battle back.
+A defending unit can be Bold for any number of
+reasons: support from friendly adjacent troops; racial
+benefit; magic; etc… (See Morale Modifiers p.28 of
+Chapter 4 – Combat) It is only required that the unit
+be Bold at the time of its battle back.
+Battle backs are resolved in a similar manner to
+regular battles, except that no further battle back is
+possible during this battle back. The Active Player’sunit
+that conducted the initial attack is now in a defending
+posture, and cannot battle its opponent back. The
+battle must stop immediately after the non-active player’s
+Units battling back an attacker are never entitled to
+gain ground, or make pursuit actions or Bonus Melee
+attacks.
+Strong Mutual
+Support!
+Unit is cornered
+and forced to lose 
+2 figures, but may
+battle back!
+Melees are often brutal affairs.
+A long shot has its benefits.
+
+PHASE 5.
+END OF TURN - DRAW 
+A NEW COMMAND CARD
+After completing all movements and resolving all
+hits, retreats and potential follow-on actions for all
+ordered units, discard the Command card played and
+draw another card from the deck. Your turn is now over.
+If the draw deck runs out of cards, shuffle the discards
+to form a new draw deck.
+END GAME AND 
+VICTORY CONDITIONS
+Players alternate taking turns until one of the players
+reaches the number of Victory Banners indicated by the
+adventure’s victory conditions.
+In addition to capturing banners through the
+elimination of enemy units, players may accumulate
+Victory Banners in a number of ways: capturing certain
+terrain hexes, accomplishing adventure-specific objectives,
+etc.
+Such victory conditions will be explicitly spelled out
+in the adventure’s battle notes.
+A game always ends the very moment a player reaches
+his required number of Victory Banners, regardless of
+when this occurs during the game turn. This means that
+a game might even end on a successful battle back, with
+the victory of the active player’s opponent.
+END OF TURN & END OF GAME
+
+The chapters that follow 
+are what set the world of BattleLore
+apart from the Medieval Europe
+of history books. 
+While many things remain the
+same, as you delve into the Lore
+Adventures you cannot help but
+notice some important differences:
+Increasingly frequent sightings 
+of mercenary bands of mythical
+races on the battlefield; whispered
+tales of monstrous creatures; 
+and a growing influence of men 
+of lore and great power. 
+This arcane power often walks
+the razor's edge between science 
+and witchcraft... but it is the surest
+sign yet that something very 
+strange is afoot! 
+
+BattleLore armies often recruit Mercenary troops to
+fight at their side, luring them in with the promise of
+riches and glory, a shared racial affinity, and even some
+old-fashioned blackmail and forced labor.
+Two Mercenary Commands, an Iron Dwarf Infantry
+and a Goblinoid Horde, are included in the core game.
+Additional mercenary commands and new races will be
+introduced in future expansions.
+Dwarven troops are renowned for their tenacity in the
+face of adversity, as well as for their rather peculiar
+form of dress!
+SPECIAL POWER
+Iron Morale
+All Iron Dwarf foot units are Bold: They may ignore
+one flag rolled against them in battle. As a result, even
+when caught alone in an open field with no support, a
+dwarf unit is highly likely to battle back, making it a
+fearsome foe.
+MERCENARIES
+Crossbowman
+Swordsman
+Swordsman (Heavy) 
+Even when caught
+without support, 
+in the open,
+Dwarven Infantry
+remains a
+dangerous foe,
+ready to battle
+back.
+Iron
+DWARVES
+
+If a dwarf unit is supported, it becomes even bolder;
+thus a dwarf infantry in support may ignore 2 flags rolled
+against it in any battle dice roll; it is effectively Bold2
+for as long as it remains supported. 
+Goblinoid troops increasingly roam the land, especially
+in the Southern regions of the continent. Easily
+recognizable by their tattered clothing and rag-tag
+equipment, they’ve gained a (deserved?) reputation for
+squeamishness when caught alone, and viciousness
+when hunting in hordes.
+SPECIAL POWERS
+Goblin Rush
+All Goblinoid foot units, including Blue and Red
+Banner Goblinoid units, may rush up to two hexes
+to engage an enemy unit in Melee. They must then
+engage this enemy in battle, this same turn (unless the
+enemy dies before then!).
+If they do not wish to battle, these troops are subject
+to the usual movement and combat restrictions of Blue
+and Red Banner foot units. These units also remain
+subject to the terrain movement and battle restrictions
+of the ground they cover.
+Goblin Run
+As goblinoids are easily scared, all goblinoid units are
+considered Frightened the moment they are forced to
+retreat. As a result, they must retreat 2 hexes for each
+flag rolled against them that they turn out to be unable
+to ignore. They must also always check for Panic Losses
+during their retreat move.
+Hobgoblin Swordsman 
+Hobgoblin Cavalry 
+Dwarven Infantry can 
+hold the walls like no
+other, ignoring 3 flags
+here – one as Dwarves,
+one because of the
+Ramparts’ protection, 
+and the last one because
+of their brethren’s
+support.
+A Hobgoblin Swordsman
+unit rushes into battle.
+GOBLINOIDS
+Hobgoblin Archer
+Goblin Skirmisher
+Goblin Swordsman
+
+PANIC LOSS CHECKS
+A unit that is Frightened is subject to Panic Loss checks
+when forced to retreat.
+In a panic check, the attacking player rolls 1 battle die
+for each hex of retreat ground covered by his enemy’s
+retreating unit. 
+Only hexes actually retreated over, not hexes of blocked
+retreats, count toward the total number of battle dice
+rolled in a panic loss check.
+Any dice rolled that matches the retreating unit’s
+banner color is a hit and kills a figure of that unit.
+All other dice results (other helmet colors, Sword on
+Shield symbol, Lore symbol, flag) are ignored during the
+panic check.
+Goblin Swordsmen
+rush into battle
+and massacring them as
+they flee! 
+But the Dwarves 
+refuse to run
+… and battle back
+vigorously:
+...routing their
+attacker 
+Panic check
+dice roll
+Thanks to the support it receives 
+from its friendly neighbors, 
+this Goblin unit ignores one flag.
+But it is forced to take the next 2 flags,
+and retreat a total of 4 hexes!
+
+In BattleLore, monstrous Creatures are not just a
+figment of the imagination of frightened peasants.
+Fortunately, they are just as rare as they are dangerous. 
+On the battlefield, a Creature is represented by a single
+figure, and recognizable by its distinctive Banner shape.
+This single figure is considered a unit, for gameplay
+purposes, and blocks line of sight, but it is neither a foot
+unit nor a mounted unit. Therefore, any Tactic
+Command card that applies specifically to a foot or
+mounted unit will not apply to a Creature. For example,
+a Creature cannot participate in a Mounted Charge.
+Like troop units, Creatures may not move onto or
+through occupied hexes.
+Unless specified otherwise on the Creature’s
+Summary card, Creatures move and battle like similar
+banner-colored foot troops, and use the same number
+of battle dice in combat. Creatures are also subject to
+the same terrain movement and combat restrictions.
+CREATURES
+A Creature’s banner 
+Ordering a Creature 
+“OUT-OF-SECTION”
+Creatures are very special units. In addition to being
+more resistant to attack in combat (see Critical Hit
+below), they can be ordered at the will of their
+master. When playing a Section card, if you wish to
+issue an order to a Creature that is in a different
+section(s) from the one(s) designated by your card,
+you may do so by immediately paying 3 Lore tokens
+out of your goblet. To learn more about Lore tokens
+and how to collect or use them, please refer to p.54
+of Chapter 8 – Lore.
+The Creature thus ordered still counts as 1 unit
+toward the total count of units ordered for the turn.
+It is just ordered Out-of-section.
+Spending 3 Lore, the player sends 
+his Giant Spider on a patrol along 
+with his Left Wing unit.
+
+KILLING A CREATURE - 
+CRITICAL HITS
+Creatures are immune from the wear and tear of
+normal combat. Instead, they are eliminated only when
+they receive a Critical Hit. 
+Each time an attacking unit scores a hit against a
+creature by rolling one or more battle dice that match
+its banner color (or Sword on Shield symbol, if
+appropriate), set these dice aside. Now roll only those
+set aside dice again. 
+A Critical Hit is scored if, and only if, the banner color
+of the Creature is rolled on this second roll of dice. All
+other results on the second roll of dice (Flags, Lore, Sword
+on Shield symbols, other helmet colors) are ignored.
+If the Creature’s banner color does not come up on
+this second roll of dice, the Creature survives the attack.
+When a Creature receives a Critical Hit, it dies
+immediately. Remove it from the battlefield and place
+it on the Victory Track of its opponent. The victor also
+collects one Lore token from the Lore pool as an award
+for its brave kill.
+MORALE AND SUPPORT
+Creatures are not easily routed. They are Bold.
+However, unlike other Bold units, they must always
+ignore one flag rolled against them in battle. They
+may never opt to retreat instead, even if a retreat
+seems preferable. 
+Creatures provide support to adjacent friendly units;
+but they never receive support from adjacent friendly
+Creatures do not benefit from a customary Morale
+boost, when occupying a Landmark. Landmarks, and
+their effect on the Morale, are fully described in
+Chapter 11.
+The Archers 
+arrows bounce 
+off the spider…
+but the Cavalry’s heavy sword-blows finally kill it off!
+The Creature 
+does not flee,
+...but battles 
+back instead...
+even in the face 
+of a dangerous foe.
+Critical Hit
+Critical Hit
+
+RETREAT & TRAMPLING
+For each retreat flag a Creature must take, it must
+retreat two hexes, unless explicitly indicated otherwise
+on the Creature Summary card. 
+If a Creature cannot retreat the required number of
+hexes from flags rolled against it during battle (regardless
+of the reason why its retreat path was cut off - impassable
+terrain, interposing units in the way, edge of the board,
+etc.), the Creature risks receiving a Critical Hit. The
+attacker rolls 1 die for each hex of retreat movement the
+Creature did not take. Much like for a Panic Loss
+check. Each banner color match rolled is set aside and
+re-rolled. Any Banner Color rolled that matches the
+Creature’s Banner on the re-roll triggers a Critical Hit
+and kills the Creature.
+When two units (friend or foe) or a combination of
+unit and obstacle block a Creature's retreat, each unit
+situated in the Creature's theoretical retreat path and
+adjacent to the Creature is Trampled, and loses 1 figure
+for each hex the Creature cannot retreat!
+SPECIAL POWERS 
+& POWER-UPS
+Most Creatures have one or more special powers or
+unique attacks they can unleash in battle. 
+A Creature’s Special Powers are described on its
+Summary card, along with the requirements for invoking
+these powers - a set number of Lore symbols that must
+be rolled by the Creature during its battle(s) to trigger
+the power.
+As soon as a Creature meets the necessary Lore
+requirement for a given special power, it may unleash that
+power. This means that if a Creature is lucky enough
+to roll two Lore in a battle, it may immediately unleash
+the effect of her corresponding two Lore special power
+(if any) on its hapless opponent. The decision to use the
+The re-roll for a Critical Hit 
+has no effect, since flags and
+swords on shields do not count
+on Critical Hit re-rolls.
+The Giant Spider shrugs off
+one flag rolled, but must 
+take the second one, 
+retreating two hexes.
+The Green Banner
+dice is re-rolled
+for Critical Hits 
+but misses!
+The spider cannot complete
+its retreat. 
+Two dice are rolled… 
+The Giant Spider ignores one flag, but not the second one. 
+She tramples both units behind her, clearing a retreat path!
+
+Lore rolled to unleash this special power (or any other,
+lower-cost, special power whose Lore requirements are
+met) is made immediately upon seeing the results of the
+Battle dice roll in which Lore was rolled. Unleashing a
+Creature’s special power is always optional, and at the
+sole discretion of the Creature’s controlling player.
+POWER-UPS 
+Creatures can temporarily “store” Lore rolled to start
+building up toward a special power with higher Lore
+requirements. This operation is called a Power-up. When
+a Creature rolls a Lore symbol in battle, instead of
+using it immediately, its player can decide to set the
+resulting Lore token aside. To show this, the Lore token
+is positioned next to the Creature’s figure, indicating that
+the Creature is powering-up a future effect.
+Any such Lore token set aside can then be used on a
+later turn, alone or in combination with other Lore just
+rolled, to trigger one of the Creature’s special powers.
+This way a Creature can slowly prepare itself to unleash
+higher-level special powers later, rather than a lesser
+power now, or hold the effect of a lesser power back until
+a later (more effective) time. The risk, of course, is that
+the Creature may be killed before it has a chance to
+benefit from its power-up.
+A power-up simply sets the Lore tokens coming
+from a Creature's dice roll aside, next to the Creature’s
+figure for later use. It does not diminish the number
+of dice the Creature will roll in future battles (i.e. a
+Green Creature that rolled a Lore symbol and set a
+Lore token aside for later use will still roll 2 dice as
+normal in all future battles). Any Lore tokens with the
+Creature are returned to the Lore pool as soon as the
+special power for which they were kept is triggered or
+when the Creature is eliminated.
+Two rules must be respected:
+There can never be more Lore tokens set aside than
+the number of tokens required to trigger the Creature’s
+highest-level special power. For example, the Giant
+Spider described further below can never have more than
+2 Lore tokens set aside. If any additional Lore is rolled,
+one of the Creature’s special powers must be triggered,
+spending some of the Lore tokens set aside so far,
+before setting any new Lore rolled aside; or the new Lore
+rolled must be collected into the player’s goblet reserve
+instead of being set aside next to the Creature. 
+Only Lore tokens that are set aside next to a Creature
+following the Creature’s dice roll can be used to fuel
+the Creature’s power-ups or special powers. Lore tokens
+collected into one’s Lore goblet during any other action
+(see p.48 of Chapter 8 – Lore) in the normal course
+of the game can never be used to power-up or trigger
+a special power.
+Anatomy of a Creature –
+CREATURE SUMMARY CARD
+Each Creature has its own individual Summary card, describing its characteristics
+and special powers.
+A Creature’s Summary card bears the following information:
+• Creature Name and Illustration
+• Creature Banner Color, reflected in the Creature’s Summary card background
+color
+• Movement
+• Retreat - the number of hexes the Creature must retreat on each flag it takes
+• Creature Weapon, if any
+• Damage: The Creature’s standard damage, expressed in number of battle dice
+rolled. Usually, this is dictated by the Creature’s Banner color, as per Table
+- Battle Dice rolls for Standard Troops
+• Bonus Strike: Indicates whether Sword on Shield symbols rolled score a hit
+or not
+• Special powers & unique abilities: The Creature’s special powers, ranked by increasing level of power
+Creature
+
+CREATURE 
+COMPENDIUM
+A Giant Spider is included in the core game and
+detailed below. Other Creatures are available as
+promotional items or will become available in future
+expansions. For a complete, up-to-date Creature
+Compendium, visit www.battlelore.com/creatures
+GIANT SPIDER
+• Banner: green
+• Movement: 4 hexes 
+• Retreat: 2 hexes / flag
+• Weapon: Bite (natural)
+• Damage: 2 battle dice
+• Bonus Strike: Yes 
+• Special Powers: 
+Web
+The unit is caught in a web. To indicate this,
+place a Web token next to the spider’s target. Until freed,
+the unit may not battle back, move or battle. All flags
+rolled against it count as hits. A unit caught in a web
+does not support adjacent friendly units until it frees itself
+from its web.
+To free it, its owner must order the
+unit during his turn, and pay 1 Lore. The
+unit just freed may then move or battle
+this same turn.
+Poison 
+If the spider has two Lore tokens
+and scores a hit, it has poisoned its target! Place a
+Poison token next to the poisoned unit. For the rest of
+the game, the unit is poisoned. In addition to normal
+hits, it loses 1 figure each time a Lore symbol is rolled
+against it.
+Since the Giant Spider is a green
+unit, and normally only rolls two dice
+in battle, there are only two possible
+ways for it to successfully poison its
+enemy. It must either:
+• receive the benefit of a Lore card that allows it to
+roll more dice than normal (for instance, a Cleric’s
+Bless), and be lucky enough to roll two Lore and score
+a hit in the same dice roll;
+• or use some Lore tokens that were obtained during
+a previous roll, as part of a power-up.
+The spider rolls a Lore. 
+Its player chooses to use it 
+to cast a web on the poor
+Infantry, who thus cannot
+choose to retreat and loses 
+a figure. Caught in the web, 
+the Infantry cannot even 
+battle back!
+Casting a web, 
+the spider sets her
+Lore dice aside.
+On a later turn, 
+the spider
+simultaneously
+rolls a 2nd Lore 
+and scores a hit,
+unleashing her
+poison.
+Web token
+Poison token
+
+Remember there are other creatures available either
+as promotional items or as part of BattleLore expan-
+sions. For a complete Creature Compendium and
+for additional, detailed examples of how to use
+Creatures and their power-ups, please visit 
+www.battlelore.com/creatures.
+On a later turn,
+Infantry held in
+reserve moves in 
+for the kill!
+Hill Giant
+Earth Elemental
+The Blue helmet and 2 Lore rolled remove 3 figures in total,
+eliminating the unit!
+
+AN INTRODUCTION 
+TO LORE
+Lore is the subject of many a conversation in the world
+of BattleLore. To some - commoners, skeptics and
+fools - it is nothing more than myth or legend; yet to
+others - men of substance, strength and wisdom - it is
+a source of power and intrigue. Lore is a doorway to
+wondrous feats; the chance to change history; a beguiling
+and dangerously seductive quest; an art and a craft -
+balanced between science and the sacred. 
+In terms of game play, Lore is the gateway to legendary
+actions on (and off) the battlefield. Lore tokens act as
+the currency that fuels the actions of the players’
+legendary characters. Be they a man of deep faith, a
+wizard of legend, a bold fighter or a sneaky rogue, all
+rely on their Lore Powers to help win the day when
+armies clash on the battlefield.
+LORE ADVENTURES -
+New Concepts 
+and Modified Game Set-up
+Introducing Lore in your games requires bringing
+the following new game elements into play:
+Lore Masters: For your very first game with Lore in
+play, each player receives a budding Level 1 Wizard. This
+wizard will act as an adviser, casting spells to help turn
+the tide of battle in your favor. 
+Adventure # 5 - Wizards & Lore is a good adventure
+to dabble with Lore for the first time.
+Place a War Council sheet with the Lore Master
+side displaying a single Wizard face up, in front of each
+player, and follow its set-up instructions, as detailed
+below. Place a single Lore Master level token
+representing your budding Wizard (he is Level 1, so a
+single token will suffice) on the spot marked to that effect
+on the War Council sheet.
+Lore Deck: Take the Lore card deck, separate out the
+Wizard cards, and shuffle them, as instructed on the Lore
+Master’s side of your War Council sheet. 
+LORE
+Lore Deck
+Lore Pool
+War Council sheet 
+Lore Master
+level token 
+Lore tokens
+reserve
+
+Put all remaining unused Lore cards away, in the
+game box. They will be used later, in a slightly more
+advanced version of the game where Lore Mastersteam
+up to form a complete War Council (see Chapter 9 –
+The War Council). 
+Deal 4 cards from the now-shuffled common Wizard
+deck to each player. Each player must choose 1 card,
+which becomes his Wizard’s starting spell. Place the spell
+on a newly assembled set of two interlocking
+cardholders, to the right of the player’s Command
+cards. From now on, this is where all spells the Wizard
+knows will be stored. Like the Command cards, Lore
+cards are kept secret until played.
+Discard the Lore cards not selected back into the
+common Wizard’s deck, and shuffle the deck once
+more before placing it alongside the battlefield, within
+easy reach of all. 
+Lore Tokens: Lore tokens form the currency that
+powers a player’s legendary actions. In the case of a
+Wizard this means casting spells of course, by paying
+their cost in Lore. Lore tokens are initially placed in a
+common stack known as the Lore pool, alongside the
+game board within easy access of all players. 
+During the course of the game, the Lore a player earns
+is stored in a Lore goblet. The number of Lore tokens
+each goblet holds is public information throughout
+the game, unless specified otherwise.
+Place a goblet in front of each player, and place one
+Lore token in it, representing the Wizard’s starting
+spell casting power.
+LORE CARDS
+Lore is a Lore Master’s most precious asset. It quite
+literally fuels the Lore Master’s powerful actions and
+special powers. A Lore Master’s actions are usually
+initiated by the play of a Lore card in his possession.
+Lore token
+Anatomy of a Lore Card
+Every Lore Master’s spell, action, trick or item is the
+object of its own individual Lore card. Each Lore card
+bears the following information:
+• Title: The name of the spell/action/item described
+on the card, along with an illustration depicting it.
+• Lore Master Class Symbol: A symbol depicting
+the default character class(es) for which the action
+is designed, an item crafted, etc. 
+• Power Cost: The cost, in Lore tokens, a character
+of the designated Lore Master Class must pay
+from his goblet, to accomplish the action, use
+the item, etc. If the cost is indicated with a “?”, it
+means the card’s cost is variable, and described in
+the card’s Effect section.
+• Phase of Play: An icon and text in a yellow
+typeface, that explains the instant or moment in
+a game turn, when the Lore card must be played
+and its effect announced. See Phases of Play below,
+for a description of each possible Phase of Play.
+• Target(s):An icon and text detailing the
+target(s), subject(s), beneficiary(ies),
+or area of effect, of the action.
+• Reaction: A light colored background,
+on the lower half of the card,
+indicating whether the card can be
+played in reaction to an opponent’s
+action.
+• Effect: A description of the action’s effect and the
+special rules governing it, if any.
+Cleric
+Wizard
+Rogue
+Warrior
+Orders
+During Ranged
+During Melee
+Dice Roll
+symbol
+Reaction
+
+ABBREVIATIONS AND 
+COUNTING CONVENTIONS
+The following naming and counting conventions are
+used throughout the game to denote variable targets,
+ranges and damages:
+d designates a number of battle dice to be rolled;
+hence 1d indicates 1 die, 2d indicates 2 dice, etc.
+/ level signifies “per level” of the Lore Master
+initiating an action; hence 2d / level indicates that 2
+dice should be rolled for each level of the Lore Master
+casting this spell or initiating this action, etc.
+_ hex denotes a range in number of terrain hexes;
+so a 2 hex / level firing range indicates a 4 hexes range
+for a level 2 Wizard, etc.
+_ unit designates a number of units to be ordered,
+moved, etc.
+In addition, the following conventions are used to
+express quantities linked to a variable amount in the
+game. The variable is usually a function of the level
+of the Lore Master initiating the action, but not
+necessarily.
+1d/level: 1d/level signifies 1 die per level of the
+acting Lore Master. 
+1d/level +, 1d/level –: Denotes 1 dice per level,
+plus or minus a set number of dice. So 2d/level +3
+equals 5 (2*1 +3) dice at level 1, 7 at level 2 and 9 at
+level 3, while 1d/level –1 would indicate 0 d at level
+1, 1 at level 2, and 2 at level 3.
+PHASES OF PLAY
+A Lore card must usually be played during the phase
+of play specified on its card, and only during that phase.
+The phase of play is identified by its matching symbol,
+set atop the card’s frame of text, and some common
+keywords specifying the conditions under which, or
+how, it is played during that phase;
+COMMAND PHASE 
+Play alongside your Command card:
+Play this Lore card at the same time you
+are playing your Command card, at the
+start of your turn as the active player.
+Play in lieu of your Command card:
+The is replaced by a . Play this
+Lore card instead of a Command card,
+at the start of your turn as the active
+player. For the rest of your game turn,
+follow the instructions on the Lore card
+you just played. You do not draw a new
+Command card at the end of your turn. 
+Play in reaction to your opponent’s
+Command card: Play this card in
+reaction to your opponent playing a
+Command card at the start of his
+game turn.
+Reading a Lore card
+Title
+Lore Master
+Class Symbol
+Phase of Play
+Effect
+Power Cost
+Reaction logo
+A variable level 
+Lore card
+
+ORDERS PHASE
+This phase of play is not used in the base deck, but
+included for future use.
+Play during Orders: Play this Lore card at the start
+of your Orders phase, during your turn as the active
+player. These Lore cards usually order additional units,
+above and beyond those ordered by the Command
+card just played. The unit(s) activated by the Lore card
+must be ordered before any of the units ordered by the
+Command card. Unless specified otherwise, the action
+described on the Lore card must be carried out in its
+entirety (including movements and battles), before
+proceeding to the play of the regular Command card. 
+Play in reaction to Orders: Play this Lore card in
+reaction to your opponent’s Orders phase. 
+MOVEMENT PHASE 
+Play during Movement: Play this Lore
+card at start of your movement phase,
+during your turn as the active player. If
+the card applies to multiple units about
+to move, you must play it before any of
+those units’ movement. Otherwise, it
+will only apply to units that haven’t moved yet.
+Play in reaction to your opponent’s
+movement: Play this Lore card during
+your opponent’s movement phase. Like
+with Lore cards played during your own
+movement phase, this reaction only
+applies to opponents’ units that have
+not moved yet, or are in the process of moving. If the
+reaction applies to a single unit, it must be played
+during your opponent’s physical move of that unit,
+before he moves another unit. The practice of fair play
+applies here, in that active players should not purposefully
+rush their move to try and protect themselves from a
+potential reaction of their opponent.
+COMBAT PHASE
+Play during battle: Play this Lore card during
+one of your unit’s Battle phase. The battle can
+be a Melee attack on an adjacent enemy unit,
+or a Ranged attack against a more distant enemy. 
+The effect of the Lore card applies for the unit’s entire
+Battle, including any follow-on actions (gaining ground
+and pursuit, bonus attack, etc.). Unless specified
+otherwise (see Play Before Your Opponent's Dice
+Roll, below), if the unit is a defending unit (for instance
+if you play this card out of turn, during your opponent’s
+game turn), the effect of this Lore card applies for all
+of the battles this unit is engaged in this turn. 
+Play during Melee: Same
+play as Play during Battle
+above, except that the Lore
+card’s effect only applies to unit(s)
+engaged in Melee combat.
+Play 
+during 
+Ranged
+combat: Same play as
+Play during Battle above,
+except that the Lore card’s effect
+only applies to unit(s) engaged in
+Ranged attacks.
+Play before your opponent’s dice roll:
+Play this Lore card immediately after an
+attack is declared from one specific unit onto another,
+but before the dice roll that must
+ensue to resolve the attack, hence
+before the results of the attack are
+known. The effects of the Lore card,
+if any, only apply to that single dice
+roll, not to any other future dice roll,
+This fearless unit
+ignores the flags 
+of all its opponents
+this turn.
+
+even those linked to the same battle (bonus attack,
+re-rolls, etc.). 
+Play after your opponent’s dice roll: Play
+this Lore card immediately
+after the dice roll following
+a declared attack, but before any effect
+of this dice roll has been applied. The
+effects of the Lore card, if any, affect
+the dice roll as indicated on the card,
+and that dice roll only.
+IDENTIFYING THE TARGET
+The target(s) or beneficiary(ies) of a Lore card are
+defined on the Lore card itself, next to the target’s
+symbol. Common targets include:
+You: Designates the player who is playing the card,
+or any of his possessions (Command cards, Lore
+reserve, etc.);
+Your opponent: The opposing player;
+Your units: The units you control, including
+those not ordered this turn;
+Your opponent units:Your opponent’s units;
+x Unit(s): any x unit under your, or your
+Opponent’s, control. 
+Ordered unit(s): One (or more) units ordered
+during the current game turn;
+Defending unit(s): One (or more) units against
+which an attack or battle has been declared (but not
+necessarily played out yet) during this game turn.
+Attacking unit(s): One (or more) units having
+declared, or engaged in, battle.
+Units in Melee: units battling an adjacent
+enemy unit;
+Units in Ranged combat:units battling an
+enemy unit more than 1 hex away.
+PLAYING A LORE CARD 
+To play a Lore card, place it in front of you during
+the appropriate phase of play (possibly in reaction to one
+of your opponent’s actions), and read it aloud. Spend
+the required number of Lore tokens out of your goblet’s
+reserve, temporarily placing those tokens on the Lore
+card; at the end of the game turn, drop these tokens into
+the common Lore pool, and discard the Lore card
+onto the discard pile next to the Lore deck.
+Players must observe a number of simple but critically
+important rules when bringing a Lore card into play. 
+Lore cost rules: To play a Lore card, its Lore Master
+must be able to immediately pay its corresponding
+Power cost, out of the Lore tokens already in his
+possession prior to the card’s effect coming into play.
+Phase of play rules: A Lore card must always be
+played during its indicated phase of play. Unless specified
+otherwise, the card can be played at any time during its
+indicated phase of play. 
+Some Lore cards may be played out of your turn,
+during your opponent’s game turn, or in reaction to one
+of his action or Lore card play. These Lore cards are
+known as Reaction Lore cards, and recognizable by their
+light colored background under the card’s effect text. 
+However:
+• You may only play a maximum of one lore card
+during your turn.
+• You may only play a maximum of one lore card
+during your opponent's game turn.
+• As a result, during the course of any single game
+turn, there can only be a maximum of two lore cards
+coming into play, one from each player.
+• Cards that are not explicitly marked as Reaction
+cards can never be played out-of-turn, i.e. during a
+game turn in which your opponent is the active player.
+5151
++
+An attacker is surprised by 
+his enemy’s First Strike…
+Thankfully, that effect is foiled 
+by the player’s Rogue!
+
+TARGETING RULES
+Unless specified otherwise the target, or beneficiary,
+of a Lore card is designated and chosen by the player
+of the Lore card, and all the actions that ensue
+(movement of units, etc.) are controlled by the affected
+units’ controlling player.
+RULES GOVERNING TEXT 
+INTERPRETATION 
+OF LORE CARDS’ EFFECTS
+Unless explicitly specified otherwise on a card effect’s
+text, the following rules apply to and govern all cards’
+effects:
+All basic rules, including terrain movement and
+combat restrictions, remain in effect and still apply. 
+When a Lore symbol is rolled, any card’s effect based
+on the roll of Lore symbols always apply, unless explicitly
+trumped by another card’s effect. 
+Whenever some Lore rolled can be used up by a
+card’s effect, it cannot also be collected into one’s Lore
+goblet. For instance, when the Cry Havoc! card from the
+example above is in play, all Lore rolled by the player is
+used up to score potential hits on the enemy. It cannot
+be diverted to augment one's Lore’s reserve instead.
+Anytime an odd value is halved, the result must be
+rounded-up before being used.
+In case of conflict between the basic rules 
+in this book and the text on a lore card, 
+the lore card takes precedence.
+In case of contradiction between the effects
+of two lore cards played in succession, 
+the second card trumps the effect of the
+first one.
+CONFLICTING RULES &
+Rules Priorities and Precedence
+The Wizard’s Mass Might is negated by his nemesis’ Blinding Light!
+The Wizard’s player pays 4 Lore. His opponent sees his 
+precious River Rage dispelled, but recuperates 4 Lore.
+This unit chooses 
+to sneak up on its
+enemy by walking
+around the Wooded
+terrain…
+This Mass Shield
+deflects the
+attacker’s physical
+blows (banner
+color and flag), 
+but not the
+magically enhanced
+ones (2 Lore).
+in order to fade quickly 
+into the distance once 
+its attack is made.
+If the attack had been made
+through the woods, the unit
+would have been forced to stay
+there once its attack was made. 
+
+If a resource is depleted, the effect of the Lore card
+applies up to the point of the resource running out, and
+the remainder of the card’s effect is lost. 
+Covering all potential special situations that may
+arise from the play of Lore cards is beyond the scope
+of this book. However, a database of Frequently Asked
+Questions keyed to each Lore card is available on
+www.BattleLore.com 
+RULES GOVERNING 
+OUT-OF-CHARACTER PLAY
+Level-dependent Lore cards played out of character (see
+Chapter 9 – The War Council) can only be played as
+if they were cast at level 1, regardless of the actual levels
+of any Lore Master on the player’s War Council. 
+MODIFIED END OF TURN
+IN LORE ADVENTURES
+When playing a Lore Adventure, Step 5. Draw a
+new Command card is modified as follows: 
+After all units’ movements and battles have been
+resolved and after drawing a new Command card, the
+active player’s Lore is replenished. 
+Lore tokens drawn from the Lore pool are placed into
+one's Lore reserve goblet.
+The player must announce which of these three
+options he is choosing beforehand; he is not allowed
+to draw the first Lore card to look at it before deciding
+whether to draw a second one or taking a Lore token
+instead.
+A player can never store more Lore cards in his
+cardholder than his highest LoreMaster level + 1 card.
+So a level 1 Wizard can never hold more than 2 Lore
+cards at the same time (i.e. he knows 2 spells at most). 
+If a player ends up with more cards than allowed, as
+a result of his decision to replenish Lore cards at the end
+of his turn, he must discard one of his cards, either the
+one just picked, or one already on his Lore cardholder.
+A player who plays a Lore card as an interrupt, during
+his opponent’s turn, does not get the option to replenish
+his hand or Lore reserve until the end of his own
+subsequent turn.
+This player’s War Council features a level 2 Cleric but no Warrior. 
+As a result, his Bless spell is not only cheaper, but also 
+more effective than his Strength!
+Unhappy with his current selection of Lore cards, 
+the player draws two new cards.
+One is the Lore card he was hoping for! The player keeps it, 
+discarding the other immediately. 
+Being already maxed out, the player must discard a card of lesser
+interest to put this one in its place.
+LORE replenish
+At the player’s choice, either:
+Draw 2 Lore cards from the Lore deck, 
+keep one, and discard the other, face up, 
+onto the Lore discard pile
+OR
+Draw 1 Lore card and take 1 Lore token 
+from the common Lore pool
+OR
+Take 2 Lore tokens from the common 
+Lore pool
+
+MANAGING AND 
+REPLENISHING LORE 
+RESERVES
+Just as important as managing his hand of Command
+cards and Lore cards, a player must carefully watch his
+Lore reserve, and make sure to keep adequate reserves
+if he is to launch his own actions at the most opportune
+time.
+In addition to the Lore tokens possessed at the game's
+start based on his Lore Master’s level, a player may Gain
+Lore (or regain Lore) in the following ways, depending
+on the adventure in play:
+• At the end of his game turn, if he opts to pick up
+some Lore tokens as described above;
+• When rolling a Lore symbol in battle, if this Lore
+is not already dedicated to some other usage (Lore
+card’s effect, Creature power-up or special power,
+etc…);
+• When killing one of his opponent's Creatures
+(gain 1 token);
+• As a result of playing certain Lore cards (i.e.
+Summon Lore, etc.);
+• When capturing certain terrain hexes or Landmarks
+that are sources of Lore on the battlefield;
+• Per the adventure’s battle notes.
+Unlike Lore cards, there is no limit to the number of
+Lore tokens a player may have at a given time. However,
+should the Lore pool run out, no further Lore tokens
+may be gained until the pool is replenished, usually by
+the play of some Lore cards by one or more of the
+players. When there are no Lore tokens in the pool,
+actions that normally grant Lore grant you nothing
+instead. 
+
+WAR COUNCIL 
+& LORE MASTERS
+Once familiar with the Lore system detailed in
+Chapter 8 – Lore, the players can bring a whole
+fellowship of Lore Masters of varying origins and talents
+to their side. Together these heroes will form the player’s
+War Council, whose range of skills and individual raw
+power will often decisively sway the battle.
+To call a War Council, select a Lore Adventure and
+then place a War Council sheet, with the side depicting
+all the Lore Masters face up, next to each player. Each
+player will use a set number of Lore Master Level
+tokens (whose exact mix and composition is left to the
+player’s choice or set in the Adventure’s battle notes,
+depending on the Lore Adventure being played), to
+indicate which Lore Masters participate in his War
+Council for the upcoming battle, and what their
+respective levels are.
+THE COMMANDER
+The Commander is the War Council’s single most
+important character. He sits at the head of the table,
+from where he studies and directs the conflict. 
+A born leader, the Commander is the true master of
+the battlefield. His level dictates the number of
+Command cards the player holds in his cardholder
+throughout the game, and the player’s role is to play
+those cards to the best of his ability. 
+Without a Commander (see "No Commander" in
+COMMAND cards table on following page), it will
+be difficult to conduct the battle, so we recommend that
+a Commander of at least Level 1 sits in on all War
+Councils. 
+THE WAR COUNCIL
+Level 3 Wizard
+Level 2 Wizard
+Level 1 Wizard
+Wizard token on top,
+any 0 to 2 other Level
+tokens, generic side
+face-up, under.
+Generic token
+Rogue token
+Wizard token
+Level tokens
+Warrior token
+Commander token
+Cleric token
+
+A player who chooses to play without a Commander
+will only have a maximum 3 Command cards at his
+disposal at all times.
+The level of a Commander on the War Council, hence
+the number of Command cards available for play at any
+time, is either specified at a preset level in the Adventure’s
+battle notes, or determined by the choice of the player,
+using his Lore Master Level tokens. The Commander’s
+level is indicated by placing a Commander level token,
+face up, on the spot reserved to that effect at the head
+of the War Council’s table. If the Commander is of
+higher level than 1, then generic Level tokens are placed
+below it (1 per additional level). And if there is no
+commander sitting at the table, then no token is placed
+and the Commander’s chair remains empty.
+ADDITIONAL 
+LORE MASTERS
+In addition to the Wizard Lore Master
+already introduced in Chapter 8 – Lore,
+three other Lore Master character classes can
+sit at a player’s War Council.
+They are:
+THE ROGUE
+Cunning and nimble - equally capable of masterful
+deceit as he is of a harmless prank, the Rogue is a jack-
+of-all-trades, but the master of none. His talent lies in
+his remarkable resourcefulness and ability to disrupt the
+enemy’s best laid plans…
+THE CLERIC
+A shepherd to his troops, who he’s known to soothe,
+protect and heal even during the worst of combat, this
+man of faith can also wield a heavenly wrath upon his
+enemies, making him a formidable foe…
+THE WARRIOR
+A master tactician who never seems to sleeps. Just the
+rumor that he has entered the battlefield puts fear into
+the spines of lesser soldiers. While he may lack for a
+sense of humor and quick wit, his sheer grit and
+determination more than compensate, making him a
+devastating enemy…
+The Wizard and all other Lore Masters use the
+following level progression table for determining initial
+Lore cards and Lore tokens, as well as maximum Lore
+cards in hand.
+If several Lore Masters sit at the War Council at the
+game start, the one with the highest level determines the
+War Council’s starting hand of Lore cards, initial
+reserve of Lore tokens and maximum number of Lore
+cards in hand at any given time. 
+A Level 2 Commander, and his 
+5 Command cards.
+No Commander and a limited set of plans:
+Only 3 Command cards! 
+# Cards
+Commander Level
+No
+Commander 
+Level 1 
+Level 2 
+Level 3 
+3 Command cards
+4 Command cards
+5 Command cards
+6 Command cards
+COMMAND cards
+LORE MASTERS 
+progression levels
+Max Lore 
+cards in hand
+Level
+Level 1 
+Level 2 
+Level 3 
+# Lore tokens 
+at start 
+# of Lore 
+cards at start
+
+The same rules apply to the limit of Lore cards in hand
+as when playing a single Lore Master (see p.53 of
+Chapter 8 – Lore). If more Lore cards are drawn than
+can be kept, some will have to be discarded. 
+WAR COUNCIL SET-UP
+An adventure’s battle notes will usually spell out a
+camp’s War Council composition, including the Lore
+Masters present, their respective level and any potential
+modification to that camp’s initial Lore reserve.
+Place the number of Level tokens on the War Council
+sheet for the Commander and each Lore Master present,
+using the corresponding Lore Master tokens as the top
+tokens and the generic side for any Level tokens below.
+When a class of Lore Master is not present, his place
+is left unfilled, with no tokens. 
+Take the number of Lore tokens appropriate (either
+as indicated by the Adventure’s battle notes, or as
+dictated by the level of your highest-level Lore Master
+on the War Council) from the Lore pool and place them
+in your reserve goblet.
+Before starting the adventure, the Lore deck must first
+be prepared as follows:
+• Sort the cards from the Lore deck into four distinct
+piles, according to each card's Lore Master class.
+Shuffle these four individual decks thoroughly and:
+• For each Lore Master class present in both sides’
+War Councils, take fourteen cards at random from
+each deck, and set them aside. Place any left-over card
+of that Lore Master’s class back in the game box,
+unseen by the players. When using the Lore Master
+decks from the core game only, this means putting
+away a single random card, since there are fifteen
+cards in each Lore Master’s deck;
+• For each Lore Master class represented in only one
+of the two camp’s War Councils, take eight cards at
+random and set them aside, putting the remaining
+cards of that Lore Master class away as above;
+• Finally for each Lore Master class absent from both
+War Councils, take five cards at random and set
+them aside, placing the remaining ones away.
+Now shuffle the Lore cards set aside in steps 1-3
+above into a single deck, and deal 4 Lore cards to each
+side. The players then choose which Lore cards they
+keep, according to the number of Lore cards at start kept
+by each camp’s highest-level Lore Master (See Table on
+p.56 – Lore Masters progression levels). The cards not
+kept are discarded and reshuffled in the Lore deck.
+Those kept are placed on the player’s Lore cardholders,
+face unseen from the enemy. You can now proceed
+with the game.
+PLAYING A LORE CARD
+OUT-OF-CHARACTER
+Given the Lore deck set-up process, in some instances,
+players will draw Lore cards for which the corresponding
+Lore Master is missing from their own War Council.
+When such is the case, instead of dismissing the card
+as useless, the player can opt to cast the corresponding
+Lore card Out-of-character.
+Since the required knowledge or skill is missing
+from that camp’s War Council, it is harder to pull the
+corresponding feat off: You must pay an additional 3
+Lore tokens to play the card, beyond the card’s usual
+Power cost. 
+Lore cards played out-of-character are always played
+at Level 1, regardless of the actual level of other Lore
+Masters on the War Council. 
+As a result, cards with a variable effect can only be
+played at their lowest level of play, as if they were cast
+by a Level 1 Lore Master of the appropriate class.
+This religious-minded Council, with its lone Level 3 Cleric, must
+pay 12 Lore tokens to cast this Creeping Doom. Furthermore, 
+only 2 dice will be rolled on the target and its surrounding hexes. 
+
+CUSTOMIZING 
+A WAR COUNCIL
+Experienced players wishing to test their skills can play
+with customized War Councils, rather than the preset
+ones dictated by an adventure’s battle notes (though we
+still recommend first playing the adventure as prescribed,
+when preset War Councils are offered). 
+To play with customized War Councils, the players
+first agree to the total level of Lore Masters in play on
+each side. We recommend that players limit themselves
+to a total of six levels by default, and in all circumstances,
+refrain from using more than ten. If one player is more
+experienced than the other, he might offer his opponent
+a handicap, starting with 1 or fewer levels.
+The players then each secretly assign the levels they
+have at their disposal to the various Lore Masters they
+wish to have present on their War Council. To do so,
+simply place the corresponding stack of Level tokens on
+the corresponding Lore Masters. If a class of Lore
+Master is not present in the War Council, his spot will
+show no level token and remain empty.
+The players now proceed to the Lore cards and token
+distribution as with regular War Councils, using their
+highest level Lore Master to determine their number of
+Lore tokens and Lore cards in hand at game start. 
+If Lore Master Landmark rules are in effect, players
+with a 3rd Level Lore Master may gain a Landmark of
+their own at the game’s start. See the section on Lore
+Masters’ Landmarks in Chapter 11 – Landmarks for
+more details.
+When creating your custom War Council, make sure
+to carefully weigh the pros and cons of going deep –
+taking a high level Lore Master and its corresponding
+benefits – versus going broad, having many a Lore
+Master at your council table.
+
+As previously mentioned in Part II, 
+the World of BattleLore is a Uchronia -
+a hypothetical what-if history of
+Medieval Europe during the High
+Middle Ages, just before the dawn 
+of the Renaissance. 
+Much of what the world has to offer
+will feel familiar, yet differences 
+(some obvious, such as the
+Mercenaries, Creatures and Lore
+Masters already introduced, others
+less so) will inevitably crop up as you
+explore this old continent further. 
+The adventures you choose to tackle 
+will progressively 
+reveal all, much like they
+undoubtedly did
+to troops on year-
+long war
+campaigns 
+back in that 
+day and age!
+
+Medieval battles, while brutal and bloody affairs,
+were often framed by basic and familiar terrain. An
+impassable waterway, a densely wooded copse, or an
+elevated mound bordering the battlefield, were often the
+sole distinctive geographical features on the horizon.
+Though rumors abound of a multitude of terrain
+variations and nuances in remote lands, there are only
+four basic Terrain Types in the core BattleLore game:
+• Countryside 
+• Wooded Terrain
+• Elevated Ground
+• Waterways
+Each terrain type is characterized by its impact, or
+restrictions, on movement, battle and line of sight.
+Retreat moves (p.25 of Chapter 4 – Combat) are not
+subject to stated terrain movement restrictions.
+When present, terrain battle limitations impose a
+cap on the default numberof battle dice a unit attacking
+in or from this terrain type will roll by default. Usually,
+the rougher the terrain, the lower the limit.
+As a result, Red Banner troops, weighed down by their
+superior armament, or armored mounts, usually suffer
+the worst in difficult terrain, while Green Banner
+“irregulars” fare comparatively better.
+This limit on the number of dice rolled, when present,
+only applies to the base number of dice rolled by that
+particular troops’ unit type. Bonuses gained from Lore
+or Command cards or any other source are not subject
+to this limit and still add up, so that the actual number
+of dice rolled by a unit in difficult terrain may still exceed
+the maximum for that terrain type. 
+In the rare instance where a terrain hex might combine
+with another terrain type or Landmark on the same hex,
+the lowest of these terrain/landmarks maximum is the
+one that applies. For an example of this, please see
+Ramparts, on p.69 of Chapter 11 – Landmarks.
+The Terrain Summary cards provide a short overview
+of the key effects of each terrain type. When you set up
+an adventure, position the corresponding Terrain
+Summary cards alongside the battlefield. The effect
+section of each Summary card describes the various
+features of the terrain, including its impact on line of
+sight, movement and battles.
+BASIC TERRAIN TYPES
+Heavy Cavalry, tangled up 
+in Woods, roll a meager 2d
+instead of their regular 4.
+Helped by a Bless, 
+they now roll 3d. 
+
+Countryside Terrain is the default terrain type of all
+the hexes on the board. This open ground terrain type
+has no movement or battle restrictions.
+A unit that enters a Wooded Terrain hex must stop
+and may move no further on that turn. Follow-on moves
+are subject to the same terrain movement restrictions
+and may thus be impossible or only partially achievable
+during this turn.
+• A unit that moves onto a Wooded Terrain hex may
+still battle that turn.
+• A unit on a Wooded Terrain hex battles with a
+• A unit attacking an enemy unit on a Wooded
+Terrain hex battles with a maximum of 2 dice.
+A Wooded Terrain hex blocks line of sight.
+No movement restrictions.
+This Regular Cavalry
+successfully forces the 
+enemy Infantry to flee. 
+It gains ground on it, 
+but cannot pursue it further
+into Wooded terrain. 
+Instead it now
+turns around 
+to battle another
+enemy!
+COUNTRYSIDE TERRAIN
+WOODED TERRAIN
+ELEVATED TERRAIN
+
+• A unit on an Elevated Terrain hex battles with a
+maximum of 3 dice.
+• A unit not on an Elevated Terrain hex attacking an
+enemy unit on an Elevated Terrain, battles with a
+An Elevated Terrain hex blocks line of sight, except
+from contiguous Elevated Terrain hexes of the same
+height.
+Waterways are impassable terrain except at fords and
+bridges.
+A Waterway hex does not block line of sight.
+Unit must stop when entering a ford. Gaining ground
+and pursuits remain possible.
+• A unit may enter a Ford hex and still battle.
+• A unit on a Ford hex battles with a maximum of
+2 dice.
+• A unit attacking an enemy unit on a Ford hex
+battles with no restrictions.
+A Ford hex does not block line of sight.
+Though technically man-made structures, Bridges
+are introduced here because of their close relationship
+to Waterways.
+No movement restrictions.
+Heavy Cavalry only roll 3 dice
+down the hill…
+and from an adjacent hill. 
+Worse, it only 
+battles with 2 dice 
+up the hill!
+FORDS & 
+FORDABLE STREAMS
+BRIDGES
+WATERWAYS
+
+• A unit on a Bridge hex is Bold and may ignore one
+flag.
+No combat restrictions.
+A Bridge hex does not block line of sight.
+Bold and
+determined 
+to hold this 
+crucial passage,
+the Bridge’s
+defenders battle
+back!
+
+As we saw in Chapter 10 – Basic Terrain Types,
+terrain does not vary much in BattleLore. However, the
+ingenious nature of men (or, as some might argue, the
+ancestral talent of dwarves and the forced labor of
+goblin slaves) is shown in the strategic placement and
+inspired construction of the many Landmarks that dot
+the landscape.
+Be they artificial constructions or natural wonders,
+Landmarks are the game’s most distinctive architectural
+structures and geographical features. As such, their
+control is often heartily contested, and their possession
+highly treasured.
+LANDMARKS Common Rules 
+and Generic Effects
+Unless explicitly specified otherwise on a Landmark’s
+Summary card, the following terrain rules apply to all
+landmarks:
+A Landmark boosts the morale of any unit that
+occupies it to Bold. As long as a unit occupies a
+Landmark, it may ignore 1 flag, and possibly battle back.
+• A unit entering a Landmark must stop and may
+subject to the same movement restrictions, and thus
+may be impossible, or only partially achievable, during
+this turn. 
+• A unit entering a Landmark hex may not battle that
+same turn.
+• A unit on a Landmark hex battles with a maximum
+of 2 dice.
+• A unit attacking an enemy unit on a Landmark hex
+battles with a maximum of 2 dice.
+A Landmark hex blocks line of sight.
+LORE MASTERS’
+Being characters of considerable means and power,
+high-level Lore Masters control vast domains and
+countless properties. As a result, they often hold a
+commanding advantage - a family-owned or allies’
+property located somewhere on the battlefield, at the
+onset of battle.
+An Adventure’s battle notes will state when Lore
+Master Landmark rules are in effect. 
+When Lore Master Landmark rules are in effect, a
+player with a 3rd Level Lore Master (Cleric, Wizard,
+Warrior or Rogue) on his War Council receives the
+corresponding Lore Master’s Landmark at start of play. 
+If both players have a Level 3 Lore Master of the same
+class on their respective War Councils, their benefits
+
+cancel out however, and neither Lore Master receives a
+Landmark of that class.
+Upon receiving a Lore Master Landmark, and before
+the game’s first turn, each player must decide where to
+place his newly received property. When both players
+have a Landmark to place, the player who moves first
+in the adventure must place his Landmark first. Each
+Landmark must be placed on an Empty hex, on the 3rd
+or 4th row of hexes from the controlling player’s side.
+Note that each Lore Master Landmark belongs to the
+player who laid it. The Landmark’s special effects only
+benefit that player’s units, never the enemy. All other
+effects (morale, movement and combat restrictions,
+line of sight) still apply to all units occupying the Lore
+Master Landmark, regardless of their status (friend or
+foe of the Landmark’s original owner).
+A Magic Pentacle boosts the morale of any unit that
+occupies it to Bold. As long as a unit occupies the Magic
+Pentacle, it may ignore 1 flag, and possibly battle back.
+Movement and Combat Restrictions
+A Magic Pentacle imposes no movement or battle 
+restrictions.
+A Magic Pentacle does not block line of sight.
+At the end of each of your turns during which one of
+your Troop's units occupies the Magic Pentacle, you
+collect 1 additional Lore from the Lore pool.
+A Rogue’s Den boosts the morale of any unit that
+occupies it to Bold. As long as a unit occupies a Rogue’s
+Den, it may ignore 1 flag, and possibly battle back.
+A unit entering a Rogue’s Den must stop and may
+subject to the same movement restrictions, and thus may
+be impossible, or only partially achievable, during this
+turn.
+• A unit entering a Rogue’s Den hex may not battle
+• A unit on a Rogue’s Den hex battles with a
+• A unit attacking an enemy unit on a Rogue’s Den
+hex battles with a maximum of 2 dice.
+A Rogue’s Den blocks line of sight.
+During your turn, you may order any unit already on
+your Rogue's Den to open a Secret Passage to the
+vacant Wooded or Elevated terrain hex of your choice.
+Replace the corresponding exit hex with a Secret Passage
+hex of matching terrain type. Once set, this exit hex may
+not be relocated, nor another one established.
+Any friendly unit that starts its turn in your Rogue’s
+Den (including the one who establishers the Secret
+Passage) may move to the exit hex, at the cost of 1 Lore.
+The move counts as your unit’s full movement for the
+turn, and can only be made from the Rogue’s Den to
+MAGIC PENTACLE 
+(wizard)
+ROGUE’S DEN
+(Rogue)
+
+the exit hex, not in the other direction. A unit using the
+Secret Passage may still battle upon its arrival on the
+exit hex.
+These hexes replace a terrain hex of same type, and
+are used to mark the permanent exit of a Rogue’s Den
+Secret Passage. 
+These hexes boosts the morale of any unit that
+occupies it to Bold. As long a unit occupies a Rogue’s
+Den secret passage exit, it may ignore 1 flag, and
+possibly battle back.
+Movement and Combat Restrictions, 
+These hexes have the same Movement, Combat, and
+Line of Sight restrictions as the corresponding
+underlying terrain (i.e. Wooded terrain or Elevated
+terrain, depending on the exit hex chosen). 
+A Training Camp boosts the morale of any unit that
+occupies it to Bold. As long as a unit occupies a
+Training Camp, it may ignore 1 flag, and possibly
+A unit entering a Training Camp must stop and may
+subject to the same movement restrictions, and thus may
+be impossible, or only partially achievable, during this
+turn.
+• A unit entering a Training Camp hex may not battle
+• A unit on a Training Camp hex battles with a
+• A unit attacking an enemy unit on a Training
+Camp hex battles with a maximum of 2 dice.
+A Training Camp blocks line of sight.
+During your turn, you may order any Troop's unit
+already in your camp to undergo training. Change the
+banner of the unit’s Banner Bearer to the next level up
+(i.e. green becomes blue, and blue becomes red). The
+ordered unit thus upgraded cannot move or battle this
+turn. The Training Camp hex is then removed from the
+board. 
+TRAINING CAMP
+(Warrior)
+SECRET PASSAGE
+(Rogue)
+
+A Healing Pool boosts the morale of any unit that
+occupies it to Bold. As long as a unit occupies the
+Healing Pool, it may ignore 1 flag, and possibly battle
+back.
+A unit that moves onto the Healing Pool hex must
+stop and may move no further during that turn. It may
+still battle, but cannot use the pool’s healing power in
+that case.
+A Healing Pool has no combat restrictions.
+A Healing Pool does not block Line of Sight.
+If you order a Weakened unit to move onto the
+Healing Pool, it is immediately restored to its maximum
+number of figures. The healed unit cannot move further
+or battle during this turn. The Healing Pool is then
+removed from the board. 
+COMMANDER’S
+The presence of Commander’s Landmarks on the
+battlefield is either dictated by the Adventure’s battle map
+(Ramparts), or by the Commander’s presence in a
+War Council (Stronghold).
+When you have a Level 3 Commander in your War
+Council, you must place a Stronghold in a Countryside
+hex occupied by one of your units, at the start of the
+adventure. If both sides have a Level 3 Commander, they
+both deploy a Stronghold.
+A Stronghold boosts the morale of any friendly unit
+that occupies it to Bold. It also boosts the morale of
+any friendly unit on a hex adjacent to the Stronghold!
+As long as a unit occupies or stands next to the
+Stronghold, it may ignore 1 flag, and possibly battle
+back. An enemy unit occupying your stronghold or
+standing next to it does not gain the stronghold’s
+boost to Morale.
+A unit entering a Stronghold must stop and may
+move no further on that turn. 
+• A unit entering a Stronghold hex may not battle
+• A unit on a Stronghold hex battles with a
+• A unit attacking an enemy unit on a Stronghold
+hex battles with a maximum of 2 dice.
+A Stronghold blocks line of sight.
+If an enemy unit captures your stronghold, your
+opponent selects one of your Command cards at
+random to discard. Until you reclaim the Stronghold
+hex, you must play with one less Command card in
+HEALING POOL
+(Cleric)
+STRONGHOLD x2
+(Commander)
+
+hand. When you reclaim the hex, immediately draw
+a supplemental Command card to replenish your
+hand to its original size.
+A Rampart boosts the morale of any unit that occupies
+it to Bold. As long as a unit occupies a Rampart, it may
+ignore 1 flag, and possibly battle back.
+A unit already on a Rampart is not subject to
+movement restrictions when moving onto an adjacent
+Rampart. Any other unit entering a Rampart must stop
+and may move no further on that turn. Follow-on moves
+are subject to the same movement restrictions, and
+thus may be impossible, or only partially achievable,
+during this turn. 
+• A unit entering a Rampart may not battle that same
+turn, unless it is moving in from an adjacent Rampart.
+• A unit on a Rampart battles with a maximum of
+2 dice.
+• A unit attacking an enemy unit on a Rampart
+battles with a maximum of 2 dice.
+A Rampart blocks line of sight.
+When a Rampart is placed on terrain that already
+contains some battle restrictions, such as an Elevated
+Ground, the most restrictive movement and battle
+restrictions of the two are the ones that apply.
+Creatures will often have a lair of their own,
+somewhere on the battlefield, where they can hope for
+relative safety far from human eyes, while readying their
+next devastating rampage. 
+These Creatures’ properties – and the corresponding
+illustrated hexes - will be introduced and described in
+Summary cards, similar to those provided for the Lore
+Masters’ Landmarks, that come with each individual
+Creature.
+Before the game's first turn, the player must decide
+where to place his Creatures' Lair. When both players
+have a Creatures' Lair to place, the player who moves
+first in the scenario must place his Creatures' Lair first.
+Each Creatures' Lair must be placed on an empty hex,
+on the 3rd or 4th row of hexes from the controlling
+player's side.
+CREATURES’ LAIRS
+RAMPARTS x4
+The Cavalry attacks
+with 2 dice only,
+despite being on
+an adjacent hill,
+because of the
+Ramparts’
+protection.
+
+This lexicon provides a short description of the key
+concepts in BattleLore. When the Player's Guide first
+introduces you to these concepts, you'll often find that
+the key words are marked in green bold text to make
+it easier for you to reference. 
+1d, 2d: Denotes a number of Battle dice to be rolled;
+1d denotes 1 Battle dice to be rolled, etc. 
+1d/Level: 1d/Level signifies 1 die per level (of the
+acting Lore Master). Lore cards played out of character
+are considered as if played by a Level 1 Lore Master. 
+1d/Level + x, 1d/Level – x: Denotes 1 die per
+level, plus or minus x dice. 
+Active player: The player whose turn it is.
+Adventure:
+• A description of all the game play information
+necessary to start a BattleLore game session. An
+adventure includes:
+• A Battle Map, depicting the lay of the land, and the
+forces deployed on the battlefield at game start;
+• Battle Notes, detailing the number of Victory Banners
+required for each camp, the number of Command cards
+and/or the recommended composition of each camp’s
+War Council, and any Special rules or custom Victory
+conditions in effect.
+Agincourt:A decisive English victory over the French,
+in the Age of BattleLore; the introductory adventure
+that introduces BattleLore players to the rules of
+Medieval battle, in the Adventures booklet.
+Army: All the units of one camp, on the battlefield.
+Attacking unit: The unit initiating
+a Battle dice roll against an enemy
+target unit.
+Banner: A key game element, used
+to distinguish various units on the
+Battlefield and display a unit’s key
+characteristics. 
+Illustrated Battlelore
+LEXICON
+APPENDICES 
+
+Banner Bearer: Any figure with a banner attached
+to its base. 
+Banner color: The dominant hue or background
+color of a banner’s flag. Indicates the unit’s type (Green,
+Blue or Red).
+Banner pattern:The illustration on the background
+of the colored sticker on a unit’s banner. Determines the
+side to which a unit belongs.
+Banner type: there are two types of banners, each
+shape defining a camp: Pennant banners and Standard
+banners. See “Pennant” and “Standard”.
+Banner undertone:The dominant hue or background
+color of a banner. Indicates the unit’s type (Green, Blue
+or Red). 
+Base: The plastic stand to a which a figure (and
+sometimes a banner) are attached. Foot units have a
+square base, Mounted units a rectangular one, and
+Creatures a hexagonal one.
+Battle:Battle dice rolls against an opponent during the
+course of combat. Most often a single dice roll, but
+sometimes multiple dice rolls if the battle includes
+Follow-on actions. A Battle can either be a Melee, or a
+Ranged attack.
+Battlefield: The illustrated portion of the game
+board, or board map, on which a BattleLore adventure
+takes place; A single board map consists of 9 x 13 hexes,
+split in three distinct sections.
+Battles, at + d (at –d): Indicates a battle in which
+the attacker rolls more (fewer) Battle dice than normal.
+For instance, a Blue banner battling at -1d would roll 2
+Battle dice in combat, instead of its usual 3.
+Battle back: In Melee, the attack of a
+defending unit against its attacker, during his
+opponent’s game turn and immediately
+following a unit's Melee attack. Only units that are able
+to ignore a flag, i.e. Bold units, may battle back.
+Battle dice: The dice that come with the
+game. They are used during combat to
+determine a battle’s outcome and other actions.
+Battle map: An overview representation of the
+battlefield, including any relevant terrain hex or
+landmark, and showing the position of the forces
+deployed at the start of a BattleLore adventure. 
+Battle phase: see combat phase.
+BattleLore Primer: An introductory document,
+describing the BattleLore game system; available
+from your favorite retailer, or for download at
+www.battlelore.com/intro
+Blazon tokens:The shield-shaped tokens displaying
+the warring camps’ flag patterns. These are usually
+positioned on the board map at the start of an adventure
+to designate victory objectives on the battlefield.
+Blue banners: Blue banners, and by reference, the
+a single unit. Also see "Regulars".
+Bold:A unit that may ignore a retreat flag, giving it the
+opportunity to battle back when attacked in Melee. If
+the unit may ignore more than one flag in a single
+battle, the number of flags it may ignore is specified in
+subscript, next to its Bold status.
+Bonus Melee attack: A “bonus” Melee attack
+available to Mounted units making a Pursuit and other
+units in special situations.
+Bonus strike:The increased probability of
+hitting a unit, using the Sword on Shield
+symbol of a Battle die to score a hit in combat.
+Camp:The player - or players, when playing in teams
+- on the same side of the game table during an
+adventure. A player from the opposite camp is often
+referred to as your Opponent, and his units as the
+enemy, or foe.
+Cardholders:The elongated plastic stands that come
+with the game. Once assembled, they form a stand
+upon which the player can set his cards for study, during
+game play, hidden from his opponent(s), but still visible
+to his game partner(s).
+Cleric: A Lore Master who uses the power of
+the Lore to further his beliefs.
+Combat phase:The phase, in a game turn,
+during which Battles are declared and
+resolved.
+Command cards: The cards played to order, move
+and battle with units during a player’s game turn.
+
+Command phase: The phase of the game during
+which a Command card is played.
+Controlling player: The player
+issuing orders to the designated
+Creature: A single figure, repre-
+senting one of the game’s unique
+and noteworthy monsters. Creatures
+are recognizable by a distinctive ban-
+ner, and hexagonal base. Creatures
+have their own special rules of play.
+Critical Hit: A hit requiring two successful
+Battle dice rolls: The first one is a regular hit
+(Creature’s banner color, or possibly Bonus
+strike or Lore depending on the weapons and
+Lore cards used), but the second one must
+be a hit rolling the creature’s banner color.
+Only those dice that scored a hit on the first roll are re-
+rolled a second time to try and score the Critical hit.
+Dwarves: Renowned for their – some might say
+stubborn – tenacity and refusal to give even an inch on
+the battlefield, Dwarves are prized mercenaries one
+often hopes to have at one’s side.
+Damage:The default number of Battle dice rolled by
+a Creature or weapon equipped unit, in combat.
+Abbreviated as 1d, 2d, etc… depending on the number
+of dice rolled.
+Defending unit: The unit on the receiving end of a
+battle, i.e. the one against which Battle dice are rolled.
+Equal to Command:A number equal to the number
+of Command cards held by the player, including the
+Command card currently in play, if any.
+Elimination/Kill: The removal a unit’s last figure,
+always its Banner Bearer.
+Flag, Retreat: The Retreat flag symbol
+displayed on the side of a Battle die. Commonly
+referred to simply as a flag.
+Figure:a single plastic miniature model, representing
+a single or small group of combatants, in the game.
+Flag, taking a: The action of moving a unit backward
+as a result of a Retreat flag having been rolled against
+the unit during a battle.
+Flag, ignoring one:The capacity of a unit to ignore
+one flag rolled against it, during a given battle dice
+roll.
+Foot unit:A unit composed of Foot figures, recognizable
+by their square base and figure model. By default, a Foot
+unit at full strength is composed of four identical figures.
+Follow-on actions:The actions a unit in Melee may
+make if it destroys or causes an enemy to retreat.
+Follow-on actions include follow-on movement, as well
+as Bonus attacks (and Battle Backs, for its opponents).
+These actions are all considered part of the same
+“Battle”.
+Follow-on moves:The additional movement a unit
+may make if it destroys or pushes its enemy back in
+Melee. Follow-on moves include: Gaining ground and
+Making a Pursuit.
+Frightened:A unit that must retreat more than 1 hex
+for each flag rolled against it in battle. If the unit is
+forced to retreat more than a single additional hex for
+each flag rolled against it, the number of additional
+hexes it must retreat is specified in subscript, next to its
+Frightened status.
+Gaining ground: The action, for an attacking unit
+after Melee, when moving onto an adjacent hex just
+vacated by its enemy.
+Gaining Lore:Receiving Lore from the common Lore
+pool into one’s Lore reserve, as the result of an action
+(rolling Lore symbols on the Battle dice, killing a
+creature, etc.) or decision (drawing Lore tokens at the
+end of a game turn).
+Game turn: The basic sequence of actions followed
+by a player’s camp during its turn. 
+Goblinoids: Rumored to have their origins in little-
+traveled desert areas, these diminutive creatures and
+their larger brethren, the Hobgoblins, are vicious when
+in pack, but behave cowardly once cornered. 
+
+Green banners:Green banners, and by reference, the
+a single unit. Also see "Irregulars".
+Heavies:The shock troops of an army, equipped with
+the finest weapons, heaviest armor and best mounts.
+See "Red banners".
+Helmet, colored:On Battle dice, the symbol
+used to designate a hit against a specific
+banner color. i.e. Against a green banner unit,
+a green helmet rolled will indicate a hit; etc.
+Throughout the rules the words, “rolling the
+unit’s banner color” and similar expressions,
+refer to rolling a helmet of the same color as
+the unit’s banner color.
+Hex, adjacent: A hex sharing a common side with
+another hex.
+Hexes, surrounding: All the hexes (usually 6)
+adjacent to a given hex.
+Hex, vacating a: The action of physically moving a
+unit from the hex it was defending toward another
+one, thus emptying the hex for the attacker to move
+onto and gain ground.
+Hit: A Battle die roll that matches the conditions
+necessary to “hit” a unit, triggering the removal of one
+of its remaining figures. By default, a colored helmet
+matching the banner color of a target unit is a hit.
+Irregulars: Soldiers with poor training and equipment.
+These light troops often harass the enemy rather than
+confront it directly. Also see “Green Banners”.
+Landmark: a hex or group of hexes depicting any
+man-made, unnatural or magical building structure or
+significant, distinctive, terrain feature. Landmarks
+usually bear their own individual game effects.
+Line of Sight:An imaginary line running between an
+attacker’s hex and its target, and simulating whether the
+target is visible from the attacker’s perspective or not.
+Lore:The mysterious source of power that permeates
+the world of BattleLore; the source of power behind all
+of the BattleLore’s wondrous effects.
+Lore card:The cards describing the Lore spells, actions
+and powers available to the Lore Masters.
+Lore card icons:
+Lore Master: A BattleLore advisor, sitting at the
+player’s War Council, and providing him with aid through
+the use of its legendary Lore powers.
+Lore pool: The common " bank" of Lore tokens at the
+game board’s side from which Lore tokens are drawn,
+and discarded back to, throughout the game. 
+Lore power/Lore action: A Lore Master’s unique
+legendary action, spell, trick, etc. Lore powers cost
+Lore tokens, which are paid out of the player’s reserve. 
+Lore reserve: A player’s personal reserve of Lore
+tokens. It fluctuates throughout the game and is stored
+in the player’s Lore goblet. 
+Lore symbol: The side of a Battle die
+displaying this symbol. It is used to trigger
+certain Lore effects and special powers.
+Ranged
+Melee
+Dice Roll
+symbol
+Orders
+Reaction
+
+Lore token: A token collected from a
+common Lore pool, and used to power various
+Lore effects and powers. 
+Melee, Melee attack: Any attack or action
+initiated on an enemy unit situated in an
+adjacent hex. If the attacker is equipped with
+a ranged weapon, it is still considered engaged in Melee
+when it uses its weapon at Point Blank.
+Melee weapon:A weapon used exclusively in Melee.
+Mercenary Commands:Friendly troop units, usually
+of a different race, that join an army’s camp for the
+duration of an adventure.
+Miss:A battle die roll that has no effect on the target
+unit. 
+Mounted unit:A unit composed of Mounted figures,
+recognizable by their rectangular base, figure model
+and its mount. By default, a Mounted unit at full
+strength is composed of three identical figures.
+Morale:A reflection of the unit’s fearlessness in combat.
+It determines how the unit reacts to Retreat flags rolled
+against it. By default, a unit’s morale is Normal, and for
+each flag rolled against it in battle the unit is forced to
+retreat 1 hex toward its side of the battlefield. 
+Morale, Bold: See "Bold".
+Morale, Frightened: See "Frightened".
+Morale modifier: A condition modifying a unit’s
+current morale value. The modifier might be permanent
+(e.g. racial bonus of Dwarven infantry) or conditional
+and temporary (e.g. Morale boost due to Support from
+friendly units, special Landmark protection bonus, etc.)
+Movement: The action of moving a unit’s group of
+figures on the battlefield.
+Movement phase: The phase of a game
+turn during which units are physically moved
+on the battlefield.
+Orders phase: The phase of a game turn
+during which units are activated and issued
+orders, usually by designating these units to the
+opponent.
+Out-of-character, playing a Lore card:The action
+of playing a Lore card without the pre-requisite Lore
+Master at the War Council’s table. Doing so costs an
+additional 3 Lore tokens above and beyond the action’s
+normal cost. Above and beyond the action's normal
+cost, and the Lore card may only be played at level 1.
+Out-of-section, activating/ordering a Creature:
+The action of ordering a Creature unit that is outside
+the normal scope of a Section card in play. Doing this
+action costs 3 Lore.
+Out-of-turn, playing: An action made or taken
+during the opponent’s game turn. Also see “Reaction
+card”.
+Panic Loss, check for: The roll of as many Battle dice
+as a unit retreats hexes. Occurs on Frightened units.
+Goblins are perennial targets for panic checks.
+Pennant:A banner whose flag is attached
+to the flagpole’s side, as if floating in the
+wind. One of the two banner shapes in
+BattleLore. Also see “Standard”.
+Pennant player:Player (or players team)
+commanding the Pennant bearing units on
+the battlefield.
+Phase of play:The phase of the game turn, or moment
+in time, at which a Lore card must be played in order for
+its action to become effective. See p.49-50 of Chapter 8
+– Lorefor a complete list of the different phases of play.
+Point Blank, firing at:A ranged weapon firing on an
+enemy unit situated in an adjacent hex. Point Blank fire
+is a Melee action.
+Power cost:The cost, in Lore tokens, that must be paid
+to launch a Lore action or power.
+Power-up: The action of temporarily “storing” the
+results of Lore symbols rolled by a Creature in battle, to
+start building up toward the Lore requirements of the
+Creature’s special powers. To keep track of this power-up,
+a Lore token is placed next to the Creature for each Lore
+rolled that the player wishes to “save”. These tokens
+are discarded back into the Lore pool when the Creature
+finally unleashes its special power (or when it dies).
+Pursuit Action: The movement of a Mounted unit
+(and other units in special situations), to gain ground
+and then move up to one hex beyond its enemy’s just-
+vacated hex, following a successful Melee battle.
+Race:The distinct culture, breed or lineage from which
+a unit descends from.
+
+Range: The distance between an attacker and its
+target, excluding the hex on which the attacker stands,
+but including the hex of its target. 
+Ranged attack/ Ranged combat: Any
+attack of a unit equipped with a ranged
+weapon on an enemy unit that is more than 1
+hex away (as opposed to firing at Point Blank, which is
+a Melee action).
+Ranged weapon:Any weapon with a reach greater
+than 1 hex. Usually a weapon firing missiles (arrows,
+bolts, etc…)
+Reaction card:A Lore card that can be played out of
+turn, i.e. during the opponent’s game turn, or in reaction
+to an opponent’s action. Recognizable on a Lore card by
+its distinctive light-colored text background.
+Red banners: Red banners, and by reference, the
+a single unit. Also see "Heavies".
+Regulars: The troops of a nation's standing army.
+Professionally trained and well disciplined, they form
+the backbone of most armies on the battlefield. Also see
+“Blue banners”.
+Retreat:The action resulting from the roll of a battle
+die displaying the Retreat flag. Usually a movement of
+the targeted unit toward its own side of the battlefield,
+or the removal of one of the unit’s figures if the retreat
+movement is blocked.
+Rogue:A Lore Master who uses the power of
+the Lore for disruption and mischief.
+Section: One of the three portions of the
+map, as delimited by the battle map’s side edges and
+red dotted lines. The three sections are:
+Section card: A Command card
+activating units solely based on which
+section of the battlefield they reside in.
+Section cards are recognizable by the
+schematic map of the battlefield they
+display.
+Side: One of the two opposing warring factions. Also
+see "Camp". A movement toward a player’s side is a
+movement in the direction of that player’s edge of the
+battlefield.
+Special power: Special powers characterize a
+Creature’s unique capabilities. A special power has a cost,
+in Lore symbols, which must be obtained during a dice
+roll in battle before the Creature can unleash the
+corresponding power. Creatures have a unique ability
+to temporarily set any Lore symbol rolled aside, in a
+process known as a Power-up.
+Standard: A banner whose flag is
+hanging down from the top. One of the
+two banner shapes in BattleLore. Also
+see “Pennant”.
+Standard player: Player (or players
+team) commanding the Standard bearing
+units on the battlefield.
+Support: Any unit adjacent to at least two friendly
+units is said to receive Morale Support. A unit with
+support may ignore one flag rolled against it in Battle,
+and is entitled to battle back if the opportunity arises.
+Sword on Shield symbol: The side of a
+Battle die displaying this symbol. It is used to
+score potential Bonus strikes.
+Tactic card: A Command card
+activating units that match the card’s
+tactical requirements, as described in
+its text. 
+Target:When used on a Lore card, this
+keyword does not necessarily mean “target” in the
+traditional sense of the word. Instead, it simply
+designates the object(s), unit(s), or player, etc. on
+which or to whom the effect of the Lore card applies. 
+If the Lore card is a card with a favorable
+effect, the “target” of the card is usually more
+of a “beneficiary”. If on the other hand the
+card has a harmful effect, its target is often a “target”
+in the usual sense of the word.
+Terrain effect: The set of rules associated with a
+given terrain type; summed up on the corresponding
+Terrain summary card.
+Right Wing
+
+Terrain hex, Countryside:Any terrain hex featuring
+the countryside. By default, all the hexes printed on the
+board map are considered countryside.
+Terrain hex, empty:Any vacant, countryside terrain
+hex.
+Terrain hex, vacant: Any terrain hex that is not
+occupied by a unit.
+Terrain Summary card:A summary card describing
+a terrain’s effects on a unit's movement and battle.
+Terrain tile: A hexagonal shaped tile that is placed on
+the battlefield.
+Terrain type: The type of landscape or vegetation
+covering a terrain hex tile.
+Tokens, Lore Master Level: Large round tokens,
+used to mark the presence and level of each Lore
+Master in a player’s War Council. Lore Master tokens are
+used Lore Master’s side face up to indicate the presence
+of a Lore Master in the War Council. The generic side of
+the token is used to mark the additional levels of a
+Lore Master.
+Tokens, Status: The tokens used to keep track of
+Lore cards effects or other conditions that impact a unit
+over several game turns.
+Trampled:A unit who loses a figure as a result
+of blocking the retreat path of a Creature.
+Troops:Any figure type requiring multiple models of itself
+to form a full-strength unit on the battlefield. Foot units
+(4 figures at full strength) and Mounted units (3 figures
+at full strength) form troops; Units composed of a single
+stand-alone figure, such as Creatures, do not.
+Troop type: The level of Military training of a troop.
+There are three distinct troop types in BattleLore,
+distinguished by the color undertone of their banners’ flag:
+• Green banners or Irregulars
+• Blue banners or Regulars
+• Red banners or Heavies
+Uchronia: A What-if or Alternate history. In our case,
+the history of Medieval Europe as it might have been (or
+once was…)
+Unit:A group of figures that occupy (share) the same hex.
+Unit, attacking: The unit initiating an attack.
+Unit, defending: The unit being attacked. 
+Unit, enemy: A unit controlled by your opponent; a
+unit that belongs to the other camp.
+Unit, weakened: A unit missing one or more figures
+from its initial count.
+Vacating a Hex: The action of physically moving a unit
+from the hex it was defending onto another one, thus
+emptying the hex for the attacker to move onto and
+gain ground.
+Victory Banners: The Victory points of the game. Any
+Banner Bearer (or Blazon token) captured is placed
+on the player’s Victory Track and counts toward his
+total Victory banners requirements for this particular
+adventure.
+Victory Track: The portion of the board map, on the
+edge of the battlefield, onto which Victory banners
+and tokens are placed, to keep track of the players’
+progress during an adventure.
+Generic token
+Rogue token
+Wizard token
+Warrior token
+Commander token
+Cleric token
+
+War Council: A group of Lore Master personalities, as
+depicted on the player’s War Council sheet; Veterans of
+many a fight, they help the player’s camp with their
+unique Lore prowess.
+War Council sheet:The sheet on which players place
+their Lore Masters tokens at the start of the game, to
+form their War Council.
+Warrior:A Lore Master who uses the power
+of the Lore to dominate the battlefield.
+Wax seals:The wax seals on the players’ edges of the
+board map. This is where Victory banners and tokens
+are placed once gained.
+Weapon card: A reference card depicting one
+weapon, along with a summary of its rules of play.
+Weapon reach:The maximum range at which a unit
+equipped with the weapon can attack another unit. 
+Weapon symbol: The icon depicting the weapon
+used by the banner bearer’s unit. The weapon symbol
+is displayed on the inner portion of the banner bearer’s
+flag.
+Weapon type: The category of attack a weapon is
+capable of. A Melee weapon can only be used against
+adjacent enemy units, while a Ranged weapon can be
+used against any target within reach of the weapon. 
+Wizard: A Lore Master using Lore to power
+his magical creations and spells.
+Shortsword
+Longsword
+
+The following miniatures are included in the initial version of BattleLore. The numbers next to each banner symbol
+specify the number of banner bearers of each type (Standard or Pennant) included in the core game. Additional figures
+(without banners) are provided to complement these units and play the adventures provided in the Adventures' booklet.
+Finally, some spare banners of varying type are included for future adventures. 
+UNITS COMPENDIUM
+Cavalry
+Cavalry
+Regular Cavalry
+Regular Cavalry
+Infantry
+Infantry
+Regular Infantry
+Regular Infantry
+Irregular Infantry
+Irregular Infantry
+Archers
+Archers
+Hobgoblin Archers
+Goblin Skirmisher
+Goblin Swordsman
+Red Banner Hobgoblin
+Swordsman
+Hobgoblin Cavalry
+Green Banner Iron
+Dwarf Crossbowman
+Blue Banner Iron
+Dwarf Swordsman
+Red Banner Iron
+Dwarf Swordsman
+(Heavy)
+Giant Spider

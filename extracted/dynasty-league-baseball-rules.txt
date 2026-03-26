@@ -1,0 +1,1453 @@
+NEW! 2020 Edition
+The Official Rulebook
+And How—To—Play Guide
+“Cieslinski developed the board game Pursue the Pennant,
+which was an amazingly lifelike representation of baseball.
+DYNASTY League Baseball, which is available as both a board
+game and a computer game, is even better.”
+Michael Bauman — Milwaukee Journal Sentinel
+EDITED BY Michael Cieslinski
+
+2020 Edition v3
+Edited by
+Michael Cieslinski
+DYNASTY League Baseball
+A Design Depot Book / October 2020
+All rights reserved
+Copyright © 2020 by Design Depot Inc.
+This book may not be reproduced in whole or in part by any means without express written
+consent from Design Depot Inc.
+First Edition: March, 1997
+Printed in the United States of America
+ISBN 0-9670323-2-6
+
+Laying Out The Ground Rules/Ratings ..3-5
+Situation Key.............................................6-7
+Playing Charts...........................................7-8
+Player Rest & Use.....................................9-10
+DYNASTY Official League Rules.................10
+Draft........................................................10-11
+Player Contracts....................................11-12
+Setting Up A Schedule...............................13
+Post Season.................................................13
+Acknowledgements/Game Design.........16
+D
+Poor, mediocre at best.
+F
+Bad, rock bottom.
+Error ratings: Range from 5 to 100 in increments of 5,
+with100 the highest possible fielding percentage.
+Throwing ratings for outfielders and catchers: Range
+from -4 (performance ranking with best of all-time) to
++4 (rock bottom).
+Double Play Pivot ratings for 2b and ss: Are either -5
+(tops in the league for the season), +5 (rock bottom)
+or blank (middle-of-the-pack).
+Position ratings R/E/T/D/P/H: These ratings are
+Range/Error/Throwing Arm/Double Play Pivot/Passed
+Ball/Catcher Handling of Pitchers. There are three
+INSIDE
+Spring Training: Learning The Fundamentals
+DYNASTY League Baseball includes two types of
+player cards: hitters and pitchers. Take a look at the
+1982 Paul Molitor and Dennis Martinez player cards.
+If #168 was rolled, (dice are read in the order red,
+white and blue), check Molitor's card (#0-499 are
+always found on the hitter's card) and look down the
+"vs. Right" column (he's vs. the right-handed Marichal).
+You'll find the result is a ground single into right field.
+Baserunner advancement is always indicated inside
+parenthesis. On Molitor's "1B", a runner on 2nd would
+come home. A runner on 1st would have the option
+to go from 1st to 3rd by going to the BASERUNNER
+ADVANCEMENT chart or he could hold at 2nd.
+The Lineup: Laying Out The Ground Rules
+DYNASTY League Baseball is played according to
+official baseball rules. In your Manager's office
+before the game, you will be using a DYNASTY
+League Baseball scoresheet to write in your lineup
+and keep track of the game as it progresses.
+Ratings
+If you look at the middle column of any hitter card, a
+player's eligible positions are listed under the
+abbreviation "Pos:". Most of the ratings in DYNASTY
+League Baseball are based on a grading system
+from A-F, or a numerical system from 1-10.
+Designer's Note:
+A+
+Truly great performance ranking with best of all-time.
+Excellent, tops in the league for the season.
+B+
+A notch below the best in the league.
+B
+Very Good, clearly above average.
+C+
+Slightly above average.
+C
+Average, middle-of-the-pack.
+"As far as I can tell, there's only one tried and true way
+to build yourself a modern dynasty in sports. You find
+yourself one guy who knows the sport inside out, and
+top to bottom, and you put him in charge. You let him
+run the show totally." - Whitey Herzog.
+That person is now you. Whether you're a veteran or
+rookie player of baseball simulation games, DYNASTY
+League Baseball™ will challenge your skills as
+Manager and General Manager like never before.
+The first section of the rulebook explains how to play
+including game design insights. You can then get
+together with a friend or have your own one game
+playoff with the pennant on the line the last day of
+the season, dramatic series, or red-hot pennant
+races from the current or past season. If you're
+interested in league play, you can move on to the
+DYNASTY League Baseball Official League Rules and
+begin your move into the hot seat as GM of your own
+team by starting or joining a league.
+Official Rulebook
+Building Your Own Baseball Dynasty
+DYNASTY League Baseball © 2020
+
+Paul Molitor Milwaukee 1982
+Dennis Martinez Baltimore 1982
+
+Weather
+Before the game, you can find out the weather
+conditions by having the home team Manager roll
+the dice. In this case, as with many of the outside
+charts you will be using, roll the white and blue dice
+to generate a number from 0-99 (remember the
+white die is the tens die and the blue die the ones
+die). Use this number to determine the temperature,
+sky and precipitation by checking the Weather chart
+for the region where the game is being played.
+Notice that results are broken down by day and
+night for each month during the season. You'll have
+to check your schedule for the month you are
+playing in. You can use the following rules for
+determining day and night games if you don't have
+that information on your schedule:
+Four game series: First 3 games at night — last during
+the day.
+Three game series: First 2 games at night — last
+during the day.
+Two game series: Both games at night.
+Single game: Night game.
+Rescheduled doubleheaders: During the afternoon if
+doubleheader will be the final games of the series.
+All other doubleheaders: Twi-night.
+Temperature, Sky and Precipitation: After you've
+determined the month and whether the game is a
+day or night game, look down the column for the
+region you are playing in to find the number you
+rolled and the corresponding Temperature/Sky/
+Precipitation results. If you are playing a day game
+in Wrigley Field in July and you rolled #44, look under
+the GREAT LAKES REGION to find that conditions are
+in the 80's with partly cloudy skies.
+Check the Weather effects section at the top of the
+WEATHER chart to see if there are any additional
+adjustments or conditions ("Temperature", "Rain?" or
+"Snow?").
+Wind Direction/Speed: Roll two dice and look in the
+wind section of the ball park you are playing in.
+Checking the wind in Wrigley Field, if the # rolled is 98,
+the wind is blowing from right to left at 20-29 mph.
+Note weather conditions and adjustments on your
+scoresheet.
+Meeting At Home Plate
+Umpire Crews are rotated from series to series.
+Assign a different crew to each home team for the
+first home series at the start of the season and rotate
+the crew by moving to the next numbered crew (N
+#8 crews move to #1). Make sure to include only
+umpires from the league you are in when making the
+assignments. Check the UMPIRE CREW chart by
+having the home team roll two dice to determine the
+home plate umpire before each new series. The
+umpire listed below the home plate umpire is the 1b
+umpire, next is the 2b umpire and then the 3b
+umpire. For each new game within each series,
+rotate the umpires clockwise. The 1b umpire
+becomes the new home plate umpire. Write in the
+home plate umpire on your scoresheet.
+types of configurations for the fielding ratings. One
+each for catchers, infielders and outfielders.
+Catchers: Are configured like this:
+Range/Error/Throwing/Passed Ball/Catcher Handling Pitchers
+A+/55/-4/A/A (Johnny Bench 1975 Cincinnati)
+Infielders: Are configured like this:
+Range/Error/Double Play Pivot
+A/60/-5
+(Robin Yount 1982 Milwaukee)
+Outfielders: Are configured like this:
+Range/Error/Throwing
+A+/75/-4 (Dwight Evans 1975 Boston)
+lf can play rf and vice versa. A player listed in cf
+can play all of the of positions.
+Bats: Colored in green in the upper left-hand corner
+of each Hitter card is the side the player bats from
+and where he is likely to hit the ball (spray or pull).
+Throws: Pitchers' cards include the way the pitcher
+throws located in the upper left-hand corner colored in
+green.
+Endurance: If a pitcher has a numerical Endurance
+rating he is eligible to start a game. Pitchers with
+"Long" or "Short" Endurance ratings are eligible to
+pitch in relief.
+Long relievers Endurance rating: 15
+Short relievers Endurance rating: 7
+Designer's Note: After you've finished writing in your
+lineup, it’s a strategic help to also write in each
+teams bench and bullpen.
+Rolling And Reading The Dice
+If you take a look at the dice included with your
+game, you'll notice that they are ten-sided percen-
+tile dice. The Defensive Manager rolls all three dice
+to generate a number from 0-999. Read the dice in
+the order red, white and blue with the red die
+representing the hundreds place, the white die
+representing the tens place and the blue die
+representing the ones place. If you roll a white 2, a
+red 4 and a blue 3 the number is read as 423.
+Designer's Note: You might be asking why the
+Defensive Manager rolls the dice instead of the
+Offensive Manager. One reason is that pitchers have
+the predominant influence on the pace of the game
+— some working fast, others working more slowly
+and deliberately. The main reason though, is that just
+like in real baseball the defense must commit first
+with moves like bringing the infield in, giving the
+offense the final strategic choice. As a general rule
+the Offensive Manager should roll only for plays the
+offense initiates such as Bunting, Stealing, Baserunner
+advancement when taking the extra base or Deep
+Drive results. For plays on the INJURY chart roll for
+your own players and hope you won't do too much
+damage!
+
+Play Ball
+Hitters cards: Roll all three dice. If the number is 0-
+499, you'll find the result on the hitter's card. You'll
+need to look down the "vs. left" column if the batter is
+facing a left-handed pitcher or down the "vs. right"
+column if the batter is facing a right-handed pitcher.
+Pitchers cards: The result will always be found on the
+pitcher's card when the number is 500-999. You'll
+need to look down the "vs. left" column if the pitcher
+is facing a left-handed batter or down the "vs. right"
+column if the pitcher is facing a right-handed batter.
+"vs. left" or "vs. right": Once you've located whether
+the result is on the hitter's or pitcher's card and
+whether to read down the "vs. left" or "vs. right"
+column you'll be able to read the result of the play
+right from the player card.
+Sometimes more than one result may appear and
+you may need to check the situation to determine
+which result to use. Most results are normal situations
+easily identified by their blue color.
+Off to either side of the result, you may have a
+position listed that corresponds to the fielder the ball
+was hit to. For results vs. right-handers, use the
+position listed on the right side. For results vs. left-
+handers, use the position listed on the left side.
+Base hits: Are indicated by 1B, 2B, 3B or HOME RUN.
+Question marks: If a "?" follows a result, it indicates that
+you will need to go to a chart to determine the play result.
+Baserunner Advancement (?)
+Baserunner advancement is listed after the play
+result and is found inside the parenthesis to the right
+of the result. Parentheses always indicate baserun-
+ner advancement. Question marks inside a paren-
+thesis indicate an option to take the extra base.
+For example, if the baserunner advancement was
+(2-H,1-3?), a runner on 2nd would come home to
+score and a runner on 1st would advance to 2nd
+and have the option to try for 3rd by going to the
+BASERUNNER ADVANCEMENT chart. To use this chart,
+make all applicable adjustments listed at the top of
+the BASERUNNER ADVANCEMENT chart to the players
+Baserunning rating and roll two dice.
+Cut-off play option: If the defense decides not to
+throw, they can use the cut-off play option found on
+the BASERUNNER ADVANCEMENT chart.
+No parenthesis after hit: Assume a 1 base advance
+for 1B and 2 base advance for 2B for all runners. On
+occasion you may see (1) or (2), which indicates a 1
+or 2 base advance.
+1B (?): Gives Offensive Manager choice of sending
+lead runner two bases, instead of automatic one
+base advance, by going to BASERUNNER ADVANCE-
+MENT chart. With runners on 1st and 2nd, Offensive
+Manager may send both runners. Defensive Man-
+ager would then decide which runner to try to throw
+out by going to BASERUNNER ADVANCEMENT chart.
+Ground Out (?), Hard Ground Out (?), or Soft Ground Out (?):
+indicates you should refer to the GROUND BALL
+BASERUNNER ADVANCEMENT chart. This chart is
+divided into sections depending on the base
+situation and also into situations such as "hit and run"
+and "infielder playing in". Pitcher and Catcher can’t
+be moved in or back so they are always considered
+back.
+Situation Key
+On each player card there is a coded situation key
+between green "vs. Left" and "vs. Right" columns.
+Situation key is your guide if more than one result
+appears on a line.
+If more than one situation besides "Norm" applies, the
+situation furthest left in the key has priority.
+NOTE on H&R: When a H&R play is on, that situation
+result has priority over all other situations. In the case
+of a strikeout on a H&R play, the runner must always
+attempt to steal and incur the -3 steal adjustment on
+all strikeout results in the game.
+There are nine possible situations that may occur:
+Norm: Blue
+Occurs during a normal situation, which is any
+situation besides the other eight situations.
+NEW! Clutch: Red
+Occurs whenever tying or go-ahead run is on base or
+at bat from 8th inning on, or at anytime when there
+are runners in scoring position with two outs.
+Clutch results are for hitters who perform especially
+well in clutch situations and are only used if hitter has
+"clutch" listed after his Situation rating. Situation
+ratings are listed near the top of the left column of
+the hitter's and pitcher's cards. If hitter has "clutch"
+listed after his Situation rating, you need to check the
+pitcher's Situation rating. If pitcher on mound has a
+“jam” Situation rating listed, it cancels out the hitter's
+clutch rating and you would use the "Norm" result.
+NEW! Jam: Orange
+Occurs whenever tying or go ahead run is on base or
+at bat from 8th inning on, or at anytime when there
+are runners in scoring position with two outs.
+Jam results are designed to be used for pitchers who
+are able to pitch themselves out of a jam. If the
+pitcher has "jam" listed after his Situation rating, use
+the orange "jam" results. You will need to check the
+hitter's Situation rating to see if he has a clutch
+Situation rating listed. If the hitter has a "clutch"
+rating, it cancels out pitcher's “jam” rating and you
+would use the "Norm" result. Pitchers who become
+tired lose their “jam” rating for remainder of game.
+NEW! Super Tough JAM + rating
+JAM+ pitchers have additional situation ability in that
+they use the RR grey situation STRIKEOUTS results
+instead of blue normal situation 1B and 2B results on
+those two result lines in jam situations.
+
+Tired: Yellow
+A pitcher becomes tired anytime after the number of
+batters faced indicated by the pitcher's Endurance
+rating has been reached and then two subsequent
+batters reach base safely by a hit, walk, hit by pitch
+or error. Endurance ratings reflect the number of
+pitches thrown, converted into batters faced, before
+a pitcher starts to tire. For example, if a pitcher has
+an Endurance rating of 35 and has just faced his 35th
+batter and then gives up a walk and a single, he is
+now considered "tired" for the rest of the game. IBB
+do not count as a batter faced or as one of the two
+subsequent batters to reach base safely.
+HIGH STRESS INNING: Starting with the 7th BFP in any
+inning, reduce pitchers Endurance rating by (-5).
+Tired — Doesn't Have Good Stuff Today: Yellow
+Occurs once a pitcher has allowed five earned runs.
+At that point the pitcher is considered not to have his
+good stuff and must use the "tired" situation results.
+NEW! OVERWORKED status
+All MLB teams have season IP cap ranges that they
+use for two reasons:
+1) injury prevention
+2) decreased performance
+Stephen Strasburg’s shutdown in 2012 is the most
+memorable example. The other reason for the new
+“Overworked” status is to more realistically replicate
+volume vs. rate performance. If two pitchers have
+the same ERA and one pitcher pitches 225 IP and the
+other pitches 150 IP the pitcher pitching 225 IP is
+more valuable.
+Pitchers will be able to pitch up to x1.5 their actual
+MLB IP.
+If a pitcher starts a game over the IP limit, they will be
+designated
+as “Overworked” that will be indicated by purple
+color on the roster.
+Overworked pitchers will be degraded by having
+them always be “tired” and use the tired situation
+results, which removes all situation modifiers (on, off,
+jam) and includes
+the UMPIRE chart result extra chances of injury from
+the injury chart. In addition, “Overworked” pitchers
+will have their Durability rating reduced by two
+grades (i.e. a pitcher with “B” Durability will be
+downgraded to “D” Durability).
+NEW! Bringing reliever into the game not
+warmed up injury risk
+If you bring a reliever into a game who is not warmed
+up,”tired” situation status will include UMPIRE result
+injury check up until the pitcher is warmed up
+properly.
+In: Dark Green
+Occurs whenever the “infield is in” or the “corners
+are in” regardless of what position is listed for the
+Hard Ground Out result on line 14 of the hitters card.
+To bring either the infield in or corners in (1st and
+3rd), the Defensive Manager announces his inten-
+tions before he rolls the dice.
+H&R: Magenta
+To put the hit and run play on, the Offensive Man-
+ager can do so as the Defensive Manager rolls the
+dice. The hit and run play can be put on whenever
+a runner is on 1st, but only one time per AB.
+H&R with 2 out: You can’t put H&R play on with two
+out.
+Some hitters have special hit and run ratings that
+follow the Bunting rating after the /. Check the
+Bunting/H&R section of the hitter's card.
+"A" H&R rating: Indicates a high success on hit and
+run plays of being able to protect and advance the
+runner. Strikeout results on either the pitcher or hitter
+card have a "A-foul" result for "A" rated players to
+foul off the pitch in which case you will need to
+consult the Foul Territory chart.
+"1B" H&R rating: Indicates a high number of hits on hit
+and run plays. There is a special category on the
+INFIELD RANGE POSITION chart for this rating.
+ON: Purple
+"Runners on-base" occurs whenever a runner or
+runners are on-base. "ON" results are designed to
+reflect pitchers who give up a low percentage of
+their homeruns allowed with runners on-base and are
+only used if the pitcher has "ON" listed as a Situation
+rating. Pitchers who become tired lose their "ON"
+rating for the remainder of the game.
+Designer's Note: Jim Palmer (never allowed a grand
+slam) and Catfish Hunter are classic examples of how
+this situation impacts pitcher performance.
+OFF: Light Green
+Leadoff situations occur whenever the first batter in
+each inning bats. Off results are designed to reflect
+pitchers who give up a very low percentage of their
+walks leading off the inning and are only used if the
+pitcher has “off” listed as a situation rating. Pitchers
+who become tired lose their "off" rating for the
+remainder of the game.
+Designer's Note: Dennis Eckersley and Curt Schilling
+are the types of pitchers this situation impacts.
+RR: Grey (See Optional Player Rest/Rust Rules p. 9)
+Infield Range?/Outfield Range?
+Whenever you roll an Infield Range or Outfield Range
+result, go to the RANGE chart to find the result of the
+play. Check which direction the hitter tends to hit
+the ball by looking at the Bats: section of his card.
+Roll two dice on the RANGE POSITION section of the
+chart to find out where the ball has been hit. Use the
+
+fielder's Range rating to determine result by rolling
+two dice and checking RANGE RESULTS section of
+RANGE chart for type of surface (grass or turf). Some
+results refer you to the RANGE RESULT KEY below.
+Ex: Robin Yount (Right-spray) vs. Tommy John and
+Outfield Range result comes up. Check OUTFIELD
+RANGE POSITION section of RANGE chart and roll two
+dice. If number rolled is 47, ball is "shot into the gap
+cf". California's cf Fred Lynn has very good range
+(B+). To find out if Lynn makes play, roll two dice on
+OUTFIELD RANGE RESULTS chart in shot into the gap
+section. If roll is 59, Lynn makes Diving Catch!
+Error?
+Error results are resolved by rolling one die on ERROR
+POSITION section of ERROR chart to determine player
+who has chance of making error and then rolling two
+dice on ERROR chart using fielder's Error rating.
+Deep Drive?
+When "Deep Drive?" result occurs, use "Bats:" section
+to determine side he bats from and where he tends
+to hit ball (pull or spray) and roll two dice on DEEP
+DRIVE LOCATION chart found in BALL PARK charts to
+determine which part of park ball was hit to. Next,
+find hitter's Power rating vs. type of pitcher you're
+facing in "vs. left" or "vs. right". Roll two dice to
+determine number of feet ball was hit from DISTANCE
+HIT chart. Go to BALL PARK chart you're playing in
+and make any adjustments to number of feet hit
+(Wind, Temperature and How well the ball carries)
+before checking BALL PARK chart to find result in one
+of seven OF locations.
+Ex: Johnny Bench vs. Luis Tiant in Fenway Park on
+clear night in October, with temperature in 60's and
+wind blowing out 10-19 MPH. Deep Drive result
+comes off Tiant's card. To resolve play, roll two dice
+on DEEP DRIVE LOCATION chart. If roll is 20, Bench
+(Right-pull hitter) hits DEEP DRIVE to left field. Bench
+has "A" Power vs. Tiant (found in "vs. RH" green section
+of Bench's card) and if roll is 68 ball is hit 395 feet to
+left. Make DISTANCE HIT adjustments for How well the
+ball carries in Fenway Park (0), temperature 60's (0)
+and wind out 10-19 MPH (+10) for a total of 405 feet
+and then check Fenway BALL PARK chart: HOME RUN
+over the Green Monster into screen.
+Designer's Note: Suspense increased by determining
+how many feet ball needs to travel for HR before you
+roll dice.
+NEW! Batter HOME RUN result indexed by
+Pitcher HR per 9 IP for Pitchers with ZERO Deep
+Drive? result # vs. that Left/Right side
+Batter card HOME RUN result on line #9 AND Pitcher
+with ZERO Deep Drive? # vs. that Left/Right side:
+Roll one die... if number >= (HR per 9 IP) x 10 = Deep
+Drive?.
+EXAMPLES: If pitcher has 0.1 HR per 9 IP, dice roll of
+#1-9 is Deep Drive? result (#0 HOME RUN result).
+If pitcher has 0.4 HR per 9 IP, dice roll of # 4-9 is Deep
+Drive? result (#0-3 HOME RUN result).
+Umpire?
+"Umpire?" results include umpire strike zones, effect of
+temperature on hitting, catcher's handling of
+pitcher's, ball park hitting backgrounds and possibility
+of WP or PB. Roll two dice using UMPIRE chart and
+check appropriate rating to resolve play. Ball Park
+Hitting Background rating found in BALL PARK charts.
+Tired Situaton result injury check: If you roll 514-540
+and pitcher is tired, use yellow situation walk result
+and check for injury to pitcher.
+NEW! NOTE: Pitcher with No Stuff Tired Situation result
+injury check for rolls of #514-540 goes into effect
+when pitcher reaches 0 Endurance.
+Foul?
+“Foul?” results are foul balls with chance of being
+caught. Check Foul Territory rating in BALL PARK
+charts and roll two dice on FOUL TERRITORY chart.
+NOTE: Foul results without "?", indicate ball in stands.
+Bizarre?
+Usually every baseball game has a play that is
+unusual or bizarre. To find result of "Bizarre?" play, roll
+three dice and look up result on BIZARRE chart.
+Intangible player ratings are sometimes referred to as
+are Team Chemistry ratings. To determine Team
+Chemistry, add up individual Intangible points using
+players Intangible ratings for players on 25 man roster
+and make adjustments for roster changes.
+INTANGIBLE RATING/POINTS
+TEAM CHEMISTRY RATING
++30
+≥45
+Excellent
+B
++15
+(-44) — 44
+Fair
+C
+≤(-45)
+Bad
+D
+-15
+F
+-30
+OTHER INTANGIBLE RATINGS
+~ hot temper BL catcher excellent at blocking plate
+Stealing
+If Offensive Manager decides to steal, he announces
+intent before pitcher rolls. Go to ATTEMPT chart and
+roll two dice using pitcher's letter "Hold" rating and
+runner's "Lead" rating (use appropriate 2nd, 3rd or
+home rating) to determine if runner gets "Good jump
+— attempts" result or "Poor lead — holds result".
+Pitcher's Pickoff/Hold ratings: Are configured like this:
+Pickoff/Hold: 1 / D (+2) (Juan Marichal 1969 SF)
+Marichal's “D” letter grade indicates ability to keep
+runner close and prevent attempt to steal. The (+2)
+numerical hold grade reflects SB% vs. Marichal used
+to adjust baserunners "Steal" rating. Marichal's
+pickoff rating is 1 (10 is best).
+If runner gets "Good jump", go to STEAL chart and roll
+two dice using runner's Steal rating (use appropriate
+2nd, 3rd or home rating). Adjustments must be made
+for catcher's throwing arm and pitcher's numerical
+Hold rating. Make adjustments for Turf and Strikeout
+on Hit & Run found at top of STEAL chart if they apply.
+
+Holding runners: Runners on 1st are always consid-
+ered to be held unless the Defensive Manager
+indicates otherwise. If a runner is not held, he gets a
+"Good jump — attempts" result.
+Pitchers Lead rating: Lead rating for pitchers is always 1.
+Pitcher Batting
+On the Bats/Card section of each Pitcher card is the
+side the pitcher bats from and if he is a pull or spray
+hitter along with the pitcher batting card # and
+Power rating.
+NEW! Pitchers must have at least 45 AB to be used as
+a pinch hitter. When facing a pitcher batting, who
+has less than 45 ABs, pitcher on mound uses the JAM
+situation in all situations even if the pitcher on the
+mound does not have a JAM situation rating.
+Bunting
+If the Offensive Manger decides to bunt, he does so
+as the pitcher rolls the dice. This prevents the
+Defensive Manager from changing the depth of the
+infield (in or back). Roll two dice on the BUNT chart
+and refer to the result key. You can Bunt for a Hit by
+calling out your intentions only when the bases are
+empty. Use the special "Bunt for a Hit results".
+Injury
+If you are required to check for injury, go to the
+INJURY chart and roll two dice using the player's
+Durability rating to determine the duration of the injury.
+Designer's Note: DYNASTY League Baseball is designed to
+reflect both frequency and length of injuries. It's sometimes
+thought that if you're not playing a 162 game schedule,
+length of injuries should be reduced based on the % of the
+season you're playing. Keep in mind injuries are part of
+baseball. If a line drive off your ace pitcher breaks his leg,
+he's not going to heal any faster because your season is
+shorter. Also remember if the length of injury is reduced, a
+short season makes the chance of being injured less likely.
+In order to balance out the adjustment of decreasing the
+length of injury, the frequency of injury must be increased.
+That can't be done without changing the playing charts.
+The bottom line is the most realistic way to play is to not
+reduce injury length.
+Required Pitcher Rest
+Starter
+Short relief
+Long relief
+IP
+Days Rest
+IP
+Days Rest
+IP Days Rest
+0-2
+0-1
+0*
+0-2
+0**
+2.1-3.2 3
+1.1-2
+0**
+2.1-3
+4-9
+ 3***
+2.1-3
+3.1-4
+> 9
+3.1-4
+4.1-7
+> 7
+*Maximum appearances in 4 consecutive days: 3
+Note: Short and Long relief pitcher’s Endurance
+rating is reduced to 4 if pitching in 2nd consecutive
+day and reduced to 1 on 3rd consecutive day of
+work.
+** Maximum appearances in 3 consecutive days: 2
+*** Starting Pitchers Endurance ratings are reduced
+by 7 if pitching on 3 days rest.
+Short relief maximum number of IP: 4 IP
+If all other pitchers have been used and you are
+forced to use a pitcher beyond the maximum
+number of IP, the rest requirement is 4 days.
+Bullpen Warm-Up Rule
+Prior to entering the game, relief pitchers must be
+properly warmed up. Pitchers may only warm-up
+twice during a game. If a pitcher is not used during
+his second warm-up, he must use the tired situation
+results if he enters the game. Relief pitchers may not
+enter the game unless they have warmed up for two
+batters or the pitcher on the mound is ejected or
+injured. The break between half innings counts as
+one batter. Two pitchers may warm up at the same
+time. When a pitcher starts warming up the half
+inning prior to or during the time when his team takes
+the field defensively, the duration of his warm-up lasts
+until the side is retired.
+RR: Grey or Strikethru Optional Player Rest/Rust Rules
+Rest/Rust results reflect deterioration of hitting skills
+from being tired or rusty. Also used for JAM+ pitchers.
+Offensive Rest
+1) After 6 innings of catching, with temperatures in the 90's.
+2) Catchers who catch more than 12 innings in 1 day.
+3) Day game following night game: Catchers
+playing in a day game if they played more than 5
+innings the previous night.
+4) Players who've played in the field for 5 consecu-
+tive games without a day off, with temperatures in
+the 80's or 90's.
+Offensive Rust
+When a player does not make an official plate
+appearance for 10 consecutive days he gets rusty at
+bat. Player loses rust after first game back. This
+includes players coming back from an injury, but not
+players called up from the minors.
+Defensive Rest: Catcher
+1) After 6 defensive innings of catching a game in the 90's.
+2) Catchers catching 7 consecutive games must use
+the rest adjustments starting with the 8th consecu-
+tive game played and continue with these playing
+reductions until they are rested defensively for a full game.
+3) Catchers catching more than 12 innings per day.
+Use the catcher defensive rest adjustments below:
+•Catcher's Passed Ball rating is reduced by 2 grades.
+•Catcher's Error rating reduced by 30.
+•Catcher's Throwing rating increased by 2.
+•Catcher's must use the RR situation results.
+Defensive Rust
+Occurs when a player doesn't play in the field for 15
+consecutive games. This includes players coming
+back from an injury, but not players called up from
+the minors. Player gets rusty and must reduce E
+rating by 30 for first game back in the field.
+
+Use: (Minor League callup %)
+Equals the percentage of games available during a
+162 game season. Players coming up from the
+minors during the season are usually assigned a "Use"
+%. If a player has a % listed for his "Use" rating, this
+indicates the percentage of the season that he can
+be called up for. This is a continuous percentage,
+meaning that if you are playing a 44 game season
+and the player has a "Use" rating of 20%, he can be
+called up and on the roster for 9 consecutive games.
+You can enter the callup on the INJURY/USE REPORT.
+Playoffs are treated as a separate season based on
+the maximum possible length of each series.
+Use: (Utility AB vs. LH, AB vs. RH)
+Indicates player wasn't a full-time player and was
+used in a utility or platoon role. A player with a utility
+"Use" rating can only be used for the number of AB
+listed. For example, a player with utility (vs. LH 55, vs.
+RH 114) can be used for 55 AB vs. LH pitchers and 114
+AB vs. RH pitchers. In order for a hitter with a utility
+“Use” rating to pinch hit or start a game, he must
+have at least 20 AB vs. the type of pitcher (LH or RH)
+that he is pinch hitting or starting against.
+Designer's Note: Earl Weaver's 1980 Baltimore club
+featured a platoon in left field including John
+Lowenstein, Gary Roenicke and Benny Ayala. LH
+batting Lowenstein hit .500 in 8 AB vs. LH pitchers. In
+DYNASTY, Lowenstein's only possible AB vs. LH pitching
+would come from starting a game vs. a RH and
+staying in the game if a LH pitcher was brought in to
+pitch. Lowenstein' would be limited to 8 AB vs. LH
+because of his Use Utility rating of (8 AB vs. LH, 188 vs. RH).
+If you're playing less than a 162 game season, you
+should multiply the AB listed times the percentage of
+a 162 game season you're playing. You can keep
+track of utility players AB on the INJURY/USE REPORT.
+Use: Spot starter
+Indicates pitcher was not a full-time starter. Pitchers
+that have a spot "Use" rating have a Games Started
+restriction indicating the number of games he can
+start. Keep in mind if you're playing less than a 162
+game season, you should multiply the number of GS,
+times the percentage of a 162 game season you're
+playing. You will need to keep track of spot pitchers
+GS on the INJURY/USE REPORT.
+DYNASTY LEAGUE BASEBALL OFFICIAL
+LEAGUE RULES
+THE IMPORTANCE OF STANDARDIZED LEAGUE RULES
+The DYNASTY League Baseball Official League Rules,
+represent a long awaited and necessary movement
+to organize baseball simulation leagues. These rules
+combine the best of both worlds between Fantasy
+leagues and baseball simulation games. Existing
+leagues are encouraged to change and will be able
+to enjoy the benefits of standardized rules. These
+benefits include the ability to much more easily
+recruit new players to join your league since they
+know the rules and will be more confident that the
+league will be well run. Standardized rules will also
+help eliminate disputes.
+The DYNASTY League Baseball rules have been
+play tested over the past thirty five years and work
+very well in insuring league parity, fairness and
+allowing expansion teams and teams taken over by
+new owners to have a good chance of winning.
+FRANCHISE APPLICATION
+You can choose between playing in a local league
+with the DYNASTY League Baseball Board version or
+with DYNASTY League Baseball Online which allows
+you to play with people around the world and or
+with a group of your friends. DYNASTY League
+Baseball Online works extremely well if your friends
+are not local and allows you to meet new friends in
+public leagues or to create or join a private league.
+Each franchise consists of the team name, ball park,
+and accompanying weather conditions. You will be
+in the dual role of both GM and Manager.
+Franchises are awarded on a first come first serve
+basis in the order of entry when joining the league.
+FINDING PLAYERS FOR YOUR LEAGUE
+If you wish to be a Commissioner of a private league
+and are looking for players for your league, the best
+place to start is to check with your friends. You can
+then invite your friends to a DYNASTY League
+Baseball Online private league.
+The DYNASTY League Baseball Online Private League
+Directory allows Commissioners to place your league
+on the “Leagues Looking for Players” tab and
+updates league listings in real time.
+Where else should you look for players? You might
+know of players who play other baseball simulations
+or are in a fantasy league. Tell them you are starting
+a league and have them come over to play a game
+with the DYNASTY League Baseball board version or
+invite them to a “Series” with a friend playing
+DYNASTY League Baseball Online. Try friends at
+school, work, church, teammates on your softball
+league or anywhere else you come into contact with
+people interested in baseball. Inviting your
+Facebook friends is a great way to get new players
+as is joining the DYNASTY League Baseball Facebook
+group.
+Designer's Note: I'll be continuing to personally
+conduct Tour/Tournaments to Ball Parks around the
+country. This has proven to be a great way to meet
+new players for leagues.
+The most common reason people give for not joining
+a league is they don't have the time. Tell them right
+away that if they can’t play a series live that week
+the computer manager profile can play the series for
+them. DYNASTY League Baseball Online manages
+your league, tracks all stats, standings, leaders,
+injuries and rest for you so you just have to focus on
+being the GM and Manager of your franchise.
+
+JOINING A LEAGUE
+DYNASTY League Baseball Online is a revelation for
+leagues in that it is so easy to join one. Just click the
+join button after clicking on the league link and
+select your team from one of the public leagues.
+Private draft leagues are also available if you have
+your own group of friends.
+WHERE AND WHEN TO PLAY YOUR GAMES — LEAGUE
+MEETINGS
+It is essential to pick a day of the week and time that
+you will regularly play your series. Ex: Sunday night at
+7:00 PM. The reason this is important is that it will be
+the glue that keeps your league continuity together.
+DYNASTY League Baseball Online has a regular day
+and time to play your series. You can always
+reschedule if you miss your regular time so don’t feel
+that you have to play every week at that time and
+that you can’t reschedule. The scheduler feature in
+DYNASTY League Baseball Online allows you to easily
+reschedule if you can’t make it that week.
+The Commissioner's home is a good place to play for
+local Board version leagues. You'll discover getting
+everyone together makes it more fun by enabling
+you to follow how the rest of your league is doing.
+Having your league play at a sports bar, batting
+cage or other public place is a good way to attract
+interested people to your league.
+NAMES OF FRANCHISES
+Keep your franchise names realistic by using actual
+team name of franchise you selected. It will make it
+much easier to remember which ball park each
+owner plays in as well as weather conditions, etc.
+PLAYER TALENT POOL SIZE
+Talent pool is the group of baseball players eligible in
+your league based on spring training 40 man roster
+list of the current season including invitees.
+Players available in the draft: Consist of the players
+who are on the current 40 — man official roster,
+including Spring Training invitees for current season
+using most recent player card season set. These
+teams comprise the player pool. Keeping the talent
+in the player pool at a realistic level is very important.
+Player pool size limit and ratios: It's important to limit
+the player pool size for several important reasons.
+Anyone can draft a team of All-Stars, but not
+everyone can determine who are the better bench
+players, upcoming rookies and where to place your
+emphasis when drafting scarce talent. You'll find
+your results and statistics will be much more realistic if
+you can avoid the platooning of All-Stars and throw
+in a few Luis Salazars. If your league expands, you'll
+be able to add a new team into the player pool for
+each expansion team, giving expansion teams a fair
+chance to compete rather than having all the talent
+locked away. Trying to build a winning team is
+much more challenging and realistic using these
+ratios.
+Teams added to player pool:
+3,4,5 and 6 franchises, add two additional team
+8 franchises, add three additional teams
+ 10 and 12 franchises, add three additional teams
+16 franchises, add five additional teams
+20, 24 franchises, add six additional teams
+LIVE DRAFT
+The draft is a bidding style live draft with continuous
+ownership contract system. Each owner receives
+$300 of fictional money to spend on his team. A total
+of 35 players are drafted by each team. The draft
+consists of the following two phases:
+REGULAR PHASE
+Salary Cap: $300
+Type of draft: Bidding style
+Number of players selected in this phase: 25
+The Regular phase consists of open bidding for first 25
+active players on each teams roster with each teams
+salary cap at $300. Owners take turns announcing
+player up for bid until all teams have 25 players on
+their active roster. Players are announced by owners
+in a clockwise manner starting with franchise owner
+with worst won-lost percentage from previous year,
+or by alphabetical order by city name. Note that
+since everyone has opportunity to bid on each
+player in draft, there is no advantage in acquiring a
+player by announcing his name. Each owner must
+have at least $1 allocated to bid on each of the 25
+players for his active roster.
+The DYNASTY League Baseball live draft room has
+required position slots for you to fill including at least
+one back up at every position.
+Franchises are allowed to exceed $300 salary cap
+after the draft and during the season when new
+players are acquired via trades, but must get below
+the $300 salary cap with at least $1 available to bid
+per player needed to fill out their 25 man roster
+before the regular phase of next years draft. Each
+of these drafted players are signed to three year
+contracts, with the fourth year being an option year
+for the franchise at the same salary.
+NEW! Salary Cap and Floor
+Set up as a way to promote league parity and
+discourage sellers from dumping big salaries on final
+year of contract to contenders.
+CAP $330: Teams can’t exceed going 10% over $300
+at any point in time - setting the hard salary cap at
+$330. Any trade that would put a team over the cap
+will be vetoed by Commissioner.
+FLOOR $270: Teams can be below the $270 floor (10%
+under $300 salary cap) at the end of the draft.
+However, any trades made while below the floor
+must increase total salary.
+
+MINOR LEAGUE PHASE
+Type of draft: Paired picks.
+Number of players selected in this phase: 10
+The Minor League draft consists of paired picks (1
+and 10, 2 and 9, 3 and 8 etc.) which are determined
+on a "draw from the hat" basis from players who were
+not selected in the Regular phase of the draft.
+These players have a different type of contract and
+salary than the players selected in the Regular phase
+of the draft. A player selected in the Minor League
+draft has a salary of $0 his first year. The franchise
+owner has option of inviting player back to team the
+second year for a salary of $10 or releasing him back
+into draft. The third year, player must be released to
+re-enter Regular phase of free agent draft.
+DRAFT PREPARATION
+Preparing for the draft is one of the most fun and
+important aspects of being in a draft league. Tips on
+how to prepare for the draft and build your dynasty
+are provided in the DYNASTY League Baseball
+MLB.com News Blog at:
+DynastyLeagueBaseball.mlblogs.com
+PLAYER CONTRACTS
+Once a player has been drafted in the Regular
+phase, he must be kept on your DYNASTY League
+Baseball team for a minimum of 3 years unless one of
+the following occurs, which automatically releases
+the player from your team prior to the draft:
+A PLAYER IS AUTOMATICALLY RELEASED FROM HIS CONTRACT:
+1) He is traded to a real life team outside the
+DYNASTY League player pool.
+2) He becomes a real life free agent and signs
+with a real life team outside of the DYNASTY
+League player pool.
+3) He retires from Baseball.
+4) He is released and is not picked up by a real
+life team in the DYNASTY League player pool
+5) For any reason other than injury, suspension or
+hold out, he is not on one of the 40 — man
+rosters or a Spring Training invitee of one of the
+teams in the player pool prior to draft day.
+When any one of the above occurs, the player
+leaves the team and the salary paid to him goes
+back to the franchise owner, who now can use that
+money for next year's draft to acquire new players.
+NOTE: The five conditions for automatically releasing
+a player listed above also apply to players signed to
+guaranteed contracts.
+OPTIONS TO RELEASE PLAYERS UNDER CONTRACT:
+1) Buying Out Contracts:
+Franchise owners may choose to buy out a
+player's contract for an amount equal to half
+the player's salary (rounded up to the nearest
+dollar) for each year remaining on the contract.
+Ex: If Robin Yount was signed to a $40 contract
+during the regular phase of the draft (3 year
+contract plus option year) in 1990 and before
+the 1991 draft you wanted to buy him out or had
+to buy him out to get under the salary cap
+before the draft, it would cost you $40 [($40 x 2
+years = total value of the contract remaining
+($80) x 1/2 buyout = $40]. The buy out amount
+would be subtracted from the $300 of available
+money for drafting players in 1991 for both years
+still remaining on his contract.
+So in the above example, your salary cap
+before the draft in 1991 would be reduced by
+$40 ($300-$40=$260) to bring you to $260
+available for the new draft. This would be the
+only situation where the salary cap would be
+below the $300 mark. Salary caps can never be
+increased above $300. Released players then
+re-enter the Regular phase draft.
+Prior to the 2nd year draft, each franchise must
+submit their current roster to the commissioner
+and provide a list of players who they choose to
+release (if any). This is done in order to provide
+a listing of players available for the draft. Once
+releases and buyouts are submitted to the
+Commissioner, no further releases or buyouts
+can take place prior to the draft.
+REGULAR PHASE CONTRACT OPTION YEAR:
+A player's contract lasts three years with the fourth
+year being an option year for the franchise. This
+means that upon entering the fourth year of a
+player's contract:
+1) The franchise owner has the choice of picking
+up the option on the contract for a fourth year
+at the same salary, after which the player will
+automatically re-enter the Regular phase of the
+2) The franchise owner has the choice of not
+picking up the option for a fourth year of the
+contract making that player a free agent. The
+player will then reenter the Regular phase of the
+3) The franchise owner has option of guarantee-
+ing the contract for additional years. Once the
+guaranteed contract expires the player
+automatically re-enters the Regular phase of the
+draft. The player's salary is increased by $5 for
+each year the length of the contract is ex-
+tended starting with the option year.
+
+Ex: If you signed Don Mattingly originally for $30,
+and upon entering the 4th year of his contract,
+you decided to give him a 3 year guaranteed
+contract. His salary would be $45 [$30 + (3 yrs. x
+$5)] for years 4, 5 and 6.
+TRADING:
+Trading can occur at anytime except for the
+following exceptions:
+1) Between trade deadline and end of season.
+Trading deadline is July 31, 12 Midnight. It's a
+great idea to organize outing and bill it as a
+trade meeting on July 31. Going to a baseball
+game is ideal - you can talk trade all night.
+Remember to report trades to Commissioner.
+2) Once draft list of eligible players is submitted
+for current draft and continuing through end of
+EXPANSION AND NEW FRANCHISE OWNERS:
+Whenever a new owner takes over a team he has
+the choice of taking the team "as is" or releasing his
+entire team into the free agent pool. The new owner
+will have $300 to use to bid on free agents in the
+Regular phase of the draft should he decide to
+release his entire team.
+MOVEMENT OF A FRANCHISE
+Owners may not move franchises to a new city or
+ballpark. The stability of league will be improved by
+not having franchises pick up and leave every year.
+RAINOUTS
+Are considered as an off-day, with a double header
+scheduled the next day.
+COMMISSIONER, CO-COMMISSIONER AND LEAGUE
+SECRETARY
+The most important attributes of a Commissioner are
+the ability to get along with people, flexibility and
+patience, yet be able to earn the respect of the
+league members.
+Responsibilities of a Commissioner:
+1) League schedule
+2) Recruitment of members
+3) Creation and distributionof league reports (1 per
+month)
+4) Settling disputes
+5) Overseeing the operation of the league
+Responsibilities of a Co-Commissioner:
+1) Rosters
+2) First in line of succession for Commissioner
+3) Draft day duties:
+a) Creation of list of players available for the
+draft
+b) updating of rosters and draft list during the
+draft
+League Secretary responsibilities:
+1) Draft day
+a) Running total of money remaining for each
+team
+b) Auctioneer of players
+2) Award ceremony
+3) Second in line of succession for Commissioner
+POST SEASON PLAY
+Team with best record plays at home for games 1-2
+and 6-7 if necessary. Two off days are included after
+the end of the Regular season and after the end of
+the Playoffs (if applicable) prior to the World Series.
+Each series also includes an off day for travel after
+games 2 and 5. Assume 20 game season to deter-
+mine game availability and usage for 7 game series
+and 15 game season for 5 game series.
+PLAYER ETIQUETTE OF LEAGUE MEMBERS
+Win or lose, keep things in perspective and be a
+good sport. One of the things you should not do is
+play for money, it only encourages cheating and
+arguments. One of the worst things you can do as a
+league member, is to fail to contact your opponent
+well in advance if you can't make a league series. If
+you have a dispute, try to settle it using the fairest
+and most realistic solution to actual baseball.
+ REASONS WHY LEAGUES FAIL - AVOID THESE PITFALLS
+1) Can't find enough players to get started or
+replacement players to continue league.
+2) Schedule too demanding and season never
+finishes
+3) Cheating, disputes and arguments.
+4) Lack of parity- League rules allows best teams
+to lock away and hoard talent indefinitely.
+SETTING UP A SCHEDULE
+DYNASTY League Baseball Online public leagues
+play a 162 game season over a 6 month period. The
+DYNASTY League Baseball Online version makes it
+much easier to run a league especially when it
+comes to a 162 game season where the computer
+manager profile can take over for series that are not
+played when people may get busy during season.
+DYNASTY League Baseball schedule format is
+designed to simulate a pennant race, but all months
+are used when setting up schedule.
+DYNASTY League Baseball Facebook group has
+schedule files in Excel format in FILES section which
+can be entered into Commissioner’s schedule builder
+tool for Private Leagues.
+Designer's Note: It's been my philosophy to try to get
+as much enjoyment out of process of playing each
+and every game and avoid playing the game just to
+crunch numbers to look at when you are finished.
+Make up games that you miss ASAP by contacting
+your opponent and making arrangements to play.
+The schedule runs from Opening Day in March just to
+the last day of the regular season in October.
+
+SCHEDULE BREAKDOWN BY NUMBER OF TEAMS
+Organization Teams per Series in
+Series out
+Games per
+(# of teams)
+League
+League**
+of League*
+Team
+4***
+2**
+2**
+8****
+10****
+12****
+2*****
+* vs. each team out of league, "2 game series"
+** vs. each team in league, "3 game series"
+*** 2 "3 game series" and 2 "2 game series"
+**** 2 Divisions per league
+*****"3 game series" in Division, "2 game series"
+outside Division
+Designer's Note: One of the main reasons for having
+3 game series instead of 4 game series involves
+make-up games. During the course of the season
+you'll find there will be series that have to be made
+up. While it's possible to play six games or two series
+in an evening, eight games with two series is too
+many games to play in one night.
+MINOR LEAGUE CALLUPS AND RELEASES
+Players sent down to minors must remain there for 10
+days.
+INJURY/LIMITATION REPORT RULES
+This report is required to be with you during all games.
+You will list AB used up on USE requirements and
+injuries as they occur during the game on your
+report. Also remember to always number your
+games on your scoresheet in the order you played
+them to determine injury length and pitcher rest.
+Opposing players and the Commissioner may wish
+to view this report on request. It is also important to
+bring all of your scoresheets to check for pitcher
+availability due to rest requirements.
+RAIN OUTS:
+Rain outs are treated as an off day and count
+towards pitcher rest and injury duration. If more than
+one game remains of a series the next two games
+are considered as a double header. Pitchers do not
+receive rest between games of a double header.
+RESCHEDULED GAMES:
+Games that are missed must be made up as soon as
+possible. Always make sure to call your opponent
+and either the Commisioner or Co-Commisioner if
+you can not play him during the scheduled date.
+For weather purposes, use the month that you are
+actually playing the rescheduled game in.
+ACTIVE ROSTER:
+Prior to each game you must determine your 25 man
+roster.
+POSITIONS:
+If injuries or ejections leave you with no players who
+can play a position, the most logical player (players
+who have played the position before in their careers,
+infielders playing other infield positions, etc.) is used
+for the remainder of the series and is assigned the
+worst possible defensive ratings. This situation must
+be remedied after the series either by a call-up from
+a teams Minor league, trade or acquiring a “scrub”
+player left over from the draft.
+In extra innings, a pitcher may play the outfield or
+infield for one batter using the worst possible
+defensive ratings if the manager wants to make a
+double switch and bring in a new pitcher for one
+batter and keep the current pitcher in the game.
+Design Depot Inc.
+Phone:
+561.494.2711
+Email: orders@designdepot.com
+You can find many additional
+season player card sets at the
+Ticket Window store link found in
+right column at:
+DynastyLeagueBaseball.com
+DYNASTY League Baseball
+Online free trial for Windows OS,
+Mac OS, iPad iOS and Android at:
+DynastyLeagueBaseball.com
+Join DYNASTY League Baseball
+Facebook Group
+Follow @PursuePennant on Twitter
+
+LEAGUE RULES CONCERNING PITCHER BATTING
+American site: DH
+National site: pitcher bats
+OFFICIAL REPORTS
+Are made out at the end of each month starting at
+the end of April. These reports will be available
+through the following month and will be available at
+each league meeting. Remember to bring your
+scoresheets from at least the two previous series to
+each meeting in order to check on pitcher availabil-
+ity. Report all injuries and the game number that the
+player was injured ASAP to the Commissioner's office.
+STATISTICS
+Board game leagues should make keeping statistics
+optional. It is useful for teams to keep statistics, but
+requiring them to be kept and turned into the
+League office will be difficult for both league
+members and the Commissioner to keep up with.
+DYNASTY League Baseball Online tracks statistics,
+leaders, game logs and standings in real time.
+Designer's Note: Small leagues of 6 or less may be
+able to make keeping statistics mandatory.
+PENNANT RACE SCENARIO
+This is a great way to play for one player, two players
+and even larger groups. Each player manages his
+favorite team down the stretch picking up the
+season for the final month. This always leads to red-
+hot finishes as you re-live most exciting part of the
+season. If you and a friend played the great 1993
+San Francisco-Atlanta pennant race, one player
+would manage Atlanta and the other San Francisco.
+If a series is scheduled that does not include both
+teams, the manager whose team wasn't included
+takes over for the opposing team. For example, if an
+Atlanta vs. Pittsburgh series is scheduled, the San
+Francisco Manager would manage as the Pittsburgh
+Manager and try to knock off San Francisco to gain
+ground in pennant race for his Atlanta team.
+SAMPLE REPORT
+SNBL ’92 REPORT #3
+August 28, 1992
+STANDINGS
+W
+L
+PCT
+GB
+Minnesota
+.594
+-
+Milwaukee
+.567
+Boston
+.552
+1.5
+Detroit
+.367
+Chicago
+.259
+9.5
+N
+W
+L
+PCT
+GB
+New York
+.743
+-
+Chicago
+.742
+St. Louis
+.594
+5.5
+Cincinnati
+.433
+10.5
+San Diego
+.167
+20.5
+TRANSACTIONS:
+MINNESOTA traded Cesar Tovar and Jim Perry to
+DETROIT for Bill Freehan and Mickey Stanley
+SCORES
+June 28
+Cin 5 at Bos 10
+Det 5 at NY 7
+Chi A 5 at SD 4 (14)
+Cin 2 at Bos 1
+Det 0 at NY 7
+Chi A 7 at SD 3
+StL 4 at Chi A 2
+Chi N 0 at Mil 7
+StL 6 at Chi A 0
+Chi N 3 at Mil 4
+July 12
+Bos 2 at NY 11
+StL 6 at Det 5
+Cin 7 at Min 15
+Bos 3 at NY 4
+StL 3 at Det 5
+Cin 6 at Min 5
+SAMPLE EXCEL LEAGUE ROSTER
+LEAGUE ROSTERS
+Total $ spent: $291
+Team: St. Louis
+PITCHERS
+$
+Contract Year
+Gibson, Bob
+2-4
+Carlton, Steve
+2-4
+Osteen, Claude
+Hoerner, Joe
+Raymond, Claude
+Grant, Mudcat
+Arrigo, Jerry
+Singer, Bill
+Abernathy, Ted
+Thigpen, Bobby
+CATCHERS
+McCarver, Tim
+Bocabella, John
+Didier, Bob
+Dyer, Duffy
+INFIELDERS
+McCovey, Willie
+Torre, Joe
+Beckert, Glenn
+Maxvill, Dal
+Ruiz, Chico
+Lefebvre, Jim
+OUTFIELDERS
+Aaron, Hank
+Brock, Lou
+4 AR 5 (guaran-
+teed contract with automatic release in 5th year)
+Johnson, Alex
+Tolan, Bobby
+Gaston, Cito
+MINORS
+P Bouton, Jim
+P Mikkelsen, Pete
+C Torborg, Jeff
+IF Davanon, Jerry
+BUYOUTS
+None
+
+Bob Kaplan
+Reede Stockton
+Jeff (Kamikazee) Moylan
+Jeff and Norman Blumberg
+Michael Mitrione
+Jack Aiello
+Bill and Dolly Moylan
+Robert Long
+Carole Sappington
+Ted Robinson
+Paul Molitor
+Julian Chechatka
+Drew, Justin, Joshua and Jordan Barnard
+Tom Burke
+Dan Treuden
+Jamie Hall
+This is the most talented team of people I have ever
+worked with and it shows. The design goals for
+DYNASTY League Baseball were very ambitious.
+These people demonstrated the faith that nothing
+was impossible and rose to the challenge. This is the
+stuff Dynasties are made of...
+Enjoy the game!
+Michael Cieslinski
+ACKNOWLEDGEMENTS
+As I reflect on the immense effort of this project, I am
+reminded that Dynasties are not created with just
+one star. It takes a team effort to win consistently
+and perform at the highest level. Truly great perfor-
+mance is created by truly great teams. Here are
+some of the many contributors:
+To Lead Programmer Jamie Hall who never ceases to
+amaze me with his knowledge, intelligence, work
+ethic, ability to get things done and overall brillance.
+If there is a Greatest Team of software developers
+you belong on it Jamie. A special thank you for
+making DYNASTY League Baseball Online a reality
+and better than I ever could have dreamed.
+To Lead Programmer Dan Mintz who has been in the
+lineup for all 162 games of the season. Dan, you are
+the Cal Ripken Jr. of DYNASTY League Baseball.
+Dan's leadership, insight, knowledge and tenacity
+have been invaluable.
+To Programmer Reede Stockton who is DYNASTY
+League Baseball's MVP (Most Valuable Programmer).
+Reede's state of the art programming of the player
+card generation program still has me buzzing.
+To Steve Mitrakos for stepping up to the plate and
+hitting a HR with customers, retailers and leagues.
+Steve's electric personality has ignited many rallies for
+DYNASTY League Baseball.
+To Paul Molitor, Bob McClure, Jim Gantner, Dennis
+Martinez, Tom Treblehorn and Ted Robinson are
+appreciated for their contributions over the years.
+To Daniel Treuden who does an excellent job
+assisting with each season’s pitcher ratings and is
+always there to help out on special projects.
+To our DYNASTY League Baseball customers — the
+best fans in the world.
+To the owners of Design Depot. Every DYNASTY
+needs great ownership that demonstrates faith that
+the team can win. You deserve as much applause
+as anyone else on the team:
+Tulio (Kamikazee) Otero
+Angel Gonzalez-Sanfeliu
+Rosemary and Alex Cieslinski
+Jim Vagourdes
+Perry Andrus
+Cary Wolfson
+Rob Harrison
+Bev Paulan
+Tom Drenka
+Bruce Barber
+Sid Sun
+Peter and Russ Altman
+Al Holmes
+Jack Vetscher

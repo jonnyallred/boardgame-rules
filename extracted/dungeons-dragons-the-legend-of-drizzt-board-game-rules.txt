@@ -1,0 +1,1325 @@
+RULEBOOK
+™
+300_35594000_LegODrizzt_Rules r3.indd 1
+300_35594000_LegODrizzt_Rules r3.indd 1
+3/28/11 3:40 PM
+3/28/11 3:40 PM
+
+CREDITS
+Design 
+Peter Lee
+Editing 
+Jennifer Clarke Wilkes
+Adventure System Design 
+Bill Slavicsek, Mike Mearls, Peter Lee
+D&D Senior Creative Art Director Jon Schindehette
+Art Director 
+Keven Smith
+Cover Illustration 
+Steve Prescott
+Graphic Designer 
+Bob Jordan
+Additional Graphic Design 
+Emi Tanji
+Dungeon Tiles 
+Jason A. Engle
+Prepress Manager 
+Jeff erson Dunlap
+Imaging Technician 
+Sven Bolen
+Production Manager 
+Raini Applin Rosta
+©2011 Wizards of the Coast LLC, P.O. Box 707, Renton, WA 98057-0707, U.S.A. 
+Manufactured by: Hasbro SA, Route de Courroux 6, 2800 Delemont, CH. Represented 
+by: Hasbro Europe, 2 Roundwood Ave, Stockley Park, Uxbridge, Middlesex, UB11 1AZ. 
+UK. DUNGEONS & DRAGONS, D&D, WIZARDS OF THE COAST, The Legend of Drizzt, and all 
+other Wizards of the Coast product names and their respective logos are trademarks of 
+Wizards of the Coast LLC in the U.S.A. and other countries. All Wizards characters and 
+their distinctive likenesses are property of Wizards of the Coast LLC. Other trademarks 
+are property of their respective owners. ® denotes Reg. U.S. Pat. & TM Offi ce. All rights 
+reserved. MADE IN CHINA.
+300-35594000-001 EN
+ISBN: 978-0-7869-5873-3
+Visit our website at www.DungeonsandDragons.com
+Inspired by the New York Times best-selling novels by 
+R.A. Salvatore.
+TABLE OF CONTENTS
+INTRODUCTION 
+GAME OVERVIEW 
+WINNING THE GAME 
+ 
+Game Setup 
+ 
+To Start Playing 
+ 
+Taking Turns 
+ 
+The Cavern Tile Stack 
+PLAYER SETUP 
+THE HERO CARD 
+PLAYER TURN 
+ 
+Hero Phase 
+ 
+Exploration Phase 
+ 
+Villain Phase 
+MOVEMENT 
+ 
+Condition: Immobilized 
+ 
+Condition: Poisoned 
+ATTACKS 
+ 
+At-Will Powers 
+ 
+Daily Powers 
+ 
+Utility Powers 
+COMBAT 
+ 
+Targeting 
+ 
+AC and HP 
+ 
+Attack Bonus 
+ 
+Making an Attack 
+ 
+Damage 
+ 
+Defeating Monsters 
+ 
+Defeating Heroes 
+ 
+Healing Surges 
+ 
+Other Actions 
+THE MONSTER DECK 
+THE ENCOUNTER DECK 
+THE TREASURE DECK 
+EXPERIENCE POINTS 
+ 
+Canceling Encounter Cards 
+ 
+Leveling Up 
+RULES FOR LATER ADVENTURES 
+ 
+The Advanced Deck 
+ 
+Choosing Power Cards 
+OPTIONAL RULES 
+ 
+ 
+Competetive Adventures 
+FREQUENTLY ASKED QUESTIONS 
+GAME COMPONENTS
+40 ﬁ gures (7 blue, 9 purple, 12 
+green, 6 clear blue, 1 red, 5 gray)
+ 8 Hero cards
+ 4 Villain cards
+ 1 rulebook 
+ 1 adventure book
+ 1 die
+ 1 double-sized interlocking Start 
+tile
+ 3 double-sized interlocking 
+Destination tiles
+32 interlocking Cavern tiles
+22 interlocking Cavern Edge tiles 
+(including 4 Fissure tiles num-
+bered 1–5, 6–10, 11–15, 16–20)
+200 cards:
+Starting Deck
+• 5 Sequence of Play cards
+• 20 Encounter cards
+• 20 Monster cards
+• 29 Power cards
+• 26 Treasure cards
+Advanced Deck
+• 7 Ally cards
+• 22 Encounter cards
+• 10 Monster cards
+• 51 Power cards
+• 10 Treasure cards
+10 Condition markers
+ 5 Healing Surge tokens
+64 1 HP tokens
+ 8 5 HP tokens
+10 Monster 1 HP tokens
+ 2 Monster 2 HP tokens
+ 3 Stance tokens (Bruenor, 
+Catti-brie, Drizzt)
+ 2 Charge tokens
+ 2 Duel tokens
+ 2 Double Strike tokens
+ 6 Power Strike tokens
+ 1 Camp token
+ 1 Crown token
+ 1 Key token
+ 1 Lever token
+ 1 Map token
+ 1 Snort token
+ 2 Filled Bowl tokens
+ 2 Secret Tunnel tokens
+ 4 –4 AC tokens
+ 6 Time tokens
+ 6 Treasure Chest tokens
+ 8 Hero tokens
+ 8 Monster tokens
+ 3 Collapsed Tunnel markers
+ 9 Encounter markers
+300_35594000_LegODrizzt_Rules r3.indd 2
+300_35594000_LegODrizzt_Rules r3.indd 2
+
+INTRODUCTION
+Deep below the ground lies the Underdark, a network 
+of caverns forever cloaked in starless night and home to 
+millions of deadly creatures. Only the most courageous 
+surface dwellers dare to travel there. But one epic adven-
+ture originally hails from the Night Below: the tales of the 
+drow ranger Drizzt and his companions, who travel both 
+above and below the surface. 
+The Legend of Drizzt
+Born in the drow city of Menzoberranzan, Drizzt Do’Urden was 
+forced to ﬂ ee to the surface or face the wrath of the evil drow 
+goddess, Lolth. Upon reaching the surface in Icewind Dale, 
+Drizzt found a band of friends: a dwarf in search of his clan’s 
+lost home, along with his adopted human daughter; a ﬁ erce yet 
+noble barbarian; and a cunning halﬂ ing thief. Together, these 
+brave heroes ﬁ ght against the evil of the Underdark.
+The enemies they battle are many. The shadow dragon that 
+conquered Mithral Hall will not give up its new home so easily. 
+The minions of Lolth seek the destruction of Drizzt, and mer-
+cenaries and assassins have all targeted the renegade dark elf. 
+Worst of all is the balor Errtu—most mortals do not survive long 
+when a demon such as he names them enemies. Fortunately, 
+Drizzt is not like most mortals . . .
+GAME OVERVIEW
+The DUNGEONS & DRAGONS® The Legend of Drizzt™ Board Game 
+is an adventure game featuring the characters and locations 
+described in the novels by R.A. Salvatore. Some adventures are 
+cooperative, where you and your fellow Heroes must work as a 
+team to succeed. Other adventurers are more competitive, and 
+you must outwit and outmaneuver the other players to win.
+Each player selects a Hero, one of the Companions of the Hall. 
+Choose from the drow ranger Drizzt Do’Urden, the dwarf 
+ﬁ ghter Bruenor Battlehammer, the human archer Catti-brie, 
+the halﬂ ing rogue Regis, or the human barbarian Wulfgar. 
+Later adventurers feature some other characters met by Drizzt, 
+including the drow mercenary leader Jarlaxle Baenre, the dwarf 
+battlerager Athrogate, and the dreaded assassin Artemis Entreri.
+Once you’ve selected your Heroes, you’re ready to enter the 
+Underdark! 
+Number of Players
+The game can be played with any number of players, from 1 to 
+5. Each player controls one Hero—and the game does the rest!
+D&D Adventure System
+You can combine this game with other D&D® Adventure 
+System board games to create new and unique experi-
+ences. Check out www.DungeonsandDragons.com for 
+more information.
+WINNING THE GAME
+You win by completing the objective of the adventure you are 
+playing. For example, in one adventure you need to defeat the 
+evil dragon that conquered Mithral Hall, while in another you 
+must stop a drow assault.
+Unless stated otherwise in an adventure, you lose if any Hero 
+is at 0 Hit Points at the start of that Hero’s turn and there are 
+no Healing Surge tokens left to play. You also lose if you are 
+defeated by the adventure you are playing. Each adventure lists 
+its speciﬁ c victory and defeat requirements.
+Game Setup
+There’s a lot of stuff in this box. You don’t use it all at once. The 
+following components are usually used in every adventure.
+ 
+✦Hero cards and ﬁ gures
+ 
+✦Hero Power cards
+ 
+✦32 standard Cavern tiles
+ 
+✦1 Start tile
+ 
+✦Encounter cards
+ 
+✦Monster cards
+ 
+✦Treasure cards
+ 
+✦Condition markers (Immobilized, Poisoned)
+ 
+✦Healing Surge tokens
+ 
+✦Hit Point tokens
+ 
+✦–4 AC tokens
+ 
+✦6 Trap Encounter markers
+ 
+✦Camp token
+ 
+✦Die
+Poisoned marker
+Camp token
+Trap marker
+–4 AC token
+300_35594000_LegODrizzt_Rules r3.indd 3
+300_35594000_LegODrizzt_Rules r3.indd 3
+
+To Start Playing:
+ 
+✦When you ﬁ rst open the box, you’ll ﬁ nd two decks of 100 
+cards each: the Starting Deck and the Advanced Deck. For 
+your ﬁ rst couple of games, just use the Starting Deck cards 
+(numbered 1–100). Once you’re familiar with how the 
+game plays, you’ll be ready for some of the more advanced 
+cards. See “The Advanced Deck” on page 14.
+ 
+✦Give each player a Sequence of Play card as a reminder 
+of how play proceeds.
+ 
+✦Place the die and the various ﬁ gures in easy reach.
+ 
+✦Pick an adventure from the adventure book. If you are 
+playing your ﬁ rst game alone, play Adventure 1: Exile. 
+Otherwise, play Adventure 2: Search for Mithral Hall.
+ 
+✦Check the “Adventure Setup” section of the adventure 
+book to see if your chosen adventure calls for any of the 
+game pieces you set aside.
+ 
+✦Unless the adventure says otherwise, place the Start tile in 
+the center of the table and place two Healing Surge tokens 
+beside it. These are the group’s surges for this adventure.
+ 
+✦Each player chooses one of the 1st-level Heroes. When 
+you choose a Hero, take that Hero’s Hero card, Power 
+cards, and the ﬁ gure that matches the Hero. Adventures 
+and cards refer to the players as “Heroes.”
+ 
+✦Unless the adventure says otherwise, place each Hero 
+ﬁ gure on any square of the Start tile. The name of each 
+Hero is printed on the base of the ﬁ gure.
+ 
+✦Each Hero card tells you how many and which Power 
+cards you can choose for that Hero. In your early games, 
+use the Power cards suggested at the front of the adven-
+ture book. Set aside any Power cards that aren’t used in 
+this adventure.
+ 
+✦Check the “Starting Awards” section of the adventure’s 
+setup to see how many Healing Surge tokens the Heroes 
+start with, as well as any starting Treasure cards.
+ 
+✦Set up the Cavern Tile stack (the deck of tiles) using the 
+setup instructions in the adventure you have selected. 
+You are now ready to begin play. The adventure tells you 
+any other rules you need in the “Special Adventure Rules” 
+section, or any rules that change the general game rules 
+presented in this book.
+Taking Turns
+Play progresses around the table, starting with a player of the 
+group’s choice and then proceeding clockwise. You can also 
+each roll the die and let the player who rolled highest go ﬁ rst.
+Your turn consists of three phases: one for your Hero, one for 
+Exploration, and a Villain Phase for the Monsters and Traps 
+under your control.
+Set aside the following game pieces. You use these pieces 
+only if the adventure you are playing requires them (see the 
+adventure book for details). We recommend that you store 
+these pieces in a plastic bag to keep them separate until you 
+need them.
+23 Adventure-speciﬁ c Cavern tiles:
+ 
+✦3 double-sized Destination tiles: Ancient Throne, 
+Rocky Lair, Surface Hollow
+ 
+✦20 Cavern Edge tiles
+7 Ally Adventure cards: Bruenor (Ally), Catti-brie (Ally), 
+Drizzt (Ally), Guenhwyvar (Ally), Regis (Ally), Snort (Ally), 
+Wulfgar (Ally)
+3 Stance tokens
+2 Charge tokens
+2 Duel tokens
+2 Double Strike tokens
+6 Power Strike tokens
+6 Time tokens
+6 Treasure Chest tokens
+8 Hero tokens
+8 Monster tokens
+1 Crown token
+1 Key token
+1 Lever token
+1 Map token
+1 Snort token
+2 Filled Bowl tokens
+2 Secret Tunnel tokens
+3 Adventure-speciﬁ c Encounter markers: Crystal Prison, 
+Gauntlgrym Door, Pit
+3 Collapsed Tunnel markers
+Villain ﬁ gures and Villain cards:
+ 
+✦Artemis Entreri, Human Assassin
+ 
+✦Errtu, Balor
+ 
+✦Jarlaxle Baenre, Drow Mercenary
+ 
+✦Methil El-Viddenvelp, Mind Flayer
+ 
+✦Shimmergloom, Shadow Dragon
+ 
+✦Yochlol, Handmaiden of Lolth
+ 
+✦Yvonnel Baenre, Matron Mother
+300_35594000_LegODrizzt_Rules r3.indd 4
+300_35594000_LegODrizzt_Rules r3.indd 4
+
+The Cavern Tile Stack
+You draw from the collected Cavern tiles (referred to as the 
+Cavern Tile stack) to build the network of tunnels representing 
+the Underdark. There are endless caverns in the Underdark, 
+and it is easy to get lost. Each time you play, the caves have a 
+diff erent layout.
+Each Cavern tile features a mushroom patch (the square where 
+Monsters are placed) and a white or black triangle (used to 
+distinguish between less dangerous and more dangerous tiles). 
+Many tiles have walls, a few tiles have other special features, 
+and some tiles have names to distinguish them for use in 
+ certain adventures.
+ An unexplored edge is an edge of a tile without a wall that is not 
+adjacent to another tile. There are 6 unexplored edges in this 
+diagram, highlighted in blue.
+A tile is a component of the game board, highlighted in yellow. 
+A square is a part of a tile, highlighted in red. The Start tile is a 
+special tile: it is treated as two tiles.
+When counting tiles, you do not count diagonally and you count 
+around tiles. The Drow Duelist, for example, is 3 tiles away from 
+Drizzt.
+Treasure Chest token
+Time token
+Double Strike token
+Hero token
+Monster token
+Adventure marker
+Item token
+300_35594000_LegODrizzt_Rules r3.indd 5
+300_35594000_LegODrizzt_Rules r3.indd 5
+
+Triangles: Each tile features a triangle. When you place a new 
+tile, the triangle points toward the unexplored edge of the tile 
+it is attached to. If the tile has a black triangle, you draw an 
+Encounter card during the Villain Phase of your turn.
+Each of these tiles is about one-quarter the size of a regular 
+Cavern tile. The most common use for Cavern Edge tiles is 
+to create a cavern complex at the start of an adventure. See 
+“Creating a Pre-Built Cavern Complex” on page 14.
+PLAYER SETUP
+Place your Hero card (1st level) and your selected Power cards 
+face up in front of you.
+As you acquire Treasure cards, they also go face up in front of you. 
+As you acquire Monster cards and Trap cards, place them to one 
+side of your Hero card, in the order in which you received them.
+THE HERO CARD
+Here’s what a Hero card looks like. The parts of a Hero card are 
+brieﬂ y described here and explained in detail on the listed page 
+of this book.
+Hero’s Name, Race, Class, and Level: The top lines show 
+your Hero’s race and character class. The Hero’s level is 
+shown in the bottom right corner.
+AC (Armor Class): The Hero’s defense score. An attack hits 
+the Hero if it equals or exceeds this number (see page 9).
+HP (Hit Points): The Hero’s health. Damage reduces the 
+Hero’s Hit Points (see page 9). A Hero can never regain 
+more Hit Points than his or her Hit Point total.
+Speed: The number of squares the Hero can move by using 
+a single move action (see page 7).
+Surge Value: When a Hero is at 0 Hit Points, he or she 
+must use a Healing Surge token at the start of his or her 
+next Hero Phase. After using the Healing Surge token, the 
+Hero recovers this number of Hit Points (see page 10).
+Special Ability: Each Hero has a Special Ability, as 
+described here.
+Powers: This tells you how many of each type of Power 
+card you can select for use in an adventure, as well as 
+any Power cards the Hero automatically gets to use (see 
+page 9).
+Tiles from other D&D Adventure System board games are 
+labeled “Dungeon Tiles” on the backs rather than “Cavern Tile.” 
+There is no diff erence in game play between a Dungeon tile 
+and a Cavern tile. 
+The Start Tile: The Start tile is where the Heroes usually enter 
+the dungeon and begin their adventure. It’s twice the size of the 
+other tiles. The Start tile actually consists of two separate tiles 
+that are already connected; treat each as its own tile for pur-
+poses of movement and counting tiles.
+Unexplored Edge: A Dungeon tile with an unexplored edge is a 
+tile where you could place a new tile. This means that an edge 
+of the tile is open and doesn’t have another tile adjacent to it.
+Tiles and Squares
+Game cards refer to both tiles and squares. 
+A tile is the basic building block of the dungeon, drawn from 
+the Cavern Tile stack.
+A square is one of the spaces on a Cavern tile.
+Diagonal Movement: Your Hero can move diagonally when 
+moving by squares, unless the path is blocked. Your Hero 
+cannot move diagonally when moving by tiles. If you are count-
+ing squares, you can move diagonally, even between tiles. If you 
+are counting tiles, you never count diagonally; you have to move 
+in straight lines, not diagonal lines, when you count tiles.
+300_35594000_LegODrizzt_Rules r3.indd 6
+300_35594000_LegODrizzt_Rules r3.indd 6
+
+AT—WILL POWER
+RA
+AT
+65/200
+AT—WILL POWER
++6
+Attack 1 adjacent Monster, then 
+place your Stance token on this card.
+You can remove your Stance token from 
+this card when an adjacent Monster hits 
+your Hero. If you do, reduce the damage 
+from that attack by 1.
+This elven blade, set with a star-cut sapphire, 
+magically protects its wielder.
+TWINKLE
+Wizards of th
+ACK
+ove your Stan
+en an adjace
+f you do, red
+tack by 1.
+oken from 
+Flip This Card Over After Use.
+DAILY POWER
++6
+Miss: 1 damage
+Attack 1 adjacent Monster, then 
+attack 1 adjacent Monster.
+Drizzt’s two scimitars ﬂash.
+TWIN STRIKE
+Hero card face
+Hero card back
+fter Us
+ss: 1 damage
+178/200
+UTILITY POWER
+Use instead of attacking. Place your 
+Stance token on this card.
+You can remove your Stance token 
+from this card at the start of any Villain 
+Phase. If you do, move your Hero up to 
+his or her Speed and that Hero can use 
+an At-Will attack power.
+“First blood is mine.”—Artemis
+“Last blood counts for more.”—Drizzt
+LAST BLOOD
+PLAYER TURN
+Each player’s turn consists of three phases. On your turn, com-
+plete these phases in this order:
+ 
+✦Hero Phase
+ 
+✦Exploration Phase
+ 
+✦Villain Phase
+Hero Phase
+This is the phase in which your Hero moves through the 
+dungeon and makes attacks against the Monsters encountered 
+along the way.
+1. If your Hero has 0 Hit Points, use a Healing Surge token if 
+one is available (see page 10).
+2. Perform one of the following actions:
+ 
+✦Move and then make an attack.
+ 
+✦Attack and then move.
+ 
+✦Make two moves.
+When you have ﬁ nished all the steps in your Hero Phase, your 
+Exploration Phase begins.
+Exploration Phase
+This is the phase in which you add new Cavern tiles, draw 
+Monster cards, and place Monsters.
+1. If your Hero occupies a square along an unexplored edge 
+(see page 6), go on to Step 2.
+ If your Hero doesn’t occupy a square along an unexplored 
+edge, you don’t draw and place a new Cavern tile. In this 
+case, go on to the Villain Phase.
+2. Draw a Cavern tile and place it with its triangle 
+pointing to the unexplored edge of the tile your Hero is 
+exploring from.
+3. Place a Monster on the new tile. To place a Monster, draw 
+a Monster card and place it in front of you to show that 
+you control that Monster. Place the corresponding Monster 
+ﬁ gure on the mushroom patch of the newly placed Cavern 
+tile. (The name of each Monster is printed on each ﬁ gure’s 
+base.) If you draw a Monster card that matches a Monster 
+you already control, discard that Monster card and draw 
+again. If another player has a matching Monster card, 
+however, that’s okay.
+When you have ﬁ nished all the steps in your Exploration Phase, 
+your Villain Phase begins.
+300_35594000_LegODrizzt_Rules r3.indd 7
+300_35594000_LegODrizzt_Rules r3.indd 7
+
+B
+C
+D
+Villain Phase
+This is the phase in which you draw and play Encounter cards, 
+as well as when you activate the Villain (if the Villain is in play) 
+and any Monster and Trap cards you have in front of you.
+1. If you didn’t place a Cavern tile in your Exploration Phase, 
+or if you placed a Cavern tile with a black triangle, draw 
+and play an Encounter card.
+2. If the Villain is in play, activate the Villain. (There could be 
+more than one Villain in play, depending on the adventure. 
+In this case, activate each Villain, one at a time.)
+3. Activate each Monster and Trap Card, in turn, in the 
+order you drew them. Follow the tactics on the Monster 
+Card to determine what each Monster does on its turn. 
+If there are multiple Monsters with the exact same name 
+in play, activate each of those Monsters on your turn. So, 
+if you have a Goblin Archer Monster Card and another 
+player has a Goblin Archer Monster Card, you activate 
+both Goblins during your Villain Phase. If both Monsters 
+survive until the other player’s Villain Phase, that player 
+will activate both Goblins again!
+When you are done with your Villain Phase, the player to your 
+left begins his or her turn.
+MOVEMENT
+When you take a move action, your Hero moves through the 
+dungeon to attack Monsters, explore, and achieve the adven-
+ture’s objective. Use the following rules for movement.
+If a creature with a base larger than one square is on more than 
+one tile, it counts as being on all the tiles that the base is on. For 
+example, Errtu counts as being on all the blue tiles. All the green 
+tiles are one tile away from Errtu.
+When Do You Move?
+Your Hero usually moves during the Hero Phase of your turn.
+The eff ect of a Power card, Treasure card, or Encounter card can 
+make your Hero move at other times, as well.
+How Do You Move?
+Your Hero moves according to his or her Speed, which is the 
+number of squares you can move your Hero when you take a 
+move action.
+Think of your Hero’s Speed as your movement budget. Each 
+time your Hero moves a square, you spend 1 point from that 
+budget. When you have no more Speed left, your Hero can’t 
+move any more. 
+Each turn, you can spend up to your Speed budget to move 
+your Hero. Your Hero can attack either before or after moving, 
+or move twice instead of making an attack.
+✦ Your Hero can move in any direction, including diagonally, 
+as long as you have the necessary Speed to spend.
+✦ You can’t move your Hero into a square ﬁ lled with a wall.
+✦ You can’t move your Hero into a square occupied by a 
+Monster.
+✦ You can move your Hero through a square occupied by 
+another Hero, but you can’t end your movement there.
+You can move your Hero to any square, even diagonal ones, with a 
+few minor exceptions. You cannot enter a square with a monster (A). 
+You can move around walls but cannot enter a wall square (B). You 
+cannot move between two adjacent walls (C). You cannot end your 
+move in another Hero’s square (D).
+300_35594000_LegODrizzt_Rules r3.indd 8
+300_35594000_LegODrizzt_Rules r3.indd 8
+
+At-Will Powers
+At-Will powers are relatively simple 
+attacks, spells, or prayers. Using an 
+At-Will power requires no special eff ort. It is weaker than a 
+daily power, so when you use it you do not ﬂ ip it over. You can 
+use it again on your next turn.
+Daily Powers
+Daily powers represent a signiﬁ cant attack or a spectacular eff ect. 
+When you use a Daily power, you ﬂ ip it over and cannot use it 
+again until some other eff ect (usually a Treasure card) allows you 
+to ﬂ ip it back up. Daily powers are the strongest attacks you have 
+access to in the game.
+Utility Powers
+Utility powers are special maneuvers that don’t actively attack 
+Monsters but instead provide other advantages. These advan-
+tages include a specialized move or the ability to counter a 
+Monster’s attack. Many of these powers don’t require an attack 
+action to use, instead specifying when to use the ability. Unless 
+the card states otherwise, when you use a Utility power, you ﬂ ip 
+it over and cannot use it again until some other eff ect (usually a 
+Treasure Card) allows you to ﬂ ip it back up.
+COMBAT
+As your Heroes journey through the Underdark, they will 
+encounter drow, goblins, and other Monsters. You must defeat 
+these Monsters before they defeat you! 
+Targeting
+When you decide to attack, ﬁ rst determine which Monsters 
+your Hero can target. A power speciﬁ es what Monsters you can 
+target, ranging from only Monsters in an adjacent square to a 
+Monster as far as 3 tiles away.
+Remember the diff erence between squares and tiles when 
+making attacks (see page 6).
+Most important, keep in mind that you can never trace a 
+diagonal path between tiles. If a power lets you attack a 
+Monster within 1 tile of you, that does not include Monsters 
+on a Cavern tile that is diagonal to yours. You also cannot attack 
+a Monster within 1 tile of your Hero if a wall completely blocks 
+paths between the Hero’s tile and the Monster’s tile.
+AC and HP
+The AC (Armor Class) of a Hero or a Monster determines how 
+diffi cult it is to hit. It represents a combination of physical armor, 
+agility, and natural toughness. HP (Hit Points) show how much 
+damage a Hero or Monster can take before being defeated.
+Condition: Immobilized
+The sticky ﬁ lament hurled by a cave ﬁ sher wraps itself around 
+a Hero. The magical spellweb cast by a yochlol ensnares the 
+group. These attacks and others like them cause a Hero to be 
+Immobilized.
+ 
+✦If your Hero becomes Immobilized, put an Immobilized 
+marker on your Hero card. You can have only one 
+Immobilized marker on your Hero card at a time.
+ 
+✦While your Hero is Immobilized, his or her Speed 
+is reduced to 0—that Hero can’t move! However, 
+Immobilized Heroes can still swap positions with other 
+ﬁ gures or be placed in new positions.
+ 
+✦At the end of your Hero Phase, discard the 
+Immobilized marker. 
+Condition: Poisoned
+A swarm of spiders injects toxin into a wound. The poisonous 
+spores from a baruchie colony invade a Hero’s lungs. These 
+attacks and others like them cause a Hero to be Poisoned.
+ 
+✦If your Hero becomes Poisoned, put a Poisoned marker on 
+your Hero card. You can have only one Poisoned marker 
+on your Hero card at a time.
+ 
+✦While Poisoned, your Hero takes 1 damage at the begin-
+ning of your Hero Phase. Take this damage before using 
+any Treasure cards and before checking to see if your Hero 
+must spend a Healing Surge.
+ 
+✦At the end of your Hero Phase, your roll the die. If the 
+result is 10 or higher, discard the Poisoned marker.
+ATTACKS
+A Hero makes attacks using either his or her Hero’s Power cards 
+or the powers of Treasure cards. Most Power cards are related 
+to the Hero’s class, but some Heroes also have a racial power 
+(such as the drow’s Cloud of Darkness).
+At the start of every adventure, you select Power cards that you 
+have available for that adventure. Set the remaining Power cards 
+aside. For your ﬁ rst few adventures, use the Power cards listed at 
+the front of the adventure book. Once you become familiar with 
+the game, you can select which Power cards you want to use.
+Whenever you attack, you pick a power you have in front of 
+you (either from a Power card or a Treasure card) and use it as 
+described in Combat (below).
+300_35594000_LegODrizzt_Rules r3.indd 9
+300_35594000_LegODrizzt_Rules r3.indd 9
+
+Attack Bonus
+Most attack powers and Monster attacks have an attack bonus. 
+A power with a higher attack bonus is more likely to hit than 
+one with a lower bonus.
+Making an Attack
+For each enemy a Hero’s power or a Monster’s attack targets, 
+roll the die and add the power’s attack bonus.
+If the result of the die roll plus the bonus is equal to or greater 
+than the target’s Armor Class, the attack hits.
+Certain cards and other game eff ects say “Use instead of attack-
+ing.” If a Hero (such as Drizzt) can attack more than once in a 
+turn, or attack when it’s not his or her turn, such an eff ect can 
+replace that attack. 
+Damage
+If an attack hits, it deals the listed damage to the Monster or 
+Hero. Damage that reduces a Monster’s Hit Points to 0 defeats 
+that Monster. Damage that does not reduce a Monster or Hero 
+to 0 Hit Points stays on that Monster or Hero (use the Hit Point 
+tokens to track damage). Some Monsters have powers that let 
+them heal damage. Many Hero powers allow you to heal vary-
+ing amounts of damage that one or more Heroes have suff ered.
+Defeating Monsters
+If a Monster’s Hit Points are reduced to 0, the Monster is 
+defeated. Remove its ﬁ gure from the tile. The player controlling 
+that Monster discards the Monster card into the Experience 
+pile (see page 14). If more than one Hero controls that type of 
+Monster, the player who made the attack discards the card if 
+he or she controls one of those Monsters. If not, go clockwise 
+around the table. The ﬁ rst player you reach who controls one of 
+those Monsters discards that Monster card.
+When your Hero defeats a Monster, draw a Treasure card (see 
+page 13). You can draw only one Treasure card per turn, no 
+matter how many Monsters you defeat during that turn.
+Defeating Heroes
+When a Hero is reduced to 0 Hit Points, keep the Hero’s ﬁ gure 
+on the tile. Knock the ﬁ gure on its side to show that the Hero 
+is at 0 Hit Points. Monsters ignore the downed Hero, and the 
+Hero cannot take any additional damage or use any powers or 
+items. Conditions, such as Immobilized or Poisoned, still apply 
+to the Hero. If the Hero is healed before the start of his or her 
+turn, stand the ﬁ gure up—the Hero is back in the ﬁ ght and can 
+use powers and items normally.
+A Hero that starts his or her turn at 0 Hit Points must spend 
+a Healing Surge token. If there are no Healing Surge tokens 
+remaining, the Heroes lose the adventure.
+Healing Surges
+A Healing Surge represents a Hero’s ability to ﬁ ght on against 
+overwhelming odds. Despite pain and injuries, a Hero can push 
+forward to continue the battle. The Heroes begin the game with 
+a number of Healing Surge tokens. These tokens are a resource 
+that the entire group shares. You use Healing Surge tokens to 
+revive a Hero that has been reduced to 0 Hit Points.
+ 
+✦If your Hero is at 0 Hit Points at the start of your turn, 
+you must use a Healing Surge token. Discard one Healing 
+Surge token and regain Hit Points equal to your Hero’s 
+Surge Value. You then take your turn as normal. 
+ 
+✦If there are no Healing Surge tokens remaining when your 
+Hero starts your turn at 0 Hit Points, the Heroes lose the 
+adventure and the game ends.
+Other Actions
+Moving and attacking are the most common types of actions 
+that a Hero takes, but there are other things a Hero can do.
+Picking Up and Dropping Objects
+Some adventures instruct you to place an object (represented 
+by a token) on a tile. To pick up an object, your Hero needs to 
+be in any square adjacent to the object during your Hero Phase. 
+Likewise, to drop a carried object, the carrying Hero just needs 
+to be in a square adjacent to the location he or she wants to 
+drop it. Your Hero can carry any number of objects. Picking up 
+or dropping an object does not take an action. You can even 
+pick up or drop objects in the middle of a move.
+Destroying Objects
+An adventure might specify that an object needs to be 
+ destroyed to win a particular scenario. If the object has an 
+Armor Class and Hit Points, your Hero can target it just like a 
+Monster. If your Hero has a power that attacks all Monsters on 
+a speciﬁ c tile, it can also attack an object on that tile. Once you 
+deal damage equal to its number of Hit Points, you destroy the 
+object and remove its marker from the tile.
+Monster Hit Point token
+Hit Point token
+Healing Surge token
+300_35594000_LegODrizzt_Rules r3.indd 10
+300_35594000_LegODrizzt_Rules r3.indd 10
+
+1 EXPERIENCE
+AC
+HP
++7
+TACTICS
+✦ If the Goblin 
+Cutter is within 1 
+tile of a Hero, it moves 
+adjacent to the closest 
+Hero and attacks that Hero with a 
+crude dagger.
+✦ Otherwise, the Goblin Cutter 
+moves 1 tile toward the Hero with the 
+fewest Hit Points remaining.
+GOBLIN
+GOBLIN CUTTER
+1 EXP
+ATTA
+CK
+11 Wizards 
++7
+wise, the G
+tile toward th
+Hit Points rem
+ith the
+30/200
+4 EXPERIENCE
+AC
+HP
+and move the Hero 2 tiles
++8
+TACTICS
+✦ If the Feral Troll is 
+within 1 tile of a Hero, 
+it moves adjacent to the 
+closest Hero and attacks that 
+Hero with a nasty claw. After the attack, 
+pass this card to the player on your right. 
+✦ Otherwise, the Feral Troll regains all 
+lost Hit Points and moves 1 tile toward 
+the Hero with the fewest Hit Points 
+remaining. After the move, pass this 
+card to the player on your right. 
+TROLL
+FERAL TROLL
+THE MONSTER DECK
+The Monster Deck randomly determines the Monsters that 
+cross the Heroes’ path as they explore the dungeon.
+Each Monster Card shows a Monster’s defenses and attacks. 
+Villain cards represent especially tough “boss” monsters but 
+otherwise follow the same rules.
+ 
+Monster Name and Type: This shows the name of the 
+ 
+creature and what kind of creature it is.
+ 
+AC: This is the Monster’s Armor Class, its defense score 
+ 
+(see page 9).
+ 
+HP: This is the Monster’s Hit Points, its health score 
+ 
+(see page 9).
+ 
+ Special Ability: If the Monster has a special ability, 
+it is shown here.
+ 
+Experience: This is how many Experience Points the 
+ 
+Monster is worth when you defeat it (see page 14).
+ 
+ Tactics: Each Monster card provides a Monster’s tactics. 
+The tactics are a script that shows you what the Monster 
+does when you activate it during your Villain Phase.
+ 
+✦The Monster’s tactics are presented as a list. Each possible 
+tactic for the Monster starts with a statement. If that state-
+ment is true, the Monster uses the resulting tactic.
+ 
+✦If the statement is not true, go on to the next statement. 
+The ﬁ nal entry in the tactics list is a default action that the 
+Monster follows if no other statements are true.
+ 
+✦If the tactic requires the Monster to move to a new tile, 
+place the Monster on the new tile’s mushroom patch if 
+that square is empty. Whenever possible, Monsters move 
+from tile to tile by following the mushroom patches. If the 
+mushroom patch square is occupied, place the Monster 
+anywhere on the tile.
+ 
+✦Once a Monster has selected and followed one set of 
+tactics, the Monster’s turn ends. Do not continue to check 
+its remaining tactics that turn.
+ 
+✦ Sometimes a Monster requires you to place a new 
+Monster. Add that Monster card to the end of any Monster 
+cards you control. The new Monster acts during your 
+Villain Phase.
+Disabling Traps
+A Trap from an Encounter card can be disabled. While a Hero is 
+on a tile with a Trap, he or she can attempt to disable that Trap 
+instead of attacking. If you roll the number listed on the Trap 
+card or higher, discard the Trap card and its marker.
+Escaping the Dungeon
+Some adventures require Heroes to escape from the dungeon. 
+To escape from the dungeon, your Hero needs to be on the 
+speciﬁ ed location (such as the ladder square on the Start tile 
+or the stairs on the Surface Hollow tile) at the end of your Hero 
+Phase. Unless the adventure speciﬁ es otherwise, once your 
+Hero has escaped from the dungeon, you no longer take your 
+Hero Phase or Exploration Phase, or draw Encounter cards, but 
+you do continue to take your Villain Phase and activate any 
+Monster cards or Trap cards that you control.
+Villain 
+Monster 
+Monster 
+300_35594000_LegODrizzt_Rules r3.indd 11
+300_35594000_LegODrizzt_Rules r3.indd 11
+
+Encounter 
+Encounter 
+r 
+EVENT—ATTACK
+Discard after playing.
++8
+Immobilized
+Attack each Hero on your Hero’s tile.
+A snare of webs halts Lolth’s foes.
+SPELLWEB
+AGE
+lized
+EVENT
+Discard after playing.
+Each Hero within 1 tile of a Volcanic 
+Vent tile takes 1 damage.
+Spouting lava burns your ﬂesh.
+VOLCANIC SPRAY
+M & © 20
+ro within
+takes 1
+burns your ﬂ
+© 2
+9/200
+CURSE
+9/200
+At the end of your Hero Phase, your 
+Hero can take 1 damage to 
+discard this card.
+Your Hero is cursed! Place this card 
+on your Hero card as a reminder.
+Each Hero with at least 1 Curse 
+(including yours) takes 1 damage 
+when this card is played.
+The Spider Queen desires nothing but your death.
+MARK OF LOLTH
+THE ENCOUNTER DECK
+The Encounter deck represents the Events, Traps, and other 
+threats that inhabit the Underdark. There are several types of 
+Encounter cards, each with its own special rules. Whenever you 
+draw an Encounter card, apply its eff ects immediately.
+You can cancel an Encounter Card before applying its eff ects by 
+spending Experience Points (see page 14).
+“Active Hero” and “Your Hero”: Some Encounter cards use 
+the phrase “your Hero.” The card aff ects the Hero played by 
+the player who drew the card. Encounter cards in other D&D 
+Adventure System games use “the active Hero” instead, but this 
+text always refers to the Hero of the player who drew the card.
+Other game eff ects that refer to “the active Hero” aff ect which-
+ever Hero is taking a turn when they take place.
+Curses: Some Encounter Cards represent a curse that aff ects 
+a single Hero. Place a Curse card on top of your Hero card to 
+remember its eff ect. Curses last a short time, as described on 
+their cards.
+Events: An Event card is a strange occurrence, a dreadful sight or 
+sound, or some other incident that befalls your Hero. An Event 
+takes place when you draw the card unless you cancel it with 
+Experience Points. Once you have resolved the Event, discard it.
+Most Events are yellow cards. A few Events include an attack 
+roll against one or more Heroes. These events appear on red 
+cards and are called Event—Attacks to distinguish them from 
+the Events that don’t include an attack roll.
+Traps: A Trap is a snare or other device placed in the Underdark 
+to injure and hamper the Heroes. Each Trap card has a corre-
+sponding marker. When you draw a Trap card, place the Trap’s 
+marker on your Hero’s tile. If there is already a Trap marker 
+there, discard the Trap card you just drew and draw another 
+Encounter card.
+After placing the Trap marker, put the Trap card in front of 
+you with any other Monster cards and Trap cards you control. 
+During your Villain Phase, the Trap activates like a Monster. 
+Unlike Monsters, Traps lack tactics. Instead, a Trap takes the 
+actions listed on its card. A Trap might attack all the Heroes on 
+its tile, or it might attack the Hero closest to it. A Trap attacks 
+just like a Monster.
+Disabling Traps: A Hero can disable a Trap instead of attack-
+ing, as described on page 10. If the Hero can make more than 
+one attack in a turn, the disable attempt can replace any of 
+those attacks.
+300_35594000_LegODrizzt_Rules r3.indd 12
+300_35594000_LegODrizzt_Rules r3.indd 12
+
+FORTUNE
+Play immediately.
+You couldn’t have come this far without learning 
+something.
+1 EXPERIENCE
+This card counts as 1 Experience Point. 
+Put it in the Experience pile, and 
+discard this card when the party uses 
+it for Experience.
+HARROWED EXPERIENCE
+& © 2
+W
+ERIENCE
+ITEM
+Price: 600 gold
+Discard after use.
+Use during your Hero Phase.
+Your Hero or 1 adjacent Hero regains 
+2 Hit Points.
+This glass vial contains a thin liquid that tastes like 
+honey.
+POTION OF HEALING
+THE TREASURE DECK
+The Treasure deck represents the magic items and other valu-
+ables you can ﬁ nd in the clutches of your defeated enemies. 
+Once per turn, you can draw a Treasure card when you defeat a 
+Monster. If you defeat more than one Monster in a turn, you still 
+draw just a single Treasure card.
+You can beneﬁ t from multiple Treasure cards in play that apply 
+to your Hero. For example, you can use both a Fortune and an 
+Item to increase the bonus to an attack roll. 
+The only exception to this rule applies to Items that provide 
+attack or defense bonuses. A Hero can gain only one attack 
+bonus and one defense bonus from Items at a time.
+When you use a Treasure card, follow the rules stated on it. The 
+Treasure card also explains when you can use it.
+This game includes two types of Treasure cards.
+ 
+✦Fortunes are played immediately and provide an immedi-
+ate beneﬁ t. If the beneﬁ t has no eff ect, nothing happens. 
+Discard a Fortune Treasure card immediately.
+ 
+✦Items provide a lasting beneﬁ t. When you draw an Item 
+Treasure card, decide if you want to keep it for your Hero 
+or if you want to give it to another Hero. Place the Item 
+Treasure card in front of that Hero’s player. Once you’ve 
+decided who gets the Item, you can’t give it to another 
+Hero later.
+300_35594000_LegODrizzt_Rules r3.indd 13
+300_35594000_LegODrizzt_Rules r3.indd 13
+
+Value. It also allows you to choose a new Daily power, and your 
+Hero gains the special ability to make critical attacks (shown on 
+the Hero card).
+In addition to the natural roll of 20, the Battleﬁ eld Promotion 
+Treasure card also provides an opportunity to level up your 
+Hero.
+RULES FOR LATER 
+ADVENTURES
+Once you have played the ﬁ rst two adventures and are com-
+fortable with the rules, try the rest of the adventures in the 
+adventure book. Here are rules for your later games.
+The Advanced Deck
+The Legend of Drizzt board game includes two decks of cards. 
+For your ﬁ rst couple of games, just use the Starting Deck (cards 
+1–100). Adventures 1 through 4 need only this deck. For 
+Adventures 5 and beyond, you will need the Advanced Deck 
+(cards 101–200), which adds more cards and introduces more 
+complex eff ects.
+Choosing Power Cards
+Once you have a better understanding of the game, you don’t 
+have to stick to the suggested Power cards for your Hero listed 
+in the front of the adventure book. Each 1st-Level Hero card 
+tells you how many powers of each type you get—you can 
+choose which At-Will, Utility, and Daily Power cards you want 
+to use for any particular Adventure. 
+For a slightly easier game, choose the Power cards you want. 
+This way you can set up the perfect balance of powers and 
+you’ll know exactly what to expect from your Hero.
+For a slightly more challenging game, choose your Power card 
+in each category randomly. You’ll have the fun of ﬁ guring out 
+how to get the most out of surprising combinations of powers 
+using this method of selection.
+OPTIONAL RULES
+Some adventures make use of optional rules and include some 
+or all of the pieces we suggested you set aside during setup (see 
+page 4). Here’s a brief rundown on some of these rules.
+Some adventures use these special tiles, which close off some 
+unexplored edges.
+Creating a Pre-Built Cavern Complex
+Some adventures require you to create a ﬁ nite cavern complex 
+before you begin play. To do this, follow these instructions.
+EXPERIENCE POINTS
+Heroes earn Experience Points by defeating Monsters. When 
+you defeat a Monster, the Hero who controls it puts that 
+Monster card in the Heroes’ Experience pile. Each Monster card 
+lists the Experience Points it provides. The tougher the Monster, 
+the more Experience Points it provides.
+The Heroes can spend Experience Points in two ways:
+✦ To cancel an Encounter card
+✦ To level up
+Canceling Encounter Cards
+Canceling an Encounter card represents using the hard-fought 
+experience your Hero has gained to avoid danger. For example, 
+your Hero spots a Trap and disables it before it activates, or 
+avoids an Event before it inﬂ icts any injuries.
+Whenever you draw an Encounter card, you can spend a total of 
+5 Experience Points to cancel it. The Monster cards you choose 
+from your Experience pile must add up to at least 5 Experience 
+Points. Discard the cards after you spend them. You can’t use 
+any excess points from one cancellation in a later turn.
+When you cancel an Encounter card, discard it and ignore its 
+eff ects. You can cancel an Encounter card only when you draw 
+it. Once the card comes into play, you cannot cancel it on a 
+later turn.
+Example: There are three Monsters worth 3 Experience each 
+and one Monster worth 2 Experience in the Heroes’ Experience 
+pile. If you want to cancel an Encounter card, you could spend 
+one 3-point Monster card and the 2-point Monster card. That 
+would leave you with two 3-point Monster cards in the pile. If 
+you then wanted to cancel another Encounter card, you would 
+have to spend the two 3-point Monsters. Even though you have 
+6 total Experience Points and need to spend only 5, you don’t 
+have the right mix of cards to make exactly 5. The extra point is 
+wasted and both cards are discarded, though you still cancel 
+the Encounter card.
+Leveling Up
+A Hero starts play at 1st level. Whenever a Hero rolls a natural 
+20 when making an attack roll or a disable trap roll, that Hero 
+can choose to spend 5 Experience Points to become 2nd level! 
+Discard the Monster cards after you spend them. Flip your 1st-
+level Hero Card over to the 2nd-level side. Leveling up to 2nd 
+level increases your Hero’s Hit Points, Armor Class, and Surge 
+300_35594000_LegODrizzt_Rules r3.indd 14
+300_35594000_LegODrizzt_Rules r3.indd 14
+
+First, place the Start tile on the table. Shuffl e the Cavern tile 
+stack, and then place a Cavern tile next to each unexplored 
+edge of the Start tile.
+Next, place another Cavern tile next to each unexplored edge, 
+as shown here.
+Count the number of unexplored edges that remain, and then 
+take that many Cavern Edge tiles. If the adventure calls for the 
+numbered Fissure tiles, take them before other Cavern Edge tiles. 
+Shuffl e the Cavern Edge tiles, and then place a Cavern Edge tile 
+next to each unexplored edge in your cavern complex.
+You now have a completed cavern complex and can start play-
+ing through the adventure.
+Blocked Edges
+Some adventures call for you to add Cavern Edge tiles to the 
+map during play. If you cannot physically place a tile because 
+a Cavern Edge tile is in the way, your Hero cannot explore in 
+that direction.
+Drizzt cannot explore from his current location because the 
+ Cavern Edge tile blocks the placement of Cavern tiles on that 
+ unexplored edge.
+Competitive Adventures
+Some adventures direct the players to compete against each 
+other. Even in a competitive adventure, a Hero cannot attack 
+another Hero unless the adventure so speciﬁ es. 
+Team Adventures
+A competitive adventure might split the Heroes into teams. A 
+team can include a single Hero.
+Each team has its own Experience pile. If a new team is cre-
+ated in the middle of a game, that team starts with an empty 
+Experience pile. The active Hero has the ﬁ nal say on spending 
+Experience to cancel Encounter cards or to level up.
+Villainous Heroes
+Some competitive adventures might involve one or more 
+Villainous Heroes. A Villainous Hero counts as both a Villain 
+and a Hero, and he or she can use Power cards and Treasure 
+cards against other Heroes as if they were Monsters. The other 
+Heroes treat Villainous Heroes as Villains. A Villainous Hero 
+acts during that player’s Hero Phase, not during each player’s 
+Villain Phase.
+Villainous Heroes are still susceptible to attacks from Monsters 
+and Encounter cards unless otherwise speciﬁ ed by the adventure. 
+For more adventures and other optional rules, 
+check out www.DungeonsandDragons.com.
+300_35594000_LegODrizzt_Rules r3.indd 15
+300_35594000_LegODrizzt_Rules r3.indd 15
+
+D&D
+®D A
+® DVENTURE
+SYSTEM
+COOPERATIVE GAME
+G
+What does a Monster do when a Hero is at 0 Hit Points?
+Monsters ignore Heroes that are at 0 Hit Points. Follow the tactics on 
+a Monster’s card as though any Hero at 0 Hit Points were not there. If 
+all of the Heroes are at 0 Hit Points during a player’s Villain Phase, the 
+Monsters do nothing and the phase ends immediately.
+What is a marker?
+Markers are 2-inch squares used to show where something is on a 
+Cavern or Dungeon tile. Markers represent Hazards, Traps, some 
+Items, and some terrain features (such as the Crystal Prison). 
+What do we do when we draw all the cards from a deck?
+If you play through an entire deck of cards, shuffl e that deck’s discard 
+pile and keep playing.
+Does each Hero maintain an Experience pile?
+Experience is a party resource. There is only one Experience pile, 
+which all the Heroes share. Any Hero can choose to spend Experience 
+to cancel an Encounter card or to level up. Players should decide 
+together when to spend Experience, but the active Hero can always 
+choose to spend or not to spend Experience.
+I just defeated a Monster by rolling 20. Can I use the Experience 
+from that Monster to level up?
+Yes.
+What’s the diff erence between a Monster and a Villain?
+A Villain is a special kind of Monster. Anything that aff ects a Monster 
+also aff ects a Villain. 
+Do I get Experience for defeating a Villain?
+Yes. When you defeat a Villain, add the Villain’s card to the Experience 
+pile. That Experience can be spent just like other Monster cards.
+My Hero is currently not on a tile due to a Power or Encounter 
+card. What happens when another card is drawn that aff ects 
+each Hero?
+A Hero might be trapped in the Pit or be hiding for a turn. A Hero that 
+isn’t on a tile due to the eff ects of a card is not aff ected by other cards 
+drawn while he or she is not on a tile.
+Sometimes a Monster’s card says to move it adjacent to the closest 
+Hero. What do I do if that Monster is already adjacent to a Hero?
+You can simply leave the Monster where it is, or you can move it to 
+any other unoccupied square adjacent to that Hero.
+What do I do when placing a Monster on a tile that has an 
+occupied mushroom patch?
+You instead place the Monster on any square on that tile.
+Where do I put a Monster that I move with one of my Powers or 
+Treasure cards?
+You can place the Monster in any unoccupied square that meets the 
+eff ect’s requirements. For example, Tide of Iron allows you to place 
+the Monster on any unoccupied square on any tile within 1 tile of 
+your Hero’s current location.
+What does “within 1 tile” mean?
+An object (such as another ﬁ gure, a token or 
+marker, or an unexplored edge) is within 1 tile 
+of a ﬁ gure when that object is on the ﬁ gure’s current tile or on a tile 
+connected to the ﬁ gure’s current tile. (Diagonally touching tiles are 
+not connected.)
+The Legend of Drizzt Speciﬁ c Cards
+Mark of Lolth (6–10, 108–110): The newly cursed Hero takes 1 
+damage when this card is played. A Hero takes only 1 damage when 
+a Mark of Lolth card is played, regardless of how many Curse cards 
+that Hero has. This damage also applies if a Hero has Curse cards from 
+other D&D Adventure System games.
+Dinin Do’Urden, Drider (26): If you are playing a solo game, you do 
+not pass the card after Dinin acts.
+Feral Troll (30, 131): If you are playing a solo game, you do not pass 
+the card after the Feral Troll acts.
+Hypnotic Spirit (38–39, 135): If your Hero is Immobilized, he or she 
+does not move toward the Hypnotic Spirit.
+Khazid’hea (46): You do not take the damage from using this power 
+until after all attacks are completed. If an eff ect (for example, from 
+Battle Trance) allows you to regain Hit Points when attacking, you 
+regain the Hit Points before taking the damage from Khazid’hea. 
+Ruby Pendant (70): You can deal the 1 damage to any Monster on 
+the Monster’s tile, including the Monster targeted by the attack.
+Battleﬁ eld Promotion (75): A Hero doesn’t spend Experience to level 
+up by using this card.
+Drizzt (Ally) (103), Wulfgar (Ally) (107): If no Monster is in play, the 
+Ally does nothing.
+Hunting Party (138–139): If any of the cards you draw match a 
+Monster that you already control, discard that card and draw a new one.
+Immobilized: This Condition takes eff ect during your Hero’s move 
+action and any time the Hero would move due to some other eff ect. 
+Immobilized Heroes can still swap positions with other ﬁ gures or be 
+placed in new positions.
+Villain Clariﬁ cation
+Yochol, Handmaiden of Lolth: This Villain’s card starts with the Drow 
+Form side face up. Once the Yochlol takes 5 damage, ﬂ ip over its 
+Villain card. It takes 10 total damage to defeat the Yochlol, regardless 
+of which side of its Villain card is showing.
+Dark Chasm/Underground River
+The squares of the chasm or river are impassable to ﬁ gures with bases 
+that occupy only 1 square; you cannot place a ﬁ gure in those squares 
+or move one through them, only the bridge squares. A larger ﬁ gure, 
+such as Errtu or a Feral Troll, can occupy such a square as 
+long as the ﬁ gure is also on at least 1 bridge square. A 
+Hero cannot use an eff ect to place a Monster in a chasm 
+or river square unless the adventure speciﬁ cally 
+allows it.
+D&D Adventure System FAQ
+We’ve scoured the message boards and our personal mailbags to put together this list of frequently asked questions and the appropriate 
+answers. Many of these have already been worked into the newest version of the rulebook, but some questions still need answers. So here they 
+are. Check out www.DungeonsandDragons.com for the most up-to-date rules and FAQ for the D&D Adventure System board games.
+U.S., Canada, Asia Paciﬁ c, & Latin America
+www.wizards.com/customerservice
+Wizards of the Coast LLC
+P.O. Box 707
+Renton WA 98057-0707
+U.S.A.
+Tel: 1-800-324-6496 (within the U.S.)
+1-425-204-8069 (outside the U.S.)
+U.K., Eire, & South Africa
+wizards@hasbro.co.uk
+Wizards of the Coast LLC
+c/o Hasbro UK Ltd.
+Caswell Way, Reevesland Industrial Estate,
+Newport NP19 4YH
+UK
+Tel: +44(0)8457 12 55 99
+All Other European Countries
+custserv@hasbro.be
+Wizards of the Coast p/a Hasbro Belgium NV/SA
+Industriallan 1
+1702 Groot-Bijgaarden
+BELGIUM
+Tel: +32.70.233.277
+Please retain these addresses for future reference.
+300_35594000_LegODrizzt_Rules r3.indd 16
+300_35594000_LegODrizzt_Rules r3.indd 16
+3/28/11 3:43 PM
+3/28/11 3:43 PM

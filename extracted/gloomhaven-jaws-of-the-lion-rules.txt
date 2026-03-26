@@ -1,0 +1,2136 @@
+W
+elcome to Gloomhaven! This game is fully cooperative, 
+ with players working together to navigate their way 
+through a campaign of scenarios. You will not play it all 
+in one sitting, but it can easily be saved at the end of any 
+single scenario. This book is meant to walk you step‑by‑step 
+through the first five scenarios of this campaign, after which 
+point you should have all the tools to continue on through 
+the rest of it. It is encouraged that you play as you read this 
+book. Any time you see this icon   off to the side, the text 
+will direct you to do something in the game. 
+Let’s start by getting out the Scenario Book. Its front cover 
+contains the introduction to the story of this campaign and 
+will direct you to unlock Scenario 1. Each scenario is meant 
+to be played until successfully completed, and then players 
+will move on to a new scenario. Playing through Scenario 1 
+will unlock Scenario 2 and so on. Now, go ahead and read 
+the front cover of the Scenario Book and refer back to 
+‘Scenario 1 Rules’ here on p. 3 when the Scenario Book 
+directs you to do so.
+Learn to Play Guide
+Learn to Play Guide
+
+Table of Contents
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+Scenario 1 Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Play Area Setup. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Scenario Book Features. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Playing the Game. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Card Selection. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Ordering of Initiative. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Character Turns. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Move. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Attack. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Range and Melee. . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Attack Modifier Cards. . . . . . . . . . . . . . . . . . . . . . . . . 8
+Advantage and Disadvantage. . . . . . . . . . . . . . . . . . 8
+Damage and Killing Monsters. . . . . . . . . . . . . . . . . 9
+Line‑of‑Sight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Target. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Suffer Damage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+Conditions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Heal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Self. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Granting Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Destroying Obstacles. . . . . . . . . . . . . . . . . . . . . . . . . 10
+Monster Turns. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Monster Stat Cards. . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Monster Focus. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Monster Move. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Monster Attack. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Character Damage and Exhaustion. . . . . . . . . . . . . . . 12
+End of Round. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Short Rest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Running Out of Cards. . . . . . . . . . . . . . . . . . . . . . . . 12
+Scenario 1 Complete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Character Sheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Card Upgrades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Saving. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Scenario 2 Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+New Scenario Features. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Money Tokens. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Treasure Tiles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Traps. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Doors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+New Action Mechanics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Basic Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Lost Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Looting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Area Effects. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Push and Pull. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+New Negative Condition: Disarm. . . . . . . . . . . . . . . . . 16
+Negating Damage Through Lost Cards. . . . . . . . . . . 16
+Failing a Scenario. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+New Monster Mechanics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Monster Ability Decks. . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Monster‑Trap Interaction. . . . . . . . . . . . . . . . . . . . . . . . .17 
+Monster Ranged Attacks. . . . . . . . . . . . . . . . . . . . . . . . . 18
+Scenario 2 Complete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Recording Money Rewards. . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+City Interaction: Items. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Buying, Selling, and Trading Items. . . . . . . . . . . . . . . 19
+Item Usage: Consumed, Spent, or Free. . . . . . . . . . . . 19
+Scenario 3 Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+New Scenario Features. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Difficult Terrain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Section Breaks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+New Action Mechanics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Experience. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Active Bonuses. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Shield. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Jump. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+New Conditions: Curse, Bless, Poison, 
+and Wound. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Long Rest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Multi‑Target Monster Focus. . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Monster Active Bonuses. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Scenario 3 Complete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Recording Experience Rewards. . . . . . . . . . . . . . . . . . . . . . 23
+Perks. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+New City Interaction: Events. . . . . . . . . . . . . . . . . . . . . . . . . 24
+Scenario 4 Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Supplemental Scenario Book. . . . . . . . . . . . . . . . . . . . . . . . . 25
+New Setup. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Full Monster Ability Decks. . . . . . . . . . . . . . . . . . . . . . . 25
+Spawning Monsters. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Element Board. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Battle Goals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+New Action Mechanic: Elements. . . . . . . . . . . . . . . . . . . . . 26
+New Scenario Feature: Objectives. . . . . . . . . . . . . . . . . . . . . 27
+Scenario 4 Complete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Individual Rewards. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Pools of Cards and Building a Hand. . . . . . . . . . . . . . . . . . 27
+Scenario 5 Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Boss Mechanics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Condition Immunity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Special Abilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Stat Scaling. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Scenario 5 Complete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+New City Interaction: Leveling Up. . . . . . . . . . . . . . . . . . . . 29
+Gaining a Higher Level Ability Card. . . . . . . . . . . . . . 29
+Gaining Hit Points and Perks. . . . . . . . . . . . . . . . . . . . . 29
+Scenario Level. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Final Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+To start, perhaps you noticed this in the Scenario Book:
+ 
+The city map board is a way to see which scenarios are 
+available for you to play. At the moment, only Scenario 1 
+is available, but as you progress through the campaign, 
+more choices will open up. Set the city map board to the 
+side for now, though.
+Before we get into Scenario 1, each player must decide 
+which character they are going to play. There are four 
+characters available, allowing up to four players to 
+participate in the game. 
+To choose which character to play, find the large and 
+small boxes with the four character icons and remove 
+the contents:
+There are figures of the characters in the small boxes, 
+and the large boxes contain character mats with artwork 
+on the front and a description of the character on 
+the back. Once characters are chosen, players should 
+claim their character’s figure and mat, the rectangular 
+initiative order token from their character’s zip bag, 
+a hit point dial from the game box, a deck of smaller 
+cards with no warning, and the first seven cards 
+from the larger deck with no warning. These card 
+decks are located in the character’s large box. Of the 
+seven cards taken from that deck, one is a player 
+reference card and six are ability cards with an “A” in 
+the crown under the title. The two decks with warnings, 
+along with the remainder of the other large deck, the 
+character sheet pad, and the strip of circular character 
+tokens, should remain in the box for now. 
+Demolitionist:
+Melee Damage 
+and Obstacle
+Destruction
+Hatchet:
+Ranged Damage 
+and Looting
+Red Guard:
+Protection and 
+Monster
+Manipulation
+Voidwarden:
+Healing 
+and Support
+Scenario 1 Rules
+Scenario 1 Rules
+− Playing by Yourself? −
+Note: 
+These will not 
+be used yet!
+If you are playing the game by yourself, you will need to 
+control two separate characters. Take note that this is a 
+more complex experience. If there are two to four players, 
+it is highly recommended that each player only controls a 
+single character.
+Reference Card
+These stickers are permanent. If you would prefer not to make 
+permanent changes to your game, feel free to ignore them and track 
+which scenarios are available to you in some other way.
+This means to take that first sticker from the sticker sheet, 
+labeled “Roadside Ambush”, and place it in the “B1” square 
+of the city map board, such that the artwork lines up. 
+New Location: Roadside Ambush 1 (B1)
+Deck of Small Cards
+Initiative Order Token
+Dial
+Do not open this pack of 
+cards until this character 
+reaches level 5!
+At that time, flip this card 
+over and read the back for 
+further instructions.
+Do not open this pack 
+of cards until you are 
+directed to do so!
+These cards are added to 
+your attack modifier deck 
+as your character becomes 
+more powerful, so you 
+won’t need them at the 
+start of the campaign.
+Figure
+Character Mat
+d
+ff
+6 Cards labeled “A”
+on Pu
+
+Using these character materials and other components, 
+we will now set up Scenario 1.
+ 
+Each player should place their character mat  , player 
+reference  , six level “A” ability cards  , attack 
+modifier deck (the deck of smaller cards)  , and hit 
+point dial  in front of them. The red side of the dial 
+should be set to the red number below the white “1” on 
+the bottom their character mat. The blue side of this dial 
+should be ignored for now. 
+The character’s initiative order token  should be 
+placed near the center of the table. 
+Open the Scenario Book to Scenario 1  and place it 
+in the middle of the table. This book shows the scenario 
+map, which consists of a number of hexes (hexagons) 
+where the scenario will play out. 
+Each player can now place their character’s figure on any 
+one of the starting hex icons  in the Scenario Book, 
+with no two characters occupying the same hex. 
+Retrieve the zip bag of “Vermling Raider” monsters 
+and remove the cardboard standees, the large square 
+stat card, and the initiative order token, which can be 
+placed with the others  . The smaller cards are not 
+needed in this scenario. Insert the stat card in one of the 
+six‑section envelopes from the box so that the area with 
+the “1” in the upper left corner is showing   and place 
+it next to the Scenario Book. 
+Now put the monster standees into the white and gold 
+plastic stands found in the game box and populate the 
+map in the Scenario Book  following these rules: 
+ 
+1) This icon shows what set and rank of monster 
+should be set up on this specific hex. Reference the 
+first row for two player characters, the middle row 
+for three characters, and the bottom row for 
+four characters.
+9.
+2) A black icon means no monster should be placed for 
+that character count, white means a normal monster 
+(standee with a white stand) should be placed, and gold 
+means an elite monster (standee with a gold stand) 
+should be placed. Each standee has a number on it. This 
+number should be randomized when setting them up.
+Play Area Setup
+Play Area Setup
+Special Rules
+Conclusion
+Introduction
+Goal
+Kill all enemies
+Roadside Ambush (B1)
+Make sure each character is playing with 
+their 6 ability cards marked “A”.
+The Vermling Raiders will act on initiative 50 
+each round. They will first move their base 
+move value (1), and then, if a character is 
+adjacent to them, attack for their base attack 
+value (2).
+New Location: A Hole in the Wall 2 (B1)
+The road back to Gloomhaven has been long. 
+And now to get attacked by Vermlings when 
+all you want is a warm meal and a soft bed, 
+well, it makes you mad. Mad enough to kill 
+these mangy creatures before you collapse 
+from exhaustion.
+Of course, the Vermlings have other plans. 
+They gibber about wanting your coin and the 
+meat on your bones. Nasty things, really. Best 
+to ignore their ranting and end this quickly.
+You wipe the blood of the last Vermling from 
+your face, and your thoughts return to the 
+Sleeping Lion. Surely they’ve got a stew ready 
+by now. It would be so perfectly warm and 
+soothing, and it’s right through that gate — 
+so close, you can already taste it...
+But then another thought comes. It is 
+highly unusual — brazen, really — for 
+a pack of Vermlings to operate so close to 
+the city. Could they be behind the string 
+of disappearances? It’s a long shot, but one 
+worth investigating, especially considering 
+this ambush site doesn’t look like their base 
+of operations. There is probably a nest 
+close by that, with any luck, will have more 
+information.
+And treasure. Treasure would be nice.
+TIP: All hexes with a green 
+border are obstacles and 
+cannot be moved into. The 
+Demolitionist can destroy them, 
+though, at which point they 
+become normal hexes.
+TIP: Place each of your 
+character figures on one of the 
+indicated entrance hexes.
+TIP: Place a sticker for 
+Scenario 2 on the map, then 
+return to the Learn to Play 
+Guide for further instruction.
+S
+E
+F
+G
+No Monster
+Normal Monster
+Elite Monster
+Rank Indicator:
+2 Characters
+3 Characters
+4 Characters
+H
+Level 1 Health
+(Red Guard)
+Standee Number
+
+Take the plastic token tray   and put it next to the 
+Scenario Book. Also take the other 20-card deck of attack 
+modifier cards labeled “M”   from the game box and 
+place it next to the monster stat card (do not include 
+any Curse or Bless cards 13 ). This is the monsters’ 
+attack modifier deck. Shuffle this and all character 
+attack modifier decks.
+There is a lot of important information in the 
+Scenario Book that should be noted:
+Scenario number, title, and city map 
+board location, for ease of reference.
+Goal of scenario. When this is achieved, 
+the scenario is successfully completed. In 
+this case, all monsters on the map must 
+be killed.
+Scenario key, listing what monsters from 
+the game box and what tokens and tiles 
+from the token tray will be needed to set 
+up the map. In this case, all that is needed 
+are the Vermling Raiders.
+Map Layout. For this scenario, this 
+just shows that the two-page spread in 
+the scenario book is sufficient to depict 
+the scenario. Future scenarios may also 
+show that a separate page from the 
+Supplemental Scenario Book is needed.
+Introduction text. Read this now.
+Special rules text. Read this after 
+the introduction. It gives additional 
+information not covered by the normal 
+rule set.
+Conclusion text. Do not read this until 
+the scenario has been successfully 
+completed.
+Rewards for successfully completing the 
+scenario. Read this after the conclusion. 
+Tips and rules reminders. Read these as 
+needed during the scenario.
+Obstacle designations on the scenario 
+map, signified by a green border. Obstacle 
+hexes cannot be entered.
+Wall designations on the map. The 
+hexes of each scenario are contained 
+within a thick, dark border line. These 
+lines are the walls of the scenario and 
+cannot be crossed.
+D
+E
+F
+G
+H
+Scenario Book Features
+Scenario Book Features
+20 22 24 26
+2 damage (plus modifier).
+Target all adjacent enemies
+All adjacent enemies suffer
+2 damage (plus a separate
+modifier for each).
+Twirling Stabs
+Move 4
+Move up to 4 hexes away.
+One enemy within 2 hexes suffers 2 damage 
+(plus modifier—Disadvantage if adjacent) 
+and cannot move until the end of its next turn.
+2 damage (plus modifier).
+One enemy within 2 hexes suffers
+3 damage (plus modifier—
+Disadvantage if adjacent).
+Flaming Sickle
+Vermling
+Raider
+Map Layout
+cenario Key
+TIP: Remember the icons for 
+setting up monsters. On this 
+hex, no monster is placed for two 
+characters, a normal monster is 
+placed for three characters, or an 
+elite monster is placed for four 
+characters.
+D
+STUN 
+Target one adjacent enemy
+One adjacent enemy cannot perform any 
+actions until the end of its next turn.
+Destroy one obstacle within Range 3.
+Move up to 2 hexes away, then place a 
+destruction token on one obstacle within 3 
+hexes. It is now considered a normal hex.
+(plus modifier) and gains Disadvantage on
+all its attack until the end of its next turn.
+Implode
+9.
+
+Each player will now privately and simultaneously select 
+two ability cards from their hand of six cards to play face 
+down in front of them. During this step, players can make 
+general statements about their actions for the round 
+and discuss strategy, but they cannot show other players 
+their cards nor give specific information about any 
+numerical value or card title.
+Of the two cards chosen, one is selected as the initiative 
+card, which will determine the character’s initiative 
+(order in the round), based on the initiative value in the 
+center of the card  , where lower numbers go first. 
+The initiative card should be placed face down beneath 
+the other card such that, when both cards are flipped 
+over and revealed, it is now the card on top and the 
+initiative value is visible.
+Once the character’s turn comes up in the initiative 
+order, they will carry out their turn by performing the 
+top action  of one of their cards and the bottom 
+action  of the other card in whatever order 
+they want. 
+We haven’t covered the specifics of how all the actions 
+work yet, but the plain‑text descriptions in the blue 
+boxes on the card  should give you a better idea of 
+their function. If you are unsure about what cards to 
+pick, try these suggestions for each character:
+Choosing which of the two to be your initiative card, 
+however, is up to you. The round will be acted out from 
+low to high initiative, and, according to the special rules 
+for this scenario, the monsters will be acting on initiative 
+50, so the decision to make is whether you want to 
+go before the monsters (lower number) or after the 
+monsters (higher number).
+Ignore the icons in the middle left of the cards  for 
+now. These will be discussed in Scenario 2.
+Now that the game has been set up properly, we can 
+start playing! Gameplay within a scenario is broken up 
+into a series of rounds. In each round, all players will 
+select which ability cards they would like to play. The 
+chosen cards will determine the “initiative order”, which 
+is the sequence in which characters and monsters will 
+perform their turns. Once all figures (characters and 
+monsters) on the map have taken a turn, the round will 
+end and a new round will begin. 
+Every round follows the same order:
+Character and Monster Turns 
+Let’s begin with the first part of the first round.
+Hatchet
+Demolitionist
+Center Mass
+One‑Two Punch
+Double Throw
+Voidwarden
+Red Guard
+Suggestion
+Wicked Scratch
+Shocking Advance
+Playing the Game
+Playing the Game
+One adjacent enemy suffers 2 damage
+(plus modifier), then the same or
+a different adjacent enemy suffers
+One-Two Punch
+
+ 
+Once all players have selected their cards, flip over each 
+character’s cards to reveal their initiative. Determine 
+initiative order by comparing the initiative value of 
+each character’s initiative card and the initiative of the 
+monsters (this will always be 50 for Scenario 1). Then, 
+arrange the initiative order tokens from low to high 
+based on each of these initiatives. 
+If there is a tie between any character and monster, 
+the character goes first. If there is a tie between two 
+characters, the tie breaker is the initiative value of their 
+second card. 
+You are then ready to act out the round, starting with 
+the first figure in the initiative order — the one with the 
+lowest initiative. 
+Example: After the cards are revealed, the Red Guard will go 
+first with initiative 14, then the Demolitionist with 20, then the 
+monsters will go with their 50 initiative, then the Hatchet will 
+go at initiative 64.
+Once the initiative order is set, each figure will get a turn 
+in that order. On a character’s turn, they will perform 
+one top action and one bottom action. They cannot 
+perform two top actions or two bottom actions. Their 
+selection of which card to use for their initiative no 
+longer matters. They can use either card first, for either 
+its top or bottom action. An action (the entire half of a 
+card) must be performed in the order written, and then 
+the card is placed in the character’s discard pile, on the 
+left side of their character mat.
+Actions may be composed of multiple abilities, with 
+each ability separated by an ability line (dotted line). 
+Any ability or action can be skipped.
+We will now discuss the possible types of abilities so that 
+the first character in the order can take their turn. If the 
+Vermling Raiders are acting first, skip to “Monster Turns” 
+on p. 10, then return here when it is a character’s turn.
+ Move 
+A “Move  X” ability allows a figure to move 
+up to X hexes. The figure does not have to use 
+all movement points when performing a move 
+ability. Figures can move through their allies (characters 
+through characters, monsters through monsters), 
+though the movement can never end on an occupied 
+hex (a hex with another figure). Figures cannot move 
+through enemies, obstacles, or walls.
+Move 4
+Move up to 4 hexes away.
+One enemy within 2 hexes suffers 2 damage 
+(plus modifier—Disadvantage if adjacent) 
+and cannot move until the end of its next turn.
+Move 3
+Move up to 3 hexes away.
+(plus modifier) and cannot move
+until the end of its next turn.
+Shocking Advance
+One adjacent enemy suffers 2 damage
+(plus modifier), then the same or
+a different adjacent enemy suffers
+One-Two Punch
+Move 3
+Move up to 3 hexes away.
+Range 3
+One enemy within 3 hexes suffers
+3 damage (plus modifier—
+Disadvantage if adjacent).
+Center Mass
+Add +1 Attack to all
+your attacks this turn.
+Range 3
+Target 2
+Up to two enemies within 3 hexes suffer
+2 damage (plus a separate modifier for
+each—Disadvantage if adjacent).
+Double Throw
+Demolitionist
+Hatchet
+Red Guard
+2nd
+1st
+3rd
+4th
+Disadvantage if ad
+
+ Advantage and Disadvantage
+Some effects, such as the conditions on the following 
+page, may cause an attack to gain either Advantage or 
+Disadvantage. If an attack has Advantage, the attacker 
+draws two attack modifier cards and applies whichever 
+one is better. If an attack has Disadvantage, the attacker 
+draws two cards and applies whichever one is worse. 
+An attack cannot have multiple instances of Advantage 
+or Disadvantage, and if an attack has both Advantage 
+and Disadvantage, they cancel each other out. 
+If a ranged attack is performed on an adjacent enemy, 
+the attack gains Disadvantage.
+ Attack Modifier Cards 
+Any time a figure performs an attack, the figure must 
+flip over one card from their attack modifier deck for 
+each separate target to modify the attack.
+A numerical value should be added or subtracted 
+from the attack value.
+A    card means the attack value should 
+be doubled.
+A    card means the attack does no damage.
+The    and    cards also have a shuffle symbol, 
+meaning if either is revealed, the whole deck should 
+be shuffled at the end of the round.
+ 
+Each character has their own attack modifier deck, and 
+the monsters collectively share a deck. In Scenario 1, each 
+deck is the same, consisting of 20 cards: six    , five    , 
+five    , one    , one    , one    , and one   .
+ Attack 
+An “Attack  X” ability allows a figure to 
+cause one targeted enemy within their range 
+to suffer a base X amount of damage. Figures 
+cannot attack their allies unless otherwise specified. 
+There are two types of attacks: ranged and melee.
+Ranged attacks are denoted by a “Range   X” 
+written under the attack, which means one 
+enemy within X hexes of the attacker can be 
+targeted by the attack. Range cannot be counted through 
+a wall. If the word ‘Range’ is not used under an ‘Attack’, 
+the attack is considered melee, which means it can only 
+target adjacent enemies unless otherwise specified.
+The main difference between ranged and melee attacks, 
+other than what can be targeted, is that if a ranged 
+attack targets an enemy adjacent to the attacker, 
+the attack gains Disadvantage (see Advantage and 
+Disadvantage below).
+x5
+x5
+x6
+Example: 
+The Demolitionist (a) 
+is in Range   2 
+of the monster (1).
+
+ Conditions
+Conditions may be applied as their own ability or as the 
+effect of an attack. Even if an attack does no damage, 
+conditions are still applied. There are four conditions 
+applicable to Scenario 1— three negative and one 
+positive. If a condition is applied to a character, place 
+the corresponding token in the lower left section of their 
+character mat. If a condition is applied to a monster, 
+place the token on the stat envelope in the section 
+corresponding to the number on the monster’s standee. 
+These four conditions stay on the target until the end of 
+the target’s next full turn, which could be in the same 
+round or the subsequent round if they already had a turn 
+this round.
+Negative Conditions:
+Immobilize: The figure cannot perform any 
+Move abilities.
+Stun: The figure cannot perform any abilities, 
+including moving or attacking.
+Muddle: All of the figure’s attacks gain 
+Disadvantage.
+Positive Condition:
+Strengthen: All of the figure’s attacks 
+gain Advantage.
+The following rules, up to “Monster Turns” on the next page, are for more situational 
+character effects. Feel free to begin taking character turns now and simply refer back to 
+here when necessary. Then, continue on to “Monster Turns” on the following page when 
+initiative 50 comes up in the order and the monsters act, if they haven’t already.
+ Damage and Killing Monsters
+After an attack is made and the final 
+attack value is calculated (modified first by 
+any bonuses and then the attack modifier 
+card) that amount of damage is suffered 
+by the target. In the case of a monster 
+suffering damage, place damage tokens 
+equal to the amount suffered on the stat 
+envelope in the section corresponding to 
+the number on the monster’s standee. 
+If there are then enough damage tokens to equal or exceed the monster’s 
+maximum hit point value (see p. 10), the monster is killed and removed 
+from the map. All tokens in the monster’s stat envelope section can then 
+be returned to the tray.
+ Line‑of‑Sight
+When any figure is targeted by an 
+ability, the targeting figure must have 
+a clear line‑of‑sight to the target in 
+order to perform the ability. This is 
+established if a line can be drawn from 
+any part of the targeting figure’s hex 
+to any part of the target’s hex without 
+touching a wall line. Only walls block 
+line‑of‑sight. Obstacles and other 
+figures do not block line-of-sight.
+ Target
+Some attacks are followed by a “Target   X”, which means the attacker 
+can target X number of different enemies within the attack’s range. It 
+is not possible to target the same enemy with multiple attacks from 
+the same ability. For each separate attack performed, a separate attack 
+modifier card is flipped.
+ Suffer Damage 
+Some abilities cause figures to suffer 
+damage without an attack being made. 
+This damage is not modified and is not 
+affected by line‑of‑sight.
+
+ Heal 
+A “Heal  X” ability allows a figure to cause one ally 
+within the specified range or themselves to heal X 
+amount of damage. Characters heal damage by rotating 
+their hit point dial (the red side) up that amount. A 
+figure cannot heal above their maximum hit point value. 
+ Granting Actions
+The Voidwarden has abilities that grant actions to other 
+figures — both allies and enemies. The initial text of 
+such an ability specifies who the action is granted to as 
+a targeted effect, and then the granted action is detailed, 
+where all normal rules of attacking and moving are 
+applied. If a figure is granted an attack action, the figure 
+uses their own attack modifier deck, unless otherwise 
+specified. A figure granted an action does not take 
+another turn — they are performing the action on the 
+Voidwarden’s turn. 
+On initiative 50, the Vermling Raiders will now all act. 
+Any single set of monsters will always act on the same 
+initiative. Any elite monsters will act first, in standee 
+numerical order, and then any normal monsters will act, 
+also in numerical order. When a monster acts, it carries 
+out its entire turn before the next monster acts. 
+The specifics of how a monster carries out its turn are 
+described on the next page and can be referenced as 
+necessary, but the short version is that the monster 
+will move its base move value (1) towards the closest 
+character, and then attack with its base attack value (2) 
+if they are adjacent to that character. These values are 
+shown on the monster stat card, depicted below. 
+ Monster Stat Cards
+The monster stat card is an important repository of 
+information for the monsters you are fighting. These are 
+slipped into stat sleeves such that only one stat group is 
+showing. The set includes:
+Monster name.
+Level of the monster. Set this to “1” for all 
+scenarios discussed in this book, but it will 
+increase as characters become more powerful.
+Stats for normal (white) monsters.
+Stats for elite (gold) monsters.
+Monster’s maximum hit point value, 
+which is the amount of damage it needs 
+to suffer to die.
+Monster’s base move value, which is 
+the number of hexes it can move on 
+its turn.
+Monster’s base attack value, 
+which is the value it will 
+use when attacking.
+ Destroying Obstacles
+The Demolitionist has abilities that cause an obstacle 
+within a specified range to be destroyed, making the 
+hex(es) the obstacle occupied now traversable. Note that 
+some obstacles occupy more than one hex, depending 
+on the number of hexes the green border surrounds. 
+When an obstacle is destroyed, place 
+destruction tiles on each hex of the 
+destroyed obstacle, even if the hex is 
+out of range, to denote that they are 
+now normal traversable hexes.
+ Self
+Some abilities specify the target as “Self”. This 
+means that the figure using the ability is the only 
+possible target.
+Destruction Token
+rmling Raider
+Vermling Rai
+
+ Monster Focus 
+Before a monster does anything else on its turn, the 
+monster will focus on one specific character to attack. 
+The focus will be the character the monster can perform 
+its attack against using the least amount of movement. 
+In Scenario 1, the monsters only attack from adjacency, 
+so the monster will find the shortest possible path to 
+get adjacent to a character, and then that character will 
+become the focus. If a character is already adjacent to 
+the monster, then that character becomes the focus, and 
+finding a path is not required. If multiple characters 
+can be reached in the same number of movements, the 
+monster focuses on the one earlier in the initiative order.
+It does not matter whether the monster can reach the 
+end of its path this turn. So long as there is a path, given 
+infinite movement, to reach a hex to attack a character, 
+the monster will still focus on that character. Focus also 
+does not require line-of-sight.
+It is possible a monster fails to find a focus because there 
+are no valid hexes it can move to in order to get adjacent 
+to any character. In this case, the monster does not move 
+or attack.
+ Monster Move 
+In this scenario, once the monster has a focus, it will 
+then move to get closer to its focus. If the monster 
+cannot get closer to its focus, either because it is already 
+adjacent or another monster is in its path, then it will 
+not move. If it is ever ambiguous where a monster will 
+move because it has multiple equally viable options, the 
+players decide which option to take.
+ Monster Attack
+In this scenario, once the monster has moved, if it is 
+now adjacent to its focus, it will attack its focus. It does 
+so in the same way characters attack, with its base 
+attack value modified by an attack modifier card flipped 
+from the monster attack modifier deck. The targeted 
+character then suffers this amount of damage.
+Example: Even though the Hatchet (a) is physically closer 
+to the monster (1), the monster can get adjacent to the 
+Demolitionist (b) in fewer movement points (2 instead of 4), 
+so the monster focuses on the Demolitionist.
+Example: The monster (1) 
+wants to move to get adjacent 
+to the Demolitionist, and has 
+a path to do so, but it only 
+has “Move  1”. Because it 
+cannot move anywhere that 
+would reduce its path to its 
+focus, it does not move.
+Example: Given that the 
+Demolitionist (b) is the only 
+character on the map, the monster 
+(1) cannot find any valid hex 
+to attack them from, because 
+all hexes adjacent to them are 
+occupied or invalid, and so the 
+monster does nothing.
+b
+
+Any time a character suffers damage, they reduce their 
+current hit point value by that amount by rotating their 
+hit point dial. If a character ever reaches “0” on their 
+hit point dial, they are immediately exhausted. Their 
+figure is removed from the map, and they can no longer 
+participate in the game until the end of the scenario.
+Exhaustion doesn’t mean death. Characters will always 
+be fully refreshed at the end of a scenario — even from 
+exhaustion — but an exhausted character can no longer 
+influence the current scenario in any way. Moreover, if all 
+characters become exhausted, the scenario is lost.
+At the end of the third round, all six of your ability cards 
+should be in your discard pile, and you’ll need to get 
+them back to continue playing. You can get cards back 
+from your discard pile by short resting. If a character 
+has at least two cards in their discard pile (not just if 
+their hand is empty), they may perform a short rest at 
+the end of a round.
+When a character short rests, they take all cards in their 
+discard pile, shuffle them, and place one at random on 
+the right side of their character mat in their lost pile. The 
+rest of the discard pile is then returned to the character’s 
+hand, and the next round is played as normal. Any time 
+a character would rather keep the card that was lost, 
+they may suffer 1 damage to lose a different random 
+card from their discard pile instead, but this can only be 
+done once per short rest. 
+Cards in a character’s lost pile cannot be returned 
+to the character’s hand for the rest of the scenario. 
+All characters should short rest now.
+You need to play two cards at the beginning of every 
+round, so in two more rounds, when you only have one 
+card left of your now five‑card hand, you will have to 
+short rest again.
+ Running Out of Cards 
+Given enough rounds, characters will run out of cards 
+to play because they have lost too many through resting. 
+If a character is unable to play two cards at the start 
+of a round because they do not have at least two cards 
+in their hand, that character becomes exhausted, as 
+described at the top of the page.
+ 
+Once the end of the initiative order is reached and all 
+figures have taken their turn in a round, the round will 
+end. At this time, if any attack modifier deck has flipped 
+over a card with a shuffle icon
+, shuffle its discard 
+pile back into the deck. Go ahead and play the next two 
+rounds (card selection, ordering of initiative, character 
+and monster turns, end of round), running through the 
+rest of your cards. When you are out of cards in your 
+hand at the end of the third round, refer to the final 
+section of the Scenario 1 rules below to learn how to get 
+your cards back.
+At this point, you know everything you need to know to play through to the end of the scenario, which 
+will always conclude at the end of the round in which either the goal was completed (success) or all 
+characters have become exhausted (failure). Assuming success, you can then read what to do once the 
+scenario is complete on the following page. If you do happen to fail, refer to “Failing a Scenario” on p. 16.
+At this point, play through the monster turns and any remaining character turns in 
+initiative order, then read the following section once each figure has taken a turn.
+
+Congratulations on completing Scenario 1! Read the 
+conclusion text and the scenario rewards. When you see 
+a “New Location” listed in the rewards, that means to 
+place a new sticker on the city map board. In this case, 
+place the sticker for Scenario 2 — it should match up 
+with the art in section B1. 
+Also, because you successfully finished Scenario 1, mark 
+the white box in its sticker to indicate it is complete. You 
+cannot replay scenarios you have previously completed.
+Lastly, after each scenario, characters fully refresh, 
+recovering all their ability cards, removing any condition 
+tokens, and returning their hit point dial to their 
+maximum hit point value, noted on your character mat 
+below the white “1”, because you are level 1.
+At this point, each player should take one character sheet 
+from their large character box. This sheet represents the 
+character you will be playing throughout the campaign. 
+We’re about to make things permanent, so if you weren’t 
+happy with the character you played in Scenario 1, this 
+is your last chance to switch to something else (see p. 3 
+for the getting the materials you’ll need to start a new 
+character). Provided you are happy with your selection, 
+you should now name your character and write it in the 
+name field 
+. Also mark the “1” next to “Level” 
+, 
+since you are level 1. All other areas of the character 
+sheet will be covered in future scenarios.
+ 
+Players should now retrieve their two level “B” cards 
+(labeled under the card title) from their deck of ability 
+cards, found in your character’s large box. Swap the two 
+level “B” cards with the two level “A” cards of the same 
+name so that each character still has six cards in their 
+available card pool. The two “A” cards will never be used 
+again. Some of these level “B” cards may have unfamiliar 
+icons or terminology, but they will be covered in the 
+Scenario 2 rules.
+ 
+Now that you have recorded everything important 
+pertaining to the outcome of Scenario 1, you can 
+continue reading the next page to start playing Scenario 
+2, or you can put everything back in the box to continue 
+the campaign another time. The most important thing 
+is to put all the materials currently pertinent to your 
+character (character sheet, attack modifier deck, and 
+hand of six cards) into the zip bag with your initiative 
+order token, and put that back in the large character box 
+along with your character mat. With the city map board 
+modified and all of your characters saved, it should be 
+very easy to pick up where you left off later. If you’d like 
+to keep playing, though, let’s move on to Scenario 2!
+Scenario 1 Complete
+Scenario 1 Complete
+ All adjacent 
+enemies suffer 1 damage 
+d
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POISON 
+Replace one 
+ card with 
+one 
+Remove one 
+Remove two 
+ cards 
+Remove four 
+ cards
+Quatryl Demolitionist
+New Location: A Hole in the Wall 2 (B1)
+
+And so, we move on to Scenario 2! First, start by turning 
+to Scenario 2 in the Scenario Book. Then, the setup will 
+be largely the same as the setup in Scenario 1 (see p. 4), 
+with the following changes:
+The scenario map will require some additional 
+setup based on the icons described below.
+In addition to the stat card, standees, and initiative 
+order token for the Vermling Raiders, you will 
+also require the four ability cards labeled “Basic 
+Vermling Raider”. These will be explained on p. 17.
+Your character’s pool of available ability cards now 
+contains four level “A” cards and two level “B” cards.
+  Money Tokens 
+Place one money token in each hex depicting 
+this icon. Money tokens are collected by 
+looting (see the following page), and when 
+a character collects a money token, move 
+it from the map to the character’s mat, where it will be 
+recorded at the end of the scenario. 
+In addition to the money tokens set up at the start of the 
+scenario, one money token is also placed any time a 
+monster dies, in the hex in which it died. Money tokens 
+can only be looted during a scenario. Any tokens left on 
+the map at the end of a scenario are not collected.
+ Treasure Tiles 
+Place one treasure tile in the hex depicting 
+this icon. Like money tokens, treasure 
+tiles are collected by looting. 
+When a character collects a treasure 
+tile, remove the tile from the map, note 
+the number written on the icon (in the case of this 
+scenario, 14), and refer to the entry for that number 
+in the Treasure Index on the inside back cover of the 
+Rules Glossary. The looting character 
+immediately receives that reward. Like 
+money tokens, treasure tiles must be 
+collected during the scenario. They 
+are not automatically obtained when 
+a scenario is completed.
+#14
+ Trap Tiles
+Place one trap tile in each hex depicting this 
+icon, then place one 3‑damage token on 
+top of each trap. When any figure enters a 
+hex containing a trap, the trap is sprung 
+and removed from the map, and the figure suffers the 3 
+damage on the trap. Traps are not obstacles.
+ Doors 
+These are door hexes, designated by a blue 
+border. Doors separate different rooms 
+in a scenario. Only the monsters in the 
+room the characters start in are set up at 
+the beginning of a scenario. Go ahead and 
+set up the monsters for this scenario, but don’t place any 
+monsters on the icons depicted in the bottom section, 
+which is a separate, unrevealed room. 
+A character can move onto a door hex as 
+part of normal movement. When they do 
+for the first time, the door is then opened, 
+an activation token is placed on the door 
+to indicate it is opened, and all monsters in the newly 
+revealed room are set up. This is called revealing a 
+room. Monsters set up when revealing a room always 
+act in the round in which they were set up, which will 
+be discussed further on p. 17. Once the room is revealed, 
+the character then immediately resumes their turn, 
+which includes using any remaining movement points 
+they may have from the Move ability that opened the 
+door. Until a door is opened, it is considered a wall for 
+the purposes of line‑of‑sight and monster movement.
+Scenario 2 Rules
+Scenario 2 Rules
+Activation token
+Treasure Tile
+
+  Lost Actions
+Some actions on your upgraded level “B” cards 
+now have the lost icon in the lower right corner. 
+This icon means that if you perform the action, 
+the card will immediately be placed in your lost pile 
+instead of your discard pile. 
+ 
+These are powerful abilities, but you should be careful 
+about using them, as doing so will reduce the number of 
+rounds you will be able to play before you are exhausted. 
+If you do not wish to lose the card, you can always 
+perform a basic action with that half of the card, or skip 
+the action entirely and discard the card for no effect.
+ Looting 
+Characters have two ways to loot money 
+tokens and treasure tiles. First, at the end 
+of each character’s turn, that character 
+automatically loots their current hex. Second, some 
+cards contain a “Loot  X” ability, which allows a 
+figure to loot their current hex and all 
+hexes within Range  X of them. So 
+a “Loot
+1” ability would allow the 
+figure to pick up all money tokens 
+and treasure tiles in their hex and 
+each adjacent hex. 
+ Area Effects
+Some attacks allow figures to target enemies in multiple 
+hexes, similar to the “Target” keyword. In this case, 
+however, what can be targeted is specified by an area 
+depiction. Each depiction is made up of a combination of 
+the following two icons:
+A grey hex indicates the hex the active figure 
+currently occupies. An area attack which includes 
+a grey hex is always considered a melee attack.
+A red hex indicates where enemies can be located 
+to be affected by the ability. Area attacks, like any 
+other attack, cannot target allies.
+If an area effect ability specifies a range and no grey hex, 
+only one of the red hexes needs to be within the specified 
+range, even if that hex does not contain an enemy. Any 
+ranged attack with an area effect on an adjacent enemy 
+will still gain Disadvantage, and if multiple enemies are 
+targeted, a separate attack modifier card must still be 
+drawn for each. Just like other targeted abilities, figures 
+can only target enemies in hexes they have line‑of‑sight 
+to. Any rotation or mirroring of an area depiction is valid.
+This indicates the 
+character can perform a 
+ranged “Attack   3” on 
+all enemies in the cluster 
+of seven hexes, so long as 
+at least one of the depicted 
+hexes is within Range  2.
+This indicates the 
+character can perform 
+a melee “Attack  3” 
+on two adjacent hexes 
+that are adjacent to 
+each other.
+ Basic Actions 
+You may have noticed the small attack 
+and move icons in the center left of each 
+ability card. These indicate that, instead 
+of performing any of the abilities printed 
+on the top or bottom of a card, any card 
+can be used to perform an “Attack
+2” as a top action 
+or a “Move
+2” as a bottom action. The card will 
+always then be discarded, regardless of what is printed 
+in the main area.
+With the scenario now set up, we just have to go over a few more rules 
+introduced by your new ability cards and the new monster ability deck, 
+and then we can start playing.
+All enemies in the targeted area suffer
+3 damage (plus a separate modifier for each—
+Disadvantage if adjacent) and lose this card.
+The Big One
+All enemies in the targeted
+area suffer 3 damage (plus a
+separate modifier for each).
+Close Cuts
+
+ Push and Pull
+Push and Pull are two effects, which, like conditions, can 
+be attached to attacks or exist as stand‑alone abilities. 
+Each is accompanied by a number which indicates how 
+many hexes the target can be pushed or pulled.
+Push X: The target is forced to move up to 
+X hexes away from the targeting figure. Each 
+individual movement must place the target 
+spatially farther away from the targeting figure. 
+ 
+Pull X: The target is forced to move up to X 
+hexes toward the targeting figure. Each individual 
+movement must place the target spatially closer 
+to the targeting figure. 
+Targets can be pushed or pulled through their allies, 
+but not through their enemies, obstacles, or walls. If a 
+target is pushed or pulled into a hex containing a trap, 
+the trap is sprung and the target suffers its effects. When 
+a character performs a push or pull, they decide how 
+far and in what direction the target is pushed or pulled. 
+When a monster performs a push or pull, players still 
+decide the direction, but the target must be pushed or 
+pulled as far as possible. If there are not viable hexes into 
+which a target can be pushed or pulled, the effect ends.
+ New Negative Condition: Disarm
+Disarm: The figure cannot perform any Attack 
+abilities. This token is removed at the end of the 
+figure’s next full turn.
+ Negating Damage Through 
+Lost Cards 
+Any time a character suffers damage, either through 
+monster attacks, springing a trap, or any other source, 
+that character can choose to negate the entirety of that 
+damage by losing cards instead of reducing their current 
+hit point value. To negate any single source of damage, a 
+character can either lose one card from their hand or 
+two cards from their discard pile. 
+Lost cards are immediately moved to the character’s lost 
+pile on the right side of their character mat. Note that 
+the two cards a character selects to play for the current 
+round are not in their hand and are only moved to their 
+discard pile during their turn. Players should be careful 
+about losing cards, as doing so will reduce the number 
+of rounds they will be able to play before they become 
+exhausted, but losing cards can be preferable to taking 
+damage, especially when that damage would exhaust 
+the character anyway by lowering their current hit point 
+value to 0.
+ 
+It is possible that all characters will become exhausted 
+before you finish the scenario, resulting in failure. If this 
+happens, you will need to set up the scenario again from 
+the beginning and replay it. 
+All money tokens and experience (discussed in 
+Scenario 3 on p. 20) earned up until the scenario was 
+failed are carried over into the next attempt. All rewards 
+from looting treasure tiles are also kept, but treasure 
+tiles can only ever be looted once. Everything else in the 
+scenario is reset.
+In addition, if you are having significant trouble with 
+a scenario, first make sure you are not overlooking any 
+rules. If you are playing everything correctly, you can, 
+at the start of a scenario, rotate all monster stat cards in 
+the envelope to the level “0” section to make it easier.
+STUN 
+Target one adjacent enemy
+One adjacent enemy cannot perform any 
+actions until the end of its next turn.
+Destroy one obstacle within Range 3.
+Move up to 2 hexes away, then place a 
+destruction token on one obstacle within 3 
+hexes. It is now considered a normal hex.
+(plus modifier) and gains Disadvantage on
+all its attack until the end of its next turn.
+Implode
+Hand
+
+b
+ Monster‑Trap Interaction 
+All monsters consider traps to be obstacles when 
+determining focus and movement unless movement 
+through a trap is the only way they can focus on a 
+target. In this case, they will find a path to their focus 
+moving through the fewest number of traps possible.
+Example: The monster (1) will focus on the Hatchet (a) for its 
+melee attack because it considers the traps to be obstacles. If it 
+had an attack with Range  2, it would instead focus on the 
+Demolitionist (b), because it could attack without moving onto 
+the traps.
+  Monster Ability Decks 
+Whereas in Scenario 1, the monster abilities were 
+completely predictable, from now on, monsters will 
+perform abilities every round based on a random card 
+from their corresponding ability deck. This deck of four 
+“Basic Vermling Raider” cards should be shuffled and 
+placed face down next to the Vermling Raider stat card.
+During card selection, after all characters have revealed 
+their two cards for the round, flip over the top card from 
+the ability deck of each monster set currently on the 
+map (all Vermling Raiders are part of the same set, so 
+one card is flipped for all of them). This card will now 
+determine that monster set’s initiative  and what 
+abilities they will perform on their turn  . Some of 
+these cards have the shuffle icon in the bottom right 
+corner  , which means all played cards from this deck 
+should be shuffled back into the deck at the end of the 
+round (just like attack modifier cards).
+As opposed to character abilities, which give specific 
+values for moving and attacking, monster abilities 
+provide value modifications for the monster’s base stats. 
+For example, if a monster ability says “Attack  +1” 
+and the monster’s base attack value is 2, the monster 
+would then perform an “Attack  3”.
+A monster only performs the abilities written 
+on the card. If it doesn’t say “Move”, the monster 
+doesn’t move!
+Because this scenario has two separate rooms of 
+monsters, you may start a round where there are no 
+monsters remaining on the map. In that case, do not flip 
+over a new card for the Vermling Raiders and just take 
+character turns until the door is opened.
+Once the second room is revealed, if a monster ability 
+card has not been flipped for the Vermling Raiders that 
+round, immediately flip one. Either way, if the revealed 
+monsters’ initiatives are lower than the revealing 
+character, they act immediately after that character’s 
+turn, signified by placing their initiative order token 
+next in the order. Otherwise, they act normally in 
+initiative order, and their initiative order token can be 
+placed accordingly.
+
+ 
+Congratulations on completing Scenario 2! Remember 
+the scenario doesn’t end until the end of the round 
+in which the goal was completed, so you might have 
+extra time at the end to pick up some last‑minute 
+loot. After that, make sure to read the conclusion text 
+and rewards, take out the city map board to mark the 
+scenario as complete, and then place the sticker for 
+Scenario 3. Remember to fully refresh, recovering all 
+cards, removing all condition tokens, and returning 
+to maximum hit point values. Also, as a reward, each 
+character received 25 gold, which we should deal with 
+now along with the money tokens you collected during 
+the scenario.
+Each character should now count how many money 
+tokens they collected during the scenario and convert them 
+into gold. In all scenarios covered in this book, each 
+money token is worth 2 gold. Each character adds their 
+own collected gold to the scenario reward of 25 gold per 
+character, marks this number down in the gold notes 
+of their character sheet, and then returns the money 
+tokens to the tray. As a character spends money or earns 
+more money from future scenarios, revise this number 
+to reflect their total gold. Characters cannot share gold or 
+money tokens at any time.
+ Monster Ranged Attacks 
+Some monster attacks will now be accompanied by a 
+range value, much like character attacks. All monster 
+range attacks function exactly like character ranged 
+attacks. When moving, a monster will only move 
+the minimum distance required, up to its maximum 
+movement value, to get within range to attack its focus.
+Since performing a ranged attack on an adjacent target 
+will result in Disadvantage, the monster will avoid doing 
+so when possible. If the monster is able to move enough, 
+it will move up to its maximum movement value until it 
+is no longer adjacent to its focus. If the monster also has 
+muddle or another source of Disadvantage, it will gain 
+no benefit from moving away, since it would not lose 
+Disadvantage, and so would not move.
+A monster will only move following these rules if 
+it is performing a ranged attack. If the monster is 
+performing a melee attack or if it is not performing an 
+attack (either due to disarm or a lack of attack abilities), 
+it will move normally, instead attempting to get adjacent 
+to its focus.
+Scenario 2 Complete
+Scenario 2 Complete
+Example: The monster (1) 
+has a “Move  3” ability 
+and then an Attack ability 
+with Range  3. It will 
+focus on the Demolitionist 
+(a) and then move two hexes 
+to avoid Disadvantage from 
+performing a ranged attack 
+on an adjacent target.
+And with that, you know everything you need to know to play Scenario 2. 
+Remember the structure of a round: 1) Card Selection, 2) Ordering of Initiative, 
+3) Character and Monster Turns, and 4) End of Round. Begin by reading the 
+introduction and special rules, then pick your cards for the first round, and return 
+here when you’ve completed the scenario.
+
+ 
+Starting now, in between each scenario that you play, 
+characters may buy items, sell items to the shop, or trade 
+items with other characters. Find the item deck in the 
+game box, and, looking at the red side of the cards, pick 
+out those with the numbers 01 through 13 written on 
+the center left  , then put the rest back in the box on 
+the “Unavailable Items” side of the card divider. Items 
+01–13 are now available for purchase.
+In addition to the index number  , item cards have 
+other important information:
+Item name. 
+Gold value. The cost and value of the item.
+Item type. There are five types of items: head   , 
+body   , feet  , hands   , and small   items. 
+Characters are not limited on the amount of items 
+they can own, but they are only allowed to bring 
+into a scenario one Head item, one Body item, one 
+Feet item, two Hand items, and one Small item.
+Item function. This text describes when an item 
+can be used and what it does for the character. 
+Items generally provide additional abilities or 
+bonuses a character can use on their turn. Using 
+an item is free and can be done in addition to the 
+two actions from the character’s ability cards. 
+Some item effects may still be unfamiliar to you, 
+but these will be explained in the Scenario 3 rules.
+Quantity. How many of this item is in the game.
+Item usage. The bottom right corner of the card 
+will show how often an item can be used in a 
+scenario. 
+Consumed. The consumed icon  means that it 
+can only be used once per scenario. Once used, flip 
+over the card to show it has been consumed. 
+Spent. The spent icon   means that it can 
+be used once per long rest. Long rests will be 
+described in Scenario 3. Once used, rotate the card 
+90 degrees to show it has been spent. 
+Persistent. If there is no icon, the item can be 
+used whenever the situation allows. 
+No item is ever permanently removed from the 
+character when used, even potions. All items will be 
+refreshed at the end of a scenario.
+Go ahead and buy any items you would like now. 
+When you are done, return the remaining items in the 
+supply to the “Available Items” side of the card divider 
+in the game box. Alternatively, if you would prefer to 
+hold off on buying items until you’ve read the Scenario 3 
+rules, that is perfectly fine.
+All characters should now retrieve their first two level “1” cards from their character’s large box and add 
+them to their pool of available ability cards (8 cards total). These cards are “Windup” and “Crushing 
+Weight” (Demolitionist), “The Favorite” and “Retrieval” (Hatchet), “Swift Strength” and “Healing Sands” 
+(Red Guard), or “Signs of the Void” and “Close to the Abyss” (Voidwarden). You can now either save your 
+characters for another session or move on to Scenario 3 where we’ll face new enemies and complications!
+Buying Items: Characters may pay the gold value to 
+transfer an item from the available item supply in the 
+shop to their own supply. Owned items can be logged in 
+the “items” section of their character sheet. Characters can 
+never own more than one copy of any one item.
+Selling Items: Characters can sell items in their possession 
+into the shop for half (rounded up) the gold value, which is 
+added to the character’s total gold.
+Trading Items: Players can freely transfer items back and 
+forth when between scenarios. Gold cannot be traded.
+
+ 
+ Experience 
+Some actions have an experience value attached to them, 
+denoted by 
+. When that action is taken, the character 
+gains the number of experience specified. Experience 
+gained during a scenario is tracked by increasing the 
+experience value on the right side of a character’s dial 
+by rotating the wheel.
+If the 
+ is just sitting on its own within an action, 
+a character must still perform some part of the 
+accompanying abilities to gain the experience (for 
+instance, a character cannot perform an attack without 
+having an enemy to target). Basic actions (p. 15) also 
+never trigger the experience of the accompanying action. 
+If the action specifies the experience is gained only 
+through specific conditions written out in text, then that 
+text must be satisfied to gain the experience.
+Characters do not automatically gain experience from 
+killing monsters.
+Let’s begin as always by turning to Scenario 3 in the 
+Scenario Book and setting it up. This setup will be 
+exactly like Scenario 2, placing money tokens, treasure 
+tiles, and trap tiles where indicated. The traps are once 
+again labeled “damage traps” in the key, so place one 
+3‑damage token on each of them. 
+Instead of Vermling Raiders, we will be dealing with 
+two new enemies: Zealots and Giant Vipers. Retrieve the 
+stat cards, standees, and initiative order tokens for these 
+monsters. There are 10 standees for the Giant Vipers, 
+which means the stat card should be set into an envelope 
+with 10 sections. Set both monsters to level “1”, and 
+set up the two Zealots in the starting room. After that, 
+retrieve the two four‑card monster ability decks labeled 
+“Basic Zealot” and “Basic Giant Viper”, shuffle them, and 
+place them next to their stat cards. Do not reveal a Giant 
+Viper card at the start of the first round, since there are 
+no Giant Vipers in the first room.
+You may notice a Supplementary Scenario Book icon in 
+the Map Layout graphic. The line separating the main 
+Scenario Book pages from the other page icon means 
+that the Supplementary Scenario Book will only be 
+used to display extra text that does not fit in 
+the main two‑page spread. When you finish 
+this scenario, the conclusion and the scenario 
+rewards can be found on the indicated page 
+of the Supplemental Scenario Book.
+Once setup is complete, there are then a few 
+new rules to learn before playing the scenario.
+ Difficult Terrain 
+These hexes, contained within a purple 
+border, are difficult terrain, which means 
+a figure must spend 2 movement points 
+at the same time to enter the hex. This 
+extra movement is also taken into 
+consideration when determining monster 
+focus. Forced movements from Push and 
+Pull are not affected by difficult terrain.
+ Section Breaks
+On the second page of the scenario, you will see section 
+breaks that look like this:
+The text that follows is meant to be read only once the 
+door with the corresponding number (
+, in this case) 
+has been opened.
+Scenario 3 Rules
+Scenario 3 Rules
+Additional 
+important text
+?
+
+ Active Bonuses 
+Some actions can give a character bonuses that last 
+until the end of the round, the end of the scenario, or it 
+has been used a certain number of times. In all cases, 
+when these actions are played, the card is placed in the 
+character’s active area above their character mat to keep 
+track of the bonuses. 
+Some bonuses are tracked with character tokens 2 , 
+which you have a strip of in your character box. At this 
+point, you can punch these out and put them in your 
+character’s zip bag.
+Persistent bonuses   are active from the time the 
+action is played until either the end of the scenario or 
+their allotted uses run out. In the latter case, there will 
+be a number of use slots on the card  to track how 
+often its effect is triggered. When placing the card in 
+your active area, place one character token  , found 
+in the character’s zip bag, on the first slot. Advance the 
+token one position each time the effect is triggered, 
+moving left to right, top to bottom. When the token 
+moves off a use slot with a  icon  , the character 
+gains that experience. When the token moves off the 
+last slot, remove the card from the active area, placing it 
+either in your lost or discard pile depending on whether 
+the action contains a lost icon. Characters must activate 
+a persistent bonus and move the token any time its 
+effect is triggered, even if no benefit is gained.
+Round bonuses   are active from the time the action 
+is played until the end of the round, at which point the 
+card will be placed in either your lost or discard pile, 
+depending on whether the action contains a lost icon.
+Cards with active bonuses can be moved to your lost 
+or discard pile (depending on the lost icon) at any 
+time before their duration is up; however, doing so 
+immediately removes any bonuses and effects that were 
+being applied by the action.
+  Shield
+“Shield  X” is an active bonus ability that 
+allows the character to suffer X less damage 
+when being damaged from an attack, to a 
+minimum of 0. This reduction takes place after attack 
+bonuses and an attack modifier card is factored into 
+the attack value. For instance, if an “Attack   2” is 
+performed against a figure with “Shield  1”, and 
+a   modifier card is flipped, the   is applied first, 
+increasing the attack value to 4, then the shield is 
+applied, and the figure suffers 3 damage. Multiple shield 
+bonuses stack with one another and can be applied in 
+any order. A shield bonus only reduces suffering damage 
+from an attack. It does not reduce suffering damage 
+from any other effect, such as trap damage.
+ Jump
+Some Move abilities are modified by the Jump 
+effect. If any movement is accompanied by 
+jump, each hex of the movement is unaffected 
+by all terrain and enemy figures. Jumping can move 
+through obstacles and enemy figures, it does not spring 
+traps, and suffers no penalty for entering difficult 
+terrain. Figures cannot jump through walls, and any 
+movement with Jump must still end in a viable hex (no 
+other figures or obstacles). If any movement with Jump 
+ends in a trap, the trap is still sprung.
+
+ New Conditions 
+Negative Conditions:
+Poison: All attacks targeting the figure gain 
+a +1 Attack bonus, applied before the attack 
+modifier card. This condition is only removed 
+if the figure is affected by a heal, but the poison 
+prevents the heal from increasing the figure’s 
+current hit point value.
+Wound: The figure suffers 1 damage at the start 
+of each of their turns. This condition is only 
+removed if the figure is healed, but the heal will 
+still increase the figure’s current hit point value 
+(unless the figure had poison as well, in which 
+case both conditions would be removed and the 
+heal would have no other effect).
+Curse: Shuffle one Curse card into the figure’s 
+attack modifier deck. This card remains in the 
+deck until it is drawn. Once it is drawn, it is then 
+removed. A maximum of 10 Curse cards can be 
+placed in any one attack modifier deck. Use the 
+Curse cards with an  in the lower left corner for 
+monsters and those with an  for characters.
+Positive Condition:
+Bless: Shuffle one Bless card into the figure’s 
+attack modifier deck. This card remains in the 
+deck until it is drawn. Once it is drawn, it is then 
+removed. There are 10 Bless cards, and they can 
+be placed in any modifier deck.
+m
+*
+Characters now have a new type of turn. Instead of 
+selecting two ability cards to play at the beginning of a 
+round, they can declare they will be performing a long 
+rest. The long rest will constitute the character’s entire 
+turn for the round, which will occur on initiative 99. 
+ 
+On their turn, the character chooses one of their 
+discarded cards to transfer to their lost pile and then 
+returns the rest to their hand. The character also 
+performs a “Heal  2, Self” action and uprights all of 
+their spent items   that have been rotated 90 degrees 
+so they can be used again.
+Long rests are a great way to increase your longevity in 
+a scenario and reduce the randomness of short resting, 
+but they must be used with caution, because if there 
+are monsters on the map, they will still get to act and 
+potentially attack you while you are resting.
+Bless: Functions exactly 
+like a  card.
+Curse: Functions exactly 
+like a   card.
+If a monster is able to attack multiple targets on its turn, 
+it will first find its primary focus as normal, and then 
+find additional foci for these extra attacks. It does so by 
+looking for a path to the closest hex from which it can 
+attack its primary focus and as many other targets as its 
+Attack action allows. 
+There may come times when it is unclear how a monster 
+will behave. Just do your best to have the monster 
+behave intelligently and don’t get too worried over 
+the specifics.
+Note: Figures cannot have multiple instances of poison 
+or wound. Both Bless and Curse cards are removed from 
+all decks at the end of any scenario. 
+
+Congratulations on completing Scenario 3! Make sure 
+to play through the end of the round, then read the 
+conclusion text and rewards. As always, mark the 
+scenario as complete on the city map board and place 
+the sticker for Scenario 4. Fully refresh your character, 
+recovering all cards and items, removing all condition 
+tokens, removing all Bless and Curse cards from each 
+attack modifier deck, and returning to your maximum 
+hit point value. Record the money you collected, with 
+each token converting into 2 gold, and then we’ll deal 
+with experience.
+Each character should now note their experience total, 
+tracked during the scenario on their experience dial each 
+time they gained experience through an action. From 
+now on, you will also gain additional experience for 
+completing a scenario. Completing this and all other 
+scenarios covered in this book rewards 6 experience 
+to each character. 
+The total value of experience gained should be recorded 
+in the XP notes of your character sheet. It takes 45 
+experience to reach level 2, so there’s still a ways to go on 
+that, but progress has been made.
+You will note that the new monsters you are facing have 
+extra bonuses to the left (for the normal rank) and right 
+(for the elite rank) of their base stats on their stat card. 
+These are permanent active bonuses the monster has, 
+which are always applied, regardless of what their ability 
+cards dictate. If the bonus is a negative condition, 
+as in this case, that negative condition is applied all 
+its attacks.
+And with that, you know everything you need to know to play Scenario 3. Read 
+the introduction and special rules, but stop at the section break. Then, select 
+your cards for the first round, and return here when you’ve fought through all 
+three rooms and completed the scenario.
+Scenario 3 Complete
+Scenario 3 Complete
+
+ 
+Starting now, each time you successfully complete a 
+scenario, you must encounter a city event. Before doing 
+this for the first time, however, retrieve the “events” deck 
+from the game box and shuffle the cards.
+Then, draw the top card of the deck and read the 
+introductory text  on the front. This will be followed 
+by two options  , and the players must collectively 
+choose one. Sometimes options are only available if 
+specific requirements are met (for instance, a certain 
+character must be present when the event is resolved).
+Once — and only once — an option is chosen, flip the 
+card over and read the corresponding outcome (A or B) 
+based on that choice  . This will consist of more flavor 
+text and then specific effects. All effects must be applied, 
+if possible.
+Once this is done, place the event card on the 
+“Encountered Events” side of the card divider in the 
+game box, where it will never be used again. Then, place 
+the remainder of the deck back on the “New Events” side.
+Characters should now retrieve the remainder of their level “1” cards from their character’s 
+large box and add them to their other two level “1” cards, removing all level “A” and “B” 
+cards permanently. The “A” and “B” cards will never be used again. The rest are your full 
+set of level “1” cards, which you will have access to for the rest of the campaign. 
+Each character now has a different number of cards in their pool of available ability cards 
+depending on their hand limit, specified in the top right corner of their character mat. You 
+can either save your characters for another session or move on to Scenario 4 where we’ll 
+face a longer scenario with more new enemies and a new goal!
+City Event
+Each character also received a perk as a scenario reward, 
+which is a very powerful enhancement to your attack 
+modifier deck. Each perk a character gains allows them 
+to choose any one effect from the list on the right side 
+of their character sheet, check the box next to it, and then 
+apply the effect to their attack modifier deck. This can be 
+some combination of removing bad cards from the deck 
+or adding in more good ones from the separate deck of 
+character‑specific attack modifier 
+cards in your character box (labeled 
+“Halt!”). This change is permanent, so 
+choose carefully. You will learn how 
+to get more perks in the next scenario.
+We have run into a potential problem that does need to 
+be discussed, though. Advantage and Disadvantage force 
+you to pick the best or worst out of two cards, but now 
+that we have cards like “+1 wound”, how can you decide 
+whether that is better or worse than “+2”? In any case 
+of character Advantage where you feel the choice would 
+be ambiguous, choose whichever card you want. In the 
+case of ambiguous character Disadvantage, however, 
+apply the first attack modifier card drawn. Use your own 
+judgment when determining what is ambiguous.
+A black plume of smoke twists 
+through the air over the center 
+of town. You follow it to find a crowd 
+gathered along the SIlent Bridge, cheering 
+and clapping. Pushing to the front, you see 
+two enormous mechanical butterfly wings 
+strapped to a small Quatryl.
+“Today, the Quatryls conquer the sky!” He 
+pushes a button on his chest, causing the wings 
+to start flapping and more smoke to pour out. 
+The wings pick up speed, blasting gusts of air 
+across the onlookers. With a wide smile, he rises 
+up and up...before tumbling down into the river 
+with a dramatic splash.
+Option A: Dive in to help the Quatryl.
+Option B: Hold back the crowd in case the
+machine explodes.
+You dive through the billowing smoke and 
+into the frigid water. The Quatryl’s limbs 
+are tangled in the wreckage of his wings, but 
+you’re able to pull him free and make slow 
+progress toward the riverbank.
+His eyes open wide when he realizes who 
+saved him. “The Jaws? Oh, wow, I’m a big 
+fan!” And while you can’t be sure if it was 
+the impact or meeting you, he passes out. 
+Nevertheless, you saved a life today. 
+ 
+Gain 10 experience each.
+As the wreckage burns in the river, the 
+inventor’s limp body washes up on the river 
+bank. The concerned crowd looks on in 
+silence, fearing the worst.
+Suddenly, the Quatryl’s eyes pop open. “IT 
+WORKED!” he shouts. He sits up and begins 
+tinkering with the bits of machinery still 
+strapped to his chest. “I know exactly how to 
+fix that. A few more adjustments and I’ll be 
+soaring over the Coppernecks!” 
+ 
+No effect.
+Do not open this pack 
+of cards until you are 
+directed to do so!
+These cards are added to 
+your attack modifier deck 
+as your character becomes 
+more powerful, so you 
+won’t need them at the 
+start of the campaign.
+
+  Full Monster Ability Decks 
+Now, place all money tokens, treasure tiles, and trap tiles 
+(with 3‑damage tokens) as normal, then retrieve the 
+scenario monsters: Zealots and Stone Golems. From now 
+on, when setting up a scenario, retrieve the monsters’ 
+full eight-card ability decks. All four‑card “basic” decks 
+(for Vermling Raiders, Zealots, and Giant Vipers) will 
+never be used again.
+ Spawning Monsters
+Set the monsters to level “1” and then, because this scenario 
+is a single large room, set up all indicated monsters. 
+Instead of introducing new monsters to the scenario by 
+opening doors, more monsters will be added later 
+through spawning. The special rules of the scenario will 
+dictate how and when these monsters will spawn. When 
+a monster is spawned, it is set up on the map at its 
+spawning location or the empty hex nearest to that 
+location. Spawned monsters are treated exactly like they 
+were set up as part of revealing a room and will always 
+act in the round they are spawned.
+ Element Board
+Now, retrieve the element board from the game box and 
+place the six element tokens from the tray on the “Inert” 
+column. This board will be discussed further on the 
+following page.
+Begin by turning to Scenario 4 in the Scenario Book. 
+You will notice that the map artwork is not complete 
+along the bottom edge. From this point on, some 
+scenario maps may be bigger than a two‑page spread 
+can hold and require supplemental space, which can be 
+found in the Supplemental Scenario Book. Any time this 
+book is required, the Supplemental Scenario Book page 
+will be shown attached to the two-page spread with no 
+line in between. 
+Open the Supplemental Scenario Book 
+to the page indicated, fold it over so 
+only the single page is showing, and 
+line it up next to the Scenario Book as 
+shown. In addition to supplemental 
+map art, this extra page might also 
+contain important text.
+  Battle Goals 
+The last new aspect of setup is the deck of battle goals. 
+From now on, at the start of each scenario, retrieve the 
+deck of battle goals from the game box, shuffle it, and 
+deal two random cards to each character in secret. Each 
+character will then choose one of these goals to keep for 
+the scenario, discarding the other. It is encouraged that 
+players not discuss what their battle goal is during the 
+scenario.
+If the scenario is successfully 
+completed and the character meets 
+the criteria of the chosen card 
+, 
+they will gain one check mark 
+. If the scenario is lost, the 
+characters receive nothing from 
+their battle goals. Win or lose, the 
+card is then discarded and a new 
+battle goal will be chosen in the 
+next scenario.
+Check marks are tracked in the 
+bottom right area of a character’s 
+sheet, below the perks. A character 
+can have a maximum of 18 check 
+marks, and for every three check 
+marks gained, the character will 
+unlock a new perk.
+Set up the rest of the scenario as normal, with players now using their full hand limit 
+of level “1” ability cards. Then, we’ll learn a few new rules before playing the scenario.
+Scenario 4 Rules
+Scenario 4 Rules
+Extra map area
+?
+
+Now, let’s talk about the element board. As you can see 
+from your new cards, some actions have an elemental 
+affinity associated with them. If any of these icons 
+is visible by itself in an action’s text, it means that 
+by performing any part of that action, the figure 
+must infuse the battlefield with that element. This is 
+represented by moving the corresponding element’s 
+token to the “Strong” column of the board at the end 
+of the turn in which the action was performed. At the 
+end of every round, all elemental infusions will wane, 
+moving one column to the left on the board, from 
+“Strong” to “Waning” or from “Waning” to “Inert”.
+Elemental infusions can be consumed to augment 
+certain abilities, which is represented by an element 
+icon covered with a  . This is followed by a colon 
+and a description of how the ability is augmented if the 
+element is consumed. If the corresponding element’s 
+token is in the “Strong” or “Waning” column of the 
+element board, that element may be consumed to 
+augment the ability by moving it to the “Inert” column 
+of the board. If an ability contains multiple separate 
+augments, the character may choose which ones to use. 
+It is not possible to infuse an element and then use 
+it on the same turn, since the element isn’t infused 
+until the end of a turn.
+Just like characters, monsters also have abilities 
+that infuse and consume elements. Monsters always 
+consume elements if they can, and each activated 
+monster of that set will gain the benefit of the consumed 
+element, not just the first monster that acts.
+This multi‑colored icon is a wild icon 
+representing any one of the six icons. If this 
+icon is present on a monster ability card, 
+the players choose which element is infused 
+or, in the case of an accompanying  , which element 
+is consumed.
+Example: On the Red Guard’s turn, they perform the top 
+action of Flaming Sickle, which infuses Fire on the element 
+board at the end of their turn (1). At the end of the round, 
+the Fire wanes, moving from “Strong” to “Waning” (2). On 
+the Red Guard’s turn in the following round, the Fire is 
+still available to use, so they perform the bottom action of 
+Twirling Stabs and consume the Fire, moving it back down 
+to Inert (3), to add wound to their attack and gain one 
+experience point.
+Target all adjacent enemies
+Twirling Stabs
+: WOUND , 1
+Wild
+PULL 1
+Flaming Sickle
+Loot 1
+3. Consume Fire 
+with Twirling Stabs 
+(bottom action)
+ 
+2. Fire wanes at the end of the round
+1. Infuse Fire with Flaming Sickle (top action) 
+ at the end of the turn
+Air
+Ice
+Fire
+Earth
+Light
+Dark
+
+Congratulations on completing Scenario 4! As 
+always, play through to the end of the round, read the 
+conclusion text and rewards, then update the city map 
+board. Make sure to record your gold (2 per money 
+token) and experience gained (including the 6 bonus 
+scenario experience), and also record one check mark 
+if you achieved your battle goal. Your reward this 
+scenario is a new item, which can be found by looking 
+up its index number in the item deck. Unlike previous 
+rewards, only one character will get this, so it is up to the 
+players to decide which individual character it goes to. 
+Then encounter a city event.
+Characters should now also retrieve their three level “X” 
+cards from their character’s large box and add these to 
+their pool of available ability cards. 
+These “X” cards will be available for the rest of the 
+campaign and are intended to give you more options 
+and flexibility going into a scenario. Characters are still 
+only ever allowed to bring into a scenario a number 
+of cards equal to their hand limit in the upper right 
+of their character mat. Now that you have three more 
+cards, you will have to choose which three cards to 
+leave behind when starting a scenario. You can look at 
+the upcoming scenario information before making this 
+decision. If you aren’t ready to make those decisions, 
+simply leave behind the “X” cards. They are typically 
+more complicated and situational than a character’s “1” 
+cards, but, under the right circumstances, they can be 
+very useful. You can now save or move on to Scenario 5 
+and your first boss.
+Scenario 4 Complete
+Scenario 4 Complete
+You’re now ready to go play Scenario 4. Read the introduction and special rules, but 
+stop at the section break, which you will notice requires certain criteria to be met this 
+time. Once that criteria is met, immediately read the section break and its special 
+rules. The same applies for the second section break. Now, select your cards 
+for the first round, and return here when you’ve completed the scenario.
+ 
+These hexes, contained in a yellow border, 
+are objectives. Objectives are tied to the 
+goal of some scenarios, including this 
+one, and will need to be destroyed. Their 
+maximum hit point values are defined 
+by the special rules of a scenario, and 
+this definition often includes “C”, which stands for the 
+number of characters at the start of the scenario. So if 
+there were three characters, “C+1” would be 4. Objectives 
+can only be destroyed by reducing their current hit point 
+value to 0. To track this, any time an objective suffers 
+damage, place the damage tokens directly on it. 
+Objectives are considered to be enemies to characters 
+and can be targeted by attacks, though objectives 
+are unaffected by all negative conditions and forced 
+movement such as Push and Pull. Similar to an obstacle, 
+no figure can move through an objective (unless they 
+are jumping), but objectives are not obstacles. Once an 
+objective is destroyed, place a destruction tile on it to 
+show it is now a normal, traversable hex. 
+
+Begin by turning to Scenario 5 in the Scenario Book, 
+and then set up the scenario, including the Supplemental 
+Scenario Book. The main new feature of this scenario is 
+that you will be fighting a boss at the end. First, however, 
+let’s deal with the two separate trap types in the scenario 
+key. The first type are normal damage traps and should 
+have 3‑damage tokens placed on them, but the second 
+type, as indicated by the key, apply conditions instead of 
+damage and should have these condition tokens placed 
+on them. 
+Along with the other listed monsters, 
+retrieve the “Boss” monster ability deck 
+and the “Blood Tumor” stat card and 
+standee. Place the stat card in a normal 
+6‑section envelope. Do not set up the 
+boss yet, though, since it is in the final 
+room. Also, note that opening this 
+last door will trigger reading the first 
+section break, which will provide more 
+special rules pertaining to the boss.
+ 
+All bosses act using a universal “Boss” monster ability 
+deck. Most of this deck consists of cards that say 
+“Special 1” or “Special 2”, denoting that the boss will use 
+one of its two special abilities on its turn. These special 
+abilities are detailed on the boss’ stat card  . Bosses’ 
+stats are often based on the number of characters, which 
+is signified by the letter “C”  . Bosses are also immune 
+to certain negative conditions. These immunities are 
+specified on the left side of the stat set, under the 
+level  . Also note that this particular boss has a “-” for 
+its base movement value  . This means that it cannot 
+move, even if it has a Move ability on one of its ability 
+cards, though it is still affected by Push and Pull and 
+can be moved via granted actions.
+Congratulations on killing the boss and completing 
+Scenario 5! Make sure to read the conclusion text and 
+rewards, update the city map board, and record any 
+check marks, gold (2 per money token), and experience 
+gained (including the 6 bonus scenario experience 
+and the scenario reward). You should now have over 
+45 experience, which is enough to level up! This is the 
+last thing we need to cover, but remember to encounter 
+another city event before we move on.
+Scenario 5 Complete
+Scenario 5 Complete
+Scenario 5 Rules
+Scenario 5 Rules
+And so, now you are prepared to face your first boss! Remember to deal out battle goals and set up 
+the element board. This scenario, the final one covered in this book, is more challenging than the 
+previous scenarios. The goal, however, is simply to kill the boss, not all the monsters. At the end of 
+the round in which the boss is killed, if at least one character is not exhausted, the scenario will be 
+complete. If you do happen to fail, refer back to p. 16 for the rules on that. Good luck!
+10xC
+12xC
+Heal 
+Targe
+Heal 
+lood Tumor
+Blood Tumo
+7xC
+C-1
+10xC
+12xC
+Heal 3
+Target all allie
+Heal C+1
+Standee
+Blood Tumor Boss Stat Card
+
+Now that you have leveled up, you may be thinking it 
+is time to increase the levels of the monsters. It is not, 
+but now is a good time to talk about scenario level. 
+You played the first five scenarios on scenario level 1 
+and, thus, with monsters on level 1. The recommended 
+(i.e. “Normal”) scenario level is the average level of the 
+characters divided by two and rounded up. So, if all 
+characters are is now level 2, the average level divided 
+by two would still be 1. Only once someone reaches 
+level 3 should you then increase the scenario level to 
+2. However, you are now free to adjust the scenario 
+difficulty as you choose. To play on “Easy” difficulty, 
+reduce the recommended scenario level by 1. To play on 
+“Hard” difficulty, increase the recommended scenario 
+level by 1, and for “Very Hard”, increase it by 2. At your 
+current level, that would mean scenario level 0 would be 
+easy, 1 would be normal, 2 would be hard, and 3 would 
+be very hard.
+The scenario level will have a number of effects on the 
+scenario. The monster level (i.e. the stat group you use by 
+rotating the card in the envelope) is always equal to the 
+scenario level. 
+In addition, trap damage, money token conversion (how 
+much gold you get for each money token collected), and 
+bonus experience for completing a scenario all go up as 
+the scenario level goes up according to the chart below.
+For now, if you are not sure what difficulty you’d like, 
+it is recommended you just keep playing on scenario 
+level 1, and increase it to level 2 once at least one 
+character reaches level 3.
+After any scenario, if you have a total experience value 
+equal to or higher than the threshold to the next level, 
+which is written below the levels on your character 
+sheet, then mark that you have reached the next level and 
+perform all the leveling up steps: 
+When going up to level 2, take the two level “2” 
+cards from your character’s large box and choose 
+one to add to your pool of available ability cards. 
+When leveling up, you will always get to add one 
+new card equal to or lower than your new level. 
+For instance, when you reach level 3, you will 
+select one card from either the two level “3” cards, 
+or the level “2” that you aren’t choosing now.
+Gain one perk, as discussed on p. 24.
+Increase your maximum hit point value, which is 
+always the white number on your character mat 
+below your current level.
+When characters level up, they do not reset their total 
+experience value. A character can never lose experience.
+Leveling up to level 2
+character name
+Level 2 Health (Red Guard)
+
+ If a player can’t make it to a game, or you have 
+an extra player who wants to try the game out, 
+feel free to add or subtract players as needed. 
+The game can easily accommodate two to four 
+characters, and the scenario level scales to the 
+average level of these characters, so it’s okay if a 
+character falls behind or if you start out a new 
+character at level 1 (with all their level “1” and “X” 
+cards) even if you are a higher level. It will just be 
+up to you to teach a new player how to play.
+ Some bosses’ abilities are too complicated to 
+summarize on their stat card. In these cases, you 
+can find a more full description in the scenario 
+special rules. 
+ If you ever run out of a specific set of monster 
+standees when setting them up, simply place what 
+you can, starting with the elite monsters, and then 
+don’t set up the rest.
+ When you reach level 3, not only will the scenario 
+level increase, but you can also hold an additional 
+small  item. Each character can bring into a 
+scenario a number of small items equal to half 
+their level, rounded up.
+ When a character reaches level 5, they will open 
+up the other pack of ability cards in their deck, 
+which has their higher level cards and some 
+special instructions.
+ If you get in the weeds on figuring out how a 
+monster behaves, there is an extensive appendix 
+on monster behavior on p. 26 of the Rules 
+Glossary, full of illustrated examples.
+ Some monsters also have Loot abilities. When a 
+monster loots a money token or a treasure tile, 
+return it to the tray for no effect. You’ll have to 
+start the scenario over if you want a treasure tile 
+that was looted by a monster.
+ Some abilities refer to “empty” hexes. A hex 
+is empty if it is within the walls of a scenario, 
+is not difficult terrain, and does not contain a 
+figure, obstacle, objective, or trap. Open doors 
+and destroyed obstacles and objectives are all 
+considered empty hexes, unless the hex also 
+contains a figure or trap.
+ Some scenario rewards will cause you to close 
+scenarios, which means they must be marked 
+off on the city map board and can no longer be 
+played. You won’t play all scenarios in the game 
+as part of the campaign. Sometimes choices must 
+be made.
+ If you would like to start the campaign over for 
+whatever reason, it will be difficult to reverse the 
+city map board, but everything else is just decks of 
+cards and can be reset. There is a white number at 
+the bottom of each card. Just arrange all the decks 
+in order according to those numbers, and get a 
+new character sheet for each character.
+There are a few other rules we weren’t able to introduce yet that you will need 
+as you go deeper into the campaign. These are outlined below, but also note that 
+the Rules Glossary contains a comprehensive detailing of all the rules in the game. 
+If you ever have a question about anything, you will find the answer there.
+
+GAME DESIGN & DEVELOPMENT: Isaac Childres
+CONTRIBUTING DESIGNERS: Zachary Cohn, Joe Homes, Alexander JL Theoharis, & Andrew Penn
+ADDITIONAL DEVELOPMENT: Marcel Cwertetschka
+WORLDBUILDING ARTWORK: Alexandr Elichev
+SCENARIO BOOK ARTWORK: David Demaret
+GRAPHIC DESIGN: Josh McDowell, Jason D. Kingsley, Cat & David Bock, Melissa Smith
+CARTOGRAPHY: Francesca Baerald
+PHOTOGRAPHY: Cat Bock
+PLASTIC SCULPTING: Chris Lewis, Andrew Cothill
+EDITING: Mathew G. Somers
+STORY AND WORLDBUILDING: Isaac Childres
+PRODUCTION: Price Johnson
+PUBLISHER: Cephalofair Games
+ADDITIONAL BATTLE GOALS: Zachary Cohn, Forest Gibson, Justin Hammond, 
+Joe Homes, Alexander JL Theoharis, Rob Whitehead
+PLAYTESTERS: Nino Aloi, Phil Bailey, Kendra Baratta, Sean Bean, 
+Matthew Bird, Arthur Bouz, Clinton Bradford, Tiffany & Steve Caires, 
+Stephanie Carlson, Jay Carter, Colton Coad, John Cole, Marty Connell, 
+Marcel Cwertetschka, Andrew Dickinson, Tamo Fey, Adrian Francies, 
+Falko von Gersdorff, Jenn Godwin, Dominik Goldnagl, Tyvan Grossi, 
+Katrina Hamilton, Nikolaus Hatzl, Kristina Horner, Chris Jack, 
+Mehfouz Jalal, Grace Jeremy, Chris Kessler, Jason D. Kingsley, 
+Filip Ksica, Brook Laing, Sharon Laubach, Brian Lewis, 
+Isabella Mattasits, Craig & Charlotte McNicholas, 
+Hans Vander Mierde, Tiago Mighalaes, Jessica Merizan, 
+Jeff Morris, Dave Orr, Guillermo Ortiz, Andrew Penn, 
+Simon Piel, Emma Reid, Phillip Rhodes, Robb Rouse, 
+Thijs Schröter, Rodney Smith, Mathew G. Somers, 
+Tara Theoharis, ‘Beep’ Trefts, Adam Turczi, 
+Nikki Valens, Michael Vallely, Dennis 
+“Themris” Vögele, Robert B. Watkins, 
+Don Woods, Tim Wolfe, and Lauryl Zenobi
+A SPECIAL THANK YOU TO: Kristyn Childres, 
+Marcie, Clarke, & Liam Johnson, Jody Simpson, 
+Talisman Sabre Terrain, Eric Price, Bian Hongshan, 
+Satire’s Extended Battle Goals, & Chris Kessler
+Credits
+
+© 2O2O Cephalofair Games. all rights reserved.

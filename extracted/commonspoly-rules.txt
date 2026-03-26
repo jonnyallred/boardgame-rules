@@ -1,0 +1,881 @@
+GAME MASTER’S GUIDE
+WWW.COMMONSPOLY.CC
+
+CONTENTS
+1. Introduction
+2. Main goal of the game
+3. Quick Guidelines
+ 3.1. Before starting
+ 3.1.1. Sort out the basics
+ 3.1.2. Allocate the characters 
+ 3.1.3. Define the Game Mode
+ 3.2. During the game
+ 3.2.1. Unlocking Goods
+ 3.2.2. Managing your Points when you arrive at a Good
+ 3.2.3. The Speculator(s)
+ 3.2.4. Using Central Agora & Collective Uprising Action
+ 3.2.5. Special Spaces
+4. Detailed Guidelines
+ 4.1. Before starting 
+ 4.1.1. Check you have everything needed to play 
+ 4.1.2. Decide on the Game Master
+ 4.1.3. Prepare the cards
+ 4.1.4. Allocate the goods!
+ 4.1.5. Define the Game Mode
+ 4.1.6. Allocate the characters 
+ 4.1.7. How to play 
+ 4.2. During the game
+ 4.2.1. Starting play
+ 4.2.2. Unlocking Goods. Let’s undo privatisation! 
+ 4.2.3. The Speculators
+ 4.2.4. Certain situations and Special Spaces
+ 4.2.4.1. Situation Cards and Global Cards
+ 4.2.4.2. Central Agora and Collective Uprising Action
+ 4.2.4.3. Special Spaces 
+5. History of the game
+6. Licence
+7. Links and Contact
+
+1. INTRODUCTION
+What is Commonspoly? It’s a board game where you can only win 
+if you’re willing to cooperate. And, like life, it’s a bit complex and takes 
+some time to learn. It’s a board game, like Monopoly, but it also draws 
+elements from role-playing games (RPGs), like having a Game Master 
+to support the game. 
+This is the latest version of the Game Master’s guide: 
+ 
+1. After reading this guide, you will be able to act as the Game Master. 
+There are quick and more detailed versions of the rules to choose from 
+in this guide. 
+2. If you want to be a Game Master but you don’t want to read the 
+guide (or if you want a bit more help after reading it), you can take a 
+short initiation workshop. Drop a message to master@commonspoly.cc 
+if you are interested.
+ 
+Cooperating is not always easy in real life. That’s part of the purpose of 
+Commonspoly - it’s a board game designed to help promote a culture 
+of cooperation. The main goal has always been to hack and subvert the 
+current version of the very famous game, Monopoly. 
+As in Monopoly, you will find goods and other resources at each space 
+on the board. In Commonspoly, these goods and services can be 
+private, public or commons. In contrast to Monopoly, the challenge 
+is to create the least privatised society possible.
+One of the key challenges is that in real life we rarely find a regime 
+of property and management that is solely ‘Commons’; resources are 
+often simultaneously private and commons, or public and commons. By 
+‘Commons’, we mean that a determined local community is taking care 
+of and managing a designated resource. Commonspoly presents these 
+three different states of goods separately, for pedagogical and playful 
+reasons. 
+
+We have spent a lot of time playing the game and can tell you that 
+when you really get hooked in, it feels like cooperation does in real 
+life. However, it is important to mention that the game is an approach 
+from a pedagogical point of view only. It is a simplification which 
+facilitates experimenting, testing and learning around real life questions, 
+but obviously does not represent the real complexity of the fight for 
+managing resources.
+A short history (more in 5. History of the Game)
+Commonspoly emerged in 2015 as part of “Reclaim the Commons”, 
+a Hackcamp during the ZEMOS98 Festival. It has gone through two 
+important transformations since then, and this is the third. Commonspoly’s 
+philosophy is part of the free/open culture movement, and any version 
+of the game can be individualised and improved at any time. Download 
+everything from www.commonspoly.cc/documentation if you want 
+to make your own version! The one you have here has been made 
+possible thanks to the contribution of tons of people worldwide, from all 
+walks of life. If you have a proposal, or find any mistakes, please join the 
+community and participate: comun@commonspoly.cc.
+ 
+Note: This version of the game is designed for players aged 14 years 
+and older. However, there is a version that is more suitable for educational 
+purposes that can be downloaded here: www.commonspoly.cc/
+beginners. 
+
+2. MAIN GOAL OF THE GAME
+There is an ongoing battle. The Speculator(s) are organised 
+and committed to privatising every resource available in this society: 
+environmental, urban, health and intangible (knowledge 
+based) goods. Work together as a team to fight this dystopia!
+ 
+Important:
+ 
+— You must cooperate with other players to prevent privatisations and 
+liberate as many goods and services as possible. Your goal is to turn 
+them into public goods or, even better, common ones! 
+— This is how you win, by turning all goods common. If there is a mix 
+of public and common goods, it’s a draw. You know what that means, 
+if there is even one private good you lose! Work together to fight the 
+privatisation! 
+— You have 20 rounds to use your Welfare and Legitimacy Points for 
+the common good. This is a race against time!
+— To fight against privatisation, each player must manage their Welfare 
+and Legitimacy Points. Be careful not to spend these too soon!
+— Considering the game’s complexity, it’s a good idea to have someone 
+act as Game Master. Although it is possible to manage the Game 
+Master role together (best for advanced players), we encourage you 
+to play with just one person in this position. If no one is prepared to be 
+the Game Master, you can play an easier version of the game using 
+the same board but with simpler rules. Go to www.commonspoly.cc./
+beginners to download the Rules for Beginners.
+— Lastly, one person will have to play the role of The Speculator(s). The 
+Speculator(s) follow other citizens around the board and try to block 
+their strategies. Watch out for them! We suggest that the person who is 
+the Game Master also plays The Speculator(s) role, but it’s up to you. 
+
+3. QUICK GUIDELINES
+3.1. BEFORE STARTING
+3.1.1. Sort out the basics 
+You have 20 rounds. The game is a race against time, with the 
+completion of each round bringing you one step closer to the total 
+privatisation of the board and the end of the game. Watch out! 
+Decide who will play the role of Game Master and The 
+Speculator(s). It’s best if the Game Master also plays the role of The 
+Speculator(s) - the main obstacle in preventing you from achieving your 
+common goal. Choose what colour token you want to play with, leaving 
+the white ones for The Speculator(s). All players move around the board 
+by rolling the dice, including The Speculator(s).
+Take the Global and Situation Cards:
+— Global Cards affect all players, and are always read before each 
+round (apart from the first round). 
+— Situation Cards affect players individually. Only take one if you 
+land in a light blue space on the board.
+3.1.2. Allocate the characters 
+There are 16 different characters, each player should select their 
+own by picking a random Player Sheet. Don’t look at the information 
+before choosing, it should be purely random! 
+Each player starts with 5 Welfare Points and 5 Legitimacy Points 
+and will gain more as the game goes on. The number of Skill Points 
+you have is written on your Player Sheet and is dependent on the 
+characteristics of your character.
+
+3.1.3. Define the Game Mode
+This is done through determining the levels of privatisation and the 
+number of Speculators tokens in play. The less privatisation there is, the 
+more Speculators there will be, and vice versa.
+Roll the dice for each good and write down the results. Add the numbers 
+recorded and write down the total.
+HEALTH GOODS
+URBAN GOODS
+INTANGIBLE GOODS
+ENVIRONMENTAL GOODS
+TOTAL
+The total number above determines the mode of the game and the 
+number of Speculators. 
+TOTAL SCORE
+GAME MODE
+SPECULATORS
+4-10
+Mad Max
+11-17
+Transition
+18-24
+Commonsland
+The numbers you rolled earlier for the goods define their statuses. If you 
+rolled a 1-2 those goods will be Private, 3-4 will be Public, and 5-6 will 
+be Commons. 
+Use the Goods Tokens provided to mark these results on the board. 
+Don’t worry about the pink spaces on the board just yet, they are the 
+Inalienable Common Goods and you will learn more about them later.
+
+3.2. DURING THE GAME
+3.2.1. Unlocking Goods
+You need 10 Points every time you want to unlock a type of good and 
+change its status. To do this you will need to combine your Skill Points 
+with your Welfare Points. The number of Welfare Points you have will 
+always change with your actions, but you never lose your Skill Points. 
+Your Skill Points can only be used on the type of good they relate to. The 
+following table provides an example of how many Welfare Points you 
+would need, according to your relevant Skill Points, to unlock a type of 
+good. 
+SKILL/
+RELATED 
+GOOD
+SKILL 
+(before 
+performing 
+the unlocking 
+action)
+(after perform­
+ing the unlock­
+ing action)
+LEGITIMACY 
+(after perform­
+ing the unlock­
+ing action)
+CARING/
+OCCUPY­
+ING/URBAN
+SHARING/
+REGENERAT­
+ING/ENVI­
+RONMENTAL
+
+Remember that as an individual you can only change one good at a time, 
+from private to public or from public to commons. Whole categories of 
+goods can be unlocked when you meet in the Central Agora and carry 
+out the Collective Uprising Action. 
+PRIVATE > PUBLIC > COMMONS
+
+3.2.2. Managing your points when you arrive at a good
+If you’re lucky you will receive Welfare and Legitimacy points when you 
+arrive at a good. The number you receive is dependent on the status of 
+the good: 
+TYPE OF GOOD 
+(ASSOCIATED 
+SKILL)
+STATUS
+LEGITIMACY 
+INALIENABLE 
+COMMON 
+GOODS
+Commons (Pink)
+
+3.2.3. The Speculator(s) 
+Remember that The Speculator(s) can have 1, 2 or 3 tokens depending 
+on the Game Mode. If a Speculator lands in the same space as you, 
+they can choose how they want to hurt you. What they do is dependent 
+on how they roll the dice, so, sometimes you might be lucky! These are 
+their options:
+Deduct 
+your 
+Welfare 
+Points 
+(WF)
+Dice 1,2 = 
+–1 WF 
+Point
+Dice 3,4 = 
+– 2 WF Points
+Dice 5,6 = 
+– 3 WF Points
+Send you 
+to the 
+Detention 
+Centre
+Dice 1,2 = 
+1 rounds!
+Dice 3,4 = 2 round 
+1 WF Points to free you 
+if you are a citizen 2 WF 
+Points to free you if you 
+are non-citizen
+Dice 5,6= 3 rounds 
+2 WF Points to free you 
+if you are a citizen 4 WF 
+Points to free you if you 
+are non-citizen
+Send you 
+to the 
+Tragedy 
+of the 
+Rolling the Dice and obtaining the same number twice
+ 	
+
+The Speculator(s) can also stop the Collective Uprising Action in the 
+Central Agora. If there is a player in the Central Agora and a Speculator 
+enters (via the columns, like all other players), they can kick the first player 
+out. Again this is down to luck, and what they roll on the dice!
+Dice 1, 2, 3
+The Speculator kicks the Player out, and both of you go to the 
+Detention Centre.
+Dice 4, 5, 6
+The Speculator cannot kick you out, they go to the Mortgage 
+space on their own.
+3.2.4. Using the Central Agora to perform the Collective 
+Uprising Action
+At least two players must be in the Central Agora (having entered through 
+the columns around the edge) to perform the Collective Uprising Action. 
+The first player to arrive can stay for a maximum of 3 rounds before 
+they have to leave. This table explains everything related to being in the 
+Central Agora and performing the Collective Uprising Action:
+At least two 
+players must have 
+arrived at the 
+Central Agora. 
+Then they can 
+invite everybody 
+else to join them 
+directly.
+Each round you stay at the Agora 
+you lose 1 Welfare Point and gain 
+1 Legitimacy Point.
+If you complete 
+the action, the re­
+maining personal 
+Legitimacy Points 
+will be distribut­
+ed among the 
+players according 
+to the decision of 
+the group.
+All goods of any 
+one type (health, 
+intangible, urban 
+or environmental) 
+can be directly 
+commonalised, 
+whether private or 
+public.
+As a team you need to collect a 
+minimum of 10 Legitimacy Points per 
+player in the Agora. (So for 5 people 
+you would need 50 Legitimacy Points 
+- as long as there are enough points 
+it doesn’t matter if some people have 
+fewer than 10 and others have more.)
+
+ 
+ 
+3.2.5. Special Spaces
+This is a summary of the special spaces and certain situations. Check the 
+Detailed Guidelines for a more extensive explanation.
+Space
+Action
+Central Agora
+Perform the Collective Uprising Action - using 
+10 times as many Legitimacy Points as there are 
+players, excluding The Speculator(s)
+Assembly
+Swap 2 Welfare Points for 4 Legitimacy Points. This 
+applies just to the player who gets there
+Bureaucracy
+Change one good of your choice from Private to 
+Public, for only 6 Welfare Points
+The Tragedy of 
+the Commons
+Mandatory downgrade in status of 3 goods (from 
+common to public, from public to private)
+Crowdfunding
+Each Welfare Point you give away becomes 2 
+Legitimacy Points for someone of your choice! 
+Mortgage
+Lose 2 Welfare Points
+Detention 
+Centre
+Miss a turn - you can’t move for 1 round
+Casino 
+Lose 4 Legitimacy Points
+
+4. DETAILED GUIDELINES
+4.1. BEFORE STARTING - PREPARING THE GAME
+4.1.1. Check you have everything needed to play 
+ 
+In your box, you should find:
+— The board game
+— 1 dice
+— 16 Player sheets
+— 1 Game Master sheet
+— 40 Global Cards
+— 50 Situation Cards
+— 8 Player tokens
+— 3 Speculator tokens
+— Goods tokens (37 of each colour: black, grey and white)
+— Welfare Points Coins (15 x 5, 20 x 2 and 30 x 1)
+— Legitimacy Points Coins (15 x 5, 20 x 2 and 30 x 1)
+If there is anything missing please write to hello@commonspoly.cc so we 
+can help you out!
+4.1.2. Decide on the Game Master
+ 
+Ideally, Commonspoly is suitable for 6 to 8 players (including the 
+Game Master). In theory, it can be played with as few as 4 people, but 
+the challenge will be almost impossible ;) Like in society, the more people 
+involved, the easier it is to make a change!
+
+Now it’s time to decide who will be the Game Master, this is particularly 
+important! The role-playing nature of the game means the Game Master 
+needs to know the game and its dynamic nature very well. (Remember 
+that you can become a Game Master by taking a short workshop. Write 
+to master@commonspoly.cc if you want to find out more.)
+4.1.3. Prepare the cards
+ 
+As mentioned before, there are 2 types of cards:
+— Global Cards: These cards last for one round and affect everyone 
+playing!
+— Situation Cards: These cards are used when a player lands on 
+a light blue box marked with a big S. They only affect one player at 
+a time.
+Place both decks of cards face down close to the Master of the Game 
+and near to the board.
+ 
+4.1.4. Allocate the goods!
+ 
+In the game, there are 4 types of goods and services.
+ 
+— Urban Goods (red)
+— Intangible Goods (yellow)
+— Health Goods (purple)
+— Environmental Goods (green)
+ 
+
+The first step is to define the initial status of each of these goods. Roll the 
+dice 4 times, once for each type of good, the number you get will decide 
+if it is private, public or common. Make sure you write down the number 
+as this will help with setting the game mode.
+ 
+1-2: Private Good
+
+3-4: Public Good
+
+5-6: Common Good
+ 
+Once you have defined the type of goods you have, you need to use the 
+black, grey and white Goods Tokens to mark this on the board:
+ 
+— White for Private
+
+— Grey for Public
+
+— Black for Commons
+ 
+As well as the pink spaces on the board, Inalienable Common Goods, 
+there are a few other spaces that will be explained later (During the 
+game: 4.3. Special Spaces).
+4.1.5. Define the Game Mode
+ 
+Total the scores you wrote down for the 4 types of Goods and write 
+down the result. You should have a number between 4 and 24 (e.g. 13 - 
+2 for Urban Goods, 3 for Intangible Goods, 5 for Health Goods and 3 
+for Environmental Goods).
+ 
+
+This sum will define the Game Mode:
+ 
+— Mad Max mode: 4 - 10. In your society, private goods are 
+predominant.
+
+— Transition mode: 11 - 17. Your board isn’t too bad, but it’s not 
+great either. Your society is quite varied. 
+
+— Commonsland mode: 18 - 24. You are very experienced at 
+managing life communally, most of the services in your society are 
+managed in this way. 
+The Game Mode also directly affects the number of tokens your most 
+dangerous obstacle, The Speculator(s), will receive. This is further 
+explained later (During the game: 3. The Speculator(s) ).
+The game is a race against time, with the completion of each round 
+bringing you one step closer to the total privatisation of the board and the 
+end of the game. You have 20 rounds to achieve your goal - good luck! 
+4.1.6. Allocate the characters 
+ 
+There are 16 different characters in Commonspoly, each player 
+should have their own. Pick a Player Sheet at random - no peeking, this 
+should be a purely random choice!
+On your Player Sheet you will find more information such as:
+— Name of the character
+— Skills Points
+— Gender/Sexual orientation
+— Class
+— Race/Geographical background
+— Citizenship
+— Short bio
+
+It’s important to make sure you’re familiar with your character as their 
+characteristics will affect you personally throughout the game! 
+Each player will start with 5 Welfare Points and 5 Legitimacy Points and 
+will gain more as the game goes on. 
+4.1.7. How to play 
+ 
+The goods on the board can be private, public or common. They can 
+be transferred from private to public and from public to commons. As 
+an individual, you can not transform a good from private to common in 
+one shot. You can make this happen by joining forces with other people 
+through a Collective Uprising Action in the Central Agora. This will be 
+explained in more detail later.
+ 
+PRIVATE GOODS > PUBLIC GOODS > COMMONS GOODS
+ 
+The main individual action in the game is shifting the status of a certain 
+good from private to public, or from public to common. This is done by 
+combining Skill Points with Welfare Points to reach a total of 10 Points.
+A player never loses Skill Points when changing the status of a Good. 
+Depending on your actions throughout the game, however, you can lose 
+or gain Welfare Points. Scores can never be negative. If you have used 
+or lost all of your Welfare or Legitimacy Points and you are supposed to 
+have more deducted, your score for those remains at zero.
+Each skill is associated with a type of good. As you know, you have 
+between 1 and 6 Points for each. There are 4 Skills, each of which will 
+help you modify the status of a good. These are:
+ 
+— Caring Skills - Applies to Health Goods (purple)
+— Occupying Skills - Applies to Urban Goods (red)
+— Sharing Skills - Applies to Intangible Goods (yellow)
+— Regenerating Skills - Applies to Environmental Goods (green)
+
+Here’s an example: You land on a privatised Urban Good and you 
+want to turn it Public. You need to add your ‘Occupying Skills’ Points 
+to your Welfare Points to reach a sum of 10 Points. In this case, if you 
+have 6 Welfare Points and 4 Occupying Skill Points, you are able to 
+change its status. You’re left with 0 Welfare Points, but you keep your 4 
+Occupying Skill Points throughout the game.
+ 
+Legitimacy Points can be accumulated or spent through different 
+actions in the game. They are used collectively when you go to the 
+Central Agora and perform the Collective Uprising Action. Doing 
+this you can unlock an entire type of Good, turning it public or even 
+common, but it’s not as easy as it sounds. You need to have ten times 
+more Legitimacy Points than there are people playing (excluding The 
+Speculator(s) ). This is explained in more detail later (During the game: 
+4.2. The Central Agora and Collective Uprising Action).
+Choose your token, but remember: the white ones are for The 
+Speculators. They are the biggest threat to your challenge of undoing 
+the privatisation of resources. You need to watch out for them! This is also 
+explained later (During the game: 3. The Speculator(s) ).
+Finally there is one very important rule you need to know. There is a 
+maximum of two players allowed in a space at any one time. If there are 
+two already two players there you’ll have to go in another direction. This 
+can be a good tactic for stopping The Speculator(s) from coming near 
+you, but dangerous if it means you end up in the same space as one!
+
+4.2. DURING THE GAME
+4.2.1. Starting play
+ 
+The first round of the game does NOT require a Global Card, but from 
+the second round, the Game Master picks a Global Card at random 
+and reads it before the round starts. The event on the card and its 
+consequences affect all participants for the upcoming round.
+All tokens start at GO! Take it in turns to roll the dice and move your 
+token in whichever direction you prefer. 
+Note: You need to roll the correct number on the dice to enter the 
+Central Agora. Access is only permitted through the spaces connected to 
+the corner columns (these are easy to spot as they are a different shape 
+to the other spaces on the board). It is not possible to enter the Agora 
+through EVERY space surrounding it.
+The number of Points you receive for arriving at a space is dependent on 
+its status (Private, Public or Commons):
+A. If private, you don’t receive any Points.
+B. If public, you receive 1 Legitimacy Point and 1 Welfare Point.
+C. If commons, you receive 2 Legitimacy Points and 2 Welfare Points.
+D. The pink spaces are Inalienable Common Goods and have a 
+special scoring system. You receive 2 Welfare Points and 2 Legitimacy 
+Points for landing on them.
+Now you can decide whether you want to act, or bide your time and 
+earn some Points. If you have enough Points you can turn a Private Good 
+into a Public one, or a Public Good into a Common one. Don’t worry if 
+you don’t, you will still receive the number of Welfare and Legitimacy 
+Points relevant to the space you’re in.
+
+4.2.2. Unlocking goods. Let’s undo privatisation!
+ 
+You have decided to alter the status of a good. As mentioned before, 
+you have different skills to help with shifting the status of each type of 
+good.
+ 
+To shift or unlock the status of a good, you need 10 Points. The easiest 
+way to reach this number is by combining your Welfare Points with the 
+corresponding Skill Points. Important: Skill Points must correspond to 
+the type of good, or you can’t use them!
+ 
+Another example: You land on an Environmental Good that is 
+Private. You have 8 Welfare Points and 2 Regenerating Skill Points. 
+This Skill applies to Environmental Goods so can be used. You need 
+10 Points to turn the good Public. If you take action, you will still have 2 
+Regenerating Skill Points but 0 Welfare Points. By changing the status of 
+a good, however, you automatically gain 1 Legitimacy Point.
+Remember to use the coins to keep track of your changing Welfare and 
+Legitimacy Points and keep your Player Sheet up to date!
+ 
+
+4.2.3. The Speculator(s)
+ 
+The Speculator(s) play a crucial role in Commonspoly - they’re the ones 
+with the power to thwart your desires and prevent you from communalising 
+society. (As a reminder: we suggest that the Game Master also plays this 
+role, although it is possible for the two roles to be played by separate 
+people).
+ 
+The Speculator(s) will have 1, 2 or 3 Tokens depending on the Game 
+Mode:
+Mad Max Mode
+1 Token 
+Transition Mode
+2 Tokens 
+Commonsland Mode
+3 Tokens 
+The Speculator(s) will always have the last turn in the round. They move 
+like all other players, however they can roll the dice once for each token 
+that they have in play. If there are more than one Speculator(s) pieces 
+on the board, these may be moved in any order, or in substitution for 
+another, at their discretion, or also, roll the dice for the same game piece 
+twice (or thrice, if there are three Speculators), as desired. In other words, 
+Speculator(s) game pieces don’t have to move in the same sequence 
+from round to round, and the first game piece can be moved instead of 
+the second or third piece in play, if this is strategic. 
+If a Speculator lands in a space you’re in, these are their options:
+ 
+1. Deduct Welfare Points. The number of Points deducted is determined 
+by how they roll the dice:
+
+A. 1-2: One Welfare Point
+
+B. 3-4: Two Welfare Points
+
+C. 5-6: Three Welfare Points
+
+2. Send you to the Detention Centre. Again, the number of rounds you 
+must stay is determined by how they roll the dice:
+
+A. 1-2: One rounds (you get to have your turn as normal in the 
+next round); 3-4: Two round; 5-6: Three: rounds. Note: If you are 
+in the Detention Centre, you can’t join the others in the Central 
+Agora, and so the Collective Uprising Action can’t take place until 
+you are free.
+
+B. If you are a citizen it will cost 1 Welfare Point per round to 
+liberate you. This can be done collectively too: if you have to stay 
+3 rounds and the rest of the players want to liberate they must 
+spend 3 Welfare Points.
+
+C. If you are a non-citizen it will cost 2 Welfare Points per round 
+to liberate you. As above: if you have to stay 3 rounds and the 
+rest of the players want to liberate you, they will need to spend 6 
+Welfare Points.
+
+3. Send you to the Tragedy of the Commons. To do this, the Speculator(s) 
+must roll the dice and get the same number twice in a row.
+If there are already two players in the same space The Speculator(s)
+cannot access that space. This can be used as a strategy by the players 
+to protect themselves. If you arrive at a space already occupied by a 
+Speculator, you cannot perform any action on those goods and you 
+will face whatever The Speculator(s) decides to do to you. This does not 
+influence The Speculator(s)’ go at the end of the round. 
+Finally, The Speculator(s) can stop the Collective Uprising Action in the 
+Central Agora. 
+If there is a player in the Central Agora and a Speculator enters (like 
+all other players, via the columns), if they then roll a 1, 2 or 3 on the 
+dice they will immediately kick the player out, forcing them to go to the 
+Detention Centre (in this instance there is no charge to leave the Detention 
+
+Centre, the player is free to move in the next round). Important: In this 
+scenario, The Speculator(s) goes to the Detention Centre with the player. 
+If The Speculator(s) fails (by rolling a 4, 5 or 6) they have to go to 
+Mortgage, but the player remains in the Central Agora.
+Note: The Speculator(s) cannot enter the Central Agora when it is 
+empty, they can only go in with the intention of kicking somebody else 
+out. 
+Once there are two players in the Central Agora, The Speculator(s) 
+cannot stop the Collective Uprising Action. 
+ 
+4.2.4. Certain situations and Special Spaces
+4.2.4.1. SITUATION CARDS AND GLOBAL CARDS
+If you land on a pink space marked S you will need to take a Situation 
+Card. The effects of this card will only be relevant to you. Although 
+the effects only last one round, they can be positive or negative, so… 
+good luck!
+The Global Cards will be read just before starting every round (apart 
+from the first). The consequences will apply to all or some of the players 
+for that round, based on what it says on the card. The Game Master 
+should guide this. 
+Note: When we say the effects only last one round we are talking 
+about the scenarios on the cards. Points that have been taken away 
+are not returned, but any points you have been given you get to keep! 
+ 
+4.2.4.2 CENTRAL AGORA AND COLLECTIVE UPRISING ACTION
+ 
+The central space on the board, the Central Agora, is crucial to the 
+game. At the beginning of the game, you will be losing Welfare Points 
+whilst you undo the privatisation of goods, but gaining Legitimacy 
+Points. The Central Agora is the place to collectively use those 
+
+Legitimacy Points. It is a convergent space for collectively pushing and 
+advocating the liberation and communalisation of your society. 
+You can perform a Collective Uprising Action in the Agora, 
+meaning you can shift all Goods of one type (Urban, Health, Intangible 
+or Environmental) into Commons regardless of whether they are Public 
+or Private. These are the requirements: 
+— Use your turn to get to the central box by rolling the dice. 
+Remember: you can only get into the Agora through one of the 
+4 columns.
+
+— Another player must join you in the Agora for you to start an 
+action. You will need to work together. But be careful! Once there 
+are two of you in the Agora, the others will join you instantly. Make 
+sure the group has enough Legitimacy Points to act before meeting 
+there.
+— Note: You can only stay in the Central Agora for 3 rounds at a 
+time. For each round you stay in the Agora you lose one Welfare 
+Point and gain one Legitimacy Point. If you don’t have any Welfare 
+Points you can’t stay. If you have one Welfare Point you can only 
+stay one round. 
+— Remember: If you are alone in the Central Agora, The 
+Speculator(s) can kick you out by joining you inside and rolling a 
+1-2 on the dice. You’ll be pleased to hear that The Speculator(s) are 
+only allowed into the Central Agora when one of you is already 
+inside, they can’t stay in there to prevent you from entering.
+— Now you are probably ready to perform a Collective Uprising 
+Action. Shifting an entire type of Good into Commons requires 
+ten times more Legitimacy Points than there are players (excluding 
+The Speculator(s) ). So if there are 4 of you working towards 
+communalising goods, you need 40 Points from the group 
+collectively; if there are 5 of you, you need 50; etc. This doesn’t 
+
+mean that everyone needs 10 Points, some people can have 
+more and the others less. The idea is that the amount is reached 
+collectively.
+ 
+If you complete the action, the remaining personal Legitimacy Points 
+will be distributed among the players according to a group decision: 
+ideally, in a proportional way, but the group decides!
+4.2.4.3. SPECIAL SPACES
+Now we’ll describe the spaces on the board that aren’t Goods, but 
+some of which might help you in your quest to undo privatisation.
+The Assembly
+You can stay at The Assembly for as long as you like. 
+For each round you stay, you turn 2 Welfare Points into 
+4 Legitimacy Points.
+ 
+Bureaucracy 
+At Bureaucracy you have the option to turn a Private 
+Good of your choice Public for 6 Welfare Points. There 
+are no negative consequences if you decide not to, you 
+just won’t be gaining anything.
+The Tragedy of the Commons
+ 
+There are two ways you can suffer the Tragedy of the 
+Commons. You can arrive accidentally (by rolling the 
+dice), or The Speculator(s) can send you here if they 
+catch you. Scarcity of Common Goods is a serious 
+problem here: 3 goods of your choice will drop down by 
+one level; from Commons to Public, or Public to Private. 
+So sad. 
+
+Crowdfunding
+ 
+If, during your turn, you land on Crowdfunding, you can 
+donate an amount of Welfare Points of your choice to 
+any player. You’ll gain 2 Legitimacy Points for each 
+Welfare Point you give away.
+ 
+Mortgage 
+ 
+If you arrive at Mortgage you automatically lose 4 
+Welfare Points. Sorry.
+Detention Centre
+ 
+If you wind up in the Detention Centre, you can’t move 
+for one round. The Speculator(s) can also send you there 
+if they catch you. 
+Casino
+ 
+If you end up at the Casino, you go and party hard! You 
+get so distracted having fun that you forget to unlock any 
+goods and so you lose 4 Legitimacy Points.
+Inalienable Common Goods
+The pink spaces on the board are the infrastructures of the Commons. 
+They are the Cooperative, the Hacklab, the Social Centre, the Urban 
+garden, the P2P communication network and the eco-consumers 
+cooperative. They are intrinsically connected with the commons and 
+cannot be private or public. As such, they have their own point scoring 
+system: 2 Welfare Points and 2 Legitimacy Points if what you get there. 
+
+5. HISTORY OF THE GAME
+Commonspoly turns the basic features of the traditional game upside 
+down in an effort to imagine a potential world based on cooperation 
+instead of competition. But is it possible to play a board game where the 
+players have to find ways to work together, not beat each other? Well, 
+the cycles between financial crises are shortening, global unemployment 
+rates are skyrocketing, ice caps are melting, and we all have that hard-to-
+explain, creepy feeling… In this game, it’s a race against time and every 
+player’s help is more than welcome! And it’s not all bad news - we have 
+some powerful, community-based tools to use in this struggle against the 
+apocalypse. Let’s get down to business: we have urban, environmental, 
+health and knowledge based common goods to preserve!
+Commonspoly is a free licensed board game that playfully reflects 
+the possibilities and limitations of the commons as a critical discourse 
+towards relevant changes in our societies. This board game is an ideal 
+device to introduce commons theories to groups in a pedagogical and 
+playful way - but it’s also fun for those boring rainy afternoons!
+Commonspoly is also an attempt to repair a misunderstanding that has 
+lasted for more than a century. Back in 1904, Elizabeth Magie patented 
+The Landlord’s Game, a board game intended to warn people about 
+the dangerous effects of monopolism. Years later, she sold the patent 
+to Parker Brothers, the company that distorted her game, turning it 
+into the Monopoly we all know today that celebrates huge economic 
+accumulation and the bankruptcy of anyone…except you. 
+2015: Commonspoly is born during the 17th ZEMOS98 
+festival Hackcamp
+Commonspoly was launched as a proposal for a working group during 
+the hackcamp at the 17th ZEMOS98 festival: they had to develop a 
+brand new set of rules for an antithetical Monopoly board game in just 
+three days.
+
+This group was facilitated by Guillermo Zapata. Vassilis Chryssos, 
+Francisco Jurado, José Laulhé, Carmen Lozano, Rubén Martínez, Peter 
+Matjašič, María G. Perulero,Virginia Benvenuti, Natxo Rodríguez, Igor 
+Stokfisiewski, Menno Weijs, Carla Boserman and Mario Munera took 
+part in developing the rules and regulations. 
+Commons Fest
+Later on, in May 2015, an exhibition of the game was hosted by the 
+Commons Fest in Athens, presented by Vassilis Chryssos and Carmen 
+Lozano. The game was played a few times, resulting in a notable 
+improvement in its rules.
+Idea Camp: Building the City
+From September 23rd to 25th, Commonspoly travelled from one side 
+of Europe to the other and was played during the breaks of European 
+Cultural Foundation’s Idea Camp near Stockholm, Sweden. This was the 
+first time the game was completed by a group of people, who felt an 
+unending, immense joy during the rest of their days spent together.
+Remix the Commons
+As 2015 faded away, the France-based collective “Remix the Commons” 
+started a new line of work around the board game. They created some 
+working groups to do a French translation and experiment with other 
+functional improvements. These improvements were showcased at the 
+World Social Forum, celebrated in Quebec, Canada, in August 2016.
+2016: Culture, the City and the Commons: the second 
+version
+As part of the event, Culture, the City and the Commons, hosted by 
+ZEMOS98 at the end of June in Sevilla, Spain, the collective redesigned 
+all of the game’s features (including the board, the cards and the 
+tokens) and made a leap forward in simplifying certain rules to improve 
+
+playability. The new version of Commonspoly was printed and given 
+to the participants at the event. Guillermo Sanchez was responsible for 
+logistics, graphic designer Pablo Navarro redid the drawings and Gema 
+Valencia did the photography.
+2017/2018: The third version
+The game has been tested and improved as part of NEMESIS, a 
+Horizon 2020 project on how to bring social innovation into schools, 
+with which ZEMOS98 is heavily involved. Felipe G. Gil from ZEMOS98 
+has coordinated this with the assistance of Martina Deren, and there 
+have been meetings with other people including Txelu Balboa, Carmen 
+Lozano, Pablo Navarro, Miguel Lopez, Adelina Pastor and Pablo 
+Oliveira. Ricardo Barquín Molero has re-designed the visual identity and 
+all the elements of the game (with help from Pablo Vallejo, who drawed 
+some icons). Ann-Marie Utratel, Stacco Troncoso and Rosa Cagnoni 
+have updated and edited the Master’s Guide. 
+ZEMOS98 is an initiative which works on mediating for social change, 
+fostering a culture of participation and spreading critical citizenry. At 
+the moment, it is formed of Sofía Coca, Lucas Tello, Felipe G. Gil, Pedro 
+Jiménez, Miriam Alviz, Martina Deren, Miguel López and Adelina 
+Pastor. Get to know us and the work we do at www.zemos98.org.
+
+6. LICENCE
+This version of the Commonspoly is just a fork of the game. What’s a 
+fork? It’s a metaphor taken from the free software movement to name the 
+different versions and developments that come from the same original 
+source to satisfy different needs. So, this is just a fork of the Commonspoly 
+board game licensed under the Peer Production Licence. This licence lets 
+any commoner, cooperative and non-profit organisation use and adapt 
+the game, as long as they do so for non-commercial use.
+Read more about this licence here:
+http://wiki.p2pfoundation.net/Peer_Production_License 
+
+7. LINKS AND 
+CONTACT INFORMATION
+If you want to download the boardgame and all the different elements, 
+as well as the latest version of this document, you can do so here:
+www.commonspoly.cc/documentation
+If you want to play an easier version of the game (for children or for 
+lazy people :P), download the rules here:
+www.commonspoly.cc/beginners
+If you want to find out a bit more about some of the terminology we’ve 
+used in the game, don’t miss this link!
+www.commonspoly.cc/glossary
+If you have a general inquiry, contact:
+hello@commonspoly.cc
+If you have any questions related to these Guidelines or you want to 
+become a Game Master, please write to:
+master@commonspoly.cc
+If you want to be part of the community and actively contribute, 
+please contact:
+comun@commonspoly.cc

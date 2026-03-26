@@ -1,0 +1,61 @@
+Can’t Stop (designed by Sid Sackson)
+Can’t Stop has been in and out of print several times since 1980. Currently it’s out of print, so we’re playing on a
+simple paper gameboard, using generic wooden cubes as playing pieces.
+Goal
+The goal of this game is to “claim” three of the game board’s numbered columns. You claim a column if you can
+move one of your cubes from the bottom of that column to the top, according to the rules of the game. As soon as
+any player claims three columns, they win the game.
+Setup
+You should have the paper game board, a whole bunch of colored cubes, three white cubes, and four dice.
+Each player chooses a color (red, green, blue, or yellow) and collects all the cubes of that color. Set the white cubes
+aside for now.
+Players roll two dice to see who goes first. Reroll any ties. Highest total starts.
+On your turn
+Begin each turn by collecting the three white cubes, placing them off the board and in front of you.
+Your goal during your turn is to advance as far as you can up one, two, or three columns. You’ll use the white cubes
+to mark your progress during your turn. After every roll you’ll need to decide whether to stop and keep your
+progress, or try to advance even further – at the risk of losing your progress.
+Rolling
+Roll all four dice, then combine them into two pairs, any way you wish.
+Example
+If you roll 3, 4, 2, 6, then you can make these combinations:
+3+4 and 2+6 (7 and 8)
+3+2 and 4+6 (5 and 10)
+3+6 and 4+2 (9 and 6)
+(Yes, if you roll doubles / triples / quadruples, you’ll have fewer combinations to choose from.)
+Having thus chosen two sums between 2 and 12, advance a white cube in those columns, according to these rules:
+If you have already placed a white cube in that column (on an earlier roll during this same turn), advance it one space.
+If one of the three white cubes is not on the board yet, place it in that column:
+If you have a cube of your color in that column (from a previous turn), place the white cube one space ahead of
+it.
+Otherwise, place the white cube in the bottom space of that column.
+
+Other players’ cubes, if already on a space, can share that space with a white cube.
+Once you play a white cube in a column, it stays in that column until your turn ends. You cannot move a white
+cube from one column to another, nor can you remove it from the board during your turn.
+As the game progresses, you’ll often find that you can only legally make one move, rather than two. This is OK.
+However, you must always play to as many columns as your roll allows; you can’t choose to ignore dice that allow a
+legal move.
+If your roll allows it, you can play twice in a single column. For example, if you roll 2, 4, 4, 6, you could make two
+moves in column 8 (4+4 and 2+6), if available.
+Going bust
+To continue your turn, you must place or advance at least one white cube on the board, according to the rules
+above, after rolling the four dice.
+If you cannot legally place or advance any white cubes using your roll, you have gone bust. You do not get to
+advance any of your cubes this turn. Pass the dice to the player on your left; your turn’s over.
+Choosing to stop, or not
+After you finish placing or advancing the white cubes, you can choose to end your turn, or roll again.
+If you choose to end your turn, replace the white cubes with cubes of your own color. If you already have a cube on
+any of these columns, just move them up to their new positions. (Yes, several players’ cubes can occupy the same
+space.) Then pass the dice and the white cubes to the player on your left; it is now their turn.
+If you choose to roll again, leave the white cubes where they are, pick up all four dice, and roll! All the rules from the
+Rolling section apply to this new roll. Each player can keep playing and rolling as much as they want until they either
+go bust or choose to stop.
+Claiming a column
+If you have moved a white cube onto a column’s top (shaded) space when you choose to end your turn, then you
+have claimed that column. Put your colored cube into the shaded space, while all other players’ cubes in that column
+get returned to their owners.
+For the rest of the game, no player can place a white cube in that column. That goes for you, too! That column’s
+number has effectively ceased to exist. Play accordingly.
+If you end your turn with three columns claimed, you have won the game. Well done.
+Good luck!

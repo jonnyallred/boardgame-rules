@@ -1,0 +1,1276 @@
+Dragon Rage
+Game Manual
+Read this first
+English - V.0.011
+
+Designer Biography :
+Dr. Lew Pulsipher started playing
+boardgames more than 50 years
+ago.
+He designed his own games,
+then discovered strategic
+"realistic" gaming with early Avalon
+Hill wargames, and ultimately
+earned a Ph.D. in military and
+diplomatic history at Duke
+University.
+His first commercial
+title was published in 1980.
+He is
+designer of Britannia, Dragon Rage,
+Valley of the Four Winds, Swords
+and Wizardry, and Diplomacy Games
+& Variants.
+After a 20 year hiatus from game
+design to teach himself computing
+and work as a programmer and
+chief of PC support at a major Army
+medical center, Lew has come back
+to designing games.
+Britannia (2nd edition) appeared in
+2006, with foreign editions
+(German, French, Spanish,
+Hungarian) in 2008.
+Britannia is
+among the games covered in the
+book Hobby Games: The 100 Best,
+edited by James Lowder.
+It was
+described in an Armchair General
+online review of a 2006 edition as
+"ready to continue on as one of the
+great titles in the world of games".
+Players of Britannia,
+a strategically
+deep, four‐player game depicting
+the history of Great Britain from
+the Roman invasion to the Norman
+Conquest, play primarily for
+entertainment, but some schools use
+it to teach Dark Ages history. Other
+games are forthcoming, among
+them an abstract boardgame from
+Mayfair Games.
+A former contributing editor to
+several role‐playing game magazines,
+and author of over a hundred game
+magazine articles, he is now
+Monthly Contributor to
+GameCareerGuide and Gamasutra.
+These sites, owned by Game
+Developer Magazine, are the
+premier Web sites for those
+interested in video game creation.
+He is a contributor to the books
+Hobby Games: the 100 Best and
+Family Games: the 100 Best (Green
+Ronin), and to the forthcoming
+Tabletop Game Design (ETC Press).
+He is finishing his "howto" book, Get
+it Done: Designing Games from
+Start to Finish.
+"Dr. P’s" "day job" is teaching game
+design and other video game
+creation topics in the southeastern
+US, where he has 17,000 classroom
+hours of experience, mostly
+teaching computing and especially
+computer networking, in college
+and graduate school.
+Current projects are at
+PulsipherGames.Com.
+Blogs:
+http://pulsiphergamedesign.blogspot.com/,
+http://teachgamedesign.blogspot.com.
+
+Copyright (c) 1982, 2010 by Lewis Pulsipher
+Copyright (c) 2010 Flatlined Games
+Introduction to the revised
+edition
+Designed by Lewis Pulsipher, designer of
+the classic game 'Britannia', Dragon Rage
+was published in 1982 by Dwarfstar, an
+imprint of Heritage Models. Heritage was
+primarily a miniatures producer run by Duke
+Seifried. Shortly after the initial release of
+Dragon Rage, the company went bankrupt
+for reasons not related to the boardgames
+and the game became unavailable.
+Dragon Rage is a good introduction to
+the world of hex-and-counter wargames with
+a very strong theme and deep, yet simple
+gameplay.
+I was thrilled when the occasion to
+publish a new edition of this classic
+presented itself. Dragon Rage is now
+available again, about 30 years after the
+original publication. To some of you it'll be a
+fond memory of the past, and to the others it
+will be a new game altogether. I hope all of
+you will enjoy it the same.
+The rules book has been rewritten from
+the ground up, with only minor modifications
+to the game system. This revised edition
+includes a remake of David Helber's original
+map and counters that is very close to the
+classic Heritage edition. However, the
+counters are two-sided, and include brand
+new art by Lionel Liron on the back, in full
+color. I also developed an optional campaign
+system, allowing to play a few linked games
+whose outcome influences the next as the
+campaign unfolds. The last addition to this
+revised edition is a new original map on the
+back of the Esirien map, Nurkott, along with
+new scenarios.
+I hope you'll enjoy this new edition, and
+that you'll have a lot of fun with it!
+Eric Hanuise,
+FlatlinedGames.
+Missing parts
+If any parts to this game are missing or
+damaged, please return them to:
+Dragon Rage Customer Service , Flatlined
+Games, 39 rue gheude, 1070 brussels.
+Your damaged part will be replaced free of
+charge, as will missing parts.
+Rules organisation
+The Dragon Rage rules are organised in two
+books :
+- Game manual : this manual introduces the
+main game components and leads you step
+by step trough your first games of Dragon
+Rage using the main scenario of two dragons
+attacking the city. This is the 'user manual'
+for the game, and will teach you the basic
+rules.
+- Rules reference : this manual holds the
+detailed rules covering every aspect of
+Dragon Rage. It is organised in subsections
+for easy reference during gameplay : Rules
+reference, Scenarios and appendixes,
+Campaign rules, Tournament rules, etc.
+Your first game
+The game
+Dragon Rage is a two-player fantasy
+game that depicts the attacks on the walled
+fortress-city of Esirien. One player controls
+the "invaders", a pair of dragons, while the
+other controls the "city forces" defending the
+ramparts and interior, including knights,
+infantry, archers, militia, the hero-lord ruler,
+and his wizard.
+The invaders attempt to destroy part or
+all of the city, while the defenders attempt to
+protect it. Each map Hex represents about 25
+yards, each turn about a minute, and each
+unit about 50 men or one Dragon.
+For best results, read the 'Your first
+game' section once through quickly. Then
+immediately try a game, even if it is solitaire.
+Refer back to the rules during your first
+game, re-reading the fine points as
+necessary. After the first game or two you
+will have learned the rules clearly.
+Should a rules question arise during play,
+look at the relevant section of the rules
+reference to answer it. Anything not
+specifically allowed in the rules is not a valid
+game move, and is not 'legal' during play.
+Dragon Rage is a simple and fast-paced
+game so during a session, game flow is more
+important than in-depth rules discussion. In
+the unlikely event that you encounter a rules
+question that is not covered by the rules
+reference, agree on a temporary ruling to
+allow the game to continue without further
+disruption, and look for a definitive
+resolution after the game session is
+completed.
+
+The city of Esirien
+Esirien is an old city, veteran of many wars. The eastern section was built first, as a
+military colony of the Empire.
+Time passed and the Empire fell. Now it was a trading center, and the western portion grew
+up around the docks and warehouses. Now alone, it needed an army and a militia to repulse
+attacks from the wilds beyond the gates.
+Giants, trolls, orcs and goblins all attempted to pillage and plunder Esirien, but after each
+attack it rebuilt.
+One day, the monsters disappeared. Dragons had moved into the far mountains.
+Esirien's army sallied forth to destroy their lair, capturing wealth and breaking the eggs. Then
+the dragons came to avenge the death of their family ...
+The esirien city map
+The color map shows the city of Esirien,
+with a key to terrain features in the corner.
+The Terrain Effects Chart summarizes the
+effect of the terrain, which is explained in
+more detail within the rules.
+Note that although the inside of the city
+shows many buildings, these are primarily
+for appearance, since "open terrain" includes
+hexes with or without buildings.
+The river that runs through the city ends
+in Hex 1413, the sea begins in 1414. Dock
+hexes include the moles in 1315 and 1516, as
+well as 0815, 0915, 1014, and 1115.
+Finally, note that large gates are
+indicated by a red glow around the structure,
+while doors are indicated by a blue glow.
+
+Troops & individual
+characters counters
+City Defender troop units are
+orange and characters yellow.
+Unit types include CAV-
+cavalry, INF-infantry, MIL-
+militia, ARH-archers, HERO-
+defender hero, WZD-defender
+wizard. Combat ability,
+Escape and Movement are
+printed on the counters.
+Each city defender counter
+provides the unit's statistics
+as follow :
+Each unit has two movement
+point (MP) values. The first
+number "C" is the normal
+number of hexes the unit may
+move. The second,
+parenthesized "(D)" number is
+road movement : if the unit
+starts on a road Hex and
+follows the roads for its whole
+movement, use that number
+instead.
+Dragon counters
+The dragons have no
+numerical values on the
+counter itself. See the rules
+and tables for information
+about their capabilities. All
+Dragons have a facing
+direction, as shown by the
+colored arrowhead, and an "in
+flight" version (use whichever
+counter is appropriate for the
+monster's current status).
+Heart counters
+These counters are used to
+track the dragon's damage on
+the play aid.
+SP counters
+These counters are used to
+track the wizard's remaining
+spell points.
+The counters
+Turn pointer
+This counter is used to point
+to the current game turn on
+the track printed across the
+bottom of the mapboard. Blue
+squares indicate turns with
+reinforcements for the
+defending player.
+Last damage pointer
+This counter is used to mark
+the last game turn the invader
+destroyed a VP Hex on the
+track printed across the
+bottom of the mapboard. If
+ten turn pass without the
+invader destroying a VP hex.,
+he loses the game.
+Broken pointer
+Is used to show when a door
+or gate is broken open. Use
+the top of the arch on the
+counter to point to the broken
+hexside.
+Burned bridge markers
+Are placed on wooden bridges
+that are burned down.
+Wounded markers
+Are placed on top of a hero
+when he receives a wound (a
+hero who is wounded again is
+killed).
+Magic markers
+Show the central location of a
+Fog or a Whirlwind.
+Destroyed / Victory points
+markers
+Are placed in a city Hex when
+the invader "destroys" it to
+gain its victory points value.
+Note that destruction (for
+victory points) has no
+additional effects — terrain is
+unchanged, the invader
+simply scores the appropriate
+victory points, represented by
+placing a marker of the
+appropriate value in the Hex.
+
+Setup
+- Each player rolls the die, the player with
+the highest result chooses to play the
+Dragons or the city defender.
+- Place the Esirien map on the gaming
+surface
+- Defending city forces set up first, anywhere
+within the city, including in any tower, in the
+waterfront district, and along the walls
+(inside) as desired. Units may set up on the
+bridges if desired. Maximum one city force
+counter, plus either the wizard or hero, may
+be placed in a single Hex.
+- City defender forces: 4 cavalry, 8 infantry, 4
+archer, 4 militia, 1 hero, and 1 wizard.
+The invading forces then set up along any
+Hex at the west, north, or east edge of the
+map, next to the forest.
+- Invading forces: 2 Dragons.
+Victory points
+The dragons win by destroying parts of
+the city : certain hexes have victory points
+marked (Numbers 1-5 in blue), and when the
+Hex is destroyed, a victory points marker is
+placed on that Hex.
+The Dragons destroy a victory point Hex
+by walking into the Hex and spending one
+MP in it (in that or some later turn), or by
+slithering into it. Landing from flight or a
+bound in an unoccupied Hex will destroy it.
+Dragonfire into a Hex will always destroy it,
+except for towers, where only dragonfire
+breathed through an open entrance will
+destroy the Hex.
+A Whirlwind spell cast by the defending
+wizard will destroy all victory points in a Hex
+it occupies.
+Victory conditions
+City defenders win the game when all
+invaders are destroyed, if 10 game turns pass
+in which no victory points are destroyed, or if
+10 game turns pass in which no (grounded or
+airborne) invader units are within the walls
+of the city.
+Invaders victory is assessed using the
+following criteria :
+- Dragons destroy less than 16 VP's :
+Invaders are defeated (invader title :
+featherless chicken)
+- Dragons destroy 16 VP's : Invaders
+marginal victory (invader title : dragon
+whelp)
+- Dragons destroy 18 VP's : Invaders normal
+victory (invader title : destroyer of cities)
+- Dragons destroy 20 or more VP's : Invaders
+great victory (invader title : the death from
+above)
+- Dragons destroy all Vp's : Invaders
+ultimate victory (invader title : the bane of
+Esirien)
+After a few plays, the invader player
+should aim for at least a 20 VP great victory.
+The ultimate victory has so far never
+been claimed, so if you do manage that rare
+feat, by all means send us a session report!
+The game turn
+The game turn sequence is organised in 9
+phases as follow :
+(1) Invading player movement phase
+The invading player moves his dragons
+on the map, and resolves any overrun
+attacks.
+(2) Dragonfire phase
+The invader player resolves any
+dragonfire flame attacks.
+(3) Invading player melee phase
+The invading player may resolve any
+melee attacks made by his units.
+(4) City forces spell-casting phase
+The city player may cast a spell with his
+wizard.
+(5) City forces reinforcements phase
+On turns 10, 14, 18, 22, 26, 30, and so
+forth the city player receives reinforcement
+units.
+(6) City forces movement phase
+The city player may move his units on the
+map.
+(7) City forces archery phase
+The city player resolves any archery
+attacks.
+(8) City forces melee phase
+The city player resolves any melee
+attacks made by his units.
+(9) Advance turn pointer
+At the end of the turn, the city player
+moves the turn pointer to the next box on the
+turn record track.
+Game turns are repeated, one after
+another, until either the invader concedes
+defeat, or gains sufficient victory points to
+win.
+- If all invaders are killed, the city forces
+player automatically and instantly wins.
+- If ten or more turns pass without any
+invaders within the walls of the city, the city
+
+forces player automatically wins.
+- If ten or more turns pass without any
+victory point hexes destroyed, the city forces
+player automatically wins.
+Stacking
+No troop unit may move into a Hex
+occupied by any other unit. Characters and
+Dragons may enter hexes occupied by
+another unit in certain circumstances (see
+below).
+Heroes & wizards
+These special character
+units may stack with any other
+friendly unit in the same Hex
+However, a stack of no more
+than two units is allowed (hero
+or wizard with some other unit,
+or just a hero and wizard
+together).
+In addition, a hero (but not a
+wizard) may move into a Hex
+occupied by a Dragon, but this
+automatically ends his move.
+Terrain & Movement
+Sea
+No unit can enter a sea Hex (all-water
+hex.)
+River
+No unit can enter a river Hex However, a
+unit can enter a bridge or ford hex., but only
+from the hexsides where the bridge or ford is
+connected to the banks of the river.
+The Dragon may walk, slither, bound, or
+land on a bridge, but it cannot enter the ford.
+Of course, the Dragon could bound or fly
+over the river instead.
+Walls
+No unit can climb over a wall hexside.
+However, a gateway allows movement
+through a wall hexside from the inside out
+freely, or from either direction if it is
+smashed.
+There are wall gateways connecting
+hexes 0606-0707 and 2113-2212, as well as
+at either bank of the wooden bridges over the
+river in 1407 and 1413.
+Towers
+A unit can only enter a tower Hex
+through an entrance, or by bounding or
+landing (from flight) on it directly. The player
+defending the city controls all towers and
+their entrances, and can enter or exit freely.
+The Invader cannot use these entrances until
+they are smashed, which permits free
+passage to all.
+Units in a tower are always considered
+both 'in' and 'on top' of the tower.
+Cavalry units cannot end movement in a
+tower, although they may cross a tower by
+following the road in hexes 0914, 1310 and
+1511.
+Roads
+Any units can move along a road,
+following it from Hex to Hex The road passes
+through walls at the gates, and actually
+passes through the lower floors of the towers
+in 0914,1310, and 1511. The road does not
+enter any other towers, so units entering or
+leaving other towers cannot use road
+movement. All three bridges have roadway
+over them, so road movement can continue
+across bridges.
+A unit that follows the road for its entire
+move uses its road MP value.
+Note that the Dragons have no special
+road MP value, and thus gain no benefit from
+moving along a road.
+Entrances to walls & towers
+Entrances include both large gates (red)
+and small doors (blue). Towers may have
+either type of entrance on one or more sides,
+while wall hexes sometimes have a gateway
+(red) through them. Entrances are indicated
+by a colored glow on the map. Only a unit
+against that hexside (or moving over that
+hexside) can use the entrance.
+The City Defender automatically controls
+all tower entrances, and can use them freely,
+at no movement cost. The player who last
+had a unit in the Hex on the inside part of a
+wall gateway controls that gate, and can use
+it freely. If a player does not control an
+
+entrance, he cannot use it unless it is
+smashed open. Once smashed, an entrance
+cannot be repaired.
+Smashing doors (blue)
+A Dragon automatically smashes open a
+door by simply facing it at any time during
+movement (or at the end of its move). No MP
+cost is required, and the Dragon can
+continue moving into the tower if desired (if
+the tower is occupied, see Overrun rules : a
+dragon may not overrun in a tower).
+Smashing gates (red)
+A Dragon can attempt to smash a gate by
+moving to face it while walking, and then
+spending one or more MPs (from its
+remaining MPs that move) to "smash" it. If
+there is no City Defender unit on the other
+side of the gate, after one MP is spent
+smashing the gate automatically shatters.
+Otherwise, when the MP expenditure is
+made, one die is rolled. If the roll is equal to
+or less than the MPs spent, the gate is
+smashed; otherwise it is unaffected.
+Smashing MPs cannot be accumulated from
+turn to turn, and each Dragon must resolve
+its attempt separately.
+Movement could continue through the
+gateway (if any MPs remain).
+A Dragon with all legs destroyed can still
+try to smash a red gate. Unguarded red gates
+can be broken on a 6+ on 1d6, and gates
+with city guards on the other side can be
+broken on 11+ on 2d6.
+Opening an entrance
+A City Defender unit in a tower or behind
+a gate may open it during its own player-turn
+during combat, to make an attack out to an
+enemy on the opposite side of the entrance.
+In this case, the entrance remains open
+throughout the following enemy (Invader)
+player-turn, allowing the enemy to move (by
+Overrun, unless the unit is in a tower) and
+attack through it.
+Destruction of bridges
+The wooden bridges (on hexes 1407 and
+1413) can be destroyed.
+Troops
+A unit of troops can destroy a bridge by
+moving onto it, and not making any normal
+melee or missile attacks that player turn.
+Instead, place a "broken" marker
+underneath. On the following player-turn, if
+the unit is undestroyed, when it moves off,
+the bridge is wrecked behind it, replace the
+"broken" with a "burned" marker.
+Dragons
+A dragon will automatically destroy a
+wooden bridge if it bounds onto it, or lands
+from flight on it. A "broken" marker is placed
+underneath the Dragon on the bridge. If the
+Dragon does not leave on its next move, it
+will fall into the river (which instantly kills a
+Dragon).
+Note: the stone bridge in Hex 1410 is
+indestructible.
+(1) Invading player movement
+phase
+The 'terrain and movement' section
+above describes the effects of terrain on
+movement during this phase.
+Dragon Facing
+A Dragon must face toward one of the six
+adjacent hexes with the front (top) of the
+counter. Facing is important in movement
+and combat: if a Dragon is faced
+ambiguously, the opposing player decides
+which hexside it faces toward.
+Rear
+Face
+Dragon Movement modes
+Each turn, a Dragon may use only one of
+the following four movement modes: Walk,
+Slither, Bound, or Fly.
+Walk
+An undamaged dragon can walk 4 MP on
+his turn. the Dragon damage record sheet
+tracks the remaining MPs according to the
+leg damage sustained so far.
+A walking dragon gets one free 60°
+rotation before each Hex movement, and
+spends 1 MP for each Hex entered.
+He may also make additional 60° turns at
+the cost of 1MP each.
+Movement and extra turning can be
+combined in any order during a Walk move.
+Slither (no attack)
+A slithering Dragon may go forward,
+snakelike, 1 Hex (directly forward, no turn
+allowed); or turn 60° once while remaining in
+place.
+A slithering Dragon cannot move further,
+nor make any attacks the same player-turn it
+slithers.
+As a result, slither moves are generally a
+"last resort" used by a Dragon unable to
+
+perform any other type of move!
+Bound
+At least half the Dragon's leg points and
+wing points must be intact to permit this
+movement mode (exception: a Dragon may
+bound from a tower regardless of leg points
+intact).
+In a bound, the Dragon may first rotate
+60 degrees right or left if desired, and then
+bounds 1 to 3 hexes forward in a huge hop.
+The Dragon may bound over any hex.,
+including terrain normally impassable, and/or
+hexes occupied by friendly or enemy units.
+However, the Dragon cannot land on any unit
+except a hero and/or wizard. Note that
+because the bound must be in a straight line,
+there are only nine hexes a Dragon could
+bound into on such a move.
+Example of bound options for a Dragon
+Dragons can bound 1 to 3 hexes
+Fly (no attack)
+At least half the Dragon's wing points
+must be intact to permit flying. Furthermore,
+to take off at least half the leg points must
+also be intact, or the Dragon must be making
+a take off from a tower. The Dragon may
+either take off or land in addition to flying,
+but cannot both take off and land during the
+same movement phase.
+In a flying move, the Dragon must move
+straight forward at least two hexes, then it
+can turn 60° left or right, then it can move
+another two hexes, turn again, etc. No other
+turns are allowed while flying, even if taking
+off or landing also.
+Overall, a Dragon can fly up to 6 hexes
+each turn. A Dragon in flight is denoted by
+using the "in flight" version of the counter.
+This shows it is at 60-90 meter altitude. A
+Dragon in flight is flying above all terrain and
+units, it can ignore both. A Dragon that
+begins its move in flight may land in the Hex
+where it starts (no change of facing is
+possible, obviously), but the landing still
+counts as part of a flight move (prohibiting
+any other type of move, and attacking that
+phase).
+A flying Dragon cannot land on any unit
+except a hero and/or wizard.
+A dragon cannot make attacks if it made a
+flying move that turn.
+Crash
+A bounding or flying Dragon will "crash"
+if it is in the same Hex as a Whirlwind spell,
+or is in flight and has its wing points reduced
+below half.
+When it crashes, the Dragon lands in that
+hex., and suffers 2d6 wound points. The
+Dragon player determines how these damage
+points are distributed over its body. If the
+Dragon crashes into any river or sea hex., it
+instantly dies. Units in the crash Hex must
+roll to "escape" or are killed, and any victory
+point locations or wooden bridges are
+destroyed (scored).
+To escape, a unit must roll its escape
+number (printed on the counter) or more on
+1d6 or be destroyed. Each unit has its
+"escape" determined separately.
+A Dragon in a tower with one or more
+wing points remaining may deliberately fall
+out of the tower in any direction and crash
+into the neighboring Hex below. Of course,
+the Dragon must suffer the crash result (2d6
+damage). Crashing replaces the normal move
+of a Dragon.
+Overrun attacks and movement
+Overrun attack or movement only applies
+when walking on the ground, never when
+slithering, bounding, or flying.
+overrun attacks
+A Dragon may make an overrun attack
+only while walking. This allows the Dragon to
+move into the Hex occupied by any enemy
+unit, at a cost of 1 MP extra. A Dragon
+cannot bound or fly into an enemy-occupied
+Hex. A Dragon cannot overrun inside a tower,
+due to the small space, but it can overrun
+through an open or smashed gate in a wall.
+An overrun attack is resolved the instant
+it occurs, with the Dragon worth six combat
+strength for this purpose. See Combat
+resolution Table for details on how to resolve
+it. After the attack, the Dragon may continue
+moving, or simply sit there (on top of the
+enemy, if the attack failed).
+
+Overrun movement
+A walking Dragon may simply overrun
+through an enemy-occupied Hex. In this case,
+the beast simply passes through the hex.,
+ignoring the enemy units. An overrun move is
+prohibited if the monster must stop in the
+enemy occupied Hex. (E.g., if it has no
+movement point left with which to make an
+overrun attack, described above.) Overrun
+moves are prohibited inside a tower.
+(2) Dragonfire phase
+A Dragon that is neither flying nor
+slithering may "breathe fire" with its head.
+This is done in the dragonfire phase before
+normal melee combat in the Invader's player-
+turn.
+A flying Dragon may breathe fire onto a
+tower Hex if the Dragon neither took off nor
+landed that turn. Only tower hexes can be hit
+by fire from a flying Dragon.
+The head has a combat strength of zero
+(0) on the turn it breathes fire -- in effect, the
+head cannot be used for other attacks for the
+remainder of the turn.
+Range
+Dragonfire is breathed into any one of
+the three hexes to the front of the dragon. It
+then extends to a second Hex directly beyond
+the first, in a straight line from the Dragon.
+The dragonfire cannot be breathed into the
+Hex the dragon occupies.
+A Dragon cannot breathe fire through a
+wall or into a tower except through an open
+entrance. If breathing fire into a tower, if that
+is the first Hex (of the two), the fire stops
+within the tower, and travels no further.
+Effect
+All units in hexes hit by dragonfire are
+destroyed unless they escape. To escape, a
+unit must roll its escape number (printed on
+the counter) or more on 1d6. Any unit in a
+tower has a +2 bonus to the die roll. Each
+unit has its "escape" determined separately.
+Dragonfire into a Victory Points Hex will
+always destroy it, except for towers : If the
+dragon is on the ground level, only
+dragonfire breathed through an open
+entrance will destroy the Hex If he is flying,
+dragonfire on a tower will always destroy it.
+Fire limitations
+A Dragon can only breathe fire twice in a
+game.
+(3) Invading player melee phase
+Types of Dragon attacks
+Each area of the Dragon, except its belly,
+can be used for an attack. The head can bite,
+the wings buffet, and the legs claw and kick.
+Each area has one or more "groups", each
+with a combat strength for attacks. As an
+area takes damage, groups are destroyed,
+and thus the combat strength for attacks will
+decrease.
+The head of the Dragon is one group,
+with a combat strength of 3. The wings of the
+Dragon form two groups, each with a
+strength of 2. The legs of the Dragon form
+four groups, each with a strength of 1.
+Attack limitations
+Each type of group can only attack
+certain hexes, depending on the facing of the
+Dragon, and terrain. See the diagram below
+for the terminology used for various
+directions and facings:
+Around means all six hexes surrounding
+the Dragon. Underneath means the Hex the
+
+Dragon occupies. Above means any tower
+Hex around the Dragon.
+The Head can only attack to the front
+including above, and underneath. The Wings
+can only attack to the front including above.
+The legs can attack all around and
+underneath, but not above.
+Various groups from one or more areas of
+the Dragon may combine to attack a single
+Hex. If the entire, undamaged Dragon
+combines its combat strength to attack one
+Hex (it would have to be to the front), the
+total would be 11 (3 + [2x2] + [4x1] = 3 + 4
++ 4 = 11). The various areas or groups can
+attack separate hexes if desired.
+Additional limitations
+A dragon cannot make attacks if it made
+a flying or a slither move that turn. It can
+only attack over a wall or into a tower if an
+entrance is open. Two or more dragons
+cannot combine their combat strengths, each
+Dragon must attack separately, and must
+attack separate hexes.
+Combat resolution table
+To resolve the attack, total the combat
+strength of all attacking areas, and reference
+it against the combat strength of the city
+force units in the target Hex in the combat
+resolution table. If the result is a target
+number (2 to 6), roll 1d6 : The defending unit
+is destroyed on a roll equal or higher than
+the target number. If the result is D, the
+defending unit is destroyed. If the result is
+M, the attacker misses and the attack has no
+effect.
+Extreme odds
+11 indicates that you must roll the dice
+twice and add results, the defending unit is
+destroyed on a total of 11 or 12.
+Multiple areas attacks
+Two or more areas can combine combat
+strengths to attack one enemy. If two or more
+enemy units are stacked in the same hex.,
+they must be attacked as one combined
+group. Two or more different hexes with
+enemies must be attacked separately (a
+different attack against each hex.). Each area
+can only make one melee attack per turn, no
+matter how many enemies may be adjacent.
+Walls & towers
+A Dragon cannot make a melee attack
+into or out of a tower, nor across a wall,
+unless an open or smashed entrance is used
+(i.e., the entrance is between the attacker
+and his enemy).
+Special characters in melee
+Hero wounds
+The first time a hero is
+"killed" by any attack, he is just
+wounded instead. Place a
+wounded marker underneath
+the hero counter. When a
+wounded hero is "killed" he is
+finally destroyed and removed from the
+game. A wounded hero performs just like a
+normal hero unless otherwise indicated.
+Wizard
+The wizard has special
+magic spells (see Wizard Spells
+section). In addition, when
+stacked in a Hex with another
+unit, the wizard adds his combat
+strength only when attacked.
+The wizard himself has no combat strength
+to make attacks (but his reputation and
+magic help protect him). This defensive
+strength also applies if the wizard is alone in
+a Hex.
+Overrun
+A dragon that made an overrun attack
+move (see Movement) can still make normal
+melee attacks. Note that if it overrunned and
+stopped on a unit, and the overrun failed to
+kill it, the Dragon can now make normal
+attacks with head and/or legs "underneath"
+itself.
+
+(4) City forces spell-casting phase
+The wizard & magic
+Only the wizard can cast spells.
+Spell points
+Each time the wizard casts a spell, he
+must use up a certain number of "spell
+points." The spell points used vary with the
+spell. The wizard only has ten (10)
+spell points for the entire game. He
+cannot use more, and when these
+are exhausted, he is unable to cast
+any more spells.
+Casting spells
+Spellcasting occurs at the beginning of
+the player's turn, before any movement. The
+player simply selects one spell from the list
+below, uses the appropriate spell points, and
+notes the effect. Markers are provided for
+some, to indicate the area affected.
+Casting limitations
+A wizard cannot cast more than one spell
+per turn. He may cast the same spell turn
+after turn, or a different one each turn,
+provided sufficient spell points remain.
+The wizard may cast a spell into any Hex
+within range, regardless of line of sight. The
+wizard is presumed to have a crystal ball that
+allows him to see "through" normal
+obstacles.
+Boost Morale spell (1-3 SP)
+This spell costs 1 spell point, with an
+extra cost of 1 spell point per Hex of radius
+applied, up to a maximum cost of 3 points
+(for 2 hexes radius).
+The spell is cast into the wizard's own
+hex., and if extra cost for radius is spent, will
+extend one or two hexes outward from there
+as well. The spell affects units on the same
+side as the wizard only, and only for that
+turn.
+Melee attack effect : All units within
+Boost Morale add one (+1) to the die roll
+when resolving a normal melee attack. If
+some units have Boost Morale, and some do
+not in a melee attack, the addition is made
+only if half or more of the combat strength
+involved has Boost Morale.
+Melee attack on dragons : All units
+making a melee attack on a Dragon add one
+(+1) to the die roll.
+Escape bonus : If either the unit is hit by
+dragonfire, or all heroes are dead, or both,
+any escape die rolls have one added (+1).
+Militia attack ability : A militia unit may
+attack a Dragon without a hero being with or
+adjacent to it.
+Note: the effect of this spell is not
+cumulative with normal bonuses due to a
+hero. A unit can either take the effect of
+boost morale, or a hero, but not both at the
+same time.
+Fog spell (2 SP)
+This spell costs 2 spell points.
+The spell can be cast into any Hex within
+a radius of three from the wizard. The Fog
+marker should be placed to show the Hex it's
+cast into. The Fog itself covers that hex., and
+all hexes within a radius of two from it (for a
+total area of 19 hexes).
+Duration : The Fog spell lasts until the
+casting player's next spellcasting phase.
+Then it dissipates.
+Effect : No attacks or combat of any sort
+(neither melee, missile, nor dragonfire) may
+occur by units in the Fog, or against units in
+the Fog. A dragon may neither bound into
+nor out of Fog, nor may it land (from flight)
+in Fog. A dragon can take off in Fog, bound
+over it (if starting and ending outside of it),
+and fly completely over Fog. A dragon may
+still walk in Fog, and can destroy victory
+points in the Fog.
+Whirlwind spell (2 SP)
+This spell costs 2 spell points. It is cast in
+any Hex within four of the wizard. When cast,
+place the "Whirlwind 1" marker in that Hex.
+Duration & travel : The spell remains in
+effect during the whole turn. On the caster's
+next turn magic phase, replace the marker
+with "Whirlwind 2" and move it randomly one
+Hex. To determine the direction, roll one die,
+1-N, 2-NE, 3-SE, 4-S, 5-SW, 6-NW. The spell
+then lasts for one last turn in the new hex.,
+and then dissipates on the beginning of the
+caster's next magic phase.
+Effects : A Whirlwind in a Hex prevents
+any unit in that Hex from attacking, nor may
+it be attacked (by missiles, melee or
+Dragonfire). However, a Dragon in a
+Whirlwind may attack with its head and legs
+only.
+A Dragon must spend one extra
+movement point (+1 MP) to enter a
+Whirlwind hex., and one extra to leave it. If
+the monster flies or bounds into, out of, or
+through a Whirlwind it crashes on a die roll
+of 4+. If the monster is in flight, and the
+Whirlwind occurs in its hex., it must roll for
+crashing at that instant, but if it doesn't
+crash, it can move out of the Hex during his
+movement phase without needing a second
+check.
+
+Any victory points in a Hex occupied by a
+Whirlwind are automatically destroyed.
+Entrances and bridges are unaffected by a
+Whirlwind. No units may unload from ships
+onto docks covered by a Whirlwind.
+Lightning spell (3 SP)
+This spell costs 3 spell points. It is cast
+into any Hex within four of the wizard, and
+hits one unit in that Hex (selected by the
+wizard casting it).
+Effect : The power of the Lightning is 5
+minus the distance (in hexes) the spell was
+cast from. A Lightning cast into the same
+Hex has a full power of 5, into an adjacent
+Hex a power of 4, etc., to a power of 1 if cast
+4 hexes away.
+When cast at a Dragon, the strength of
+the Lightning bolt is the number of damage
+points inflicted on the Dragon (the Lightning
+automatically hits). The Invader player
+decides which areas are hit, but must give
+each area one damage point before any area
+is given two damage points. Areas as yet
+undamaged are always the first to take
+damage from Lightning.
+(5) City forces reinforcements
+phase
+The City Defender receives
+reinforcements from the sea starting on the
+10th turn, and every fourth turn thereafter
+(i.e., on the 14th, 18th, 22th, etc. turns).
+These turns are marked in blue on the turn
+track.
+Each group of reinforcements consists of
+four infantry troop units, which arrive on any
+dock Hex along the seafront, and/or on the
+wooden bridge in 1413. If the wooden bridge
+is burned, reinforcements cannot be placed
+there.
+Reinforcements can only arrive in vacant
+hexes at the start of the movement phase of
+the player-turn. If insufficient vacant dock
+and bridge hexes exist, those which cannot
+arrive are delayed until the next turn.
+If there are insufficient infantry counters
+for reinforcements, due to all infantry
+already being in play on the mapboard,
+militia is substituted. If all infantry and
+militia units are already in play, no additional
+reinforcements are received until "dead"
+units become available for reinforcements on
+a subsequent reinforcement-arrival turn.
+Dock hexes where reinforcements arrive
+include 0815, 0915, 1014, 1115, 1315, and
+1516 (as well as the bridge on 1413).
+(6) City forces movement phase
+The 'terrain and movement' section
+above describes the effects of terrain on
+movement during this phase.
+Units are moved one at a time, but
+movement of one may be halted temporarily
+to move another.
+A player can move as many or as few
+units as desired, including all or none. A unit
+need not move its full MP, it can move only
+part instead. MP cannot be saved from turn
+to turn, nor can it be transferred from one
+unit to another. Movement only occurs
+during the proper phase of the game turn.
+(7) City forces archery phase
+Only archer units may fire missiles.
+An archer unit can either fire missiles or
+make a normal melee attack, but not both in
+the same turn. Such a unit can only fire
+missiles once a turn, regardless of the
+different target hexes available.
+Line of sight
+An archer unit must be able to see the
+target Hex to fire on it. If firing from a tower,
+any Hex can be hit. If the target is in a tower
+or flying, it can be hit regardless of terrain (A
+Line of Sight always exists to a flying
+Dragon). In all other cases, the firer is unable
+to see through any tower or wall hexside. To
+determine this, trace a straight line from the
+center of the firer's to the center of the
+target's Hex. If the line intersects any part of
+the wall or tower structures painted on the
+map, firing is prohibited.
+An archer may shoot through an entrance
+in a wall, but only to the Hex immediately on
+the opposite side. The smaller buildings
+painted on the mapboard inside the city have
+no effect on the line of sight (it is presumed
+archers, etc. are in upper floors and on roofs;
+however, buildings that act as walls still
+block line of sight within the city).
+Missile attacks against Dragons (5+, 6+)
+Archers fire two hexes, three if from a
+tower (and the target is neither in a tower,
+nor flying).
+To hit with missiles, one die is rolled.
+At one Hex range and shooting at a
+Dragon not in flight, a 5+ is needed to hit.
+In any other situation, including any
+firing at a flying Dragon, a 6+ is needed to
+hit.
+If the Dragon is flying when hit, it
+automatically takes two damage points in the
+belly.
+
+If a Dragon is hit by missiles, it will suffer
+one damage point in the wings, legs, or head
+(area selected by the firer).
+(8) City forces melee phase
+Any unit in the same or a neighboring
+Hex to a Dragon may attack it. Melee attacks
+are prohibited if either unit or Dragon is in a
+tower, but both are not, or if the attack is
+across a wall hexside, or if the Dragon is in
+flight.
+When a unit attacks, it indicates what
+area of the Dragon is being attacked, and
+rolls one die. If the proper number results,
+the Dragon is hit.
+When a Dragon is hit, the number of
+damage points inflicted equals the combat
+strength of the attacker. Thus a unit with
+combat strength 2 will cause two damage
+points with each hit.
+The head (6+)
+Can only be attacked from the Hex
+directly in front of the Dragon, or from any
+tower Hex around it (i.e., any Hex above it).
+A die roll of 6+ is needed to hit, and the head
+is a single group with 8 hit points.
+Once both wings and all 4 legs are lost,
+the dragon's head can be attacked from all
+three front hexes.
+The wings (4+)
+Can be attacked from the four side hexes
+or any Hex above it. A die roll is 4+ is needed
+to hit, and the wings are in two groups, each
+with 6 hit points.
+The legs (5+)
+Can be attacked from any except above.
+A die roll of 5+ is needed to hit, and the legs
+are in four groups, each with 3 hit points.
+The belly (4+)
+Can only be attacked from underneath (in
+the same hex.) A die roll of 4+ is needed to
+hit, and the belly is one group with 6 hit
+points.
+damage points on Dragons
+Each successful attack on a Dragon
+inflicts damage points. The number of
+damage points suffered equals the combat
+strength of the attacker.
+Location of damage
+When an attack is made, the attacker
+must indicate which area on the Dragon is
+being targeted before rolling the dice. This
+often influences the die roll needed to hit. If
+the attack is successful, that area is hit.
+Some areas cannot be hit from some
+positions.
+When an area is hit, the first group (if
+more than one) in that area always takes the
+damage first.
+When enough damage accumulates to
+destroy the first group, the next group takes
+the damage, etc. When an entire group is
+destroyed, its combat strength for attacks
+drops to zero (0). If an entire area is
+destroyed, any further hits on that area have
+no effect.
+Note that groups are always marked off
+one after another, regardless of the direction
+of attack. This is a game device to represent
+gradually decreasing strength and power. A
+specific group within an area does not
+correspond to any specific part of the body.
+Head area damage
+When the entire head area (one group of
+8 damage points) is destroyed, the Dragon
+cannot use dragonfire anymore, and goes
+berserk.
+A berserk Dragon only moves if not
+facing an enemy. It will rotate to face the
+nearest unit, and if none are adjacent, will
+walk, slither or bound toward the nearest
+enemy unit and attack. After each Invader
+melee phase, roll one die for each berserk
+Dragon. On a result of 5+, the Dragon dies.
+In addition, when the head area is
+destroyed, it cannot be used in combat
+anymore.
+Wing area damage
+When one entire group of wings is
+destroyed (there are two, each of 6 damage
+points), the Dragon can neither fly nor
+bound. The loss of a wing group also
+eliminates that group from combats.
+Leg area damage
+Each leg group destroyed (there are four,
+each of 3 damage points) reduces the
+movement points of a walking Dragon by one
+(-1 MP/leg group lost). In addition, the loss of
+a leg group eliminates that group from
+combats. When all leg groups are destroyed,
+the Dragon is unable to walk or bound, and
+can only take off for flight from a tower.
+Belly area damage
+When the entire belly area (one group of
+6 damage points) is destroyed, the Dragon
+immediately dies.
+Dead dragons
+When a Dragon dies, it collapses in the
+Hex it occupies. Any other unit in the Hex
+must roll its escape number or higher to
+
+avoid being crushed and destroyed. Any
+victory points in the Hex are destroyed and
+scored by the Invader player. The Hex
+becomes impassable to all units, even other
+monsters, although a unit may fly or bound
+over it.
+Heroes & militia hero attacks
+When any unit is attacking a Dragon, add
+one (+1) to the die roll of all attacks if the
+hero is next to or stacked with the unit. This
+only applies if the hero is not wounded. If
+wounded, the hero does not cause this
+addition.
+The hero unit itself also adds one (+1) to
+its die roll when attacking a Dragon.
+Militia leadership
+The militia units are untrained and poorly
+disciplined troops. They will not attack a
+Dragon unless a hero is in the same or
+adjacent hex., or they are within the
+influence of a "Boost Morale" spell from the
+wizard. In either case, the militia would add
+one (+1) to its attack die roll, due to the hero
+or the morale spell.
+Death of a hero
+If a player had heroes among his units,
+and all are dead, the rest of his forces
+become demoralized. The demoralized units
+must "check morale" successfully each time
+they wish to attack a Dragon. If the unit fails,
+it cannot attack that player-turn. Archers
+need not check morale to fire missiles.
+Each unit checks morale separately, by
+rolling one die, and adding one (+1). If the
+result is greater than or equal to the escape
+number, it passes morale and may attack that
+player-turn. If the result is less than the
+escape number for that unit, it fails morale
+and cannot attack.
+(9) Advance turn pointer
+The city defender player concludes his
+turn by advancing the turn pointer.
+Players continue taking turns until either
+the invader player or the city defending
+player meets his victory conditions.
+This concludes the 'Game Manual' booklet. You should stop
+reading here and start a game right away, even if solo! We
+recommend you play the basic game a few times before you
+move on to the full rules detailed in the rules reference
+manual.
+Credits
+Original Game : Game design by Lewis Pulsipher, development by Lewis Pulsipher and Arnold
+Hendrick. Playtesting by Robert Dudley, Kevin Garbleman, Albie Fiore. Bob Lansdell, Mundy
+Peale, Jim Adams, Mark Humphreys, lan Livingstone, Sue Pulsipher, Martin Crim, Keith Ivey,
+Roland Gettliffe, Eric Bracey. Steve Raymond, and others; and Albert Pare, Cameron Owen,
+Rommie Stults, and Bruce Webster.
+Revised edition : Game design by Lewis Pulsipher, development by Lewis Pulsipher and Eric
+Hanuise. Graphic design by Eric Hanuise (maps, play aids, rules) , David Collignon (old style
+counters) Lionel Liron (new style counters) and Miguel Coimbra (cover art).
+Revised Edition Playtesting : Eric hanuise, Jean-Michel gevels, Axel Calingaert, Olivier
+Caprini, Alain Peters, Alain Gotcheiner, Marc Dave, Marc Elsoght, Frederic Moyersoen,
+Olivier Doyen, Jean Lognay, Serge Lehman, Greg Charles, Frederic Prévot, Anthony Desert,
+Vincent Boulanger, Romain Laurent, Didier Vandamme.

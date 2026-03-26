@@ -1,0 +1,721 @@
+Designed and Created by Glenn Drover
+This game is dedicated to my son Jack. “Let’s play, Dada!”
+Copyright © 2003 Eagle Games, Inc.
+
+I.
+Game Contents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+The Attack! boardgame contains the following components:
+gameboard
+game manual (This rules manual)
+plastic runners containing pieces (infantry, tanks,
+artillery, planes, and one capital city per runner)
+red battle dice (with one image per side: an infantryman,
+a tank, an artillery piece, 2 planes, and a blank)
+blue regular dice
+deck of Economics cards
+deck of Navy cards
+II.
+Rules Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+III.
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+IV.
+The Attack! Game System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+V.
+Gameplay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+VI.
+The Gameboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+VII.
+Setting Up the Game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+VIII. The Turns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+IX.
+The Military Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+X.
+Movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+XI.
+Blitzkrieg Move . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+XII.
+Strategic Move . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+XIII. Land Battles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+XIV. Control of the Sea . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+XV.
+Naval Battles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+XVI. Diplomatic Blitz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+XVII. Neutral Regions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+XVIII.Economics Cards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+XIX. Capital Cities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+XX.
+Trade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+XXI. Building New Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+XXII. Winning the Game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+
+III. Introduction
+The Prime Minister leaned over the enormous map in the situa-
+tion room. He watched as the staff updated the status of the
+battles that were raging all over the world. Their long sticks
+moved small tanks, aircraft, artillery pieces, and soldiers repre-
+senting the armies of the six major nations that were struggling
+to dominate the world. He looked to generals to explain the
+latest news, though he had been here enough to know when
+things weren’t going well. Too many little blue pieces had just
+been removed for the news to be good.
+“Well, what is the status, gentlemen?” he managed to say as
+he straightened up to his full height and prepared himself for
+the blow.
+An officer who was clearly in command of the assembled staff
+stepped up from behind the Prime Minister and reported, “The
+Fascist offensive has pushed us back on the African front,
+Prime Minister. The European front is currently stable, but we
+have lost almost half of our strength in the fighting there. If we
+cannot reinforce them, our boys may not be able to hold off the
+next offensive. 
+The Prime Minister nodded gravely. “How is production
+coming on those new tanks?” he asked. “Will they be
+completed on schedule?” 
+A small, bookish looking bald man with glasses stepped
+forward hesitantly and answered, “ The promised supply of
+minerals from our communist allies has not arrived yet, Prime
+Minister. They have been giving us some weak excuses
+about rail transport problems. Honestly sir, I don’t think that
+shipment is coming.” 
+Pointing to the southwestern quadrant of the map, the Prime
+Minister asked, “And what is the latest intelligence from our
+agents in South America?”
+A very unremarkable looking man dressed in a plain gray suit
+with dark, dark eyes stepped forward next to the army officer.
+“It appears that our Communist allies are massing troops near
+our colonies. They claim to be protecting their territory from a
+possible attack by their Democratic enemy, but the democratic
+forces in South America are clearly too few to pose any
+credible threat. Our agent in Buenos Aires has also reported
+that the communist’s top general, Field Marshall Tchukov,
+has recently arrived amid a flurry of activity.”
+“How reliable is this information?” asked the Prime Minister.
+“Extremely,” came the reply.
+“General?” asked the Prime Minister, staring down at the map,
+“Are our forces in South America still superior to the communist’s?”
+“Yes, Prime Minister.”
+Without blinking, the Prime Minister asked, “How badly does
+the economy need those minerals?”
+The bespectacled bald man blurted, “If we don’t get them, our
+production will fall by 40% during the next 6 months. We will
+be nearly helpless.”
+After a very long moment, the Prime Minister turned around
+and faced his entire staff. “General, I formally order you to put
+Plan Red into action.”
+“Sir?” queried the officer.
+The nation’s leader looked firmly into the general’s eyes and
+without a moment’s hesitation gave a one word order. 
+“Attack!”
+IV. The Attack! Game System
+The Attack! System is designed to allow you to purchase a basic set of rules and pieces and to enjoy this game as a stand-alone prod-
+uct. When you are ready to graduate to a deeper game experience, the Expansion is available. The Attack! Expansion includes more of
+everything: Pieces, cards, rules, scenarios, and an add-on mapboard that can be laid next to the mapboard included in this box to cre-
+ate a huge map of the world circa 1935.
+
+V. 
+Gameplay
+Attack! Is a game of expansion and conquest. At the beginning of the game, you will become the leader of a powerful nation (referred to
+as a Major Nation) that is attempting to dominate the world. You will start the game with a few regions and attempt to add regions to
+your nation. 
+During each turn, you and the other players will attempt to add regions. This can be done either through trying to influence regions that
+do not yet belong to any player to join you (Political Blitz), or by invading with your army units (Attack!).
+Each time a new region is added to your nation, you draw an economic card that shows the economic strength of the new region. This
+card is added to your economic “hand” and adds to the money that you will collect every turn. This money is then used to buy four
+types of army units (Infantry, Tanks, Artillery, or Aircraft) or four types of navy units (Submarines, Destroyers, Battleships, and Carriers).
+Army units are used to attack and occupy regions, while navy units (cards) are used to dominate the seas.
+The game ends when any player is knocked out of the game or when the time allotted to the game runs out. At the end of the game, the
+player with the most regions wins the game.
+VI. The Gameboard
+The gameboard represents the western half of the world in 1935, just a few years before World War II began in Europe. The land areas
+are divided into “regions” for purposes of movement and battle. Each region in the game has a name. Land areas that are not named
+cannot be moved into.
+The seas are also divided into different areas. Those that are labeled as “Sea Zones” allow amphibious movement from any region 
+adjacent to the sea zone to any other region that is adjacent to the same sea zone. (see “Amphibious Movement” below). Sea areas
+that are not labeled as Sea Zones have no special function unless you are using the rules in the Attack Expansion (sold separately).
+The gray lines that stretch across the seas from one land region to another are called “sea lanes”. Sea lanes allow amphibious 
+movement between the regions that are connected by the sea lanes. 
+Some sea lanes do not connect to land regions. These sea lanes have no special function unless you are using the eastern half
+of the world that comes in the Attack Expansion (sold separately), and should be ignored when playing with only the Western half of 
+the world.
+Note: The Black Sea (the sea just south of Ukraine) is a part of the Mediterranean Sea Zone.
+Note: The Caribbean Sea Zone includes the area east of Panama 
+VII. Setting up the Game
+Each player chooses one color for his pieces from those available. This will be his color for the entire game. 
+Give each player the following:
+Army Pieces (in the player’s color): 12 Infantry, 6 Tanks, 4 Artillery, and 2 Planes 
+Naval Cards: 1 Battleship, 2 Destroyers, and 2 Submarines
+12x
+6x
+4x
+2x
+
+Economic Cards: 4 cards drawn randomly from the economics deck (which should be shuffled prior to dealing the players their cards). After
+dealing the player’s their economics cards, place the remaining economic cards to the side face down. This deck will be drawn from later as
+players gain neutral (unowned) regions.
+Roll to see who goes first. The player with the highest roll on two regular dice goes first, followed by the player to his or her left,
+and proceeding clockwise around the board.
+Starting with the first player, each player takes a turn placing one infantry piece on any unowned region. (Once a player places
+his piece on a region, he owns it.) Once each player has chosen four regions, proceed to the next step.
+Optional Rule: If you want to have a game with more interaction, then each player must pick one region from each of the four continents: North
+America, South America, Africa, and Eurasia)
+STEP 4:
+Starting with the first player, each player takes turns placing five of their pieces. They may choose any of their pieces and place
+them in any region or regions that they own. This process goes on until all players have placed all of their pieces.
+STEP 5:
+Starting with the first player, each player takes turns placing their Capital City on one of their regions.
+You are now ready to begin playing ATTACK!
+
+=1 UNIT
+= 5 UNITS
+VIII. The Turns
+Starting with the first player and proceeding clockwise around the board, each player takes a turn. During your turn, you may perform
+up to three “actions”. Each action may be chosen only once per turn (in other words, you may not choose the same action as two of
+your three actions. It must be three different actions). (The exception to this rule is the Diplomatic Blitz, which may be performed
+more than once in a player’s turn). The list of actions that you may choose from is:
+MOVE
+Moving your pieces and fighting any battles that result
+BLITZKRIEG MOVE
+A second move after the regular move is completed that can be made by tanks and planes only. Battles result-
+ing from the blitzkrieg move are resolved at the end of this action.
+STRATEGIC MOVE
+A Long distance move. Units may be moved from any region owned by the moving player to any other region
+that is also owned by the moving player and is connected by regions owned by the moving player. Movement
+across water can be blocked by the player who controls the seas. No battles may result from a strategic move.
+NAVAL BATTLE
+You move your navy “out to sea” and fight a naval battle for control of the seas.
+DIPLOMATIC BLITZ
+An attempt to gain control of an unowned region without a fight. This is the only action that may be performed
+more than once in a player’s turn. 
+BUILD NEW UNITS
+You total your “Production Points” generated by your economics cards and use them to buy new units.
+TRADE You trade Economics cards for other economics cards or favors.
+IX. The Military Units
+There are two types of military units available to you: 
+1. LAND UNITS (also called armies): There are four types of these represented by plastic pieces:
+INFANTRY
+TANKS
+ARTILLERY
+PLANES
+These units are used to occupy regions and fight battles. Each region that you own must have at least one land unit on it at all times. 
+You may not move the last unit out of one of your regions unless you first move another one in to take its place.
+NOTE: You will notice that each of the land unit pieces comes in two sizes: Large and small. The small pieces represent
+one unit of that type, while the large units represent five units of that type. At any time, you may replace five single
+units of one type with one large unit of the same type, and vice versa. This will prevent the board from becoming too
+cluttered when you create a huge force in a single region.
+2. NAVAL UNITS (also called navies): There are four types of these represented by Navy Cards:
+DESTROYER
+SUBMARINE
+BATTLESHIP
+AIRCRAFT CARRIER
+When navies are purchased, your navy cards are placed in front of you, unless you are the player who “controls the sea”. 
+The player who controls the sea places his navy cards in the middle of the map (in the North Atlantic).
+
+X. Movement
+When you choose the “Move” action, you may move any or all of your land units. Each piece may be moved from the region that it
+started in, to any adjacent region. Planes and tanks may move two regions from their starting region. When moving two regions, your
+tanks may not move through a region not owned by you, but your planes may.
+AMPHIBIOUS MOVEMENT
+Amphibious movement is when you move a piece from its starting region to another region that is connected to it by a “sea lane” (a
+gray line). All pieces that use amphibious movement must start their move in the region on one side of the sea lane and move no further
+when they arrive in the region at the other end of the sea lane. In other words, they may not move before or after the amphibious move
+(This includes tanks and planes).
+Sea areas that are labeled as “Sea Zones” and have an anchor symbol, 
+(Example: North Sea Zone) allow amphibious movement
+from any region adjacent to the sea zone to any other region that is also adjacent to the same sea zone. It is as if all the regions adja-
+cent to the sea zone have sea lanes going to all of the other regions adjacent to the sea zone.
+When you want to move any pieces amphibiously, you declare the move and place the pieces on the sea lane. After you are finished
+with your move, but before you fight any battles, the player who controls the seas (the one who has his naval cards in the middle of the
+board), tells you if he is allowing you to make the move. If he allows it, your pieces finish the move and arrive in their destination region.
+If he does not allow the move, then your pieces are returned to their starting region and cannot be moved again during this action. The
+exception to this rule is that plane units that are moving amphibiously cannot be blocked. 
+NOTE: If you are moving units amphibiously, and the move is blocked by the player who has control of the sea, you may
+decide whether you want to move your planes across anyway, or to move them back with the rest of your units.
+BATTLES
+Battles result when you move pieces into a region owned by another player. After you have moved all of your pieces, you will resolve
+any battles (See “Land Battles” below). Once a battle has been fought, you may not move any more units with this action, so be sure
+that you are done moving all your pieces before you start fighting your battles. 
+XI. Blitzkrieg Move
+Once the “Move” action has been used (and all resulting battles have been resolved), if you have any actions remaining for the turn,
+you may choose to use one in order to make a “Blitzkrieg Move”. A blitzkrieg move is exactly the same as a normal move (all regular
+movement rules apply), except that you may only move tank and plane units. When using a blitzkrieg move, tanks and planes may move
+one or two regions, even if they moved previously in during the regular move action. Amphibious movement via sea lanes is not allowed
+during a Blitzkrieg move. Battles resulting from the blitzkrieg move are resolved normally.
+XII. Strategic Move
+When you choose the strategic move action, you may move any or all of your land units. They may move any number of contiguous
+(connected) regions that are owned by you and must end in a region owned by you. You must be able to show an unblocked path from
+the starting region to the ending region (This path must not include regions owned by another player or any unowned neutral regions).
+When the path includes sea lanes, it can be blocked by the player who has control of the sea.
+NOTE: During a strategic move, no battles may result since you may not move into regions that you do not already own.
+XIII. Land Battles
+When you move land units into a neutral region or one that is owned by another player, a land battle is fought. All land battles are
+resolved after you have completed your move action, but before the next action begins. 
+SETUP: At the beginning of a battle, both players take all of their units that are in the region where the battle is taking place and place
+them in front of them on the table (these are the “reserve” units that have not been sent into battle yet). The attacker (the moving play-
+er) then chooses four units from his reserve to commit to the battle. These units are pushed forward to signify that they are in the bat-
+tle. The defender then chooses four of his units from those in his reserve to commit to the battle and these are pushed forward. If
+either player has less than four units at the beginning of a battle, then they must move all of their reserve units into the battle.
+The battle is then resolved in rounds (like a boxing match). In each round, the two players take turns acting (first the defender executes
+all four steps, and then the attacker executes all four steps):
+
+REINFORCING: The acting player “reinforces” by moving units from his reserve into the battle. The maximum number of
+units that each player may have in the battle increases by one each round of the battle. The maximum number is four in the
+first round, five in the second round, six in the third round, and so on. Thus, the defender does not reinforce during the first
+round of battle since he setup with four units.
+NOTE: The acting player does not have to reinforce up to the maximum number of units, but must have at least one unit com-
+mitted to the battle after reinforcing.
+ROLLING: The acting player rolls one special battle die for each unit that he has “committed” to the battle (two dice are
+rolled for each tank unit). No dice are rolled for units in reserve. The acting player may NEVER roll fewer than two (2) dice.
+DETERMINING THE NUMBER OF HITS: For each die rolled that matches one of the acting player’s units, a “hit” is scored.
+Only one die may be matched to each of the acting player’s units.
+NOTE: The dice are matched to the rolling player’s units to determine the number of hits, not the targeted player’s units.
+Example 1:
+The defender has one infantry unit and two tank units in the battle, therefore he rolls five dice (one for the infantry unit and
+four for the two tank units – two each). The result of the roll is two dice come up with infantry unit images on them, two dice
+come up with plane images on them, and one die comes up blank. Only one hit is scored for matching the infantry unit. 
+Example 2:
+The attacker has one infantry unit, one tank unit, one plane unit, and one artillery unit, therefore he rolls five dice. The result
+of the roll is three plane images and two tank images. Two hits are scored: One for the plane and one for the tank. The
+excess plane and tank rolls are wasted.
+STEP 4:
+ELIMINATING THE OPPONENT’S UNITS: For each “hit” that is scored, one of the targeted player’s units is eliminated. 
+They must be eliminated in a specific order: 
+1) Infantry Units are eliminated first
+2) After all infantry units have been eliminated, then tank units are eliminated
+3) After all tank units have been eliminated, then artillery units are eliminated
+4) After all artillery units are eliminated, then plane units are eliminated
+After the defender has executed all four steps, they are then repeated for the attacker, with the attacker reinforcing up to the maximum
+for the round (4 in round one, five in round two, and so on), rolling the battle dice, determining how many hits he has scored, and elimi-
+nating that many of the defender’s units.
+Once both players have taken their turn, the next round begins until one of them has no remaining units in the battle. The surviving play-
+er wins the battle and ownership of the contested region. The surviving units are then placed back in that region.
+NOTE: There are no “retreats”. Battles continue until one player has no units remaining in the battle.
+FULL LAND BATTLE EXAMPLE
+SETUP 1
+Situation: The Tan player moves armies into Poland, attacking the Green player and forcing a battle. The Tan player now has the following
+units in Poland (in his battle reserve): 5 Infantry, 3 Tanks, 2 Artillery, and 2 Planes. The Green player has 3 Infantry, 2 Tanks, 2 Artillery, and 2
+Planes in Poland.
+
+SETUP 2
+The Tan player chooses to commit 4
+Infantry units to start the battle. The
+Green player commits one of each type
+(1 Infantry, 1 Tank, 1 Artillery, 1 Plane)
+GREEN PLAYER [ ROLLING TURN 1 ]
+The Green player rolls five (5) dice (One
+for each unit, except the tank, which
+rolls two). The result of the roll is: 1
+Infantry, 2 Artillery, and 2 Plane images
+on the dice. Therefore, he scores 3 hits
+and eliminates 3 Tan Infantry units.
+TAN PLAYER [ ROLLING TURN 1 ]
+The Tan player reinforces with 2 Tanks
+and 1 Plane. He rolls 6 dice (1 for the
+infantry unit, 1 for the plane, and 2 for
+each tank). The result of the roll is: 1
+Tank, 1 Artillery, and 4 Plane images on
+the dice. He scores 2 hits (one for the
+Tank, and one for the Plane). He there-
+fore eliminates the Green player’s
+Infantry and his Tank.
+
+GREEN PLAYER [ ROLLING TURN 2 ]
+The Green player reinforces with 1
+Infantry, 1 Tank, and 1 Plane (since this
+is the second round, the limit for units
+that can be in battle is now “5”). He
+rolls 6 dice. The result of the roll is: 2
+Infantry, 1 Tank, 1 Artillery, and 2 Plane
+images on the dice. He has scored five
+hits! However, the Tan player only has
+four units committed to the battle, so
+that is all that he can lose in this round.
+TAN PLAYER [ ROLLING TURN 2 ]
+The Tan player reinforces with all five
+of his remaining units. He rolls 6 dice.
+The result of the roll is: 1 Infantry, 2
+Tanks, 2 planes, and 1 blank image. He
+has scored 3 hits and eliminates the
+Green player’s Infantry, Tank, and
+Artillery unit.
+GREEN PLAYER [ ROLLING TURN 3 ]
+The Green player reinforces with his
+remaining units and rolls 4 dice. The
+result of the roll is: 2 Infantry, 1 Artillery,
+and 1 blank image. This equates to 2
+hits. The Tan player loses his Infantry
+and Tank units.
+
+TAN PLAYER [ ROLLING TURN 3 ]
+The Tan player has no reinforcements
+remaining. He rolls 3 dice and gets a
+blank, an Artillery, and a Plane image
+for 2 hits. The Green player loses his
+Infantry and his Artillery units.
+GREEN PLAYER [ ROLLING TURN 4 ]
+The Green player has no reinforce-
+ments remaining. He rolls 2 dice and
+gets 2 Infantry images. No hits!
+TAN PLAYER [ ROLLING TURN 4 ]
+The Tan player rolls 3 dice and gets
+Plane, a Tank, and a blank image.
+One hit. 
+
+XIV. Control of the Sea
+Only one player can have “control of the sea”. The player with control of the sea places his navy cards in the middle of the board (in the
+Atlantic Ocean). If you are the first player to choose the action “Naval Battle”, you gain “control of the sea” without actually having to fight
+since there is no naval force at sea. You place all of your navy cards in the middle of the board. 
+If another player already has control of the sea and you wish to take control, then you must challenge his navy with yours by choosing the
+Naval Battle action. When you choose the naval battle action, the player who controls the sea may choose to fight your navy, or may with-
+draw his ships without a fight. If he withdraws, he places his navy cards in front of him and you place yours in the middle of the board. Now
+you have control of the sea. If he chooses to fight, then you will both fight a naval battle (see below). The winner of the battle gains control
+of the sea.
+The player with control of the sea has the right to decide who may make amphibious moves and who may not. He may also block any trades
+between players that do not have any regions that are adjacent to each other (see “Trade” below). 
+GREEN PLAYER [ ROLLING TURN 5 ]
+The Green player rolls 2 dice (the
+minimum), and gets an Infantry and a
+Tank image. No hits.
+TAN PLAYER [ ROLLING TURN 5 ]
+The Tan player rolls 3 dice and gets 3
+Plane images. His one hit is enough to
+finish off the last Green unit. Poland
+now belongs to the Tan player.
+
+XV. Naval Battles
+Naval battles are fought when a player chooses the Naval Battle action during their turn, and the player who has control of the sea
+decides to fight rather than give up control by withdrawing his navy cards without a battle. 
+SETUP: Both players take all of their navy cards in their hand.
+The battle is then resolved in rounds. Each round has the following steps:
+Both players place their navy cards face down in a row so that each of their cards is lined up opposite a card belonging to
+their opponent. They must play as many of their cards as they have up to a maximum of eight.
+NOTE: The first card laid down by the attacker and the opponent’s card that is matched-up across from it, are the first cards
+in the battle line (the beginning of the battle line). 
+The cards are then all turned face up to reveal the ship types and match-ups. Ships that are opposite each other are
+“matched-up” in battle.
+NOTE: There can only be as many match-ups as there are ship cards laid down by the player with the fewer cards. There are
+no automatic wins due to having a ship that has no opponent. Thus the only advantages to having a larger number of
+navy cards than your opponent is that you will have more choices and can sustain more losses.
+Each match-up is then resolved one at a time starting with the first cards in the battle line and moving inward. For each
+match-up, both players roll two regular dice and add any “modifiers” that they may be entitled to (see “Naval Modifiers”
+below). The player with highest total, scores a “hit” on his opponent’s navy. NOTE: If there is a tie, no hits are scored, and
+the players move on to the next match-up.
+A hit is immediately applied to the losing player’s ship that is currently at the beginning of the battle line. The exception to
+this rule is if the two ships that were matched-up are both aircraft carriers, in which case the losing player’s carrier is hit
+rather than the ship at the beginning of the battle line. 
+If the ship that is hit is a destroyer, a submarine, or an aircraft carrier, then one hit sinks the ship and it is removed from play
+and placed back in the unowned navy deck. If the ship is a Battleship, then it can sustain two hits before being sunk. (Turn
+any battleships sideways that have been hit only once to signify the hit.) 
+STEP 4: The round of battle ends and any Battleships that have one hit on them are removed from the battle, but are not sunk. They
+may not fight again in this battle, and should be placed away from the battle, but are not eliminated. They are completely
+repaired before the owning player’s next battle. 
+STEP 5: Both players then pick up any of their ships that were not hit, adding them to the ships (if any) that did not fight in that round.
+At this time, either player may choose to retreat, losing the battle, but saving their remaining ships. If both players wish to
+continue, then another round begins with step one.
+The player who wins the battle now controls the sea, and the loser returns any of his surviving ships to a place in front of him at the
+table.
+NAVAL MODIFIERS
+Naval modifiers are points that are added to your die roll in a match-up. There are five possible modifiers:
+• Your Battleship is matched-up against your opponent’s Destroyer: You add 2 to the total of your dice roll - Your Submarine is
+matched-up against your opponent’s Battleship: You add 2 to the total of your dice roll
+• Your Destroyer is matched-up against your opponent’s Submarine: You add 2 to the total of your dice roll
+• Your Aircraft Carrier is matched-up against any ship type except another Aircraft Carrier: You add 1 to the total of your dice roll
+• Your ship (of whatever type) is adjacent to one or two of your Aircraft Carriers: You add 1 to the total of your dice roll for each of
+your Carriers that is adjacent to your ship (Max. 2).
+These modifiers are printed on the navy cards for easy reference.
+If more than one of these modifiers applies to your match-up, both modifiers are added.
+
+FULL NAVAL BATTLE EXAMPLE 
+SETUP
+Situation: The Tan player has control of the sea with 1 Battleship, 1 Destroyer, and 1 Submarine in his fleet. The Green player decides to
+perform a “Naval Battle” action in an attempt to take control of the sea away from the Tan player. The Green player has 1 Battleship, 2
+Destroyers, 1 Submarine, and 1 Aircraft Carrier. The Tan player decides to fight the battle.
+ROUND 1 [ FACE DOWN ]
+Both players lay out three cards. (They only lay three cards each because that is the number that the player with the fewer cards has in
+his fleet.) The Tan player lays out: Sub, Battleship, and Destroyer. The Green player lays out: Battleship, Aircraft Carrier, and Destroyer.
+Green Player’s Cards [ not engaged ]
+Beginning
+of the
+Battle Line
+
+ROUND 1 [ FACE UP AND FIRST MATCHUP ]
+Both players flip their cards face up.
+The first match-up is the Green player’s Battleship against the Tan player’s Submarine. The Green player rolls two dice and adds +1
+because he has a Carrier adjacent to his Battleship. He rolls an “11” for a total of 12. The Tan player rolls two dice and adds +2 to the
+roll because his Submarine matches-up well against Battleships. The Tan player rolls an “8” for a total of 10. The Green player wins and
+puts a hit on the Tan player’s Submarine (the first ship in the battle line), sinking it. 
+ROUND 1 [ SECOND MATCHUP ]
+The second match-up is the Green player’s Aircraft Carrier against the Tan player’s Battleship. Both players roll two dice with the Green
+player adding +1 for Carrier vs. Battleship. Both players roll a “7”. The Green player wins and puts a hit on the Tan player’s Battleship
+which is turned sideways to indicate a hit.
+SUNK
++2
+HIT
+
+XVI. Diplomatic Blitz
+When you choose the “Diplomatic Blitz” action, you declare which neutral region you are attempting to gain control of, and then roll two
+regular dice. If the region that you choose is adjacent to a region that you already own, then you must roll an eight (8) or higher to succeed.
+If the region that you choose is not adjacent to a region that you already own, then you must roll a nine (9) or higher to succeed. 
+NOTE: Adjacent includes regions connected by sea lanes.
+If you succeed, then you gain a free infantry unit and place it in that region, signifying your ownership. If you fail, then all the other players
+get to roll two dice. If any of them roll nine (9) or higher, then they get the free infantry unit and the region. If more than one player rolls nine
+or higher, the player with the highest number wins. If more than one player has the highest roll of nine or higher (a tie), then those players
+re-roll until they do not tie, with the winning player gaining the region.
+The player that gains the new region also gains one card randomly drawn from the unowned “economics” card deck (see below).
+NOTE: This is the only action that may be performed more than once in a player’s turn.
+NOTE: You may not use a Diplomatic Blitz on a region owned by a player.
+ROUND 1 [ THIRD MATCHUP ]
+The third match-up is Destroyer vs. Destroyer. Both players roll two dice with the Green player adding +1 for the Aircraft Carrier being 
+adjacent to his Destroyer. The Green player rolls “5” and the Tan player rolls an “8”. The Tan player wins and places a hit on the Green 
+player’s first ship in the line: the Battleship.
+The first round of battle ends with the Tan player losing a Submarine and both players having their Battleships taken out of the battle 
+(but not sunk). The Tan player decides that he will retreat, giving control of the sea to the Green player.
+HIT
+
+XVII. Neutral Regions
+The regions that are not owned by any player, are called “Neutral” regions. Your armies may not move through these regions without
+fighting a battle (except your plane units which may “fly over” a neutral region on the way to another region that is adjacent). You may,
+however, move armies into a neutral region to attack it. 
+When you attack a neutral region, you draw a random card from the unused deck of Economics cards. This is the card that you will get
+if you win the battle against the defending forces. The units that you must fight are listed on the bottom of the card. Any player (except
+you) may control these units in the battle against you, however, that player should be one that will fight the most effectively (In other
+words, a player with an interest in eliminating the most units). If more than one player wants to control the neutral units in the battle,
+they should each roll two dice with the player rolling highest taking control during the battle.
+When setting up a battle with a neutral, the player controlling the neutral forces uses his own pieces that are not currently on the 
+board to represent the neutral armies. When the battle ends, if the neutral forces win, all surviving neutral armies are returned off board
+and the Economics card is returned to the Economics deck and the deck is re-shuffled. If that neutral is attacked again later, 
+a new card is drawn. 
+XVIII. Economics Cards
+Each player starts the game with four economics cards (or one for each region that they start with). Once the game begins, you gain
+additional cards in one of four ways:
+1)
+By attacking a neutral region and winning the resulting battle (see Neutral Regions above).
+2)
+By attacking a region owned by another player and winning the resulting battle. In this case, you
+draw one random card from a selection of all of the defeated player’s economics cards. (The
+defeated player shuffles his “hand” of economics cards and allows you to draw one card.)
+3)
+By executing a successful Diplomatic Blitz action. In this case, you randomly draw one card from
+the deck of unowned economics cards.
+4)
+Through trading with another player (see Trade below).
+NOTE: It is possible, due to trades, that you could have more or fewer economics cards than you have regions. It is also pos-
+sible that due to trades a player could have no economics cards when you take one of their regions, in which case,
+you would get no economic card.
+Each economics card has a “suit” and a value. The “suit” is located at the top of the card and the value is located just below the suit as
+well as at the bottom right corner.
+The value printed on the card tells you how many “Production Points” (the currency for buying new units) that card is worth.
+There are five suits: Population, Minerals, Factories, Oil, and Rail Transport. When you choose the “Build New Units” action, you will
+add all the production points on all of your cards to determine how many you will have to spend on new units that turn. 
+This is a very straight-forward process with one twist: 
+Any cards that form part of a “set” are worth double the point value printed on the card. 
+A “set” is comprised of four cards, one of each suit except “Population”. Thus a set must have one EACH of: Oil, Minerals, Factories,
+and Rail Transport. Population cards may NEVER be a part of a set. 
+1 Tank
+Suit
+Value
+
+XIX. Capital Cities
+You place your capital city in one of your starting regions during the setup of the game. It may not be moved or destroyed during the
+game. It is possible to capture regions containing other player’s capitals and gain the economic benefit. During your Build New Units
+action, you get 10 Production Points for each capital city that you own. 
+HINT: Don’t lose the region containing your capital! On the other hand, owning more 
+than one capital city will make your economy very strong. Try to take another player’s 
+capital city if you can.
+XX. Trade
+During play, you may want to trade with another player to gain a better selection of economics cards. Choosing the “Trade” action will
+allow you to trade any number of your economics cards in exchange for any number of economics cards from another player. There is
+no limit to the number of trades that may be made by the player choosing the trade action as long as the action lasts. The trade action
+ends when the next action begins.
+NOTE: A trade action is deemed to have occurred only if a trade is actually made. Discussion of trades, or a trade blocked by
+the player who controls the sea do not count as an action.
+In addition to (or in place of) economics cards, players may also trade any promise or favor not forbidden by the rules.
+Land units, naval cards/units, capital cities, production points, and regions may not be traded.
+If you and the player with which you are trading own regions that are adjacent, then there is no restriction to your trading. However, if
+you and your trading partner do not have adjacent regions, then any trade between the two of you may be blocked by the player who
+“controls the seas” (see Control of the Sea above).
+NOTE: 
+No trade is allowed within 30 minutes of the time stated as the end of the game if you are playing with a time limit.
+XXI. Building New Units
+When you choose the “Build New Units” action, you first total your production points (PP’s), then spend them purchasing new land units
+and/or navy cards, and finally place your new land units.
+PRODUCTION POINTS
+When adding up your production points, you get:
+10 PP’s for each capital city that you own
+PP’s equal to the value printed on each economics card that you own that is not a part of a “set” (see “Economics
+Cards” above)
+PP’s equal to twice the value printed on each economics card that you own that IS part of a set
+EXAMPLE: You own your capital city and have the following cards:
+Your production points for this build would be: 10 for your capital city + 18 for your set (two times the values on the cards) + 9 for the rest
+of your cards that are not in a set = 37 Production Points 
+1 Tank
+One Set
+
+PURCHASING YOUR LAND UNITS AND NAVY CARDS
+After totaling your Production Points for the turn, you must spend them immediately. Any unused production points are wasted and can-
+not be saved into the next turn. When purchasing new land units, subtract the cost of each newly built unit from your total production
+points remaining, take the unit out of the unused pile of land units of your color, and place it in front of you. Similarly, when purchasing
+new navy cards, subtract the cost of each newly built card from your total production points remaining, take the card out of the unused
+deck of navy cards, and place it in front of you. 
+NOTE: Land units and navy cards are purchased using the same pool of production points.
+Often tough decisions must be made between building up your army or your navy.
+PLACING YOUR NEW UNITS (AND CARDS)
+Newly built land units are placed immediately after purchasing and before the next action begins. They may be placed in any region that
+you own. There is no limit to the number of units that may occupy a region.
+Navy cards that are purchased by the player who has control of the sea are immediately placed in the middle of the board. All other
+players place their navy cards in front of them.
+HINT: It is usually a good idea to place your land units so that you create little
+armies that are made up of all four types (Infantry, Tanks, Artillery, and
+Planes). This way, when you are rolling your battle dice, you cover five
+out of the possible six faces of the die, maximizing your chances for 
+scoring “hits” in battle.
+NOTE: Players are not limited by the pieces and cards included in the game.
+They may add more pieces or cards if they desire.
+XXII. Winning the Game
+The game ends immediately when any player is eliminated. As soon as a player has no land units (armies) remaining on the board, they
+are eliminated and the game ends.
+The game may also end at a pre-determined time. If the players agree to play until a certain time, then the last turn will be the one that
+is in progress when the agreed time is reached. The game will end after all players finish performing all of their actions on the last turn.
+The winner will be the player that owns the most regions at the end of the game. If two or more players have the same number of
+regions at the end of the game, the player with the most regions AND with more land units (armies) shall win.
+OPTION: If all of the players agree, they may decide to play until all players are eliminated but one.
+COST OF NAVY CARDS
+Destroyer
+Submarine
+Battleship
+10 PP’s
+Aircraft Carrier
+20 PP’s
+COST OF LAND UNITS
+Infantry
+Tank
+10 PP’s
+Artillery
+8 PP’s
+Plane
+15 PP’s
+
+Art Dedication for “ATTACK” and “ATTACK Expansion”
+Just as a poignant amount of thought goes into the artwork, so also does a
+great amount of thought go into my dedications of these games. Since
+"ATTACK" is actually two games in one, I feel that is appropriate to have a
+twofold dedication. 
+As I complete the last pieces of art for this game, I cannot help but think of
+the august contributions of everyone who makes the completion of such a
+project a reality. It gives me great pleasure, and pride, to dedicate this
+body of work to all of the wonderful, talented, hard working people here at
+Eagle Games, both employees and contributors. In particular, but not
+exclusively, Glenn Drover, Jim Provenzale, Jacoby O'Connor, and Jack
+Provenzale. It is a joy to produce such unique work with such great tal-
+ents. I consider myself blessed to call you my friends. 
+"I have nothing to offer but blood, toil, tears, and sweat." 
+-Sir Winston Churchill 
+May, 1940 
+The other half of my dedication goes out to those brave men, women, and
+children who lived and died, who persevered, and who forged the future,
+in those dark days known as the Second World War. Your lives were forev-
+er changed, and likewise, the world forever changed by your lives. 
+"You are about to embark upon the Great Crusade, toward which we have
+striven these many months. The eyes of the world are upon you. 
+-Good luck!" 
+-General Dwight D. Eisenhower 
+June 6, 1944, D-Day 
+Paul E. Niemeyer 
+June 6, 2003
+CREDITS
+Game Concept and Design: . . . . . . . . . . .Glenn Drover
+Artwork: . . . . . . . . . . . . . . . . . . . . . . . . . . . .Paul E. Niemeyer
+Niemeyer Illustration
+Graphic Design & Layout: . . . . . . . . . . . . .James Provenzale, Jacoby O’ Connor
+Fast Forward Design Associates, Inc.
+Production & Assembly: . . . . . . . . . . . . . .Neal Chukerman
+Chukerman Packaging
+Plastics Production: . . . . . . . . . . . . . . . . .Matt Jacobs
+Advanced Molding Solutions
+Playtesting: . . . . . . . . . . . . . . . . . . . . . . . . .Glenn Drover, Jack Provenzale, Brian Ritzenthaler, Paul
+Niemeyer, Ted Kuhn, Jim “The DS”, Jeff Vitous, Doug
+Donohoe, Hal Kirkwood, Greg King, Dave Grand, Patrick
+Provenzale, Geoff Zoeller, Mike McMahon, Jim Burge,
+Ken Valentine, Bev Valentine, James Provenzale, 
+Jacoby O’ Connor, Russ Barnett 
+
+The ultimate real-time strategy
+game jumps off the screen
+and onto your tabletop!
+A game of epic proportions...
+~ 38 Unique Sculptures
+~ 300 Stunning Miniatures
+~ 3 Cultures (Greek, Egyptian, Norse)
+~ 150 Wooden Resource Cubes
+~ Easy to Learn Game System
+~ Deep, Flexible Strategies
+In Age of Mythology, you will:
+~ Explore the world, claiming production sites
+(farms, gold mines, lumber camps & temples)
+~ Gather resources
+~ Build structures that give you advantages in production or battle
+~ Recruit armies of mortal warriors, mythic creatures and heroes
+~ Face off against other cultures in epic battles
+w w w . e a g l e g a m e s . n e t
+
+ATTACK! Expansion is the first add-on for the ATTACK! 
+game system and requires the ATTACK! Boardgame to play. Other 
+strategy games become predictable after a few playings but the ATTACK!
+system was created to allow players to graduate to the next level.
+The rules and components in this box comprise the advanced game, 
+which expands upon the basic rules and gives players a deeper, richer 
+gaming experience.
+ATTACK! Expansion Features:
+~ The advanced rules for ATTACK!
+• 4 political systems vie for dominance in a game set in a world prior to
+WWII (Fascism, Communism, Democracy, & Monarchy)
+• Strategic bombing, commerce raiding, trade routes, and more
+• Technologies, based on those of the era, that give the owning 
+player economic, political, or military advantages
+• Political action cards allow players to perform
+acts of espionage, Propaganda, or foreign policy
+W W W . E A G L E G A M E S . N E T
+
+MILITARY UNITS
+LAND UNITS
+.
+COST MOVEMENT
+SPECIAL
+INFANTRY
+TANK
+* Rolls 2 dice 
+ARTILLERY
+PLANE
+* Move through enemy or neutral regions (fly over) 
+* Amphibious moves cannot be blocked
+NAVAL CARDS
+DESTROYER
+SUBMARINE
+BATTLESHIP
+* 2 hits to sink
+CARRIER
+MENU OF ACTIONS (three per turn)
+MOVE
+Moving your pieces and fighting any battles that result
+BLITZKRIEG MOVE
+A second move after the regular move is completed that can be
+made by tanks and planes only.
+STRATEGIC MOVE
+Long distance move. Units may be moved from any region owned
+by the moving player to any other region that is also owned by the
+moving player and is connected by regions owned by the moving
+player. Movement across water can be blocked by the player who
+controls the seas. No battles may result from a strategic move.
+NAVAL BATTLE
+You move your navy “out to sea” and fight a naval battle for control
+of the seas.
+DIPLOMATIC BLITZ
+An attempt to gain control of an unowned region without a fight.
+This is the only action that may be performed more than once in a
+player’s turn.
+BUILD NEW UNITS
+You total your “Production Points” generated by your economics
+cards and use them to buy new units.
+TRADE
+You trade Economics cards for other economics cards or favors.
+w w w . e a g l e g a m e s . n e t
+© 2003 Eagle Games, Inc.

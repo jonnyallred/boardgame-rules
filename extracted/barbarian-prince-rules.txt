@@ -1,0 +1,834 @@
+This game will be a new experience. You are about to become a character in a story - a story that changes
+each game. You are the Barbarian Prince. This is a solitaire game; you play it alone. In this "story game" you
+read one numbered section after another. Each describes a new situation, or provides rules about the choices
+and actions you can make. There are hundreds of events and situation, so each game will be a new, fresh
+experience.
+The sections are divided into events (e000 numbers) that advance the "plot" of the story, and rules/reference
+(r000 numbers) sections that describe situations or choices that often occur.
+You can learn this game as you play, simply start with the first event (e001) and read each section as
+necessary. For convenience, all the rules are collected together in the beginning of this booklet, and the major
+charts and tables provided on a special sheet. The most important rules sections are r203, r204, r215, r220,
+and r225. You may wish to briefly review these first, if you wish to understand the basic mechanics of play
+before you start. If you are an experienced gamer, you can read all the rules sections first (r201 to r228), and
+then just refer to them later as you play.
+The small metal token is used to mark your current location on the map.
+How to Play
+Barbarian Prince is a realistic adventure game. You play the game in days. Each day starts with you selecting
+an action (r203), such as travelling to a new hex on the map. Depending on the action selected, you will be
+referred to a chart, where you roll one or two dice. The dice roll and chart may then indicate a special event
+section, which you then resolve.
+After all events (if any) are resolved for your daily action, you must then eat your main (evening) meal, as
+described in the food rules (r215), and if in a town, castle, or temple hex, you must also purchase lodging
+(r217).
+This ends the day, and you continue play with the start of the next day, where you select another action, etc.
+The game continues until either you are killed, or 70 days (10 weeks) elapse. If you haven't won after 70 days,
+the game is automatically lost!
+Many events may lead to fighting, described in the combat rules (r220). You may also have additional
+characters (r201) join your "party." These additional characters are especially useful in fights, although some
+may have special knowledge or abilities useful in certain events. Magicians, wizards, witches, priests and
+monks are especially useful people to have in your party.
+All events are self explanatory, and refer to the main rules section that describes how they are resolved. Once
+you've read the rules a couple of times you won't need to refer to them again unless you have a specific
+question. Remember, Barbarian Prince is a realistic game, so when in doubt about a situation, imagine yourself
+acting out the event in real life, and select the resolution that seems most realistic to you.
+To start the game, go to event e001.
+About the Game Equipment
+This game includes a rules and reference booklet (with sections r200 and up), and events booklet (sections
+e001 to e195), a colour mapboard, a metal token representing the Barbarian Prince (yourself), and two dice
+(each is a "die," together they are "dice.")
+
+Booklets: each booklet contains numbered sections. These numbers are not necessarily consecutive; some
+numbers have been skipped. For example, e001 to e163 are events, e180 to e195 possessions or references
+to them, r200 and up rules sections, and r300 and up references to rules that recur in many situations.
+Mapboard: the colour mapboard is gridded into hexagons for ease in movement and location. Each hex has a
+four-digit identification code. Partial map hexes are playable territory. You do not leave the mapboard, instead
+stop at the edge and use that hex instead. Each hex has a single dominant terrain type, illustrated on the game
+map key. Some hexes may have extra structures in them, such as towns, castles, temples, ruins, and/or roads.
+Rivers run along hexsides, between the hexes.
+Game Tracks: there are two record tracks, one for "Food Supply" and one for "Time." Use a small coin to mark
+your current status on each. For example, if you have 47 food units, place a coin on the "40" and one on the "7"
+boxes. You start the game on the 1st day of the 1st week. When you finish the 7th day of a week, advance the
+week marker and return to the 1st day again. The game ends after the 7th day of the 10th week.
+Token: your metal token can mar the map if used carelessly. We suggest you glue a small piece of cardboard
+or felt to the underside, to preserve the life of your mapboard, although a coating of varnish protects map. You
+can also paint the token for a more realistic and attractive appearance. Consult your local hobby shop for
+Heritage paints and techniques for painting metal figurines, or write directly to Heritage USA, 14001 Distribution
+Way, Dallas, Texas 75234 and include a stamped, self-addressed envelope and request "basic painting
+techniques and information."
+Other Equipment: you'll need a pencil and paper to keep track of information about your characters, finds and
+other members of your party, etc. You will also use this to record how much money you have. Some players
+prefer to use spare change to represent money in the game, with one cent representing one gold piece in the
+game.
+Edge of the Game Map
+During the game, the Barbarian Prince cannot leave the game map. If an event or rule would normally land him
+off the map, he simply stops at the map edge instead. In other cases, rumoured treasures and other locations
+may be off the game map, in which case they are inaccessible to the Barbarian Prince, and are ignored.
+Credits
+Barbarian Prince is copyright 1981 by Heritage USA. Designed and developed by Arnold Hendrick, Cover
+painting by Frank Cirocco, map, rule illustrations and graphics by Cynthia Sims Millan, typography by Arnold
+Hendrick, figure design by Max Carr, map hexgrid and number system courtesy of Simulations Publications, inc.
+
+r201 Characters
+Each character in the game has a combat skill, an endurance value, and a wealth code. Each is rated
+numerically, with higher numbers being better. If no wealth code is given, it is presumed to be zero (no wealth).
+The characters include yourself (the Barbarian Prince, see r202), any followers who join your "party," and any
+men, women, creatures or animals encountered in the course of the game. Characters can be friendly or
+hostile, intelligent or unintelligent.
+When a character joins your party, note his (or her) vital statistics as needed. You can voluntarily dismiss or
+abandon members of your party if you wish (sometimes expedient when making an escape, or when food or
+money is short). Other characters encountered during events need not be permanently recorded. Unless they
+join your party, these other characters simply go on their way, and "disappear" from the game.
+To determine your own personal characteristics at the start of the game, see r202.
+r202 Your Character
+You begin play as the Barbarian Prince, Cal Arath, rightful heir to the throne of the Northlands Kingdom. Few
+humans can match your skill with trusty Bonebiter, your broadsword: you have combat skill 8. Life in the harsh
+northlands has developed your powerful body and magnificent physique: you have endurance 9. Alas, in
+making your escape, you could only grab a few coins; your wealth code is 2 (see r225 for determine exactly
+how many gold pieces your have).
+In addition, you have a "wit & wiles" rating, reflecting your ability to react quickly to situations, think your way out
+of trouble, and convince people. Roll one die to determine this "wit & wiles." If the result is 1, consider it 2
+instead. If you have played the game before and won, you may wish an extra challenge by using a wit & wiles
+rating one less than your previous value; if you lost before, use a wit & wiles one higher than the previous value.
+r203 Daily Actions
+At the start of each day, you select one action for yourself. All other followers in your party will perform the same
+action (support and helping you) - they can't be trusted to act on their own! Each action has separate rules,
+described in the appropriate section. Possible actions include:
+Actions allowed in any hex -
+ Rest in current hex, to heal wounds (r222) and improve hunting (r215)
+ Travel to a new hex (r204), your most common choice
+ Search for a previously placed cache (r214)
+Actions allowed only in certain types of hexes -
+ Seek News & Information (r209) in town, castle, or temple
+ Seek to Hire Followers (r210) in town or castle
+ Seek Audience with local lord (r211) in town, castle or temple
+ Submit Offering (r212) at temple
+ Search in a Ruins (r208) in a ruins only
+Each action has its own rules and tables, which often reference an event section, and perhaps an encounter
+with new characters, or special dangers. After you finish all these events, at the end of the day you must
+provide food for your entire party, see r215. If you are in a town, castle, or temple you must purchase lodging
+too in many cases, see r217.
+
+After all actions, events, food and lodging are resolved, the day ends. Advance the markers on the time track to
+the next day, and start it by selecting another action. This continues until the end of the 10th week, when the
+game ends.
+The game ends sooner if the Barbarian Prince is killed. Better luck next time!
+You can continue to perform the same action day after day, or you can vary actions, as you desire. Normally
+you are limited to just one action per day, but some action events allow you a bonus action that same day.
+Other times you may be required to advance the time track forward a certain number of days, skipping any
+opportunity for actions.
+r204 Travel
+You can travel to new hexes as a daily action (r203). You travel by moving your token across the map, hex by
+hex. You can’t skip or jump any hex unless a special event allows it.
+Travel Speeds (r204a): if any character in your party is without a mount (on foot), the entire party travels "on
+foot" at the speed of one hex per day. If everyone in your party is mounted (presumably on horses, mules, or
+similar beasts), the party as a whole can travel either one or two hexes per day. If the entire party is riding
+winged mounts, the party can instead use airborne travel up to three hexes per day. When airborne, the party
+flies for the entire day, and lands in the land hex entered to camp for the night. If your party has winged mounts,
+you can instead ride or "short hop" one or two hexes per day, as if you were mounted in the normal fashion. In
+this case, you enter each hex on the ground.
+Getting Lost (see r205): each time you try to leave a hex, you may get lost. See r205 for details. If you get lost,
+you are unable to get out of the hex by the chosen route, and are stuck for the rest of the day in the hex where
+you started. You cannot select an alternate action.
+Travel Events (r204b): each time you attempt to enter a new hex, an event may occur. Find the terrain type
+you attempted to enter on the Travel Table (r207) and read to the "Event" column. Roll two dice. If the total
+equals or exceeds the number listed, an event occurs. Roll one die and read across to the proper "Event
+Reference" number listed for that die roll. Then go that event section.
+Roads (r204c): if you leave a hex via a road, you can never get lost — you are following the road. Use the
+"Road" line on the Travel Table (r207) for new events. If no road travel event occurs, then consult the Travel
+Table again for an event in the terrain you entered, consulting the proper line for the type of terrain in the hex. If
+a road event does occur, you need not consult the table again for a normal "terrain" travel event unless you
+wish.
+Airborne Travel (r204d): if you are flying (not short-hopping), each hex entered requires that you use the
+"airborne" line on the Travel Table, instead of the normal line for that terrain type. In the last hex you enter for
+the day, if no airborne travel event occurs, then you must consult a normal "terrain" type event for the hex
+where you land (last hex entered). Unlike road travel, the terrain type event must be consulted for the hex
+where you finally land (which, due to airborne events, might be different from where you intended to land!).
+River Crossing (r204e): if your travel takes you over a river, you must first consult the Travel Table (r207) for
+getting over the river without getting lost (r205), and then for a possible event crossing the river, by using the
+"River" line of the table. If this doesn’t prevent you from crossing, you then enter the hex on the other side,
+check for getting lost moving into that hex, and any travel events for the terrain entered there. If you are flying,
+you can fly over a river and ignore all crossing problems (do not check for getting lost crossing the river, and do
+not check for river crossing events).
+Travel Events & Time (r204f): an event that occurs during travel will normally consume the rest of the day.
+You cannot move any further that day, unless the event allows or requires some sort of extra movement. The
+only exception is events that are resolved purely through combat (r220), and you killed all those encountered. In
+addition, events were just talk or negotiate occurred only take a few minutes. You can continue travel
+afterwards if you have any speed remaining, and wish to continue.
+
+Transport (see r206): for rules about carrying gold, food, etc., see section r206 for transport capacities and
+procedures.
+r205 Lost
+Each time you attempt to leave a hex (travel to a new hex) there is a danger of becoming lost. Consult the
+Travel Table (r207) and find the terrain type you are leaving. Read across to the "Lost" column entry. Roll two
+dice. If the dice total equals or exceeds the number there, your party is lost. If you move more than one hex in
+the day, you must check for getting lost before each move (before you enter each hex).
+If you get lost, you cannot further that day. You are stuck in the hex you tried to leave. You must check for a
+travel event (see r205b) in the hex you tried to enter, as if you actually entered it. This reflects you wandering
+around on the edges of the new hex and perhaps encountering something.
+Local Guide (r205a): your party of followers may include a guide. If it does, subtract one (-1) from your dice roll
+for getting lost. This means it is more difficult to get lost if you have a guide. However, if you get lost despite
+your guide, roll one die. If the result is "4" or higher, the guide deserts out of mortification for his failure, or in
+fear of your anger! If you have more than one guide, only one will desert (the one you selected as guide for the
+day), but you are still lost even if you have additional guides available.
+Self-Guiding Moves (r205b): if your party is leaving a hex by travelling along a road, you can never get lost. If
+you are travelling by raft (r213, only allowed as a result of certain special events) you cannot get lost. There is
+no need to roll dice for getting lost, although travel events can still occur.
+Airborne & Lost (r205c): if your party is flying (using an airborne move), use the airborne line on the Travel
+Table (r207) instead of the normal terrain line, to see whether you are lost. If you get lost while making airborne
+travel, there is danger of extra "wander" and "drift." Roll one die, if the result is 4 or more, roll one die again and
+move one hex in that direction (1-N, 2-NE, 3-SE, 4-S, 5-SW, 6-NW) before landing.
+River Crossing (r205d): if your party is trying to cross a river, first check to see if you get lost in the crossing. If
+you do, this represents an inability to find a proper crossing place (ford, place to swim, materials for a raft, etc.).
+There is no travel event afterwards. If you are following a road or airborne; you can cross a river automatically.
+Crossing by road implies that a permanent bridge exists there (such as one between hexes 1318 and 1319).
+Once you cross the river, you must still check for getting lost in the terrain of the new hex you are trying to
+enter. If you get lost after you cross the river, you count as across the river, but are still in the hex where you
+started the move. Tomorrow you can try again to enter a hex on the opposite side of the river. For example, if
+you start in 1017, try to cross to 1118, and cross the river but get lost going into 1118, you end your move back
+in 1017. However, you are now over the river, so tomorrow you can try to enter either 1016, 1117 or 1118,
+which are all over the river, and next to the place where you start.
+r206 Transport
+When travelling, any food, gold, and possessions acquired by events must be carried. Many of these items
+have a weight, in "loads." You can only carry a certain number of loads. Anything else must be left behind.
+Objects left behind can be placed in a "cache" (see r214 for details).
+Weights (r206a): each food unit counts as one (1) load. Every 100 gold pieces, or fraction thereof, counts as
+one (1) load. Each person carried counts as twenty (20) loads. Weapons do not count as loads.
+Transport Capacities (r206b): each man on foot, including porters, can carry up to 10 loads. Two men
+combined can therefore carry 20. Any mount can carry 30 loads, or a man riding plus 10 loads (since the man
+counts as 20).
+Note: For r207 Travel Table see separate sheet
+
+r208 Searching a Ruins
+As a daily action, you spend the day searching a ruin with your party. To see what happens during your search,
+roll two dice: 2-e133; 3-e135; 4-e136; 5-e137; 6-e139;7-e131;8-e132;9-e134;10-e138; 11-e135; 12-e035.
+r209 Seeking News & Information
+In this daily action, you spend the day in taverns, streets and the market talking and learning. Roll two dice and
+consult the list below for results. If you spend 5 or more gold pieces, add one (+1) to your dice roll. If your wit &
+wiles is 5 or higher, add one (+1) also to your dice roll.
+No news of note, nothing seems to be happening.
+Discover thieves' den, pillage it while they're out, gain 50 gold.
+Rumours of secret rites at nearest temple, when making offerings (r212) there add one (+1) to
+your dice roll from now on.
+Feel at home, learning nothing, but in the future always add one (+1) whenever resolving this
+action (r209) or Seeking to Hire (r210) in this hex.
+A large caravan is in town; if you visit them today, see e129.
+Discover cheaper lodgings and food, pay half normal price in this hex
+A cutpurse picks your pocket; you lose half your wealth.
+Attract attention of local constabulary; see e050.
+Discover residence of local magician. If you visit him today, see e016 with a friendly approach.
+Discover local thieves' guild, you are "invited" to join. If you do, participate in a theft of 200 gold
+tonight after dinner (r215). You must escape (r218) tonight after the job. If you pay the guild
+10% (20 gold) after the theft you can return to the hex later in the game, otherwise the guild is
+angered and you can never return to this hex.
+Secret informant offers valuable information for 10 gold. If you buy it, roll one die: 1-bogus
+secrets prove worthless; 2-e147; 3-e143; 4-e144; 5-e145; 6-e146.
+r210 Seeking to Hire Followers
+In this daily action, you spend the day posting notices, visiting agents and merchants, and inquiring at taverns
+about the availability of hired help. Roll two dice and consult the list below for results.
+Freeman joins your part at no cost (except food and lodging), he is combat skill 3, endurance 4.
+Lancer with a horse can be hired for 3 gold per day, he is combat skill 5, endurance 5.
+One or two mercenaries can be hired for 2 gold per day each. Each is combat skill 4, endurance
+4.
+Horse dealer in area, you can buy horses (for mounts) at 10 gold each.
+Local guide available (see r205), hires for 2 gold per day, has combat skill 2, endurance 3.
+Henchmen available, roll one die for the number available for hire, each is combat skill 3,
+endurance 3, and costs 1 gold per day each.
+Slave market, see e163.
+Nothing available, but you gain some news and information, see r209 but subtract one (-1) from
+your dice roll there.
+Honest horse dealer in area, can buy horses (for mounts) at 7 gold each.
+Runaway boy or girl joins your party at no cost (except food and lodging), has combat skill 1,
+endurance 3.
+Porters in any quantity available, hire for ½ gold each per day. In addition, a local guide (r205)
+can be hired for 2 gold per day, has combat skill 1, endurance 2.
+
+r211 Seeking an Audience with the local Lord
+As a daily action, you spend the day trying to gain admission to the hall or court, for an interview with the town
+mayor, high priest of the temple, or the castle lord. Roll two dice and consult the appropriate table below.
+Seeking an Audience at any Town:
+Grievously insult the town council, e062.
+A slanderous aside about the mayor's wife is blamed on you, e060.
+Meet hostile guards, e158.
+6,7,8
+9,10
+Audience permitted, el56.
+Meet daughter of the mayor, e154.
+Audience permitted, e156.
+Seeking an Audience at any Temple:
+Note: if your party includes any priests or monks, add one (+1) to your dice roll; if your party includes any
+magicians, wizards, or witches you must either dismiss all of them, or subtract two (—2) from your dice roll.
+Anger temple guards, e063.
+Priestess resents a lewd remark, e060.
+Encounter hostile guards, e158.
+Must purify yourself, e159
+Allowed audience if you give temple a Dragon's eye, go to e155; otherwise you must deal
+with the Master of the Household, e153.
+Permitted to pay your respects, e250
+You must purify yourself, e159.
+11+
+Audience permitted, e155.
+
+Seeking an Audience with the Baron of Huldra Castle (1212)
+Note: add one (+1) to your dice roll if you dismiss any wizard, magician, or witch in your party (to take service
+with the Baron instead).
+Audience permanently refused, cannot try again.
+Meet Baron's Daughter, e154.
+Must learn court manners, e149.
+Confronted by hostile guards, e158.
+6,7
+10,11 Pay your respects to the Baron, e150. 
+Find favour in the eyes of the Baron, e151. 
+13+
+Baron becomes your Noble ally, e152.
+Seeking an Audience with Count Drogat of Drogat Castle (0323)
+You are the Count's next victim; see e061.
+The Captain of the Guard dislikes your haircut; see e062.
+Meet the daughter of the Count, e154.
+Confronted by hostile guards, e158.
+Gain an audience (e161) if you give the Roc's Beak to the Doorman; otherwise you are deemed
+unworthy and unwise, and are arrested (e060).
+Must learn court manners, e149.
+Find favour in the eyes of the Count, e151.
+11+ Audience granted with Count, e161.
+Seeking an Audience with Lady Aeravir of Aeravir Castle (1923)
+You insult the Lady's dignity, arrested e060.
+You must purify yourself first, e159.
+Untoward remark makes the guards hostile, e158.
+Must learn better court manners, e149.
+Meet the Master of the Household, e153.
+Gain an audience (e160) if you give the Griffon's Claw, otherwise audience refused but you may
+try again.
+Audience refused, but you may try again.
+Audience granted, e160.
+Meet daughter of the Lady Aeravir, e154. 
+12+ Audience granted, e160.
+
+r212 Make at Offering at a Temple
+You spend the day preparing, waiting in line, and finally giving an offering at the temple altar. This action is only
+permitted at a temple. You must spend at least one gold piece for proper herbs and sacrifice. If you spend ten
+gold pieces for exceptionally fine herbs and sacrifices, add one (+1) to your dice roll result. To determine the
+result, roll two dice:
+You commit a magnificent error in the rites, the entire temple becomes impure and abandoned,
+no longer functions as a temple for the rest of the game. You are arrested and sentenced to
+death, e061.
+Good Omens, but no special result.
+Bad Omens, you are travelling under a curse. Roll one die for each of your followers, any result
+except a "1" means they believe the omens and immediately desert you. You cannot seek to hire
+any followers (r210) in this hex for the rest of the game.
+High Priest insulted by your northern manners, arrested e060.
+Good Omens, you get free food (r215) and lodging (r217) tonight.
+Favourable Omens for further worship, if you try this Offerings action again tomorrow, you can
+add one (+1) to your dice roll. Otherwise no effect.
+Gods favour your questions, priests assign a monk to your party. The monk has combat skill 2,
+endurance 3, serves as a guide when leaving this or any adjacent hex only.
+Special omen and riddle provides a clue to treasures, see e147.
+Fall in love with priestess (see r229). You immediately escape (r218) with her and can never
+return to this hex. She is combat skill 2, endurance 4, and has wealth 100 in temple treasures she
+has stolen!
+The High Priest requires an audience with you; see e155.
+12, 13
+High Priest spends afternoon talking with you, provides you with final clues to some secret
+information, roll one die: 1,2-e144; 3,4-e145; 5,6-e146. Alternately, instead of the secret
+information, you can use his influence in attempting Offerings again tomorrow, and add three (+3)
+to your dice roll here.
+14+
+Gods declare your cause a religious crusade, and the Staff of Command is passed into your
+hands. If you bring this possession to any hex north of the Tragoth River you will command
+instant obedience throughout the Northlands, regain your throne and win the game. In the
+meantime you are given a pair of warrior monks (combat skill 5, endurance 6) with mounts to join
+your party and help you return northward.
+r213 Rafting on the Rivers
+You have the special option of using raft travel along the river, instead of normal travel each day. When raft
+travel is available, you ride the raft until you get off (by selecting a daily action other than raft travel), or when
+you roll "12" with two dice after each day's travel The latter represents the raft reaching a stopping point for
+lengthy loading, unloading, or dismantling.
+While on a raft you travel on the" river hexsides themselves. Your speed is either three hexsides per day
+downriver, or two hexsides per day upriver. At the end of the day, the raft halts for the night and you camp on
+either hex adjacent to the hexside where travel ended. You can select which hex. After travelling the hexsides,
+check once for a travel event (r204) on the Travel Table (r207) under "Rafting", and then check once for an
+event in the hex where you halt for the night.
+The Tragoth River flows from east to west. The Nesser River flows from north to south, and the Dienstal Branch
+feeds into it, flowing from the marsh into the Nesser. The Largos River flows out of the marsh toward the
+northeast off the mapboard.
+
+r214 Cache
+If you leave possessions or money behind as your party travels, you can put this in a "hidden cache". This
+represents burying them, hiding them with friendly citizens, under a magic or holy spell, etc. Food may never be
+cached; it is too perishable. Gold and any other possessions may be cached unless otherwise indicated. Note
+the hex where you made the cache, and what was in it.
+Later in the game, you can return to the cache hex, and try to find it again. It takes a completely daily operation
+to relocate your cache (r203). The action includes a possible event in the terrain of the hex where you search
+(r207). If you get passed that event, then roll one die:
+1,2,3,4 Cache is found intact; you recover all items placed there.
+You are unable to find the cache, landmarks have disappeared, but you can try again in the
+future.
+You find the cache, but it has been looted, there is nothing there.
+r215 Food
+After the actions, events and encounters for the day are finished; you and your party must eat their main meal.
+This may include hunting for food, using food stores, or purchasing a meal (if in a town, castle or temple). Any
+mounts (animals) with your party may also required food. If you cannot feed any follower or animal, consult the
+starvation (r216) rules.
+Food Units (r215a): for convenience, food is counted in "units." Each unit is sufficient to feed one man for one
+day. Mounts require two units per day if they are unable to forage for their own fodder. If there is no water
+available (in a desert hex with no oasis) then the food requirement doubles for men and mounts, to represent
+the need to carry water supplies also.
+Hunting (r215b): if you are in a farmland, countryside, forest, hill or swamp hex you can hunt for food. Any one
+character in your party can be the hunter. Total his combat skill and half (Vz) his current endurance (his
+endurance minus wounds), round fractions down, and then subtract from that the roll of two dice. The result is
+the number of food units gained by hunting. If the character can act as a guide, add one to the total. If the total
+is zero or less, then the hunting was unsuccessful. If the dice roll was "12" exactly, the hunter himself was hurt,
+regardless of success or failure, roll one die for the number of wounds he suffered. If knocked unconscious or
+killed, the hunt automatically fails and the hunter dies unless hunting with others.
+If your party rested today in the hex, you can send additional characters to hunt. Each additional character
+hunting adds one (+1) to the skill + endurance level of your hunt. The actual skill and endurance of the
+additional hunters is not counted. However, if the additional hunters are guides, for each guide, add one (+1)
+extra as well.
+Populated Regions & Hunting (r215c): if you hunt in a farmland hex, each time roll one die for a possible
+event, which occurs after the hunt is finished, but before the evening meal is eaten: 1,2,3,4-nothing; 5-peasant
+mob in pursuit, see e017; 6-pursued by constabulary, see e050 add two (+2) to the die roll in that event.
+Hunting is prohibited in any hex with a town, castle, or temple.
+Purchased Meals (r215d): if you are in a town, castle, or village you can purchase food for each character in
+your party. Normal cost is 1 gold piece per character for food that day. Animals cost 1 gold piece per day to
+feed at the stables of the town/castle/village. If you don't purchase food, you must eat stores, as hunting is
+prohibited in these hexes.
+Food Stores (r215e): food units can be stored and transported (r206) by yourself, other characters, and/or
+mounts. Food stores can be purchased in a town, castle or village for 1 gold piece per food unit, but only if you
+spent the entire day in the hex. Each food unit is one (1), load to transport.
+
+Animal Fodder (r215f): animals can graze and eat fodder for themselves in any terrain where hunting is
+possible except swamps (i.e., in farmland, countryside, forest, or hills). No hunting, stores or purchases are
+necessary. If you spend the entire day in a town, castle or temple hex you must stable your animals which cost
+one (1) gold piece for food, unless you provide the stable with food stores (two units per animal) to feed them.
+Note: the cost of food is separate from the cost of lodging. In towns, castles and temples you must also pay for
+lodging; see r217.
+r216 Starvation
+If you cannot provide food each day for characters or mounts, starvation will begin to affect their loyalty and
+performance.
+Follower Starvation (r216a): if followers are not fed, they may desert. Roll two dice for each follower, and
+subtract your wit & wiles from the total. If the result is 4 or more the character deserts your party. Otherwise he
+stays and suffers from the character starvation effects (see r216b below). If you have food units, or money to
+purchase it (in a town, castle or temple) you cannot voluntarily withhold food from your followers unless you go
+without yourself as well. If there is insufficient food for all, either you withhold it from all (including yourself) or
+share out what is available to all (this prevents the effects of character starvation in r216b, but does not
+eliminate the risk of desertion described above).
+Character Starvation (r216b): if a character goes, without food for a day, on the following day his ability to
+carry loads (r206) is halved, with fractions rounded down, and his combat skill is reduced by one. If he goes
+without food again, load carrying and combat skill is reduced again. When food is available and eaten again,
+each day's normal meal also eliminates the effect of one day of starvation. A double meal can be eaten to
+eliminate the effect of two days of starvation, but triple or larger meals have no additional effect. A character
+cannot die of starvation within the scope of the game, but after a certain point progressive starvation makes him
+nearly worthless!
+Mount Starvation; if animals (mounts) in the party go without food, their carrying capacity is halved for each
+day of starvation, just like characters. When carrying capacity reaches zero, the mount dies. If a winged mount
+goes without food, it is unable to fly. Unlike characters, as soon as a mount gets a normal meal, it recovers from
+all starvation effects.
+r217 Lodging in Towns, Castles and Temples
+If your party finishes the day in a town, castle or temple hex, after eating you normally buy lodging for your
+party. Each room costs one gold piece for the night. You and any priests, monks, magicians, wizards, or
+witches in your party each require a single room. All other followers can share, two per room, if you wish.
+Animals are placed in stables at one gold piece per mount.
+If you decide to not purchase rooms (due to lack of funds, or a desire to save money), you must roll two dice for
+each character in your party, and then subtract your wit & wiles from the result. If the total is "4" or more, the
+character deserts - he refuses to serve such a penurious leader! If a mount is without stables, roll one die for
+each mount, a 4 or higher means thieves steal the mount during the night, it is permanently lost.
+r218 Escape & Hiding
+Many times an event leads to your party escaping or hiding from characters encountered in an event.
+Escape (r218a): When your party escapes, you move randomly to one of the six adjacent hexes. Roll one die
+to determine which direction to go:
+1-N, 2-NE, 3-SE, 4-S, 5-SW, 6-NW. Your party is now in that hex for the rest of the day. No new event occurs
+because you have entered that hex, but any events still pending must be determined, and after all event effects
+are resolved, you must eat for the day (r215).
+
+Escapes across a river are prohibited, roll again for another route. However, if your entire party has winged
+mounts able to fly, you can fly over the river and escape that way, do not roll again. Similarly, you cannot
+escape off the map, roll again for a different direction.
+Hiding (r218b): sometimes your party escapes an encounter by hiding. In this case, you remain in the hex of
+the event, but are hiding there for the rest of the day. No further travel is possible, nor can you do any other
+actions. You cannot hunt for food (r215) while hiding, but mounts can forage for their fodder (r215) in the right
+types of terrain. While in hiding you still eat (r215) and lodge (r217) normally in a town, castle or temple.
+r219 Following
+In some events, you may secretly follow, or "trail" the characters you encounter. If you encounter mounted
+characters, your party must be mounted to follow; if you encountered winged, flying characters your party must
+have winged mounts to follow.
+When you follow, roll one die to determine which direction the chase will lead: 1-N, 2-NE, 3-SE, 4-S, 5-SW, 6-
+NW. Your party moves to that hex during the day. All remaining normal travel or actions during the day are
+ended (even if uncompleted) because you are following instead.
+Next, consult the event that permitted to following to see what happens next. This normally requires another die
+or dice roll.
+Sometimes after you follow characters to one hex, you may be required to follow them again before the day
+ends. In this case, roll the die once more for direction. Unless events indicate otherwise, after a day following
+the characters you must either attack them in combat (r306) or leave them alone and abandon the chase in
+order to make your own camp and have your evening meal (r215).
+r220 Combat
+When your character and your party must "fight" characters encountered, these combat rules are used:
+Combat Procedure (r220a): Combat is fought in rounds, and continues until one side escapes or is wiped out.
+At the start of each round, you decide which of your characters will face each character encountered. After the
+opponents are matched against each other, then all characters on one side strike, and results are applied,
+followed by all characters on the other side striking back, and results are applied. You and your characters may
+strike first or second each round, depending on the circumstances of the event.
+Selecting Opponents (r220b): each character in your party is matched against one encountered character.
+Each should select a different enemy. If one side has extra characters, you decide which the extra face. They
+can all face one opponent, or each can face a different one, provided each character has at least one opponent
+to face.
+Strikes (r220c): When facing multiple opponents, a character can strike at only one each round, but can select
+which one to strike against. If two or more characters both face an opponent, both strike at him, but each strike
+is resolved separately. 
+To resolve a strike, take the combat skill of the striker, and subtract from it the combat skill of the target
+character. If the target has better skill, the result will be a negative number. Next roll two dice, and add the
+result of the skill comparison to the dice roll. Finally, add or subtract any special modifiers that apply to the total.
+These special modifiers are:
++2
+Target of strike has wounds equalling half or more his endurance
+-1
+Striker has one or more wounds
+-1
+Striker has wounds equalling half or more his endurance (in addition to the above)
+Take the total that results, and consult the Combat Table (r220c). If one of the listed numbers has occurred, the
+target suffers the number of wounds indicated. If a number results that is not listed on the combat table, the
+strike missed and no wounds are inflicted.
+
+Example: A Dwarf (combat skill 6, endurance 7) strikes at the Barbarian Prince (combat skill 8, endurance 9)
+who has one wound. The Dwarf takes his 6 skill, subtracts the Prince's 8, for "-2", then rolls two dice and gets a
+"10". No special modifiers apply, so the overall result is 8, which means one wound. The Prince now has two
+wounds, when it is his turn to strike back. The Prince rolls "7", so his calculation is 8-6+7-1=8, and thus also
+inflicts one wound. Note that the two wounds of the Prince caused the "-1" special modifier to be applied.
+Combat Table (r220c): this table is also reproduced on a separate sheet:
+-1,3,5,8,11
+One wound
+10,12,13,17
+Two wounds
+Three wounds
+16,18,19
+Five wounds
+Six wounds
+Surprise (r220d): if characters achieve surprise in combat, they are allowed one 'free" bonus strike at the start
+of the combat. Then, when the first round starts, the characters with surprise strike first each round.
+Escape (r220e): in a round of battle, instead of striking with characters you may attempt to flee (escape) the
+battle. Either all or none escape, you cannot leave some behind. When an escape attempt occurs, none of your
+characters strike. Instead, roll one die. A "4" or higher result allows a successful escape; see r218. If anything
+else occurs, the battle continues. You can attempt to escape as often as you wish, until you finally succeed.
+Routs (r220f): you can attempt to frighten your enemy into running away from the combat", if you wish. Each
+time you kill one character in the enemy group, after you finish all strikes, you roll one die. If a "6" occurs the
+enemy routs, and the battle ends. All surviving enemy characters flee and disappear, so you can't take their
+wealth. Otherwise, it is just as if you killed them all. Opposing characters with a combat skill or endurance of 9
+or higher are never subject to rout, they will always fight to the death.
+r221 Wounds & Endurance
+Every character has an endurance value. This is the number of wounds needed to kill that character. Wounds
+are caused by combat and other events.
+Serious Wounding (r221a): when the number of wounds to a character equals or exceeds half his endurance,
+he is seriously wounded. Modifiers to his combat strikes will occur.
+Unconsciousness (r221b): when the number of wounds is one less than a character's endurance value, he
+has fallen unconscious, and is totally helpless. His combat skill becomes zero (0) automatically. He can no
+longer strike in combat, but others can still strike at him. If the Barbarian Prince (yourself) falls unconscious, roll
+one die for the attitude of his followers: 4 or more and they carry him along, 3 or less and they all desert him,
+taking all his money and possessions in the process (since they have left him for dead). If his followers carry
+him, normal transport rules (r207) apply, with the Prince counting as twenty (20) loads.
+Death (r221c): when the number of wounds finally equals the endurance value of the character, or exceeds it,
+the character dies. If the Barbarian Prince dies, you lose the game!
+r222 Rest & Healing Wounds
+You and your party can rest during a day (r203). You must check for an encounter as if travelling into the hex
+you occupy while resting (see r207). If there is no event that involves combat or requires an escape during the
+day, each character in the party heals one wound. You can continue to rest, day after day, until all wounds are
+healed. You can never improve the endurance of a character beyond his original value, regardless of rest
+taken.
+In addition, certain events may be special possessions that have healing abilities.
+A character can be wounded, then heal the wound, any number of times, provided he avoids death.
+
+Poison Wounds: a poison wound cannot be healed in the normal manner. It remains a wound regardless of
+rest taken, until either a special possession provides a cure, or the character dies of wounds.
+r225 Acquiring Treasure
+Whenever you kill all characters encountered, your party may take their wealth. To determine the wealth of
+each defeated character, compare the character's wealth code with one die roll on the Treasure Table (r226).
+The result is the actual wealth, in gold pieces. (The wealth code, incidentally, is the average wealth result.)
+Some events may also provide you with treasures of various types. These may be a fixed number of gold
+pieces, or refer to a wealth code, in which case you again roll a die and consult the Treasure Table (r226).
+Special Possessions: sometimes the result of the Treasure Table (r226) will include not just gold, but a letter
+code as well. This means a special item has also been found, roll again on the Treasure Table and consult the
+appropriate letter code line for the specific event that describes the new possession.
+Distributing Acquisitions: you decide which characters receive what part of the treasure. You may decide to
+give your followers nothing, and retain all the wealth for yourself.
+If you do give any money or a possession to a follower, it becomes his personal property. You can never take it
+back unless the character dies, at which point you can recover his wealth unless you had to escape from the
+scene or have already left.
+Historical Note: this system for holding wealth is based on ancient Celtic and Germanic social customs, where
+the chief or leader owned all property, including all spoils from raids or wars. His band of followers was provided
+for, and was from time to time given individual items as gifts for especially valuable services.
+r226 Treasure Table
+wealth code
+die roll (use one die)
+Character has no gold or possessions
+3+A
+6+A
+8+A
+9+C
+11+A
+15+A
+20+A
+24+A
+28+A
+45+A
+50+C
+60+B
+70+A
+80+B
+90+C
+100+B
+110+A
+130+C
+150+A
+A
+e180
+e181
+e182
+e183
+e184
+e185
+B
+e180
+e186
+e187
+e188
+e190
+e193
+C
+e186
+e188
+e189
+e191
+e192
+e194
+
+r227 Trap Locks
+To open or enter an item with a trap lock, you must survive the trap on the lock. You can have someone else
+open the item, but then that person is entitled to whatever is within. To determine what happens, roll one die:
+Poison needle inflicts one poisoned wound.
+Burning acid explodes; roll one die for the number of wounds suffered.
+Poison gas bursts. Roll one die for the number of poison wounds suffered.
+Plague dust inflicts a sickness. Roll one die and halve the result, rounding upward. You suffer these
+many wounds at the end of the day. You will continue to suffer the same number after every day,
+until you recover. To determine recovery, roll one die after the sickness wounds are inflicted. If this
+second roll is 4 or higher, you recover. Otherwise, sickness continues.
+Flying spikes and knives explode toward you. Roll one die and add three (+3) for the number of
+wounds suffered. 
+Trap malfunctions, no wounds suffered.
+r228 True Love
+You may fall in love with a female and vice versa. This is "true love," a rare but wonderful situation. Your true
+love will always accompany you in your party, until death or unavoidable circumstance parts you. Your true love
+will never desert you, regardless of whether money or food is properly paid, etc. You can never voluntarily
+abandon her, and she will not leave even if you order her to go!
+In some cases, when you are believed dead, or imprisoned, you will be forcibly parted from the rest of your
+followers. Your true love will also be separated from you. As soon as you are free, and reuniting is possible, at
+the end of each day roll two dice. If the result is "10" or "11" your true love has finally found you, and rejoins
+your party. If the result is "12" exactly, you learn that she died trying to find you, or trying to protect you. When
+you are reunited, roll two dice again, if the result is "9" or higher she has acquired a horse for a mount on her
+own journeys, and brings that with her. If the result is "12" exactly, she has a winged mount (a Pegasus) which
+is able to fly.
+Advantages of Love: while your true love accompanies you, your wit & wiles is increased by one (+1), due to
+the extra emotional strength she provides, not to mention sage advice and quick thinking in tight spots!
+The Eternal Triangle: if you have a true love, and somehow acquire a second "true love", a difficult situation
+exists. Since you are torn between the two, neither is a true love; so the effects of this section no longer apply.
+However, these potential true loves may not desert you when you request it or they normally would. Whenever
+desertion would occur, roll one die, a 3 or higher means the female remains with you that day like a true love, a
+2 or less means he leaves. Thus you may lose all competing true loves save one, and when only one remains,
+she becomes you real "true love" again.
+sections r229 and r282-299 do not exist see separate sheet for sections r230-r281
+
+r300 Surprise
+Your party surprises the characters encountered in combat (r220).
+r301 Surprise
+Roll one die, if your wit & wiles equals or exceeds the die roll, your party surprises the characters encountered,
+otherwise you strike first in combat (r220).
+r302 Surprise
+Roll one die, if your wit & wiles exceeds the die roll, your party surprises the characters encountered, otherwise
+you strike first in combat (r220).
+r303 Surprise
+Roll one die, if the number of characters in your party is less than the roll, your party surprises the characters
+encountered; otherwise you strike first in combat (r220).
+r304 Attack
+Your party strikes first in combat (r220) against the characters.
+r305 Attack
+Roll one die, if your wit & wiles equals or exceeds the die roll, you strike first in combat (r220); otherwise,
+characters encountered strike first.
+r306 Attacked
+Roll one die, if your wit & wiles exceeds the die roll, you strike first in combat (r220); otherwise, characters
+encountered strike first.
+r307 Attacked
+Characters encountered strike first in combat (r220) against your party.
+r308 Surprised
+Roll one die, if you wit & wiles equals or exceeds the die roll, you sense danger, characters encountered strike
+first against your party in combat (r220); otherwise, you fail to sense danger, they surprise your party.
+r309 Surprised
+Roll one die, if your wit & wiles exceeds the die roll, you sense danger, characters encountered strike first
+against your party in combat (r220); otherwise, you fail to sense danger and they surprise you and your party.
+
+r310 Surprised
+Characters encountered surprise you party and cause combat (r220).
+r311 Escape
+Your party escapes to an adjacent hex (r218).
+r312 Escape Mounted (mtd)
+You ride away: if your entire party has mounts, you can escape to an adjacent hex (r218); if some of your party
+lack mounts, they can be abandoned to permit the rest to escape, or your entire party is unable to escape, see
+r330.
+r313 Escape Flying (fly)
+You can fly away; if your entire party has winged mounts or is able to fly, you can escape to an adjacent hex
+(r218); if some of your party are unable to fly, they can be abandoned to permit the rest to escape, or your
+entire party does not escape, see r330 instead.
+r314 Escape
+They don't look too bright, you try to talk you way past them. Roll one die, if your wit & wiles equals or exceeds
+the die roll, your party escapes to an adjacent hex (r218); otherwise, return to the previous event section and
+select another option.
+r315 Escape
+With a few well-chosen words you might throw them off - you decide, it's worth a try. Roll one die, if your wit &
+wiles exceeds the die roll your party escapes to an adjacent hex (r218); otherwise, return to the previous event
+section and select another option.
+r316 Hide
+Your party hides in this hex (r218).
+r317 Hide
+You think quickly and try to hide. Roll one die, if your wit & wiles equals or exceeds the roll, your party hides in
+this hex (r218); otherwise, return to the previous section and select another option — you couldn't think of a
+good hiding place fast enough!
+r318 Hide
+You decide to try hiding. Roll one die, if your wit & wiles exceeds the die roll, your party hides in this hex (r218);
+otherwise, you couldn't think fast enough, return to the previous section and select another option.
+
+r319 Hide
+You look around for enough cover to hide your party. Roll one die; if the number of characters in your party is
+equal to or less than the die roll, you can hide (r218) in this hex; otherwise, return to the previous section and
+select another option. You can't abandon members of your party to allow the rest to hide - those abandoned will
+reveal your hiding place!
+r320 Hide
+You look around for cover. Roll one die, if the number of characters in your party is less than the die roll, then
+you can hide (r218) in this hex; otherwise, return to the previous event section and select another option. You
+cannot abandon members of your party to allow the rest to hide.
+r321 Bribe to Pass (amount)
+If you pay the amount of gold indicated, characters encountered will let you pass and the encounter ends.
+Otherwise, they become hostile and try to stop you, see r330 and add one (+1) to your dice roll there.
+r322 Bribe to Pass (amount)
+Characters encountered have a nasty look, but if you pay the amount of gold indicated they will pass your party
+and the event will end. Otherwise, go to r330 and prepare to battle.
+r323 Bribe to Pass (amount)
+Characters encountered seem unsavory, you don't know what to expect, except that if you pay the amount of
+gold demanded you can pass and the event ends. Otherwise, there is risk of ambush and surprise, go to r330
+and subtract one (-1) to your dice roll there.
+r324 Bribe to Pass (amount)
+Characters encountered have weapons drawn, putting you at a disadvantage. You can either pay the amount of
+gold they demand and end this event, or you can let them attack and strike first in combat (r220).
+r325 Pass
+Characters lose interest in your party, encounter and event ends now.
+r326 Pass
+You think you can lull their suspicions. Roll one die, if your wit & wiles equal or exceed the roll, the characters
+encountered let your party pass, the event ends. Otherwise, see r330 and add one (+1) to your dice roll there.
+r327 Pass
+Characters encountered look nasty, but slow on the uptake — you’ll try to talk your way past. Roll one die, if
+your wit & wiles equal or exceed the roll, the characters let your party pass, event ends. Otherwise, go to r330.
+
+r328 Pass
+Characters encountered look rough, but you try to talk your way out of a fight. Roll one die, if your wit & wiles
+exceeds the roll, they let your party pass and event ends; otherwise, see r330.
+r329 Pass
+Characters encountered have an unpleasant gleam in their eyes. You try to create a favorable impression
+anyway. Roll one die, if your wit & wiles exceeds the roll they let your party pass, event ends; otherwise, go to
+r330 and subtract one (-1) from your dice roll there.
+r330 Battle Reference
+You are forced to fight with the characters encountered, roll two dice and go to the appropriate section: 2(or
+less)-r310; 3-r309; 4-r308; 5-r307; 6-r306; 7-r305; 8-r304;9-r303; 10-r302; 11-r301; 12(or more)-r300.
+r331 Bribe to Join (amount)
+Characters encountered are looking for easy money. They will join your party if you pay the gold requested. If
+you don't pay, roll one die: 1,2,3-characters ignore you and event ends; 4-r321; 5-r322;6-r323.
+If they are paid and do join, they will remain until you fail to give them an equal share of any new gold acquired
+(equal share is at least as much as you get yourself), or until any member of your party is abandoned or killed.
+If either of these happens, even if in the midst of combat, these unreliable mercenaries will immediately
+abandon your party and disappear!
+r332 Bribe to Hire (amount)
+Character(s) will hire as henchmen for 2 gold per day, provided you pay them the bonus in gold they request.
+Daily pay starts tomorrow. The characters) will remain in your party as long as they are paid, or until you
+abandon them. If more than one character is encountered, you must hire all or none as a group. The bonus is
+paid to the group as a whole. If you abandon one of the group, all will leave, they only work as a group.
+If you don't hire them, roll one die: 1,2-characters ignore you and event ends; 3-r321; 4-r322; 5-r323; 6-r324.
+r333 Hirelings
+Character(s) encountered need a job! They will hire on with your party at 2 gold per day, provided you pay
+today's wages right now. They will remain with your party as long as they are paid every day at the evening
+meal (r215). If there is more than one, you can hire some or all, as desired.
+If you don't hire any of them, roll one die: 1,2,3,4-r325; 5-r326; 6-r327.
+r334 Ally
+You discover the character(s) know about your quest to regain your throne, and they too have a personal
+grudge against the usurpers there. They will join your party as followers, and remain with you at no cost
+(beyond food and lodging).
+r335 Escapee
+Character(s) encountered are fleeing someone. They will join your party if you permit it, and at no cost to you
+(other than food and lodging), but will disappear whenever you enter any town, castle or temple hex.
+
+r336 Plead Comrades
+You try to talk the character(s) into joining your party, as they seem sympathetic and interested. Roll one die, if
+your wit & wiles equals or exceeds the roll, they will join as followers; otherwise they leave and the event ends.
+r337 Plead Comrades
+The character(s) encountered look unsavory, but willing to talk - you try to convince them to join your party. Roll
+one die, if your wit & wiles exceed the roll, they join as followers. Otherwise, roll one die again: 1-r325; 2-r330;
+3-r340; 4,5-r341; 6-r342.
+r338 Convince Hirelings
+Character(s) encountered look dubiously at you, but you try to convince them to join your party as henchmen.
+Roll one die; if your wit & wiles equals or exceeds the die roll, they will join your party as henchmen. You must
+pay them one gold piece per day if your wit & wiles exceed the die roll, or two gold pieces per day if your wit &
+wiles equaled the die roll. Today's pay must be given to each immediately. If more than one is encountered, you
+can hire some instead of all if you desire. Those who are not hired, or if you fail to convince them to join will
+pass by, ending the event.
+r339 Convince Hirelings
+Character(s) encountered look askance at you, and will pass you by (event ends) unless you stop to talk.
+If you stop to talk, you decide you should convince them to join your party as henchmen. Roll one die; if your wit
+& wiles exceeds the die roll, they will join at 2 gold pieces per day, with today's pay due right now. You can hire
+some instead of all if you desire.
+If you stopped to talk, but failed to convince them to join as hirelings, roll one die to determine their attitude:
+1,2,3-r325; 4,5,6-r330.
+r340 Looter
+Character(s) encountered look like they are in need of money. You can let them pass (encounter ends) or try to
+convince them to join you.
+If you try to convince them, roll one die. If your wit & wiles equals or exceeds the die roll, they will join your
+party. They will remain as long as they get an equal share in any new gold you acquire (i.e., each gets as least
+as much as you). If you deny them their share, it is ^s if you failed to convince them to join, see below.
+If you fail to convince them to join (or later deny them an equal share in gold) they may become hostile, roll one
+die:
+1,2
+They attack you personally in combat (r220), and have the first strike.
+3,4
+They attack your party in combat (r220); see r330 for situation.
+5,6
+They depart angry, but without fighting, event ends.
+
+r341 Conversation
+In an extended period of talking, you gradually discover the interests and attitudes of the character(s) you
+encountered. This takes a good deal of time, you cannot travel any further today, and any other daily actions
+unfinished cannot be completed either. For the results of the talk, roll two dice
+A hired assassin surprises you into combat (r220) and always strikes at you personally.
+Bandits, who may surprise you, see r308.
+Arrogant and surly, the conversation turns into an argument, r305.
+Character(s) needs 10 gold now, r331; if they join, they will leave your party in a next town,
+castle or temple you enter in any event.
+Character(s) ask for 5 gold now and employment, see r332.
+Character(s) willing to hire as henchmen, see r333. 
+Character(s) looking for fun and profit, see r338.
+Character(s) fugitive from local justice, see r335.
+10 Character(s) down on luck, looking for a turn in fortunes, see r336.
+11 Character(s) obviously plundering mercenaries, see r340.
+12 Character(s) discover a common cause with you; see r334.
+r342 General Inquiry
+You are unsure of attitudes, and make some general inquiries to determine what these encountered characters
+seem interested in. Roll two dice:
+You unwittingly give insult; see r309.
+You are forced into combat, unwillingly; see r330.
+Character(s) interested in loot, see r340.
+Character(s) attempt attack on you, see r306.
+Character(s) uninterested in you, see r325.
+Character(s) reveal themselves gradually; you can either talk further (see r341) or let them
+pass (see r325). 
+Character(s) are for hire; see r333.
+Character(s) may be for hire, see r339.
+10 Character(s) may be sympathetic to your cause, see r337.
+11 Character(s) uninterested, but may be for hire, see r338.
+12 Character(s) aloof, but might consider joining you, see r336.
+r343 Victim Selection
+One character in your party is the victim or target of the attack. If your party is just you, then you are the target.
+Otherwise, select characters in your party one by one, in any order you choose. When you select a character,
+roll one die. If the result is "6" that character is the target, otherwise select another character and try again.
+Continue this, going through the characters in your party more than once if necessary, until the target is
+selected.
+Barbarian Prince Copyright ©1981, Heritage USA 8700

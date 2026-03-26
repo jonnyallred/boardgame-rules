@@ -1,0 +1,1308 @@
+1 Flintloque 3rd Edition ‘Lite’ Rules
+Welcome to the free Flintloque Lite rules; its time to prepare for Black
+Powder war. In these pages you will find all the core mechanics needed
+to play Flintloque the Skirmish along with the meanings of all
+terminology used in this section.
+Remember the aim of the Flintloque game is enjoyment, fun and tactics
+whither you are an Elf or an Orc or any other creature of Valon. All
+disputes between players (Gentleorcs) should be settled by the toss of a
+coin or by contacting Alternative Armies directly using the addresses
+here. We are always happy to hear from Flintloque players.
+Alternative Armies
+Po Box 8207
+Girvan, Scotland
+KA26 0YB
++44(0)1465 841 677
+enquiries@alternative-armies.com
+www.alternative-armies.com
+Notes on the Free Lite Edition
+We would like to take this chance to say how happy we are that you have
+decided to game this Lite 3rd edition of Flintloque: The Game of
+Napoleonique Skirmish.
+In Flintloque, players take command of a ‘Section’ (between five and
+twenty characters) of soldiers, of their own design, that come from any
+and all of the diverse fantasy races on the World of Valon. With your
+Section, you will fight many skirmishes (scenarios) in the hopes of
+securing victory for your nation, and achieving fame and glory for
+yourself and your soldiers.
+Flintloque is a unique game setting, loosely based on our own history of
+the early nineteenth century and a certain tyrant who sought to conquer
+the world. We combined this with our love for fantasy creatures,
+adventure, humour which in this day and age is sadly often lacking and
+of course the reek of musket smoke. As the infamous ‘loquer saying
+goes ‘ how many buttons are on an Orc redcoats jacket?’ , we reply ‘its
+fantasy, its as many you want it to be.’
+If you are unfamiliar with tabletop war games, there a few things you
+should know before proceeding. Firstly, this game requires and is
+supported 
+by 
+a 
+large 
+range 
+of 
+metal 
+miniatures.
+You will find information all our Flintloque miniatures on
+www.alternative-armies.com . You will also need percentile dice.
+Secondly, tabletop war games require the use of model terrain (not
+unlike model railroad terrain you may have seen in toy and hobby stores)
+to add to the tactical interest and visual spectacle of the battle being
+played. The Alternative Armies website provides links to excellent
+terrain making sites and has a regular periodical with new tips on
+constructing beautiful terrain.
+Thirdly, these rules are fairly complex when compared to traditional
+board games such as chess. However, there are examples and
+illustrations to aid in your understanding of the game.
+For seasoned war gamers, these rules will probably be refreshingly
+simple to understand compared to many miniature games. But don't let
+that fool you! These rules require a great deal of skill to implement
+successfully; they reward tactical play. To those of you who are old hats
+at Flintloque. You will no doubt be intrigued by the quite significant
+changes that Alternative Armies have made to the Flintloque game
+engine. A result of years of comments, playing and feedback we believe
+that 3rd edition is the best evolution of Flintloque possible for today’s
+gamer.
+Between the two designers of this book, Gavin and Mike, we have been
+playing the game of Flintloque since its inception more than fifteen
+years ago and we have loved every moment of it. As a result of this
+commitment to what we think is one of the best and most unique games
+in the world we have made 3rd Edition even more engaging and deeper
+in terms of character and section development.
+These Lite rules cover skirmishes with mortal Infantry and Cavalry and
+are suitable for the Catalucia and other Uropean theatres of the
+Mordredian Wars. Use them in conjunction with the other free PDF’s
+from Alternative Armies such as these (those marked with an * are
+needed to play).
+Flintloque 3rd edition - The Master Mortal Racial Stats Tables. *
+Flintloque 3rd edition - Section Roster sheet
+Flintloque 3rd edition - Counters and Token sheets.
+Flintloque 3rd edition - Solo Play bolt on.
+These Lite rules are all the mechanics you need to play single games of
+Flintloque and are taken from 5025 Flintloque 3rd Edition - Catalucia.
+The 5025 book contains much, much more than these Lite rules
+including Section Creation, Section Development, Character creation
+along with skills, traits and flaws for every nation in the Catalucia theatre
+plus the background to the war in that area of Valon and more than ten
+scenario seeds. Look it up if you want to take your gaming further.
+So, our thanks to the thousands of players over the years who have
+played, fought and even laughed to the point of hysterics; to you, to all
+of you we present Flintloque 3rd Edition Lite.
+Gavin Syme & Mike White 2009
+ --- THE LITE RULES OF NAPOLEONIQUE WAR ---
+
+2 Flintloque 3rd Edition ‘Lite’ Rules
+Terms & Definitions
+In Flintloque there are terms and definitions used to explain the rules. They are
+listed here for you to read and learn thereby making the following rules more
+familiar.
+Activation: The act of performing 1 or 2 Consecutive Actions with any given
+figure on the table.
+Activation Token: Any marker or counter placed next to a figure that indicates
+a figure has already taken actions this turn. A figure with an activation token on
+it may not take Actions.
+Adjacent: Figures are adjacent when there is 1cm or less between them and they
+are not in Base to Base contact as defined above. This is important, as some
+effects & abilities affect adjacent figures.
+Base to Base Contact: Occurs when two figures are in physical contact and the
+larger side of one base completely covers, from corner to corner of one side, the
+contacted edge of the smaller base. In the case of equal base sizes, this means
+the entire frontage of the two bases will meet and the corners will touch. If this
+exact condition is not met, the figures are merely adjacent. This distinction is
+important for different effects in the game and for determining who is involved
+in melee. However, a figure in base to base is ALSO considered adjacent for the
+purpose of special abilities.
+Chance to hit & Impact: Every weapon (except melee) lists two numbers
+separated by a slash. The number on the left of the slash is the percentage chance
+the weapon will hit. This is the number you must roll equal to or less in order to
+successfully shoot an opponent with a ranged weapon. The impact is the severity
+and potential damage from any attack. In firing, the impact will be listed in the
+weapon's firing chart to the right of the slash. In melee, the impact is equal to
+the difference of the combat rolls. The impact of an attack is SUBTRACTED
+from a player's dice roll when making a Steady Check.
+Character: Any figure in the game that represents one of the soldiers in your
+section. The terms character and figure will often be used interchangeably
+throughout the rules. They mean the same thing for game purposes.
+Command Points: Every Section Leader gets 3 points per game that can be
+spent on different effects during the course of the game. Any remaining points
+also get added to the initiative roll every turn. It will be convenient to track
+command points with either tokens or scrap paper. Certain rules may increase
+or decrease this number. They should be spent with care.
+D5: Roll a D10 counting 1-2 as 1; 2-4 as 2; 5-6 as 3; 7-8 as 4; and 9-10 as 5.
+D10: An abbreviation often used to refer to a 10-sided die.
+For this game, a 0 result is read as a result of 10.
+Engagement Range: Area that extends a distance equal to the longest side of
+a figure's base from the base edge of a figure. Therefore normal foot figures have
+an engagement range of 25mm, large foot figure (Ogre, Trolka etc) a 30mm, and
+mounted figure 50mm. An enemy figure may not move through an engage-
+ment range unless it intends to come into base contact with the figure and
+close for melee.
+Experience: Each character in the game has an experience level which
+represents the amount of combat exposure they have had. The experience levels
+are: Raw, Average, Experienced, Veteran, and Legendary. These experience
+levels will be discussed in detail later in this section of the book.
+Figure or Miniature: This means a metal model from Alternative Armies in
+28mm scale for use in Flintloque which depicts a single character in your Section.
+Heavily Wounded: A condition that results when a figure has lost at least half
+of its starting wounds in the current game.
+Fire & Movement Chart: The chart on a character roster sheet that shows the
+number of centimetres that character moves at the four different movement
+rates and also displays the statistics of their firearms.
+Hit Token: A token placed after making a ‘Steady Check’ that represents a
+wound. However, Hits do not actually become WOUNDS until the wound
+resolution phase. Since everything in a game Turn more or less happens simulta-
+neously and within a very short time frame, a hit represents a possible wound
+that happened at some point in the Turn. Hits never stay on a character past the
+Wound Resolution Phase.
+Modifier: A number which will either add or subtract from the total of a die roll.
+Modifier usually account for such things as the effect of terrain on firing
+weapons, being outnumbered in combat, or how brave a character is. Modifiers
+are usually classified as permanent or situational. Permanent modifiers are
+usually calculated before the game and added to a character's profile on the
+roster sheet or reference card.
+Movement Rate: Depending upon racial type, each figure will move a specific
+rate in centimetres. There are four movement rates available: Double, Quick,
+Slow, and Half Step. Though the same names will be used for the rates, the
+actual distances moved with vary from race to race.
+Movement Shift: The movement & firing chart for each soldier will contain 4
+columns. The rules will often tell you to take a right or left shift for movement.
+A column shift always means to move over one column on the chart. Right is
+generally a penalty and left is a bonus. A given condition will only ever cause one
+shift. All shifts are cumulative.
+Percentile Dice: A pair of 10-sided dice. One is marked 0-9 and the other is
+marked 00-90. When rolled together, these dice will generate a result from 1-100.
+00 and 1 are read as 1 and a roll of 00 and 0 are read as 100. You will generally
+roll these dice in the hopes of rolling equal to or lower than a given number in
+the rules.
+Points Value:Every soldier, skill and weapon has an associated point value
+attached. These points are used during competitive play to provide a reasonably
+balanced contest between players.
+Reload Step: Each black powder weapon from pistols to muskets etc take a
+certain amount of time to load. A reload step represents one figure's Turn worth
+of activity to reload that weapon. Most firelocks have a Reload Step of one.
+More complex firelocks such as a Bakur Rifle or the 7 Barrel Volley Gun have
+two or more steps.
+Rolling Doubles: When rolling the percentile dice, if the 10's digit on the die
+labeled 10-00 is equal to the ones digit on the die labeled 1-0, the roll is
+considered a roll of DOUBLES.
+Section Leader: This is a character named in your section roster or nominated
+on the base of the miniature as the commander of your Section. Almost always
+an Officer and you should also nominate a second in line Section Leader, a
+Sergeant, in case of death or severe wound of your Section Leader. The Section
+Leader is the most important member of a Section.
+Shaken Token: A token placed next to a figure when a particularly traumatic
+event happens on the battlefield such as being wounded, losing your command-
+er, etc.
+Special Rule: A special rule is a rule that exists outside of the core mechanics
+in this book. Special rules will often contradict or change a core rule and these
+Special Rule’s always overrides the core rule it contradicts. Skills, Traits, Flaws,
+and Magicke Abilities are all Special Rules. As are official expansions to these
+rules published elsewhere, though these expansions are not required to play
+this game.
+Status: The characters status represents the level of training or the style of
+fighting to which the soldier is accustomed. Among the different status' are: elite,
+regular, militia, guerrilla, marine, light, and irregular. These are explained in
+detail later in this section of the book
+
+3 Flintloque 3rd Edition ‘Lite’ Rules
+THE CHARACTER PROFILE
+In Flintloque the Skirmish there is a system for determining just how
+fast, how strong, how reliable and how skilled a character is in play. All
+of these values and others such as level of training and experience in
+battle are quantified with numerical values.
+Here are the tiles given to all of these numerical values along with their
+meanings in the game. The numeric values for each of the Fantasy
+Races in Flintloque can be found in the Racial Statistics Tables.
+Steady:
+This value determines how difficult it is to inflict bodily harm on the
+character. This represents a mixture of mental fortitude, physical
+toughness, personal courage, and even a bit of luck.
+Wounds:
+This value determines how much physical damage the character can
+actually take. Larger, tougher characters will generally have a higher
+wounds values. Once a figure has received a number of wounds equal
+to its wound factor, it is considered unfit to continue fighting. It does
+not necessarily mean however that the figure is actually dead. Whenever
+a figure has 0 wounds, it is removed from the game table and place to
+the side for its fate to be determined at games end.
+Melee:
+This value is expressed as a positive or negative number and is used to
+help determine the outcome of hand to hand combats. The higher the
+positive number, the more skilled the character is with hand weapons.
+This number ranges from -2 and up.
+Accuracy:
+This is expressed as a negative or positive number in multiples of 5%
+percent generally ranging from -10% and up. This number is automati-
+cally added to the applicable of the four columns of the character's firing
+chart for each shot the character makes.
+Discipline:
+A value ranging from -2 and up which represents the soldier's ability to
+carry on and follow orders in spite of the fear inducing chaos of the
+battlefield.
+Experience means the battles the character has seen (and survived!) and
+the overall ability of that character to cope with black powder conflict.
+Every single character has an Experience Rating and this confers the
+following automatic alterations on other parts of their Character
+Profile which must be adhered to at ALL TIMES during play.
+Note each character’s Experience Rating on your Section Roster,
+Remember that if a character survives in play, there is a chance between
+games that he will increase in Experience Level and become better.
+This is explained in the Section Creation and Between Games parts of
+the 5025 book.
+Experience Ratings have the following automatic modifiers in play.
+LEGENDARY
+These Characters are legends, the finest of the best that there
+will ever be. There are VERY few of these characters and they
+are all famous to their own peoples. Not at all average fellows!
++ 15%
+Wounds
+VETERAN
+A highly experienced soldier who has survived everything the
+Enemy has thrown at him. Natural leaders and deadly fighters,
+Veterans are the best of normal soldiers.
++ 10%
+EXPERIENCED
+A character who is experienced has fought in many skirmishes
+and is a cut above the average soldier. A good officer.
++ 5%
+AVERAGE
+Average characters are accustomed to the battlefield. Solid and
+reliable, they are well equipped to meet their foes.
+No Special Rules
+RAW
+The least experienced troops, they can be quite unpredictable in
+combat. They have a tendency to lose heart if the battle goes
+against them.
+- 10%
+
+4 Flintloque 3rd Edition ‘Lite’ Rules
+TROOP TYPES
+In Flintloque the Skirmish every character also has a Troop Type. This
+is their position in the world, their trade, typically in the armed forces of
+their nation. It shows any training they have had or specialist conditions
+that apply to them.
+Most characters are Regular troop type, this is the default type if you
+cannot decide on another troop type for them.
+Characters must choose a troop type that fits with their background in
+your games of Flintloque. For information on Troop Types for your
+chosen race look to the Army parts the 5025 Flintloque book for ideas
+and examples.
+THE WORTHY AND THE CHOSEN
+The following troops are the troops most often seen on the battlefields
+of Valon. They are the trained, professional troops of the Valonese
+nations.
+All troops listed have at least had adequate training under the direction
+of career soldiers and are reasonably well equipped and supplied. They
+are listed in more or less in the order of the commonality the field of
+battle. These are the only troop types that players can also have the
+ELITE troop status sub-type as an added option paid for in points for
+their character.
+REGULAR
+The mainstay of an army this type are the typical Line Infantry
+and the bulk of all troops. They have been well trained, but still
+require the direction of firm commander to make sure they stay
+in line. If in doubt of a characters type they are Regular.
+Regulars must stay within 30cm of their Section Leader or they suf-
+fer a -1 Steady and -1 Discipline modifier
+LIGHT TROOP
+Light Troops, also called Light Infantry are specialist skirmish-
+ers trained to think on their own and to fight apart from the
+regular troops.
++1 Initiative if majority of section is Light +5% Accuracy.
++1 if every figure attempting to perform a
+Coordinated Action is Light.
+GRENADIER
+Made up from the strongest soldiers this troop type is taken
+from the biggest troops in a battalion and are often first into
+battle.
+Grenadiers must stay within 35cm of their
+Section Leader suffer -1 to Discipline.
+They gain +1 to Melee and +1 to Steady.
+They must reduce their MOVEMENT rates in centimetres
+by 20% rounding down at all times.
++5% to hit when throwing a grenade.
+CAVALRY
+Characters who are trained to ride on a horse or other mount;
+cavalry do not fight like infantry do. Only Cavalry may ride on a
+mount in Flintloque in most circumstances.
++3 Melee instead of the normal +1 WHEN they INITIATE a melee
+AFTER moving in the same activation.
+Due to their height and speed Cavalry IGNORE Engagement Range
+areas of all characters on foot for both movement and shooting; but
+they still enter Melee in the normal manner.
+If mounted a Cavalry type character must deduct 10% from
+every shot they fire to represent the difficulty of shooting from
+horseback. Ignore this if the character is stationary for the Turn of
+shooting.
+They may not use Muskets, Blunderbusses or Grenade types of
+weapons only Pistols and Carbines.
+GUNNER
+These characters have special training which allows them to
+operate all kinds of ARTILLERY in play with no penalties.
+Rules for artillery can be found in the Grapeshotte book.
+May only use melee weapons and PISTOL type weapons
+(no other firearms) in play.
+They also suffer a -1 in Melee.
+ They may use GRENADES.
+
+5 Flintloque 3rd Edition ‘Lite’ Rules
+MARINE
+Regular soldiers trained to serve and fight aboard ships but also
+to fight on land when needed.
+Must stay within 20cm of their section leader or
+they suffer a -1 Steady modifier.
+They gain a +1 in Melee.
+They may not operate ARTILLERY
+They may use GRENADES.
+They automatically get the BOARDING TECHNIQUE skill.
+ADDITIONAL TROOP TYPE
+ELITE
+This is an ADDITIONAL type than can be selected by
+Worthy and Chosen troop types to ADD to their main
+Troop Type. You choose a Troop Type such as Light Troop and then
+pay the extra points (see Racial Tables) to make that
+character Elite as well.
+Elite represents the finest soldiers of their respective
+regiment or battalion.
+ +1 Steady, Discipline, and Melee modifiers.
++1 to Initiative if majority of section is ELITE.
++1 To Coordinated Action roll if all figures being activated are
+ ELITE. Not cumulative with the Light Bonus for this.
+Seeing as they would rather die than disgrace their uniform of their
+nation, they suffer a -2 on the Post Battle Status Chart. In other
+words, they are more likely to be dead than run away!
+THE FORLORN AND THE DESPERATE
+The following troops are usually used as reserve troops. They have either poor, unconventional, or no training. They are often poorly equipped
+and less motivated to engage in battle. But sometimes they may be fierce fighters with no discipline. Either way, they are unpredictable. None of
+these Troop Types may be ELITE.
+MILITIA
+Soldiers who are trained to a basic level before being sent into
+battle. They look like Regular Troop Type and are equipped
+like them but they are not as skilled.
+-1 to Steady and -1 to Melee.
+Militia must stay within 15cm of their Section Leader
+or suffer an additional -1 Discipline.
+They never get the Aimed Fire bonus.
+They may not use GRENADES.
+GUERRILLA
+Very hard hitting in the first few turns of the game causing a great deal
+of surprise, fear, and confusion. However, a disciplined enemy will
+regain the upper hand. Also, guerrilla warfare is conducted by those
+who resort to these tactics due to lower numbers, poor equipment, and
+non traditional training. Preserving their fighters is therefore a con-
+scious priority as is melting away to fight again later
+Get the INTERRUPT FIRE skill
++1 Melee.
+Additional +1 Melee if activated after retaining initiative during Tacti-
+cal Manoeuvre phase
+After Turn 5 a cumulative negative Steady modifier is applied to
+Guerrilla's so Turn 6 (-1), Turn 7 (-2), Turn 8 (-3), Turn 9 (-4) the
+modifier is a maximum of -4 for the rest of the scenario.
+May not perform a Coordinated Action.
+IRREGULAR
+Fighters with martial skill but no formal military training. Irreg-
+ular characters might be Brigands, Pirates, Mercenaries but
+typically Warriors of the Otharmann Empyre.
++1 Melee
+-1 to Initiative if at least half of the section is irregular.
+May never operate ARTILLERY.
+CIVILIAN
+These characters are not soldiers but rather civilians caught up
+in war. They may be townsfolk of noble or low rank, even ladies.
+In play they MUST be attached to a players section at games
+outset.
+-2 to Steady, Discipline and Melee,
+-1 to Initiative. They must remain within 15cm of the section leader
+or suffer an additional -1 to Discipline.
+They cannot be ELITE, they cannot use GRENADES or
+RIFLES and they may never operate ARTILLERY.
+
+6 Flintloque 3rd Edition ‘Lite’ Rules
+OFFICER REPUTATION
+Before starting any game, you must note down who your Section Leader
+is (your Officer) and what your Section Leader's reputation is. Write this
+on your Section Roster.
+Don't worry about what these means too much if you're just starting out
+or you don’t want to get too involved in this part of the Lite rules. The
+best thing to do in these cases is to just pick the Professional Officer as
+this has no special rules and has NO impact on the game rules.
+Once you are comfortable playing the Lite game with a professional
+officer, you should try your hand at some of the more interesting (and
+often dangerous!) reputations for your officers. They add quite a bit of
+tactical variety, a degree of uncertainty, and flavour to the game.
+It should also be pointed out that having certain officer reputations will
+change your tactics considerably and may take practice to get them to
+perform properly.
+Here are the Officer Reputation types:
+PROFESSIONAL OFFICER
+This officer has taken up the life of a soldier as a career. A pragmatic and
+level-headed chap, the professional officer is neither seeking glory nor
+fame. He is willing to take calculated risks, but has no desire to see his
+men killed for romantic notions of honour There are no special rules to
+apply to a professional officer.
+It is recommended that new players choose this type of officer for their
+first few games.
+HEROIC OFFICER
+Heroic officers are the stuff of mainly posthumous legends. They have
+a marked tendency to die in glory-seeking and irrational charges on
+enemy positions no matter how likely their chances of success might be.
+They always lead from the front and make it clear to the enemy that they
+are indeed the Officer in charge. This makes them superb candidates for
+the enemy guns.
+A Heroic officer is more likely to die than most other Officers when he
+is fired at by enemy troops. When a weapon strikes a Heroic Officer, the
+player rolling to wound receives a +1 bonus on the die roll. Before
+activating any other figures, roll 1d10. On a result of 9 or 10 the heroic
+figure moves a MINIMUM full Quick March move toward the closest
+enemy figure. The section leader may choose to fire any black powder
+weapons or move at a Double March instead in an attempt to engage the
+closes enemy figure.
+However, he inspires his men so much that figures within 30 cm have a
++2 modifier to their morale value – so long as he is still alive that is!
+AGGRESSIVE OFFICER
+Always keen to get stuck in and start the killing, Aggressive Officers
+spend most of their time training their troops in the art of Melee combat.
+Any figures commanded by an a aggressive officer has their Melee
+Modifier increased by +1. This includes the officer himself.
+An aggressive officer may not move in such a way as to take him further
+away from the closest enemy figure unless he is shaken.
+Any figures in a section commanded by an aggressive that are within
+15cm of enemy figure(s) at the start of their activation, must make
+Double March movement toward an enemy in range. This does not
+mean they necessarily have to move into contact with the closest figure.
+But if due to terrain or other conditions, the figure will not come into
+contact with the enemy, the figure must move toward the closest enemy
+model. This cancels any other orders give to those figure. Either player
+may declare a distance check at the start of the movement phase.
+COWARDLY OFFICER
+The cowardly officer is certainly averse to taking any sort of risks on the
+battlefield. He would be much happier on the parade ground conducting
+drills and shining boots. He has dedicated a great deal of time to
+ceremony. Soldiers with that are not loaded may potentially fire during
+the AIMED FIRE PHASE if they are both unloaded and are not
+activated. At the start of the aimed fire phase, roll a D10 for each soldier
+with that is not loaded. On a roll of 8, 9, or 10 the figure has managed
+to load his musket astonishingly fast and may fire this phase. Otherwise
+it must wait until the Reload Resolution phase as normal before the
+musket is loaded.
+However, keep in mind that figures with hit markers may not reload and
+will therefore not fire. Also remember that a figure will now be activated
+and cannot re-load again in the reload phase. Cowardly officers will not
+voluntarily move into base contact with an enemy figure. Cowardly
+officers also suffer a -1 morale.
+DASTARDLY OFFICER
+The dastardly officer has no problem throwing his men to the front to
+save his own hide. Whenever a Dastardly officer makes a Steady check,
+roll a D10. If the die roll is equal to or less than the number of friendly
+figures within 15cm of the officer, the hit(s) transfer to ONE of those
+hapless scum.
+
+7 Flintloque 3rd Edition ‘Lite’ Rules
+SETTING UP TO PLAY
+Once you have chosen your Section, decided on your Characters and
+painted your miniatures you are ready to play a game of Flintloque Lite.
+Flintloque is primarily a scenario driven game and most players will want
+to select a scenario from those provided by Alternative Armies or create
+their own scenario to suit their own unique collection of miniatures.
+This adds fun, excitement and often odd goals in your games that make
+for a great couple of hours gaming. Refer to other parts of this book for
+more on scenarios and their creation.
+Of course you can also just set up and play using the Flintloque Points
+System to work out the total value of your Characters and then pitting
+them against an equal enemy force of the same value in a straight fight.
+Either way is perfectly acceptable for playing this game.
+Next you will need to lay out your terrain on a table, this terrain is
+normally six feet by three feet, and comprises hills, buildings, rivers and
+roads along with any special items for your scenario. If using a scenario
+then lay out the terrain as per the map for the game. If you are not using
+a scenario then an easy way to set up is to count up all the terrain items
+you have and for each player to take a turn in placing one of them on
+the table; ensuring a random set up.
+Then you will need to place your dice, rulers, counters and filled out
+Section Rosters on the table (but not on the Terrain!), these will be used
+throughout the game.
+Next take your miniatures, your Section of characters, and place them in
+scenario’s pre-determined area for Deployment of Troops for the game.
+If you are not using a scenario then each player selects a table edge or
+major terrain feature (such as a building) and place your miniatures
+within 10cm of each other and within 10cm of the table edge or terrain
+feature.
+Unless a scenario dictates otherwise all games of Flintloque begin with
+the Initiative phase of Turn 1 as described in the following rules and the
+game lasts 10 Turns before ending.
+Now your table is set up, you have all you need to play, your miniatures
+are in place and you are ready to throw the first dice. Its time to begin.
+Read on for victory!
+THE TURN SEQUENCE
+Flintloque is played in a series of Turns (typically ten) each of which
+follows the strict and exact sequence of play as listed below.
+Each Turn is divided four primary phases. The second of these phases,
+the Action Phase, is divided into a further group of four sub-phases.
+Needless to say, this is where most of the action of the game will be
+taking place during the game.
+For your first few games, don't concern yourself too much with what
+happens in the next phase or sub-phase of the game. Just do what is
+necessary and is instructed in the given phase you are currently playing.
+Each phase is described in detail on the following pages.
+THE PHASES OF A TURN
+I. Initiative Phase
+During the initiative phase, both players roll a die to try and gain
+the ability to act first or force his opponent to act first.
+II. Action Phase
+Players alternate activating up to two figures at a time until all
+figures they wish to perform actions with have done so or the
+player chooses to pass. The player who won initiative may choose
+to go first or second. Both players must complete a particular sub
+phase before going on to the next. A sub phase ends when there
+are no figures which can be legally activated or both players have
+passed CONSECUTIVELY.
+A. Tactical Manoeuvre
+Figures activated in this phase may move and attack by either
+firing a black powder weapon or initiating a melee attack. This
+may perform these two actions in any order. You may also
+perform a special action by sacrificing either the attack or move-
+ment action.
+B. Aimed Fire
+Any figures without an activation token or hit tokens may fire in
+this phase. Figures that are able to fire in this phase get a +20%
+temporary bonus for their accuracy.
+Certain weapons my increase or decrease this bonus.
+C. Reload
+Any figures without an activation or hit token removes one
+Reload Step from his weapon. This includes both Troops reload-
+ing personal weapons and Gunners manning artillery pieces.
+D. Artillery Fire
+See the Grapeshotte book for the full rules on artillery.
+III. Wound Resolution Phase
+Determine wounds suffered and remove casualties.
+IV. Maintenance Phase
+Remove any action tokens and perform any other actions as may
+be required by any special rules.
+
+8 Flintloque 3rd Edition ‘Lite’ Rules
+During the Action phase, players alternative taking up to two actions
+with up to two figures until all figures have been activated. A figure can
+fire, move & fire, fire & then move, reload, aim or take a special action
+as dictated by a special rule, skill, or magicke ability.
+The actions of reload & aim both prohibit movement and only occur
+during their respective sub-phases unless a special rule contradicts this.
+Once a figure has taken an action, note on the Section Roster or place a
+token next to his figure to indicate that he has completed this action.
+All activations in a sub phase must be completed before moving on to
+the next sub phase. A sub phase is only complete once there are no
+longer any figures left to activate or both players have passed
+CONSECUTIVELY. You may take an action even if you passed
+earlier so long as both players did not pass consecutively.
+You are NEVER forced to take an action unless compelled by a special
+rule. A figure is eligible to act without restriction in any sub phase if none
+of the following cases exist:
+1) It has an Activation Token
+2) It has Hits on it this turn.
+3) It has a Shaken Token
+4) It is not in Base to Base contact with an Enemy
+If more than one case exists, you must resolve them in the order above.
+In other words you must: make sure the figure hasn't already taken an
+action; attempt to see if you can make an action by making an activation
+roll; then you must see if this action is affected by the shaken token; and,
+finally, you must make the actions that you are restricted to when in base
+contact. If any step prevents activation or causes a compulsory action
+this is dealt with before moving on as before. At the start of the game,
+none of these cases should exist unless directed by a special rule or
+scenario setup.
+Refer to the following Cases for courses of action in this phase.
+CASE 1
+The figure has an Activation Token....that means it's already acted this
+turn! Of course you can't act twice!
+CASE 2
+A figure which currently has hits on it must pass a die roll test to see if
+he is able to act. Having hits means that someone has successfully
+attacked attacked the figure this round. Even though the Tactical Ma-
+noeuvre phase is more or less simultaneous, this test represents the fact
+that an enemy may have gotten a spilt-second advantage that prevents
+you from carrying out any activity. When a figure is nominated to
+activate that has hits, both players roll a D10.
+The following modifiers are used for the roll:
+Activating Player:
++ or - Figure's Discipline Rating.
++1 If player won initiative this turn.
++2 If within 15cm of section leader.
+Opposing Player:
++ Remaining Command Points
++1 If player won initiative this turn
++ Number of hits on the Activating figure.
+If the activating figure rolls higher than the opposing player, he may
+carry out an action as normal.
+If the roll is a tie, the figure may only move OR fire at -10% accuracy.
+If he rolls lower than the opponent, he may only perform a movement
+action at no more than a SLOW MARCH and may not perform any
+other action, but still places an activation token.
+1. INITIATIVE PHASE
+Example: Mike and Rob are in the middle of a game of
+Flintloque. It is the start of the second turn it is time to roll for
+initiative. They both roll a D10. Mike rolls a 7 and Rob rolls an
+8. Mike's section leader has a discipline of 3 so this is added to his
+score. Furthermore he lost the initiative LAST turn so he gets a
+further +1.
+His total is 11. Rob's discipline is 2 and gives him a total of 10.
+Mike wins the initiative because his total was higher. He will
+now have the option of going first or second in the Action Phase.
+During the initiative phase, each players roll a D10 and add their Section
+Leader's Discipline to the die. Subtract 1 from this if over half the unit
+is Militia and add one if the unit is over half Guerrilla or Elite type. A
+player who lost the initiative last turn gets a +1 modifier.
+The winner of the die roll has the initiative and is referred to as Player A.
+Having the initiative gives you an substantial advantage during the
+Action Phase.
+Note:
+If this is the first Turn of your game then allocate 3 Command Point
+tokens to each Section Leader for their careful use in the coming game.
+DURING THE INITIATIVE PHASE
+Note: Only the player who LOST the initiative in the previous turn may
+spend points. Re-roll Initiative Die. If the player has lost the initiative
+phase, he may spend a command point to re-roll that die.
+ II. ACTION PHASE
+
+9 Flintloque 3rd Edition ‘Lite’ Rules
+CASE 3
+A figure with a Shaken Token must attempt to remove that token before
+taking an action by making a Morale Check and rolling a D10. Apply the
+following modifiers to the roll and consult the chart below.
+-1 Per wound taken.
+-1 Heavily Wounded
+-1 for any Militia not within 15cm of section leader
+-1 for any Regulars not within 30cm of section leader
+-1 section is below 50% initial number
++1 Section leader within 15cm.
++2 If section Leader
++1 If Elite
++ or - Discipline rating
+If the result is:
+Less than 1, the figure is immediately removed from the table.
+If the result is 1-4 the figure must either move:
+A) directly away from the closest enemy figure.
+B) directly toward deployment zone.
+This is usually his side of the table. Or
+C) directly toward closest table edge.
+In either a or b above, the figure moves the FULL distance of a
+DOUBLE MARCH. The figure may perform no other actions. A figure
+that ends its move within 15cm of an enemy trooper retains its
+SHAKEN TOKEN. Otherwise, remove the SHAKEN TOKEN after
+performing any ONE of the two compulsory movements listed above.
+Place an action token next to the figure.
+If the result is EXACTLY 5, the figure is considered activated and takes
+no actions. Place an activation token and remove SHAKEN TOKEN.
+If the result is above 5, the figure may act as normal so long as it does
+not move closer to an enemy. Remove the SHAKEN TOKEN.
+If the result is 10 or more, there are no restrictions on actions. Remove
+the SHAKEN TOKEN after making the check.
+CASE 4
+A figure with an enemy figure in base contact may only conduct ONE
+action which may either be to initiate a melee or move at no faster than
+a SLOW MARCH if ALL other figures in base contact with it have an
+activation token. A figure can only move if it has 3 or less figures in base
+to base contact with it.
+MOVING AND FIRING
+Any time a figure is going to both move and fire as part of an activation,
+the player activating the figure must declare the rate of movement as
+either Quick March, Slow March, or Half-Time. Double March prohib-
+its firing.
+Remember, your movement rate will affect your effective targeting
+range and accuracy. Simply say something like, "I'm activating Jean
+Claude and he will fire first then move at Slow March." This kind
+of clear communication during the game will ensure that all players
+know what is going on and will minimize any disagreements.
+Firing any figures that receive a hit marker during the Turn, must
+also place a morale check marker.
+CHARGE ACTION (CAVALRY)
+A cavalry character (who is currently mounted not on foot) may
+declare a charge action for its movement if it was already moving
+in the previous turn.
+A charge takes place automatically and must end in melee with an
+enemy figure (use charge bonus to fastest movement rate). Upon
+impact add an additional +2 to that Melee roll only. If charge
+movement does not impact on enemy figure then place a shaken
+token on the cavalry figure.
+See the Mounts Table for details of cavalry mounts.
+MUSICIANS & STANDARD BEARERS
+Almost all regular soldiers in the Mordredian Wars have either a
+Musician (Drummer, Bugler, Singer etc) or Standard Bearer (a character
+carry the flag of his regiment or nation), sometimes both.
+In play these musicians and standard bearers confer bonuses on your
+Section in the Action Phase. Here are the conditions to gain these
+bonuses.
+Standard Bearers are assumed to always have their Flag in hand regard-
+less of other actions; it does not impede their actions. All friendly
+characters in Line of Sight (LOS) gain the bonus.
+Musicians must declare that they are playing for an entire Turn, do this
+at the start of the Turn and note it down, they may not fire or reload a
+weapon and may only move in column 4 at Half Step rate.
+If this condition is met then the bonus is given for the whole Turn
+EVEN if the character is removed from play or engaged in melee.
+The effective range of the bonus for a musician is 25cm, characters must
+be inside this distance when requesting the bonus
+See Reference Tables for Points Cost and details.
+
+10 Flintloque 3rd Edition ‘Lite’ Rules
+During this phase a figure may perform up to Two Actions.
+He may either Move and perform an attack action or perform an attack
+action an then move. He may also replace a move or attack action with
+a special action.
+MOVEMENT
+The movement portion of the tactical manoeuvre sub phase is very
+important. A careful reading of the rules will clearly show you that the
+final position of figures can swing the tide of a battle.
+Movement is conducted by moving a figure a number of centimetres
+equal to or less than the maximum speed selected for his activation. See
+Master Racial Table for Movement Rates.
+In order to move a figure, you must announce his speed as one of these:
+DOUBLE MARCH, QUICK MARCH, SLOW MARCH, or
+HALF-STEP MARCH. They are listed in columns 1, 2, 3, and 4
+respectively on the Racial Table and Roster.
+Players then use a ruler or tape measure to move the distance listed in
+centimetres. You may measure from any base side or point on the figure,
+so long as no portion of the model or base moves a distance greater than
+the maximum movement range listed for the model's speed. Players
+never have to move the entire distance listed under the movement rate
+selected, they may move only a portion of the allowed distance if they
+desire. You are still considered moving at that rate for shooting purposes,
+however.
+EFFECTS OF TERRAIN ON MOVEMENT
+There are 5 different types of terrain in Flintloque. Clear, Blocking,
+Bogging, Difficult and Linear Obstacles. A figure will always suffer the
+WORST terrain penalty when more than one terrain type coexists in any
+particular location.
+Clear Terrain refers to open spaces, grass and other terrain that does not
+hinder movement at all. Movement rates here are unaffected.
+Blocking Terrain refers to anything which cannot be easily climbed or
+moved through. This is usually represented by steep cliffs, high walls, or
+locked buildings. When attempting to move through a gap between two
+pieces of blocking terrain, the gap must be no smaller than half the width
+of the figure's base.
+Difficult Terrain features are things such as rocky areas, thick woods, or
+farm fields. Any figure moving through difficult terrain during its
+movement counts every 1cm crossed as two centimetres, thus reducing
+the total movement allowance.
+Bogging Terrain is similar to difficult terrain except that when a figure
+ENTERS bogging terrain, it's movement immediately ends within 2cm.
+If it starts within the Bogging terrain, it gets a RIGHT SHIFT for
+movement in addition to 1/2 movement rate of difficult terrain. This
+would be such things as extremely dense woods or swamps.
+Linear obstacles include low walls, hedges, and field works. Whenever
+a a figure crosses a linear obstacle, subtract 4cm from the total move-
+ment.
+EFFECTS OF WOUNDS ON MOVEMENT
+Any figure that has taken a number of wounds equal to or greater than
+half it's wound factor, it is considered HEAVILY WOUNDED and
+must take a RIGHT SHIFT for movement.
+MOVEMENT OFF THE CHART
+If a shift takes you off the movement chart, the figure will be severely
+hampered in movement and may not move at all. Roll a D10.
+On a 6-10, the figure is completely unable to move, but still COUNTS
+as having moved the movement rate declared for shooting purposes.
+Otherwise move the figure a number of centimetres shown on the die.
+That is, the figure will have a move of 1cm to 5cm.
+A. TACTICAL MANOEUVRE PHASE
+Example: Rob and Mike have just started playing. Mike has
+won the initiative and decides to activate first. He declares
+that he move one of his Elves toward the nearby woods
+(Difficult Terrain.) He declares that he will MOVE and FIRE
+at a Quick March. His total available movement is 28cm. He
+therefore uses the tape measure to measure the distance. He is
+16cm from the light woods, so when he has 12cm remaining
+when reaches the edge of the light woods. He wishes to move
+into the woods, wants to move in 4cm. This will cost him a
+total of 8cm since moving through Difficult Terrain costs
+double the normal amount of distance. Although he still has
+4cm of movement remaining he chooses to end his movement.
+Next he is going to fire on his enemy....
+
+11 Flintloque 3rd Edition ‘Lite’ Rules
+FIRING
+The fire portion of a figures action is the opportunity to inflict great
+carnage upon the enemy...from a distance.
+FIRING PROCEDURE
+1.
+Determine the movement rate of the firing figure and maximum range
+for target acquisition. Double Time prohibits firing. Quick time only
+allows firing at column 2 or less. Slow March allows firing at colum 3 or
+less. Remaining stationary allows you to fire at column 4 or less. Figures
+within 15cm of the Section Leader may target up to one column higher
+than the movement allows. In a nutshell, the maximum firing distance is
+in the same column as the movement rate declared.
+The Profile below is for a Ferach Elf Musket:
+2.
+Declare the potential target. If the target lies outside of the maximum
+firing column determined above, the figure fails to acquire the target and
+does not not fire the weapon. The figure is considered to have given up
+its opportunity to fire for the turn.
+3.
+Determine Line of Sight (LOS) and obscurement by tracing an
+imaginary line from the centre of the firing model to the centre of the
+target model. LOS is blocked if the line passes through BLOCKING
+TERRAIN or more than 5cm (cumulative) of any area terrain such as
+Light or Heavy Woods. LOS is obscured if the LOS crosses less than
+5cm of any NON-BLOCKING TERRAIN that the target model is not
+in contact with.
+Obscurement also occurs when LOS is traced through a gap between
+two figures that is LESS THAN 5cm wide. Mounted cavalry ignore foot
+troopers for this purpose as they are in the saddle and have a better
+vantage of the battlefield.
+A figure firing at an obscured target suffers a -10% Accuracy penalty.
+Remember a figure DOES NOT get this bonus in addition to the cover
+bonus.
+4.
+Determine cover of target. In order for a figure to have cover, it must
+be in contact with the terrain from which it is claiming the cover
+bonuses. There are two forms of cover: Light and Heavy. They give a
+-20% and -30% penalty respectively to the firing figure's Accuracy.
+LIGHT COVER would be such things as light woods, wooden fences,
+and hedges. HEAVY COVER would be things such as stone walls,
+heavy woods, and buildings. Remember the target never gets a cumula-
+tive cover bonus from any source. The firing figure simply takes the
+worst of the penalties.
+5.
+A figure firing in the AIMED FIRE PHASE gets a +20% Accuracy
+bonus.
+6.
+A figure that is HEAVILY WOUNDED gets a -20% Accuracy penalty.
+7.
+Find the chance to hit on the fire and movement chart and roll the
+percentile dice. If the roll is less than or equal to the final accuracy of the
+weapon after all modifiers, the target's player must make a Steady Check.
+8.
+Place a Reload Step token next to the figure that fired. Unless they have
+the Long Reload trait, all weapons have one Reload Step. Weapons
+with a long reload time will place a number of tokens equal to X in the
+Long Reload (X) trait.
+FERACH ELF MUSKET
+3 - Slow
+4 - Half
+Step March
+Fire with 1
+Right Shift
+70/4
+Notes: None
+
+12 Flintloque 3rd Edition ‘Lite’ Rules
+ROLLING DOUBLES!
+Whenever doubles is rolled on a SUCCESSFUL firing roll, the resulting
+discharge of the weapon has either been a MISFIRE or a CRITICAL
+HIT. After rolling the the doubles, roll a D10. On a 1-5, the shot was a
+misfire and on a 6-10 it is a CRITICAL HIT.
+MISFIRE -
+The weapon fails to discharge properly. No wound is caused and the
+target thanks the gods! The weapons is considered discharged and must
+be reloaded.
+CRITICAL -
+Your shot not only scores true, but may have hit a critical mechanic of
+nature. Double the Impact of this hit.
+SPECIAL RULE: THROWING GRENADES
+When throwing a grenade, it may be important to know where the
+grenade landed even though the target was not hit. If the grenade hits
+it's target, the explosive radius is centred on the model which subse-
+quently takes the maximum Impact of the weapon. Everyone else still
+within the radius takes 1/2 the impact rounded up.
+If the grenade misses, roll a D10 near the intended target. A D10 creates
+a natural arrow. The landing point will be at a distance in centimetres
+equal to the number showing on the die going in the direction the die is
+pointing. If the roll is a zero. The grenade was a dud and fails to detonate.
+Ignore the rolling doubles rule for throwing grenades.
+Unless otherwise noted the radius of a grenade’s explosion is 5cm, use
+a template of that width with the grenade at its centre.
+INITIATE MELEE
+If a figure is in BASE TO BASE CONTACT (see definitions) with an
+enemy figure, it may use an action to initiate a combat. The player must
+announce the target of the melee attack. Unlike firing where only the
+attacking player rolls a die, both players make a contested roll and to see
+who gets the highest total modified roll.
+Once the melee is initiated, both players roll a die for the attacker and
+the target and add the following modifiers:
+OUTNUMBERED
+If a figure is outnumbered, it subtracts -2 from it's die roll for each figure
+beyond the first in close combat. A figure that has more than one enemy
+figure in base to base contact does not generate this -2 penalty.
+SHAKEN
+If a figure has a shaken marker, it subtracts -2 from its die roll.
+ADDITIONAL MELEE MODIFIERS
+Permanent Modifiers:
+ + or - Racial Melee Modifier
+ + or - Experience Modifier
+ + or - Troop Status Modifier
+ + Weapon Modifier
+ +1 if Mounted
+Situational Modifiers
+ -1 Per Wound on figure
+ -1 Figure Heavily wounded
+ -1 Per Hit on Figure
+ +1 To figure that initiated Melee OR +3 to Mounted Cavalry that
+ moved this activation AND initiated melee
+ -2 Initiating Melee across a Linear Obstacle
+Roll D10 and add all or subtract melee modifiers
+Compare to the enemy figure's roll in this melee. The figure with the
+higher total is the winner. The difference between the two modified rolls
+is the winner's IMPACT of the attack. The loser then makes a Steady
+check just as when getting hit by musket fire.
+The loser makes a Steady Check and places a Shaken Token.
+BAYONETS AND CAVALRY IN MELEE
+If a figure is armed with a firelock which has a bayonet who fired during its
+activation THIS TURN, it does not gain the benefit of the melee modifier
+provided by the Bayonet in melee. If it has not fired then the bonus is applied.
+A figure that is mounted entering melee gains a bonus and attacks apart from
+this as if on foot (i.e it can be pushed back etc). However all enemy melee
+attacks upon a mounted figure are counted against the MOUNT first. If the
+mount is killed then place the figure on foot with a Shaken Token and continue.
+Example: Mike moved his Elf at a Quick March. He is firing at
+Rob's Orc and measures the distance at 32cm. This puts him in
+column 2 of the fire and movement chart. The Quick March does
+allow him to fire at the distance. Had the distance been over
+45cm, he would not be able to fire. The weapon's base chance to
+hit is 55%. The Ferach's accuracy is +10%. This brings the
+chance to hit up to 65%. However, since Mike moved his Elf at
+a Quick March, this reduces the chance down 20% to 45%. He
+rolls the percentile dice and gets a 43. He hits! Rob now holds his
+breath and rolls his Steady Check
+Example: Rob now activates his Orc and moves at a Slow March
+to get closer to the Elf in the woods. He then announces he will
+fire at the Elf. Me measures the distance and sees that it is 27cm.
+He is firing at column 2 of the Bessie Musket which gives him a
+base chance to hit of 50%. The Orc's accuracy is +5% for being
+an Average Light Troop. He has no penalties for movement, but
+he must subtract 20% because he is in Light Woods which counts
+as Light Cover. His final chance to hit is 35%. He rolls a 63
+a miss. Therefore, the Elf does not have to make a Steady Check.
+Example: This image shows two situations. The image on the left
+shows the Elf outnumbered by the Orcs 3 to 1, so gets a -4 penalty.
+The image on the right shows the Elf only outnumbered by 2 to 1
+because one of the Orcs is also in Base to Base contact with
+another enemy figure.
+
+13 Flintloque 3rd Edition ‘Lite’ Rules
+SPENDING COMMAND POINTS IN MELEE
+OPTIONS AVAILABLE TO OFFICERS
+Officers of the Mordredian Wars are given the finest training in swordsmanship
+and are thus accustomed to using more refined and often devastating techniques
+in close combat. Any Section Leader that is an officer armed with a sword/saber
+may use ONE of the following techniques ONCE per turn by spending a
+command point. Only the player who won initiative may do this.
+Defensive Stance
+If the figure is outnumbered at least two to one, the figure may DOUBLE it's
+total combat bonus from race, status, and experience. However, the best result
+the character can hope to achieve is a Draw. Heroic & Aggressive officers may
+not take this option.
+Heroic Sacrifice
+If the figure is outnumbered by four to one, the figure may ignore all outnum-
+bered modifiers against 1 enemy for this combat. However, all other enemies
+still count the negative modifiers and the sacrificing figure's combat bonuses are
+reduced to 0 for the remaining combats. Note: You still apply negative
+modifiers from wounds! Dastardly & Cowardly officers may not take this option.
+Beneath My Station
+The figure, if in single combat with an enemy NON officer figure that is also less
+than Experienced level, may cause a push back result without even rolling any
+dice. After the push back, the officer may then make a 10cm move DIRECTLY
+TOWARD an enemy officer.
+Finishing Stroke
+An officer in contact with a non-officer that is HEAVILY WOUNDED
+automatically dispatches that figure if it is less than an Experienced level
+character.
+SPENDING COMMAND POINTS DURING
+THE TACTICAL MANOEUVRE PHASE
+Retain Initiative
+A player can spend a command point in an attempt to "retain the initiative" for
+a phase and activate up to two more figures than normal. The player must
+declare this after he has performed two actions but before his opponent acts. He
+spends the point and must roll off against his opponent. Each player rolls a D10
+and adds the number of currently UNACTIVATED and NON-SHAKEN
+figures to his total. If the player spending the point wins, he retains initiative and
+may activate two more figures. Otherwise play passes to his opponent as usual
+and he looses the point without effect. Sections comprised of mostly Guerrillas
+(more than half) get a +2 to this roll.
+Rally Troops
+A player may spend a command point as a SPECIAL ACTION to remove a d5
+shaken markers from any figures within 15cm. Add +1 to the total if he has a
+higher experience level than ALL other figures he is attempting to rally. They
+must be removed from highest to lowest experience level. The player may
+choose which figure to remove the marker from if there is a tie. Figures which
+are engaged by enemies MAY have Shaken Tokens removed in this fashion.
+Direct Orders
+A figure activating within 15cm of the section leader,may be given a DIRECT
+ORDER by spending one Command Point. The figure gets a +1 to Discipline,
++1 Melee, and +5% Accuracy for the remainder of it's activation. These bonuses
+count from the start of declaring the activation, so the +1 discipline DOES
+count for Morale Checks and Activation Rolls. Figures are generally acting
+autonomously during the turn, acting as they see fit and not necessarily going
+above and beyond. The Direct Order represents the increased sense of urgency
+and duty a figure feels when being directed by his superior.
+COORDINATED ACTIVATION
+A player can spend a command point to perform the same action with a group
+of figures that are within 5cm of the Section Leader. The procedure is simple.
+Before activating a figure, announce that you are making a coordinated activa-
+tion and spend the command point. You may now activate up to 4 figures with
+5cm of your section leader as if you just activated ONE figure. You may activate
+a 5th figure if it is your section leader. You must perform all actions with one
+figure before moving on to the next. Just to clarify, a figure with an activation
+token may not be activated this way. Guerillas & Civilians may not perform a
+coordinated activation.
+Example: An Orc an Elf are in base to base contact and Rob uses
+an action to initiate a close combat between his Orc and Mike's
+Elf. Both players roll a D10 and add a few modifiers. Rob has
+rolled a 9 and the Elf an 8. Rob has a melee score of 5. 2 for being
+and Orc, +1 for being Experienced, +1 for initialising combat,
+and +1 for his bayonet. He adds this to the 9 for a total of 14.
+The Elf has a melee of 1 for being an Elf, a +1 for his bayonet,
+and a -1 for being Raw. Mike's total score for the Elf is a 9. Rob's
+score is higher than Mike's score by a total of 5, so the Orc has
+won the combat and caused the Elf to make a Steady Check (See
+Steady Check example) against an attack with an Impact of 5....
+Example: Bob's section has taken a beating in the previous turn.
+His Experienced section leader has 4 shaken figures within 15cm.
+One Experienced, two Average, and one Raw. He activates his
+leader first and decides to sacrifice his movement and his last
+remaining command point to Rally his troops. He rolls a d5 and
+comes up with 3 (5 on a d10.) He then removes one from the
+experienced, one average, and then the other average.
+Unfortunately, he didn't have enough to remove from the Raw
+so it will have to make a morale test when it activates.
+
+14 Flintloque 3rd Edition ‘Lite’ Rules
+STEADY CHECK
+Any figure which has lost a Melee or has been Hit by a shot from a Black
+Powder weapon must roll for potential hits on the chart below.
+This is called a Steady Roll or the Steady Check.
+The Defender rolls a D10 and adds his character’s Steady rating and
+subtracts the Impact of the attack.
+The Impact of a Black Powder weapon is listed on the weapon chart. In
+the case of a melee attack, the impact is equal to the difference in the
+combat rolls of the two players. You must also subtract -1 from the roll
+if you currently already have a shaken token.
+Consult the chart below. If using counters, place the number of hit
+markers next to the figure or on the figure's reference card. If using a
+roster, put a slash through the wound box of the figure. During the
+wound resolution phase, you make an 'X' out of the slash.
+SHOOTING AT A MOUNTED CHARACTER
+All shots fired at a mounted character WILL ALWAYS strike the
+MOUNT first (unless an Aimed Shot) as mounts are so much larger
+than their riders. Mounts if killed are removed from play and the
+character is placed in the same spot on the table and given a Shaken
+Token.
+* A figure that is out of action is IMMEDIATELY removed from
+the table. This means if it has not acted yet this Turn, it will not
+have an opportunity to do so.
+**This result only occurs during melee. For musket fire, anything
+above an 8 has no effect.
+STEADY CHECK - RESULTS TABLE
+Modified Roll Result
+Hits Generated
+<0
+Out of Action *
+0 to 0 to 01
+4 Hits
+2 to 3
+3 Hits
+4 to 6
+2 Hits
+7 to 8
+1 Hit
+9 to 10
+Push Back 5cm **
+>10
+No Effect
+Example: In the previous shooting example, Mike's Elf hit Rob's
+Orc at Medium Range. The impact of a Ferach musket at that
+range is a 3. So mike rolls a D10 for his Steady Check and adds
+his Steady of 4. 3 for being Orc and +1 for being Experienced.
+He rolls a 6. This makes for a total of 10. He then subtracts the
+Impact of 3 for a total of 7. Looking on the chart, he sees that is
+Orc has taken 1 hit. He places the hit marker next to the Orc.
+Example: In the previous melee example, the Orc won the
+combat by 5 points. The Elf had a dice roll total of 7 and the Orc
+had a 12. This means the impact is a 5. The Elf rolls a D10 and
+adds his Steady of 1. No modifiers because it is just and Average
+Elf. His roll is a 8. He adds 1 for his Steady bringing his total to
+9. He then subtracts the Impact of 5 leaving a final modified
+result of 4. This means the Elf has taken 2 hits from this attack.
+B. AIMED FIRE PHASE
+During the aimed fire phase, any figures that do not have any hits, shaken tokens, or enemy figures in base contact may fire. The player who won
+the initiative for the turn declares and resolves all fire first. A firer who has aimed can fire at the maximum targeting range.
+Use the procedure for firing as it is given in the Tactical Manoeuvre Phase.
+Remember, a figure firing in this phase gets a +20% Accuracy bonus.
+ If shooting at a Mounted character the figure may elect to target the Mount or the Rider for the shot.
+There are no general abilities to spend command points on in this phase.
+However, certain nations may provide ways to spend points in this phase.
+Example: Robert and Mike have both passed during the Tactical Manoeuvre's phase. Robert
+passed because he had no figures left that were un-activated and Mike because he chose to leave
+one of his Experienced Ferach Light Infantry taking cover in the woods available for the Aimed
+Fire Phase. He picks a nearby Orc and announces his fire. Since he is firing in the aimed fire phase
+he fires at up to the maximum range of the weapon. He measures the distance at 47cm. This puts
+him in the LONG RANGE band, so the base accuracy of the weapon is 20%. The accuracy listed
+on the roster is 15%. That is: +5% for being Ferach, +5% for being Experienced, and +5% for
+being Light Infantry. Furthermore, he gets a temporary Accuracy bonus of +20% for firing in the
+Aimed Fire Phase. His total Accuracy bonus is +35% to the weapon's chance to hit. The total is
+55%. He therefore needs to roll 55 or LESS on the percentile dice in order to hit the Orc. Mike rolls
+a 37 and hits. Robert would then have to make a Steady check .
+
+15 Flintloque 3rd Edition ‘Lite’ Rules
+C. RELOAD RESOLUTION PHASE
+Any figures that have no figures in base to base contact, have no activation token, and are not Shaken or have no Hit markers reduce the number
+of reloading tokens by one step for their weapon. This means that a typical Black Powder weapon which takes one token, one step to Reload will
+be Reloaded if the preceding conditions are met for ONE TURN. Figures manning an artillery piece will also reduce the weapon they are serving
+by one reload step. This is covered in the Grapeshotte book. As most firelocks take only one reload step. Figures with a weapon that has the
+LONG RELOAD(X) trait may take longer to reload. The specific rules are listed with the appropriate weapon.
+There are no general abilities to spend command points on in this phase.
+However, certain nations may provide ways to spend points in this phase.
+III. WOUND & MORALE RESOLUTION PHASE
+Now figures convert Hits to Wounds. Any Figures with Hit markers change them to Wound markers.
+Any figures with a number of wounds that equal or exceed the wound factor are removed from the game.
+If the Section Leader is removed from the board at this time, place a shaken marker next to all surviving figures.
+If any character that received a wound this turn, place a shaken marker next to him.
+If the number of figures removed drops the number of friendly figures to half the starting number or less, place a shaken marker on any surviving
+figures.
+Place a shaken marker next to any Forlorn and Desperate troop type that are within 15cm of another figure that is removed from the table. If using
+a Section Roster instead of counters, turn any slashes into an 'X' by marking a backward slash.
+Remove all not needed tokens on the gaming table.
+Officer's Fortune
+A Section Leader may spend one command point before any Hits are converted to wounds to reduce the number of Hits by a die roll of D5. This
+will reduce the hits by 1-5 and could possible complete prevent the Section Leader from taking any wounds at all. It is the players choice of which
+Hits to remove though he may NOT remove two Hits from one character in succession if there are any other characters in his Section with Hits
+remaining. Note: You may not use this to remove a wound that was received in a previous turn.
+RECOVERING COMMAND POINTS
+Using Discipline to Regain Command Points
+If your Section used command points during the Turn, roll a D10 and add the Discipline rating of the Section Leader and subtract the number of
+remaining command points they have. On a result of 7 or more, you may recover ONE spent Command Point (CP). You may never have more
+CP that are allowed to your Section; this is usually 3 but may be increased by the Improved Command skill.
+IV. MAINTENANCE & VICTORY PHASE
+The Turns of a Flintloque game continue until they either run out, in the case of a straight time limit game which is typically Ten Turns long, or
+Victory is achieved as laid out in your scenario. A Time Limit Game ends at the Maintenance & Victory Phase of the last Turn of the decided
+number of Turns in the game, so normally that would be the final phase of Turn 10. At this point the winner is normally the player who has
+control of the battlefield, or has removed more of the other players miniatures from play than he has lost of his own.
+Scenario based victory will be by achieving the Victory Conditions for your Section(s) at the expense of the other player(s), these will be explained
+in detail in the scenario. In either case you must then consider if your brave soldiers are to continue their adventure in the World of Valon.
+If the Sections of characters from the game are to be used in another game of Flintloque in the future you must consult the ‘between games’ part
+of this book. There you should work out just how many characters have been killed, wounded, promoted etc so that you can update the Section
+Roster. Rules for this are in the 5025 Flintloque book.
+Remember you can link scenarios and skirmishes together for your Section so that they can, over the course of several games, develop and become
+(trust us on this!) much more precious to you.
+Determine if any Section has met Victory conditions. Remove any Action tokens in play.
+
+16 Flintloque 3rd Edition ‘Lite’ Rules
+The Racial Tables for Flintloque
+To play Flintloque Lite you need the Master Racial Stats Tables which can be had as a free PDF like this one from
+Alternative Armies, you will also find it in the same online place you found this PDF as they are stored in the same places
+for free. These tables detail the points costs, troop types, in game statistics and so on for all the mortal races of Valon from
+Ferach Elves to Albion Orcs and more.
+These Tables are to be used in play and also to decide upon and cost out your Sections that you design for the game.
+Black Powder Firelocks for Flintloque
+In play your soldiers need their Flintloques or muskets as they are commonly known. Here are the points costs and
+profiles for the most common of these weapons. Follow their rules in play. A more detailed and well stocked selection of
+firelocks can be found in the 5025 Flintloque book. The Grapeshotte book contains the full armoury of firelocks on Valon.
+Black Powder Firelocks Point Costs
+Firelock Name
+OWN NATION
+ALLIED NATION
+OTHERS
+Standard Musket
+Standard Carbine
+Standard Pistol
+Standard Rifle
+Standard Blunderbuss
+Ferach Elf Musket
+Orc Bessie Musket
+Bakur Rifle
+Ferach Elf Carbine
+Orc Cavalry Carbine
+Ferach Elf Duelling Pistol
+Standard Grenade
+FIRELOCK NOTES
+Each Black Powder weapon has a small section called ‘notes’ in its profile. This notes section contains terms which tell you more about the weapon such as its Reload Step in Turns,
+whither it comes with a Bayonet, any size restrictions for creatures using it and so on. These notes are in effect each time you play so please pay attention to them.
+Reload Step - Long Reload
+This tells you the Reload Step, the number of Turns required to Reload the weapon once fired. Please note that if no Reload Step is given then the default is ONE TURN to reload.
+Bayonet
+This tells you the weapon can be fitted with a Bayonet (if this note is not on the weapon then it cannot use a bayonet) and when purchased for a character then a bayonet is supplied
+with the weapon as part of its Points Cost.
+Own Nation
+This tells you which nation, for example Albion Orcs, create the weapon and therefore pay the lowest cost. Allied Nation such as other members of the Grand Alliance or the Ferach
+Empire pay the Allied Nation points cost and enemies pay a higher cost to gain that weapon. A listing saying ‘ALL’ means its a generic weapon open to alll suitable for the same cost.
+Size
+This tells you the average size required to use the weapon. ‘Elf or Larger’ means creature of Elf, Dark Elf, Orc, Rats, Todoroni etc or larger may use the weapon while ‘Smaller than
+Elf’ means that only creatures that are smaller than average such as Goblin may use the weapon. ‘Any’ means that any creature may use the weapon. A creature that is too small or
+too large may not use the weapon and special restrictions apply to Halflings and Othari, see other publications for these.
+One Handed Weapon
+This tells you that two of these types of weapon can be held, fired and loaded at the same time, or that a melee weapon can also be used.
+Spread Shot
+This means the weapon fires multiple small lead balls with a pull of the trigger. Nominate a target as normal, resolve as normal, however all other figures that are 1cm EITHER SIDE
+of the nominated target that are in range are also rolled for a possible hits. A few weapons have wider corridors of effect, this is noted if different.
+Grenade
+This means the weapon is a single use explosive which is thrown by the figure. It can also be fired from the Grenade Launching Carbine. It has the standard radius of explosion unless
+otherwise noted. May be used by any creature of a Troop Type that is allowed.
+
+17 Flintloque 3rd Edition ‘Lite’ Rules
+STANDARD MUSKET
+Fire with
+1 Right Shift
+Bayonet Size: Elf or Larger Own Nation: ALL
+STANDARD CARBINE
+Fire with
+1 Right Shift
+30/3
+--
+Size: Any Own Nation: ALL
+STANDARD PISTOL
+15cm-30cm
+One Handed weapon Size: Any Own Nation: ALL
+STANDARD RIFLE
+75/5
+35/3
+Long Reload - 2 Turns Size: Elf or Larger Own Nation: ALL
+STANDARD BLUNDERBUSS
+80/7
+30/5
+0-10cm
+10cm-30cm
+30cm-45cm
+Long Reload - 2 Turns, Spread Shot
+Size: Elf or Larger Own Nation: Any
+FERACH ELF MUSKET
+70/4
+Bayonet Size: Elf or Larger Own Nation: Ferach Elf
+ORC BESSIE MUSKET
+60/6
+50/4
+20/3
+Bayonet Size: Elf or Larger Own Nation: Albion Orc
+STANDARD GRENADE
+No Throw
+Throw with 1
+Right Shift
+May Throw
+May Throw
+50/6
+30/6
+0-10cm
+10cm-30cm
+Grenade Own Nation: ALL
+BAKUR RIFLE
+2 - Quick March
+80/6
+40/3
+Long Reload - 2 Turns Bayonet
+Size: Elf or Larger Own Nation: Albion Orc
+
+18 Flintloque 3rd Edition ‘Lite’ Rules
+FERACH ELF CARBINE
+35/3
+Size: Any Own Nation: Ferach Elf
+ORC CAVALRY CARBINE
+55/5
+25/4
+Size: Any Own Nation: Albion Orc
+FERACH ELF DUELLING PISTOL
+35/2
+15cm-30cm
+One Handed Weapon Size: Any Own Nation: Ferach Elf
+Want something for Nothing from Alternative Armies to kick off your Flintloque forces?
+When placing your order for some Flintloque books or miniatures as a wee measure of thanks
+we will send you two free miniatures worth £3.50.
+Once you have placed all the items you want in your shopping cart enter this word as it appears here in the
+voucher / discount code box in the Alternative Armies website checkout screen ' freeloque ' and we will send
+you two miniatures (the Albion Orc and Ferach Elf Officers below) for FREE in your order!
+That's right for FREE, just order ANY OTHER item and put it in your cart along with the ‘ freeloque ’ code.
+FREE FLINTLOQUE MINIATURES

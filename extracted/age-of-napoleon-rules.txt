@@ -1,0 +1,1358 @@
+1
+8
+0
+5
+ 
+-
+ 
+1
+8
+1
+5
+A
+S T R A T E G I C
+B O A R D G A M E
+B Y R E N A U D V E R L A Q U E
+R E V I S E D E D I T I O N
+2
+CONTENTS
+1.0
+Introduction
+2.0
+Components
+3.0
+Diplomatic Situation
+4.0
+Military Organization
+5.0
+General Course of Play
+6.0
+Game Objectives
+7.0
+Diplomacy Phase
+8.0
+Insurrection Phase
+9.0
+Strategy Phase
+10.0
+Reinforcement Phase
+11.0
+Campaign Phase – General
+12.0
+Campaign Phase – Movement
+13.0
+Campaign Phase – Battle
+14.0
+Surrender Phase
+15.0
+Winter Attrition Phase
+16.0
+Victory Check Phase
+1.0 INTRODUCTION
+Age of Napoleon 1805-1815 is a two-player game that is
+based on the rise and fall of one of the greatest military
+commanders in history: Napoleon I, Emperor of the
+French. The goal of the French player is to achieve
+domination of the European continent, while the goal of the
+Coalition player is to force Napoleon’s abdication once and
+for all.
+The game contains three different scenarios, starting in 1805
+(the main scenario), 1809, and 1813. Players familiar with the
+game are able to finish the 1813 scenario in 45 to 60 minutes.
+2.0 COMPONENTS
+Each copy of Age of Napoleon 1805-1815 contains:
+• 1 gameboard
+• 1 rules booklet
+• 55 playing cards
+• 1 scenarios booklet
+• 162 game pieces
+• 2 dice
+• 2 player aid cards
+If any of these parts are missing or damaged, we 
+apologize for the inconvenience and ask that you contact us
+to receive any redistribution parts needed. Please notify:
+Phalanx Games b.v.
+Attn.: Customer Service
+P.O. Box 60230
+NL – 1230 AG Almere
+Email: customerservice@phalanxgames.nl
+2.1 The Gameboard
+The gameboard is a simplified representation of Europe at
+the beginning of the 19th century. Each area is named after a
+region of Europe, which usually is the aggregation of several
+historical regions. Most area names are in their native
+language, while others are in English (see 3.1).
+2.1.1 Map Terms
+2.1.1.1 Two areas are “adjacent” if they share a common
+border; for instance Bohmen and Banat are adjacent.
+2.1.1.2 For the purpose of sea reinforcements (see 10.4),
+movement (see 12.4), or retreats (see 13.4.2), a “coastal” area
+is an area bordering an ocean or sea other than the Black
+Sea. Please also note that Westfalen is not a coastal area.
+2.1.1.3 A “capital” area is an area containing the capital of a
+major country as indicated by the presence of that country’s
+flag.
+2.1.1.4 “Marsh,” “mountain” and “barren” areas are
+specifically marked on the gameboard. Icons are used for
+mountain and marsh areas, while the names of barren areas
+are written in white characters (i.e., all Spanish areas except
+Cataluña; Westgalizien; Ostgalizien; Transylvanien; Ungarn;
+Grenzregion; OstPreußen; Polen; Sverige; and all Russian
+areas). Note that any lake shown on the map is to be ignored
+for gameplay.
+2.1.1.5 A “home” area is an area of the same nationality as a
+corps (see 2.2.1) being considered.
+Examples: All French areas are home areas to French
+corps other than those supplied by French minor allies and
+dominions. Bayern is a home area to both the Lefebvre and
+Wrede corps which are made available to France and
+Österreich, respectively, when controlling Bayern.
+2.1.2 Additional Gameboard Features
+The gameboard includes the Prisoners Box (where
+temporary corps losses are kept until the next reinforcement
+phase); the Battle Box (where corps engaged in battle are
+lined up); and the Battle Losses Box (where corps lost in
+battle are placed while the battle is being resolved).
+The gameboard also includes a game turn record track, a
+campaign round record track, and holding boxes for the
+Radetzky, Britannia and Stein markers.
+Capital Area
+Barren Area
+Mountain Area
+3
+2.2 The Game Pieces
+2.2.1 Corps Playing Pieces
+2.2.1.1 The basic military unit in Age of Napoleon 1805-
+1815 is called a “corps” and represents a senior Napoleonic
+commander, his staff, and about 40,000 troops.
+Design Note: While some countries did not even have a corps
+structure in place, the term “corps” is used here out of convenience.
+2.2.1.2 Corps are color-coded as follows: white for the
+Austrians and their lone minor ally (Bayern); red for the
+British and their four minor allies; blue for the French and
+their ten minor allies; black for the Prussians and their lone
+minor ally (Sachsen); green for the Russians and their lone
+minor ally (Sverige); and yellow for the Spaniards.
+2.2.1.3 Each corps has a “fresh” (front) side and a “spent”
+(back) side, with the latter being marked by a horizontal
+stripe of a different color and the numbers in red. Corps
+become spent as a result of march attrition and combat.
+2.2.1.4 In addition to the name of its commander and its
+country of origin, each corps has three ratings. From left to
+right these are:
+Battle rating (a value from 1 to 8), which measures the
+combat worthiness of the commander and his troops.
+Movement rating (a value from 1 to 4), which determines
+the movement allowance of the corps.
+Seniority rating (a value from 1 to 8), which indicates how
+many corps, including his own, the commander can lead
+when assigned to army leadership.
+2.2.1.5 All corps that are not on the gameboard but are
+available are said to be in the “reserve.” Pieces in the reserve
+are kept on the table near the gameboard.
+2.2.1.6 Several corps have a special availability rule, denoted
+by the presence of a key word in the top right hand corner
+of the playing piece, which must be checked whenever they
+are to be deployed.
+2.2.1.7 A “minor allied” corps is a corps in the color of a
+major country, but labeled with a minor country’s name.
+Such a corps is available to a player only when he controls
+both the relevant major country and the minor country. If a
+player loses control of either, the minor allied corps must
+immediately be removed from the map.
+Example: Charles-John is normally available to the player
+controlling both Russia and Sverige. If that player loses
+control of either Russia or Sverige, Charles-John must be
+removed from the map. As an aside, note that Charles-John
+and Bernadotte can co-exist on the map, even though
+historically they are one and the same.
+2.2.1.8 All other corps require a certain triggering event in
+order to become available, as follows:
+• All five Austrian “Radetzky” corps become available—
+meaning they are placed in the reserve, not deployed—
+immediately after the Radetzky card has been played.
+• All six Prussian “Stein” corps become available
+immediately after the Stein card has been played.
+• All four Spanish “Insurrection” corps become available
+upon Spain becoming an insurgent country (see 8.2).
+• All nine Russian “Invasion” corps become available all at
+once only after Russia has been invaded by at least one
+enemy corps. However, even if Russia has not yet been
+invaded, one “Invasion” corps of the owning player’s
+choice becomes available every time Russia permanently
+loses one corps to march attrition, battle or winter
+attrition.
+2.2.2 Alignment Markers
+Alignment markers are used to keep track of the diplomatic
+alignment of all countries (see 3.2). In the case of a major
+country, the marker must be placed in its capital area only.
+Movement
+Rating
+Seniority
+Rating
+Battle
+Rating
+French
+Dominion
+Neutral
+Country
+French
+Ally
+Coalition 
+Member
+Insurgent
+Country
+4
+2.2.3 Radetzky, Britannia and Stein Markers
+Once the Radetzky, Britannia or Stein events are in effect, put
+the respective markers in the boxes on the gameboard as a
+reminder. These markers do not have any other function.
+2.2.4 Game Turn and Campaign Round Markers
+The game turn marker helps keep track of
+the yearly game turn, from 1805 to 1815.
+The campaign round marker helps keep
+track of the campaign round (see 11.1).
+2.3 The Playing Cards
+2.3.1 The game includes a deck of 55 playing cards that is
+used by both players. Each card tells a player in which
+phase(s) it may be played as an event and lists its effect(s).
+2.3.2 Most of the card texts should be self-explanatory, but
+see 20.0 where some of the more “complex” cards have
+examples and/or notes.
+2.3.3 Instead of being played for their events, cards can also
+be used to rally spent armies (see 10.5), move armies (see
+12.0) or intercept with armies (see 12.6).
+2.3.4 All uses are mutually exclusive and all cards must be
+discarded after being used.
+2.3.5 A player may play any number of cards in any of the
+phases as long as they are played in the appropriate phase(s).
+2.3.6 Play order as specified for the phase is usually
+irrelevant when it comes to playing cards, with major
+exceptions being the Diplomacy Phase and Battle
+Resolution.
+2.3.7 If there is any need to know who played a card for
+event first, the French player has priority (i.e., chooses who
+played first) in 1805-1810 and the Coalition player has
+priority in 1811-1815.
+2.3.8 Unless specifically prohibited, any card can be played
+by either side. If the text of a card says that both players may
+do something, only the player who is actually playing the
+card must follow its instructions.
+Example: The French player plays the Talleyrand card.
+Only he may follow its instructions (i.e., convert one
+Coalition member into a neutral country or convert one
+neutral country into a French ally); the Coalition player may
+do nothing.
+2.3.9 No card is ever removed from the game after it is
+played; it is always and immediately placed face up in the
+discard pile after being shown to the opponent.
+2.3.10 Note that some cards may be played only once as
+events, as specified by their text.
+2.3.11 Players can look through the discard pile at will.
+2.3.12 Special Rule: Whenever Britannia, Continental System,
+Napoleonic Dynasty, Radetzky, Stein or Territorial Concessions is
+discarded by a player, it can be immediately picked up by the
+other player on the condition that the latter discards one card
+from his hand. All such cards are identified with a red title.
+2.3.13 Special Rule: Britannia, a card that allows the
+Coalition to move by sea and is critical to moving British
+corps out of Britain, immediately comes into effect if
+neither Österreich nor Preußen nor Russia is a Coalition
+member.
+2.4 The Player Aid Cards
+Age of Napoleon 1805-1815 includes two Player Aid Cards.
+They list the most important charts and tables and should be
+kept handy by the players.
+Note that the Ref(ormed) Preußen and Österreich numbers
+on the various tables apply only once Stein and Radetzky,
+respectively, are in effect.
+2.5 The Scenarios and More Booklet
+The Scenarios and More Booklet includes the set-up for
+three scenarios, optional rules, parts of a sample game of
+Age of Napoleon 1805-1815, a manifest of the playing
+cards, and design notes.
+2.6 The Dice
+The game contains two dice, one for each player.
+Several game functions are resolved by rolling a die.
+2.7 Abbreviations
+The following abbreviations are used throughout the rules:
+BR
+Battle Rating
+MR
+Movement Rating
+CM Coalition Member
+NC
+Neutral Country
+FA
+French Ally
+SR
+Seniority Rating
+FD
+French Dominion
+TBM Tie Breaker Modifier
+IC
+Insurgent Country
+Britannia
+Stein
+Radetzky
+5
+3.0 DIPLOMATIC SITUATION
+3.1 Europe in the Age of Napoleon
+3.1.1 Major Countries
+There are six major countries in Age of Napoleon 1805-
+1815: Britain, France, Österreich (Austria), Preußen (Prussia),
+Russia and Spain.
+Each major country, with the exception of Britain,
+comprises 6 or more areas.
+3.1.2 Minor Countries
+There are 13 minor countries in 1805: Bayern (Bavaria),
+Danmark (Denmark), Italia (Italy), Hannover, Holland,
+Napoli (Naples), Lo stato della Chiesa (Papal States),
+Pommern (Pommerania), Portugal, Sverige (Sweden),
+Schweiz (Switzerland)., Westfalen (Westphalia) and
+Württemberg.
+Each minor country comprises one area only.
+3.1.3 Detachable Areas
+3.1.3.1 In the 1805 set-up, Tirol (Tyrol) and Dalmatien
+(Dalmatia) are part of Austria, while Polen (Poland/Grand
+Duchy of Warsaw) and Sachsen (Saxony) are part of
+Preußen. These four areas may be detached and turned into
+minor countries with the status of French dominions 
+(see 3.7) when the French player plays the Territorial
+Concessions card.
+Design Note: Historically, Sachsen was not part of Preußen, only
+under its influence; but it was simpler to make Sachsen a detachable
+area of Preußen. It is also for simplicity’s sake that Polen is
+comprised of one detachable Prussian area only instead of including
+Westgalizien.
+3.1.3.2 A detached area is usually returned to its original
+ruler—i.e., Tirol or Dalmatien to Österreich; Polen or
+Sachsen to Preußen–when re-conquered (see 14.1).
+3.1.3.3 While detached, Tirol always becomes insurgent 
+(see 3.4) whenever Österreich becomes a Coalition member
+(see 3.3) or an insurgent country itself.
+3.2 Diplomatic Alignment – General
+3.2.1 Diplomatic alignment, not occupation by military
+forces, indicates which player controls (or not) each country.
+3.2.2 There are five types of diplomatic alignments:
+• Coalition member (Coalition control)
+• Insurgent country (limited Coalition control)
+• Neutral country (uncontrolled)
+• French ally (French control)
+• French dominion (French control)
+3.2.3 There are several ways to change a country’s diplomatic
+alignment. The most common are summarized here:
+3.2.3.1 Diplomatic Action (see 7.0): Some cards (Napoleon
+I, Talleyrand, Pitt, English Gold, Metternich and Alexander I)
+allow the players to change the diplomatic alignment of
+neutral or enemy countries during the Diplomatic Phase or
+Peace Talks. Note that Britain, France, French dominions,
+occupied major countries (but see 3.5.5), insurgent countries
+and Coalition members that were previously insurgent
+countries are immune to enemy diplomacy. Österreich,
+Preußen and Russia can only be turned into French allies if
+they are occupied by French-controlled forces.
+3.2.3.2 Insurrection (see 8.0): The Coalition player can
+turn a French dominion or French-occupied neutral country,
+but not a French ally, into an insurgent country by playing an
+Insurrection card during the Insurrection Phase, but if the
+insurrection fails the country becomes a French dominion.
+3.2.3.3 Military Conquest and Surrender (see 14.0): By
+occupying an enemy country’s capital area—or the entire
+country in the case of a minor country—and meeting some
+other requirements, a player can force that country to
+surrender at the end of the Campaign Phase. Depending on
+the situation, the conquered country will become neutral, a
+Coalition member, a French ally or a French dominion. Note
+that Britain can never be conquered and that the surrender
+of France results in a decisive victory for the Coalition
+player.
+3.2.4 Diplomatic alignment always applies to a whole
+country; therefore the different areas of a major country can
+never have different diplomatic alignments, even though
+some may be occupied by enemy armies.
+Note: This rule does not apply to detached areas, which
+always have a different diplomatic alignment than the major
+country from which they were detached.
+3.2.5 Diplomatic alignment affects victory conditions 
+(see 6.0), card hand size (see 9.0) and corps availability 
+(see 4.0 and 10.0).
+3.3 Coalition Members (CMs)
+3.3.1 In all three scenarios, some countries start the game as
+Coalition members.
+3.3.2 During the game, the Coalition player can turn a
+country into a Coalition member through diplomacy, a
+successful insurrection or military conquest.
+3.3.3 The French player can only change the alignment of
+Coalition members through diplomacy or military conquest.
+3.3.4 Previously insurgent Coalition members are immune
+to French diplomacy (see 3.4.4) and are subject to special
+surrender rules (see 14.2.1).
+6
+3.4 Insurgent Countries (ICs)
+3.4.1 In the 1809 and 1813 scenarios, some countries start
+the game as insurgent countries.
+3.4.2 During the game, the Coalition player can turn a
+French dominion or a neutral country occupied by French-
+controlled troops into an insurgent country by playing an
+Insurrection card.
+3.4.3 Insurgent corps can only fight to free their own
+countries from French rule (see 10.3).
+3.4.4 An insurgent country is always immune to French
+diplomacy and cannot be forced to surrender during the
+Campaign Phase. However, the French player may convert
+an insurgent country into a French dominion by meeting the
+conditions necessary to defeat an insurrection (see 8.1).
+3.4.5 An insurgent country may become a Coalition member
+in the Insurrection Phase (see 8.2).
+3.5 Neutral Countries (NCs)
+3.5.1 In the 1805 and 1809 scenarios, some countries start
+the game as neutral countries.
+3.5.2 A neutral country is not controlled by either side and
+does not provide any corps, cards or even free passage to
+either side (see 3.5.4).
+3.5.3 During the game, either side can render a country
+neutral through diplomacy or military conquest.
+3.5.4 Violating a country’s neutrality (see 12.7) always results
+in its joining the other side and changing its diplomatic
+alignment from neutral country to Coalition member or
+French ally, as the case may be.
+Note: Special neutrality violation rules apply to a neutral
+major country whose capital area remains occupied by the
+side to which it surrendered last (see 14.2.4).
+3.5.5 An occupied neutral country is always immune to the
+non-occupying side’s diplomacy; however, Metternich and
+Alexander I can still be played by the Coalition player to turn
+Österreich and Russia, respectively, into Coalition members.
+3.5.6 A French-occupied neutral country can be subject to
+insurrection (see 8.3).
+3.6 French Allies (FAs)
+3.6.1 In all three scenarios, some countries start the game as
+French allies.
+3.6.2 During the game, the French player can turn a country
+into a French ally through diplomacy or military conquest.
+3.6.3 The Coalition player can change the diplomatic
+alignment of a French ally through diplomacy or military
+conquest, but cannot play an Insurrection card against it.
+3.7 French Dominions (FDs)
+3.7.1 In all three scenarios, some countries start the game as
+French dominions.
+3.7.2 During the game, a French dominion can be created
+through card play (see Napoleonic Dynasty, Joseph and Territorial
+Concessions cards for specific circumstances) or whenever the
+French player defeats an insurrection (see 8.1) or forces the
+surrender of a previously insurgent Coalition member (see
+14.0).
+3.7.3 A French dominion is always immune to Coalition
+diplomacy. However, the Coalition player may use military
+conquest or an insurrection to modify its alignment.
+3.8 Britain
+3.8.1 Throughout the game, Britain is always a Coalition
+member. It is immune to French diplomacy and, thanks to
+the Royal Navy, it can never be conquered.
+3.8.2 Remember that Britannia immediately comes into
+effect if neither Österreich nor Preußen nor Russia is a
+Coalition member.
+3.9 France
+Throughout the game, France is always under French control
+and is immune to Coalition diplomacy and insurrection
+attempts. However, unlike Britain, it can be conquered, and
+when it surrenders, the game is over.
+4.0 MILITARY ORGANIZATION
+4.1 Armies
+4.1.1 All friendly corps, including corps from different
+countries, occupying the same area or moving together must
+be stacked together and form an “army.”
+4.1.2 The composition of an army stack may only be
+reviewed by its player, except when a battle takes place, in
+which case all “engaged” (see 13.2) corps must be divulged
+to the other player.
+4.1.3 There is no limit to the number of corps that may
+occupy an area at a time; however, the number of corps that
+may be moved or engaged in a battle together can never
+exceed the seniority rating of their designated army leader
+(see 4.2). Excess corps must be left behind when moving or
+left unengaged when fighting.
+4.2 Army Leaders
+4.2.1 In every army, the army leader is at all times the
+commander with the highest SR in the area.
+4.2.2 If there is a tie in SR between two or more
+commanders, their player may choose the army leader.
+4.2.3 The army leader’s own corps must always be placed on
+top of the stack.
+7
+5.0 GENERAL COURSE OF PLAY
+Each game of Age of Napoleon, 1805-1815 proceeds
+through a series of game turns that follow the Sequence of
+Play described below.
+Diplomacy Phase
+Play cards to change the diplomatic alignment of enemy
+or neutral countries or to counter the other player’s
+diplomatic actions.
+Insurrection Phase
+Determine the outcome of existing insurrections and—
+Coalition player only—play cards to trigger new
+insurrections.
+Strategy Phase
+Discard any remaining cards, reshuffle the card deck if
+required and draw new cards.
+Reinforcement Phase
+Deploy reinforcements, rally spent corps and repatriate
+prisoners.
+Campaign Phase
+Move armies and fight battles.
+Surrender Phase
+Force the surrender of enemy countries.
+Winter Attrition Phase
+Determine and remove winter attrition losses, if any.
+Victory Check Phase
+Determine whether either side has won.
+6.0 GAME OBJECTIVES
+6.1 French Victory Conditions
+6.1.1 Marginal French Victory
+France controls or occupies (a) all countries adjacent to
+France and (b) either Russia or Österreich while neither
+Russia nor Österreich is a Coalition member, an insurgent
+country, or a neutral country occupied by the Coalition. In
+addition, either French-controlled corps invaded Russia prior
+to the current game turn, or the current game turn is 1811 or
+later.
+6.1.2 Decisive French Victory
+France controls or occupies Russia, Österreich, Preußen and
+all countries adjacent to France. In addition, no country
+except Britain is a Coalition member, an insurgent country ,
+or a neutral country occupied by the Coalition.
+6.2 Coalition Victory Conditions
+6.2.1 Marginal Coalition Victory
+France controls France and no more than three minor
+countries.
+6.2.2 Decisive Coalition Victory
+France surrenders or Napoléon’s corps is permanently
+eliminated (see 12.3.4).
+6.3 Tie-Breaker
+If at the end of the 1815 game turn neither side has met the
+victory conditions described above, the French player wins.
+7.0 DIPLOMACY PHASE
+During the Diplomacy Phase each player may play certain
+event cards to change the diplomatic alignment of target
+countries. The rules described herein also apply when the
+Peace Talks card is played during the Campaign Phase.
+7.1 Order of Play
+7.1.1 The players must take turns targeting countries. The
+French player decides whether to play first or second in
+1806-1810, and the Coalition player makes that decision in
+1811-1815.
+7.1.2 If either player chooses not to play a card during his
+turn, that player may not play any more cards during the
+ongoing Diplomacy Phase.
+7.2 Diplomatic Actions
+7.2.1 Diplomacy Cards
+Each of the following “diplomacy” cards allows one player
+or the other to change the diplomatic alignment of a
+country: Napoleon I, Talleyrand, English Gold, Pitt, Metternich
+and Alexander I.
+7.2.2 Countries Immune to Coalition Diplomacy
+• France
+• Any French dominion
+• Any neutral country occupied by French-controlled corps,
+except that Metternich and Alexander I can still be played to
+turn Österreich and Russia, respectively, into Coalition
+members.
+7.2.3 Countries Immune to French Diplomacy
+• Britain
+• Any country currently or previously insurgent
+• Any country occupied by Coalition corps
+In addition, Österreich, Preußen or Russia can only be
+turned into French allies when their respective capital areas
+are occupied by French-controlled corps
+7.2.4 Procedure
+7.2.4.1 The player whose turn it is to play a diplomacy card
+must show the card to the other player and declare which
+country he targets.
+7
+8
+7.2.4.2 The other player may immediately play a diplomacy
+card of his own to counter the first player and prevent the
+change in diplomatic alignment.
+7.2.4.3 If the other player does not counter, the change in
+diplomatic alignment takes place and cannot be reversed in
+the same phase (i.e., the same country cannot be targeted by
+the other player).
+Example: The French player plays Napoleon I to turn
+Russia into a neutral country from her present alignment as
+a Coalition member. Immediately, the Coalition player plays
+Pitt on Russia to counter the French diplomatic action.
+Therefore, Russia does not become a neutral country.
+7.2.5 French Dominions
+Note that the French player cannot play any of the cards
+listed in 7.2.1 to create French dominions. However,
+Napoleonic Dynasty or Joseph may also be played in the
+Diplomacy Phase to such effect.
+7.3 Consequences
+7.3.1 Alignment markers are changed as needed.
+7.3.2 Whenever a country, whether minor or major,
+becomes neutral as a result of a diplomatic action:
+• all of its corps must be removed from the gameboard.
+• all foreign corps occupying its areas are kept in place, but
+must mind the neutrality violation rule henceforth (see
+12.7).
+7.3.3 Whenever a country stops being neutral and joins one
+side or the other as a result of a diplomatic action, it may
+immediately deploy home corps as per the reinforcement
+rules (see 10.0), but all foreign corps occupying its areas are
+kept in place.
+8. INSURRECTION PHASE
+First, the players determine which ongoing insurrections are
+failed or successful. Then, the Coalition player may trigger
+new insurrections.
+8.1 Failed Insurrection
+8.1.1 Any insurgent country changes to French dominion
+alignment if (a) more than half of its areas, including its
+capital area, are occupied by French-controlled forces and (b)
+it has no insurgent corps left on the map.
+8.1.2 Keep the country’s insurrection marker in place (as a
+reminder that it used to be insurgent), but place a French
+dominion marker on top of it.
+8.2 Successful Insurrection
+8.2.1 Any insurgent country becomes a Coalition member if
+there are no French-controlled corps left in any of its areas.
+8.2.2 Keep the country’s insurrection marker in place (as a
+reminder that it used to be insurgent), but place a Coalition
+member marker on top of it.
+8.3 New Insurrection
+8.3.1 By playing an Insurrection card, the Coalition player may
+trigger an insurrection in any one French dominion or any
+one neutral country whose capital area is occupied by
+French-controlled corps (see 14.2.4).
+Note: The Coalition player is allowed to target a country
+that just had a failed insurrection.
+8.3.2 The Coalition player may trigger as many insurrections
+as he has Insurrection cards. This means that if he has both
+Insurrection cards and both Napoleonica cards, he could trigger
+as many as four insurrections in one phase!
+8.3.3 As mentioned previously, if Tirol is a French
+dominion (after being detached from Österreich by playing
+the Territorial Concessions card), it automatically and
+immediately becomes an insurgent country whenever
+Österreich becomes a Coalition member or an insurgent
+country itself. Thereafter, the same rules apply to Tirol as to
+any insurgent or previously insurgent country, except that if
+Tirol is re-attached to Österreich, its insurrection marker
+must be removed (as it is no longer a minor country).
+8.3.4 Place an insurrection marker on any newly-insurgent
+country and remove its prior alignment marker.
+8.3.5 If presently deployed, remove the corps of a now-
+insurgent minor country from the gameboard.
+8.3.6 Remove any and all corps of a now-insurgent major
+country that are deployed outside their home areas from the
+gameboard.
+8.3.7 Corps of a now-insurgent major country that are
+already deployed in their home areas stay where they are. If
+they share the same area as French-controlled corps, a battle
+must immediately take place as if the French-controlled
+corps had been intercepted during the Campaign Phase 
+(see 12.6).
+8.3.8 All countries that insurrect against French rule become
+immune to French diplomacy for the remainder of the game.
+As a reminder, insurrection markers are never removed once
+placed, regardless of subsequent changes in diplomatic
+alignment!
+9.0 STRATEGY PHASE
+During the Strategy Phase, each player must discard all
+remaining cards and receive between 6 and 10 new cards to
+refill his hand.
+9.1 Each player may first play any and all Strategy Phase or
+Anytime cards if he has left before discarding his remaining
+cards. The French player discards first in 1805-1810. The
+Coalition player discards first in 1811-15.
+9.2 If a major country surrendered in the prior game turn,
+the card deck must be reshuffled with the discard pile.
+9
+9.3 Each player must then draw a number of new cards that
+is based on the countries he controls (see Strategy Chart of
+Player Aid Card 1), but can never be less than 6 or more than
+10. The French player draws first in 1805-1810. The
+Coalition player draws first in 1811-15.
+Example: Britain, Russia and 4 minor countries are
+Coalition members, and Spain is an insurgent country.
+Based on the countries in his control, the Coalition player is
+entitled to 9 cards (4 for Britain + 3 for Russia + 1 for
+Spain + 1 for the minor countries).
+9.4 If the deck runs out of cards while drawing, shuffle the
+discard pile to make a new deck.
+9.5 Newly drawn strategy cards may be immediately played!
+10.0 REINFORCEMENT PHASE
+During the Reinforcement Phase, the players select available
+corps from the reserve and deploy them on the gameboard
+as reinforcements. The players can also rally spent corps and
+repatriate prisoners of war.
+10.1 Order of Play
+The French player decides whether to play first or second in
+1806-1810, and the Coalition player makes that decision in
+1811-1815.
+10.2 Reinforcements
+10.2.1 Reinforcements are provided by the countries under
+your control.
+10.2.2 Reinforcements are subject to two limits as shown on
+the Reinforcement Chart of Player Aid Card 1.
+• The Mobilization column indicates how many corps each
+listed country can have on the gameboard (not counting
+the Prisoners Box) at any time.
+• The Deployment column indicates how many corps each
+listed country can deploy as reinforcements each
+Reinforcement Phase, provided it does not exceed its
+own mobilization limit.
+Design Note: The limits on French deployment and mobilization of
+major allied corps simulate both Napoleon’s lack of trust towards
+these allies and the latter’s lack of enthusiasm for providing cannon
+fodder for Napoleon’s campaigns.
+10.2.3 The Austrian, Prussian and Russian minor allied
+corps (i.e., Wrede, Sachsen-Weimar and Charles-John,
+respectively) count against the deployment and mobilization
+limits of Österreich, Preußen and Russia, respectively, as if
+they were home Austrian, Russian and Prussian corps.
+However, for France and Britain, the mobilization and
+deployment of minor allied corps are subject to separate
+limits.
+Example: At the beginning of the reinforcement phase,
+France has 5 home corps and 1 minor allied corps on the
+gameboard and it controls a total of 12 minor allies and
+dominions. France can place up to 5 additional home corps
+plus up to 4 additional minor allied corps (because 12/3 =
+4) and still respect her mobilization limit of 10 French
+home corps and 6 minor allied corps (because 12/2 = 6).
+10.2.4 Reinforcements may only come from the reserve of
+available corps and are chosen by the player deploying them.
+10.2.5 All reinforcements are fresh, including corps that
+were spent when previously removed from the map.
+10.3 Insurgent Corps
+10.3.1 An insurgent corps can never attack outside of its
+home country and can never move, withdraw or retreat more
+than one area away from its home country.
+Note #1: Detached areas are still considered home areas
+for this purpose, e.g., in the 1813 scenario, insurgent
+Prussian corps can attack in Sachsen even though Sachsen
+is detached from Preußen.
+Note #2: An insurgent corps is allowed to move into an
+area adjacent to its home country even if it finds itself to
+be the attacker because of an interception by the other side.
+10.3.2 If an insurgent corps would have to retreat more than
+one area away from its home country, it must be placed the
+Prisoners Box instead.
+10.4 Deployment
+10.4.1 All reinforcements must be deployed in home areas
+free of enemy corps. If no such area is available for a given
+reinforcement, it may not be deployed.
+Example: Bagration can only be deployed in an enemy-
+free Russian area, or Charles-John can only be deployed in
+an enemy-free Sverige (assuming both Russia and Sverige
+are under Coalition control).
+Exception #1: Reinforcements deployed immediately after
+a neutrality violation (see 12.7) may be deployed in home
+areas occupied by enemy corps.
+Exception #2: French home corps may also be deployed
+in enemy-free, insurgent areas or f\French dominions that
+are adjacent to an enemy-free French area.
+Exception #3: Provided Britannia is already in effect, as
+indicated by the presence of the Britannia marker on the
+board, the Coalition player may deploy one Coalition corps
+in a coastal area that is both enemy-free and friendly-
+controlled. It does not have to be a home area.
+10.4.2 Reinforcements may be deployed with existing armies
+or in empty areas to create new armies. The owning player
+must determine the army leader of any newly created or
+reinforced army .
+10
+10.5 Rallying Spent Corps
+A player may discard any number of event cards from his
+hand to “unspend” his spent corps, i.e., flip them back to
+their “fresh” (front) side, at the rate of one card per army,
+regardless of the number of spent corps in the army.
+10.6 Repatriating Prisoners
+At the end of the Reinforcement Phase, remove all corps
+present in the Prisoners Box.
+10.7 No Free Exchanges
+A player is not allowed to exchange corps in the reserve with
+corps on the gameboard at any time during the game except
+whenVeterans, Republicans & Royalists or Out of Favor cards is
+played.
+11.0 CAMPAIGN PHASE – GENERAL
+During each Campaign Phase, a player may move his armies
+and have them engage in battle against enemy armies.
+11.1 Campaign Rounds
+11.1.1 The Campaign Phase lasts six bi-monthly campaign
+rounds (except in the first game turn of each scenario).
+11.1.2 The fifth and sixth campaign rounds are the “winter”
+campaign rounds; they are shown in a different background
+color on the campaign round track.
+Design Note: The 2nd winter campaign round actually corresponds
+to January and February of the following year.
+11.1.3 Move the campaign round marker on the campaign
+round track in order to keep track of the ongoing campaign
+round.
+11.2 Order of Play
+11.2.1 The French player decides whether to move first or
+second in 1805-1810, and the Coalition player makes that
+decision in 1811-1815.
+11.2.2 Once the player moving first has been determined,
+play continues for the duration of that Campaign Phase,
+with the same player moving first and the other player
+moving last in each campaign round.
+11.3 Peace Talks
+The Peace Talks card, which must be played at the very
+beginning of the campaign round it will first affect, may
+shorten a Campaign Phase by up to two campaign rounds,
+but its effect may not carry over the end of a game turn.
+11.4 Winter Quarters
+The Winter Quarters card, which must be played at the very
+beginning of the campaign round it will first affect, may
+shorten the Campaign Phase by cancelling the second or
+both winter campaign rounds.
+12.0 CAMPAIGN PHASE – MOVEMENT
+12.1 Movement – General Principles
+12.1.1 Moving an army is never mandatory.
+Design Note: It is unlikely that you will move an army every
+round because it costs cards (see below) and/or because the losses that
+your armies incur while marching or fighting might force you to pause
+and wait until the following year.
+12.1.2 The moving player may normally move only one army
+per campaign round.
+Exception: By playing a Major Campaign card, up to three
+armies may be moved per campaign round, although no
+corps can be moved more than once. A player is not
+allowed to play a Major Campaign card after having already
+moved one army in the current campaign round.
+12.1.3 The moving player may move an entire army or
+detach corps to form a new army and move the latter.
+12.1.4 The moving player may never move any army with
+more corps than the SR of its designated army leader.
+Excess corps, if any, must be left in the area of departure
+prior to any move.
+12.1.5 Any moving army may pick up or drop off friendly
+corps along the way provided it always keeps the same army
+leader and its total move never exceeds the movement
+allowance (see 12.2.2) of its army leader.
+Note: The fact that an army cannot pick up a corps with a
+higher SR and still move does not prevent said army from
+moving through an area where there is a friendly corps with
+a higher SR.
+12.1.6 The other player’s armies may have the opportunity to
+“withdraw” in front of (see 12.5), or “intercept” (see 12.6),
+the moving player’s armies.
+12.1.7 Every army move or interception requires the moving
+player to discard one card. No discard is necessary to
+withdraw before battle or retreat.
+Exception #1: Each player’s first move or interception of
+the Campaign Phase, regardless of the campaign round in
+which it takes place, does not require a discard.
+Exception #2: The play of a Forced March card entitles a
+player to move or intercept without discarding a card (other
+than the played Forced March card).
+Note: When playing a Major Campaign card, the moving
+player must discard one card for each army that he wants to
+move (but Exception #1 may still apply).
+12.1.8 The moving player must stop moving his army as
+soon as the latter has exhausted its MA or entered an enemy-
+occupied area.
+1111
+12.2 Land Movement
+12.2.1 All armies may move by land. Land movement is
+conducted between adjacent areas.
+12.2.2 An army’s movement allowance is the maximum
+number of areas it may successively enter during its land
+movement. It is equal to its army leader’s MR, adjusted as
+follows:
+-1 .......... in winter
+-1 .......... if the move is meant to attack an enemy army 
+in battle (even if the enemy withdraws)
+-1 .......... if subject to a Mud card
++1 .......... if playing a Forced March card
+All modifiers are cumulative.
+Note: Sometimes a battle takes place because of an
+interception or because an enemy army is deployed in the
+area entered by the active player’s army in response to a
+neutrality violation. In such a case, the moving army’s
+movement allowance is not penalized for attacking.
+12.2.3 If, for any reason, an army does not use all of its MA
+before it stops moving, it loses any remaining MA.
+12.2.4 Special Rule: French-controlled armies may only
+land-move between Sverige and Danmark if neither
+Danmark nor Sverige are Coalition members. Coalition
+armies may always land-move between Sverige and
+Danmark.
+12.2.5 Special Rule: Land movement is possible between
+Sverige and Lithuania during the winter campaign rounds.
+The Baltic Sea area counts as one area.
+12.3 March Attrition
+12.3.1 Each corps that enters a third or fourth area during
+the same move, or enters a mountain or marsh area, or
+enters any area during a winter campaign round, or enters
+any area during a Forced March is subject to march attrition
+upon each occurence and prior to the resolution of any
+withdrawal, interception or battle.
+12.3.2 For each cause of march attrition, the owning player
+must roll one die and cross-reference the result with the
+number of spent corps subject to march attrition on the
+March Attrition Table (see Player Aid 2). This determines the
+number of spent corps lost to march attrition.
+12.3.3 A fresh corps can never be lost to march attrition and
+is ignored when rolling on the March Attrition Table, but
+must become spent instead, which will immediately reduce
+its remaining movement allowance. However, if a fresh
+corps is subject to two or more causes of march attrition in
+the same area, it only avoids one die roll by becoming spent
+and must be taken into account when rolling for the other
+cause(s) of march attrition.
+Example: One fresh corps and one spent corps enter a
+mountain area in winter while force-marching, making
+them subject to three (!) causes of march attrition. To
+account for the first cause, the owning player must roll one
+die to check whether his spent corps is eliminated while his
+fresh corps must become spent. Assuming the corps that
+was already spent survives, the owning player must now roll
+another die for his two corps, as they are both spent now.
+Then he must roll another die for any surviving corps.
+12.3.4 March attrition losses are “permanent” if they occur
+in a winter campaign round, meaning the lost corps become
+unavailable for the remainder of the game (but see Veterans
+card). Otherwise, they are “temporary,” meaning the lost
+corps are simply placed in the Prisoners Box. The owning
+player chooses his losses.
+Design Note: March attrition can be quite harsh (and require a lot
+of die rolls) when moving in winter and/or force-marching, so do the
+latter at your troops’s own risk!
+12.4 Sea Movement
+12.4.1 Once Britannia is in effect, the Coalition player may
+move one Coalition corps of any nationality per campaign
+round from one coastal area to another.
+12.4.2 The arrival area needs not be enemy-free or friendly-
+controlled, but any corps attacking at the end of a sea move
+will be penalized in battle (see 13.3.2).
+12.4.3 Special Rule: Sea movement in and out of, or
+within, the Baltic Sea (all areas from Danmark to Livonia) is
+prohibited during winter campaign rounds. However, it is
+possible to move from Danmark to a non-Baltic coastal area.
+12.4.4 The French player may never move any corps by sea.
+12.5 Withdrawal
+12.5.1 If the moving army enters an area occupied by an
+enemy army, the non-moving player may opt to withdraw
+any or all of his corps to an adjacent, enemy-free area (other
+than the area from which the enemy army is coming) and
+avoid battle.
+12.5.2 For a withdrawal to happen, the MR of the non-
+moving army leader must be greater than or equal to the MR
+of the moving army’s leader. Any leader’s MR can be
+improved by the play of a Forced March card for this purpose.
+12.5.3 If Britannia is in effect, one Coalition corps of any
+nationality per campaign round can withdraw by sea to an
+enemy-free home area.
+12.5.4 An army is not allowed to withdraw from a battle
+when already engaged by a moving army. Thus, if the
+moving player plays a Major Campaign card, the non-moving
+player may not wait and see whether more than one army
+move against his before deciding whether to withdraw.
+12.5.5 If the other player leaves one or more corps behind
+as a rearguard when he withdraws, the moving army must
+stop moving and fight a battle against the rearguard. If the
+other player leaves no corps behind, the moving army may
+stop, move after the withdrawing corps, or move to another
+area, provided, in the last two cases, that it has not yet
+exhausted its MA.
+12
+12.5.6 If the moving army follows the withdrawing corps,
+any or all of the latter may again opt to withdraw, as long as
+they do not end up moving more than their MA would
+normally permit.
+Example: An army led by a commander with a MR of 3
+could not withdraw more than thrice in a non-winter
+campaign round or twice in a winter campaign round.
+12.5.7 Any army that withdraws into a mountain or marsh
+area is subject to march attrition after completing the
+withdrawal move.
+12.6 Interception
+12.6.1 If the moving army enters an area (the “interception
+area”) that: (a) contains no friendly army and, (b) is adjacent
+to an area occupied by an enemy army, the player controlling
+the enemy army may opt to move any or all of its corps into
+the interception area to force a battle with the moving army.
+12.6.2 For an interception to happen, the MR of the
+intercepting army leader must be greater than or equal to the
+MR of the moving army’s leader. Any leader’s MR can be
+improved by the play of a Forced March card for this purpose.
+Note: The intercepting army leader is the leader of the
+enemy army occupying the area adjacent to the interception
+area, not the leader of the army actually sent to intercept.
+Example: If Kutuzov (MR=3; SR=6) and Bagration
+(MR=4; SR=4) are in the same area, it is Kutuzov’s MR
+that counts and not Bagration’s even if the intercepting
+player only wants to move Bagration in the interception
+area.
+12.6.3 The intercepting player must discard one card of his
+choice unless it is his first interception of the turn and he
+has moved no army in the turn so far.
+12.6.4 The intercepting player chooses whether to attack or
+defend in the battle that results from the interception.
+Exception: If a player intercepts into an area where he
+already has another army that is about to be attacked, he is
+automatically the defender.
+12.6.5 The same army in the same interception area may be
+intercepted with any number of enemy armies that are in a
+position to intercept, provided (a) one card is discarded, as
+required, for each intercepting army and (b) all intercepting
+armies either defend or attack together as one army.
+12.6.6 The moving player may in turn counter-intercept an
+intercepting army in the same interception area if all other
+requirements are met. However, the original intercepting
+player stills decides which side attacks and which side
+defends unless he must defend as per the 12.6.4 exception.
+Example: A French army (MR = 3) moves into Lithuania
+from Ostpreußen and is intercepted by a Russian army (MR
+= 4) in Livonia. The French player can reinforce his
+intercepted army by counter-intercepting with another of
+his armies (MR = 4) occupying Polen. However, it is the
+Coalition player who decides whether the Russians are
+attacking or defending in the ensuing battle.
+12.6.7 An intercepted army cannot withdraw to avoid battle.
+12.6.8 Any army that intercepts into a mountain or marsh
+area is subject to march attrition after determining whether
+the interception is possible or not, but prior to fighting the
+interception battle.
+Example: The French player wants to intercept John
+(MR=3) in Tirol with Marmont (who is fresh) coming from
+Dalmatien. Even though Tirol is a mountain area, the
+French player uses Marmont’s fresh MR of 3 to determine
+whether he can intercept John. Only then, prior to engaging
+in battle, does Marmont become spent due to march
+attrition.
+12.6.9 An army that intercepts an enemy army as the latter
+enters a neutral country is considered to be violating that
+country’s neutrality (see 12.7) unless (i) that country is a
+major country, (ii) the enemy army is intercepted upon
+entering its capital area, and (iii) the intercepting player
+chooses to attack.
+12.7 Neutrality Violation
+12.7.1 A neutrality violation occurs immediately when an
+army:
+• drops off one or more corps in a neutral country, or
+• completes its move, interception, withdrawal or retreat in
+a neutral country, or
+• enters the capital area of a neutral major country.
+Exception: There is no neutrality violation if any of the
+above actions is completed by one side in a neutral country
+that it occupies (see 14.2.4).
+Example: If France occupies a neutral Preußen and
+Napoleon is forced to retreat from Minsk to Polen, there is
+no violation. However, if Kutuzov follows him up in Polen,
+Preußen’s neutrality is violated and Preußen becomes a
+French ally.
+Note: There is no neutrality violation when foreign corps
+are present in a country when it turns neutral as long as
+these corps do not subsequently commit any of the three
+types of violations described under 12.7.1.
+Example: French corps are in Magdeberg when Preußen,
+a French ally to that point, becomes neutral due to a
+successful diplomatic action by the Coalition player. As
+long as the French corps stay where they are, there is no
+neutrality violation. In fact, Preußen becomes an occupied
+neutral. If the French corps then move and leave Preußen
+at once, there is no neutrality violation either. If the French
+corps are attacked or intercepted by Coalition corps while
+still in Preußen, Preußen’s neutrality is violated by the
+Coalition and Preußen becomes a French ally.
+12.7.2 A country whose neutrality is violated immediately
+abandons its neutrality by joining the other side, as either a
+French ally or Coalition member, as applicable, and may
+immediately deploy its corps per the reinforcement rules (but
+see 12.7.3 below).
+13
+13
+Note: These corps deploy after the neutrality violation has
+occurred; which means that if the neutrality violation is
+caused by an army dropping off corps, this army must
+move to an adjacent area before the corps of the violated
+country can be deployed.
+12.7.3 The new corps may be deployed in any area(s) of the
+violated country, including those now occupied by the
+moving player’s corps. If this is the case, a battle must
+immediately take place as if the corps of the violated
+country had intercepted.
+Note: This holds true for minor countries where minor
+allied commands are available.
+Example: If the French violate Portugal’s neutrality,
+causing Portugal to become a Coalition member, the
+Coalition player can deploy the Anglo-Portuguese corps
+(Beresford), provided there are not already two British
+minor allied corps on the map (which is the mobilization
+limit for British minor allied corps).
+13.0 CAMPAIGN PHASE – BATTLE
+13.1 Battle – General Principles
+13.1.1 A battle automatically occurs if an army enters an area
+(the “battle area”) occupied by an enemy army that has not
+withdrawn in its entirety. If an army cannot initiate a battle
+because it would not have any movement allowance left for
+it, it may not enter the area in question.
+Design Note: A “battle” in Age of Napoleon 1805-1815
+usually represents a series of small and large battles within a given
+area.
+13.1.2 Battles have to be resolved after all army moves,
+interceptions and withdrawals have been completed and after
+any march attrition effects have been applied.
+13.1.3 No corps can move, intercept or withdraw in the
+same phase after fighting a battle, regardless of outcome.
+13.2 Orders of Battle
+13.2.1 The maximum number of corps that a player may
+engage in a battle is equal to the seniority rating of the army
+leader in the battle area.
+Note #1: In a Major Campaign, more than one attacking
+army can attack a single defending army simultaneously, but
+the number of attacking corps that can be engaged in battle
+is still limited by the highest seniority rating among them.
+Note #2: The Interior Lines card is a campaign card to be
+played when the same army is attacked by two or more
+enemy armies in the context of a Major Campaign or
+multiple interceptions. It allows the defending army to fight
+each attacking army in separate battles until defeated. Note
+that in this case the seniority rating constraint separately
+applies to each attacking army. Interior Lines cannot be not
+canceled by Fog of War.
+13.2.2 If a player has more corps in the battle area than he
+can or wants to engage, he must place the corps he wishes to
+engage/use in the Battle Box and leave his unengaged corps
+in the battle space. The attacker must declare first.
+13.2.3 Even if a player decides not to engage his army
+leader’s own corps, it is still the latter’s seniority rating that
+matters when it comes to determining how many corps the
+player can engage in the battle.
+13.2.4 Each player must engage at least one corps.
+13.3 Battle Resolution
+13.3.1 Each side’s battle strength is determined by summing
+up the BRs of all its engaged corps, including that of its
+army leader.
+13.3.2 Relevant situation modifiers are applied to each side’s
+battle strength:
++1 .......... per corps fighting at home
+-2 .......... per corps attacking at the end of a sea move
+13.3.3 Cards applicable to battles are played; any card played
+can only affect the battle in which it is played. The attacker
+must play all his cards first, including the Fog of War card.
+A player cannot play two identical cards in the same battle.
+Note #1: For the purpose of playing nationality-
+dependent cards (e.g., Grand Battery), all red corps game
+playing pieces are considered British, all blue pieces French,
+etc.
+Note #2: The Hero’s Death card must be played
+immediately after the number of losses is determined. It is
+not canceled by the play of the Fog of War card.
+13.3.4 Each player rolls one die and cross-references his
+result with the modified battle strength of his engaged corps
+on the Battle Results Table (see Player Aid Card 2) in order
+to determine the number of corps losses inflicted on the
+enemy.
+13.3.5 Victory automatically goes to the side that inflicts the
+most losses and the loser’s losses are increased by one.
+13.3.6 In the event of a tie, each player rolls another die,
+adding the Tie-Breaker Modifier (TBM) shown on the last
+row of the Battle Results Table. The player with the higher
+modified die roll wins. If the modified die rolls are tied
+again, the defender wins. Neither side sustains additional
+losses in tie-breaker situations.
+Example: A French army has a battle strength of 18 and
+rolls a 4, causing 1 loss. Its Coalition opponent has a battle
+strength of 12 and also rolls a 4, causing 1 loss. The
+number of losses inflicted is identical, therefore the players
+need to roll again to break the tie, with the French player
+having a +3 TBM and the Coalition player having a 
++2 TBM.
+14
+13.4 Battle Outcome
+13.4.1 Losses
+13.4.1.1 Half the losses sustained by each side are
+permanent and all other losses are temporary. If a side
+sustained an odd number of losses, the last (odd) loss is
+permanent if that side lost the battle or won after a tie-
+breaker. Otherwise the last (odd) loss is temporary.
+Note: If a side suffers just one loss, that loss is considered
+to be the last (odd) loss. Therefore, if that side won the
+battle after a tie-breaker or lost the battle, its loss is
+permanent; otherwise, it is temporary.
+13.4.1.2 Each player chooses his own losses. However, a
+player can play the Hero’s Death card to choose one of the
+other player’s permanent losses, if any.
+13.4.1.3 Losses must be taken from engaged corps first.
+However, if losses exceed the number of engaged corps,
+excess losses must be taken among unengaged corps, if any.
+13.4.1.4 All temporary losses incurred by the loser must be
+placed in the Prisoners Box while those incurred by the
+winner must be returned to the reserve.
+Note #1: It is possible—but unlikely—that all corps of
+both sides are eliminated in a very small battle. This
+outcome is allowed.
+Note #2: It is also possible that the winner loses all of his
+corps while the loser does not; this situation does not
+change the outcome of the battle (i.e., which side wins and
+which side loses).
+13.4.1.5 A side can never sustain more losses than it has
+corps in the battle area.
+Example: If a side has 2 corps and suffers 3 losses, there
+effectively is no 3rd loss since there are only 2 corps; one
+loss is permanent and the other loss is temporary.
+13.4.1.6 All surviving corps that were engaged on either side
+are spent. Corps that began the battle spent are not further
+penalized. Corps that were not engaged do not become
+spent.
+13.4.2 Retreat
+13.4.2.1 The loser’s surviving corps, including those
+unengaged, must all retreat to one adjacent, enemy-free area.
+If possible, the retreat must be made towards the capital area
+of the majority of the corps in the retreating army (loser’s
+choice in the event of a tie).
+13.4.2.2 The defender, if forced to retreat, may not retreat
+to any area from which an attacking army entered the battle
+area.
+13.4.2.3 The attacker or the interceptor, if forced to retreat,
+must retreat to one of the areas from which his armies
+entered the battle area.
+13.4.2.4 In each battle, up to one Coalition corps of any
+nationality may retreat by sea from a coastal area provided
+Britannia is in effect. The retreating corps must be placed in
+an enemy-free, friendly-controlled, coastal home area.
+Remember that coastal areas bordering the Baltic Sea are not
+accessible by sea during the winter.
+Example: The Russian Sverige corps could only retreat by
+sea to Sverige, assuming Sverige was enemy-free and
+Coalition-controlled and it was not during a winter
+campaign round.
+13.4.2.5 Corps retreating into a mountain area and/or into a
+marsh area and/or in the winter are subject to march attrition.
+13.4.2.6 Insurgent corps cannot retreat more than one area
+away from their home country.
+13.4.2.7 Any and all retreating corps that are unable to
+retreat as required are removed from the gameboard and
+placed in the Prisoners Box.
+13.4.2.8 The loser can always choose to remove all of his
+surviving corps and place them all in the Prisoners Box
+instead of having them retreat to a neutral country and cause
+a neutrality violation. That is the only circumstance in which
+a player may voluntarily decide to place some of his corps in
+the Prisoners Box.
+13.4.3 Victory
+13.5.3.1 The winner’s surviving corps, including those
+unengaged, stay in the battle area.
+13.4.3.2 The winner may discard—not play—one card to
+rally all his surviving corps, including any present in the
+battle area but not engaged in the battle, provided he does
+not play a Pursuit card.
+Exception: He may not do so between the successive
+battles that take place due to the play of the Interior Lines
+card.
+14.0 SURRENDER PHASE
+Surrender conditions must be checked in the following
+order: all minor countries, Spain, Preußen, Österreich, Russia
+and France.
+Note #1: The No Surrender card may prevent the surrender
+of a country except in 1815 when it cannot be played.
+Note #2: Remember that currently insurgent countries
+never surrender in the Surrender Phase.
+Note #3: Remember that Britannia immediately comes into
+effect if neither Österreich nor Preußen nor Russia is a
+Coalition member.
+15
+15
+14.1 Minor Countries
+14.1.1 A minor country automatically surrenders if it is
+occupied by enemy corps and joins the occupying side.
+14.1.2 A minor country surrendering to the French side
+becomes a French ally unless it was previously an insurgent
+country, in which case it becomes a French dominion.
+14.1.3 A minor country surrendering to the Coalition side
+becomes a Coalition member.
+Exception: Any minor country previously detached from
+Österreich or Preußen by the French player must be
+immediately re-attached to its original ruler if (a) it
+surrenders to Coalition armies and (b) its original ruler is a
+Coalition member. If the latter condition is not met, the
+minor country remains detached, as an independent
+Coalition member.
+14.1.4 Any and all corps of surrendering minor countries,
+including minor allied corps, must be immediately removed
+from the gameboard.
+14.2 Major Countries
+14.2.1 A major country must surrender if:
+• its capital area is occupied by at least one enemy corps,
+and,
+• the number of enemy corps occupying its areas is greater
+than the number of friendly corps (including allies)
+remaining in any of its areas, or it has no home corps left
+in any of its areas.
+Exception: For a formerly insurgent major country to
+surrender to the French side, all the conditions for a failed
+insurrection (see 8.1) must be met.
+14.2.2 When a major country surrenders, it becomes neutral,
+and all its remaining corps must be removed from the
+gameboard. A neutral alignment marker is placed on its
+capital area.
+Exception: If a previously, but not currently, insurgent
+major country surrenders to the French player, it
+automatically becomes a French dominion.
+14.2.3 Each foreign corps previously allied to the
+surrendering major country and present in any of the latter’s
+areas is removed to the Prisoners Box if it is surrounded by
+enemy-occupied areas or the sea. Otherwise it must be
+immediately placed in the nearest enemy-free, friendly-
+controlled area, regardless of where the latter is. If Britannia
+is in effect, then one Coalition corps of any nationality
+occupying a coastal area may also be repositioned as if it
+were retreating by sea (see 13.4.2.4).
+14.2.4 For as long as the victor maintains at least one corps
+in the capital area of a major country that he forced to
+surrender, that major country is said to be an occupied
+neutral country and the neutrality violation rule (see 12.7) is
+suspended for the occupying side only.
+14.2.5 Remember that an occupied neutral country is
+immune to diplomacy cards played by the other side (keeping
+in mind the Metternich and Alexander I exceptions). However,
+in the event it is occupied by French-controlled troops, it
+may be turned into an insurgent country by the play of an
+Insurrection card.
+14.2.6 If the Napoleon Returns! optional rule is in effect
+(see 18.1 in Scenarios and More) the French player may also
+opt to have France surrender even if the above conditions
+are not met.
+15.0 WINTER ATTRITION PHASE
+15.1 Each player must roll one die for each area in which he
+has three or more corps. The relevant modifiers are applied
+to each die roll and the result is cross-referenced with the
+number of corps on the Winter Attrition Table (see Player
+Aid Card 2). This determines the number of corps lost to
+winter attrition in the tested area.
+15.2 All winter attrition losses are permanent. The owning
+player removes the corps of his choice.
+Example: Napoleon’s army of 5 fresh corps and 3 spent
+corps completes the Campaign Phase in neutral Moscow.
+The French player rolls a 4, + 1 (for capital area), - 2 (for
+barren area) for a modified die roll result of 3. Napoléon’s
+army therefore must sustain 2 permanent losses.
+Note: It is possible to play Napoleonica to recover a Depot
+card that was just played and play that Depot card again.
+The same applies to Scorched Earth.
+16.0 VICTORY CHECK PHASE
+16.1 See Game Objectives in 6.0.
+16.2 If a player fullfills the conditions for a marginal victory
+in the Victory Check Phase, he may immediately end the
+game. However, he may also continue to play in order to try
+and gain a decisive victory later. If the fortunes of war
+change, he may not later claim his earlier marginal victory if
+he does not fullfill the conditions anymore.
+CREDITS
+Thanks to all the players who have played the first published version of the game and made the
+comments that have led to this updated version. We hope you keep enjoying the game.
+Design: Renaud Verlaque
+Development: Renaud Verlaque, Ulrich Blennemann
+Original Playtesting: Michael Bruinsma, Steve Crowley, Neville Fisher, John Foley,
+Garry Haggerty, Matthew Hayes, Andy Lewis, Christoph Ludwig, Kim Meints,
+John Menichelli, Dan Raspler, Neil Siddons-Smith, Jim Silsby (and son), Gareth Simon,
+Peter Stein, Stuart Tucker, Charles Vasey, Rick Young.
+Proof-Reading (Revised Edition): Scott diBerardino, Michael Goulker, Coleman Charlton
+Production: Michael Bruinsma, Ulrich Blennemann
+Graphics: Franz Vohwinkel
+Layout: Renaud Verlaque

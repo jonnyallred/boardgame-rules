@@ -80,15 +80,15 @@ update_game('games.yaml', '<GAME_NAME>', status='<STATUS>', notes='<NOTES>')
 
 Status values: `summarized`, `not_found`, `flagged`
 
-### Step 6: Update index.md
+### Step 6: Regenerate index.md
 
-For each successfully summarized game (where `rules/<slug>.md` exists and is valid), add a row to the Available Games table in `index.md`:
+Run the index generator to rebuild the game list with alphabetical sections:
 
+```bash
+source .venv/bin/activate && python -m scripts.generate_index
 ```
-| [Game Name](rules/<slug>/) | <player_count> | <play_time> | <designer> |
-```
 
-Insert in alphabetical order within the existing table. Read `index.md` first, find the table, and insert each new row at the correct position.
+This reads all `rules/*.md` frontmatter and produces the alphabetically-sectioned index with a jump bar.
 
 ### Step 7: Report Results
 
@@ -157,12 +157,12 @@ Verify the download: check the file exists and is >10KB. If download fails, reco
 #### 3. Extract Text
 
 ```bash
-source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf
+source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --no-registry
 ```
 
 If extraction produces very little text (<500 chars), try with pdfplumber:
 ```bash
-source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --method pdfplumber
+source .venv/bin/activate && python -m scripts.extract_pdf source_pdfs/<slug>-rules.pdf --no-registry --method pdfplumber
 ```
 
 Read the extracted file at `extracted/<slug>-rules.txt`. If it's still inadequate (<500 chars), record as `flagged` with note "extraction produced insufficient text".
@@ -236,5 +236,5 @@ RESULTS_END
 - **Don't dispatch subagents that modify `games.yaml`** — only the main agent writes to the registry
 - **Don't forget to register games before dispatching** — subagents expect files can be written without registration
 - **Don't exceed `--parallel`** — if you have 5 chunks and parallel=3, dispatch 3, wait, then dispatch 2
-- **Don't skip the index.md update** — new games need to appear on the site
+- **Don't skip running `python -m scripts.generate_index`** — new games need to appear on the site
 - **Don't forget to validate** — `python -m scripts.validate rules/<slug>.md` catches missing sections

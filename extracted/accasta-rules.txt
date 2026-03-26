@@ -1,0 +1,245 @@
+ Accasta 
+            Introduction to a Pure Stacking Game 
+by Dieter Stein
+It was back in the seventies that I first read about Lasca, the 
+Checkers variant by the famous Chess champion Dr. Emanuel 
+Lasker. Actually, I was never very interested in Checkers. But 
+what struck me was a picture that illustrated the Lasca article. 
+It showed two players handling large stacks of playing pieces. 
+That looked very attractive and I instantly thought that a 
+game with stacked pieces should also have great tactical 
+potential. 
+From that time on I worked on my very own stacking game. 
+Being a Chess player it was unavoidable that some features of 
+Chess slipped into the fundamental design. So there are two 
+armies of different piece types face to face in a fixed setup 
+marching against each other. 
+At about the same time I discovered Glinski’s Hexagonal 
+Chess, which I liked very much. So what I did for my game 
+project at the beginning was putting the two elements 
+together: stacks and a six-sided board. I also tried a traditional 
+chessboard but that was only a short episode in the long 
+evolution of Accasta. 
+Board Setup 
+Balancing this game turned out to be a difficult matter. I 
+wanted the board to be sufficiently crowded for stacking to 
+appear. It was clear that—unless you provide lots of playing 
+pieces—the board dimensions would have to be rather small. 
+The problem was that games on small boards often tend to 
+lack strategic depth or, even worse, simply do not work. 
+Sometimes in early versions of Accasta winning strategies 
+were obvious; sometimes it was too easy to block the 
+opponent. I remember a test game where a large stack, more 
+than 20 pieces high, made Accasta almost feel like a game of 
+dexterity. 
+Finally, in spring 1998, I came up with a total of 40 pieces on 
+37 spaces of a hexagonal board. The two players are provided 
+with 20 pieces each, which are placed on two sides of the 
+board on 9 specially marked spaces, inside a “castle”. Since 
+no piece is ever removed from the board, it seemed quite 
+natural to initiate every game of Accasta (terribly traditional) 
+with a fixed starting position. 
+White always makes the first move; then players move 
+alternately. They cannot pass a turn. 
+ 
+Fig. 1: Initial setup: 40 pieces on 37 spaces. The pieces are 
+placed on the intersections of the lines. There are other 
+board designs with hexagonal cells, which are 
+topologically equivalent. 
+The coordinate system reflects the symmetry of the board 
+setup. Beginning on White’s side, the horizontal rows are 
+labeled from a to g and then each space on a row is counted 
+from the left to the right. 
+Pieces and Stacks 
+Accasta provides three different types of pieces: Shields, 
+Horses, and Chariots, which move up to 1, 2, or 3 spaces, 
+respectively. 
+ 
+Fig. 2: Shield, Horse, and Chariot 
+Unlike some other stacking games, the possible moves for a 
+piece do not depend on its position in a stack. 
+ 
+Fig. 3a: Possible moves for Shield (e5) and Horse (b2) 
+ 
+Fig. 3b: Possible moves for Chariot (c4) 
+All pieces move straight in any of the six possible directions. 
+They cannot change direction during the move. Also, they 
+cannot jump over another piece. However, they can land on 
+friendly or enemy pieces or stacks that are within reach 
+(subject to the height restrictions discussed below). 
+If stacked pieces are to be moved, the piece on top can carry 
+(or “lead”) any number of friendly or enemy pieces below; in 
+other words, a stack can be split at any point. In some 
+situations it even can be advantageous to uncover an enemy 
+piece. This special move is called a “release” and has 
+consequences, which will be explained later in this article. 
+ 
+Fig. 4: Splitting a stack and “leading” other pieces 
+The split off part of the stack can move as it is determined by 
+the leading piece, e.g. a Shield leads other pieces always to 
+adjacent spaces only. 
+It follows from these moving rules that the topmost piece of a 
+stack (also called the “head”) dominates the whole stack, i.e. 
+all of the enemy pieces in the same stack are captured. Their 
+owner has no access to them. However, they are not lost! By 
+recapturing such a stack a player would liberate all of his 
+previously captured pieces instantly and, at the same time, all 
+previously dominating pieces are now captured themselves. 
+ 
+Fig. 5: A previously captured white Shield is liberated. 
+Multiple Moves 
+Another outstanding feature of Accasta derived from its 
+stacking nature is the possibility to move more than once in 
+one single turn. As a player splits a stack and another friendly 
+piece comes to the surface, that piece can move as well, 
+possibly into another direction, but strictly as described 
+before. However, by releasing an enemy piece the current 
+player’s turn is over. 
+ 
+Fig. 6: Moving three pieces in one turn. 
+Safe Stacks 
+In early draft versions of this game I had the problem of 
+stacks growing too high. With multiple moves at hands it is 
+obviously a good strategy to build up large and therefore 
+powerful stacks. But I had to limit the growth for the sake of 
+playability. Imagine a player having the option to make ten or 
+more moves in series! 
+Focus (a.k.a. Domination), invented by the ingenious and 
+unforgettable Sid Sackson, uses the following rule to limit the 
+growth of stacks: A stack can be no larger than five pieces 
+high; if required, pieces are taken from the bottom of the 
+stack off the board. This way enemy pieces can be captured. 
+Accasta, on the other hand, comes with a very simple and 
+straightforward rule to limit stack height: Stacking is only 
+allowed if there are not more than 3 pieces of the same color 
+in the resulting stack. It is important to note that this 
+obviously refers to landing on a friendly stack as well as 
+capturing an enemy stack! 
+ 
+Fig. 7: White has to split his stack on the left to land on 
+the white stack in the middle, as well as Black on the 
+right, who cannot capture the middle stack without 
+releasing at least one white Shield. 
+The 3-pieces rule has a drastic effect: A stack containing 3 
+captured pieces cannot be captured again; it becomes 
+invulnerable, a “safe stack”. Safe stacks are the central 
+tactical aspect of Accasta. It is important to keep in mind that 
+a player can gain a safe stack rather quickly when leading one 
+or even two enemy pieces. 
+Object of the Game 
+Players attempt to end up with at least 3 stacks of their own in 
+the enemy’s castle to win the game of Accasta. 
+ 
+Fig. 8: White wins with his stacks on e4, f4, and g1. 
+A safe stack in the enemy’s castle is generally a big 
+advantage: since it is invulnerable, it is a stable platform for 
+others to enter. The only possible defense then is to block this 
+enemy stack. But often a game is already lost in this situation. 
+Finally, there is one rule to add: releasing an enemy piece in 
+one’s own castle is illegal. This is due to the following 
+situations: First, a player could commit suicide this way. 
+Second, a player could potentially achieve his own and his 
+opponent’s victory condition in the same turn. I decided on 
+the most painless solution, which was to forbid the release at 
+home. 
+Conclusion 
+Accasta is a fast and suspenseful game. The distances on the 
+board are short; multiple moves can change a position on a 
+large scale. A bad move can often be decisive. On the other 
+hand, a player who appears to be playing a losing game can 
+sometimes rally his forces. Together with the consistent rule 
+set and the aesthetic aspect I was quite satisfied with the 
+outcome of my stacking game project. 
+Notation 
+Shields, Horses, and Chariots are identified by the letters S, 
+H, and C, respectively. Moves are indicated by “–” for 
+moving to an empty space, “+” for landing on a friendly 
+piece, and “×” for capturing. Notation of a complete move 
+starts with the origin space, followed by a colon. Then the 
+submoves follow, separated by commas. Each submove is 
+written as “piece(s) move-type target-space”. One’s own 
+pieces are written upper case; enemy (i.e. captured) pieces 
+lower case. 
+Sample Game 
+White: Dieter Stein; Black: John Williams; played by email, 
+January 2004. 
+1. a1:C+b2,HS–c1; (An opening that requires covering c1 in 
+a subsequent move.) g2:C+f2,H+f3; (Developing the pieces 
+from the rear and also attacking c1.) 2. b2:CHS–c2; (White 
+does not want to lose tempo and therefore does not respond 
+directly to the threat to c1. c2 now gives strong support for c1 
+and also seems to try entering Black’s castle at e3. Black now 
+attempts to capture c1. But after f2:C×c1,HS–e2 White could 
+capture and block with c2:C×e3,H–d2,S×c1; but going after 
+e3 would be foolhardy.) f2:C×c1,HS–e2; (Capturing c1 
+seemed worthwhile, since after White recapturing on c1, e2 
+could gain a safe stack there and at the same time could enter 
+White’s castle at c3.) 3. c2:C×c1,H+c3?,S–d2; (Recapture 
+blocked with Shield on d2, but H+c3 is a mistake.) 
+e2:H×c3,S–d3; (White did not anticipate that S–d3 
+sufficiently supports the capture on c3. With d2:S×d3 Black 
+can gain a safe stack on d3 with c3:Hhs×d3, which is a 
+strong position although it withdraws an already entered 
+stack.) 4. c1:Cc+d2,HS–b1; (A defensive move; White has to 
+avoid c3: Never get in a stacking fight in your own castle! 
+Black could gain a safe stack on b3 or c4, but that would 
+destroy the bridge over d3.) f3:H+e4,H–f2,S+e3; (Additional 
+support for d3. Black places another defender for c3 [H+e4], 
+an attacker for d2 [H–f2], and e3 [after S+e3] can respond to 
+a double capture from d2.) 5. d2:Cc–d1,S×d3; (Black could 
+invade with e4:H×c3,S–d4, which depends on the support on 
+d3. b2 covers the capture on d3 and also the threat to g1 from 
+d1, which is not very strong, because White would have to 
+release a black Chariot.) c3:Hhs×d3; (Leaving White’s 
+castle, but there is an option to return with d3:Hhss–c3,S+c3. 
+That would give Black a safe stack with two of his pieces on 
+top. One more [e.g. from e4:H+c3] and White cannot stop 
+Black from splitting his pieces off and establishing a winning 
+position.) 6. b3:H+c4,S–c3; (Blocking Black’s major threat. 
+Black cannot return to c3 with his stack on d3 without 
+releasing a strong white stack there. Furthermore, White is 
+attacking e3 again [from c4]. And finally, a3:CHS is 
+activated now and supports c3 as well. However, b1 will be 
+undefended if d1:C×g1.) d3:Hhss–c2,S×c3; (c3 is supported 
+by e4, c2 is safe.) 7. a4:CHS–b5! (White—being under 
+attack—sees a chance to take the initiative again by 
+threatening e4, which is effective because from there Black 
+planned to get his third piece for a win.) 
+ 
+Position after 7. a4:CHS–b5 
+c3:Ss×c4; (Black ignores the threat and gains his second safe 
+stack. This is where the race begins...) 8. b5:C×e4,HS–d5; 
+(Again, Black would have to leave White’s castle to capture 
+d5 releasing a powerful white stack on c4. The Shields on e3 
+are out of reach.) e3:S–d3,S–d4; (Black continues to ignore 
+White’s attack since he thinks that the defenders on g3 and g4 
+are powerful enough and White would have to release a black 
+piece on e4 anyway which would isolate his Chariot.) 
+9. a3:C×d3,HS–c3; (If d4:S+c4, then d1:C×g1, which places 
+the second white piece in Black’s castle. If d4:S×d3, then 
+c3:H+e4,S×d3; finally, if d4:S×c3, then e4:Chs×c3.) 
+d4:S×c3; 10. e4:Chs×c3; f4:H–d4,S–e4; (Trying to block 
+White’s stacks on c3 and d5.) 11. d5:H×d4,S×e4; (Now the 
+Black attackers on c2 and c4 are isolated.) g1:C×d1,HS–e1; 
+(Finally capturing d1, liberating his Chariot there and trying 
+to regain the attacker’s role.) 12. d3:C×g3; (White is only 
+one step ahead now, which is enough to win. The best defense 
+would be c4:Ssh×d4, but then b1:H×d1,S–c1, which would 
+end with a safe stack for White on d1.) Black resigns. 
+ 
+Final position 
+An Accasta Problem 
+ 
+Black to move. White seems to have a comfortable position. 
+But his last move c4:S×d5? opens a path for Black to win.  
+Solution 
+ 
+g2:C×d5! threatens to win with d5:Cs×a2,H–b3,Ss–c4. But 
+White cannot recapture, since c5 has to avoid e6:CHS×b4, 
+which is a win for Black in the next turn. Also, d3 cannot 
+help, since solely the Horse on top could capture and 
+therefore is forced to release a black CHS stack at d3, which 
+can easily enter the white castle establishing a winning 
+position with d3:C–a3,H–b3,S–c3. Finally, blocking c4 does 
+not help either, since Black can always gain a safe stack there 
+with his stack on d5. 

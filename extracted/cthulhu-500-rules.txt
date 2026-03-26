@@ -1,0 +1,465 @@
+OVERVIEW
+Gentle-beings, start your engines! The Cthulhu 500 card game puts you in the
+driver’s seat for a frenzied race that mixes the madness of HP Lovecraft’s Cthulhu
+Mythos and the insanity of motorsports. 
+Each player controls one vehicle, and spends the race maneuvering to pass his
+opponents. When you pass everyone in the pack — the line of Vehicle cards in the
+center of the table that marks where they are on the track in relation to each other
+— you earn a lap counter and start moving forward again from the back of the
+pack. Meanwhile, players use cards and take actions to beef up their vehicles, hose
+their enemies, and advance even faster through the pack. 
+The player with the most lap counters when the Checkered Flag card is drawn
+wins the race — and the game. He may then celebrate victory by devouring his
+enemies before shuffling up for the next heat …
+COMPONENTS
+Cthulhu 500 is a card game for 3 to 8 players, ages 8 and up. Game play is 30 to 60
+minutes. In addition to this rules sheet, Cthulhu 500 includes 16 Vehicle cards, 26
+Action cards, 17 Crew cards, 18 Mod cards, 8 Tires cards, 24 Reaction cards, and 1
+Checkered Flag card. Also needed are a handful of small counters (beads, coins, poker
+chips, or what have you) to use as lap counters, and at least one six-sided die. The game
+will go a bit faster if every player has his own die to roll, but only one is necessary.
+SETTING UP
+There are just a few simple things to do before the race begins.
+Distribute Vehicle Cards
+First, separate the Vehicle cards from the deck and sort them into eight pairs by
+vehicle name. Either randomly distribute a matched pair — a pack marker Vehicle
+card and schematic Vehicle card — to each player, or let the players choose.
+The vehicles each have slightly different statistics on the undamaged side of their
+schematic Vehicle cards; those with a high Speed are inherently faster than others,
+while vehicles with a low Complexity are easier to repair. Some even have special
+effects. If you flip them over you’ll notice that the damaged statistics are also
+different from vehicle to vehicle; vehicles with a higher undamaged Speed have a
+worse damaged Speed, and faster vehicles are also generally harder to fix. One
+vehicle — the Big Honkin’ Truck — actually gets faster when damaged. When the
+brake-lines fail, it has Big Honkin’ momentum on its side!
+All the schematic Vehicle cards also have four spaces to attach a driver Crew card,
+two Mod cards, and a Tires card later in the race (see Making a Pit Stop). You can
+still race your vehicle even if it has no driver or Tires cards attached to it. It’s
+assumed to have a bland, flavorless set of tires and a generic, garden-variety driver
+— neither of which gives it any extra bonuses — in the absence of attached cards.
+Once they’ve chosen their vehicles, players place their pack marker Vehicle cards
+— those without scores on them — in any order in the pack at the center of the
+table, undamaged side up, and their schematic Vehicle cards in front of
+themselves, also undamaged side up.
+Playing an Action Card
+Action cards are played on a player’s turn to give that player’s vehicle some benefit,
+to hinder other players’ vehicles, or to have some other effect on game play. Each
+Action card’s effects are described on the card. Also, note that a Spell card is any
+Action card with the word “Spell” in the bar at the top.
+To play an Action card, the player uses an action to take an Action card from his
+hand and follow the directions on it. Once used, the Action card is discarded.
+Action Card Timing: Timing is sometimes important with Action cards. When one
+event happens immediately in response to some other event, the initiating event
+happens first, followed by the event it triggered. For example, when a Spell of
+Chaos is played, the player with the High Priest of Mojocross may draw a card. The
+effects of the Spell of Chaos are resolved first (the players’ hands are switched) and
+then the player with the High Priest of Mojocross draws a card.
+This rule doesn’t apply to Reaction cards; they’re governed by the timing rules given
+in the Reaction Cards section. These two timing rules can interact, though. If a Spell
+of Chaos were cancelled by Iä! Iä!, for example, there would be no draw at all for
+the High Priest of Mojocross.
+Deal Player Hands
+Next, find the Checkered Flag card in the deck and put it face up in the center of the
+table as the first card in the discard pile. Shuffle the rest of the deck and deal a five-
+card hand to each player. To form the draw pile, put the rest of the deck face down
+in the center of the table next to the discard pile.
+When the draw pile runs out, shuffle the discard pile and use it as the new draw pile.
+Then, when the Checkered Flag is drawn, the game ends (see Game Over).
+Determine Pack Order
+Finally, each player secretly selects any collection of cards from his hand that he’s
+willing to discard before play begins. Players may choose not to discard any cards,
+but they should still make that decision secretly.
+Once all the players have selected cards to discard, all such cards are revealed
+simultaneously. The player who discarded the most cards begins the game in the
+advantageous position of pack leader, at the front of the pack. The player who
+discarded the second-most begins in second place, and so on, down to the player
+who discarded the least, who begins at the back of the pack. There are as many
+positions in the pack as there are vehicles in play.
+Players who discarded the same number of cards roll a die against each other to
+determine pack order among themselves. The discarded cards go to the discard pile,
+while the cards the players chose not to discard become their starting hands.
+Now you’re ready to race! The player at the back of the pack goes first, with turns
+progressing clockwise around the table.
+TURN ORDER
+On a player’s turn, he may take two actions, discard, and draw up to two cards, in
+that order. These are each described in detail below. Reaction cards may also be
+played whenever their triggering event occurs. 
+Because the racetrack is circular — interdimensionally speaking — the pack leader
+and the vehicle at the back of the pack are adjacent to each other. Cards that affect
+the vehicle ahead of or behind you wrap around to the opposite end of the pack
+when you’re in one of these positions.
+Actions
+An action is any one of the following four choices: playing an Action card, adding
+pit crew, making a passing attempt, and making a pit stop. Players get two actions
+on their turn.
+For example, on his turn a player may play an Action card and then make a passing
+attempt; or he may make two passing attempts; or he may make a pit stop and then
+add a Crew card to his pit crew; or he may try any similar combination of two
+actions. A player may also forfeit one or both of his actions, if he wishes.
+Adding Pit Crew
+Each Crew card represents a character in the race. Any Crew card in play must be
+installed either as a member of a vehicle’s pit crew, or as a vehicle’s driver. A
+vehicle’s pit crew uses their Fixit scores to make the roll to fix a damaged vehicle
+easier (see Making a Pit Stop: Repair Damage), while a vehicle’s driver uses its
+Drive score to help pass other vehicles (see Making a Passing Attempt). Many
+Crew cards also have special effects, which are described on the cards
+themselves. Also, note that a Fungi Crew card is any Crew card with the word
+“Fungi” in its name, while a Zombie Crew card is any Crew card with the word
+“Zombie” in its name.
+To add a Crew card to his pit crew, the player uses an action to take a Crew card
+from his hand and put in on the table in front of him, next to any other Crew
+cards that are already in his pit crew. (There isn’t a space marked on the
+schematic Vehicle card for the pit crew because there’s no limit to the size of
+each player’s pit crew.) It’s also legal to play a Crew card from your hand into
+someone else’s pit crew.
+To install a Crew card as a driver on his schematic Vehicle card, a player must
+make a pit stop (see Making a Pit Stop: Add a Driver).
+Making a Passing Attempt
+Passing attempts allow vehicles to try to work their way to the front of the pack,
+and then to lap other vehicles in order to eventually win the race. 
+To make a passing attempt, a player usually uses an action to make a passing test
+against the vehicle immediately ahead of his vehicle in the pack order (unless a
+card in play specifies that a different vehicle may be passed).
+The pack leader makes his test against the vehicle at the back of the pack, earning
+a lap counter to place by his schematic Vehicle card if he’s successful. While this
+may seem to make his position worse rather than better, remember that vehicles
+with lap counters are one complete lap ahead of vehicles without lap counters.
+Thus, the former pack leader has greatly improved his position, since the winner is
+the vehicle with the most lap counters at the end of the game, and pack position is
+only used to break ties. (Getting a lap counter does not indicate that the vehicle
+has made a lap around the track. The number of laps completed isn’t relevant in
+Cthulhu 500. Only the relationship between the vehicles is important.)
+Passing Tests: The players controlling the two vehicles involved each roll a
+single six-sided die. Each adds his vehicle’s Speed, his driver’s Drive score,
+passing test bonuses from in-play Mods, Tires, and Actions, and passing test
+bonuses from triggered Reaction cards that are played now. Each player’s sum is
+his passing test total. 
+If the passing player has the higher passing test total, his vehicle is moved directly
+ahead of his opponent in the pack order. If the vehicle being passed has the higher
+total, there’s no change to the pack order. If there’s a tie, there’s no change to the
+pack order, but both vehicles become damaged; the players should flip both their
+Vehicle cards over to the damaged side and use the new scores until repairs can be
+made during a pit stop. Damaged vehicles can still make passing attempts. (See
+Taking Additional Damage for situations involving already-damaged vehicles, and
+Making a Pit Stop: Repair Damage to fix a vehicle.)
+Draw
+Pile
+Pile
+Pack Marker
+Drive
+Score
+Fixit Score
+Card Type
+SAMPLE PACK DIAGRAM
+Type
+Spell
+ACTION
+Action
+TURN ORDER
+Take 2 Actions:
+Play an Action Card
+Add a Pit Crew Card
+Make a Passing Attempt
+Make a Pit Stop to:
+Add a Mod
+Add Tires
+Add a Driver
+Repair Damage
+Draw 2 Cards
+PASSING TEST TOTAL =
+Die + Speed + driver’s Drive + Mods
++ Tires + Actions + Reactions
+VS opposed Passing Test Total
+The game ends when this card is drawn.
+Shuffle this card into the deck after the 
+entire draw pile has been depleted once. 
+When it’s drawn, the vehicle with the most 
+lap counters wins! On a tie, the tied vehicle 
+closest to the front of the pack wins.
+Choose a Mod in play and move it
+to your schematic Vehicle card.
+If you already have 2 Mods attached, 
+you must discard 1 of them to 
+make room.
+Choose 2 adjacent vehicles.
+(The pack leader and the vehicle at 
+the back of the pack may be chosen.)
+Each controlling player must roll a 
+die. On a result of 1 to 3, that player’s
+vehicle is damaged.
+If the High Priest of Mojocross is in 
+your pit crew, draw a card whenever a 
+Spell card is played, even if this 
+makes your hand larger than it 
+otherwise could be. Spell card you 
+play do trigger this special effect.
+ACTION • SPELL
+ACTION
+CONTAGIONS
+Black Plague and Gremlins use a “contagion” mechanic.
+Q: When a contagion’s victim is discarded and a new
+target is chosen, is the new target discarded right away?
+A: No. The new target is discarded at the end of its
+owner’s next turn.
+Q: What happens if a card with a contagion on it survives
+being discarded? Like a Zombie that survives the Plague.
+A: The contagion is moved and the surviving card remains
+in play. It remains a legal target for that contagion in the
+future, however.
+Q: When a contagion causes a card to be discarded, who
+decides where the contagion goes next?
+A: The player who controlled the card that was just
+discarded (or would have been discarded, if it survives)
+always chooses the new target.
+Q: What if a card with a contagion on it is discarded for
+some reason other than that contagion?
+A: The contagion is also discarded.
+Speed
+Schematic
+Complexity
+Vehicle Name
+VEHICLE 
+CARD SET
+(UNDAMAGED)
+DRIVER
++2
+
+Taking Additional Damage: If a vehicle takes damage when it’s already damaged,
+it’s automatically passed by the vehicle behind it in the pack order. There’s no
+further effect on the damaged vehicle; a vehicle cannot become “more damaged.”
+Because it’s possible for multiple vehicles to be simultaneously damaged,
+complications can arise if one or more simultaneously damaged vehicles were
+already damaged. Such cases fall into three categories:
+Two Damaged Vehicles: If two damaged vehicles that are next to each other in the
+pack order are damaged again simultaneously, they swap places in the pack order.
+Damaged Passing Vehicle: If a damaged vehicle attempts to pass an undamaged
+vehicle and both take new damage simultaneously because of the passing attempt,
+the attempt fails. In addition, the vehicle directly behind both of them is moved to the
+position directly ahead of both of them — it reaps the benefit of their poor driving.
+Damaged Vehicle Being Passed: If an undamaged vehicle attempts to pass a
+damaged vehicle and both take new damage simultaneously because of the passing
+attempt, the attempt succeeds according to the normal rules for passing. In
+addition, the vehicle directly behind the passing vehicle “follows” the passing
+vehicle past the vehicle being passed, taking the position in between the two.
+Compare the Sample Pack Diagram with the diagrams below for before and after
+illustrations of instances in which already-damaged cars are damaged again.
+Automatic Pass: When an automatic pass occurs — usually because a card specifies
+an automatic pass — no passing test roll is made and no action is used. Instead, the
+passing vehicle is automatically assumed to have the higher passing total.
+Free Pass: A free passing test doesn’t cost the passing vehicle’s player an action,
+though the passing test roll still needs to be made. A free passing test is taken by
+the vehicle behind a player making a pit stop (see Making a Pit Stop).
+Making a Pit Stop
+Pit stops are made in order to do one of the following four things: add a Mod, add
+Tires, add a driver, or repair damage. Only one of these options can happen per pit
+stop; doing two of them requires two separate pit stops. A player can make a pit stop
+even if he doesn’t have any Crew cards in his pit crew. 
+To make a pit stop, the player uses an action and announces his intention to do so.
+When he makes this announcement, the vehicle immediately behind his vehicle in the
+pack gets to make a free passing test against him. If the player making the pit stop is at
+the back of the pack, the pack leader gets to make this free passing test, earning a lap
+counter to place by his schematic Vehicle card on a successful pass (see Making a
+Passing Attempt). Whether he succeeds or fails at resisting the free passing test, once
+it’s resolved the player making the pit stop chooses the one thing he’d like to do.
+Add a Mod: A Mod is a piece of equipment that attaches to a schematic Vehicle
+card and provides some long-term benefit to the vehicle. Each vehicle may have a
+maximum of two Mods in play at a time. When a Mod card is attached to a vehicle,
+it has the special effect described on the Mod card. Also, note that a Sponsor card is
+any Mod card with the word “Sponsor” in the bar at the top.
+To add a Mod, the player makes a pit stop, then takes a Mod card from his hand and
+attaches it to his schematic Vehicle card in one of the Mod spaces. If the player’s
+vehicle already has two Mods, he chooses one of the existing Mods to discard and
+replaces it with the new Mod. A player may also make a pit stop to discard an
+attached Mod card without adding a new one.
+Add Tires: Tires function much like Mods, but a vehicle may only have one Tires
+card attached to it. When a Tires card is attached to a vehicle, it has the special effect
+described on the Tires card.
+To add Tires, the player makes a pit stop, then takes a Tires card from his hand and
+attaches it to his schematic Vehicle card in the Tires space. If it already has one Tires
+card, the player discards the existing Tires and replaces it with the new one. A player
+may also make a pit stop to discard an attached Tires card without adding a new one.
+Add a Driver: A driver is any Crew card attached to a schematic Vehicle card. A
+vehicle’s driver uses its Drive score to aid in passing other vehicles (see Making a
+Passing Attempt), and it may also have the special effect described on the Crew
+card. No vehicle may have more than one driver at a time.
+To add a driver, the player makes a pit stop, then takes a Crew card from either his
+hand or his pit crew and attaches it to his schematic Vehicle card in the Driver space.
+If the vehicle already has a driver, the existing driver is moved to the player’s pit
+crew. A player may also make a pit stop to move an attached driver to his pit crew
+without adding a new driver; the vehicle continues on without extra bonuses from its
+driver, just as it did at the beginning of the game.
+Repair Damage: If his vehicle is damaged, the player can make a pit stop, then
+attempt a repair test.
+To make a repair test, the player rolls a die and adds the Fixit scores of all the Crew
+cards in his pit crew to the total. If the result equals or exceeds the vehicle’s
+Complexity score, the damage is repaired and the player’s two Vehicle cards are
+flipped back to their undamaged sides. If the result is lower than the Complexity
+score, the repair fails; there’s no effect on the vehicle and the pit stop is wasted.
+Once a player has taken two actions, he may discard any number of cards — or no
+cards — from his hand into the discard pile.
+Draw
+A player ends his turn by drawing a maximum of two cards from the draw pile. A
+player’s hand can’t normally exceed five cards. A player may choose not to draw
+cards to which he’s otherwise entitled, if he wishes.
+Reaction Cards
+Reaction cards don’t require an action to use. Instead, they’re played from players’
+hands in response to specific events that occur in the course of the race. Each
+Reaction card uses red text to state what event triggers the opportunity to play it.
+You’ll often play Reaction cards when it’s someone else’s turn, but you can play a
+Reaction card any time the triggering event occurs, no matter whose turn it is. Each
+Reaction card’s effects are described on the card. Once a Reaction card’s effects
+have been resolved, it’s discarded. 
+Reaction Card Timing: When more than one Reaction is played in response to the
+same event, each is resolved in the order in which it was played. If there’s
+ambiguity, a Reaction is considered “played” at the moment is hits the table. Speed
+counts; welcome to the wacky world of racing!
+Multiple Reaction cards may respond to the same event if their effects aren’t
+contradictory. If two Reaction cards that react to the same event preclude each other —
+for example, both specify that the player who played them will have the next turn —
+only the first one that was played has an effect. Others return to their players’ hands.
+The exception to this rule is the Iä! Iä! card, which cancels cards played before it on a
+“last in, first out” basis. That is, the most recent Iä! Iä! card takes effect first.
+It’s entirely legitimate (and useful) to play Reaction cards in response to events that
+you initiate. For example, you can (and should) initiate a passing test as an action
+and then play a Reaction card that reacts to the initiation of a passing test.
+GAME OVER
+When the deck is shuffled at the start of the game, the Checkered Flag card is put in
+the discard pile. When the draw pile is exhausted, the discard pile (along with the
+Checkered Flag) is shuffled to make the new draw pile.
+When the Checkered Flag card is drawn from the new draw pile, the race ends
+immediately and the vehicle with the most lap counters wins the game. If more than
+one vehicle ties for the most lap counters, the one closest to the front of the pack
+wins. (Note that at any other time, the vehicle that would win if the game ended
+immediately is said to be winning the race.)
+Players may not physically count the cards remaining in the draw pile to get a sense of
+how likely the race is to end at any given time. Eyeballing the stack is perfectly legal.
+SPEEDING UP THE RACE
+If you liked the way giving every player his own die sped up your game, you may
+also want to try these other optional ideas.
+Equalized Lap Counters
+Any time all the vehicles have a lap counter, each vehicle can remove a lap
+counter. Since lap counters indicate relative position among vehicles rather than an
+absolute number of laps completed, this has no effect on the game, but does help
+keep the table clear of clutter.
+Die-Tracked Bonuses
+Have each player keep a die near his schematic Vehicle card and use it to track his
+bonuses, so he won’t have to add them up every time there’s a new passing test. If
+you do this, keep in mind that some bonuses only apply when passing or being
+passed, and that these must still be added on a case-by-case basis.
+GAME VARIANTS
+The following variants can add even more mayhem to your Cthulhu 500 race!
+The Long Game
+To play an extended game of Cthulhu 500, set the Checkered Flag aside at the
+beginning of the game with a number of counters placed on it. Each time the draw
+pile is depleted, remove a counter. Only when all the counters have been removed
+is the Checkered Flag shuffled into the new draw pile. As always, the race ends
+when the Checkered Flag is drawn.
+The Short Game
+You can also play a brief game of Cthulhu 500 by dividing the draw pile in half at
+the beginning of the game, inserting the Checkered Flag into the lower half,
+shuffling that half, and putting the upper half back on top. The race ends, as usual,
+when the Checkered Flag is drawn.
+The Warning Lap
+This optional rule allows each player to take one final turn after the Checkered Flag
+is drawn, but before the winner is determined. The player who draws the Checkered
+Flag places it on the table immediately to let all the players know the end is near,
+and draws a card to replace it. Play continues around the table, with the last turn
+going to the player who drew the Checkered Flag. The winner is then determined
+normally. If this rule is used, it should be announced before the game begins.
+CREDITS
+Design: Jeff Tidball • Art: Scott Reeves • Editor: Michelle Nephew • Publisher: John Nephew 
+Special Thanks: Will Hindmarch, Jerry Corrick, and the gang at the Source.
+Playtesters: Douglas Amport, Jimmy Ashley, James Benham, Jeremy Bernstein, Matthew Budde,
+James Bumgarner, Alex Court, Keith Dalzell, Margaret Dunlap, Kate Duyssen, Alex Feldman,
+Brian Gibson, Russel Goldman, Richard Hensman, Stacy Holmes, Cyndi Johnson, Jeremy
+Kempfer, Jesse Koennecke, Tonia Lopez-Fresquet, Kevin Luebke, Ryan McMullan, Matthew Muth,
+Braam Perold, Retha Perold, Roy Pollock, Betsy Rosenblatt, Matt Ryan, Steve Saus, Christina
+Stiles, Paul Tevis, Andy Tidball, Stacey Tidball, Geoff Williams, Angela Wheatley, and John Wright
+© 2004 Trident, Inc. d/b/a Atlas Games. Cthulhu 500 and Mythos Motorsports Madness are trademarks of Trident,
+Inc. Cults Across America is a trademark of Jeff Tidball, used under license by Trident, Inc. All rights reserved. This
+work is protected by international copyright law and may not be reproduced in whole or in part without the written
+consent of the publisher. Printed in USA.
+www.atlas-games.com
+TAKING ADDITIONAL DAMAGE DIAGRAMS
+Two Damaged Vehicles
+Damaged Passing Vehicle
+Damaged Vehicle Being Passed
+SCHEMATIC VEHICLE CARD WITH ATTACHMENTS
+Lap 
+Counters
+Crew Card
+as Driver
+Sponsor
+Mod Card
+Tires Card
+Mod Card
+Pit Crew
+Schematic
+Vehicle Card
+Type
+REACTION
+REPAIR TEST =
+Die + pit crew’s Fixit
+VS Complexity
+www.jefftidball.com
+Play after a passing test is announced,
+but before the dice are rolled.
+The vehicle of your choice gets 
+a +2 bonus to this passing test.
+Trigger
+REACTION
+If the High Priest of Mojocross is in
+your pit crew, draw a card whenever a
+Spell card is played, even if this 
+makes your hand larger than it
+otherwise could be. Spell card you 
+play do trigger this special effect.
+Any time your vehicle is 
+successfully passed, you may choose 
+to exchange hands with the player
+whose vehicle passed yours.
+This Mod card is a Sponsor. A vehicle
+may only have 1 attached Sponsor.
+MOD • SPONSOR
+Every vehicle you 
+successfully pass takes damage.
+You may choose to spend an action 
+to attempt to damage a vehicle 
+adjacent to you in the pack order; 
+this may be the vehicle at the 
+opposite end of the pack from you. 
+When you make an attempt to damage,
+roll a die. On a 1 to 3, the attempt is
+unsuccessful and your action is wasted. 
+On a 4 to 6, the target takes damage.
+If this card is discarded (from your 
+hand or while in play) for any reason,
+roll a die. On a result of 1 to 3, 
+it isn’t discarded after all.
+-1
+For each Fungi Crew card in
+your pit crew, this card gains an
+additional +1 Drive bonus.
+If this card is discarded (from your 
+hand or while in play) for any reason,
+roll a die. On a result of 1 to 3, 
+it isn’t discarded after all.
+-1
+DRIVER
++2
+PASSING
+PASSED
+OPPOSING
+THE PASS
+TRYING
+TO PASS
+REAPING
+BENEFITS
+PASSING
+PASSED
+FOLLOWS
+ALONG
+NEW
+DAMAGE
+NEW
+DAMAGE

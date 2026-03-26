@@ -1,0 +1,729 @@
+RULEBOOK
+
+A Game by Jacques Bariot and Guillaume Montiage, 
+illustrated by Pierre Santamaria, Pascal Quidault, Emile Denis and Dimitri Bielak,
+For 2 to 5 players, ages 14+. Game duration: 90 minutes
+In the mythical age of ancient Egypt, powerful gods deploy their forces into battles for dominance of the land! Deep in the vast desert, and in the shadows 
+of enormous temples, they use their many powers to build their armies, summon mythological creatures, and fight to gain control over Kemet! The goal of 
+these battles is to crush all rival gods, and through the resulting fame, win the eternal devotion of the people of Egypt!
+Each player takes control of an Egyptian divinity: Anubis, Bastet, Horus, Ouadjet, or Sobek, as they struggle for power using their armies. 
+The player with the most Fame Points (FP) at the end of the game is the winner (see «3.3 - End of game» for end game conditions).
+GOAL OF THE GAME
+1- COMPONENTS
+The game board allows for 2 to 5 players to play using these base 
+game rules and will accommodate up to 6 players with a future 
+expansion.
+Use one of the following configurations based on player count:
+The game board consists of the following zone types:
+Components:
+• 1 game board
+• 64 Power tiles in 4 colors 
+(16 Ruby, 16 Sapphire, 16 Diamond, and 16 Onyx)
+• 10 Creature miniatures
+• 6 Mercenary miniatures
+• 38 Divine Intervention cards
+• 2 Special battle cards
+• 1 Score & Turn Order track
+• 80 Fame Point tokens
+• 20 Veteran tokens
+• 5 Statue tokens
+• 2 Storm overlays
+• 5 Silver and 5 Gold Action tokens
+• 5 Player aids 
+Components for each player (in 5 colors):
+• 12 Unit miniatures
+• 5 Action tokens
+• 1 Individual board
+• 1 Prayer marker
+• 1 Order marker
+• 8 Battle cards
+• 3 Pyramids in 3 parts each
+• 4 Pyramid tops in 4 colors 
+(Ruby, Sapphire, Diamond, and Onyx)
+• 4 ‘‘Buy a Power tile’’ tokens in 4 colors
+2 players
+4 players
+3 players
+5 players
+Temples:
+Zones containing 1 of the 3 buildings shown below.
+Note: Do not use the grey portions of the game board or 
+those covered by storms in each diagram when playing 
+with the configuration corresponding to the player count.
+
++ + 22
+Harbor:
+Level 1
+Level 2
+Level 3
+Level 4
+‘‘Buy a Power tile’’ tokens:
+Every zone is outlined by either a white line, the Nile, or the edge 
+of the game board, except for Districts, which are outlined by Walls. 
+The zone containing a sandstorm is not used in the base game and 
+is not considered to be in play.
+Some zones may contain a Harbor or an Obelisk, which affect 
+movement. 
+1.3 Power tiles
+1.4 Divine Intervention cards (DI)
+1.5 Battle cards
+1.6 Pyramids level
+1.2 Individual boards
+Note: Each time a player raises a Pyramid of a new color 
+in their City, they place a «Buy a Power Tile token» of the 
+corresponding color on 1 of these empty spaces.
+(see the corresponding Action 3.4.2).
+Note : A Pyramid in your supply is considered to be level 0.
+Trading Harbor
+(blue).
+Military Harbor
+(red).
+Districts: 
+Each City consist of 3 
+Districts.
+Sanctuary of All Gods:
+The zone containing this 
+building.
+Deserts: 
+Land zones that do not contain a City, The Sanctuary of All 
+Gods, or a Temple.
+Obelisk :
+Move
+Ruby
+Sapphire Diamond
+Onyx
+Buy a 
+Power tile
+Recruit
+Pray
+Card effect 
+(see Player aid)
+Day Phase
+Night Phase
+Battle
+an Action
+Creature
+Icon that shows when the Power tile is active:
+Prayer Point track
+Raise a 
+Pyramid
+Divine Will
+Level: Shows its level, color (Ruby, 
+Sapphire, Diamond, Onyx) 
+and cost (1 to 4 Prayer Points) 
+Icon that shows 
+when the Divine 
+Intervention (DI) card 
+may be played
+Defense value
+Damage value
+Unblockable damage value
+Strength value
+Card color
+Tile effect (see Player aid)
+Cost in Prayer Points, if 
+any, required to play the 
+DI card
+Level 1
+Level 2
+Level 3
+
+2- SETUP
+Power tile colors and number based on player count:
+• 2 players => 2 colors, 26 Power tiles *
+• 3 players => 3 colors, 48 Power tiles
+• 4 players => 3 colors, 48 Power tiles
+• 5 players => 4 colors, 64 Power tiles
+* In 2 player games remove the following:
+• The «Act Of God» Power tiles.
+• 1 copy of each Power tile with a duplicate, so there is only 1 of each 
+Power tile.
+Return all unused Power tiles to the box.
+2.1 Common Setup
+1. Place the board in the center of the play area. Then use the 
+configuration that corresponds to the player count.
+2. Randomly select the colors of the Power tiles to use, based on 
+the player count (see the table below).
+3. Place all of the Power tiles in the selected colors faceup at the 
+top of the board separated by color in ascending order by level.
+4. Place the 2 Special Battle cards at the top of the board, near the 
+Power tiles, if they are being used.
+5. Place each Creature miniature on its corresponding Power tile.
+6. Place the Divine FP tokens (grey square) on the Domination 
+and Sphinx Power tile, if they are being used.
+7. Place 1 Temple FP token (white rounded) on each Temple used 
+in the game based on the player count.
+8. Place the remaining FP tokens, the Gold and Silver Action 
+tokens, and the Veteran tokens in the general supply.
+9. Each player takes 1 copy of the Divine Intervention (DI) card 
+named Diversion. Return all unused DI card named Diversion to 
+the box. 
+10. Shuffle all other DI cards, and place them facedown next to the 
+board to create the DI deck.
+Note: the FP won (or lost) by the players are placed (or 
+removed) on the score and turn order board in front of the 
+corresponding Divinity.
+
+Start of game turn order
+Randomly select and place each player’s Order marker on the Turn 
+Order track from left to right. The player whose Order marker is 
+on the left will be the 1st player, with turn order proceeding from 
+left to right. 
+Troop placement
+Each player chooses 2 Districts in their City and places 5 Units 
+in them both, and then places their remaining 2 Units in their 
+supply.
+Pyramid Setup
+In turn order, each player places a total of 3 levels of Pyramids 
+from their supply into Districts in their City. No more than 2 
+levels can be added to a single District at this time. 
+After placing their initial Pyramids, the player places a Buy a 
+Power Tile token in each corresponding color on an empty Buy a 
+Power Tile Action space on their Individual board.
+Acquiring a Level 1 Power Tile
+Then, in reverse turn order, each player chooses a level 1 Power 
+tile corresponding to the color of 1 of their Pyramids and places it 
+in front of them.
+2.2 Individual Setup
+1. Each player chooses a City which will be their City and determine 
+their player color for the whole game. Each player places their 
+Statue tokens in front of their City.
+2. Each player takes the following components matching the color 
+of their chosen City’s statue:
+• 1 Individual board depicting their Divinity and their Pyramid,
+• The «Buy a Power Tile» tokens corresponding to the colors of 
+Power tiles selected in step 2 of 2.1,
+• 1 Order marker,
+• 1 Prayer marker that they place on the «7» space of the Prayer 
+Point track on their Individual board,
+• 5 Action tokens in their color,
+• 12 Unit miniatures (each miniature constitutes 1 Unit),
+• 8 Battle cards
+3. Each player draws 2 DI cards.
+4. Each player takes 9 Pyramid parts*, 3 of each level, and the tops 
+corresponding to the colors of Power tiles selected in step 2 of 
+2.1: Ruby, Sapphire, Diamond, or Onyx.
+* In 2 player games, both players take 6 Pyramid parts, consisting 
+of 2 of each level.
+2.3 Before starting to play
+
+3.4.1 Pray
+3.4.2 Buy a Power tile
+3.1 Introduction
+3.4 Actions
+3.2 Day Phase
+A game of Kemet: Blood and Sand is played over a series of Rounds. 
+Each Round consists of one Day Phase, followed by one Night 
+Phase.
+Day Phase (player actions)
+In turn order, each player takes their turn as the active player and 
+plays and resolves 1 of their 5 Action tokens. This continues until 
+each player has placed and resolved all 5 of their Action tokens, at 
+which point the Day Phase is over.
+Night Phase (resolution)
+The Night Phase is divided into 9 steps which are resolved in order.
+During these steps, Night Phase powers activate, Divine Intervention 
+(DI) cards are allocated, and Fame Points (FP) and Prayer Points (PP) 
+are awarded.
+Permanent FP and Temporary FP
+Throughout the game, players gain FP. 
+Permanent FP are square tokens and cannot be lost. They are gained 
+in battles, from buying specific Power tiles, or during the Night 
+Phase by controlling at least 2 Temples or The Sanctuary of All Gods. 
+Temporary FP are round tokens and may be lost. They are awarded 
+for control of each Temple (white) and each level 4 Pyramid (beige).
+Order of Rules Precedence
+If two rules contradict each other, the rule with the highest priority 
+(highest number) takes precedence:
+4) DI card > 3) Power tile > 2) expansion > 1) game rules.
+In turn order, each player must place 1 Action token on an empty 
+Action space of their Individual board. Action token placement is 
+subject to the Equilibrium rule (described below), and a selected 
+action’s effects are resolved immediately. This continues until 
+each player has placed and resolved their 5 Action tokens, at which 
+point the Day Phase is over.
+Available actions on Individual boards are detailed on the next page.
+A player can play a DI card with a Day Phase icon any time during 
+their turn except during a Battle.
+Note: This means this player already had the required 
+amount of FP to win after having played their previous 
+action, each opponent being able to play 1 action to 
+respond.
+Gain 2 Prayer Points (PP).
+Temple FP
+Divine FP
+Battle FP
+Pyramid FP
+Equilibrium rule
+At the end of the Day Phase, each player must have at least 1 Action 
+token on each of the 3 levels of the pyramid on their Individual 
+board.
+Playing Silver and Gold Action tokens
+These Action tokens are played at the same time as another Action 
+token in the player’s color to receive a bonus action. The player 
+chooses in which order to resolve their actions, but each action 
+must be completely resolved before moving onto the next one. 
+Silver Action token: 
+A player can play this Action token on an empty Action space on their 
+Individual board.
+Gold Action token: 
+A player can play this Action token on the Gold Action space at the 
+top of the pyramid on their Individual Board. They may buy multiple 
+Power tiles using a Gold Action token, but can only play 1 Gold Action 
+token during the same round.
+All of the actions that can be taken during a game of Kemet: Blood and 
+Sand are covered in the following section.
+Note: If you buy a Power tile and you do not have the 
+corresponding color token on your Individual board, you 
+must place your Action token on any available «Buy 
+a Power Tile token» space on your Individual board 
+(including an «empty» box).
+A Buy a Power Tile action allows a player to buy a Power tile of 
+the same color as a Pyramid they control. A player can only buy 1 
+Power tile of a specific color during the same Day Phase.
+3- GAMEPLAY
+If a player has at least 9 FP (sum of their Temporary FP and 
+Permanent FP) on their turn before playing an Action token, and 
+no other player has more FP than them, they immediately win the 
+game.
+3.3 End of game
+
+or
+if
+3.4.3 Raise a Pyramid
+3.4.4 Recruit
+A Raise A Pyramid action allows a player to raise the level of 1 of 
+their existing Pyramids or raise a new Pyramid and add it to a district 
+in their city without one. In the case of a new Pyramid, the player 
+also places a Buy a Power Tile token in the corresponding color on 
+an empty Buy a Power Tile Action space on their Individual board.
+For a player to raise the level of 1 of their existing Pyramids by any 
+number of levels, they must spend Prayer points equal to the sum 
+of the level or levels they wish to raise the Pyramid.
+A player wishing to raise a new Pyramid must pay for the level 
+or levels that they wish to raise it by, and place it in one of their 
+districts without a Pyramid.
+Examples:
+Examples:
+• To raise a level 2 Pyramid to level 3, spend 3 PP.
+• To raise a level 1 Pyramid to level 3, spend 5 PP
+(2 PP to raise it to level 2, and 3 PP more to raise it to level 3).
+Pyramid effects
+• Each Pyramid allows its controller to buy Power tiles that match its 
+color and are of the same or lower level.
+• Each level 4 Pyramid gives 1 Pyramid FP to the player that controls 
+its District.
+• Each Pyramid allows Units in its District to be teleported to any 
+zone containing an Obelisk by spending 2 Prayer Points.
+Important!
+If a Pyramid’s District is controlled by an opponent, the original 
+player loses these benefits to the controlling player.
+Buy Conditions
+To buy a Power tile, a player must control a Pyramid of the same 
+color which is at least the same level as the Power tile they 
+want to buy. A player cannot buy a Power tile that has the same 
+artwork as one they already own.
+There are 2 ways a player can do this:
+1. A player can buy a Power tile in the color of a Pyramid they 
+control in their City by placing an Action token on an available 
+Buy a Power Tile Action space on their Individual board 
+matching the color of the Power tile they wish to buy and 
+paying PP equal to the level of that Power tile.
+2. A player can buy a Power tile in the color of a Pyramid they 
+control in an opponent’s City by placing an Action token on 
+any available Buy a Power tile action space on their Individual 
+board regardless of color (including an «empty» box), and 
+paying PP equal to the level of that Power tile.
+Cost
+When a player buys a Power tile, they must spend as many PP as 
+the level indicated on the Power tile. The player owns the Power 
+tile for the rest of the game, and it cannot be lost. The player 
+places the Power tile in front of them so everyone can see it.
+To buy the Power tile Spying (Sapphire Power level 3), a player must 
+control a Sapphire Pyramid of level 3 or 4 and pay its 3 PP cost.
+Effects
+Power tile effects become active when the Buy a Power Tile 
+Action ends. However, some of them will only trigger during a 
+specific Phase, denoted on each Power tile (eg. Battle Powers, 
+Night Phase Powers).
+Creatures
+Immediately after a player acquires a Creature tile, or any time 
+during their turn a Creature is in their supply, that player may 
+place it into one of their Districts where they have a Troop (see 
+4 - Glossary). Otherwise, the Creature is placed on its Power tile 
+in their supply.
+Before playing an Action token, a player may exchange a Creature 
+from their supply with one in their Districts. If a Creature is no 
+longer tied to a Troop, it must go back to the player’s supply.
+A Creature is not a Unit but must be tied to a Troop:
+• It does not count against the Troop limit (5 Units max), but 
+you cannot have more than one Creature in each Troop.
+• In Battle, only the Creature’s bonuses are added to the tied 
+Troop, it does not add an additional +1 Strength (as it is not a 
+Unit in the Troop).
+• If a Creature is no longer tied to a Troop, it must go back to 
+the player’s supply.
+A player must spend X PP to recruit X Units, taking the recruited 
+Units from their supply and placing them in 1, 2, or 3 Districts of 
+their City.
+Players can only recruit into the Districts of their own City. Even 
+if a player controls a District in an opponent’s City, they cannot 
+recruit in it.
+If a player recruits into one of their Districts controlled by an opponent, 
+it immediately triggers a Battle in which the player is the attacker.
+If a player recruits into multiple Districts controlled by an opponent, 
+the player chooses in which order to resolve these Battles.
+(2 + 3 )
+lvl. 1
+ lvl. 2
+lvl. 2 + lvl. 3
+ lvl. 4
+
++
+A player moves 1 of their Troops up to its Movement value. A 
+Troop’s Movement value is always calculated at the beginning of 
+a Move action. 
+The Movement value for a Troop is a combination of 1 Land move 
+and 1 Teleportation.
+A player can play a DI card with a Move icon during their Move 
+action.
+During a Move action a player may:
+• Use each kind of move (Land move and Teleportation).
+• Move only a part of their Troop and leave some Units behind.
+• Add Units to their Troop that are in spaces their Troop passes 
+through.
+Teleportation
+A player can spend 2 PP to teleport one of their Troops from a 
+District with a Pyramid (in their City or an opponent’s) to a space 
+containing an Obelisk.
+During the same Move action, a Troop can never teleport more than 
+once.
+Note: When a player teleports a Troop, its Movement value 
+is not used.
+Land Move
+A player must spend 1 Land move to move 1 of their Troops to a 
+directly adjacent zone or between 2 Harbors over the Nile.
+ 
+Harbors:
+ 
+Harbors allow players to spend 1 Land move to move from 1 
+Harbor to another Harbor with the following restrictions:
+• Military Harbor (red): A player can move a Troop from a Military 
+Harbor to any Trading Harbor or the Military Harbor in front of 
+their City.
+• Trading Harbor (blue): A player can move a Troop from a Trading 
+Harbor into any other Trading Harbor or the Military Harbor in 
+front of their City.
+Walls:
+All City Districts are surrounded by Walls. A player’s Troop can 
+only enter a District in an opponent’s City if it starts a Move 
+action in a zone adjacent to that District and its Walls. 
+A player can only move into one opponent’s District during a 
+single Move action.
+Triggering a Battle:
+Whenever a player’s Troop enters a space containing an opponent’s 
+Troop their Move action ends, and a Battle is immediately triggered.
+Note: At the end of a move, and any Battle that may 
+have occurred, if a player controls a new Temple or level 
+4 Pyramid, they take the corresponding Temporary FP, 
+wherever it is. 
+To control a Temple or an opponent’s Pyramid, the player 
+must have a Troop in the same zone.
+If a player ever moves out of an opponent’s District with 
+a level 4 Pyramid, leaving it empty after controlling it, 
+they must return the Temporary FP to that player.
+If a player ever moves out of a Temple zone, leaving it 
+empty after controlling it, they must return the Temporary 
+FP to the supply.
+Claire would like to move her Troop from her City to the Nile east 
+bank from a distance of 3 zones.
+She has 2 options:
+A. She may teleport her Troop by spending 2 PP to place her Troop 
+directly in the Temple zone.
+B. She may only do so using Land moves if her Troop is able to 
+make 3 Land moves.
+A way to do this is to have the «Priest of Mafdet» Power tile and 
+the «Deep Desert Snake» Creature tied to this Troop, which would 
+allow it to make 3 land moves.
+(2 )
+
+3.5 Battle
+The attacker is the player whose action triggers the Battle, and 
+their opponent is the defender. The Battle only involves these 
+two players therefore no other player will be able to play DI cards 
+during this Battle.
+When effects would resolve at the same time, the attacker’s effects 
+are resolved first followed by those of the defender.
+Resolve the following steps in order, even if a player no longer has 
+a Troop in the battle:
+3.5.1 War Council
+3.5.2 Confrontation
+3.5.5 Rewards
+3.5.6 Loser’s Aftermath
+3.5.7 Winner’s Aftermath
+The attacker and defender each choose 2 Battle cards from their 
+hand:
+• The first Battle card is discarded facedown on the table and will 
+never be revealed.
+• The second Battle card will be played during the Battle and kept 
+in hand.
+The attacker and defender may add DI cards with a Battle icon to 
+their in-hand Battle card by hiding them under it. This is the only 
+time you can play DI cards during the Battle. A player can only play 
+DI cards with a cost that they have enough PP to pay.
+A player may tell their opponent they have played DI cards, but 
+need not be truthful. Players also do not need to admit to playing 
+DI cards, even if asked.
+When each player has finished selecting their cards, they 
+simultaneously reveal them and spend the required PP.
+The player who has the most Strength is the winner.
+In the case of a tie, the defender is the winner.
+The Strength of each player in the Battle is the sum of:
+• The number of Units they have in the Battle.
+• The Strength value of their played Battle card.
+• The Strength bonus provided by their Power tiles.
+• The Strength bonus provided by a Creature tied to their Troop 
+in Battle.
+• The Strength bonus provided by the DI cards they played. 
+• A +1 Strength bonus if the Battle occurs in a District of their City.
+Each Battle card has a Damage value, Unblockable damage value, and/
+or a Defense value. These values can be modified by DI cards, Creatures 
+in this Battle, and Powers.
+1) Each player in the Battle loses as many Units from their Troop 
+equal to the total Unblockable damage value their opponent has.
+2) Each player in the Battle then loses as many Units from their 
+Troop equal to the total Damage value their opponent has, 
+minus their own Defense value. 
+If the winner loses their Troop, they are still considered to be the 
+winner, even if the loser still has a Troop in the zone where the 
+Battle occurred.
+1) If the attacker is the winner and they still have a Troop in the zone 
+where the Battle occurred, they gain 1 Battle FP.
+2) If the defender is the winner, they gain 1 Veteran token.
+3) Each player involved who did not gain any FP during this Reward 
+step now gains 1 Veteran token also. This means if the defender is 
+the winner, they gain a second veteran token.
+The loser chooses to recall their Troop or retreat. 
+If the winner no longer has a Troop remaining in the zone, the loser 
+cannot retreat.
+Recall
+A player may recall their Troop, returning all of their remaining 
+Units in the zone to their supply. The player gains PP equal to the 
+number of Units returned to their supply in this way minus 1.
+Retreat
+If the winner has a Troop remaining in the zone, the loser may 
+choose to retreat. If the loser retreats, the winner chooses an 
+adjacent free zone where they move the losing Troop. This is not a 
+Move action. They cannot choose a District from a City that is not 
+the loser’s City. If no zone is available, the loser cannot retreat and 
+must recall their Troop.
+The winner now decides if they wish to recall their Troop or have 
+it stay in the zone. If the winner chooses to recall their Troop, they 
+follow the same rules for the loser recalling their Troop.
++ + 21
+
+3.6 Night Phase
+Jacques moves his Troop to a Temple controlled by Guillaume’s 
+Troop.
+• Jacques is the attacker.
+Troop: 5 Units.
+Powers:
+ * Charge! (+1 Strength when attacking),
+ * Blade of Neith (+1 Strength in Battle).
+He has 7 Strength (5+1+1).
+• Guillaume is the defender.
+Troop: 4 Units.
+Powers:
+ * Creature: Ancestral Elephant (+1 Strength to its tied Troop).
+He has 5 Strength (4+1).
+Both players secretly choose 2 Battle cards: the first Battle card is 
+discarded facedown and the other is kept in hand to be played in 
+the Battle.
+• Jacques keeps his Battle card: 3 Strength, and 2 Damage. He does 
+not play any DI cards.
+• Guillaume keeps his Battle card: 2 Strength, and 2 Defense. He 
+adds 2 DI cards which he hides under his Battle card: Bronze 
+Wall, and War Fury.
+Both players simultaneously show their cards and declare their 
+total Strength value:
+• Jacques’ Strength: 10 (7+3 from his Battle card),
+• Guillaume’s Strength: 9 (5+2 from his Battle card +2 from his DI 
+card, for which he has to spend 1 PP). 
+Jacques is the winner. 
+Casualties:
+• Jacques inflicts 2 Damage to Guillaume’s Troop, who has 4 
+Defense (his Combat card + Ancestral Elephant + Bronze Wall DI 
+card). 
+• Guillaume does not lose any Units nor does he inflict any 
+Damage.
+• As Jacques is the winner, and was the attacker, and still has a 
+Troop on the space, he gains 1 Battle FP.
+• Guillaume gains 1 Veteran token as he is the loser.
+Each player discards the Battle card they played and resolved 
+faceup. The Battle cards discarded during the War Council step 
+are left facedown and not revealed.
+If a player has discarded all their Battle cards, they immediately 
+take all of their Battle cards back to their hand. DI cards played 
+during the Battle are discarded faceup near the DI deck.
+Resolve the following steps in order:
+Offering
+The player that controls The Sanctuary of All Gods may remove 2 
+Units from that Troop to gain 1 Divine FP.
+Delta Temple control
+The player that controls the Delta Temple may remove 1 Unit from 
+that Troop to gain 5 PP.
+Temple control
+Each player that controls at least 2 Temples gains 1 Divine FP.
+Adoration
+Each player gains the number of PP shown on the Temples they 
+control (other than the Delta Temple)
+Prayers
+Each player gains 2 PP and can discard X Veteran tokens to earn 
+X PP.
+Divine Intervention 
+In turn order, each player draws 1 DI card and may discard 
+Veteran tokens to draw 1 DI card for each.
+Conscription
+In turn order, each player may discard X Veteran tokens to place X 
+Units in free Districts of their City. 
+The player then discards any remaining Veteran tokens they have.
+Awakening
+Each player takes back their Action tokens and places them into 
+their supply.
+Destiny
+Move the Order markers below their current space on the Turn 
+Order track. 
+Starting with the player that has the fewest FP, then in ascending 
+FP order, each player chooses their position on the Turn Order 
+track by placing their Order marker on an empty space. 
+In case of a tie for FP, the tied player whose Order marker was 
+leftmost on the Order track during the previous round chooses 
+first and so on.
+3.5.8 Battle Ending
++ + 21
+• Guillaume chooses to recall his Troop: he recalls 4 Units, gains 3 
+PP and puts his Creature in his supply.
+• Jacques could also recall his Troop, but he prefers to leave it in 
+the zone where the battle occurred.
+• Played cards are put in their respective discard piles.
+
+4.1 Index
+Power tiles
+Power tiles are divided into 4 families corresponding to the 4 
+different Pyramid colors. Each family is split into 4 levels, with 4 
+tiles from each level, meaning 16 Power tiles within each family 
+(Ruby: Strength and Movement, Sapphire: Defense and Recruitment, 
+Diamond: Prayer Points and DI cards, Onyx: Strength and Defense).
+Prayer Points (PP) and Prayer Points track
+The Prayer Points icon is an ankh , and are the central resource of 
+the game you spend to trigger different actions.
+For each PP you gain, move your Prayer token 1 space to the right on 
+your PP track.
+For each PP you spend, move your Prayer token 1 space to the left on 
+your PP track.
+You can never have more than 11 PP.
+Controlling a zone
+A player controls a zone other than a District in their City if only 
+they have a Troop in it. A player controls a District of their City if 
+there is no opposing Troop in it. Immediately when a player has no 
+Troop in an opponent’s District with a level 4 Pyramid or a Temple, 
+they give back the corresponding Temporary FP.
+Free zone
+A zone is considered free for a player if no opposing Troop is in it, 
+allowing the player to place a troop in this zone without triggering 
+a Battle. As a reminder, the player must still conform to the Troop 
+limit rule and any other restrictions.
+Units and Troops
+All Units belonging to a player in a zone form a Troop. A Troop can 
+contain 5 Units at most. This is known as the Troop limit. A Creature 
+tied to a Troop does not count towards this limit.
+Important!
+When moving, a Troop may temporarily exceed the Troop limit (5 
+Units) provided the Troop limit is complied with at the end of the 
+Move action for each Troop on the board. 
+Likewise, more than one Creature may temporarily be in the same 
+zone provided the Creature limit (1 Creature per Troop) is followed at 
+the end of the Move action.
+When Units are removed from the board, for any reason, they go 
+back to their owner’s supply.
+Cards
+Hand size is unlimited. The number of each kind of card that a player 
+has in their hand is public knowledge, but the cards themselves are 
+kept secret. 
+Revealed Battle card discard piles and DI cards discard pile are public 
+to all players.
+Whenever the DI deck is empty, shuffle the DI discard pile to create 
+a new DI deck.
+To play a DI card, pay its cost in PP during the Phase corresponding 
+to its icon.
+Battle (page 9)
+3.5 Battle
+Day Phase (page 6)
+3.2 Day Phase
+Damage (page 9)
+Defense (page 9)
+District (page 8, 9, 11)
+Free Zone (page 11)
+Land move (page 8)
+Night Phase (page 10)
+3.6 Night Phase
+Military Harbor (page 8)
+Round (page 5)
+3.1 Introduction
+Strength (page 9)
+Teleportation (page 8)
+Trading harbor (page 8)
+Troop (page 11)
+Unblockable damage (page 9)
+Winner (page 9)
+Zone (page 2, 3)
+4- GLOSSARY
+
+TABLE OF CONTENTS
+CREDITS
+Designer : 
+Jacques Bariot and Guillaume Montiage
+Illustrator : 
+Pierre Santamaria, Pascal Quidault, Emile Denis and Dimitri Bielak
+Game development : 
+David Bertolo
+Graphic design : 
+Anthony Questel, Chris Byer, Camille Durand - Kriegel and Denis 
+Hervouet
+Special thanks :
+We would like to thank all those who have been involved in making 
+this project a success.
+First of all, those who took their time to test the game, criticize it, make 
+it evolve, and thus improve it. Among these people, too numerous 
+to mention here, we would like to thank our most faithful team of 
+Players: Claire, Stella, Etienne, Pierre, Fred, Olivier, Ian, and Will.
+Then, a big thank you to the «Matagang» of the Matagot editions, for its 
+involvement: to Magali, Antoine, Anthony, Pierre, Denis, Camille, Valeria, 
+Marie, Clara, Sabrina, Chris&Chris, Raphaël Biolluz, and Zongxiu, of 
+course, but more specifically to Arnaud and David for all the work done.
+But also, a big thank you to the whole community present on 
+BoardGameGeek, Tric Trac, Kickstater, Facebook and Instagram 
+for all your feedback, your support and your precious help in the 
+realization of this project.
+Finally, a big thank you to all the players who chose to trust this project 
+via crowdfunding, and who made us experience so many strong emotions.
+There is no doubt that the result will be exceptional...
+Guillaume and Jacques
+1 - COMPONENTS (Page 2)
+1.2 Individual boards (Page 3)
+1.3 Power tiles
+1.4 Divine intervention cards
+1.5 Battle cards
+1.6 Pyramids level
+2 - SETUP (Page 4)
+2.1 Common Setup
+2.2 Individual Setup (Page 5)
+2.3 Before starting to play
+3 - GAMEPLAY (Page 6)
+3.1 - Introduction
+3.2 - Day Phase
+3.3 - End of game
+3.4 - Actions
+3.5 - Battle (Page 9)
+3.6 - Night Phase (Page 10)
+4 - GLOSSARY (Page 11)

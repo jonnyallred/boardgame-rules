@@ -1,0 +1,1474 @@
+City of Heroes CCG Technical (Comprehensive) Rules, version 0.545 
+written by the Mojo Dojo (Ray Shell, Bill Thomas, Jamie Thomas, Doug Silvey, Frank Kallal, 
+Tom O’Brien) 
+ 
+100. General 
+ 
+101.1 Any player who controls a hero that has a health total zero or less when priority is passed 
+loses the game. 
+ 
+101.2 A player may only control one hero at any time. A deck may only contain one hero. 
+ 
+102.1 Any time a card contradicts these rules, the card takes precedence over these rules. Any 
+time one card says you can do something and another says you can’t, the one that says you can’t 
+takes precedence. 
+ 
+103.1 When a game begins, all players search their deck for their hero and a copy of each of that 
+hero’s starting powers. All players then simultaneously reveal their heroes and starting powers. 
+The heroes are then put into play in Toe-to-Toe tactics mode with the starting powers attached. 
+All players shuffle their decks, and present them to an opponent for an opportunity to cut. After 
+this, each player draws a starting hand of 5 cards, and a starting player is chosen at random. All 
+players agree then agree to the subsequent turn order. Then the starting player is given priority, 
+and the game begins. 
+ 
+103.2 If no specific turn order is agreed to, the default turn order is clockwise seating 
+arrangement. 
+ 
+104.1 A game between two player is called a single player game. A game with three or more 
+players is called a multiplayer game. Before the game begins, players can choose to be allied 
+with one another on a team. A team is a group of allied players. A team is allowed to have just 
+one player. 
+ 
+104.2 A player’s opponents are all non-allied players. 
+ 
+105.1 A single player game ends when there is only one hero with a health total greater than 
+zero. That hero’s controller wins the game. 
+ 
+105.2 A multiplayer game ends when there is only one team with at least one hero with a health 
+total greater than zero. The players on that team win the game. 
+
+200. The Cards and Other Housekeeping Items 
+ 
+201.1 A card’s owner is the person who physically owns a card (i.e. the person who brought the 
+card to the game). A card’s controller is the person who may use the abilities on that card. A 
+card’s controller may change throughout a game. A card’s owner may not. 
+ 
+201.2 An opposing card is a card controlled by a non-allied player. 
+ 
+201.3 A card’s controller is the player who may activate that card’s abilities. Initially, a card is 
+controlled by the player who puts that card into play. 
+ 
+202.1 A super is either a hero card or a sidekick card. A super’s ally is another super controlled 
+by that super’s controller or supers controlled by other allied players during a multiplayer game. 
+A super is not an ally of itself. 
+ 
+202.2 A hero card is the card that represents your main superhero during the game. 
+ 
+202.2a A hero card has the following parts: name, powersets, starting powers, text box, 
+archetype, travel power, accuracy, defense, and health. 
+ 
+202.3 A sidekick card is a card that represents a minor superhero that helps out your hero during 
+a game. 
+ 
+202.3a A sidekick card has the following parts: name, powersets, text box, archetype, 
+travel power, inspiration, accuracy, defense, and health. 
+ 
+202.4 A power card is a card that attaches to supers and gives their controller extra abilities to 
+use. 
+ 
+202.4a A power card has the following parts: name, powerset, text box, charging icon, 
+and inspiration. 
+ 
+202.5 An enhancement card is a card that attaches to powers and modifies the attaching power’s 
+abilities. 
+ 
+ 
+202.5a An enhancement card has the following parts: name, text box, and inspiration. 
+ 
+202.6 An attachment is either a power or an enhancement. A super’s attachments are all of his 
+powers plus the enhancements attached to those powers. 
+ 
+202.7 An edge card is a card that a player may play for an one-time ability. 
+ 
+ 
+202.7a An edge card has the following parts: name, text box, and inspiration. 
+ 
+202.8 A mission card is a card that remains in play and may have a continuous effect on the 
+game. It represents the force and influence of villains during the game. 
+
+ 
+202.8a A mission card has the following parts: name, text box, inspiration, defense, and 
+health. 
+ 
+203.1 A card’s name is the identifier for a card. Other cards may be in play with the same name, 
+but each copy retains its own separate values for stats like accuracy, defense, and health. 
+ 
+203.2a A powerset is a group of powers that a super may attach. Most supers have more than 
+one powerset. 
+ 
+203.2b A power’s powerset denotes the group of powers that the power belongs to. Effects and 
+abilities that refer to a specific powerset power refer to a power card that has that powerset. 
+ 
+203.3 A hero’s starting powers are the ones named above its text box. No substitution of starting 
+powers is allowed. 
+ 
+203.3a Starting powers are attached to a hero ignoring the power’s entering play 
+requirements. 
+ 
+203.3b If a player does not have one of a hero’s starting powers in his deck, he simply 
+does not attach that power. 
+ 
+203.3c If a hero’s starting power is attached to the hero during the game, it is still 
+considered one of that hero’s starting powers. 
+ 
+203.4 A card’s text box is the place where most of the writing on the card appears. There are 
+three types of text that appears a text box: rules text, flavor text, and reminder text. 
+ 
+203.4a Rules text, written in plain type, is the instructions that affect gameplay. 
+ 
+203.4b Flavor text, written in italic type, are the quotations and stories written on the 
+card to inform players about the card’s place in the City of Heroes universe. It does not 
+affect gameplay. 
+ 
+203.4c Reminder text, written within parenthesis and in italic type, are visual cues to 
+players about certain rules and interpretations. It does not affect gameplay. 
+ 
+203.5 A super’s archetype designates what types of skills the super has. Each super has an 
+archetype icon in the upper right corner. 
+ 
+203.5a The archetypes in City of Heroes are: Blaster, Scrapper, Defender, Controller, 
+and Tanker. 
+ 
+203.5b These archetypes have no inherent abilities in City of Heroes. However, many 
+edge and power cards have rules text and requirements that reference them. 
+ 
+
+203.6 A super’s travel power represents exactly how that super gets around Paragon City. Each 
+super has a travel power as displayed by the icon in the lower right corner. 
+ 
+203.6a The travel powers in City of Heroes are: Flight, Superspeed, Superjump, and 
+Teleport. 
+ 
+203.6b These powers have no inherent abilities in City of Heroes. However, many edge 
+and power cards have rules text and requirements that reference them. 
+ 
+203.6c Travel powers do not count as powers (power cards). Abilities that affect and/or 
+target powers may not target or affect travel powers. 
+ 
+203.7 A value is a number that the game keeps track of. All values are integers. 
+ 
+203.8 A super’s accuracy is the factor that determines if that super’s attacks hit the target. This 
+is a value that kept track of throughout the game as it fluctuates. 
+ 
+203.8a There is no minimum or maximum accuracy. A super’s accuracy can be negative. 
+Abilities that affect a super’s accuracy will instruct if rounding is necessary. 
+ 
+203.9 A super’s (or mission’s) defense is the factor that determines if that super is hit by attacks 
+directed at him. This is a value that kept track of throughout the game as it fluctuates. 
+ 
+203.9a There is no minimum or maximum defense. A super’s defense can be negative. 
+Abilities that affect a super’s defense will instruct if rounding is necessary. 
+ 
+203.10 A super’s (or mission’s) health is the factor that determines when the super is defeated. 
+This is a value that kept track of throughout the game as it fluctuates. 
+ 
+203.10a A super’s starting health is the number printed in his health circle. This value is 
+also kept track of throughout the game. A super’s starting health may change as a result 
+of an effect. 
+ 
+203.10b A super’s health may not be higher than his starting health. A super’s health can 
+be negative. (Usually, this results in the super being removed from the game and potential 
+loss for his controller.) Abilities that affect a super’s health will instruct if rounding is 
+necessary. 
+ 
+203.11 A card’s inspiration is the alternate ability a card has represented by an icon in the lower 
+left corner. Hero cards do not have an inspiration. 
+ 
+203.11a The inspirations in City of Heroes are: Insight, Luck, Respite, Catch a Breath, 
+Break Free, and Enrage. 
+ 
+203.12 A power’s charging icon is the symbol located halfway down the left side of the card. 
+This shows what type of power that power is. 
+
+ 
+203.12a Most powers are click powers. Click powers have a number (either 1, 2, or 3) in 
+their charging icon. The number in the icon is the number of clicks you must charge the 
+power in order to activate one of its abilities. 
+ 
+203.12b Toggle powers are powers that have the phrase “Off/On” in their charging 
+icons. Toggle powers are activated by charging the power two clicks. 
+ 
+203.12c Constant powers have the letter “C” in their charging icons. Constant powers are 
+not charged any clicks when they are activated. 
+ 
+204.1 A click refers to a turn of a card to show it has been utilized. Clicks are shown by 90 
+degree turns. Powers are the only cards allowed to be clicked or receive clicks. 
+ 
+204.2 A card is ready if it has no clicks. In other words, it is ready if it is not moved any 90 
+degree turns. A power’s abilities may not be activated unless it is ready. Before a game begins, 
+all players must agree which way their charged cards will be turned. (Usually cards are turned 
+clockwise.) A card that is turned 90 degrees is said to have 1 click. A card that is turned 180 
+degrees is said to have 2 clicks. A card that is turned 270 degrees is said to have 3 clicks. 
+ 
+204.3a A power may only be in one of four different states: ready, 1 click, 2 clicks, or 3 clicks. 
+A power may not be charged any more than 3 clicks. Any effects to charge a power further than 
+3 clicks only charge it to 3 clicks. A power may not be recharged past ready. Any effects 
+(including Recharge actions) that would recharge a power further than ready only recharge it to 
+ready. 
+ 
+204.3b Effects that would charge or recharge a power may not charge them from ready to 3 
+clicks directly or vice-versa. In other words: A power at ready may only be charged to 1 click. A 
+power at 1 click may only be charged to 2 clicks or recharged to 1 click. A power at 2 clicks may 
+only be charged to 3 clicks or recharged to 1 click. A power at 3 clicks may only be recharged to 
+2 clicks. 
+ 
+205.1 Cards at any time during the game are in one of many game zones. Each player receives 
+their own instances of these zones at the beginning of the game. The game zones are Hand, 
+Deck, In Play, Discard Pile, and Removed From the Game. 
+ 
+205.2 The Hand zone is the place where cards are kept but not yet played. Cards that are drawn 
+go to their owner’s hand zone. 
+ 
+205.2a Players may count (or ask the count of) the number of cards in any Hand at any 
+time. 
+ 
+205.3 The Deck zone contains all of the cards in your deck. Cards that are drawn come from the 
+top of the deck. 
+ 
+
+205.3a Players may count (or ask the count of) the number of cards in any deck zone at 
+any time. 
+ 
+205.4 The In Play zone contains all of the cards that have been played but don’t immediately go 
+to the discard pile. Most cards go to the In Play zone after being put into play by an action. 
+ 
+205.5 The Discard Pile zone contains cards that are sent there by game instructions or card text. 
+ 
+205.5a The discard pile is a stack, and the order of cards in the discard pile may not be 
+voluntarily changed. 
+ 
+205.5b Players may examine the contents and count (or ask to be counted) the number of 
+cards in any discard pile at any time. 
+ 
+205.6 The Removed From the Game zone contains cards specifically sent there by game 
+instructions or card text. 
+ 
+205.6a Cards in the removed from the game zone may not be targeted by abilities. Cards 
+in the removed from the game zone are not shuffled into a player’s deck when that 
+player’s discard pile is reshuffled. 
+ 
+205.6b Players may examine the contents of any player’s removed from game zone at 
+any time. 
+ 
+206.1 An object is any card, player, or token in the game. All abilities and traits affects one or 
+more objects. 
+ 
+206.2 A token is an object that certain abilities or effect create to keep track of certain things or 
+to represent a card created by an ability. Most tokens are represented by beads, coins, dice, or 
+other things players have handy. 
+
+300. Playing the Game, Taking Actions and Reacts 
+ 
+301.1 A game of City of Heroes is played by players taking actions in turn order. There are no 
+phases or other turn structure in the game. 
+ 
+301.2 The player who is taking an action is called the active player. The active player has 
+priority. When the active player is finished with their action, priority is passed to the next player. 
+Then they become the active player. 
+ 
+301.3 A player may only take an action if they have priority. A player may only play one action 
+each time they receive priority. 
+ 
+302.1 When a player has priority, he must choose one of the following actions to take. After 
+choosing an action, all of its effects must be completed before priority is passed to the next 
+player. This choice of an action and the choices that action requires often are referred to as an 
+action being declared or an action being performed. 
+ 
+302.1a Power Up. When a player takes a Power Up action, he chooses a power, 
+enhancement, or sidekick card in his hand. This card is revealed to all players. 
+ 
+If the player chooses a power, he chooses a super he controls. The power is then attached 
+to the super. If the super does not meet the requirements of the power, the power is 
+discarded instead. If a copy of the power is already attached to the super, then the power 
+is discarded instead. 
+ 
+If the player chooses an enhancement, he chooses a power in play he controls. The 
+enhancement is attached to the power. If the power or super does not meet the 
+requirements of the enhancement, the enhancement is discarded instead. If a copy of the 
+enhancement is already attached to the power, the enhancement is discarded instead. 
+ 
+If the player chooses a sidekick, he puts the card into play in Toe-to-Toe tactics mode. If 
+the player already has a sidekick in play, then the sidekick is discarded instead. 
+ 
+302.1b Act. When a player takes an Act action, he chooses an edge card in his hand, 
+innate ability on a super he controls, or a ready Power attached to a super he controls. 
+Edge cards (and other cards used for their inspirations) are revealed to all players. He 
+then chooses an ability to use (if there is more than one) from the card. React abilities 
+may not be chosen in this way. If the card chosen was a card from the player’s hand, then 
+the card is discarded. After paying the costs of the ability (which include charging powers 
+or revealing an edge card) and choosing targets as necessary, the effects of the action are 
+resolved. 
+ 
+302.1c Move. When a player takes a Move action, he chooses one of his supers. That 
+super then changes from Toe-to-Toe to Run-‘n’-Gun tactics mode or vice-versa. 
+ 
+
+302.1d Assemble. When a player takes an Assemble action, he searches his deck for a 
+sidekick card. Afterwards, he reveals the card found to all opponents and puts the card in 
+his hand. A player may fail or decline to find a sidekick card. Then the player shuffles his 
+deck and presents it to an opponent for an opportunity to cut. 
+ 
+302.1e Recharge. When a player takes a Recharge action, he recharges all powers 
+attached to supers he controls one click towards ready. A player may choose not to 
+recharge a toggle power that is turned on. 
+ 
+302.1f Mission. When a player takes a Mission action, he chooses a mission card in his 
+hand. After revealing the card, he puts the mission into play, and all other mission cards 
+in play are discarded. If this player already controls a mission in play or a mission card of 
+the same name has been completed, the mission card is discarded instead. 
+ 
+302.1g Rest. When a player takes a Rest action, he draws two cards. 
+ 
+302.1h Defeat. When a player takes a Defeat action, he chooses a mission in play. If he 
+pays the defeat cost listed on the card, then the mission is completed, and he chooses one 
+of his supers in play and places the mission under that super. For the rest of the game, 
+that super is considered to have defeated that mission. If he chooses to not pay the cost, 
+then this action is canceled. A player may not take this action if there is not a mission in 
+play with a defeat cost. 
+ 
+302.1i Power Down. When a player takes a Power Down action, he chooses an active 
+toggle power he controls in play. The toggle power is turned off. A player may not take 
+this action if he does not control an active toggle power. 
+ 
+302.2 After the action and all subsequent reacts are resolved, priority is passed to the next 
+player. 
+ 
+302.3 If an effect says a player may do something as an action, then he may choose to do that 
+instead of choosing any of the regular actions listed. If an effect says a player may perform an 
+ability that is an action, then he may choose that ability during an Act action. 
+ 
+303.1 A super is always in one of two tactics modes: Toe-to-Toe or Run-‘n’-Gun. A super may 
+not be using both modes at the same time. Usually this is represented by a hero being pushed up 
+(Toe-to-Toe) or pushed back (Run-‘n’-Gun). 
+ 
+303.2 Any number of supers may be using the same tactics mode at the same time. A player 
+may control multiple supers using the same tactics mode at a given time. A tactics mode does not 
+give any inherent abilities or benefits. 
+ 
+304.1 Some powers have a phrase in bold print that says “Requires <powerset name> 
+Powerset”. This phrase is called a power’s requirement. This means that the super must have the 
+specific powerset to satisfy its requirement. 
+ 
+
+304.2 Some powers have a phrase in bold print that says “Requires X <powerset name> 
+Powers.” This is also a power’s requirement. This means that the super must have before 
+attaching this power at least X <powerset name> powers attached to satisfy its requirement. 
+ 
+304.3a A toggle power that is at 2 or more clicks is “turned on”. A toggle power has a 
+continuous effect while it is turned on. If an effect “turns on” a toggle power, the power is 
+charged to 2 clicks. A toggle power that is at 1 or fewer clicks is “turned off”. If an effect “turns 
+off” a toggle power, the power is recharged to 1 click. 
+ 
+304.3b A super may not have more than 2 toggle powers turned on. A player may not choose a 
+toggle power during an Act action if the super that the toggle power is attached to already has at 
+least 2 toggle powers turned on. A player not target a toggle power he controls to rotate (so that 
+the power would be active) as part of an ability’s effect if the super that the toggle power is 
+attached to already has at least its maximum number of toggle powers turned on. A player not 
+choose to click a toggle power (so that the power would be active) for an ability’s cost if the 
+super that the toggle power is attached to already has at least its maximum number of toggle 
+powers turned on. 
+ 
+304.3c A toggle power that is turned on may only be voluntarily turned off by recharging it 
+during a Recharge action or choosing it during a Power Down action. 
+ 
+305.1 There are two types of abilities in City of Heroes: Actions and Reacts. Reacts are abilities 
+that can be played outside of the normal action structure. However, each react has a very specific 
+time when they can be used. React abilities may not be chosen during an Act action. Using a 
+react does not “use up” a player’s action the next time they receive priority. 
+ 
+305.2 The specific time a react may be played is called a react trigger. The react trigger is the 
+text between the two colons in a react ability’s text. 
+ 
+For example, the edge, Learning Curve, reads, “React: Play when an opponent puts a 
+power into play: Charge the Power 1 click (90 degrees clockwise).” A player may only 
+play the edge immediately when the power enters play. The player may not play it before 
+the ability putting the power into play resolves. The player may not play it during his next 
+action. 
+ 
+305.2a A react trigger is made up of two parts: a timing word and an event. The timing 
+words in City of Heroes are: before, when, and after. The event is the actual condition or 
+ability that occurs to allow the react to be played. 
+ 
+305.2b A react with a “before” timing word interrupts the event’s resolution directly 
+before it is carried out. All choices made for the action or react for which the event is or 
+within do not change. A player may interrupt his own actions or reacts with a react with a 
+“before” timing word. Triggered effects that trigger before an event occurs resolve before 
+any “before” reacts may be played. The current instruction resolves after all “before” 
+reacts resolve. 
+ 
+
+For example, a player chooses an attack power to be activated. That player reacts with 
+Critical Strike, an edge that reads, “React: Play before this super activates an attack 
+power: The power inflicts +1 damage (of each damage type), +2 damage if this super is 
+a scrapper.” The activation of the power is interrupted until the react resolves. Then the 
+power becomes activated. 
+ 
+305.2c A react with a “when” timing word interrupts play directly after an after an event 
+is carried out. Triggered effects that trigger when an event occurs resolve before any 
+“when” reacts may be played. The next instruction in the current effect may not resolve 
+until all “when” reacts resolve. 
+ 
+305.2d A react with an “after” timing word interrupts play after any triggered effects that 
+trigger after the event occurs resolve. The next instruction in the current effect may not 
+resolve until all “after” reacts resolve. A player may play “when” reacts at times when he 
+could play “after” reacts. 
+ 
+305.2e The event in a react trigger may be very specific. A player may request another 
+player to slow down their current action or react to make sure they can play their own 
+react(s) at the correct time. 
+ 
+305.3 Interrupting the normal flow of an ability with a react is called a react opportunity. When 
+a react trigger occurs, state that you have a react to play. Choose the card either in play or reveal 
+the card from your hand with the react ability you want to play. If there is more than one react 
+ability with an appropriate react trigger on the card, choose one of those abilities. If the card 
+chosen was a card from the player’s hand (including inspirations), then the card is discarded. Pay 
+any costs associated with the react (including charging powers) and choose targets as necessary. 
+Resolve the effects of the ability. 
+ 
+305.4 Some reacts may interrupt the flow of a react. These abilities will have react triggers that 
+state when they may interrupt. 
+ 
+305.5a Sometimes more than one player wishes to play a react at the same time. If this happens, 
+start with the active player and continue in turn order playing reacts until everyone plays all the 
+reacts they wish. A player may decline to react at first, and then react after another player 
+reacted. 
+ 
+305.5b A react trigger is over when all players decline to react to that trigger. A player may 
+decline to react to a given react trigger, but after another player plays a react ability to that 
+trigger, he may then react to the trigger after the other player’s react resolves. 
+ 
+305.6 React abilities on supers and powers may be used many times during the course of a 
+game, but they may only be used once per occurrence of a react trigger. 
+ 
+For example, a super has the text, “React: After an opposing super moves: This super 
+may perform an attack.” That super may only use this react once each time an opposing 
+
+super moves. If the super has another instance of this react, then you may use each 
+instance once per move. 
+ 
+306.1a An attack ability is a subset of actions. An attack ability has “Melee Attack,” or “Ranged 
+Attack,” as the first sentence of its text. Every attack states what the effects are if the attack is 
+successful (which includes damage and status effects). A successful attack is called a hit. An 
+unsuccessful attack is called a miss. If you choose an attack ability, the process for declaring an 
+attack ability and resolving its effects are slightly different from a regular ability during an Act 
+action. 
+ 
+306.1b An area attack is a subset of attack abilities. An area attack ability has “Melee area 
+attack,” or “Ranged area attack,” as the first sentence of its text. An area attack is allowed to 
+target more than one super. Each area attack ability specifically states which supers can be 
+targeted. Area attacks can miss some targets and hit others during the same attack. All targets hit 
+with an area attack have the attack’s full effects resolved against each one. 
+ 
+306.1c The super whose powers or innate ability is the source of the attack ability is called the 
+attacker or the attacking super. A super being targeted with an attack ability is called the 
+defender or defending super. 
+ 
+306.2 Each of the following instructions are broken down because many react triggers could 
+occurring during an attack. 
+ 
+ 
+306.2a The player chooses which power and attack ability he will use. 
+ 
+ 
+306.2b Pay all costs associated with the ability. (This includes charging the power.) 
+ 
+306.2c Declare the target(s) of the attack. Opposing supers are the only legal targets. 
+Depending on what tactics mode you and the target(s) are in, chasing costs may need to 
+be paid now. If you can’t discard enough cards to pay the chasing cost for a target, the 
+attack misses that target. If all targets’ chasing costs are not paid, then the ability is 
+canceled. If the ability is redirected, you may have to pay chasing costs again. (See rule 
+411.5.) 
+ 
+Chasing costs are as follows: If it is a Melee attack, the attacking super is in Toe-to-Toe, 
+and the target is in Run-‘n’-Gun, then the cost is one card. If however, the attacking super 
+is also in Run-‘n’-Gun, then the cost is two cards. If the attack is Ranged, and the 
+attacking super and the target are in Run-‘n’-Gun, the cost is one card. All other attacks 
+don’t have a chasing cost. 
+ 
+306.2d After chasing costs are paid, players have a final chance to change the attacking 
+and defending supers’ stats. (Remember the active player reacts first if many players 
+want to react now.) 
+ 
+306.2e Compare the attacking super’s accuracy to each defending super’s defense. If the 
+attacker’s accuracy is greater than or equal to the defender’s defense, then the attack hits. 
+
+Resolve the attack’s effects. If the attacker’s accuracy is less than the defender’s defense, 
+then the attack misses. The attack’s effects are not resolved. If there is more than one 
+target, the attacker chooses the order of checking accuracy among the targets. 
+ 
+306.3 Not all powers have attack abilities. Abilities chosen during an Act action that are not 
+attack abilities follow the normal procedure for playing an ability. 
+ 
+307.1 Many abilities have costs. An ability’s cost are the things a player must do in order to play 
+that ability. All click powers’ abilities charge the power as part of its cost. 
+ 
+307.2 Any ability that is activated and does not have all of its costs paid is canceled. 
+ 
+307.3 Some abilities have explicit additional costs. These costs are stated directly in their text. 
+All of an ability’s costs may be paid in any order. 
+ 
+307.3a An action’s additional cost is denoted between two colons. A react’s additional 
+cost is denoted after its react trigger by a comma. 
+ 
+For example, the edge Arcane Ritual reads, “Action: Discard two cards: Rotate all of 
+your powers to the ready position.” When a player activates this ability and reveals this 
+edge, he must also discard 2 cards as a cost. If the player doesn’t have 2 additional cards 
+to discard, then the cost is will not be paid. 
+
+400. Abilities, Effects, and Traits 
+ 
+401.1a An ability on a card is denoted by the phrase “Action:” or “React:” in bold print. A card 
+may have multiple abilities. Abilities are separated on a card by a blank line. 
+ 
+401.1b An ability or power is activated when it is chosen during a react opportunity or an Act 
+action. An ability is played when all of its costs are paid. 
+ 
+401.1c An instruction is a sentence in the text of an ability. 
+ 
+401.2a An effect is the instructions carried out after an ability resolves. 
+ 
+401.2b A continuous effect is an effect generated by a trait or ability that continuously affects 
+the game. 
+ 
+401.3a A trait is a sentence of rules text that creates a continuous effect while the card with the 
+trait is in play or in a player’s hand. Most toggle powers have a trait describing what they do 
+while they are turned on. Some edge cards have traits that state alternate things that those cards 
+can do while in a player’s hand. 
+ 
+401.3b Some traits and abilities only affect play when a certain condition is met. These traits 
+and abilities produce triggered effects. The condition that causes the triggered effect to affect 
+play is called the effect’s trigger. The effects are only produced once each time the trigger 
+happens. 
+ 
+401.3c Triggered effects resolve before any reacts may be played to the same trigger. If more 
+than one player controls triggered effects to a trigger, the active player resolves his triggered 
+effects first and then each player in turn order resolves theirs. If any other triggered effects 
+trigger while these triggered effects are resolving, the new triggered effects interrupt those and 
+resolve before them. Remember turn order if multiple triggers chain together. 
+ 
+401.4 Most supers have abilities written in their text boxes. These are referred to as innate 
+abilities. These abilities are not powers. Abilities that affect and/or target powers may not target 
+or affect these innate abilities. 
+ 
+401.5 If an effect says that a super gains hit points, then that super’s Health is increased by that 
+number. A super’s Health may not increase above its printed starting Health. Effects that would 
+increase a super’s Health above its starting Health only increase it to its starting Health. If an 
+effect says that a super loses hit points, takes damage, or is inflicted damage, reduce that super’s 
+Health by that number. 
+ 
+401.6 Abilities and effects that refer to actions may not be applied to reacts. Abilities and effects 
+that refer to reacts may not be applied to actions. 
+ 
+
+For example, a power on a super reads, “React: After this super is targeted by an action: 
+Cancel the action.” If a player plays a react edge targeting that super, then it can’t be 
+canceled with that power. 
+ 
+401.7a If an effect would have you do something you can’t do, do as much as you can. For 
+example, if an effect makes you discard three cards and you only have one, discard that card. 
+Ignore the other discards. 
+ 
+401.7b If an effect would affect a deck (by drawing, revealing, or searching for cards, etc.) and 
+the deck is emptied during the resolution of that effect, that deck’s controller shuffles the 
+contents of his discard pile and presents it to an opponent for an opportunity to cut. Those cards 
+then become that player’s new deck. The effect then finishes its resolution. For example, a 
+player takes a rest action. That player’s deck has 1 card in it. The player draws the last card in 
+his deck. He shuffles his discard pile and presents it to an opponent for a cut. He then draws his 
+second card. 
+ 
+401.8a Some effects instruct a super to do something that it can’t do. Its controller does it 
+instead. 
+ 
+For example, an attack reads, “Action: Melee attack. Inflict 3 energy damage. The target 
+discards a card.” The super does not have a hand, but its controller does. So after the 
+attack hits, the targeted super’s Health is reduced by 3 and its controller discards a card. 
+ 
+401.8b Some effects instruct a player to do something that doesn’t apply to players. The effect is 
+applied to the source or the super that the source is attached to instead. 
+ 
+401.9 An ability or power is activated when it is chosen during a react opportunity or an Act 
+action. Abilities on powers may only be chosen if the power is ready. 
+ 
+401.10 Effects that turn a card are considered to charge that card if it is turned away from ready. 
+Effects that turn a card towards ready are considered to recharge that card. Effects that charge a 
+card a number of clicks turn that card that number of clicks away from ready. Effects that 
+recharge a card a number of clicks turn that card that number of clicks towards ready. 
+ 
+401.11 If an effect says to move a super, then that super’s tactics mode is switched from Toe-to-
+Toe to Run-‘n’-Gun or vice-versa. If an ability refers to a super moving, then it refers to when a 
+super switches tactics modes. 
+ 
+401.12a Effects that increase values, durations, or damage are called bonuses. Effects that 
+decrease values, durations, or damage are called penalties. 
+ 
+401.12b Some effects and traits give bonuses and penalties to values that powers don’t have. 
+These bonuses and penalties are applied to the supers that those powers are attached to when a 
+player chooses an ability on that power. These bonuses and penalties also apply to supers that 
+use an ability from another super during a copy ability of their own. 
+ 
+
+401.12c If an effect gives a damage bonus for all damage types to an attack or a power, the 
+bonus is only applied to damage types the attack or attack abilities on that power have. 
+ 
+401.13 An effect that searches for a card allows a player to look through a deck (usually the 
+controller of the effect’s) and find a copy of a card that the effect specifies. An effect that 
+retrieves a card allows a player to search their deck and find a card specified by the effect. He 
+puts the card in his hand. After an effect searches or retrieves a card, the owner shuffles the deck. 
+After the deck is shuffled, it is presented to an opponent for an opportunity to cut. 
+ 
+401.14 If an effect gives a player a choice to do something that would normally have an 
+additional cost to do because of a status effect or another ability’s effect, then the player must 
+pay that cost before choosing to do that. If an effect gives a player a choice to do something that 
+he can’t do because of a status effect or another ability’s effect, then the player may not choose 
+to do that. 
+ 
+For example, Night Strike’s signature power, Hit and Run, reads, “Action: Melee attack. 
+Inflict 4 lethal damage. Night Strike may move to Toe-to-Toe or Run-n-Gun.” If Night 
+Strike is Immobilized when he hits and resolves this attack, however, he may not choose 
+to move. 
+ 
+402.1 Instructions on abilities are carried out one sentence at a time when their effects resolve. 
+They are carried out in the order listed on the card. 
+ 
+402.2 Reacts may interrupt the resolution of an ability’s effects. After all reacts to a particular 
+instruction are resolved, the original effect continues resolving. 
+ 
+403.1 Almost every non-hero card has an inspiration icon in the lower left corner. A card with 
+an inspiration may be used for its inspiration ability instead of the card’s printed type and/or 
+abilities. 
+ 
+403.2 When a card is used for its inspiration ability, the card is treated just like an edge card that 
+has the inspiration’s corresponding text. The inspirations and their abilities are: 
+ 
+403.2a Insight. React: When an attack from your super is targeted: Add +2 to that 
+super’s Accuracy for the attack. 
+ 
+403.2b Luck. React: When your super is targeted by an attack: Add +2 to that super’s 
+Defense for the attack. 
+ 
+ 
+403.2c Respite. Action: Heal one of your supers 2 hit points. 
+ 
+ 
+403.2d Catch a Breath. Action: Draw three cards. 
+ 
+403.2e Break Free. React: Before performing an action: End 1 status effect on one of 
+your supers. 
+ 
+
+403.2f Enrage. React: Before targeting an attack: The attack does +1 damage (of each 
+damage type). 
+ 
+404.1 If an ability asks for a target, then the player playing the ability must choose a legal target 
+after you pay the costs for it during an Act action or a react opportunity. A player must choose all 
+targets that are required. 
+ 
+404.2 If a player chooses an illegal target when targeting an ability, he must choose again. If no 
+legal targets exist for the ability, the ability is canceled. 
+ 
+404.3 An area attack ability, however, asks sometimes for more than one target. You may 
+choose to target a fewer number of targets for an area attack ability if enough applicable targets 
+do not exist. If this is the case, then you must choose all applicable targets. An area attack ability 
+is designated as an area attack in the first sentence of an attack ability. 
+ 
+404.4 When an ability resolves, if all of the targets for the ability are illegal, then the ability is 
+canceled. If some, but not all of the targets are still legal when the ability resolves, then it 
+resolves for all legal targets. 
+ 
+405.1 If a cost or effect says to discard a card, the card is sent to its owner’s discard pile. 
+ 
+405.2 If a cost or effect says to remove a card from the game, the card is sent to its owner’s 
+removed from the game zone. 
+ 
+405.3 Sometimes a card that was in play previously may return to play. A card that does this 
+comes into play as if it was a brand new card coming into play for the first time. A card does not 
+retain any bonuses, penalties, or effects targeting it while it was play previously. 
+ 
+406.1 Some effects cancel other action’s and react’s effects. Usually, a canceling effect comes 
+from a react ability or a trait. 
+ 
+406.2 When an action or react is canceled, the ability’s effects don’t happen. None of the 
+effect’s instructions are carried out. The rest of the action or react procedure occurs, however. 
+(Mainly, this includes the action counting as being resolved.) 
+ 
+406.3 An ability that cancels another ability with multiple targets cancels it for all of its targets. 
+ 
+407.1 Many abilities state that they last for certain period of actions or time. This period is 
+called an ability’s or an effect’s duration. 
+ 
+407.2 If an effect states it lasts for a fixed number of actions, this number is in terms of the 
+affected player’s actions or the controller of the affected card’s actions. 
+ 
+407.3a An effect that has a duration with a specific number of actions has a value that is kept 
+track of called the effect’s clock. An effect’s clock is the number of actions remaining before the 
+effect ends. After an action’s effects are completely resolved or that action is canceled, each 
+
+effect that is targeting the passing player or cards he controls has its clock reduced by 1. Effects 
+that have clocks of 0 end. 
+ 
+407.3b Most effects last for actions after the ability that creates it resolves. If an action is 
+resolved that creates an effect that lasts for future actions for its controller, then the created 
+effect’s clock is not reduced by 1 immediately after that action resolves. 
+ 
+For example, the power, Radiant Aim, reads, “Action: For your next 2 actions, your 
+attacks have +4 Accuracy, +2 damage (to all damage types).” If you use this action, then 
+after the ability resolves, the created effect has a clock of 2. However, since your action 
+created this effect, the clock is not reduced by 1 after this action finishes resolving. All 
+other clocks from effects targeting you are reduced by 1. 
+ 
+407.4 Effects that have multiple targets have separate clocks for each target. Clocks for different 
+targets can be different values. Effects can end for some targets and not yet for others. The effect 
+completely ends when all of its clocks are 0. 
+ 
+407.5 Some effects will make players lose their next action(s). When a player who is losing an 
+action is passed priority, it is immediately passed to the next player after the player who is losing 
+an action. The earliest applied, losing action effect’s clock is reduced by 1. Any losing action 
+effects that have clocks of 0 end. 
+ 
+407.6 Non-continuous effects that don’t have any listed duration last until the active player’s 
+action is resolved. 
+ 
+407.7 Some effects have a duration of “during your next action”. These effects begin when you 
+receive priority and end when your action is resolved or canceled. 
+ 
+408.1 The source of an effect is the card that has the ability or trait that producing the effect. 
+ 
+408.2 If the source of an effect is removed from play, the effect continues for the ability or 
+trait’s stated duration. Some abilities or traits, however, are worded to only be active while the 
+source is in play. If an effect’s duration is while a condition is in effect or until an event happens, 
+the effect ends if the source leaves play. 
+ 
+409.1 Some abilities grant extra actions to players. After such an effect resolves, priority is 
+given to that player. Priority is not passed to that player. After the action is completed, priority is 
+instead passed back to the player it was taken from. (Sometimes, this may be the same player.) 
+ 
+409.2 If a player is granted an action that has a restriction by an effect, that player may decline 
+to take such an action. If a player declines to take the action, the instruction granting the action is 
+considered completed. The rest of the effect’s instructions are then completed. 
+ 
+410.1 Many abilities and traits refer to and affect “this super” or “your super”. These phrases 
+have different meanings in different situations. 
+ 
+
+410.1a On an attachment, “this super” means the super that this attachment is attached 
+to. 
+ 
+410.1b In a react trigger, “this super” or “your super” means the super that is currently 
+satisfying the event. 
+ 
+For example, Carl chooses his one of hero’s attack powers during an Act action. He 
+reacts to this by playing Critical Strike. Critical Strike has a react trigger of “Play before 
+this super activates an attack power:” In this case, “this super” means the super that has 
+the attack power that is being activated. 
+ 
+410.1c A player may only choose abilities referencing “this super” or “your super” if the 
+satisfying super is a super that player controls. 
+ 
+410.2 If a trait or ability refers to a super by its name and in reference to something that usually 
+players do or decide, then it refers to its controller making that choice or taking that action 
+coming from that super. 
+ 
+410.3 If a react trigger refers to a super by name, it should be handled as if it said “this super”. 
+ 
+411.1 Some abilities allow players to change some or all of another ability’s targets before it 
+resolves. This called redirecting an ability. 
+ 
+411.2 When a player redirects an ability, he may not choose any targets that were originally 
+chosen. When a player redirecting an ability chooses new targets, the original targets are no 
+longer targets of the ability. 
+ 
+411.3a A player may not choose any illegal targets when redirecting an action. If a player 
+chooses an illegal target, he must choose again. If he cannot choose a legal target, then the 
+redirecting ability is canceled and the original ability remains targeted for its original target. 
+ 
+411.3b If a target of an area attack ability is redirected, it must be redirected to a target that 
+could have been chosen in the tactics mode that the rest of the targets were chosen. This still 
+applies even if there was only one target chosen for the attack. 
+ 
+411.4 Some redirecting abilities specifically state who they may redirect an ability to. If the 
+ability states that the redirected ability may be redirected to a target that would normally be 
+illegal, then the redirection is still legal. 
+ 
+411.5 If an attack ability is redirected to a super and that super would require a chasing cost to 
+target, then the player playing the attack ability must pay the cost immediately. If he does not, 
+then the attack misses the new target. If that super is the only target or is the last target’s attack to 
+miss, then the action is canceled. 
+ 
+
+411.6 Some effects redirect attack abilities to a target as if another super was originally targeting 
+the attack. When a redirection ability like this resolves, the super that was used in the redirection 
+ability becomes the attacker instead. 
+ 
+For example, the power Confuse reads “React: Activate when a super targets with a 
+power: Redirect the action to another target as if this super were targeting the power 
+(you may redirect it to the original super). You lose your next action.” The super who 
+activates Confuse becomes the new attacker after the redirection ability resolves. 
+ 
+412.1 Some abilities put cards directly into play. When an effect like this resolves, the effect’s 
+controller must make any choices required as if the card was coming into play from a Power Up 
+action’s effect. Any requirements that are normally checked during a Power Up action are 
+checked after the card is put into play. 
+ 
+For example, Debby plays the edge City of Power which reads, “Action: Put any number 
+of powers into play from your hand, in any order.” When this resolves, before Debby puts 
+a power into play, she must choose a super to attach the power to. If the super does not 
+meet the requirements of the power, the power is discarded instead. Debby must do this 
+for each power she wishes to play during the effect’s resolution. 
+ 
+412.2 Some abilities allow cards to be put into play face down (like Secret Power from the base 
+set). Cards that are in play face down do not count as being in play, and they may not be targeted 
+by abilities or traits. Abilities that put cards into play face down say how those cards may be 
+turned face up. 
+ 
+412.3 When a card that was in play face down is turned face up, and the object that the card is 
+attached to does not meet the card’s requirements, it is discarded. This is an enforced effect. 
+ 
+413.1 Some abilities (like Psychadelic’s innate ability, from the base set) allow a power to be 
+copied to another super. A power that is copied is treated as if the power is attached the hero that 
+it’s being copied to. A super may have powers copied to it that are not in its powersets. All 
+attachments and applicable effects targeting the power also apply to the copy. Each ability that 
+copies a power states the duration that the power is copied (if it is longer than for the action or 
+react that copies it). 
+ 
+413.2 Costs paid for actions and reacts played from copied powers charge the actual powers 
+being copied. Effects that apply to the super that the power is copied to also apply to that super’s 
+copied powers. 
+ 
+413.3 Durations of effects that are based on a copied power’s state end when the actual power is 
+in a state that would end the effect’s duration. Toggle powers that are turned on while copied 
+remain in effect for the super that the power was copied to until the toggle is turned off. 
+ 
+414.1 Some heroes (like the Paragon heroes from the base set) have traits that allow their 
+controller to search for powers from particular powersets to begin the game. Powers put into play 
+
+in this way are considered that hero’s starting powers, just like if those powers’ names were 
+written in the hero’s starting powers box. 
+ 
+415.1 Some abilities on attachments state they may only be played, activated, or used a certain 
+number of times per game. This number of times is in reference to the number of times per super 
+the ability can be activated. Other copies (actual cards with the same name) of the power retain 
+their own usage restrictions. 
+ 
+For example, the power, Revive, has an ability says it may only be played once per game. 
+If another super copies Revive and uses it, then that super may not copy and use its 
+ability again this game. (If there are more actual copies of Revive in play, then the super 
+may copy and use Revive’s ability once for each copy.) However, the super(s) that Revive 
+is attached to may still use it once during the game. 
+
+500. Keywords and Other Rules 
+ 
+501.1 A keyword is a word that can be found in rules text that is shorthand for a more commonly 
+used passage of text. A keyword found in an ability or trait’s text is treated exactly as if the full 
+rules text was written on the card. 
+ 
+502.1 Status effects are keyworded traits that supers gain usually from the result of an attack that 
+hit them. There are three status effects in City of Heroes: Stun, Knockdown, and Immobilize. 
+ 
+502.2 A super that has Immobilize has, “This super may not be chosen for a Move action and 
+chasing costs during its attacks may not be paid.” However, all abilities on the super or powers 
+attached to the super may be used as normal. 
+ 
+502.3 A super that has Knockdown has, “You must discard two cards as an additional cost to 
+choose this super for the Move action or choose one of this super’s powers during an Act 
+action.” 
+ 
+502.4a A super that has Stun has, “You may not choose this super for the Move action or one of 
+its powers during an Act action.” 
+ 
+502.4b A super that receives Stun also has his toggles turned off. 
+ 
+502.5 Usually when a super receives a status effect, the ability states a duration for that status 
+effect. Sometimes status effects are written as <status effect> X, where X is the status effect’s 
+duration in actions. 
+ 
+502.6 Additional instances of a status effect do not combine their durations. 
+ 
+For example, Statesman currently has Stun 2. If Positron hits with an attack that does 
+Stun 3, then Statesman will have Stun 2 and Stun 3, not Stun 5. After Statesman’s 
+controller takes an action, Statesman will have Stun 1 and Stun 2. 
+ 
+503.1 Most damage has a damage type. This is usually the word before damage in the ability. 
+ 
+503.2 Resistance X to <damage type> is a keyworded trait that some supers have. A super with 
+resistance has, “Whenever this super takes <damagetype> damage, reduce that damage by X. 
+Damage from any damage type may not be reduced below 1 in this way.” Supers with resistance 
+to all damage types do not reduce damage that does not have a damage type. 
+ 
+503.3 Multiple instances of resistance to a damage type are cumulative. 
+ 
+For example, Somber Warrior has Resistance 2 to fire damage from an active toggle 
+power. If his controller activates another power that gives him Resistance 1 to fire 
+damage, then Somber Warrior would have Resistance 3 to fire damage. 
+ 
+
+503.4a Effects that provide additional damage of a specific type to an attack or power that the 
+attack or any of the power’s attack abilities did not have provide that additional type of damage. 
+ 
+For example, the edge Out of the Sun provides additional smashing damage to a melee 
+attack. If it is played on a melee attack that only does fire damage, then the attack does 
+fire and smashing damage. 
+ 
+503.4b If a bonus that adds damage of all types to an attack is applied to an attack that has 
+gained or gains an additional damage type before the attack hits, then the bonus is also applied to 
+the additional damage type(s). If a bonus that adds one type of damage is applied to an attack, the 
+type that the bonus applies to may be chosen when the attack hits. 
+ 
+503.4c If a penalty that subtracts damage of all types to an attack is applied to attack has gained 
+or gains an additional damage type before the attack hits, then the penalty is also applied to the 
+additional damage type(s). If a penalty that subtracts one type of damage is applied to an attack, 
+the type that the penalty applies to may be chosen when the attack hits. 
+ 
+503.4d Some traits provide a damage bonus when an attack inflicts damage. Remember that the 
+bonus is a triggered effect of that trait. It is resolved before any reacts may react to damage being 
+inflicted. 
+ 
+503.4e An ability or trait may refer to “a resistance” or “all resistances”. This refers to the sum 
+total of all resistances that a super has to each damage type. 
+ 
+504.1 Missions may sometimes have special rules text that are actually traits while they are in 
+play. These traits may actually grant abilities that can be chosen during an Act action or a react 
+opportunity by a player. 
+ 
+504.1a A mission’s threat is the trait that is active only while it is in play and not 
+completed. 
+ 
+504.1b A mission’s reward is the ability that is active only while it is in play and 
+completed. 
+ 
+504.1c A mission’s defeat cost is the cost a player pays during a defeat action to 
+complete the mission. 
+ 
+504.2a A mission can also be completed by attacking it, just like an opposing super. Mission 
+cards have defense and health stats. Mission cards are always considered to be in Toe-to-Toe 
+tactics mode. 
+ 
+504.2b When a mission is the target of an attack, all opponents may play inspirations as if the 
+mission were a super they control. A mission may not be targeted in an attack with any other 
+super(s) and vice-versa. 
+ 
+
+504.3 Missions when completed are placed under the super whose abilities’ effects completed 
+them. This is only done to represent that the super completed the mission. The card itself is not 
+attached to that super. 
+ 
+505.1 Sometimes certain tasks have to be completed before another react opportunity is taken or 
+priority is passed to the next player. These tasks are called enforced effects. No player may take 
+a react opportunity before an enforced effect is completed. Once all enforced effects are 
+completed and no further enforced effects are needed, react opportunities may be taken and 
+priority may be passed as normal. The following are enforced effects: 
+ 
+505.1a If a super’s health is at 0 or below, the super with all of its attachments are 
+removed from the game. If the super is a player’s hero, that player loses the game. 
+ 
+505.1b After a mission is damaged from an ability on a super’s powers or a super’s 
+innate ability and the mission’s health is at 0 or below, the mission is completed. The 
+mission is placed under the super to represent that super completing the mission. 
+ 
+505.1c After a non-power, non-innate ability damages a mission and the mission’s health 
+is a 0 or below, the mission is completed. The player who played the action chooses one 
+of his supers. That super is considered as the super defeating the mission, and the mission 
+is placed under the super. 
+ 
+505.1d If any deck zone ever contains zero cards, then that deck’s controller shuffles his 
+discard pile and gives an opponent an opportunity to cut. Those cards then become that’s 
+player’s deck and are placed in the deck zone. 
+ 
+505.1e If there are ever more than 10 cards in a hand zone, the player who it belongs to 
+must choose and discard cards, one at a time, until there are 10 cards. 
+ 
+505.1f If there is ever an attachment in play without a card for it to be attached to, the 
+attachment is discarded. 
+ 
+505.1g After an action’s effects are completely resolved or an action is canceled, each 
+effect that is targeting the passing player or cards he controls has its clock reduced by 1. 
+Any effects that have clocks of 0 end. 
+ 
+505.1h After priority passes to the next player as the result of a skipped or lost action, the 
+earliest applied, losing action effect targeting the player has its clock reduced by 1. Any 
+effects that have clocks of 0 end. 
+ 
+505.1i If a card’s state changes and is now in a state that by an effect’s instructions 
+would end that effect, then the effect ends. If a card leaves play and an effect’s duration is 
+based on that card having a specific card state, then the effect ends. 
+ 
+505.1j When a card that was in play face down is turned face up, and the object that the 
+card is attached to does not meet the card’s requirements, it is discarded. 
+
+ 
+506.1 A game’s format is the rules surrounding deck construction. Each player should agree to 
+the format before starting a game. 
+ 
+506.2 Constructed format is a format where each player constructs a deck of any legal cards and 
+uses no more than 3 copies of an individual card. After a player reveals his hero and starting 
+powers, the deck that is shuffled and presented to an opponent must contain at least forty (40) 
+cards. There is no deck maximum. 
+ 
+506.3 Limited format is a format where each player is given unopened packs of cards to make a 
+deck. Each player is given the same amount and type of packs to make a deck. A player may 
+only start with a hero in those packs. A player may only play 3 copies of an individual card even 
+if he has more copies. After a player reveals his hero and starting powers, the deck that is 
+shuffled and presented to an opponent must contain at least twenty-five (25) cards. There is no 
+deck maximum. 
+ 
+507.1 In a multiplayer game, when a player loses the game, he removes from the game his deck, 
+his hero with all its attachments, any sidekicks with their attachments, and his discard pile. Any 
+other cards that are in play (for example, completed and uncompleted missions) remain in play 
+until the game is over. 
+ 
+507.2 Any effects that were generated from or had durations based on a player’s cards end when 
+that player loses the game. 
+ 
+507.3 Any card in play after a player loses the game that would be sent to that player’s discard 
+pile is removed from the game instead. 
+
+Glossary 
+ 
+ability 
+The things a player can do during a game. The abilities in City of Heroes are: Actions and 
+Reacts. 
+ 
+accuracy 
+A value that determines if a super’s attacks hit. 
+ 
+action 
+1. Unit of time for effects’ durations. 
+2. The act of making a choice during an Act action. 
+3. One of the choices a player can make when they have priority. The actions in City of Heroes 
+are: Power Up, Act, Move, Assemble, Recharge, Mission, Rest, Defeat, and Power Down. 
+4. An ability that has “Action:” as part of its rules text. 
+ 
+activated 
+An ability or power is activated when it is chosen during a react opportunity or an Act action. 
+ 
+active player 
+The player who has priority and is currently taking an action. 
+ 
+active toggle power 
+A toggle power that is turned on. 
+ 
+allied player 
+In reference to a certain player, an allied player is a player on that player’s team. 
+ 
+ally 
+In reference to a super, another super that player controls or any super an allied player controls. 
+ 
+archetype 
+The style of character a particular super is. The archetypes in City of Heroes are: Blaster, 
+Scrapper, Defender, Controller, and Tanker. 
+ 
+area attack ability, area attack 
+An area attack ability is an ability that produces an attack that can target more than one super. 
+ 
+attach 
+The act of putting a power on a super or an enhancement on a power. Other cards can be attached 
+through card effects. 
+ 
+attachment 
+A power or an enhancement card. 
+ 
+attack ability, attack 
+
+An ability that produces an attack. The types of attacks in City of Heroes are: Melee and Ranged. 
+ 
+attacker 
+The super whose attack ability was activated. 
+ 
+bonus 
+An effect that increases a value, duration, or damage. 
+ 
+cancel 
+To prevent carrying out an ability’s instructions. 
+ 
+card 
+The objects that make up a player’s deck. 
+ 
+card state 
+The number of clicks a card has. 
+ 
+card type 
+A card’s type determines its function in the game. The card types in City of Heroes are: Hero, 
+Sidekick, Power, Enhancement, Edge, and Mission. 
+ 
+charge 
+The act of turning a card clockwise 90 degrees. 
+ 
+charging icon 
+The symbol on a power card that shows what type of power it is. 
+ 
+chasing 
+The act of paying a chasing cost. 
+ 
+chasing cost 
+A cost spent (usually discarded cards) to target a super in a particular tactics mode. 
+ 
+choice 
+A decision required by the game for an action, react opportunity, or ability. 
+ 
+click 
+The turn of a card 90 degrees to show it has been used. Multiple clicks refer to that number of 90 
+degree turns. 
+ 
+click power 
+A power that requires charging to activate. A power that has a number in its charging icon. 
+ 
+clock 
+A value that is the number of actions remaining before an effect ends. 
+ 
+
+completed 
+A mission is completed if its health is reduced to 0 or its defeat cost is paid during a Defeat 
+action. See defeated. 
+ 
+control(s) 
+The link between a player and the cards they can use. By default, a card is controlled by the 
+player who put the card into play. 
+ 
+controller 
+The player who may activate a card’s abilities. 
+ 
+constant power 
+A power that doesn’t require charging to activate. A power that has a “C” in its charging icon. 
+ 
+continuous effect 
+An effect from a trait or ability that affects play continuously. 
+ 
+copy 
+1. A power that may be used as if another hero could legally attach it. 
+2. The act of copying a power. 
+ 
+cost 
+Something that has to be done to pay for an ability. 
+ 
+cut 
+To take a number of cards from the top of a player’s deck after it is shuffled and and put them on 
+the bottom. 
+ 
+damage 
+1. Potential hit points to be taken away from a super’s health. 
+2. The act of taking hit points away from a super’s health. 
+ 
+damage type 
+A trait that damage sometimes has. The damage types in City of Heroes are: cold, electrical, 
+energy, fire, lethal, negative energy, psychic, smashing, and toxic. 
+ 
+deck 
+A collection of cards that a player brings to the game. 
+ 
+defeat 
+The act of completing a mission by paying its defeat cost or using an ability targeting it and 
+reducing its health to zero or less. 
+ 
+defeat cost 
+The cost a player can pay during a defeat action to defeat the mission and attach it to one of his 
+supers. 
+
+ 
+defeated 
+A mission that is completed is considered defeated. 
+ 
+defender 
+A super being targeted by an attack ability. 
+ 
+defense 
+A value that determines if attacks targeting a particular super hit. 
+ 
+draw 
+To take a card from a player’s deck and put it in that player’s hand. 
+ 
+duration 
+The length of time an effect lasts. Some effects last for a number of turns, until a certain 
+condition is met, or permanently. 
+ 
+edge 
+A card type that gives players one-time abilities when used from their hand. 
+ 
+effect 
+An ability’s or trait’s instructions being carried out. 
+ 
+effect trigger 
+The event that causes a triggered event to be produced and resolved. 
+ 
+enforced effect 
+An effect that the game interrupts the normal flow of an action or react opportunity until the 
+effect is completed. 
+ 
+enhancement 
+An attachment for a super’s powers to modify their abilities. 
+ 
+event 
+The game occurrence that triggers an effect or react trigger. 
+ 
+flavor text 
+The text, written in italic print, that tells the inner stories behind characters in City of Heroes. 
+ 
+format 
+The rules for deck construction in a given game. 
+ 
+game 
+1. A game of City of Heroes. 
+2. The framework of rules, objects, and values that players play in. 
+ 
+
+hand 
+The cards in a player’s hand zone. 
+ 
+health 
+The value that represents how close a super is to dying. 
+ 
+hero 
+A card that represents each player’s main superhero. 
+ 
+hit 
+An attack hits after all reacts resolve when the attacker’s accuracy is equal to or greater than the 
+defender’s defense. 
+ 
+hit point 
+The basic unit of measurement for health. 
+ 
+illegal target 
+A target that could not be chosen for an ability or trait based on its targeting restrictions. 
+ 
+inflict 
+The verb that conveys damage being done to a super. 
+ 
+innate ability 
+An ability and/or trait printed on a super. 
+ 
+inspiration 
+The alternative ability that most cards have in addition to their printed abilities. The inspirations 
+in City of Heroes are: Insight, Luck, Respite, Catch A Breath, Break Free, and Enrage. 
+ 
+instruction 
+A sentence of rules text in an ability. 
+ 
+integer 
+The set of whole numbers, negative whole numbers, and zero. This is also written as: 
+{…, -3, -2, -1, 0, 1, 2, 3, …} 
+ 
+keyword 
+A specific word that is shorthand for a more commonly used phrase or passage of rules text. 
+ 
+lose 
+To lose the game. A player loses the game as an enforced effect when his hero’s health is zero or 
+less. 
+ 
+miss 
+An attack misses after all reacts resolve when the attacker’s accuracy is less than the defender’s 
+defense. 
+
+ 
+mission 
+A card type that remains in play and has different effects simply while in play or while attached 
+to a super. Missions represent the forces and influence of villains on the game. 
+ 
+move 
+The act of switching tactics modes. 
+ 
+multiplayer game 
+A game between three or more players. 
+ 
+name 
+A card’s unique identifier. 
+ 
+next player 
+The player that is after a given player according to the turn order. 
+ 
+object 
+A player, card, or token in the game. 
+ 
+owner 
+The person who physically owns a card. 
+ 
+passing priority 
+The method a player normally receives priority. After a player finishes their action, priority is 
+passed to the next player. 
+ 
+pay 
+The act of satisfying a cost. 
+ 
+penalty 
+An effect that decreases a value, duration, or damage. 
+ 
+perform (an action) 
+Choosing an action and making all appropriate decisions when a player has priority. 
+ 
+play 
+Choosing an ability during an action or a react opportunity. 
+ 
+player 
+A person involved with the game. 
+ 
+power 
+An attachment that attaches to a super and gives its controller new abilities. 
+ 
+powerset 
+
+1. The set of powers that an individual power belongs. 
+2. A set of powers that a super can attach. 
+ 
+priority 
+The theoretical resource a player needs to play an action. 
+ 
+react 
+1. An ability that a player may play that interrupts the normal flow of the game when its react 
+trigger occurs. 
+2. The act of playing a react ability. 
+3. An ability that has “React:” as part of its rules text. 
+ 
+react opportunity 
+The stoppage of normal play or instruction execution to play a react ability. 
+ 
+react trigger 
+The phrase between the two colons on a react ability that tells a player when he can play the 
+ability. 
+ 
+ready 
+A card is ready if is has no clicks. 
+ 
+recharge 
+The act of turning a card counterclockwise 90 degrees. 
+ 
+redirect 
+The act of choosing a different target for an ability. 
+ 
+reminder text 
+The text, written within parenthesis and in italic print, which reminds players about rules that 
+directly affect a card. 
+ 
+requirement 
+The conditions a power or super must have in order for a card to come into play legally. 
+ 
+resistance 
+1. A super with resistance X to a damage type, where X is a number, has, “Whenever this super 
+takes <damage type> damage, reduce that damage by X. Damage from any damage type may not 
+be reduced below 1 in this way.” 
+2. The total of all resistances a super has to a particular damage type. 
+ 
+resolve 
+To finish carrying out an ability’s instructions. 
+ 
+restriction 
+A clause in an ability that restricts what the ability can do or target or effects it produces. 
+
+ 
+retrieve 
+To search for a card in a player’s deck and put that card in the player’s hand. 
+ 
+reveal 
+To show a card from a zone to a player or players. 
+ 
+reward 
+The trait on a mission that is in effect while the card is in play and attached to a super. 
+ 
+rotate 
+See turn. 
+ 
+rule 
+A numbered section of this document. 
+ 
+rules text 
+The text, written in regular print, inside a text box that directly affect play. 
+ 
+search 
+To look for a card in a player’s deck. 
+ 
+shuffle 
+Randomizing the order of cards in a player’s deck or cards put into a player’s deck. 
+ 
+signature power 
+A power that is a particular hero’s unique ability. A signature power requires a certain named 
+hero. 
+ 
+single player game 
+A game between two players. 
+ 
+source 
+The card that has the ability or trait that producing an effect. 
+ 
+starting health 
+A value for each super that starts as the printed health number for that super. This value may 
+change as the game progresses. 
+ 
+starting player 
+The player given priority before the game begins. 
+ 
+starting power 
+The names of powers that a hero starts play with. 
+ 
+status effect 
+
+A keyworded trait that a super usually gains from an attack’s effects. The status effects in City of 
+Heroes are: Stun, Knockdown, and Immobilize. 
+ 
+super 
+A hero or sidekick card. 
+ 
+tactics mode 
+The style of fighting a super is using. The tactics modes in City of Heroes are: Toe-to-Toe and 
+Run-‘n’-Gun. 
+ 
+target 
+1. An object that is chosen to be affected by an ability. 
+2. The act of choosing an object to be affected by an ability. 
+ 
+team 
+A group of allied players. 
+ 
+text box 
+The space on a card that has most of the card’s writing. 
+ 
+threat 
+The trait on a mission that is in effect while the card is in play and unattached to a super. 
+ 
+“this super” 
+1. The super that an attachment is attached to. 
+2. The super that is currently satisfying an event. 
+ 
+timing word 
+The word in a react or effect trigger that gives the relation to the event when the ability can be 
+played or effect resolve. 
+ 
+toggle 
+A toggle power. A power with an “Off/On” symbol in its charging icon. 
+ 
+token 
+An object that certain abilities or effect create to keep track of certain things or to represent a 
+card created by an ability. 
+ 
+trait 
+A sentence of rules text on a card in play or in a player’s hand that produces a continuous effect. 
+ 
+travel power 
+The particular method that a super uses to get around. The travel powers in City of Heroes are: 
+Flight, Super Speed, Super Jump, and Teleport. 
+ 
+triggered effect 
+
+An effect produced when a trait or ability’s trigger happens. 
+ 
+turn 
+The act of changing the orientation of a card. 
+ 
+turn order 
+The rotation of players receiving priority. 
+ 
+“turned off” 
+1. A toggle power is turned off if it is not active. A toggle power is not active if it has 1 or fewer 
+clicks. 
+2. The act of turning off a toggle power. A toggle power is turned off by recharging the power to 
+1 click. 
+ 
+“turned on” 
+1. A toggle power is turned on if it is active. A toggle power is active if it has 2 or more clicks. 
+2. The act of turning on a toggle power. A toggle power is turned on by charging the power 2 
+clicks. 
+ 
+value 
+An integer variable that the game keeps track of. 
+ 
+win 
+The situation in which a player is the only player not to lose the game. 
+ 
+zone 
+A place where cards can exist during a game. All cards are in one zone at a time. The zones in 
+City of Heroes are: Hand, Deck, In Play, Discard Pile, and Removed From the Game.

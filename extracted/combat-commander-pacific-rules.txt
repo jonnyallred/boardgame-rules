@@ -1,0 +1,4750 @@
+Game Design by Chad Jensen
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+0811
+rulebook
+
+Page 2
+INTRODUCTION
+“It was a sly and sneaky kind of combat 
+which never resembled the massive and 
+thunderous operations in Europe, where 
+tank battalions were pitted against tank 
+battalions and armies the size of city popu-
+lations ponderously moved and maneuvered. 
+The Pacific was a different war.”
+—General Robert L. Eichelberger
+Combat Commander: vol. III – Pacific 
+(CC:P) is a card-driven wargame cover-
+ing WWII tactical infantry combat in 
+southeast Asia and on the islands of the 
+Pacific. In this stand-alone third install-
+ment of the Combat Commander series 
+of games, one player assumes the role 
+of Japan while another commands the 
+forces of the Allies, be it the Pacific Com-
+monwealth or the United States. These 
+two players will take turns playing one 
+or more cards from their hands in order 
+to activate their units on the mapboard 
+for various military functions. 
+Players attempt to achieve victory by 
+moving their combat units across the 
+game map to attack their opponent’s 
+units and occupy as many objectives as 
+possible. The degree to which a player 
+succeeds or fails is measured by a 
+scenario’s specific objective chits, the 
+destruction of enemy units, and the ex-
+iting of friendly units off the opponent’s 
+map edge.
+Each measure of game time is divided 
+into a variable number of player turns. 
+In each turn, the sequence of play is 
+fluid – with orders being given by the 
+active player and actions being taken by 
+both players – depending upon the cards 
+in the players’ hands. Events, both good 
+and bad, will occur at random intervals 
+to add a bit of chaos and uncertainty to 
+each player’s perfect plan.
+Sit back, buckle up, and enjoy the ride!
+For folks already familiar with the 
+basic CC:E rules, the facing page 
+contains a list of changes between 
+earlier volumes and this game. In this 
+manner, you will be able to jump right 
+in without having to read the entirety 
+of this rulebook looking for differ-
+ences imposed by both the change of 
+theater and the evolving nature of the 
+Combat Commander game series.
+CC:E—CC:P Differences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Game Contents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Game Scale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Core Rules—Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1 Fate Cards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2 Maps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3 Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4 Unit Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+5 Weapons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6 Radios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7 Starshells . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8 Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+9 Sighting Markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+10 Initiative Card . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+11 The Track Display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Core Rules—Mechanics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+12 Sequence of Play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+13 Game Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+14 Victory Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+15 Stacking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+16 Line of Sight (LOS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+17 Posture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+18 Night . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+19 Melee . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Orders (O20) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+O21 Pass (discard) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+O22 Advance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+O23 Asset Denied . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+O24 Asset Request . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+O25 Charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+O26 Command Confusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+O27 Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+O28 Infiltrate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+O29 Move . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+O30 Reconnoiter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+O31 Revive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Actions (A32) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+listed alphabetically A33–A48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20-22
+Events (E49) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+listed alphabetically E50–E80 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22-24
+Terrain (T81) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+listed alphabetically T82–T99 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25-27
+Fortifications (F100) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+listed alphabetically F101–F107 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28-29
+Credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30-31
+Order & Action Count . . . . . . . . . . . . . . . . . . . . . . . . . . . back cover
+Sources & Suggested Reading . . . . . . . . . . . . . . . . . . . . . back cover
+TABLE OF CONTENTS
+
+Page 3
+Disperse—New trigger. Removes one 
+smoke or starshell marker from the map. 
+[1.9.2]
+Jammed trigger—Not in CC:P.
+Exit Points—New map feature. Units can 
+only exit the map at Exit Points printed 
+along their opponent’s map edge. Exit VPs 
+are based on the Exit Point’s value, not the 
+unit’s (casualty) value. [2.4 & 14.2]
+Scout—New leader. Has no command 
+number. Can instead activate and spot for 
+friendly mortars anywhere on the map. 
+[3.3.3]
+Sogeki Hei—New leader (Japan only—
+means “sharpshooter” or “sniper”). No 
+command. Acts as Ordnance. Multiplies 
+the dice for its Fire Attack roll rather than 
+adding them together, but only affects a 
+single unit in the targeted hex. [3.3.4]
+Leaders & Weapons—Leaders cannot 
+possess weapons with negative Movement 
+allowance modifiers. [3.3.5]
+Weapon Transfer—Now done during an 
+Advance rather than Move order. [5.3]
+Broken Weapons—Broken weapons no 
+longer affected by random hexes. Now 
+affected by (new) Asset Denied/Request 
+orders. [5.4]
+Starshells—New marker. Starshells illumi-
+nate hexes during night battles. [7]
+Aircraft—New marker. If on map (via up-
+dated Air Support event) can be activated 
+to attack via Asset Request order. [8]
+Sighting—New marker (Japan only). 
+Placed on map during setup. One is moved 
+every time a player reveals a random hex 
+(new rule 1.8.2). Used to determine where 
+infiltrators can be placed. [9]
+Casualty Track—Surrender mechanic only 
+used for the Allied player. (Japan is im-
+mune) [11.2]
+Infiltration Boxes—New Track Display 
+item where Japan can hold infiltrating units 
+in reserve. [11.3]
+Time Advancement—Smoke no longer re-
+moved during a Time Advance. [13.1.2]
+Game End—Even if Japan has no units on 
+the map, the game won’t end if it still has a 
+unit in an Infiltration Box. [13.3b & c]
+Unit Stacking—Now enforced per hex, not 
+per player. Overstacking is also allowed 
+but with a penalty: In a hex, each soldier 
+icon beyond 7 reduces that hex’s Cover by 
+1. [15.2.2 & T81.3.2]
+Postures—Postures are expanded and now 
+have their own rule section. [17]
+Banzai—New Posture (Japan only). 3-card 
+hand. Utilizes new Charge order. Elimi-
+nated units go on Time Track instead of 
+Casualty Track. [17.2]
+Invader—New Posture. 7-card hand. Setup 
+is only 1 hex deep and w/many units start-
+ing on the Time Track. [17.4]
+Night—New standardized rules for fighting 
+at night. [18]
+Melee—Melee now occurs at beginning of 
+Allied player’s turn rather than immediate-
+ly. New melee marker shows dual-occupied 
+hexes. No Fire Attacks into or out of, and 
+SRs can’t be placed in or adjacent to, a 
+melee hex. [19]
+Asset Denied—Replaces and expands 
+upon old Artillery Denied order. Can break 
+opponent’s radio as before. Also used to 
+break a weapon, or to remove an aircraft 
+marker from the map. [O23]
+Asset Request—Replaces and expands 
+upon old Artillery Request order. Can fix 
+or use a friendly radio as before. Also used 
+to acquire a radio, fix a broken weapon, 
+activate a friendly aircraft or place a 
+starshell. [O24] 
+Charge—New order (Japan only). For Ban-
+zai Posture only. Activates all previously 
+unactivated Japanese units. Activated 
+units lose any suppressed markers, rally if 
+broken, then are activated for a Move order. 
+Allied units automatically activated for Op 
+Fire. [O25]
+Defense Rolls—An Attack Total at least 
+twice the Defense Total outright eliminates 
+the targeted unit. (encourages fire groups; 
+discourages overstacking) [O27.3.4a]
+Infiltrate—New order. Allows Japan (only) 
+to place units in “reserve” and then to 
+place those units on the map in hexes oc-
+cupied by Sighting markers. [O28]
+Reconnoiter—New order. Activates a 
+friendly unbroken, unsuppressed leader 
+with LOS to an enemy unit. Player then 
+peeks at the top card of his Fate deck and 
+either: puts it back on top; puts it in his 
+hand; or puts it in his discard pile. [O30]
+Revive—New order. Replaces old Recover 
+order. Doesn’t activate anything. Gives the 
+player 1-5 Revive Points: spend 1 Revive 
+Point to remove one suppressed marker 
+from a friendly unit OR rally one friendly 
+broken unit (automatic—no die roll 
+needed). [O31]
+Recover/Rout Orders—Not in CC:P.
+Bayonets—New action. +2 to Melee roll. 
+[A34]
+Enfilade—New action. Increases the po-
+tency of Fire Groups. [A39]
+Hidden Cave—New action (Japan only). 
+Adds a cave to a Hill Crest being shot at. 
+[A43.1]
+Hidden Panji Trap—New action (Japan 
+only). May place mines or wire. [A43.3]
+Hidden Trenchline—New action (Defender 
+only). Places trench marker. [A43.5]
+Smoke Screen—New action. Play at the 
+beginning of Move or Advance order. Each 
+activated squad places one smoke. [A47]
+Deleted Actions—Assault Fire; Conceal-
+ment; Dig In; Hidden Entrenchments, 
+Spray Fire; Smoke Grenades.
+New Events—E52 Battlelust; E54 Breezy; 
+E55 Bushido; E57 Detritus of War; E58 
+Field of Battle; E60 Gusts; E63 Jam; E74 
+Spider Hole; E75 Stealth; E78 Tennōheika 
+Banzai!
+Deleted Events—Numerous. Many of the 
+new events above are modifications of 
+CC:E events with similar effects.
+Air Support—Modified: Event title now 
+includes a range of dates in which the event 
+can occur. Either removes enemy aircraft 
+marker from or places friendly aircraft 
+marker onto the map. [E50]
+Scrounge—Scrounged weapons now come 
+into play broken. (better interaction with 
+Asset orders) [E71]
+Hill—Uphill movement penalty is +1 MP 
+per level increase. [T89]
+Road— +1 MP and –1 Cover modifiers 
+have been dropped. Only costs ½ MP when 
+moving along a road if no enemy has LOS. 
+(Pacific-theater roads are often not much 
+more than wide trails compared to Euro-
+pean boulevards) [T94]
+Water Barrier—No longer impassable. 
+Move Cost of “all”; Cover of “–2”. [T99]
+New Terrain—T82 Beach; T86 Bush; T87 
+Grass; T90 Hut; T91 Jungle; T93 Palm; 
+T97 Swamp.
+Deleted Terrain—Eurocentric terrain types 
+have been removed and replaced by terrain 
+more appropriate for the Pacific and south-
+east Asian theaters. Most notable is the 
+absence of any hexside terrain in CC:P.
+Cave—New fortification (Japan only). May 
+only exist in Hill Crest hex. Units are out-
+side or inside cave within same hex. LOS 
+to/from units inside a cave is downslope 
+only: upslope is blocked. 4/8 Cover. A cave 
+is adjacent to any other cave during Ad-
+vance orders. [F102]
+CC:Europe to CC:Pacific — What’s Different?
+
+Page 4
+GAME CONTENTS
+Combat Commander: Pacific includes: 
+six back-printed 17˝ x 22˝ game maps 
+(twelve maps total)
+352 large (⅝˝) die-cut counters
+280 small (½˝) die-cut counters
+220 cards
+one 32-page Rulebook
+one 32-page Playbook
+one Track Display
+three 2-sided 8.5” x 11” nationality cards
+two single-sided 8.5” x 11” player aid cards
+GAME SCALE
+Each hex of a CC:P map represents an area 
+approximately 100 feet across (30 meters or 
+so). Each complete player turn represents an 
+arbitrary segment of game time with each 
+measure of game time abstractly representing 
+several minutes of real time. 
+Each unit in the game is approximated as a 
+single leader, a team of 3-6 men, or a squad 
+of 8-13 men. Aircraft, radios and individual 
+weapons larger than a grenade, pistol or rifle 
+are represented by their own counters. 
+GLOSSARY
+Throughout these rules, Letters/Numbers 
+found within brackets – such as [O23.2] – will 
+indicate to the reader an important refer-
+ence to another rule. Rules preceded by an 
+“O” are for Orders; “A” Actions; “E” Events; 
+“T” Terrain; and “F” Fortifications.
+Action—The ability listed just below the 
+photo on every Fate card. There is no limit to 
+the number of actions a player may perform 
+each turn other than the number of cards in 
+his hand and being able to meet each action’s 
+stated prerequisite. [A32]
+Activate—A unit may only be “activated” for 
+one order per turn. Aircraft and weapons are 
+not limited in this manner but must still be 
+activated to function.
+Active—The player currently taking his turn. 
+Any unit or marker belonging to that player. 
+See also “Inactive”.
+Adjacent—Two hexes sharing a common hex-
+side are considered adjacent to one another. 
+Units and markers in one of those hexes are 
+adjacent to units and markers in the other.
+Aircraft—A dive bomber or fighter. [8]
+Break/Broken—A unit, weapon or radio with 
+its reverse side face-up is “broken”. A weap-
+on/radio cannot be used while it is broken. A 
+broken unit can perform most abilities, albeit 
+at a reduced capacity. An unbroken piece that 
+“breaks” becomes broken (flipped over); a 
+broken piece that breaks again is eliminated. 
+[3.2]
+Command—One of five base stats. Found 
+only on leaders. Command is a measure 
+of how well a leader unit can control the 
+friendly units around him. [3.1.5 & 3.3.1]
+Countermix—All counters not currently be-
+ing used either on the map or Track Display.
+Cover—A number associated with each 
+terrain and some fortifications. A hex’s best 
+Cover is added directly to the morale of every 
+unit occupying that hex. Multiple Covers are 
+not cumulative. [T81.3]
+Die Roll—The white/colored six-sided “dice” 
+on the bottom right of every Fate card. Die 
+rolls can never be performed directly from a 
+player’s hand, only off the top of a player’s 
+Fate deck. [1.9]
+Enemy—A unit, weapon, aircraft or radio 
+controlled by the opposing player. A hex oc-
+cupied by an enemy unit. An objective hex 
+[2.3] under your opponent’s control and not 
+containing a friendly unit.
+Event—The random happenings listed just 
+below the action on every Fate card. Events 
+can never be performed directly from a 
+player’s hand, only off the top of a player’s 
+Fate deck due to an Event trigger. [1.9.3]
+Firepower (FP)—One of five base stats. FP is 
+a measure of how much damage a piece can 
+inflict on enemy units. [3.1.1]
+FP—Firepower.
+Friendly—A unit, weapon, aircraft or radio 
+under your control. A hex occupied by a 
+friendly unit. An objective hex [2.3] under your 
+control and not containing an enemy unit. 
+Hindrance—Terrain that reduces FP going 
+through it – never into or out of it (except for 
+smoke). Hindrances are not cumulative. [16.3]
+Inactive—The player not currently taking his 
+turn. Any unit or marker belonging to that 
+player. If a game situation forces or allows 
+both players to do something simultaneously, 
+the inactive player always goes first.
+LOS—Line of Sight. Generally, a unit in hex 
+A has a LOS to hex B if a string, drawn taut 
+and touching both hexes’ center dots, does 
+not touch the graphical depiction of a terrain 
+Obstacle in between those hexes. [16]
+Marker—Any counter (usually ½˝) without a 
+soldier illustration. Some marker examples 
+include sighting, spotting round, control, 
+wire, sudden death, or the various weapons.
+MG—Machine gun.
+Morale—One of five base stats. Morale is a 
+measure of how much punishment a unit can 
+take before being rendered “combat ineffec-
+tive”. [3.1.4]
+Movement—One of five base stats. Move-
+ment is a measure of how well a unit can 
+move about the battlefield. [3.1.3]
+MP—Movement Point. A unit’s movement al-
+lowance equals its available MPs. Expended 
+by units to move from hex to hex during 
+Move orders.
+OB—Order of Battle. The forces allotted to 
+each player in every scenario.
+Obstacle—A type of terrain that blocks LOS 
+through it; never into or out of it. [16.2]
+Op(portunity) Fire—The ability to play a Fire 
+order as an action instead so as to fire at the 
+opponent’s Moving units. [A41]
+Order—The ability listed across the top of 
+every Fate card. Orders are limited to only 
+being played during that player’s turn. [O20]
+Ordnance—Any aircraft, weapon, or Sogeki 
+Hei unit with a white bar highlighting its 
+stats. Ordnance: must first hit its intended 
+target before making a Fire Attack against it; 
+cannot be part of a Fire Group; cannot par-
+ticipate in Op Fire; and cannot have its stats 
+increased by a friendly leader in the same 
+hex. [O27.2]
+Piece—Any unit, weapon, radio, aircraft or 
+fortification counter.
+Posture—Each side in a scenario will be 
+assigned one of the following five Postures: 
+Invader, Attacker, Recon, Defender or Ban-
+zai. Posture is used to determine a player’s 
+hand size, among other things. [17]
+Random hex—The letter/number combina-
+tion on the bottom left of every Fate card 
+used to randomly determine where Snipers 
+and certain events will occur. Also used to 
+determine where a Sighting marker will be 
+moved to. [1.8]
+Range—One of five base stats. Range is a 
+measure of how far a piece can shoot. [3.1.2]
+Scenario—A collection of pieces, data and 
+special rules used to set up then play out a 
+game of Combat Commander. Can be preset 
+or randomly generated. [see playbook]
+SR—Spotting round marker. [O24.3.1]
+(die) Trigger—A game effect associated with 
+(“triggered by”) certain die rolls. [1.9.1]
+Turn—One player – the “active” player – ei-
+ther performing orders or discarding Fate 
+cards. [12]
+Unit—Any large (⅝˝) counter with an illus-
+tration of one or more soldier figures. This 
+includes squads, teams and leaders. [3]
+VP—Victory Point. [14]
+Weapon—Any small (½”) counter with a 
+weapon illustration such as a machine gun or 
+mortar. Unlike other markers, weapons will 
+always have a FP and a range. [5]
+
+Page 5
+IMPORTANT: In CC:P, the motto “a rule 
+means exactly what it says” should be the 
+order of the day. In other words, as quoted 
+from another fine game, Totaler Krieg!: 
+“Do not infer or imagine more to a rule 
+than is stated in it. When in doubt, interpret 
+strictly”.
+Example A: The KIA event [E64] states 
+“Eliminate one broken unit”. It doesn’t say 
+“...enemy broken unit”; so if you had the only 
+broken unit(s) in play when you revealed 
+this event, you would have to choose one of 
+yours to eliminate.
+Example B: Rule F104.1 states that mines 
+will only attack Moving or Advancing units. 
+So a unit entering or leaving a mines hex 
+via the Stealth event [E75] would not be 
+attacked.
+However, having said that, these rules 
+cannot possibly hope to cover the myriad 
+situations that may arise during game 
+play—so in those instances when an odd-
+ball situation surfaces, a healthy dose of 
+common sense coupled with an existing rule 
+or two should suffice to see you through.
+Throughout this book you will see numerous 
+shaded boxes such as this one. These boxes 
+are filled with clarifications, play hints, 
+design notes, and other assorted wisdom in 
+order to help ease you along.
+To play your first game, you need only read 
+the Core Rules and Order sections that 
+follow, as well as rule A41 concerning Op 
+Fire. Then set up and follow along with the 
+Examples of Play (in the playbook) in order 
+to get a feel for the base mechanics and 
+basic flow of the game. The latter portion 
+of this booklet – entries for Actions, Events, 
+Terrain and Fortifications – can be quickly 
+glossed over and then referred to in more 
+detail as the need arises during game play.
+CORE RULES—
+COMPONENTS
+1. Fate Cards
+“I rate the skillful tactician above the skillful 
+strategist, especially him who plays the bad 
+cards well.”
+—Sir A.P. Wavell
+There are three sets of Fate cards included 
+with this game: one set each for Japan (cherry 
+blossom red), the US (khaki) and the Pacific 
+Commonwealth (sand). A player’s 72-card 
+Fate deck is the heart and soul of the game. 
+Once the game begins, no activity may be 
+performed on the map by either player – ei-
+ther via order or action – without a Fate card 
+in hand allowing it. While a Fate card is in 
+a player’s hand, only its order and action 
+are relevant: everything else (from the event 
+down) is ignored.
+IMPORTANT: The Initiative card [10] as 
+well as the various reference cards included 
+in this game are not Fate cards and thus 
+will never be considered as being part of a 
+player’s hand.
+Further, whenever a rule refers to a “card” 
+without an identifier, it will always be in ref-
+erence to a Fate card—never the Initiative 
+card or one of the reference cards (which 
+will always be identified as such).
+1.0 Golden Rule
+Some card effects or scenario special rules 
+may conflict with one or more general rules 
+in this booklet. When this occurs, the card 
+effect / special rule always takes precedence.
+1.1 Hand Size
+Each player is allotted a certain hand size 
+depending on his Posture: either Invader (7 
+cards), Attacker (6 cards), Recon (5 cards), 
+Defender (4 cards), or Banzai (3 cards). This 
+determines both the number of cards that 
+player will begin the game with and how 
+many he will end each of his own turns with. 
+See also rule 17 Posture.
+1.2 Card Knowledge
+Cards in a player’s hand are kept secret from 
+his opponent. Cards in a player’s draw pile 
+are kept face-down and secret from both 
+players. Cards in a player’s discard pile are 
+public knowledge (face-up) and may be ex-
+amined by either player at any time.
+1.3 Revealing Cards
+Whenever a player is instructed to “reveal” a 
+card – during an Event trigger, for example 
+[1.9.3] – the top card of that player’s Fate deck 
+is turned face up then placed on top of his 
+discard pile for both players to see.
+1.4 Reshuffle
+During each Time Marker Advance [13.1.2], 
+one player will be instructed to shuffle the 
+cards occupying both his discard and draw 
+piles together in order to form a new draw pile.
+1.5 Orders
+Orders are listed across the top of each Fate 
+card. A player may only play a card for its 
+order during his own turn, and may never an-
+nounce more orders in a turn than his Order 
+Limit [12.1]. If a card is played for its order, 
+it is immediately placed face-up atop that 
+player’s discard pile—the action on that card 
+then could not be played until the next time it 
+is drawn into the player’s hand.
+1.6 Actions
+“You win battles by knowing the enemy’s timing, 
+and using a timing which the enemy does not 
+expect.”
+Actions are listed just below the photo on 
+each Fate card or, in the case of Op Fire [A41], 
+across the top of the card. A player may play 
+a card for its action at any time during either 
+player’s turn, so long as its prerequisite is 
+met. If a card is played for its action, it is 
+immediately placed face-up atop that player’s 
+discard pile—the order on that card then 
+could not be played until the next time it is 
+drawn into the player’s hand.
+1.7 Events
+“Luck; that’s when preparation and opportunity 
+meet.”
+—Pierre Elliott Trudeau
+Events are listed below the action on every 
+Fate card. Events are never played from the 
+hand, voluntarily or otherwise—only off 
+the top of the draw pile, and only at random 
+intervals due to certain die rolls [1.9.3].
+1.8 random hexes
+1.8.1 General Rules
+This is the light green 
+“hex” in the lower left of 
+each Fate card. Snipers 
+[1.9.4] and some events 
+will call for a random hex to be determined 
+and, if so, the top card of that player’s Fate 
+deck is revealed and only this “hex” is con-
+sulted. The letter/number combination within 
+the “hex” will correspond to one specific hex 
+on the map, where the Sniper/Event trigger 
+will take place.
+1.8.2 Sighting Marker Movement
+At the conclusion of any Sniper/Event trigger 
+that requires a random hex be revealed, the 
+Japanese player must move one of his Sight-
+ing markers currently on the map [9] into that 
+hex. If a Sighting marker already occupies 
+the hex, a different one must be moved in, if 
+Play at the beginning of a Move or Advance 
+order. Place one smoke with or adjacent to each 
+activated squad.
+SMOKE SCREEN
+ACTION
+Select one eliminated unit. Return that unit to 
+play in or adjacent to a random hex, broken.
+Walking Wounded
+EVENT
+FIRE
+ORDER / ACTION
+card CW-10
+
+Page 6
+1.9 Die Rolls
+“The die is cast.”
+—Julius Caesar
+ This is the pair of 
+six-sided dice graphi-
+cally displayed in the 
+lower right corner of every Fate card. “Real” 
+dice are not used in CC:P: instead, whenever 
+a “roll” is called for, that player reveals the 
+top card of his draw pile and only the two 
+dice are consulted; everything else on the 
+card is ignored. When such a roll is made, 
+the two dice are added together to arrive at a 
+sum total (exception: during a Targeting roll 
+or Sogeki Hei attack, the dice are instead 
+multiplied [O27.2.3 & 3.3.4c, respectively]).
+1.9.1 Die Triggers
+Many die rolls are enclosed within a thick red 
+box with the word Disperse, Event, Sniper 
+or Time also inside it; these are called “trig-
+gers”. These four triggers immediately and 
+temporarily pause normal game play in order 
+to perform a specific task. Normal game play 
+resumes after the trigger has been dealt with 
+in its entirety.
+1.9.1.1 Die Triggers on Last Fate Card
+Any non-Time trigger that occurs via the 
+last card of a player’s draw pile will resolve 
+immediately after a Time Marker Advance 
+[13.1.2].
+1.9.1.2 Die Triggers NA Within Triggers
+Any roll made while resolving a trigger (such 
+as the Reinforcements event that requires a 
+roll on a Support Table; or a Sudden Death 
+roll during a Time trigger) cannot itself pro-
+duce a die trigger.
+So, any die roll made during a trigger must 
+ignore any Disperse, Event, Sniper or Time 
+trigger associated with it.
+1.9.1.3 Die Triggers and Timing
+Each of the four triggers explained below are 
+always performed in their entirety before any 
+results of the die roll that triggered them are 
+implemented.
+So the roll itself locks in a result but that 
+result is not physically implemented on the 
+map until after the die trigger is resolved.
+Example: A unit with a morale of 6 is shot 
+at with a Fire Attack Total of 14. Its Fire 
+Defense roll is 7–Event. That unit will 
+break but not until after the Event trigger is 
+performed. Even if the event were “Battle 
+Harden” and the veteran marker was placed 
+on that very same unit it will still break im-
+mediately after the event is concluded. Its 
+increased morale from the veteran marker 
+is not retroactively calculated (so it will 
+end up a broken veteran).
+1.9.2 Disperse Trigger
+“Disperse” inside it, that player must remove 
+one smoke or starshell marker from the 
+map (placing smoke back in the draw cup or 
+starshell back in the countermix).
+1.9.3 Event Trigger
+roll is surrounded by a red box with the 
+word “Event” inside it, normal game play 
+pauses in order to execute that event. The 
+player making the roll reveals the top card of 
+his draw pile and, ignoring everything else, 
+reads aloud and then executes the event on 
+that card [E50­­–E80].
+Unless otherwise stated, any decisions 
+required by an event are made by the player 
+reading it.
+1.9.4 Sniper Trigger
+“Sniper” inside it, normal game play pauses 
+in order to resolve that Sniper: The player 
+rolling the Sniper trigger reveals the top card 
+of his draw pile and, ignoring everything 
+else, reads aloud the random hex on that card. 
+That player may then select one unit in or 
+adjacent to that hex and break it.
+A Sniper result can represent a lot more 
+than just a patient man with a scoped rifle, 
+by the way: this mechanism could also rep-
+resent combat occurrences such as friendly 
+fire, panic, shell shock, snake bite, despair, 
+dehydration, fatigue, a stray shell, concus-
+sion, dirt in the eye – you get the idea. 
+1.9.5 Time Trigger
+“Time” inside it, normal game play pauses 
+in order to perform a Time Marker Advance 
+[13.1.2].
+2. Maps
+2.1 The Battlefield
+Superimposed over each mapboard is a 
+hexgrid which is used to regulate movement 
+and combat at an abstracted scale of about 30 
+meters per hex. Each hex contains: 
+a)	 a specific type of terrain [T82–T99] which 
+can affect movement as well as attacks 
+made into or through it;
+b)	 a white center dot used for determining 
+Line of Sight [16] between hexes;
+c)	 a unique letter-number identifier – such 
+as “C7” – used for determining where 
+Snipers and certain events will take place.
+2.2 Map Border
+a)	 The upper right of each map contains 
+its identification letter which is used 
+to determine which map is used for a 
+particular scenario.
+b)	 In the lower left of each map is a six-
+sided “compass” matching the orientation 
+of the mapboard hexes. The compass is 
+generally used to determine a random 
+direction during artillery strikes [O24.3.2], 
+as well as for various events.
+On the compass, 1 points to the “top” of the 
+map; 4 to the bottom; 2 and 3 to the right 
+side; 5 and 6 to the left.
+c)	 Two opposite corners of each map con-
+tain “Artillery Boxes” used for holding a 
+player’s radio marker [6].
+2.3 Objectives
+Each map contains 
+five “objectives”—
+red circles 
+containing a white number between 1 and 5. 
+An objective is worth a variable number of 
+VPs to the last side to have sole control over it 
+[14.3.1]. An objective’s value is a default zero 
+VPs unless dictated otherwise by the specific 
+objective chits in play [14.3.3].
+2.4 Exit Points
+Each map has a number of light 
+green arrows called Exit Points. 
+Each Exit Point contains a number 
+between 0 and 3. An Exit Point straddles the 
+map’s border and one outermost hex. Exit 
+Points indicate where players can voluntarily 
+exit their units from the map, earning them 
+VPs in the process [14.2.2].
+3. Units
+“Among flowers, the best is the cherry blossom; 
+among men, the best is the soldier.”
+—Japanese Proverb
+Name/Rank—The name of any unit is used 
+solely for identification purposes. Similarly, 
+the historical medal or rank insignia found 
+on most leaders is for aesthetic purposes only. 
+These have no effect on actual game play 
+once these pieces are on the map.
+Figures—All units have an illustration of one, 
+two or four soldier figures to denote their 
+relative size. One figure is a “leader” repre-
+Name
+Figures:
+1x = leader
+2x = team
+4x = squad
+Command
+(leaders only)
+Name
+Figures:
+1x = leader
+2x = team
+4x = squad
+Command
+(leaders only)
+
+Page 7
+senting a single man; two figures a “team” of 
+3-6 men; and four figures is a “squad” of 8-13 
+men. 
+3.1 Unit Stats
+“Morale is the state of mind. It is steadfastness 
+and courage and hope. It is confidence and 
+zeal and loyalty. It is élan, esprit de corps and 
+determination.”
+Units have one number in their upper right 
+corner and three numbers printed along the 
+bottom, even if one or more are “0”. Leader 
+units (only) will also have a number, letter 
+or dash centered along the right side of their 
+counter.
+3.1.1 Firepower (FP)
+This is the first number along the bottom, and 
+is a unit’s base strength when in melee [19] or 
+when firing at an enemy unit [O27 & A41].
+3.1.2 Range
+This is the second number along the bottom, 
+and is the maximum number of hexes away at 
+which it may use its FP to fire at enemy units 
+[O27 & A41].
+3.1.3 Movement
+This is the third number along the bottom, 
+and gives the number of Movement Points 
+(“MPs”) a unit can spend to Move [O29] from 
+hex to hex across the map.
+3.1.4 Morale
+This is the number in the upper right corner, 
+and is a unit’s base strength when defending 
+against an enemy fire attack. A unit’s morale 
+is always directly modified by the Cover of 
+the hex [T81.3] or cave [F102.2.3] it currently 
+occupies.
+3.1.5 Command
+This is the number within a hex-shape along 
+the right hand side of leader counters (only). 
+Command serves to activate additional units 
+during orders and Op Fire actions [3.3.1.1], as 
+well as adding to the stats of certain other 
+units and weapons stacked with the leader 
+[3.3.1.2 & 3.3.1.3]. See also Scouts [3.3.3] and 
+Sogeki Hei [3.3.4].
+3.1.6 Boxed Stats
+Some units have their FP enclosed within 
+a square. This gives the unit +1 strength in 
+melee [19].
+3.2 Broken Units
+3.2.1 Broken/Unbroken
+A unit is always in one of two 
+states: broken or unbroken. A 
+unit usually begins a scenario 
+face up on its unbroken side 
+but Fire Attacks and other adverse effects 
+can “break” it—causing it to be flipped to its 
+broken side.
+A broken unit is identified by having a red 
+bar across the top of its counter.
+3.2.2 Attached Markers
+Units switching from broken to unbroken or 
+vice versa retain possession of all weapon / 
+veteran / suppressed markers. 
+3.2.3 Attached Weapons
+Broken units cannot fire weapons. A weapon 
+does not break or unbreak solely because its 
+controlling unit does, and vice versa.
+3.2.4 Elimination
+A broken unit that breaks again is eliminated: 
+award its VP value to the opponent [14.1] after 
+placing it on the Casualty Track [11.2].
+3.2.5 Rallying
+When a broken unit is instructed to “rally,” it 
+is flipped back to its unbroken side. This usu-
+ally occurs during a Revive order [O31b] or 
+via various events. Rallying has no effect on 
+an unbroken unit.
+With the exception of not being able to fire 
+weapons, you will find that broken units 
+can do most anything unbroken ones can, 
+just not nearly as well.
+3.3 Leaders
+“I am more afraid of an army of 100 sheep led 
+by a lion than an army of 100 lions led by a 
+sheep.”
+—Charles Maurice de Talleyrand
+3.3.1 Command
+3.3.1.1 Command Radius
+Normally, an order [O20.1] or Op Fire action 
+[A41.2] will only activate a single unit. When 
+a leader with a command number is the first 
+unit activated, however, it has the ability 
+to further activate all, some or none of the 
+friendly non-leader units within its “Com-
+mand Radius” to perform the same order/Op 
+Fire. Command Radius is counted in hexes 
+radiating outward from that leader’s hex.
+A leader with “2” command can activate 
+friendly units up to two hexes away – even 
+across an impassable blaze or past an en-
+emy unit. A leader with “1” command can 
+activate friendly units in or adjacent to its 
+own hex. A leader with “0” command can 
+activate units in its own hex.
+3.3.1.2 Unit Command
+A leader’s command number is added di-
+rectly to the FP, range, movement and morale 
+of all friendly squads and teams (only) as 
+long as those units are in the same hex with 
+the leader—whether the leader is activated or 
+not. This effect is cumulative if two or more 
+leaders occupy the same hex.
+It may be clear by now that leaders can 
+never affect themselves or other leaders.
+3.3.1.3 Weapon Command
+A leader’s command number is added direct-
+ly to the FP and range of every non-ordnance 
+weapon being carried by a friendly squad or 
+team as long as that unit is in the same hex as 
+the leader—whether the leader is activated or 
+not. This effect is cumulative if two or more 
+leaders occupy the same hex.
+So a mortar, being ordnance, can’t have 
+its stats affected by a leader; and an MG 
+carried by a leader won’t have its stats 
+increased.
+3.3.2 Heroes
+“Be content to act; leave the 
+talking to others.”
+Heroes can enter play via the Hero [E61] and 
+Spider Hole [E74] events. Heroes are normal 
+leaders in every respect, with two exceptions:
+a)	 A Hero never earns its owner Exit VPs 
+nor does the opponent ever gain VPs for 
+its elimination. An exited/eliminated 
+Hero is always put back in the counter-
+mix, never onto the Casualty Track.
+b)	 As an exception to rule O20.2, a Hero 
+may be activated more than once per turn, 
+thus allowing it to perform more than one 
+order or Op Fire per turn.
+Heroes enjoy running full speed up an open 
+road towards an objective hex. They also 
+love to charge machine gun nests in order 
+to take them out in close combat. Other 
+useful tasks for heroes will no doubt be 
+discovered by the player well versed in 
+Hollywood war movies.
+See also the Hero example in the playbook.
+3.3.3 Scouts
+Scouts are normal leaders 
+in every respect, with two 
+exceptions:
+a)	 Independent—Having no actual com-
+mand number, a Scout cannot increase 
+the stats of friendly units and weapons it 
+is stacked with, nor can it activate other 
+friendly units in the same manner as 
+other leaders. 
+b)	 Mortar Spotting—The “M” command of 
+an unbroken Scout represents its ability 
+to activate [O27.1.3] and then to possibly 
+spot for [O27.2.5] friendly mortars any-
+where on the map.
+See also the mortar spotting example in the 
+
+Page 8
+3.3.4 Sogeki Hei
+“Sogeki Hei” translates 
+roughly to “sniper”. In CC:P 
+this unit is usually used to 
+represent a treetop sniper but 
+can also act as a grounded and well-cam-
+ouflaged sharpshooter. A Sogeki Hei is a 
+normal leader in every respect, with three 
+exceptions:
+a)	 Independent—Having no actual com-
+mand number, a Sogeki Hei cannot 
+increase the stats of friendly units and 
+weapons it is stacked with, nor can it 
+activate other friendly units in the same 
+manner as other leaders. 
+b)	 Patient—A Sogeki Hei is treated as being 
+Ordnance [5.5] for all purposes except 
+that it is a unit and not a weapon. 
+Note the white stripe behind its lower stats 
+as a reminder of this status. This means that 
+a Sogeki Hei must make a Targeting roll 
+when firing and cannot perform Op Fire.
+c)	 Sniping—When making a fire attack 
+[O27.3], a Sogeki Hei
+must, if it hits, multiply the two dice on 
+its Fire Attack roll (rather than adding 
+them together as for a normal fire at-
+tack); and
+will only affect a single unit in the tar-
+geted hex (rather than everyone in the 
+hex having to make Defense rolls as 
+with a normal fire attack). If more than 
+one enemy unit occupies the targeted 
+hex the Japanese player selects the unit 
+to be affected, though a broken unit 
+cannot be selected if an unbroken unit 
+is present—the latter must be chosen if 
+The red box behind the Sogeki Hei’s FP 
+serves as a visual reminder of these special 
+abilities.
+See also the Sogeki Hei example in the 
+3.3.5 Leaders & Weapons
+A leader may only ever possess a weapon 
+lacking a negative movement modifier [5.1].
+4. Unit Markers
+4.1 Veteran
+4.1.1 Placement
+A veteran marker can be placed 
+on a unit via the Battle Harden 
+[E51] or Bushido [E55] events. 
+4.1.2 Effects
+A unit with a veteran marker on it has +1 FP, 
++1 range, +1 movement and +1 morale. Com-
+mand is unaffected by veteran status.
+4.1.3 Removal
+A veteran marker remains on a unit until the 
+unit is eliminated or exits the map. A veteran 
+squad that Deploys [E56] transfers its veteran 
+status to only one of the two replacing teams.
+4.2 Suppressed
+4.2.1 Placement
+A suppressed marker can be 
+placed on a unit via the Interdic-
+tion [E62] or Suppressing Fire 
+[E77] events, or due to a tie result during a 
+Fire Defense roll [O27.3.4]. 
+4.2.2 Effects
+A unit with a suppressed marker on it has –1 
+FP, –1 range, –1 movement and –1 morale. 
+Command is unaffected by being suppressed.
+Weapons themselves cannot become sup-
+pressed, but a suppressed unit cannot fire any 
+weapon it possesses.
+The “Ø Wpn” in the upper left corner of a 
+suppressed marker is there as a reminder.
+4.2.3 Removal
+A suppressed marker can only be removed 
+from a unit during a Revive order [O31a] or 
+if the unit is eliminated or exits the map. A 
+suppressed squad that Deploys [E56] transfers 
+its suppressed status to only one of the two 
+replacing teams.
+5. Weapons
+5.1 Effects
+As with units, 
+weapons have both 
+FP and range stats; 
+and possibly a negative modifier (in bold 
+red, like in the sample above) to the pos-
+sessing unit’s movement. Whenever a unit 
+is activated [O20.1], any weapon it possesses 
+is activated along with it. Only an unbroken, 
+unsuppressed unit may fire its weapon, and 
+may do so either separately or as part of a 
+Fire Group [O27.3.1].
+During testing we found it helpful to turn 
+weapons 90˚ while their owning unit was 
+broken as a reminder not to fire them. 
+Placing a unit’s suppressed marker directly 
+atop its weapon is another such reminder.
+5.2 Portage
+A squad or team may possess any one allot-
+ted weapon. A leader may only ever possess 
+a weapon without a printed negative move-
+ment modifier. “Possessing” a weapon is 
+denoted by having the weapon physically 
+placed atop that unit. Any weapon acquired 
+via that nation’s Support Table must be given 
+to the unit listed with that weapon. 
+Weapons fit comfortably on a unit counter 
+when offset a bit up and to the left. This 
+leaves all the unit’s stats clearly visible.
+5.3 Removal & Transfer
+A weapon may be transferred to another unit 
+only during an Advance order [O22.2]. 
+A weapon may be voluntarily eliminated by 
+its controlling player at any time. 
+Eliminated weapons are always placed in the 
+“weapons” section of the Casualty Track [11.2] 
+(exception: Banzai 17.2c).
+If a unit with a weapon leaves the map for 
+any reason, the weapon goes with it. A weap-
+on being carried by a squad that Deploys 
+[E56] is given to one of the two replacing 
+teams.
+5.4 Broken Weapons
+When a weapon breaks, it is flipped to its 
+“broken” side. A broken weapon that breaks 
+again is eliminated and placed in the Weap-
+ons Box of the Casualty Track. 
+Broken weapons are usually eliminated or 
+fixed via play of an Asset Denied or Asset 
+Request order, respectively [O23 & O24]. 
+5.5 Ordnance
+Some weapons – those with a white bar be-
+hind their stats, like the two pictured in the 
+next rule – are termed “Ordnance” and must 
+first secure a hit before making a Fire At-
+tack roll [O27.2]. Ordnance is also prohibited 
+from participating in a Fire Group [O27.3.1], 
+performing Op Fire [A41] and having its stats 
+increased via command [3.3.1.3].
+5.6 Specialized Weapons
+A flamethrower automatically 
+sets its target’s Cover [T81.3] to 
+“0”, with no modifications pos-
+sible.
+A mortar is an indirect fire weap-
+on. When a mortar fires, if it was 
+activated by a Scout [O27.1.3], the 
+LOS may be traced from that 
+Scout (acting as a spotter) rather than from 
+the mortar’s own hex [O27.2.5].
+6. Radios
+Radios are markers representing 
+off-map artillery batteries. Each 
+has a FP of between 8 and 12. If 
+a player acquires a radio, it is 
+placed in the Artillery Box closest to him 
+(on one of the two corners of the map). Each 
+player may have only one radio in play at a 
+time. A radio is not a weapon.
+See O23 and O24 for rules on radio usage. 
+See also the artillery example in the 
+
+Page 9
+7. Starshells
+Starshells are markers represent-
+ing various types of parachuted 
+illumination rounds used during 
+night actions. 
+7.1 Placement
+A starshell is placed on the map via the Asset 
+Request order [O24.7].
+7.2 Effects
+A starshell “illuminates” its own hex as well 
+as every hex within 2 hexes of it. The Night 
+Hindrance [18.3] is ignored in its entirety if 
+the target hex is illuminated. The illumina-
+tion status of a hex from which the fire attack 
+emanates or of any intervening hexes is 
+irrelevant.
+7.3 Removal
+A starshell can be removed from the map 
+with a Disperse die trigger [1.9.2].
+8. Aircraft
+The fighter 
+and dive 
+bomber 
+markers are 
+collectively 
+referred to as “aircraft” and represent various 
+forms of close air support available to the 
+combatants. An aircraft is not a weapon.
+8.1 Placement
+Aircraft are placed on the map via the Air 
+Support event [E50] .
+8.2 Effects
+Aircraft can be activated to attack via play of 
+an Asset Request order [O24].
+8.3 Removal
+Aircraft are removed from the map via an 
+Asset Denied order [O23], completion of a 
+Bombing Run or Strafing Run [O24.4 & O24.5], 
+or a subsequent Air Support event [E50].
+9. Sighting Markers
+Sighting markers represent 
+possible locations of hidden 
+Japanese units.
+9.1 Placement
+Each scenario will assign the Japanese player 
+a specific number of Sighting markers (which 
+could be zero). If allotted, they are set up 
+on the map in the same manner as his other 
+forces unless the scenario special rules say 
+otherwise.
+9.2 effects
+a)	 Each time a player reveals a random hex 
+due to a die trigger, the Japanese player 
+must move any one Sighting marker 
+already on the map into that random hex. 
+If a Sighting marker already occupies the 
+hex, a different one must be moved in, if 
+b)	 During Infiltrate orders Sighting markers 
+on the map are used to determine where 
+new Japanese units can be placed [O28.2].
+9.3 Removal
+One Sighting marker is removed from the 
+map whenever a Japanese unit/marker is 
+placed into its hex via the Infiltrate order 
+[O28.2]. Place the removed Sighting marker 
+back into the countermix, out of play.
+10. Initiative Card
+“The quality of decision is like the well-timed 
+swoop of a falcon which enables it to strike and 
+destroy its victim.”
+Each scenario will indicate which player 
+begins the game in possession of the Initia-
+tive card.
+IMPORTANT: The Initiative card is never 
+part of a player’s hand (only Fate cards). 
+The Initiative card should simply be kept 
+face up in front of the owning player for 
+ease of reference during play. 
+10.1 Re-Roll
+“The best luck of all is the luck you make for 
+yourself.”
+At any time during the game, the player 
+currently in control of the Initiative card 
+may choose to cancel all effects of the last 
+die roll to have been made – including any 
+die trigger associated with it – and cause it 
+to be re-rolled. This decision must be made 
+prior to any trigger/results of that roll being 
+implemented.
+When a player calls for a re-roll in this man-
+ner, he must give the Initiative card to his 
+opponent and then the re-roll is performed. 
+The opponent will then control the Initiative 
+card unless and until he himself performs a 
+re-roll option, thus passing it back to the first 
+player. This use of the Initiative can occur 
+an unlimited number of times during the 
+game—even during the same series of die 
+rolls.
+10.2 Tie Game
+“In war, you win or lose, live or die—and the 
+difference is just an eyelash.”
+When a scenario ends in a tie – for example, 
+0 VPs after sudden death, or both players 
+having their last on-map unit eliminated 
+simultaneously – the player holding the Ini-
+tiative card breaks the tie and wins the game.
+The Initiative card thus acts as a sort of 
+balancing mechanism to temper those wild 
+strings of luck inherent in any game with 
+cards or dice. Initiative will generally pass 
+back and forth between the two players as 
+the fortunes of war play out, though this 
+isn’t mandatory—it is possible, however 
+unlikely, that a player could refrain from 
+using it throughout an entire game. 
+11. The Track Display
+The Track Display is the reception point for 
+many of the game’s functions. It is home to 
+various tracks and such that players will 
+utilize throughout a scenario. Its sections 
+are outlined below, as well as in rule 13.
+11.1 Victory Track
+11.1.1 VP Marker
+The VP marker is 
+placed on the Vic-
+tory Track at the 
+beginning of every 
+scenario, and will move back and forth along 
+the track – that is, towards and away from 
+each player – as VPs are gained and lost dur-
+ing play. The reverse side of the VP marker is 
+used to record VP totals greater than 20.
+11.1.2 Attack Total Marker
+This marker is 
+used solely as a 
+mnemonic device 
+for players to tem-
+porarily record the current strength of any 
+Fire Attack / Mine Attack / Artillery Impact 
+/ Melee Total / etc. This is helpful for when 
+the targeted player’s Defense rolls are inter-
+rupted by die triggers.
+11.2 Casualty Track
+“The only words I spoke to the British com-
+mander in the negotiations for the surrender of 
+Singapore were ‘All I want to hear from you is 
+yes or no’. I expected to put the same question 
+to MacArthur.”
+—Tomoyuki Yamashita
+Each scenario will instruct the 
+Allied player as to which space 
+on his side of the Casualty Track 
+to place the surrender marker. 
+The Japanese do not surrender in CC:P.
+The Casualty Track has an upper and a 
+lower row, each one “pointing” to the 
+player that will utilize that row.
+Whenever a non-Hero unit is eliminated, it 
+(and its possessed weapon, if any) is placed 
+on the Casualty Track. Weapons are placed 
+in the large central box. (Exception: Banzai 
+[17.2c]). Units are stacked one per numbered 
+space on their owner’s side of the Weapons 
+
+Page 10
+Box, occupying those spaces in lowest-to-
+highest numerical order. In this manner, the 
+Allied player will lose the game if one of his 
+eliminated units is placed in the space occu-
+pied by the surrender marker [13.3].
+Remember to gain VPs each time an 
+opponent’s unit is eliminated [14.1]. Further, 
+even though the Japanese will not surrender, 
+it’s still important to place their units on the 
+Casualty Track for events such as Battlelust 
+[E52] and Walking Wounded [E79]. 
+11.3 Miscellaneous
+OB Display—Each faction has 
+an OB stats marker which is 
+used on the OB Display to 
+mark its 
+quality (elite, line or green)
+Order Limit (1-6)
+and Posture (Attack, Banzai, Defend, 
+Invade or Recon).
+“Quality” tells the player which of his Teams 
+– Elite, Line or Green – will replace any of 
+his Squads that break down.
+“Order Limit” is the maximum number of 
+orders that player may give each turn [12.1].
+“Posture” assigns that player a maximum 
+hand size as well as other possible effects [17].
+Scenario Date—Every sce-
+nario will specify which space 
+of the Year Track in which to 
+place the year marker.
+Objective Box—Place drawn and sce-
+nario-assigned objective chits [14.3.3] here. 
+Players place their “secret” objectives 
+in the section of the box closest to them. 
+“Open” objectives are placed in the central 
+section.
+Data Boxes—The seven Data Boxes along 
+the bottom of the Track Display allow 
+players quick access to special rules as-
+sociated with various fortifications and 
+weapons. The Mines box has an additional 
+small flyout used to indicate the strength 
+of all mine attacks for the scenario being 
+played [F104.2].
+Infiltration Boxes—The middle of the Track 
+Display shows three boxes labeled “A”, “B” 
+and “C”. These are used to hold pending 
+infiltrating units belonging to the Japanese 
+player [O28].
+CORE RULES—
+MECHANICS
+12. Sequence of Play
+A game of CC:P begins with one player (as 
+specified by the scenario being played) per-
+forming the first “turn”. When he is finished 
+– and draws up to his hand size [1.1] – the op-
+posing player takes his first turn. These turns 
+are then alternated until a Sudden Death roll 
+or other occurrence [13.3] ends the game.
+A turn consists of a player choosing to either: 
+a)	 perform one or more orders by playing 
+cards from his hand [O20]; or 
+b)	 discard any number of Fate cards from 
+his hand (including zero) [O21].
+12.1 Order Limit
+“Do nothing which is of no use.”
+In CC:P, no player may give an order without 
+the play of a card from his hand. The maxi-
+mum number of orders a player may perform 
+each turn – his “Order Limit” – will be given 
+within the scenario being played. Orders 
+do not need to be predesignated—they are 
+played from the hand, then executed, one at a 
+time. A player may observe the results of one 
+order before deciding whether to play another.
+The different orders that may be given by a 
+player are explained in rules O22 – O31.
+12.2 Action Capability
+“All things entail rising and falling timing. You 
+must be able to discern this.”
+As with orders, no player may announce an 
+action without the play of a card from his 
+hand. Players may perform actions whenever 
+they deem appropriate provided the prereq-
+uisite, if any, within the action itself is met. 
+There is no limit to the number of actions a 
+player may perform during either player’s 
+turn other than the number of cards in hand.
+The different actions that may be taken by a 
+player are explained in rules A33 – A48.
+12.3 Discard Limit
+“Don’t fight the problem; decide it.”
+If a player elects to perform no orders 
+in his turn, he may instead discard [O21] 
+any number of cards up to but not exceed-
+ing the Discard Limit of the nation he is 
+commanding:
+5 if commanding the US;
+4 if commanding the Commonwealth;
+3 if commanding Japan;
+or 2 if night rules [18] are in effect, regard-
+less of nationality.
+These discard limits are also shown graphi-
+cally on the player aid sheet.
+12.4 Hand Refill
+At the end of every turn, the active player 
+(only) must draw enough Fate cards off the 
+top of his draw pile so that the number of 
+cards in his hand equals his hand size [1.1]. 
+This draw may be temporarily interrupted 
+by a Time Marker Advance [13.1.2] if the last 
+card of that player’s deck is drawn—in this 
+case, the hand refill recommences after the 
+Time Marker Advance is concluded (during 
+which his discard pile was reshuffled to form 
+a new face-down draw pile).
+13. Game Time
+“Time is everything; five minutes make the dif-
+ference between victory and defeat.”
+—Horatio Nelson 
+13.1 Time Marker
+13.1.1 Placement
+Each Scenario will indicate on 
+which space of the Time Track 
+(located on the Track Display) 
+the time marker is to be placed (usually “0”).
+13.1.2 Advancement
+The time marker is advanced one space for-
+ward along the Time Track whenever: 
+a Time trigger is rolled (and the roll is not 
+cancelled by the player with the Initiative); 
+or
+a player’s draw pile has no cards remain-
+ing: treat such an occurrence exactly as if 
+a Time trigger had been revealed.
+It is only advanced once – not twice – if the 
+last card in a player’s deck is revealed for a 
+die roll resulting in an actual Time trigger.
+Immediately after advancing the time marker, 
+normal play pauses so that the following two 
+steps may be executed in the order shown:
+a) the player triggering the Time Advance 
+(only) shuffles his deck and discard pile 
+together to form a new draw pile;
+b) the triggering player makes a Sudden 
+Death roll if appropriate [13.2.2].
+Then, if the game did not end due to sudden 
+death, perform the following two steps:
+c) the scenario Defender (only) gains 1 VP;
+d) if there are one or more pieces or Sight-
+ing markers in the space now occupied 
+by the time marker, the owning player 
+brings them into play as reinforcements 
+by placing them in any hexes along his 
+friendly map edge (inactive player first). 
+Any reinforcement radio is placed into 
+that player’s empty Artillery Box instead.
+
+Page 11
+Once the four steps above have been com-
+pleted in their entirety, normal play resumes 
+from wherever it left off.
+13.2 Sudden Death Marker
+13.2.1 Placement
+Each scenario will indicate on 
+which space of the Time Track the 
+sudden death marker is to be placed.
+13.2.2 Procedure
+Whenever the time marker advances into or 
+beyond the space occupied by the sudden 
+death marker, the triggering player must 
+make a roll—this is done after that player 
+shuffles his Fate deck and discard pile to-
+gether to form a new draw pile. If the result 
+is less than the number in the space currently 
+occupied by the time marker (not the sudden 
+death marker), the game immediately ends. 
+Otherwise, play proceeds as normal.
+13.3 Game End
+A game of CC:P will end in one of four ways:
+a)	 The Allied player is forced to place one 
+of his eliminated units in the space of the 
+Casualty Track occupied by the surrender 
+marker;
+b)	 A player’s last remaining unit on the map 
+is eliminated and that player has no units 
+in an Infiltration Box;
+c)	 A player’s last remaining unit on the map 
+is removed from the map for any reason 
+other than elimination [14.2.2] and that 
+player has no units in an Infiltration Box;
+d)	 A Sudden Death roll [13.2.2] is made that 
+is less than the number in the space cur-
+rently occupied by the time marker.
+13.3.1 Game End via Elimination
+If the above situation a) or b) occurs, that 
+player immediately and automatically loses 
+the game regardless of the VP total. If both 
+players simultaneously lose in this manner, 
+the player holding the Initiative card breaks 
+the tie and wins the game.
+13.3.2 Game End via Exit or Time
+If the above situation c) or d) occurs and 
+situations a) and b) do not apply, players must 
+reveal any secret objective chits and award 
+their VPs to the current controller. Then, the 
+player with the higher VP total – that is, the 
+VP marker is on his side of the zero space 
+– wins the game. If the VP marker is in the 
+zero space, the player holding the Initiative 
+card breaks the tie and wins the game.
+14. Victory Conditions
+“In war there is no substitute for victory.”
+A player will usually win the game by having 
+more VPs than his opponent when the game 
+ends [13.3]. VPs are earned in one of three ways:
+Elimination of enemy units;
+Exiting of friendly units off the opponent’s 
+map edge;
+control of mapboard objectives.
+14.1 Elimination Victory Points
+“If you kill enough of them, they stop fighting.”
+—Curtis E. Lemay
+When a unit is eliminated – for any reason: 
+via order, action or trigger – the opponent is 
+awarded a certain number of VPs for it:
+A squad is worth 2 VPs;
+A team is worth 1 VP;
+A leader (exception: Hero) is worth 1 VP 
+plus 1 VP for each point of command on 
+its unbroken side;
+A Hero is worth no VPs. 
+These VP values are also shown graphi-
+cally on the player aid sheet.
+14.2 Exit Victory Points
+14.2.1 Map Edges & Exit Points
+Each map is considered to have an impen-
+etrable barrier to the left and right side of 
+each player once play commences. A unit 
+may never exit the map off the right or left 
+flank. However, the edge of the map near-
+est a player’s opponent – the “enemy” map 
+edge – can be exited by friendly units in play 
+(only) but only from a hex containing an Exit 
+Point [2.4], as if the map’s colored border was 
+another hex. Conversely, the edge of the map 
+nearest a player – his “friendly” map edge 
+– can be exited by enemy units (only) via 
+those hexes containing Exit Points. 
+14.2.2 Voluntary Exit
+A unit activated to Advance [O22] or Move 
+[O29] may exit off the opponent’s map edge 
+(at a MP cost of 1) if the hex it is leaving 
+contains an Exit Point, regardless of that Exit 
+Point’s value. Each unit exited in this way 
+immediately earns its owning player a num-
+ber of VPs equal to the value given within 
+the Exit Point itself. 
+Note that, when in play, objective chit “Y” 
+[14.3.3] increases the value of each Exit 
+Point by 1.
+Exited units are placed on any space of the 
+Time Track the owning player wishes (though 
+the very next space is most common). Exited 
+units are always placed on the Time Track 
+unbroken, even if broken while exiting. Exit-
+ed units retain possession of carried weapons 
+– again automatically unbroken – but lose any 
+veteran or suppressed markers attached.
+This piece is considered to be a completely 
+different “reinforcement” unit. In real 
+world terms you are probably outflanking 
+or overrunning your opponent.
+14.3 Objective Victory Points
+“When a thing is done, it’s done. Don’t look 
+back. Look forward to your next objective.”
+Each of the five objectives on every map can 
+be worth one or more VPs, depending on 
+which objective chits are in play. Objectives 
+are worth zero VPs by default: only one or 
+more objective chits can make them worth 
+more.
+14.3.1 Control of Objectives
+The double-sided control markers are used to 
+indicate which side currently controls each 
+mapboard objective [2.3]. 
+During setup, a scenario will specify which 
+objectives begin under each player’s con-
+trol. In some cases, objectives may begin 
+the game uncontrolled by either side: these 
+should not contain any control marker. Oth-
+erwise, once play commences, the last player 
+to have solely occupied an objective with 
+a friendly unit should place/flip the control 
+marker within that objective to match the 
+faction he is commanding.
+14.3.2 Building Objectives
+An objective located in a building hex is 
+considered to represent the entirety of that 
+building. In such a case, every hex of that 
+building must be devoid of enemy units in 
+order for an occupying player to take control 
+of it.
+14.3.3 Objective Chits
+There are 21 objective markers – or “chits” 
+– in CC:P. Objective chits are usually drawn 
+at random and are used to determine specific 
+additional victory conditions for each sce-
+nario—usually in the form of assigning a VP 
+value to one or more mapboard objectives 
+[2.3].
+Each objective chit drawn will show a victory 
+condition on its “open” side. Most of these 
+will be in the form of:
+Showing that objective X is worth Y VPs to 
+its controller. These values are cumulative 
+with other objective chits.
+If all three chits were in play for mapboard 
+objective 3 (C, G and K), objective 3 would 
+be worth a total of 6 VPs (1 + 2 + 3).
+
+Page 12
+Several objective chits show:
+Objective
+= YVP
+This means that the five objectives on the 
+map are worth Y VPs each. These values are 
+cumulative with other objective chits.
+Play hint—Due to the random assignment 
+of objective chits in many scenarios, some 
+mapboard objectives may be worthless at 
+the end of the game. Players should still try 
+to take control of all objectives on a map 
+in case the opponent’s secret objective chit 
+includes one or more valuable ones.
+The two specialized objective chits labeled
+Objective: Z
++1
+Elim. points
+Objective: Y
++1
+Exit points
+indicate, respectively, that: 
+VPs gained for the voluntary exit of each 
+friendly unit [14.2.2] is increased by one for 
+both players;
+VPs gained for the elimination of each 
+enemy unit [14.1] is increased by one for 
+both players.
+14.3.4 Open & Secret Objectives
+Open objective chits – as well as secret ones 
+that have been revealed during play [E69] 
+– should be placed with their “open” sides 
+face up in the center of the Objective Box. 
+Secret objective chits should be kept face 
+down in the Objective Box—only that player 
+may look at the “open” underside of the chit. 
+Note that a few of the objective chits have 
+no “secret” side—if a player draws one of 
+these as their random objective chit, tough 
+luck: it must be revealed as an open objec-
+tive chit.
+Open objective chits award their VPs im-
+mediately during play of the game, whereas 
+secret objective chits usually award their 
+points at game end (or at the time they are 
+revealed).
+When a mapboard objective with a match-
+ing open objective chit changes ownership 
+during play, remember to first subtract its 
+VP value from its former controller before 
+adding its value to the new controller’s vic-
+tory points. An objective worth 4 VPs, for 
+example, would cause an eight point swing 
+when it changes hands.
+15. Stacking
+Placing more than one unit or marker in the 
+same hex is called “stacking”.
+CC:P’s oversized hexes allow for up to four 
+unit counters to sit comfortably within them. 
+Even though these pieces may not physi-
+cally be stacked upon one another, they are 
+considered to be “stacked together” in a 
+single hex for game purposes.
+15.1 Marker Stacking
+Stacking limits for markers are enforced im-
+mediately after placement. There is no limit 
+to the number of markers that might occupy a 
+single location except as follows.
+15.1.1 Unit Markers
+Each unit in play may have a maximum of 
+one of each of the following markers stacked 
+upon it:
+suppressed
+veteran
+weapon
+a squad/team may possess any weapon
+a leader may possess only those 
+weapons without a negative movement 
+modifier
+15.1.2 Radios
+Only one radio or “artillery denied” marker 
+may be stacked in each of the two Artil-
+lery Boxes: one per player. The first such 
+radio/marker takes precedence.
+15.1.3 Fortifications
+Only one fortification marker can be stacked 
+in each hex. The first such fortification takes 
+precedence.
+So if an event instructed you to place a fox-
+holes marker into a hex already containing 
+wire, those foxholes would not be placed.
+15.1.4 Smoke
+Only one smoke marker can be stacked in 
+each hex. The one with the largest Hindrance 
+takes precedence.
+15.1.5 Blaze
+Only one blaze marker can be stacked in 
+each hex. While a blaze occupies a hex, no 
+unit and no marker listed above may exist 
+there [E53].
+15.2 Unit Stacking
+15.2.1 Stacking Limit
+The number of units – friendly and enemy 
+– that can stack in a hex without penalty is 
+based upon the number of soldier figures 
+on those counters. A hex can contain units 
+sporting a total of up to 7 soldier figures 
+without penalty. Any hex containing units 
+with a total of 8 or more soldier figures is in 
+violation of the stacking limit and is consid-
+ered “overstacked”.
+Note that all squads have 4 figures, all 
+teams 2 figures, and all leaders 1 figure. 
+In this manner, up to one of each could 
+stack without penalty; or three teams and 
+one leader; etc. Anything more than this 
+in a single hex – four teams, for example 
+– would be considered overstacked.
+15.2.2 Overstacking Penalty
+In any hex which is overstacked – that is, 
+there are units present sporting 8 or more 
+soldier figures – Cover in that hex is reduced 
+by one for each soldier figure present above 7.
+Two US squads with printed morales of 7 
+are stacked in a palm hex. Since the hex 
+is overstacked by one soldier figure, the 
+nominal 1 Cover afforded by the palm 
+instead drops to 0. If a third US squad was 
+stacked there (12 total soldier figures, or 5 
+figures over the stacking limit) the Cover of 
+the hex would instead be –4 (negative four), 
+causing each squad’s morale to drop to 3!
+15.2.3 Stacking During Setup
+Players cannot exceed the unit stacking limit 
+during initial scenario setup. Overstacking is 
+allowed only any time after play begins.
+16. Line of Sight (LOS)
+“As a rule, men worry more about what they 
+can’t see than about what they can.”
+—Julius Caesar, attributed
+16.1 LOS Checks
+Generally, a unit in one hex must be able to 
+see a unit in another hex in order to fire at 
+it. Mapboard terrain and units inside caves 
+[F102] can affect this LOS. A LOS “check” is 
+made by stretching a string taut between the 
+center dot within the “sighting unit’s” hex 
+and the center dot of the “target unit’s” hex. 
+If the string touches the physical depiction 
+of a terrain Obstacle or Hindrance in an 
+intervening hex, that LOS is blocked [16.2] 
+or hindered [16.3], respectively. Such a LOS 
+check may be made at any time by either 
+player.
+An Obstacle or Hindrance that is within the 
+sighting or target hex will not affect LOS. 
+(exception: smoke [16.3.4]).
+LOS is always reciprocal: if unit A can see 
+unit B, then unit B can also see unit A.
+Units – friendly or enemy – in an intervening 
+hex do not block or hinder LOS in any way.
+16.2 Obstacles & LOS
+16.2.1 Terrain Obstacles
+Any terrain [T82–T99] with the “ ” symbol 
+in its LOS column of the Terrain Chart is 
+termed an “Obstacle”. A unit in one hex 
+
+Page 13
+can’t see a unit in another hex if that LOS is 
+blocked by an Obstacle. 
+16.2.2 Blaze Obstacles
+A blaze marker [T83] is considered to fill the 
+entirety of the hex that it occupies. In other 
+words, a LOS traced through any portion of 
+a Blazing hex – including directly along its 
+hexside – is blocked by that marker.
+16.3 Hindrances & LOS
+Some terrain is too sparse or too low to be 
+considered a complete obstacle to LOS, and 
+is thus termed a “Hindrance” because it 
+hinders fire traced through it to another hex 
+rather than preventing the shot altogether.
+16.3.1 Targeting & Hindrances
+Any Accuracy [O24.3.2] or Targeting [O27.2] 
+LOS traced through an intervening Hin-
+drance will have its roll decreased by an 
+amount equal to the number listed in that 
+terrain’s LOS column of the Terrain Chart. If 
+the firing piece hits, any subsequent Artillery 
+Impact/Fire Attack roll will be unaffected by 
+the Hindrance.
+The hindrance was already taken into ac-
+count by lessening the chances of hitting 
+the intended target in the first place.
+16.3.2 Fire Attacks & Hindrances
+16.3.2.1 Firepower Reduction
+Any non-ordnance Fire Attack [O27.3] traced 
+through an intervening Hindrance will have 
+its FP reduced by an amount equal to the 
+number listed in that terrain’s LOS column of 
+the Terrain Chart.
+16.3.2.2 Minimum Firepower
+A Fire Attack that would be reduced to 0 or 
+less FP due to Hindrance cannot be made. A 
+final FP of at least 1 is required for any Fire 
+Attack roll to be made. Actions that increase 
+a Fire Attack’s strength may be used in order 
+to raise that shot’s FP to 1 or more.
+16.3.3 Hindrance Modifiers
+Hindrances are not cumulative: the single 
+largest modifier is used, and this modifier 
+does not become greater if the number of 
+Hindrances between the sighting and target 
+hexes is greater than one.
+A squad fires at a team three hexes away. 
+Both hexes between them contain grass. 
+The team’s total FP is reduced by –3 for one 
+grass Hindrance, not –6 for both. If one or 
+both of the two intervening hexes contained 
+a “4” smoke marker, the FP would be re-
+duced by –4 instead for the smoke.
+16.3.4 Smoke Hindrances
+A smoke marker [T95] is considered to fill the 
+entirety of the hex that it occupies. In other 
+words, a LOS traced through any portion of 
+a smoked hex – including directly along its 
+hexside – is hindered by that marker.
+The physical placement of a smoke/blaze 
+marker within a hex is unimportant: these 
+are “inherent” terrain, and are considered 
+to affect the entire hex – including all six 
+hexsides – as long as they remain.
+Furthermore, smoke hinders any LOS traced 
+into or out of it, not just through it like 
+printed mapboard Hindrances.
+Continuing the example from 16.3.3, if the 
+squad’s hex contained a “5” smoke marker, 
+its FP would be reduced by –5 instead. 
+See also the LOS example in the playbook.
+17. Posture
+“One defends when his strength is inadaquate, 
+he attacks when it is abundant.”
+Each player’s “Posture” will be assigned 
+within the scenario being played. Posture 
+serves to determine a player’s hand size for 
+the duration of the scenario [1.1] as well as 
+sometimes assigning certain special rules. 
+The five possible Postures are: 
+Attacker [17.1]
+Banzai [17.2]
+Defender [17.3]
+Invader [17.4]
+Recon [17.5]
+Hand sizes for the various Postures are 
+shown on the player aid sheet for ease of 
+reference during play.
+17.1 Attacker Posture
+“In bygone days, commanders were 
+taught that when in doubt, they 
+should march their troops towards 
+the sound of gunfire. I intend to 
+march my troops towards the 
+sound of gunfire.”
+—Joseph Grimond
+A player assigned the Posture of “Attacker” 
+has a hand size of 6.
+17.2 Banzai Posture
+“A skilled commander seeks victory 
+from the situation and does not 
+demand it of his subordinates.”
+A player assigned the Posture of “Banzai”
+a)	 has a hand size of 3;
+b)	 can play the Charge order [O25];
+c)	 always places his units (and their pos-
+sessed weapons, if any) on the next space 
+of the Time Track rather than on the 
+Casualty Track when eliminated. (Excep-
+tion: An eliminated Hero still goes back 
+into the countermix and its weapon, if 
+any, into the Weapons Box of the Casu-
+alty Track.)
+This simulates the ongoing human wave 
+aspect of a banzai attack. The Allied player 
+still receives VPs as usual each time a 
+Japanese unit is eliminated.
+It is also possible – via the Tennōheika Ban-
+zai! event [E78] – for the Japanese player to 
+switch from one of the other four Postures to 
+that of Banzai during regular game play.
+17.3 Defender Posture
+“A million men cannot take Tarawa 
+in a hundred years.”
+—Keiji Shibasaki
+A player assigned the Posture of “Defender”
+a)	 has a hand size of 4;
+b)	 is able to play several actions unavailable 
+to other Postures [A35 & A43];
+c)	 gains 1 VP during each Time Marker 
+Advance [13.1.2]. 
+17.4 Invader Posture
+“Gentlemen, we are being killed on 
+the beaches. Let’s go inland and 
+be killed.”
+—General Norman Cota
+A player assigned the Posture of “Invader”
+a)	 has a hand size of 7;
+b)	 usually sets up at least half of his as-
+signed forces as reinforcements on the 
+Time Track rather than on-map.
+This Posture is generally reserved for those 
+scenarios where one side – the Invading 
+side – is conducting a river crossing or sea-
+borne amphibious invasion. An invader’s 
+friendly map edge will more times than not 
+consist of nothing other than water barrier 
+and sand hexes.
+17.5 Recon Posture
+“Now I recall the Recon Marines’ 
+ragged, filthy, cammie-shirted 
+young men in green paint who 
+move silent like the fog with 
+deadly purpose in their eyes. Swift, 
+silent, deadly. I smile.”
+—GYSGT Correll, USMC, Retired
+A player assigned the Posture of “Recon” has 
+a hand size of 5. 
+
+Page 14
+18. Night
+“Darkness is a friend to the skilled infantryman.”
+—B.H. Liddell Hart
+The Japanese made extensive use of night-
+time attacks to both aid in their propensity 
+for infiltration tactics as well as to help off-
+set the Allies’ great advantage in firepower.
+Some scenarios are designated as taking 
+place at night. If so, the following six rules 
+are considered to be in effect for the entirety 
+of that scenario:
+18.1 Night Command & Control
+Each side has its Discard Limit reduced to 2.
+18.2 Night Movement
+Each Terrain Type (that is, terrain above 
+the dotted line on the Terrain Chart) has its 
+Move Cost increased by 1.
+Terrain Features – roads, trails and hills, 
+for example – are not affected.
+18.3 Night VISIBILITY
+There exists an automatic Hindrance of 
+X, where X is the range from the sighting 
+unit’s hex to the targeted unit’s hex (so al-
+ways a minimum of 1). As usual, this night 
+Hindrance is not cumulative with other Hin-
+drances (such as for smoke or grass).
+And remember that the presence of a 
+starshell [7.2] within 2 hexes of the target 
+hex negates this Hindrance in its entirety.
+18.4 Radios At Night
+The Communication Established option 
+[O24.1] cannot be chosen during an Asset 
+Request order.
+So no acquiring a new radio at night. How-
+ever, should a night scenario assign one or 
+both sides a radio as part of their starting 
+forces then these remain fully functional.
+18.5 Starshells At Night
+The Illumination option [O24.7] may be cho-
+sen during an Asset Request order.
+18.6 Aircraft At Night
+Air Support events [E50] have no effect (air-
+craft are NA at night).
+CC:P includes a cheat card containing a 
+synopsis of the above night rules for ease of 
+reference during play.
+See also the night example in the playbook.
+19. Melee
+19.1 Melee Markers
+Whenever a hex contains units 
+of both sides, immediately place 
+a melee marker in the hex if one 
+is not already present. A melee 
+marker makes the hex it occupies a “melee 
+hex”. A melee hex has two effects:
+Units and weapons in a melee hex cannot 
+fire (they otherwise function normally).
+A melee hex can’t be the target of a Fire 
+Attack, nor can an SR be placed in or 
+adjacent to one (a melee hex could still be 
+affected by artillery if the SR subsequently 
+drifted into or adjacent to it).
+Whenever a melee hex ceases to contain units 
+of both sides, remove the melee marker. The 
+hex immediately ceases to be a melee hex.
+19.2 Resolving Melee
+At the beginning of the Allied player’s turn 
+– only; never the Japanese player’s turn – a 
+melee ensues in every melee hex. If there is 
+more than one melee hex, the Allied player 
+selects the order in which they will be re-
+solved, one at a time.
+19.2.1 Melee Strength
+In each melee, after both players have played 
+and resolved any Ambush actions [A33], each 
+adds up the current FP of each of his remain-
+ing units – not weapons – in the melee hex. To 
+this total is added +1 for each of those units 
+with a boxed FP to arrive at his “Melee FP”. 
+If, due to Ambush actions, one or both sides 
+have no units remaining in the hex, the melee 
+ends with no further effect.
+19.2.2 Melee Roll
+The Japanese player adds his Melee FP to a 
+die roll to arrive at his “Melee Total”. Then 
+the Allied player adds his Melee FP to a die 
+roll to arrive at his Melee Total.
+The rolls – while ostensibly simultaneous 
+– are staggered in order to facilitate triggers 
+and possible use of the Initiative after the 
+first roll. Also note that both player’s Melee 
+FPs are locked in just prior to the Japanese 
+Melee roll, even if a trigger during that roll 
+alters the composition of one or both sides.
+If, due to a trigger during a Melee roll, one or 
+both sides have no units remaining in the hex, 
+the melee ends with no further effect.
+19.2.3 Melee Result
+Eliminate all units belonging to the side with 
+the lower Melee Total. In case of a tie, both 
+sides are eliminated unless one player began 
+the melee in a bunker or pillbox, in which 
+case only the other side is eliminated.
+See also the melee example in the playbook.
+ORDERS
+O20. General Rules
+O20.1 Activation Procedure
+To perform – or “give” – an order, the active 
+player (only) must reveal a card from his 
+hand and announce that he is performing the 
+order listed at the top. The card is then placed 
+face up atop the player’s discard pile. Then, 
+if appropriate for the order, he activates one 
+friendly unit that has not yet been activated 
+that turn to perform the order. 
+Some orders don’t activate units—this fact 
+will be noted within that order’s rules.
+If a leader is activated this way it may in turn 
+activate any number of friendly non-leader 
+units within its Command Radius [3.3.1.1] to 
+perform the same order—none of which can 
+have been previously activated that turn. 
+O20.2 Activation Limit
+No unit may be activated more than once per 
+turn (exception: Heroes [3.3.2]).
+O20.3 Identification & Effect
+All pieces activated for an order must be 
+identified before the order is carried out. 
+Further, once an order is given, at least one of 
+the pieces activated for that order must physi-
+cally carry it out.
+If a Move order is given, at least one acti-
+vated unit must physically cross a hexside 
+into another hex—you couldn’t give a Move 
+order for the sole purpose of playing a 
+Smoke Screen action, for example.
+O20.4 Order Sequencing
+An announced order must be performed in 
+its entirety before the next order is given or 
+before the player announces the end of his 
+turn. This includes any actions requiring that 
+order to be in effect.
+You can’t activate two units to Move, move 
+one, play a Fire order on your opponent to 
+get a broken enemy unit out of the way, then 
+come back and move the other unit.
+O20.5 Actions During Orders
+During an order, any number of actions may 
+be announced by both players so long as their 
+prerequisites are met.
+Your opponent could play two Smoke Screen 
+actions before Moving his activated squad. 
+When that squad then moves into one of 
+those smoked hexes, you could first place 
+wire there with a Hidden Wire action then 
+play an Op Fire action and shoot at it. 
+
+Page 15
+O21. Pass (Discard)
+“The wise does at once what the fool does at 
+last.”
+If a player chooses to give no orders during 
+his turn he may elect to discard any number 
+of cards (even zero) up to his assigned Dis-
+card Limit [12.3 & player aid sheet]. 
+The various orders are described in detail, 
+below, and are listed in alphabetical order 
+for ease of reference.
+O22. Advance
+“Advance your standards, draw your willing 
+swords.”
+—Shakespeare, King Richard II
+O22.1 Procedure
+A unit that is activated to Advance can enter 
+one of the six hexes adjacent to the one it cur-
+rently occupies, where it must stop. This can 
+be done even if the hex is enemy-occupied.
+This is the most common way in which to 
+enter into melee with opposing units.
+A unit’s movement as well as terrain Move 
+Costs are ignored during an Advance. In ad-
+dition, the inactive player cannot use Op Fire 
+[A41] against advancing units.
+You only get to go one hex but you are im-
+mune to Fire Attacks as you do so.
+O22.2 Abilities
+An advancing unit may:
+enter an enemy-occupied hex
+exit off the enemy map edge via an Exit 
+Point [14.2.1]
+if Japanese, “Advance” from inside one 
+cave to any other cave on the map [F102.3]
+transfer its weapon to another friendly unit 
+stacked with it. This can be done before or 
+after the transferring unit Advances. The 
+receiving unit need not be activated.
+O22.3 Restrictions
+An advancing unit may never:
+enter an impassable hex (such as a blaze)
+exit off the left, right or friendly map edge.
+O23. Asset Denied
+When an Asset Denied order is given, the 
+active player chooses to perform one of the 
+following activities:
+a)	 Weapon Jam [O23.1]; or 
+b)	 Communication Disrupted [O23.2]; or
+c)	 Abort Run [O23.3].
+No unit is activated with an Asset Denied 
+order. Weapon Jam may only be chosen if 
+there is an enemy weapon within LOS of a 
+friendly unit. Communication Disrupted 
+may only be chosen if there is an enemy ra-
+dio in play. Abort Run may only be chosen if 
+there is an enemy aircraft in play.
+O23.1 Weapon Jam
+If Weapon Jam is chosen for a player’s Asset 
+Denied, he selects one enemy weapon within 
+LOS of any friendly unit. Break that weapon. 
+If it was already broken, eliminate it instead 
+(placing it into the Weapons box of the Casu-
+alty Track).
+The weapon could be jammed, out of ammo, 
+overheated, out of position, damaged, its 
+operator incapacitated, etc.
+O23.2 Communication Disrupted
+If Communication Disrupted is chosen 
+for a player’s Asset Denied, he breaks his 
+opponent’s radio. If it was already broken, 
+eliminate it instead (placing it back in the 
+countermix).
+Keep in mind that a radio doesn’t “break” 
+per se. An eliminated or broken radio likely 
+represents the unwillingness of the battery 
+commander far behind the lines to sup-
+port your battle at this particular point in 
+time—other sectors of the front (off-map) 
+may have a more pressing need and thus 
+are getting their fire missions resolved first.
+O23.3 Abort Run
+If Abort Run is chosen for a player’s Asset 
+Denied, he removes his opponent’s aircraft 
+from the map (place back in countermix).
+The aircraft has left the area due to a lack 
+of viable targets, an enemy air threat, being 
+low on fuel or out of ammo, etc.
+O24. Asset Request
+“Artillerymen believe the world consists of two 
+types of people: Other artillerymen and targets.”
+—unknown
+When an Asset Request order is given, the 
+active player chooses to perform one of the 
+following activities:
+a)	 Communication Established [O24.1]; or
+b)	 Communication Restored [O24.2]; or
+c)	 Fire For Effect [O24.3]; or
+d)	 Bombing Run [O24.4]; or
+e)	 Strafing Run [O24.5]; or
+f)	 Weapon Repair [O24.6]; or
+g)	 Illumination [O24.7].
+Communication Established may only be 
+chosen if the active player has no radio or 
+artillery denied marker in his Artillery Box 
+and night rules [18] are not in effect. Commu-
+nication Restored may only be chosen if he 
+has a broken radio [6] in play. Fire For Effect 
+may only be chosen if he has an unbroken ra-
+dio in play. Bombing Run and Strafing Run 
+may only be chosen if his aircraft marker is 
+in play. Weapon Repair may only be chosen 
+if he has a broken weapon in play. Illumina-
+tion may only be chosen if night rules [18] are 
+in effect.
+O24.1 Communication Established
+If Communication Established is chosen for 
+a player’s Asset Request, he activates one of 
+his unbroken, unsuppressed leaders (only). 
+He then performs the following steps in the 
+a)	 make a roll on his nation’s Radio Table 
+[back cover of the playbook];
+b)	 from the column matching the roll, select 
+the radio or artillery denied marker that 
+is available for that scenario’s year;
+c)	 if a radio is selected, move the VP marker 
+a number of spaces towards his opponent 
+as the listed VP cost of that radio – “pay” 
+for it – then place that radio’s counter into 
+the Artillery Box on his side of the map;
+d)	 if the artillery denied marker is selected, 
+place the counter into the Artillery Box 
+on his side of the map.
+In step b, something must be chosen—even 
+if it has to be the artillery denied marker.
+Note that since an acquired radio is not ac-
+tivated, the active player could – if he had 
+another Asset Request in hand and another 
+unactivated leader in play – use it for his 
+very next order and choose Fire For Effect.
+O24.2 Communication Restored
+If Communication Restored is chosen for a 
+player’s Asset Request, he activates one of 
+his unbroken, unsuppressed leaders (only). 
+The active player then flips his broken radio 
+to its unbroken side, ready for immediate use.
+Since the radio itself is not activated, the 
+active player could – if he had another 
+Asset Request in hand and another unac-
+tivated leader in play – use it for his very 
+next order and choose Fire For Effect.
+O24.3 Fire For Effect
+“Hello, Tare One to Tare Three. Roger. Tell Tare 
+to give us the 155s. Concentration Queen 163. 
+And Fast. Over.”
+—Captain Charles B. MacDonald
+This option represents a leader calling for 
+an actual artillery strike. A radio operator 
+might be considered to be spending the time 
+in between Asset Request orders requesting, 
+observing and correcting spotting rounds.
+
+Page 16
+If Fire For Effect is chosen for a player’s As-
+set Request, he activates one of his unbroken, 
+unsuppressed leaders (only). This leader 
+will act as the “spotter” for the ensuing 
+bombardment. 
+Since the radio itself is not activated, the 
+active player could – if he had another Asset 
+Request in hand and another unactivated 
+leader in play – use it for his next order and 
+choose Fire For Effect yet again.
+The active player performs the following 
+three steps, in the order shown:
+a)	 Spotting
+b)	 Accuracy
+c)	 Impact
+Each step is explained in detail below.
+O24.3.1 Spotting
+First, place the spotting round 
+(SR) into a hex within LOS of 
+the spotter. This will indicate 
+the hex that is to be the intend-
+ed center of a 7-hex artillery 
+bombardment. The SR cannot be placed in 
+or adjacent to a melee hex but can be placed 
+into a hex normally impassable to units (such 
+as a blaze).
+O24.3.2 Accuracy
+Once the SR has been placed, make a nor-
+mal Targeting roll [O27.2.3] using the range 
+between the spotter and the SR’s current hex. 
+This roll is modified by any Hindrances along 
+the way, as usual [16.3.1].
+O24.3.2.1 Minor Drift Check
+If the Targeting roll secures a “hit,” the artil-
+lery is accurate. Reveal the top card of the 
+Fate deck and ignore everything but the two 
+dice (this is NOT a roll, so no die triggers). 
+Using the hex compass on the map, each die 
+will give the direction in which the SR will 
+err: the SR moves one hex in the white die’s 
+direction, then it moves one hex in the col-
+ored die’s direction.
+Yes, this could bring the SR right back into 
+the same hex – good shot!
+O24.3.2.2 Major Drift Check
+If the Targeting roll was a “miss,” the artil-
+lery is inaccurate. Reveal the top card of the 
+Fate deck and ignore everything but the two 
+dice (this is NOT a roll, so no die triggers). 
+Using the hex compass on the map, the first 
+(white) die gives the direction in which the 
+SR will err. The second (colored) die is the 
+distance in hexes the SR will travel in that 
+direction.
+Yes, this could bring the SR right back on 
+top of your own troops – bad shot!
+O24.3.2.3 Off-Map
+Any SR that errs off the map – even if just 
+briefly – is removed with no further effect 
+and the order ends. And, due to artillery’s 
+7-hex blast area (see below), an SR can oc-
+cupy an otherwise impassable hex (such as a 
+blaze).
+O24.3.3 Impact
+“One of the great surprises of warfare in the 
+20th century has been the power of soldiers to 
+survive what would seem to be overwhelming 
+concentrations of high explosive, and emerge to 
+fight with skill and determination.”
+—Max Hastings
+The hex into which the SR finally lands be-
+comes the center hex of the activated radio’s 
+artillery impact area; in other words, the SR’s 
+hex and each adjacent hex can be affected.
+Each radio’s FP is enclosed within a hex as 
+a reminder of its seven-hex blast area.
+The active player determines the order in 
+which these seven hexes are attacked, though 
+each may only have a maximum of one such 
+Impact roll made against it.
+Each hex within the impact area that con-
+tains at least one unit or fortification must 
+have a separate Artillery Impact roll made 
+against it.
+Hexes within the blast area but void of 
+units/fortifications can’t be attacked.
+An Artillery Impact roll follows the same 
+rules and restrictions as for a Fire Attack roll 
+[O27.3.3 & O27.3.4].
+O24.3.4 Artillery vs Fortifications
+The “Fortification Vulnerability” box on the 
+Track Display lists a Vulnerability number 
+for each radio (and dive bomber [O24.4]) Fire-
+power. If an Artillery Impact roll is exactly 
+equal to the Vulnerability number associated 
+with that radio’s FP, then any fortification in 
+the targeted hex is destroyed before any units 
+therein make their Fire Defense rolls.
+Note that many fortifications have a modi-
+fied Cover when targeted by artillery.
+See also the artillery example in the 
+O24.4 Bombing Run
+“Flying is hours and hours of boredom sprinkled 
+with a few seconds of sheer terror.”
+—Pappy Boyington
+No unit is activated during a Bombing Run. 
+If Bombing Run is chosen for a player’s As-
+set Request, he simply flips his aircraft to its 
+“dive bomber” side and performs the follow-
+ing steps in the order shown:
+a)	 Select a hex in which the dive bomber has 
+LOS to an enemy unit, which cannot be 
+its own hex. That hex will be the target 
+of the Bombing Run. LOS is checked as 
+if the dive bomber occupied a level 5 hill 
+[T89]. If there are no such hexes within 
+LOS, skip directly to step d.
+b)	 Make a Targeting roll [O27.2] against the 
+chosen hex as if the dive bomber were 
+ordnance. If the Targeting roll is a miss, 
+skip directly to step d.
+c)	 The dive bomber makes a 12 FP Fire 
+Attack [O27.3] against the targeted hex. 
+Check to see if any fortification in the 
+targeted hex is eliminated by consulting 
+the “12-FP” row of the Fortification Vul-
+nerability Table (on the Track Display).
+d)	 Remove the dive bomber from the map 
+(placing it in the countermix). This ends 
+the order.
+Pull Up!—If an Air Support event occurs at 
+any point during a Bombing Run, the Run is 
+This is because an Air Support event will ei-
+ther relocate the aircraft or remove it from 
+the map altogether. Either way, consider 
+the pilot to have not had a viable target or 
+that the bomb harmlessly went astray.
+O24.5 Strafing Run
+“Air power is like poker. A second-best hand is 
+like none at all—it will cost you dough and win 
+you nothing.”
+—George Kenney
+No unit is activated during a Strafing Run. If 
+Strafing Run is chosen for a player’s Asset 
+Request, he simply flips his aircraft marker to 
+its “fighter” side and performs the following 
+steps in the order shown:
+a)	 Position the fighter marker in its hex so 
+that it clearly faces one of the six com-
+pass directions (i.e., the nose of the fighter 
+is aligned along a hexside).
+b)	 Make a 9 FP Fire Attack [O27.3] vs each 
+hex in a line directly in front of the fighter 
+– in order closest-to-farthest – if it has a 
+LOS to any unit in that hex (friendly or 
+enemy). LOS is checked as if the fighter 
+occupied a level 5 hill [T89].
+Yes, you could end up strafing your own 
+troops—friendly fire due to mistaken iden-
+tification was not altogether uncommon 
+when it came to close air support. Choose 
+your fire lane carefully.
+Note that a Strafing Run will check for an 
+attack in every hex in a straight line ema-
+nating from the fighter’s nose until the edge 
+of the map is reached (where it ostensibly 
+exits the battlefield).
+
+Page 17
+c)	 Remove the fighter from the map (placing 
+it in the countermix). This ends the order.
+Pull Up!—If an Air Support event occurs at 
+any point during a Strafing Run, the Run is 
+This is because an Air Support event will 
+either relocate the aircraft or remove it 
+from the map altogether. Consider the pilot 
+to have not seen any further viable targets 
+or perhaps was called off to another sector 
+of the larger battlefield.
+O24.6 Weapon Repair
+If Weapon Repair is chosen for a player’s 
+Asset Request, he activates one of his unbro-
+ken, unsuppressed units possessing a broken 
+weapon (only). He then flips that broken 
+weapon back over to its unbroken side. 
+O24.7 Illumination
+If Illumination is chosen for a player’s Asset 
+Request, he activates one of his unbroken, 
+unsuppressed leaders (only). He then per-
+forms the following steps in the order shown:
+a)	 place the SR into any hex within LOS of 
+the activated leader;
+b)	 make an Accuracy roll and subsequent 
+drift check following the procedure used 
+for an artillery strike [O24.3.2];
+c)	 place a starshell marker [7] in the hex into 
+which the SR drifts;
+d)	 remove the SR from the map.
+O25. Charge
+“Tennōheika Banzai!”
+—famous last words
+Charge may only be played if the Japanese 
+player’s Posture is Banzai. If every Japanese 
+unit on the map has already been activated 
+that turn, a Charge order cannot be played. 
+O25.1 Japanese Activations
+When a Charge order is announced, all Japa-
+nese units not yet activated for the turn
+a)	 have any suppressed marker removed; 
+then
+b)	 are rallied if broken; then
+c)	 are automatically activated for a Move 
+order [O29].
+O25.2 Allied Activations
+After steps a through c above have been 
+completed – but before Movement physi-
+cally begins – any or all Allied units not yet 
+activated for the turn may be immediately 
+activated for an Op Fire action [A41], at the 
+Allied player’s discretion. This activation is 
+automatic and does not require the play of a 
+card from the Allied player’s hand.
+Banzai charges were noisy, boisterous 
+affairs having no pretense of stealth. To 
+this effect, CC:P allows the Allied player to 
+make automatic fire attacks against charg-
+ing units regardless of cards in hand.
+O26. Command Confusion
+“Never give an order that can’t be obeyed.”
+This card cannot be played for an order.
+It acts as a “dud’ order in your hand—hope 
+that you have a decent action on this card.
+O27. Fire
+“So they’ve got us surrounded, good! Now we 
+can fire in any direction.”
+—Lewis B. “Chesty” Puller
+O27.1 Activation
+O27.1.1 Suspected Targets
+When a Fire order is announced, at least one 
+of the units to be activated (or its weapon) 
+must have an enemy unit within both its LOS 
+and range and not occupying a melee hex.
+Example 1: You activate leader A to fire, 
+who then activates squad B. This is legal if 
+squad B is the only one of the two with both 
+LOS and range to a non-melee enemy unit. 
+Example 2: You can activate a 2-range team 
+to fire even if the nearest eligible enemy unit 
+is three or more hexes away if that team 
+possesses a weapon currently capable of 
+firing at that enemy unit.
+O27.1.2 Melee Hexes
+Units in a melee hex can’t be activated to fire.
+O27.1.3 Scouts & Mortar Activation
+Alternately, a Scout can be activated to fire 
+if it then activates one or more unbroken, un-
+suppressed friendly units possessing mortars 
+(and not in melee hexes). These units can 
+be anywhere on the map but the Scout itself 
+must have an enemy unit within its LOS 
+that is also within the range of an activated 
+mortar.
+O27.2 Ordnance & Targeting
+Any piece with a broad white 
+band behind its stats is termed 
+“ordnance”. Ordnance must first 
+secure a hit against the targeted 
+hex before making a Fire Attack roll. 
+Non-Ordnance pieces need not perform a 
+Targeting roll and proceed directly to the 
+next step [O27.3] when firing.
+Generally, the range between the firing ord-
+nance and the target hex is determined, then 
+a Targeting roll is made to see if the piece 
+hits and, if so, a Fire Attack roll [O27.3.3] is 
+then made using that weapon’s FP.
+And remember that ordnance’s stats are 
+never modified by a friendly leader’s com-
+mand number [3.3.1.3].
+O27.2.1 Smoke Rounds
+Some weapons are able to place a smoke 
+marker in the targeted hex (as indicated 
+by the word “Smoke” to the right of the 
+weapon’s illustration) instead of making a 
+normal Fire Attack roll. Ordnance is allowed 
+to target any hex within its range – even one 
+containing no enemy units – if it will place 
+smoke this way. The active player must de-
+clare this decision aloud when he selects the 
+target hex, prior to making the Targeting roll.
+If smoke placement is announced in this 
+manner, then a successful Targeting roll will 
+simply place a random smoke marker into the 
+targeted hex instead of using the weapon’s FP 
+to make a Fire Attack roll against it.
+O27.2.2 Targeting Range
+Determine the range by counting the number 
+of hexes from the firing piece to its target hex 
+– including the target hex but excluding the 
+firing piece’s hex. If this range is greater than 
+the printed range on the firing piece, the shot 
+cannot even be attempted.
+Note that mortars also have a minimum 
+range at which they can fire. For example, 
+the US Light Mortar has a range of “2-16” 
+so it can’t fire at an adjacent hex.
+O27.2.3 Targeting Roll
+“Nothing in life is so exhilarating as to be shot at 
+without result.”
+—Winston Churchill
+Once the range is determined, the active 
+player must make a die roll – but multiplying 
+the two dice together rather than adding them 
+together as with other rolls – that is greater 
+than the range in order to hit the targeted hex. 
+Any other result is a miss and the attack is 
+So a Targeting roll of 1∙6 (total of 6) misses 
+at range 6 or more, and will hit if the range 
+is 5 or less. A Targeting roll of 6∙6 is 36 and 
+will hit anything.
+O27.2.4 Targeting & Hindrances
+Targeting rolls are always modified by any 
+relevant Hindrance along the way [16.3.1].
+Ordnance firing at a target 5 hexes away 
+with one or more grass hexes in between 
+(Hindrance of 3) would need to physically 
+roll “9” or more to hit instead of “6+”.
+
+Page 18
+O27.2.5 Scouts & Mortar Spotting
+When a mortar fires, the owning player may 
+choose to have the LOS to the targeted hex 
+be traced from a friendly Scout that activated 
+it [O27.1.3] instead of from the mortar itself. 
+The Targeting roll must still count the actual 
+range from the mortar to the targeted hex but 
+any Hindrance modifying the roll will be 
+based upon the LOS from the activated Scout.
+O27.3 Fire Attack
+General rules for fire orders include:
+a)	 Each piece activated to fire may take one 
+shot at any non-melee hex within both its 
+range and LOS, either alone or as part of 
+a Fire Group [O27.3.1].
+b)	 Unless firing smoke [O27.2.1], there must 
+be at least one in-LOS enemy unit in a 
+targeted hex for the shot to occur. 
+c)	 Units (friendly or enemy) in intervening 
+hexes are not affected by any Fire Attack 
+that passes through their hex.
+Generally, a unit’s FP – modified both 
+by command and by possible Hindrances 
+between itself and the target – is added to 
+a “Fire Attack” roll to arrive at an “Attack 
+Total”. Then each unit in the targeted hex 
+adds its morale – modified by command and 
+Cover – to a “Fire Defense” roll to arrive at a 
+“Defense Total”. If the firer’s Attack Total is 
+at least double a targeted unit’s Defense Total, 
+that unit is eliminated. If the firer’s Attack 
+Total beats a targeted unit’s Defense Total, 
+that unit breaks [3.2]. If the Totals are tied, a 
+Moving target breaks while a non-Moving 
+target becomes suppressed [4.2]. Any other 
+result will have no effect.
+This is how CC:P makes moving a bit more 
+dangerous than remaining stationary. If the 
+active player’s units are being shot at via 
+Op Fire [A41], they will break on a tied result 
+rather than just becoming suppressed.
+O27.3.1 Fire Groups
+Two or more activated units/weapons – “piec-
+es” – may fire together by combining into 
+a “Fire Group”. Every piece in a Fire Group 
+must have both an unobstructed LOS to an 
+enemy unit in the target hex and be within 
+range of that hex for the Fire Attack roll to 
+be made. Units forming a Fire Group can 
+occupy more than one hex but each such hex 
+must be contiguous (so that it forms a “chain” 
+of adjacent firing units). 
+Fire Groups are never mandatory—pieces 
+that could form a Fire Group may choose 
+to fire separately or to form smaller Fire 
+Groups, at the owning player’s discretion. 
+A unit and its weapon may even fire sepa-
+rately and at the same or different hexes.
+O27.3.1.1 Ordnance
+Weapons with a white band must always fire 
+alone and thus can never be assigned as part 
+of a Fire Group.
+O27.3.1.2 Group FP
+The total FP of a Fire Group is X+Y, where 
+X is the FP of one firing piece and
+Y is the number of other firing pieces.
+Example: A 2-command leader activates 
+a team possessing a mortar stacked in the 
+same hex as well as a squad possessing 
+an 8-FP MG in an adjacent hex. The MG, 
+squad and team can form a Fire Group 
+targeting an enemy two hexes away with a 
+total of 10 FP (X=8 for the MG; Y=2 for the 
+squad + team). The mortar, being ordnance, 
+must fire separately.
+O27.3.2 Attack Hindrances
+If the LOS from any non-ordnance firing 
+piece to the target hex is hindered [16.3] that 
+shot’s FP is reduced by the largest such Hin-
+drance. If this would modify the attack’s FP 
+to zero or less, the shot cannot be attempted.
+Keep in mind that actions such as Crossfire 
+[A37] or Marksmanship [A45] can increase 
+a Fire Attack’s strength to greater than 0, 
+thus allowing a hindered shot to occur.
+O27.3.3 Fire Attack Roll
+Once the final FP is determined, the firing 
+player makes a roll and adds the sum of the 
+two dice to the final FP to arrive at an Attack 
+Total. 
+Remember to instead multiply the dice 
+revealed for a Sogeki Hei’s Fire Attack roll 
+rather than adding them together [3.3.4c].
+O27.3.4 Fire Defense Roll
+A player has to make a Fire Defense roll 
+– one at a time in any order desired – for each 
+of his units that were in a hex at the moment 
+that a Fire Attack roll was made against it 
+(exception: units inside caves—see F102.2.2). 
+All Fire Defense rolls for one attack must be 
+made before the next attack is announced, 
+even if that same hex will be shot at again.
+Since a broken leader has a command of 
+0, you generally want to roll Defense for a 
+leader last (in case it breaks) in order for 
+the other units in the hex to gain the morale 
+boost from his command.
+A targeted unit’s morale – modified by both 
+Cover [T81.3] and command [3.3.1.2] – is 
+added to a roll in order to arrive at a Defense 
+Total:
+a)	 If the Defense Total is half (or less) the 
+Attack Total, the unit is eliminated.
+b)	 If the Defense Total is less than the At-
+tack Total – but still more than half – the 
+unit breaks [3.2]. 
+c)	 If the Defense Total is equal to the At-
+tack Total, the unit becomes suppressed 
+[4.2] unless it is currently activated to 
+Move—in which case it breaks instead. 
+d)	 If the Defense Total is greater than the 
+Attack Total, the unit is unaffected.
+A large Japanese fire group fires at a hex 
+containing three enemy teams (7 morale 
+each) and one enemy leader (9 morale). 
+The Japanese Attack Total is 19. 
+The first team makes its Defense Roll: 
+2—snake eyes! The resulting Defense Total 
+of only 9 is less than half the Attack Total 
+so this first team is outright eliminated—
+whether already broken or not (a above). 
+The second team rolls a 7 for a total of 14 
+and breaks (b above). 
+The third team rolls 12, tying the Attack 
+Total and thus only becoming suppressed 
+(c above).
+Finally, the leader makes a nice high De-
+fense Roll of 11 for a total of 20: enough to 
+remain unhurt.
+See also the fire attack example in the 
+O28. Infiltrate
+“It is just as legitimate to fight an enemy in the 
+rear as in the front. The only difference is in the 
+danger.”
+—John S. Mosby
+When an Infiltrate order is announced, the 
+Japanese player notes the letter identifier of 
+that particular order – A, B or C – as shown 
+on the card itself. If the order shows all three 
+letters, only one is selected.
+If the corresponding Infiltration Box on the 
+Track Display is empty, the Japanese player 
+performs a “Hide” sequence [O28.1]. If the 
+corresponding Infiltration Box contains 
+a unit or marker and there is at least one 
+Sighting marker on the map, he performs a 
+“Reveal” sequence instead [O28.2]. If neither 
+of these two conditions exist, an Infiltrate 
+order cannot be played.
+No unit is activated during an Infiltrate order.
+O28.1 Hide
+When an Infiltrate order is announced and 
+the matching Infiltration Box on the Track 
+Display is empty, the Japanese player per-
+forms the following steps in the order given:
+a)	 Make a roll on the Japanese Support 
+Table [on the Japanese player aid card].
+b)	 From the column matching the roll, he 
+must select one unit that is both available 
+
+Page 19
+for that scenario’s year and available in 
+the countermix, if possible. He pays that 
+unit’s VP cost (slide the VP marker that 
+many spaces towards the opponent). If an 
+item cannot be chosen, the order ends.
+weapon, if any) into the corresponding 
+Infiltration Box on the Track Display. 
+This ends the order.
+This new unit will enter play the next time a 
+matching Infiltrate order is given.
+O28.2 Reveal
+When an Infiltrate order is announced 
+and the matching Infiltration Box on the 
+Track Display contains one or more units or 
+markers, the Japanese player performs the 
+following steps in the order given:
+a)	 Select a hex containing a Sighting marker 
+[9].
+b)	 Remove all pieces from the correspond-
+ing Infiltration Box and place them in the 
+chosen hex. Any weapons in the Infiltra-
+tion Box must be given to a unit coming 
+from the same box. 
+c)	 Remove one Sighting marker from that 
+hex and place it back into the countermix, 
+out of play. This ends the order.
+O29. Move
+“Speed is the essence of war. Take advantage 
+of the enemy’s unpreparedness; travel by 
+unexpected routes and strike him where he has 
+taken no precautions.”
+Units that are activated to Move can move 
+from hex to hex across the map, expending 
+MPs in each new hex they enter. A unit has 
+as many MPs to spend during a Move order 
+as its current movement minus those MPs 
+already spent during the order. This number 
+can be modified by command [3.3.1.2], pos-
+sessing a heavy weapon, or by the presence 
+of veteran/suppressed markers [4].
+A unit cannot be activated to Move if, at the 
+moment it would be activated, it doesn’t have 
+enough MPs to enter at least one new hex. 
+So a broken unit with a 2 movement sur-
+rounded on all sides by jungle (with a 3 
+Move Cost) can’t be activated to Move—it 
+will likely have to wait for an Advance 
+order to get going. If that unit was stacked 
+with a 1-command leader, however, the 
+Move activation would be legal.
+O29.1 Movement Costs
+Each terrain lists a “Move Cost”. In order to 
+enter an adjacent hex during a Move order, 
+an activated unit must spend a number of 
+MPs equal to the Move Cost of the terrain in 
+that hex. An additional cost is assessed if the 
+unit moves to a higher level [T89.1]. 
+A unit may not enter a hex unless it has at 
+least as many MPs remaining as the total cost 
+to enter that hex.
+O29.2 Moving Together
+The movement of one unit must be completed 
+in its entirety before another activated unit 
+can begin moving. The one exception is that 
+any number of activated units that begin a 
+Move order stacked in the same hex may be 
+moved together provided those units remain 
+together throughout the entirety of that Move 
+order.
+Those units will therefore always end their 
+movement in the same hex, and the unit 
+with the smallest modified movement at any 
+point during the move will determine how 
+far the group as a whole can travel.
+O29.3 Op Fire & Movement
+The inactive player may use Op Fire [A41] 
+against the active player’s moving units each 
+time they enter a new hex.
+O29.4 Movement Restrictions
+A moving unit may never:
+enter an enemy-occupied hex;
+enter an impassable hex (such as a blaze);
+exit off the left, right or friendly map edge.
+Exiting a unit off the enemy map edge, how-
+ever, will earn you victory points [14.2.2].
+O29.5 Movement Etiquette
+Each time the active player moves a unit 
+or group of units into a new hex, he should 
+clearly announce the cumulative MP ex-
+penditure up to that point, then pause for a 
+moment. This allows the inactive player a 
+short time in which to decide whether to an-
+nounce an Op Fire action [A41] into that hex 
+or, if the scenario Defender, to play a Hidden 
+Mines [A43.2], Hidden Panji Trap [A43.3] or 
+Hidden Wire [A43.7] action.
+Furthermore, it should be incumbent upon 
+the inactive player to pay attention and say 
+“Stop!” whenever he may have an action to 
+play or Op Fire Attack to make in response to 
+the active player’s movement.
+See also the move example in the playbook.
+O30. Reconnoiter
+“A man trusts his ears less than his eyes.”
+—Herodotus
+When a Reconnoiter order is given, the active 
+player activates one of his unbroken, unsup-
+pressed leaders (only) provided that leader 
+has a LOS to at least one enemy unit. 
+Effect—The active player looks at the top 
+card of his Fate deck then chooses to do one 
+of the following:
+put it back on top of his Fate deck; or
+put it in his discard pile; or
+put it in his hand.
+Note that, if the deck had only the one card 
+remaining, either of the last two options 
+will empty the deck and thus trigger a Time 
+Marker Advance [13.1.2].
+Also note that Reconnoiter has nothing to 
+do with the Recon Posture—any Posture 
+may utilize this order.
+O31. Revive
+“You, you, and you ... panic. The rest of you, 
+come with me.”
+—U.S. Marine Corp Gunnery Sgt.
+A Revive order cannot be given unless the 
+active player has at least one broken or sup-
+pressed unit on the map. Each Revive order is 
+accompanied by a number 1 through 5: this 
+is the number of “Revive Points” the active 
+player receives for the order. Revive Points 
+are spent to remove suppressed markers and 
+rally broken units. Specifically, each Revive 
+Point spent does one of the following:
+a)	 removes a suppressed marker from any 
+friendly unit
+-or-
+b)	 rallies [3.2.5] one friendly broken unit.
+If applicable, the same unit can be chosen for 
+both options. 
+So a “Revive–2” order could do the follow-
+ing: remove two suppressed markers; or 
+rally two units; or remove one suppressed 
+marker and rally one unit.
+No unit is activated during a Revive order.
+Revive Points not spent during the current 
+Revive order are forfeit: Revive Points cannot 
+be carried over to future Revive orders.
+
+Page 20
+ACTIONS
+“To take no action is to take undecided action.”
+—Robert S. McNamara
+A32. General Rules
+Actions may be played by either player at any 
+time via a Fate card played from the hand, so 
+long as the condition or prerequisite listed is 
+met. 
+Important—Multiple actions may be conduct-
+ed in response to the same game situation. 
+All effects of consecutively-played actions 
+are cumulative.
+Two Bayonets actions played from the hand 
+will add +4 to a Melee roll.
+With the sole exception of Op Fire [A41], ac-
+tions that affect units do not activate those 
+units like an order would. Conversely, a unit 
+that has already been activated by an order or 
+Op Fire action can be affected by any number 
+of (non-Op Fire) actions.
+Except for A41, the following rules for indi-
+vidual actions [A33–A48] need not be read 
+and memorized your first time through the 
+rules. Most actions are self explanatory on 
+the cards themselves. So this section can 
+be safely ignored until the need arises for 
+a clarification during actual game play. 
+Actions are listed in alphabetical order for 
+ease of reference.
+A33. Ambush
+“The essence of war is violence. Moderation in 
+war is imbecility.”
+—John Arbuthnot Fisher
+Ambush may only be played at the very start 
+of melee (before Melee FPs are determined). 
+The inactive player must play all Ambushes 
+he wishes before the active player plays his.
+Effect—The opponent must select one of his 
+units participating in the melee and break it. 
+Important—All Ambush effects are resolved 
+before Melee FP is calculated.
+Note that both players can announce Am-
+bush actions. Note also that it is possible 
+for both sides to be entirely eliminated 
+via Ambush before the Melee rolls would 
+otherwise have been made.
+A34. Bayonets
+“The bullet is a fool, the bayonet is a fine chap.”
+—Alexander Vasilyevich Suvorov
+Bayonets may only be played just prior to the 
+player making a Melee roll.
+Effect—Add +2 to that player’s Melee roll.
+A35. Bore Sighting
+Bore Sighting may only be played by the 
+scenario Defender – never a player assigned 
+the Posture of Attacker, Banzai, Invader 
+or Recon – and only just prior to making a 
+Fire Attack roll involving a firing weapon 
+with a printed FP of at least “5” (before any 
+modifications).
+A36. Command Confusion
+This card cannot be played for an action.
+It acts as a “dud’ action in your hand—hope 
+that you have a decent order on this card.
+A37. Crossfire
+Crossfire may only be played just prior to the 
+player making a Fire Attack roll, and only 
+when firing at a Moving [O29] unit. 
+A38. Demolitions
+Demolitions may only be played when the 
+opponent discards one or more cards from 
+his hand due to a “pass” action [O21].
+Effect—Eliminate a fortification in any one 
+hex containing a friendly unit.
+A39. Enfilade
+“It is firepower, and firepower that arrives at the 
+right time and place, that counts in modern war.”
+—B.H. Liddell Hart 
+Enfilade may only be played just prior to the 
+player making a Fire Attack roll, and only if 
+two or more activated pieces are firing as a 
+group [O27.3.1].
+Effect—Increase the Fire Attack’s FP by +1 
+for each firing piece beyond the first. This is 
+cumulative with a Fire Group’s normal bonus.
+A40. Explosive Charge
+“Pardoe! Bazooka to the front!”
+—Gunnery Sergeant Bottos
+Explosive Charge may only be played when 
+the player gets “doubles” with a Fire Attack 
+roll and the attack is against an adjacent hex 
+containing a Fortification.
+Effect—Eliminate the Fortification in that 
+hex. The Fortification is eliminated before 
+Defense rolls are made.
+This action represents the use of satchel 
+charges, bazookas or other powerful high 
+explosive weapons at point blank range. 
+Such a weapon is not represented in counter 
+form but is assumed to possibly be inherent 
+to any unit at any time.
+A41. (Opportunity) Fire
+FIRE
+ORDER / ACTION
+A41.1 Prerequisite
+A Fire action may only be played during an 
+opponent’s Move order, and only just after a 
+moving unit enters a new hex. This type of 
+reactionary fire is termed “Op Fire”.
+Note that Fire actions are listed across 
+the top of any Fate card that has one, in 
+the same position as for a Fire order. As 
+a reminder of its dual capability, the word 
+“Fire” will, when appearing along the top 
+of a Fate card, always be preceded by the 
+words “Order/Action”.
+A41.2 Procedure
+Generally, when the active player is perform-
+ing a Move order, he should count aloud 
+his units’ accumulated MP expenditure in 
+each hex as it is entered. Each time such an 
+expenditure is made, the inactive player has 
+the option to call out “Wait!” and temporarily 
+halt movement. If he does, he may choose to 
+do either or both of the following:
+play a Fire action from his hand and acti-
+vate one or more units to fire at that hex (as 
+if he were activating units for a Fire order 
+[O20.1 & O27.1.1]); and/or
+make one Fire Attack against that hex 
+with any of his units/weapons that were 
+activated for Op Fire at any point during 
+that same Move order. 
+After any such Fire Attack is made – or the 
+opportunity to do so is declined (“Never 
+mind; keep moving”) – the active player may 
+continue with his Move order.
+A41.3 Exceptions
+Units (and their weapons) that are activated 
+for Op Fire follow all normal rules for a Fire 
+order [O27], with three important exceptions:
+a) Ordnance [3.3.4b & 5.5] cannot conduct 
+Op Fire (though a unit possessing an Ord-
+nance weapon could itself fire normally).
+b) They are not limited to only firing once, 
+and so remain activated and eligible to 
+fire at moving targets for the entirety of 
+that Move order (only).
+Note that units are activated for Op Fire, 
+so they could not be activated for Op Fire 
+again in that same turn if the active player 
+announced another Move order.
+c) No more than one Fire Attack may be 
+made by the inactive player per MP 
+expenditure by the active player.
+
+Page 21
+A unit entering a jungle expends 3 MPs to do 
+so, but this is only one expenditure (albeit a 
+large one). So moving into a hex – however 
+costly – is always a single expenditure of 
+X MPs and can draw one Op Fire attack 
+against it. If another unit later moved into 
+that jungle hex in the same Move order, it 
+could be the target of another Op Fire at-
+tack—even by the same op-firing unit(s).
+See also the op fire example in the playbook.
+A42. Hand Grenades
+Hand Grenades may only be played just prior 
+to the player making a Fire Attack roll, and 
+only if at least one piece is firing at an adja-
+cent hex.
+For a Fire Group, only one firing hex need 
+be adjacent to the targeted hex.
+A43. Hidden (name)
+“Pretend inferiority; encourage his arrogance.”
+Important—The following seven “Hidden” 
+actions may only be played by the scenario 
+Defender—never a player assigned the Pos-
+ture of Attacker, Banzai, Invader or Recon.
+A43.1 Hidden Cave
+Hidden Cave may only be played just prior 
+to the scenario Defender making a Defense 
+roll. The hex affected by the attack must be 
+a Crest hex [T89.3.1], cannot be water terrain, 
+and cannot already contain a fortification of 
+any type.
+Effect—Place a cave marker [F102] into that 
+A43.2 Hidden MinES
+Hidden Mines may only be played by the sce-
+nario Defender just after one or more enemy 
+units Move or Advance into a hex. That hex 
+Effect—Place a mines marker [F104] into that 
+hex. The Defender then immediately makes 
+a Mine Attack [F104.2] against each of those 
+moving/advancing units.
+Any unit that was already in the hex would 
+be immune to this initial minefield attack.
+A43.3 Hidden Panji Trap
+Hidden Panji Trap may only be played by 
+the scenario Defender just after one or more 
+enemy units Move or Advance into a hex. 
+That hex cannot be water terrain nor already 
+contain a fortification of any type.
+Effect—The Japanese player chooses to do 
+one of the following:
+place a mines marker [F104] into that hex 
+then immediately make a Mine Attack 
+[F104.2] against each of those moving/ad-
+vancing units; or
+Any unit that was already in the hex would 
+be immune to this initial minefield attack.
+place a wire marker [F107] into that hex.
+Note that this will end a unit’s Move as a 
+unit must spend all its MPs to exit wire and 
+it had to have spent at least 1 MP to get in.
+A43.4 Hidden Pillbox
+Hidden Pillbox may only be played just prior 
+to the scenario Defender making a Defense 
+roll. The hex affected by the attack cannot be 
+water terrain nor already contain a fortifica-
+tion of any type.
+Effect—Place a pillbox marker [F105] into 
+that hex.
+A43.5 Hidden Trenchline
+“By one of those accidental strokes of luck that 
+so often rule the battlefield, Doniphan and Dale 
+apparently had caught the Japanese in an un-
+guarded moment. Perhaps the enemy had been 
+preoccupied on those western hills. Whatever 
+the excuse, the Americans had been given time 
+to entrench themselves....”
+—Robert Leckie, Okinawa
+Hidden Trenchline may only be played just 
+prior to the scenario Defender making a 
+Defense roll. The hex affected by the attack 
+Effect—Place a trench marker [F106] into that 
+A43.6 Hidden Unit
+Hidden Unit may only be played when the 
+opponent discards one or more cards from 
+his hand due to a “pass” action [O21].
+Effect—The scenario Defender performs the 
+following steps in the order shown:
+a)	 Make a roll on his nation’s Support Table 
+[on his faction’s player aid card];
+b)	 From the column matching the roll, select 
+one unit – at no cost – that is available for 
+that scenario’s year;
+weapon, if any) into any hex that is: 
+within his original setup area; and 
+contains no units of either side; and 
+has a Cover of at least 1.
+A43.7 Hidden Wire
+Hidden Wire may only be played by the sce-
+nario Defender just after one or more enemy 
+units Move or Advance into a hex. That hex 
+Effect—Place a wire marker [F107] into that 
+Note that this will end a unit’s Move as a 
+unit must spend all its MPs to exit wire and 
+it had to have spent at least 1 MP to get in.
+A44. Light Wounds
+“Medic!”
+Light Wounds may only be played at the in-
+stant that a friendly squad – either broken or 
+unbroken – would break.
+Light Wounds can only be used on a squad 
+that is breaking, not one that is being elimi-
+nated outright—like via the KIA event or as 
+a result of having the lower Melee Total.
+Effect—Lose 1 VP. Then, instead of that 
+squad breaking (or being eliminated due to 
+already being broken), place it back into the 
+countermix. Take a team from the counter-
+mix – of the same quality as that player’s OB: 
+either green, line or elite – and place it into 
+the hex from which the squad was taken.
+The “quality” of the squad is irrelevant. 
+Only the position of that side’s OB stats 
+marker on the OB Display determines 
+which team will come into play.
+If the squad was broken when removed, the 
+replacement team comes into play broken. If 
+there was a weapon, suppressed or veteran 
+marker on the squad, the team retains the 
+marker. Finally, the team is treated as being 
+the same unit from which it was created—so 
+its activation status for the turn matches that 
+of the swapped squad.
+A45. Marksmanship
+“You don’t hurt ‘em if you don’t hit ‘em.”
+—Lewis B. “Chesty” Puller 
+Marksmanship may only be played just prior 
+to the player making a Fire Attack roll. The 
+attack must include a firing squad or team of 
+the indicated faction.
+A46. No Quarter
+No Quarter may only be played at the conclu-
+sion of a melee, and only if the player has at 
+least one unit that survived the melee.
+Effect—The player gains 2 VPs.
+
+Page 22
+A47. Smoke Screen
+Smoke Screen may only be played at the 
+beginning of a Move or Advance order (that 
+is, before any activated units begin Moving 
+or Advancing) in which at least one squad 
+was activated.
+Effect—Perform the following steps in the 
+a)	 Select one activated squad;
+b)	 Choose either its own hex or an adjacent 
+hex. The chosen hex can’t be water ter-
+rain nor contain a blaze;
+c)	 Select a random smoke marker and place 
+it in the chosen hex.
+Continue placing smoke in the manner 
+described above until one smoke has been 
+drawn and placed for each activated squad 
+or until the active player decides to no longer 
+draw smoke markers, whichever occurs first. 
+Each smoke marker must be placed with or 
+adjacent to a different activated squad.
+And remember that two or more smoke 
+markers won’t stack together; so after plac-
+ing smoke into smoke, only the marker with 
+the largest Hindrance will remain.
+A48. Sustained Fire
+“When a second assault came, [PFC Joseph] 
+Solch, squatting on his haunches, fired his 
+Browning Automatic Rifle from the hip to repel 
+an entire company.”
+—Robert Leckie, Okinawa 
+Sustained Fire may only be played just prior 
+to the player making a Fire Attack roll, and 
+only if at least one mortar or machine gun is 
+firing.
+Effect—Increase the Fire Attack’s FP by +2 
+but, if the Fire Attack roll ends up “doubles”, 
+one firing mortar or machine gun must break 
+(firing player’s choice if more than one).
+Be careful with this one—Sustained Fire’s 
+drawback is cumulative with other Sus-
+tained Fires which could cause a weapon 
+to break then immediately break again, 
+eliminating it outright.
+EVENTS
+E49. General Rules
+“There are no extraordinary men ... just extraor-
+dinary circumstances that ordinary men are 
+forced to deal with.”
+—William Halsey
+Events are never played from the hand: they 
+only occur via certain rolls, whereupon nor-
+mal game play pauses so that that player can 
+reveal the top card of his Fate deck and read 
+aloud and execute the listed event.
+When resolving an event, there are three im-
+portant guidelines:
+a)	 Ignore any portion of an event that is 
+impossible to fulfill given current game 
+conditions while performing those parts 
+that are possible, if any. 
+b)	 When an event lists more than one activ-
+ity to perform, they are performed in the 
+order stated within the event itself.
+c)	 Die triggers are always ignored when 
+they are attached to a die roll occurring 
+during an event.
+The following rules for individual events 
+[E50–E80] need not be read your first time 
+through the rules. Most events are self 
+explanatory on the Fate cards themselves, 
+so this section can be safely ignored until 
+the need arises for a clarification during 
+actual game play.
+The various events are described in detail, 
+below, and are listed in alphabetical order 
+for ease of reference.
+E50. Air Support
+“If you want to go anywhere in modern war, in 
+the air, on the sea, on the land, you must have 
+command of the air.”
+—William Halsey
+This event does not occur if the year of the 
+scenario being played falls outside the date(s) 
+given in the Air Support event itself, or if 
+night rules [18] are in effect.
+If this event does occur, the receiving player 
+eliminates his opponent’s aircraft by remov-
+ing it from the map and placing it back into 
+the countermix (thus ending the event). If his 
+opponent’s aircraft is not on the map when 
+this event occurs, he instead places his own 
+aircraft on the map by following these four 
+steps:
+1)	 Determine a random hex [1.8], noting both 
+its letter and number;
+2)	 select any hex in the same column as that 
+letter OR any hex in the same row as that 
+number; 
+3)	 Place the aircraft into the chosen hex.
+Example: The US player gets a viable Air 
+Support event and the Japanese aircraft is 
+not on the map. He reveals the top card of 
+his deck and notes the random hex: “D4”. 
+He then places the US aircraft into any of 
+the ten hexes beginning with “D” or any of 
+the fifteen hexes labelled “4”.
+See O24 for rules on how to utilize aircraft.
+E51. Battle Harden
+“We have not eaten or drunk for five days, but 
+our fighting spirit is still running high. We are 
+going to fight bravely to the last.”
+— General Tadamichi Kuribayashi
+selects one friendly unit without a veteran 
+marker [4.1] and places a veteran marker on it.
+E52. Battlelust
+“Casualties many; percentage of dead not 
+known; combat efficiency: we are winning.”
+—Colonel David M. Shoup
+gains 1 VP if there are more enemy units on 
+the Casualty Track than friendly units.
+E53. Blaze
+must determine a random hex [1.8]. If that hex 
+is not water terrain and does not already con-
+tain a blaze, place a blaze marker [T83] into 
+it. Remove any smoke or fortification marker 
+from the hex. Any units in the hex must be 
+removed by their owners and placed into any 
+adjacent hex(es) not containing another blaze 
+(inactive player first). They are eliminated 
+otherwise.
+E54. Breezy
+When this event occurs, perform the follow-
+ing activities in the order given:
+a)	 Move all smoke markers on the map one 
+hex “downwind”. The downwind direc-
+tion is stated in the event as a number 
+between 1 and 6, which corresponds to 
+the hex compass on each map. Remove 
+any smoke that would drift off the map or 
+into a water or blaze hex.
+b)	 Place a new blaze marker [T83] into each 
+non-water, non-blaze hex that is both ad-
+jacent to and “downwind” of an existing 
+blaze marker. 
+c)	 Any units in a hex into which a blaze 
+spreads must be removed by their owners 
+and placed into any adjacent hex(es) not 
+containing another blaze (inactive player 
+first). They are eliminated otherwise. 
+Also remove any fortification marker 
+
+Page 23
+from a hex into which a blaze spreads. 
+All other markers remain.
+E55. Bushido
+“Since the enemy’s landing, even the gods would 
+weep at the bravery of the officers and men 
+under my command.”
+— General Tadamichi Kuribayashi
+When this event occurs, the Japanese player 
+Rallies [3.2.5] one of his broken units, if any. 
+If he does, he places a veteran marker on that 
+unit if it doesn’t already have one [4.1].
+E56. Deploy
+“Listen up! I need five volunteers.”
+may select one friendly squad on the map. If 
+he does, the squad is removed from its hex, 
+placed back in the countermix, and replaced 
+with two teams of the same quality – green, 
+line or elite – as that side’s OB (as indicated 
+by his OB stats marker on the OB Display).
+These teams enter play broken if the squad 
+was broken. If there was a weapon, sup-
+pressed or veteran marker on the squad, only 
+one of the two teams retains the marker (in 
+the case of multiple markers, they can be split 
+between the two resulting teams). Finally, 
+these teams are treated as being the same 
+unit from which they were created—so if 
+the squad had been activated previously that 
+turn, the teams are considered to have been 
+activated as well; and any pending results 
+against the squad (such as having to become 
+suppressed, broken or eliminated) will im-
+mediately affect both teams equally.
+Turning one squad into two teams gives you 
+a bit more flexibility in movement, stacking, 
+and garrisoning objectives—and can also 
+increase your net FP when part of a larger 
+Fire Group. The drawback is weaker indi-
+vidual stats and – because there are two 
+where once there was one – they become 
+harder to control without a friendly leader 
+nearby.
+E57. Detritus of War
+must perform the following activities in the 
+a)	 Smoke—Determine a random hex [1.8]. If 
+that hex is not water terrain and doesn’t 
+already contain a blaze marker, he selects 
+a random smoke marker and places it 
+there.
+b)	 Wire—Determine a second random hex. 
+If that hex is not water terrain and does 
+not already contain a blaze or fortifica-
+tion, place a wire marker into it [F107].
+c)	 Mines—Determine a third random hex. 
+If that hex is not water terrain and does 
+not already contain a blaze or fortifica-
+tion, place a mines marker into it [F104].
+Reminder: units already in the hex will not 
+be affected by the mines unless and until 
+they Move or Advance out of it.
+E58. Field of Battle
+“Luck can be assisted. It is not all chance with 
+the wise.”
+gains 1 VP if he controls more mapboard 
+objectives than his opponent.
+E59. Field Promotion
+“Of the Marines on Iwo Jima, uncommon valor 
+was a common virtue.”
+—Chester W. Nimitz
+When this event occurs, if not already on 
+the map, the receiving player may place his 
+nation’s “Private” (the one with “6” morale 
+and “2” command) into a hex occupied by 
+one of his broken units.
+E60. Gusts
+When this event occurs, it will instruct the 
+players to remove from the map either all 
+smoke with an odd-numbered Hindrance 
+value or all smoke with an even-numbered 
+Hindrance value. Place all such removed 
+smoke markers back into the draw cup.
+E61. Hero
+“I am not a hero but the brave men who died 
+deserved this honor.”
+—Ira Hayes
+When this event occurs, if the receiving 
+player’s Hero unit [3.3.2] is not already on the 
+map, he may place it into any friendly hex. If 
+he does, he may rally [3.2.5] one broken unit 
+in that placement hex.
+E62. Interdiction
+“I raised my head a bit to survey my surround-
+ings and got the top of my ear shot off for my 
+troubles.”
+—Private Wong
+must select one unsuppressed unit (enemy or 
+friendly; broken or unbroken) that occupies 
+a hex with Cover less than 1. Place a sup-
+pressed marker [4.2] on that unit.
+E63. Jam
+must determine a random hex [1.8]. Break the 
+Japanese weapon closest to that hex. If al-
+ready broken, eliminate it instead. In case of 
+a tie for nearest Japanese weapon, the player 
+drawing the event chooses which of those 
+weapons will be affected. 
+E64. KIA
+“Guadalcanal is no longer merely a name of an 
+island. It is the name of the graveyard of the 
+Japanese Army.”
+—Major General Kiyotake Kawaguchi
+must select one broken unit (enemy or friend-
+ly) and eliminate it.
+E65. Malfunction
+“The instruments of battle are valuable only if 
+one knows how to use them.”
+—Ardant du Picq 
+must determine a random hex [1.8]. Break the 
+unbroken weapon (enemy or friendly) closest 
+to that hex. In case of a tie for nearest unbro-
+ken weapon, the player drawing the event 
+chooses which one will be affected.
+E66. Medic!
+must select one broken unit (enemy or friend-
+ly) and rally it [3.2.5].
+E67. Mission Objective
+“We are not retreating—we are advancing in 
+another direction.”
+draws one (secret) objective chit at random.
+This new objective chit does not replace 
+any existing chits – it is used in conjunction 
+with them – and may be kept secret from 
+the opponent unless it is one that has no 
+“(secret)” side.
+E68. Prisoners of War
+“We shall show mercy, but we shall not ask for 
+it.”
+—Winston Churchill
+must select one of his own broken units that 
+is adjacent to or in the same hex as an enemy 
+unit and eliminate it.
+If it somehow wasn’t a good idea before, try 
+to keep your broken units far away from 
+enemy units.
+
+Page 24
+E69. Reconnaissance
+“Time spent on reconnaissance is seldom 
+wasted.”
+—British Army Field Service Regulations
+When this event occurs, the opposing player 
+must select and reveal one of his unrevealed 
+secret objective chits, if any. The revealed 
+chit becomes an open objective chit for the 
+remainder of the game.
+Remember to award any VPs correspond-
+ing to that chit’s mapboard objective(s) to 
+their current controller right away.
+E70. Reinforcements
+“Reinforcements are always more formidable 
+to an enemy than the troops with which he is 
+already engaged.”
+—Brasidas of Sparta 
+performs the following steps in the order 
+a)	 Make a roll on his nation’s Support Table 
+[on his faction’s player aid card];
+b)	 From the column matching the roll, select 
+one unit or Sighting marker – at no cost 
+– that is available for that scenario’s year;
+weapon, if any) or Sighting marker into 
+any hex along his friendly map edge. A 
+unit can’t be placed in an impassable hex 
+(such as a blaze).
+E71. Scrounge
+may select one eliminated weapon (enemy or 
+friendly) from the Casualty Track and return 
+that weapon to play – broken – under the 
+control of one of his units currently without 
+a weapon.
+Design note—The weapon coming into 
+play is not necessarily the same weapon 
+that was removed earlier; it could just 
+be one that up until that time had had no 
+impact on the battlefield. The Weapons Box 
+of the Casualty Track is really not much 
+more than a mechanical enabler for this 
+particular event.
+E72. Shell Shock
+“In battle the unusual is met usually, and the 
+abnormal becomes the normal. Soldiers may 
+act like lions and then like scared hares within 
+the passage of a few minutes.”
+—S.L.A. Marshall
+must determine a random hex [1.8]. Break 
+the unit (enemy or friendly) closest to that 
+hex. In case of a tie for closest unit, the player 
+drawing the event chooses which will be 
+affected.
+E73. Shellholes
+must determine a random hex [1.8]. If that hex 
+is not water terrain and does not already con-
+tain a blaze or fortification of any kind, place 
+a foxholes marker into it [F103].
+E74. Spider Hole
+“Everything which the enemy least expects will 
+succeed the best.”
+—Frederick the Great 
+must perform the following steps in the order 
+a)	 Remove the Japanese Hero counter from 
+wherever it is (either on the map, on the 
+Track Display or in the countermix);
+b)	 Determine a random hex [1.8]; 
+c)	 Place the Hero – along with any weapon 
+or veteran marker that may be attached 
+– in or adjacent to that hex, unbroken and 
+unsuppressed. The Hero can’t be placed 
+in an impassable hex (such as a blaze). 
+E75. Stealth
+may select one of his units (or Sighting mark-
+ers, in the case of Japan) on the map. If he 
+does, he removes that unit or Sighting marker 
+from the hex that it occupies and places it 
+into an adjacent hex. A unit can’t be placed in 
+an impassable hex (such as a blaze).
+E76. Strategic Objective
+“The raising of that flag on Suribachi means a 
+Marine Corps for the next 500 years.”
+—James Forrestal
+When this event occurs, one objective chit is 
+drawn at random and placed face up (“open”) 
+in the center section of the Objectives Box for 
+both players to see. 
+This new objective chit does not replace 
+any existing chits—it is used in conjunction 
+with them. And if this new chit references 
+one or more mapboard objectives, remem-
+ber to award those victory points to the 
+objectives’ current controller right away.
+E77. Suppressing Fire
+“Whoever said the pen is mightier than the 
+sword obviously never encountered automatic 
+weapons.”
+may place a suppressed marker [4.2] on one 
+enemy unit without one that is within both 
+the current range and LOS of one of his func-
+tioning MGs—”functioning” meaning the 
+MG itself cannot be broken, nor can the unit 
+possessing it be broken or suppressed.
+E78. Tennōheika banzai!
+When this event occurs, check the current VP 
+level.
+a)	 If the VP marker is on the Allied side of 
+the zero space, the Japanese player must 
+change his current Posture to that of 
+Banzai [17.2].
+b)	 If the VP marker either occupies the 
+zero space or is on the Japanese side of 
+the zero space, the Japanese player may 
+change his current Posture to that of 
+Banzai. 
+c)	 In either case, if the Japanese Posture is 
+already Banzai this event has no effect.
+Effect—If the Japanese Posture changes to 
+Banzai immediately perform the following 
+activities in the order shown:
+a)	 On the OB Display, swap the current 
+Japanese OB stats marker for the “Banzai” 
+OB stats marker.
+b)	 If the Japanese player currently has 
+four or more cards in hand, he discards 
+enough cards of his choice to bring the 
+number of cards in his hand to three. 
+E79. Walking Wounded
+“In war, there are no unwounded soldiers.”
+—Jose Narosky
+must perform the following steps in the order 
+a)	 Select one eliminated unit (enemy or 
+friendly) on the Casualty Track;
+b)	 Determine a random hex [1.8]; 
+c)	 Place the selected unit in or adjacent to 
+that hex, broken [3.2]. The unit can’t be 
+placed in an impassable hex (such as a 
+blaze).
+E80. White Phosphorus
+may draw a random smoke marker then place 
+it into a hex adjacent to one of his unbroken 
+squads (only). The selected hex cannot be 
+water terrain nor contain a blaze. If he does, 
+each player that controls a unit in that hex 
+must choose one such friendly unit and break 
+it [3.2].
+
+Page 25
+TERRAIN
+T81. General Rules
+Your first time through the rules, you only 
+need to read sections T81.1 – T81.4. The 
+rules for the individual terrain types [T82 
+– T99], can then be referred to as needed 
+depending on which map is being use.
+T81.1 Types & Features
+One of the two generic player aid cards 
+contains a Terrain Chart showing stats for 
+the different terrain in the game. Terrain 
+“Types” are shown on this Chart with green 
+backgrounds. Terrain “Features” are shown 
+with tan backgrounds and generally only 
+serve to modify the Terrain Type they share 
+a hex with. The Terrain Chart also lists the 
+various terrain in hierarchical order—that is, 
+if a hex contains two or more Terrain Types, 
+the one closest to the top of the chart takes 
+precedence. 
+Example: A bridge together with a stream 
+is a “bridge hex” for all purposes, not 
+a “stream hex” (and thus not a water hex, 
+either). This also means that a hex is an 
+“open ground hex” only if it contains none 
+of the terrain types shown above it (those 
+with their text on a green background)—it 
+could contain any of the terrain features 
+shown below it (those on a tan background) 
+and still be an “open ground hex”, albeit 
+with some sort of modification.
+The Terrain Type of every hex on every map 
+is thus defined by whichever Terrain Type 
+both occupies that hex and is positioned 
+nearest the top of the Terrain Chart—even if 
+that terrain doesn’t dominate the hex or share 
+space with the hex’s center dot. Roads and 
+trails can also occupy a hex, usually modify-
+ing a unit’s movement therein. Smoke and 
+blaze markers also function as terrain to a 
+certain degree.
+T81.2 Move Costs
+Each terrain lists a “Move Cost” which is the 
+amount of MPs a unit must expend to Move 
+[O29] into that hex. The Advance order does 
+not require MP expenditures and thus terrain 
+move costs are ignored when performing that 
+activity.
+T81.3 Cover
+T81.3.1 General Rules
+Each terrain lists a “Cover” in the form of a 
+whole number, which can be negative. Cover 
+directly modifies the morale of every unit in 
+the same hex at all times and for all purposes. 
+Cover is never cumulative, however, so a 
+unit’s owner must choose only one instance 
+of Cover to apply if more than one is present.
+Squad A shoots at team B with a printed 
+morale of 7 in a palm hex. The team’s cur-
+rent morale is actually 8 because of the 1 
+Cover afforded by the palm. If the team was 
+stacked with a foxholes marker, the owning 
+player could choose to ignore the Cover of 
+the palm and instead add the 3 Cover of the 
+foxholes, giving it 10 morale.
+T81.3.2 Overstacking Penalty
+Cover within any hex that is overstacked 
+[15.2] is reduced by one for each soldier figure 
+present above 7.
+Two US squads with printed morales of 7 
+are stacked in a palm hex. Since the hex 
+is overstacked by one soldier figure, the 
+nominal 1 Cover afforded by the palm 
+instead drops to 0. If a third US squad was 
+stacked there (12 total soldier figures, or 5 
+figures over the stacking limit) the Cover of 
+the hex would instead be –4 (negative four), 
+causing each squad’s morale to drop to 3!
+T81.4 LOS
+Each terrain lists whether it is an Obstacle, 
+Hindrance or Clear. 
+Obstacles block same-level LOS. Obsta-
+cles usually create one Blind Hex [T89.4.1] 
+to a higher-level observer.
+Hindrances reduce the FP of same-level 
+fire attacks traced through them.
+Clear terrain has no affect on LOS. 
+See the LOS rules [16] for more detail.
+CC:P’s terrain is described in detail, below, 
+and is listed in alphabetical order for ease 
+of reference. This information is also shown 
+graphically on the Terrain Chart.
+T82. Beach
+MOVE COST: 1½
+Sand—The Fire Attack Total of any dive 
+bomber, radio or ordnance weapon attacking 
+a beach hex is always decreased by 2.
+T83. Blaze
+MOVE COST: Impassable
+COVER: Impassable
+LOS: Obstacle (at all levels)
+T84. Bridge
+A bridge may span the entirety of one or 
+more hexes, with a small part of the bridge 
+extending across the outermost hexsides into 
+opposite hexes—in this case, those opposite 
+hexes are not considered bridge hexes.
+MOVE COST: 1 if traversing a bridge/road/
+trail hexside; otherwise use the cost of the 
+other terrain in the hex.
+T85. Building
+A building is defined as any obviously man-
+made structure (other than a bridge) that 
+spans two or more hexes. If a hex contains 
+the depiction of one or more non-bridge 
+structures but none of those structures 
+crosses a hexside into an adjacent hex, then it 
+is not a building but a “hut” instead [T90].
+COVER: 3
+Building Objectives—If a mapboard objective 
+[2.3] occupies a building hex, the “objective” 
+is considered to be the entirety of that build-
+ing (that is, every hex that it occupies), not 
+just the hex containing the objective number.
+T86. Bush
+LOS: 2 Hindrance
+This catch-all terrain represents a diverse 
+set of ground effects such as brush, crags, 
+light jungle or woods, coral, scree, scrub, 
+boulders, etc.
+BLAZE
+blocks LOS
+BLAZE
+blocks LOS
+
+Page 26
+T87. Grass
+LOS: 3 Hindrance
+This terrain represents tall – sometimes 
+sharp-edged – grasses often referred to as 
+sedge, sawgrass, elephant grass or kunai.
+T88. Gully
+Depression—A unit in a gully cannot be seen 
+except from an adjacent hex or a hex at a 
+higher level [T89], and vice versa.
+T89. Hills
+Due to the relative complexity of hills and 
+their attendant rules – such as caves – new 
+players may want to play their first few 
+scenarios on those maps without hills.
+The standard buff green open ground hex in 
+CC:P is said to be at level “0” or “ground 
+level”. Hills can then be thought of as being 
+at levels 1 (tan), 2 (light brown), 3 (medium 
+brown) or 4 (dark brown). Therefore, a 
+unit on a hill is above any terrain occupy-
+ing either a ground-level hex or a hill hex 
+of a lower level. The level at which a hill 
+hex’s center dot lies is its actual level when 
+multiple levels appear in a hex. A hill hex 
+functions exactly like any other ground level 
+hex except as modified below.
+T89.1 Uphill Movement
+When entering a hex that is at a higher level 
+than the one it is leaving, a moving unit must 
+expend +1 MP per elevation change. There is 
+no MP modifier – lost or gained – when mov-
+ing downhill.
+A unit moving from a level 0 hex into an 
+adjacent level 2 hex would have to expend 
++2 MPs to do so.
+A unit moving from a level 1 hill hex contain-
+ing jungle to a level 2 hill hex containing 
+jungle must expend 4 MPs (3 for the jungle 
+plus 1 for the change in level). The reverse 
+“downhill” move would cost only 3 MP.
+T89.2 Height Advantage
+A Fire Attack suffers –1 FP if the target hex 
+is at a higher level than any one firing unit 
+or weapon. Conversely, a Fire Attack gains 
++1 FP if the target hex is at a lower level than 
+any one firing unit or weapon. Attacks made 
+by radios and aircraft are not affected. 
+T89.3 Hills & LOS
+T89.3.1 Military Crest Lines
+A hex showing more than one level is termed 
+a “Crest” hex. The level at which a Crest 
+hex’s center dot lies is its actual level. In ev-
+ery Crest hex, the physical edge of each hill 
+level is termed a “Crest Line”.
+T89.3.2 Vertical LOS
+A unit may only trace a LOS into the initial 
+Crest hex of each level above it. Likewise, a 
+unit on a hill may trace a LOS to a hex at 
+a lower level only if that LOS never passes 
+through a Crest Line of equal or greater 
+height in an intervening hex.
+So unit A on a hill can see unit B at a 
+lower level only if the LOS from unit A 
+both: crosses a Crest Line before it crosses 
+a hexside; and never again crosses a Crest 
+Line of the same or higher level. 
+A unit on a level 2 hill can see past an 
+intervening level 2 hill only to another hill 
+hex of level 2, 3 or 4. If that intervening hill 
+were instead level 3, the target hex would 
+have to be at level 4 to be seen—and even 
+then it would have to be a level 4 Crest.
+It may help to think of each hill level in 
+CC:P as a thick, flat pancake; or perhaps 
+one layer of a wedding cake.
+T89.3.3 Hills as Obstacles
+A hill itself blocks LOS traced between any 
+two hexes of lower level.
+A unit on a level 1 hill cannot see past an 
+intervening level 2 hill to another level 1 
+hill hex.
+T89.4 Hills & Obstacles
+The LOS to or from a hill hex is blocked only 
+if it clearly touches any part of the physi-
+cal depiction of an Obstacle at the same or 
+higher level as that hill hex. In other words, 
+LOS to or from a hill hex is not blocked by 
+Obstacles that lie at a lower level (exception: 
+see Blind Hexes, below).
+A unit on a level 1 hill can see past (over) 
+intervening jungle at level 0 to another unit 
+on a distant level 1 hill. If the jungle were 
+also on a hill, however, that LOS would be 
+blocked.
+A blaze marker, however, always blocks LOS 
+through its hex regardless of the sighter’s or 
+target’s level.
+The obstacle that a blaze marker and its at-
+tendant smoke cloud creates is considered 
+to be at a height sufficient enough to affect 
+any possible LOS that can be represented 
+in the game.
+T89.4.1 Blind Hexes
+A unit on a hill can see into a lower-level jun-
+gle, swamp or building hex, as normal, but 
+can not see into the next hex beyond it if that 
+next hex is also at or lower than the jungle/
+swamp/building hex’s level. In other words, a 
+lower-level jungle, swamp or building creates 
+a one-hex blind zone behind it to an observer 
+at a higher level—all hexes beyond this blind 
+zone are visible from the hill (barring further 
+jungle/swamp/buildings along the way).
+A unit on a level 1 hill can see past a level 0 
+building except into the level 0 hex directly 
+behind it. Conversely, a unit on a level 1 hill 
+could see past an intervening level 1 build-
+ing to a unit at level 2 or higher unless that 
+building was in the first intervening hex 
+along that LOS.
+T89.5 Hills & Hindrances
+Any mapboard Hindrance terrain at a lower 
+level does not hinder LOS to or from a hill 
+hex. A Hindrance on a hill does hinder LOS 
+between two other hill hexes of the same 
+level as that Hindrance. A smoke marker, 
+however, always hinders LOS through its hex, 
+regardless of the sighter’s or target’s level.
+The hindrance that a smoke marker creates 
+is considered to be at a height sufficient 
+enough to affect any possible LOS that can 
+be represented in the game.
+Note that all the above hill rules are based 
+upon the premise that in CC:P each hill 
+level is taller than a mapboard Obstacle, 
+and every mapboard Obstacle is taller than 
+a mapboard Hindrance.
+See also the LOS example in the playbook.
+
+Page 27
+T90. Hut
+A hut is defined as any obviously manmade 
+structure (other than a bridge) that occupies 
+only one hex. The hex may contain more 
+than one such hut depiction, but none of them 
+can cross a hexside into another hex without 
+being termed a “building” instead [T85].
+LOS: 4 Hindrance
+T91. Jungle
+MOVE COST: 3
+Airbursts—The Fire Attack Total of any mor-
+tar or artillery attack against a jungle hex is 
+always increased by 2.
+So a 6-FP mortar that fires into a jungle 
+hex and makes an Attack roll of “7” would 
+have an Attack Total of 15 instead of 13. 
+This is true even if one or more units in 
+the targeted hex will be using an alternate 
+Cover, such as from a cave or pillbox.
+T92. Open Ground
+MOVE COST: 1
+T93. Palm
+MOVE COST: 1
+LOS: 1 Hindrance
+T94. Road
+MOVE COST: 1 if travelling along the road 
+depiction (that is, the moving unit crossed 
+a road hexside as it entered the hex); ½ if 
+travelling along the road depiction and no 
+enemy unit has a LOS to that hex; otherwise, 
+depends on the other terrain in the hex. 
+Compared to European streets and boule-
+vards, Pacific theater roads are often not 
+much more than wide trails.
+T95. Smoke
+Before beginning play, place all 
+smoke markers into an opaque 
+cup so that they may be drawn at 
+random when called for during 
+play.
+MOVE COST: Use other terrain in the hex.
+LOS: 1-8 Hindrance into or out of or through 
+[16.3.4].
+The actual Hindrance value of smoke is 
+printed on the markers themselves.
+T96. Stream
+MOVE COST: 3
+COVER: –1 (negative one)
+Water Terrain—No weapon of any kind may 
+fire from a stream hex. No blaze, smoke or 
+fortification of any kind may ever occupy a 
+stream hex.
+T97. Swamp
+MOVE COST: 4
+Water Terrain—No weapon of any kind may 
+fire from a swamp hex. No blaze, smoke or 
+fortification of any kind may ever occupy a 
+swamp hex.
+Airbursts—The Fire Attack Total of any mor-
+tar or artillery attack against a swamp hex is 
+always increased by 2.
+So a 6-FP mortar that fires into a swamp 
+hex and makes an Attack roll of “7” would 
+have an Attack Total of 15 instead of 13.
+T98. Trail
+MOVE COST: 1 if traveling along the trail 
+depiction (that is, the moving unit crossed a 
+trail hexside as it entered the hex); otherwise, 
+depends on the other terrain in the hex.
+T99. Water Barrier
+A water barrier represents any body of 
+water deep enough and/or large enough to 
+hinder non-amphibious movement—from a 
+Pond to a River to the Pacific Ocean itself.
+MOVE COST: all
+A moving unit must begin its Move order 
+adjacent to the water barrier hex it enters 
+and cannot Move into any other hexes 
+along the way. A unit loses all remaining 
+MPs after entering a water barrier hex, 
+even if that hex contains a leader.
+COVER: –2 (negative two)
+Water Terrain—No weapon of any kind 
+may fire from a water barrier hex. No blaze, 
+smoke or fortification of any kind may ever 
+occupy a water barrier hex.
+
+Page 28
+FORTIFICATIONS
+F100. General Rules
+The following sections [F101–F107] need 
+not be read and memorized your first 
+time through the rules: They can be safely 
+ignored until a fortification actually enters 
+play—players can then look up the rules 
+for that particular marker.
+F100.1 Acquisition
+There are seven “fortifications” in the game: 
+cave, foxholes, trench, mines, wire, bunker 
+and pillbox. Fortifications are normally 
+brought into play at the beginning of a sce-
+nario, though some can also enter play during 
+the game due to various actions and events.
+F100.2 Removal
+Fortifications can be eliminated during play 
+via various events, the Demolitions action 
+[A38], the Explosive Charge action [A40] or 
+the Fortification Vulnerability Table [O24.3.4] 
+when its hex is attacked by artillery or dive 
+bomber.
+F100.3 Stacking
+No more than one fortification marker may 
+ever occupy a single hex. The first such 
+fortification to be placed in a hex takes prece-
+dence. Fortifications may never occupy water 
+terrain (i.e. a bridgeless stream, swamp or 
+water barrier).
+The various fortifications are described in 
+detail, below, and are listed in alphabetical 
+order for ease of reference. A condensed 
+version of the following information can 
+also be found on the Track Display for ease 
+of reference during play.
+F101. Bunker
+A bunker gives the hex it oc-
+cupies an alternate Cover of “6” 
+(“7” instead vs aircraft, mortars 
+and artillery). As usual, this is 
+not cumulative with other Cover in the hex.
+During melee, the side that was the last sole 
+occupant of a bunker hex wins if the Melee 
+Totals are tied.
+F102. Cave
+A cave marker may only ever 
+occupy a Hill Crest hex [T89.3.1]. 
+One cave marker often repre-
+sents multiple actual caves.
+F102.1 Cave Occupancy
+Japanese units (only) sharing a hex with 
+a cave marker must always be identified 
+as being “inside” or “outside” of that cave. 
+Japanese units physically stacked underneath 
+a cave marker are considered to be inside the 
+cave—all other units in that hex are outside 
+the cave (and thus derive no benefit/detriment 
+from the cave [F102.2 & F102.3]). 
+Only Japanese units can use caves. Allied 
+units can share a hex with a cave but are 
+never considered to be inside it.
+F102.1.1 Entering & Exiting Caves
+A Japanese unit may only ever change its 
+position within a cave hex – that is, enter or 
+leave the cave – at the following times: 
+at the beginning of any order in which it is 
+activated;
+at the conclusion of any Move [O29] or 
+Advance [O22] order (only) in which it was 
+activated;
+immediately after it is placed into the 
+cave’s hex (via the Infiltrate order [O28] or 
+Stealth event [E75], for example);
+immediately after the cave is placed into 
+its hex (via the Hidden Cave action [A43.1]).
+Entering or exiting a cave (as opposed to a 
+cave’s hex) is not considered movement, so 
+no MPs need be expended and no Op Fire or 
+other reactions are possible by the opponent. 
+So a Japanese unit activated to Move could 
+exit a cave (although remaining in the same 
+hex), Move into one or more new hexes then, 
+in the last hex entered, be placed inside a 
+cave in that final hex when the active player 
+declared his Move order complete. Op Fire 
+by the Allied player could be performed 
+immediately upon the unit entering any 
+of these new hexes as normal, but not as 
+it initially exits the first cave and not when 
+it enters the cave in the final hex of its 
+movement.
+F102.1.2 Caves & Stacking
+A cave doesn’t have a separate stacking limit 
+for units: it shares the stacking limit of the 
+hex it occupies.
+F102.2 Cave Openings
+F102.2.1 Cave Slopes
+Another hex is considered to be “downslope” 
+of a cave (and thus also to that cave’s oc-
+cupants) if the LOS to or from the cave’s hex 
+is traced through a lower-level hexside of the 
+cave’s hex. In other words, to be downslope 
+of a cave, a LOS thread stretched taut be-
+tween the cave hex’s center dot and the other 
+hex’s center dot must, at the exact point that 
+it crosses a hexside of the cave’s hex, be at 
+a lower level than that of the cave hex itself. 
+Conversely, another hex is considered to be 
+“upslope” of a unit inside a cave if the LOS 
+thread crosses a hexside of that cave’s hex at 
+a point equal to or greater than that of the 
+cave hex itself.
+F102.2.2 Cave Visibility
+Units inside a cave trace LOS normally to 
+hexes lying downslope of that cave, and vice 
+versa. However, units inside a cave never 
+have LOS to any hex lying upslope of that 
+cave. Similarly, units upslope of a cave never 
+have LOS to units inside that cave—even 
+if they may be able to see other units in the 
+same hex but outside the cave. Because of 
+this, units inside a cave are immune to all 
+fire attacks emanating from a unit or weapon 
+upslope of them, even when other units in 
+the same hex – but outside the cave – are af-
+fected normally.
+So it is possible to have LOS to a cave’s hex 
+without being able to see any unit inside 
+that hex’s cave. This is important for things 
+like fire attacks and being able to play a 
+Reconnoiter order, among other things. 
+Example: A fire attack made against a cave 
+hex from upslope will affect Japanese units 
+outside the cave only—never the units 
+inside the cave. (Indeed, if there were no 
+enemy units outside the cave the fire attack 
+couldn’t be announced to begin with as no 
+enemy unit could be seen in the hex.) Tar-
+geted units outside the cave will always use 
+the other (non-cave) Cover of the hex.
+F102.2.3 Cave Cover
+A cave bestows upon its occupants – only; 
+not the hex itself – an alternate Cover of 
+“4” to most fire attacks emanating from 
+downslope. A cave grants its occupants an 
+alternate Cover of “8” instead vs
+aircraft or mortar attacks emanating from 
+downslope
+any artillery attack. 
+As usual, these Cover values are not cumula-
+tive with any other Cover in the hex.
+F102.3 Cave Tunnels
+A Japanese unit inside a cave may Advance 
+– never Move – directly to any other hex con-
+taining a cave (not just an adjacent one).
+Caves are considered linked to one another 
+by underground tunnels, whether natural 
+or excavated.
+See also the cave example in the playbook.
+
+F103. Foxholes
+“Goddamit, you’ll never get the 
+Purple Heart hiding in a foxhole! 
+Follow me!”
+—Lt. Colonel Henry P. Crowe, 
+USMC: Guadalcanal, 13 January 1943
+A foxholes marker gives the hex it occupies 
+an alternate Cover of “3” (“4” instead vs air-
+craft, mortars and artillery). As usual, this is 
+not cumulative with other Cover in the hex.
+F104. Mines
+“Everything that is shot or thrown at you or 
+dropped on you in war is most unpleasant but, 
+of all horrible devices, the most terrifying ... is 
+the land mine.”
+—Sir William Slim 
+F104.1 General Rules 
+A mines marker occupying a hex 
+will attack any unit (enemy or 
+friendly) that Moves or Advanc-
+es into or out of that hex. Units 
+entering/exiting together are attacked with a 
+single roll; otherwise a separate Mine Attack 
+should be made against each unit as it enters 
+or exits a hex containing mines. Units that 
+were already in a mines hex at the moment 
+another unit enters/exits the hex are immune 
+to that Mine Attack.
+F104.2 Mine Attack
+The strength of a 
+Mine Attack is a 
+default 6 FP un-
+less the scenario 
+specifically assigns (or the Scenario Defender 
+specifically purchases) a 7- or 8-FP Minefield 
+capability.
+In such a case, players may wish to place 
+the Minefields marker pictured above on its 
+appropriate side into the matching space 
+of the Track Display for ease of reference 
+during play.
+Cover for a Mine Attack is automatically set 
+to “0”, and cannot be modified by any means. 
+A Mine Attack roll follows the same general 
+rules and restrictions as for a Fire Attack roll 
+[O27.3.3 & O27.3.4] except that only the mov-
+ing/advancing units in the hex need make a 
+Defense roll. The player controlling such a 
+unit makes its Defense roll whereas his op-
+ponent makes the Attack roll.
+Important—An unbroken unit that becomes 
+broken while leaving a Mined hex is still 
+placed into the hex it was entering.
+It made it but might have a casualty to 
+contend with.
+F105. Pillbox
+“However firm and stout pillboxes 
+you may build at the beach, they 
+will be destroyed by bombard-
+ment of main armament of the 
+battleships.”
+—Lt. General Tadamichi Kuribayashi: Report to 
+Japanese Imperial Headquarters from Iwo Jima 
+A pillbox gives the hex it occupies an alter-
+nate Cover of “5” (“6” instead vs aircraft, 
+mortars and artillery). As usual, this is not 
+cumulative with other Cover in the hex.
+During melee, the side that was the last sole 
+occupant of a pillbox hex wins if the Melee 
+Totals are tied.
+F106. Trench
+F106.1 General Rules 
+A trench marker gives the hex it 
+occupies an alternate Cover of 
+“4” (“5” instead vs aircraft, mor-
+tars and artillery). As usual, this 
+is not cumulative with other Cover in the hex.
+F106.2 Trenches & Movement
+A unit moving from one hex containing a 
+trench into an adjacent hex containing a 
+trench, bunker or pillbox (or vice versa) al-
+ways expends only 1 MP to do so, regardless 
+of the terrain in the two hexes. This applies 
+even if the unit is moving uphill. Further-
+more, that unit cannot be the target of Op 
+Fire [A41] in the hex moved into.
+F107. Wire
+F107.1 General Rules
+A wire marker sharing a hex 
+with a unit affects that unit by re-
+ducing each of its FP, range and 
+morale numbers by 1. Command 
+is unaffected by wire.
+F107.2 Wire & Movement
+A moving unit loses all remaining MPs 
+immediately after entering or exiting a hex 
+containing wire.
+So if a unit begins its Move in a wire hex 
+it must stop moving in the first hex en-
+tered—even if that hex contained a friendly 
+leader. If a unit moves into a wire hex, its 
+movement will also automatically cease 
+there.
+Units can Advance into and out of a wire hex 
+normally, as MPs are not utilized during an 
+Advance order.
+F107.3 Wire & Fire Attacks
+Units in a hex with wire cannot form a Fire 
+Group [O27.3.1] with pieces outside the hex.
+No weapon may be fired from a wire hex.
+CREDITS
+Game Designer — Chad Jensen
+Series Developer — John A. Foley
+Co-developer — Kai Jensen
+Art Director — Rodger MacGowan
+Box Art & Packaging Design — 
+Rodger MacGowan
+Cards — Chad Jensen and Mark 
+Simonitch
+Counters — Lee Brimmicombe-Wood
+Maps — Leland Myrick
+Rules & Player Aids — Chad Jensen
+Play Testers — Kai Jensen (lead), 
+Alex Ostroumov, Mark Beyak, 
+Kris Adamson, Richard Pardoe, 
+David desJardins, John Gibbins, 
+Rob Bottos, Omar Little, Martin 
+Scott, Chris Storzillo, Marty 
+Sample and Paul Bravey
+Production Coordinator — Tony 
+Curtis
+Producers — Gene Billingsley, 
+Tony Curtis, Andy Lewis, Rodger 
+MacGowan and Mark Simonitch
+Page 29
+
+Page 30
+Action Listings . . . . . . . . pp. 20-22
+Actions . . . . . . . . . . . . . . . . . glossary; A32
+capability . . . . . . . . . . . . . . . . . . . . . . . . 12.2
+during orders . . . . . . . . . . . . . . . . . . . O20.5
+min. firepower . . . . . . 16.3.2.2; O27.3.2 box
+on Fate cards . . . . . . . . . . . . . . . . . . . . . . 1.6
+Op Fire . . . . . . . . . . . . . . . . . . . . . . . . . A41
+Advance . . . . . . . . . . . . . . . . . . . . . . . . O22
+and enemy units . . . . . . . . . . . . . . . . O22.2
+and weapon transfer . . . . . . . . . . . . . O22.2
+Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+placement of . . . . . . . . . . . . . . . . . . . . . E50
+removal of (Abort Run) . . . . . . . .O23.3; E50
+usage (Bombing & Strafing Run)	O24.4; O24.5
+Artillery
+Accuracy . . . . . . . . . . . . . . . . . . . . . O24.3.2
+Boxes . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2c
+Impact . . . . . . . . . . . . . . . . . . . . . . . O24.3.3
+Spotting . . . . . . . . . . . . . . . . . . . . . . O24.3.1
+Asset Denied . . . . . . . . . . . . . . . . . . . . . O23
+Asset Request . . . . . . . . . . . . . . . . . . . . O24
+Attack Posture . . . . . . . . . . . . . . . . . . . 17. 1
+Banzai Posture . . . . . . . . . . . . . . . . . . . 17. 2
+Charge . . . . . . . . . . . . . . . . . . . . . . . . . . O25
+Blaze . . . . . . . . . . . . . . . . . . . . . 16. 2. 2; T83
+creation of . . . . . . . . . . . . . . . . . . . . . . E53
+spreading . . . . . . . . . . . . . . . . . . . . . . . E54
+Blind Hexes . . . . . . . . . . . . . . . . . . T89. 4. 1
+Broken
+radios . . . . . . . . . . . . . . . . . . . O23.2; O24.2
+units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2
+weapons . . . . . . . . . . . . . . . . . . . . . . . . . . 5.4
+Bunker . . . . . . . . . . . . . . . . . . . . . . . . F101
+Cards 
+discarding . . . . . . . . . . . . . . . . . . . 12.3; O21
+drawing . . . . . . . . . . . . . . . . . . . . . . . . . 12.4
+Fate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+hand size (Posture) . . . . . . . . . . . . . . 1.1; 17
+Initiative . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Casualty Track . . . . . . . . . . . . . . . . . . 11. 2
+Cave . . . . . . . . . . . . . . . . . . . . . . . . . . F102
+placement of . . . . . . . . . . . . . . . . . . . . A43.1
+Charge . . . . . . . . . . . . . . . . . . . . . . . . . O25
+Japanese activations . . . . . . . . . . . . . . O25.1
+Allied activations . . . . . . . . . . . . . . . . O25.2
+Command . . . . . . . . . . . . . . . . . 3. 1. 5; 3. 3. 1
+Radius . . . . . . . . . . . . . . . . . . . . . . . . 3.3.1.1
+and units . . . . . . . . . . . . . . . . . . . . . . 3.3.1.2
+and weapons . . . . . . . . . . . . . . . . . . . 3.3.1.3
+on Scouts . . . . . . . . . . . . . . . . . . . . . . . 3.3.3
+on Sogeki Hei . . . . . . . . . . . . . . . . . . . 3.3.4
+Command Confusion . . . . . . . . . . . . . O26
+Compass . . . . . . . . . . . . . . . . . . . . . . . . 2. 2b
+Cover . . . . . . . . . . . . . . . . . . . . . . . . . T81. 3
+Crest Line . . . . . . . . . . . . . . . . . . . T89. 3. 1
+Defender Posture . . . . . . . . . . . . . . . . . 17. 3
+Die Rolls . . . . . . . . . . . . . . . . . . . . . . . . . 1. 9
+Artillery Accuracy . . . . . . . . . . . . . . O24.3.2
+Artillery Impact . . . . . . . . . . . . . . . . O24.3.3
+cancellation of . . . . . . . . . . . . . . . . . . . . 10.1
+Fire Attack . . . . . . . . . . . . . . . . . . . . O27.3.3
+Fire Defense . . . . . . . . . . . . . . . . . . O27.3.4
+Melee . . . . . . . . . . . . . . . . . . . . . . . . . 19.2.2
+Sudden Death . . . . . . . . . . . . . . . . . . 13.2.2
+Targeting . . . . . . . . . . . . . . . . . . . . . O27.2.3
+triggers . . . . . . . . . . . . . . . . . . . . . . . . . 1.9.1
+Discard Limit . . . . . . 12. 3; player aid card
+Disperse Trigger . . . . . . . . . . . . . . . . 1. 9. 2
+Dive Bomber . . . . . . . . . . . . . . . . . . . . . . 8
+Bombing Run . . . . . . . . . . . . . . . . . . O24.4
+Drift Check . . . . . . . O24. 3. 2. 1; O24. 3. 2. 2
+Event Listings . . . . . . . . . pp. 22-24
+Event Trigger . . . . . . . . . . . . . . . . . . . 1. 9. 3
+Events . . . . . . . . . . . . . . glossary; 1. 7; E49
+Exit Points . . . . . . . . . . . . . . . . . . 2. 4; 14. 2
+Exiting The Map . . . . 14. 2; O22. 2; O29. 4
+Fate Cards . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+Fighter . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Strafing Run . . . . . . . . . . . . . . . . . . . O24.5
+Fire	 . . . . . . . . . . . . . . . . . . . . . . . . . . . . O27
+activation . . . . . . . . . . . . . . . . . . . . . . . O27.1
+Fire Attack . . . . . . . . . . . . . . . . . . . . . O27.3
+Fire Defense . . . . . . . . . . . . . . . . . . O27.3.4
+Fire Groups . . . . . . . . . . . . . . . . . . . O27.3.1
+mortar activation . . . . . . . . . . . . . . . O27.1.3
+mortar spotting . . . . . . . . . . . . . . . . O27.2.5
+Op Fire . . . . . . . . . . . . . . . . . . . . . . . . . A41
+ordnance targeting . . . . . . . . . . . . . . . O27.2
+Firepower (FP)
+and hills . . . . . . . . . . . . . . . . . . . . . . . . T89.2
+on radio . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+on unit . . . . . . . . . . . . . . . . . . . . 3.1.1; 3.1.6
+Flamethrower . . . . . . . . . . . . . . . . . . . . 5. 6
+Fortifications . . . . . . . . pp. 28-29
+Foxholes . . . . . . . . . . . . . . . . . . . . . . F103
+placement of . . . . . . . . . . . . . . . . . . . . . E73
+Hand Size . . . . . 1. 1; 12. 4; player aid card
+Game End . . . . . . . . . . . . . . . . . . . . . . 13. 3
+Heroes . . . . . . . . . . . . . . . . . . . . . . . . . 3. 3. 2
+ creation of . . . . . . . . . . . . . . . . . . E61; E74
+ multiple activations . . . . . . . . . . . . . 3.3.2b
+ VP value . . . . . . . . . . . . . . . . . . . . . . 3.3.2a
+Hills . . . . . . . . . . . . . . . . . . . . . . . . . . . T89
+Hindrances . . . . . . . . . . . . . . . . . . . . . . 16. 3
+and Fire Attacks . . . . . . . . . . . . . . . O27.3.2
+and hills . . . . . . . . . . . . . . . . . . . . . . . . T89.5
+and targeting . . . . . . . . . . . . . . . . . . O27.2.4
+Infiltrate . . . . . . . . . . . . . . . . . . . . . . . . O28
+Infiltration Boxes . . . . . . . . . . . . . . . . . 11.3
+Sighting markers . . . . . . . . . . . . . . . . . . . . 9
+Initiative . . . . . . . . . . . . . . . . . . . . . . . . . 10
+and re-rolling . . . . . . . . . . . . . . . . . . . . 10.1
+tied game . . . . . . . . . . . . . . . . . . . . . . . . 10.2
+Invader Posture . . . . . . . . . . . . . . . . . . 17. 4
+Leaders . . . . . . . . . . . . . . . . . . . . . . . . . . 3. 3
+Leader Table . . . . . . . . . . . . . . . . . playbook
+Line of Sight (LOS) . . . . . . . . . . . . . . . . 16
+and hills . . . . . . . . . . . . . . . . . . . . . . . . T89.3
+Maps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Markers
+Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Artillery Denied . . . . . . . . . . . . . . . . O24.1b
+Attack Total . . . . . . . . . . . . . . . . . . . . 11.1.2
+Blaze . . . . . . . . . . . . . . . . . . . . . 16.2.2; T83
+Bunker . . . . . . . . . . . . . . . . . . . . . . . . . F101
+Cave . . . . . . . . . . . . . . . . . . . . . . . . . . F102
+Control . . . . . . . . . . . . . . . . . . . . . . . . 14.3.1
+Foxholes . . . . . . . . . . . . . . . . . . . . . . . F103
+Melee . . . . . . . . . . . . . . . . . . . . . . . . . . .19.1
+Mines . . . . . . . . . . . . . . . . . . . . . . . . . .F104
+OB Stats . . . . . . . . . . . . . . . . . . . . . . . . 11.3
+Objective (chits) . . . . . . . . . . . . . . . . 14.3.3
+Pillbox . . . . . . . . . . . . . . . . . . . . . . . . . F105
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Sighting . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Smoke . . . . . . . . . . . . . . . . . . . . 16.3.4; T95
+SR (Spotting Round) . . . . . . . . . . . . O24.3.1
+Starshell . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Sudden Death . . . . . . . . . . . . . . . . . . . . 13.2
+Suppressed . . . . . . . . . . . . . . . . . . . . . . . 4.2
+Surrender . . . . . . . . . . . . . . . . . . . . . . . . 11.2
+Time . . . . . . . . . . . . . . . . . . . . . . . . . . . 13.1
+Trench . . . . . . . . . . . . . . . . . . . . . . . . . F106
+Veteran . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.1
+VP . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.1.1
+Wire . . . . . . . . . . . . . . . . . . . . . . . . . . . F107
+Year . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.3
+Melee . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Mines . . . . . . . . . . . . . . . . . . . . . . . . . F104
+placement of . . . . . . . . . . . . . . . A43.2; E57
+Morale . . . . . . . . . . . . . . . . . . . . . . . . 3. 1. 4
+Mortar Spotting
+mortar . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.6
+INDEX
+
+Page 31
+spotting . . . . . . . . . . . . . . . . O27.1.3; O27.2.5 
+Move . . . . . . . . . . . . . . . . . . . . . . . . . . . O29
+and Op Fire . . . . . . . . . . . . . . . . . . . . O29.3
+and trenches . . . . . . . . . . . . . . . . . . . F106.2
+and wire . . . . . . . . . . . . . . . . . . . . . . F107.2
+as a stack . . . . . . . . . . . . . . . . . . . . . . O29.2
+costs . . . . . . . . . . . . . . O29.1; Terrain Chart
+uphill MP penalty . . . . . . . . . . . . . . . . T89.1
+on unit . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.3
+Night . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Objectives . . . . . . . . . . . . . . . . . . . . . . . 2. 3
+chits . . . . . . . . . . . . . 14.3.3; player aid card
+multi-hex buildings . . . . . . . . . . . . . . 14.3.2
+VP value . . . . . . . . . . . . . . . . . . . . . . . . 14.3
+Obstacles . . . . . . . . . . . . . . . . . . . . . . . 16. 2
+and hills . . . . . . . . . . . . . . . . . . . . . . . . T89.4
+Op(portunity) Fire . . . . . . . . . . . . . . . A41
+Order Listings . . . . . . . . pp. 15-19
+Order of Battle (OB) . . . . . . . . . . glossary
+Display . . . . . . . . . . . . . . . . . . . . . . . . . 11.3
+Fortification . . . . . . . . . . . . . . . . . . playbook
+Support . . . . . . . . . . . . . national player aids
+Unit . . . . . . . . . . . . . . . . national player aids
+Orders . . . . . . . . . . . . . . . . . glossary; O20
+Limit . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.1
+on Fate cards . . . . . . . . . . . . . . . . . . . . . . 1.5
+Ordnance
+aircraft . . . . . . . . . . . . . . . . . . . . . . . O24.4b
+and command . . . . . . . . . . . . . . . . . . 3.3.1.3
+NA in fire groups . . . . . . . . . . . . . . O27.3.1.1
+NA for Op Fire . . . . . . . . . . . . . . . . A41.3a
+Sogeki Hei . . . . . . . . . . . . . . . . . . . . . 3.3.4b
+and targeting . . . . . . . . . . . . . . . . . . . O27.2
+weapons . . . . . . . . . . . . . . . . . . . . . . . . . . 5.5
+Pillbox . . . . . . . . . . . . . . . . . . . . . . . . F105
+placement of . . . . . . . . . . . . . . . . . . . A43.4
+Posture . . . . . . . . . . . . . . . . . . glossary; 17
+and hand size . . . . . . . . . . . . . . . . . . . . . . 1.1
+Radios . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+acquisition (Comm. Established) . . . . . . O24.1
+breaking (Communication Disrupted) . . O23.2
+fixing (Communication Restored) . . . . O24.2
+fortification vulnerability . . . . . . . . O24.3.4
+placement of . . . . . . . . . . . . . . . 2.2c; 15.1.2
+Radio Table . . . . . . . . . . . . . . . . . . playbook
+usage (Fire For Effect) . . . . . . . . . . . . . O24.3
+Rally . . . . . . . . . . . . . . . . . . . . . . . . . . 3. 2. 5
+during Charge order . . . . . . . . . . . . O25.1b
+during Revive order . . . . . . . . . . . . . . O31b
+during Bushido event . . . . . . . . . . . . . . E55
+during Hero event . . . . . . . . . . . . . . . . E61
+during Medic event . . . . . . . . . . . . . . . E66
+random hex . . . . . . . . . . . . . . glossary; 1. 8
+and Snipers . . . . . . . . . . . . . . . . . . . . . 1.9.4
+and Sighting markers . . . . . . . . . . . . . 1.8.2
+Range
+and targeting . . . . . . . . . . . . . . . . . . O27.2.2
+on unit . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.2
+Recon Posture . . . . . . . . . . . . . . . . . . . 17. 5
+Reconnoiter . . . . . . . . . . . . . . . . . . . . . O30
+Revealing Cards . . . . . . . . . . . . . . . . . . 1. 3
+Revive . . . . . . . . . . . . . . . . . . . . . . . . . . O31
+Scout . . . . . . . . . . . . . . . . . . . . . . . . . . 3. 3. 3
+lack of command . . . . . . . . . . . . . . . . 3.3.3a
+mortar spotting . . 3.3.3b; O27.1.3; O27.2.5
+Sequence of Play . . . . . . . . . . . . . . . . . . 12
+Sighting . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+movement of . . . . . . . . . . . . . . . . . . . . 1.8.2
+removal of . . . . . . . . . . . . . . . . . . . . O28.2c
+Smoke . . . . . . . . . . . . . . . . . . . . 16. 3. 4; T95
+movement . . . . . . . . . . . . . . . . . . . . . . .E54
+placement of . . . . . . . . . . . . A47; E57; E80
+removal of . . . . . . . . . . . . . . . . . . 1.9.2; E60
+Rounds . . . . . . . . . . . . . . . . . . . . . . O27.2.1
+Sniper Trigger . . . . . . . . . . . . . . . . . . 1. 9. 4
+Sogeki Hei . . . . . . . . . . . . . . . . . . . . . 3. 3. 4
+lack of command . . . . . . . . . . . . . . . . 3.3.4a
+ordnance traits . . . . . . . . . . . . . . . . . . 3.3.4b
+sniping . . . . . . . . . . . . . . . . . . . . . . . . 3.3.4c
+Spotting Round (SR) . . . glossary; O24. 3. 1
+Stacking . . . . . . . . . . . 15; player aid card
+markers . . . . . . . . . . . . . . . . . . . . . . . . . 15.1
+units . . . . . . . . . . . . . . . . . . . . . . . . . . . 15.2.1
+and overstacking . . . . . . . . . . . . . . . . . 15.2.2
+during setup . . . . . . . . . . . . . . . . . . . . 15.2.3
+Starshell . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+placement of . . . . . . . . . . . . . . . . . . . O24.7
+removal of . . . . . . . . . . . . . . . . . . . . . . 1.9.2
+Sudden Death . . . . . . . . . . . . . 13. 2; 13. 3. 2
+Suppressed . . . . . . . . . . . . . . . . . . . . . . . 4. 2
+placement of . . . . . . . . . O27.3.4; E62; E77
+removal of . . . . . . . . . . 4.2.3; O25.1a; O31a
+Surrender . . . . . . . . . . . . . . . . . 11. 2; 13. 3. 1
+Targeting . . . . . . . . . . . . . . . . . . . . . O27. 2
+Terrain Listings . . . . . . pp. 25-27
+	
+ . . . . . . . . . . . . see also the Terrain Chart
+Time (and Time Track) . . . . . . . . . . . . . 13
+Time Trigger . . . . . . . . . . . . . . . . . . . 1. 9. 5
+Track Display . . . . . . . . . . . . . . . . . . . . . 11
+Trench . . . . . . . . . . . . . . . . . . . . . . . . F106
+and movement . . . . . . . . . . . . . . . . . . F106.2
+placement of . . . . . . . . . . . . . . . . . . . A43.5
+Triggers . . . . . . . . . 1. 9. 1; player aid card
+Turns . . . . . . . . . . . . . . . . glossary; 1. 1; 1. 5
+Units . . . . . . . . . . . . . . . . . . . . . glossary; 3
+broken . . . . . . . . . . . . . . 3.2; O25.1a; O31b
+leaders . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3
+Hero . . . . . . . . . . . . . . . . . . . . . . 3.3.2; E61
+Scout . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3.3
+Sogeki Hei . . . . . . . . . . . . . . . . . . . . . . 3.3.4
+stacking . . . . . . . . . . . . . . . . . 15.1.1; 15.2.1
+stats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1
+Veteran . . . . . . . . . . . . . . . . . . . . . . . . . . 4. 1
+Victory Points (VP) . . . . . . . . . . . . . . . . 14
+via elimination . . . . . . . 14.1; player aid card
+via exiting . . . . . . . . . . . . . . . . . . . . . . . 14.2
+via objectives . . . . . . . . . . . . . . . . . . . . . 14.3
+Victory Track . . . . . . . . . . . . . . . . . . . . 11. 1
+Weapons . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+breaking (Weapon Jam) . . . . . . . . . . . . O23.1
+broken . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.4
+elimination of . . . . . . . . . . . 5.3; 11.2; O23.1
+fixing (Weapon Repair) . . . . . . . . . . . . O24.6
+and leaders . . . . . . . . . . . . . . . . . . . . . 3.3.5
+NA in melee . . . . . . . . . . . . . . . . . . . . 19.2.1
+ordnance . . . . . . . . . . . . . . . . . . . . . glossary
+and command . . . . . . . . . . . . . . . . . . 3.3.1.3
+and Fire Groups . . . . . . . . . . . . . . O27.3.1.1
+and Hindrances . . . . . . . . . . . . . . . . . . 16.3.1
+and targeting . . . . . . . . . . . . . . . . . . . . O27.2
+stacking . . . . . . . . . . . . . . . . . . . . 5.2; 15.1.1
+on suppressed units . . . . . . . . . . . . 5.1; 4.2.2
+transfer of . . . . . . . . . . . . . . . . . . 5.3; O22.2
+and water terrain . . . . . . . . . . T96; T97; T99
+Wire . . . . . . . . . . . . . . . . . . . . . . . . . . F107
+and movement . . . . . . . . . . . . . . . . . . F107.2
+placement of . . . . . . . . . . . . . . . A43.7; E57
+
+Bergerud, Eric. Touched with Fire – The Land War in 
+the South Pacific. New York, Viking, 1996.
+Bidwell, Shelford. Artillery Tactics 1939-45. Surrey, 
+England, Almark Publishing, 1976.
+Bishop, Chris. The Encyclopedia of Weapons of World 
+War II. New York, Metro Books, 1998.
+Buell, Hal (ed.). World War II Album – The Complete 
+Chronicle of the World’s Greatest Conflict. New 
+York, Black Dog & Leventhal Publishers, Inc, 2002.
+Bull, Stephen, Dr. World War II Jungle Warfare 
+Tactics. Oxford, Osprey Publishing, 2007.
+Camp, Dick. Iwo Jima Recon – The U.S. Navy At War, 
+February 17, 1945. St. Paul, MN, Zenith Press, 2007.
+Cannadine, David. Blood, Toil, Tears and Sweat – The 
+Speeches of Winston Churchill. Boston, Houghton 
+Mifflin, 1989.
+Cowley, Robert (ed.). No End Save Victory – Perspectives 
+on World War II. New York, Putnam, 2001.
+Dear, I.C.B. (ed.). The Oxford Guide to World War 
+II. Oxford University Press, 1995.
+Deighton, Len. Blood, Tears and Folly. Edison, NJ, 
+Castle Books, 1993.
+Edgerton, Robert B. Warriors of the Rising Sun 
+– A History of the Japanese Military. New York, 
+Norton, 1997.
+Esposito, Brigadier General Vincent J. (ed.). The 
+West Point Atlas of War – World War II: The 
+Pacific. New York, Tess Press, 1959.
+Hallas, James H. Killing Ground on Okinawa 
+– The Battle for Sugar Loaf Hill. Westport, 
+CT, Praeger, 1996.
+Heinl, Robert Debs, Jr. Colonel, U.S. Marine 
+Corps (ret). Dictionary of Military and Naval 
+Quotations. 1967.
+Keegan, John. Atlas of the Second World War. 
+Ann Arbor, MI, Borders Press, 2003.
+Leckie, Robert. Delivered From Evil – The Saga of 
+World War II. New York, Harper & Row, 1987.
+Leckie, Robert. Okinawa – The Last Battle of 
+World War II. New York, Viking, 1995.
+LÜdeke, Alexander. Weapons of World War II. Bath, UK, 
+Parragon, 2007.
+Miller, Donald L. D-Days in the Pacific. New York, Simon 
+& Schuster, 2005.
+Newcomb, Richard F. Iwo Jima. New York, Signet Books, 
+1966.
+Shively, John, C. The Last Lieutenant – A Foxhole 
+View of the Epic Battle for Iwo Jima. New York, NAL 
+Caliber, 2006.
+Suermont, Jan. Infantry Weapons of World War II. Iola, 
+WI, Krause Publications, 2004.
+Tohmatsu, Haruo and Willmott, H.P. A Gathering 
+Darkness – The Coming of War to the Far East and 
+the Pacific, 1921-1942. Lanham, MD, SR Books, 2004.
+Waldron, Ben D. and Burneson, Emily M. Corregidor 
+– From Paradise to Hell. Freeman, SD, Pine Hill Press, 
+1988.
+SOURCES & SUGGESTED READING
+ORDER & ACTION MANIFEST
+Japan
+US
+CW
+Ambush
+................................................ x6 . . . . . . . . . x4. . . . . . . . . . x3
+Bayonets
+................................................ x6 . . . . . . . . . x4. . . . . . . . . . x3
+Bore Sighting**
+................................ x1 . . . . . . . . . x1. . . . . . . . . . x1
+Command Confusion
+........................ x2 . . . . . . . . . x3. . . . . . . . . . x4
+Crossfire
+................................................ x8 . . . . . . . . . x8. . . . . . . . . . x8
+Demolitions
+........................................ x3 . . . . . . . . . x3. . . . . . . . . . x3
+Enfilade
+................................................ x6 . . . . . . . . . x6. . . . . . . . . . x6
+Explosive Charge
+................................ x1 . . . . . . . . . x2. . . . . . . . . . x3
+Hand Grenades
+................................ x9 . . . . . . . . . x9. . . . . . . . . . x9
+Hidden Cave** ........................................ x1 . . . . . . . . . . –. . . . . . . . . . . –
+Hidden Mines**
+................................
+– . . . . . . . . . x1. . . . . . . . . . x1
+Hidden Panji Trap**
+........................ x3 . . . . . . . . . . –. . . . . . . . . . . –
+Hidden Pillbox**
+................................ x2 . . . . . . . . . x1. . . . . . . . . . x1
+Hidden Trenchline**
+........................ x2 . . . . . . . . . x2. . . . . . . . . . x2
+Hidden Unit** ........................................ x1 . . . . . . . . . x1. . . . . . . . . . x1
+Hidden Wire** ........................................
+– . . . . . . . . . x2. . . . . . . . . . x2
+Light Wounds ........................................ x12 . . . . . . . . . x6. . . . . . . . . . x6
+Marksmanship ........................................
+– . . . . . . . . . x6. . . . . . . . . . x3
+No Quarter................................................ x3 . . . . . . . . . . –. . . . . . . . . . x1
+Smoke Screen ........................................
+– . . . . . . . . . x4. . . . . . . . . . x6
+Sustained Fire ........................................ x6 . . . . . . . . . x9. . . . . . . . . . x9
+* Banzai Posture only ** Defender Posture only
+ACTIONS
+Japan
+US
+CW
+Advance
+................................................ x10 . . . . . . . . . x6. . . . . . . . . . x5
+Asset Denied
+........................................ x3 . . . . . . . . . x3. . . . . . . . . . x3
+Asset Request ........................................ x6 . . . . . . . . . x8. . . . . . . . . . x9
+Charge*
+................................................ x5 . . . . . . . . . . –. . . . . . . . . . . –
+Command Confusion
+........................
+– . . . . . . . . . x11. . . . . . . . . x12
+Fire................................................................ x20 . . . . . . . . x20. . . . . . . . . x20
+Infiltrate
+................................................ x5 . . . . . . . . . . –. . . . . . . . . . . –
+Move
+........................................................ x10 . . . . . . . . . x11. . . . . . . . . x12
+Reconnoiter
+........................................ x5 . . . . . . . . . x4. . . . . . . . . . x3
+Revive ........................................................ x8 . . . . . . . . . x9. . . . . . . . . . x8
+ORDERS
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com

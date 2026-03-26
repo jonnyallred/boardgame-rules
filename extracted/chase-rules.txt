@@ -1,0 +1,117 @@
+by Tom Kruszewski
+INTRODUCTION/OVERVIEW
+CHASE is a strategy game for 2 players that uses
+dice as playing pieces, but the dice are never rolled.
+Instead, a die’s value shows the speed of that piece.
+Capture an enemy piece by landing on it by exact
+count. When a piece is captured, its speed must be
+absorbed by its surviving teammates so that the
+team’s total speed of 25 is maintained. When you are
+down to 4 dice, you will no longer be able to do this,
+and will lose the game.
+COMPONENTS
+- An 81-hex gameboard; its center space is called the
+fission chamber.
+- 10 red dice.
+- 10 blue dice.
+- Carrying case
+SETUP
+One player plays blue and goes first; the other plays
+red. Place the gameboard between you with a CHASE
+logo to each player’s left, then set up your dice as
+depicted below (keep your 10th die nearby):
+GAMEPLAY
+(most bold terms are detailed further below)
+On your turn, you must either make two of your
+adjacent dice transfer speed, or move one of your
+dice according to the following rules:
+- It must move its full speed (the pips on top of it).
+- It must move in a straight “orthogonal” line (through
+the hex sides, not the corners), in any of the 6
+directions.
+- It cannot move through a space with a die in it.
+- It cannot move through the fission chamber.
+- It can wrap around the left/right side of the board.
+- It can ricochet off the near/far edge of the board.
+- It can end its move in a space with an enemy die to
+capture the enemy die.
+- It can end its move in a space with a friendly die to
+bump it. Bumping can always, in turn, result in a
+capture or another bump.
+- It can end its move in the fission chamber to split.
+TRANSFER SPEED
+Transfer 1 or more speed from one of your dice to
+another one of your dice that is adjacent to it, as long
+as neither die would go below 1 or above 6 speed.
+WRAP AROUND
+The layout of the board is as if it were on a cylinder,
+such that the left and right edges of the board are
+connected. A hex on the left is adjacent to the same-
+row hex on the right. A half hex on the left is the same
+space as the same-row half hex on the right. A die in
+a half hex is considered to be in both halves of that
+hex.
+RICOCHET
+A die moving to the near or far edge with more speed
+than it takes to reach the edge will reflect off the edge
+(angle of incidence equals angle of reflection) and
+continue its move.
+CHASE rules and design by Tom Kruszewski (1986). Rulebook © 2018 Néstor Romeral Andrés and Tom Kruszewski
+Art by Néstor Romeral Andrés and Nathan Morse. Revisions and narrative by Nathan Morse
+
+The blue 3 can move through neither the fission chamber nor other
+dice (red arrows). The red 3 can ricochet off the top side and/or
+wrap around the left.
+CAPTURE
+When your opponent moves a die by exact count onto
+a space occupied by one of your dice, your opponent
+captures that die, removing it from play. The speed
+from the captured die must be “absorbed” by your
+slowest die still in play (your choice if there are
+several tied for slowest), in order to keep your team’s
+total speed at 25. If that die reaches 6 speed without
+absorbing all of the speed, repeat the procedure with
+the difference until the team’s total speed is 25 again.
+BUMP
+When you move a die by exact count onto a space
+occupied by one of your dice, you bump the latter die
+1 space in the same direction. This bumped die, in
+turn, may capture or bump a die sitting in its target
+space. A chain bumps continues until a die captures
+an enemy die or lands in an empty space. Ricochet
+applies during bumps. You cannot bump a die into
+the fission chamber. A move that would cause this
+to happen is illegal.
+The blue 2 can either capture the red 1 down-right of it, or bump
+the blue 4 right of it, or bump the blue 4 up-right of it, which would
+bump the blue 1, to capture the red 3. The blue 3 would be
+unaffected.
+SPLIT
+When you move a die by exact count onto the fission
+chamber in the middle of the board, it splits into 2 dice
+half its speed (if possible) and reflects the resulting
+dice outward 1 space. The 3 paths look a little like a
+simple, 3-line arrow (see illustration below). If the die
+landing on the fission chamber is odd, the higher-
+numbered die always goes in the leftward direction,
+relative to how the original die entered the fission
+chamber.
+In order to “split” the original die, use either your 10th
+die or one of your dice that has been captured to be
+the second “half” of the die. If you have no such
+“spare” die, or if the original die was a 1, the original
+die simply emerges unchanged on the leftward path
+and nothing emerges on the rightward path.
+The two “halves” emerging from the fission chamber
+behave as if they were just bumped. That is to say
+that each can capture an enemy die in its target space
+or bump a friendly die in its target space (possibly
+chaining further bumps).
+The blue 5 can ricochet off the bottom to split in the
+fission chamber into a 3 to the left and a 2 to the right.
+END OF THE GAME
+When you are down to 4 dice, you will no longer be
+able to maintain your team’s total speed of 25, and
+you lose the game.
+CHASE rules and design by Tom Kruszewski (1986). Rulebook © 2018 Néstor Romeral Andrés and Tom Kruszewski
+Art by Néstor Romeral Andrés and Nathan Morse. Revisions and narrative by Nathan Morse

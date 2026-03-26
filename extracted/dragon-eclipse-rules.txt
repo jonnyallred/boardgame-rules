@@ -1,0 +1,3793 @@
+RULEBOOK
+
+A thousand years ago, a great catastrophe shook the world, nearly destroying human civilization. The few remaining texts from those times tell dreadful stories 
+of large-scale ﬂoods, seas withered, and hills suddenly surging upward. All the sources mention ubiquitous darkness. The two moons obscured the sun and cast a deep 
+shadow on the world.
+But the world prevailed thanks to the Dragon Guardians, who repelled the darkness and restored balance to nature. Or at least this is what the legends say when they 
+describe the omnipotent Dragons soaring the dark skies and ﬁghting off the waves of evil, whatever the evil was.
+Humanity survived and eventually rebounded. Soon, some became interested in mystlings – creatures having the ability to affect elements – and discovered that with a bit 
+of trust and respect a bond could be formed with them. This bond allowed them to cooperate with the creatures and use their abilities to beneﬁt both sides. Those people 
+were named tamers.
+Human ingenuity and the mystlings’ talent to harness elements began to bear fruit. Villages and cities soon sprouted and ﬂourished, and new, clever machines 
+and installations began to crop up to ease the hardships of life.
+Now, hundreds of years later, an unpopular group of scholars – astronomers – portend another twin eclipse. According to their calculations, both moons will line up 
+with the sun, which will lead to another epochal catastrophe. But most people don’t look up at the sky when the ground is still full of wonders and mysteries. 
+They ignore the worrying predictions and carry on with their daily routines.
+Are the astronomers right? Surely not. Life is peaceful, and it should remain just like that.
+TABLE OF CONTENTS
+3 Component list
+4 Introduction
+• 4 Starting the game
+• 4 Game order
+5 Before the Scenario
+• 5 Navigating the World Map
+• 5 Choosing a Scenario
+• 6 Choosing Mystlings
+• 7 Performing the Deck Construction
+8 Playing the scenario - Adventure
+• 8 Adventure Journal
+• 11 Tests
+• 12 Exploring Location map
+14 Playing the Scenario - Combat
+• 15 Player’s / Enemy Mystling
+• 16 Combat Setup
+• 18 Combat rules
+• 20 Example of Player’s turn
+• 23 Example of Enemy’s turn
+• 24 Other Combat rules
+• 25 End of Combat
+26 After the Scenario
+• 26 Opening Boosters
+• 26 Gaining Advancement cards
+• 26 Saving the game
+27 Additional Game modes
+• 27 Hard modes
+• 27 PvP mode
+• 28 Roguelite mode
+32 Advanced rules
+• 32 Random Combat
+• 32 Corruption and Major Corruption
+• 32 Condition tokens
+• 32 Summons
+• 33 Combat Quest
+• 33 Arena maps and cards
+34 Index
+35 Adventure tags
+36 Combat tags
+
+COMPONENT LIST
+36 Stat card
+Standard cards
+33 Enemy ability cards
+31 Taming cards
+30 Portrait cards
+30 Ability cards
+19 Quest cards
+180 Mystling speciﬁc
+62B
+63A
+ Deal 4
+Rush. Attack (Pierce 1). 
+Deal 1 Burn in range 1.
+in range 2 for each card 
+in Enemy slots (including the current 
+Enemy card). Rush.
+Deal 3
+63B
+SPECIAL ABILITY: 3
+Enemy deck: 3
+, 3
+, 3
+66A
+66B
+Emberlings always lay two eggs. 
+When the ﬁrst egg hatches, the mother 
+leaves the nest, and from then on, it’s up 
+to the older (yet still young) Emberling 
+to care for its sibling. Fiery and energetic 
+from the moment it takes its ﬁrst breath, 
+it tends to the egg with surprising gentleness.
+64B
+65A
+65B
+STORY QUEST
+If you have the “Ember” status: 
+Your Young Emberling must spend 
+enough time with you.
+Otherwise:
+Let your mystling taste Dragon Guardian’s 
+power when you train it in the city.
+67A
+67B
+DE-CB-M34/90
+FLAME BURST
+ to each opponent in range 2, +2
+for every 4
+ you have (do not discard 
+20 Starting Action cards
+35 Arena cards
+14 Help cards
+DE-CB-6/125
+-CB-6/125
+Awaken Realms 20
+OFFENSIVE STANCE
+(This passive effect applies 
+as long as this card is 
+on top of the discard pile.)
+MOUNTAIN PINES
+Setup: Place an Unstable Cone 
+space except the one in the middle.
+Rules: When you move to a space 
+, discard it
+ and deal 2
+ to an opponent in range 2. 
+When an Enemy moves to a space 
+, discard that 
+Unstable Cone 
+ without any effect.
+Tame – go to Script J102, win – go to Script J100, 
+lose – go to Script J101.
+FREEZING EGG
+Setup: The ﬁrst player places 1 Crystal Egg 
+in the 
+ space not adjacent to any starting space.
+Rules: When you start your turn within range 1 
+of the Crystal Egg 
+, gain Slow, Weak, 
+and 3
+. You can’t move or be placed 
+in a space with the Crystal Egg 
+FIRE ELEMENT
+Each Bonus Action can be used 
+COMBAT ORDER
+PLAYER TURN
+1. * You may use Bonus Actions.
+2. Choose a slot. Gain
+. Resolve the effect 
+of the card. Then, discard that card.
+3. * You may use Bonus Actions.
+4. Slide cards. Reﬁll empty slots.
+5. End your turn and resolve the Enemy turn.
+* Each Bonus Action can only be used once per turn.
+ENEMY TURN
+1. Slide cards. Draw Enemy attack card to 1st slot.
+2. Resolve the Enemy attack card in the 1st slot 
+and ﬂip it face down.
+3. If there is an Enemy attack card above 
+the Special Ability token, resolve the Enemy 
+Special Ability and discard all Enemy attack 
+cards from the Enemy slots.
+4. Enemy turn ends. Resolve the player turn.
+Tokens
+10 Silver
+10 A/B Tokens
+3 Silence
+3 Weak
+3 Slow
+6 Burn “1”
+3 Burn “3”
+1 Taunt
+16 Universal 
+Tokens
+35 Damage 
+tokens
+5 Fatigue Action cards
+DE-CB-125/125
+FATIGUE
+30 Advancement A 
+DE-CB-26/125
+DEFENSIVE STANCE
+, +2 
+30 Advancement B 
+FIRE BOLT
+Deal 4
+ and 2 Burn in any range in line.
+Trigger.
+120 Elemental Action cards 
+(inside the foil Boosters 
+in Special Edition)
+OUTBURST
+For every 2 cards in your discard pile, 
+deal 1
+ to an opponent in range 1, 
+then to you. 
+If the opponent has Burn, 
+deal them an additional 5
+10 Foil Elemental Action cards 
+(inside the foil Boosters 
+in Special Edition)
+13 Mystery cards 
+(Roguelite mode)
+Discard 1 Silver.
+WISHING WELL
+Gain 2 Silver.
+OR
+Draw a random Enemy Attack card
+and resolve:
+Each player draws 3 cards from the 
+Advancement deck and chooses one:
+• Add one of them to your deck. 
+• Discard them and remove 1 chosen card 
+from your deck.
+Gain 3 Silver.
+Gain 5 Silver.
+17 World Map cards
+Unexplored 01
+Calm Before the Storm
+ore the Storm
+ore the
+ore th
+Calm Befo
+efo
+efo
+Explored 01
+Z1
+20 Equipment cards
+BOTTLE OF FLAMES
+Deal 7
+ to an opponent 
+Q
+Enemy Attack 
+cards
+TAUNT
+12 Enemy Attack 
+cards
+10 Artifact cards
+(Roguelite mode)
+GUIDING GRASS
+After resolving 
+a Mystery card: 
+exhaust to draw an additional 
+Mystery card and resolve it.
+LO CKED
+ARTIFACT
+GUIDING GRASS
+End the Combat with Boss 
+without any 
+73 Secret cards
+ISLANDS
+The standee on the map 
+indicates the island you are on. 
+You can only read Scripts 
+from that island. Each island 
+is indicated by a visible outline.
+I V
+Arena: card 1, map 4.
+Enemy: cards 1, 2, and 3.
+ Major Corruption: F.
+Tamed: cards 1, 5, and Action cards (6).
+Mystling Encyclopedia: 3 and 4.
+30 Tier cards
+23 Item cards
+LUCKY COIN
+Adventure: 
+Gain 1 Silver.
+Small cards
+6 Corruption cards
++15
+ROCKHEART
+Major 
+Corruption cards
+J
++12
+BRILLIANT
+Others
+Inventory
+Inventory
+2 Small Dividers
+40 Dividers
+Status Sheet
+A Heavy Heart _______
+Academy Secrets_____ 1
+Ancient Technology __
+Attunement _________
+City in Ruin__________ 1
+Consequences _______
+Dark History _________ 1
+Eager Tamer _________ 1
+Eluding Tower________
+Ember ______________
+When you have any 4 parts of the “Empathy” status, 
+you may read Script Z97.
+Ending ______________ 1
+Fae Camp ___________ 1
+Fae Helper___________ 1
+Forest Predators _____ 1
+Future of Caerberg ___ 1
+Helpful Ranger_______ 1
+Ice__________________
+Interference _________ 1
+Knowledge Secured __
+Liar _________________
+Light in the Shadow __ 1
+Local Hero___________ 1
+Local Threat _________ 1
+Lost Engineer________ 1
+Merchant’s Favor_____ 1
+Mother______________
+Portal Knowledge ____ 1
+Return to Caerberg___
+Return to the Sea ____
+Revelation___________
+Salt Magnate ________ 1
+Secret Exit___________
+Secrets of the Crystal_ 1
+Secrets of the Past ___
+Someone’s Missing___ 1
+Storyteller___________ 1
+Tamers’ Morale ______ 1
+Time Passes _________
+Tracker______________ 1
+Tower Secret_________ 1
+Truth________________
+Understanding__________ 1
+9 10 11
+When you have any 4 parts of the “Understanding” status, 
+you may read Script Z96. 
+When you have any 6 parts of the “Understanding” status, 
+you may read Script Z98.
+Weakened___________
+Notes
+Status Sheet
+Adventure Journal
+ADVENTURE JOURNAL
+Location book
+Arena book
+Start Here! booklet
+This booklet will guide you through the ﬁrst steps in the game. You 
+don’t need to read the whole rulebook to start playing the game.
+In this booklet you will ﬁnd:
+• Unboxing Instruction (30-40 minutes) – page 1.
+• First Journey (120-150 minutes) – page 3.
+Start with the Unboxing Instruction below.
+UNBOXING INSTRUCTION 
+(30-40 minutes)
+In the Dragon Eclipse box, you will ﬁnd quite a few packs of cards. 
+Before you open them, follow the steps below to unbox the game. 
+It should take you about 30-40 minutes to complete.
+Empty all card trays.
+2.
+Unpack the dividers. Place the small ones aside for now.
+Alukah
+Party
+Alukah
+Party
+3.
+Open pack 1.1 All Mystling cards. Do not change the order 
+of the deck (if the cards get disorganized, sort them in 
+ascending order by the numbers in the upper left-hand 
+corner).
+Note: The separator cards tell you what is inside the pack, 
+which side is Front and which is Back. Always place packs 
+Front-side up on the table.
+4.
+Remove the separator cards from the front and the back 
+(you can throw them out, they aren’t used in the game). 
+Place the stack in front of you, so that the 1A card (Alukah) is 
+on the top, facing up. 
+Note: Each card has an ID in the upper left-hand corner. 
+The front of a card has the letter “A” next to the ID. The 
+back of a card is marked with the letter “B.”
+DARKTAILEN
+40A
+ARTIOS
+Max. 3 
+Max. 1 
+12A
+ICELING
+118A
+12A
+40A
+0A
+8A
+ART
+ART
+ICEL N
+ICELIN
+EM ER
+EMBE
+EMBE
+ICELING
+00000
+3040404040404
+0000000
+000000000000
+00000
+Max. 3 
+Max. 1
+ING
+ach
+Max
+ach 
+x
+Max
+34343434343434343434343434343434343
+23232
+3232323232
+2323232323232323232323232323232323232323232
+ax 3
+43434
+4040404040404040404040404040404
+40404040
+3040
+3040404040404
+0404040404040404
+04040
+0404
+4040
+04040
+0404
+DAR
+DARK
+AYAYAR
+AYAR
+ARO
+AYAYARK
+AYAYAR
+ARK
+YOU
+TN
+YOKU
+ROU
+KUTAN
+UNG
+M E
+TITI
+YOU
+ELING
+AY
+OL
+YA
+OLO
+TN
+TIO
+T O
+OL
+UTN
+GOLOM
+TANANG
+NANANA
+TANA
+NANA
+ANANG
+ANANANANA
+ANANAN
+NA
+000000000
+1A
+5.
+Now, you will sort the cards behind the Mystling dividers. 
+Each Mystling has a few cards connected to it, which are 
+marked with the name of the Mystling in the upper right-
+hand corner or in the middle top section of the card.
+Find the Alukah divider, place it in the tray (we suggest using 
+the  largest tray) and place all Alukah cards (5) behind it. 
+Next, ﬁnd the  Young Alukah divider, place it in the tray 
+(behind the Alukah cards and the divider you just placed) 
+and place all Young Alukah cards (6) behind it.
+Follow the same process above for each Mystling until 
+the deck is empty. 
+Note: All Pulpin and Pinequeak cards are placed behind 
+the Firple divider. Frightened Windraiser (pack 1.3) is placed 
+behind the Windraiser divider.
+Then, open the 1.2 All Mystling cards and follow steps 4 and 
+5 until the deck is empty.
+Repeat the same process for pack 1.3 All Mystling cards until 
+you reach card 225A (Coerced Gaiadon). Place it behind 
+the Gaiadon divider. Place the next card (226A, Gentled 
+Vogandr) behind the  Vogandr divider. Place the  Artios 
+Taming card (227A) behind the Artios divider.
+Now, you should see Arena card 1 (Mountain Pines) in front 
+of you.
+6.
+Place the Party divider in the tray behind all the Mystling 
+cards and dividers. 
+Find the Arena cards divider and place all Arena cards 
+(starting with Arena card 1) behind it in ascending order. 
+All cards from this pack should now be in the tray.
+8.
+Open packs 2.1, 2.2, and 2.3 – Mystling Action cards. Remove 
+the separator cards from the front and the back of the decks. 
+Create one stack: place cards from pack 2.3 at the bottom, 
+then cards from pack 2.2, and the cards from pack 2.1 at the 
+top.
+9.
+Place the card stack face up in front of you (so that the 
+Crescent Midnight card is visible). This pack has Action cards 
+assigned to Mystlings. Each Mystling has 6 Action cards 
+marked with its name in the upper right-hand corner.
+10. Place all 6 Alukah Action cards behind the Alukah divider 
+(after all the cards that are already behind this divider). Then 
+repeat this process for each Mystling until all cards from this 
+pack are in the tray.
+11. Open packs 3.1 and 3.2 – Other Action cards. Remove 
+the separator cards from the front and the back of those 
+decks. Create one stack: place cards from pack 3.2 at the 
+bottom, and the cards from pack 3.1 at the top.
+12. Place the card stack face up in front of you (so that the 
+Fatigue card is visible). This pack has Fatigue cards, Starting 
+cards (marked with the letter S), Advancement A (marked 
+with the letter A), and Advancement B cards (marked with 
+the letter B).
+13. Take all Fatigue cards (5) and place them in the tray. These 
+cards are not placed behind a divider.
+14. Take all Starting cards (20) and place them aside for now. You 
+will create Starting decks with them soon.
+15. Find the Advancement deck divider and place it in the tray. 
+Take all 30 Advancement A cards (marked with the letter A), 
+shufﬂe them, and place them behind the Advancement deck
+divider.
+16. Find the Locked cards divider and place it in the tray. Take all 
+30 Advancement B cards (marked with the letter B), shufﬂe 
+them, and place them behind the Locked cards divider. 
+17. Take the Starting cards you placed aside. You can see that 
+there are two copies of each card. Divide them equally into 
+two decks, 10 cards each, creating two Starting decks. Each 
+deck should have one copy of the following cards: Desperate 
+Attack, Focus, Guardian Stance, Hit and Run, Leap, Offensive 
+Stance, Primal Shot, Pummel, Sprint, Synergy.
+START HERE!
+60 Elemental tokens 
+(10 of each Element)
+Mystling tray
+10 Boosters envelopes
+32 Standees 
++ 5 Standee base
+Worldmap cardholder
+20 Power markers
+Special Edition 
+components
+10 pre-packed 
+foil Boosters
+Cardboard Standees are replaced by models, and Elemental tokens are replaced by acrylic markers in this version.
+binder
+8 cardholder pages
+30 Miniatures
+60 Elemental markers 
+(10 of each Element)
+1 Decision token
+1 Time token
+6 Essence 
+tokens
+
+Dragon Eclipse offers a guide to the ﬁrst Scenario. You don’t need 
+to read this rulebook to start the game. Instead, open the “Start 
+here!” booklet and follow instructions in the First Journey section. 
+However, if you want to play the ﬁrst Scenario on your own, read 
+the following sections of the rulebook:
+Playing the Scenario – Adventure (page 8).
+If you want to play your ﬁrst Combat on your own, also read 
+the Playing the Scenario – Combat section (page 14).
+Read the sections you choose, then come back to this page and 
+follow the instructions below.
+To start the ﬁrst Scenario, you need the Adventure Journal. It in-
+structs you when and which components to use. Open the Adven-
+ture Journal to page 2 and read the introduction and follow the in-
+structions provided there. You can close the rulebook for now.
+Each game session is divided into 3 stages: Before the Scenario, 
+Playing the Scenario, and After the Scenario. Each of those stag-
+es is divided into steps that must be followed. These steps are also 
+listed in the Adventure Journal, so you don’t need to worry about 
+remembering them.
+Before the Scenario (15-20 minutes) – steps to prepare 
+the Scenario:
+Exploring the World Map.
+Choosing a Scenario.
+Reading the Introduction and hints.
+Reconsidering or starting the Scenario.
+Choosing Mystlings.
+Performing the Deck Construction.
+Important: In the ﬁrst Scenario, the “Before the Scenario” steps 
+are skipped.
+2. Playing the Scenario (1.5-2h) – the main part of the game:
+Adventure.
+Combat.
+Each Scenario consists of  the  above parts, but their order and 
+number may vary (e.g., one Scenario might start with Adventure 
+followed by Combat and then end with another Adventure).
+3. After the Scenario (10 minutes) – unlocking new compo-
+nents and saving the game:
+Gaining access to new Scenarios.
+Opening a random Booster.
+Unlocking new Action cards.
+Saving the game.
+All the steps above are listed in the ﬁnal Scenario Script so you 
+don’t have to worry about remembering them.
+You are a child of the Moongur caretakers, a talented pair of tam-
+ers. They left early to serve the queen in the south, leaving you 
+in the care of your aunt, Christine. Your talent for understanding 
+mystlings manifested itself in your early years, and Christine decid-
+ed that your best chance in life was to travel to Caerberg, the larg-
+est city in the province, to learn the craft there.
+Since then, you have grown to become one of the most talented 
+tamers. Some say that you are unique because you are the only one 
+able to maintain bonds with two mystlings at once. Your talent was 
+noticed by the Duchess of Caerberg, and, despite your young age, 
+she nominated you to be chief tamer when the previous one re-
+tired. You are in charge of most Caerberg mystlings, and you train 
+other tamers.
+You cannot complain about your job or your life, but there is some-
+thing missing. You yearn for the thrill of adventure, and the satis-
+faction of discovery. You want to encounter more mystlings, and 
+you cannot stop marveling at those fantastic creatures.
+Another secret dream you cherish is to encounter Dragon Guard-
+ians. You want to learn more about them. You wish to know if they 
+are godlike beings, as the legends depict, or if they are “just” im-
+mensely powerful mystlings. Maybe, someday, you will be able 
+to embark on a journey and see the wide world.
+INTRODUCTION
+In Dragon Eclipse, you take the role of a Tamer befriending and 
+training Mystlings. Dragon Eclipse is a cooperative scenario-based 
+game for 1 or 2 players. There are also other game modes – Rogue-
+lite and PvP – which are described in the Additional Game Modes 
+section (page 27). The  following pages describe the  game from 
+the  perspective of  the  campaign, but most rules are applicable 
+to other modes as well.
+Dragon Eclipse is played over a series of Scenarios. In a single game 
+session, you aim to complete at least one Scenario. Each Scenario 
+is a 2-2.5 hour, one-time playthrough and is divided into two inter-
+connected parts: Adventure and Combat. During the  Adventure 
+part, you explore the world, visit different Locations, make impact-
+ful decisions, and progress the story. During the Combat part, you 
+encounter other Mystlings, ﬁght against them, and try to  Tame 
+them.
+A  game session starts with choosing an  available Scenario from 
+the  World Map. The  Scenario will continue until the  Adventure 
+Journal informs you that it ends. While there is no way of losing 
+a Scenario, your decisions, as well as failures and wins, inﬂuence 
+the story and the outcome of the Campaign.
+This rulebook is designed in  a  way that  presents the  order 
+of the game. The rules are explained to you when you need to use 
+them for the ﬁrst time. 
+The rulebook is written for solo play, with 2-player game ex-
+ceptions marked with a 
+. If you are playing solo, you can skip 
+these sections.
+Starting Mystlings
+At the beginning of the ﬁrst Scenario, you’ll choose a starting Mys-
+tling. You will be able to switch to a different Mystling at the be-
+ginning of the second Scenario if you’re unhappy with your ﬁrst 
+choice. Below are the descriptions of the starting Mystlings to help 
+you make your decision.
+ Young Emberlings display a strong 
+sense of  protection toward those 
+they care about. They are skilled 
+ﬁghters, utilizing both close-range 
+attacks and long-range ﬁery tech-
+niques. Their agility helps them stay 
+safe, despite a lack of defensive abil-
+ities.
+118A
+ Young Iceling
+Young Icelings prefer to live in soli-
+tude within the  ice-covered moun-
+tains. Yet, some Icelings respond 
+to the call to adventure and embark 
+on thrilling journeys. During their 
+travels, Icelings utilize their defen-
+sive abilities, and attacks that  can 
+drain their foes’ warmth to  heal 
+themselves
+GAME ORDER
+STARTING YOUR GAME
+
+1. Components Setup
+Take out the following components and place them in your play area:
+Item deck: shufﬂe this deck. Leave space for an Item 
+discard pile.
+Equipment deck: shufﬂe this deck.
+Secret deck: do not change the order of this deck!
+Adventure Journal.
+Location book.
+Arena book.
+Save sheet.
+Mystling tray.
+All tokens.
+Leave some space in front of you for the cards and tokens you will 
+gain during the Scenario.
+2. Taking Inventory
+You will gather Items, Equipment, Secrets, Silver, and Essence 
+that can carry over to subsequent Scenarios. After each Scenario, 
+you save them behind the Inventory divider.
+During this step, if you have any cards, Silver, and/or Essence be-
+hind the Inventory divider, take them out and place them in front 
+3. Navigating the World Map
+The World Map represents places you may visit. The World Map uses 
+two components: the World Map cardholder and Worldmap cards.
+Worldmap cards show speciﬁc locations in the world that you can 
+explore before or during Scenarios.
+The World Map cardholder is a component that holds all available 
+Worldmap cards.
+As the  game progresses, you will slot more World Map cards into 
+the  cardholder, expanding the  available options to  choose from. 
+The Adventure Journal guides you when and where to slot those cards.
+Note: You will gain access to the World Map at the end of the ﬁrst 
+Scenario.
+Navigation
+At the start of this step, you are able to visit an Explored location.
+To Navigate the World Map:
+Choose one of the Explored Worldmap cards in the World 
+Map cardholder that shows a “Z” Script.
+2. Find the corresponding Script at the end of the Adventure 
+Journal.
+3. Read the Script and then choose one of the options list-
+ed there. If you choose “Visit another place” option repeat 
+the steps above.
+4. Choosing a Scenario
+After visiting Explored cards, you are instructed to start a Scenar-
+io. To do so, choose one of the Unexplored Worldmap cards from 
+the  World Map cardholder with a  Scenario name. Then, open 
+the Adventure Journal and go to the Script printed on the chosen 
+card. There, you ﬁnd a brief introduction and have a chance to re-
+consider your choice.
+World Map cardholder with slotted Worldmap cards (after Scenario 1).
+BEFORE THE SCENARIO
+The steps below prepare you for the adventure that awaits you. Before the Scenario, you visit familiar places, befriend wild Mystlings, gather information, choose your next destination, and prepare your Mys-
+tlings by constructing Action decks for them.
+The Unexplored side
+These usually have a Script number and a Scenario name. They allow you to begin a Sce-
+nario during the “Choosing a Scenario step.”
+Unexplored 01
+Calm Before the Storm
+The Explored side
+These usually have a “Z” Script visible. They allow you to revisit a location to shop (
+), Tame 
+Mystlings (
+), or learn important story information.
+Explored 01
+Z1
+Worldmap cards
+Worldmap cards are slotted in a cardholder with one of the two sides visible:
+
+5. Reading Introduction and Hints
+The  starting Script has an  introduction that  provides you with 
+a brief insight into your goal for the Scenario. The hints offer useful 
+information on how to prepare for the Scenario.
+6. Reconsidering or Starting the Scenario
+After reading the introduction and hints, you have the opportunity 
+to reconsider and go back to “Choosing a Scenario.”
+Note: This reconsideration is not available in the ﬁrst and second 
+Scenario.
+g
+• Reconsider – choose another available Scenario from the World Map.
+• Start the Scenario – read on:
+If you wish to reconsider, look at the World Map again and follow 
+the instructions in the “Choosing a Scenario” step. Otherwise, con-
+tinue reading the Adventure Journal. It leads you to the next step.
+Choosing Mystlings
+You are an  exceptional tamer and able to  maintain two strong 
+bonds with mystlings at once! You are, however, not a  mythical 
+hero – so other mystlings must stay behind in your camp. Other-
+wise, you won’t be able to control them.
+For  each Scenario, you choose 2 Mystlings from all you have 
+Tamed so far.
+At the start of each Scenario, choose 2 Mystlings from those be-
+hind the Party divider. The chosen Mystlings must have different 
+main elements (e.g., you may not select two 
+ Mystlings).
+Leave some space in front of you for the cards and tokens you will 
+gain during the Scenario.
+: Each player chooses one Mystling – Mystlings 
+must have different main elements. Each player 
+controls the chosen Mystling during Combats.
+When you choose a  Mystling, take all the  cards corresponding 
+to the chosen Mystling from behind the Party divider and place 
+them in  front of  you. The  corresponding cards have the  name 
+of the Mystling printed in the top-right hand corner and are made 
+up of the following types:
+1 Stat card.
+1 Ability card.
+6 Action cards.
+1 Quest card (if available).
+Quest cards
+A Quest is a personal goal of a Mystling that, when fulﬁlled, perma-
+nently improves the Mystling’s statistics or Special ability, turning 
+them into Exalted versions. It may even make a Mystling grow into 
+a new, more powerful form. However, not all Mystlings have Quest 
+cards. Keep your Quest cards A-side up (you may look at the B-side 
+of  the  cards). The  Adventure Journal or the  card itself tells you 
+when to use the other side.
+There are two types of Quests: Story Quests and Combat Quests. 
+Combat Quests: explained in the Advanced Rules section, as you 
+will encounter them later in the game. The game indicates when 
+to read it.
+Story Quests: resolved solely in the Adventure Journal. The Mys-
+tling description (A-side) often points toward a location (a Scenario 
+or a speciﬁc Worldmap card) to visit with your Mystling to fulﬁll its 
+Quest.
+Note: The  B-side of  the  Quest cards might contain different 
+things. The Adventure Journal instructs you how to use them.
+STORY QUEST
+Let your Darktailen experience swamps 
+that devoured light.
+45A
+Darktailen
+DARKTAILEN
+Exalted
+45B
+After fulﬁlling the Darktailen Story Quest, the Adventure Journal instructs 
+the player to ﬂip it to the B-side. This way, the player may use the Exalted 
+Darktailen stat card with improved statistics.
+You may keep Quest cards of the Mystlings you chose for a Sce-
+nario in front of you or in the Mystling tray. The game checks if you 
+have a speciﬁc Mystling and then instructs you what to do when 
+your Quest is fulﬁlled.
+
+8. Performing the Deck Construction
+Before each Scenario (except the ﬁrst one), you are able to build 
+a deck for each of the two Mystlings chosen for a Scenario. Building 
+decks is done using cards that you’ve unlocked up to that point. You 
+gain Action cards at the start of the ﬁrst Scenario (Starting decks) 
+and at the end of each Scenario (Advancement deck and Boosters).
+You will perform your ﬁrst Deck Construction at the  beginning 
+of the second Scenario.
+Note: When you perform the  Deck Construction for  the  ﬁrst 
+time, it is wise to include the cards you have just unlocked from 
+the Advancement deck and a Booster pack, as they are probably 
+better than the cards in the Starting deck. You may also exchange 
+cards from the Starting decks between Mystlings (e.g., one Mys-
+tling may have 2 copies of “Offensive Stance,” while the other 
+may have 2 copies of “Defensive Stance”).
+To perform the  Deck Construction, take all cards from behind 
+the Unlocked cards divider and all Mystling cards of the Mystlings 
+that you’ve chosen for a Scenario.
+For  each Mystling, create a  deck separately following the  Deck 
+Construction rules below.
+Deck Construction rules
+A deck may only consist of Action cards.
+2. It must consist of 16 Action cards total (no more, no fewer).
+3. It must have a minimum of 3 and a maximum of 6 Mys-
+tling-speciﬁc Action cards matching the chosen Mystling.
+4. A deck can only have 1 Legendary card.
+5. A deck cannot contain cards that don’t match the Element 
+of the chosen Mystling or its subtype element. However, 
+you may always add Neutral cards.
+If a Mystling has a subtype element (see the example below), you 
+may add Action cards from that element to your deck, but no more 
+than the number next to the small elemental icon next to its main 
+element
+BOLB
+29A
+Young Bolb is an Earth Mystling with a Water subtype (numeral 2 next 
+to the Water icon). While creating a deck for Young Bolb, you may add any 
+number of Earth Action cards and up to two Water Action cards.
+After creating two 16-card decks (one for each chosen Mystling), 
+place them along with the  Mystling cards (Stats and Abilities) 
+After constructing decks for your Mystlings, begin playing the Sce-
+nario. Continue reading the instructions in the Adventure Journal.
+Action card types
+DE-CB-69/125
+DE-CB-69/125
+VOLCANIC SURGE
+Choose a 
+ or 
+ space. 
+Deal 2 Burn to each other Mystling in range 1 
+from that space.
+DE-CB-M19/90
+Chrysomallon
+DE-CB-M19/90
+LAVA TRAIL
+Move. If there is no opponent in range 1, 
+Move. 
+Slot 3: Attack.
+Neutral cards: cards without elemental icons. They may be 
+used by all Mystlings. You can ﬁnd them in your Mystling 
+Starting deck (marked with an S in the top right-hand cor-
+ner) and the Advancement deck (marked with an A or B).
+2. Elemental cards: cards with elemental icons in  the  top 
+left-hand corner. They can be unlocked by opening Boost-
+er packs. These cards may only be used by the Mystlings 
+of the corresponding elements.
+3. Mystling cards: cards assigned to  a  speciﬁc Mystling. 
+The name of the Mystling is written in the top right-hand 
+corner of the card. These cards are also Elemental cards 
+(they have elemental icons). They can’t be used by other 
+Mystlings.
+Card rarity
+An important aspect of Action cards used in Deck Construction is 
+their rarity, which is used only during the Deck Construction. It is 
+represented by an icon at the bottom of the card.
+DE-CB-14/125
+CB-14/125
+Awaken Realms 2
+Common: Neutral cards. There are two copies of each Neutral card 
+in the game. These cards can be found in Starting decks (marked 
+with an S), Advancement A (marked with an A), and Advancement 
+B (marked with an B).
+DE-CB-120/125
+DE-CB-120/125
+Rare: Elemental cards. There are two copies of  each card in 
+the game. They can be found in Boosters.
+Ultra Rare: Elemental cards. There is one copy of  each card in 
+the game. They can be found in Boosters.
+Legendary: foil Elemental cards. There is one copy of each card 
+in the game. You are restricted to using only one Legendary card 
+per deck during Deck Construction. They can be found in Boosters
+DE-CB-M87/90
+DE-CB-M87/90
+Mystling-speciﬁc: cards with a Mystling’s name in the top right-
+hand corner. They belong to speciﬁc Mystlings. They are obtained 
+when Taming a Mystling.
+Mystling tray
+The Mystling tray consists of two separate pockets. A single pocket is intended for cards (Action, Stats, Abilities, and Quests) of a single Mystling. 
+After Combat, damage tokens that the Mystling received are also placed in the tray. Occasionally, power markers obtained during the Adventure 
+are also placed into it.
+Components that may be placed in the Mystling tray (on the left). Mystlings prepared in the Mystling tray (on the right).
+
+Adventure 
+Adventures immerse you in  the  Adventure Journal, uncovering 
+the narrative and thrilling adventures. You will be making choices 
+presented by the Adventure Journal and Exploring Location maps.
+Adventure Journal
+The Adventure Journal is a book that contains the story as well as all 
+the instructions that guide you through the game. The Adventure 
+Journal consists of 12 Scenarios, each designated by a unique letter 
+(A-L). Each Scenario contains Scripts, which are fragments of story 
+text and instructions identiﬁed by their unique number and letter 
+corresponding to the Scenario.
+For example, all Scripts from the ﬁrst Scenario have the letter “A” 
+before the Script number.
+A2
+You ﬁnally have time to look around. People are still scared, but there are only a few visible consequences of the tremor – a crumbling wall, 
+a machine grinding unpleasantly, and ﬂowerpots toppled from windowsills. All the mystlings gradually calm down.
+Script from the ﬁrst Scenario.
+There are the  two common Adventure Journal instructions 
+that guide you from one Script to another:
+Go to Script X: open the Adventure Journal to the men-
+tioned Script and start reading it.
+Choose one: choose one of the options listed below and 
+follow the  instructions. You cannot choose an  option 
+if you don’t fulﬁll its requirement given in parenthesis. 
+These options always start with bullet points to differen-
+tiate them from other instructions.
+If you only have 3 Silver, you may choose the “Buy something” option but you could not choose the “Buy some universal equipment” option as it requires 
+spending 4 Silver.
+• Buy something (spend 1 Silver) – draw 3 Items, gain 1 of them, and discard the rest. Then, choose again.
+• Buy some universal equipment (spend 4 Silver) – draw 3 Equipment, gain 1 of them, and discard the rest. Then, choose again.
+• Speak with Slade – go to Script C48.
+• Ask about mystlings – Maybe someone has an idea on what to do with the wild mystlings? Go to Script C51.
+• Leave – continue the Exploration.
+Status sheet and tokens
+The game tracks your progress and decisions in various ways, but 
+you will also use the Status sheet often. Each part of a speciﬁc sta-
+tus may only be gained once during the game. When a status is 
+marked, you are considered to have that status. Statuses cannot 
+be lost in any way.
+Gain the “Y” part X status: take the Status sheet and mark 
+the corresponding part of it (e.g., gain the “Empathy” part 
+2 status).
+When you are instructed to “Gain the ‘Empathy’ part 2 status,”
+ you mark it as shown in the example above.
+Sometimes statuses don’t have parts. When you gain them, mark 
+the empty box next to their names.
+The  game also tracks your decisions by placing various tokens 
+in front of you or on Location maps. The Adventure Journal always 
+explains what token to place and which side is face up. The side is 
+important, so be sure to place tokens correctly.
+You cannot spend or discard these tokens on your own. The game 
+checks if you have a speciﬁc token in front of you.
+Tokens placed in  front of  you are not saved between Scenarios.
+The most common instruction regarding status tokens is:
+Place token X in front of you: place the mentioned com-
+ponent in front of you with the speciﬁed side face up. Then, 
+ﬂavor text explains what it means.
+– Place an 
+ in front of you – You stash the pitcher shards in your bag.
+The Adventure Journal often checks if you have a status, if there is 
+a token in front of you, or if you have a certain Secret.
+If you have the “Example” part 6 status / If you don’t 
+have the “Example” part 6 status: check the Status sheet 
+to see if you have marked the mentioned part of the status. 
+If you match the condition, follow the instructions. If not, 
+check if there is another condition. There are often more 
+than one condition – always check them from top to bot-
+tom. If you meet several conditions from the list, resolve 
+only the topmost one.
+If token X is in front of you: check if you have the men-
+tioned component and follow the instructions if you do. 
+If there is more than one condition, check them in order 
+from top to bottom.
+Place token A in slot III.
+If you have the “Light in the Shadow” part 6 status, go to Script J3.
+If you have the “Eager Tamer” part 5 status, go to Script J1.
+Otherwise, you brieﬂy recap your adventures and explain what the purpose of your visit is – go to Script J4.
+Let’s assume that the player has already marked the “Light in the Shadow” 
+part 6 status and the “Eager Tamer” part 5 status. In the example above, 
+they go to Script J3, since they meet the condition in the ﬁrst line. They 
+cannot go to Script J1 even though they also meet the condition from 
+the second line, since the instructions are resolved from top to bottom.
+PLAYING THE SCENARIO – ADVENTURE
+The main stage of the game in which you explore Location maps, make various story choices, and ﬁght and Tame Mystlings is divided into two interconnected parts that might be resolved in different orders: 
+Adventure.
+Combat.
+The  Adventure Journal guides you through the  whole Scenario and tells you when Adventure or Combat starts. The  Scenario ends when you reach the  sentence “Congratulations! 
+You’ve reached the end of the Scenario” in the Adventure Journal. You will then have the option to either continue or save the game.
+: Decision token 
+Players make choices mutually. However, if they cannot agree, they use the Decision token. All other Adventure rules remain the same as in the solo game. All Secrets, Silver, Essence, statuses, 
+Items, and Equipment belong to both players.
+Decision token rules: At the beginning of a game session, give the Decision token to a random player. When players encounter a situation during the game when they cannot agree on something, 
+the player with the Decision token makes the decision and then passes the token to the other player. Try to use the Decision token sparingly.
+For example, players may want to use the Decision token when you must choose a Script on the Location map or decide which Mystling receives 
+ from a Script.
+
+Damage 
+While most of the time you receive damage during Combat, your de-
+cisions or Tests may also expose your Mystling to threats that could 
+result in damage as well. The concept of damage is explained in more 
+detail in the Combat section of the rulebook (page 9).
+ is not a limited component. In rare cases when you do 
+not have enough 
+, substitute it with other components.
+ outside of  the  Combat, take 
+that amount of 
+ and place it in the Mystling tray, as-
+signing it to Mystlings (you may split it between Mystlings 
+as you see ﬁt). 
+Note: During the Adventure part of the game, you can-
+not assign 
+ to a Mystling if it would equal or exceed 
+ statistic (a Mystling cannot have fewer than 1
+remaining during the Adventure). In such cases, you must 
+assign the 
+ to the other Mystling. If both of your Mys-
+tlings are in this situation, ignore the excess 
+Heal
+Heal means discarding 
+. It is a common reward during the Ad-
+venture and can be found in several other places in the game.
+When you are instructed to Heal X outside of Combat, dis-
+card that many 
+ from the chosen Mystlings. You may 
+split the Heal value between both Mystlings as you see ﬁt.
+For example, when you are instructed to Heal 6, you may 
+discard 2
+ from one of your Mystlings and 4
+the other.
+When you are instructed to Heal X and your Mystlings have 
+fewer than the Heal value, Heal as much as you can and 
+ignore the rest.
+Fatigue
+Fatigue cards are negative Action cards shufﬂed into Action decks. 
+They represent the exhaustion of your Mystling. You receive Fa-
+tigue cards during Combat as a  result of  reshufﬂing the  Enemy 
+deck and also in the Adventure Journal as a result of your choices 
+or Tests.
+Fatigue cards are a limited component and Mystlings can 
+have a maximum of 5 cards in total.
+When you gain a Fatigue, place it in the Mystling tray as 
+a part of the chosen Mystling’s Action deck. When you gain 
+more than one Fatigue, you may divide them between your 
+Mystlings as you see ﬁt. 
+When there are no more Fatigue cards available 
+(max. 5), and you are instructed to gain another Fatigue, 
+gain 5
+ instead.
+When you remove a  Fatigue, place it back in  the 
+Fatigue deck. 
+Fatigue is not saved between Scenarios.
+Secrets
+Secrets are important cards directly tied to the story. There are four 
+types of Secrets: overlays, events, rules, and objects. 
+When you gain a card that is a fragment of a map, an over-
+lay, place it on the Location map so that it matches the il-
+lustration. 
+When you gain an event, you will be instructed to place it 
+face down in the Event slot.
+When you gain a rules card, place it next to the Mystling 
+tray – its rules apply as long as the Secret is there. 
+When you gain an object, place it next to your Items and 
+Equipment – it works in the same way, but there is no limit 
+to how many of them you can have. Some objects don’t 
+have any effects but are important to the story.
+When you discard a Secret, place it back in the Secret deck. 
+Objects are saved between Scenarios.
+Place this card on the map.
+HEALING EXTRACT
+Anytime:
+. Heal 4.
+ISLANDS
+The standee on the map 
+indicates the island you are on. 
+You can only read Scripts 
+from that island. Each island 
+is indicated by a visible outline.
+An hour has passed.
+If token A is in slot II or V, 
+go to Script A76. 
+Otherwise, go to Script A75.
+Example of different Secrets: rules card (01), event (13), 
+overlay (14) and object (02).
+represents your Mystling’s inner energy. It is used in Combat 
+to  resolve Bonus Actions and to  pay for  extra effects on Action 
+cards. However, 
+ can be gathered during Adventure to prepare 
+for the next Combat.
+ is a limited component. Each Mystling can have 
+a  maximum of  10
+at any moment (a  Mystling cannot 
+ if it already has 10).
+ outside of Combat, take that amount 
+of 
+ and assign it to the chosen Mystlings (you may split 
+it between Mystlings). Place 
+Silver
+Silver is the currency in the world of Dragon Eclipse. You acquire it 
+as a reward for helping people, selling Items, or exploring. It is used 
+during the Adventure part of the game. You may spend it to unlock 
+certain story options and purchase Equipment or Items.
+Silver is a limited component (max. 10).
+: Silver is shared between players.
+When you gain Silver, place it near the Mystling tray. 
+When you discard Silver, you must return it to the Silver 
+pool. If you don’t have the required number of Silver, dis-
+card as much as you can and ignore the rest.
+When you spend Silver, you must have that number of Sil-
+ver. If  the  instructions tell you to  “Spend 3 Silver to  go 
+to Script X” and you have only 2 Silver, you cannot choose 
+this option.
+Silver is saved between Scenarios.
+Essence 
+Essence is the  residual energy of  the  Dragon Guardians, which 
+may be used to gain the attention and trust of Mystlings. It can be 
+acquired while interacting with various arcane locations and Mys-
+tlings. It is used in the Adventure part of the game. Essence allows 
+you to Tame Mystlings outside of Combat during the “Navigating 
+the World Map” step.
+Note: You may use and acquire Essence starting from Scenario 2.
+Essence is a limited component (max. 6).
+: Essence is shared between players.
+When you gain Essence, place it near the Mystling tray. 
+When you spend Essence, return it to the Essence pool. 
+Essence is saved between Scenarios.
+Rewards and Penalties
+During the  Adventure, you receive many different rewards (like 
+Items or Silver) and penalties (like damage 
+ or Fatigue). Below is 
+a list of various effects you may encounter.
+
+Equipment
+Equipment cards are powerful cards that offer unique one-time use 
+abilities and/or permanent symbols that help you during the game 
+(upper right-hand corner).
+BOTTLE OF FLAMES
+Deal 7
+ to an opponent 
+Equipment cards have:
+Symbols: positive passive effects checked in  the  Adven-
+ture Journal.
+2. Name
+3. Timing of when you can use it:
+Test: you may use it anytime during a Test.
+Anytime: you may use it anytime during a Scenario.
+Combat: you may use it during your turn in Combat.
+4. Ability: describes the effect upon use.
+5. Roguelite mark: This mark is only important in the Rogue-
+lite mode. Ignore it during the Campaign.
+Both Equipment and Items may have a 
+ icon, which indicates 
+that you must discard a card to resolve its effect.
+Symbols
+Symbols provide advantages during Tests and in  the  Adventure. 
+Having these symbols may make locked choices available.
+There are 4 Equipment symbols:
+Light Source: often useful in Scenarios where you ex-
+plore dark places.
+Food: commonly used when you are handling wild 
+Mystlings outside of Combat.
+Gear: represents climbing equipment useful when 
+traversing dangerous terrain.
+Tools: a  wide range of  different tools that  may be 
+handy while tinkering with machines.
+Equipment rules
+Equipment cards are limited to 2 at any time. When you 
+gain an Equipment, and you already have 2, you may use 
+any of the 3 Equipment abilities if the timing allows. If you 
+don’t, immediately discard one of the 3 Equipment to have 
+2 remaining.
+: Equipment is shared between the players.
+Equipment is not assigned to Mystlings.
+You are considered to have Equipment symbols as long as 
+you have Equipment with them.
+When you gain Equipment, draw a random card from the top 
+of the Equipment deck and place it near the Mystling tray.
+When you discard or spend Equipment, place it on the bot-
+tom of the Equipment deck.
+Equipment is saved between Scenarios.
+Items
+Items cards offer a  variety of  minor effects. They are similar 
+to Equipment in terms of usage, but are more common and less 
+powerful. Items are used in two different ways: as small useful tools 
+that can slightly aid you in Tests and Combats and to resolve Tests. 
+The use of Items for Tests will be described later in this rulebook.
+RED BERRIES
+During the next Attack, + 1 
+Item card have:
+Test Value: a number used when resolving Tests.
+2. Misfortune 
+: a negative symbol used during Tests.
+3. Name
+4. Timing of when you can use it:
+Test: you may use it anytime during a Test.
+Anytime: you may use it anytime during a Scenario.
+Combat : you may use it during your turn in Com-
+bat.
+5. Effect: describes the effect upon use.
+6. Roguelite mark: This mark is only important in the Rogue-
+lite mode. Ignore it during the Campaign.
+Item rules
+Items are limited to 3 at any time. When you gain an Item, 
+and you already have 3, you may use any of the 4 Items 
+if the timing allows. If you don’t, immediately discard one 
+of the 4 Items so that you have 3 remaining.
+Items are not assigned to any Mystling.
+When you gain an Item, draw a random card from the top 
+of the Item deck and place it near the Mystling tray.
+When you discard an Item, place it on the Item discard pile.
+Items are saved between Scenarios.
+: Items are shared between the players.
+
+Tests
+A Test is a quick, push-your-luck part of the game that uses Test values 
+of Item cards from the Item deck (not the cards you have gained). Tests 
+are used to determine the results of some of the character’s actions.
+For example, you want to sneak into a guarded castle. Depending on 
+the Test results, you may be spotted, or enter quietly.
+Every Test has a Test Table (see Test Example). You may read the con-
+tent of a Test Table before and during the Test resolution.
+During the Adventure, you will often ﬁnd instructions to “Perform 
+the Test.” The Test outcomes may be very different, but most often, 
+they progress the story or give you a reward. When something goes 
+wrong during a Test, it may result in penalties.
+You use the Item deck during Tests. The only important information 
+on the Item cards during a Test is their Test Value shown in the top 
+left-hand corner and a 
+ icon that can be found on several cards.
+RED BERRIES
+During the next Attack, + 1 
+The above Item has a Test Value of 1 and one 
+To perform a Test, look at a provided Test Table. It tells you which re-
+sults you might want to achieve (as a rule of thumb, you may assume 
+that green outcomes are the good ones, gray are neutral, and you 
+want to avoid the red ones). Above the Test Table are also modiﬁers 
+that may affect the Test.
+Spend 
+: Immediately resolve a chosen Test outcome.
+You must spend an Equipment card with a 
+symbol to use this bonus 
+during the Test. However, using this bonus is optional.
+, once per Test: You may add or subtract 1.
+To use this bonus, you must have an Equipment card 
+with a 
+e thi
+symbol. You don’t discard the card to use it.
+Most of the time, there will be negative consequences for drawing 
+cards with 
+. During the Test, you may use your Items with “Test” 
+timing to modify your result.
+Test order
+Reveal an Item card and place it in front of you. Do not resolve its effect!
+2. Choose: end the Test or go back to step 1.
+When the Value of all revealed Item cards reaches the last range in the Test table, and you don’t have any means to modify the result, immedi-
+ately end the Test and resolve its outcome as described below.
+When you end the Test:
+Add up the Values of all Items revealed during this Test. 
+2. Apply all the “At the end of a Test’’ modiﬁers.
+3. Place all Item cards used in this Test on top of the discard pile and resolve the outcome matching the Value of the revealed cards.
+Whenever the Item deck becomes empty, take all cards in the Item discard pile, shufﬂe them, and create a new Item deck.
+Test Example
+At the end of the Test: If you have at least 2 
+5 or less
+You eventually ﬁnd a glass bottle with a bright substance. 
+It must belong to Olin.
+. Gain Secret 02. Go to Script A79.
+You ﬁnd a glass bottle with a bright substance. 
+It must belong to Olin.
+Gain Secret 02. Go to Script A79.
+You ﬁnd a glass bottle with a bright substance. It must belong 
+to Olin. Something else glints among the debris.
+Gain 1 Item. Gain Secret 02. Go to Script A79.
+8 or more
+Everything here is shattered and useless.
+. Continue the Exploration.
+You have 1 Item that might be useful: Glazed Nuts. You are able to use its effect during the Test (but only its effect, not its Value).
+You start the Test. You draw the ﬁrst card (Rope), and it has a Value of 2. 
+2. You decide to draw again, and the new Item, Ripe Nuts, has a Value of 3. 
+3. You decide to draw another card. It is a Bottle of Magic with a Value of 3 and a 
+. Now, the total Value is 8, which would result in a neg-
+ative outcome – it is not something you wanted. 
+4. You decide to use the effect of the Glazed Nuts: discard a card you just drew (Bottle of Magic). 
+5. You decide to draw again. The new Item, A Leather Pouch, has a Value of 1 and a 
+. The total Value of cards is 6 – not the best out-
+come, but you decide not to push your luck and you end the Test. 
+6. You remember to check the modiﬁer at the end of the Test – it would apply if you had at least 2 
+. You fortunately have only 1 
+so you don’t
+(the Time track and Time token are explained further in the rulebook). 
+You place all Item cards used in this Test on top of the discard pile and resolve the outcome matching your result: you gain Secret 02 
+and go to Script A79.
+
+Exploring Location map
+When playing a Scenario, you will be presented with an opportunity to explore different Location maps. The number of Explorations during 
+a Scenario may differ, but each Scenario has at least one Exploration.
+Exploration setup
+Each map Exploration starts with a short setup. The Adventure Journal indicates which Location map to open.
+Open Map X – take the Location map book and open it so that only map X is visible. Then, place the Location map book into your play area. 
+Location maps show you the area you are currently exploring. Each Location map consists of:
+Location map number: used during Exploration setup to ﬁnd the correct map.
+2. Script numbers: possible places for you to visit.
+3. Slots: used to place A/B tokens in them and track your decisions/changes during the Scenario.
+4. Time track: used to track the passage of time.
+5. Event slot: space for the Event (Secret card) connected to the Time track.
+After opening a map, the Adventure Journal instructs you to set up an Event using the following instructions:
+Place Secret X face down in the Event slot. Set 
+ to Y: ﬁnd the mentioned Secret in the Secret deck. Place it face down (without looking at it) 
+in the Event slot. Then, take the Time token and place it showing the correct side (red or blue) in a slot with the number Y.
+Secret 05 is placed in the Event slot, and 
+ is set to 2.
+Then, the Adventure Journal will tell you to “Begin the Exploration.” To do so, close the Adventure Journal and follow all Exploration rules below. 
+Exploration rules
+There is no speciﬁc round or turn structure during Exploration. You 
+are free to take actions unless the Adventure Journal instructs oth-
+erwise. However, your time in each Exploration is limited. The Time 
+track is used to track the time you have left.
+During Exploration there is only one type of Action available – Read 
+a Script.
+Read a Script
+Scripts are indicated by a letter and a number. You may go to and 
+read any script visible on the map. Usually, but not always, Scripts 
+are inside booklet icons. Others might be hidden in the illustration.
+Script in a booklet icon.
+Once you start reading a Script, you must follow all instructions writ-
+ten there. When the Script instructs you to “Continue the Explora-
+tion,” close the Adventure Journal, and return to the Location map.
+Reading Scripts is “free,” meaning it does not consume any time or 
+other resources, and the Adventure Journal often gives you the op-
+tion to leave a Script and choose a different one. However, some op-
+tions within the Scripts may require you to spend time (
+). In rare 
+cases (e.g., when your task is to track someone), checking the wrong 
+Scripts may force you to spend time.
+• Search the rubble – gain 1 Item. 
+. Continue the Exploration.
+• Leave – continue the Exploration.
+If you choose the “Search the rubble” option, you gain an Item, but you also 
+spend time. After that, you are instructed to continue the Exploration.
+
+Time
+During Exploration, you may be instructed to  spend time
+This will, in  turn, reveal the  Event card, altering the  situation 
+on the map or even bringing the Exploration to an end.
+When you are instructed to
+If the Time token is not in the last space, move it one slot 
+down (e.g., from 4 to 3).
+If  the  Time token is already in  the  last space (with 
+the number 1), place it on the Event card.
+If the Time token is on the Event card, ignore that time 
+progression.
+Whenever the  Adventure Journal instructs you to  “Continue 
+the Exploration” and the Time token is already on the Event card – 
+discard the Time token and ﬂip and resolve the Event card. Events 
+often instruct you to go to a speciﬁc Script, progressing the story 
+or bearing the consequences.
+The  instructions in  the  Script may often instruct you to  discard 
+the Secret you just drew. Whenever Secrets are discarded, they are 
+always placed back in the Secrets deck.
+You are instructed to
+in the Adventure Journal. You move the 
+from space 1 to the Secret card (Event) and continue reading the
+ Adventure Journal until it tells you to Continue the Exploration. Then, you 
+discard the
+, ﬂip the Secret, and follow the instructions written there.
+The story provides hints about what might occur when the Event 
+card is triggered. Event cards may alter the situation on a Location 
+map and may even bring an Exploration to an end. Additionally, 
+the side of the Time token also serves as a hint about whether or 
+not you should hurry.
+– the current Event ends the Exploration. 
+– current Event changes something (the story might 
+hint at what might happen) but does not end the Ex-
+ploration.
+Slots
+Often, you will ﬁnd slots printed on the Location maps. A slot al-
+ways consists of a circular space for a token (A or B) and a Roman 
+numeral. Slots might be situated next to a speciﬁc Script (hinting 
+that the token placed there changes something in this location) or 
+next to the Time track (this placement is used for global or secret 
+changes).
+The instructions in the Adventure Journal may tell you to:
+Place token X in slot Y: place the mentioned token (A or B) 
+in the correct slot on the Location map. 
+Having a token in a slot changes the interactions in the Adventure 
+Journal. The Adventure Journal may check if you have a token and 
+redirect you accordingly.
+If  token X is in  slot Y: check if  the  mentioned token is 
+in the slot. If it is, follow the instructions there. If there is 
+more than one such sentence, check them in order from 
+top to bottom.
+Slot III in the example above is situated next to the A35 and the library 
+building. Having a token in this slot may change interactions in Script A35.
+Lock/Unlock Script
+Some of your decisions may unlock new options (e.g., you found 
+a passage and are now able to reach the other side of the river) or 
+lock the available ones (e.g., you offended a merchant, and they are 
+no longer willing to talk to you).
+Lock Script X: take a  Universal token and place it on 
+the mentioned Script so that the token covers the Script. 
+Such Scripts are considered Locked. You cannot choose 
+Locked Scripts during Exploration.
+Unlock Script X: discard the Universal token from a Script. 
+It becomes available again.
+Resolving Combat in Exploration
+During Exploration, you may also be instructed to start a Combat – 
+this doesn’t end the Exploration (unless the Adventure Journal tells 
+you to end the Exploration beforehand). Instead, when this happens, 
+set aside the Location map with all tokens and Secrets on it (including 
+the Event) and resolve the Combat.
+End of Exploration
+The  Exploration ends when you encounter the  “end the  Explo-
+ration” instruction. You may ﬁnd it on an  Event card, as a  part 
+of the story in the Adventure Journal, and sometimes, you’ll have 
+a choice to end the Exploration on your own. When you end the Ex-
+ploration, follow the steps below:
+Discard all Secrets from the Location map – place them 
+back into the Secret deck. 
+Discard the Event – place it back into the Secret deck. 
+Discard all tokens from the map.
+Do not discard tokens and Secrets placed in front of you!
+Close the Location map book. 
+When the Exploration ends, the Adventure Journal instructs you 
+what to do next.
+
+Combat
+Combat in Dragon Eclipse is a turn-based confrontation that takes place in an Arena between your Mystling and an Enemy. Throughout a sin-
+gle Scenario, you may participate in multiple Combats. The Adventure Journal always provides you with information on when a Combat begins 
+and which components to use.
+Combat may occur during the “Exploring Location maps.” When this happens, set aside the Location map with all tokens and Secrets on it (do 
+not discard them) and resolve the Combat. This doesn’t end the Exploration.
+Combat Components
+The description of the most important components used in Combat are below:
+Arena maps.
+Arena cards.
+Player’s Mystling: Stat and Ability cards.
+Enemy Mystling: Stat and Enemy Ability cards.
+Arena maps
+Arena maps can be found in the Arena book. Each Combat, in which you ﬁght and try to Tame an Enemy, is played on an Arena map. While 
+there are a few Arena maps, each Arena has spaces to which you and your Enemy can move. Some of the Arena spaces are marked with icons: 
+, I, and II (and III for 2 players) that are used during Combat Setup and may be checked by some Enemy Attack or Action card 
+effects. These spaces do not have an effect on their own.
+Each Arena has slots for the following components:
+Enemy sheet: place for two (or more) cards that create an Enemy sheet. 
+2. Enemy deck: place for Enemy Attack cards, which you prepare before each Combat. To the right of that space, are ﬁve spaces for re-
+solved Enemy cards.
+3. Enemy discard pile: place for discarded Enemy Attack cards.
+4. Arena card: place for an Arena card. Each Combat has its own Arena card, and the Adventure Journal indicates which one to prepare.
+5. Your deck: place for your deck.
+6. Action slots: four slots for your available Action cards.
+Your discard pile: place for your discarded Action cards.
+: Always use the Arena designated for 2 players (marked with 
+). That Arena has a slightly different layout and doesn’t have a space 
+for the Enemy sheet.
+Arena cards
+You use an Arena card in each Combat. Arena cards modify the Are-
+na maps by placing Terrain and they instruct you which Script to read 
+when Combat ends.
+Tame – go to Script B83, win – go to Script B81, 
+lose – go to Script B82.
+SHORE
+Setup: Place a Berry 
+ space.
+Rules: When you move to or are placed 
+in a space with a Berry 
+, discard it and gain 1
+When an Enemy moves to or is placed in a space 
+with a Berry 
+, discard it without any effect.
+An Arena card.
+Arena cards consist of several elements:
+ID: a number speciﬁc to each Arena card.
+2. Name 
+3. Setup, Rules, and Bonus Actions: some Arena cards may 
+have additional Setup, Rules, or even Bonus Actions available 
+for you to use. Make sure to read them before starting Com-
+bat and apply Setup rules if there are any.
+4. End of Combat: Scripts to read upon ending Combat. If you 
+are involved in  a  Random Combat with an  Enemy, follow 
+the “End of Random Combat” instructions. Otherwise, fol-
+low the “End of Combat” instructions.
+Terrain 
+ / /
+Arena cards often instruct you to place Terrain on the Arena map. 
+They block spaces or have other effects connected to the environ-
+ment you are ﬁghting in. Use the Universal tokens shown on the Are-
+na card. The use of 
+ng in.
+f 
+ suggests that the Terrain effect is beneﬁcial 
+to you, while the 
+ indicates the opposite. Terrain rules are described 
+in the “Rules” section of an Arena card.
+Advanced Terrain rules are described on page 33 (Arena maps and cards).
+PLAYING THE SCENARIO – COMBAT
+
+To better understand what you will be doing during Combat, it is im-
+portant to get a look at your Mystling. Your Mystling is represented 
+by a standee which you move around the Arena and a Mystling sheet 
+that describes its abilities and statistics.
+You use your Mystling’s Special Ability and Action cards to  deal 
+Damage 
+ to  your Enemy. Damage is not discarded from your 
+Mystlings after Combat (it is, however, discarded at the end of each 
+Scenario).
+Note: Make sure to use the Stat card without the PvP layout since 
+the PvP version has different statistics used only in the PvP mode.
+Both the  Ability card (left) and Stat card (right) create a  Mystling 
+sheet, as shown below:
+A Mystling sheet consists of several parts:
+Mystling name.
+2. Mystling Element: determines the Element of your Mystling. 
+The Adventure Journal and some opponent attacks check it. It 
+also deﬁnes what type of Action cards you can use when Per-
+forming Deck Construction
+66A
+Some Mystlings may have subtype elements. Mystlings with 
+subtype elements are treated as if they had those elements 
+in addition to their main type for the purpose of Adventure 
+Journal, Actions cards, and Enemy Attack effect checks.
+However, you cannot use Bonus Actions related to subtype ele-
+ments, and you may choose a Mystling for a Scenario even if its 
+subtype matches the main element of your other Mystling.
+BOLB
+29A
+The Young Bolb is considered to have both Earth
+and Water Elements.
+3. Mystling Statistics: Willpower, Defense, Health, Attack, 
+and Swiftness values. Some effects may temporarily modi-
+fy the statistics of your Mystling either by increasing or de-
+creasing them, although no statistic can be reduced below 0.
+ Willpower: indicates how much 
+ is mitigated during 
+the Enemy “Deal 
+” effects.
+ Defense: indicates how much 
+is mitigated during 
+the Enemy Attack.
+ Health: indicates how much 
+a Mystling can gain be-
+fore losing the Combat.
+ Strength: indicates how much 
+a Mystling deals dur-
+ing Attack.
+ Swiftness: indicates how many spaces a Mystling can be 
+moved during Move. 
+4. Mystling Special Ability: a  unique action of  a  Mystling 
+that can be used following the Bonus Action rules.
+5. Elemental token limits: some Mystlings use Elemental to-
+kens and have special rules regarding them. If your Mystling 
+uses Elemental tokens, their sheet will contain information 
+about the token limit – you can never use more Elemental 
+tokens than described by the sheet. Stat cards are used by 
+both players and Enemies, so the token limit icon is usually 
+depicted as half-white and half-black, and the limit applies 
+for both players and Enemies. If the icon is only white or only 
+black, it applies only to players or Enemies respectively.
+A Mystling stat card with the Elemental token limit.
+Your Enemy during Combat is represented by a standee in the Arena 
+and an Enemy sheet that describes its abilities and statistics.
+An Ability card (sometimes more than one) and a Stat card create 
+an Enemy sheet.
+Note: Both Players and Enemies use Stat cards.
+Some Enemies may have more than one Enemy Ability card. In such 
+cases, place them next to each other. Some Enemies may also use 
+cards with Summons. Summons are described in the Advanced Rules 
+section of this rulebook (page 15).
+108A
+Golomo
+Rush. Attack. Place 1 Quake 
+in range 1.
+Place 1 Quake 
+ in range 2. 
+Attack. Rush.
+Each opponent gains 3
+ for each 
+Quake 
+ within range 2 of that opponent.
+PASSIVE
+Golomo has +1 
+ for each Quake 
+within range 1 of it.
+Attack. Rush +2 
+. Attack.
+Attack.
+These cards together create an Enemy sheet. It consists of several 
+parts:
+Enemy name.
+2. Element.
+3. Enemy token limit: indicates how many Elemental tokens 
+the Mystling can place/gain.
+4. Enemy Statistics: works in the same way as the Player’s Mys-
+tling statistics.
+5. Enemy Passive: permanent ability of  an  Enemy that  lasts 
+throughout the Combat.
+6. Enemy effects: tells you what an Enemy can do during their 
+activation. The Enemy resolves its action based on the cur-
+rent Enemy Attack card.
+Enemy Special Ability: an  Enemy Special Ability resolved 
+every few turns, after reaching the Special Ability token.
+108B
+SPECIAL ABILITY: 3
+Enemy deck: 2
+Golomo
+8. Setup Special Ability: indicates in  which Enemy slot you 
+must place the Special Ability token.
+9. Setup Enemy deck: informs you which Enemy Attack cards 
+you must use to create the Enemy deck at the start of Com-
+bat.
+Player’s Mystling
+Enemy Mystling
+
+Combat setup
+The Adventure Journal tells you which components to use for the Arena and your Enemy. In Random Combats, a Tier card tells you which components to use. Random Combats are described in the Advanced Rules 
+section (page 32).
+Solo Combat Setup.
+Two Player Combat Setup.
+
+p
+– Setup Combat:
+Arena: card 8, map 3.
+Enemy Darktailen: cards 40, 41, and 42.
+ Major Corruption: C.
+Setup instructions in the Adventure Journal.
+To setup a Combat, follow the steps below:
+Prepare the Arena: open the Arena book to the Arena map 
+indicated by the Adventure Journal.
+: Use the  Arena designated for  2 players 
+(marked with
+2. Setup the  Arena card: take the  Arena card indicated by 
+the Adventure Journal out from behind the Arena divider. 
+If the Arena card has “Setup” rules, resolve them now.
+3. Prepare tokens and markers: place all damage tokens 
+Elemental tokens, Power markers 
+, and condition tokens 
+near the Arena so you can easily reach them.
+4. Prepare the Enemy
+Assemble the  corresponding Enemy standee and 
+place it in space I in the Arena.
+Take all Enemy Ability, Stat, and Taming cards listed 
+by the Adventure Journal from behind a divider with 
+an Enemy name (e.g., the Golomo divider).
+Note: You will not always use a Taming card. 
+Flip the Enemy Ability card to its B-side, then set up 
+the Enemy for Combat (steps d-f) using the infor-
+mation there.
+Place a 
+ on a  space of  the  Enemy track, 
+indicated by the number on the Enemy Ability card 
+next to “Special ability”.
+Create an  Enemy deck using Enemy Attack cards 
+listed on the  B-side of  the  Enemy Ability card. 
+Shufﬂe these Enemy Attack cards and place them face 
+up in the Enemy deck space (see the example below).
+: Use the  Enemy deck marked with 
+This deck has a slightly different layout containing 
+information about the  target. 2-player versions 
+of Attack cards with the same symbol are not iden-
+tical – when you set up an Enemy Attack deck using 
+multiple cards with the same symbol, choose them 
+randomly.
+For example, when you set up a deck with 2 
+cards, take all 4 cards with 
+ and randomly 
+choose 2 of them. Try not to look at their fronts 
+while preparing the rest of the Enemy deck.
+The Golomo Enemy has its Special Ability in the third slot. 
+The Enemy deck consists of 2
+, and 2
+ shufﬂed together.
+If the Enemy has “Additional setup” instructions, re-
+solve them now.
+g.
+Flip the Enemy Ability card to the A-side and place 
+both the  Enemy stat card and Enemy Ability card 
+in the Enemy sheet slot creating the Enemy sheet. 
+Some Enemies may have an additional card for its 
+Special Ability or its Summons. Place such cards 
+near the Enemy sheet.
+near the Enemy sheet.
+: Place these cards next to  the  Arena, since 
+there is no Enemy sheet slot.
+h.
+If  the  Enemy has a  Taming card, place it next 
+to the Arena so that you can easily read it.
+: Find and attach a Major Corruption card listed in the Ad-
+venture Journal to the opponent. Major Corruptions increase 
+Enemy stats.
+5. Prepare your Mystling:
+Choose one of the Mystlings you chose for the Sce-
+nario. Place the chosen Mystling’s standee in start-
+ing space II.
+g p
+: One player places the  Mystling they chose 
+at the  start of  the  Scenario in  starting space II. 
+The other player takes the remaining chosen Mys-
+tling and places it in starting space III. Players should 
+sit on the opposing sides of the Arena. Each player 
+resolves the steps below (b-g) for their Mystling.
+Take the chosen Mystling’s Stat card and Ability card 
+from the  Mystling tray. Then, connect them face 
+up in order to create a Mystling sheet and place it 
+nearby.
+Take all 
+ from that Mystling’s tray and 
+place them on the Mystling sheet. 
+Take the Mystling’s Action deck. Shufﬂe it and place 
+it face down in the deck slot.
+Draw four Action cards (one by one) and, starting 
+from slot 4, place one card in each slot to the right 
+of your Action deck. 
+Take a Combat tags Help card as well as a Help card 
+with the same Element as the main Element of your 
+Mystling.
+: Use Help cards marked with a 
+ icon.
+COMBAT TAGS
+Attack – deal 
+ equal to 
+ in range 1. 
+Reduce it by the opponent’s 
+Blink X – place your Mystling in any space in range X.
+Cleanse X - discard X condition token.
+Heal X – discard X
+Interrupt X – discard X rightmost cards 
+from the opponent’s track. 
+Move – move by up to 
+ spaces. 
+Retreat / Rush – the Enemy moves by up 
+to its 
+ so that it ends in a space farthest/closest 
+to its target.
+(Drain) – Heal by the 
+ dealt.
+(Pierce X) - treat Enemy 
+ as X lower 
+(to a min. 0).
+FIRE ELEMENT
+Each Bonus Action can be used 
+Combat tags and Elemental Help card.
+6. Mulligan: you may choose to redraw the Action cards once. 
+To do so, take all cards from your slots, put them aside, 
+draw four new cards, and shufﬂe the previous ones back 
+into the deck.
+: Assign the Taunt token: choose a player to receive 
+the Taunt token.
+8. Modiﬁers: Adventure Journal often has modiﬁers that 
+change the setup conditions. Check if there are modiﬁers 
+in the Combat setup and apply them if needed. Some of 
+them may affect previous steps.
+
+Combat rules
+Combat in Dragon Eclipse is played in turns. Turns are taken alter-
+nately, starting with the player. Combat ends with you losing, win-
+ning, or Taming the Enemy. It’s worth noting that not all Enemies 
+can be Tamed; the Adventure Journal provides information about 
+whether the Enemy is valid for Taming or not.
+Combat ends immediately when one of the following three condi-
+tions is fulﬁlled:
+LOSE: your Mystling has as many or more 
+: Players lose when one of  their Mystlings has as 
+many or more 
+TAME: when you fulﬁll all Taming conditions from the Tam-
+ing card.
+WIN: when the  Enemy has as many or more 
+Actions
+During your turn, you resolve Action cards and use Bonus Actions. 
+You can never act with your Mystling unless the effect on a card 
+or Bonus Action allows you to do so (e.g., you may only Move with 
+your Mystling when you resolve a card/Bonus Action with the Move 
+keyword).
+: Each player controls their own Mystling. The turn order 
+is slightly different, as the player with the Taunt token resolves 
+their turn ﬁrst, followed by the other player, and then the En-
+emy has its turn. Then, back to the player that currently has 
+the Taunt token, and so on.
+During a Player’s Turn, resolve the following steps in order
+1. Use Bonus Action(s) (optional).
+2. Resolving an Action card.
+3. Use Bonus Action(s) (optional).
+4. Draw cards.
+5. End your turn and proceed to the Enemy turn.
+Golden Rules of Combat
+The effects on cards may overwrite some of the rules 
+described in this rulebook. The rules on cards always 
+take priority.
+2. When more than one effect takes place at the same 
+time (e.g., at the start of your turn), you may decide 
+which one to resolve ﬁrst – you also decide for the En-
+emy’s effects.
+3. When, during an  Enemy turn, an  effect leaves you 
+with more than one option (e.g., the Enemy may move 
+to two different spaces), you may decide which option 
+to choose.
+4. Mystling standee can never be moved to  or placed 
+in a space with another Mystling standee.
+5. Treat the Enemy as your opponent for the purpose of all 
+your effects. The  Enemy treats you as the  opponent 
+for the purpose of its effects.
+Action card effects
+During Combat, you use your Action cards to act with your Mys-
+tling.
+There are three different types of Action card effects in the game:
+Active effects: most Action cards have effects that are re-
+solved immediately. These effects are not distinguished by 
+any additional frame.
+Strike only has an active effect.
+2. Passive effects: some Action cards have effects that last as 
+long as the cards are at the top of your discard pile. When 
+a passive card gets covered by another card, the passive ef-
+fect no longer applies. Cards that have passive effects may 
+still have active effects (see below). Passive effects are in-
+side a frame (see example below).
+DE-CB-26/125
+DEFENSIVE STANCE
+, +2 
+Defensive Stance has an active effect that gives a player 1
+and a Passive effect that increases a Mystling’s Defense
+and Willpower.
+Note: You may discard Action cards (e.g., by using the Pre-
+pare Bonus Action) to beneﬁt from their Passive effects.
+3. Upgrade effects: some Action cards have long-lasting ef-
+fects that apply as long as you do not reshufﬂe your deck. 
+When you play an  Action card that  has an  Upgrade 
+frame (see example below), attach it by placing it un-
+der your Mystling sheet so that  the  effect in  the  frame 
+is visible. From this moment on, the  effect applies. 
+When you reshufﬂe the  deck, discard your upgrades 
+and reshufﬂe them with the  rest of  your Action cards.
+You may only have 1 Upgrade card attached to  your 
+Mystling sheet at any time. If  you already have 
+an  Upgrade attached and you resolve another card 
+with an  Upgrade, you must discard one of  them.
+Cards that  have Upgrade effects may still have Active ef-
+fects. Resolve them before attaching Upgrade to your Mys-
+tling sheet.
+DE-CB-21/125
+REACH
+Your Attacks have +1 range.
+Reach has both Active and Upgrade effects.
+Basic keywords
+Most effects in  the  game use keywords to  describe the  Action 
+in a shortened way. Keywords on Action cards are bolded.
+At the  start of  the  ﬁrst Scenario, you gain the  Starting deck 
+(marked with an “S” in the top right-hand corner). The keywords 
+in the Starting deck are explained on cards to make it easier to learn. 
+More Advanced keywords are explained at the end of the rulebook 
+(Combat keywords are also listed on the Help card), but you don’t 
+need to learn them for now; they are slowly introduced throughout 
+the game.
+Range: many effects in  the  game use the  term range. 
+While range is not a keyword on its own, it often modiﬁes 
+other keywords and effects. When range is mentioned, it 
+always assumes a maximum range of a given Action. Ac-
+tions and effects may always target spaces that are closer 
+than the maximum range. You may count range through 
+any space, even if it’s occupied by a Mystling or a token 
+(i.e., nothing blocks range unless the effect states other-
+wise). The range is measured in spaces.
+Spaces marked in green are within range 1 of the Young Iceling 
+(located in the 
+ space). All spaces marked in orange are within range 2 
+of the Young Iceling. All spaces marked in red are within range 3 
+of Young Iceling. The space with the Young Iceling 
+on it is considered to be within range 1, 2, and 3.
+Move: check the Mystling’s 
+ value and move to an ad-
+jacent space up to X times (where X is your 
+ value). You 
+move a Mystling one space at a time, but in one Move 
+action, you may move several spaces. Some effects dur-
+ing the game may modify Move. When you are instructed 
+to “Move +1 
+” consider your movement value to be 
+1 greater for this movement.
+
+The player resolves Move with their Young Emberling, 
+allowing them to move up to two spaces. The player decides to move 
+as far away as possible from the Golomo.
+Attack: check if the opponent is within range 1 of your 
+Mystling. If they are, subtract the opponent’s 
+your 
+ (to a minimum of 0), and deal 
+ to the Enemy 
+equal to the result. Otherwise, nothing happens.
+Deal X
+ in  range Y: check if  the  opponent is within 
+the mentioned range of your Mystling. 
+If  they are, subtract the  opponent’s 
+ from the men-
+tioned 
+(to a minimum of 0) and deal 
+ to the Enemy 
+equal to the result. Otherwise, nothing happens.
+For example, if you “Deal 2
+ to opponent in any range” and 
+the targeted Enemy has 1 
+, you would deal 1
+ to them.
+For effects that state “For each (…) deal X 
+” add all 
+before subtracting the Enemy’s 
+Trigger: you may only use Trigger once per turn. Ignore 
+all Trigger effects after the  ﬁrst one. When you Trigger, 
+resolve another card from your slots (do not gain 
+from its slot) and discard it. Then, end resolving the card 
+that caused the Trigger and discard it. See the Trigger ex-
+ample in “Example of Players Turn” (page 20).
+Slot X: if this card is in slot X, you resolve an additional ef-
+fect. 
+For example, the card has an effect: “Gain 1
+. Slot 3: 
+Gain 2
+.” If this card is in slot 3, you get 1
+and then 
+also 2
+Modiﬁers
+Effects and keywords on cards may be modiﬁed. Modi-
+ﬁers commonly increase or decrease the  values of  Mys-
+tling’s statistics for  the  purpose of  that  singular effect
+(e.g.,” Attack +2
+”). Modiﬁers may also be applied to effects on 
+other cards (e.g., “Your Attacks have +1 range”).
+Example: A player resolves the effect “Move +1 
+” with a Mystling 
+that has 2 
+. As a result, they may move up to 3 spaces.
+Player’s Turn
+Each Player’s Turn consists of  resolving one Action card, which 
+in turn allows you to act with your Mystling. Additionally, you may 
+use Bonus Actions by spending 
+: Turn order is slightly different, as the  player with 
+the Taunt token resolves their turn ﬁrst, followed by the other 
+player, and then the Enemy has its turn. Then, back to the play-
+er that currently has the Taunt token, and so on.
+During a Player’s Turn, resolve the following steps in order
+1. Use Bonus Action(s) (optional).
+2. Resolving an Action card.
+3. Use Bonus Action(s) (optional).
+4. Draw cards.
+5. End your turn and proceed to the Enemy turn.
+Using Bonus Actions
+Bonus Actions are players’ Actions that  may be performed by 
+spending their cost in Power 
+. Bonus Actions are found on El-
+emental Help cards, Ability cards, and sometimes, even on Action 
+cards or Arena effects. Bonus Actions found on Help cards are al-
+ways available.
+All Bonus Actions follow the same rules:
+Each Bonus Action may only be resolved once per Play-
+er’s turn. E.g., if you used the Dash Bonus Action in step 1 
+of your turn, you cannot resolve it again during this or any 
+other step. However, you may still use the Prepare Bonus 
+Action if you haven’t used it yet.
+All Bonus Actions cost 
+. You must spend the number 
+of 
+indicated to the left of the Bonus Action to resolve 
+its effect.
+2. Resolving an Action card
+The main part of a Player’s Turn is resolving an Action card. To re-
+solve an Action card, follow the instructions below in order:
+Choose an Action card slot with a card in it.
+Note: You may choose any card from your slots. 
+Even if the effect of the card wouldn’t do anything 
+(e.g., the effect of the Action cards is Attack, but 
+there is no opponent in range 1).
+Gain as many 
+ as shown above that slot.
+If a player chooses slot 4 
+with an Offensive Stance Action card, they gain 3
+before Resolving the Offenisive Stance effect.
+Resolve the effect of the card from the chosen slot 
+(reading the card from top to bottom, left to right). 
+You must resolve all effects on cards unless you are 
+unable to do so (e.g., there is no opponent in range)
+or the effects stated otherwise (e.g., “You may…”).
+Place the resolved card face up on top of the Action 
+cards discard pile. 
+: Taunt change – whenever a player deal 
+to an Enemy 
+during their turn, and they don’t have the Taunt token, they take 
+it from the other player. Dealing Conditions or interacting with the 
+Enemy in other ways does not give you the Taunt token. The Enemy 
+will (most likely) target the player with the Taunt token during their 
+next activation. Using this effect intentionally is a great strategy. 
+ Taunt token.
+3. Use Bonus Actions
+Follow the rules from step 1. Remember that each Bonus Action 
+may only be used once per turn.
+4. Draw new cards
+Slide all Action cards in the slots from left to right to ﬁll empty 
+slots. Then, draw new Action cards to ﬁll the remaining empty slots, 
+starting from the rightmost empty slot.
+There are a few keywords connected to deck manipulation:
+Draw: whenever you draw a card during Combat, slide all 
+cards in the slots from left to right to ﬁll empty slots (if any). 
+Then, take the topmost card from your deck and place it 
+in the rightmost empty slot. When you need to draw a card 
+and your deck is empty, you must reshufﬂe.
+Reshufﬂe: when you must draw a card and your deck is 
+empty, discard all your attached Upgrades, shufﬂe your 
+discard pile, and create a new deck. Some card effects may 
+also allow you to reshufﬂe your deck.
+Shufﬂe: some in game effects tell you to shufﬂe your deck. 
+Do this by taking your deck and shufﬂing it. Do not take 
+cards from your discard pile and do not discard your at-
+tached Upgrades.
+5. End your turn and proceed to the Enemy turn
+Resolve end of turn effects in an order of your choice. 
+Discard 1 Condition token of each type, if you have 
+any (for details about Condition tokens, see page 32).
+Start the Enemy turn.
+
+A useful resource used by players. It is mainly gained during Com-
+bat by resolving Action cards from speciﬁc slots in step 2 and from 
+Action card effects, but it can also be gained during the Adventure 
+part of the game. Usually, you start Combat without any 
+unless 
+you gain it during the Adventure.
+Additional rules regarding 
+When you discard
+, return it to the pool. If you don’t 
+have the required amount of 
+, discard as much as you 
+can and ignore the rest.
+When you spend
+, you must have that amount of 
+If the instructions tell you to “Spend 2
+ to Trigger” and 
+you only have 1
+, you cannot activate this effect.
+All 
+ is discarded after Combat.
+ during Combat, place that many 
+on your Mystling sheet. 
+ during Adventure, divide it between your 
+Mystlings as you wish and place it inside the Mystling tray. 
+ gained during Adventure is used in the next Combat.
+ is a limited component. Each Mystling can have 
+a maximum of 10
+ at any moment (a Mystling cannot 
+ if it already has 10).
+List of common Bonus Actions:
+Bonus Actions on a Help card.
+Dash: spend 1
+ to resolve the Move action following movement 
+rules.
+Prepare: spend 1
+ to discard an Action card from a chosen slot. 
+Slide Action cards to the right to ﬁll the empty slots. You may draw 
+a new Action card and place it in the rightmost empty slot (usually, 
+slot 1).
+Elemental Bonus Action – each Element has 1 unique Bonus Ac-
+tion listed on that element’s Help card. Elemental Bonus Actions 
+are available only to Mystlings with a matching main element.
+Fire Mystlings may spend 5
+ to resolve an Attack 
+as a Bonus Action.
+Special Ability Bonus Action – each Mystling has 1 or more unique 
+Bonus Actions that are available only to them. You can ﬁnd it on 
+the Ability cards.
+A player controlling the Young Emberling may spend 8
+ to re-
+solve Firenova, which allows them to Deal 6
+in range 3. 
+Example of a Player Turn
+The player resolves Combat. They have the Young Emberling and 
+ﬁght against Golomo. The player is about to resolve their second 
+turn in Combat. They have 2
+ and 2
+, while the Enemy Golomo 
+has no 
+ yet.
+First, the player may use Bonus Actions, but they decide not to. 
+The player then chooses a Lava Lash Action card in the 4th slot.
+First, the player gains 3
+ from the slot.
+Then, they resolve the  Lava Lash effect from top to  bottom, 
+left to  right. The  ﬁrst part of  the  effect (marked with blue) 
+allows the  player to  “Deal 3
+ in  range 3”. Since Golomo 
+is within that range and has 0 
+ it receives 3
+
+The second part of the effect is optional as it says “You may spend 2
+to Trigger”. The player decides to use this option. They spend 2
+choose to Trigger the According to Plan in the 3rd slot (they do not 
+from its slot).
+As before, they resolve the card from top to bottom left to right. 
+The ﬁrst part of the effect allows the player to Move. Young Ember-
+ling has 2 
+, so the player can move up to 2 spaces. The player de-
+cides to move 1 space to be within range 1 of Golomo.
+The second part of the effect states “Slot 3: Attack”. This effect may 
+only be resolved if a card is in slot 3. Luckily, that’s the case, and 
+the player resolves the Attack.
+Young Emberling has 4 
+ and Golomo’s 
+ stat is 0. But Golomo 
+has a Passive ability that gives it +1 
+for each Quake in range 1. 
+So Golomo has a total of 2 
+ now.
+This means that Young Emberling Attack is reduced by 2 and deals 
+a total of 2
+The  player fully resolved the  Triggered Action card (According 
+to Plan), so they discard that card. Then, they discard the Action card 
+that caused the Trigger (Lava Lash).
+The player cannot resolve more Action cards this turn, but they may 
+still use Bonus Actions. The player decides to use the Dash Bonus 
+Action. They spend 1
+ to Move.
+They can move up to 2 spaces and decide to use their full 
+ this 
+time, moving as far as they can.
+Then the  player also decides to  use the  Prepare Bonus Action, 
+spending 1
+ to discard a card and draw 1 card.
+They discard Guardian Stance, slide all cards to the right and draw 
+1 new card to slot 3. The passive effect of the Guardian Stance card 
+applies, so Young Emberling has 2 
+ now.
+The player decides to end their turn since there is nothing more 
+they can do: they cannot afford their Special Ability and Elemental 
+Bonus Action, and they already used both Prepare and Dash Bonus 
+Actions this turn. They have 1
+ left, which may be used during 
+their next turn.
+The player would normally slide the cards to the right to ﬁll the emp-
+ty slots, but their Action cards are already in the rightmost slots be-
+cause they used the Prepare Bonus Action. So the player only reﬁlls 
+the empty slots by drawing new cards. The player’s turn ends. Now 
+the Enemy resolves its turn.
+
+Enemy Turn
+After the player’s turn, it’s time for the Enemy to act. 
+: Remember that  the  turn order is different. First, it is 
+the  turn of  the  player with the  Taunt token, then the  other 
+player, and ﬁnally the Enemy. After the Enemy turn, the player 
+with the Taunt token has their turn, and so on.
+Enemies have several different effects that can be resolved based 
+on their Enemy Ability card. The Enemy is going to resolve an ef-
+fect matching the  top Enemy Attack card that  is always visible 
+to the player.
+Enemy Turn Order
+During its turn, an Enemy resolves one of their effects. Every few 
+turns, the Enemy resolves its Special Ability. To resolve an Enemy 
+turn, follow the steps below.
+Slide cards. Draw an Enemy Attack card.
+Resolve the Enemy Attack card
+Check and resolve the Special Ability.
+Enemy turn ends. Resolve the player turn.
+Slide cards. Draw an Enemy Attack card: slide all Enemy 
+Attack cards by one slot to the right (in rare cases, when 
+you would need to slide the card from slot 5, place it on 
+the discard pile instead). Then, take an Enemy Attack card 
+from the top of the deck and place it in the 1st slot.
+If the Enemy deck becomes empty at any moment:
+You gain 1 Fatigue and place it on the top of your discard 
+pile – Fatigue cards are not removed after Combat. They 
+are placed in your deck during a single Scenario and may 
+be removed either by playing them during Combat or by 
+various effects during the Adventure.
+If there are no more Fatigue cards available, gain 5
+in-
+stead.
+Reshufﬂe the  Enemy Attack discard and create a  new 
+Enemy deck – do not discard Enemy Attack cards from 
+the track.
+: When the Enemy Attack deck runs out, only the play-
+er with the  Taunt token takes the  Fatigue card (regardless 
+of the Enemy target).
+DE-CB-125/125
+FATIGUE
+2. Resolve the Enemy Attack card: check the Enemy Attack 
+card in the 1st slot. Resolve the corresponding effect from 
+the Enemy Ability card. Then, ﬂip the resolved Enemy At-
+tack card face down. When resolving the  Enemy Attack, 
+treat your Mystling as the “opponent”.
+The Enemy will resolve the 
+ effect during their next turn: 
+“Attack +2 
+ Attack.” This happens after sliding the cards 
+and placing the topmost one in the 1st slot.
+: Use the Enemy Attack cards with 
+. These cards show 
+you what the Enemy does, but you won’t know which player 
+will be the target. The target is chosen after sliding and draw-
+ing cards – it is shown by the card that is on the top of the En-
+emy Attack deck.
+The Enemy resolves its attack treating the target as an oppo-
+nent. If the Enemy effect says “Each opponent” then the effect 
+applies to both players (otherwise, the non-target player is ig-
+nored by all the Enemy’s actions).
+The target can be:
+Taunt: the Enemy targets the player with the Taunt 
+token.
+Other: the  Enemy targets the  player who  doesn’t 
+have the Taunt token.
+3. Check and resolve Special Ability: if  there is an  Enemy 
+Attack card above the Special Ability token, resolve the En-
+emy Special Ability and discard all Enemy Attack cards from 
+the Enemy slots.
+4. Enemy turn ends. Proceed to the Player’s turn.
+Resolve end of  turn effects in  the  order of  your 
+choice. 
+Discard 1 Condition token of each type from the En-
+emy, if it has any (for details about Condition tokens 
+see, page 32).
+Start the Player’s turn.
+Enemy Keywords
+Many keywords you use as a player are also used by the Enemy and 
+they work in the same or similar way (e.g., Attack and Deal
+However, there are two keywords connected to movement that are 
+speciﬁc to Enemies:
+Retreat:
+Enemy Retreat is resolved in a similar way to your Mys-
+tling’s Move. 
+During Retreat, the Enemy always moves to a space far-
+thest from you (i.e., space that is the highest range from 
+you), using the fewest number of possible moves.
+When an Enemy Retreats and they are already in the far-
+thest reachable space, they don’t move.
+If there are several spaces meeting these conditions, you 
+may choose to which of those spaces the Enemy Retreats.
+The Frightened Windraiser Retreats. It has 3 
+. There are 3 spaces 
+where the Frightened Windraiser can go to end its movement farthest 
+from its opponent (Young Emberling). The player decides to move it 
+to the top space.
+
+Rush:
+The Enemy’s Rush is resolved in a similar way to your Mystling’s 
+Move. 
+During Rush, the Enemy always moves to a space closest to you 
+(i.e., to  end within range 1 of  you if  possible), using the  lowest 
+number of possible moves.
+When an Enemy Rushes and they are within range 1 of you, they 
+don’t move.
+If  there are several spaces meeting these conditions, you may 
+choose to which of those spaces the Enemy Rushes.
+The Frightened Windraiser Rushes. It has 3 
+. It wants to end its move-
+ment as close to the opponent (Young Emberling) as possible so it won’t 
+use its full 
+. There are 2 spaces where the Frightened Windraiser can 
+move. The player decides to move it to the bottom space.
+Example of Enemy Turn
+Note: The Enemy turn example uses the Placing Elemental Token rules, which you are not familiar with yet (see page 24). You may read 
+the example without learning them right now.
+It’s the Enemy Golomo’s turn. First, slide all Attack cards in Enemy Attack slots to the right, making space in slot 1 for a new card. Then place 
+the top card of the Enemy Attack deck in slot 1 and compare its symbol to the Golomo Enemy Ability card. Then, resolve the corresponding effect.
+The effect is to “Place 1 Quake 
+ in range 2. Attack. Rush.” Resolve these effects from left to right, top to bottom. Place 1 Quake 
+ in range 2 
+in the space closest to the player’s Mystling (Young Emberling). There are two matching spaces (the space with I and the space with 
+). In such 
+cases, the player chooses where to place the token. They decide to place it in the I space. Then, the effect says “Attack.” Since the Golomo is not 
+in range 1 of the player’s Mystling, the Attack has no effect.
+The last part of the effect is “Rush.” The Golomo moves toward the player’s Mystling by 1 space since the Golomo has 1 
+. There are two spaces 
+(marked with green circles, see above) where the Golomo could move. In such cases, the player decides where the Enemy moves. The player 
+chooses the top space.
+The Enemy Attack card is now resolved – ﬂip it face down. There is no Enemy Attack card above the Special Ability token, so the Enemy does 
+not resolve the Enemy Special Ability. The Enemy’s turn ends.
+
+Other Combat Rules
+Elemental advantage
+The Elements in Dragon Eclipse interact with each other (each El-
+ement has an advantage over another). This is represented by ad-
+ditional effects that can be found on certain Action cards/Enemy 
+Ability cards.
+The diagram above shows Elemental advantage. Light and Dark are 
+each other’s opposites. Fire uses Air as its fuel. Air can penetrate cracks 
+in Earth’s armor. Earth is the only power that can stop Water. Water is 
+perfect to quench Fire. You don’t need to remember this – it is always stated 
+in the effect.
+Advantage icons
+Advantage icons are always followed by an effect. Resolve the ef-
+fects only if your opponent’s Element matches the shown icon (this 
+also applies to subtype Elements).
+DE-CB-111/125
+DE-CB-111/125
+STORM
+ and Weak to each other Mystling 
+(including allies) in any range.
+ Deal 3
+For example, when you resolve the Storm card 
+and your opponent’s Element is Fire, you also resolve 
+the “Deal 3
+in any range” effect.
+Advantage icons used by Enemies work in  the  same way. Apply 
+these effects only if your Mystling has an Element that matches 
+the shown icon (this also applies to subtype Elements).
+: Resolve the Advantage icon effect only if the current tar-
+get has a matching Element.
+Elemental tokens
+Some Action cards, Bonus Actions, or Enemy effects can place 
+Elemental tokens in  the  Arena or gain the  tokens for  Mystlings. 
+The  name of  the  token is always followed by the  Elemental to-
+ken icon (e.g., place 1 Quake 
+ in range 2.) Elemental tokens are 
+double-sided. The white side of the token is reserved for you and 
+the black side is used by the Enemy. Tokens do not have effects on 
+their own but they might be utilized by Special Abilities, Action card 
+effects, or Enemy Ability cards.
+When a Mystling gains a token, place it on that Mystling’s 
+sheet.
+Tokens are placed in the range mentioned by the effect.
+You: choose the space as long as it is in range.
+Enemy: the  Elemental token is placed as close 
+to you as possible (including the space with your 
+Mystling).
+They may be placed in the same space as a Mystling.
+Mystlings may move to and be placed in spaces with Ele-
+mental tokens.
+Tokens cannot be placed in a space with Terrain 
+There may only be one player token (white) and one En-
+emy token (black) in each space. 
+Token limit (top right-hand corner of a Mystling stat card) 
+deﬁnes how many tokens a Mystling may place/gain.
+If a token that is above the Mystling token limit would be 
+gained, ignore that gain.
+If a token that is above the Mystling token limit would 
+be placed:
+You: take a token that is already in the Arena and place 
+it. You may place that token in the same space.
+Enemy: take a  token that  is farthest from you and 
+place it as close to you as possible (as far as the range 
+of the effect allows).
+
+End of Combat
+Combat ends immediately when one of 3 conditions is fulﬁlled:
+LOSE
+If, at any moment, there are equal to or more 
+on your Mystling 
+sheet than the Mystling’s 
+, you immediately Lose the Combat.
+: If  only one of  the  players’ Mystlings has equal to  or 
+more 
+ than their 
+, you immediately Lose.
+WIN
+You may end Combat by defeating the Enemy. If at any moment 
+there is equal to or more 
+ on the Enemy sheet than its 
+, and 
+you didn’t fulﬁll all Taming conditions, you Win the Combat.
+For example, when you resolve a card with an effect: “Deal 2
+ in range 
+2. Heal 2.” If the “Deal 2
+ in range 2” part of the effect fulﬁlls the win 
+condition, you must immediately end the Combat and cannot resolve 
+the “Heal 2” effect.
+TAME
+Taming is more challenging than winning, but after you Tame an En-
+emy, it will join your ranks. However, if a Taming card wasn’t placed 
+during Combat Setup, the Enemy Mystling cannot be Tamed.
+To Tame an  Enemy, you must fulﬁll all conditions on its Taming 
+card in the presented order (from the ﬁrst to the last). This means 
+that you cannot fulﬁll the third Taming condition if you haven’t ful-
+ﬁlled the 1st and 2nd ones yet.
+When you fulﬁll a  condition, place token A  in  a  slot next to  it. 
+Conditions remain fulﬁlled even if the game state changes (e.g., 
+if the condition was to reduce the Enemy’s 
+, you fulﬁlled it, and 
+it Healed, the condition remains fulﬁlled).
+When you fulﬁll the last condition on the Taming card, you immedi-
+ately Tame the Enemy, and Combat ends. This happens even if an En-
+emy has equal to or more 
+A Taming card.
+Conceding
+We do not recommend it, but you can also decide to concede a ﬁght 
+at any time during the Combat. If you do, deal 
+ to your Mystling 
+so that their 
+ equals their 
+, and resolve the LOSE outcome. 
+If you do concede you cannot continue the Combat, even if the in-
+structions in the Script states otherwise.
+: Deal 
+ to both players’ Mystlings.
+After Lose/Tame/Win
+When one of  the  conditions above is reached, look at the  bot-
+tom section of  the  Arena card below “END OF COMBAT.” Go 
+to the Script matching the result and follow the instructions there. 
+If  you took part in  a  Random Combat, follow the  instructions 
+in the “END OF RANDOM COMBAT” sections of the Arena card.
+MOUNTAIN PINES
+Setup: Place an Unstable Cone 
+space except the one in the middle.
+Rules: When you move to a space 
+, discard it
+ and deal 2
+ to an opponent in range 2. 
+When an Enemy moves to a space 
+, discard that 
+Unstable Cone 
+ without any effect.
+Tame – go to Script J102, win – go to Script J100, 
+lose – go to Script J101.
+Behind the Mystling Encyclopedia divider, you gather Portraits and 
+Trivia of Mystlings you came across and Tamed during your journey. 
+These cards have no gameplay signiﬁcance, but you track your pro-
+gress and knowledge about Mystlings with them.
+In the  Special Edition of  the  game, use the  Mystling Encyclo-
+pedia binder instead of the divider. Slot Portrait and Trivia cards 
+in the slots matching the cards’ IDs.
+Portrait cards: if  you were ﬁghting against a  Mystling 
+for  the  ﬁrst time (regardless of  the  Combat outcome), 
+you will be instructed to take its Portrait card and place 
+it in  the  Mystling Encyclopedia. Place this card behind 
+the Mystling Encyclopedia divider.
+65A
+Young Emberling Portrait card.
+Trivia: Mystling trivia can be found on the  B-side 
+of the Taming cards. If you Tame an Enemy, you will be in-
+structed to take its Taming card, ﬂip it B-side up, and place 
+it in  the  Mystling Encyclopedia. Place this card behind 
+the Mystling Encyclopedia divider.
+Emberlings always lay two eggs. 
+When the ﬁrst egg hatches, the mother 
+leaves the nest, and from then on, it’s up 
+to the older (yet still young) Emberling 
+to care for its sibling. Fiery and energetic 
+from the moment it takes its ﬁrst breath, 
+it tends to the egg with surprising gentleness.
+64B
+Young Emberling Trivia.
+Adding cards to Random Combats
+The Adventure Journal often instructs you to add a Tier card to Ran-
+dom Combats. Almost every Mystling that you didn’t Tame will end 
+up in Random Combat, so you have a chance to Tame it using Es-
+sence (during the Navigating the World Map step) or encounter it 
+again during Random Combats. The  Random Combats and Tier 
+cards are described in detail on page 32.
+Add the  X Tier card to  the  Random Combats: ﬁnd 
+the mentioned Tier card in theTier deck, and place it be-
+hind the Random Combat divider.
+Removing Enemy cards
+When you Tame a Mystling, you no longer have a chance to see it as 
+your Enemy. That’s why the Adventure Journal instructs you to place 
+the Enemy Ability of the Tamed Mystling behind the Removed divid-
+er. This way, you can also use the Tamed Mystling dividers to organize 
+Mystlings in your Party.
+Clear the Arena
+The  Adventure Journal tells you when to  Clear the  Arena after 
+Combat. To do so, follow the steps below:
+Place your Action deck in  the  Mystling compartment 
+(along with all gained Fatigue cards).
+2. Place your Mystling’s Stat and Ability cards with all 
+3. Discard all your 
+ and Elemental tokens (they are not 
+saved between Combats).
+4. Place the Enemy cards behind the corresponding divider.
+Note: If you Tamed the Enemy, skip this step.
+5. Take all Enemy Attack cards and shufﬂe them together.
+6. Discard all components from the Arena.
+Close the Arena book.
+
+1. Gaining access to new Scenarios
+Take the World Map – take it out of the box and place it in front 
+You may be instructed to perform several steps:
+To ﬂip a Worldmap card, take it from the slot and ﬂip it to its Explored 
+side. This often means that a once available Scenario is now locked.
+You also gain new Worldmap cards and slot them in the cardholder. 
+Pay attention to which side up the cards should be and where to slot 
+them. Those cards offer new Scenarios or new Scripts to explore dur-
+ing the Navigating the World Map step.
+World Map cardholder with slotted card (after Scenario 1).
+2. Opening Boosters
+When you are told to open a Booster, choose a random Booster from 
+the game box and open it. Place all cards from the opened Booster 
+behind the Unlocked cards divider. These cards can be added to your 
+deck during the Deck Construction phase in subsequent Scenarios.
+In the  Special Edition of  the  game Boosters are sealed. To open 
+a Booster, you tear the foil package. After the Campaign, you may 
+reset the Boosters using the Unboxing instruction and Booster en-
+velopes.
+3. Gaining Advancement cards
+In addition to the starting cards (S) obtained in the ﬁrst Scenario, 
+there are other neutral cards that can be unlocked after each Scenar-
+io. These cards are included in the Advancement deck. There are two 
+Advancement decks: Advancement deck A, which is used at the be-
+ginning of the game, and the more powerful Advancement deck B, 
+unlocked later in the Campaign.
+Gain an Advancement card:
+Take all Advancement cards from your current Advancement 
+deck (in the ﬁrst few Scenarios, it will be Advancement deck A). 
+2. Draw 8 cards, with 1 fewer for each Fatigue in both Action 
+decks, to a minimum of 3 cards. Place them face up in front 
+3. Choose 3 cards and place them behind the Unlocked cards 
+divider. These cards can be added to  your deck during 
+the  “Performing the  Deck Construction” phase in  subse-
+quent Scenarios. Shufﬂe the  rest of  the  cards back into 
+the Advancement deck.
+4. Discard all Fatigue Cards
+Fatigue is not saved between Scenarios. Remove all Fatigue cards 
+from both Mystlings’ Action decks and place them with the  rest 
+of the Fatigue cards.
+5. Fully Heal your Mystlings
+ is not saved between Scenarios. Discard all 
+ from both Mys-
+tlings.
+6. Saving the game
+The game can be saved only after ﬁnishing a Scenario. The Adven-
+ture Journal tells you when you can save the game.
+To save the game, follow the instructions below:
+Place both Mystlings behind the Party Divider with the Ac-
+tion cards assigned to them. If you want to save the decks 
+you’ve constructed for them at the beginning of this Scenar-
+io, you may place them here as well.
+2. Place the rest of your Action cards behind the Unlocked cards 
+divider.
+3. Place your Equipment cards (remember that  you are limited 
+to 2), your Item cards (max. 3), and all your Secrets, Essence, and 
+Silver behind the Inventory divider.
+4. Return all remaining components to the box.
+AFTER THE SCENARIO
+This phase starts when you reach a Script in the Adventure Journal that says: “Congratulations! You’ve reached the end of the Scenario.” The text that follows contains instructions on how to end a Scenario. The fol-
+lowing steps are also listed in the Adventure Journal, so don’t worry about remembering them.
+
+Hard modes
+Available during the campaign.
+If you want to make your game more challenging, you can apply 
+the following rules. The Hard mode only affects the Combat part 
+of  the  game. You can switch to  Hard mode at any time during 
+the game (except during Combat). You can also resign from this 
+mode at any time if  you feel it doesn’t suit you. We advise you 
+to play the ﬁrst Scenario without hard mode.
+There are three ways to modify your game. We highly advise using 
+only one of them at a time.
+Corruption hard mode
+Available in solo and 2-player games.
+This mode increases the  opponent’s stats and may increase 
+the Combat duration.
+Rules: Before each Combat, draw one random Corruption card (see 
+page 32) for your Enemy and place it under its stat card. During 
+Combat, add the stats from the Corruption card to the Enemy. This 
+may cause the Enemy to have more than 1 Corruption card.
+: Slot the Corruption card under a Major Corruption.
+Unpredictable hard mode
+Available in solo games.
+This makes Combat less deterministic.
+Rules: Play with the Enemy Attack deck face down. During the “Re-
+solve the Enemy Attack card” step, ﬂip the topmost Enemy Attack 
+card and then resolve it.
+Steel hard mode
+Available in solo and 2-player games.
+This mode lowers the amount of Healing after Combat, making 
+each consecutive Combat during a Scenario more dangerous.
+Rules: Whenever you encounter this instruction: “Each Mystling 
+that  took part in  this Combat Heals up to  half (rounded down) 
+of their 
+,” instead resolve “Each Mystling that took part in this 
+Combat Heals 5. They cannot Heal to  more than half (rounded 
+down) of their 
+.”
+PvP mode
+Not available during the Campaign.
+In the PvP mode you can challenge your friends to an epic duel. All 
+Mystlings can compete with each other in PvP mode. Depending 
+on how much time you have, you can choose to play the following:
+Quick battle (30-45 minutes).
+Challenge (90 minutes).
+Both Quick battle and Challenge use the Combat (page 18) and 
+Deck Construction rules (page 7). You must be familiar with them 
+to play this mode. You can ﬁnd the rule changes for PvP below:
+You cannot Tame the opponent. To Win the Combat you 
+must make the  Enemy have equal to  or more 
+Use the PvP side of the Arena cards.
+When placing Elemental tokens, the ﬁrst player must use 
+the white side, and the other player uses the black side 
+of the tokens.
+Interrupt cannot affect the cards in slot 1 (they cannot be 
+discarded this way).
+Use the B-side of Stat cards (with “PvP” at the bottom).
+62B
+A PvP Stat card.
+Quick battle
+In Quick battle, each player controls one chosen Mystling, con-
+structs the deck for it, and ﬁghts with it. Players play their turns 
+alternately until one player wins.
+Quick battle setup
+Randomly choose the ﬁrst player.
+2. The  ﬁrst player chooses any Mystling and takes its Stat, 
+Ability, and Action cards. Then the other player do the same 
+thing.
+3. Simultaneously players construct decks for  their chosen 
+Mystlings, following all the Deck Construction rules with 
+the following exceptions:
+Divide all neutral cards into two piles so that each 
+pile has one copy of each card.
+Divide all Elemental Action cards into piles with 
+cards of each Element.
+Players receive one neutral card pile each (players 
+may also agree to trade some of the neutral cards). 
+If  players chose the  same Element type Mystling 
+and they cannot agree about who takes which cards, 
+they choose them one by one starting with the ﬁrst 
+If one of the Mystlings has a subtype Element, they 
+can choose Action cards for  their subtype after 
+the  other player ﬁnishes their deck construction 
+(they use the cards that are left).
+4. Players randomly select one of  the  Arena maps 
+(use 
+side).
+5. Players randomly draw one of the PvP Arena cards and fol-
+low all Setup instructions on it.
+6. The  ﬁrst player places their Mystling in  starting space I. 
+The other player chooses to place their Mystling in starting 
+space II or III.
+Players take their Action decks, shufﬂe them, and place 
+them in the Player’s deck slot face down.
+8. Players draw four Action cards (one by one) and places 
+them in slots 1-4 to the right of their Action deck.
+9. Starting with the  ﬁrst player, each player may decide 
+to perform a mulligan (see page 17).
+10. The second player gains 1
+11. The ﬁrst player starts their turn.
+Challenge
+In Challenge, players ﬁght each other in a series of rounds with each 
+player competing with 3 chosen Mystlings. Players have a chance 
+to switch Mystlings between rounds. Players perform their turns 
+alternately until one player wins the  round. To win a  Challenge, 
+a player must win 2 out of 3 rounds. This means that during a Chal-
+lenge, you play 2 or 3 rounds. The winner of the round cannot use 
+the Mystling they used in subsequent rounds.
+Challenge setup
+Randomly choose the host player.
+2. The host player chooses one Mystling and takes its Stat, 
+Ability, and Action cards. Then, the  other player does 
+the same thing and immediately chooses their second Mys-
+tling. The host player chooses their second and third Mys-
+tling. Finally, the other player chooses their third Mystling. 
+Players cannot choose a Mystling with a main Element they 
+already have.
+3. Divide all neutral cards into two piles so that each pile has 
+one copy of each card.
+4. Divide all Elemental action cards into piles with cards 
+of each Element.
+5. Players receive one neutral card pile each (players may also 
+agree to trade neutral cards).
+6. Simultaneously, players construct decks for  one of  their 
+chosen Mystlings, following all the Deck Construction rules 
+with the following exceptions:
+If  players chose the  same Element type Mystling 
+and they cannot agree about who takes which cards, 
+they choose them one by one starting from the host 
+If one of the Mystlings has a subtype element, they 
+may choose Action cards for  their subtype after 
+the  other player ﬁnishes their deck construction 
+(they use the cards that are left). 
+Repeat this process for the remaining Mystlings un-
+til each player has constructed 3 decks.
+ADDITIONAL GAME MODES
+
+Round set up:
+Only during the  ﬁrst round: Randomly choose the  ﬁrst 
+Players randomly select one of  the  Arena maps 
+(use 
+ side).
+Players randomly draw one of the PvP Arena cards and fol-
+low all the Setup instructions on it.
+The  ﬁrst player chooses one of  their Mystlings for  this 
+round. Then, the second player chooses their Mystling.
+The ﬁrst player places their Mystling in starting space I. 
+The other player chooses to place their Mystling in starting 
+space II or III.
+Players take the Action deck of their currently chosen Mys-
+tling, shufﬂe it and place it in the Player’s deck slot face-
+down.
+Players draw four Action cards (one by one) and place them 
+in slots 1-4 to the right of their Action deck. 
+Starting with the  ﬁrst player, each player may decide 
+to perform a mulligan (see page 17). 
+The second player gains 1
+The ﬁrst player starts their turn.
+After the round:
+If one player wins 2 rounds, they are the winner of the Chal-
+lenge and the Challenge ends.
+Otherwise:
+The  player that  won the  round places the  Mys-
+tling standee that  won the  round aside (marking 
+that they have 1 won round). They cannot use this 
+Mystling in subsequent rounds.
+Both players discard all 
+from their Mys-
+tling sheets.
+The  player who  lost the  round decides who  is 
+the ﬁrst player in the next round.
+Clear the Arena.
+Set up the next round following the Round set up steps.
+Roguelite mode
+Available solo or with 2 players.
+Not available during the Campaign. 
+Before starting the Roguelite mode, it is recommended to com-
+plete the Campaign.
+Game overview
+Players select one Mystling each and attempt to reach the 3rd Boss 
+by ﬁghting their way through a map. Each map features three stag-
+es. Each stage ends with a boss ﬁght. After each Boss, players are 
+able to save their game or continue playing. If you don’t succeed, 
+don’t worry! With the Silver and Essence you have collected dur-
+ing a Run, you are able to unlock additional perks and Mystlings 
+that can help you move through the maps.
+The  main loop of  a  roguelite session (called a  Run) is choos-
+ing a  space on a  map, resolving its effect (gaining a  reward or 
+resolving a  Combat), and then choosing another space until 
+you win the  Run by defeating the  3rd, ﬁnal Boss. If  the  Mys-
+tling of  any player has equal to  or more 
+you succumb to  wounds and exhaustions and lose the  Run. 
+In both cases, go to the Run Resolution.
+Roguelite Setup
+You only need to perform this setup once before beginning your 
+very ﬁrst Roguelite Run.
+If you haven’t already, open all boosters.
+Separate the Advancement cards into decks A and B.
+Prepare the  Elemental Action cards, dividing them into 
+separate decks for each Element.
+Place all Mystling cards (Stat, Ability, Enemy Ability, Tam-
+ing, Portrait, and Action) behind their corresponding di-
+viders.
+Prepare the Tier cards, dividing them into separate decks 
+for each Mystling Tier.
+Take the Equipment and Item decks and remove all cards 
+without the RL mark in the bottom right corner – these 
+aren’t used in  this mode. Leave the  remaining cards 
+in the play area.
+Prepare the Enemy Attack deck 
+: Use the Enemy deck marked with 
+Prepare Universal tokens, Condition tokens, Elemental to-
+kens, Damage tokens, and Power markers.
+Prepare standees.
+Take a new Roguelite sheet.
+Take all components exclusive to this mode: Roguelite 
+maps, Artifacts, and Mystery cards.
+Artifacts cards
+BLINKING STONE
+At beginning of your turn:
+exhaust to Blink 7.
+LO CKE D
+ARTIFACT
+BLINKING STONE
+Move at least 11 spaces 
+during one turn.
+A locked Artifact (left) and an unlocked Artifact (right).
+Artifacts are a new type of card, similar to Items and Equipment. 
+You unlock them during Roguelite Runs.
+Each Artifact card has locked and unlocked sides.
+Artifacts are one-time-use cards.
+: Artifacts are shared by players.
+After use, they are exhausted (rotate them 90 degrees 
+to mark that you can’t use them) until you reach the next 
+Campsite after Combat with a Boss.
+Before your very ﬁrst Run, all Artifacts are locked – their unlocked 
+sides should not be read.
+To unlock an Artifact, a player must fulﬁll the Achievement present 
+on the locked side of the card. After that, this Artifact is ﬂipped 
+and placed to the side until the Run resolution (you cannot use it 
+during this Run).
+: Players cannot unlock each other’s Artifacts.
+Mystery cards
+Discard 1 Silver.
+WISHING WELL
+Gain 2 Silver.
+OR
+Draw a random Enemy Attack card
+and resolve:
+Each player draws 3 cards from the 
+Advancement deck and chooses one:
+• Add one of them to your deck. 
+• Discard them and remove 1 chosen card 
+from your deck.
+Gain 3 Silver.
+Gain 5 Silver.
+Mystery cards represent random encounters and adventures. In 
+between Combats, players resolve at least one of those cards. Mys-
+tery cards are split into two sections: the top section allows players 
+to improve their Action decks by adding or removing cards, and 
+the bottom section has various effects that can grant Items, Equip-
+ment, and other advantages.
+
+Save Sheet
+Mystlings
+Starting Perks
+Artifacts
+Artifact Perks
+Darkness Mode
+Maps
+ 
+ 
+ 
+ Firple 
+ 
+ Prowler 
+ 
+ Young Alukah 
+ Young Iceling 
+ Golomo 2 
+ 
+ Regalian 2 
+ 
+ Young Emberling 2 
+ Young Gaiadon 2 
+ Eldrithia 3 
+ 
+ Elkthorn 3 
+ 
+ Furwing 3 
+ 
+ Glarexus 3 
+ 
+ Siren 3 
+ 
+ 
+ Young Bolb 3 
+ 
+ 
+ 
+ Young Shadeclaw 3 
+ Alukah 4 
+ 
+ 
+ Blazereef 4 
+ 
+ Bolb 4 
+ 
+ 
+ Chrysomallon 4 
+ Darktailen 4 
+ Emberling 4 
+ Iceling 4 
+ 
+ 
+ Luminesca 4 
+ Renewed Firple 4 
+ Shadeclaw 4 
+ 
+ Windraiser 4 
+ Artios 5 
+ 
+ 
+ Gaiadon 5 
+ 
+ 
+ 
+ 
+ Umbra 5 
+ 
+ 
+ Vogandr 5 
+ 
+X=3
+10 Silver
+X=2
+6 Silver
+X=1
+3 Silver
+Add X chosen Neutral cards to the deck 
+ 
+Add X chosen Elemental cards to the deck 
+ 
+Remove X cards from the deck 
+ 
+ 
+Gain X chosen Items 
+ 
+ 
+ 
+Gain X
+ 
+ 
+ 
+ 
+ 
+Gain X Equipment 
+ 
+ 
+ 
+ Blinking Stone
+ Emptying Book
+ Encased Crystals
+ Forgery
+ Gem of Growth
+ Guiding Grass
+ Infused Bracelet
+ Reshufﬂing Tome
+ Smithereens
+ Spare Soul
+ 1 Artifact Slot
+ Remove 1
+ + 
+ Unlock Advancement B
+ Unlock Taming
+ 2 Artifact slots
+ Unlock Darkness Mode
+ Remove Advancement A
+ Remove 1 additional 
+ Unlock 1 Mystling for free
+ 3 Artifact slots
+ Start of a Run: Gain 5 
+ Start of a Run: Remove 1 Mystling card
+ Start of a Run: Gain 1 Fatigue
+ Camp: Heal 5 less
+ Boss starts with 1 Coruption
+ Tier +1 (max. 5)
+ Elemental Ability cost +1
+ Special Ability cost +1
+ Gain only 1
+ from slot 2
+ Enemy setup: Special Ability slot -1
+ Map 1 
+ Map 2 
+ Map 3 
+ Map 4 
+Roguelite Mode
+This mode features a Save Sheet to track progress and achievements. It is divided into 6 sections:
+Mystlings
+Track which Mystlings are available to play.
+Before your very ﬁrst Run, you have four Mystlings unlocked (indicated by a black dot). You unlock more Mystlings in your Runs.
+Each Mystling has three boxes next to them, which you mark after defeating Bosses.
+The ﬁrst box allows players to start Runs from Campsite 1 with that Mystling. The second box allows players to start Runs from Campsite 2 with that Mystling. The third box shows that the 3rd Boss was defeated 
+by this Mystling.
+During a Run resolution, players may spend Essence to unlock Mystlings.
+2. Artifacts
+You mark which Artifacts you’ve managed to unlock on the Save sheet.
+3. Artifact Perks
+Every time a player unlocks an Artifact, they mark the ﬁrst available slot on the Save sheet under Artifact Perks, unlocking this perk for future runs.
+Types of Artifact perks:
+X Artifact Slots: At the beginning of each run, players collectively choose as many unlocked Artifacts as they have unlocked slots.
+Remove 
++ 
+: When resolving a Mystery card, remove 1 
+and 1 
+ Enemy card before drawing a card, increasing your chances for a positive effect. Shufﬂe them back into the Enemy deck 
+after resolution.
+Unlock Advancement cards B: During game setup, players shufﬂe all B cards with A cards to make a better Advancement deck.
+Tame Unlock: Players may now Tame Mystlings in the Roguelite mode. While setting up Combat against a Mystling that isn’t already unlocked, set up Combat using the Arena and Taming cards 
+listed on the Tier card of the Enemy.
+4. Starting Perks
+These perks help players start off stronger. Each perk tier must be unlocked in order, meaning you must ﬁrst buy the one that costs 3 Silver before buying the 6 Silver one and so on. However, you may buy different 
+perks of the same cost in any order.
+5. Maps
+After completing a map (by defeating the 3rd Boss), players unlock an additional Roguelite map, which they can explore during future runs.
+Upon completing a map for the ﬁrst time, players receive 3 Essence.
+6. Darkness Mode
+Each time, you mark all 3 boxes next to a Mystling, unlock the next tier of Darkness by marking the topmost unmarked Darkness tier. When you start a Run, you may decide to play with all unlocked Darkness 
+modiﬁers; this is an optional step that makes the difﬁculty of the game progressively harder.
+You are not required to use the Darkness rules at all, although it is recommended if you want more of a challenge.
+
+Types of Darkness Mode modiﬁers:
+Start of a Run: during the Run setup, resolve 
+the  corresponding effect. Remove 1 Mystling 
+card means that you should remove one random 
+Mystling speciﬁc card from your Action deck.
+Heal 5 less: when you should fully Heal your 
+Mystling during the Camp phase, leave 5
+on the Mystling sheet.
+Boss starts with 1 Corruption: attach 1 Cor-
+ruption card to the Enemy sheet at the start 
+of Combat with a Boss.
+Tier +1: when you draw a Tier card, draw a Tier 
+card from one higher Tier. The maximum Tier 
+is 5.
+Elemental/Special 
+Ability 
+cost 
+the  cost of  those abilities is increased by 1 
+(to a max. of 10).
+Gain only 1
+ from slot 2: use 
+ to  cov-
+er one of the 
+ symbols above Action card 
+slot 2. You only gain 1
+when resolving a card 
+from this slot.
+Special Ability slot – 1: when you set up 
+an Enemy, place the Special Ability token one 
+slot to the left (min. slot 1).
+Map
+RL 01
+Roguelite maps are divided into 3 parts – each starting with a Camp-
+site and ending with a Boss. Players move on the map, their current 
+position marked with a 
+Boss. 
+. Each time they move to a new space on 
+the map they must resolve an appropriate effect (described in detail 
+in the Roguelite Gameplay section – see page 31). There are 2 to 4 slots 
+marked with letters for Mystery cards on the map. Some space effects 
+use cards placed in those slots.
+Run Setup
+To start a game session of the Roguelite mode, you must perform the steps below. If this is your very ﬁrst Run, you must perform a Roguelite 
+setup beforehand.
+Choose an unlocked Roguelite map and place it in the middle of the play area. Place a a 
+ in the starting space – it represents your 
+position on the map.
+2. Prepare the components:
+Shufﬂe the Advancement A cards (along with B cards, if you’ve unlocked them in Roguelite mode) and place them next 
+to the map.
+Place Enemy Attack, Item, Corruption, and Equipment cards next to the map.
+Shufﬂe the Mystery cards. Place one face up card on each lettered slot on the map. Place the remaining cards face down next 
+to the map.
+3. Players collectively choose unlocked Artifacts up to the number of available Artifact slots. These Artifacts are available during this 
+Run.
+4. Each player performs the following steps:
+Choose one of the unlocked Mystlings.
+: Players must choose Mystlings with different main Element.
+Remove the Tier card of the previously chosen Mystling from the Tier deck. 
+Take the chosen Mystling’s Stat, Ability, and Action cards, a set of 10 different Starting cards (marked with S in the upper right-
+hand corner), and a Help card matching their Mystling Element.
+Place the Elemental decks matching the chosen Mystling’s main and sub Elements next to the map.
+Resolve the effects of unlocked Starting perks.
+Choose one of the locked Artifact cards and place it face down in your play area (Achievement side up) – you are able to unlock 
+the artifact if you fulﬁll the condition during this Run.
+
+Roguelite Gameplay
+Each round of a Roguelite Run consists of moving to a space on 
+the Roguelite map and resolving the space’s effect. This continues 
+until the Run’s resolution.
+To move to a space, players ﬁrst choose where they want to move 
+their 
+move t
+r 
+ on the Roguelite map following arrows. You cannot move 
+backward or in any other way than following arrows. They place 
+the 
+ckwar
+e 
+ in this space, and then resolve the space’s effect. All effects 
+are described below: 
+Tier X: Draw a  random opponent from the  indicated 
+tier, and then prepare and resolve Combat according 
+to the rules described in the rulebook with the following 
+exceptions:
+Do not place a Taming card unless you have unlocked 
+the Artifact Perk that allows you to Tame Mystlings.
+When you win, don’t go to the Script on the Are-
+na card, but instead place the defeated Mystling’s 
+Tier card next to the map (it won’t be used until 
+you reach the Camp space). Then, choose another 
+space on the map to move to. If you defeat the 3rd 
+boss, you win the Run!
+When you lose, don’t go to the Script on the Are-
+na card, but instead immediately move to the Run 
+Resolution.
+Boss: A battle with a Boss plays like a regular Combat with 
+the following modiﬁcations:
+Combat setup: Shufﬂe the  Corruption deck and 
+place it next to the Enemy Attack deck. Each time 
+the  Enemy Attack deck is reshufﬂed, draw a  Cor-
+ruption card and place it under the Enemy Mystling 
+sheet. A Boss may have more than 1 Corruption card.
+Bosses cannot be Tamed, even after unlocking 
+the Artifact Perk that allows you to Tame Mystlings!
+Mystery card with a number or a letter:
+If the space has a letter, resolve the card in the match-
+ing slot that was set up at the beginning of the game. 
+Do not discard this card afterward!
+If the ﬁeld shows an outline of 1 card or 2 cards, play-
+ers draw that many cards, choose one of them, and 
+place the rest back at the bottom of the deck. After 
+resolving a card, place it to the bottom of the deck.
+If  a  card instructs you to  draw a  random Enemy 
+Attack card, shufﬂe all Enemy Attack cards (if you 
+have unlocked the Artifact Perks, you remove some 
+of the cards beforehand), and draw one at random.
+Camp: Resolve the steps described below:
+Each Mystling Heals all 
+Mark boxes on the Save sheet next to the Mystlings 
+who  defeated the  Boss for  completing a  section 
+of the map (e.g., for defeating the 1st Boss mark box 
+1 near the Mystling’s name).
+Gain 1 Essence for  each box that  you marked 
+in the previous step. 
+All Exhausted Artifact cards become available again 
+(rotate them back). Players may choose to change 
+the Artifact cards for other unlocked Artifacts.
+If any Player does not have a Locked Artifact card, 
+they may pick one now.
+You may continue or save the game (see below).
+Run Resolution
+When you lose a Run (i.e., one of your Mystlings has equal to or 
+more 
+), win a Run by defeating a 3rd Boss, or decide 
+to end the Run without saving, resolve the following steps:
+Discard all 
+ and locked Artifacts.
+Gain Silver:
+Take all Tier cards of  the  Mystlings you have de-
+feated during this Run. For each card, gain X Silver, 
+where X is the Tier of this card.
+Players spend collected Silver to unlock Starting perks 
+for subsequent Runs on the Save sheet. This may be 
+done at any time during the  Run Resolution, even 
+in the middle of gaining Silver from the Tier cards.
+Silver is a limited resource, and you may never have 
+more than 10 Silver.
+Gain Essence:
+1 Essence: for  each Artifact unlocked during this 
+Run.
+3 Essence: if players completed the map for the ﬁrst 
+time.
+Players use gathered Essence to unlock new Mys-
+tlings for subsequent Runs on the Save sheet. This 
+may be done at any time during the Run Resolution.
+Essence is a limited resource, and you may never 
+have more than 6 Essence.
+Move all Artifact cards set aside to the unlocked Artifact 
+pool. They are available for the next Run.
+Return all Action cards, Tier cards, and other components 
+to their decks. Nothing carries over to subsequent Runs 
+except for bonuses and unlocks marked on the Save sheet.
+Saving game (optional)
+After each Campsite, you may decide to save the game and return 
+to it later. To save the game, follow these steps:
+Each player puts their deck in the Mystling tray.
+Players place their Silver and Essence in  the  Mystling 
+tray. If they play with Darkness, also place unhealed 
+in the tray.
+Take 
+e
+ in the number of defeated Bosses and place 
+them in the Mystling tray (as a reminder of where you 
+ended the game).
+Place the rest of the components in the box.
+Resuming a Saved Run
+To resume a saved game, follow these steps:
+Prepare the game components as described in Run Setup. 
+Each player take their saved Action deck from the Mystling 
+tray along with the Stat, Ability, and Help cards.
+Each player takes all Silver and Essence from the Mystling 
+tray and places it in their play area.
+Players collectively choose a number of unlocked Artifact 
+cards according to the available Artifact slots.
+Each player takes one Artifact card and places it, Achieve-
+ment side up, in their play area.
+Place the e 
+on the map in the Campsite space of which 
+they ended the game (1st, if they have 1 
+ps te s
+, or 2nd, if they 
+have 2 
+ded
+). Then, discard all 
+t ey
+l
+ from your Mystling tray.
+Shortcuts
+This mode allows players to  start from the  1st or 2nd campsite. 
+This is only available if each of the chosen Mystlings have enough 
+marked boxes. You follow the standard Run Setup rules with the fol-
+lowing exceptions:
+You cannot play with the Darkness rules.
+If you have 1 marked box, place the e 
+ on Campsite 1, take 
+3 Mystery cards, resolve the top sections of them one by 
+one, and discard them. 
+If you have 2 marked boxes, place the e 
+ on Campsite 1 
+or 2, take 3 or 6 Mystery cards respectively, resolve the top 
+sections of them one by one, and discard them. 
+Expansion compatibility
+Mystlings from all expansions can be used in Roguelite mode. Write 
+their names on the Roguelite Save Sheet in empty spaces. Next 
+to their names, write the Essence cost that you can ﬁnd on their 
+Tier cards. Then, add those Tier cards to the rest of the base game 
+Tier cards.
+
+Random Combat
+Random Combats use Tier cards for  a  randomized setup. At 
+the start of the game, the Random Combat deck is empty – there 
+are no Tier cards behind the Random Combat divider. The Adven-
+ture Journal often instructs you to add Tier cards to the Random 
+Combats. Almost every Mystling that  you fail to  Tame ends up 
+in the Random Combats, so you will have a chance to Tame it using 
+Essence (the Exploring Location Map step) or encounter it again 
+in a Random Combat.
+You may ﬁnd the following instructions regarding Random Combats:
+Add the X Tier card to the Random Combats – take the Tier 
+card deck, ﬁnd the mentioned card, and place it behind 
+the Random Combat divider.
+Set up a Random Combat – take all the cards from behind 
+the  Random Combats divider, shufﬂe them, and draw 
+2 cards at random (if there is only 1 card in the Random 
+Combats, draw that card). Then, choose one of the drawn 
+cards and set up a Combat using the components listed on 
+the Tier card, following all the Combat Setup rules.
+Set up a Random Combat, adding X to the pool of Enemies 
+to choose from – after drawing 2 Random Combat cards, 
+add the mentioned card from the Tier deck to the pool 
+to choose from. Choose one of them, and set up a Combat.
+After the Random Combat, the bottom part of the Arena card in-
+structs you to go to Script 200 of your current Scenario (e.g., if you 
+are playing a Scenario with all Scripts starting with the letter A, you 
+should go to Script A200). Then, the Adventure Journal uses the in-
+formation on the Tier card (Tamed, Mystling Encyclopedia) to give 
+you the right cards.
+Tier cards
+ELDRITHIA
+Arena: card 9, map 1. 
+Enemy: cards 46, 47, and 48.
+ Major Corruption: C.
+Tamed: cards 46, 50, 
+and Action cards (6).
+Mystling Encyclopedia: 48 and 49.
+Each Mystling Tier card consist of:
+Mystling Tier (I-V): describes how powerful the Mystling is. 
+Sometimes used in the Navigating the World Map step and 
+in Roguelike mode.
+2. Mystling Essence cost: tells you how much Essence you 
+must spend to  Tame a  Mystling during the  Navigating 
+the World Map step.
+3. Mystling Element
+4. Mystling cards: tells you which component to use during 
+Random Combats or Roguelite mode.
+Corruption and Major Corruption cards
+Since the Eclipse, the elements are out of balance – and many wild 
+mystlings are corrupted by the intensiﬁed inﬂuence of one or more 
+of them. 
+Corruption cards make your Combat slightly harder and are used 
+to  increase the  power of  weaker Mystlings you encounter dur-
+ing the  game by increasing their stats. Major Corruptions work 
+in the same way regarding the rules but are only used in 
+games.
+When you are instructed to “Add X Corruption card to this Com-
+bat,” take all Corruption cards, draw the indicated number of them 
+at random, and attach them to the Enemy sheet. Corruption cards 
+increase the statistics of the Enemy. Shufﬂe used Corruption cards 
+back into the deck after Combat.
+: During Combat Setup, both in the Adventure Journal, as well 
+as on the Tier cards, you will ﬁnd “
+ Major Corrption: X”. This 
+means that you must ﬁnd a speciﬁc Major Corruption card and at-
+tach it to the Enemy sheet. Return the used Major Corruption back 
+into the deck after Combat.
+Summons
+Summons are weaker and simpler opponents used by some Ene-
+mies. They are only used by Enemies and never by players’ Mys-
+tlings. Even when you Tame an Enemy that uses Summons, you 
+simply place Elemental tokens without using the Summon rules. 
+Summons are represented by their individual Stat cards and Ele-
+mental tokens placed in the Arena.
+Summons rules:
+You may treat Summons as an opponent for the purpose 
+of any effects dealing 
+Summons cannot gain any Condition tokens.
+Both you and the  Enemy cannot move to  or through 
+a space with a Summon.
+Summons don’t act on their own – they always follow 
+the rules on the Enemy Ability card. 
+Only Enemy abilities or Setup rules place the Summons 
+in the Arena.
+When there is more than one Summon in the Arena, you 
+may choose in which order Summons are activated.
+Corruptions and Major Corruptions cards do not apply 
+to Summons.
+SHADOW
+Summon
+148A
+A Summon Stat card. It can be recognized 
+by the Summon label above its name.
+Condition tokens
+Each Mystlings discards 1 Condition token of each type at the end 
+of its turn. When you/Enemy deals a Condition token, place the to-
+ken on the Enemy/your Mystling sheet. Ignore dealing Condition 
+tokens that exceed the Condition token limit.
+Burn (max. 5): before Burn is discarded at end 
+of a turn, gain 1
+for each Burn.
+Slow (max. 1): applies to Rush/Retreat/Move. The 
+value is reduced to 1 and it cannot be increased by 
+modiﬁers.
+For example, if an Enemy with 3 
+ would “Rush+2” 
+while having Slow, it would only move by 1 space. 
+Weak (max. 1): Attacks are reduced to 1 and it cannot 
+be increased by
+modiﬁers.
+For example, if your Mystling with 3
+would “Attack 
+” while having Weak, its Attack value would be 
+considered 1. With this effect, it deals 1
+ to an oppo-
+nent with 0 
+Silence (max. 1): Mystlings with Silence cannot use 
+Special Abilities and Elemental Bonus actions. The En-
+emy with Silence doesn’t resolve its Special ability and 
+doesn’t discard cards from its slots.
+ADVANCED RULES
+The rules below are used in later Scenarios. Read them when you encounter an unfamiliar term for the ﬁrst time.
+
+Combat Quest
+These Quests may only be fulﬁlled during Combat. You may only 
+fulﬁll the  Mystling Combat Quest when you use the  Mystling 
+in Combat.
+Conditions to fulﬁll are listed on the front of the card. After Com-
+bat, if you fulﬁlled the conditions, ﬂip the Quest card to the other 
+side (B). This reveals an exalted version of the Ability or Stat card 
+for your Mystling. From this point onward, use that card (Stat or 
+Ability) as your Mystling card. Place the  replaced card behind 
+the Removed divider.
+11B
+Exalted
+COMBAT QUEST
+The Young Alukah is eager to ﬁght, 
+but it needs to hone its natural traits instead 
+of trying to do everything at the same time.
+Each time you resolve the Young Alukah 
+Action card, place 1 
+resolve
+ on this card. Each time 
+you resolve a neutral card, discard 1 
+ach tim
+from this card. 
+Have at least 4 4 
+ on this card 
+at the end of the combat. If you didn’t fulﬁll 
+this quest at the end of the combat, 
+discard all 
+ the en
+ll 
+ from this card.
+When you fulﬁll this quest, ﬂip this card.
+11A
+Young Alukah
+A Combat Quest card and Exalted Young Alukah on the other side 
+of this card.
+Arena maps and cards
+Arena map 05 has an empty space (see below). You and 
+the Enemy cannot move or be placed in this space. Tokens 
+also cannot be placed in or moved to this space. However, 
+you can count range using this space. This space does not 
+block in line effects.
+Attacking Terrain: some Arena cards place 
+tokens that  may be targets of  your Attacks/effects 
+that deal 
+. You can treat these tokens as opponents 
+for the purpose of such effects. These tokens cannot gain 
+condition tokens. Damaging Terrain with (Drain) does not 
+Heal your Mystling.
+For example, if you “Deal 2 
+ and Weak to each other 
+Mystling (including allies) in any range,” you must dam-
+age the tokens but you ignore dealing Weak to them.
+Enemy moving through Terrain: when Terrain in the Are-
+na is discarded when moving into spaces with it, Enemies 
+may move through it following the  standard movement 
+rules (Terrain is discarded). However, when the Terrain rules 
+state that an “Enemy can’t move to or be placed in a space 
+with a  Terrain,” Enemies treat spaces with Terrains as 
+blocked and move around it (choosing the shortest path).
+In line: some effects may only be used in  lines starting 
+from a space with your Mystling. A line is a straight con-
+nection of spaces in the Arena. Allies block in-line effects. 
+Effects that deal 
+ in line, deal it to the closest opponent 
+that is in the chosen line. Some Arena card rules may block 
+in-line effects. Some effects may tell you to move/Rush 
+in line. Resolve these moves following the standard rules, 
+but you/Enemy must move in a chosen line.
+Young Emberling used a Projectile Action card 
+to “Deal 4 
+ in any range in line”. The player chooses the line 
+as in the example above and deals 4
+ to the Windraiser.
+CREDITS
+Dedicated to the memory of Łukasz Orwat, the best of us. 
+May we meet again.
+Creative Director: Kamil ‘Sanex’ Cieśla
+Game Concept: Kamil ‘Sanex’ Cieśla, Marcin Świerkot
+Game Design: Andrzej Betkiewicz, Wojciech Frelich, 
+Kamil ‘Sanex’ Cieśla
+Roguelite mode: Jan Truchanowicz
+Lead Developer: Wojciech Frelich
+Tests and Development: Andrzej Betkiewicz, Wojciech Frelich, 
+Michał Stachowiak, Adrian Krawczyk, Wiktoria Ślusarczyk, 
+Wojciech Zieliński, Jan Truchanowicz
+Additional Testing: Paweł Samborski, Tomasz Zawadzki, Michał Lach, 
+Ernest Kiedrowicz, Filip Tomaszewski, Paulina Włodarczyk, 
+Ariel Kowalski, Szymon Kulka, Michał Plata, Przemysław Wójcik, 
+Patrycja Marciniak, Łukasz Jach, Natalia Makówka, 
+Zuzanna Banasiak, Franciszek Stępniewski-Janowski, 
+Timo Kandolin, Jeffrey Campbell, Diego García, Kristian Levinsen, 
+Sean Nyikos, Jeremy Freeman, Cora Freeman, Tymon Hatala, 
+Manuel Campos, Jakub Błachut, Marcin Podsiadło, 
+Aneta Koperkiewicz, Alicja Wojciechowska, Łukasz Szopka, 
+Wojciech Wiśniewski, Michał Gryń, Eryk Nowak, Michał Sprysak, 
+Damian Pióro, Tymoteusz Müller, Jacek Wala, Błażej Bernaś,
+Adrian Przednowek, Marta Siennicka, Olga Baraniak, Jacek Szczypiński
+Rulebook: Wojciech Frelich
+Narrative Design: Andrzej Betkiewicz
+Writing: Marcin Mortka, Andrzej Betkiewicz
+Proofreading & Editing: Dan Morley, Tyler Brown, Matt Click
+Art Direction: Patryk Jędraszek, Kamil ‘Sanex’ Cieśla
+Graphic Design: Adrian Radziun, Michał Stachowiak, Karolina 
+Łaski-Getka, Aleksandra Fajlert, Łukasz Styrna, Michał Lechowski, 
+Angelika Kajmowicz
+Illustrations: Patryk Jedraszek, Jakub Dzikowski, Pamela 
+Łuniewska, Piotr Orleański, Ewa Labak, Magdalena Cieplak, 
+Mateusz Michalski, Angelika Kajmowicz, Marta Szudyga, 
+Łukasz Cywiński, Krzysztof Piasek, Bożena Chądzyńska
+3D Modelling: Piotr Gacek, Mateusz Modzelewski, Michał Lisek, 
+Marek Kondratowicz, Mateusz Wajda, Marcin Surma, Medusa Project, 
+Ludwik Łukaszewski, 3D Big Prints, Jędrzej Chomicki
+DTP: Angelika Kajmowicz, Jędrzej Cięślak, Patrycja Marzec, 
+Aneta Koperkiewicz, Rafał Janiszewski
+Production: Olga Baraniak, Jacek Szczypiński, Anna Czajka, 
+Witold Chudy, Zoﬁa Jerzyńska, Adrianna Kocięcka, Mateusz Wolski, 
+Michał Matłosz, Jacek Pyszczek
+Game Consultant: Michał Oracz, Krzysztof Piskorski
+Special Thanks: Michał Matłosz, Marta Siennicka, Jacek Wala, 
+Maciej Guzik-Pałys, Dominika Matłosz, Anna-Lis Wilkosz, 
+Ernest Kiedrowicz, Krzysztof Belczyk, Michał Lach, 
+Paulina Włodarczyk, Robert Plesowicz, Łukasz Włodarczyk
+
+Ability card................................................................................................... 15
+Action card................................................................................................7,18
+Advancement..........................................................................................7, 26
+Adventure Journal........................................................................................8
+Arena:
+• card....................................................................................................... 14
+• clear......................................................................................................25
+• Map ...................................................................................................... 14
+Attack............................................................................................................19
+Bonus Action........................................................................................19, 20
+Booster..........................................................................................................26
+Combat rules ..............................................................................................18
+Conditions ...................................................................................................32
+Corruption ...................................................................................................32
+Damage...........................................................................................................9
+Deal................................................................................................................19
+Decision token..............................................................................................8
+Deck Construction....................................................................................... 7
+Elemental advantage.................................................................................24
+Elemental tokens........................................................................................24
+Enemy Ability card..................................................................................... 15
+Enemy Attack card.....................................................................................22
+Equipment....................................................................................................10
+Essence ...........................................................................................................9
+Exploration................................................................................................... 12
+Fatigue .....................................................................................................9, 22
+Heal..................................................................................................................9
+Inventory .................................................................................................5, 26
+Item...........................................................................................................10, 11
+Location map............................................................................................... 12
+Lock/Unlock ................................................................................................ 13
+Major Corruption.......................................................................................32
+Move..............................................................................................................18
+Mystling Encyclopedia..............................................................................25
+Mystling tray.................................................................................................. 7
+Passive...........................................................................................................18
+Power........................................................................................................9, 20
+Quest........................................................................................................ 6, 33
+Random Combat.................................................................................25, 32
+Range.............................................................................................................18
+Saving the game.........................................................................................26
+Setup .........................................................................................................5, 16
+Scenario..........................................................................................................5
+Combat.........................................................................................................16
+Silver................................................................................................................9
+Special Ability.............................................................................................. 15
+Stat card........................................................................................................ 15
+Status Sheet...................................................................................................8
+Summons .....................................................................................................32
+Taming ..........................................................................................................25
+Target ............................................................................................................22
+Taunt..............................................................................................................19
+Terrain .....................................................................................................14, 33
+Test..................................................................................................................11
+Tier card........................................................................................................32
+Time............................................................................................................... 13
+Upgrade........................................................................................................18
+World Map...............................................................................................5, 26
+INDEX
+
+• Begin the Exploration close the Adventure Journal 
+and start exploring the  Location map (see Location map 
+rules). Used when you enter a new area on the Location map.
+• Choose one select one of the presented options and 
+resolve its effect. Read all of  the  options and their out-
+comes before making a decision. You cannot choose an op-
+tion if you don’t fulﬁll its requirement given in parenthesis.
+• Continue the Exploration close the Adventure 
+Journal and continue Map Exploration.
+• Discard Secret card X return the correct Secret 
+to the Secret deck. If the Secret you are discarding wasn’t 
+revealed (it was face down), do not reveal it. Keep the cards 
+in the Secret deck in ascending order.
+• End the Exploration discard all components from 
+the Location map and close the Location book.
+• Gain Equipment draw the top card from the Equip-
+ment deck and place it in front of you. You may have up 
+to 2 Equipment cards at the same time – when you gain 
+Equipment while already having 2, you must use or discard 
+one of them immediately.
+• Gain Fatigue take 1 Fatigue card from the box and 
+add it to the Action deck of one of your Mystlings. You may 
+choose which Mystling gains it by placing Fatigue cards 
+in  their Mystling compartment. If  there are no Fatigue 
+cards left, gain 5
+ instead.
+• Gain Item draw the top card from the Item deck and 
+place it in front of you. If the Item deck is empty, shufﬂe 
+the discard pile and create a new Item deck. Some Items 
+must be used immediately. You may have up to 3 Items 
+at the same time – when you gain an Item while already 
+having 3, you must use or discard one of them immediately.
+• Gain 
+ take
+and place it in a chosen Mystling’s com-
+partment. You may decide how to divide gained 
+between 
+your Mystlings, unless the Adventure Journal instructs you 
+otherwise. Each Mystling may have a maximum of 10
+• Gain 
+ take 
+ and place it in a chosen Mystling’s 
+compartment. You may decide how to divide gained 
+between your Mystlings, unless the  Adventure Journal 
+instructs you otherwise. You cannot choose a  Mystling 
+to gain 
+ if that would result in reaching or exceeding 
+. If both Mystlings have too many 
+, ignore any 
+excess 
+• Gain Secret card X ﬁnd the correct Secret in the Se-
+cret deck, read its instructions, and place it in front of you. 
+If the card is a map fragment (it’s called an overlay), place it 
+on the Map so that it matches the illustration. There is no 
+limit to the number of Secrets you may have at one time. 
+If you already have the mentioned Secret, ignore it.
+• Gain the “Y” part X status take the Save sheet 
+and mark part X of “Y” status. If you already have the men-
+tioned status, ignore it.
+f h
+Save sheet with a marked “Empathy” part 2 status.
+• Go to Script X open the Adventure Journal on a page 
+with the mentioned Script and follow its instructions. Once 
+you enter a script, you must follow all its instructions.
+• If you have an X Mystling sometimes the Ad-
+venture Journal checks which Mystlings accompany you 
+(only those in the Mystling tray count for these checks). 
+For example: “Gain 6
+ (if you have a 
+ Mystling, gain 3 
+instead).” It means that you gain 6
+but if you have a 
+Mystling (in the Mystling tray) you only gain 3
+• Open Map X ﬁnd the correct Map in the Location 
+Book and place it in the play area.
+• Perform the  Test and check the  result 
+below resolve the  Test following the  Test rules (see 
+page 11).
+• Place token A in slot X / Place token B 
+in slot X place an Adventure token showing its A or 
+B-side in the corresponding slot on the Map. Don’t move 
+tokens already on the Map unless instructed otherwise.
+• Place X in front of you take the mentioned com-
+ponent (e.g., an  Elemental token) and place it in  front 
+of you, next to your Secret cards and Items.
+• Place X in the Mystling tray place the men-
+tioned component in  one of  the  compartments. Until 
+the  end of  the  current Scenario, this component is as-
+signed to the Mystling in that compartment.
+Note: There can be more components in the Mystling 
+compartment than Mystling cards and Action cards: 
+Power markers 
+ , Damage 
+, and more.
+ move the Time token one space down. If the Time to-
+ken was on the lowest space, place it on the Secret card 
+at the  bottom of  the  Time track instead. When you are 
+instructed to
+and the Time token is on the Event card, 
+ignore that time progression.
+• Set 
+to X place the Time marker red or blue 
+side up in the mentioned Time track slot.
+ADVENTURE TAGS
+
+These are the keywords on Action cards, Ability cards, and Enemy 
+Ability cards. They apply to both you and the Enemy. They are also 
+listed on the Help cards.
+• Attack if  the  opponent is in  range 1 of  the  attacking 
+Mystling, deal 
+ equal to the attacker’s 
+. Reduce this 
+ by the opponent’s 
+ to a minimum of 0. When an ef-
+fect allows you to Attack more than one opponent (e.g., 
+“Attack each opponent that is in a 
+, or 
+ space 
+in any range.”) resolve the Attacks one by one in the order 
+of your choice. 
+Note: Some effects may modify the  range or value 
+of your Attacks. 
+For example, if the card tells you to “Attack +1 
+ in range 
+2” it overwrites the Attack rules described above and allows 
+you to resolve an Attack on an Enemy in range 2. Additional-
+ly this Attack deals 1 more 
+• Blink X place a  Mystling standee in  an  empty space 
+in range X. This is not considered as Move. The Slow token 
+does not affect Blink. An Enemy might Blink toward you 
+or away from you. Resolve it similarly to the Rush/Retreat 
+rules (the Enemy wants to end closest/farthest from you).
+• Cleanse X discard X Condition tokens from a Mystling 
+sheet. A Burn 3 token counts as 3 separate tokens. Cleanse 
+allows you to discard any type of Condition tokens. Cleanse 
+Weak/Slow/Silence/Burn only allow you to discard a spe-
+ciﬁc Condition token.
+• Deal X
+ in  range Y if  the  opponent is in 
+the  mentioned range, deal 
+ equal to  the 
+ value. 
+Reduce it by the  opponent’s 
+ to  a  minimum of  0. 
+For  effects that  state “For  each (…) deal X
+” add 
+all 
+ together and then reduce it once by the  oppo-
+nent’s 
+. When an effect allows you to deal to more 
+than one opponent (e.g.,  “Each opponent gains 2
+for each Quake 
+ in range 2 from them.”) resolve deal-
+ing 
+ one by one in an order of your choice. Some ef-
+fects may state that “Opponent gains X
+…”. Treat such 
+effects as equal to dealing 
+ for the purpose of all rules.
+• Discard X discard a speciﬁc component. If you have 
+fewer than X of the component, discard as much as you 
+have. When an effect tells you to discard more than one 
+card, you decide in which order to discard them (except 
+for Interrupt). When you discard more than one card from 
+the top of your deck you must resolve it one by one, start-
+ing with the topmost card.
+For example, “Discard 2 
+ ” means removing 2 
+your the Mystling sheet and placing it in the 
+ pool.
+• (Drain) Attacks and effects that deal 
+ with (Drain), 
+Heal your Mystling by the  value of  the  ﬁnal 
+ done 
+to the opponent. However, you may not Heal 
+ that ex-
+ceeds the opponent’s 
+. You cannot Heal from (Drain) by 
+attacking Terrain.
+For  example: “Deal 3
+(Drain).” Your opponent 
+has 1 
+ left. It gains 3
+ , but you only Heal 1.
+• Gain You may gain 
+, Elemental tokens, Condition 
+tokens, and 
+. To gain X , place that many on the Mys-
+tling sheet. 
+ or 
+ does not affect gain 
+ effects. 
+When you gain Elemental tokens (e.g., “Gain 1 Ice 
+”), 
+place that many Elemental tokens on your Mystling sheet. 
+You cannot gain Elemental tokens above your token limit, 
+in such a case ignore the gain effect. When you gain 
+or Condition token, place them on your Mystling sheet. 
+, treat is similarly to dealing 
+ to you 
+and reduce it by your 
+• Heal X discard X
+ from your Mystling sheet. If the En-
+emy has Heal X, discard that many X
+ from the Enemy 
+sheet.
+• Move check the Mystling’s 
+ value and move to an ad-
+jacent space up to X times (where X is your value 
+). You 
+move the Mystling one space at a time, but in one Move 
+action you may move several spaces. Some effects dur-
+ing the game may modify Move. When you are instruct-
+ed to “Move +1
+” consider your movement value to be 
+1 greater for this movement.
+resolve Enemy effects after this icon only if  your Mys-
+tling (
+: the Enemy’s current Target) has an Element 
+that matches the shown icon (this also applies to second-
+ary Elements). 
+Resolve your Action card effects after this icon only 
+if the Enemy has an Element that matches the shown icon 
+(this also applies to secondary Elements).
+• (Pierce X) this effect ignores X of  the  opponent’s 
+Example: Attack (Pierce 3), ignores 3 
+ during the Attack. 
+• Range the maximum range of an action/effect. Actions 
+and effects may always target spaces that are closer than 
+the maximum range.
+• Resolve when you resolve a card, you must follow all 
+instructions on it from top to bottom, left to right. After 
+you resolve all the effects on a card, place it on the discard. 
+A currently resolved card can never be affected by any oth-
+er card (it cannot be discarded, Triggered, etc.). In some 
+situations, you resolve more than one card at a time (e.g., 
+when you Trigger a card). In such situations, both the card 
+that caused the Trigger and the Triggered card are consid-
+ered “being resolved” and cannot be affected by any other 
+effects.
+• Retreat Enemy Retreat is resolved in  a  similar way 
+to your Mystling’s Move. During Retreat, the Enemy always 
+moves to a space farthest from you (i.e., a space that is 
+the  highest range from you), using the  lowest number 
+of possible moves. When an Enemy Retreats and they are 
+already in the farthest reachable space, they don’t move. 
+If there are several spaces meeting those conditions, you 
+may choose to which of the spaces the Enemy Retreats.
+• Remove card from play if this is an Action card, 
+place this card back in behind the Unlocked cards divider 
+– you may use it again in subsequent Scenarios. If it is a Fa-
+tigue card, return it to the Fatigue deck.
+• Rush Enemy Rush is resolved in  a  similar way to  your 
+Mystling’s Move. During Rush, the Enemy always moves 
+to a space closest to you (i.e., to end within range 1 of you 
+if possible), using the lowest number of possible moves. 
+When an  Enemy Retreats and they are within range 1 
+of you, they don’t move. If there are several spaces meet-
+ing these conditions, you may choose to which of the spac-
+es the Enemy Rushes.
+• Search X look at the top X cards of your deck, choose 
+1 and place it on top of the deck. Then place the rest at 
+the bottom of the deck in any order. If your deck has fewer 
+cards than the Search value, look at as many cards as you can 
+(do not reshufﬂe your deck).
+• Slot X if this card is in slot X, you resolve an additional 
+effect. Cards resolved outside of your track (e.g., by using 
+the Acceleration Air Elemental Bonus Action) are consid-
+ered not to be in any slot and their slot value is considered 0.
+For example: the card has the effect: “Gain 1
+. Slot 3: 
+Gain 2
+.” If this card is in slot 3, you get 1
+ and then 
+also 2
+• Spend X when you spend X, you must have that amount 
+of X. If the instructions tell you to “Spend 2
+ to Trigger” and 
+you only have 1
+, you cannot activate this effect.
+• Interrupt X discard the X rightmost cards from the op-
+ponent’s track (starting from the  highest numbered 
+slot with a  card). In rare situations, Interrupt may cause 
+the player to have 0 cards in step 2 of their turn. In this case, 
+the player’s turn immediately ends.
+• Trigger Trigger may only be used once per turn. Ignore 
+all Trigger effects after the  ﬁrst one. When you Trigger, 
+resolve another card from your slots (do not gain 
+from its slot) and discard it. Then, end resolving the card 
+that caused the Trigger and discard it. When the Enemy 
+Triggers, ﬂip the Enemy Attack card that caused the Trig-
+ger face down then resolve the topmost Enemy card fol-
+lowing all the standard rules (the Special Ability only re-
+solves once, after resolving Trigger). 
+Both Enemy and your Triggers may only be resolved 
+: When an  Enemy Triggers, its target may 
+change. This also applies to  the  Special Ability as it 
+checks the current target. 
+COMBAT TAGS

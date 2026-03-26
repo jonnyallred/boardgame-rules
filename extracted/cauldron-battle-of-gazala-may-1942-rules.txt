@@ -1,0 +1,995 @@
+Table of Contents 
+1.0 Introduction ..................................................................... 1 
+2.0 Components .................................................................... 1 
+2.1 Game Scale .................................................................. 1 
+2.2 Playing Pieces .............................................................. 1 
+2.2.1 Action Chits (see 4.0) ............................................ 1 
+2.2.2 Tactical Chits (see 4.0) .......................................... 1 
+2.2.3 Combat Units ........................................................ 1 
+3.0 Sequence of Play ............................................................. 2 
+4.0 Action Chits and Tactical Chits ......................................... 2 
+5.0 Supply .............................................................................. 2 
+6.0 Initiative ........................................................................... 3 
+7.0 Action Phase .................................................................... 3 
+8.0 Movement ....................................................................... 3 
+8.1 Allied Prohibited Movement Zone .............................. 4 
+8.2 Allied 69th Brigade ........................................................ 4 
+8.3 Off Map Movement ..................................................... 4 
+9.0 Zones of Control (ZOC) .................................................... 4 
+10.0 Stacking .......................................................................... 4 
+11.0 Combat .......................................................................... 4 
+11.1 Retreat ....................................................................... 6 
+11.2 Advance after Combat ............................................... 7 
+12.0 Disruption ...................................................................... 7 
+13.0 Tactical Chits .................................................................. 8 
+13.1 Combat ...................................................................... 8 
+13.2 Extra Move................................................................. 8 
+13.3 Replacement .............................................................. 8 
+13.4 Air .............................................................................. 8 
+13.5 Sandstorm.................................................................. 8 
+13.6 Anti-Tank (Axis Only) ................................................. 8 
+13.7 Withdraw/Attack (Allied Only) .................................. 9 
+13.8 Playing Multiple Tactical Chits ................................... 9 
+14.0 Minefields ...................................................................... 9 
+14.1 Breaching Minefields ................................................. 9 
+14.2 Minefields and Axis Actions ..................................... 10 
+15.0 Reinforcements ........................................................... 11 
+15.1 Reinforcement Schedule ......................................... 11 
+16.0 Victory Conditions ....................................................... 11 
+17.0 Scenarios ...................................................................... 11 
+18.0 Players Notes ............................................................... 12 
+19.0 Designer’s Notes .......................................................... 12 
+ 
+1.0 Introduction 
+Gazala is a simulation of the fighting near Tobruk, 27 May 
+through 14 June 1942. The game covers the mobile portions 
+of the fighting: the southern end of the Allied line and the 
+area just to the east of the Allied defenses. 
+2.0 Components 
+1 22”x17” Map 
+168 Die-Cut Counters 
+1 Player Chart (Combat, Movement, etc.) 
+1 Rules Booklet 
+This game uses a ten-sided die, numbered 0-9, which is not 
+included with the game. 0 is read as zero in this game. 
+2.1 Game Scale 
+Each hex on the game map is approximately one mile 
+across. Each unit is a battalion with the exception of the 
+units of the Italian units of the Brescia and Pavia Divisions 
+which are regiments. The time span represented by each 
+turn varies (see the Turn Record Track printed on the map). 
+2.2 Playing Pieces 
+2.2.1 Action Chits (see 4.0) 
+Axis Action Chit 
+ 
+Allied Action Chit 
+ 
+2.2.2 Tactical Chits (see 4.0) 
+Axis Tactical chits 
+ 
+Allied Tactical Chits 
+ 
+2.2.3 Combat Units 
+The counters in the game represent the units from the 
+historical formations which fought in the battle. Italian units 
+are green, German units are gray, British units are brown, 
+Indian units are orange, and French units are blue. Units 
+have a used side on the rear of the counter that represents 
+a unit’s reduced capabilities after movement. A Hard or Soft 
+combat value printed in white means that value can only 
+be used in the defense. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unit Symbols 
+Armor 
+Infantry 
+Mot Infantry 
+ 
+MG Inf 
+Mot AT 
+Motorcycle 
+ 
+3.0 Sequence of Play 
+Each game turn consists of several phases that must be 
+followed in the following sequence. 
+1. Chit Phase-Both players adjust the Action Chits and 
+Tactical Chits in their cup and reset the Actions 
+Available Markers. 
+2. Minefield Phase-The Axis player may place two 
+minefield breach markers beginning with May 28th 
+turn. 
+3. Supply Phase-Both players check the supply status of 
+all of their units and mark units appropriately. 
+4. Initiative Phase-The players determine who will be the 
+first player to perform an action. 
+5. First Player’s Action Phase-The first player pulls chits 
+and activates units for movement and combat. 
+6. Second Player’s Action Phase-The second player pulls 
+chits and activates units for movement and combat. 
+7. First Player’ Action Phase-The first player performs 
+another Action Phase, followed by the Second player, 
+etc., until both players have expended all of their 
+actions. 
+8. Recovery Phase-All Disrupted markers are removed 
+from units. All units are flipped to their unused sides. 
+9. Victory Point Phase-The Axis Player collects victory 
+points for units in supply adjacent to the north map 
+edge. The turn marker is moved to the next turn. 
+ 
+ 
+4.0 Action Chits and Tactical Chits 
+Action Chits represent the orders from above, formation 
+leadership, and supplies needed for a formation to move 
+and fight. Tactical Chits represent airpower, corps and army 
+artillery, extra fuel supplies, and replacements. 
+Each turn the Axis and Allied players place the Action Chits 
+and Tactical Chits that are available to them for that turn 
+together in a cup. The players will draw chits from these 
+cups during the Action Phase. Each player has his own cup 
+containing only his chits. The mix of Action Chits changes 
+from turn to turn (see the Action Chits Per Turn Table on 
+the Gazala Player Chart). All Tactical Chits are placed in the 
+cup every turn. 
+Each turn each player will have a different number of 
+Actions available to be performed. This is printed on the 
+Turn Record Track (the number in brown refers to the Allies 
+and the number in gray to the Axis). A marker labeled 
+Actions Available is provided for each player, and this 
+marker is placed in the corresponding box on the Actions 
+Track (on map) to remind the player of the number of 
+Action Chits he may play this turn. A player may have more 
+Action Chits than available actions for the turn, which 
+means that not all units will move that turn. 
+The number of actions the Axis player receives is also 
+dependent on his breaching of Allied minefields. See 14.2 
+5.0 Supply 
+During the supply phase both players check the supply 
+status of all of their units. A unit traces a supply path from 
+the unit to a supply source. This path may be of any length 
+but may not pass through a hex containing an enemy unit or 
+impassable terrain. This includes minefield hexes for the 
+Axis player unless they have been breached. (14.1) Supply 
+may be traced through an enemy zone of control. (9.0) 
+Allied units may trace supply through the Allied Prohibited 
+Movement Zone (8.1) 
+A unit that cannot trace a supply path back to a supply 
+source is marked as Out of Supply. If the unit is already 
+marked as Out of Supply, the unit is now marked as 
+Isolated. A unit that was Isolated or Out of Supply that can 
+trace a supply path during the Supply Phase has its marker 
+removed; it is now in supply. Supply status is only checked 
+and adjusted during the Supply Phase. 
+Full Strength 
+Reduced Strength 
+Unused 
+Side 
+Used 
+Side 
+(White number signifies 
+reduced strength) 
+Movement Allowance 
+Used side is identified 
+by dark horizontal bands 
+ 
+Soft Value 
+Unit Affiliation 
+Hard Value 
+Number of Steps 
+
+Axis supply sources are any west map edge hex south of 
+0105. Allied supply sources are any north or east map edge 
+hex. 
+Out of Supply units’ movement allowances are reduced by 
+1/3. Out of Supply units attack with a -2 modifier applied to 
+the die roll. Defending units are not affected by being Out 
+of Supply. 
+Isolated units’ movement allowances are reduced by 2/3. 
+Isolated units may not attack. Isolated units that are 
+attacked have a +2 modifier applied to the attacker’s die 
+roll. 
+6.0 Initiative 
+During the Initiative Phase both players roll a die; the player 
+with the higher die roll holds the initiative for this turn. Re-
+roll any ties. The player who wins the initiative decides who 
+will be the first player to perform an Action Phase. 
+Exception: On the May 27 AM turn; the first turn, there is 
+no roll for initiative. The Axis player performs the first two 
+Action phases and then the players alternate for the rest of 
+the turn. The Action Phases for this turn will therefore be as 
+follows: Axis, Axis, Allied, Axis, Allied, Axis. 
+7.0 Action Phase 
+The player who is performing the first Action draws a chit 
+from his cup. If he draws a Tactical Chit, it is placed in the 
+box on the map for available Tactical Chits. The player then 
+draws another chit, and continues to draw chits until an 
+Action Chit is drawn. A player may collect multiple Tactical 
+Chits before drawing an Action Chit. When he draws an 
+Action Chit, the marker is placed on his Action Track on the 
+map, and then all units of the formation named on the chit 
+are activated for movement and combat. A player may 
+instead of activating the units named on the action chit 
+choose to activate one unit of any other formation. 
+Action Chit’s with 2 sides: (Axis player only) Player may 
+choose to activate the formation on either side of the chit. 
+The Axis has one Action chit that has two formations on the 
+same side of the chit; Brescia and Pavia. When this chit is 
+played all units of both of these formations are activated. 
+The Allied player has one action chit that says double move. 
+This means that any two units, not formations, may be 
+activated, including reinforcements. 
+Exception: No formation may be activated more than twice 
+in a given turn. 
+Exception: On the May 27 AM and May 27 PM turns the 
+15th Panzer and the 21st Panzer may only be activated once. 
+Exception: On May 27 AM and May 27 PM no Allied units of 
+the 9 Indian, 69 Infantry, 150 Infantry, 201 Guards, or 1 Free 
+Fr. brigades may be activated. No Axis units of the Pavia and 
+Trieste divisions may be activated during May 27 AM and 
+May 27PM. 
+Individual units have no limit to how often they may be 
+activated in a turn. Example: The 21st Panzer is activated 
+twice in one turn and my not be activated again. However 
+one of its units could be activated again by using another 
+formation’s action chit, or an extra move chit. 
+When a formation is activated, all of its units are flipped to 
+their unused sides if not already on their unused sides. The 
+same is true if only an individual unit is activated; it is 
+flipped to its unused side. 
+The player now stops drawing chits and moves and fights 
+with his activated units. After the current player completes 
+all of his moves and combats with his activated units, the 
+Second Player repeats the above procedure. This continues 
+until both players have expended all of their available 
+Actions for the turn. Since both players can have different 
+numbers of actions available for the turn, it is quite possible 
+for one player to run out of actions before his opponent, 
+allowing the player with more actions to perform multiple 
+actions in a row at the end of the turn. 
+8.0 Movement 
+During the Action Phase the player may move and fight with 
+his activated units. Each unit has a movement allowance 
+printed on the counter that is the maximum number of 
+movement points the unit may expend for movement and 
+combat. Movement allowances may be reduced by Supply 
+(5.0), Disruption (12.0) or Sandstorm (13.5). Activated units 
+are moved individually, with the currently selected 
+activated unit called the active unit. Once the active unit’s 
+movement has been completed the unit is flipped over to 
+its used side, and the next active unit is selected for 
+movement. (Activated units that do not expend any 
+movement points for movement or combat remain on their 
+unused sides.) 
+
+Active units move from hex to hex, expending movement 
+points for the terrain in each hex entered, for hexside 
+features between hexes, for Combat and for Zones of 
+Control. See the Movement Point Cost Chart. 
+A unit entering a hex along a road pays the road movement 
+point cost instead of the normal cost of the terrain. This is 
+the only way a unit may cross an escarpment. 
+Exception: Roads do not negate the prohibition of Axis units 
+crossing an un-breached minefield or the 12 movement 
+point cost for Allied units crossing a minefield. 
+Units are split into three types for movement: tracked, 
+wheeled, and foot. All armor units are tracked, all infantry 
+with a movement allowance of six is foot, and all other units 
+are wheeled. 
+Most of the terrain on the map is labeled around the edge 
+of the hex grid. The words are color coded to match the 
+terrain they are labeling. Minefields are the red dotted 
+lines. Fortifications are the black lines around the hex edge. 
+Escarpments have an up and a down side. The down side is 
+the side with the shading. Example below. 
+ 
+ 
+ 
+ 
+8.1 Allied Prohibited Movement Zone 
+The Allied player may not move any units into the area 
+west of the minefield line starting in hex 0104 and 
+extending through 1119. From there a line is shown on the 
+map to the south board edge. No allied unit may cross this 
+line to the west, nor may they cross the minefields to the 
+west either during movement, advance after combat or 
+retreat after combat. 
+8.2 Allied 69th Brigade 
+Two units of the Allied 69th Brigade must remain at all 
+times in the area bounded by a line from 0104 to 0801, 
+inclusive, and then to the north map edge. The third unit of 
+the brigade may move around the map freely. The two 
+units have brackets around their movement allowances to 
+remind the Allied player of this restriction. 
+ 
+8.3 Off Map Movement 
+Allied units may exit the map on the north, east, and south 
+map edges. Axis units may exit the south map edge. To do 
+so they pay the same terrain costs as the hex from which 
+they are exiting the map. Units that exit the map are 
+placed on the turn record track two turns in advance, at 
+which time they may enter as reinforcements. When they 
+return they are in full supply and are not disrupted, 
+regardless of their condition when they left the map. 
+9.0 Zones of Control (ZOC) 
+Non-Disrupted units, including Isolated and Out of Supply 
+units, exert a zone of control (ZOC) into the six hexes 
+surrounding the unit. 
+Exception: Units do not exert a ZOC up an escarpment. 
+A unit may not move from a hex in an enemy ZOC to 
+another hex that is in an enemy ZOC. 
+To leave a hex in an enemy ZOC costs 2 movement points in 
+addition to the normal terrain costs. 
+10.0 Stacking 
+A maximum of two units may stack in a hex. 
+Exception: No unit may stack with a unit of the Pavia or 
+Brescia Divisions. (These are larger units and fill the hex) 
+Stacking limits apply at the end of all movement and 
+combat in a player’s action phase, end of retreat, after 
+advance after combat and at the moment of combat. If a 
+hex is over stacked at one of these times, the owning player 
+eliminates as many units of his choice as necessary to bring 
+the hex back to the stacking limit. 
+11.0 Combat 
+Combat is performed as part of movement and costs 
+movement points and may be initiated at any point during 
+the active unit’s movement. A unit may continue to move 
+and initiate attacks as long as the unit has not been forced 
+to Retreat and has available movement points. Combat has 
+three levels of intensity: Light, Medium and Heavy attacks. 
+Each type of attack also has a combat modifier associated 
+with it. The cost in movement points and the combat 
+modifier for each type of attack are listed on the Player 
+Chart. 
+
+Exception: No units may attack across an escarpment 
+hexside except where such escarpment is crossed by a road 
+or track. 
+When an active unit wishes to attack, it expends the 
+required number of movement points and attacks all 
+adjacent enemy units. If an attacking unit, for example, is 
+adjacent to four enemy units, then it must attack all four 
+enemy units. All friendly units adjacent to an enemy unit 
+that is being attacked may also be included in the attack, 
+whether activated or not. The attacking player decides on a 
+unit by unit basis which of these additional friendly units 
+will be included in the attack. The only units the defender 
+includes in the combat are the units adjacent to the unit 
+initiating the attack, the active unit. 
+ Units have two combat values, hard and soft. Hard values 
+are used by the attacker against defending units as long as 
+one defending unit is armor. Soft values are used by the 
+attacker if the defending units contain no armor. 
+The defending player uses his hard value if at least one of 
+the attacking units is armor. The defender uses his soft 
+value if the attacker has no armor. 
+Exception: Infantry units may not initiate or participate in 
+any attack in which the defender has an armor unit. Since 
+an active unit that wishes to attack must attack all adjacent 
+enemy units an infantry unit may not initiate an attack if it is 
+adjacent to an enemy armor unit. Infantry hard combat 
+values are printed in white to remind the players that these 
+units may not attack armor. 
+Exception: Anti-Tank units may not initiate an attack as the 
+active unit. Anti-Tank units may not participate in attacks 
+against infantry. Anti-Tank soft combat values are printed in 
+white to remind the players that these units may not attack 
+infantry units. They may participate in an attack as long as 
+one of the defending units is an armor unit. 
+The attacking player now adds up all of the attacking units’ 
+strengths and compares that number to the combined 
+strength of all of the defending units. This will yield a 
+numerical odds ratio (attacker to defender). Round off the 
+odds ratio downward to conform to one of the odds ratios 
+found on the Combat Results Table (CRT). Attacks at less 
+than 1-3 are resolved on the 1-3 column. Attacks at greater 
+than 9-1 are resolved on the 9-1 column. The attacking 
+player now rolls a die and applies all die roll modifiers (they 
+are cumulative) for this combat to yield a final modified 
+result on the CRT. A modifier is applied if any of the units on 
+that side that are involved in that combat qualify for the 
+modifier. For example, if one defending unit is Disrupted, 
+apply the Disrupted modifier. Multiple modifiers of the 
+same type are ignored. If the attacker is attacking multiple 
+hexes, the terrain most beneficial to the defender is used. 
+Minefield modifiers are applied in addition to the terrain of 
+the hex; a maximum of one minefield modifier may be 
+applied to each combat. If any attacking units are attacking 
+across a minefield, the minefield modifier is applied. 
+The results on the CRT are read as follows: the left side of 
+the slash applies to the attacker and the right side to the 
+defender. The defender applies all results first. 
+A * result is the number of steps that must be lost. The first 
+step loss for the attacker must come from the active unit 
+which initiated the attack. Most units in the game have only 
+a single step. All Allied and Italian armor units have two 
+steps. All German armor has three steps. When a multiple 
+step unit takes a loss simply replace the counter with the 
+reduced strength unit with the next lower step number. A 
+three goes to a two and a two to a one step unit. 
+A “—“result indicates that the combat had no effect 
+An “R” result indicates that all of the units involved must 
+Retreat two hexes. See Retreat (11.1) 
+A “D” result indicates that two of the units involved in the 
+attack are Disrupted. If only one unit participated in the 
+combat for that side, the second Disruption result is 
+ignored. The first Disrupted unit for the attacker must be 
+the active unit which initiated the attack; otherwise it is up 
+to the owning players, both attacker and defender, to 
+choose which units to Disrupt from his non Disrupted units. 
+If all units have been Disrupted there is no further effect. 
+The results on the CRT are cumulative. In a single combat, a 
+side could lose steps, be Disrupted, and forced to Retreat; 
+and the results are applied in that order. (Disrupted 
+retreating units are vulnerable to enemy ZOC; see 11.1) 
+Example (below): It is the first Action Phase of the game and 
+the Axis player (who automatically gets the first two 
+actions) has drawn the Action chit for the 15th/21st Panzer 
+and has chosen to activate the 21 Panzer. The Axis then 
+uses the 5/2 armor unit and some Italians who are not 
+active to attack and wipe out the 3 Indian unit in 1521 and 
+moves infantry around the remaining two units of the 3 
+Indian. The 5/1 armor unit then moves from hex 1622, 
+
+where it was placed as a reinforcement, to hex 1621 and 
+launches an attack. The armor unit has 23 movement points 
+left since it only moved one desert hex. (Being placed in a 
+hex as a reinforcement does not cost movement points.) 
+Unfortunately for the Axis, it costs 24 movement points to 
+launch a heavy attack, so the Axis settles for spending 16 
+movement points and launches a medium attack. 
+The defending unit uses its hard value strength of three 
+since armor is attacking. The armor uses its soft strength of 
+12 since the defender is not armor. The Axis has two 
+infantry units adjacent to the defending units each with a 
+soft strength of four. (Units that have already moved may 
+contribute to attacks initiated by another unit.) The total 
+attack strength adds up to 20 and the defense is three, 
+which rounds down to a 5-1. There are no modifiers, so a 
+roll of six produces a result of RD. the defending unit is 
+disrupted and must retreat two hexes. The defending unit is 
+completely surrounded by enemy units or ZOC except on 
+one side where it may retreat into a hex with the last unit of 
+the 3 Indian, but this does it no good as it must retreat two 
+hexes away from its original hex and all of those hexes are 
+through enemy ZOC. The unit is eliminated. The 5/1 armor 
+unit may now advance after combat if it so chooses. 
+Regardless of whether it advances or not, the unit may 
+continue to move using its remaining 7 movement points 
+since it received a result which allowed advance
+ 
+Example (below): The Italian armor unit 132/8 is the active 
+unit and starts its move adjacent to the defenses of Bir 
+Hacheim. It decides to attack. Since it has not moved, it may 
+spend 24 movement points to launch a heavy attack. The 
+defending units will be the Allied armor and infantry 
+adjacent to the Axis unit, the 10/Hus and Marine. The Axis 
+player may now include any other Axis units adjacent to the 
+defending units. The 132/9 armor can join the attack but 
+the 12Bers infantry may not because one of the defending 
+units is armor and infantry may never attack armor. 
+ 
+The attacking units will use their hard values (the first 
+number on counter) because one of the defending units is 
+an armor unit. The defenders will defend with their hard 
+values since one of the attackers is an armor unit. The total 
+attack value is 16 and the defense value is 17. The odds are 
+1-2. The defender gets a -2 die roll modifier for the 
+minefield and a -2 modifier for the fortification. The 
+attacker then plays a combat chit for a +1 to add to his +2 
+for a heavy attack and an anti-tank chit. The final modifier 
+for the combat is -1 to the attackers die roll. A roll of seven 
+is modified to a six, which causes both sides take a step loss. 
+The attacker step loss must come from the active unit, 
+132/8. The defender can choose which unit takes the step 
+loss, but he will also take a step loss on the Allied armor unit 
+because of the anti-tank chit. The defender chooses to put 
+both steps on the Allied armor unit in the hope of rebuilding 
+it later with replacements which cannot be used to rebuild 
+infantry units. 
+11.1 Retreat 
+When a unit is required to Retreat due to a combat result, it 
+must finish its retreat two hexes from its original location. 
+
+The unit chooses its retreat path according to the guidelines 
+listed below in order of priority. In other words, a unit may 
+violate a higher-numbered priority in order to avoid 
+violating a lower-numbered priority. If multiple units must 
+Retreat, the owning player decides the order in which the 
+units retreat and stacked units may retreat together. 
+1. A unit may not Retreat into or through a hex it could 
+not enter by normal movement. If forced to do so, the 
+unit is eliminated. This includes hexes occupied by 
+enemy units, escarpments not crossed by roads, un-
+breached minefields for the Axis, and the Allied 
+prohibited movement zone for the Allies. 
+2. Friendly units negate enemy ZOC for the purposes of 
+Retreat. A unit must avoid retreating into or through 
+an enemy ZOC, if possible. If a unit must retreat 
+through an enemy ZOC, the unit is Disrupted. If the 
+unit is already Disrupted, the unit takes a step loss. 
+This is done on a hex by hex basis, so the first hex 
+with an enemy ZOC would Disrupt the unit, and if the 
+unit then enters another enemy ZOC, the unit would 
+take a step loss. Exception: If two units are stacked 
+together and they are both Disrupted and the stack 
+retreats into an enemy ZOC, only one step is 
+eliminated. 
+3. Allied units retreat North, Northwest, Northeast, or 
+Southeast. Axis units retreat South, Southwest or 
+Southeast. There is no penalty for retreating in the 
+wrong direction if no hex is available in the proper 
+direction due to enemy units, enemy ZOC, or 
+impassable terrain. 
+4. A unit must avoid finishing its Retreat in a hex that is 
+over stacked if possible. A unit that has no choice 
+because of higher priorities but to end its retreat over 
+stacked may continue to retreat additional hexes until 
+it reaches a hex in which it can stack legally, if such a 
+hex is available. 
+5. Units may retreat off any map edge, in which case 
+they are placed on the turn record track two turns in 
+advance, when they may enter as reinforcements. 
+When they return they are in full supply and not 
+disrupted. Retreat off the map is always optional; a 
+unit could choose to retreat through an enemy ZOC, 
+in wrong direction, etc., instead of retreating off the 
+map. 
+ 
+ 
+ 
+11.2 Advance after Combat 
+If any of the defending units’ hexes are vacated as a result 
+of combat, any of the attacking units—not just the active 
+unit—may occupy the defenders’ vacated hexes up to the 
+stacking limit. 
+Exception: Allied units may not advance into the Allied 
+Prohibited Movement Area. (8.1) 
+Exception: Axis armor and anti-tank units may not advance 
+across an un-breached minefield hexside. Axis infantry may 
+advance across un-breached minefield hexes. 
+ZOC have no effect on Advance after Combat. Advance 
+after Combat does not cost movement points. Advance 
+after combat does not cause a unit to flip to its used side. 
+If eligible to Advance after Combat, the active unit that 
+initiated the combat may continue to move if it has 
+movement points, regardless of whether it advanced after 
+combat or not. 
+12.0 Disruption 
+Units become Disrupted as a result of combat, retreat 
+through enemy ZOC and air attacks. Disrupted units’ 
+movement allowances are reduced by 1/3. This modifier is 
+in addition to the modifiers for being Out of Supply or 
+Isolated. For example, a unit which is both Out of Supply 
+and Disrupted has its movement allowance reduced by 2/3. 
+A unit that is Isolated and Disrupted has no movement 
+allowance at all. 
+If one or more of the defending units in a combat are 
+disrupted, a +2 modifier is applied to the combat die roll. 
+If one or more of the attacking units in a combat are 
+disrupted, a -2 modifier is applied to the combat die roll. 
+If both the attacker and defender have disrupted units 
+involved in the same combat these modifiers will cancel 
+each other out. 
+Disrupted units have no ZOC. 
+Disrupted units ignore additional Disrupted results. 
+Disrupted units have their disruption removed in the 
+Recovery Phase. (See 3.0 Sequence of Play.) 
+ 
+
+13.0 Tactical Chits 
+There are six types of Tactical Chits in the game. The 
+Tactical Chits are placed in the same pool as the Action Chits 
+and are randomly selected during the Action Phase. When 
+pulled, Tactical Chits are placed face down in the Tactical 
+Available Box on the map for use in this Action Phase or a 
+later one during this turn. Exception (13.5, 13.6) When and 
+how each type of Tactical Chit is played is explained in the 
+rules for each type of Tactical Chit. Chits in the Tactical 
+Available Box are used once and then placed in the Played 
+Tactical Box, face up. In the Chit Phase, all Tactical Chits in 
+the Tactical Available box and the Played Tactical Box are 
+placed back in the pool of available chits (your cup). 
+13.1 Combat 
+This Tactical Chit allows the Axis player holding it to add one 
+to the die roll of any one of his attacks or to subtract one 
+from the die roll of any one of his opponent’s attacks. The 
+Allied player may add two to the die roll of any one of his 
+attack’s or subtract one from the die roll of any one of his 
+opponent’s attacks. This chit is played after the odds and 
+modifiers are calculated for an attack but before the attack 
+die roll. The attacker announces first if he is using this 
+Tactical Chit if both players have it available. 
+13.2 Extra Move 
+This Tactical Chit allows a player to activate one additional 
+unit of any formation. The Extra Move Chit does not need to 
+be played in the action it is drawn, it may be saved for a 
+later action during the turn. It may be played right after a 
+friendly Action Chit has been used to activate a formation or 
+individual unit but before any of the units move or attack. 
+The unit activated by the extra move is now part of the 
+group of activated units and the player may move these 
+activated units in any sequence he desires. 
+13.3 Replacement 
+Replacements represent the repair of vehicles and the 
+reserves of tanks held in the rear areas. Replacements may 
+only be used by armored units 
+The Replacement Chit does not need to be played in the 
+action it is drawn, it may be saved for a later action during 
+the turn. It may be played right after a friendly Action Chit is 
+pulled but before the player decides which units to activate. 
+The unit being replaced can be from any formation; it is not 
+limited to the formation of the Action Chit pulled. 
+This chit allows the player to replace one step loss from a 
+multiple step unit by removing a reduced strength unit and 
+replacing it with the next higher step unit. A one-step unit 
+becomes a two, a two-step unit becomes a three. 
+Alternatively, the player may rebuild an eliminated one-step 
+unit, including reduced strength units, from among the units 
+destroyed. Rebuilt Axis units are placed anywhere in the 
+area prohibited to Allied movement. Rebuilt Allied units are 
+placed on any North or East map edge hex. 
+When rebuilding a unit from one step to two, two to three, 
+or rebuilding a one-step unit and placing it on the map, the 
+following conditions apply: the hex must be in supply and 
+not enemy occupied nor in an enemy ZOC. Stacking limits 
+apply after replacements have been placed. 
+A rebuilt unit may be activated normally in the Action Phase 
+in which it is rebuilt. 
+13.4 Air 
+The Air Tactical Chit must be played the moment it is drawn. 
+If it is drawn after a Sandstorm chit was previously drawn in 
+the current Action Phase, the Air Chit is considered played 
+and had no effect. Otherwise apply in the following manner: 
+Allied: player may immediately attack any Axis unit with an 
+Air Attack. Roll one die: on a 0-2 the unit is Disrupted. 
+Axis: player may immediately attack any Allied unit with an 
+Air Attack. Roll one die: on a 0-1 the Allied unit losses a 
+step. On a 2-6 the Allied unit is Disrupted. Allied units in a 
+fortified hex receive a +2 modifier to the Axis die roll. 
+13.5 Sandstorm 
+A Sandstorm chit must be played the moment it is drawn. 
+All movement is reduced by 2/3 for the following action. 
+(the next friendly formation that is activated)This modifier is 
+in addition to any modifiers for Disruption, Out of Supply 
+and Isolation. This means that during a Sandstorm no unit 
+suffering from one of the above-named conditions will be 
+able to move during this Action Phase. 
+13.6 Anti-Tank (Axis Only) 
+An Anti- Tank chit increases Allied armor losses by one step 
+in any combat it is used, offense or defense. The chit is 
+played after the odds and modifiers are calculated for the 
+attack but before the attack die roll. The loss from the anti-
+tank chit is taken by the Allied player after the combat die 
+roll, but before any other losses are applied. 
+
+Exception: An Anti-Tank chit may not be played if the only 
+Axis units involved in the combat are from the Pavia, Brescia 
+or Trieste Divisions. 
+13.7 Withdraw/Attack (Allied Only) 
+The Withdraw/Attack Chit need not be played in the action 
+in which it is drawn. It may be played during any of the 
+actions of the turn immediately after a friendly Action Chit 
+has been pulled. It may be played two ways—as a 
+withdrawal or as an attack. If it is not played during a turn 
+as either a withdrawal or an attack, then the Axis player 
+receives one victory point added to his victory point track. 
+If played as a withdrawal, all units of a single formation, and 
+its Action chit, if there is one, is permanently removed from 
+the game. Any unit that may not trace a path free of enemy 
+units to the board edge may not be removed from the map. 
+The units removed from the map do not count as 
+eliminated for victory points. Any units of that formation 
+that have already been eliminated do count for victory 
+points. The Allied player may withdraw a formation that has 
+had all of its units eliminated. (This is often done to remove 
+from the pool the Action chit of a formation that has been 
+eliminated) The Allied player may not withdraw the same 
+formation more than once per game. 
+By withdrawing units, the Allied player can create a 
+situation in which he has more actions available in a turn 
+than action chits in the pool to be drawn. In this case the 
+extra actions are wasted and cannot be used. 
+If the Allied player does not play the chit as a withdrawal, it 
+may be played as a mandatory attack. The Allied player 
+plays the Withdraw/Attack chit immediately after a friendly 
+Action chit is pulled and then attacks any Axis unit in that 
+Action Phase with ground units. The mandatory attack gives 
+no benefit in combat. 
+13.8 Playing Multiple Tactical Chits 
+The Extra Move, Replacement, and Withdraw/Attack 
+Tactical Chits may all only be played after a friendly Action 
+Chit, but any number of them may be played after the same 
+Action Chit, and in whatever order the player desires. 
+Example: The Allied player has pulled the Action Chit for the 
+22nd Armor Brigade, and decides first to use a Withdraw Chit 
+to remove the remains of the 4th Armor Brigade, followed 
+by using an Extra Move Chit to activate the 5 GH Battalion 
+of the 150th Brigade, and then the replacement chit to build 
+up a unit of the 2nd Armor Brigade. 
+14.0 Minefields 
+Axis units may not move across a minefield hexside unless it 
+is breached. Allied units may move across a minefield 
+hexside at a cost of 12 movement points. Roads and tracks 
+do not negate the effects of minefields. 
+Axis infantry units may advance after combat across an un-
+breached minefield hexside. Axis units may not retreat 
+across an un-breached minefield hexside, including Axis 
+infantry. 
+Axis supply may not be traced across a minefield hexside 
+unless it is breached. Allied supply may be traced across a 
+minefield hexside, breached or un-breached. 
+An attack across an un-breached minefield hexside receives 
+a -2 combat modifier. This applies to both Axis and Allies. 
+Some of the minefields on the map were constructed during 
+the battle. These minefields have no effect until the 
+minefield phase of the turn in which they are completed: 
+Hex 1102: June 5-6 
+Line from 0204 to 0801, inclusive: June 9-10 
+14.1 Breaching Minefields 
+Starting on the May 28th turn, the Axis player may breach 
+minefield hexsides. The Axis player may only attempt to 
+place two breach markers per turn. If a minefield hexside is 
+breached, that hexside is now treated as if the minefield did 
+not exist; it no longer has any effect on movement, supply 
+or combat for either side. 
+ The Axis player is limited to the total number of breach 
+counters provided in the game. They may not be removed 
+or reused once a breach has been made. 
+During the Minefield phase the Axis player may place a 
+breach maker in any hex adjacent to a minefield hexside 
+that contains an Axis infantry unit. The breach counter, with 
+its under construction side facing up, is placed pointing 
+toward the minefield hexside that the Axis player is trying to 
+breach. The Axis unit may not move, attack, or retreat 
+during the following Action Phases. At the start of the 
+Minefield Phase in the next game turn the minefield is 
+considered breached and the marker, still pointing at its 
+target hexside, is flipped to its breached side unless an 
+
+Allied unit occupies the hex on the opposite side of the 
+breach. In this case the breach does not occur and the Axis 
+player removes the breach counter from the map. He may 
+now attempt to breach a new hexside, try the same hexside 
+again in the hopes of driving off the Allied unit with other 
+forces, or just save the marker for an attempt in a later turn. 
+If a breach is successful, the minefield hexside on the 
+opposite side of the minefield hex from the hexisde that 
+was just breached is also breached if there are no Allied 
+units adjacent to it. Position the breach maker in the middle 
+of the minefield box to indicate the two hexsides on 
+opposite sides of the hex that have been breached. (The 
+absence of Allied units has allowed the Axis infantry unit to 
+clear a straight path all the way across the minefield in a 
+single turn.) 
+If the Axis player forms a breach in one hexside of a 
+minefield box, and then in a later turn an Axis unit manages 
+to breach the hexside on the opposite side of the box (this 
+would require the unit to be adjacent to the hexside), the 
+Axis player may then reposition one of the breach markers 
+so that it marks both breaches, thus allowing him to remove 
+the other breach marker from the map. (Remember, the 
+number of breach markers is limited.) 
+Example: In the first 
+illustration (left) three 
+Axis infantry units have 
+placed under 
+construction markers 
+during the minefield 
+phase showing that 
+they are attempting to 
+breach minefield hexes 
+adjacent to them in 
+1314, 1315 and 1316. 
+The Axis infantry in 
+1217 may place an 
+under construction 
+marker to attempt to 
+breach into hex 1316 
+even though an enemy 
+unit is present. (The 
+Axis can only place two breach markers but I needed 
+examples for three possible outcomes.) 
+The second illustration (below) shows the same area a turn 
+later during the minefield phase. The breach attempt from 
+1215 to 1314 was not completed because the Allies moved 
+a unit to hex 1314. The breach attempt from 1216 to 1315 
+was successful and the marker was turned to its breach side 
+showing a path through the minefield into hex 1315. Finally 
+the breach attempt from 1217 to 1316 was able to breach 
+into 1316 and into the hex on the other side 1416 because 
+no Allied units were in hex 1416. (Allied unit that was in 
+1316 moved elsewhere during the turn)
+ 
+14.2 Minefields and Axis Actions 
+Starting on the May 29 turn, the Axis players must be able 
+to trace a line of communication (LOC) during the Supply 
+Phase from the west map edge through a breached 
+minefield hex, from 0104 to 1118 inclusive, to at least eight 
+Axis units. The LOC may not be traced through enemy units, 
+escarpments not crossed by a road, or an un-breached 
+enemy minefield. The LOC may not cross into a breached 
+minefield hex and then back into the Allied Prohibited 
+Movement Area. If the Axis player cannot fulfill this 
+requirement his actions are reduced by one for that turn. 
+Starting on the Jun 1-2 turn, the Axis player must be able to 
+trace two LOC during the Supply Phase from the west map 
+edge through two breached minefield hexes, from 0104 to 
+1118 inclusive, or his actions will be reduced. Each LOC 
+must be able to trace to at least eight Axis units. The LOC 
+may not cross into a breached minefield hex and then back 
+into the Allied Prohibited Movement Area. For the purposes 
+of this rule, the Axis player may not trace both LOC to the 
+same unit. If the Axis player cannot fulfill these 
+requirements his actions are reduced by one for the turn. 
+
+Historical Note: The Axis LOC around Bir Hacheim at the 
+bottom of the map was long and vulnerable and could not 
+supply the main Axis attack for long. Opening up other 
+routes through the Allied minefields and keeping them open 
+was a necessity if the Axis forces were to survive. 
+15.0 Reinforcements 
+Reinforcements become available according to the 
+Reinforcement Schedule. (15.1) All reinforcing units must be 
+placed in their arrival hexes when the unit or its formation is 
+activated for the first time. Some reinforcing units have 
+multiple arrival hexes and they may be placed in any of 
+them. A player may use an Extra Move Tactical Chit or 
+another formation’s action chit to activate an individual 
+reinforcing unit. An arriving reinforcement may not be 
+placed in a hex occupied by an enemy unit; it may be placed 
+in an enemy ZOC. 
+A unit spends no movement points to be placed in the 
+reinforcement hex. A reinforcing unit is an active unit and 
+may move and fight with its full movement allowance. 
+Multiple units may be placed in the same reinforcement hex 
+during an Action Phase, creating a temporary over stacked 
+hex, which must be corrected before the next time stacking 
+is judged, (10.0) or the excess units will be eliminated. If a 
+reinforcing unit does not enter on the turn it is scheduled to 
+arrive because the unit or formation was never activated or 
+the arrival hexes were blocked, the unit(s) are available as 
+reinforcements during all following turns. 
+The Allied player has several turns in which he receives 
+armor replacements as reinforcements. These replacements 
+arrive in the supply phase and are spent at that point 
+rebuilding any Allied armor units using the normal 
+procedures (13.3). Exception: The Allied player may spend 
+two replacements on a two-step eliminated unit and place it 
+back on the map, something that is impossible with a 
+replacement chit. These replacements must be used in the 
+turn of arrival; they may not be saved for later turns. 
+15.1 Reinforcement Schedule 
+Axis 
+May 27a: 21 Panzer-all units in 1321, 1422, 1521, 1622, 
+1721. 
+May 27a: 15 Panzer-all units in 1622, 1721, 1822, 1921, 
+2022. 
+May 27a: 90 Light-all units in 1721, 1822, 1921, 2022, 2121. 
+June 7-8: Brescia-all units in 0108, 0109, 0110. 
+Allies (all units in north or east map edge hexes) 
+May 27p: 7 Motor (2 KR Rifle Corps). 
+May 29: 29 Indian-all units, 3 tank replacements. 
+June 1-2: 151 Infantry (9 Durham Light), 2 tank 
+replacements. 
+June 3-4: 10 Indian-all units, 9 Indian (3/9 Jat, 2 W. 
+Yorkshire), Independent (Cumberland) 
+June 5-6: 32 ATB-all units. 
+June 9-10: 1 tank replacement 
+16.0 Victory Conditions 
+During the Victory Point Phase of each turn the Axis player 
+collects one victory point if at least four Axis units that are 
+not Out of Supply or Isolated are located in hexes on the 
+north map edge. A victory point marker is provided to keep 
+track of the Axis total on the victory point track. 
+During the Victory Point Phase of each turn the Axis player 
+collects one victory point if an Axis unit occupies hex 2803. 
+The maximum number of victory points the Axis may collect 
+during the game is 19. Note that in Scenario One the Axis 
+starts with two victory points. The Allies do not collect 
+victory points during the game. 
+At the end of the game the Axis player receives one victory 
+point for each enemy step eliminated and the Allied player 
+receives two victory points for each enemy step eliminated. 
+Steps that have been replaced do not count as eliminated 
+for victory points. 
+The player with the most victory points wins. If both players 
+have the same number of victory points the game is a tie. 
+17.0 Scenarios 
+Scenario One 
+First Turn: May 27 AM Last Turn: June 1-2 
+Victory Conditions: In addition to the normal rules (16.0), 
+the Allied player collects one victory point for each Allied-
+occupied fortified hex at the end of this scenario. The Axis 
+player starts with 2VP marked on the VP track 
+Estimated playing time: 3.5 hours 
+Allies: Set up first, one unit per hex, unused side up unless 
+otherwise noted. 
+
+3 Indian- all units within 1 hex of 1520 
+7 Motor (2 Rifle Brigade, 9 KR Rifle Corps) within 2 hexes of 
+2720 used side up. 
+9 Indian-3/12 Frontier in 2705 
+1 Free Fr. -all units in hexes 1218,1219,1318,1118 
+201 Guards-all units 1504, 1605 two units per hex 
+150 Infantry-all units within 2 hexes of 0810 
+22 Armour-all units within 1 hex of 1310 
+4 Armour-all units within 3 hexes of 2615 
+2 Armour-all units within 1 hex of1901 
+1 ATB-all units within 1 hex of 0806 
+69 Infantry-all units within 3 hexes of 0201 
+Axis: may start stacked, unused side up. 
+Trieste-all units within 3 hexes of 0517 
+Ariete-all units within one hex of 1321 
+Pavia-all units within 2 hexes of 0110 
+Campaign Game 
+First Turn: May 27 AM Last Turn: June 13-14 
+Victory Conditions: In addition to the normal rules (16.0), 
+the Allied player collects two victory points per hex for 
+occupying 1504, 1605, 2705 and 3 victory points per hex for 
+occupying 1118, 1218, 1219, 1318. 
+Estimated playing time: 7 hours 
+Set Up: same as Scenario One 
+18.0 Players Notes 
+Axis Player: In order to win, the Axis player needs to 
+eliminate a large number of Allied units and also to capture 
+some of the geographical objectives on the map that are 
+worth victory points (VP), while at the same time keeping 
+his own losses to a minimum. The one VP gained per turn 
+for having a unit in 2803 or for having four units in a hex 
+along the north map edge are good ways of picking up some 
+VP; advancing towards these objectives also has the 
+advantage of spreading the Allied defenses. You can also 
+pick up some VP by destroying the Allied units in the 
+fortified hexes, but be warned—it will require a substantial 
+investment of both time and force to blast them out. The 
+Axis also needs to be patient. In many games the Axis will 
+appear to be losing, but then the Allies collapse towards the 
+end, especially in Scenario One, which has a final turn in 
+which the Axis has four actions and the Allies only one. 
+The Axis player needs to give some thought to the minefield 
+breaching rules right from the start of the game. Set up the 
+Trieste and Pavia divisions adjacent to the minefields. 
+Gaining control of the gap in the rear minefield between 
+hexes 1214 and 1313 is critical, as is controlling the triangle 
+of open ground that is surrounded by the minefields north 
+of Bir Hacheim. 
+Allied Player: You have more forces than your opponent, 
+and eliminated units cost you only half as many VP as the 
+Axis player, so aim to whittle away the enemy with 
+exchanges. Low odds attacks with positive modifiers on the 
+die roll work to your advantage. Look to attack Axis infantry 
+units that are not protected by armor with Allied infantry 
+units, and go after Axis armor when it is used or damaged. 
+Make the Axis player work hard to establish a LOC, and then 
+try to maneuver behind his units to cut it off. Remember, it 
+takes a turn to breach a minefield, and you have time to 
+move a unit into place to block the attempt. 
+Study your reinforcement schedule, especially your tank 
+replacements. This will tell you when you can be a little 
+more aggressive with your armor, since the replacements 
+are use them or lose them. Also note the changes in the 
+number of actions during each turn and the different units 
+that are available in the pool each turn. This can help guide 
+your overall plan. 
+19.0 Designer’s Notes 
+This game uses the same basic system as our game “Celles” 
+with a few changes. Minefields were added and infiltration 
+was deleted (hard to do with no cover). Hard and Soft 
+combat factors were introduced to show that these units 
+were not combined arms teams and no effective infantry 
+anti-tank weapons were available. Supply is even easier to 
+trace in terrain that could be driven over in almost any 
+direction and the tactical chits are slightly different to 
+reflect the different battle. 
+Playtest Credits-Richard White, Michael Fostar, Dave 
+Alston, David Moody, Richard Handewith, Joe 
+Oppenheimer, Russ Rider 
+Rules Editing-Gary Miller
