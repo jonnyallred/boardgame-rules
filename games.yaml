@@ -359,3 +359,9 @@ games:
   player_count: 2-4
   play_time: 40-80 min
   designer: Bruno Cathala
+- name: Adrenaline
+  bgg_id: 202408
+  status: pending
+  player_count: 3-5
+  play_time: 30-60 min
+  designer: Filip Neduk
