@@ -78,6 +78,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [A Distant Plain](rules/a-distant-plain/) | 1-4 | 120-360 min | Brian Train, Volko Ruhnke |
 | [A Feast for Odin](rules/a-feast-for-odin/) | 1-4 | 30-120 min | Uwe Rosenberg |
 | [A Few Acres of Snow](rules/a-few-acres-of-snow/) | 2 | 60-120 min | Martin Wallace |
+| [Five Tribes: The Djinns of Naqala](rules/five-tribes-the-djinns-of-naqala/) | 2-4 | 40-80 min | Bruno Cathala |
 | [A Game of Thrones: Catan – Brotherhood of the Watch](rules/a-game-of-thrones-catan-brotherhood-of-the-watch/) | 3-4 | 60-90 min | Klaus Teuber |
 | [A Game of Thrones: The Board Game](rules/a-game-of-thrones-the-board-game/) | 3-6 | 120-240 min | Christian T. Petersen |
 | [A Game of Thrones: The Card Game](rules/a-game-of-thrones-the-card-game/) | 2-4 | 60-120 min | Eric M. Lang, Nate French, Christian T. Petersen |
