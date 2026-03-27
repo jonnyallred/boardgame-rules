@@ -150,6 +150,10 @@ The player with the highest total VP wins. Ties broken by most Gold Coins remain
 - Last Camel placed
 - No legal meeple moves available
 
+### Merchandise
+
+Rarity is indicated by pips on the bottom of each card: fewer pips = rarer. Rarer goods appear less frequently in the draw pile.
+
 ### Key Numbers
 - Grid: 5x6 tiles (30 total)
 - Starting meeples: 3 per tile (90 total)

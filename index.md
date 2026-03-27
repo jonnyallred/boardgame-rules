@@ -103,6 +103,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Adaptoid](rules/adaptoid/) | 2 | 20 min | Nestor Romeral Andres |
 | [Adji-boto](rules/adji-boto/) | 2 | 15-30 min | Traditional |
 | [Admirals](rules/admirals/) | 2-4 | 60-120 min | John Bohrer |
+| [Adrenaline](rules/adrenaline/) | 3-5 | 60 min | Filip Neduk |
 | [Advance to Boardwalk](rules/advance-to-boardwalk/) | 2-4 | 45 min | Charles Phillips |
 | [Advanced Civilization](rules/advanced-civilization/) | 2-8 | 360-720 min | Francis Tresham |
 | [Advanced Squad Leader: Starter Kit #2](rules/advanced-squad-leader-starter-kit-2/) | 2 | 60-240 min | Ken Dunn |
