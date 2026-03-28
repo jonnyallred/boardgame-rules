@@ -1603,6 +1603,7 @@ The same prompt works — any AI assistant that can fetch web pages will pull th
 | [Rajas of the Ganges](rules/rajas-of-the-ganges/) | 2-4 | 45-75 min | Inka Brand, Markus Brand |
 | [Ramses II](rules/ramses-ii/) | 2-4 | 20-30 min | Gunter Baars |
 | [Rapier & Dagger](rules/rapier-dagger/) | 2 | 30-60 min | Unknown |
+| [Raptor](rules/raptor/) | 2 | 25-30 min | Bruno Cathala, Bruno Faidutti |
 | [Rare Species](rules/rare-species/) | 2-4 | 30-45 min | Henry Russell |
 | [Rat Hot](rules/rat-hot/) | 2 | 15-20 min | Jacques Zeimet |
 | [Ratrace](rules/ratrace/) | 2-6 | 60-120 min | Alfons Rubbens |

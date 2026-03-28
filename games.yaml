@@ -6433,7 +6433,7 @@ games:
     correct PDF'
 - name: Ra
   bgg_id: 12
-  status: summarized
+  status: extracted
   notes: PDF from fgbradleys.com; extracted and summarized
 - name: Race for the Galaxy
   bgg_id: 28143
@@ -6978,3 +6978,10 @@ games:
 - name: Zooloretto
   bgg_id: 27588
   status: summarized
+- name: Raptor
+  bgg_id: 177639
+  status: summarized
+  player_count: 2-2
+  play_time: 30-30 min
+  designer: Bruno Cathala, Bruno Faidutti
+  pdf_url: https://cdn.1j1ju.com/medias/cf/cc/80-raptor-rulebook.pdf
