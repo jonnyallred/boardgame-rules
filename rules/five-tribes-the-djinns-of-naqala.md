@@ -113,8 +113,7 @@ Players sum their Victory Points:
 | Palm Trees on your tiles | 3 VP each |
 | Palaces on your tiles | 5 VP each |
 | Tile values | Sum of VP values on all tiles you control |
-| Merchandise sets | Points for each set of unique Merchandise cards |
-| Fakirs | 1 VP each (scored individually, not as wild for Merchandise sets) |
+| Merchandise sets | Points per set of unique Merchandise cards; duplicates form a second set (Fakirs score 0 VP) |
 
 **Merchandise Scoring Table:**
 
@@ -122,7 +121,7 @@ Players sum their Victory Points:
 |----------|---|---|---|---|---|---|---|---|---|
 | VP | 1 | 3 | 7 | 13 | 21 | 30 | 40 | 50 | 60 |
 
-Note: Fakirs do NOT count as wild for Merchandise sets. You score only for unique Merchandise types. Each Fakir scores 1 VP as an individual card.
+You may score multiple sets — duplicates form a second (smaller) set. Example: 2 Fish, 2 Pottery, 1 Silk, 1 Ivory, 1 Jewels, 1 Gold = set of 6 (30 VP) + set of 2 (3 VP) = 33 VP. Fakirs score **0 VP** and are not counted in any set.
 
 The player with the highest total VP wins. Ties broken by most Gold Coins remaining.
 
@@ -131,7 +130,7 @@ The player with the highest total VP wins. Ties broken by most Gold Coins remain
 - **2-Player Game**: Each player uses 2 Turn markers and 11 Camels. Both markers are bid separately, meaning a player can play twice per turn or even back-to-back.
 - **Assassins and Tile Control**: It is possible to control 2 tiles in 1 turn: the tile where you end your move (if emptied) and a tile emptied by Assassin kills. You must take the first tile; the second requires having Camels left.
 - **Resource Display**: After Merchants collect cards, gaps are NOT refilled until that player's Clean-Up step. The next Merchant action in the same turn may have fewer choices.
-- **Fakirs**: Do NOT count as wild for Merchandise sets. They score 1 VP each as individual cards. Fakirs ARE wild for paying for Djinns (1 Fakir = 1 Elder), for increasing Builders' gold multiplier, and for extending Assassins' kill range.
+- **Fakirs**: Score **0 VP**. Not counted in Merchandise sets. Fakirs ARE wild for paying for Djinns (1 Fakir = 1 Elder), for increasing Builders' gold multiplier, and for extending Assassins' kill range.
 - **Tile Control**: Once a Camel is placed, that tile's ownership never changes, even if new meeples are dropped on it.
 - **Last Meeple Rule**: You can pass through empty tiles (dropping meeples), but you can NEVER end on an empty tile.
 - **Loops**: Require at least 5 meeples to complete. No immediate backtracking, but returning to a tile after an intervening tile is allowed.
