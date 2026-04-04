@@ -82,17 +82,15 @@ def check_quality(rules_path: str, extracted_path: str) -> QualityResult:
     return result
 
 
-def check_batch(
+def check_games(
+    games: list[dict],
     registry_path: str,
     rules_dir: str = "rules",
     extracted_dir: str = "extracted",
+    restore_status: str | None = None,
 ) -> dict:
-    """Check all games with status 'summarized', update to 'validated' or 'flagged'.
-
-    Returns stats dict with counts of validated, flagged, and errors.
-    """
+    """Check an explicit list of games and update registry statuses."""
     stats = {"validated": 0, "flagged": 0, "errors": 0}
-    games = get_games_by_status(registry_path, "summarized")
 
     for game in games:
         name = game["name"]
@@ -102,11 +100,15 @@ def check_batch(
 
         if not os.path.exists(rules_path):
             print(f"  SKIP {name}: rules file not found ({rules_path})")
+            if restore_status:
+                update_status(registry_path, name, restore_status)
             stats["errors"] += 1
             continue
 
         if not os.path.exists(extracted_path):
             print(f"  SKIP {name}: extracted file not found ({extracted_path})")
+            if restore_status:
+                update_status(registry_path, name, restore_status)
             stats["errors"] += 1
             continue
 
@@ -114,6 +116,8 @@ def check_batch(
             result = check_quality(rules_path, extracted_path)
         except Exception as e:
             print(f"  ERROR {name}: {e}")
+            if restore_status:
+                update_status(registry_path, name, restore_status)
             stats["errors"] += 1
             continue
 
@@ -130,6 +134,20 @@ def check_batch(
     return stats
 
 
+def check_batch(
+    registry_path: str,
+    rules_dir: str = "rules",
+    extracted_dir: str = "extracted",
+    limit: int = 0,
+) -> dict:
+    """Check all games with status 'summarized', update to 'validated' or 'flagged'.
+
+    Returns stats dict with counts of validated, flagged, and errors.
+    """
+    games = get_games_by_status(registry_path, "summarized", limit=limit)
+    return check_games(games, registry_path, rules_dir=rules_dir, extracted_dir=extracted_dir)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Quality check rules files")
     parser.add_argument("rules_file", nargs="?", help="Path to rules markdown file")
@@ -138,6 +156,7 @@ def main():
     parser.add_argument("--registry", default="games.yaml", help="Path to games registry")
     parser.add_argument("--rules-dir", default="rules", help="Rules directory")
     parser.add_argument("--extracted-dir", default="extracted", help="Extracted text directory")
+    parser.add_argument("--limit", type=int, default=0, help="Max summarized games to check (0 = all)")
     args = parser.parse_args()
 
     if args.batch:
@@ -146,6 +165,7 @@ def main():
             args.registry,
             rules_dir=args.rules_dir,
             extracted_dir=args.extracted_dir,
+            limit=args.limit,
         )
         print(f"\nResults: {stats['validated']} validated, {stats['flagged']} flagged, {stats['errors']} errors")
         sys.exit(1 if stats["flagged"] or stats["errors"] else 0)

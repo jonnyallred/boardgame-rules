@@ -46,14 +46,21 @@ python -m scripts.process_batch --stage extract --limit 50
 python -m scripts.process_batch --stage summarize --limit 20
 
 # Quality check summarized rules
-python -m scripts.process_batch --stage quality_check
+python -m scripts.process_batch --stage quality_check --limit 20
 
 # Check overall pipeline status
 python -m scripts.process_batch --status
 ```
 
-**Status flow:** `queued → found → downloaded → extracted → summarized → validated`
-Terminal states: `not_found`, `flagged` (need human attention)
+**Status flow:** `pending → found → downloaded → extracted → summarized → validated`
+
+**Retryable states:** `pending`, `not_found`
+
+**Terminal states:** `validated`, `flagged`
+
+**Transient claimed states:** `downloading`, `extracting`, `summarizing`, `quality_checking`
+
+`process_batch` claims work atomically before running a stage so concurrent workers do not process the same game twice. Claimed jobs carry a `claimed_at` timestamp in `games.yaml`. If a worker crashes, the next batch run will automatically reclaim stale claimed jobs after 1 hour.
 
 ### Bulk Research (Parallel Subagents)
 
@@ -89,10 +96,10 @@ python -m scripts.rebuild_index
 
 ### Batch PDF Finding (Interactive)
 
-To find rulebook PDFs for queued games using Playwright browser tools:
+To find rulebook PDFs for pending or retryable games using Playwright browser tools:
 
 1. Check queue: `python -m scripts.process_batch --status`
-2. Ask Claude Code: "Find rulebook PDFs for the next 20 queued games"
+2. Ask Claude Code: "Find rulebook PDFs for the next 20 pending games"
 3. Claude searches (in priority order): 1j1ju.com, Google, BGG files page
 4. For each game found, update registry: `status: found`, `pdf_url: "..."`
 5. For games not found: `status: not_found`, `notes: "reason"`
@@ -103,16 +110,30 @@ Queue management helpers:
 from scripts.registry import get_games_by_status, update_game
 
 # Get next batch
-games = get_games_by_status("games.yaml", "queued", limit=20)
+games = get_games_by_status("games.yaml", "pending", limit=20)
 
 # Record a found PDF
 update_game("games.yaml", "Agricola", status="found",
             pdf_url="https://1j1ju.com/rules/agricola-en.pdf")
 
-# Record not found
+# Record not found (can be retried later)
 update_game("games.yaml", "Obscure Game", status="not_found",
             notes="No English rulebook found")
 ```
+
+To retry older misses, query `not_found` instead of `pending`.
+
+### Reclaim Testing
+
+To test stale-claim recovery on a scratch registry:
+
+1. Copy the registry: `cp games.yaml /tmp/games-test.yaml`
+2. Edit one record into a transient state such as:
+   - `status: summarizing`
+   - `claimed_at: "2026-04-01T00:00:00+00:00"`
+3. Run the matching stage:
+   - `python -m scripts.process_batch --registry /tmp/games-test.yaml --stage summarize --limit 1`
+4. The stale claimed record should be reclaimed and processed.
 
 ## Rules File Format
 YAML frontmatter (title, bgg_id, player_count, play_time, designer, source_pdf, extracted_date, summarized_date, rulebook_version) + Markdown body with sections: Overview, Components, Setup, Turn Structure, Actions, Scoring / Victory Conditions, Special Rules & Edge Cases, Player Reference.

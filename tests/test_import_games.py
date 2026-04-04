@@ -78,7 +78,7 @@ def test_import_from_database(registry_path, mock_db, mock_master_csv):
 def test_import_sets_queued_status(registry_path, mock_db, mock_master_csv):
     import_from_database(mock_db, registry_path, mock_master_csv)
     reg = load_registry(registry_path)
-    assert all(g["status"] == "queued" for g in reg)
+    assert all(g["status"] == "pending" for g in reg)
 
 
 def test_import_includes_bgg_id(registry_path, mock_db, mock_master_csv):

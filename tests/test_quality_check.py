@@ -1,6 +1,6 @@
 import pytest
 from pathlib import Path
-from scripts.quality_check import check_quality, QualityResult
+from scripts.quality_check import check_quality, check_batch, QualityResult
 
 GOOD_RULES = """---
 title: "QE"
@@ -144,3 +144,35 @@ def test_uncertainty_phrases_flagged(tmp_path):
     result = check_quality(str(path), str(extracted))
     assert result.passed is False
     assert any("unclear" in issue.lower() for issue in result.issues)
+
+
+def test_check_batch_honors_limit(tmp_path):
+    registry_path = tmp_path / "games.yaml"
+    registry_path.write_text(
+        """games:
+  - name: Game One
+    bgg_id: 1
+    status: summarized
+  - name: Game Two
+    bgg_id: 2
+    status: summarized
+"""
+    )
+
+    rules_dir = tmp_path / "rules"
+    rules_dir.mkdir()
+    extracted_dir = tmp_path / "extracted"
+    extracted_dir.mkdir()
+
+    for slug in ("game-one", "game-two"):
+        (rules_dir / f"{slug}.md").write_text(GOOD_RULES.replace("QE", slug))
+        (extracted_dir / f"{slug}-rules.txt").write_text("Rules text " * 300)
+
+    stats = check_batch(
+        str(registry_path),
+        rules_dir=str(rules_dir),
+        extracted_dir=str(extracted_dir),
+        limit=1,
+    )
+
+    assert stats["validated"] == 1

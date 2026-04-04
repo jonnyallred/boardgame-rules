@@ -1,6 +1,7 @@
 import pytest
 from unittest.mock import patch, MagicMock
 from scripts.bgg import search_game, get_game_details, parse_search_results, parse_game_details
+from scripts.find_rulebook import should_skip_existing
 
 SEARCH_XML = """<?xml version="1.0" encoding="utf-8"?>
 <items total="2" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
@@ -66,3 +67,11 @@ def test_get_game_details(mock_get):
     details = get_game_details(13, token="test-token")
     assert details["name"] == "Catan"
     assert details["bgg_id"] == 13
+
+
+def test_should_skip_existing_only_for_terminal_statuses():
+    assert should_skip_existing(None) is False
+    assert should_skip_existing({"status": "pending"}) is False
+    assert should_skip_existing({"status": "queued"}) is False
+    assert should_skip_existing({"status": "not_found"}) is False
+    assert should_skip_existing({"status": "downloaded"}) is True

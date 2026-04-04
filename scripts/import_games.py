@@ -2,7 +2,7 @@
 """Import games from boardgame-database into the rules pipeline queue.
 
 Reads game YAML files from a sibling boardgame-database project and creates
-entries in this project's games.yaml with status "queued". Cross-references
+entries in this project's games.yaml with status "pending". Cross-references
 master_list.csv to get BGG IDs.
 
 Usage:
@@ -168,7 +168,7 @@ def import_from_database(
         entry: dict = {
             "name": name,
             "bgg_id": bgg_id,
-            "status": "queued",
+            "status": "pending",
         }
 
         player_count = _format_player_count(game_data.get("possible_counts"))

@@ -51,12 +51,18 @@ def download_pdf(url: str, dest: str) -> bool:
         return False
 
 
-def download_batch(registry_path: str, pdf_dir: str = "source_pdfs", limit: int = 0) -> dict:
+def download_batch(
+    registry_path: str,
+    pdf_dir: str = "source_pdfs",
+    limit: int = 0,
+    games: list[dict] | None = None,
+) -> dict:
     """Download PDFs for all games with status 'found'.
 
     Returns a stats dict with keys: attempted, downloaded, failed, skipped.
     """
-    games = get_games_by_status(registry_path, "found", limit=limit)
+    if games is None:
+        games = get_games_by_status(registry_path, "found", limit=limit)
     stats = {"attempted": 0, "downloaded": 0, "failed": 0, "skipped": 0}
 
     for game in games:
@@ -65,6 +71,7 @@ def download_batch(registry_path: str, pdf_dir: str = "source_pdfs", limit: int 
 
         if not pdf_url:
             print(f"  Skipping {name}: no pdf_url")
+            update_status(registry_path, name, "found")
             stats["skipped"] += 1
             continue
 
@@ -84,8 +91,10 @@ def download_batch(registry_path: str, pdf_dir: str = "source_pdfs", limit: int 
                     os.remove(dest)
                 except OSError:
                     pass
+                update_status(registry_path, name, "found")
                 stats["failed"] += 1
         else:
+            update_status(registry_path, name, "found")
             stats["failed"] += 1
 
     return stats

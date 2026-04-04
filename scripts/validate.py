@@ -18,6 +18,19 @@ RULES_DIR = "rules"
 
 REQUIRED_FRONTMATTER = ["title", "bgg_id"]
 
+
+def _has_required_value(frontmatter: dict, field: str) -> bool:
+    """Return True when a required frontmatter field is present and usable."""
+    if field not in frontmatter:
+        return False
+
+    value = frontmatter[field]
+    if value is None:
+        return False
+    if isinstance(value, str):
+        return bool(value.strip())
+    return True
+
 EXPECTED_SECTIONS = [
     "Overview",
     "Components",
@@ -59,7 +72,7 @@ def validate_rules_file(path: str) -> list[str]:
 
     # Check required fields
     for field in REQUIRED_FRONTMATTER:
-        if field not in frontmatter:
+        if not _has_required_value(frontmatter, field):
             errors.append(f"{filename}: Missing required frontmatter field: {field}")
 
     # Choose section list based on whether this is an expansion

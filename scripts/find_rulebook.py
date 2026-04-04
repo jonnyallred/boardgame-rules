@@ -22,6 +22,7 @@ from scripts.registry import add_game, update_status, find_game
 load_dotenv()
 
 PDF_DIR = "source_pdfs"
+BLOCKING_STATUSES = {"downloaded", "extracted", "summarized", "validated"}
 
 
 def slugify(name: str) -> str:
@@ -43,6 +44,13 @@ def download_pdf(url: str, dest: str) -> bool:
         return False
 
 
+def should_skip_existing(existing: dict | None) -> bool:
+    """Return True when an existing registry entry is already beyond search."""
+    if not existing:
+        return False
+    return existing.get("status") in BLOCKING_STATUSES
+
+
 def main():
     parser = argparse.ArgumentParser(description="Find and download boardgame rulebook PDFs from BGG")
     parser.add_argument("game_name", help="Name of the boardgame to search for")
@@ -60,7 +68,7 @@ def main():
 
     # Check if already in registry
     existing = find_game(args.registry, args.game_name)
-    if existing and existing.get("status") != "pending":
+    if should_skip_existing(existing):
         print(f"'{args.game_name}' already in registry with status: {existing['status']}")
         return
 

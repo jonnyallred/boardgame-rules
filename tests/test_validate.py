@@ -106,6 +106,30 @@ title: "Catan"
     assert any("bgg_id" in e for e in errors)
 
 
+def test_validate_empty_required_fields(tmp_path):
+    incomplete = """---
+title: ""
+bgg_id: ""
+---
+
+# Catan
+
+## Overview
+## Components
+## Setup
+## Turn Structure
+## Actions
+## Scoring / Victory Conditions
+## Special Rules & Edge Cases
+## Player Reference
+"""
+    path = tmp_path / "catan.md"
+    path.write_text(incomplete)
+    errors = validate_rules_file(str(path))
+    assert any("title" in e for e in errors)
+    assert any("bgg_id" in e for e in errors)
+
+
 VALID_EXPANSION = """---
 title: "Catan: Seafarers"
 bgg_id: 325

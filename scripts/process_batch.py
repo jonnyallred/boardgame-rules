@@ -17,11 +17,16 @@ import os
 import re
 from collections import Counter
 
-from scripts.registry import load_registry, get_games_by_status, update_status
+from scripts.registry import (
+    claim_games_by_status,
+    get_games_by_status,
+    load_registry,
+    update_status,
+)
 from scripts.extract_pdf import extract_text, clean_text, EXTRACTED_DIR
 from scripts.download_pdf import download_batch
 from scripts.summarize import summarize_game
-from scripts.quality_check import check_batch
+from scripts.quality_check import check_batch, check_games
 
 STAGE_ORDER = {
     "download": "found",
@@ -30,16 +35,28 @@ STAGE_ORDER = {
     "quality_check": "summarized",
 }
 
+CLAIMED_STATUS = {
+    "download": "downloading",
+    "extract": "extracting",
+    "summarize": "summarizing",
+    "quality_check": "quality_checking",
+}
+CLAIM_TIMEOUT_SECONDS = 60 * 60
+
 ALL_STATUSES = [
     "queued",
     "searching",
     "found",
     "not_found",
     "downloaded",
+    "downloading",
     "extracted",
+    "extracting",
     "summarized",
+    "summarizing",
     "validated",
     "flagged",
+    "quality_checking",
     "pending",
 ]
 
@@ -61,7 +78,15 @@ def get_stage_games(registry_path: str, stage: str, limit: int = 0) -> list[dict
 def run_download(registry_path: str, limit: int = 0) -> dict:
     """Run the download stage: download PDFs for games with status 'found'."""
     print("=== Download stage ===")
-    stats = download_batch(registry_path, limit=limit)
+    games = claim_games_by_status(
+        registry_path,
+        STAGE_ORDER["download"],
+        CLAIMED_STATUS["download"],
+        limit=limit,
+        reclaim_statuses=[CLAIMED_STATUS["download"]],
+        reclaim_timeout_seconds=CLAIM_TIMEOUT_SECONDS,
+    )
+    stats = download_batch(registry_path, limit=limit, games=games)
     print(f"Download done: {stats}")
     return stats
 
@@ -73,7 +98,14 @@ def run_extract(registry_path: str, limit: int = 0) -> dict:
     saves to extracted/{slug}-rules.txt, and updates status to 'extracted'.
     """
     print("=== Extract stage ===")
-    games = get_stage_games(registry_path, "extract", limit=limit)
+    games = claim_games_by_status(
+        registry_path,
+        STAGE_ORDER["extract"],
+        CLAIMED_STATUS["extract"],
+        limit=limit,
+        reclaim_statuses=[CLAIMED_STATUS["extract"]],
+        reclaim_timeout_seconds=CLAIM_TIMEOUT_SECONDS,
+    )
     stats = {"processed": 0, "failed": 0, "skipped": 0}
 
     os.makedirs(EXTRACTED_DIR, exist_ok=True)
@@ -86,6 +118,7 @@ def run_extract(registry_path: str, limit: int = 0) -> dict:
 
         if not os.path.exists(pdf_path):
             print(f"  Skipping {name}: PDF not found at {pdf_path}")
+            update_status(registry_path, name, STAGE_ORDER["extract"])
             stats["skipped"] += 1
             continue
 
@@ -102,6 +135,7 @@ def run_extract(registry_path: str, limit: int = 0) -> dict:
             stats["processed"] += 1
         except Exception as e:
             print(f"  Error extracting {name}: {e}")
+            update_status(registry_path, name, STAGE_ORDER["extract"])
             stats["failed"] += 1
 
     print(f"Extract done: {stats}")
@@ -111,14 +145,27 @@ def run_extract(registry_path: str, limit: int = 0) -> dict:
 def run_summarize(registry_path: str, limit: int = 0) -> dict:
     """Run the summarize stage: summarize extracted text for games with status 'extracted'."""
     print("=== Summarize stage ===")
-    games = get_stage_games(registry_path, "summarize", limit=limit)
+    games = claim_games_by_status(
+        registry_path,
+        STAGE_ORDER["summarize"],
+        CLAIMED_STATUS["summarize"],
+        limit=limit,
+        reclaim_statuses=[CLAIMED_STATUS["summarize"]],
+        reclaim_timeout_seconds=CLAIM_TIMEOUT_SECONDS,
+    )
     stats = {"processed": 0, "failed": 0}
 
     for game in games:
-        success = summarize_game(game, registry_path)
+        name = game["name"]
+        success = summarize_game(
+            game,
+            registry_path,
+            restore_status=STAGE_ORDER["summarize"],
+        )
         if success:
             stats["processed"] += 1
         else:
+            update_status(registry_path, name, STAGE_ORDER["summarize"])
             stats["failed"] += 1
 
     print(f"Summarize done: {stats}")
@@ -128,7 +175,19 @@ def run_summarize(registry_path: str, limit: int = 0) -> dict:
 def run_quality_check(registry_path: str, limit: int = 0) -> dict:
     """Run the quality check stage on games with status 'summarized'."""
     print("=== Quality check stage ===")
-    stats = check_batch(registry_path)
+    games = claim_games_by_status(
+        registry_path,
+        STAGE_ORDER["quality_check"],
+        CLAIMED_STATUS["quality_check"],
+        limit=limit,
+        reclaim_statuses=[CLAIMED_STATUS["quality_check"]],
+        reclaim_timeout_seconds=CLAIM_TIMEOUT_SECONDS,
+    )
+    stats = check_games(
+        games,
+        registry_path,
+        restore_status=STAGE_ORDER["quality_check"],
+    )
     print(f"Quality check done: {stats}")
     return stats
 

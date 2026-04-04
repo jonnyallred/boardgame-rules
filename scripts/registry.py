@@ -11,11 +11,13 @@ import contextlib
 import fcntl
 import os
 import tempfile
+from datetime import datetime, timedelta, timezone
 import yaml
 
 DEFAULT_REGISTRY = "games.yaml"
 
 LOCK_SUFFIX = ".lock"
+CLAIMED_AT_FIELD = "claimed_at"
 
 
 @contextlib.contextmanager
@@ -112,6 +114,7 @@ def update_status(path: str, name: str, status: str) -> None:
         for game in games:
             if game["name"].lower() == name.lower():
                 game["status"] = status
+                game.pop(CLAIMED_AT_FIELD, None)
                 break
         save(games)
 
@@ -121,6 +124,8 @@ def update_game(path: str, name: str, **fields) -> None:
     with locked_registry(path) as (games, save):
         for game in games:
             if game["name"].lower() == name.lower():
+                if "status" in fields and CLAIMED_AT_FIELD not in fields:
+                    game.pop(CLAIMED_AT_FIELD, None)
                 game.update(fields)
                 break
         save(games)
@@ -133,6 +138,53 @@ def get_games_by_status(path: str, status: str, limit: int = 0) -> list[dict]:
     if limit > 0:
         return matched[:limit]
     return matched
+
+
+def claim_games_by_status(
+    path: str,
+    from_status: str,
+    to_status: str,
+    limit: int = 0,
+    reclaim_statuses: list[str] | None = None,
+    reclaim_timeout_seconds: int = 0,
+    now: datetime | None = None,
+) -> list[dict]:
+    """Atomically claim games by moving them from one status to another.
+
+    Also optionally reclaims stale games already sitting in transient statuses.
+    Returns copies of the claimed game dicts in registry order.
+    """
+    claim_time = now or datetime.now(timezone.utc)
+
+    def is_reclaimable(game: dict) -> bool:
+        if not reclaim_statuses or game.get("status") not in reclaim_statuses:
+            return False
+        if reclaim_timeout_seconds <= 0:
+            return False
+        raw_claimed_at = game.get(CLAIMED_AT_FIELD)
+        if not raw_claimed_at:
+            return True
+        try:
+            claimed_at = datetime.fromisoformat(raw_claimed_at)
+        except ValueError:
+            return True
+        if claimed_at.tzinfo is None:
+            claimed_at = claimed_at.replace(tzinfo=timezone.utc)
+        return claim_time - claimed_at >= timedelta(seconds=reclaim_timeout_seconds)
+
+    with locked_registry(path) as (games, save):
+        claimed: list[dict] = []
+        for game in games:
+            if game.get("status") != from_status and not is_reclaimable(game):
+                continue
+            game["status"] = to_status
+            game[CLAIMED_AT_FIELD] = claim_time.isoformat()
+            claimed.append(dict(game))
+            if limit > 0 and len(claimed) >= limit:
+                break
+        if claimed:
+            save(games)
+        return claimed
 
 
 def find_expansions(path: str, base_bgg_id: int) -> list[dict]:
