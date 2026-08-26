@@ -231,7 +231,7 @@ Four moments trigger outside the normal round structure:
 
 ### Autodestruction sequence (Cooling System Room Action)
 
-Starting it places the Autodestruction token 3 slots ahead of the Time token (yellow side up, leaving 2 empty slots between them); while yellow, it can still be stopped via the Power Generator's Stop Autodestruction Action (even if a Character has already locked into the Isolation Room). During the Event Phase of the round it marks, it advances another 3 slots and flips to red — at that point it can no longer be stopped, and the Main Gate opens automatically if it hasn't already. When the Time token would have to move onto or past a red Autodestruction token, the Facility is destroyed that Event Phase (see End of the Game). If the token would run off the end of the Time Track, leave it on the last slot; it resolves at the game-end check.
+Starting it places the Autodestruction token 3 slots ahead of the Time token (yellow side up, leaving 2 empty slots between them); while yellow, it can still be stopped via the Power Generator's Stop Autodestruction Action. The sequence can still be *initiated* via the Cooling System even after a Character has already locked into the Isolation Room. During the Event Phase of the round it marks, it advances another 3 slots and flips to red — at that point it can no longer be stopped, and the Main Gate opens automatically if it hasn't already. When the Time token would have to move onto or past a red Autodestruction token, the Facility is destroyed that Event Phase (see End of the Game). If the token would run off the end of the Time Track, leave it on the last slot; it resolves at the game-end check.
 
 ### Encounters
 
@@ -297,7 +297,7 @@ A Section has Power when its Power token shows blue. Powered Sections: (1) requi
 - **Inventory:** normal (non-Heavy) Items are kept face down in your card holder, hidden until used (then revealed to all).
 - **Heavy Items/Objects (Hand symbol):** never hidden; occupy 1 of your 2 Hand slots (max 2 at once) — to pick up a 3rd, Drop one first. Heavy Objects are the Intruder Egg, Character Corpse, and Intruder Carcass tokens.
 - **Drop:** free, any time on your turn, no Action needed. Dropped Objects stay in the Room; dropped Items are lost, returned to the bottom of their deck.
-- **Searching:** Item colors are Red (military), Yellow (technical), Green (medical), all found via a Search Action card matching the searched Room's color (a white Room lets you pick any 1 of the 3 decks). Searching reduces that Room's Item Counter by 1; at 0 it can no longer be searched.
+- **Searching:** Item colors are Red (military), Yellow (technical), Green (medical), all found via a Search Action card matching the searched Room's color (a white Room lets you pick any 1 of the 3 decks). A Search reduces that Room's Item Counter by 1, then draws 2 Item cards from the chosen deck — keep 1 and discard the other face down to the bottom of that deck. At Item Counter 0 the Room can no longer be searched.
 - **Crafting:** the 4th, Blue, Item deck holds Crafted Items, which are never drawn — only obtained via the Craft Item Basic Action (discard 2 Items whose blue Component symbols match the target Crafted card's 2 grey symbols). You can browse the Crafted deck at any time. Buildable Crafted Items include the Neutralizer, Taser, Flamethrower, Enviro-Suit, and Pistol (each needs its specific pair of Components) — a Crafted Item can't be built if its card isn't available, even holding the right Components.
 
 ### Attacking other players
