@@ -1,0 +1,3264 @@
+2	 GAME OVERVIEW
+3	 GAME INTRODUCTION
+6	 GAME SETUP: STEPS 1-14, BOARD SETUP
+8	 GAME SETUP: STEPS 15-21, CREW SETUP
+9	 BOARD DESCRIPTION
+	
+DISCARD PILES
+10	 PLAYER GOALS AND END OF THE GAME
+	
+OBJECTIVES
+	
+CRITICAL GAMEPLAY MOMENTS
+11	 LEAVING THE FACILITY
+	
+CONTINGENCY
+12	 END OF THE GAME
+	
+VICTORY CHECK
+13	 FLOW OF THE GAME
+	
+(ROUND ORDER, PLAYER PHASE, EVENT PHASE)
+14	 ACTIONS
+	
+REGARDLESS OF COMBAT / IN COMBAT / OUT OF COMBAT 
+16	 MOVEMENT AND EXPLORATION TOKENS
+	
+ROOMS AND CORRIDORS
+	
+FACILITY AND SECTIONS
+	
+MOVEMENT ACTION
+17	 EXPLORATION TOKENS
+	
+NOISE ROLL
+18	 TECHNICAL CORRIDORS
+	
+EMERGENCY STAIRCASES
+19	 NOISE / SLIME / FIRE MARKERS
+	
+MALFUNCTION MARKERS, DOOR TOKENS
+20	 ENCOUNTER AND COMBAT
+21	 CHARACTER ESCAPE
+	
+INTRUDER INJURIES AND DEATH
+	
+INTRUDER RETREAT
+22	 INTRUDER ATTACK
+	
+CONTAMINATION CARDS
+23	 CHARACTER WOUNDS AND DEATH
+	
+KNOWLEDGE AND WEAKNESSES
+24	 POWER
+25	 OBJECTS AND ITEMS
+	
+CHARACTER HANDS AND INVENTORY
+26	 SEARCHING, CRAFTING & QUEST ITEMS
+27	 ROOM SHEET
+	
+ROOMS WITH A COMPUTER
+	
+BASIC ROOMS “I”
+28	 ADDITIONAL ROOMS “II”
+29	 SPECIAL ROOMS
+30	 GAME MODES
+Game overview
+Nemesis: Lockdown is a  semi-cooperative game 
+where you and other players must survive in a Martian 
+facility infested with hostile organisms.
+To win the game, you will have to complete one of 
+the two objectives dealt to you at the start of the 
+game and safely wait until the rescue party arrives. 
+There will be many obstacles in your way: swarms 
+of hostile alien Night Stalkers, the rapidly depleting 
+power supply, other players with conflicting agendas 
+and sometimes just cruel misfortune.
+The gameplay of Nemesis: Lockdown is designed to 
+be full of climatic moments which, hopefully, you will 
+find rewarding even when your best plans are ruined 
+and your character meets a terrible fate.
+A WorD FroM THE AuTHor
+Creating a new installment of a game as successfull as Nemesis is never 
+easy. However, doing this in the challenging pandemic landscape is another 
+thing entirely. That is why I am very grateful I did not have to walk this 
+path alone. The Awaken Realms team, as usual, rose to the challenge and – 
+despite the turmoil around us – gave everything they had so that we could 
+deliver a game that hopefully matches all your expectations. 
+I would especially like to thank Marcin Świerkot. He managed to pull off 
+a perfect balancing act: as my publisher, he was kind enough to give me the 
+final decision as to whether Nemesis: Lockdown should become a reality. 
+On the other hand, as my friend, he helped me overcome my doubts and 
+fears regarding this project and convinced me to see it through. To be 
+honest, I think very few people could act this way and navigate both roles 
+as gracefully as he did. 
+Finally, I would like to thank all the players who spent countless hours aboard 
+Nemesis. Your joy, shared online, is the fuel that drives me as a creator, and 
+the innumerable deaths of your in-game characters warm my heart. I hope 
+there will be plenty of both these things in Nemesis: Lockdown as well, and 
+I wish them to you – and to myself.
+Adam Kwapiński
+If you have played the original Nemesis game, 
+you can ignore parts marked with this line 
+when reading this manual. 
+This line marks the UNCHANGED rules 
+from the original Nemesis game.
+CrEDiTS
+Game design:  Adam Kwapiński 
+Development:  Paweł Samborski, Ernest Kiedrowicz, Michał Lach
+Tests:  Paweł Samborski, Ernest Kiedrowicz, Michał Lach, Łukasz Krawiec, 
+Jan Truchanowicz, Adrian Krawczyk, Krzysztof Belczyk, Konrad Sulżycki, 
+Tomasz Zawadzki, Wojciech Sujka, Filip Tomaszewski
+rulebook:  Ernest Kiedrowicz, Michał Lach, Paweł Samborski, 
+Krzysztof Piskorski, William Dovan, Michał Oracz
+illustrations  Piotr Foksowicz, Patryk Jędraszek, Ewa Labak, 
+Jakub Dzikowski, Piotr Orleański, Michał Peitsch
+Graphic design:  Adrian Radziun, Klaudia Wójcik 
+DTp:  Jędrzej Cieślak, Rafał Janiszewski, Patrycja Marzec, Andrzej Półtoranos
+3D models:  Jędrzej Chomicki, Piotr Gacek, 
+Mateusz Modzelewski, Jakub Ziółkowski
+Art Direction:  Marcin Świerkot
+Thanks:
+Special thanks to Ken Cunningham and Jordan Luminais. 
+Special thanks to all Kickstarter backers 
+who helped us make this game a reality. 
+Thank you to all people who tested this game during the long years 
+of its making, and to all of the people who joined us for blind tests 
+and played the game on Tabletop Simulator.
+English Translation:  Paweł Samborski
+proofreading: Dan Morley, William Dovan and Katarzyna Kaszorek.
+contents
+When using Night Stalkers, consider terms Intruder and Night Stalker 
+as being equivalent.
+
+This introductory story is designed to familiarize you with the flow of 
+a standard game and to give you an overview of the essential Nemesis: 
+Lockdown rules. We hope that this story will help you understand how 
+a typical game of Nemesis: Lockdown progresses and that – after some 
+games – you will have your own stories to tell!
+The moment she awoke, choking on the fluids of her hibernation 
+chamber, she woke finding herself being nervously lifted by three 
+silhouettes in full hazmat gear. The hesitant moves of her saviours and 
+the fear in their eyes – barely visible behind foggy visors – confirmed 
+what she already knew.
+Before she drifted off again, her eyes flickered to another container next 
+to her. Inside was one of the creatures who had destroyed her ship...
+Too exhausted to even scream, darkness took her.
+These screams of anguish and fear would come later when she found 
+herself trapped in a dark holding cell, in the depths of a BSL-4 Facility 
+somewhere on Mars. She realized then that there would be no return 
+home. No chance to mourn friends who had died on her ship. No 
+opportunity to overcome her nightmares – full of fangs and viscera. 
+For the first week, she still harbored a slim hope that this was a routine 
+quarantine – that one day, she would be released back to the light and 
+life of the outside world. As more time passed, the truth of her situation 
+began to crawl into her thoughts like a  cold parasitic worm. To the 
+outside world, she was already dead – one of six victims of some made-
+up industrial accident, covered up by corporations who only saw her 
+value as an experiment. 
+Now, she’d become that alien threat. They treated her just like the 
+creatures brought from her ship – with the same caution and the same 
+lack of remorse. The experiments and biopsies didn’t hurt her half as 
+much as the knowledge that, in their eyes, she was no longer a human – 
+just a vector of a dangerous pathogen they did not understand. 
+Soon, she began to prepare a crude shiv out of a metal flatbar, grinding 
+it against the bed frame each night, while pretending to sleep. She also 
+began to memorize footsteps outside of her cell and eavesdropped on 
+small bits of conversation, slowly building a mental map of the lab.
+Somewhere in the other holding cells, the creatures also did the same. 
+Except they were just a little bit faster. One day, the facility thundered with 
+sirens. There was gunfire. Screams. A repeating, automated message 
+confirmed her worst fears: the base was now under Lockdown. 
+Being a Survivor was easier the second time around. With the help of 
+her shiv, she dismantled the door panel and fled the cell. The other 
+humans on this level were dead, yet she wasn’t alone. The chittering 
+in the dark and gruesome sounds of feeding were all too familiar. The 
+Power in the Facility was waning – someone – or something – had 
+damaged the generators. The dim warning lights imbued the scenes of 
+carnage with a surreal quality. 
+She smiled. 
+Unlike the facility staff, she had practical Knowledge of the creatures. 
+Her moves were quiet, careful, and she often paused to listen to any 
+Noises in the corridors and rooms around her. That was the only way 
+to know where a creature was lurking. Bitter experience taught her that 
+once you’d seen one, it was already too late.
+Soon, she reached the Elevator Room. It had no power, but this was 
+not an issue for someone who had served eight years on a dilapidated 
+mining ship. She rerouted the emergency circuit to the elevator. The 
+entire Section behind her was instantly plunged into pitch-black 
+Darkness. A  lone scream sounded in the distance. She knew better 
+than to care.
+On the upper floor, there was still power. The looped automated 
+message now warned about the imminent Autodestruction. She 
+carefully turned the corner of a Transmitter Control Room – and froze. 
+Someone was crouching behind a console in front of her. She made 
+a step forward, raising her improvised weapon. While trapped in the 
+cell, she often fantasized about painful things she’d do to her captors. 
+But this was just one older man, scared out of his mind. And – judging 
+from his coveralls – he was just a Janitor.
+They decided to stick together – a prisoner and a floor sweeper. She 
+knew how to survive. He knew how to get out. He told her about the 
+Cargo Sending System – a  launch facility used to send and receive 
+cargo containers that they could use to flee this place. He nodded and 
+agreed to lead her there. 
+The creatures were more numerous on this level, despite the light they 
+seemed to hate. With the clumsy man at her side, she found it much 
+harder to avoid attention. The beasts almost seemed drawn to him, as 
+if his scent tipped them off. However, she could feel nothing out of the 
+ordinary. 
+Two times they had to flee, running for their lives from something that 
+spotted them. Once, they had to fight, pumping one of the creatures 
+full of nails, before it slowed down enough for her to plunge a shiv deep 
+into its skull. She did not stop to retrieve the blade, even though she 
+already named it. She had a new companion now. It was good to have 
+someone at your back, even as clumsy as the Janitor. She almost began 
+to like him. They were both survivors, after all. 
+Together, they reached the door to the CSS module – a hunk of armored 
+steel, already scratched with razor-sharp talons – with plenty of Time 
+to spare. 
+“The door’s out of juice,” her friend said, pushing the button. “Can you 
+do something about it?” 
+Without a  word, she began to dismantle the panel. One look at the 
+green lights on the circuit board was enough to send her heart racing. 
+She jumped back – a second too slow. A heavy coat hanger grazed her 
+head and sent her to the floor. Her companion used this time to open 
+the door with the correct button, go through, and lock it shut. 
+“I’m sorry,” he shouted through the armored glass. “You see, I know the 
+Contingency plan. I’ve seen one of the managers send code Gray to 
+the HQ. There is a kill team coming. They have an order to wipe out the 
+facility and save one person. A person carrying a sample they need.”
+He took something from under his coveralls. With her eyes still hazy 
+from the blow, it took her a while to recognize the object. An Egg of one 
+of these creatures, still covered with Slime! So that’s why the creatures 
+were drawn to him! 
+Walking away from the door, she smiled. She knew the corporation 
+used the same Contingency codes throughout all its ships and facilities. 
+The codes were secret, and very few people knew more than one or 
+two that they have personally experienced. However, she did know that 
+when the HQ wanted to eliminate everyone but their secret agent, they 
+used Code Purple. That’s what her former captain sent on her ship, 
+before he tried to flee with an alien larva. 
+There was no telling what Code Gray meant. It was better to prepare 
+for the worst. For a moment, she felt tempted to return back, to the 
+Isolation Room – with its thick walls and doors it could become an 
+Intruder-proof shelter. But there was also another way. From the talks 
+between the guards, she knew there were other buildings in the facility, 
+reached only by a Rover parked at the Exit Room. 
+To reach the gate faster, she crawled down one of the Technical 
+Corridors, trying not to think what would happen if she met one of the 
+creatures in a confined space. 
+Fortunately, the Rover was there, waiting. She began to load any 
+supplies she could onto its flimsy frame when a sudden burst of gunfire 
+caused her to jump behind a cover. A lone Sentry was limping her way, 
+shooting down the corridor with an assault rifle so overheated it almost 
+glowed white. She noticed at least two or three lightning-fast shapes 
+closing the distance. The Sentry managed to reach the vehicle and 
+jumped into the driver’s seat, leaving blood smears on white panels. For 
+a moment, she felt tempted to jump out of the shadows and join him. 
+One look at the deep gashes on his back and sides was enough to stop 
+her. With so many Wounds, he was bound to be Contaminated. Sticking 
+around him was too risky.
+The wheels spun. The Rover drove off in the direction of a Bunker that 
+loomed in the red Martian sand storm.
+To make matters worse, instead of skittering away, the creatures began 
+to sniff around. They knew she was close. She grabbed a heavy Wrench, 
+prepared to go down fighting. 
+No!
+She chased away the wave of despair. She was a Survivor once, and 
+she knew she could make it again. She immediately brought up her 
+mental map of the entire top Section. With some of the hazmat gear 
+strewn around here, a roll of duct tape, and additional oxygen tanks, 
+she could Craft an Environmental Suit that would allow her to leave his 
+place on foot. 
+She was about to take a step forward when a sudden movement of 
+air behind her back alarmed her. She turned. In the dark corner of the 
+room, an immense shape slowly dropped to the floor, its bat-shaped 
+head almost three times the size of hers. 
+With a shiver, she realized that on the Nemesis, these creatures never 
+reached their final form – one that she could now see in front of her. 
+Was it as fast as it looked? 
+She was about to find out. 
+Nemesis: Lockdown – Game introduction
+
+4 D6 dice 
+(2 Combat dice 
+and 2 Advantage dice)
+GAME elements 
+1 Scanner
+To perform any Room Action, a Character must be in the corresponding 
+Room (unless they possess a special ability clearly saying otherwise).
+You cannot perform a Room Action when you are in Combat.
+You cannot perform a Room Action in a Room with a Malfunction marker.
+rooms with a computer 
+Some Rooms have a  Computer symbol, meaning that 
+there is a Computer in that Room. A Computer symbol 
+enables you to perform a Computer Action.
+If there is a  Malfunction marker in the Room, the 
+Computer is unavailable – as if there were no Computer 
+symbol.
+More on Computer Actions – see page 15.
+BASiC rooMS "i" 
+All the 10 Basic Rooms, indicated by the number “I” on their back, are 
+present in each game.
+Examine the Archives
+EXAMINE THE ARCHivES: 
+You may perform this Action only if your 
+Knowledge token is inactive.
+Gain 2 Knowledge and flip your Knowledge token to the 
+active side.
+Then, peek at any Contingency token (even outside of 
+your Section).
+Important: Remember you can never peek at the Active 
+Contingency token.
+More on Knowledge tokens – see Knowledge, page 23.
+More on Contingency peek – see Acquiring Information, 
+page 11.
+Move through Technical 
+Corridors: 
+You may move to a  chosen explored Room 
+with a Technical Corridors Entrance. Draw and resolve 
+an Attack card (treat it as an Attack from an Adult 
+Intruder in Darkness).
+Cooling 
+System
+Initiate 
+Autodestruction Sequence
+Cooling System
+initiate Autodestruction 
+Take the Autodestruction token and place 
+it 3  slots forward on the Time track (there should 
+be 2  empty slots between the Time token and 
+Autodestruction token). Place it with the yellow side up.
+Note: As long as the yellow side of the Autodestruction 
+token is visible, players may stop the sequence in the 
+Power Generator.
+a Decontamination 
+Procedure
+perform Decontamination 
+Scan all Contamination cards in your hand. 
+Remove all INFECTED cards. If you have a Larva on your 
+Character board, remove it.
+If you have a Slime marker on your Character Board, 
+discard it.
+Emergency room
+Treat your wounds: 
+Dress all your Serious Wounds OR Heal 1 of 
+your Dressed Serious Wounds OR Heal all your 
+Light Wounds.
+More on Dressing and Healing Wounds – see page 23.
+Analyze 1 Object
+ANALYZE 1 object: 
+This Action may only be performed if one 
+of the following Objects is in the Room (for 
+example carried by the Character): Intruder Carcass, 
+Character Corpse or Egg.
+Gain 3 Knowledge.
+The Object is placed in the first empty slot on the 
+Laboratory board after Research. Then, the Intruder 
+Weakness card below the Object is discovered.
+If the Object was previously used to discover 
+a  Weakness, discard it instead of placing it on the 
+Laboratory board.
+More on Objects and Intruder Weakness cards – see 
+Weakness, page 23.
+System a
+Enter the CSS Pod A
+Cargo Sending System A
+Enter CSS pod:
+You may only use this Action if the Time token 
+is in the same slot as any of the CSS tokens, 
+and the CSS Pod space “A” is empty.
+After Entering, you discard all cards and automatically 
+pass. Place your Character in the corresponding CSS 
+Pod  space on the board. In the Event phase, your 
+Character will have a chance to escape using this CSS 
+Pod. 
+Characters in the CSS Pod space are unaffected by any 
+game effects unless specified otherwise.
+If your Character does not manage to escape using the 
+CSS Pod, they suffer 1 Serious Wound.
+More on Cargo Sending System and CSS Pods – see Leaving 
+the Facility, page 11.
+Nest
+The Character who explored this Room, gains 
+1 Knowledge. This is a one-time effect.
+Take one Egg:
+Take 1 Egg token from the Intruder board. 
+After that, perform a Noise roll.
+The Egg tokens placed on the Laboratory board represent 
+the Eggs in the Nest. When you take (or destroy) Eggs 
+from the Nest, take them from the Laboratory board.
+When there are no more Eggs in the Nest (they have all 
+been carried away or destroyed), the Nest is considered 
+destroyed – place 1 Injury marker in the Nest to 
+represent this.
+If there is a Fire marker in a Room containing uncarried 
+Eggs, destroy 1 uncarried Egg during the Fire Damage 
+step of the Event Phase.
+A Malfunction marker can never be placed in the Nest.
+Note: Remember that an Egg is a Heavy Object – see Objects 
+and Items, page 25.
+Note: You cannot perform any Search Action in this Room.
+ rooMs 
+DestroYiNG Eggs: 
+Whenever your Character is in a  Room with any 
+uncarried Eggs (not carried by any Character), you can 
+try to destroy these Eggs.
+Resolve this Action just as a  Shoot Action or Melee 
+Attack Action. Each Injury (of any type) destroys 1 Egg. 
+You do not have to meet the requirement of a Character 
+being “in Combat” for these Actions.
+In the case of a Melee Attack Action, the Character does 
+not draw a Contamination card or suffer Wounds if they 
+miss. 
+After every single attempt to destroy an Egg, you must 
+perform a Noise roll.
+Generator
+Stop Autodestruction Sequence 
+Power a Section
+power Generator
+Stop Autodestruction 
+If there is the Autodestruction token with yellow 
+side up on the Time track, discard it.
+power a Section:
+Flip the Power token of the Section you are 
+in. This can be used to get more Power even 
+if the Power was not restored (i.e. the Time token is on 
+the inactive side).
+Transmitter 
+Control room
+Send a Signal 
+Check an Objective
+transmitter Control 
+Send a Signal:
+Place a Status marker on the Signal space on 
+your Character board.
+Note: Sending a Signal is a requirement for some Objectives, 
+as well as a requirement for one of the Contingencies.
+Check an objective:
+Choose a Character with a Status marker on 
+the Signal space on their Character board. 
+They have to show you their Objective in secret.
+Note: If the chosen player has more than one Objective, they 
+need to show you all of them.
+ADDiTioNAL rooMS "ii"
+Each game, only 6 randomly chosen Additional Rooms are used, out of the 
+9 available. These Rooms are indicated by the number “II” on their back. 
+Enter the CSS Pod B
+CSS B.
+System C
+Enter the CSS Pod C
+System c
+CSS C.
+css control 
+CSS Control System
+Peek at a chosen CSS token. You may move it 
+one slot in any direction on the Time track (even if 
+there is no CSS token slot there).
+You cannot move a CSS token that is on the same slot as 
+the Time token.
+You cannot move a CSS token into a slot with another 
+CSS token.
+Defense Control room
+Exterminate the Threat: 
+Reduce the Item Counter by 1 or place 
+a  Malfunction marker in this Room. Choose 
+a  Room without a  Malfunction marker and with an 
+Intruder. Place a  Malfunction marker in that Room. 
+All Intruders in that Room suffer 1 Injury and each 
+Character in that Room suffers 1 Serious Wound.
+Take Equipment
+Take Equipment: 
+Reduce the Item Counter by 1 and take the 
+Taser Crafted Item or Enviro-Suit Crafted Item.
+Contaminated 
+Gain Slime 
+when Searching
+Contaminated room
+Gain Slime when Searching: 
+Whenever you use a Search Action in this Room, get 
+a Slime marker.
+A Malfunction marker can never be placed in the Contaminated 
+perform a Surgical 
+Scan all Contamination cards (from your Action 
+deck, hand and discard). Remove all Infected cards.
+If you have a Larva on your Character board, remove it.
+After Scanning, your Character suffers 1 Light Wound 
+and you automatically pass. Shuffle all your Action cards 
+(including those in your hand and discard pile) and place 
+them in your Action deck.
+Note: After a Surgical procedure you always pass your round, 
+and your hand is empty until the start of the next round.
+Take Neutralizer:
+If your Character has at least 4 Knowledge, 
+take the Neutralizer Crafted Item.
+vent Control room
+vent out:
+Choose a  Room with a  Technical Corridors 
+Entrance. The Corridors connected to the 
+Room you choose must not contain any Destroyed 
+Doors. Close the Doors in each Corridor connected to the 
+chosen Room. Remove a Fire marker from that Room 
+(if there is any) and place the Venting token there to 
+represent the active emergency Venting out.
+If any of the Doors in Corridors connected to that Room 
+are Opened or Destroyed before the current Player 
+Phase ends, remove this token immediately.
+If the token remains in the Room at the end of the current 
+Player Phase (after all players have passed), everything 
+in that Room dies immediately (both Characters and 
+Intruders). Then, discard this token.
+ rooMs 
+2 Room sheets
+1 Night Stalker board
+1 Intruder bag
+2 D10 Noise dice
+laboratory
+research object: night stalkers
+breeder
+creeper
+larva
+adult
+1 Two-sided board
+6 Character boards
+Markers and tokens:
+6 Colored plastic rings
+5 Plastic card holders 
+(Inventories)
+20 Underground Exploration 
+tokens
+4 Power tokens
+7 CSS tokens
+6 Knowledge tokens
+8 Carcass tokens
+10 Small Injury counters (1–8)
+3 Large Injury counters (1–12)
+8 Night Stalker Egg tokens
+11 Doors
+30 Ammo/Injury markers
+12 Fire markers
+7 Contingency tokens
+5 Character Corpse tokens
+27 Night Stalker tokens 
+(8 Larva, 3 Creeper, 
+12 Adult, 2 Breeder, 
+1 Queen, 1 Blank)
+1 Time token
+1 Alert Procedure token
+1 Venting token
+1 Autodestruction token
+10 Malfunction markers
+1 Main Gate
+1 First Player token
+1 Rover token
+18 Status markers
+30 Noise markers
+Lock yourself
+Backup 
+power Supply
+Restore Power
+3 Special Room tiles
+10 Room tiles “I”
+9 Room tiles “II”
+
+60 Action cards (10 per Character)
+18 Objective cards 
+(9 Personal and 9 Corporate)
+27 Contamination cards
+Note: Although they share 
+a common back with the Action cards, 
+they should form a separate deck.
+25 Serious Wound cards
+20 Night Stalker Attack cards
+22 Night Stalker Event cards
+6 Night Stalker Weakness cards
+6 Character Quest Item cards
+6 Character Draft cards
+6 Computer Actions cards
+5 Help cards
+5 Contingency Reference cards
+5 Night Stalker Reference cards
+30 Red (military) Item cards
+30 Yellow (technical) Item cards
+30 Green (medical) Item cards
+15 Blue (crafted) Item cards
+4 Character Starting Item cards
+Advanced modeS 
+components: 
+10 Solo / Coop Objective cards
+8 Mars Surface cards
+1 D12 Surface die 
+10 Pilot Compatibilty Action cards 
+6 Nemesis Compatibility Item cards 
+20 Intruder Event cards
+10 Surface Exploration tokens
+Cards:
+Miniatures:
+6 Characters 
+(Survivor, Hacker, Xenobiologist, Sentry, Janitor, Lab Rat)
+6 Larvae
+3 Creepers
+8 Adults
+2 Breeders
+1 Queen
+
+GAME SETup: steps 1-14, board setup 
+1]  Place the board on the table. Use the basic side of the board as shown 
+in the picture.
+Note: The basic side of the board is marked by a red arrow symbol 
+in its upper left corner.
+2]  Place the following Room tiles on the appropriate Room slots as 
+shown in the picture.
+A)  Isolation Room (place it with the side without a Room Action up)
+B)  Repository
+C)  Backup Power Supply
+3]  Shuffle all Room tiles “II” without looking at their fronts and randomly 
+place (face down) one Room tile “II” on each of the Room slots marked 
+with a “II” on the board.
+Put all remaining Room tiles “II” back in the box.
+Note: You will not use all available Room tiles “II” each game, as there are more 
+tiles than slots on the board. Players never know exactly which Rooms are in 
+the Facility.
+Note: When putting any components back in the box, avoid looking at 
+their contents.
+4]  Then, use the same method to place all Room tiles “I” on the Room 
+slots marked with a “I”.
+5]  Take the Underground Exploration tokens, shuffle them (without 
+looking at their fronts) and place one token at random (face down) on 
+each unrevealed Room tile.
+Put all remaining Exploration tokens back in the box.
+Note: In Nemesis: Lockdown, there are two kinds of Exploration tokens: 
+Underground and Surface. Surface Exploration tokens are used only with 
+the alternative side of the board.
+More on the alternative board side – see Game modes, page 30.
+6]  Place the Elevator, Main Gate and Rover on the board as shown 
+in the picture.
+7]  Shuffle and place randomly Power tokens – 3 in the Sections slots and 
+1 on the Elevator token. Tokens numbered 1 and 2 should be placed blue 
+side up, tokens numbered 3 and 4 red side up. The blue side of a Power 
+token means that the corresponding Facility Section is powered.
+More on Power – see Power, page 24.
+8]  Take the CSS tokens, shuffle them (without looking at their fronts) and 
+place one token at random (face down) on each slot on the Time track. 
+Put the remaining token back in the box.
+9]  Place the Night Stalkers Laboratory board next to the board and place 
+the following components in the corresponding slots:
+ – 5 Egg tokens in the Nest slot
+ – 3 random Night Stalker Weakness cards. Reveal the leftmost card, 
+and place the others face down
+Put all remaining Weakness cards back in the box.
+CHANGE: In contrast to Nemesis, the first Weakness card is revealed from the 
+start of the game. However, it cannot be used until players Research an Object 
+or are playing a Nemesis Survivor.
+More on Weaknesses – see Knowledge and Weaknesses, page 23.
+10]  Take the Intruder bag and put the following Intruder tokens inside: 
+1 Blank, 4 Larvae, 1 Creeper, 1 Queen, 3 Adults.
+Then, add 1 additional Adult Intruder token for each player taking part 
+in the game.
+The rest of the Intruder tokens are placed next to the board – they will 
+be used during play.
+Place the Intruder Carcass tokens next to the board as well – they 
+will mark killed Intruders.
+11]  Shuffle and place the following decks face down next to the board: 
+3 Items (each with its own color), Night Stalker Event, Night Stalker 
+Attack, Contamination, Serious Wound decks. 
+Shuffle the Computer Action deck and place it in the corresponding 
+slot on the board. Reveal the top card of the Computer Action deck. 
+If “Lock-down” was revealed, reveal next card and shuffle “Lock-
+down” back into the deck.
+Place the Crafted Item deck next to the 3 Item decks.
+Place the Scanner next to the Contamination deck.
+12]  Place the other markers, tokens and dice next to the board:
+ – Fire markers
+ – Malfunction markers
+ – Noise markers
+ – Ammo / Injury markers
+ – Status markers (used as Light Wound / Slime / Signal markers)
+ – Door tokens
+ – Character Corpse tokens
+ – 2 Combat dice
+ – 2 Noise dice
+ – 2 Advantage dice
+ – First Player token
+13]  Place the Alert Procedure token, Autodestruction token and the 
+Venting token next to the board. They may be used during the game.
+14]  Place the Time token, inactive (red) side up, on the 15th, green space 
+of the Time track.
+The board setup is now complete! Now proceed to the crew setup.
+CHANGE: If you have played the original Nemesis, you might remember that 
+a  Status marker was used for the purpose of tracking Rounds. In Nemesis: 
+Lockdown there is a separate component for that purpose, a Time token.
+intruder symbols: 
+	
+	
+ Larva
+ 
+	
+ Creeper
+ 
+	
+ Adult
+	
+ Breeder
+ 
+	
+
+laboratory
+research object: night stalkers
+breeder
+creeper
+larva
+adult
+SERIOUS
+WOUND
+EVENT
+ATTACK
+ACTION
+CRAFTED
+Wary of Shadows
+If an Adult Intruder 
+attacks you with 
+a “Perched in the Dark”, 
+ignore that card’s 
+Darkness effect.
+WEAKNESS
+WEAKNESS
+COMPUTER 
+ACTIONS
+If you are in a Room with a Computer 
+and in a Section with Power, 
+choose and play 1 Action 
+from the face-up Computer Action card. 
+Discard the card and reveal another one.
+2c
+2a
+2B
+20G
+
+15]  Take as many Help, Contingency and Night Stalker Reference 
+cards as there are players and deal one to each player at random. 
+Help  cards determine the order of choosing Characters (Step 19). 
+If there are 3 players, take the cards with number 1–3, if there are 
+4 players, take cards 1–4, etc.
+The number shown on the Help card and Inventory is the Player 
+Number – it’s important for choosing Characters and some Objectives.
+Put all remaining Help cards back in the box.
+More on Objectives – see page 10.
+16]  Each player gets 1 plastic Inventory card holder with the same 
+number as their Help card. It is used to keep your Item cards hidden 
+during the game.
+This is your Inventory, the place where you store all your non-Heavy Items, 
+so you know what you have.
+17]  Remove from both Objective decks (Corporate and Personal) all 
+cards showing a number of players higher than the number of players 
+taking part in the game.
+Player count symbol
+Shuffle these two decks individually and deal each player 1 card from 
+each deck. Keep the contents of these cards hidden from other players 
+at all times.
+Put all remaining Objective cards back in the box.
+When any of the Characters encounters an Intruder for the first time, 
+all players will choose one of their Objectives and discard the other.
+More on First Encounter – see page 10.
+Hint: There’s a  good reason why players receive their Objectives before 
+Character drafts! Knowing your Objective, you can pick a Character that has 
+the best chance to fulfill it.
+18]  Shuffle the Contingency tokens and deal 1 to each player. Each player 
+must keep the contents of their Contingency tokens hidden from the 
+other players!
+If you are playing a 2-player game, deal each player 2 Contingency 
+tokens. Place 1 Contingency token face-down on the Active 
+Contingency slot. This is the Active Contingency and its contents will 
+remain secret until the end of the game.
+The remaining Contigency tokens should be placed in an indicated slot 
+next to the Alert Room – this is the Neutral Pool.
+More on Contingency – see page 11.
+19]  Shuffle all Character Draft cards. The players choose their Characters 
+in the following order: Player 1 takes 2 random Character Draft cards, 
+reveals them, chooses 1 and shuffles the other back into the Character 
+Draft deck. Next, Player 2 chooses their Character the same way, then 
+Player 3, etc.
+A player may only control the Character whose card they have chosen 
+during the draft.
+After the draft, put all remaining Character Draft cards back in the box, as they 
+will no longer be used.
+20]  Each player takes the following components:
+A)  The Character board of the Character chosen during the draft.
+B)  The miniature of their Character and places it in the appropriate 
+Room. Nemesis Survivors start in the Isolation Room, Facility 
+Workers start in the Repository Room.
+Survivor, Lab Rat and all Characters from the Nemesis and the Aftermath 
+expansion are considered Nemesis Survivors. Any others are considered 
+Facility Workers.
+C)  The Action cards deck of their Character, shuffles it and places it 
+on the left side of their Character board, face down.
+D)  The Starting Item card of their Character, if available, and places it 
+face up in one of the two Hand slots on their Character board (except 
+Xenobiologist). Afterwards, places a  number of Ammo markers 
+equal to that Item’s Ammo capacity on the Item card. Some of the 
+Characters (eg. Lab Rat and Survivor) start without any Items!
+E)  The Quest Item of their Character and places it, horizontal side up, 
+next to their Character board. Those items are NOT active at the 
+start of the game, but players can perform mini-quests to unlock 
+them during the game.
+Take all remaining Character boards and their other components and put 
+them back in the box. They will not be used during this game.
+F)  Leave this spot for the Action discard pile – this is where your used 
+Action cards (and Contamination cards) will go.
+G)  Place your Knowledge token, inactive (with an empty flask) side up, 
+on the Laboratory board. If your Character is a Facility Worker, place it 
+on slot 1 on the Knowledge track. Otherwise, place it on slot 3.
+21]  Player 1 gets the First Player token.
+GAME SETup: steps 15-21, CrEW SETup 
+
+BoArD DESCripTioN
+1)  Alert Room (Special Room)
+2)  Sections
+3)  Emergency Staircases
+4)  Active Contingency slot
+5)  Elevator Rooms (Special Rooms)
+Important: During Movement, Special Rooms are treated as already 
+explored Rooms.
+6)  Elevator
+7)  Example of explored Room
+8)  Examples of unexplored Rooms
+9)  Examples of Technical Corridors Entrances
+Discard piles
+Leave an empty space for a  discard pile next to 
+each of the following decks: Items, Event, Attack and 
+Serious Wounds.
+Note: There’s a special spot for the Action discard pile, 
+marked on each of the Character boards. Contamination 
+cards go the the player’s Action discard pile until they are 
+removed from the game.
+All the above cards are discarded face up.
+All markers are discarded to the appropriate pile.
+10)  Technical Corridors space
+11)  Time track
+12)  CSS token slots
+13)  Example of Item Counter
+14)  Example of Corridor
+15)  Example of Corridor Number
+16)  Example of Room Number
+17)  Computer Action card slot
+18)  Bunker
+19)  Neutral Pool
+20)  CSS Pod space
+21)  Exit Room. Room 001 is an Exit Room on this board.
+
+pLAYEr GoALS AND END oF THE GAME 
+pLAYEr GoALS 
+A  game of Nemesis may result in multiple winners, but it is not 
+a cooperative game – while players can (and should, to some degree) 
+cooperate, each player has their own Objective to fulfill. Other players 
+achieving their goals are irrelevant to your own victory.
+To consider a player a winner, they must meet 2 conditions:
+1]  Fulfill their objective, detailed on the Objective card chosen by 
+the player.
+2]  Survive – meaning one of these three options: [1] lock their Character 
+in the Isolation Room with the Facility not destroyed, OR [2] use one of 
+the Cargo Sending System Pods to evacuate the Facility, OR [3] reach 
+the Bunker.
+More on Isolation Room – see Room sheet, page 29.
+More on Bunker and Cargo Sending System – see Leaving the Facility, page 11.
+objectiveS
+Since completing most of the Objectives requires some knowledge of the 
+game (for example, Room actions, rules for destroying the base, CSS Pods 
+functionality, etc.), you’ll find some tips below that may help beginner 
+players to find the appropriate sections in the Manual.
+Important! No matter which Objective you choose, your Character must survive 
+the game! That means, they must either get into a CSS Pod and escape, run 
+away to the Bunker or seal themselves up in the Isolation Room. 
+player X's Character cannot survive
+The Character of the indicated player cannot be classified as alive at the 
+end of the game. You do not need to kill them with any of your Actions 
+– they simply must be dead. You might want to trap this Character 
+in a Room on Fire or with an Intruder. Maybe you could seek another 
+player’s help?
+You can also escape from the Facility using the CSS Pod or flee to the 
+Bunker, abandoning the rest of the Characters with Fire, Malfunctions, or 
+the Autodestruction sequence in progress and hope that everybody dies 
+or the Facility collapses on their heads.
+More on Isolation Room – see Room sheet, page 29.
+More on CSS Pods – see Leaving the Facility, page 11.
+More on Fire and Malfunction markers – see page 19.
+Your Character is the only survivor
+No Character but yours may survive the game.
+No Nemesis Survivor can Survive
+Nemesis Survivor Characters are: Lab Rat, Survivor and all original 
+Characters from the Nemesis and Nemesis: Aftermath.
+More on using Characters from Nemesis and Nemesis: Aftermath – see page 30.
+Sending the Signal
+You need to locate the Transmitter Control Room and perform its Room 
+Action. This Room is always on the board – it will be one of the Rooms with 
+the number “I” on its back.
+More on Transmitter Control Room – see Room sheet, page 28.
+Discover a Weakness
+Weaknesses can be discovered by bringing an Object to the Laboratory 
+and by performing the Laboratory Room Action there. It doesn’t matter 
+if you’re not the one who did the research, as long as the Weakness has 
+been discovered at the end of the game.
+Objects are: Intruder Eggs, Character Corpses and Intruder Carcasses.
+Intruder Eggs may be found in the Nest. The Nest is always on the board 
+– it will be one of the Rooms with the number “I” on its back.
+Character Corpses are the remains of the other Characters, placed in the 
+Room of their demise.
+Intruder Carcasses are remains of the slain Intruders, placed in the Room 
+of their demise.
+The Laboratory is always on the board – it will be one of the Rooms with 
+the number “I” on their back.
+More on Intruder Weakness cards – see page 23.
+More on Objects – see Objects and Items, page 25.
+More on Laboratory and Nest – see Room sheet, page 27.
+Destroy the Nest
+The Nest is destroyed when there are no Intruder Eggs left in it. To 
+destroy an Egg, inflict at least 1 damage to it and remove its token from 
+the board.
+The Nest is always on the board – it will be one of the Rooms with the 
+number “I” on its back.
+More on Nest – see Room sheet, page 27.
+Finish the game with at least Knowledge X
+At the end of the game, your Character must have Knowledge X or more. 
+More on Knowledge – see page 23.
+Activate your Knowledge token
+Locate the Archive and perform its Room Action to activate your 
+Knowledge token.
+The Archive is always on the board – it will be one of the Rooms with the 
+number “I” on its back.
+More on Knowledge token – see Knowledge and Weaknesses, page 23.
+All rooms in Sections X and Y must 
+be explored
+The Facility is divided into 3 Sections. Going from the top of the board, those 
+are Sections S-01, S-02 and S-03. When fulfilling this objective, all Rooms 
+in the both Sections mentioned on the Objective card must be explored at 
+the end of the game.
+CriTiCAL 
+GAMEpLAY MoMENTS
+During the game, there are four critical moments that are not tied to any 
+specific round, but are triggered under certain conditions:
+The First Encounter with an Intruder.
+The first Character that dies.
+The Isolation Room opens.
+The Autodestruction token is flipped to the red side and
+the Autodestruction sequence cannot be stopped.
+FirST intruder ENCouNTEr 
+When the first Intruder miniature (of any type) appears on the board, 
+each player discards one of their Objective cards face down, 
+removing it from the game. Then, the encounter that triggered this 
+procedure is resolved and the game continues normally. 
+From now on, each player has only 1 Objective left and they must 
+work toward its completion. It must still be kept secret from the 
+other players.
+Note: Players cannot look at the removed Objective cards of other players!
+Note: Eggs are not Intruders.
+More on Encounters – see Encounter and Combat, page 20.
+FirST DEAD CHArACTEr 
+The first time a Character (of any player) dies, the Facility’s AI immediately 
+opens the Main Gate to let the other workers escape.
+The Main Gate is opened (remove its token from the board).
+More on Main Gate and Bunker – see Leaving the Facility, page 11.
+When the Time token reaches a white (number 8) slot on the Time track, the 
+Isolation Room becomes usable. Characters CANNOT lock themselves there 
+before that moment.
+Note: Activating the Alert Procedure allows Characters to lock themselves earlier.
+More on Alert Procedure – see page 11.
+Autodestruction sequence 
+The Autodestruction sequence is initiated by performing the Cooling System 
+Room Action. If any Character has done this, take the Autodestruction token 
+and place it 3 slots forward on the Time track (there should be 2 empty slots 
+between the Time token and the Autodestruction token). Place it with the 
+yellow side up.
+Note: As long as the yellow side of the Autodestruction token is visible, players may 
+turn off the sequence in the Power Generator Room.
+More on Cooling System and Power Generator Rooms – see Room sheet, page 27.
+During the Event Phase of the round marked by the yellow Autodestruction 
+token, the token is moved by another 3 slots forward and flipped to the Red side. 
+When the Time token is on a slot with the Autodestruction token on the 
+yellow side and has to move further, the Main Gate is automatically opened 
+(remove its token from the board) and the Characters can no longer stop 
+the Autodestruction sequence.
+Note: The Autodestruction token moves just after the Time token, so after resolving 
+this step, there should be 1 empty slot between these two tokens.
+Note: The Main Gate should also be opened at this moment.
+During the Event Phase of the round marked by the red Autodestruction 
+token, the Facility is destroyed. All Characters (and Intruders) currently in 
+the Facility die.
+Note: If the token would go over the Time track, simply place it on the last slot. It will 
+be resolved during the game end check.
+IMPORTANT: The sequence can still be initiated, even when any Character has 
+already locked themselves in the Isolation Room!
+More on initiating Autodestruction sequence – see Room sheet, page 27.
+
+ 
+Leaving the Facility 
+CArGo SENDING 
+SYSTEM (CSS)
+In the case of an emergency, Characters may use the Cargo Sending System 
+(CSS) to escape from the Facility.
+Entering a CSS pod
+Characters may enter a  CSS Pod  using a  Cargo Sending System Room 
+Action. They have to be in the appropriate Room and the Time token has to 
+be on the slot marked with a CSS token. Only 1 Character may be present in 
+a given CSS Pod at the same time.
+After entering a CSS Pod, discard all your cards and pass the turn (resolving 
+all appropriate effects). Then, place your Character’s miniature in the 
+corresponding CSS Pod space. At the Event Phase, your Character will try to 
+evacuate using this CSS Pod. 
+Characters in CSS Pods are unaffected by any game effects unless 
+specified otherwise.
+Launching CSS pods 
+CSS Pods are launched automatically during the Event Phase in the Round 
+marked by a CSS token. At the “Launch CSS Pods” step, reveal the CSS 
+token and resolve the corresponding effect:
+ 
+ 
+ – Character in the corresponding CSS Pod space
+	
+	 Evacuates. When your Character Evacuates, 
+	
+	 remove your Character’s miniature from the game.
+Characters who didn’t Evacuate are returned to the corresponding Cargo 
+Sending System Rooms and suffer 1 Serious Wound.
+ – All Characters present in a CSS Pod space Evacuate. When your 
+Character Evacuates, remove your Character’s miniature from 
+the game.
+ – No Characters Evacuate. They are returned to the corresponding 
+Cargo Sending System Rooms and suffer 1 Serious Wound.
+the Main Gate 
+and the Bunker
+The Bunker and ways to Exit
+The Bunker is one of the safe places the Characters may try to Escape to 
+from the Facility. In order to Escape to the Bunker, Characters must fulfill the 
+following conditions:
+The Character must be in the Exit Room. 
+Exit Room is the Room 002 on the basic side of the board.
+The Main Gate must be Open.
+The Rover is in the Facility OR the Character has an Enviro-Suit.
+There is no Intruder in the Room with the Character.
+In such cases, the Character may use the Escape the Facility Action.
+Escape the facility Action
+1]  If there is a Rover in the Exit Room – Simply move the Rover 
+with your Character to the Bunker. You managed to Escape safely. 
+Place your Character in the Bunker to mark this. Only 1 Character may 
+occupy the Rover.
+2]  If you have an Enviro-Suit – Perform a Noise roll. If any Intruder shows 
+up in this Room, your attempt at Escaping the Facility fails. If no Intruder 
+appears, you may Escape the Facility and move your Character to the 
+Bunker. Place your Character in the Bunker. You managed to Escape safely. 
+3]  Otherwise – You are unable to perform this Action. If you have Escaped, 
+you do not take part in the game any longer. You will find out if you have 
+won during the Victory Check at the end of the game.
+The Main Gate
+At the beginning of the game, the Main Gate, located next to the Bunker, 
+is closed. As long as it is closed, it is impossible to enter the Bunker using 
+any means.
+The Main Gate opens during the game in one of the following cases:
+When the first Character dies.
+By using certain Items/Actions in the Exit Room.
+The Autodestruction token is flipped to the Red side.
+It is important to note that, once open, the Main Gate cannot be closed again.
+Actions that Open Doors do not affect the Main Gate in any way!
+The rover 
+The Rover used to be a way for the Facility Crew to get around the surface. 
+Now it can be used to Escape the Facility safely.
+The Rover, at the start of the game, is placed next to the Exit Room. It can be 
+used during the Escape the Facility Action explained earlier.
+If the Rover was already used, it can be moved remotely back to the Facility 
+using a Computer Action. It can also be moved away from the Facility.
+To all Research Facility Directors, 
+After the latest incident, when an elevator maintenance notification 
+triggered a  purge of an entire laboratory, we decided to adopt 
+a standardized Incident Response Codes list. The following codes are 
+classified – do not share them with your staff! 
+CODE GREEN – Use it only if you wish to save the ENTIRE personnel 
+of your facility. The Response Team’s directive will be to evacuate 
+everyone safely. You will be held responsible for any information leaks 
+caused by improper use of this code.
+CODE YELLOW – Use it to limit the spread of incriminating details. The 
+Response Team will identify and eliminate personnel with too much 
+sensitive information. 
+CODE BLUE – Use it to save only the most dedicated personnel. The 
+Response Team will eliminate everyone, except for those who filed 
+proper Incident Report Forms in the required time. 
+CODE GRAY – Use it to prevent the spread of contamination to other 
+facilities. Orbital lasers will destroy all CSS containers traveling from 
+this facility to any outbound destinations. 
+CODE RED – Use it after a total loss of your facility. A nuclear payload 
+will obliterate the facility, vaporizing any samples and contaminants. 
+Your sacrifice will be remembered.
+Contingency
+Contingencies are the result of how the Corporation deals with the Characters 
+after the events in the Facility. As the first step of the Victory Check, the 
+Active Contingency will be resolved for all players with the possibility of 
+killing some of them.
+It is in the players’ best interests to find out how best to protect themselves 
+from the Contigency Procedure throughout the course of the game. To do 
+this one has to figure out the Contingencies held by the other players and 
+those present in the Neutral Pool, and by a process of elimination, deduce 
+what the Active Contingency is.
+Information about Contingencies can be traded, given, and lied about.
+Important: The Active Contingency will stay secret until the end of the game and its 
+contents may not be checked until then!
+Tokens 
+The information on each player’s individual Contingency token can be 
+secretly examined by that player at any time but must NEVER be shown to 
+other players (just like Objectives). You may trade this information verbally 
+or otherwise – Contingency Reference cards can be used to facilitate this 
+secretly between two players. 
+Note: Various game effects – e.g. using the Archive Room Action – may also allow 
+you to peek at other players’ Contingency tokens.
+Hint: We recommend using Help cards to trade the information about 
+Contingencies. This way this information may be traded in secret between 
+the selected group of players.
+More on checking Contingencies – see Acquiring Information below.
+Acquiring information 
+Contingencies other than the Active Contingency can be peeked at using 
+various game effects.
+You can find these effects among Item Actions, Computer Actions and the Archive 
+Room Action.
+More on Archive and Computer Actions – see Room sheet, page 27.
+More on Items – see Objects and Items, page 25.
+Using a Computer Action, you can peek at all Contingencies of any other 
+player in the same Section as you are in.
+Using the Archive and Alert Room Actions, you can peek at 1 Contingency 
+token from the Neutral Pool and obtain this Contingency token.
+This way, by a process of elimination, players can make an informed guess about 
+the Active Contigency.
+Dying Characters 
+When a Character dies, all of their Contingency tokens are returned to the 
+Neutral Pool.
+alert procedure 
+Divide the number on which the Time token is placed by 2 (rounding down). Place 
+the Alert Procedure token on this slot of the Time track. The game ends instantly 
+when the Time token leaves the slot containing the Alert Procedure token.
+After activating the Alert Room, the Isolation Room opens immediately; flip 
+its tile to the side with a Room Action up. From now on, Characters may 
+lock themselves there, even if the Time token is not on any white slot of the 
+Time track.
+More on Isolation Room – see Room sheet, page 27.
+<<< Leaving the facility >>>
+
+END oF THE GAME 
+The game ends when one of the following conditions is met:
+The Time token reaches the final “S” (red) slot of the Time track – 
+the Facility is purged by the Corporation’s forces, regardless of the Active 
+Contingency. All Characters in the Facility who are not in the Isolation 
+Room die. 
+Important: The Intruders survive. If your Objective was to kill the Queen or 
+destroy the Nest, you fail.
+The Time token is on the same slot as the red Autodestruction token 
+and has to advance further OR you are instructed to place a 13th 
+Fire marker or a 11th Malfunction marker – the Facility explodes 
+and all Characters in the Facility die, including those who have used the 
+Isolation Room. Intruders also die and their Queen is killed (this may be 
+important for some Objectives).
+More on Autodestruction sequence – see page 10.
+The last living Character in the Facility (excluding those who have 
+used the Isolation Room earlier) dies, uses the Isolation Room, flees 
+to the Bunker or uses a CSS Pod – there is nothing more to do in 
+the Facility.
+If the Autodestruction sequence was active, move the Time token to the slot 
+with the Autodestruction token. If not, move the Time token to the final red 
+slot of the Time track. In both cases, resolve the effects of these tokens as 
+described above.
+If the Alert Procedure was active, move the Time token to the slot with the Alert 
+Procedure token. If not, move the Time token to the final red slot of the Time track. 
+In both cases, resolve the effects of those tokens as described above. 
+In the unlikely case when both Alert Procedure and Autodestruction sequence 
+were active, they both count as the way of ending the game.
+If one of the conditions above is met and at least 1 Character survived 
+(either locked in the Isolation Room, safe in the Bunker or evacuated in 
+a CSS Pod), go to the Victory Check step.
+viCTorY CHECK 
+1) Contingency check
+Reveal the Active Contingency token and apply its effect to all 
+living Characters.
+Contingencies are the result of how the Corporation deals with the Characters 
+after the events in the Facility, including the possibility of forcibly terminating 
+some of them. 
+During the game, the players’ objective is to find the necessary information to 
+protect themselves from the Contingency Procedure.
+More on Contingencies – see Leaving the Facility, page 11.
+2) Contamination check:
+Each living Character (either locked in the Isolation Room, safe in the Bunker 
+or evacuated in a CSS Pod) checks their Contamination cards.
+A)  The player uses the Scanner to check all the Contamination 
+cards in their Action deck, discard pile and hand. If there is at 
+least 1 “INFECTED” card, they resolve Step B. If a  player has 
+a Larva on their Character board, they skip this step and resolve 
+Step B immediately.
+B)  Infected players shuffle all their cards (both Action and 
+Contamination) to create a new Action deck and then draw the top 
+4 cards. If there is at least 1 Contamination card (Infected or not), 
+the Character dies. If not, they luckily survive.
+Ending the game 
+before the other players
+If any Character uses a  CSS Pod, isolates or dies, then they 
+can no longer actively participate in the game, and can only 
+spectate. At the end of the game, the Characters that are still 
+alive determine if all their Objectives have been met and thus if 
+they have won or not.
+ 
+3) objective check: 
+Each player whose Character is still alive at this step must check if they 
+accomplished their chosen Objective. They all reveal their Objective card 
+to the other players and check if they have met all the requirements.
+If you have completed your Objective and have failed neither the 
+Contingency nor Contamination check, you are the winner. There can be 
+more than one winner in a game of Nemesis: Lockdown.
+<<< END oF THE GAME >>>
+
+The game is played over a series of consecutive rounds, and ends when 
+any of the end game conditions are met.
+More on Player Goals and End of the Game – see page 10.
+round orDEr 
+Each round is split into two consecutive Phases: 
+I: Player Phase
+II: Event Phase
+i: pLAYEr pHASE 
+Resolve the following steps:
+1: DrAW ACTioN CArDS
+At the start of each Player Phase, all players draw cards from their 
+Action deck until they have a hand size of 5 cards.
+If at any time you are required to draw a card and your deck is empty, 
+first shuffle the cards in your discard pile to form a new Action deck. 
+Then, draw the required number of cards.
+2: FirST pLAYEr ToKEN
+After all players have drawn their Action cards, the player with the 
+First Player token passes it to the player on their left.
+Note: In the first round of the game, do not pass the First Player token. 
+Each time players are required to do anything in order, start with the 
+player with the First Player token, and then continue in clockwise order.
+3: player turns
+Starting with the first player and going clockwise, each player 
+performs a turn of 2 Actions. Continue performing turns in order 
+until all players have passed, then go to the Event Phase.
+If a player cannot or chooses not to take any Actions on their turn, 
+they must pass. If they perform only 1 Action instead of the required 
+2, their second Action is to Pass. Once a player passes, they cannot 
+perform ANY action for the remainder of the Phase.
+When a player passes, they may discard any number of cards from 
+their hand. Then they flip their Help card to the Pass side. 
+Passing counts as taking an Action in the player turn.
+Note: When a Character ends their turn in a Room with a Fire marker, they suffer 
+1 Light Wound but won’t suffer any more Wounds from Fire this round, even if 
+other Characters play their turn after them. 
+More on available Actions – see Actions, page 14.
+ii: EvENT pHASE 
+4:	Launch CSS
+If there is a CSS token under the Time token, reveal it and check which CSS 
+Pods are launched this round.
+More on Cargo Sending System – Leaving the Facility, page 11.
+5:	Time track
+Move the Time token on the Time track by 1 slot to the right and resolve the 
+following steps:
+A)  Check if you have to resolve Autodestruction sequence and 
+Alert Procedure,
+B)  On Power Thresholds – Check if the Power has to be reduced.
+More on Autodestruction – see Room Sheet, page 27.
+More on Contingency – see page 11.
+6: Noise removal
+In Sections with Power: remove all Noise markers in the Corridors not 
+connected to the Rooms with Characters. 
+Do NOT remove Noise markers from the Technical Corridors space!
+7: intruder Attacks
+Each Intruder in the same Room as a Character performs an Attack.
+8: intruder Fire Damage
+Each Intruder in the same Room as a Fire marker suffers 1 Injury.
+More on Intruder Injuries – see Encounter And Combat, page 21.
+9: resolve Event card
+Draw and resolve 1 Event card:
+A)  Intruder movement – All Intruders sharing the Intruder Symbol 
+shown on the Event card (that are NOT in a  Room with any 
+Characters) move to a  neighboring Room through the Corridor 
+matching the number on the Event card. If there are two numbers 
+on the Event card, move appropriate Intruder types through the 
+Corridor sharing the first number, then through the Corridor 
+sharing the second number.
+If an Intruder ends up in a Room with a Character after the first move, do 
+not move it further.
+More on Rooms and Corridors – see page 16.
+If the number indicates a  Technical Corridor, remove that Intruder 
+miniature from the board and put its corresponding Intruder token in the 
+Intruder bag. If the number indicates a Corridor with a Door, the Intruder 
+does not move. The Door is destroyed.
+B)  Event effect – After the Intruder movement step, resolve the 
+effect described on the Event card.
+Some Event cards have an additional effect resolved only in Sections without 
+Power. In most cases, these effects are marked with a special Darkness 
+layout shown above. An effect marked with this layout is applied in addition 
+to the regular Event effect.
+After resolving the Event card, discard it to the Event discard pile (unless 
+stated otherwise). In the rare case the Event deck runs out of cards, 
+shuffle the discarded Event cards – they become the new Event deck.
+10: intruder Bag development
+Draw 1 Intruder token from the Intruder bag.
+The effect depends on the drawn token:
+Larva – Remove this token from the Intruder bag and add 
+1 Adult token to the Intruder bag.
+Put the removed token aside the board.
+Creeper – Remove this token from the Intruder bag and 
+add 1 Breeder token to the Intruder bag.
+Adult – Return the Adult Intruder token to the Intruder bag. 
+All players perform a Noise roll in order. If a player’s Character 
+is in Combat with an Intruder, they do not perform a Noise roll. 
+Breeder – Return the Breeder Intruder token to the 
+Intruder bag. All players perform a Noise roll in order. 
+If a player’s Character is in Combat with an Intruder, they do 
+not perform a Noise roll. 
+queen – Return the Queen Intruder token to the Intruder 
+bag. If there are any Characters in the Nest, place the Queen 
+miniature there and resolve an Encounter.
+Otherwise, or if the Nest is undiscovered, add an additional 
+Egg token on the Laboratory board. 
+Blank – Return the Blank token to the Intruder bag. Add 
+1 Adult Intruder token to the Intruder bag. If there are none 
+available, nothing happens. 
+11: End of round
+Start a new round.
+The round ends after the Intruder bag development step has been fully 
+resolved, including any Encounters, Surprise Attacks, etc. Then, a new 
+round starts with the Player Phase and all players draw their Action cards.
+EXAMPLE OF AN EVENT CARD
+Coolant Leak
+If there is a Malfunction marker 
+in the Cooling System, 
+start the Autodestruction sequence. 
+If not, place a Malfunction marker there.
+REMOVE this Event from the game 
+and reshuffle the Events deck 
+(including the discard pile).
+1, 2) Intruder symbols and direction number. Only the Intruders 
+whose symbol appears on the card (and that are not in Combat) are 
+moved through the Corridor displaying the same direction number 
+as the card. In this example, during the Intruder movement step, 
+all Adult Intruders, Breeders and the Queen will move through 
+Corridor number 1.
+3) Event effect. This effect is triggered after the Intruder movement 
+step has been performed. In this example, check if a Malfunction 
+marker is present in the Cooling System to trigger the effect. Then, 
+REMOVE this Event from the game (back to the box) and reshuffle 
+the Event deck and discard pile.
+FLoW oF THE GAME 
+
+During each of their turns, players can perform various Actions. There are 
+4 groups of Actions in the game: 
+Basic Actions
+Actions from Action cards
+Actions from Item cards
+Actions from Room tiles
+More on Player Phase – see page 13.
+ 
+ 
+Action symbols
+Action Cost 
+Each Action displays an Action symbol. The number in any given Action 
+symbol indicates the Cost of performing the Action. In order to pay the 
+Cost, the player must discard the exact number of Action cards from their 
+hand. Discarded cards are placed face up in the discard pile.
+Important: Even though they are added to the Action deck, Contamination cards 
+are not Action cards and cannot be discarded from your hand to pay for any 
+Action Cost. Contamination cards represent the exhaustion of your Character – 
+and sometimes something even worse.
+More on Contamination cards – see page 22.
+Note: The player must pay an Action Cost even if the Action was interrupted by 
+another player. If an One Use Only Item Action is canceled with an Interruption 
+Action, discard this Item.
+More on Interuption - see Action cards.
+More on One Use Only - see Objects and Items, page 25.
+Combat symbol 
+Some Actions and Items specify when they may be used:
+In Combat only – The Character may perform 
+this Action only in Combat.
+A Character is considered to be in Combat if there is an 
+Intruder in the Room they are in. Eggs do not count as Intruders.
+out of Combat only – The Character may 
+perform this Action only when they are NOT 
+in Combat.
+If a given Action is not marked by any of the symbols above, this 
+Action may be performed in both situations.
+BASiC ACTioNS 
+Each Character has the same set of Basic Actions:
+regardless of combat
+Movement – Move your Character miniature to the 
+neighboring Room, applying all the Movement basic rules.
+Note: When performing a Movement in Combat, you must Escape instead.
+More on Movement – see page 16.
+More on Escape – see page 21.
+out of combat
+Careful Movement – Works exactly like 
+Movement, but instead of performing a  Noise roll after 
+moving, place a Noise marker in a chosen Corridor connected to the 
+Room you are entering.
+If there is a Noise marker in all the Corridors connected to the Room you 
+want to move to, you cannot perform a Careful Movement. 
+You cannot perform Careful Movement if you are in Combat. 
+Any given Corridor may never hold more than 1 Noise marker.
+More on Movement, Noise rolls and Noise markers – see pages 16, 17 and 19.
+pick up Heavy object – Pick up 1 Heavy 
+Object present in the Room you are in. It can be a Character 
+Corpse, an Intruder Carcass or an Intruder Egg.
+Note: When you Search and find Heavy Items, you are not required to use this 
+Action. This Action applies only to Objects.
+More on Heavy Objects – see page 25.
+Trade – Start a trade with all Characters in the same 
+Room as your Character. 
+Players may, with mutual consent, reveal and exchange with each other 
+any Item cards and Objects they want to trade. Even though several 
+players may take part in the Trade (with or without the active player), the 
+only player that performs the Action is the one that started it. 
+A  player can choose to give an Item card or Object without asking 
+anything in return.
+Note: Characters cannot exchange Ammo.
+Craft item – Discard 2 Item cards showing the 
+appropriate blue Component symbols to gain a  Crafted 
+Item card with the same Component symbols (but in grey color) as 
+the Items you have discarded.
+A Crafted Item cannot be built if its card is not available, even if you have the 
+required blue components.
+More on Crafting Items – see page 26.
+in combat
+Shoot – Attack an Intruder with an Energy/Classic 
+Weapon in your Character’s Hand, discarding an Ammo 
+marker from that Weapon’s card. You can only Shoot Intruders 
+in the same Room as your Character.
+You may also shoot Uncarried Eggs outside of Combat – see Destroying Eggs, 
+page 27.
+More on Shooting – see Encounter and Combat, page 20.
+More on Items in a Character’s Hand – see Objects and Items, page 25.
+Melee Attack – Attack an Intruder with your 
+bare hands (or anything you can improvise). You can only 
+Attack Intruders in the same Room as your Character.
+You may also Attack Uncarried Eggs outside of combat – see Destroying Eggs, 
+page 27.
+More on Melee Attack – see Encounter and Combat, page 21.
+EXAMPLE OF AN ACTION CARD:
+J A N I T O R
+Clean up
+Discard a Malfunction marker 
+Discard a Fire marker 
+Here, we have a Janitor Action card – Clean up.
+1) It shows the “Out of Combat Only” symbol. This means that this 
+Action cannot be performed in Combat.
+2) Action Cost. In this case, to perform Clean up, the player doesn’t 
+have to discard additional Action cards from their hand as the 
+Action Cost is 0.
+3) Action Effect.
+4) Shows that this Action can be performed in one of two ways:
+– either to discard the Malfunction marker from a Room
+– OR to discard the Fire marker from a Room.
+FroM ACTioN CArDS 
+ACTION
+L A B R A T
+inconspicuous
+Discard this card 
+when an Intruder attacks you 
+(but before drawing an Attack card) 
+and there is another Character 
+in the Room you are in. 
+The Intruder attacks this Character 
+instead of you.
+In Darkness: 
+Discard this card when you have to 
+perform a Noise roll during the Intruder bag 
+development step of the Event Phase. 
+You do not have to perform this roll.
+S U R V I V O R
+SEArCH
+Reduce the Item Counter by 1. 
+Draw 2 Item cards of the same color 
+as the Room you are in. 
+Pick one and discard the other 
+to the bottom of its deck.
+H A C K E R
+iNTErrupTioN
+Discard this card 
+to cancel any Action performed 
+by another player in the Room you are in 
+(the other player must still pay the Action Cost). 
+Cancel an Interruption Action 
+used by another player in your Room.
+Each Character has their own, partially unique, set of 10 Action cards 
+representing the Actions which can be performed by this Character. The 
+description of each Action is detailed on the corresponding Action card.
+To perform an Action from an Action card, discard this card from your 
+hand (face up) and pay its Cost.
+Important: In this case, the Cost of an Action is the number of Action cards you 
+must discard from your hand, in addition to the chosen Action card.
+If an Action card contains two or three sections separated by [OR], the 
+player chooses the one they want to perform.
+
+<<< actions >>>
+FroM iTEM CArDS 
+reagent
+Fully load AMMO 
+in a Flamethrower.
+Knowledge 5: Choose 1 Intruder 
+in the Room you are in. It Retreats. 
+Thermite 
+Charge
+Choose 1 Room 
+(the one you are in or neighboring). 
+Place a Malfunction 
+and a Fire marker in this Room. 
+All Characters and Intruders 
+in the chosen Room (including you) 
+suffer 1 Injury / Light Wound.
+Fire blanket
+Discard a Fire marker 
+Discard a Slime marker.
+scalpel
+1 chosen Character 
+(including yourself) 
+in the Room you are in removes 
+a Larva from their Character board. 
+If they do, they suffer 
+1 Serious Wound.
+1 chosen Intruder in the Room 
+you are in suffers 1 Injury. 
+Get 1 Contamination card.
+MEDKIT
+Heal 1 Dressed Serious Wound.
+Some Item cards allow a Character to perform specific Actions. 
+Their description is provided on the Item cards.
+More on Items – see page 25.
+FroM rooM TILES 
+Most of the Rooms allow a Character to perform a specific Action. 
+The description of each Room Action is provided on the Room sheet – see 
+pages 27–29.
+Computer ActionS 
+The Computer Actions deck starts the game with 1 card revealed. Each 
+Character that is in a Section with Power and in a Room with a Computer 
+may use a Computer Action to perform one of the 3 actions listed on the 
+revealed Computer card. Place this card at the bottom of the deck afterwards 
+and reveal the next card from the top of the deck. 
+Whenever a  Lockdown card is revealed from this deck, immediately 
+resolve it.
+Note: If there is a Malfunction marker in a Room with a Computer, the Computer is 
+unavailable – as if there was no Computer symbol.
+More on Computers – see Room sheet, page 27.
+ 
+
+Moving around the Facility is one of the basic activities for Characters during 
+the game. Characters will roam through the Facility to discover additional 
+Rooms, find Items that are useful or vital to their survival, complete 
+objectives, repair dangerous and Malfunctioning gear and extinguish Fires 
+in order to survive.
+rooMS 
+AND CorriDorS 
+ROOMS are connected by CORRIDORS that allow both Character and 
+Intruder miniatures to move between them. Neither Characters nor 
+Intruders can ever stop in Corridors for any reason (i.e. miniatures can 
+only be placed in ROOMS) and the effects of moving through any given 
+Corridor are resolved AFTER moving into the Room.
+Character Actions can only be performed in ROOMS.
+Special Rooms (like Alert Room, Elevator Rooms or Emergency 
+Staircases) are treated as normal Rooms. The only difference being they 
+have no Item Counters (i.e. Search cannot be used while in one) and are 
+printed on the board.
+CSS Pods and Bunker are the only exceptions to the rule above – see Leaving the 
+Facility, page 11.
+Facility and Sections 
+sections
+The Facility is divided into 3 Sections. Each Section has its own Power 
+Source. Sections are described as “S-01”, “S-02” and “S-03” according to 
+their position on the board. Each Section is marked with a different color 
+outline that matches the color of its Corridors and Rooms. On the basic side 
+of the board, Sections are separated by the Emergency Staircases.
+When the game mentions a Section in an effect modifying Power, treat an 
+Elevator Power token as a separate 4th Section.
+ 
+ 
+MovEMENT ACTioN 
+The most common Action used to move around the Facility is MOVEMENT.
+More on Movement Action – see Actions, page 14.
+A Movement Action allows a Character to move to a neighboring Room. 
+Two Rooms are considered neighboring when they are directly connected 
+by a Corridor. Closed Doors can block the “neighboring” status for the 
+purpose of players’ Movement.
+More on Closed Doors – see Markers and Tokens, page 19.
+After entering a Room, always resolve the following steps:
+1)  If this Room tile was unexplored (face down), turn it face up. Then, 
+reveal and resolve the EXPLORATION TOKEN lying on that Room tile.
+More on Exploration tokens – see page 17.
+2)  If a Character enters an empty Room (explored or unexplored, with 
+neither Characters nor Intruders), perform a NOISE ROLL.
+If another Character or Intruder is already in the Room the Character is 
+entering, do not perform a NOISE ROLL.
+Hint: Beware that whilst there is an advantage to moving in groups (entering 
+Rooms that already contain Characters), such tactics may generate additional risks. 
+Some events in the game instruct all Characters to perform a Noise roll – in such 
+a case, bigger groups sharing a common Room might find themselves in trouble...
+oTHEr MovEMENT ACTioNS 
+Some of the Actions allow a Character to perform Movement, but modify its 
+rules in some way – like Careful Movement, Facility Tour and Vents.
+Important: To perform a Movement Action to leave a Room containing an Intruder, 
+you must use the Escape rule – see Encounter and Combat, page 21.
+More on Careful Movement – see Basic Actions, page 14.
+More on Facility Tour – see Sentry Action cards.
+More on Vents – see Survivor Action cards.
+MovEMENT AND EXpLorATioN ToKENS 
+EXAMPLE OF MOVING INTO AN UNEXPLORED ROOM
+Here, we can see the Survivor moving from the Elevator Room to 
+an unexplored Room. The player has already discarded an Action 
+card to perform this Movement.
+Before moving the miniature, the player flips both the Exploration 
+token (yellow) and the Room tile (white) face up.
+The Survivor discovers the Archive. As indicated by the Exploration 
+token, the Room is Malfunctioning, so an appropriate token 
+is placed on its tile. Luckily, there are 3 Items to be found. The 
+Room tile is rotated, so its Item Counter points toward number 3. 
+Afterwards, our brave Survivor must perform a Noise roll since she 
+has entered an empty Room.
+EXAMPLE OF MOVING INTO AN EMPTY ROOM
+Here, we can see the Survivor moving into the Archive. The player 
+discards an Action card, the miniature is moved and a NOISE ROLL 
+is performed.
+The result is 2, so a Noise marker (green glow) is placed in the Corridor 
+connected to the Archive showing the result’s number, “2” (red glow). If 
+the Corridor “2” already contains a Noise marker, an Encounter takes 
+place. Luckily for the Survivor, everything is fine… for now.
+
+ 
+EXpLorATioN ToKENS
+In Nemesis: Lockdown, there are two types of Exploration tokens: 
+Underground and Surface. Surface Exploration tokens are used only with the 
+alternative side of the board.
+More on the alternative board side – see Game modes, page 30.
+The front side of each Exploration token displays:
+1)  a number indicating the amount of Items in a given Room
+2)  a special Effect symbol
+They are resolved in the following way:
+1) SET up THE AMouNT 
+oF items iN A room 
+After revealing the Exploration token, rotate the Room tile until the 
+number shown on the token faces the Item Counter symbol printed on 
+the board, next to the Room tile slot. This is the exact amount of Items 
+that can be obtained from this Room.
+Exception: Do not set the amount of Items when the Nest Room is revealed.
+More on Searching Items – see Objects and Items, page 26 and Search Action card.
+Item Counter set to 2 Items
+2) rESoLvE SpECiAL EFFECT 
+An Exploration token may generate the following effects:
+SiLENCE: 
+Nothing happens.
+Do not perform a  Noise roll for this Movement. If the 
+Character has a Slime marker on their Character board, 
+then resolve “Danger” instead.
+If this token was revealed due to a Careful Movement, you 
+still place a Noise marker.
+DANGEr: 
+Do not perform a Noise roll for this Movement.
+If there is an Intruder in the neighboring Room (and it is 
+not in Combat with any Character), move it to this Room. 
+If there is more than one Intruder eligible, move them all.
+Keep in mind that an Intruder trying to move through 
+a  Corridor with Closed Doors will destroy them instead 
+of moving!
+If there are no Intruders in any of the neighboring Rooms 
+(or if they are in Combat), place a Noise marker in each 
+Corridor connected to this Room without a Noise marker 
+already present (including Technical Corridors if there is an 
+Entrance in the Room).
+If this token was revealed due to a Careful Movement, you 
+still resolve the Danger effect.
+SLiME: 
+Place a Status marker in the indicated slot of your Character 
+board to show they have been covered with slime.
+More on Slime markers – see page 19.
+FirE: 
+Place a Fire marker in this Room.
+More on Fire markers – see page 19.
+MALFuNCTIoN: 
+Place a Malfunction marker in this Room.
+More on Malfunction markers – see page 19.
+Door: 
+Place a  Door token in the Corridor by which you have 
+entered this Room.
+More on Door tokens – see page 19.
+After resolving an Exploration token, remove it from the game.
+Exploration tokens are placed on unexplored Rooms, so they are only resolved 
+once when the Room they are in. is entered for the first time in the game.
+EXAMPLE OF MOVING INTO AN OCCUPIED ROOM
+In this example, the Survivor is moving into a  Room already 
+occupied by the Janitor. As there is someone in the target Room, 
+there is NO NOISE ROLL.
+The same rule would apply if the Survivor was moving into a Room 
+containing an Intruder. NO NOISE ROLL would be required.
+NoiSE roLL 
+Noises echo throughout the Facility... Sometimes 
+it’s the machinery, sometimes it’s the Intruders.
+REMEMBER: If you are moving into a Room with either another Character 
+or an Intruder – you do NOT perform a Noise roll. 
+When you enter a Room, roll a Noise die and resolve the result:
+ 
+ 
+ 
+ 
+rESuLT oF 1, 2, 3 or 4: 
+Place a Noise marker in the Corridor with the number corresponding 
+to the result of your Noise roll that is connected to the Room you have 
+just entered (including Technical Corridors, if there is an Entrance in 
+the Room).
+Any given Corridor may never hold more than 1 Noise marker. If you are 
+instructed to place a Noise marker in a Corridor that already contains 
+one, resolve an Encounter instead.
+DANGEr: 
+If there is an Intruder in a neighboring Room (and it is not in 
+Combat with any Character), move it to this Room. If there is 
+more than one Intruder eligible, move them all.
+Keep in mind that an Intruder trying to move through a Corridor with 
+Closed Doors will destroy them instead of moving!
+More on Door tokens – see page 19.
+If there are no Intruders in any of the neighboring Rooms (or if they are in 
+Combat), place a Noise marker in each Corridor connected to this Room 
+that does not already have a Noise marker (including Technical Corridors, 
+if there is an Entrance in the Room).
+More on Technical Corridors – see page 18
+SiLENCE: 
+Nothing happens. No Noise marker is placed. 
+If the Character has a Slime marker on their Character board, 
+then resolve “Danger” instead.
+
+TECHNiCAL CorriDorS
+Technical Corridors sprawl underneath the base, 
+using natural caves and tunnels as ducts. The 
+ingenious idea that cut the cost of constructing 
+them in half now bears other, rotting fruits – as 
+the caves are connected to almost every room 
+in the facility, unspeakable horrors can appear 
+anywhere, anytime. 
+1) Technical Corridors space
+2) Example of Technical Corridors Entrance
+Both the Technical Corridors Entrances (present in some Rooms) and the 
+special Technical Corridors space are not accessible to the Characters. 
+Outside these movement restrictions, Technical Corridors function like 
+normal Corridors in all other ways.
+The Vents Action card from the Survivor Action deck, Cave Entrance Room Action 
+and the Cave Plans Item card are the only exceptions to this rule.
+If (for example as the result of a Noise roll) a Noise marker should be 
+placed and the number leads to a Technical Corridor Entrance, this Noise 
+marker should be placed on the Technical Corridors space.
+Any given Corridor may never hold more than 1 Noise marker. If you are 
+instructed to place a Noise marker in a Corridor that already contains 
+one, resolve an Encounter instead.
+Door tokens can never be placed in Technical Corridors. 
+If an Intruder moves to the Technical Corridors Entrance, then it 
+disappears in the ducts: discard all its Injury markers, return its token to 
+the Intruder bag, and remove its miniature from the board. If there was 
+a Noise marker on the Technical Corridors space, do not remove it.
+ 
+Staircases 
+All Rooms between Sections are Emergency Staircases. They are always 
+considered to be in Darkness and should be treated as black Rooms with 
+no Action. 
+Moving between Sections without any source of light (like a Glowstick or 
+a Flashlight) is a dangerous endeavor. 
+More on Darkness – see Power, page 24
+More on Glow Stick and Flashlight – see Item cards.
+They can contain a Malfunction marker, which has no other Effect than 
+lowering the number of Malfunction markers in the pool.
+Note: Emptying the Malfunction marker pool leads to the destruction of the 
+whole Facility.
+More on Malfunction – see page 19.
+Emergency Staircases are not treated as a part of any Section. (Thus, they 
+are always in a different Section for e.g. Event effects).
+Additional notes about 
+intruder movement
+Intruders move at different times of the game (for example, 
+when resolving an Event card during the Event Phase). 
+Whenever a  rule makes you move one or more Intruders, it 
+explains in detail how to do it.
+Important: If an Intruder ends its Movement in an unexplored Room, do 
+not remove it and don’t reveal the Room (or its Exploration token).
+If you are instructed to place an Adult Intruder on the board, 
+but all 8 miniatures are already present – the Adult Intruders 
+Retreat. Remove all Adult Intruder miniatures that are not in 
+Combat and put the same number of Intruder tokens back in 
+the Intruder bag (if possible). 
+Then, place an Adult Intruder miniature in the Room where the 
+Encounter occurred.
+NOISE CLARIFICATIONS
+Even if the Noise marker (blue glow) is in the Corridor with the 
+Closed Door, it affects the WHOLE Corridor. Noise markers NEVER 
+affect only a part of the Corridor “on one side of the Door”. 
+When there is a Noise marker in the Technical Corridors space 
+(green ring), it is treated as if it was in each Technical Corridor 
+Entrance on the whole board. In this example, there are two Noise 
+markers in Corridors connected to the Guard Room: one in the 
+Corridor number 4, with the Closed Door (blue glow), and the other 
+in the Technical Corridors (green ring).
+
+ 
+Markers and Tokens 
+NoiSE Marker 
+The only function of the Noise markers is to mark Corridors 
+for the purpose of the Noise roll rule.
+SLiME Marker 
+As long as the Character has a  Slime marker on their 
+Character board, each “Silence” result of a  Noise roll 
+(and each “Silence” Exploration token) should instead be 
+considered as “Danger”.
+The Slime marker is a universal Status marker, placed in the 
+Slime slot of the Character board.
+A Character may only have 1 Slime marker at a time and if 
+they are instructed to get another, nothing happens.
+Note: A Character may get a Slime marker due to many reasons, 
+not only when resolving an Exploration token.
+A Character may get rid of a Slime marker by using the Clothes Item 
+card (see Item cards) or taking a Decon Room Action (see Room sheet).
+FirE Marker 
+Fire markers have three functions: 1) they wound 
+Characters ending their turns in Rooms on Fire, 2) they 
+deal Injuries to Intruders and 3) they may cause the whole 
+Facility to explode.
+1)  Every time a Character ends their turn in a Room with 
+a Fire marker, this Character suffers 1 Light Wound.
+Remember that a  Character’s turn consists of 2 Actions (or 1 
+Action and pass, or simply pass).
+Important: Characters suffer Wounds from Fire only after they finish 
+their turn. If the Character passes, they suffer 1 Light Wound from Fire 
+at the end of their turn, but they won’t suffer any more Wounds from 
+Fire this round, even if other Characters play their turn after them.
+More on Light Wounds – see Character Wounds and Death, page 23.
+More on Actions – see Player Phase, page 13.
+2)  During each Event Phase, during the Fire Damage step, 
+each Intruder present in a Room with a Fire marker suffers 
+1 Injury.
+More on Intruder Injuries – see Intruder Injuries and Death, page 21.
+3)  There are 12 Fire markers in the game. If you are 
+instructed to place a Fire marker and there are no more 
+markers in the pool, the Facility explodes and the game ends.
+Note: Some Event cards may cause the Fire to spread to 
+neighboring Rooms, so be careful!
+More on End of the Game – see page 12.
+Any given Room may never hold more than 1 Fire marker. 
+If you are instructed to place another one, nothing happens. 
+A Fire marker may be placed in an Unexplored Room (i.e. 
+due to an Event card effect). 
+Any discarded Fire marker goes back to the Fire marker pool. 
+You can still use a Room Action and/or a Search Action when there 
+is a Fire marker in the Room. 
+MALFuNCTioN Marker 
+Malfunction markers have two purposes: 1) they prevent you 
+from using this Room’s Actions and 2) they may cause the 
+Facility’s destruction – meaning everything on the board dies.
+1)  If there is a Malfunction marker in a Room, that Room’s 
+Action is no longer available. The Search Action works 
+normally, though.
+Various Action cards (like Repair Action cards) and Items 
+(like the Toolbelt Item card) may be used to discard 
+a Malfunction marker.
+Important: A Malfunction marker can never be placed in the Nest 
+or in the Contaminated Room.
+Note: A Malfunction marker may be placed in a Room due to many 
+reasons other than resolving an Exploration token (like some 
+Events or Actions). They may even disable Special Rooms (such 
+as the Repository, Isolation Room, Alert Room or Elevator Rooms).
+Note: A Malfunction marker in the Isolation Room has no Effect on 
+already locked Characters.
+2)  There are 10 Malfunction markers in the game. If you 
+are instructed to place a Malfunction marker and there are 
+no more markers in the pool, the base is destroyed and the 
+game ends.
+More on End of the Game – see page 12.
+Any given Room may never hold more than 1 Malfunction 
+marker. If you are instructed to place another one, nothing 
+happens. A  Malfunction marker cannot be placed in an 
+Unexplored Room (i.e. due to an Event card effect).
+Any discarded Malfunction marker goes back to the 
+Malfunction marker pool.
+If there is a Malfunction marker in a Room 
+with a Computer, the Computer is unavailable 
+– treat that Room as if there was no 
+Computer symbol.
+More on Computers – see Room sheet, page 27.
+Door ToKEN 
+Door tokens are only placed in Corridors. Each Corridor 
+may never hold more than 1 Door token. 
+Doors tokens do not affect Noise markers.
+Doors in each Corridor can have three different statuses: 
+Open, Closed or Destroyed. Many things can change their 
+status (like Intruder Movement, Events, Actions, etc.).
+CLoSED DoorS are marked with a  standing Door token in 
+a Corridor.
+A Closed Door prevents Characters and Intruders moving through this 
+Corridor (Grenade throwing is also affected).
+More on the Granade – see Item cards.
+When one or more Intruders try to move through a Corridor with a Closed 
+Door token, the Intruders do not move, but destroy this Door instead. This 
+includes Intruders attempting to move due to the Danger result of 
+a Noise roll.
+More on Intruder Movement – see page 18; Event Phase, page 13 and Intruder 
+Retreat, page 21.
+DESTroYED DoorS are marked with a  lying Door token. 
+Movement is allowed through this Corridor. A Destroyed Door can never 
+be Closed again.
+opEN DoorS – to mark that a Door is Open, simply remove the 
+Door token from the Corridor. At the beginning of the game, all Corridors 
+have Open Doors.
+If there are no Door tokens left in the pool when you are instructed to place 
+a Door, take any non-Destroyed Door token from the board and place it in the 
+required Corridor.
+If several Intruders are moving from the same Room, their Movement is 
+considered simultaneous: they destroy the Door and all stay in the starting Room.
+Doors do not affect Noise markers and resolving Encounters in any way.
+
+ENCouNTEr 
+An Encounter is any instance of an Intruder appearing on the board in 
+a Room where a Character is present (after drawing an Intruder token 
+from the Intruder bag).
+First Encounter is a critical gameplay moment because the players have 
+to choose one of their Objectives and discard the other.
+An Encounter may also be triggered by the Effects of some Event cards or 
+Intruder Attack cards.
+Note: An Intruder moving from one Room to another Room containing a Character 
+does not count as an Encounter.
+To resolve an Encounter, follow the steps listed below:
+1)  Discard all Noise markers from all the Corridors connected to 
+this Room (including Technical Corridors, if there is a  Technical 
+Corridors Entrance).
+2)  Draw 1 Intruder token from the Intruder bag. Each Intruder token 
+has an Intruder symbol on one side, and one or two numbers on the 
+opposite side. One is used if you are in the Section with Power, other 
+if you are in the Section without Power.
+More on Night Stalker tokens – see below.
+3)  Place an Intruder miniature in the Room. The Intruder type 
+must correspond to the Intruder symbol shown on the token. For 
+a description of each Intruder symbol, see the Intruder board.
+4)  Compare the corresponding number on the Intruder token with 
+the number of cards in the player’s hand (Action and Contamination 
+cards are counted).
+If the number of Action cards in the player’s hand is lower than the 
+number on the Intruder token, a Surprise Attack occurs. If the number of 
+Action cards is equal to or higher, nothing happens.
+Put the drawn Intruder token aside – it may be returned to the bag if an 
+Intruder of that type hides (eg. by entering the Technical Corridors during 
+the Intruder Movement).
+ENCouNTEr AND CoMBAT 
+CoMBAT 
+Whenever both a Character and an Intruder are in the same Room, they 
+are considered to be in Combat. In Combat, a Character may Attack an 
+Intruder or Escape during their Action turn. Intruders Attack Characters 
+during the Event Phase.
+Some Actions cannot be used during Combat – see Combat symbol, page 14.
+More on turns – see Player Phase, page 13.
+CHArACTEr ATTACKS 
+iNTruDEr 
+The Character may Attack an Intruder in the same Room 
+using a  Shoot Action or a  Melee Attack Action during 
+their turn.
+More on turns – see page 13; more on Actions – see page 14.
+SHooT ACTioN – If a Character is in a Room with an Intruder 
+and has an Energy/Classic Weapon with at least 1 Ammo, they may 
+perform a Shoot Basic Action against that Intruder:
+1)  Choose a Weapon and 1 Intruder you want to Shoot.
+2)  Discard 1 Ammo from that Weapon’s card.
+3)  Roll the Combat die.
+Combat die results:
+– You miss your target.
+– If your target is a Larva or Creeper, deal 1 Injury to your 
+target. If not, you miss.
+– If your target is a Larva, Creeper or Adult Intruder, deal 
+1 Injury to your target. If not, you miss.
+– Deal 1 Injury to your target (regardless of the Intruder’s type).
+– Deal 2 Injuries to your target (regardless of the Intruder’s type).
+Important: Some Weapons have special rules that may modify the Shooting Action.
+More on Weapons – see Objects and Items, page 25.
+More on Intruder Injuries and Death – see page 21.
+advantage die 
+Advantage die is a special type of a Combat die. All effects (eg. Combat die 
+rerolls) which mention a Combat die are applicable to the Advantage die. 
+When Shooting in a Section with Power, players must use the Advantage die 
+instead of a normal one. This die introduces two new results:
+– Discard an Action card to deal 1 Injury to your target.
+– Deal 1 Injury to your target. Discard an Action card to deal 
+2 Injuries instead.
+The 
+ result does not count as either 
+ or 
+ for any purposes, 
+regardless if a card was discarded or not.
+Important: The Advantage die cannot be used while performing a Melee Attack.
+ENCOUNTER EXAMPLE
+The Survivor is moving from the Elevator Room to the neighboring 
+Room. There are 2 Noise markers in the Corridors connected to that 
+Room. As always, when entering an empty Room, the Survivor’s 
+player must perform a Noise roll. The result is 2 and, since there 
+is already a Noise marker there, an Encounter takes place. The 
+player removes all Noise markers from the Corridors connected 
+to that Room and draws an Intruder token from the Intruder bag. 
+It is an Adult Intruder token showing the numbers “2” and “3” 
+on its back. Power in this Section is on, so the lower number is 
+compared with the number of cards in the player’s hand (including 
+any Contamination cards) – only one card in this case.
+As the player does not have enough cards, a Surprise Attack takes 
+place and an Intruder Attack card is drawn and resolved.
+Surprise Attack:
+A  Surprise Attack is an Intruder Attack which only occurs during an 
+Encounter. If the player has fewer cards in their hand than the number 
+printed on the drawn Intruder token, a Surprise Attack takes place.
+More on Night Stalker token – see page 20.
+BLANK ToKEN 
+If a  player draws a  Blank token, place a  Noise marker 
+in each Corridor connected to the Room in which this 
+Encounter took place.
+If the Blank token was the last token in the Intruder 
+bag, add 1 Adult Intruder token to the Intruder bag. If there 
+are no Adult Intruder tokens available, nothing happens.
+Return the Blank token to the Intruder bag.
+This Encounter ends.
+Note: The Blank token rules are slightly different during the 
+Intruder bag development step of the Event Phase.
+Entering a room 
+with an intruder 
+Each time a Character enters a Room occupied by an Intruder, do not 
+resolve an Encounter. The Intruder and the Character are immediately 
+considered to be in Combat.
+Night Stalker tokens
+In Nemesis: Lockdown, Intruder tokens now feature 2 numbers on 
+their back. These are Night Stalker tokens. Night Stalkers are much 
+more deadly in the dark and it will be much harder to protect yourself 
+from Surprise Attacks in such situations.They are treated as regular 
+Intruder tokens for all other intents and purposes.
+When you compare the  number of Action cards in hand with the 
+number on the Intruder token, compare:
+The first, lower number if the Character is not in Darkness.
+The second, higher number if the Character is in Darkness.
+
+ 
+COMBAT EXAMPLE
+The Survivor tries to shoot an Intruder with her Assault Rifle. After 
+spending 1 Action card, she discards 1 Ammo from the Weapon 
+card and rolls the Combat die. The result is 2 Hits, but the Assault 
+Rifle card states that every time you deal at least 1 Injury, deal 
+1 additional Injury. Overall, 3 Injury markers are placed on the 
+Intruder miniature.
+After placing the Injury markers, the Injury Effect is checked 
+(representing the Intruder’s endurance). 1 Night Stalker Attack card 
+is drawn and only the number in the “blood” symbol is considered 
+and compared to the number of Injury markers on the Intruder. As 
+it is higher, the Intruder is fine.
+ESCAPE EXAMPLE
+After dealing an Injury to the Intruder, the Survivor decides to 
+Escape. The player spends an Action card (Movement Cost), and 
+decides to move to the Elevator Room.
+As Intruders Attack any Character trying to Escape, an Intruder Attack 
+card is drawn. It is a Blood Chase card, with the Creeper symbol: 
+the Attack hits the Survivor, dealing her a Serious Wound. Bitten and 
+seriously wounded, the Survivor moves to the Elevator Room.
+MELEE ATTACK ACTioN – If a Character is in a Room 
+with an Intruder, they may perform a Basic Melee Attack Action against 
+that Intruder:
+1)  Draw 1 Contamination card and add it to your Action discard pile.
+2)  Choose 1 Intruder you want to Attack.
+3)  Roll the Combat die.
+Combat die results:
+– You miss your target and your Character suffers 1 Serious 
+Wound.
+– If your target is a Larva or Creeper, deal 1 Injury to your target. 
+If not, you miss and your Character suffers 1 Serious Wound.
+– If your target is a Larva, Creeper or Adult Intruder, deal 1 Injury 
+to your target. If not, you miss and your Character suffers 1 
+Serious Wound.
+– Deal 1 Injury to your target (regardless of the Intruder’s type).
+– Deal 1 Injury (yes, only 1!) to your target (regardless of the 
+Intruder’s type).
+More on Intruder Injuries and Death – see page 21.
+More on Serious Wounds – see page 23.
+<<< Encounter, combat and wounds >>>
+CHArACTEr ESCApE 
+A Character may also try to Escape from Combat by performing a Basic 
+Movement Action to go to a neighboring Room (explored or unexplored). 
+Before you move your miniature, resolve an Intruder Attack.
+More on Intruder Attack – see page 22.
+If there is more than 1 Intruder in the Room you are trying to Escape from, 
+resolve a separate Intruder Attack for each Intruder. 
+If your Character survives, you end your Movement in the neighboring 
+If it was an unexplored Room, Explore it according to the standard rules. 
+If you die, place a  Character Corpse token in the Room you tried to 
+Escape from.
+Important: If the Character Escapes to a Room without any other Characters or 
+Intruders, perform a Noise roll just like after a standard move.
+Note: Some Actions, other than the Basic Movement Action, allow a Character 
+to Escape, but additionally modify this rule – for example, Distraction (see the 
+Action cards).
+iNTruDEr iNjuriES 
+AND DEATH 
+“Blood” symbol
+Intruder Carcass token
+When an Intruder suffers Injuries (for example as a result of a successful 
+Character Attack or from Fire), place the corresponding number of Injury 
+markers on its base.
+Then, check the Injury Effect:
+Larva and Egg – 1 Injury is enough to kill them. Remove their 
+miniature from the board.
+Creeper or Adult Intruder – draw 1 Intruder Attack card, ignore 
+everything on this card except the “blood” symbol in the upper left 
+corner of the card.
+If the number in the “blood” symbol of the card is equal to or lower 
+than the current number of Injury markers on this Intruder, it is killed 
+– remove its miniature and place 1 Intruder Carcass token in the Room 
+where it was slain (indicating an Intruder Carcass Object). 
+Otherwise, the Intruder is still alive.
+Breeder or Queen – draw 2 Intruder Attack cards, add the value 
+of their “blood” symbols, and compare the total to the current number 
+of Injury markers on this Intruder. Resolve the result using the same 
+method as above for the Creeper and the Adult Intruder.
+Note: The “blood” symbol represents the current endurance of the Intruder. This 
+value may vary for a given individual, depending on the cards drawn after each 
+successful Attack. A new card is drawn after each successful Attack, not just 
+once per turn.
+ 
+Retreat symbol
+intruder retreat 
+Intruders might seem savage, but they are 
+not mindless. They can run away if they suffer 
+too many Wounds, or if someone is lucky enough 
+to damage one of their vulnerable parts.
+During the Injury Effect check, if there is a Retreat arrow in the “blood” 
+symbol of any of the drawn Intruder Attack cards, then this Intruder flees.
+Draw an Event card and move the Intruder through the Corridor whose 
+number appears in the Intruder Movement section of the card. Then, 
+discard that Event card.
+Any Injury markers assigned to the retreating Intruder remain with that 
+Intruder. However, should an Intruder Retreat to a Technical Corridor, 
+remove those Wounds when you remove the miniature.
+The Queen and the Breeders will Retreat if any of the 2 Intruder Attack cards 
+drawn displays the Retreat symbol.
+More on Event cards – see page 13.
+Desperate times call for desperate measures. 
+A  metal pipe, a  heavy tool, a  rifle butt, 
+anything can become an improvised Weapon 
+in a  hopeless situation. Close Combat works 
+like Shooting, but the risks are far greater. 
+If the Attack fails to hit, then the Character 
+immediately 
+suffers 
+a 
+Serious 
+Wound, 
+ 
+in addition to the risk of being contaminated.
+
+<<< Encounter, combat and wounds >>>
+iNTruDEr ATTACK 
+Intruder Attacks happen in three cases:
+Surprise Attack 
+More on Surprise Attack – see Encounter, page 20.
+Intruder Attack step in the Event Phase 
+More on Intruder Attack step – see Event Phase, page 13.
+Character’s Escape
+More on Escape – see page 21.
+Each Intruder Attack follows the steps below:
+1)  Choose the Character who is the target of this Intruder Attack. The 
+Intruder may only Attack a Character in the same Room. If there is 
+more than one Character in the Room, Intruders always Attack the 
+Character whose player has the fewest Action cards in their hand. In 
+the event of a tie, the Character with the First Player token (or the next 
+player in turn order) is Attacked.
+In case of a Surprise Attack, the Character targeted is the one who 
+triggered the Encounter.
+In case of an Escape, the Character targeted is the one who is 
+performing the Escape Action.
+2)  Draw and resolve 1 Intruder Attack card:
+If the card displays an Intruder symbol matching the Attacking 
+Intruder, resolve the Effect described on the card. 
+Some Intruder Attack cards have an additional effect resolved only 
+in Sections without Power. These effects are marked with a special 
+Darkness layout. The Intruder symbol still has to match though.
+If the card does not display an Intruder symbol matching the 
+Attacking Intruder, the attack misses.
+Explanation of Intruder symbols – see the Laboratory board.
+Important: During an Intruder Attack, ignore the “blood” symbol in the upper left 
+corner of the Intruder Attack card. 
+After resolving an Intruder Attack card, it is placed in the Intruder discard 
+pile. If you run out of cards in the Intruder Attack deck, take its discard 
+pile and reshuffle it. It becomes the new Intruder Attack deck.
+EXAMPLE OF AN INTRUDER ATTACK CARD
+Cut
+The Character suffers 1 Light Wound 
+and gets 1 Contamination card.
+The Character suffers 
+1 additional Light Wound.
+1) Intruder endurance. Only used when checking if an Intruder dies 
+after receiving one or more Injury tokens.
+2) Intruder symbols. They show all the different types of Intruders 
+that can use this Attack. When a card is drawn during an Intruder 
+Attack (either during an Encounter or the Event Phase), if one of 
+its symbols matches the Attacking Intruder type, then the Attack 
+Effect of the card is resolved.
+3) Intruder Attack Effect. In this example, the targeted Character 
+suffers 1 Light Wound and gets 1 Contamination card. If in Darkness, 
+the Character suffers 1 additional Light Wound.
+iNFEST 
+If the Intruder Attack is performed by a Larva, do not draw any Intruder 
+Attack cards. Apply the following instead:
+Remove the Larva miniature from the board. Then, if the Character 
+being Attacked doesn’t have a Larva on their Character board, place 
+one there.
+The targeted player gets 1 Contamination card.
+More on Contamination cards – see below.
+CoNTAMiNATioN 
+CArDS
+In addition to Wounds, Characters may get Contamination cards (for 
+example, as the result of some Intruder Attacks).
+When a Character gets a Contamination card (regardless of the source), 
+draw it from the Contamination deck and place it on top of their Action 
+discard pile.
+Contamination cards are a disadvantage for the player, because they 
+are kept in hand like a normal Action card, but they do not provide any 
+additional Actions and you cannot spend them to pay the Costs of the 
+other Actions. They may still be discarded when passing.
+Each Contamination card contains hidden information: the Character 
+who possesses them may be INFECTED or not. This information is hidden 
+by colorful patterns in the text field. Unless the card is Scanned, this 
+information remains unknown to the player until the end of the game. If 
+the Character does not Scan their Contamination cards before the end 
+of the game, the player may lose the game due to a surprise infection.
+Note: Some Event cards may force a player to Scan their Contamination cards.
+More on Victory Check – see Player Goals and End of the Game, pages 10 and 12.
+SCANNiNG AND rEMoviNG 
+CoNTAMiNATioN CArDS 
+A Character may try to get rid of their Contamination cards through several 
+different ways (like the Rest Action card, the Decon Room, the Surgery Room 
+Action and the Antiseptic Item Action).
+Each card / Room description details the procedure to follow. Most of the 
+procedures require a Scan of the Contamination cards. Scan is performed 
+in the following way:
+SCANNING CONTAMINATION CARDS EXAMPLE
+The Janitor decides to perform a Rest Action, which requires him 
+to Scan his Contamination card. He places the Scanner on his 
+Contamination card and discovers that he is INFECTED!
+He takes the Contamination card back into his hand, and a Larva 
+miniature is placed on his Character board, indicating that the 
+Janitor has been infected by an Intruder at some point during 
+the game.
+The Janitor’s player must quickly find a way to get rid of this parasite. 
+The best ways would be a Surgery Room Action or a Neutralizer Item.
+Take the Scanner and place its red foil part over the coded field of the 
+Contamination card you are Scanning. In one of the lines of text, the word 
+INFECTED may appear. If not, the card is NOT INFECTED.
+Note: Look closely at the cards, because some of the coded words may look 
+similar to INFECTED.
+In both of these cases, any additional Scanning Effect is explained in the 
+description of the given Action card, Room Action or Item Action.
+More on Room Actions – see Room sheet, pages 27–29..
+If you are INFECTED, place a Larva miniature on your Character board 
+(and do not remove this Contamination card!).
+If there is already a Larva on your Character board, your Character dies – 
+additionally, place 1 Creeper in the Room where you died. 
+If any rule asks you to remove a Contamination card, place this card on 
+the bottom of the Contamination deck.
+As the old saying goes, if it bleeds, we can kill it. 
+But what if we can’t be sure whether the fluid 
+coming out of the alien wretch is, in fact, blood? 
+Either way, it’s helpful to know that Shooting 
+the Intruders hurts them. The problem is, you can 
+never be sure how bad their condition is and if 
+you can kill them before your Ammo runs out...
+Despite 
+the 
+Nemesis 
+crew 
+members’ 
+past 
+experience with Intruders, players cannot be 
+sure how much damage is needed to kill one! 
+ 
+
+CHArACTEr WouNDS 
+AND DEATH 
+During the game, Characters may suffer two types of Wounds: Light 
+and Serious.
+Light Wounds
+Wounds are recorded using the Light Wound 
+track on a player’s Character board.
+When a Character suffers a Light Wound, if there 
+isn’t a Status marker on their Wound track, place 
+one in the upper slot. 
+Should the Character take another Light Wound, 
+move the marker down the track. If the marker 
+reaches the third position, discard the marker and 
+the Character suffers a Serious Wound.
+Light Wounds are dealt and resolved one-by-one.
+Serious Wound
+When a Character suffers a Serious Wound, draw 
+1 Serious Wound card and place it face up next 
+to the Character board. From now on, the player 
+is affected by the Effect described on that card. 
+Each type of Serious Wound has a different Effect, 
+described on its card.
+Important: If a Character has several copies of identical Serious Wound cards, 
+their Effects are not cumulative. It will be more difficult to get rid of their Effects, 
+though.
+When a Character with 3 Serious Wounds suffers any additional 
+Wound (Light or Serious), they are instantly killed.
+When a Character dies, remove their miniature from the board and place 
+a Character Corpse token in the Room where they died – from now on, 
+it is considered a Character Corpse Object.
+When a Character dies, they drop all their Heavy Objects in the Room 
+where they died. All other Items are removed from the game.
+More on Heavy Items and Objects – see page 25.
+DrESSiNG AND HEALiNG WouND 
+During the game, a player may Dress and Heal their Wounds in many ways 
+(using Clothes, Medical Stapler, Medkit Item cards or the Emergency Room 
+Action). Each relevant Item card or Room Action details the Wound treatment.
+Dress Serious Wound – Flip a Serious Wound card 
+affecting the Character to its backside. From now on, its Effect is ignored, 
+but it still counts against the limit of 3 Serious Wounds.
+Heal – Either remove (in case of a Light Wound) or discard (in 
+case of a Dressed Serious Wound card) the Wound mentioned in the 
+Action Effect.
+More on Item cards – see Objects and Items, page 25.
+1 LIGHT WOUND
+SERIOUS WOUND 
+CARD
+2 LIGHT WOUNDS
+Knowledge 
+and Weaknesses 
+Knowledge 
+Gaining Knowledge represents that Characters discover more about the new 
+Intruder species and how best to fight them. Certain Knowledge levels give 
+Characters access to broader options from the Action cards or Items – for 
+example, the Pheromones Action card or Reagent Item card.
+Characters gain Knowledge when performing the following Actions:
+Analysing a Weakness in the Laboratory Room or using the Analyze 
+Toolset – the Character gains 3 Knowledge. Discard the object used. 
+Knowledge is gained regardless if a Weakness was discovered by using 
+a Room, or an Item.
+Using a specific Computer Action – the Character gains 1 Knowledge.
+Discovering the Nest – the Character gains 1 Knowledge.
+Using the Archive Room Action – the Character Activates their Knowledge 
+token and gains 2 Knowledge.
+Using some specific Items or Actions – the Character gains Knowledge 
+described on the given effect.
+More on Action cards – see Actions, page 14.
+More on Items – see Objects and Items, page 25.
+Knowledge token Activation 
+Characters in the Archive can use its Room Action to Activate their 
+Knowledge token and gain 2 Knowledge. Activating a Knowledge token is 
+marked by flipping it to the other side.
+An Active Knowledge token means that the Character is unable to use the 
+Archive Room Action again. It is also required by some Objectives in the game.
+Inactive 
+Knowledge token
+Active 
+Knowledge token
+More on Archive – see Room sheet, page 27.
+Weakness 
+During game setup, 3 random Weakness cards were placed on the Intruder 
+Weakness slots on the Intruder board. During the game, you will have the 
+possibility to discover and exploit these 3 Weaknesses. This represents the 
+crew gradually gaining insight into the lifeform that infests the Facility.
+The first Weakness card starts the game already discovered.
+To discover a Weakness card, any Character must research one of the 
+available Objects (Character Corpse, Intruder Carcass or Egg) in the 
+Laboratory Room.
+More on Research in the Laboratory – see Room sheet, page 27.
+More on Objects – see Objects and Items, page 25.
+After researching an Object, place the researched Object in the first empty 
+slot on the Intruder board and reveal the Weakness card below it.
+Discovered Weakness cards modify the basic rules of the Intruders, giving 
+a  small advantage against them, but only for Characters with certain 
+Knowledge levels (3, 5 and 8). Unless a Character possesses these levels, 
+Weaknesses cannot be exploited by that Character. 
+Note: Two Characters (Lab Rat and Survivor) start the game possessing 3 Knowledge, 
+so they can use the effect of the first Weakness card from the beginning of the game.
+Even though Characters cannot discover Weaknesses using the same type 
+of Object multiple times, they still can Analyze the same type of Object any 
+number of times to gain Knowledge.
+Important: In Nemesis: Lockdown, Heavy Objects are used up when researched. 
+They should be discarded immediately, regardless of the source of the effect.
+DISCOVERING WEAKNESS EXAMPLE
+The Survivor used the Laboratory Room Action to discover 
+a  Weakness using an Intruder Egg. This means that the last 
+Weakness can only be discovered by using an Intruder Carcass or 
+a Character Corpse Object.
+
+Inactive 
+Time token
+Active 
+Time token
+Most parts of the Facility starts the game Powered, but the Power is depleting 
+rapidly – this is represented by the red side of the Time token indicating that 
+the Backup Power is not working yet.
+Section 
+without Power 
+Section 
+with Power 
+A Facility Section is considered to have Power when its Power token is on 
+the blue side. Sections with Power have 4 additional rules:
+1)  Players must use the Advantage Combat die when performing 
+a Shoot Action.
+2)  Players may use the special Computer Actions in the Rooms with 
+a Computer symbol.
+3)  Characters in the given Section are considered to be not in Darkness 
+for any game effects.
+4)  Noise markers in that Section will be removed during the Event Phase.
+More on Advantage die – see page 20.
+More on Computer Actions – see Actions, page 15.
+More on Darkness – see below.
+Darkness 
+As long as Characters stay in Sections without Power, they are considered 
+to be in Darkness. It means that all game effects which happen in Darkness 
+affect them.
+Darkness effects may be found on Event cards (like Lurking), Intruder Attack cards 
+(like Cut), Intruder tokens, etc.
+Note: When the game allows you to ignore the Darkness effect, you may ignore any 
+of the effects menioned above related to Darkness.
+Night Stalker tokens 
+During an Encounter, Characters in Darkness always resolve 
+the higher value of the drawn Intruder token.
+More on Night Stalkers tokens – see page 24.
+restoring power 
+In the S-03 Section, there is a Backup Power Supply Room, which can be 
+used to restore Power to the Facility. It won’t hold for long, but it may be just 
+enough to complete one’s Objectives and successfully Evacuate. 
+The Backup Power Supply Room has three functions: 1) it brings Power to 
+some Facility Sections, 2) it allows Power tokens to be rearranged in the 
+Facility and 3) it slows down the process of the Facility going completely dark.
+Additional Power can be added using the Power Generator Room.
+More on Backup Power Supply and Power Generator Rooms – see Room sheet, 
+pages 27 and 29.
+power Thresholds 
+Power Thresholds are printed on the board, on the Time track. They denote 
+the moments when the Power capacity of the Facility is going to drop.
+There are two types of Power Thresholds:
+Red Thresholds reduce the Power only if the Backup Power is not 
+activated (the Time token is on the red side).
+Blue Thresholds always reduce the Power.
+Note: Blue Thresholds work independently from the Backup Power state. That means 
+the Power capacity drops significantly slower when the Backup Power is active.
+DARKNESS EFFECT EXAMPLE
+The Survivor resolves an Encounter and draws an Intruder token 
+in the Section without Power. She may use a Flashlight Item to 
+resolve the lower value on the token.
+More on Night Stalker tokens – see page 24.
+Each time the Time token crosses any Threshold, check if the Threshold 
+activates. This token, when on the red side, activates when it crosses any 
+Threshold. When it is on the blue side, it activates only when it crosses 
+a Threshold with two Time token symbols – i.e. if the Time token is on the 
+blue side and crosses a red Threshold, it does not activate. 
+If it does activate, the Power in the Facility depletes – flip the active Power 
+token with the highest number to its inactive (red) side.
+Note: Some effects of Action cards (like Bypass) or Event cards (like Power Surge) 
+may turn on or off additional Power and even flip the Time token!
+
+Using the appropriate Items at the right time can mean the difference 
+between life and death. Items can be obtained in a few different ways:
+Most Characters start the game with 1 dedicated Item card.
+Each Character starts the game with 1 Quest Item card. This card is 
+placed face down on its horizontal side. Once its requirements are 
+fulfilled, the card is flipped face up on its vertical side and becomes 
+a normal Item card.
+A Character may also find various Items in Rooms, using the Search 
+Action card.
+More on Search Action – see Searching, page 26.
+A Character may also create special Crafted Items by assembling 
+other Items in their possession using the Craft Basic Action.
+More on Craft Action – see Crafting, page 26.
+Characters may also discover Heavy Objects during the game (Character 
+Corpse, Intruder Carcass and Eggs), which are not represented by cards 
+but by special tokens or miniatures. They can be carried around by the 
+Characters. These Objects are used at specific times – when an Action card, 
+Room Action or Event calls for it (for example, the Laboratory Room Action).
+Important: Some Items are marked as One Use Only. After using such an Item, 
+its card is discarded.
+Whenever an Item card is discarded after use, place it in a  face-up 
+discard pile. When an Item card is discarded without being used (such 
+as with the Search Action), place it face down at the bottom of its deck.
+CHArACTEr HANDS 
+AND iNvENTorY 
+There are two types of Item cards: Heavy Items (kept in the Character’s 
+Hands) and normal Items (kept in the Inventory). 
+Characters may also carry Object tokens. All Object tokens are 
+Heavy Objects.
+iNvENTorY 
+All normal Items may be kept secret from the other players – put them 
+in your Inventory (plastic card holder), so other players can only see the 
+card backs and their colors. However, when any Item card is used, it 
+must be revealed to all the other players. There is no limit to the number 
+of Items that can be placed in your Inventory.
+Hand symbol 
+AND HEAvY iTEMS 
+and oBjECTS 
+Heavy Items (as Weapons) are indicated by the Hand symbol. They 
+can never be kept secret from the other players and cannot be put in 
+the Inventory.
+When you find / gain a Heavy Item (or pick up a Heavy Object) you want 
+to keep, it must be placed in one of the two Hand slots of the Character. 
+A Character may carry up to 2 Heavy Items / Objects.
+More on Hand slots – see Character boards.
+If both of the Character’s Hand slots are already filled and you want to 
+take another Heavy Item / Object, you must Drop 1 of the carried Heavy 
+Items / Objects.
+More on Drop – see below.
+Each Weapon acquired during the game comes into play loaded with an 
+exact amount of Ammo tokens. Two numbers determine any Weapon’s 
+Ammo capacity – the first number indicates the starting value and the 
+second – its maximum Ammo capacity.
+Sometimes, you can Add an Item card to another Item card. The added Item is 
+placed next to the indicated Item card. From now on, both cards are treated as one.
+Important: The Duct Tape Item card allows you to combine 2 Heavy Items, so 
+they take up only 1 Hand slot – but it doesn’t apply to Objects!
+Important: A  Weapon can never exceed its Ammo capacity, shown on the 
+Weapon card.
+Heavy Items are Item cards showing the Hand symbol.
+Heavy Objects are tokens: Intruder Eggs (most often found in the Nest Room), 
+Character Corpse (the Character Corpse token, representing a dead Character), 
+Intruder Carcass (a Carcass token is placed after the death of any Intruder with 
+the exception of Larvae).
+EXAMPLE OF AN ITEM CARD
+MEDKIT
+Heal 1 Dressed Serious Wound.
+1) Blue Component symbol. This means that this card can be used 
+during a Craft Action as a Component for the Neutralizer.
+2) Combat symbol. This symbol indicates that Medkit cannot be 
+used during Combat.
+3) One Use Only. As indicated by the yellow text, Medkit is 
+discarded after use. After performing the Medkit Item Action, the 
+card is discarded to the appropriate discard pile.
+4) Action Cost. You must discard 1 Action card to perform this 
+Action, in addition to the card itself. 
+5) Action Effect. This describes the different outcomes of the Action. 
+Some Actions will have you choose between two different outcomes 
+(provided their conditions are met). Medkit can be used to either 
+dress 1 Serious Wound OR Heal 1 Dressed Serious Wound.
+oBjECTS AND iTEMS 
+Drop 
+A  Character may freely Drop any Item / Object from their Hands / 
+Inventory any time during their turn without using an Action. 
+Objects remain in the Room where they are dropped.
+Items are lost – return them to the bottom of their deck.
+This facility is full of useful stuff. Sometimes 
+you just have to look around the Room for 
+a  few moments. This lightstick might come in 
+handy, those Reagents with a  Zippo will do as 
+a Flamethrower.
+
+CrAFTiNG 
+The fourth (blue) deck of Item cards contains Crafted Items. These Items 
+cannot be found by searching the Rooms. They can be assembled with 
+a Craft Item Basic Action, using other Items in your possession. 
+You may look through the Crafted Item deck at any moment of the game. Cards 
+from it are never drawn during the game. Instead, when Crafting an Item, look 
+for the corresponding Crafted Item card and take it.
+More on the Craft Item Action – see Basic Actions, page 14.
+Crafted Item cards display 2 grey Component symbols representing 
+the Components required to build this Item.
+NEuTrALIZEr
+Scan all cards in your 
+Action deck, hand and discard pile. 
+Remove all INFECTED cards 
+(and a Larva if you have one). 
+Then, shuffle all your Action cards 
+(including those in your hand). 
+After that, you must pass.
+Taser
+Choose 1 Intruder in the Room you 
+are in. It suffers 1 Injury and Retreats.
+1 chosen Character in the Room 
+you are in must discard all cards 
+from their hand.
+CLASSIC WEAPON
+FLAMETHroWEr
+AMMO: 4/4 
+You always deal at least 1 Injury, 
+except on a 
+. 
+If the Combat roll result is 
+, 
+place a Fire marker 
+in the Room you are in.
+ENERGY WEAPON
+pistol
+AMMO: 3/3 
+Unmodified rolls of 
+ 
+are treated as 
+.
+The Item cards that can be used as Components for Crafted Items display 
+a blue Component symbol, representing a specific Component that 
+can be used (by discarding the card) to build a Crafted Item.
+reagent
+Fully load AMMO 
+in a Flamethrower.
+Knowledge 5: Choose 1 Intruder 
+in the Room you are in. It Retreats. 
+Analyze 
+toolset
+Discard 1 Object. 
+Discover 1 Intruder Weakness 
+and gain 3 Knowledge. 
+Scan all Contamination cards 
+in your hand. 
+Ignore any INFECTED result.
+CLoTHES
+Discard a Slime marker. 
+To build a Crafted Item, you must perform a Craft Item Basic Action 
+and discard two Item cards showing the blue Component symbols 
+corresponding to the grey Components symbols of the Crafted Item 
+you want to build (the first Item card corresponding to the first required 
+Component symbol, and the second Item card corresponding to the 
+second required Component symbol). You can build five different Crafted 
+Items during the game:
+ = NEUTRALIZER
+ = TASER
+ = FLAMETHROWER
+ = ENVIRO-SUIT
+ = PISTOL
+A Crafted Item cannot be built if its card is not available, even if you have the 
+required Components.
+More on these 5 Items – see Item cards.
+SEARCH EXAMPLE
+The Survivor performs a Search Action in the Archive. She discards 
+a Search Action card and decreases the Item Counter by one. As 
+the Archive is a White Room, the Survivor can draw 2 Item cards 
+from any one Item deck. She decides to look for Weapons and 
+Ammunition and draws from the Red Item deck.
+The player decides (in secret from the other players) to keep the 
+Weapon Battery and discards (face-down) the Glowstick to the bottom 
+of the Red Item deck. The Weapon Battery is placed into the Survivor’s 
+Inventory, showing only the back of the card to the other players.
+SEArCHiNG 
+Apart from the Character-dedicated Items, there are 4 colors of Items 
+in the game: 
+Red (Military)
+Yellow (Technical)
+Green (Medical)
+Blue (Crafted)
+Three of these decks (red, yellow, green) contain Items which can be 
+found in Rooms when using a Search Action.
+More on Search Action – see Search Action card in the Action decks.
+The color of any Item found during a Search Action should match the color 
+of the searched Room (yellow Items in yellow Room, etc.). A Room’s color 
+is the background color under its name and rule text. When searching in 
+a white Room, the player can choose to draw from any 1 of these 3 decks. 
+Each time a Character performs a Search Action in a Room, the Item 
+Counter of that Room is reduced by 1. When the Item Counter reaches 0, 
+the Room has been emptied and cannot be searched anymore.
+More on Item Counter – see Exploration tokens, page 17.
+quest items 
+Quest Items are NOT available for you to use from the start. Each of them 
+has a special condition you must meet to unlock this Item during the 
+game (specified on the horizontal side of their cards).
+When you manage to activate a Quest Item, you can flip it and treat it 
+as a standard Item (it can occupy a Hand slot, might be discarded, given 
+away, etc.)
+<<< objects and items >>>
+Attacking players
+Years 
+of 
+accumulated 
+knowledge 
+of 
+space subjugation suggest that placing 
+a  small group of people placed in a  hostile 
+underground environment for an extended 
+period 
+generates 
+undesirable 
+tensions. 
+To prevent serious conflict among facility 
+workers, space corporations spend billions of 
+dollars equipping their crews with implants 
+which create a  strong psychic barrier and 
+inhibit direct violence against homo sapiens. 
+This is why neither facility workers nor crew 
+members can directly attack one another.
+Characters cannot directly Attack other Characters, but they may 
+(accidentally or intentionally) harm other Characters as a side effect 
+of their actions. Trapping someone in a Room on fire, activating the 
+Autodestruction sequence3 with people still on board, throwing 
+a Thermite Charge at an Intruder in a Room with other Characters, are 
+just a few of the many possibilities…
+ 
+
+To perform any Room Action, a Character must be in the corresponding 
+Room (unless they possess a special ability clearly saying otherwise).
+You cannot perform a Room Action when you are in Combat.
+You cannot perform a Room Action in a Room with a Malfunction marker.
+rooms with a computer 
+Some Rooms have a  Computer symbol, meaning that 
+there is a Computer in that Room. A Computer symbol 
+enables you to perform a Computer Action.
+If there is a Malfunction marker in the Room, the Computer 
+is unavailable – as if there were no Computer symbol.
+More on Computer Actions – see page 15.
+BASiC rooMS "i" 
+All the 10 Basic Rooms, indicated by the number “I” on their back, are 
+present in each game.
+Examine the Archives
+EXAMINE THE ARCHivES: 
+You may perform this Action only if your 
+Knowledge token is inactive.
+Gain 2 Knowledge and flip your Knowledge token to the 
+active side.
+Then, peek at any Contingency token (even outside of 
+your Section).
+Important: Remember you can never peek at the Active 
+Contingency token.
+More on Knowledge tokens – see Knowledge, page 23.
+More on Contingency peek – see Acquiring Information, page 11.
+Move through Technical 
+Corridors: 
+You may move to a  chosen explored Room 
+with a Technical Corridors Entrance. Draw and resolve an 
+Attack card (treat it as an Attack from an Adult Intruder 
+in Darkness).
+Cooling 
+System
+Initiate 
+Autodestruction Sequence
+Cooling System
+initiate Autodestruction 
+Take the Autodestruction token and place it 
+3 slots forward on the Time track (there should be 2 empty 
+slots between the Time token and Autodestruction token). 
+Place it with the yellow side up.
+Note: As long as the yellow side of the Autodestruction token is 
+visible, players may stop the sequence in the Power Generator.
+a Decontamination 
+Procedure
+perform Decontamination 
+Scan all Contamination cards in your hand. 
+Remove all INFECTED cards. If you have a Larva on your 
+Character board, remove it.
+If you have a  Slime marker on your Character Board, 
+discard it.
+Emergency room
+Treat your wounds: 
+Dress all your Serious Wounds OR Heal 1 of 
+your Dressed Serious Wounds OR Heal all your 
+Light Wounds.
+More on Dressing and Healing Wounds – see page 23.
+Analyze 1 Object
+ANALYZE 1 object: 
+This Action may only be performed if one of the 
+following Objects is in the Room (for example 
+carried by the Character): Intruder Carcass, Character 
+Corpse or Egg.
+Gain 3 Knowledge.
+The Object is placed in the first empty slot on the 
+Laboratory board after Research. Then, the Intruder 
+Weakness card below the Object is discovered.
+If the Object was previously used to discover a Weakness, 
+discard it instead of placing it on the Laboratory board.
+More on Objects and Intruder Weakness cards – see Weakness, 
+page 23.
+System a
+Enter the CSS Pod A
+Cargo Sending System A
+Enter CSS pod:
+You may only use this Action if the Time token is 
+in the same slot as any of the CSS tokens, and 
+the CSS Pod space “A” is empty.
+After Entering, you discard all cards and automatically 
+pass. Place your Character in the corresponding CSS 
+Pod space on the board. In the Event phase, your Character 
+will have a chance to escape using this CSS Pod. 
+Characters in the CSS Pod space are unaffected by any 
+game effects unless specified otherwise.
+If your Character does not manage to escape using the 
+CSS Pod, they suffer 1 Serious Wound.
+More on Cargo Sending System and CSS Pods – see Leaving 
+the Facility, page 11.
+Nest
+The Character who explored this Room, gains 1 Knowledge. 
+This is a one-time effect.
+Take one Egg:
+Take 1 Egg token from the Intruder board. After 
+that, perform a Noise roll.
+The Egg tokens placed on the Laboratory board represent 
+the Eggs in the Nest. When you take (or destroy) Eggs 
+from the Nest, take them from the Laboratory board.
+When there are no more Eggs in the Nest (they have all 
+been carried away or destroyed), the Nest is considered 
+destroyed – place 1 Injury marker in the Nest to 
+represent this.
+If there is a Fire marker in a Room containing uncarried 
+Eggs, destroy 1 uncarried Egg during the Fire Damage 
+step of the Event Phase.
+A Malfunction marker can never be placed in the Nest.
+Note: Remember that an Egg is a Heavy Object – see Objects 
+and Items, page 25.
+Note: You cannot perform any Search Action in this Room.
+DestroYiNG Eggs: 
+Whenever your Character is in a Room with any uncarried 
+Eggs (not carried by any Character), you can try to destroy 
+these Eggs.
+Resolve this Action just as a Shoot Action or Melee Attack 
+Action. Each Injury (of any type) destroys 1 Egg. You do 
+not have to meet the requirement of a Character being 
+“in Combat” for these Actions.
+In the case of a Melee Attack Action, the Character does 
+not draw a Contamination card or suffer Wounds if they 
+miss. 
+After every single attempt to destroy an Egg, you must 
+perform a Noise roll.
+Generator
+Stop Autodestruction Sequence 
+Power a Section
+power Generator
+Stop Autodestruction 
+If there is the Autodestruction token with yellow 
+side up on the Time track, discard it.
+power a Section:
+Flip the Power token of the Section you are in. 
+This can be used to get more Power even if 
+the Power was not restored (i.e. the Time token is on the 
+inactive side).
+rooM SHEET 
+
+Transmitter 
+Control room
+Send a Signal 
+Check an Objective
+transmitter Control 
+Send a Signal:
+Place a Status marker on the Signal space on 
+your Character board.
+Note: Sending a Signal is a requirement for some Objectives, as 
+well as a requirement for one of the Contingencies.
+Check an objective:
+Choose a Character with a Status marker on 
+the Signal space on their Character board. They 
+have to show you their Objective in secret.
+Note: If the chosen player has more than one Objective, they 
+need to show you all of them.
+ADDiTioNAL rooMS "ii"
+Each game, only 6 randomly chosen Additional Rooms are used, out of the 
+9 available. These Rooms are indicated by the number “II” on their back. 
+Enter the CSS Pod B
+CSS B.
+System C
+Enter the CSS Pod C
+System c
+CSS C.
+css control 
+CSS Control System
+Peek at a chosen CSS token. You may move it 
+one slot in any direction on the Time track (even if 
+there is no CSS token slot there).
+You cannot move a CSS token that is on the same slot as 
+the Time token.
+You cannot move a CSS token into a slot with another 
+CSS token.
+Defense Control room
+Exterminate the Threat: 
+Reduce the Item Counter by 1 or place 
+a  Malfunction marker in this Room. Choose 
+a  Room without a  Malfunction marker and with an 
+Intruder. Place a  Malfunction marker in that Room. All 
+Intruders in that Room suffer 1 Injury and each Character 
+in that Room suffers 1 Serious Wound.
+Take Equipment
+Take Equipment: 
+Reduce the Item Counter by 1 and take the 
+Taser Crafted Item or Enviro-Suit Crafted Item.
+Contaminated 
+Gain Slime 
+when Searching
+Contaminated room
+Gain Slime when Searching: 
+Whenever you use a  Search Action in this Room, get 
+a Slime marker.
+A Malfunction marker can never be placed in the Contaminated 
+perform a Surgical 
+Scan all Contamination cards (from your Action 
+deck, hand and discard). Remove all Infected cards.
+If you have a Larva on your Character board, remove it.
+After Scanning, your Character suffers 1 Light Wound 
+and you automatically pass. Shuffle all your Action cards 
+(including those in your hand and discard pile) and place 
+them in your Action deck.
+Note: After a Surgical procedure you always pass your round, 
+and your hand is empty until the start of the next round.
+Take Neutralizer:
+If your Character has at least 4 Knowledge, take 
+the Neutralizer Crafted Item.
+vent Control room
+vent out:
+Choose a  Room with a  Technical Corridors 
+Entrance. The Corridors connected to the Room 
+you choose must not contain any Destroyed Doors. Close 
+the Doors in each Corridor connected to the chosen Room. 
+Remove a Fire marker from that Room (if there is any) 
+and place the Venting token there to represent the active 
+emergency Venting out.
+If any of the Doors in Corridors connected to that Room 
+are Opened or Destroyed before the current Player Phase 
+ends, remove this token immediately.
+If the token remains in the Room at the end of the current 
+Player Phase (after all players have passed), everything 
+in that Room dies immediately (both Characters and 
+Intruders). Then, discard this token.
+ 
+
+SpECiAL rooMS 
+Special Rooms always occupy the same place on the board. These Rooms 
+have their own rules – some of them have specific shapes and are printed 
+on the board.
+Special Rooms are treated as normal Rooms, except that they are explored at 
+the beginning of the game and Characters cannot perform any Search Action 
+in these Rooms. They can receive Fire or Malfunction markers normally.
+Alert room
+Start the Alert procedure: 
+Divide the number on which the Time token 
+is on by 2 (rounding down). Place the Alert 
+Procedure token on this slot of the Time track. The game 
+ends instantly when the Time token leaves the slot 
+containing the Alert Procedure token.
+After activating the Alert Room, the Isolation Room 
+opens immediately; from now on, Characters may lock 
+themselves there, even if the Time token is not on any 
+white slot of the Time track.
+More on Isolation Room – see below.
+pEEK AT CoNTiNGENCY:
+Peek at 1 Contingency token from the Neutral 
+Pool and obtain this token.
+More on Contingency peek – see Acquiring Information, page 11.
+Backup 
+power Supply
+Restore Power
+Backup power Supply
+restore power: 
+When a Character restores Power to the Facility, 
+resolve all of the following:
+1. Reset the Power – Do not perform this step if 3 or 
+more Power tokens are on the active side. The 2 lowest-
+numbered Power tokens must be flipped to the blue side. 
+All the other Power tokens are flipped to the red side. 
+2. Rearrange Power tokens – Simply take all Power 
+tokens and place them in chosen Sections as you wish. 
+Do not flip them.
+Additionally, if the Time token is inactive:
+3. Flip over the Time token to its active side, showing that 
+the Power has been restored.
+More on Time token and Thresholds – see Event Phase, 
+page 13 and Power, page 24.
+Elevator room S-01
+If the Elevator has Power and the Character is not in 
+Combat, they may:
+Call the Elevator: 
+Take the Elevator token and place it next to the 
+Elevator Room in your Section.
+If the Elevator has Power, there is an Elevator token next 
+to this Room and Character is not in Combat, they may:
+use the Elevator:
+Take your Character and the Elevator token. 
+Place them next to the Elevator Room in another 
+Section. You may choose to take any other Characters 
+from the Room you are in with you, only if they agree. Do 
+NOT perform a Noise roll afterwards.
+Elevator room S-02
+As above, but applies to the Elevator Room S-02.
+Elevator room S-03
+As above, but applies to the Elevator Room S-03.
+Emergency Staircases
+They are not in any of the Sections. They are always 
+considered to be in Darkness and should be treated as 
+Black Rooms with no Action.
+Craft Equipment: 
+Characters in this Room may perform the Craft 
+Item Basic Action. If they do, they may discard 
+one fewer Item card to build an Item.
+Only one of two Items with a  matching Component symbol 
+is needed.
+ 
+Lock yourself
+When your Character is in this Room at the start of a new 
+round, draw 1 additional Action card (up to 6 instead of 5).
+The Passive feature of this Room does not work if there is 
+a Malfunction token in the Room.
+Note: This effect takes place even at the start of the game.
+Lock yourself in:
+You may perform this Action only if the Isolation 
+Room is open – the token on the Time track is 
+on any white slot OR the Alert Procedure token is on the 
+Time track.
+Perform a  Noise roll. If any Intruder appears in this 
+Room, your attempt at locking yourself in the Isolation 
+Room fails.
+If no Intruder appears, remove your Character miniature 
+from the game. You managed to lock yourself in safely. 
+From now on, you do not take part in the game any longer. 
+Whether your Character survives or dies along with the 
+Facility will be determined at the End of the Game.
+CHANGE: Other Players still can initiate the Autodestruction 
+sequence when a  Character is already locked in the 
+Isolation Room.
+
+Game Modes 
+Solo & Cooperative 
+mode 
+Solo Mode 
+While Nemesis shines as a semi-cooperative game, you can also try to 
+survive alone.
+This mode has its own special Objectives deck – Solo / Coop Objectives. At 
+the start of the game, draw two cards from this deck, instead of the regular 
+Objective cards. After placing the Active Contingency, draw two tokens from 
+the Neutral pool instead of one.
+Note: Once the first Encounter occurs, you must choose one of these two 
+Objective cards.
+Important: In this mode, the number of Items available in each Room is reduced by 
+half, rounding up (if the Exploration token shows 1–2 Items, set the Item Counter 
+to 1, if 3–4, set the Item Counter to 2).
+To win, you must fulfill your Objective and survive.
+Fully Cooperative Mode 
+This additional game mode is intended for players who want to experience 
+a fully cooperative version of the game, without having to fear betrayal from 
+their companions.
+This mode has its own special Objectives deck – Solo / Coop Objectives.
+At the start of the game, place 1 Contingency token in the Active Contingency 
+slot. The remaining tokens are placed in the Neutral Pool. Draw one of these 
+tokens, revealing it to all players. The rest will be revealed during the game. 
+Place them next to the first revealed token.
+At the start of the game, draw one Solo / Coop card per player, instead of the 
+regular Objective cards. These cards are public information.
+To win the game, ALL these Objectives must be fulfilled and at least 
+1 Character must survive. This means that, e.g. if an Objective is to gain 
+8 Knowledge, the Character fulfilling this Objective must be alive after the 
+Victory Check.
+Note: If there is one card requiring you to send the Signal, only one Character must 
+do it. If there are two or more such requirements, that many Characters must send 
+the Signal!
+revive
+In this fully cooperative mode, the Emergency Room is equipped with 
+a  specialized AutoDoc device, allowing the crew to revive any near-
+death Character.
+Whenever a Character dies, another Character might pick up their Corpse 
+token and carry it to the working Emergency Room.
+A player whose Corpse is in the Emergency Room places their Character 
+miniature there at the start of the next round. All their Light Wounds are 
+discarded, all their Serious Wounds are Dressed.
+Important: The Emergency Room does not work if there’s an Intruder or 
+a Malfunction token in it.
+playing 
+with characters 
+from original 
+nemesis 
+If you have the original Nemesis game, you can use the Characters from 
+this game in Nemesis: Lockdown, pitting well-known Characters against 
+new threats in a new environment of the Martian Facility. Keep in mind that 
+playing with these Nemesis Survivors might be more difficult and a team 
+composed of Nemesis Characters only might face a real challenge.
+Choosing a Character 
+When players choose their Characters, the Character Draft card they select 
+allows them to pick either the Lockdown, the base game, or the Aftermath 
+Character of a chosen color as described on the Character Draft card.
+For example, the red Nemesis Character (the Soldier) can replace the red 
+Lockdown Character (the Survivor).
+After choosing their Character, each player keeps their selected Draft card, 
+preventing any other player from choosing another Character of the same 
+color.
+The two red Characters (the Survivor and the Soldier) can never be in the 
+same game together.
+Nemesis Characters are counted as Nemesis Survivors. They always begin 
+with 3 Knowledge in the Isolation Room. More about their differences – see 
+the details below.
+pilot 
+Use the Pilot Action deck provided with Nemesis: Lockdown.
+The Pilot starts without a Starting Item card.
+Use the Pilot Quest Item card provided with Nemesis: Lockdown.
+others 
+Other Characters (Captain, Scientist, Scout, Soldier and Mechanic) use their 
+Action decks provided with the original Nemesis game.
+These Characters start without a Starting Item card.
+These Characters use their Quest Item cards provided with the Nemesis: 
+Lockdown.
+Aftermath Characters are explained in the Stretch Goal Rulebook.
+ 
+Alternative side 
+of the board 
+This alternative board layout may be used in any game mode, but keep 
+in mind that it may be more difficult to survive and complete some of 
+the Objectives.
+overview 
+The main feature of this board side is that it depicts the Facility complex 
+consisting of an underground base partially built into a  cliff face and 
+a couple of buildings on the Mars surface.
+While the underground base follows the basic Nemesis rules concerning 
+Movement, Noises, etc. the Mars Surface part of the board, Rooms in the 
+Buildings on it and Areas follow their own rules.
+Setup
+During setup, follow the standard rules but use the other side of the board 
+and place Surface Exploration tokens for all Crossroads and Rooms in the 
+Buildings.
+Place the Mars Surface deck next to the board. It is used only in this game 
+mode.
+Surface Exploration tokens
+There are a few new effects on these tokens:
+– Draw 1 card from the red Item deck.
+ – Draw 1 card from the yellow Item deck.
+– Draw 1 card from the green Item deck.
+– Draw and resolve 1 card from the Mars Surface deck. After 
+resolving the card effect, you still perform a  Noise roll 
+(or place a Noise marker) as normal.
+When you have to resolve a Malfunction Exploration token 
+effect on a Crossroads, nothing happens.
+Mars Surface 
+The upper part of the board shows a new type of environment in 
+the Nemesis games – the surface of the planet Mars. It works a bit 
+differently than the rest of the Facility.
+Whenever you are on the surface part of the Facility and you perform 
+a Noise roll, use the Mars Surface die (d12). 
+
+ 
+Crossroads & Areas 
+Crossroads are a special type of a Room which cannot have a Malfunction 
+or a Fire marker. They are connected through Paths. Paths are a special 
+type of a number-less Corridor. Intruders may use a Path to move from 
+one Crossroads to another due to e.g. a Danger effect. Characters can use 
+Paths to move between neighboring Crossroads. Noise markers will never 
+be placed on Paths.
+Two Crossroads (or a Crossroads and an Exit Room) are connected when 
+there is a Path directly between them.
+All Crossroads on the Mars Surface are treated as connected to all Areas. 
+This means that when you perform a Noise roll on a Crossroads, you have 
+to place a Noise marker on the Area with the corresponding number, as you 
+would in a Technical Corridor space. 
+Areas are the parts of the Mars Surface that surround particular Buildings. 
+These are treated as a  special type of Technical Corridors which are 
+connected only to their particular Building. Area number 3 is not connected 
+to any Buildings. Any effects which mention Technical Corridors (e.g. Vents 
+Action card or Cave Entrance Room Action) cannot be applied to Areas.
+Moving on the Mars Surface 
+There are two ways of moving on the Mars Surface: Rover or on foot, using 
+the Movement Action. Characters do not need any additional equipment 
+to move on foot on the surface of Mars, as they are assumed to have 
+rudimentary protection already. Nonetheless, the Enviro-Suit might prove 
+useful, as it provides more protection in case things go wrong.
+Alternative side 
+of the board description
+1)  Mars Surface
+2)  Buildings
+3)  Areas
+4)  Base Exit Rooms
+5)  Cargo Sending System A
+6)  Underground Base
+7)  Repository
+8)  Isolation Room
+9)  Backup Power Supply
+10)  Rover 
+11)  Elevator
+12)  Computer Action
+13)  Main Gate
+14)  Neutral Pool
+using the rover 
+to move around the Mars Surface
+If the Rover is in any of the Exit Rooms, a Character in this Exit Room may 
+use it (provided they are not in Combat) to move to any other Exit Room in 
+the Facility OR to Escape the Facility.
+Move your Character and the Rover to any other Exit Room. When 
+you use the Rover, you do not perform a Noise roll.
+Escaping the Facility using rover
+If the Rover is in the Exit Room you are in, simply move the Rover 
+with your Character to the Bunker. You managed to Escape the 
+Facility safely. Place your Character miniature in the Bunker to 
+mark this.
+using the Movement Action 
+to move around the Mars Surface 
+Characters can use the Movement Action to move from an Exit Room 
+to a connected Crossroads or between connected Crossroads.
+Two Crossroads (or a Crossroads and an Exit Room) are connected when 
+there is a Path directly between them.
+After placing your Character on a Crossroads, perform the standard steps 
+as you would in a normal Movement Action, i.e. reveal a Surface Exploration 
+token (if there is one lying on the Crossroads) and resolve it. After that 
+perform a NOISE ROLL. If there is an Intruder or other Character on the 
+Crossroads, do not perform a NOISE ROLL.
+Remember to use the Mars Surface die when you 
+perform a Noise roll on the Mars Surface.
+NOISE ROLL IN A BUILDING EXAMPLE
+The Survivor moved to the Surgery Room. The Surgery Room is 
+on the surface part of the Facility, so the NOISE ROLL is performed 
+with the Mars Surface die. The result is 1, so a Noise marker (green 
+glow) is placed on the Area with the number “1”.
+If the Area “1” already contains a Noise marker, an Encounter would 
+take place. Luckily for the Survivor, everything is fine… for now.
+THE NOISE ROLL ON A CROSSROADS EXAMPLE
+This time the Survivor moves on a Crossroads. The result on the 
+Mars Surface die is 3, so a Noise marker (green glow) is placed on 
+the corresponding Area.
+
+using the intruders 
+in games of 
+NEMEsis: LoCKDoWN
+playing with intruders 
+Nemesis: Lockdown allows you to use the Intruders – the race provided 
+with the original Nemesis game. Intruders mainly follow basic rules found in 
+Nemesis: Lockdown Game Manual with a few changes listed below.
+To play with them you need Intruder components provided with the original Nemesis 
+game and Nemesis: Lockdown cards and tokens provided in this box. Remove 
+from the game Vulnerability to Fire and Susceptibility to Phosphates Intruder 
+Weakness cards.
+Setup 
+9]  Place the Intruders Laboratory board (it’s on the other side of the 
+Night Stalkers Laboratory board) next to the board and place the 
+following components in the corresponding slots:
+ – 5 Egg tokens in the Nest slot,
+ – 3 random Intruders Weakness cards, placed face down.
+Put all remaining Weakness cards back in the box.
+10]  Change Night Stalker tokens with Intruder tokens.
+11]  Place the Lockdown Intruders Event deck (instead of the basic 
+Intruders Event deck) and Intruders Attack deck next to the board. 
+Resolve the rest of this step as stated in the basic rules.
+Discovering intruder Weakness
+Discovering a  Weakness follows Nemesis: Lockdown rules with the 
+exception that a revealed Weakness card is active for all players without the 
+need to reach certain Knowledge levels.
+Note: In comparison to Night Stalker Weaknesses, the first Intruder Weakness card is 
+not discovered. Characters may discover it following the basic Nemesis: Lockdown 
+rules.
+Mars Surface die & deck 
+The Mars Surface die is a special, 12-sided Noise die, used only 
+on some parts of the alternative side of the board. All of the 
+places, i.e. Crossroads and Corridors in the Buildings, requiring 
+the use of this die in Noise rolls are marked appropriately.
+Results of 1–4 and Silence are resolved as per normal rules.
+Results of Danger, when rolled in a Building, are resolved as per normal 
+rules. Keep in mind that the Area surrounding the Building is treated as 
+a Technical Corridor connected to all Rooms in that Building.
+When rolled on a Crossroads, move all Intruders on the Mars Surface (except 
+those in Buildings or in Combat) to the Crossroads with the Character who 
+rolled this result. If there are no Intruders eligible to be moved, place a Noise 
+marker in each Area that does not have a Noise marker.
+There is one new symbol on the Mars Surface die. When you 
+roll this result, draw and resolve a Mars Surface card.
+The Mars Surface deck is a new deck of cards which describes 
+various occurrences which can happen to the Characters when 
+roaming about the hostile surface of Mars.
+Each card is divided into two parts. The upper part is applied either to all 
+Characters currently on the Mars Surface or to the Character who drew the 
+card, depending on the text, unless the Character has an Enviro-Suit Item or 
+is in a Building. Those Characters apply the bottom part of the card.
+EXAMPLE OF A MARS SURFACE CARD
+radioactive dust
+Your Character gets 
+1 Contamination card 
+and a Slime marker.
+Your Character gets 
+1 Contamination card.
+1) Title
+2) General effect of a Mars Surface card
+3) Enviro-Suit effect of a Mars Surface card
+Buildings 
+Buildings are clusters of Rooms. They work like other Rooms in the Facility, 
+with a few exceptions:
+ – They provide some protection against the effects of Mars Surface 
+cards, as indicated by the Enviro-Suit symbol.
+ – Buildings can be accessed through a Room connected by a Path to 
+a Crossroads. This Room is called the Exit Room.
+ – You can move between Buildings either on foot or using a Rover.
+Whenever you have to perform a Noise roll on the Mars Surface and you 
+are in a Building, and the result corresponds to this Building’s Area, place 
+a Noise marker on that Area as you would in a Corridor.
+Escape the Facility Action
+In order to Escape the Facility to the Bunker, a Character must 
+be on a Crossroads connected by a Path to the Bunker, have an 
+Enviro-Suit Item and perform a Noise roll. If any Intruder shows 
+up in this Room, your attempt to Escape the Facility fails. If no 
+Intruder appears, you may Escape the Facility and move your 
+Character to that Bunker. You managed to Escape safely.
