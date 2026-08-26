@@ -8910,10 +8910,11 @@ games:
 - name: 'Nemesis: Lockdown'
   bgg_id: 310100
   bgg_rank: 129
-  status: validated
+  status: verified
   notes: ''
   year: 2022
   pdf_url: https://cdn.1j1ju.com/medias/0f/4f/16-nemesis-lockdown-rulebook.pdf
+  verified_date: '2026-08-26'
 - name: Nucleum
   bgg_id: 396790
   bgg_rank: 131

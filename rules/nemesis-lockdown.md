@@ -7,9 +7,17 @@ designer: "Adam Kwapiński"
 source_pdf: "nemesis-lockdown-rules.pdf"
 extracted_date: "2026-08-26"
 summarized_date: "2026-08-26"
+verification: "verified"
+verification_date: "2026-08-26"
 ---
 
 # Nemesis: Lockdown
+
+<!-- verification:begin -->
+> ✅ **Verified** — this summary was fact-checked against the rulebook text and no significant issues were found.
+>
+> 📄 [Full rulebook text](https://lehi-innovation.github.io/boardgame-rules/extracted/nemesis-lockdown-rules.txt) · 🚩 [Report a rules error](https://github.com/Lehi-Innovation/boardgame-rules/issues/new?template=rule-error.yml&labels=rule-error&title=%5BRule%20error%5D%20Nemesis%3A%20Lockdown&game=nemesis-lockdown)
+<!-- verification:end -->
 
 ## Overview
 
