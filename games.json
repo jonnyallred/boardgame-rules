@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-18",
+ "generated": "2026-08-26",
  "site": "https://lehi-innovation.github.io/boardgame-rules",
- "count": 1664,
+ "count": 1665,
  "games": [
   {
    "title": "10 Days in Europe",
@@ -12947,6 +12947,16 @@
    "verification": "verified",
    "summary_url": "https://lehi-innovation.github.io/boardgame-rules/rules/nemesis/",
    "rulebook_text_url": "https://lehi-innovation.github.io/boardgame-rules/extracted/nemesis-rules.txt"
+  },
+  {
+   "title": "Nemesis: Lockdown",
+   "slug": "nemesis-lockdown",
+   "bgg_id": 310100,
+   "player_count": "1-5",
+   "play_time": "90-180 min",
+   "verification": "verified",
+   "summary_url": "https://lehi-innovation.github.io/boardgame-rules/rules/nemesis-lockdown/",
+   "rulebook_text_url": "https://lehi-innovation.github.io/boardgame-rules/extracted/nemesis-lockdown-rules.txt"
   },
   {
    "title": "Neuroshima Hex!",

@@ -8910,10 +8910,11 @@ games:
 - name: 'Nemesis: Lockdown'
   bgg_id: 310100
   bgg_rank: 129
-  status: pending
-  notes: Registered from BGG top-200 mirror (2026-08-05); PDF hunt requires normal
-    network access.
+  status: verified
+  notes: ''
   year: 2022
+  pdf_url: https://cdn.1j1ju.com/medias/0f/4f/16-nemesis-lockdown-rulebook.pdf
+  verified_date: '2026-08-26'
 - name: Nucleum
   bgg_id: 396790
   bgg_rank: 131
@@ -9271,3 +9272,15 @@ games:
   player_count: 1-6
   play_time: 20-180 min
   pdf_url: https://cdn.1j1ju.com/medias/4f/3f/72-zombicide-rulebook.pdf
+- name: 'Nemesis: Retaliation'
+  bgg_id: 381248
+  status: not_found
+  player_count: 1-5
+  designer: "Adam Kwapi\u0144ski"
+  notes: 'Standalone 2025 sequel in the Nemesis series. PDF hunt (2026-08-26): official
+    rulebook is not reachable by automated tools in this environment -- BGG game/family/file
+    pages all return 403 (bot-blocked), Kickstarter update page 403, Wayback CDX API
+    403, and awakenrealms.com/download is a client-rendered SPA with no server-side
+    data (Playwright headless render also failed: proxy TLS handshake reset). Found
+    only expansion-specific PDFs (e.g. Sangrevore) and third-party summaries (Scribd),
+    not the core rulebook. Needs a manually-downloaded PDF placed at source_pdfs/nemesis-retaliation-rules.pdf.'

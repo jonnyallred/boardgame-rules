@@ -1480,6 +1480,7 @@ Every game page has a **Report a rules error** link. Reports are verified agains
 | [Nanuk](rules/nanuk/) | 5-8 | 45 min | Mark Goadrich, Brett Myers | ✅ |
 | [Navegador](rules/navegador/) | 2-5 | 60-90 min | Mac Gerdts | ✅ |
 | [Nemesis](rules/nemesis/) | 1-5 | 90-180 min | Adam Kwapiński | ✅ |
+| [Nemesis: Lockdown](rules/nemesis-lockdown/) | 1-5 | 90-180 min | Adam Kwapiński | ✅ |
 | [Neuroshima Hex!](rules/neuroshima-hex/) | 2-4 | 30 min | Michal Oracz | ✅ |
 | [Newton](rules/newton/) | 1-4 | 90 min | Simone Luciani, Nestore Mangone | ✅ |
 | [Next Station: London](rules/next-station-london/) | 1-4 | 25 min | Matthew Dunstan | ✅ |

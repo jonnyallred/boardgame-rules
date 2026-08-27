@@ -2950,6 +2950,10 @@ nemesis:
   batch: top-002
   reason: ''
   verdict: PASS
+nemesis-lockdown:
+  batch: verify-pipeline
+  reason: ''
+  verdict: PASS
 neuroshima-hex:
   batch: b151
   reason: ''

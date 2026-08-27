@@ -1169,10 +1169,10 @@ games:
   name: 'Nemesis: Lockdown'
   year: 2022
   slug: nemesis-lockdown
-  registry_status: pending
-  verification: null
-  notes: registered; blocked this session (network-restricted, cannot fetch PDFs)
-  action: find_pdf
+  registry_status: verified
+  verification: verified
+  notes: ''
+  action: done
 - rank: 130
   bgg_id: 236457
   name: Architects of the West Kingdom
